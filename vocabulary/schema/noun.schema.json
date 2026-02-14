@@ -1,0 +1,131 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://papertek.no/schemas/vocabulary/noun.schema.json",
+  "title": "Noun Schema",
+  "description": "Schema for noun entries with gender, plural, and case declensions",
+  "type": "object",
+  "additionalProperties": {
+    "$ref": "#/$defs/nounEntry"
+  },
+  "$defs": {
+    "nounEntry": {
+      "type": "object",
+      "properties": {
+        "word": {
+          "type": "string",
+          "description": "The noun in target language (without article)"
+        },
+        "audio": {
+          "type": "string",
+          "description": "Audio filename"
+        },
+        "type": {
+          "type": "string",
+          "const": "noun"
+        },
+        "intro": {
+          "type": "string",
+          "pattern": "^[0-9]+\\.[0-9]+$"
+        },
+        "genus": {
+          "type": "string",
+          "description": "Grammatical gender",
+          "enum": ["m", "f", "n", "c", "pl"]
+        },
+        "plural": {
+          "type": "string",
+          "description": "Plural form (with article if applicable)"
+        },
+        "nounClass": {
+          "type": "string",
+          "description": "Noun class for languages like Swahili"
+        },
+        "translations": {
+          "$ref": "core-word.schema.json#/$defs/translations"
+        },
+        "definite_translations": {
+          "type": "object",
+          "description": "Definite form translations (e.g., 'hunden' for Norwegian)",
+          "propertyNames": {
+            "pattern": "^[a-z]{2}$"
+          },
+          "additionalProperties": {
+            "type": "string"
+          }
+        },
+        "synonyms": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "translation_synonyms": {
+          "$ref": "core-word.schema.json#/$defs/translationSynonyms"
+        },
+        "explanations": {
+          "$ref": "core-word.schema.json#/$defs/explanations"
+        },
+        "declension": {
+          "$ref": "#/$defs/declension"
+        },
+        "cases": {
+          "$ref": "#/$defs/cases"
+        }
+      },
+      "required": ["translations"]
+    },
+    "declension": {
+      "type": "object",
+      "description": "Number-based declension (singular/plural × definite/indefinite)",
+      "properties": {
+        "entall": { "$ref": "#/$defs/numberForms" },
+        "flertall": { "$ref": "#/$defs/numberForms" },
+        "singular": { "$ref": "#/$defs/numberForms" },
+        "plural": { "$ref": "#/$defs/numberForms" }
+      }
+    },
+    "numberForms": {
+      "type": "object",
+      "properties": {
+        "ubestemt": { "$ref": "#/$defs/formEntry" },
+        "bestemt": { "$ref": "#/$defs/formEntry" },
+        "indefinite": { "$ref": "#/$defs/formEntry" },
+        "definite": { "$ref": "#/$defs/formEntry" }
+      }
+    },
+    "formEntry": {
+      "type": "object",
+      "properties": {
+        "form": { "type": "string" }
+      },
+      "required": ["form"]
+    },
+    "cases": {
+      "type": "object",
+      "description": "Case declensions (nominative, accusative, dative, genitive)",
+      "additionalProperties": {
+        "$ref": "#/$defs/caseEntry"
+      }
+    },
+    "caseEntry": {
+      "type": "object",
+      "properties": {
+        "intro": {
+          "type": "string",
+          "pattern": "^[0-9]+\\.[0-9]+$"
+        },
+        "feature": {
+          "type": "string",
+          "description": "Grammar feature flag"
+        },
+        "forms": {
+          "type": "object",
+          "properties": {
+            "bestemt": { "type": "string" },
+            "ubestemt": { "type": "string" },
+            "definite": { "type": "string" },
+            "indefinite": { "type": "string" }
+          }
+        }
+      }
+    }
+  }
+}

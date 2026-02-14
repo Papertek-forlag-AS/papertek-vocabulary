@@ -1,0 +1,520 @@
+{
+  "_metadata": {
+    "description": "French numbers (Nombres) - cardinal and ordinal numbers",
+    "purpose": "Stores number words for vocabulary training.",
+    "wordIdSuffix": "_tallord",
+    "notes": {
+      "70-99": "French uses base-20 system: 70=soixante-dix (60+10), 80=quatre-vingts (4x20), 90=quatre-vingt-dix (4x20+10)",
+      "liaison": "Numbers ending in vowels may require liaison with following words"
+    },
+    "keyFields": [
+      "word",
+      "translations",
+      "type"
+    ],
+    "usedBy": [
+      "Flashcards",
+      "Write mode"
+    ]
+  },
+  "zero_num": {
+    "word": "zero",
+    "type": "num",
+    "value": 0,
+    "translations": {
+      "nb": "null",
+      "en": "zero"
+    }
+  },
+  "un_num": {
+    "word": "un",
+    "type": "num",
+    "value": 1,
+    "forms": {
+      "m": "un",
+      "f": "une"
+    },
+    "translations": {
+      "nb": "en/ett",
+      "en": "one"
+    }
+  },
+  "deux_num": {
+    "word": "deux",
+    "type": "num",
+    "value": 2,
+    "translations": {
+      "nb": "to",
+      "en": "two"
+    }
+  },
+  "trois_num": {
+    "word": "trois",
+    "type": "num",
+    "value": 3,
+    "translations": {
+      "nb": "tre",
+      "en": "three"
+    }
+  },
+  "quatre_num": {
+    "word": "quatre",
+    "type": "num",
+    "value": 4,
+    "translations": {
+      "nb": "fire",
+      "en": "four"
+    }
+  },
+  "cinq_num": {
+    "word": "cinq",
+    "type": "num",
+    "value": 5,
+    "translations": {
+      "nb": "fem",
+      "en": "five"
+    }
+  },
+  "six_num": {
+    "word": "six",
+    "type": "num",
+    "value": 6,
+    "translations": {
+      "nb": "seks",
+      "en": "six"
+    }
+  },
+  "sept_num": {
+    "word": "sept",
+    "type": "num",
+    "value": 7,
+    "translations": {
+      "nb": "sju",
+      "en": "seven"
+    }
+  },
+  "huit_num": {
+    "word": "huit",
+    "type": "num",
+    "value": 8,
+    "translations": {
+      "nb": "atte",
+      "en": "eight"
+    }
+  },
+  "neuf_num": {
+    "word": "neuf",
+    "type": "num",
+    "value": 9,
+    "translations": {
+      "nb": "ni",
+      "en": "nine"
+    }
+  },
+  "dix_num": {
+    "word": "dix",
+    "type": "num",
+    "value": 10,
+    "translations": {
+      "nb": "ti",
+      "en": "ten"
+    }
+  },
+  "onze_num": {
+    "word": "onze",
+    "type": "num",
+    "value": 11,
+    "translations": {
+      "nb": "elleve",
+      "en": "eleven"
+    }
+  },
+  "douze_num": {
+    "word": "douze",
+    "type": "num",
+    "value": 12,
+    "translations": {
+      "nb": "tolv",
+      "en": "twelve"
+    }
+  },
+  "treize_num": {
+    "word": "treize",
+    "type": "num",
+    "value": 13,
+    "translations": {
+      "nb": "tretten",
+      "en": "thirteen"
+    }
+  },
+  "quatorze_num": {
+    "word": "quatorze",
+    "type": "num",
+    "value": 14,
+    "translations": {
+      "nb": "fjorten",
+      "en": "fourteen"
+    }
+  },
+  "quinze_num": {
+    "word": "quinze",
+    "type": "num",
+    "value": 15,
+    "translations": {
+      "nb": "femten",
+      "en": "fifteen"
+    }
+  },
+  "seize_num": {
+    "word": "seize",
+    "type": "num",
+    "value": 16,
+    "translations": {
+      "nb": "seksten",
+      "en": "sixteen"
+    }
+  },
+  "dix_sept_num": {
+    "word": "dix-sept",
+    "type": "num",
+    "value": 17,
+    "translations": {
+      "nb": "sytten",
+      "en": "seventeen"
+    }
+  },
+  "dix_huit_num": {
+    "word": "dix-huit",
+    "type": "num",
+    "value": 18,
+    "translations": {
+      "nb": "atten",
+      "en": "eighteen"
+    }
+  },
+  "dix_neuf_num": {
+    "word": "dix-neuf",
+    "type": "num",
+    "value": 19,
+    "translations": {
+      "nb": "nitten",
+      "en": "nineteen"
+    }
+  },
+  "vingt_num": {
+    "word": "vingt",
+    "type": "num",
+    "value": 20,
+    "translations": {
+      "nb": "tjue",
+      "en": "twenty"
+    }
+  },
+  "vingt_et_un_num": {
+    "word": "vingt et un",
+    "type": "num",
+    "value": 21,
+    "forms": {
+      "m": "vingt et un",
+      "f": "vingt et une"
+    },
+    "translations": {
+      "nb": "tjueen",
+      "en": "twenty-one"
+    }
+  },
+  "vingt_deux_num": {
+    "word": "vingt-deux",
+    "type": "num",
+    "value": 22,
+    "translations": {
+      "nb": "tjueto",
+      "en": "twenty-two"
+    }
+  },
+  "trente_num": {
+    "word": "trente",
+    "type": "num",
+    "value": 30,
+    "translations": {
+      "nb": "tretti",
+      "en": "thirty"
+    }
+  },
+  "trente_et_un_num": {
+    "word": "trente et un",
+    "type": "num",
+    "value": 31,
+    "forms": {
+      "m": "trente et un",
+      "f": "trente et une"
+    },
+    "translations": {
+      "nb": "trettiett",
+      "en": "thirty-one"
+    }
+  },
+  "quarante_num": {
+    "word": "quarante",
+    "type": "num",
+    "value": 40,
+    "translations": {
+      "nb": "forti",
+      "en": "forty"
+    }
+  },
+  "cinquante_num": {
+    "word": "cinquante",
+    "type": "num",
+    "value": 50,
+    "translations": {
+      "nb": "femti",
+      "en": "fifty"
+    }
+  },
+  "soixante_num": {
+    "word": "soixante",
+    "type": "num",
+    "value": 60,
+    "translations": {
+      "nb": "seksti",
+      "en": "sixty"
+    }
+  },
+  "soixante_dix_num": {
+    "word": "soixante-dix",
+    "type": "num",
+    "value": 70,
+    "note": "Literally '60-10'",
+    "translations": {
+      "nb": "sytti",
+      "en": "seventy"
+    }
+  },
+  "soixante_et_onze_num": {
+    "word": "soixante et onze",
+    "type": "num",
+    "value": 71,
+    "note": "Literally '60 and 11'",
+    "translations": {
+      "nb": "syttien",
+      "en": "seventy-one"
+    }
+  },
+  "soixante_douze_num": {
+    "word": "soixante-douze",
+    "type": "num",
+    "value": 72,
+    "translations": {
+      "nb": "syttito",
+      "en": "seventy-two"
+    }
+  },
+  "quatre_vingts_num": {
+    "word": "quatre-vingts",
+    "type": "num",
+    "value": 80,
+    "note": "Literally '4 twenties'. Note the 's' when alone.",
+    "translations": {
+      "nb": "atti",
+      "en": "eighty"
+    }
+  },
+  "quatre_vingt_un_num": {
+    "word": "quatre-vingt-un",
+    "type": "num",
+    "value": 81,
+    "note": "No 's' on vingt when followed by another number",
+    "forms": {
+      "m": "quatre-vingt-un",
+      "f": "quatre-vingt-une"
+    },
+    "translations": {
+      "nb": "attien",
+      "en": "eighty-one"
+    }
+  },
+  "quatre_vingt_dix_num": {
+    "word": "quatre-vingt-dix",
+    "type": "num",
+    "value": 90,
+    "note": "Literally '4 twenties 10'",
+    "translations": {
+      "nb": "nitti",
+      "en": "ninety"
+    }
+  },
+  "quatre_vingt_onze_num": {
+    "word": "quatre-vingt-onze",
+    "type": "num",
+    "value": 91,
+    "translations": {
+      "nb": "nittien",
+      "en": "ninety-one"
+    }
+  },
+  "cent_num": {
+    "word": "cent",
+    "type": "num",
+    "value": 100,
+    "translations": {
+      "nb": "hundre",
+      "en": "hundred"
+    }
+  },
+  "deux_cents_num": {
+    "word": "deux cents",
+    "type": "num",
+    "value": 200,
+    "note": "'Cents' takes 's' only when not followed by another number",
+    "translations": {
+      "nb": "to hundre",
+      "en": "two hundred"
+    }
+  },
+  "mille_num": {
+    "word": "mille",
+    "type": "num",
+    "value": 1000,
+    "note": "Mille is invariable (never takes 's')",
+    "translations": {
+      "nb": "tusen",
+      "en": "thousand"
+    }
+  },
+  "un_million_num": {
+    "word": "un million",
+    "type": "num",
+    "value": 1000000,
+    "translations": {
+      "nb": "en million",
+      "en": "one million"
+    }
+  },
+  "premier_ord": {
+    "word": "premier",
+    "type": "ordinal",
+    "value": 1,
+    "forms": {
+      "m": "premier",
+      "f": "premiere"
+    },
+    "translations": {
+      "nb": "forste",
+      "en": "first"
+    }
+  },
+  "deuxieme_ord": {
+    "word": "deuxieme",
+    "type": "ordinal",
+    "value": 2,
+    "note": "Also 'second/seconde' when only two items",
+    "translations": {
+      "nb": "andre",
+      "en": "second"
+    }
+  },
+  "troisieme_ord": {
+    "word": "troisieme",
+    "type": "ordinal",
+    "value": 3,
+    "translations": {
+      "nb": "tredje",
+      "en": "third"
+    }
+  },
+  "quatrieme_ord": {
+    "word": "quatrieme",
+    "type": "ordinal",
+    "value": 4,
+    "translations": {
+      "nb": "fjerde",
+      "en": "fourth"
+    }
+  },
+  "cinquieme_ord": {
+    "word": "cinquieme",
+    "type": "ordinal",
+    "value": 5,
+    "translations": {
+      "nb": "femte",
+      "en": "fifth"
+    }
+  },
+  "sixieme_ord": {
+    "word": "sixieme",
+    "type": "ordinal",
+    "value": 6,
+    "translations": {
+      "nb": "sjette",
+      "en": "sixth"
+    }
+  },
+  "septieme_ord": {
+    "word": "septieme",
+    "type": "ordinal",
+    "value": 7,
+    "translations": {
+      "nb": "sjuende",
+      "en": "seventh"
+    }
+  },
+  "huitieme_ord": {
+    "word": "huitieme",
+    "type": "ordinal",
+    "value": 8,
+    "translations": {
+      "nb": "attende",
+      "en": "eighth"
+    }
+  },
+  "neuvieme_ord": {
+    "word": "neuvieme",
+    "type": "ordinal",
+    "value": 9,
+    "note": "Note spelling change from 'neuf'",
+    "translations": {
+      "nb": "niende",
+      "en": "ninth"
+    }
+  },
+  "dixieme_ord": {
+    "word": "dixieme",
+    "type": "ordinal",
+    "value": 10,
+    "translations": {
+      "nb": "tiende",
+      "en": "tenth"
+    }
+  },
+  "vingtieme_ord": {
+    "word": "vingtieme",
+    "type": "ordinal",
+    "value": 20,
+    "translations": {
+      "nb": "tjuende",
+      "en": "twentieth"
+    }
+  },
+  "centieme_ord": {
+    "word": "centieme",
+    "type": "ordinal",
+    "value": 100,
+    "translations": {
+      "nb": "hundrede",
+      "en": "hundredth"
+    }
+  },
+  "dernier_ord": {
+    "word": "dernier",
+    "type": "ordinal",
+    "forms": {
+      "m": "dernier",
+      "f": "derniere"
+    },
+    "translations": {
+      "nb": "siste",
+      "en": "last"
+    }
+  }
+}

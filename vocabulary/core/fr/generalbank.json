@@ -1,0 +1,1479 @@
+{
+  "_metadata": {
+    "description": "French general vocabulary",
+    "purpose": "General vocabulary for French curriculum - adverbs, prepositions, conjunctions, interjections, and expressions",
+    "wordIdSuffix": "_interjeksjon, _frase, _sporsmord, _preposisjon, _adverb, _konjunksjon, _utrykk",
+    "keyFields": [
+      "word",
+      "translations",
+      "type"
+    ],
+    "usedBy": [
+      "Flashcards",
+      "Write mode",
+      "Grammar tooltips"
+    ],
+    "note": "Does NOT include: verbs, nouns, adjectives, numbers, pronouns, articles - these have their own banks"
+  },
+  "oui_interj": {
+    "word": "oui",
+    "type": "interj",
+    "translations": {
+      "nb": "ja",
+      "en": "yes"
+    }
+  },
+  "non_interj": {
+    "word": "non",
+    "type": "interj",
+    "translations": {
+      "nb": "nei",
+      "en": "no"
+    }
+  },
+  "si_interj": {
+    "word": "si",
+    "type": "interj",
+    "translations": {
+      "nb": "jo (motsvar)",
+      "en": "yes (contradicting negative)"
+    },
+    "note": "Used to contradict a negative statement"
+  },
+  "bien_interj": {
+    "word": "bien",
+    "type": "interj",
+    "translations": {
+      "nb": "bra, greit",
+      "en": "good, well"
+    }
+  },
+  "super_interj": {
+    "word": "super !",
+    "type": "interj",
+    "translations": {
+      "nb": "super!",
+      "en": "great!"
+    }
+  },
+  "genial_interj": {
+    "word": "genial !",
+    "type": "interj",
+    "translations": {
+      "nb": "fantastisk!",
+      "en": "great!"
+    }
+  },
+  "formidable_interj": {
+    "word": "formidable !",
+    "type": "interj",
+    "translations": {
+      "nb": "fantastisk!",
+      "en": "wonderful!"
+    }
+  },
+  "chouette_interj": {
+    "word": "chouette !",
+    "type": "interj",
+    "translations": {
+      "nb": "kjempebra!",
+      "en": "great! cool!"
+    }
+  },
+  "zut_interj": {
+    "word": "zut !",
+    "type": "interj",
+    "translations": {
+      "nb": "pokker!",
+      "en": "darn!"
+    }
+  },
+  "mince_interj": {
+    "word": "mince !",
+    "type": "interj",
+    "translations": {
+      "nb": "soren!",
+      "en": "darn!"
+    }
+  },
+  "oh_la_la_interj": {
+    "word": "oh la la !",
+    "type": "interj",
+    "translations": {
+      "nb": "oi oi oi!",
+      "en": "oh my!"
+    }
+  },
+  "bravo_interj": {
+    "word": "bravo !",
+    "type": "interj",
+    "translations": {
+      "nb": "bravo!",
+      "en": "well done!"
+    }
+  },
+  "attention_interj": {
+    "word": "attention !",
+    "type": "interj",
+    "translations": {
+      "nb": "pass opp!",
+      "en": "watch out!"
+    }
+  },
+  "bienvenue_interj": {
+    "word": "bienvenue !",
+    "type": "interj",
+    "translations": {
+      "nb": "velkommen!",
+      "en": "welcome!"
+    }
+  },
+  "voila_interj": {
+    "word": "voila",
+    "type": "interj",
+    "translations": {
+      "nb": "se her, var sa god",
+      "en": "there you go, here it is"
+    }
+  },
+  "et_conj": {
+    "word": "et",
+    "type": "conj",
+    "translations": {
+      "nb": "og",
+      "en": "and"
+    }
+  },
+  "ou_conj": {
+    "word": "ou",
+    "type": "conj",
+    "translations": {
+      "nb": "eller",
+      "en": "or"
+    }
+  },
+  "mais_conj": {
+    "word": "mais",
+    "type": "conj",
+    "translations": {
+      "nb": "men",
+      "en": "but"
+    }
+  },
+  "donc_conj": {
+    "word": "donc",
+    "type": "conj",
+    "translations": {
+      "nb": "altsa, sa",
+      "en": "so, therefore"
+    }
+  },
+  "or_conj": {
+    "word": "or",
+    "type": "conj",
+    "translations": {
+      "nb": "men (imidlertid)",
+      "en": "now, however"
+    }
+  },
+  "ni_conj": {
+    "word": "ni",
+    "type": "conj",
+    "translations": {
+      "nb": "verken",
+      "en": "neither, nor"
+    }
+  },
+  "car_conj": {
+    "word": "car",
+    "type": "conj",
+    "translations": {
+      "nb": "for",
+      "en": "for, because"
+    }
+  },
+  "parce_que_conj": {
+    "word": "parce que",
+    "type": "conj",
+    "translations": {
+      "nb": "fordi",
+      "en": "because"
+    }
+  },
+  "puisque_conj": {
+    "word": "puisque",
+    "type": "conj",
+    "translations": {
+      "nb": "ettersom, siden",
+      "en": "since, as"
+    }
+  },
+  "que_conj": {
+    "word": "que",
+    "type": "conj",
+    "translations": {
+      "nb": "at",
+      "en": "that"
+    }
+  },
+  "si_conj": {
+    "word": "si",
+    "type": "conj",
+    "translations": {
+      "nb": "hvis, om",
+      "en": "if"
+    }
+  },
+  "quand_conj": {
+    "word": "quand",
+    "type": "conj",
+    "translations": {
+      "nb": "nar",
+      "en": "when"
+    }
+  },
+  "comme_conj": {
+    "word": "comme",
+    "type": "conj",
+    "translations": {
+      "nb": "som, siden",
+      "en": "as, like, since"
+    }
+  },
+  "pendant_que_conj": {
+    "word": "pendant que",
+    "type": "conj",
+    "translations": {
+      "nb": "mens",
+      "en": "while"
+    }
+  },
+  "bien_que_conj": {
+    "word": "bien que",
+    "type": "conj",
+    "translations": {
+      "nb": "selv om",
+      "en": "although"
+    },
+    "note": "Followed by subjunctive"
+  },
+  "pour_que_conj": {
+    "word": "pour que",
+    "type": "conj",
+    "translations": {
+      "nb": "for at",
+      "en": "so that"
+    },
+    "note": "Followed by subjunctive"
+  },
+  "a_prep": {
+    "word": "a",
+    "type": "prep",
+    "translations": {
+      "nb": "til, i, pa",
+      "en": "to, at, in"
+    },
+    "note": "Contracts with le to 'au', with les to 'aux'"
+  },
+  "de_prep": {
+    "word": "de",
+    "type": "prep",
+    "translations": {
+      "nb": "av, fra",
+      "en": "of, from"
+    },
+    "note": "Contracts with le to 'du', with les to 'des'"
+  },
+  "dans_prep": {
+    "word": "dans",
+    "type": "prep",
+    "translations": {
+      "nb": "i, inni",
+      "en": "in, inside"
+    }
+  },
+  "sur_prep": {
+    "word": "sur",
+    "type": "prep",
+    "translations": {
+      "nb": "pa, over",
+      "en": "on, upon"
+    }
+  },
+  "sous_prep": {
+    "word": "sous",
+    "type": "prep",
+    "translations": {
+      "nb": "under",
+      "en": "under"
+    }
+  },
+  "avec_prep": {
+    "word": "avec",
+    "type": "prep",
+    "translations": {
+      "nb": "med",
+      "en": "with"
+    }
+  },
+  "sans_prep": {
+    "word": "sans",
+    "type": "prep",
+    "translations": {
+      "nb": "uten",
+      "en": "without"
+    }
+  },
+  "pour_prep": {
+    "word": "pour",
+    "type": "prep",
+    "translations": {
+      "nb": "for, til",
+      "en": "for, to"
+    }
+  },
+  "par_prep": {
+    "word": "par",
+    "type": "prep",
+    "translations": {
+      "nb": "ved, gjennom, per",
+      "en": "by, through, per"
+    }
+  },
+  "chez_prep": {
+    "word": "chez",
+    "type": "prep",
+    "translations": {
+      "nb": "hjemme hos, til",
+      "en": "at the home of"
+    }
+  },
+  "entre_prep": {
+    "word": "entre",
+    "type": "prep",
+    "translations": {
+      "nb": "mellom",
+      "en": "between"
+    }
+  },
+  "vers_prep": {
+    "word": "vers",
+    "type": "prep",
+    "translations": {
+      "nb": "mot, rundt",
+      "en": "towards, around"
+    }
+  },
+  "depuis_prep": {
+    "word": "depuis",
+    "type": "prep",
+    "translations": {
+      "nb": "siden, fra",
+      "en": "since, from"
+    }
+  },
+  "pendant_prep": {
+    "word": "pendant",
+    "type": "prep",
+    "translations": {
+      "nb": "under, i lopet av",
+      "en": "during"
+    }
+  },
+  "jusqua_prep": {
+    "word": "jusqu'a",
+    "type": "prep",
+    "translations": {
+      "nb": "til, inntil",
+      "en": "until, up to"
+    }
+  },
+  "avant_prep": {
+    "word": "avant",
+    "type": "prep",
+    "translations": {
+      "nb": "for",
+      "en": "before"
+    }
+  },
+  "apres_prep": {
+    "word": "apres",
+    "type": "prep",
+    "translations": {
+      "nb": "etter",
+      "en": "after"
+    }
+  },
+  "devant_prep": {
+    "word": "devant",
+    "type": "prep",
+    "translations": {
+      "nb": "foran",
+      "en": "in front of"
+    }
+  },
+  "derriere_prep": {
+    "word": "derriere",
+    "type": "prep",
+    "translations": {
+      "nb": "bak",
+      "en": "behind"
+    }
+  },
+  "pres_de_prep": {
+    "word": "pres de",
+    "type": "prep",
+    "translations": {
+      "nb": "naer",
+      "en": "near"
+    }
+  },
+  "loin_de_prep": {
+    "word": "loin de",
+    "type": "prep",
+    "translations": {
+      "nb": "langt fra",
+      "en": "far from"
+    }
+  },
+  "a_cote_de_prep": {
+    "word": "a cote de",
+    "type": "prep",
+    "translations": {
+      "nb": "ved siden av",
+      "en": "next to"
+    }
+  },
+  "en_face_de_prep": {
+    "word": "en face de",
+    "type": "prep",
+    "translations": {
+      "nb": "overfor",
+      "en": "opposite"
+    }
+  },
+  "au_dessus_de_prep": {
+    "word": "au-dessus de",
+    "type": "prep",
+    "translations": {
+      "nb": "over",
+      "en": "above"
+    }
+  },
+  "au_dessous_de_prep": {
+    "word": "au-dessous de",
+    "type": "prep",
+    "translations": {
+      "nb": "under",
+      "en": "below"
+    }
+  },
+  "autour_de_prep": {
+    "word": "autour de",
+    "type": "prep",
+    "translations": {
+      "nb": "rundt",
+      "en": "around"
+    }
+  },
+  "tres_adv": {
+    "word": "tres",
+    "type": "adv",
+    "translations": {
+      "nb": "veldig",
+      "en": "very"
+    }
+  },
+  "bien_adv": {
+    "word": "bien",
+    "type": "adv",
+    "translations": {
+      "nb": "bra, godt",
+      "en": "well"
+    }
+  },
+  "mal_adv": {
+    "word": "mal",
+    "type": "adv",
+    "translations": {
+      "nb": "darlig",
+      "en": "badly"
+    }
+  },
+  "beaucoup_adv": {
+    "word": "beaucoup",
+    "type": "adv",
+    "translations": {
+      "nb": "mye, mange",
+      "en": "much, many"
+    }
+  },
+  "peu_adv": {
+    "word": "peu",
+    "type": "adv",
+    "translations": {
+      "nb": "lite",
+      "en": "little"
+    }
+  },
+  "plus_adv": {
+    "word": "plus",
+    "type": "adv",
+    "translations": {
+      "nb": "mer",
+      "en": "more"
+    }
+  },
+  "moins_adv": {
+    "word": "moins",
+    "type": "adv",
+    "translations": {
+      "nb": "mindre",
+      "en": "less"
+    }
+  },
+  "aussi_adv": {
+    "word": "aussi",
+    "type": "adv",
+    "translations": {
+      "nb": "ogsa, like",
+      "en": "also, as"
+    }
+  },
+  "ici_adv": {
+    "word": "ici",
+    "type": "adv",
+    "translations": {
+      "nb": "her",
+      "en": "here"
+    }
+  },
+  "la_adv": {
+    "word": "la",
+    "type": "adv",
+    "translations": {
+      "nb": "der",
+      "en": "there"
+    }
+  },
+  "la_bas_adv": {
+    "word": "la-bas",
+    "type": "adv",
+    "translations": {
+      "nb": "der borte",
+      "en": "over there"
+    }
+  },
+  "maintenant_adv": {
+    "word": "maintenant",
+    "type": "adv",
+    "translations": {
+      "nb": "na",
+      "en": "now"
+    }
+  },
+  "aujourdhui_adv": {
+    "word": "aujourd'hui",
+    "type": "adv",
+    "translations": {
+      "nb": "i dag",
+      "en": "today"
+    }
+  },
+  "demain_adv": {
+    "word": "demain",
+    "type": "adv",
+    "translations": {
+      "nb": "i morgen",
+      "en": "tomorrow"
+    }
+  },
+  "hier_adv": {
+    "word": "hier",
+    "type": "adv",
+    "translations": {
+      "nb": "i gar",
+      "en": "yesterday"
+    }
+  },
+  "toujours_adv": {
+    "word": "toujours",
+    "type": "adv",
+    "translations": {
+      "nb": "alltid, fortsatt",
+      "en": "always, still"
+    }
+  },
+  "jamais_adv": {
+    "word": "jamais",
+    "type": "adv",
+    "translations": {
+      "nb": "aldri",
+      "en": "never"
+    }
+  },
+  "souvent_adv": {
+    "word": "souvent",
+    "type": "adv",
+    "translations": {
+      "nb": "ofte",
+      "en": "often"
+    }
+  },
+  "parfois_adv": {
+    "word": "parfois",
+    "type": "adv",
+    "translations": {
+      "nb": "noen ganger",
+      "en": "sometimes"
+    }
+  },
+  "quelquefois_adv": {
+    "word": "quelquefois",
+    "type": "adv",
+    "translations": {
+      "nb": "noen ganger",
+      "en": "sometimes"
+    }
+  },
+  "rarement_adv": {
+    "word": "rarement",
+    "type": "adv",
+    "translations": {
+      "nb": "sjelden",
+      "en": "rarely"
+    }
+  },
+  "deja_adv": {
+    "word": "deja",
+    "type": "adv",
+    "translations": {
+      "nb": "allerede",
+      "en": "already"
+    }
+  },
+  "encore_adv": {
+    "word": "encore",
+    "type": "adv",
+    "translations": {
+      "nb": "enna, igjen",
+      "en": "still, again"
+    }
+  },
+  "bientot_adv": {
+    "word": "bientot",
+    "type": "adv",
+    "translations": {
+      "nb": "snart",
+      "en": "soon"
+    }
+  },
+  "tard_adv": {
+    "word": "tard",
+    "type": "adv",
+    "translations": {
+      "nb": "sent",
+      "en": "late"
+    }
+  },
+  "tot_adv": {
+    "word": "tot",
+    "type": "adv",
+    "translations": {
+      "nb": "tidlig",
+      "en": "early"
+    }
+  },
+  "vite_adv": {
+    "word": "vite",
+    "type": "adv",
+    "translations": {
+      "nb": "raskt",
+      "en": "quickly"
+    }
+  },
+  "lentement_adv": {
+    "word": "lentement",
+    "type": "adv",
+    "translations": {
+      "nb": "sakte",
+      "en": "slowly"
+    }
+  },
+  "ensemble_adv": {
+    "word": "ensemble",
+    "type": "adv",
+    "translations": {
+      "nb": "sammen",
+      "en": "together"
+    }
+  },
+  "seulement_adv": {
+    "word": "seulement",
+    "type": "adv",
+    "translations": {
+      "nb": "bare, kun",
+      "en": "only"
+    }
+  },
+  "peut_etre_adv": {
+    "word": "peut-etre",
+    "type": "adv",
+    "translations": {
+      "nb": "kanskje",
+      "en": "maybe"
+    }
+  },
+  "vraiment_adv": {
+    "word": "vraiment",
+    "type": "adv",
+    "translations": {
+      "nb": "virkelig",
+      "en": "really"
+    }
+  },
+  "surement_adv": {
+    "word": "surement",
+    "type": "adv",
+    "translations": {
+      "nb": "sikkert",
+      "en": "surely"
+    }
+  },
+  "normalement_adv": {
+    "word": "normalement",
+    "type": "adv",
+    "translations": {
+      "nb": "vanligvis",
+      "en": "normally"
+    }
+  },
+  "generalement_adv": {
+    "word": "generalement",
+    "type": "adv",
+    "translations": {
+      "nb": "generelt",
+      "en": "generally"
+    }
+  },
+  "surtout_adv": {
+    "word": "surtout",
+    "type": "adv",
+    "translations": {
+      "nb": "spesielt, fremfor alt",
+      "en": "especially, above all"
+    }
+  },
+  "completement_adv": {
+    "word": "completement",
+    "type": "adv",
+    "translations": {
+      "nb": "helt",
+      "en": "completely"
+    }
+  },
+  "finalement_adv": {
+    "word": "finalement",
+    "type": "adv",
+    "translations": {
+      "nb": "til slutt",
+      "en": "finally"
+    }
+  },
+  "malheureusement_adv": {
+    "word": "malheureusement",
+    "type": "adv",
+    "translations": {
+      "nb": "dessverre",
+      "en": "unfortunately"
+    }
+  },
+  "heureusement_adv": {
+    "word": "heureusement",
+    "type": "adv",
+    "translations": {
+      "nb": "heldigvis",
+      "en": "fortunately"
+    }
+  },
+  "dabord_adv": {
+    "word": "d'abord",
+    "type": "adv",
+    "translations": {
+      "nb": "forst",
+      "en": "first"
+    }
+  },
+  "puis_adv": {
+    "word": "puis",
+    "type": "adv",
+    "translations": {
+      "nb": "sa, deretter",
+      "en": "then"
+    }
+  },
+  "ensuite_adv": {
+    "word": "ensuite",
+    "type": "adv",
+    "translations": {
+      "nb": "etterpå",
+      "en": "then, next"
+    }
+  },
+  "enfin_adv": {
+    "word": "enfin",
+    "type": "adv",
+    "translations": {
+      "nb": "endelig, til slutt",
+      "en": "finally"
+    }
+  },
+  "assez_adv": {
+    "word": "assez",
+    "type": "adv",
+    "translations": {
+      "nb": "ganske, nok",
+      "en": "quite, enough"
+    }
+  },
+  "trop_adv": {
+    "word": "trop",
+    "type": "adv",
+    "translations": {
+      "nb": "for (mye)",
+      "en": "too (much)"
+    }
+  },
+  "presque_adv": {
+    "word": "presque",
+    "type": "adv",
+    "translations": {
+      "nb": "nesten",
+      "en": "almost"
+    }
+  },
+  "plutot_adv": {
+    "word": "plutot",
+    "type": "adv",
+    "translations": {
+      "nb": "heller",
+      "en": "rather"
+    }
+  },
+  "en_haut_adv": {
+    "word": "en haut",
+    "type": "adv",
+    "translations": {
+      "nb": "oppe",
+      "en": "upstairs, up"
+    }
+  },
+  "en_bas_adv": {
+    "word": "en bas",
+    "type": "adv",
+    "translations": {
+      "nb": "nede",
+      "en": "downstairs, down"
+    }
+  },
+  "dehors_adv": {
+    "word": "dehors",
+    "type": "adv",
+    "translations": {
+      "nb": "ute, utendors",
+      "en": "outside"
+    }
+  },
+  "dedans_adv": {
+    "word": "dedans",
+    "type": "adv",
+    "translations": {
+      "nb": "inni",
+      "en": "inside"
+    }
+  },
+  "partout_adv": {
+    "word": "partout",
+    "type": "adv",
+    "translations": {
+      "nb": "overalt",
+      "en": "everywhere"
+    }
+  },
+  "nulle_part_adv": {
+    "word": "nulle part",
+    "type": "adv",
+    "translations": {
+      "nb": "ingen steder",
+      "en": "nowhere"
+    }
+  },
+  "france_propn": {
+    "word": "la France",
+    "type": "propn",
+    "translations": {
+      "nb": "Frankrike",
+      "en": "France"
+    }
+  },
+  "paris_propn": {
+    "word": "Paris",
+    "type": "propn",
+    "translations": {
+      "nb": "Paris",
+      "en": "Paris"
+    }
+  },
+  "belgique_propn": {
+    "word": "la Belgique",
+    "type": "propn",
+    "translations": {
+      "nb": "Belgia",
+      "en": "Belgium"
+    }
+  },
+  "suisse_propn": {
+    "word": "la Suisse",
+    "type": "propn",
+    "translations": {
+      "nb": "Sveits",
+      "en": "Switzerland"
+    }
+  },
+  "canada_propn": {
+    "word": "le Canada",
+    "type": "propn",
+    "translations": {
+      "nb": "Canada",
+      "en": "Canada"
+    }
+  },
+  "quebec_propn": {
+    "word": "le Quebec",
+    "type": "propn",
+    "translations": {
+      "nb": "Quebec",
+      "en": "Quebec"
+    }
+  },
+  "norvege_propn": {
+    "word": "la Norvege",
+    "type": "propn",
+    "translations": {
+      "nb": "Norge",
+      "en": "Norway"
+    }
+  },
+  "europe_propn": {
+    "word": "l'Europe",
+    "type": "propn",
+    "translations": {
+      "nb": "Europa",
+      "en": "Europe"
+    }
+  },
+  "il_fait_beau_expr": {
+    "word": "il fait beau",
+    "type": "expr",
+    "translations": {
+      "nb": "det er fint vaer",
+      "en": "the weather is nice"
+    }
+  },
+  "il_fait_mauvais_expr": {
+    "word": "il fait mauvais",
+    "type": "expr",
+    "translations": {
+      "nb": "det er darlig vaer",
+      "en": "the weather is bad"
+    }
+  },
+  "il_fait_froid_expr": {
+    "word": "il fait froid",
+    "type": "expr",
+    "translations": {
+      "nb": "det er kaldt",
+      "en": "it's cold"
+    }
+  },
+  "il_fait_chaud_expr": {
+    "word": "il fait chaud",
+    "type": "expr",
+    "translations": {
+      "nb": "det er varmt",
+      "en": "it's hot"
+    }
+  },
+  "il_pleut_expr": {
+    "word": "il pleut",
+    "type": "expr",
+    "translations": {
+      "nb": "det regner",
+      "en": "it's raining"
+    }
+  },
+  "il_neige_expr": {
+    "word": "il neige",
+    "type": "expr",
+    "translations": {
+      "nb": "det snor",
+      "en": "it's snowing"
+    }
+  },
+  "il_y_a_du_soleil_expr": {
+    "word": "il y a du soleil",
+    "type": "expr",
+    "translations": {
+      "nb": "solen skinner",
+      "en": "it's sunny"
+    }
+  },
+  "il_y_a_du_vent_expr": {
+    "word": "il y a du vent",
+    "type": "expr",
+    "translations": {
+      "nb": "det blaser",
+      "en": "it's windy"
+    }
+  },
+  "jai_faim_expr": {
+    "word": "j'ai faim",
+    "type": "expr",
+    "translations": {
+      "nb": "jeg er sulten",
+      "en": "I'm hungry"
+    }
+  },
+  "jai_soif_expr": {
+    "word": "j'ai soif",
+    "type": "expr",
+    "translations": {
+      "nb": "jeg er torst",
+      "en": "I'm thirsty"
+    }
+  },
+  "jai_sommeil_expr": {
+    "word": "j'ai sommeil",
+    "type": "expr",
+    "translations": {
+      "nb": "jeg er sovnig",
+      "en": "I'm sleepy"
+    }
+  },
+  "jai_froid_expr": {
+    "word": "j'ai froid",
+    "type": "expr",
+    "translations": {
+      "nb": "jeg fryser",
+      "en": "I'm cold"
+    }
+  },
+  "jai_chaud_expr": {
+    "word": "j'ai chaud",
+    "type": "expr",
+    "translations": {
+      "nb": "jeg er varm",
+      "en": "I'm hot"
+    }
+  },
+  "jai_peur_expr": {
+    "word": "j'ai peur",
+    "type": "expr",
+    "translations": {
+      "nb": "jeg er redd",
+      "en": "I'm afraid"
+    }
+  },
+  "jai_raison_expr": {
+    "word": "j'ai raison",
+    "type": "expr",
+    "translations": {
+      "nb": "jeg har rett",
+      "en": "I'm right"
+    }
+  },
+  "jai_tort_expr": {
+    "word": "j'ai tort",
+    "type": "expr",
+    "translations": {
+      "nb": "jeg tar feil",
+      "en": "I'm wrong"
+    }
+  },
+  "il_y_a_expr": {
+    "word": "il y a",
+    "type": "expr",
+    "translations": {
+      "nb": "det finnes, det er",
+      "en": "there is, there are"
+    }
+  },
+  "il_ny_a_pas_expr": {
+    "word": "il n'y a pas",
+    "type": "expr",
+    "translations": {
+      "nb": "det finnes ikke",
+      "en": "there isn't, there aren't"
+    }
+  },
+  "quest_ce_quil_y_a_expr": {
+    "word": "qu'est-ce qu'il y a ?",
+    "type": "expr",
+    "translations": {
+      "nb": "hva er det? hva skjer?",
+      "en": "what is it? what's wrong?"
+    }
+  },
+  "jaime_expr": {
+    "word": "j'aime",
+    "type": "expr",
+    "translations": {
+      "nb": "jeg liker",
+      "en": "I like"
+    }
+  },
+  "je_naime_pas_expr": {
+    "word": "je n'aime pas",
+    "type": "expr",
+    "translations": {
+      "nb": "jeg liker ikke",
+      "en": "I don't like"
+    }
+  },
+  "jadore_expr": {
+    "word": "j'adore",
+    "type": "expr",
+    "translations": {
+      "nb": "jeg elsker",
+      "en": "I love"
+    }
+  },
+  "je_deteste_expr": {
+    "word": "je deteste",
+    "type": "expr",
+    "translations": {
+      "nb": "jeg hater",
+      "en": "I hate"
+    }
+  },
+  "a_mon_avis_expr": {
+    "word": "a mon avis",
+    "type": "expr",
+    "translations": {
+      "nb": "etter min mening",
+      "en": "in my opinion"
+    }
+  },
+  "je_crois_que_expr": {
+    "word": "je crois que",
+    "type": "expr",
+    "translations": {
+      "nb": "jeg tror at",
+      "en": "I believe that"
+    }
+  },
+  "je_pense_que_expr": {
+    "word": "je pense que",
+    "type": "expr",
+    "translations": {
+      "nb": "jeg mener at",
+      "en": "I think that"
+    }
+  },
+  "par_exemple_expr": {
+    "word": "par exemple",
+    "type": "expr",
+    "translations": {
+      "nb": "for eksempel",
+      "en": "for example"
+    }
+  },
+  "cest_a_dire_expr": {
+    "word": "c'est-a-dire",
+    "type": "expr",
+    "translations": {
+      "nb": "det vil si",
+      "en": "that is to say"
+    }
+  },
+  "en_fait_expr": {
+    "word": "en fait",
+    "type": "expr",
+    "translations": {
+      "nb": "faktisk, egentlig",
+      "en": "actually, in fact"
+    }
+  },
+  "dun_cote_expr": {
+    "word": "d'un cote",
+    "type": "expr",
+    "translations": {
+      "nb": "pa den ene siden",
+      "en": "on one hand"
+    }
+  },
+  "de_lautre_cote_expr": {
+    "word": "de l'autre cote",
+    "type": "expr",
+    "translations": {
+      "nb": "pa den andre siden",
+      "en": "on the other hand"
+    }
+  },
+  "en_conclusion_expr": {
+    "word": "en conclusion",
+    "type": "expr",
+    "translations": {
+      "nb": "som konklusjon",
+      "en": "in conclusion"
+    }
+  },
+  "par_contre_expr": {
+    "word": "par contre",
+    "type": "expr",
+    "translations": {
+      "nb": "derimot",
+      "en": "on the other hand"
+    }
+  },
+  "cependant_expr": {
+    "word": "cependant",
+    "type": "expr",
+    "translations": {
+      "nb": "imidlertid",
+      "en": "however"
+    }
+  },
+  "de_plus_expr": {
+    "word": "de plus",
+    "type": "expr",
+    "translations": {
+      "nb": "dessuten",
+      "en": "furthermore"
+    }
+  },
+  "en_plus_expr": {
+    "word": "en plus",
+    "type": "expr",
+    "translations": {
+      "nb": "i tillegg",
+      "en": "in addition"
+    }
+  },
+  "a_pied_expr": {
+    "word": "a pied",
+    "type": "expr",
+    "translations": {
+      "nb": "til fots",
+      "en": "on foot"
+    }
+  },
+  "en_voiture_expr": {
+    "word": "en voiture",
+    "type": "expr",
+    "translations": {
+      "nb": "med bil",
+      "en": "by car"
+    }
+  },
+  "en_bus_expr": {
+    "word": "en bus",
+    "type": "expr",
+    "translations": {
+      "nb": "med buss",
+      "en": "by bus"
+    }
+  },
+  "en_train_expr": {
+    "word": "en train",
+    "type": "expr",
+    "translations": {
+      "nb": "med tog",
+      "en": "by train"
+    }
+  },
+  "en_avion_expr": {
+    "word": "en avion",
+    "type": "expr",
+    "translations": {
+      "nb": "med fly",
+      "en": "by plane"
+    }
+  },
+  "a_velo_expr": {
+    "word": "a velo",
+    "type": "expr",
+    "translations": {
+      "nb": "med sykkel",
+      "en": "by bike"
+    }
+  },
+  "le_matin_expr": {
+    "word": "le matin",
+    "type": "expr",
+    "translations": {
+      "nb": "om morgenen",
+      "en": "in the morning"
+    }
+  },
+  "lapres_midi_expr": {
+    "word": "l'apres-midi",
+    "type": "expr",
+    "translations": {
+      "nb": "om ettermiddagen",
+      "en": "in the afternoon"
+    }
+  },
+  "le_soir_expr": {
+    "word": "le soir",
+    "type": "expr",
+    "translations": {
+      "nb": "om kvelden",
+      "en": "in the evening"
+    }
+  },
+  "la_nuit_expr": {
+    "word": "la nuit",
+    "type": "expr",
+    "translations": {
+      "nb": "om natten",
+      "en": "at night"
+    }
+  },
+  "tous_les_jours_expr": {
+    "word": "tous les jours",
+    "type": "expr",
+    "translations": {
+      "nb": "hver dag",
+      "en": "every day"
+    }
+  },
+  "chaque_jour_expr": {
+    "word": "chaque jour",
+    "type": "expr",
+    "translations": {
+      "nb": "hver dag",
+      "en": "every day"
+    }
+  },
+  "le_week_end_expr": {
+    "word": "le week-end",
+    "type": "expr",
+    "translations": {
+      "nb": "i helgen",
+      "en": "on the weekend"
+    }
+  },
+  "la_semaine_prochaine_expr": {
+    "word": "la semaine prochaine",
+    "type": "expr",
+    "translations": {
+      "nb": "neste uke",
+      "en": "next week"
+    }
+  },
+  "lannee_derniere_expr": {
+    "word": "l'annee derniere",
+    "type": "expr",
+    "translations": {
+      "nb": "i fjor",
+      "en": "last year"
+    }
+  },
+  "lannee_prochaine_expr": {
+    "word": "l'annee prochaine",
+    "type": "expr",
+    "translations": {
+      "nb": "neste ar",
+      "en": "next year"
+    }
+  },
+  "en_general_expr": {
+    "word": "en general",
+    "type": "expr",
+    "translations": {
+      "nb": "generelt",
+      "en": "in general"
+    }
+  },
+  "tout_a_fait_expr": {
+    "word": "tout a fait",
+    "type": "expr",
+    "translations": {
+      "nb": "helt",
+      "en": "completely, exactly"
+    }
+  },
+  "tout_de_suite_expr": {
+    "word": "tout de suite",
+    "type": "expr",
+    "translations": {
+      "nb": "med en gang",
+      "en": "immediately"
+    }
+  },
+  "tout_le_monde_expr": {
+    "word": "tout le monde",
+    "type": "expr",
+    "translations": {
+      "nb": "alle",
+      "en": "everyone"
+    }
+  },
+  "de_temps_en_temps_expr": {
+    "word": "de temps en temps",
+    "type": "expr",
+    "translations": {
+      "nb": "av og til",
+      "en": "from time to time"
+    }
+  },
+  "tout_a_coup_expr": {
+    "word": "tout a coup",
+    "type": "expr",
+    "translations": {
+      "nb": "plutselig",
+      "en": "suddenly"
+    }
+  },
+  "au_debut_expr": {
+    "word": "au debut",
+    "type": "expr",
+    "translations": {
+      "nb": "i begynnelsen",
+      "en": "at the beginning"
+    }
+  },
+  "a_la_fin_expr": {
+    "word": "a la fin",
+    "type": "expr",
+    "translations": {
+      "nb": "til slutt",
+      "en": "at the end"
+    }
+  },
+  "en_retard_expr": {
+    "word": "en retard",
+    "type": "expr",
+    "translations": {
+      "nb": "forsinket, for sent",
+      "en": "late"
+    }
+  },
+  "en_avance_expr": {
+    "word": "en avance",
+    "type": "expr",
+    "translations": {
+      "nb": "tidlig, for tidlig",
+      "en": "early"
+    }
+  },
+  "a_lheure_expr": {
+    "word": "a l'heure",
+    "type": "expr",
+    "translations": {
+      "nb": "i tide",
+      "en": "on time"
+    }
+  }
+}

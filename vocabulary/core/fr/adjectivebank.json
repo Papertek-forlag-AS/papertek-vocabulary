@@ -1,0 +1,2026 @@
+{
+  "_metadata": {
+    "description": "French adjectives for Nous parlons Francais 1",
+    "total_adjectives": 120,
+    "genderNote": "Most adjectives have -e (f) ending. Adjectives already ending in -e are invariable for gender. Some have irregular feminine forms.",
+    "positionNote": "BANGS adjectives (Beauty, Age, Number, Goodness, Size) go BEFORE the noun. Most others go after.",
+    "specialForms": "Some adjectives have special masculine forms before vowels: beau→bel, nouveau→nouvel, vieux→vieil"
+  },
+  "bon_adj": {
+    "word": "bon",
+    "translations": {
+      "nb": "god, bra",
+      "en": "good"
+    },
+    "forms": {
+      "m": "bon",
+      "f": "bonne",
+      "m_pl": "bons",
+      "f_pl": "bonnes"
+    },
+    "position": "before",
+    "bangs": true,
+    "comparison": {
+      "positiv": "bon",
+      "komparativ": {
+        "form": "meilleur",
+        "irregular": true
+      },
+      "superlativ": {
+        "form": "le meilleur",
+        "irregular": true
+      }
+    }
+  },
+  "mauvais_adj": {
+    "word": "mauvais",
+    "translations": {
+      "nb": "darlig",
+      "en": "bad"
+    },
+    "forms": {
+      "m": "mauvais",
+      "f": "mauvaise",
+      "m_pl": "mauvais",
+      "f_pl": "mauvaises"
+    },
+    "position": "before",
+    "bangs": true,
+    "comparison": {
+      "positiv": "mauvais",
+      "komparativ": {
+        "form": "pire",
+        "irregular": true
+      },
+      "superlativ": {
+        "form": "le pire",
+        "irregular": true
+      }
+    }
+  },
+  "grand_adj": {
+    "word": "grand",
+    "translations": {
+      "nb": "stor, hoy",
+      "en": "big, tall"
+    },
+    "forms": {
+      "m": "grand",
+      "f": "grande",
+      "m_pl": "grands",
+      "f_pl": "grandes"
+    },
+    "position": "before",
+    "bangs": true
+  },
+  "petit_adj": {
+    "word": "petit",
+    "translations": {
+      "nb": "liten",
+      "en": "small, little"
+    },
+    "forms": {
+      "m": "petit",
+      "f": "petite",
+      "m_pl": "petits",
+      "f_pl": "petites"
+    },
+    "position": "before",
+    "bangs": true
+  },
+  "beau_adj": {
+    "word": "beau",
+    "translations": {
+      "nb": "pen, vakker",
+      "en": "beautiful, handsome"
+    },
+    "forms": {
+      "m": "beau",
+      "m_vowel": "bel",
+      "f": "belle",
+      "m_pl": "beaux",
+      "f_pl": "belles"
+    },
+    "position": "before",
+    "bangs": true
+  },
+  "nouveau_adj": {
+    "word": "nouveau",
+    "translations": {
+      "nb": "ny",
+      "en": "new"
+    },
+    "forms": {
+      "m": "nouveau",
+      "m_vowel": "nouvel",
+      "f": "nouvelle",
+      "m_pl": "nouveaux",
+      "f_pl": "nouvelles"
+    },
+    "position": "before",
+    "bangs": true
+  },
+  "vieux_adj": {
+    "word": "vieux",
+    "translations": {
+      "nb": "gammel",
+      "en": "old"
+    },
+    "forms": {
+      "m": "vieux",
+      "m_vowel": "vieil",
+      "f": "vieille",
+      "m_pl": "vieux",
+      "f_pl": "vieilles"
+    },
+    "position": "before",
+    "bangs": true
+  },
+  "jeune_adj": {
+    "word": "jeune",
+    "translations": {
+      "nb": "ung",
+      "en": "young"
+    },
+    "forms": {
+      "m": "jeune",
+      "f": "jeune",
+      "m_pl": "jeunes",
+      "f_pl": "jeunes"
+    },
+    "position": "before",
+    "bangs": true
+  },
+  "joli_adj": {
+    "word": "joli",
+    "translations": {
+      "nb": "pen, soet",
+      "en": "pretty"
+    },
+    "forms": {
+      "m": "joli",
+      "f": "jolie",
+      "m_pl": "jolis",
+      "f_pl": "jolies"
+    },
+    "position": "before",
+    "bangs": true
+  },
+  "gros_adj": {
+    "word": "gros",
+    "translations": {
+      "nb": "tykk, stor",
+      "en": "big, fat"
+    },
+    "forms": {
+      "m": "gros",
+      "f": "grosse",
+      "m_pl": "gros",
+      "f_pl": "grosses"
+    },
+    "position": "before",
+    "bangs": true
+  },
+  "haut_adj": {
+    "word": "haut",
+    "translations": {
+      "nb": "hoy",
+      "en": "high, tall"
+    },
+    "forms": {
+      "m": "haut",
+      "f": "haute",
+      "m_pl": "hauts",
+      "f_pl": "hautes"
+    }
+  },
+  "bas_adj": {
+    "word": "bas",
+    "translations": {
+      "nb": "lav",
+      "en": "low"
+    },
+    "forms": {
+      "m": "bas",
+      "f": "basse",
+      "m_pl": "bas",
+      "f_pl": "basses"
+    }
+  },
+  "long_adj": {
+    "word": "long",
+    "translations": {
+      "nb": "lang",
+      "en": "long"
+    },
+    "forms": {
+      "m": "long",
+      "f": "longue",
+      "m_pl": "longs",
+      "f_pl": "longues"
+    }
+  },
+  "court_adj": {
+    "word": "court",
+    "translations": {
+      "nb": "kort",
+      "en": "short"
+    },
+    "forms": {
+      "m": "court",
+      "f": "courte",
+      "m_pl": "courts",
+      "f_pl": "courtes"
+    }
+  },
+  "rapide_adj": {
+    "word": "rapide",
+    "translations": {
+      "nb": "rask",
+      "en": "fast, quick"
+    },
+    "forms": {
+      "m": "rapide",
+      "f": "rapide",
+      "m_pl": "rapides",
+      "f_pl": "rapides"
+    }
+  },
+  "lent_adj": {
+    "word": "lent",
+    "translations": {
+      "nb": "langsom",
+      "en": "slow"
+    },
+    "forms": {
+      "m": "lent",
+      "f": "lente",
+      "m_pl": "lents",
+      "f_pl": "lentes"
+    }
+  },
+  "chaud_adj": {
+    "word": "chaud",
+    "translations": {
+      "nb": "varm",
+      "en": "hot, warm"
+    },
+    "forms": {
+      "m": "chaud",
+      "f": "chaude",
+      "m_pl": "chauds",
+      "f_pl": "chaudes"
+    }
+  },
+  "froid_adj": {
+    "word": "froid",
+    "translations": {
+      "nb": "kald",
+      "en": "cold"
+    },
+    "forms": {
+      "m": "froid",
+      "f": "froide",
+      "m_pl": "froids",
+      "f_pl": "froides"
+    }
+  },
+  "facile_adj": {
+    "word": "facile",
+    "translations": {
+      "nb": "lett, enkel",
+      "en": "easy"
+    },
+    "forms": {
+      "m": "facile",
+      "f": "facile",
+      "m_pl": "faciles",
+      "f_pl": "faciles"
+    }
+  },
+  "difficile_adj": {
+    "word": "difficile",
+    "translations": {
+      "nb": "vanskelig",
+      "en": "difficult"
+    },
+    "forms": {
+      "m": "difficile",
+      "f": "difficile",
+      "m_pl": "difficiles",
+      "f_pl": "difficiles"
+    }
+  },
+  "important_adj": {
+    "word": "important",
+    "translations": {
+      "nb": "viktig",
+      "en": "important"
+    },
+    "forms": {
+      "m": "important",
+      "f": "importante",
+      "m_pl": "importants",
+      "f_pl": "importantes"
+    }
+  },
+  "interessant_adj": {
+    "word": "interessant",
+    "translations": {
+      "nb": "interessant",
+      "en": "interesting"
+    },
+    "forms": {
+      "m": "interessant",
+      "f": "interessante",
+      "m_pl": "interessants",
+      "f_pl": "interessantes"
+    }
+  },
+  "ennuyeux_adj": {
+    "word": "ennuyeux",
+    "translations": {
+      "nb": "kjedelig",
+      "en": "boring"
+    },
+    "forms": {
+      "m": "ennuyeux",
+      "f": "ennuyeuse",
+      "m_pl": "ennuyeux",
+      "f_pl": "ennuyeuses"
+    }
+  },
+  "amusant_adj": {
+    "word": "amusant",
+    "translations": {
+      "nb": "morsom",
+      "en": "funny, amusing"
+    },
+    "forms": {
+      "m": "amusant",
+      "f": "amusante",
+      "m_pl": "amusants",
+      "f_pl": "amusantes"
+    }
+  },
+  "heureux_adj": {
+    "word": "heureux",
+    "translations": {
+      "nb": "lykkelig",
+      "en": "happy"
+    },
+    "forms": {
+      "m": "heureux",
+      "f": "heureuse",
+      "m_pl": "heureux",
+      "f_pl": "heureuses"
+    }
+  },
+  "triste_adj": {
+    "word": "triste",
+    "translations": {
+      "nb": "trist",
+      "en": "sad"
+    },
+    "forms": {
+      "m": "triste",
+      "f": "triste",
+      "m_pl": "tristes",
+      "f_pl": "tristes"
+    }
+  },
+  "content_adj": {
+    "word": "content",
+    "translations": {
+      "nb": "fornoyd, glad",
+      "en": "happy, pleased"
+    },
+    "forms": {
+      "m": "content",
+      "f": "contente",
+      "m_pl": "contents",
+      "f_pl": "contentes"
+    }
+  },
+  "malade_adj": {
+    "word": "malade",
+    "translations": {
+      "nb": "syk",
+      "en": "sick, ill"
+    },
+    "forms": {
+      "m": "malade",
+      "f": "malade",
+      "m_pl": "malades",
+      "f_pl": "malades"
+    }
+  },
+  "fatigue_adj": {
+    "word": "fatigue",
+    "translations": {
+      "nb": "trott, sliten",
+      "en": "tired"
+    },
+    "forms": {
+      "m": "fatigue",
+      "f": "fatiguee",
+      "m_pl": "fatigues",
+      "f_pl": "fatiguees"
+    }
+  },
+  "riche_adj": {
+    "word": "riche",
+    "translations": {
+      "nb": "rik",
+      "en": "rich"
+    },
+    "forms": {
+      "m": "riche",
+      "f": "riche",
+      "m_pl": "riches",
+      "f_pl": "riches"
+    }
+  },
+  "pauvre_adj": {
+    "word": "pauvre",
+    "translations": {
+      "nb": "fattig",
+      "en": "poor"
+    },
+    "forms": {
+      "m": "pauvre",
+      "f": "pauvre",
+      "m_pl": "pauvres",
+      "f_pl": "pauvres"
+    }
+  },
+  "cher_adj": {
+    "word": "cher",
+    "translations": {
+      "nb": "dyr, kjaer",
+      "en": "expensive, dear"
+    },
+    "forms": {
+      "m": "cher",
+      "f": "chere",
+      "m_pl": "chers",
+      "f_pl": "cheres"
+    }
+  },
+  "bon_marche_adj": {
+    "word": "bon marche",
+    "translations": {
+      "nb": "billig",
+      "en": "cheap"
+    },
+    "forms": {
+      "m": "bon marche",
+      "f": "bon marche",
+      "m_pl": "bon marche",
+      "f_pl": "bon marche"
+    },
+    "invariable": true
+  },
+  "propre_adj": {
+    "word": "propre",
+    "translations": {
+      "nb": "ren, egen",
+      "en": "clean, own"
+    },
+    "forms": {
+      "m": "propre",
+      "f": "propre",
+      "m_pl": "propres",
+      "f_pl": "propres"
+    }
+  },
+  "sale_adj": {
+    "word": "sale",
+    "translations": {
+      "nb": "skitten",
+      "en": "dirty"
+    },
+    "forms": {
+      "m": "sale",
+      "f": "sale",
+      "m_pl": "sales",
+      "f_pl": "sales"
+    }
+  },
+  "plein_adj": {
+    "word": "plein",
+    "translations": {
+      "nb": "full",
+      "en": "full"
+    },
+    "forms": {
+      "m": "plein",
+      "f": "pleine",
+      "m_pl": "pleins",
+      "f_pl": "pleines"
+    }
+  },
+  "vide_adj": {
+    "word": "vide",
+    "translations": {
+      "nb": "tom",
+      "en": "empty"
+    },
+    "forms": {
+      "m": "vide",
+      "f": "vide",
+      "m_pl": "vides",
+      "f_pl": "vides"
+    }
+  },
+  "ouvert_adj": {
+    "word": "ouvert",
+    "translations": {
+      "nb": "apen",
+      "en": "open"
+    },
+    "forms": {
+      "m": "ouvert",
+      "f": "ouverte",
+      "m_pl": "ouverts",
+      "f_pl": "ouvertes"
+    }
+  },
+  "ferme_adj": {
+    "word": "ferme",
+    "translations": {
+      "nb": "stengt, lukket",
+      "en": "closed"
+    },
+    "forms": {
+      "m": "ferme",
+      "f": "fermee",
+      "m_pl": "fermes",
+      "f_pl": "fermees"
+    }
+  },
+  "blanc_adj": {
+    "word": "blanc",
+    "translations": {
+      "nb": "hvit",
+      "en": "white"
+    },
+    "forms": {
+      "m": "blanc",
+      "f": "blanche",
+      "m_pl": "blancs",
+      "f_pl": "blanches"
+    }
+  },
+  "noir_adj": {
+    "word": "noir",
+    "translations": {
+      "nb": "svart",
+      "en": "black"
+    },
+    "forms": {
+      "m": "noir",
+      "f": "noire",
+      "m_pl": "noirs",
+      "f_pl": "noires"
+    }
+  },
+  "rouge_adj": {
+    "word": "rouge",
+    "translations": {
+      "nb": "rod",
+      "en": "red"
+    },
+    "forms": {
+      "m": "rouge",
+      "f": "rouge",
+      "m_pl": "rouges",
+      "f_pl": "rouges"
+    }
+  },
+  "bleu_adj": {
+    "word": "bleu",
+    "translations": {
+      "nb": "bla",
+      "en": "blue"
+    },
+    "forms": {
+      "m": "bleu",
+      "f": "bleue",
+      "m_pl": "bleus",
+      "f_pl": "bleues"
+    }
+  },
+  "vert_adj": {
+    "word": "vert",
+    "translations": {
+      "nb": "gronn",
+      "en": "green"
+    },
+    "forms": {
+      "m": "vert",
+      "f": "verte",
+      "m_pl": "verts",
+      "f_pl": "vertes"
+    }
+  },
+  "jaune_adj": {
+    "word": "jaune",
+    "translations": {
+      "nb": "gul",
+      "en": "yellow"
+    },
+    "forms": {
+      "m": "jaune",
+      "f": "jaune",
+      "m_pl": "jaunes",
+      "f_pl": "jaunes"
+    }
+  },
+  "marron_adj": {
+    "word": "marron",
+    "translations": {
+      "nb": "brun",
+      "en": "brown"
+    },
+    "forms": {
+      "m": "marron",
+      "f": "marron",
+      "m_pl": "marron",
+      "f_pl": "marron"
+    },
+    "invariable": true
+  },
+  "gris_adj": {
+    "word": "gris",
+    "translations": {
+      "nb": "gra",
+      "en": "gray"
+    },
+    "forms": {
+      "m": "gris",
+      "f": "grise",
+      "m_pl": "gris",
+      "f_pl": "grises"
+    }
+  },
+  "rose_adj": {
+    "word": "rose",
+    "translations": {
+      "nb": "rosa",
+      "en": "pink"
+    },
+    "forms": {
+      "m": "rose",
+      "f": "rose",
+      "m_pl": "roses",
+      "f_pl": "roses"
+    }
+  },
+  "orange_adj": {
+    "word": "orange",
+    "translations": {
+      "nb": "oransje",
+      "en": "orange"
+    },
+    "forms": {
+      "m": "orange",
+      "f": "orange",
+      "m_pl": "orange",
+      "f_pl": "orange"
+    },
+    "invariable": true
+  },
+  "violet_adj": {
+    "word": "violet",
+    "translations": {
+      "nb": "fiolett",
+      "en": "purple"
+    },
+    "forms": {
+      "m": "violet",
+      "f": "violette",
+      "m_pl": "violets",
+      "f_pl": "violettes"
+    }
+  },
+  "intelligent_adj": {
+    "word": "intelligent",
+    "translations": {
+      "nb": "intelligent, smart",
+      "en": "intelligent, smart"
+    },
+    "forms": {
+      "m": "intelligent",
+      "f": "intelligente",
+      "m_pl": "intelligents",
+      "f_pl": "intelligentes"
+    }
+  },
+  "stupide_adj": {
+    "word": "stupide",
+    "translations": {
+      "nb": "dum",
+      "en": "stupid"
+    },
+    "forms": {
+      "m": "stupide",
+      "f": "stupide",
+      "m_pl": "stupides",
+      "f_pl": "stupides"
+    }
+  },
+  "sympathique_adj": {
+    "word": "sympathique",
+    "translations": {
+      "nb": "hyggelig, sympatisk",
+      "en": "nice, likeable"
+    },
+    "forms": {
+      "m": "sympathique",
+      "f": "sympathique",
+      "m_pl": "sympathiques",
+      "f_pl": "sympathiques"
+    }
+  },
+  "antipathique_adj": {
+    "word": "antipathique",
+    "translations": {
+      "nb": "usympatisk",
+      "en": "unpleasant"
+    },
+    "forms": {
+      "m": "antipathique",
+      "f": "antipathique",
+      "m_pl": "antipathiques",
+      "f_pl": "antipathiques"
+    }
+  },
+  "calme_adj": {
+    "word": "calme",
+    "translations": {
+      "nb": "rolig",
+      "en": "calm, quiet"
+    },
+    "forms": {
+      "m": "calme",
+      "f": "calme",
+      "m_pl": "calmes",
+      "f_pl": "calmes"
+    }
+  },
+  "nerveux_adj": {
+    "word": "nerveux",
+    "translations": {
+      "nb": "nervos",
+      "en": "nervous"
+    },
+    "forms": {
+      "m": "nerveux",
+      "f": "nerveuse",
+      "m_pl": "nerveux",
+      "f_pl": "nerveuses"
+    }
+  },
+  "celebre_adj": {
+    "word": "celebre",
+    "translations": {
+      "nb": "kjent, beromt",
+      "en": "famous"
+    },
+    "forms": {
+      "m": "celebre",
+      "f": "celebre",
+      "m_pl": "celebres",
+      "f_pl": "celebres"
+    }
+  },
+  "delicieux_adj": {
+    "word": "delicieux",
+    "translations": {
+      "nb": "deilig",
+      "en": "delicious"
+    },
+    "forms": {
+      "m": "delicieux",
+      "f": "delicieuse",
+      "m_pl": "delicieux",
+      "f_pl": "delicieuses"
+    }
+  },
+  "parfait_adj": {
+    "word": "parfait",
+    "translations": {
+      "nb": "perfekt",
+      "en": "perfect"
+    },
+    "forms": {
+      "m": "parfait",
+      "f": "parfaite",
+      "m_pl": "parfaits",
+      "f_pl": "parfaites"
+    }
+  },
+  "horrible_adj": {
+    "word": "horrible",
+    "translations": {
+      "nb": "forferdelig",
+      "en": "horrible"
+    },
+    "forms": {
+      "m": "horrible",
+      "f": "horrible",
+      "m_pl": "horribles",
+      "f_pl": "horribles"
+    }
+  },
+  "terrible_adj": {
+    "word": "terrible",
+    "translations": {
+      "nb": "fryktelig",
+      "en": "terrible"
+    },
+    "forms": {
+      "m": "terrible",
+      "f": "terrible",
+      "m_pl": "terribles",
+      "f_pl": "terribles"
+    }
+  },
+  "incroyable_adj": {
+    "word": "incroyable",
+    "translations": {
+      "nb": "utrolig",
+      "en": "incredible"
+    },
+    "forms": {
+      "m": "incroyable",
+      "f": "incroyable",
+      "m_pl": "incroyables",
+      "f_pl": "incroyables"
+    }
+  },
+  "possible_adj": {
+    "word": "possible",
+    "translations": {
+      "nb": "mulig",
+      "en": "possible"
+    },
+    "forms": {
+      "m": "possible",
+      "f": "possible",
+      "m_pl": "possibles",
+      "f_pl": "possibles"
+    }
+  },
+  "impossible_adj": {
+    "word": "impossible",
+    "translations": {
+      "nb": "umulig",
+      "en": "impossible"
+    },
+    "forms": {
+      "m": "impossible",
+      "f": "impossible",
+      "m_pl": "impossibles",
+      "f_pl": "impossibles"
+    }
+  },
+  "normal_adj": {
+    "word": "normal",
+    "translations": {
+      "nb": "normal",
+      "en": "normal"
+    },
+    "forms": {
+      "m": "normal",
+      "f": "normale",
+      "m_pl": "normaux",
+      "f_pl": "normales"
+    }
+  },
+  "special_adj": {
+    "word": "special",
+    "translations": {
+      "nb": "spesiell",
+      "en": "special"
+    },
+    "forms": {
+      "m": "special",
+      "f": "speciale",
+      "m_pl": "speciaux",
+      "f_pl": "speciales"
+    }
+  },
+  "different_adj": {
+    "word": "different",
+    "translations": {
+      "nb": "forskjellig",
+      "en": "different"
+    },
+    "forms": {
+      "m": "different",
+      "f": "differente",
+      "m_pl": "differents",
+      "f_pl": "differentes"
+    }
+  },
+  "egal_adj": {
+    "word": "egal",
+    "translations": {
+      "nb": "lik",
+      "en": "equal"
+    },
+    "forms": {
+      "m": "egal",
+      "f": "egale",
+      "m_pl": "egaux",
+      "f_pl": "egales"
+    }
+  },
+  "meme_adj": {
+    "word": "meme",
+    "translations": {
+      "nb": "samme",
+      "en": "same"
+    },
+    "forms": {
+      "m": "meme",
+      "f": "meme",
+      "m_pl": "memes",
+      "f_pl": "memes"
+    },
+    "position": "before"
+  },
+  "autre_adj": {
+    "word": "autre",
+    "translations": {
+      "nb": "annen",
+      "en": "other, another"
+    },
+    "forms": {
+      "m": "autre",
+      "f": "autre",
+      "m_pl": "autres",
+      "f_pl": "autres"
+    },
+    "position": "before"
+  },
+  "seul_adj": {
+    "word": "seul",
+    "translations": {
+      "nb": "alene, eneste",
+      "en": "alone, only"
+    },
+    "forms": {
+      "m": "seul",
+      "f": "seule",
+      "m_pl": "seuls",
+      "f_pl": "seules"
+    }
+  },
+  "unique_adj": {
+    "word": "unique",
+    "translations": {
+      "nb": "unik, eneste",
+      "en": "unique, only"
+    },
+    "forms": {
+      "m": "unique",
+      "f": "unique",
+      "m_pl": "uniques",
+      "f_pl": "uniques"
+    }
+  },
+  "premier_adj": {
+    "word": "premier",
+    "translations": {
+      "nb": "forste",
+      "en": "first"
+    },
+    "forms": {
+      "m": "premier",
+      "f": "premiere",
+      "m_pl": "premiers",
+      "f_pl": "premieres"
+    },
+    "position": "before",
+    "bangs": true
+  },
+  "dernier_adj": {
+    "word": "dernier",
+    "translations": {
+      "nb": "siste",
+      "en": "last"
+    },
+    "forms": {
+      "m": "dernier",
+      "f": "derniere",
+      "m_pl": "derniers",
+      "f_pl": "dernieres"
+    },
+    "position": "before"
+  },
+  "prochain_adj": {
+    "word": "prochain",
+    "translations": {
+      "nb": "neste",
+      "en": "next"
+    },
+    "forms": {
+      "m": "prochain",
+      "f": "prochaine",
+      "m_pl": "prochains",
+      "f_pl": "prochaines"
+    }
+  },
+  "precedent_adj": {
+    "word": "precedent",
+    "translations": {
+      "nb": "forrige",
+      "en": "previous"
+    },
+    "forms": {
+      "m": "precedent",
+      "f": "precedente",
+      "m_pl": "precedents",
+      "f_pl": "precedentes"
+    }
+  },
+  "sombre_adj": {
+    "word": "sombre",
+    "translations": {
+      "nb": "mork",
+      "en": "dark"
+    },
+    "forms": {
+      "m": "sombre",
+      "f": "sombre",
+      "m_pl": "sombres",
+      "f_pl": "sombres"
+    }
+  },
+  "clair_adj": {
+    "word": "clair",
+    "translations": {
+      "nb": "lys, klar",
+      "en": "light, clear"
+    },
+    "forms": {
+      "m": "clair",
+      "f": "claire",
+      "m_pl": "clairs",
+      "f_pl": "claires"
+    }
+  },
+  "brillant_adj": {
+    "word": "brillant",
+    "translations": {
+      "nb": "straalende, skinnende",
+      "en": "brilliant, shiny"
+    },
+    "forms": {
+      "m": "brillant",
+      "f": "brillante",
+      "m_pl": "brillants",
+      "f_pl": "brillantes"
+    }
+  },
+  "fort_adj": {
+    "word": "fort",
+    "translations": {
+      "nb": "sterk",
+      "en": "strong"
+    },
+    "forms": {
+      "m": "fort",
+      "f": "forte",
+      "m_pl": "forts",
+      "f_pl": "fortes"
+    }
+  },
+  "faible_adj": {
+    "word": "faible",
+    "translations": {
+      "nb": "svak",
+      "en": "weak"
+    },
+    "forms": {
+      "m": "faible",
+      "f": "faible",
+      "m_pl": "faibles",
+      "f_pl": "faibles"
+    }
+  },
+  "dur_adj": {
+    "word": "dur",
+    "translations": {
+      "nb": "hard",
+      "en": "hard"
+    },
+    "forms": {
+      "m": "dur",
+      "f": "dure",
+      "m_pl": "durs",
+      "f_pl": "dures"
+    }
+  },
+  "mou_adj": {
+    "word": "mou",
+    "translations": {
+      "nb": "myk",
+      "en": "soft"
+    },
+    "forms": {
+      "m": "mou",
+      "m_vowel": "mol",
+      "f": "molle",
+      "m_pl": "mous",
+      "f_pl": "molles"
+    }
+  },
+  "lourd_adj": {
+    "word": "lourd",
+    "translations": {
+      "nb": "tung",
+      "en": "heavy"
+    },
+    "forms": {
+      "m": "lourd",
+      "f": "lourde",
+      "m_pl": "lourds",
+      "f_pl": "lourdes"
+    }
+  },
+  "leger_adj": {
+    "word": "leger",
+    "translations": {
+      "nb": "lett (vekt)",
+      "en": "light (weight)"
+    },
+    "forms": {
+      "m": "leger",
+      "f": "legere",
+      "m_pl": "legers",
+      "f_pl": "legeres"
+    }
+  },
+  "large_adj": {
+    "word": "large",
+    "translations": {
+      "nb": "bred",
+      "en": "wide"
+    },
+    "forms": {
+      "m": "large",
+      "f": "large",
+      "m_pl": "larges",
+      "f_pl": "larges"
+    }
+  },
+  "etroit_adj": {
+    "word": "etroit",
+    "translations": {
+      "nb": "smal",
+      "en": "narrow"
+    },
+    "forms": {
+      "m": "etroit",
+      "f": "etroite",
+      "m_pl": "etroits",
+      "f_pl": "etroites"
+    }
+  },
+  "profond_adj": {
+    "word": "profond",
+    "translations": {
+      "nb": "dyp",
+      "en": "deep"
+    },
+    "forms": {
+      "m": "profond",
+      "f": "profonde",
+      "m_pl": "profonds",
+      "f_pl": "profondes"
+    }
+  },
+  "humide_adj": {
+    "word": "humide",
+    "translations": {
+      "nb": "fuktig",
+      "en": "humid, wet"
+    },
+    "forms": {
+      "m": "humide",
+      "f": "humide",
+      "m_pl": "humides",
+      "f_pl": "humides"
+    }
+  },
+  "sec_adj": {
+    "word": "sec",
+    "translations": {
+      "nb": "torr",
+      "en": "dry"
+    },
+    "forms": {
+      "m": "sec",
+      "f": "seche",
+      "m_pl": "secs",
+      "f_pl": "seches"
+    }
+  },
+  "gentil_adj": {
+    "word": "gentil",
+    "translations": {
+      "nb": "snill, vennlig",
+      "en": "kind, nice"
+    },
+    "forms": {
+      "m": "gentil",
+      "f": "gentille",
+      "m_pl": "gentils",
+      "f_pl": "gentilles"
+    }
+  },
+  "mechant_adj": {
+    "word": "mechant",
+    "translations": {
+      "nb": "slem",
+      "en": "mean, naughty"
+    },
+    "forms": {
+      "m": "mechant",
+      "f": "mechante",
+      "m_pl": "mechants",
+      "f_pl": "mechantes"
+    }
+  },
+  "poli_adj": {
+    "word": "poli",
+    "translations": {
+      "nb": "hoflig",
+      "en": "polite"
+    },
+    "forms": {
+      "m": "poli",
+      "f": "polie",
+      "m_pl": "polis",
+      "f_pl": "polies"
+    }
+  },
+  "impoli_adj": {
+    "word": "impoli",
+    "translations": {
+      "nb": "uhoflig",
+      "en": "rude"
+    },
+    "forms": {
+      "m": "impoli",
+      "f": "impolie",
+      "m_pl": "impolis",
+      "f_pl": "impolies"
+    }
+  },
+  "timide_adj": {
+    "word": "timide",
+    "translations": {
+      "nb": "sjenert",
+      "en": "shy"
+    },
+    "forms": {
+      "m": "timide",
+      "f": "timide",
+      "m_pl": "timides",
+      "f_pl": "timides"
+    }
+  },
+  "courageux_adj": {
+    "word": "courageux",
+    "translations": {
+      "nb": "modig",
+      "en": "brave"
+    },
+    "forms": {
+      "m": "courageux",
+      "f": "courageuse",
+      "m_pl": "courageux",
+      "f_pl": "courageuses"
+    }
+  },
+  "genereux_adj": {
+    "word": "genereux",
+    "translations": {
+      "nb": "sjeneros",
+      "en": "generous"
+    },
+    "forms": {
+      "m": "genereux",
+      "f": "genereuse",
+      "m_pl": "genereux",
+      "f_pl": "genereuses"
+    }
+  },
+  "paresseux_adj": {
+    "word": "paresseux",
+    "translations": {
+      "nb": "lat",
+      "en": "lazy"
+    },
+    "forms": {
+      "m": "paresseux",
+      "f": "paresseuse",
+      "m_pl": "paresseux",
+      "f_pl": "paresseuses"
+    }
+  },
+  "travailleur_adj": {
+    "word": "travailleur",
+    "translations": {
+      "nb": "hardtarbeidende",
+      "en": "hardworking"
+    },
+    "forms": {
+      "m": "travailleur",
+      "f": "travailleuse",
+      "m_pl": "travailleurs",
+      "f_pl": "travailleuses"
+    }
+  },
+  "serieux_adj": {
+    "word": "serieux",
+    "translations": {
+      "nb": "serios",
+      "en": "serious"
+    },
+    "forms": {
+      "m": "serieux",
+      "f": "serieuse",
+      "m_pl": "serieux",
+      "f_pl": "serieuses"
+    }
+  },
+  "drole_adj": {
+    "word": "drole",
+    "translations": {
+      "nb": "morsom",
+      "en": "funny"
+    },
+    "forms": {
+      "m": "drole",
+      "f": "drole",
+      "m_pl": "droles",
+      "f_pl": "droles"
+    }
+  },
+  "curieux_adj": {
+    "word": "curieux",
+    "translations": {
+      "nb": "nysgjerrig",
+      "en": "curious"
+    },
+    "forms": {
+      "m": "curieux",
+      "f": "curieuse",
+      "m_pl": "curieux",
+      "f_pl": "curieuses"
+    }
+  },
+  "fier_adj": {
+    "word": "fier",
+    "translations": {
+      "nb": "stolt",
+      "en": "proud"
+    },
+    "forms": {
+      "m": "fier",
+      "f": "fiere",
+      "m_pl": "fiers",
+      "f_pl": "fieres"
+    }
+  },
+  "jaloux_adj": {
+    "word": "jaloux",
+    "translations": {
+      "nb": "sjalu",
+      "en": "jealous"
+    },
+    "forms": {
+      "m": "jaloux",
+      "f": "jalouse",
+      "m_pl": "jaloux",
+      "f_pl": "jalouses"
+    }
+  },
+  "occupe_adj": {
+    "word": "occupe",
+    "translations": {
+      "nb": "opptatt",
+      "en": "busy"
+    },
+    "forms": {
+      "m": "occupe",
+      "f": "occupee",
+      "m_pl": "occupes",
+      "f_pl": "occupees"
+    }
+  },
+  "libre_adj": {
+    "word": "libre",
+    "translations": {
+      "nb": "fri, ledig",
+      "en": "free"
+    },
+    "forms": {
+      "m": "libre",
+      "f": "libre",
+      "m_pl": "libres",
+      "f_pl": "libres"
+    }
+  },
+  "pret_adj": {
+    "word": "pret",
+    "translations": {
+      "nb": "klar",
+      "en": "ready"
+    },
+    "forms": {
+      "m": "pret",
+      "f": "prete",
+      "m_pl": "prets",
+      "f_pl": "pretes"
+    }
+  },
+  "sur_adj": {
+    "word": "sur",
+    "translations": {
+      "nb": "sikker",
+      "en": "sure, certain"
+    },
+    "forms": {
+      "m": "sur",
+      "f": "sure",
+      "m_pl": "surs",
+      "f_pl": "sures"
+    }
+  },
+  "dangereux_adj": {
+    "word": "dangereux",
+    "translations": {
+      "nb": "farlig",
+      "en": "dangerous"
+    },
+    "forms": {
+      "m": "dangereux",
+      "f": "dangereuse",
+      "m_pl": "dangereux",
+      "f_pl": "dangereuses"
+    }
+  },
+  "blond_adj": {
+    "word": "blond",
+    "translations": {
+      "nb": "blond",
+      "en": "blonde"
+    },
+    "forms": {
+      "m": "blond",
+      "f": "blonde",
+      "m_pl": "blonds",
+      "f_pl": "blondes"
+    }
+  },
+  "brun_adj": {
+    "word": "brun",
+    "translations": {
+      "nb": "morkhaaret, brunette",
+      "en": "brown-haired, brunette"
+    },
+    "forms": {
+      "m": "brun",
+      "f": "brune",
+      "m_pl": "bruns",
+      "f_pl": "brunes"
+    }
+  },
+  "roux_adj": {
+    "word": "roux",
+    "translations": {
+      "nb": "rodhaaret",
+      "en": "red-haired"
+    },
+    "forms": {
+      "m": "roux",
+      "f": "rousse",
+      "m_pl": "roux",
+      "f_pl": "rousses"
+    }
+  },
+  "chauve_adj": {
+    "word": "chauve",
+    "translations": {
+      "nb": "skallet",
+      "en": "bald"
+    },
+    "forms": {
+      "m": "chauve",
+      "f": "chauve",
+      "m_pl": "chauves",
+      "f_pl": "chauves"
+    }
+  },
+  "mince_adj": {
+    "word": "mince",
+    "translations": {
+      "nb": "slank, tynn",
+      "en": "slim, thin"
+    },
+    "forms": {
+      "m": "mince",
+      "f": "mince",
+      "m_pl": "minces",
+      "f_pl": "minces"
+    }
+  },
+  "ensoleille_adj": {
+    "word": "ensoleille",
+    "translations": {
+      "nb": "solrik",
+      "en": "sunny"
+    },
+    "forms": {
+      "m": "ensoleille",
+      "f": "ensoleillee",
+      "m_pl": "ensoleilles",
+      "f_pl": "ensoleillees"
+    }
+  },
+  "nuageux_adj": {
+    "word": "nuageux",
+    "translations": {
+      "nb": "overskyet",
+      "en": "cloudy"
+    },
+    "forms": {
+      "m": "nuageux",
+      "f": "nuageuse",
+      "m_pl": "nuageux",
+      "f_pl": "nuageuses"
+    }
+  },
+  "pluvieux_adj": {
+    "word": "pluvieux",
+    "translations": {
+      "nb": "regnfull",
+      "en": "rainy"
+    },
+    "forms": {
+      "m": "pluvieux",
+      "f": "pluvieuse",
+      "m_pl": "pluvieux",
+      "f_pl": "pluvieuses"
+    }
+  },
+  "venteux_adj": {
+    "word": "venteux",
+    "translations": {
+      "nb": "vindfull",
+      "en": "windy"
+    },
+    "forms": {
+      "m": "venteux",
+      "f": "venteuse",
+      "m_pl": "venteux",
+      "f_pl": "venteuses"
+    }
+  },
+  "agreable_adj": {
+    "word": "agreable",
+    "translations": {
+      "nb": "behagelig",
+      "en": "pleasant"
+    },
+    "forms": {
+      "m": "agreable",
+      "f": "agreable",
+      "m_pl": "agreables",
+      "f_pl": "agreables"
+    }
+  },
+  "desagreable_adj": {
+    "word": "desagreable",
+    "translations": {
+      "nb": "ubehagelig",
+      "en": "unpleasant"
+    },
+    "forms": {
+      "m": "desagreable",
+      "f": "desagreable",
+      "m_pl": "desagreables",
+      "f_pl": "desagreables"
+    }
+  },
+  "confortable_adj": {
+    "word": "confortable",
+    "translations": {
+      "nb": "komfortabel",
+      "en": "comfortable"
+    },
+    "forms": {
+      "m": "confortable",
+      "f": "confortable",
+      "m_pl": "confortables",
+      "f_pl": "confortables"
+    }
+  },
+  "utile_adj": {
+    "word": "utile",
+    "translations": {
+      "nb": "nyttig",
+      "en": "useful"
+    },
+    "forms": {
+      "m": "utile",
+      "f": "utile",
+      "m_pl": "utiles",
+      "f_pl": "utiles"
+    }
+  },
+  "inutile_adj": {
+    "word": "inutile",
+    "translations": {
+      "nb": "unyttig",
+      "en": "useless"
+    },
+    "forms": {
+      "m": "inutile",
+      "f": "inutile",
+      "m_pl": "inutiles",
+      "f_pl": "inutiles"
+    }
+  },
+  "necessaire_adj": {
+    "word": "necessaire",
+    "translations": {
+      "nb": "nodvendig",
+      "en": "necessary"
+    },
+    "forms": {
+      "m": "necessaire",
+      "f": "necessaire",
+      "m_pl": "necessaires",
+      "f_pl": "necessaires"
+    }
+  },
+  "correct_adj": {
+    "word": "correct",
+    "translations": {
+      "nb": "riktig",
+      "en": "correct"
+    },
+    "forms": {
+      "m": "correct",
+      "f": "correcte",
+      "m_pl": "corrects",
+      "f_pl": "correctes"
+    }
+  },
+  "incorrect_adj": {
+    "word": "incorrect",
+    "translations": {
+      "nb": "feil",
+      "en": "incorrect"
+    },
+    "forms": {
+      "m": "incorrect",
+      "f": "incorrecte",
+      "m_pl": "incorrects",
+      "f_pl": "incorrectes"
+    }
+  },
+  "moderne_adj": {
+    "word": "moderne",
+    "translations": {
+      "nb": "moderne",
+      "en": "modern"
+    },
+    "forms": {
+      "m": "moderne",
+      "f": "moderne",
+      "m_pl": "modernes",
+      "f_pl": "modernes"
+    }
+  },
+  "ancien_adj": {
+    "word": "ancien",
+    "translations": {
+      "nb": "gammel, tidligere",
+      "en": "old, former"
+    },
+    "forms": {
+      "m": "ancien",
+      "f": "ancienne",
+      "m_pl": "anciens",
+      "f_pl": "anciennes"
+    }
+  },
+  "traditionnel_adj": {
+    "word": "traditionnel",
+    "translations": {
+      "nb": "tradisjonell",
+      "en": "traditional"
+    },
+    "forms": {
+      "m": "traditionnel",
+      "f": "traditionnelle",
+      "m_pl": "traditionnels",
+      "f_pl": "traditionnelles"
+    }
+  },
+  "naturel_adj": {
+    "word": "naturel",
+    "translations": {
+      "nb": "naturlig",
+      "en": "natural"
+    },
+    "forms": {
+      "m": "naturel",
+      "f": "naturelle",
+      "m_pl": "naturels",
+      "f_pl": "naturelles"
+    }
+  },
+  "artificiel_adj": {
+    "word": "artificiel",
+    "translations": {
+      "nb": "kunstig",
+      "en": "artificial"
+    },
+    "forms": {
+      "m": "artificiel",
+      "f": "artificielle",
+      "m_pl": "artificiels",
+      "f_pl": "artificielles"
+    }
+  },
+  "reel_adj": {
+    "word": "reel",
+    "translations": {
+      "nb": "ekte, virkelig",
+      "en": "real"
+    },
+    "forms": {
+      "m": "reel",
+      "f": "reelle",
+      "m_pl": "reels",
+      "f_pl": "reelles"
+    }
+  },
+  "faux_adj": {
+    "word": "faux",
+    "translations": {
+      "nb": "falsk",
+      "en": "false, fake"
+    },
+    "forms": {
+      "m": "faux",
+      "f": "fausse",
+      "m_pl": "faux",
+      "f_pl": "fausses"
+    }
+  },
+  "vrai_adj": {
+    "word": "vrai",
+    "translations": {
+      "nb": "sann",
+      "en": "true"
+    },
+    "forms": {
+      "m": "vrai",
+      "f": "vraie",
+      "m_pl": "vrais",
+      "f_pl": "vraies"
+    }
+  },
+  "public_adj": {
+    "word": "public",
+    "translations": {
+      "nb": "offentlig",
+      "en": "public"
+    },
+    "forms": {
+      "m": "public",
+      "f": "publique",
+      "m_pl": "publics",
+      "f_pl": "publiques"
+    }
+  },
+  "prive_adj": {
+    "word": "prive",
+    "translations": {
+      "nb": "privat",
+      "en": "private"
+    },
+    "forms": {
+      "m": "prive",
+      "f": "privee",
+      "m_pl": "prives",
+      "f_pl": "privees"
+    }
+  },
+  "national_adj": {
+    "word": "national",
+    "translations": {
+      "nb": "nasjonal",
+      "en": "national"
+    },
+    "forms": {
+      "m": "national",
+      "f": "nationale",
+      "m_pl": "nationaux",
+      "f_pl": "nationales"
+    }
+  },
+  "international_adj": {
+    "word": "international",
+    "translations": {
+      "nb": "internasjonal",
+      "en": "international"
+    },
+    "forms": {
+      "m": "international",
+      "f": "internationale",
+      "m_pl": "internationaux",
+      "f_pl": "internationales"
+    }
+  },
+  "local_adj": {
+    "word": "local",
+    "translations": {
+      "nb": "lokal",
+      "en": "local"
+    },
+    "forms": {
+      "m": "local",
+      "f": "locale",
+      "m_pl": "locaux",
+      "f_pl": "locales"
+    }
+  },
+  "favori_adj": {
+    "word": "favori",
+    "translations": {
+      "nb": "favoritt",
+      "en": "favorite"
+    },
+    "forms": {
+      "m": "favori",
+      "f": "favorite",
+      "m_pl": "favoris",
+      "f_pl": "favorites"
+    }
+  },
+  "typique_adj": {
+    "word": "typique",
+    "translations": {
+      "nb": "typisk",
+      "en": "typical"
+    },
+    "forms": {
+      "m": "typique",
+      "f": "typique",
+      "m_pl": "typiques",
+      "f_pl": "typiques"
+    }
+  },
+  "classique_adj": {
+    "word": "classique",
+    "translations": {
+      "nb": "klassisk",
+      "en": "classic"
+    },
+    "forms": {
+      "m": "classique",
+      "f": "classique",
+      "m_pl": "classiques",
+      "f_pl": "classiques"
+    }
+  },
+  "populaire_adj": {
+    "word": "populaire",
+    "translations": {
+      "nb": "populaer",
+      "en": "popular"
+    },
+    "forms": {
+      "m": "populaire",
+      "f": "populaire",
+      "m_pl": "populaires",
+      "f_pl": "populaires"
+    }
+  },
+  "professionnel_adj": {
+    "word": "professionnel",
+    "translations": {
+      "nb": "profesjonell",
+      "en": "professional"
+    },
+    "forms": {
+      "m": "professionnel",
+      "f": "professionnelle",
+      "m_pl": "professionnels",
+      "f_pl": "professionnelles"
+    }
+  },
+  "doux_adj": {
+    "word": "doux",
+    "translations": {
+      "nb": "soet, myk",
+      "en": "sweet, soft"
+    },
+    "forms": {
+      "m": "doux",
+      "f": "douce",
+      "m_pl": "doux",
+      "f_pl": "douces"
+    }
+  },
+  "sale_taste_adj": {
+    "word": "sale (gout)",
+    "translations": {
+      "nb": "salt (smak)",
+      "en": "salty (taste)"
+    },
+    "forms": {
+      "m": "sale",
+      "f": "salee",
+      "m_pl": "sales",
+      "f_pl": "salees"
+    }
+  },
+  "amer_adj": {
+    "word": "amer",
+    "translations": {
+      "nb": "bitter",
+      "en": "bitter"
+    },
+    "forms": {
+      "m": "amer",
+      "f": "amere",
+      "m_pl": "amers",
+      "f_pl": "ameres"
+    }
+  },
+  "epice_adj": {
+    "word": "epice",
+    "translations": {
+      "nb": "sterk (mat)",
+      "en": "spicy"
+    },
+    "forms": {
+      "m": "epice",
+      "f": "epicee",
+      "m_pl": "epices",
+      "f_pl": "epicees"
+    }
+  },
+  "frais_adj": {
+    "word": "frais",
+    "translations": {
+      "nb": "fersk, frisk",
+      "en": "fresh, cool"
+    },
+    "forms": {
+      "m": "frais",
+      "f": "fraiche",
+      "m_pl": "frais",
+      "f_pl": "fraiches"
+    }
+  },
+  "cru_adj": {
+    "word": "cru",
+    "translations": {
+      "nb": "raa",
+      "en": "raw"
+    },
+    "forms": {
+      "m": "cru",
+      "f": "crue",
+      "m_pl": "crus",
+      "f_pl": "crues"
+    }
+  },
+  "mur_adj": {
+    "word": "mur",
+    "translations": {
+      "nb": "moden",
+      "en": "ripe"
+    },
+    "forms": {
+      "m": "mur",
+      "f": "mure",
+      "m_pl": "murs",
+      "f_pl": "mures"
+    }
+  }
+}

@@ -1,0 +1,438 @@
+{
+  "_metadata": {
+    "description": "Spanish pronouns for Hablamos Español 1",
+    "total_pronouns": 45,
+    "categories": [
+      "subject",
+      "direct_object",
+      "indirect_object",
+      "reflexive",
+      "possessive",
+      "demonstrative",
+      "interrogative"
+    ]
+  },
+  "yo_pron": {
+    "word": "yo",
+    "type": "pron",
+    "category": "subject",
+    "translations": {
+      "nb": "jeg",
+      "en": "I"
+    }
+  },
+  "tu_pron": {
+    "word": "tú",
+    "type": "pron",
+    "category": "subject",
+    "translations": {
+      "nb": "du",
+      "en": "you (informal)"
+    }
+  },
+  "el_pron": {
+    "word": "él",
+    "type": "pron",
+    "category": "subject",
+    "translations": {
+      "nb": "han",
+      "en": "he"
+    }
+  },
+  "ella_pron": {
+    "word": "ella",
+    "type": "pron",
+    "category": "subject",
+    "translations": {
+      "nb": "hun",
+      "en": "she"
+    }
+  },
+  "usted_pron": {
+    "word": "usted",
+    "type": "pron",
+    "category": "subject",
+    "translations": {
+      "nb": "De (høflig)",
+      "en": "you (formal)"
+    }
+  },
+  "nosotros_pron": {
+    "word": "nosotros",
+    "type": "pron",
+    "category": "subject",
+    "translations": {
+      "nb": "vi (hankjønn/blandet)",
+      "en": "we (masculine/mixed)"
+    }
+  },
+  "nosotras_pron": {
+    "word": "nosotras",
+    "type": "pron",
+    "category": "subject",
+    "translations": {
+      "nb": "vi (hunkjønn)",
+      "en": "we (feminine)"
+    }
+  },
+  "vosotros_pron": {
+    "word": "vosotros",
+    "type": "pron",
+    "category": "subject",
+    "translations": {
+      "nb": "dere (hankjønn/blandet)",
+      "en": "you all (masculine/mixed, Spain)"
+    }
+  },
+  "vosotras_pron": {
+    "word": "vosotras",
+    "type": "pron",
+    "category": "subject",
+    "translations": {
+      "nb": "dere (hunkjønn)",
+      "en": "you all (feminine, Spain)"
+    }
+  },
+  "ellos_pron": {
+    "word": "ellos",
+    "type": "pron",
+    "category": "subject",
+    "translations": {
+      "nb": "de (hankjønn/blandet)",
+      "en": "they (masculine/mixed)"
+    }
+  },
+  "ellas_pron": {
+    "word": "ellas",
+    "type": "pron",
+    "category": "subject",
+    "translations": {
+      "nb": "de (hunkjønn)",
+      "en": "they (feminine)"
+    }
+  },
+  "ustedes_pron": {
+    "word": "ustedes",
+    "type": "pron",
+    "category": "subject",
+    "translations": {
+      "nb": "Dere (høflig/Latin-Amerika)",
+      "en": "you all (formal/Latin America)"
+    }
+  },
+  "me_dirobj_pron": {
+    "word": "me",
+    "type": "pron",
+    "category": "direct_object",
+    "translations": {
+      "nb": "meg",
+      "en": "me"
+    }
+  },
+  "te_dirobj_pron": {
+    "word": "te",
+    "type": "pron",
+    "category": "direct_object",
+    "translations": {
+      "nb": "deg",
+      "en": "you"
+    }
+  },
+  "lo_dirobj_pron": {
+    "word": "lo",
+    "type": "pron",
+    "category": "direct_object",
+    "translations": {
+      "nb": "ham/den/det",
+      "en": "him/it"
+    }
+  },
+  "la_dirobj_pron": {
+    "word": "la",
+    "type": "pron",
+    "category": "direct_object",
+    "translations": {
+      "nb": "henne/den",
+      "en": "her/it"
+    }
+  },
+  "nos_dirobj_pron": {
+    "word": "nos",
+    "type": "pron",
+    "category": "direct_object",
+    "translations": {
+      "nb": "oss",
+      "en": "us"
+    }
+  },
+  "os_dirobj_pron": {
+    "word": "os",
+    "type": "pron",
+    "category": "direct_object",
+    "translations": {
+      "nb": "dere",
+      "en": "you all"
+    }
+  },
+  "los_dirobj_pron": {
+    "word": "los",
+    "type": "pron",
+    "category": "direct_object",
+    "translations": {
+      "nb": "dem (hankjønn)",
+      "en": "them (masculine)"
+    }
+  },
+  "las_dirobj_pron": {
+    "word": "las",
+    "type": "pron",
+    "category": "direct_object",
+    "translations": {
+      "nb": "dem (hunkjønn)",
+      "en": "them (feminine)"
+    }
+  },
+  "me_indobj_pron": {
+    "word": "me",
+    "type": "pron",
+    "category": "indirect_object",
+    "translations": {
+      "nb": "meg (til meg)",
+      "en": "to me"
+    }
+  },
+  "te_indobj_pron": {
+    "word": "te",
+    "type": "pron",
+    "category": "indirect_object",
+    "translations": {
+      "nb": "deg (til deg)",
+      "en": "to you"
+    }
+  },
+  "le_indobj_pron": {
+    "word": "le",
+    "type": "pron",
+    "category": "indirect_object",
+    "translations": {
+      "nb": "ham/henne (til)",
+      "en": "to him/her"
+    }
+  },
+  "nos_indobj_pron": {
+    "word": "nos",
+    "type": "pron",
+    "category": "indirect_object",
+    "translations": {
+      "nb": "oss (til oss)",
+      "en": "to us"
+    }
+  },
+  "os_indobj_pron": {
+    "word": "os",
+    "type": "pron",
+    "category": "indirect_object",
+    "translations": {
+      "nb": "dere (til dere)",
+      "en": "to you all"
+    }
+  },
+  "les_indobj_pron": {
+    "word": "les",
+    "type": "pron",
+    "category": "indirect_object",
+    "translations": {
+      "nb": "dem (til dem)",
+      "en": "to them"
+    }
+  },
+  "me_reflex_pron": {
+    "word": "me",
+    "type": "pron",
+    "category": "reflexive",
+    "translations": {
+      "nb": "meg (selv)",
+      "en": "myself"
+    }
+  },
+  "te_reflex_pron": {
+    "word": "te",
+    "type": "pron",
+    "category": "reflexive",
+    "translations": {
+      "nb": "deg (selv)",
+      "en": "yourself"
+    }
+  },
+  "se_reflex_pron": {
+    "word": "se",
+    "type": "pron",
+    "category": "reflexive",
+    "translations": {
+      "nb": "seg (selv)",
+      "en": "himself/herself/itself/themselves"
+    }
+  },
+  "nos_reflex_pron": {
+    "word": "nos",
+    "type": "pron",
+    "category": "reflexive",
+    "translations": {
+      "nb": "oss (selv)",
+      "en": "ourselves"
+    }
+  },
+  "os_reflex_pron": {
+    "word": "os",
+    "type": "pron",
+    "category": "reflexive",
+    "translations": {
+      "nb": "dere (selv)",
+      "en": "yourselves"
+    }
+  },
+  "mi_possess_pron": {
+    "word": "mi/mis",
+    "type": "pron",
+    "category": "possessive",
+    "translations": {
+      "nb": "min/mine",
+      "en": "my"
+    }
+  },
+  "tu_possess_pron": {
+    "word": "tu/tus",
+    "type": "pron",
+    "category": "possessive",
+    "translations": {
+      "nb": "din/dine",
+      "en": "your (informal)"
+    }
+  },
+  "su_possess_pron": {
+    "word": "su/sus",
+    "type": "pron",
+    "category": "possessive",
+    "translations": {
+      "nb": "hans/hennes/deres/sin",
+      "en": "his/her/their/your (formal)"
+    }
+  },
+  "nuestro_possess_pron": {
+    "word": "nuestro/a/os/as",
+    "type": "pron",
+    "category": "possessive",
+    "translations": {
+      "nb": "vår/våre",
+      "en": "our"
+    }
+  },
+  "vuestro_possess_pron": {
+    "word": "vuestro/a/os/as",
+    "type": "pron",
+    "category": "possessive",
+    "translations": {
+      "nb": "deres (flertall, Spania)",
+      "en": "your (plural, Spain)"
+    }
+  },
+  "este_demon_pron": {
+    "word": "este/esta/estos/estas",
+    "type": "pron",
+    "category": "demonstrative",
+    "translations": {
+      "nb": "denne/dette/disse (nær)",
+      "en": "this/these (near)"
+    }
+  },
+  "ese_demon_pron": {
+    "word": "ese/esa/esos/esas",
+    "type": "pron",
+    "category": "demonstrative",
+    "translations": {
+      "nb": "den/det/de (middels avstand)",
+      "en": "that/those (medium distance)"
+    }
+  },
+  "aquel_demon_pron": {
+    "word": "aquel/aquella/aquellos/aquellas",
+    "type": "pron",
+    "category": "demonstrative",
+    "translations": {
+      "nb": "den/det/de (langt unna)",
+      "en": "that/those (far away)"
+    }
+  },
+  "que_interr_pron": {
+    "word": "¿qué?",
+    "type": "pron",
+    "category": "interrogative",
+    "translations": {
+      "nb": "hva?",
+      "en": "what?"
+    }
+  },
+  "quien_interr_pron": {
+    "word": "¿quién?/¿quiénes?",
+    "type": "pron",
+    "category": "interrogative",
+    "translations": {
+      "nb": "hvem?",
+      "en": "who?"
+    }
+  },
+  "cual_interr_pron": {
+    "word": "¿cuál?/¿cuáles?",
+    "type": "pron",
+    "category": "interrogative",
+    "translations": {
+      "nb": "hvilken/hvilke?",
+      "en": "which?"
+    }
+  },
+  "cuanto_interr_pron": {
+    "word": "¿cuánto/a/os/as?",
+    "type": "pron",
+    "category": "interrogative",
+    "translations": {
+      "nb": "hvor mye/mange?",
+      "en": "how much/many?"
+    }
+  },
+  "donde_interr_pron": {
+    "word": "¿dónde?",
+    "type": "pron",
+    "category": "interrogative",
+    "translations": {
+      "nb": "hvor?",
+      "en": "where?"
+    }
+  },
+  "cuando_interr_pron": {
+    "word": "¿cuándo?",
+    "type": "pron",
+    "category": "interrogative",
+    "translations": {
+      "nb": "når?",
+      "en": "when?"
+    }
+  },
+  "como_interr_pron": {
+    "word": "¿cómo?",
+    "type": "pron",
+    "category": "interrogative",
+    "translations": {
+      "nb": "hvordan?",
+      "en": "how?"
+    }
+  },
+  "por_que_interr_pron": {
+    "word": "¿por qué?",
+    "type": "pron",
+    "category": "interrogative",
+    "translations": {
+      "nb": "hvorfor?",
+      "en": "why?"
+    }
+  }
+}

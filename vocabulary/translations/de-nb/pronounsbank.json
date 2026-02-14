@@ -1,0 +1,234 @@
+{
+  "_metadata": {
+    "source": "pronounsbank.json",
+    "targetLanguage": "german",
+    "nativeLanguage": "nb",
+    "generatedAt": "2026-01-16T17:26:35.894Z",
+    "description": "NB translations for german pronouns"
+  },
+  "ich_pron": {
+    "translation": "jeg",
+    "explanation": {
+      "_description": "Personlig pronomen: \"jeg\" (1. person entall). Eksempel: \"Ich heiße Olivia\" (jeg heter Olivia), \"Ich bin sechzehn\" (jeg er seksten)."
+    }
+  },
+  "du_pron": {
+    "translation": "du",
+    "explanation": {
+      "_description": "Personlig pronomen: \"du\" (2. person entall, uformelt). Brukes når man snakker til én person man kjenner godt. Eksempel: \"Wie heißt du?\" (hva heter du?)."
+    }
+  },
+  "er_pron": {
+    "translation": "han",
+    "explanation": {
+      "_description": "Personlig pronomen: \"han\" (3. person entall, hankjønn). Brukes om personer eller ting som er hankjønn. Eksempel: \"Er ist mein Bruder\" (han er min bror)."
+    }
+  },
+  "sie_pron": {
+    "translation": "hun/de",
+    "explanation": {
+      "_description": "Personlig pronomen: \"hun\" (3. person entall, hunkjønn) eller \"de\" (3. person flertall). Eksempel: \"Sie ist meine Schwester\" (hun er min søster), \"Sie sind meine Eltern\" (de er mine foreldre). Obs: \"Sie\" med stor S betyr også \"De\" (høflig form)."
+    }
+  },
+  "es_pron": {
+    "translation": "det/den",
+    "explanation": {
+      "_description": "Personlig pronomen: \"det/den\" (3. person entall, intetkjønn). Brukes om ting som er intetkjønn. Eksempel: \"Es ist mein Foto\" (det er mitt bilde)."
+    }
+  },
+  "mein_possessiv": {
+    "translation": "min (hankjønn/intetkjønn)",
+    "explanation": {
+      "_description": "Eiendomspronomen: \"min/mitt\". Bøyes som \"ein\". Eksempel: \"mein Vater\" (min far), \"mein Foto\" (mitt bilde)."
+    }
+  },
+  "meine_possessiv": {
+    "translation": "min/mi (hunkjønn/flertall)",
+    "explanation": {
+      "_description": "Eiendomspronomen: \"min/mi/mine\". Brukes for hunkjønn eller flertall. Eksempel: \"meine Mutter\" (min mor), \"meine Eltern\" (mine foreldre)."
+    }
+  },
+  "dein_possessiv": {
+    "translation": "din (hankjønn/intetkjønn)",
+    "explanation": {
+      "_description": "Eiendomspronomen: \"din/ditt\" (2. person entall). Eksempel: \"dein Bruder\" (din bror), \"dein Foto\" (ditt bilde)."
+    }
+  },
+  "deine_possessiv": {
+    "translation": "din/di (hunkjønn/flertall)",
+    "explanation": {
+      "_description": "Eiendomspronomen: \"din/di/dine\" (2. person entall). Eksempel: \"deine Schwester\" (din søster), \"deine Eltern\" (dine foreldre)."
+    }
+  },
+  "wir_pron": {
+    "translation": "vi",
+    "explanation": {
+      "_description": "Personlig pronomen: \"vi\" (1. person flertall). Eksempel: \"Wir wohnen hier\" (vi bor her), \"Wir sind Freunde\" (vi er venner)."
+    }
+  },
+  "mich_pron": {
+    "translation": "meg/meg selv",
+    "explanation": {
+      "_description": "Refleksivt pronomen / objektform av \"ich\": \"meg\" eller \"meg selv\". Brukes med refleksive verb: \"Ich interessiere mich für...\" (jeg interesserer meg for...), eller som objekt: \"Siehst du mich?\" (ser du meg?)."
+    }
+  },
+  "alle_pron": {
+    "translation": "alle",
+    "explanation": {
+      "_description": "Pronomen/determiner: \"alle\". Brukes for å referere til \"alle\" personer eller ting. Eksempel: \"Wir können alle zusammen spielen\" (vi kan alle spille sammen)."
+    }
+  },
+  "man_pron": {
+    "translation": "man/en",
+    "explanation": {
+      "_description": "Upersonlig pronomen: \"man\" eller \"en\". Brukes for å snakke generelt om folk. Eksempel: \"Man kann hier schwimmen\" (man kan svømme her)."
+    }
+  },
+  "alles_pron": {
+    "translation": "alt",
+    "explanation": {
+      "_description": "Indefinitt pronomen: \"alt\" (intetkjønn). Brukes for å referere til \"alt\" eller \"alle ting\". Eksempel: \"Alles ist gut\" (alt er bra), \"Ich mag alles\" (jeg liker alt)."
+    }
+  },
+  "ihr_pron": {
+    "translation": "dere",
+    "explanation": {
+      "_description": "Personlig pronomen: \"dere\" (2. person flertall, uformelt). Brukes når man snakker til flere personer man kjenner. Eksempel: \"Wollt ihr ins Kino gehen?\" (vil dere gå på kino?)."
+    }
+  },
+  "uns_pron": {
+    "translation": "oss/oss selv",
+    "explanation": {
+      "_description": "Refleksivt pronomen / objektform av \"wir\": \"oss\" eller \"oss selv\". Eksempel: \"Wir treffen uns\" (vi møtes/treffes), \"Siehst du uns?\" (ser du oss?)."
+    }
+  },
+  "euch_pron": {
+    "translation": "dere/dere selv (akkusativ/dativ)",
+    "explanation": {
+      "_description": "Refleksivt pronomen / objektform av \"ihr\": \"dere\" eller \"dere selv\". Eksempel: \"Ich sehe euch\" (jeg ser dere), \"Freut ihr euch?\" (gleder dere dere?)."
+    }
+  },
+  "dich_pron": {
+    "translation": "deg/deg selv",
+    "explanation": {
+      "_description": "Refleksivt pronomen / objektform av \"du\": \"deg\" eller \"deg selv\". Eksempel: \"Ich sehe dich\" (jeg ser deg), \"Du freust dich\" (du gleder deg)."
+    }
+  },
+  "sich_pron": {
+    "translation": "seg/seg selv",
+    "explanation": {
+      "_description": "Refleksivt pronomen for 3. person (er/sie/es/sie plural): \"seg\" eller \"seg selv\". Eksempel: \"Er freut sich\" (han gleder seg), \"Sie interessiert sich\" (hun interesserer seg)."
+    }
+  },
+  "sein_possessiv": {
+    "translation": "hans (hankjønn/intetkjønn)",
+    "explanation": {
+      "_description": "Eiendomspronomen: \"hans\" (3. person entall hankjønn). Eksempel: \"sein Vater\" (hans far), \"sein Buch\" (hans bok)."
+    }
+  },
+  "seine_possessiv": {
+    "translation": "hans (hunkjønn/flertall)",
+    "explanation": {
+      "_description": "Eiendomspronomen: \"hans\" for hunkjønn eller flertall. Eksempel: \"seine Mutter\" (hans mor), \"seine Freunde\" (hans venner)."
+    }
+  },
+  "ihr_poss_possessiv": {
+    "translation": "hennes (hankjønn/intetkjønn)",
+    "explanation": {
+      "_description": "Eiendomspronomen: \"hennes\" (3. person entall hunkjønn). Eksempel: \"ihr Vater\" (hennes far), \"ihr Buch\" (hennes bok). Obs: Samme form som pronomen \"dere\" (ihr)."
+    }
+  },
+  "ihre_possessiv": {
+    "translation": "hennes (hunkjønn/flertall)",
+    "explanation": {
+      "_description": "Eiendomspronomen: \"hennes\" for hunkjønn eller flertall. Eksempel: \"ihre Mutter\" (hennes mor), \"ihre Freunde\" (hennes venner)."
+    }
+  },
+  "unser_possessiv": {
+    "translation": "vår (hankjønn/intetkjønn)",
+    "explanation": {
+      "_description": "Eiendomspronomen: \"vår/vårt\" (1. person flertall). Eksempel: \"unser Haus\" (vårt hus), \"unser Vater\" (vår far)."
+    }
+  },
+  "unsere_possessiv": {
+    "translation": "vår (hunkjønn/flertall)",
+    "explanation": {
+      "_description": "Eiendomspronomen: \"vår\" for hunkjønn eller flertall. Eksempel: \"unsere Mutter\" (vår mor), \"unsere Freunde\" (våre venner)."
+    }
+  },
+  "euer_possessiv": {
+    "translation": "deres (hankjønn/intetkjønn)",
+    "explanation": {
+      "_description": "Eiendomspronomen: \"deres\" (2. person flertall). Eksempel: \"euer Haus\" (deres hus), \"euer Vater\" (deres far)."
+    }
+  },
+  "eure_possessiv": {
+    "translation": "deres (hunkjønn/flertall)",
+    "explanation": {
+      "_description": "Eiendomspronomen: \"deres\" for hunkjønn eller flertall. Eksempel: \"eure Mutter\" (deres mor), \"eure Freunde\" (deres venner)."
+    }
+  },
+  "ihn_pron": {
+    "translation": "ham/den (akkusativ hankjønn)",
+    "explanation": {
+      "_description": "Objektform (akkusativ) av \"er\": \"ham\" eller \"den/det\" (for hankjønnsord). Eksempel: \"Magst du ihn?\" (liker du den/ham?), \"Ich mag ihn\" (jeg liker ham/den)."
+    }
+  },
+  "jedes_pron": {
+    "translation": "hver/hvert (intetkjønn)",
+    "explanation": {
+      "_description": "Determiner-pronomen: \"hver\" eller \"hvert\" (nøytralt). Brukes om intetkjønnsord. Eksempel: \"jedes Tier\" (hvert dyr), \"jedes Kind\" (hvert barn). Tilsvarende: \"jeder\" (m), \"jede\" (f)."
+    }
+  },
+  "dir_pron": {
+    "translation": "deg (dativ)",
+    "explanation": {
+      "_description": "Dativ-form av \"du\": \"deg\". Brukes i uttrykk som \"Wie geht es dir?\" (hvordan går det med deg?), \"es geht dir gut\" (det går bra med deg). Dativ brukes ofte i faste uttrykk og med visse verb."
+    }
+  },
+  "beide_pron": {
+    "translation": "begge",
+    "explanation": {
+      "_description": "Pronomen: \"begge\". Brukes for å referere til to personer eller ting sammen. Eksempel: \"Wir sind beide hier\" (vi er begge her), \"beide Freunde\" (begge vennene)."
+    }
+  },
+  "wer_pron": {
+    "translation": "hvem (nominativ)",
+    "explanation": {
+      "_description": "Spørrende pronomen: \"hvem\" (nominativ/subjekt). Brukes når \"hvem\" er subjekt i setningen. Eksempel: \"Wer ist dein bester Freund?\" (hvem er din beste venn?)."
+    }
+  },
+  "wen_pron": {
+    "translation": "hvem (akkusativ)",
+    "explanation": {
+      "_description": "Spørrende pronomen: \"hvem\" (akkusativ/objekt). Brukes når \"hvem\" er objekt i setningen. Eksempel: \"Wen magst du in der Klasse?\" (hvem liker du i klassen?), \"Wen rufst du an?\" (hvem ringer du til?)."
+    }
+  },
+  "mir_pron": {
+    "translation": "meg (dativ)",
+    "explanation": {
+      "_description": "Dativ-form av \"ich\": \"meg\". Brukes med dativ-verb som \"helfen\". Eksempel: \"Kannst du mir helfen?\" (kan du hjelpe meg?), \"Er gibt mir das Buch\" (han gir meg boken)."
+    }
+  },
+  "ihm_pron": {
+    "translation": "ham (dativ)",
+    "explanation": {
+      "_description": "Dativ-form av \"er\": \"ham\". Brukes med dativ-verb. Eksempel: \"Ich helfe ihm\" (jeg hjelper ham), \"Ich gebe ihm das Buch\" (jeg gir ham boken)."
+    }
+  },
+  "ihr_dat_pron": {
+    "translation": "henne (dativ)",
+    "explanation": {
+      "_description": "Dativ-form av \"sie\" (hun): \"henne\". Brukes med dativ-verb. Eksempel: \"Ich helfe ihr\" (jeg hjelper henne), \"Ich gebe ihr das Buch\" (jeg gir henne boken). OBS: Ikke forveksle med \"ihr\" (dere)."
+    }
+  },
+  "ihnen_pron": {
+    "translation": "dem (dativ flertall)",
+    "explanation": {
+      "_description": "Dativ-form av \"sie\" (de): \"dem\". Brukes med dativ-verb. Eksempel: \"Ich helfe ihnen\" (jeg hjelper dem), \"Ich gebe ihnen die Bücher\" (jeg gir dem bøkene)."
+    }
+  },
+  "einander_pron": {
+    "translation": "hverandre"
+  }
+}

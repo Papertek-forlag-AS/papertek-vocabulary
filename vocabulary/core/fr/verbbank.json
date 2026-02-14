@@ -1,0 +1,1036 @@
+{
+  "_metadata": {
+    "description": "French verb bank for Nous parlons Français 1",
+    "conjugation_order": ["je", "tu", "il/elle/on", "nous", "vous", "ils/elles"],
+    "verb_groups": {
+      "1": "-er verbs (regular, ~90% of verbs)",
+      "2": "-ir verbs with -iss- stem (finir type)",
+      "3": "irregular verbs"
+    },
+    "total_verbs": 100
+  },
+
+  "etre_verbe": {
+    "word": "être",
+    "translations": { "nb": "å være", "en": "to be" },
+    "type": "verbe",
+    "group": 3,
+    "conjugations": {
+      "presens": {
+        "former": ["suis", "es", "est", "sommes", "êtes", "sont"]
+      }
+    }
+  },
+  "avoir_verbe": {
+    "word": "avoir",
+    "translations": { "nb": "å ha", "en": "to have" },
+    "type": "verbe",
+    "group": 3,
+    "conjugations": {
+      "presens": {
+        "former": ["ai", "as", "a", "avons", "avez", "ont"]
+      }
+    }
+  },
+  "aller_verbe": {
+    "word": "aller",
+    "translations": { "nb": "å gå, å dra", "en": "to go" },
+    "type": "verbe",
+    "group": 3,
+    "conjugations": {
+      "presens": {
+        "former": ["vais", "vas", "va", "allons", "allez", "vont"]
+      }
+    }
+  },
+  "faire_verbe": {
+    "word": "faire",
+    "translations": { "nb": "å gjøre, å lage", "en": "to do, to make" },
+    "type": "verbe",
+    "group": 3,
+    "conjugations": {
+      "presens": {
+        "former": ["fais", "fais", "fait", "faisons", "faites", "font"]
+      }
+    }
+  },
+  "venir_verbe": {
+    "word": "venir",
+    "translations": { "nb": "å komme", "en": "to come" },
+    "type": "verbe",
+    "group": 3,
+    "conjugations": {
+      "presens": {
+        "former": ["viens", "viens", "vient", "venons", "venez", "viennent"]
+      }
+    }
+  },
+  "voir_verbe": {
+    "word": "voir",
+    "translations": { "nb": "å se", "en": "to see" },
+    "type": "verbe",
+    "group": 3,
+    "conjugations": {
+      "presens": {
+        "former": ["vois", "vois", "voit", "voyons", "voyez", "voient"]
+      }
+    }
+  },
+  "prendre_verbe": {
+    "word": "prendre",
+    "translations": { "nb": "å ta", "en": "to take" },
+    "type": "verbe",
+    "group": 3,
+    "conjugations": {
+      "presens": {
+        "former": ["prends", "prends", "prend", "prenons", "prenez", "prennent"]
+      }
+    }
+  },
+  "mettre_verbe": {
+    "word": "mettre",
+    "translations": { "nb": "å sette, å legge", "en": "to put" },
+    "type": "verbe",
+    "group": 3,
+    "conjugations": {
+      "presens": {
+        "former": ["mets", "mets", "met", "mettons", "mettez", "mettent"]
+      }
+    }
+  },
+  "dire_verbe": {
+    "word": "dire",
+    "translations": { "nb": "å si", "en": "to say, to tell" },
+    "type": "verbe",
+    "group": 3,
+    "conjugations": {
+      "presens": {
+        "former": ["dis", "dis", "dit", "disons", "dites", "disent"]
+      }
+    }
+  },
+  "partir_verbe": {
+    "word": "partir",
+    "translations": { "nb": "å dra, å reise", "en": "to leave" },
+    "type": "verbe",
+    "group": 3,
+    "conjugations": {
+      "presens": {
+        "former": ["pars", "pars", "part", "partons", "partez", "partent"]
+      }
+    }
+  },
+  "sortir_verbe": {
+    "word": "sortir",
+    "translations": { "nb": "å gå ut", "en": "to go out" },
+    "type": "verbe",
+    "group": 3,
+    "conjugations": {
+      "presens": {
+        "former": ["sors", "sors", "sort", "sortons", "sortez", "sortent"]
+      }
+    }
+  },
+  "dormir_verbe": {
+    "word": "dormir",
+    "translations": { "nb": "å sove", "en": "to sleep" },
+    "type": "verbe",
+    "group": 3,
+    "conjugations": {
+      "presens": {
+        "former": ["dors", "dors", "dort", "dormons", "dormez", "dorment"]
+      }
+    }
+  },
+  "pouvoir_verbe": {
+    "word": "pouvoir",
+    "translations": { "nb": "å kunne", "en": "to be able to, can" },
+    "type": "verbe",
+    "group": 3,
+    "conjugations": {
+      "presens": {
+        "former": ["peux", "peux", "peut", "pouvons", "pouvez", "peuvent"]
+      }
+    }
+  },
+  "vouloir_verbe": {
+    "word": "vouloir",
+    "translations": { "nb": "å ville", "en": "to want" },
+    "type": "verbe",
+    "group": 3,
+    "conjugations": {
+      "presens": {
+        "former": ["veux", "veux", "veut", "voulons", "voulez", "veulent"]
+      }
+    }
+  },
+  "savoir_verbe": {
+    "word": "savoir",
+    "translations": { "nb": "å vite, å kunne", "en": "to know (facts)" },
+    "type": "verbe",
+    "group": 3,
+    "conjugations": {
+      "presens": {
+        "former": ["sais", "sais", "sait", "savons", "savez", "savent"]
+      }
+    }
+  },
+  "devoir_verbe": {
+    "word": "devoir",
+    "translations": { "nb": "å måtte", "en": "must, to have to" },
+    "type": "verbe",
+    "group": 3,
+    "conjugations": {
+      "presens": {
+        "former": ["dois", "dois", "doit", "devons", "devez", "doivent"]
+      }
+    }
+  },
+  "connaitre_verbe": {
+    "word": "connaître",
+    "translations": { "nb": "å kjenne", "en": "to know (people)" },
+    "type": "verbe",
+    "group": 3,
+    "conjugations": {
+      "presens": {
+        "former": ["connais", "connais", "connaît", "connaissons", "connaissez", "connaissent"]
+      }
+    }
+  },
+  "lire_verbe": {
+    "word": "lire",
+    "translations": { "nb": "å lese", "en": "to read" },
+    "type": "verbe",
+    "group": 3,
+    "conjugations": {
+      "presens": {
+        "former": ["lis", "lis", "lit", "lisons", "lisez", "lisent"]
+      }
+    }
+  },
+  "ecrire_verbe": {
+    "word": "écrire",
+    "translations": { "nb": "å skrive", "en": "to write" },
+    "type": "verbe",
+    "group": 3,
+    "conjugations": {
+      "presens": {
+        "former": ["écris", "écris", "écrit", "écrivons", "écrivez", "écrivent"]
+      }
+    }
+  },
+  "boire_verbe": {
+    "word": "boire",
+    "translations": { "nb": "å drikke", "en": "to drink" },
+    "type": "verbe",
+    "group": 3,
+    "conjugations": {
+      "presens": {
+        "former": ["bois", "bois", "boit", "buvons", "buvez", "boivent"]
+      }
+    }
+  },
+  "croire_verbe": {
+    "word": "croire",
+    "translations": { "nb": "å tro", "en": "to believe" },
+    "type": "verbe",
+    "group": 3,
+    "conjugations": {
+      "presens": {
+        "former": ["crois", "crois", "croit", "croyons", "croyez", "croient"]
+      }
+    }
+  },
+  "entendre_verbe": {
+    "word": "entendre",
+    "translations": { "nb": "å høre", "en": "to hear" },
+    "type": "verbe",
+    "group": 3,
+    "conjugations": {
+      "presens": {
+        "former": ["entends", "entends", "entend", "entendons", "entendez", "entendent"]
+      }
+    }
+  },
+  "attendre_verbe": {
+    "word": "attendre",
+    "translations": { "nb": "å vente", "en": "to wait" },
+    "type": "verbe",
+    "group": 3,
+    "conjugations": {
+      "presens": {
+        "former": ["attends", "attends", "attend", "attendons", "attendez", "attendent"]
+      }
+    }
+  },
+  "repondre_verbe": {
+    "word": "répondre",
+    "translations": { "nb": "å svare", "en": "to answer" },
+    "type": "verbe",
+    "group": 3,
+    "conjugations": {
+      "presens": {
+        "former": ["réponds", "réponds", "répond", "répondons", "répondez", "répondent"]
+      }
+    }
+  },
+  "perdre_verbe": {
+    "word": "perdre",
+    "translations": { "nb": "å miste, å tape", "en": "to lose" },
+    "type": "verbe",
+    "group": 3,
+    "conjugations": {
+      "presens": {
+        "former": ["perds", "perds", "perd", "perdons", "perdez", "perdent"]
+      }
+    }
+  },
+  "rendre_verbe": {
+    "word": "rendre",
+    "translations": { "nb": "å gi tilbake", "en": "to give back" },
+    "type": "verbe",
+    "group": 3,
+    "conjugations": {
+      "presens": {
+        "former": ["rends", "rends", "rend", "rendons", "rendez", "rendent"]
+      }
+    }
+  },
+  "descendre_verbe": {
+    "word": "descendre",
+    "translations": { "nb": "å gå ned", "en": "to go down" },
+    "type": "verbe",
+    "group": 3,
+    "conjugations": {
+      "presens": {
+        "former": ["descends", "descends", "descend", "descendons", "descendez", "descendent"]
+      }
+    }
+  },
+  "ouvrir_verbe": {
+    "word": "ouvrir",
+    "translations": { "nb": "å åpne", "en": "to open" },
+    "type": "verbe",
+    "group": 3,
+    "conjugations": {
+      "presens": {
+        "former": ["ouvre", "ouvres", "ouvre", "ouvrons", "ouvrez", "ouvrent"]
+      }
+    }
+  },
+  "offrir_verbe": {
+    "word": "offrir",
+    "translations": { "nb": "å tilby, å gi", "en": "to offer, to give" },
+    "type": "verbe",
+    "group": 3,
+    "conjugations": {
+      "presens": {
+        "former": ["offre", "offres", "offre", "offrons", "offrez", "offrent"]
+      }
+    }
+  },
+
+  "finir_verbe": {
+    "word": "finir",
+    "translations": { "nb": "å fullføre, å slutte", "en": "to finish" },
+    "type": "verbe",
+    "group": 2,
+    "conjugations": {
+      "presens": {
+        "former": ["finis", "finis", "finit", "finissons", "finissez", "finissent"]
+      }
+    }
+  },
+  "choisir_verbe": {
+    "word": "choisir",
+    "translations": { "nb": "å velge", "en": "to choose" },
+    "type": "verbe",
+    "group": 2,
+    "conjugations": {
+      "presens": {
+        "former": ["choisis", "choisis", "choisit", "choisissons", "choisissez", "choisissent"]
+      }
+    }
+  },
+  "reussir_verbe": {
+    "word": "réussir",
+    "translations": { "nb": "å lykkes", "en": "to succeed" },
+    "type": "verbe",
+    "group": 2,
+    "conjugations": {
+      "presens": {
+        "former": ["réussis", "réussis", "réussit", "réussissons", "réussissez", "réussissent"]
+      }
+    }
+  },
+  "remplir_verbe": {
+    "word": "remplir",
+    "translations": { "nb": "å fylle", "en": "to fill" },
+    "type": "verbe",
+    "group": 2,
+    "conjugations": {
+      "presens": {
+        "former": ["remplis", "remplis", "remplit", "remplissons", "remplissez", "remplissent"]
+      }
+    }
+  },
+  "grandir_verbe": {
+    "word": "grandir",
+    "translations": { "nb": "å vokse", "en": "to grow" },
+    "type": "verbe",
+    "group": 2,
+    "conjugations": {
+      "presens": {
+        "former": ["grandis", "grandis", "grandit", "grandissons", "grandissez", "grandissent"]
+      }
+    }
+  },
+  "obeir_verbe": {
+    "word": "obéir",
+    "translations": { "nb": "å adlyde", "en": "to obey" },
+    "type": "verbe",
+    "group": 2,
+    "conjugations": {
+      "presens": {
+        "former": ["obéis", "obéis", "obéit", "obéissons", "obéissez", "obéissent"]
+      }
+    }
+  },
+  "reflechir_verbe": {
+    "word": "réfléchir",
+    "translations": { "nb": "å tenke, å reflektere", "en": "to think, to reflect" },
+    "type": "verbe",
+    "group": 2,
+    "conjugations": {
+      "presens": {
+        "former": ["réfléchis", "réfléchis", "réfléchit", "réfléchissons", "réfléchissez", "réfléchissent"]
+      }
+    }
+  },
+  "punir_verbe": {
+    "word": "punir",
+    "translations": { "nb": "å straffe", "en": "to punish" },
+    "type": "verbe",
+    "group": 2,
+    "conjugations": {
+      "presens": {
+        "former": ["punis", "punis", "punit", "punissons", "punissez", "punissent"]
+      }
+    }
+  },
+  "applaudir_verbe": {
+    "word": "applaudir",
+    "translations": { "nb": "å applaudere", "en": "to applaud" },
+    "type": "verbe",
+    "group": 2,
+    "conjugations": {
+      "presens": {
+        "former": ["applaudis", "applaudis", "applaudit", "applaudissons", "applaudissez", "applaudissent"]
+      }
+    }
+  },
+  "guerir_verbe": {
+    "word": "guérir",
+    "translations": { "nb": "å helbrede", "en": "to heal, to cure" },
+    "type": "verbe",
+    "group": 2,
+    "conjugations": {
+      "presens": {
+        "former": ["guéris", "guéris", "guérit", "guérissons", "guérissez", "guérissent"]
+      }
+    }
+  },
+
+  "parler_verbe": {
+    "word": "parler",
+    "translations": { "nb": "å snakke", "en": "to speak, to talk" },
+    "type": "verbe",
+    "group": 1,
+    "conjugations": {
+      "presens": {
+        "former": ["parle", "parles", "parle", "parlons", "parlez", "parlent"]
+      }
+    }
+  },
+  "etudier_verbe": {
+    "word": "étudier",
+    "translations": { "nb": "å studere", "en": "to study" },
+    "type": "verbe",
+    "group": 1,
+    "conjugations": {
+      "presens": {
+        "former": ["étudie", "étudies", "étudie", "étudions", "étudiez", "étudient"]
+      }
+    }
+  },
+  "travailler_verbe": {
+    "word": "travailler",
+    "translations": { "nb": "å jobbe", "en": "to work" },
+    "type": "verbe",
+    "group": 1,
+    "conjugations": {
+      "presens": {
+        "former": ["travaille", "travailles", "travaille", "travaillons", "travaillez", "travaillent"]
+      }
+    }
+  },
+  "acheter_verbe": {
+    "word": "acheter",
+    "translations": { "nb": "å kjøpe", "en": "to buy" },
+    "type": "verbe",
+    "group": 1,
+    "conjugations": {
+      "presens": {
+        "former": ["achète", "achètes", "achète", "achetons", "achetez", "achètent"]
+      }
+    }
+  },
+  "ecouter_verbe": {
+    "word": "écouter",
+    "translations": { "nb": "å høre på, å lytte", "en": "to listen" },
+    "type": "verbe",
+    "group": 1,
+    "conjugations": {
+      "presens": {
+        "former": ["écoute", "écoutes", "écoute", "écoutons", "écoutez", "écoutent"]
+      }
+    }
+  },
+  "regarder_verbe": {
+    "word": "regarder",
+    "translations": { "nb": "å se på", "en": "to look at, to watch" },
+    "type": "verbe",
+    "group": 1,
+    "conjugations": {
+      "presens": {
+        "former": ["regarde", "regardes", "regarde", "regardons", "regardez", "regardent"]
+      }
+    }
+  },
+  "chercher_verbe": {
+    "word": "chercher",
+    "translations": { "nb": "å lete etter", "en": "to look for" },
+    "type": "verbe",
+    "group": 1,
+    "conjugations": {
+      "presens": {
+        "former": ["cherche", "cherches", "cherche", "cherchons", "cherchez", "cherchent"]
+      }
+    }
+  },
+  "appeler_verbe": {
+    "word": "appeler",
+    "translations": { "nb": "å ringe, å kalle", "en": "to call" },
+    "type": "verbe",
+    "group": 1,
+    "conjugations": {
+      "presens": {
+        "former": ["appelle", "appelles", "appelle", "appelons", "appelez", "appellent"]
+      }
+    }
+  },
+  "arriver_verbe": {
+    "word": "arriver",
+    "translations": { "nb": "å ankomme, å skje", "en": "to arrive, to happen" },
+    "type": "verbe",
+    "group": 1,
+    "conjugations": {
+      "presens": {
+        "former": ["arrive", "arrives", "arrive", "arrivons", "arrivez", "arrivent"]
+      }
+    }
+  },
+  "porter_verbe": {
+    "word": "porter",
+    "translations": { "nb": "å bære, å ha på seg", "en": "to carry, to wear" },
+    "type": "verbe",
+    "group": 1,
+    "conjugations": {
+      "presens": {
+        "former": ["porte", "portes", "porte", "portons", "portez", "portent"]
+      }
+    }
+  },
+  "marcher_verbe": {
+    "word": "marcher",
+    "translations": { "nb": "å gå, å virke", "en": "to walk, to work" },
+    "type": "verbe",
+    "group": 1,
+    "conjugations": {
+      "presens": {
+        "former": ["marche", "marches", "marche", "marchons", "marchez", "marchent"]
+      }
+    }
+  },
+  "chanter_verbe": {
+    "word": "chanter",
+    "translations": { "nb": "å synge", "en": "to sing" },
+    "type": "verbe",
+    "group": 1,
+    "conjugations": {
+      "presens": {
+        "former": ["chante", "chantes", "chante", "chantons", "chantez", "chantent"]
+      }
+    }
+  },
+  "danser_verbe": {
+    "word": "danser",
+    "translations": { "nb": "å danse", "en": "to dance" },
+    "type": "verbe",
+    "group": 1,
+    "conjugations": {
+      "presens": {
+        "former": ["danse", "danses", "danse", "dansons", "dansez", "dansent"]
+      }
+    }
+  },
+  "cuisiner_verbe": {
+    "word": "cuisiner",
+    "translations": { "nb": "å lage mat", "en": "to cook" },
+    "type": "verbe",
+    "group": 1,
+    "conjugations": {
+      "presens": {
+        "former": ["cuisine", "cuisines", "cuisine", "cuisinons", "cuisinez", "cuisinent"]
+      }
+    }
+  },
+  "manger_verbe": {
+    "word": "manger",
+    "translations": { "nb": "å spise", "en": "to eat" },
+    "type": "verbe",
+    "group": 1,
+    "conjugations": {
+      "presens": {
+        "former": ["mange", "manges", "mange", "mangeons", "mangez", "mangent"]
+      }
+    }
+  },
+  "aimer_verbe": {
+    "word": "aimer",
+    "translations": { "nb": "å like, å elske", "en": "to like, to love" },
+    "type": "verbe",
+    "group": 1,
+    "conjugations": {
+      "presens": {
+        "former": ["aime", "aimes", "aime", "aimons", "aimez", "aiment"]
+      }
+    }
+  },
+  "detester_verbe": {
+    "word": "détester",
+    "translations": { "nb": "å hate", "en": "to hate" },
+    "type": "verbe",
+    "group": 1,
+    "conjugations": {
+      "presens": {
+        "former": ["déteste", "détestes", "déteste", "détestons", "détestez", "détestent"]
+      }
+    }
+  },
+  "adorer_verbe": {
+    "word": "adorer",
+    "translations": { "nb": "å elske", "en": "to adore" },
+    "type": "verbe",
+    "group": 1,
+    "conjugations": {
+      "presens": {
+        "former": ["adore", "adores", "adore", "adorons", "adorez", "adorent"]
+      }
+    }
+  },
+  "preferer_verbe": {
+    "word": "préférer",
+    "translations": { "nb": "å foretrekke", "en": "to prefer" },
+    "type": "verbe",
+    "group": 1,
+    "conjugations": {
+      "presens": {
+        "former": ["préfère", "préfères", "préfère", "préférons", "préférez", "préfèrent"]
+      }
+    }
+  },
+  "habiter_verbe": {
+    "word": "habiter",
+    "translations": { "nb": "å bo", "en": "to live (reside)" },
+    "type": "verbe",
+    "group": 1,
+    "conjugations": {
+      "presens": {
+        "former": ["habite", "habites", "habite", "habitons", "habitez", "habitent"]
+      }
+    }
+  },
+  "jouer_verbe": {
+    "word": "jouer",
+    "translations": { "nb": "å spille, å leke", "en": "to play" },
+    "type": "verbe",
+    "group": 1,
+    "conjugations": {
+      "presens": {
+        "former": ["joue", "joues", "joue", "jouons", "jouez", "jouent"]
+      }
+    }
+  },
+  "donner_verbe": {
+    "word": "donner",
+    "translations": { "nb": "å gi", "en": "to give" },
+    "type": "verbe",
+    "group": 1,
+    "conjugations": {
+      "presens": {
+        "former": ["donne", "donnes", "donne", "donnons", "donnez", "donnent"]
+      }
+    }
+  },
+  "penser_verbe": {
+    "word": "penser",
+    "translations": { "nb": "å tenke", "en": "to think" },
+    "type": "verbe",
+    "group": 1,
+    "conjugations": {
+      "presens": {
+        "former": ["pense", "penses", "pense", "pensons", "pensez", "pensent"]
+      }
+    }
+  },
+  "rester_verbe": {
+    "word": "rester",
+    "translations": { "nb": "å bli, å forbli", "en": "to stay" },
+    "type": "verbe",
+    "group": 1,
+    "conjugations": {
+      "presens": {
+        "former": ["reste", "restes", "reste", "restons", "restez", "restent"]
+      }
+    }
+  },
+  "montrer_verbe": {
+    "word": "montrer",
+    "translations": { "nb": "å vise", "en": "to show" },
+    "type": "verbe",
+    "group": 1,
+    "conjugations": {
+      "presens": {
+        "former": ["montre", "montres", "montre", "montrons", "montrez", "montrent"]
+      }
+    }
+  },
+  "oublier_verbe": {
+    "word": "oublier",
+    "translations": { "nb": "å glemme", "en": "to forget" },
+    "type": "verbe",
+    "group": 1,
+    "conjugations": {
+      "presens": {
+        "former": ["oublie", "oublies", "oublie", "oublions", "oubliez", "oublient"]
+      }
+    }
+  },
+  "trouver_verbe": {
+    "word": "trouver",
+    "translations": { "nb": "å finne", "en": "to find" },
+    "type": "verbe",
+    "group": 1,
+    "conjugations": {
+      "presens": {
+        "former": ["trouve", "trouves", "trouve", "trouvons", "trouvez", "trouvent"]
+      }
+    }
+  },
+  "commencer_verbe": {
+    "word": "commencer",
+    "translations": { "nb": "å begynne", "en": "to begin" },
+    "type": "verbe",
+    "group": 1,
+    "conjugations": {
+      "presens": {
+        "former": ["commence", "commences", "commence", "commençons", "commencez", "commencent"]
+      }
+    }
+  },
+  "terminer_verbe": {
+    "word": "terminer",
+    "translations": { "nb": "å avslutte", "en": "to end, to finish" },
+    "type": "verbe",
+    "group": 1,
+    "conjugations": {
+      "presens": {
+        "former": ["termine", "termines", "termine", "terminons", "terminez", "terminent"]
+      }
+    }
+  },
+  "payer_verbe": {
+    "word": "payer",
+    "translations": { "nb": "å betale", "en": "to pay" },
+    "type": "verbe",
+    "group": 1,
+    "conjugations": {
+      "presens": {
+        "former": ["paie", "paies", "paie", "payons", "payez", "paient"]
+      }
+    }
+  },
+  "rentrer_verbe": {
+    "word": "rentrer",
+    "translations": { "nb": "å komme hjem", "en": "to come back, to return home" },
+    "type": "verbe",
+    "group": 1,
+    "conjugations": {
+      "presens": {
+        "former": ["rentre", "rentres", "rentre", "rentrons", "rentrez", "rentrent"]
+      }
+    }
+  },
+  "quitter_verbe": {
+    "word": "quitter",
+    "translations": { "nb": "å forlate", "en": "to leave" },
+    "type": "verbe",
+    "group": 1,
+    "conjugations": {
+      "presens": {
+        "former": ["quitte", "quittes", "quitte", "quittons", "quittez", "quittent"]
+      }
+    }
+  },
+  "voyager_verbe": {
+    "word": "voyager",
+    "translations": { "nb": "å reise", "en": "to travel" },
+    "type": "verbe",
+    "group": 1,
+    "conjugations": {
+      "presens": {
+        "former": ["voyage", "voyages", "voyage", "voyageons", "voyagez", "voyagent"]
+      }
+    }
+  },
+  "visiter_verbe": {
+    "word": "visiter",
+    "translations": { "nb": "å besøke (sted)", "en": "to visit (place)" },
+    "type": "verbe",
+    "group": 1,
+    "conjugations": {
+      "presens": {
+        "former": ["visite", "visites", "visite", "visitons", "visitez", "visitent"]
+      }
+    }
+  },
+  "inviter_verbe": {
+    "word": "inviter",
+    "translations": { "nb": "å invitere", "en": "to invite" },
+    "type": "verbe",
+    "group": 1,
+    "conjugations": {
+      "presens": {
+        "former": ["invite", "invites", "invite", "invitons", "invitez", "invitent"]
+      }
+    }
+  },
+  "aider_verbe": {
+    "word": "aider",
+    "translations": { "nb": "å hjelpe", "en": "to help" },
+    "type": "verbe",
+    "group": 1,
+    "conjugations": {
+      "presens": {
+        "former": ["aide", "aides", "aide", "aidons", "aidez", "aident"]
+      }
+    }
+  },
+  "demander_verbe": {
+    "word": "demander",
+    "translations": { "nb": "å spørre, å be om", "en": "to ask" },
+    "type": "verbe",
+    "group": 1,
+    "conjugations": {
+      "presens": {
+        "former": ["demande", "demandes", "demande", "demandons", "demandez", "demandent"]
+      }
+    }
+  },
+  "expliquer_verbe": {
+    "word": "expliquer",
+    "translations": { "nb": "å forklare", "en": "to explain" },
+    "type": "verbe",
+    "group": 1,
+    "conjugations": {
+      "presens": {
+        "former": ["explique", "expliques", "explique", "expliquons", "expliquez", "expliquent"]
+      }
+    }
+  },
+  "raconter_verbe": {
+    "word": "raconter",
+    "translations": { "nb": "å fortelle", "en": "to tell (story)" },
+    "type": "verbe",
+    "group": 1,
+    "conjugations": {
+      "presens": {
+        "former": ["raconte", "racontes", "raconte", "racontons", "racontez", "racontent"]
+      }
+    }
+  },
+  "fermer_verbe": {
+    "word": "fermer",
+    "translations": { "nb": "å lukke", "en": "to close" },
+    "type": "verbe",
+    "group": 1,
+    "conjugations": {
+      "presens": {
+        "former": ["ferme", "fermes", "ferme", "fermons", "fermez", "ferment"]
+      }
+    }
+  },
+  "entrer_verbe": {
+    "word": "entrer",
+    "translations": { "nb": "å gå inn", "en": "to enter" },
+    "type": "verbe",
+    "group": 1,
+    "conjugations": {
+      "presens": {
+        "former": ["entre", "entres", "entre", "entrons", "entrez", "entrent"]
+      }
+    }
+  },
+  "monter_verbe": {
+    "word": "monter",
+    "translations": { "nb": "å gå opp", "en": "to go up" },
+    "type": "verbe",
+    "group": 1,
+    "conjugations": {
+      "presens": {
+        "former": ["monte", "montes", "monte", "montons", "montez", "montent"]
+      }
+    }
+  },
+  "tomber_verbe": {
+    "word": "tomber",
+    "translations": { "nb": "å falle", "en": "to fall" },
+    "type": "verbe",
+    "group": 1,
+    "conjugations": {
+      "presens": {
+        "former": ["tombe", "tombes", "tombe", "tombons", "tombez", "tombent"]
+      }
+    }
+  },
+  "passer_verbe": {
+    "word": "passer",
+    "translations": { "nb": "å passere, å tilbringe", "en": "to pass, to spend (time)" },
+    "type": "verbe",
+    "group": 1,
+    "conjugations": {
+      "presens": {
+        "former": ["passe", "passes", "passe", "passons", "passez", "passent"]
+      }
+    }
+  },
+  "nager_verbe": {
+    "word": "nager",
+    "translations": { "nb": "å svømme", "en": "to swim" },
+    "type": "verbe",
+    "group": 1,
+    "conjugations": {
+      "presens": {
+        "former": ["nage", "nages", "nage", "nageons", "nagez", "nagent"]
+      }
+    }
+  },
+
+  "se_lever_verbe": {
+    "word": "se lever",
+    "translations": { "nb": "å stå opp", "en": "to get up" },
+    "type": "verbe",
+    "group": 1,
+    "reflexive": true,
+    "conjugations": {
+      "presens": {
+        "former": ["me lève", "te lèves", "se lève", "nous levons", "vous levez", "se lèvent"]
+      }
+    }
+  },
+  "se_coucher_verbe": {
+    "word": "se coucher",
+    "translations": { "nb": "å legge seg", "en": "to go to bed" },
+    "type": "verbe",
+    "group": 1,
+    "reflexive": true,
+    "conjugations": {
+      "presens": {
+        "former": ["me couche", "te couches", "se couche", "nous couchons", "vous couchez", "se couchent"]
+      }
+    }
+  },
+  "se_laver_verbe": {
+    "word": "se laver",
+    "translations": { "nb": "å vaske seg", "en": "to wash oneself" },
+    "type": "verbe",
+    "group": 1,
+    "reflexive": true,
+    "conjugations": {
+      "presens": {
+        "former": ["me lave", "te laves", "se lave", "nous lavons", "vous lavez", "se lavent"]
+      }
+    }
+  },
+  "se_habiller_verbe": {
+    "word": "s'habiller",
+    "translations": { "nb": "å kle seg", "en": "to get dressed" },
+    "type": "verbe",
+    "group": 1,
+    "reflexive": true,
+    "conjugations": {
+      "presens": {
+        "former": ["m'habille", "t'habilles", "s'habille", "nous habillons", "vous habillez", "s'habillent"]
+      }
+    }
+  },
+  "se_promener_verbe": {
+    "word": "se promener",
+    "translations": { "nb": "å gå tur", "en": "to take a walk" },
+    "type": "verbe",
+    "group": 1,
+    "reflexive": true,
+    "conjugations": {
+      "presens": {
+        "former": ["me promène", "te promènes", "se promène", "nous promenons", "vous promenez", "se promènent"]
+      }
+    }
+  },
+  "se_appeler_verbe": {
+    "word": "s'appeler",
+    "translations": { "nb": "å hete", "en": "to be called" },
+    "type": "verbe",
+    "group": 1,
+    "reflexive": true,
+    "conjugations": {
+      "presens": {
+        "former": ["m'appelle", "t'appelles", "s'appelle", "nous appelons", "vous appelez", "s'appellent"]
+      }
+    }
+  },
+  "se_reveiller_verbe": {
+    "word": "se réveiller",
+    "translations": { "nb": "å våkne", "en": "to wake up" },
+    "type": "verbe",
+    "group": 1,
+    "reflexive": true,
+    "conjugations": {
+      "presens": {
+        "former": ["me réveille", "te réveilles", "se réveille", "nous réveillons", "vous réveillez", "se réveillent"]
+      }
+    }
+  },
+  "se_reposer_verbe": {
+    "word": "se reposer",
+    "translations": { "nb": "å hvile", "en": "to rest" },
+    "type": "verbe",
+    "group": 1,
+    "reflexive": true,
+    "conjugations": {
+      "presens": {
+        "former": ["me repose", "te reposes", "se repose", "nous reposons", "vous reposez", "se reposent"]
+      }
+    }
+  }
+}

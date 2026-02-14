@@ -1,0 +1,1358 @@
+{
+  "_metadata": {
+    "source": "verbbank.json",
+    "targetLanguage": "german",
+    "nativeLanguage": "nb",
+    "generatedAt": "2026-01-16T17:26:35.871Z",
+    "description": "NB translations for german verb"
+  },
+  "sein_verb": {
+    "translation": "å være",
+    "synonyms": [
+      "å finnes",
+      "å eksistere"
+    ],
+    "examples": [
+      { "sentence": "Ich bin müde.", "translation": "Jeg er trøtt." },
+      { "sentence": "Das ist mein Bruder.", "translation": "Det er broren min." },
+      { "sentence": "Wir sind Schüler.", "translation": "Vi er elever." }
+    ]
+  },
+  "heissen_verb": {
+    "translation": "å hete",
+    "explanation": {
+      "_description": "Betyr \"å hete\" eller \"å være kalt\". Brukes for navn. Eksempel: \"Ich heiße Olivia\" (jeg heter Olivia), \"Wie heißt du?\" (hva heter du?)."
+    },
+    "examples": [
+      { "sentence": "Ich heiße Anna.", "translation": "Jeg heter Anna." },
+      { "sentence": "Wie heißt du?", "translation": "Hva heter du?" },
+      { "sentence": "Er heißt Max.", "translation": "Han heter Max." }
+    ]
+  },
+  "kommen_verb": {
+    "translation": "å komme",
+    "explanation": {
+      "_description": "Betyr \"å komme\". Ofte brukt med \"aus\" for opprinnelse. Eksempel: \"Ich komme aus Oslo\" (jeg kommer fra Oslo), \"Woher kommst du?\" (hvor kommer du fra?)."
+    },
+    "examples": [
+      { "sentence": "Ich komme aus Norwegen.", "translation": "Jeg kommer fra Norge." },
+      { "sentence": "Woher kommst du?", "translation": "Hvor kommer du fra?" },
+      { "sentence": "Sie kommt morgen.", "translation": "Hun kommer i morgen." }
+    ]
+  },
+  "wohnen_verb": {
+    "translation": "å bo",
+    "explanation": {
+      "_description": "Betyr \"å bo\" eller \"å være bosatt\". Eksempel: \"Ich wohne in Oslo\" (jeg bor i Oslo), \"Wo wohnst du?\" (hvor bor du?)."
+    },
+    "examples": [
+      { "sentence": "Ich wohne in Oslo.", "translation": "Jeg bor i Oslo." },
+      { "sentence": "Wo wohnst du?", "translation": "Hvor bor du?" },
+      { "sentence": "Wir wohnen in Deutschland.", "translation": "Vi bor i Tyskland." }
+    ]
+  },
+  "schauen_verb": {
+    "translation": "å se/kikke",
+    "synonyms": [
+      "å se",
+      "å kikke",
+      "se"
+    ],
+    "explanation": {
+      "_description": "Betyr \"å se\" eller \"å kikke\". Ofte brukt som imperativ. Eksempel: \"Schau mal!\" (se her!), \"Schau, da kommt Cassandra\" (se, der kommer Cassandra)."
+    },
+    "examples": [
+      { "sentence": "Schau mal!", "translation": "Se her!" },
+      { "sentence": "Ich schaue einen Film.", "translation": "Jeg ser på en film." },
+      { "sentence": "Schau, da kommt der Bus!", "translation": "Se, der kommer bussen!" }
+    ]
+  },
+  "spielen_verb": {
+    "translation": "å spille",
+    "examples": [
+      { "sentence": "Ich spiele Fußball.", "translation": "Jeg spiller fotball." },
+      { "sentence": "Sie spielt Klavier.", "translation": "Hun spiller piano." },
+      { "sentence": "Wir spielen gern Videospiele.", "translation": "Vi liker å spille videospill." }
+    ]
+  },
+  "interessieren_verb": {
+    "translation": "å interessere (seg)",
+    "explanation": {
+      "_description": "Refleksivt verb: \"å interessere seg for\". Brukes med \"sich\" og \"für\". Eksempel: \"Ich interessiere mich für Politik\" (jeg interesserer meg for politikk)."
+    },
+    "examples": [
+      { "sentence": "Ich interessiere mich für Musik.", "translation": "Jeg interesserer meg for musikk." },
+      { "sentence": "Wofür interessierst du dich?", "translation": "Hva interesserer du deg for?" },
+      { "sentence": "Sie interessiert sich für Sport.", "translation": "Hun interesserer seg for sport." }
+    ]
+  },
+  "shoppen_verb": {
+    "translation": "å shoppe",
+    "explanation": {
+      "_description": "Betyr \"å shoppe\" eller \"å handle\". Låneord fra engelsk. Eksempel: \"Ich gehe shoppen\" (jeg går og shopper)."
+    },
+    "examples": [
+      { "sentence": "Ich gehe shoppen.", "translation": "Jeg går og shopper." },
+      { "sentence": "Wir shoppen in der Stadt.", "translation": "Vi shopper i byen." },
+      { "sentence": "Gehst du gern shoppen?", "translation": "Liker du å shoppe?" }
+    ]
+  },
+  "entspannen_verb": {
+    "translation": "å slappe av",
+    "explanation": {
+      "_description": "Refleksivt verb: \"å slappe av\". Brukes med \"sich\". Eksempel: \"Ich entspanne mich zu Hause\" (jeg slapper av hjemme)."
+    },
+    "examples": [
+      { "sentence": "Ich entspanne mich zu Hause.", "translation": "Jeg slapper av hjemme." },
+      { "sentence": "Wie entspannst du dich?", "translation": "Hvordan slapper du av?" },
+      { "sentence": "Am Wochenende entspanne ich mich.", "translation": "I helgen slapper jeg av." }
+    ]
+  },
+  "lernen_verb": {
+    "translation": "å lære",
+    "explanation": {
+      "_description": "Betyr \"å lære\" eller \"å studere\". Eksempel: \"Ich lerne Deutsch\" (jeg lærer tysk), \"Ich lerne für Prüfungen\" (jeg studerer til prøver)."
+    },
+    "examples": [
+      { "sentence": "Ich lerne Deutsch.", "translation": "Jeg lærer tysk." },
+      { "sentence": "Was lernst du in der Schule?", "translation": "Hva lærer du på skolen?" },
+      { "sentence": "Wir lernen für die Prüfung.", "translation": "Vi leser til prøven." }
+    ]
+  },
+  "finden_verb": {
+    "translation": "å synes / å finne",
+    "examples": [
+      { "sentence": "Ich finde das gut.", "translation": "Jeg synes det er bra." },
+      { "sentence": "Wie findest du den Film?", "translation": "Hva synes du om filmen?" },
+      { "sentence": "Ich kann mein Handy nicht finden.", "translation": "Jeg finner ikke mobilen min." }
+    ]
+  },
+  "moegen_verb": {
+    "translation": "å like",
+    "synonyms": [
+      "å være glad i",
+      "å sette pris på"
+    ],
+    "examples": [
+      { "sentence": "Ich mag Pizza.", "translation": "Jeg liker pizza." },
+      { "sentence": "Magst du Schokolade?", "translation": "Liker du sjokolade?" },
+      { "sentence": "Wir mögen unseren Lehrer.", "translation": "Vi liker læreren vår." }
+    ]
+  },
+  "klingeln_verb": {
+    "translation": "å ringe (om en klokke)",
+    "examples": [
+      { "sentence": "Das Telefon klingelt.", "translation": "Telefonen ringer." },
+      { "sentence": "Die Schulglocke klingelt.", "translation": "Skoleklokken ringer." },
+      { "sentence": "Es klingelt an der Tür.", "translation": "Det ringer på døren." }
+    ]
+  },
+  "beginnen_verb": {
+    "translation": "å begynne",
+    "examples": [
+      { "sentence": "Die Schule beginnt um acht Uhr.", "translation": "Skolen begynner klokken åtte." },
+      { "sentence": "Wann beginnt der Film?", "translation": "Når begynner filmen?" },
+      { "sentence": "Wir beginnen mit der Arbeit.", "translation": "Vi begynner med arbeidet." }
+    ]
+  },
+  "koennen_verb": {
+    "translation": "å kunne",
+    "examples": [
+      { "sentence": "Ich kann Deutsch sprechen.", "translation": "Jeg kan snakke tysk." },
+      { "sentence": "Kannst du schwimmen?", "translation": "Kan du svømme?" },
+      { "sentence": "Wir können morgen kommen.", "translation": "Vi kan komme i morgen." }
+    ]
+  },
+  "lesen_verb": {
+    "translation": "å lese",
+    "examples": [
+      { "sentence": "Ich lese ein Buch.", "translation": "Jeg leser en bok." },
+      { "sentence": "Was liest du gern?", "translation": "Hva liker du å lese?" },
+      { "sentence": "Er liest die Zeitung.", "translation": "Han leser avisen." }
+    ]
+  },
+  "schwimmen_verb": {
+    "translation": "å svømme",
+    "examples": [
+      { "sentence": "Ich schwimme gern.", "translation": "Jeg liker å svømme." },
+      { "sentence": "Kannst du schwimmen?", "translation": "Kan du svømme?" },
+      { "sentence": "Wir schwimmen im See.", "translation": "Vi svømmer i innsjøen." }
+    ]
+  },
+  "singen_verb": {
+    "translation": "å synge",
+    "examples": [
+      { "sentence": "Ich singe gern.", "translation": "Jeg liker å synge." },
+      { "sentence": "Sie singt sehr gut.", "translation": "Hun synger veldig bra." },
+      { "sentence": "Wir singen im Chor.", "translation": "Vi synger i kor." }
+    ]
+  },
+  "tanzen_verb": {
+    "translation": "å danse",
+    "examples": [
+      { "sentence": "Ich tanze gern.", "translation": "Jeg liker å danse." },
+      { "sentence": "Kannst du tanzen?", "translation": "Kan du danse?" },
+      { "sentence": "Wir tanzen auf der Party.", "translation": "Vi danser på festen." }
+    ]
+  },
+  "kochen_verb": {
+    "translation": "å lage mat",
+    "synonyms": [
+      "å koke",
+      "å tilberede"
+    ],
+    "examples": [
+      { "sentence": "Ich koche gern.", "translation": "Jeg liker å lage mat." },
+      { "sentence": "Wer kocht heute?", "translation": "Hvem lager mat i dag?" },
+      { "sentence": "Meine Mutter kocht sehr gut.", "translation": "Moren min lager veldig god mat." }
+    ]
+  },
+  "malen_verb": {
+    "translation": "å male",
+    "examples": [
+      { "sentence": "Ich male gern.", "translation": "Jeg liker å male." },
+      { "sentence": "Sie malt ein Bild.", "translation": "Hun maler et bilde." },
+      { "sentence": "Was malst du?", "translation": "Hva maler du?" }
+    ]
+  },
+  "machen_verb": {
+    "translation": "å gjøre / lage",
+    "synonyms": [
+      "å gjøre",
+      "å lage",
+      "å produsere"
+    ],
+    "examples": [
+      { "sentence": "Was machst du?", "translation": "Hva gjør du?" },
+      { "sentence": "Ich mache Hausaufgaben.", "translation": "Jeg gjør lekser." },
+      { "sentence": "Wir machen eine Party.", "translation": "Vi lager en fest." }
+    ]
+  },
+  "gehen_verb": {
+    "translation": "å gå",
+    "synonyms": [
+      "å gå",
+      "å vandre"
+    ],
+    "examples": [
+      { "sentence": "Ich gehe in die Schule.", "translation": "Jeg går på skolen." },
+      { "sentence": "Wie geht es dir?", "translation": "Hvordan har du det?" },
+      { "sentence": "Wir gehen ins Kino.", "translation": "Vi går på kino." }
+    ]
+  },
+  "besuchen_verb": {
+    "translation": "å besøke",
+    "examples": [
+      { "sentence": "Ich besuche meine Großeltern.", "translation": "Jeg besøker besteforeldrene mine." },
+      { "sentence": "Besuchst du mich morgen?", "translation": "Besøker du meg i morgen?" },
+      { "sentence": "Wir besuchen das Museum.", "translation": "Vi besøker museet." }
+    ]
+  },
+  "kaufen_verb": {
+    "translation": "å kjøpe",
+    "examples": [
+      { "sentence": "Ich kaufe Brot.", "translation": "Jeg kjøper brød." },
+      { "sentence": "Was kaufst du?", "translation": "Hva kjøper du?" },
+      { "sentence": "Wir kaufen im Supermarkt ein.", "translation": "Vi handler i supermarkedet." }
+    ]
+  },
+  "brauchen_verb": {
+    "translation": "å trenge",
+    "examples": [
+      { "sentence": "Ich brauche Hilfe.", "translation": "Jeg trenger hjelp." },
+      { "sentence": "Was brauchst du?", "translation": "Hva trenger du?" },
+      { "sentence": "Wir brauchen mehr Zeit.", "translation": "Vi trenger mer tid." }
+    ]
+  },
+  "essen_verb": {
+    "translation": "å spise",
+    "synonyms": [
+      "å innta",
+      "å fortære"
+    ],
+    "examples": [
+      { "sentence": "Ich esse Pizza.", "translation": "Jeg spiser pizza." },
+      { "sentence": "Was isst du gern?", "translation": "Hva liker du å spise?" },
+      { "sentence": "Wir essen zusammen.", "translation": "Vi spiser sammen." }
+    ]
+  },
+  "nehmen_verb": {
+    "translation": "å ta",
+    "explanation": {
+      "_description": "Betyr \"å ta\". Et sterkt verb med vokalskifte e→i i 2. og 3. person entall. Eksempel: \"Ich nehme ein Glas Wasser\" (jeg tar et glass vann)."
+    },
+    "examples": [
+      { "sentence": "Ich nehme den Bus.", "translation": "Jeg tar bussen." },
+      { "sentence": "Was nimmst du?", "translation": "Hva tar du?" },
+      { "sentence": "Er nimmt ein Stück Kuchen.", "translation": "Han tar et stykke kake." }
+    ]
+  },
+  "trinken_verb": {
+    "translation": "å drikke",
+    "synonyms": [
+      "å innta",
+      "å svelge"
+    ],
+    "examples": [
+      { "sentence": "Ich trinke Wasser.", "translation": "Jeg drikker vann." },
+      { "sentence": "Was trinkst du gern?", "translation": "Hva liker du å drikke?" },
+      { "sentence": "Wir trinken Kaffee.", "translation": "Vi drikker kaffe." }
+    ]
+  },
+  "hoeren_verb": {
+    "translation": "å høre",
+    "examples": [
+      { "sentence": "Ich höre Musik.", "translation": "Jeg hører på musikk." },
+      { "sentence": "Hörst du das?", "translation": "Hører du det?" },
+      { "sentence": "Wir hören gern Podcasts.", "translation": "Vi liker å høre på podcaster." }
+    ]
+  },
+  "hoffen_verb": {
+    "translation": "å håpe",
+    "examples": [
+      { "sentence": "Ich hoffe, du kommst.", "translation": "Jeg håper du kommer." },
+      { "sentence": "Hoffst du auf gutes Wetter?", "translation": "Håper du på godt vær?" },
+      { "sentence": "Wir hoffen auf das Beste.", "translation": "Vi håper på det beste." }
+    ]
+  },
+  "haben_verb": {
+    "translation": "å ha",
+    "examples": [
+      { "sentence": "Ich habe einen Bruder.", "translation": "Jeg har en bror." },
+      { "sentence": "Hast du Zeit?", "translation": "Har du tid?" },
+      { "sentence": "Wir haben Hunger.", "translation": "Vi er sultne." }
+    ]
+  },
+  "fuettern_verb": {
+    "translation": "å mate / å fôre",
+    "synonyms": [
+      "å gi mat til"
+    ],
+    "explanation": {
+      "_description": "Betyr å gi mat til dyr. For mennesker bruker vi vanligvis \"essen\" (å spise) eller \"ernähren\" (å ernære)."
+    },
+    "examples": [
+      { "sentence": "Ich füttere die Katze.", "translation": "Jeg mater katten." },
+      { "sentence": "Fütterst du den Hund?", "translation": "Mater du hunden?" },
+      { "sentence": "Wir füttern die Tiere im Zoo.", "translation": "Vi mater dyrene i dyrehagen." }
+    ]
+  },
+  "streicheln_verb": {
+    "translation": "å kjæle / å klappe",
+    "synonyms": [
+      "å kjærtegne",
+      "å aie"
+    ],
+    "explanation": {
+      "_description": "Betyr å kjæle med eller klappe et dyr (eller person). Eksempel: \"Ich streichle die Katze\" (jeg kjæler med katten)."
+    },
+    "examples": [
+      { "sentence": "Ich streichle die Katze.", "translation": "Jeg klapper katten." },
+      { "sentence": "Darf ich den Hund streicheln?", "translation": "Får jeg klappe hunden?" },
+      { "sentence": "Sie streichelt das Kaninchen.", "translation": "Hun kjæler med kaninen." }
+    ]
+  },
+  "fressen_verb": {
+    "translation": "å spise (for dyr)",
+    "explanation": {
+      "_description": "Betyr å spise, men brukes KUN for dyr. For mennesker bruker vi \"essen\". Eksempel: \"Der Hund frisst Fleisch\" (hunden spiser kjøtt), men \"Ich esse Pizza\" (jeg spiser pizza)."
+    },
+    "examples": [
+      { "sentence": "Der Hund frisst.", "translation": "Hunden spiser." },
+      { "sentence": "Was frisst die Katze?", "translation": "Hva spiser katten?" },
+      { "sentence": "Die Pferde fressen Heu.", "translation": "Hestene spiser høy." }
+    ]
+  },
+  "leben_verb": {
+    "translation": "å leve",
+    "examples": [
+      { "sentence": "Ich lebe in Norwegen.", "translation": "Jeg bor i Norge." },
+      { "sentence": "Wo lebst du?", "translation": "Hvor bor du?" },
+      { "sentence": "Wir leben gesund.", "translation": "Vi lever sunt." }
+    ]
+  },
+  "oeffnen_verb": {
+    "translation": "å åpne",
+    "synonyms": [
+      "å lukke opp",
+      "å åpne opp"
+    ],
+    "examples": [
+      { "sentence": "Ich öffne das Fenster.", "translation": "Jeg åpner vinduet." },
+      { "sentence": "Öffnest du bitte die Tür?", "translation": "Kan du åpne døren?" },
+      { "sentence": "Das Geschäft öffnet um 9 Uhr.", "translation": "Butikken åpner klokken 9." }
+    ]
+  },
+  "jagen_verb": {
+    "translation": "å jakte",
+    "examples": [
+      { "sentence": "Katzen jagen Mäuse.", "translation": "Katter jakter på mus." },
+      { "sentence": "Die Polizei jagt den Dieb.", "translation": "Politiet jakter på tyven." },
+      { "sentence": "Wir jagen nicht.", "translation": "Vi jakter ikke." }
+    ]
+  },
+  "tragen_verb": {
+    "translation": "å ha på seg / å bære",
+    "synonyms": [
+      "å ha på",
+      "å bære"
+    ],
+    "examples": [
+      { "sentence": "Ich trage eine Jacke.", "translation": "Jeg har på meg en jakke." },
+      { "sentence": "Was trägst du heute?", "translation": "Hva har du på deg i dag?" },
+      { "sentence": "Er trägt eine schwere Tasche.", "translation": "Han bærer en tung veske." }
+    ]
+  },
+  "sehen_verb": {
+    "translation": "å se",
+    "synonyms": [
+      "se"
+    ],
+    "examples": [
+      { "sentence": "Ich sehe einen Film.", "translation": "Jeg ser en film." },
+      { "sentence": "Siehst du das?", "translation": "Ser du det?" },
+      { "sentence": "Wir sehen uns morgen!", "translation": "Vi sees i morgen!" }
+    ]
+  },
+  "treffen_verb": {
+    "translation": "å treffe / møte",
+    "examples": [
+      { "sentence": "Ich treffe meine Freunde.", "translation": "Jeg møter vennene mine." },
+      { "sentence": "Wann treffen wir uns?", "translation": "Når skal vi møtes?" },
+      { "sentence": "Er trifft sie im Café.", "translation": "Han møter henne på kafeen." }
+    ]
+  },
+  "muessen_verb": {
+    "translation": "å måtte",
+    "examples": [
+      { "sentence": "Ich muss zur Schule gehen.", "translation": "Jeg må gå på skolen." },
+      { "sentence": "Musst du arbeiten?", "translation": "Må du jobbe?" },
+      { "sentence": "Wir müssen Hausaufgaben machen.", "translation": "Vi må gjøre lekser." }
+    ]
+  },
+  "wollen_verb": {
+    "translation": "å ville",
+    "examples": [
+      { "sentence": "Ich will ins Kino gehen.", "translation": "Jeg vil gå på kino." },
+      { "sentence": "Was willst du machen?", "translation": "Hva vil du gjøre?" },
+      { "sentence": "Wir wollen Pizza essen.", "translation": "Vi vil spise pizza." }
+    ]
+  },
+  "fahren_verb": {
+    "translation": "å reise / kjøre",
+    "examples": [
+      { "sentence": "Ich fahre mit dem Bus.", "translation": "Jeg kjører med bussen." },
+      { "sentence": "Fährst du Auto?", "translation": "Kjører du bil?" },
+      { "sentence": "Wir fahren nach Berlin.", "translation": "Vi reiser til Berlin." }
+    ]
+  },
+  "wandern_verb": {
+    "translation": "å gå på tur",
+    "synonyms": [
+      "å gå tur"
+    ],
+    "examples": [
+      { "sentence": "Ich wandere gern in den Bergen.", "translation": "Jeg liker å gå tur i fjellene." },
+      { "sentence": "Wanderst du oft?", "translation": "Går du ofte på tur?" },
+      { "sentence": "Wir wandern am Wochenende.", "translation": "Vi går på tur i helgen." }
+    ]
+  },
+  "traeumen_verb": {
+    "translation": "å drømme",
+    "examples": [
+      { "sentence": "Ich träume von einer Reise.", "translation": "Jeg drømmer om en reise." },
+      { "sentence": "Träumst du oft?", "translation": "Drømmer du ofte?" },
+      { "sentence": "Er träumt von der Zukunft.", "translation": "Han drømmer om fremtiden." }
+    ]
+  },
+  "sagen_verb": {
+    "translation": "å si",
+    "examples": [
+      { "sentence": "Was sagst du?", "translation": "Hva sier du?" },
+      { "sentence": "Ich sage die Wahrheit.", "translation": "Jeg sier sannheten." },
+      { "sentence": "Er sagt nichts.", "translation": "Han sier ingenting." }
+    ]
+  },
+  "schreiben_verb": {
+    "translation": "å skrive",
+    "examples": [
+      { "sentence": "Ich schreibe eine E-Mail.", "translation": "Jeg skriver en e-post." },
+      { "sentence": "Schreibst du gern?", "translation": "Liker du å skrive?" },
+      { "sentence": "Wir schreiben einen Test.", "translation": "Vi skriver en prøve." }
+    ]
+  },
+  "fliegen_verb": {
+    "translation": "å fly",
+    "examples": [
+      { "sentence": "Ich fliege nach Deutschland.", "translation": "Jeg flyr til Tyskland." },
+      { "sentence": "Fliegst du oft?", "translation": "Flyr du ofte?" },
+      { "sentence": "Wir fliegen in den Urlaub.", "translation": "Vi flyr på ferie." }
+    ]
+  },
+  "mitnehmen_verb": {
+    "translation": "å ta med",
+    "examples": [
+      { "sentence": "Ich nehme mein Handy mit.", "translation": "Jeg tar med mobilen min." },
+      { "sentence": "Nimmst du einen Regenschirm mit?", "translation": "Tar du med en paraply?" },
+      { "sentence": "Wir nehmen Essen mit.", "translation": "Vi tar med mat." }
+    ]
+  },
+  "packen_verb": {
+    "translation": "å pakke",
+    "examples": [
+      { "sentence": "Ich packe meinen Koffer.", "translation": "Jeg pakker kofferten min." },
+      { "sentence": "Hast du schon gepackt?", "translation": "Har du pakket allerede?" },
+      { "sentence": "Wir packen für die Reise.", "translation": "Vi pakker til reisen." }
+    ]
+  },
+  "einpacken_verb": {
+    "translation": "å pakke (ned i noe)",
+    "synonyms": ["pakke sammen", "kjøpe"],
+    "examples": [
+      { "sentence": "Ich packe das Geschenk ein.", "translation": "Jeg pakker inn gaven." },
+      { "sentence": "Packst du die Sachen ein?", "translation": "Pakker du ned tingene?" },
+      { "sentence": "Wir packen alles ein.", "translation": "Vi pakker alt ned." }
+    ]
+  },
+  "duerfen_verb": {
+    "translation": "å få lov til",
+    "examples": [
+      { "sentence": "Darf ich fragen?", "translation": "Får jeg lov til å spørre?" },
+      { "sentence": "Du darfst hier nicht rauchen.", "translation": "Du har ikke lov til å røyke her." },
+      { "sentence": "Wir dürfen ins Kino gehen.", "translation": "Vi får lov til å gå på kino." }
+    ]
+  },
+  "scheinen_verb": {
+    "translation": "å skinne",
+    "examples": [
+      { "sentence": "Die Sonne scheint.", "translation": "Solen skinner." },
+      { "sentence": "Es scheint zu regnen.", "translation": "Det ser ut til å regne." },
+      { "sentence": "Das scheint richtig zu sein.", "translation": "Det ser ut til å være riktig." }
+    ]
+  },
+  "lieben_verb": {
+    "translation": "å elske / like godt",
+    "examples": [
+      { "sentence": "Ich liebe meine Familie.", "translation": "Jeg elsker familien min." },
+      { "sentence": "Liebst du Schokolade?", "translation": "Elsker du sjokolade?" },
+      { "sentence": "Wir lieben dieses Restaurant.", "translation": "Vi elsker denne restauranten." }
+    ]
+  },
+  "stimmen_verb": {
+    "translation": "å stemme / være riktig",
+    "examples": [
+      { "sentence": "Das stimmt!", "translation": "Det stemmer!" },
+      { "sentence": "Stimmt das?", "translation": "Stemmer det?" },
+      { "sentence": "Die Antwort stimmt nicht.", "translation": "Svaret stemmer ikke." }
+    ]
+  },
+  "dekorieren_verb": {
+    "translation": "å dekorere",
+    "examples": [
+      { "sentence": "Ich dekoriere das Zimmer.", "translation": "Jeg dekorerer rommet." },
+      { "sentence": "Wir dekorieren den Weihnachtsbaum.", "translation": "Vi pynter juletreet." },
+      { "sentence": "Sie dekoriert die Torte.", "translation": "Hun dekorerer kaken." }
+    ]
+  },
+  "sprechen_verb": {
+    "translation": "å snakke",
+    "examples": [
+      { "sentence": "Ich spreche Deutsch.", "translation": "Jeg snakker tysk." },
+      { "sentence": "Sprichst du Englisch?", "translation": "Snakker du engelsk?" },
+      { "sentence": "Wir sprechen über das Wetter.", "translation": "Vi snakker om været." }
+    ]
+  },
+  "werden_verb": {
+    "translation": "å bli",
+    "examples": [
+      { "sentence": "Ich werde Lehrer.", "translation": "Jeg skal bli lærer." },
+      { "sentence": "Es wird kalt.", "translation": "Det blir kaldt." },
+      { "sentence": "Wir werden älter.", "translation": "Vi blir eldre." }
+    ]
+  },
+  "dauern_verb": {
+    "translation": "å vare",
+    "examples": [
+      { "sentence": "Wie lange dauert das?", "translation": "Hvor lenge varer det?" },
+      { "sentence": "Der Film dauert zwei Stunden.", "translation": "Filmen varer i to timer." },
+      { "sentence": "Die Reise dauert nicht lange.", "translation": "Reisen tar ikke lang tid." }
+    ]
+  },
+  "bleiben_verb": {
+    "translation": "å bli / forbli",
+    "examples": [
+      { "sentence": "Ich bleibe zu Hause.", "translation": "Jeg blir hjemme." },
+      { "sentence": "Bleibst du heute Abend?", "translation": "Blir du i kveld?" },
+      { "sentence": "Wir bleiben eine Woche.", "translation": "Vi blir en uke." }
+    ]
+  },
+  "schlafen_verb": {
+    "translation": "å sove",
+    "examples": [
+      { "sentence": "Ich schlafe acht Stunden.", "translation": "Jeg sover åtte timer." },
+      { "sentence": "Schläfst du gut?", "translation": "Sover du godt?" },
+      { "sentence": "Die Kinder schlafen schon.", "translation": "Barna sover allerede." }
+    ]
+  },
+  "feiern_verb": {
+    "translation": "å feire",
+    "explanation": {
+      "_description": "Betyr \"å feire\". Eksempel: \"Wir feiern Weihnachten\" (vi feirer jul)."
+    },
+    "examples": [
+      { "sentence": "Wir feiern meinen Geburtstag.", "translation": "Vi feirer bursdagen min." },
+      { "sentence": "Feierst du Weihnachten?", "translation": "Feirer du jul?" },
+      { "sentence": "Sie feiern eine Party.", "translation": "De holder en fest." }
+    ]
+  },
+  "kennen_verb": {
+    "translation": "å kjenne",
+    "examples": [
+      { "sentence": "Ich kenne ihn gut.", "translation": "Jeg kjenner ham godt." },
+      { "sentence": "Kennst du dieses Lied?", "translation": "Kjenner du denne sangen?" },
+      { "sentence": "Wir kennen uns seit Jahren.", "translation": "Vi har kjent hverandre i årevis." }
+    ]
+  },
+  "sich_treffen_verb": {
+    "translation": "å møtes",
+    "examples": [
+      { "sentence": "Wir treffen uns um 15 Uhr.", "translation": "Vi møtes klokken 15." },
+      { "sentence": "Wo treffen wir uns?", "translation": "Hvor skal vi møtes?" },
+      { "sentence": "Sie treffen sich im Park.", "translation": "De møtes i parken." }
+    ]
+  },
+  "anrufen_verb": {
+    "translation": "å ringe",
+    "examples": [
+      { "sentence": "Ich rufe dich an.", "translation": "Jeg ringer deg." },
+      { "sentence": "Rufst du mich später an?", "translation": "Ringer du meg senere?" },
+      { "sentence": "Sie ruft ihre Mutter an.", "translation": "Hun ringer moren sin." }
+    ]
+  },
+  "anfangen_verb": {
+    "translation": "å begynne / å starte",
+    "explanation": {
+      "_description": "Betyr \"å begynne\" eller \"å starte\". Sterkt verb med vokalskifte a→ä. Løst sammensatt verb. Eksempel: \"Der Film fängt um vier Uhr an\" (filmen begynner klokken fire), \"Wann fängt die Schule an?\" (når begynner skolen?)."
+    },
+    "examples": [
+      { "sentence": "Wann fängt der Film an?", "translation": "Når begynner filmen?" },
+      { "sentence": "Ich fange um 8 Uhr an.", "translation": "Jeg begynner klokken 8." },
+      { "sentence": "Die Schule fängt bald an.", "translation": "Skolen begynner snart." }
+    ]
+  },
+  "einladen_verb": {
+    "translation": "å invitere",
+    "explanation": {
+      "_description": "Betyr \"å invitere\". Løst sammensatt verb. Eksempel: \"Ich lade alle Freunde ein\" (jeg inviterer alle vennene)."
+    },
+    "examples": [
+      { "sentence": "Ich lade dich zur Party ein.", "translation": "Jeg inviterer deg til festen." },
+      { "sentence": "Lädst du mich ein?", "translation": "Inviterer du meg?" },
+      { "sentence": "Wir laden alle Freunde ein.", "translation": "Vi inviterer alle vennene." }
+    ]
+  },
+  "einkaufen_verb": {
+    "translation": "å handle / å gå og handle",
+    "explanation": {
+      "_description": "Betyr \"å handle\" eller \"å gå og handle\". Løst sammensatt verb. Eksempel: \"Ich gehe einkaufen\" (jeg går og handler), \"Ich kaufe Lebensmittel ein\" (jeg handler matvarer)."
+    },
+    "examples": [
+      { "sentence": "Ich kaufe im Supermarkt ein.", "translation": "Jeg handler i supermarkedet." },
+      { "sentence": "Gehst du heute einkaufen?", "translation": "Går du og handler i dag?" },
+      { "sentence": "Wir kaufen Obst und Gemüse ein.", "translation": "Vi handler frukt og grønnsaker." }
+    ]
+  },
+  "sich_freuen_auf_verb": {
+    "translation": "å glede seg til",
+    "examples": [
+      { "sentence": "Ich freue mich auf die Ferien.", "translation": "Jeg gleder meg til ferien." },
+      { "sentence": "Freust du dich auf das Konzert?", "translation": "Gleder du deg til konserten?" },
+      { "sentence": "Wir freuen uns auf Weihnachten.", "translation": "Vi gleder oss til jul." }
+    ]
+  },
+  "sich_waschen_verb": {
+    "translation": "å vaske seg",
+    "examples": [
+      { "sentence": "Ich wasche mich jeden Morgen.", "translation": "Jeg vasker meg hver morgen." },
+      { "sentence": "Wäschst du dir die Hände?", "translation": "Vasker du hendene?" },
+      { "sentence": "Er wäscht sich das Gesicht.", "translation": "Han vasker ansiktet." }
+    ]
+  },
+  "sich_duschen_verb": {
+    "translation": "å dusje",
+    "examples": [
+      { "sentence": "Ich dusche mich morgens.", "translation": "Jeg dusjer om morgenen." },
+      { "sentence": "Duschst du dich jeden Tag?", "translation": "Dusjer du hver dag?" },
+      { "sentence": "Er duscht sich kalt.", "translation": "Han dusjer kaldt." }
+    ]
+  },
+  "sich_anziehen_verb": {
+    "translation": "å kle på seg",
+    "examples": [
+      { "sentence": "Ich ziehe mich an.", "translation": "Jeg kler på meg." },
+      { "sentence": "Ziehst du dich warm an?", "translation": "Kler du deg varmt?" },
+      { "sentence": "Die Kinder ziehen sich schnell an.", "translation": "Barna kler på seg raskt." }
+    ]
+  },
+  "sich_kaemmen_verb": {
+    "translation": "å gre seg",
+    "examples": [
+      { "sentence": "Ich kämme mich.", "translation": "Jeg grer meg." },
+      { "sentence": "Kämmst du dich vor dem Spiegel?", "translation": "Grer du deg foran speilet?" },
+      { "sentence": "Sie kämmt sich die Haare.", "translation": "Hun grer håret." }
+    ]
+  },
+  "sich_schminken_verb": {
+    "translation": "å sminke seg",
+    "examples": [
+      { "sentence": "Ich schminke mich.", "translation": "Jeg sminker meg." },
+      { "sentence": "Schminkst du dich jeden Tag?", "translation": "Sminker du deg hver dag?" },
+      { "sentence": "Sie schminkt sich für die Party.", "translation": "Hun sminker seg til festen." }
+    ]
+  },
+  "sich_rasieren_verb": {
+    "translation": "å barbere seg",
+    "examples": [
+      { "sentence": "Ich rasiere mich jeden Morgen.", "translation": "Jeg barberer meg hver morgen." },
+      { "sentence": "Rasierst du dich?", "translation": "Barberer du deg?" },
+      { "sentence": "Er rasiert sich im Bad.", "translation": "Han barberer seg på badet." }
+    ]
+  },
+  "sich_freuen_verb": {
+    "translation": "å glede seg",
+    "examples": [
+      { "sentence": "Ich freue mich sehr.", "translation": "Jeg er veldig glad." },
+      { "sentence": "Freust du dich?", "translation": "Er du glad?" },
+      { "sentence": "Wir freuen uns auf den Besuch.", "translation": "Vi gleder oss til besøket." }
+    ]
+  },
+  "aufwachen_verb": {
+    "translation": "å våkne",
+    "examples": [
+      { "sentence": "Ich wache früh auf.", "translation": "Jeg våkner tidlig." },
+      { "sentence": "Wann wachst du auf?", "translation": "Når våkner du?" },
+      { "sentence": "Die Kinder wachen um 6 Uhr auf.", "translation": "Barna våkner klokken 6." }
+    ]
+  },
+  "aufstehen_verb": {
+    "translation": "å stå opp",
+    "examples": [
+      { "sentence": "Ich stehe um 7 Uhr auf.", "translation": "Jeg står opp klokken 7." },
+      { "sentence": "Wann stehst du auf?", "translation": "Når står du opp?" },
+      { "sentence": "Am Wochenende stehe ich spät auf.", "translation": "I helgen står jeg sent opp." }
+    ]
+  },
+  "fruehstuecken_verb": {
+    "translation": "å spise frokost",
+    "examples": [
+      { "sentence": "Ich frühstücke um 7 Uhr.", "translation": "Jeg spiser frokost klokken 7." },
+      { "sentence": "Frühstückst du immer?", "translation": "Spiser du alltid frokost?" },
+      { "sentence": "Wir frühstücken zusammen.", "translation": "Vi spiser frokost sammen." }
+    ]
+  },
+  "sich_fuehlen_verb": {
+    "translation": "å føle seg",
+    "examples": [
+      { "sentence": "Ich fühle mich gut.", "translation": "Jeg føler meg bra." },
+      { "sentence": "Wie fühlst du dich?", "translation": "Hvordan føler du deg?" },
+      { "sentence": "Sie fühlt sich müde.", "translation": "Hun føler seg trøtt." }
+    ]
+  },
+  "sich_freuen_ueber_verb": {
+    "translation": "å glede seg over",
+    "examples": [
+      { "sentence": "Ich freue mich über das Geschenk.", "translation": "Jeg gleder meg over gaven." },
+      { "sentence": "Worüber freust du dich?", "translation": "Hva gleder du deg over?" },
+      { "sentence": "Wir freuen uns über euren Besuch.", "translation": "Vi gleder oss over besøket deres." }
+    ]
+  },
+  "sich_aergern_verb": {
+    "translation": "å irritere seg",
+    "examples": [
+      { "sentence": "Ich ärgere mich.", "translation": "Jeg irriterer meg." },
+      { "sentence": "Ärgerst du dich oft?", "translation": "Irriterer du deg ofte?" },
+      { "sentence": "Er ärgert sich über den Fehler.", "translation": "Han irriterer seg over feilen." }
+    ]
+  },
+  "sich_interessieren_verb": {
+    "translation": "å interessere seg",
+    "examples": [
+      { "sentence": "Ich interessiere mich für Sport.", "translation": "Jeg interesserer meg for sport." },
+      { "sentence": "Wofür interessierst du dich?", "translation": "Hva interesserer du deg for?" },
+      { "sentence": "Sie interessiert sich für Kunst.", "translation": "Hun interesserer seg for kunst." }
+    ]
+  },
+  "sich_langweilen_verb": {
+    "translation": "å kjede seg",
+    "examples": [
+      { "sentence": "Ich langweile mich.", "translation": "Jeg kjeder meg." },
+      { "sentence": "Langweilst du dich?", "translation": "Kjeder du deg?" },
+      { "sentence": "Die Kinder langweilen sich.", "translation": "Barna kjeder seg." }
+    ]
+  },
+  "sich_konzentrieren_verb": {
+    "translation": "å konsentrere seg",
+    "examples": [
+      { "sentence": "Ich konzentriere mich auf die Arbeit.", "translation": "Jeg konsentrerer meg om arbeidet." },
+      { "sentence": "Konzentrierst du dich?", "translation": "Konsentrerer du deg?" },
+      { "sentence": "Wir müssen uns konzentrieren.", "translation": "Vi må konsentrere oss." }
+    ]
+  },
+  "sich_entschuldigen_verb": {
+    "translation": "å beklage",
+    "examples": [
+      { "sentence": "Ich entschuldige mich.", "translation": "Jeg beklager." },
+      { "sentence": "Entschuldigst du dich?", "translation": "Unnskylder du deg?" },
+      { "sentence": "Er entschuldigt sich für die Verspätung.", "translation": "Han unnskylder seg for forsinkelsen." }
+    ]
+  },
+  "sich_verspaeten_verb": {
+    "translation": "å komme for sent",
+    "examples": [
+      { "sentence": "Ich verspäte mich.", "translation": "Jeg kommer for sent." },
+      { "sentence": "Verspätest du dich oft?", "translation": "Kommer du ofte for sent?" },
+      { "sentence": "Der Zug verspätet sich.", "translation": "Toget er forsinket." }
+    ]
+  },
+  "sich_entspannen_verb": {
+    "translation": "å slappe av",
+    "examples": [
+      { "sentence": "Ich entspanne mich gern.", "translation": "Jeg liker å slappe av." },
+      { "sentence": "Entspannst du dich am Wochenende?", "translation": "Slapper du av i helgen?" },
+      { "sentence": "Wir entspannen uns im Urlaub.", "translation": "Vi slapper av i ferien." }
+    ]
+  },
+  "sich_aufregen_verb": {
+    "translation": "å bli opprørt",
+    "examples": [
+      { "sentence": "Ich rege mich auf.", "translation": "Jeg blir opprørt." },
+      { "sentence": "Reg dich nicht auf!", "translation": "Ikke bli opprørt!" },
+      { "sentence": "Er regt sich immer auf.", "translation": "Han blir alltid opprørt." }
+    ]
+  },
+  "sich_ausruhen_verb": {
+    "translation": "å hvile seg",
+    "examples": [
+      { "sentence": "Ich ruhe mich aus.", "translation": "Jeg hviler meg." },
+      { "sentence": "Ruhst du dich aus?", "translation": "Hviler du deg?" },
+      { "sentence": "Er muss sich ausruhen.", "translation": "Han må hvile seg." }
+    ]
+  },
+  "sich_erholen_verb": {
+    "translation": "å rekreere seg",
+    "examples": [
+      { "sentence": "Ich erhole mich im Urlaub.", "translation": "Jeg hviler ut i ferien." },
+      { "sentence": "Erholst du dich gut?", "translation": "Hviler du godt ut?" },
+      { "sentence": "Wir erholen uns am Strand.", "translation": "Vi hviler ut på stranden." }
+    ]
+  },
+  "sich_vorbereiten_verb": {
+    "translation": "å forberede seg",
+    "examples": [
+      { "sentence": "Ich bereite mich auf die Prüfung vor.", "translation": "Jeg forbereder meg til prøven." },
+      { "sentence": "Bereitest du dich vor?", "translation": "Forbereder du deg?" },
+      { "sentence": "Wir bereiten uns auf die Reise vor.", "translation": "Vi forbereder oss til reisen." }
+    ]
+  },
+  "sich_setzen_verb": {
+    "translation": "å sette seg",
+    "examples": [
+      { "sentence": "Ich setze mich.", "translation": "Jeg setter meg." },
+      { "sentence": "Setzt du dich zu mir?", "translation": "Setter du deg ved siden av meg?" },
+      { "sentence": "Bitte setzen Sie sich!", "translation": "Vær så snill, sett deg!" }
+    ]
+  },
+  "sich_unterhalten_verb": {
+    "translation": "å underholde seg / å snakke",
+    "examples": [
+      { "sentence": "Ich unterhalte mich gern mit Freunden.", "translation": "Jeg liker å snakke med venner." },
+      { "sentence": "Unterhaltet ihr euch gut?", "translation": "Har dere det gøy?" },
+      { "sentence": "Wir unterhalten uns über Musik.", "translation": "Vi snakker om musikk." }
+    ]
+  },
+  "sich_bewegen_verb": {
+    "translation": "å bevege seg",
+    "examples": [
+      { "sentence": "Ich bewege mich gern.", "translation": "Jeg liker å bevege meg." },
+      { "sentence": "Bewegst du dich genug?", "translation": "Beveger du deg nok?" },
+      { "sentence": "Wir müssen uns mehr bewegen.", "translation": "Vi må bevege oss mer." }
+    ]
+  },
+  "sollen_verb": {
+    "translation": "skal / bør",
+    "synonyms": [
+      "å skulle",
+      "å burde"
+    ],
+    "examples": [
+      { "sentence": "Was soll ich machen?", "translation": "Hva skal jeg gjøre?" },
+      { "sentence": "Du sollst deine Hausaufgaben machen.", "translation": "Du skal gjøre leksene dine." },
+      { "sentence": "Wir sollen früh aufstehen.", "translation": "Vi skal stå opp tidlig." }
+    ]
+  },
+  "mitbringen_verb": {
+    "translation": "å ta med",
+    "explanation": {
+      "_description": "Betyr \"å ta med seg\" eller \"å bringe med\". Løst sammensatt verb. Eksempel: \"Ich bringe Kuchen mit\" (jeg tar med kake)."
+    },
+    "examples": [
+      { "sentence": "Ich bringe Kuchen mit.", "translation": "Jeg tar med kake." },
+      { "sentence": "Was bringst du mit?", "translation": "Hva tar du med?" },
+      { "sentence": "Er bringt seine Schwester mit.", "translation": "Han tar med søsteren sin." }
+    ]
+  },
+  "grillen_verb": {
+    "translation": "å grille",
+    "explanation": {
+      "_description": "Betyr \"å grille\". Eksempel: \"Wir grillen am Wochenende\" (vi griller i helgen)."
+    },
+    "examples": [
+      { "sentence": "Wir grillen am Wochenende.", "translation": "Vi griller i helgen." },
+      { "sentence": "Grillst du gern?", "translation": "Liker du å grille?" },
+      { "sentence": "Sie grillen Würstchen.", "translation": "De griller pølser." }
+    ]
+  },
+  "planen_verb": {
+    "translation": "å planlegge",
+    "explanation": {
+      "_description": "Betyr \"å planlegge\". Eksempel: \"Wir planen eine Party\" (vi planlegger en fest)."
+    },
+    "examples": [
+      { "sentence": "Ich plane eine Reise.", "translation": "Jeg planlegger en reise." },
+      { "sentence": "Was planst du für morgen?", "translation": "Hva planlegger du for i morgen?" },
+      { "sentence": "Wir planen eine Überraschung.", "translation": "Vi planlegger en overraskelse." }
+    ]
+  },
+  "sitzen_verb": {
+    "translation": "å sitte",
+    "explanation": {
+      "_description": "Sterkt verb som betyr \"å sitte\". Eksempel: \"Er sitzt neben Sophie\" (han sitter ved siden av Sophie)."
+    },
+    "examples": [
+      { "sentence": "Ich sitze am Fenster.", "translation": "Jeg sitter ved vinduet." },
+      { "sentence": "Wo sitzt du?", "translation": "Hvor sitter du?" },
+      { "sentence": "Er sitzt neben mir.", "translation": "Han sitter ved siden av meg." }
+    ]
+  },
+  "lachen_verb": {
+    "translation": "å le",
+    "explanation": {
+      "_description": "Betyr \"å le\". Ofte brukt i dialog for å vise humor. Eksempel: \"(lacht) Das ist lustig!\" ((ler) det er morsomt!)."
+    },
+    "examples": [
+      { "sentence": "Ich lache gern.", "translation": "Jeg liker å le." },
+      { "sentence": "Warum lachst du?", "translation": "Hvorfor ler du?" },
+      { "sentence": "Wir lachen über den Witz.", "translation": "Vi ler av vitsen." }
+    ]
+  },
+  "fragen_verb": {
+    "translation": "å spørre",
+    "explanation": {
+      "_description": "Betyr \"å spørre\". Eksempel: \"Darf ich dich etwas fragen?\" (får jeg lov til å spørre deg om noe?)."
+    },
+    "examples": [
+      { "sentence": "Darf ich dich etwas fragen?", "translation": "Får jeg spørre deg om noe?" },
+      { "sentence": "Ich frage den Lehrer.", "translation": "Jeg spør læreren." },
+      { "sentence": "Sie fragt nach dem Weg.", "translation": "Hun spør om veien." }
+    ]
+  },
+  "verstehen_verb": {
+    "translation": "å forstå",
+    "explanation": {
+      "_description": "Sterkt verb som betyr \"å forstå\". Eksempel: \"Er versteht mich immer\" (han forstår meg alltid)."
+    },
+    "examples": [
+      { "sentence": "Ich verstehe das nicht.", "translation": "Jeg forstår ikke det." },
+      { "sentence": "Verstehst du Deutsch?", "translation": "Forstår du tysk?" },
+      { "sentence": "Wir verstehen uns gut.", "translation": "Vi forstår hverandre godt." }
+    ]
+  },
+  "helfen_verb": {
+    "translation": "å hjelpe",
+    "examples": [
+      { "sentence": "Kann ich dir helfen?", "translation": "Kan jeg hjelpe deg?" },
+      { "sentence": "Ich helfe meiner Mutter.", "translation": "Jeg hjelper moren min." },
+      { "sentence": "Wir helfen gern.", "translation": "Vi hjelper gjerne." }
+    ]
+  },
+  "laecheln_verb": {
+    "translation": "å smile",
+    "explanation": {
+      "_description": "Betyr \"å smile\". Ofte brukt i dialog for å vise en vennlig reaksjon. Eksempel: \"(lächelt) Das ist geheim!\" ((smiler) det er hemmelig!)."
+    },
+    "examples": [
+      { "sentence": "Ich lächle.", "translation": "Jeg smiler." },
+      { "sentence": "Warum lächelst du?", "translation": "Hvorfor smiler du?" },
+      { "sentence": "Sie lächelt freundlich.", "translation": "Hun smiler vennlig." }
+    ]
+  },
+  "wecken_verb": {
+    "translation": "å vekke",
+    "explanation": {
+      "_description": "Betyr \"å vekke\". Kan også brukes refleksivt: \"sich wecken lassen\" (å la seg vekke). Eksempel: \"Das weckt mich richtig auf!\" (det vekker meg skikkelig!)."
+    },
+    "examples": [
+      { "sentence": "Ich wecke dich um 7 Uhr.", "translation": "Jeg vekker deg klokken 7." },
+      { "sentence": "Weckst du mich morgen?", "translation": "Vekker du meg i morgen?" },
+      { "sentence": "Der Lärm hat mich geweckt.", "translation": "Støyen vekket meg." }
+    ]
+  },
+  "liegen_verb": {
+    "translation": "å ligge",
+    "explanation": {
+      "_description": "Sterkt verb som betyr \"å ligge\". Ofte brukt i uttrykket \"im Bett liegen\" (å ligge i sengen). Eksempel: \"Ich bleibe noch 10 Minuten im Bett liegen\" (jeg blir liggende i sengen 10 minutter til)."
+    },
+    "examples": [
+      { "sentence": "Ich liege im Bett.", "translation": "Jeg ligger i sengen." },
+      { "sentence": "Das Buch liegt auf dem Tisch.", "translation": "Boken ligger på bordet." },
+      { "sentence": "Die Stadt liegt am Meer.", "translation": "Byen ligger ved havet." }
+    ]
+  },
+  "putzen_verb": {
+    "translation": "å pusse / å rengjøre",
+    "explanation": {
+      "_description": "Betyr \"å pusse\" eller \"å rengjøre\". Ofte brukt i \"Zähne putzen\" (pusse tenner). Eksempel: \"Ich putze meine Zähne nach dem Frühstück\" (jeg pusser tennene mine etter frokosten)."
+    },
+    "examples": [
+      { "sentence": "Ich putze mir die Zähne.", "translation": "Jeg pusser tennene." },
+      { "sentence": "Wir putzen das Haus.", "translation": "Vi vasker huset." },
+      { "sentence": "Putzt du dein Zimmer?", "translation": "Rydder du rommet ditt?" }
+    ]
+  },
+  "arbeiten_verb": {
+    "translation": "å arbeide / å jobbe",
+    "explanation": {
+      "_description": "Betyr \"å arbeide\" eller \"å jobbe\". Eksempel: \"Du arbeitest zu viel!\" (du arbeider for mye!)."
+    },
+    "examples": [
+      { "sentence": "Ich arbeite bei einer Firma.", "translation": "Jeg jobber i et firma." },
+      { "sentence": "Wo arbeitest du?", "translation": "Hvor jobber du?" },
+      { "sentence": "Mein Vater arbeitet viel.", "translation": "Faren min jobber mye." }
+    ]
+  },
+  "wissen_verb": {
+    "translation": "å vite",
+    "explanation": {
+      "_description": "Uregelmessig verb som betyr \"å vite\". Bøyes som et modalverb i presens. Eksempel: \"Ich weiß\" (jeg vet), \"Weißt du?\" (vet du?)."
+    },
+    "examples": [
+      { "sentence": "Ich weiß es nicht.", "translation": "Jeg vet det ikke." },
+      { "sentence": "Weißt du, wo er ist?", "translation": "Vet du hvor han er?" },
+      { "sentence": "Wir wissen die Antwort.", "translation": "Vi vet svaret." }
+    ]
+  },
+  "geben_verb": {
+    "translation": "å gi",
+    "examples": [
+      { "sentence": "Ich gebe dir das Buch.", "translation": "Jeg gir deg boken." },
+      { "sentence": "Gibst du mir dein Handy?", "translation": "Gir du meg mobilen din?" },
+      { "sentence": "Es gibt viele Möglichkeiten.", "translation": "Det finnes mange muligheter." }
+    ]
+  },
+  "vergessen_verb": {
+    "translation": "å glemme",
+    "examples": [
+      { "sentence": "Ich vergesse das nie.", "translation": "Jeg glemmer det aldri." },
+      { "sentence": "Vergisst du oft Sachen?", "translation": "Glemmer du ofte ting?" },
+      { "sentence": "Er vergisst seinen Schlüssel.", "translation": "Han glemmer nøkkelen sin." }
+    ]
+  },
+  "klingen_verb": {
+    "translation": "å høres ut / å lyde",
+    "explanation": {
+      "_description": "Sterkt verb som betyr \"å høres ut\" eller \"å lyde\". Eksempel: \"Das klingt gut!\" (det høres bra ut!)."
+    },
+    "examples": [
+      { "sentence": "Das klingt gut!", "translation": "Det høres bra ut!" },
+      { "sentence": "Wie klingt das?", "translation": "Hvordan høres det ut?" },
+      { "sentence": "Die Musik klingt schön.", "translation": "Musikken lyder vakkert." }
+    ]
+  },
+  "haengen_verb": {
+    "translation": "å henge",
+    "examples": [
+      { "sentence": "Das Bild hängt an der Wand.", "translation": "Bildet henger på veggen." },
+      { "sentence": "Ich hänge meine Jacke auf.", "translation": "Jeg henger opp jakken min." },
+      { "sentence": "Die Lampe hängt über dem Tisch.", "translation": "Lampen henger over bordet." }
+    ]
+  },
+  "stehen_verb": {
+    "translation": "å stå",
+    "examples": [
+      { "sentence": "Ich stehe an der Bushaltestelle.", "translation": "Jeg står på bussholdeplassen." },
+      { "sentence": "Wo steht das Buch?", "translation": "Hvor står boken?" },
+      { "sentence": "Wir stehen in der Schlange.", "translation": "Vi står i kø." }
+    ]
+  },
+  "warten_verb": {
+    "translation": "å vente",
+    "examples": [
+      { "sentence": "Ich warte auf den Bus.", "translation": "Jeg venter på bussen." },
+      { "sentence": "Wartest du auf mich?", "translation": "Venter du på meg?" },
+      { "sentence": "Wir warten schon lange.", "translation": "Vi har ventet lenge." }
+    ]
+  },
+  "laufen_verb": {
+    "translation": "å løpe",
+    "examples": [
+      { "sentence": "Ich laufe jeden Tag.", "translation": "Jeg løper hver dag." },
+      { "sentence": "Läufst du gern?", "translation": "Liker du å løpe?" },
+      { "sentence": "Wir laufen zur Schule.", "translation": "Vi går til skolen." }
+    ]
+  },
+  "springen_verb": {
+    "translation": "å hoppe",
+    "examples": [
+      { "sentence": "Ich springe ins Wasser.", "translation": "Jeg hopper i vannet." },
+      { "sentence": "Der Hund springt hoch.", "translation": "Hunden hopper høyt." },
+      { "sentence": "Wir springen über den Bach.", "translation": "Vi hopper over bekken." }
+    ]
+  },
+  "glauben_verb": {
+    "translation": "å tro",
+    "examples": [
+      { "sentence": "Ich glaube dir.", "translation": "Jeg tror deg." },
+      { "sentence": "Glaubst du das?", "translation": "Tror du det?" },
+      { "sentence": "Wir glauben an dich.", "translation": "Vi tror på deg." }
+    ]
+  },
+  "gewinnen_verb": {
+    "translation": "å vinne",
+    "examples": [
+      { "sentence": "Ich gewinne das Spiel.", "translation": "Jeg vinner spillet." },
+      { "sentence": "Wer gewinnt?", "translation": "Hvem vinner?" },
+      { "sentence": "Unsere Mannschaft gewinnt oft.", "translation": "Laget vårt vinner ofte." }
+    ]
+  },
+  "verlieren_verb": {
+    "translation": "å tape / miste",
+    "examples": [
+      { "sentence": "Ich verliere oft meine Schlüssel.", "translation": "Jeg mister ofte nøklene mine." },
+      { "sentence": "Wir verlieren das Spiel.", "translation": "Vi taper kampen." },
+      { "sentence": "Verlierst du nie?", "translation": "Taper du aldri?" }
+    ]
+  },
+  "danken_verb": {
+    "translation": "å takke",
+    "examples": [
+      { "sentence": "Ich danke dir!", "translation": "Jeg takker deg!" },
+      { "sentence": "Wir danken Ihnen sehr.", "translation": "Vi takker Dem veldig." },
+      { "sentence": "Er dankt für die Hilfe.", "translation": "Han takker for hjelpen." }
+    ]
+  },
+  "antworten_verb": {
+    "translation": "å svare",
+    "examples": [
+      { "sentence": "Ich antworte auf die Frage.", "translation": "Jeg svarer på spørsmålet." },
+      { "sentence": "Antwortest du mir?", "translation": "Svarer du meg?" },
+      { "sentence": "Sie antwortet nicht.", "translation": "Hun svarer ikke." }
+    ]
+  },
+  "vertrauen_verb": {
+    "translation": "å stole på",
+    "examples": [
+      { "sentence": "Ich vertraue dir.", "translation": "Jeg stoler på deg." },
+      { "sentence": "Vertraust du mir?", "translation": "Stoler du på meg?" },
+      { "sentence": "Wir vertrauen unserem Lehrer.", "translation": "Vi stoler på læreren vår." }
+    ]
+  },
+  "versprechen_verb": {
+    "translation": "å love",
+    "examples": [
+      { "sentence": "Ich verspreche es dir.", "translation": "Jeg lover deg det." },
+      { "sentence": "Versprichst du mir das?", "translation": "Lover du meg det?" },
+      { "sentence": "Er verspricht, pünktlich zu kommen.", "translation": "Han lover å komme i tide." }
+    ]
+  },
+  "erklaeren_verb": {
+    "translation": "å forklare",
+    "examples": [
+      { "sentence": "Kannst du das erklären?", "translation": "Kan du forklare det?" },
+      { "sentence": "Ich erkläre es dir.", "translation": "Jeg forklarer det for deg." },
+      { "sentence": "Der Lehrer erklärt die Grammatik.", "translation": "Læreren forklarer grammatikken." }
+    ]
+  },
+  "zeigen_verb": {
+    "translation": "å vise",
+    "examples": [
+      { "sentence": "Ich zeige dir mein Zimmer.", "translation": "Jeg viser deg rommet mitt." },
+      { "sentence": "Kannst du mir das zeigen?", "translation": "Kan du vise meg det?" },
+      { "sentence": "Sie zeigt auf die Karte.", "translation": "Hun peker på kartet." }
+    ]
+  },
+  "bringen_verb": {
+    "translation": "å bringe",
+    "examples": [
+      { "sentence": "Ich bringe dir das Buch.", "translation": "Jeg bringer deg boken." },
+      { "sentence": "Bringst du Kuchen mit?", "translation": "Tar du med kake?" },
+      { "sentence": "Er bringt die Kinder zur Schule.", "translation": "Han kjører barna til skolen." }
+    ]
+  },
+  "erzaehlen_verb": {
+    "translation": "å fortelle",
+    "examples": [
+      { "sentence": "Ich erzähle dir eine Geschichte.", "translation": "Jeg forteller deg en historie." },
+      { "sentence": "Erzählst du mir davon?", "translation": "Forteller du meg om det?" },
+      { "sentence": "Sie erzählt immer interessante Sachen.", "translation": "Hun forteller alltid interessante ting." }
+    ]
+  },
+  "aufraeumen_verb": {
+    "translation": "å rydde opp",
+    "examples": [
+      { "sentence": "Ich räume mein Zimmer auf.", "translation": "Jeg rydder rommet mitt." },
+      { "sentence": "Räumst du bitte auf?", "translation": "Kan du rydde opp?" },
+      { "sentence": "Wir räumen nach der Party auf.", "translation": "Vi rydder opp etter festen." }
+    ]
+  },
+  "reisen_verb": {
+    "translation": "å reise",
+    "examples": [
+      { "sentence": "Ich reise gern.", "translation": "Jeg liker å reise." },
+      { "sentence": "Wohin reist du?", "translation": "Hvor reiser du?" },
+      { "sentence": "Wir reisen nach Italien.", "translation": "Vi reiser til Italia." }
+    ]
+  },
+  "fernsehen_verb": {
+    "translation": "å se på TV",
+    "examples": [
+      { "sentence": "Ich sehe abends fern.", "translation": "Jeg ser på TV om kvelden." },
+      { "sentence": "Siehst du gern fern?", "translation": "Liker du å se på TV?" },
+      { "sentence": "Die Kinder sehen zu viel fern.", "translation": "Barna ser for mye på TV." }
+    ]
+  },
+  "rad_fahren_verbphrase": {
+    "translation": "å sykle",
+    "germanSynonyms": ["radeln"],
+    "examples": [
+      { "sentence": "Ich fahre gern Rad.", "translation": "Jeg liker å sykle." },
+      { "sentence": "Fährst du oft Rad?", "translation": "Sykler du ofte?" },
+      { "sentence": "Wir fahren zur Schule Rad.", "translation": "Vi sykler til skolen." }
+    ]
+  },
+  "musik_hoeren_verbphrase": {
+    "translation": "å høre på musikk",
+    "synonyms": [
+      "lytte til musikk",
+      "å lytte til musikk"
+    ],
+    "examples": [
+      { "sentence": "Ich höre gern Musik.", "translation": "Jeg liker å høre på musikk." },
+      { "sentence": "Welche Musik hörst du?", "translation": "Hvilken musikk hører du på?" },
+      { "sentence": "Wir hören zusammen Musik.", "translation": "Vi hører på musikk sammen." }
+    ]
+  },
+  "moechten_modal": {
+    "translation": "å ville ha / å ønske",
+    "explanation": {
+      "_description": "Möchten er egentlig konjunktiv (ønskeform) av mögen, men brukes ofte som presens i dagligtale. Det betyr \"å ville ha\" eller \"å ønske\" og er høfligere enn \"wollen\"."
+    },
+    "examples": [
+      { "sentence": "Ich möchte ein Glas Wasser.", "translation": "Jeg vil gjerne ha et glass vann." },
+      { "sentence": "Möchten Sie bestellen?", "translation": "Vil De bestille?" },
+      { "sentence": "Wir möchten bezahlen, bitte.", "translation": "Vi vil gjerne betale, takk." }
+    ]
+  },
+  "bekommen_verb": {
+    "translation": "å få",
+    "examples": [
+      { "sentence": "Ich bekomme ein Geschenk.", "translation": "Jeg får en gave." },
+      { "sentence": "Was bekommst du zum Geburtstag?", "translation": "Hva får du til bursdagen?" },
+      { "sentence": "Wir bekommen Besuch.", "translation": "Vi får besøk." }
+    ]
+  },
+  "gassi_gehen_verbphrase": {
+    "translation": "å gå tur med hunden",
+    "synonyms": ["gå med hunden"],
+    "examples": [
+      { "sentence": "Ich gehe mit dem Hund Gassi.", "translation": "Jeg går tur med hunden." },
+      { "sentence": "Gehst du heute Gassi?", "translation": "Går du tur med hunden i dag?" },
+      { "sentence": "Wir gehen jeden Tag Gassi.", "translation": "Vi går tur med hunden hver dag." }
+    ]
+  },
+  "klettern_verb": {
+    "translation": "å klatre",
+    "synonyms": [
+      "å bestige"
+    ],
+    "explanation": {
+      "kraxeln": "uformelt for å klatre (sør-tysk dialekt)"
+    },
+    "examples": [
+      { "sentence": "Ich klettere gern.", "translation": "Jeg liker å klatre." },
+      { "sentence": "Wir klettern auf den Berg.", "translation": "Vi klatrer opp på fjellet." },
+      { "sentence": "Die Kinder klettern auf den Baum.", "translation": "Barna klatrer opp i treet." }
+    ]
+  },
+  "wegfahren_verb": {
+    "translation": "å reise bort",
+    "examples": [
+      { "sentence": "Wir fahren morgen weg.", "translation": "Vi reiser bort i morgen." },
+      { "sentence": "Fährst du am Wochenende weg?", "translation": "Reiser du bort i helgen?" },
+      { "sentence": "Sie fährt für eine Woche weg.", "translation": "Hun reiser bort i en uke." }
+    ]
+  },
+  "liegen_bleiben_verb": {
+    "translation": "bli liggende",
+    "examples": [
+      { "sentence": "Ich bleibe im Bett liegen.", "translation": "Jeg blir liggende i sengen." },
+      { "sentence": "Bleibst du noch liegen?", "translation": "Blir du liggende litt til?" },
+      { "sentence": "Am Sonntag bleibe ich lange liegen.", "translation": "På søndag blir jeg liggende lenge." }
+    ]
+  },
+  "sich_aergern_ueber_verb": {
+    "translation": "å irritere seg over",
+    "examples": [
+      { "sentence": "Ich ärgere mich über das Wetter.", "translation": "Jeg irriterer meg over været." },
+      { "sentence": "Worüber ärgerst du dich?", "translation": "Hva irriterer du deg over?" },
+      { "sentence": "Sie ärgert sich über die Verspätung.", "translation": "Hun irriterer seg over forsinkelsen." }
+    ]
+  },
+  "mitkommen_verb": {
+    "translation": "å bli med",
+    "examples": [
+      { "sentence": "Kommst du mit?", "translation": "Blir du med?" },
+      { "sentence": "Ich komme gern mit.", "translation": "Jeg blir gjerne med." },
+      { "sentence": "Wir kommen alle mit.", "translation": "Vi blir alle med." }
+    ]
+  },
+  "spazieren_gehen_verb": {
+    "translation": "å gå tur",
+    "examples": [
+      { "sentence": "Ich gehe spazieren.", "translation": "Jeg går en tur." },
+      { "sentence": "Gehst du gern spazieren?", "translation": "Liker du å gå tur?" },
+      { "sentence": "Wir gehen im Park spazieren.", "translation": "Vi går tur i parken." }
+    ]
+  },
+  "fertig_werden_verbphrase": {
+    "translation": "å bli ferdig",
+    "examples": [
+      { "sentence": "Ich werde bald fertig.", "translation": "Jeg blir snart ferdig." },
+      { "sentence": "Wann wirst du fertig?", "translation": "Når blir du ferdig?" },
+      { "sentence": "Wir werden rechtzeitig fertig.", "translation": "Vi blir ferdige i tide." }
+    ]
+  },
+  "zaehneputzen_verb": {
+    "translation": "å pusse tennene",
+    "examples": [
+      { "sentence": "Ich putze mir die Zähne.", "translation": "Jeg pusser tennene." },
+      { "sentence": "Putzt du dir die Zähne?", "translation": "Pusser du tennene?" },
+      { "sentence": "Wir putzen uns jeden Tag die Zähne.", "translation": "Vi pusser tennene hver dag." }
+    ]
+  },
+  "ausziehen_verb": {
+    "translation": "å kle av seg",
+    "examples": [
+      { "sentence": "Ich ziehe meine Schuhe aus.", "translation": "Jeg tar av meg skoene." },
+      { "sentence": "Ziehst du deine Jacke aus?", "translation": "Tar du av deg jakken?" },
+      { "sentence": "Wir ziehen die Kinder aus.", "translation": "Vi kler av barna." }
+    ]
+  },
+  "einschlafen_verb": {
+    "translation": "å sovne",
+    "examples": [
+      { "sentence": "Ich schlafe schnell ein.", "translation": "Jeg sovner raskt." },
+      { "sentence": "Schläfst du leicht ein?", "translation": "Sovner du lett?" },
+      { "sentence": "Die Kinder schlafen früh ein.", "translation": "Barna sovner tidlig." }
+    ]
+  }
+}

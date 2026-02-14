@@ -1,0 +1,644 @@
+{
+  "_metadata": {
+    "description": "French phrases for Nous parlons Francais 1",
+    "total_phrases": 60,
+    "categories": [
+      "greetings",
+      "politeness",
+      "questions",
+      "responses",
+      "daily",
+      "classroom"
+    ]
+  },
+  "bonjour_phrase": {
+    "word": "bonjour",
+    "type": "phrase",
+    "category": "greetings",
+    "translations": {
+      "nb": "god dag, hei",
+      "en": "hello, good day"
+    }
+  },
+  "salut_phrase": {
+    "word": "salut",
+    "type": "phrase",
+    "category": "greetings",
+    "translations": {
+      "nb": "hei, ha det",
+      "en": "hi, bye (informal)"
+    }
+  },
+  "au_revoir_phrase": {
+    "word": "au revoir",
+    "type": "phrase",
+    "category": "greetings",
+    "translations": {
+      "nb": "ha det",
+      "en": "goodbye"
+    }
+  },
+  "a_bientot_phrase": {
+    "word": "a bientot",
+    "type": "phrase",
+    "category": "greetings",
+    "translations": {
+      "nb": "vi sees snart",
+      "en": "see you soon"
+    }
+  },
+  "a_demain_phrase": {
+    "word": "a demain",
+    "type": "phrase",
+    "category": "greetings",
+    "translations": {
+      "nb": "vi sees i morgen",
+      "en": "see you tomorrow"
+    }
+  },
+  "a_plus_tard_phrase": {
+    "word": "a plus tard",
+    "type": "phrase",
+    "category": "greetings",
+    "translations": {
+      "nb": "vi sees senere",
+      "en": "see you later"
+    }
+  },
+  "a_tout_a_lheure_phrase": {
+    "word": "a tout a l'heure",
+    "type": "phrase",
+    "category": "greetings",
+    "translations": {
+      "nb": "vi sees straks",
+      "en": "see you in a bit"
+    }
+  },
+  "bonsoir_phrase": {
+    "word": "bonsoir",
+    "type": "phrase",
+    "category": "greetings",
+    "translations": {
+      "nb": "god kveld",
+      "en": "good evening"
+    }
+  },
+  "bonne_nuit_phrase": {
+    "word": "bonne nuit",
+    "type": "phrase",
+    "category": "greetings",
+    "translations": {
+      "nb": "god natt",
+      "en": "good night"
+    }
+  },
+  "comment_allez_vous_phrase": {
+    "word": "comment allez-vous ?",
+    "type": "phrase",
+    "category": "greetings",
+    "translations": {
+      "nb": "hvordan har du det? (hoflig)",
+      "en": "how are you? (formal)"
+    }
+  },
+  "comment_ca_va_phrase": {
+    "word": "comment ca va ?",
+    "type": "phrase",
+    "category": "greetings",
+    "translations": {
+      "nb": "hvordan gar det?",
+      "en": "how's it going?"
+    }
+  },
+  "ca_va_phrase": {
+    "word": "ca va ?",
+    "type": "phrase",
+    "category": "greetings",
+    "translations": {
+      "nb": "gar det bra?",
+      "en": "you okay?"
+    }
+  },
+  "tres_bien_phrase": {
+    "word": "tres bien",
+    "type": "phrase",
+    "category": "responses",
+    "translations": {
+      "nb": "veldig bra",
+      "en": "very well"
+    }
+  },
+  "bien_merci_phrase": {
+    "word": "bien, merci",
+    "type": "phrase",
+    "category": "responses",
+    "translations": {
+      "nb": "bra, takk",
+      "en": "fine, thanks"
+    }
+  },
+  "ca_va_bien_phrase": {
+    "word": "ca va bien",
+    "type": "phrase",
+    "category": "responses",
+    "translations": {
+      "nb": "det gar bra",
+      "en": "I'm fine"
+    }
+  },
+  "comme_ci_comme_ca_phrase": {
+    "word": "comme ci comme ca",
+    "type": "phrase",
+    "category": "responses",
+    "translations": {
+      "nb": "sann passe",
+      "en": "so-so"
+    }
+  },
+  "pas_mal_phrase": {
+    "word": "pas mal",
+    "type": "phrase",
+    "category": "responses",
+    "translations": {
+      "nb": "ikke darlig",
+      "en": "not bad"
+    }
+  },
+  "et_toi_phrase": {
+    "word": "et toi ?",
+    "type": "phrase",
+    "category": "questions",
+    "translations": {
+      "nb": "og du?",
+      "en": "and you? (informal)"
+    }
+  },
+  "et_vous_phrase": {
+    "word": "et vous ?",
+    "type": "phrase",
+    "category": "questions",
+    "translations": {
+      "nb": "og De?",
+      "en": "and you? (formal)"
+    }
+  },
+  "merci_phrase": {
+    "word": "merci",
+    "type": "phrase",
+    "category": "politeness",
+    "translations": {
+      "nb": "takk",
+      "en": "thank you"
+    }
+  },
+  "merci_beaucoup_phrase": {
+    "word": "merci beaucoup",
+    "type": "phrase",
+    "category": "politeness",
+    "translations": {
+      "nb": "tusen takk",
+      "en": "thank you very much"
+    }
+  },
+  "merci_bien_phrase": {
+    "word": "merci bien",
+    "type": "phrase",
+    "category": "politeness",
+    "translations": {
+      "nb": "mange takk",
+      "en": "thanks a lot"
+    }
+  },
+  "de_rien_phrase": {
+    "word": "de rien",
+    "type": "phrase",
+    "category": "politeness",
+    "translations": {
+      "nb": "bare hyggelig",
+      "en": "you're welcome"
+    }
+  },
+  "il_ny_a_pas_de_quoi_phrase": {
+    "word": "il n'y a pas de quoi",
+    "type": "phrase",
+    "category": "politeness",
+    "translations": {
+      "nb": "ingen arsak",
+      "en": "don't mention it"
+    }
+  },
+  "je_vous_en_prie_phrase": {
+    "word": "je vous en prie",
+    "type": "phrase",
+    "category": "politeness",
+    "translations": {
+      "nb": "vaer sa god (hoflig)",
+      "en": "you're welcome (formal)"
+    }
+  },
+  "sil_vous_plait_phrase": {
+    "word": "s'il vous plait",
+    "type": "phrase",
+    "category": "politeness",
+    "translations": {
+      "nb": "vaer sa snill (hoflig)",
+      "en": "please (formal)"
+    }
+  },
+  "sil_te_plait_phrase": {
+    "word": "s'il te plait",
+    "type": "phrase",
+    "category": "politeness",
+    "translations": {
+      "nb": "vaer sa snill",
+      "en": "please (informal)"
+    }
+  },
+  "pardon_phrase": {
+    "word": "pardon",
+    "type": "phrase",
+    "category": "politeness",
+    "translations": {
+      "nb": "unnskyld",
+      "en": "sorry, excuse me"
+    }
+  },
+  "excusez_moi_phrase": {
+    "word": "excusez-moi",
+    "type": "phrase",
+    "category": "politeness",
+    "translations": {
+      "nb": "unnskyld meg",
+      "en": "excuse me (formal)"
+    }
+  },
+  "excuse_moi_phrase": {
+    "word": "excuse-moi",
+    "type": "phrase",
+    "category": "politeness",
+    "translations": {
+      "nb": "unnskyld",
+      "en": "excuse me (informal)"
+    }
+  },
+  "je_suis_desole_phrase": {
+    "word": "je suis desole(e)",
+    "type": "phrase",
+    "category": "politeness",
+    "translations": {
+      "nb": "jeg beklager",
+      "en": "I'm sorry"
+    }
+  },
+  "comment_tu_tappelles_phrase": {
+    "word": "comment tu t'appelles ?",
+    "type": "phrase",
+    "category": "questions",
+    "translations": {
+      "nb": "hva heter du?",
+      "en": "what's your name? (informal)"
+    }
+  },
+  "comment_vous_appelez_vous_phrase": {
+    "word": "comment vous appelez-vous ?",
+    "type": "phrase",
+    "category": "questions",
+    "translations": {
+      "nb": "hva heter De?",
+      "en": "what's your name? (formal)"
+    }
+  },
+  "je_mappelle_phrase": {
+    "word": "je m'appelle...",
+    "type": "phrase",
+    "category": "responses",
+    "translations": {
+      "nb": "jeg heter...",
+      "en": "my name is..."
+    }
+  },
+  "tu_es_dou_phrase": {
+    "word": "tu es d'ou ?",
+    "type": "phrase",
+    "category": "questions",
+    "translations": {
+      "nb": "hvor er du fra?",
+      "en": "where are you from?"
+    }
+  },
+  "je_suis_de_phrase": {
+    "word": "je suis de...",
+    "type": "phrase",
+    "category": "responses",
+    "translations": {
+      "nb": "jeg er fra...",
+      "en": "I'm from..."
+    }
+  },
+  "je_viens_de_phrase": {
+    "word": "je viens de...",
+    "type": "phrase",
+    "category": "responses",
+    "translations": {
+      "nb": "jeg kommer fra...",
+      "en": "I come from..."
+    }
+  },
+  "quel_age_as_tu_phrase": {
+    "word": "quel age as-tu ?",
+    "type": "phrase",
+    "category": "questions",
+    "translations": {
+      "nb": "hvor gammel er du?",
+      "en": "how old are you?"
+    }
+  },
+  "jai_ans_phrase": {
+    "word": "j'ai ... ans",
+    "type": "phrase",
+    "category": "responses",
+    "translations": {
+      "nb": "jeg er ... ar",
+      "en": "I am ... years old"
+    }
+  },
+  "ou_habites_tu_phrase": {
+    "word": "ou habites-tu ?",
+    "type": "phrase",
+    "category": "questions",
+    "translations": {
+      "nb": "hvor bor du?",
+      "en": "where do you live?"
+    }
+  },
+  "jhabite_a_phrase": {
+    "word": "j'habite a...",
+    "type": "phrase",
+    "category": "responses",
+    "translations": {
+      "nb": "jeg bor i...",
+      "en": "I live in..."
+    }
+  },
+  "quelle_heure_est_il_phrase": {
+    "word": "quelle heure est-il ?",
+    "type": "phrase",
+    "category": "questions",
+    "translations": {
+      "nb": "hva er klokka?",
+      "en": "what time is it?"
+    }
+  },
+  "quest_ce_que_ca_veut_dire_phrase": {
+    "word": "qu'est-ce que ca veut dire ?",
+    "type": "phrase",
+    "category": "classroom",
+    "translations": {
+      "nb": "hva betyr det?",
+      "en": "what does that mean?"
+    }
+  },
+  "comment_dit_on_phrase": {
+    "word": "comment dit-on... ?",
+    "type": "phrase",
+    "category": "classroom",
+    "translations": {
+      "nb": "hvordan sier man...?",
+      "en": "how do you say...?"
+    }
+  },
+  "je_ne_comprends_pas_phrase": {
+    "word": "je ne comprends pas",
+    "type": "phrase",
+    "category": "classroom",
+    "translations": {
+      "nb": "jeg forstar ikke",
+      "en": "I don't understand"
+    }
+  },
+  "pouvez_vous_repeter_phrase": {
+    "word": "pouvez-vous repeter ?",
+    "type": "phrase",
+    "category": "classroom",
+    "translations": {
+      "nb": "kan De gjenta?",
+      "en": "can you repeat? (formal)"
+    }
+  },
+  "plus_lentement_phrase": {
+    "word": "plus lentement, s'il vous plait",
+    "type": "phrase",
+    "category": "classroom",
+    "translations": {
+      "nb": "saktere, takk",
+      "en": "slower, please"
+    }
+  },
+  "jai_une_question_phrase": {
+    "word": "j'ai une question",
+    "type": "phrase",
+    "category": "classroom",
+    "translations": {
+      "nb": "jeg har et sporsmal",
+      "en": "I have a question"
+    }
+  },
+  "comment_ecrit_on_phrase": {
+    "word": "comment ecrit-on... ?",
+    "type": "phrase",
+    "category": "classroom",
+    "translations": {
+      "nb": "hvordan skriver man...?",
+      "en": "how do you spell...?"
+    }
+  },
+  "enchante_phrase": {
+    "word": "enchante(e)",
+    "type": "phrase",
+    "category": "greetings",
+    "translations": {
+      "nb": "hyggelig a mote deg",
+      "en": "nice to meet you"
+    }
+  },
+  "ravi_de_faire_votre_connaissance_phrase": {
+    "word": "ravi(e) de faire votre connaissance",
+    "type": "phrase",
+    "category": "greetings",
+    "translations": {
+      "nb": "hyggelig a treffe Dem",
+      "en": "pleased to meet you (formal)"
+    }
+  },
+  "moi_aussi_phrase": {
+    "word": "moi aussi",
+    "type": "phrase",
+    "category": "responses",
+    "translations": {
+      "nb": "jeg ogsa, i like mate",
+      "en": "me too, likewise"
+    }
+  },
+  "bien_sur_phrase": {
+    "word": "bien sur",
+    "type": "phrase",
+    "category": "responses",
+    "translations": {
+      "nb": "selvfolgelig",
+      "en": "of course"
+    }
+  },
+  "daccord_phrase": {
+    "word": "d'accord",
+    "type": "phrase",
+    "category": "responses",
+    "translations": {
+      "nb": "ok, enig",
+      "en": "okay, agreed"
+    }
+  },
+  "entendu_phrase": {
+    "word": "entendu",
+    "type": "phrase",
+    "category": "responses",
+    "translations": {
+      "nb": "forstatt, i orden",
+      "en": "understood, alright"
+    }
+  },
+  "je_ne_sais_pas_phrase": {
+    "word": "je ne sais pas",
+    "type": "phrase",
+    "category": "responses",
+    "translations": {
+      "nb": "jeg vet ikke",
+      "en": "I don't know"
+    }
+  },
+  "je_pense_que_oui_phrase": {
+    "word": "je pense que oui",
+    "type": "phrase",
+    "category": "responses",
+    "translations": {
+      "nb": "jeg tror det",
+      "en": "I think so"
+    }
+  },
+  "je_pense_que_non_phrase": {
+    "word": "je pense que non",
+    "type": "phrase",
+    "category": "responses",
+    "translations": {
+      "nb": "jeg tror ikke det",
+      "en": "I don't think so"
+    }
+  },
+  "bon_appetit_phrase": {
+    "word": "bon appetit",
+    "type": "phrase",
+    "category": "daily",
+    "translations": {
+      "nb": "god appetitt",
+      "en": "enjoy your meal"
+    }
+  },
+  "sante_phrase": {
+    "word": "sante !",
+    "type": "phrase",
+    "category": "daily",
+    "translations": {
+      "nb": "skal!",
+      "en": "cheers!"
+    }
+  },
+  "a_tes_souhaits_phrase": {
+    "word": "a tes souhaits",
+    "type": "phrase",
+    "category": "daily",
+    "translations": {
+      "nb": "prosit!",
+      "en": "bless you!"
+    }
+  },
+  "felicitations_phrase": {
+    "word": "felicitations !",
+    "type": "phrase",
+    "category": "daily",
+    "translations": {
+      "nb": "gratulerer!",
+      "en": "congratulations!"
+    }
+  },
+  "joyeux_anniversaire_phrase": {
+    "word": "joyeux anniversaire !",
+    "type": "phrase",
+    "category": "daily",
+    "translations": {
+      "nb": "gratulerer med dagen!",
+      "en": "happy birthday!"
+    }
+  },
+  "bonne_chance_phrase": {
+    "word": "bonne chance",
+    "type": "phrase",
+    "category": "daily",
+    "translations": {
+      "nb": "lykke til",
+      "en": "good luck"
+    }
+  },
+  "bonne_journee_phrase": {
+    "word": "bonne journee",
+    "type": "phrase",
+    "category": "daily",
+    "translations": {
+      "nb": "ha en fin dag",
+      "en": "have a nice day"
+    }
+  },
+  "bonne_soiree_phrase": {
+    "word": "bonne soiree",
+    "type": "phrase",
+    "category": "daily",
+    "translations": {
+      "nb": "ha en fin kveld",
+      "en": "have a nice evening"
+    }
+  },
+  "bon_week_end_phrase": {
+    "word": "bon week-end",
+    "type": "phrase",
+    "category": "daily",
+    "translations": {
+      "nb": "god helg",
+      "en": "have a nice weekend"
+    }
+  },
+  "bonnes_vacances_phrase": {
+    "word": "bonnes vacances",
+    "type": "phrase",
+    "category": "daily",
+    "translations": {
+      "nb": "god ferie",
+      "en": "have a nice vacation"
+    }
+  },
+  "joyeux_noel_phrase": {
+    "word": "joyeux Noel",
+    "type": "phrase",
+    "category": "daily",
+    "translations": {
+      "nb": "god jul",
+      "en": "merry Christmas"
+    }
+  },
+  "bonne_annee_phrase": {
+    "word": "bonne annee",
+    "type": "phrase",
+    "category": "daily",
+    "translations": {
+      "nb": "godt nyttar",
+      "en": "happy New Year"
+    }
+  }
+}

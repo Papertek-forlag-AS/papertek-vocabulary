@@ -1,0 +1,574 @@
+{
+  "_metadata": {
+    "description": "French pronouns for Nous parlons Francais 1",
+    "total_pronouns": 55,
+    "categories": [
+      "subject",
+      "direct_object",
+      "indirect_object",
+      "reflexive",
+      "possessive",
+      "demonstrative",
+      "interrogative",
+      "stressed"
+    ],
+    "notes": {
+      "elision": "me, te, le, la become m', t', l' before vowels",
+      "on": "'on' is very common in French, often replacing 'nous' in speech"
+    }
+  },
+  "je_pron": {
+    "word": "je",
+    "type": "pron",
+    "category": "subject",
+    "elision": "j'",
+    "translations": {
+      "nb": "jeg",
+      "en": "I"
+    }
+  },
+  "tu_pron": {
+    "word": "tu",
+    "type": "pron",
+    "category": "subject",
+    "translations": {
+      "nb": "du",
+      "en": "you (informal)"
+    }
+  },
+  "il_pron": {
+    "word": "il",
+    "type": "pron",
+    "category": "subject",
+    "translations": {
+      "nb": "han, det",
+      "en": "he, it"
+    }
+  },
+  "elle_pron": {
+    "word": "elle",
+    "type": "pron",
+    "category": "subject",
+    "translations": {
+      "nb": "hun, den",
+      "en": "she, it"
+    }
+  },
+  "on_pron": {
+    "word": "on",
+    "type": "pron",
+    "category": "subject",
+    "translations": {
+      "nb": "man, vi (uformelt)",
+      "en": "one, we (informal)"
+    }
+  },
+  "nous_pron": {
+    "word": "nous",
+    "type": "pron",
+    "category": "subject",
+    "translations": {
+      "nb": "vi",
+      "en": "we"
+    }
+  },
+  "vous_pron": {
+    "word": "vous",
+    "type": "pron",
+    "category": "subject",
+    "translations": {
+      "nb": "dere, De (hoflig)",
+      "en": "you (plural/formal)"
+    }
+  },
+  "ils_pron": {
+    "word": "ils",
+    "type": "pron",
+    "category": "subject",
+    "translations": {
+      "nb": "de (hankjonn/blandet)",
+      "en": "they (masculine/mixed)"
+    }
+  },
+  "elles_pron": {
+    "word": "elles",
+    "type": "pron",
+    "category": "subject",
+    "translations": {
+      "nb": "de (hunkjonn)",
+      "en": "they (feminine)"
+    }
+  },
+  "me_dirobj_pron": {
+    "word": "me",
+    "type": "pron",
+    "category": "direct_object",
+    "elision": "m'",
+    "translations": {
+      "nb": "meg",
+      "en": "me"
+    }
+  },
+  "te_dirobj_pron": {
+    "word": "te",
+    "type": "pron",
+    "category": "direct_object",
+    "elision": "t'",
+    "translations": {
+      "nb": "deg",
+      "en": "you"
+    }
+  },
+  "le_dirobj_pron": {
+    "word": "le",
+    "type": "pron",
+    "category": "direct_object",
+    "elision": "l'",
+    "translations": {
+      "nb": "ham, den, det",
+      "en": "him, it"
+    }
+  },
+  "la_dirobj_pron": {
+    "word": "la",
+    "type": "pron",
+    "category": "direct_object",
+    "elision": "l'",
+    "translations": {
+      "nb": "henne, den",
+      "en": "her, it"
+    }
+  },
+  "nous_dirobj_pron": {
+    "word": "nous",
+    "type": "pron",
+    "category": "direct_object",
+    "translations": {
+      "nb": "oss",
+      "en": "us"
+    }
+  },
+  "vous_dirobj_pron": {
+    "word": "vous",
+    "type": "pron",
+    "category": "direct_object",
+    "translations": {
+      "nb": "dere, Dem",
+      "en": "you"
+    }
+  },
+  "les_dirobj_pron": {
+    "word": "les",
+    "type": "pron",
+    "category": "direct_object",
+    "translations": {
+      "nb": "dem",
+      "en": "them"
+    }
+  },
+  "me_indobj_pron": {
+    "word": "me",
+    "type": "pron",
+    "category": "indirect_object",
+    "elision": "m'",
+    "translations": {
+      "nb": "meg (til meg)",
+      "en": "to me"
+    }
+  },
+  "te_indobj_pron": {
+    "word": "te",
+    "type": "pron",
+    "category": "indirect_object",
+    "elision": "t'",
+    "translations": {
+      "nb": "deg (til deg)",
+      "en": "to you"
+    }
+  },
+  "lui_indobj_pron": {
+    "word": "lui",
+    "type": "pron",
+    "category": "indirect_object",
+    "translations": {
+      "nb": "ham/henne (til)",
+      "en": "to him/her"
+    }
+  },
+  "nous_indobj_pron": {
+    "word": "nous",
+    "type": "pron",
+    "category": "indirect_object",
+    "translations": {
+      "nb": "oss (til oss)",
+      "en": "to us"
+    }
+  },
+  "vous_indobj_pron": {
+    "word": "vous",
+    "type": "pron",
+    "category": "indirect_object",
+    "translations": {
+      "nb": "dere/Dem (til)",
+      "en": "to you"
+    }
+  },
+  "leur_indobj_pron": {
+    "word": "leur",
+    "type": "pron",
+    "category": "indirect_object",
+    "translations": {
+      "nb": "dem (til dem)",
+      "en": "to them"
+    }
+  },
+  "me_reflex_pron": {
+    "word": "me",
+    "type": "pron",
+    "category": "reflexive",
+    "elision": "m'",
+    "translations": {
+      "nb": "meg (selv)",
+      "en": "myself"
+    }
+  },
+  "te_reflex_pron": {
+    "word": "te",
+    "type": "pron",
+    "category": "reflexive",
+    "elision": "t'",
+    "translations": {
+      "nb": "deg (selv)",
+      "en": "yourself"
+    }
+  },
+  "se_reflex_pron": {
+    "word": "se",
+    "type": "pron",
+    "category": "reflexive",
+    "elision": "s'",
+    "translations": {
+      "nb": "seg (selv)",
+      "en": "himself/herself/itself/themselves"
+    }
+  },
+  "nous_reflex_pron": {
+    "word": "nous",
+    "type": "pron",
+    "category": "reflexive",
+    "translations": {
+      "nb": "oss (selv)",
+      "en": "ourselves"
+    }
+  },
+  "vous_reflex_pron": {
+    "word": "vous",
+    "type": "pron",
+    "category": "reflexive",
+    "translations": {
+      "nb": "dere (selv)",
+      "en": "yourselves"
+    }
+  },
+  "moi_stressed_pron": {
+    "word": "moi",
+    "type": "pron",
+    "category": "stressed",
+    "translations": {
+      "nb": "meg (betont)",
+      "en": "me (stressed)"
+    }
+  },
+  "toi_stressed_pron": {
+    "word": "toi",
+    "type": "pron",
+    "category": "stressed",
+    "translations": {
+      "nb": "deg (betont)",
+      "en": "you (stressed)"
+    }
+  },
+  "lui_stressed_pron": {
+    "word": "lui",
+    "type": "pron",
+    "category": "stressed",
+    "translations": {
+      "nb": "ham (betont)",
+      "en": "him (stressed)"
+    }
+  },
+  "elle_stressed_pron": {
+    "word": "elle",
+    "type": "pron",
+    "category": "stressed",
+    "translations": {
+      "nb": "henne (betont)",
+      "en": "her (stressed)"
+    }
+  },
+  "nous_stressed_pron": {
+    "word": "nous",
+    "type": "pron",
+    "category": "stressed",
+    "translations": {
+      "nb": "oss (betont)",
+      "en": "us (stressed)"
+    }
+  },
+  "vous_stressed_pron": {
+    "word": "vous",
+    "type": "pron",
+    "category": "stressed",
+    "translations": {
+      "nb": "dere/Dem (betont)",
+      "en": "you (stressed)"
+    }
+  },
+  "eux_stressed_pron": {
+    "word": "eux",
+    "type": "pron",
+    "category": "stressed",
+    "translations": {
+      "nb": "dem (hankjonn, betont)",
+      "en": "them (masculine, stressed)"
+    }
+  },
+  "elles_stressed_pron": {
+    "word": "elles",
+    "type": "pron",
+    "category": "stressed",
+    "translations": {
+      "nb": "dem (hunkjonn, betont)",
+      "en": "them (feminine, stressed)"
+    }
+  },
+  "mon_possess_pron": {
+    "word": "mon/ma/mes",
+    "type": "pron",
+    "category": "possessive",
+    "forms": {
+      "m": "mon",
+      "f": "ma",
+      "f_vowel": "mon",
+      "pl": "mes"
+    },
+    "translations": {
+      "nb": "min/mi/mine",
+      "en": "my"
+    }
+  },
+  "ton_possess_pron": {
+    "word": "ton/ta/tes",
+    "type": "pron",
+    "category": "possessive",
+    "forms": {
+      "m": "ton",
+      "f": "ta",
+      "f_vowel": "ton",
+      "pl": "tes"
+    },
+    "translations": {
+      "nb": "din/di/dine",
+      "en": "your (informal)"
+    }
+  },
+  "son_possess_pron": {
+    "word": "son/sa/ses",
+    "type": "pron",
+    "category": "possessive",
+    "forms": {
+      "m": "son",
+      "f": "sa",
+      "f_vowel": "son",
+      "pl": "ses"
+    },
+    "translations": {
+      "nb": "hans/hennes/sin",
+      "en": "his/her/its"
+    }
+  },
+  "notre_possess_pron": {
+    "word": "notre/nos",
+    "type": "pron",
+    "category": "possessive",
+    "forms": {
+      "sing": "notre",
+      "pl": "nos"
+    },
+    "translations": {
+      "nb": "var/vare",
+      "en": "our"
+    }
+  },
+  "votre_possess_pron": {
+    "word": "votre/vos",
+    "type": "pron",
+    "category": "possessive",
+    "forms": {
+      "sing": "votre",
+      "pl": "vos"
+    },
+    "translations": {
+      "nb": "deres/Deres",
+      "en": "your (plural/formal)"
+    }
+  },
+  "leur_possess_pron": {
+    "word": "leur/leurs",
+    "type": "pron",
+    "category": "possessive",
+    "forms": {
+      "sing": "leur",
+      "pl": "leurs"
+    },
+    "translations": {
+      "nb": "deres",
+      "en": "their"
+    }
+  },
+  "ce_demon_pron": {
+    "word": "ce/cet/cette/ces",
+    "type": "pron",
+    "category": "demonstrative",
+    "forms": {
+      "m": "ce",
+      "m_vowel": "cet",
+      "f": "cette",
+      "pl": "ces"
+    },
+    "translations": {
+      "nb": "denne/dette/disse",
+      "en": "this/that/these/those"
+    }
+  },
+  "celui_demon_pron": {
+    "word": "celui/celle/ceux/celles",
+    "type": "pron",
+    "category": "demonstrative",
+    "forms": {
+      "m": "celui",
+      "f": "celle",
+      "m_pl": "ceux",
+      "f_pl": "celles"
+    },
+    "translations": {
+      "nb": "den/det/de (som)",
+      "en": "the one(s)"
+    }
+  },
+  "ceci_demon_pron": {
+    "word": "ceci",
+    "type": "pron",
+    "category": "demonstrative",
+    "translations": {
+      "nb": "dette (her)",
+      "en": "this"
+    }
+  },
+  "cela_demon_pron": {
+    "word": "cela/ca",
+    "type": "pron",
+    "category": "demonstrative",
+    "translations": {
+      "nb": "det (der)",
+      "en": "that"
+    }
+  },
+  "qui_interr_pron": {
+    "word": "qui ?",
+    "type": "pron",
+    "category": "interrogative",
+    "translations": {
+      "nb": "hvem?",
+      "en": "who?"
+    }
+  },
+  "que_interr_pron": {
+    "word": "que ?",
+    "type": "pron",
+    "category": "interrogative",
+    "elision": "qu'",
+    "translations": {
+      "nb": "hva?",
+      "en": "what?"
+    }
+  },
+  "quoi_interr_pron": {
+    "word": "quoi ?",
+    "type": "pron",
+    "category": "interrogative",
+    "translations": {
+      "nb": "hva? (etter preposisjon)",
+      "en": "what? (after preposition)"
+    }
+  },
+  "quest_ce_que_interr_pron": {
+    "word": "qu'est-ce que ?",
+    "type": "pron",
+    "category": "interrogative",
+    "translations": {
+      "nb": "hva?",
+      "en": "what?"
+    }
+  },
+  "quel_interr_pron": {
+    "word": "quel/quelle/quels/quelles ?",
+    "type": "pron",
+    "category": "interrogative",
+    "forms": {
+      "m": "quel",
+      "f": "quelle",
+      "m_pl": "quels",
+      "f_pl": "quelles"
+    },
+    "translations": {
+      "nb": "hvilken/hvilket/hvilke?",
+      "en": "which?/what?"
+    }
+  },
+  "ou_interr_pron": {
+    "word": "ou ?",
+    "type": "pron",
+    "category": "interrogative",
+    "translations": {
+      "nb": "hvor?",
+      "en": "where?"
+    }
+  },
+  "quand_interr_pron": {
+    "word": "quand ?",
+    "type": "pron",
+    "category": "interrogative",
+    "translations": {
+      "nb": "nar?",
+      "en": "when?"
+    }
+  },
+  "comment_interr_pron": {
+    "word": "comment ?",
+    "type": "pron",
+    "category": "interrogative",
+    "translations": {
+      "nb": "hvordan?",
+      "en": "how?"
+    }
+  },
+  "pourquoi_interr_pron": {
+    "word": "pourquoi ?",
+    "type": "pron",
+    "category": "interrogative",
+    "translations": {
+      "nb": "hvorfor?",
+      "en": "why?"
+    }
+  },
+  "combien_interr_pron": {
+    "word": "combien ?",
+    "type": "pron",
+    "category": "interrogative",
+    "translations": {
+      "nb": "hvor mye/mange?",
+      "en": "how much/many?"
+    }
+  }
+}

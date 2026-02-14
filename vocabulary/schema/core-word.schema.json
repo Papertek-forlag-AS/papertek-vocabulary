@@ -1,0 +1,96 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://papertek.no/schemas/vocabulary/core-word.schema.json",
+  "title": "Core Word Schema",
+  "description": "Schema for language-neutral vocabulary entries in Papertek language learning apps",
+  "type": "object",
+  "additionalProperties": {
+    "$ref": "#/$defs/wordEntry"
+  },
+  "$defs": {
+    "wordEntry": {
+      "type": "object",
+      "properties": {
+        "word": {
+          "type": "string",
+          "description": "The word in the target language"
+        },
+        "audio": {
+          "type": "string",
+          "description": "Audio filename for pronunciation"
+        },
+        "type": {
+          "type": "string",
+          "description": "Word type/part of speech",
+          "enum": [
+            "noun", "verb", "adj", "adv", "prep", "conj", "interj",
+            "pron", "art", "num", "phrase", "interr", "propn", "contr", "expr",
+            "dem_pron", "poss_pron", "dobj_pron", "iobj_pron", "refl_pron",
+            "strong", "weak", "modal", "reflexive", "separable"
+          ]
+        },
+        "intro": {
+          "type": "string",
+          "description": "Lesson ID where word is introduced (e.g., '2.1')",
+          "pattern": "^[0-9]+\\.[0-9]+$"
+        },
+        "translations": {
+          "$ref": "#/$defs/translations"
+        },
+        "synonyms": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Synonyms in target language"
+        },
+        "translation_synonyms": {
+          "$ref": "#/$defs/translationSynonyms"
+        },
+        "explanations": {
+          "$ref": "#/$defs/explanations"
+        }
+      },
+      "required": ["translations"]
+    },
+    "translations": {
+      "type": "object",
+      "description": "Translations keyed by ISO 639-1 language code",
+      "propertyNames": {
+        "pattern": "^[a-z]{2}$"
+      },
+      "additionalProperties": {
+        "type": "string"
+      },
+      "minProperties": 1
+    },
+    "translationSynonyms": {
+      "type": "object",
+      "description": "Translation synonyms keyed by ISO 639-1 language code",
+      "propertyNames": {
+        "pattern": "^[a-z]{2}$"
+      },
+      "additionalProperties": {
+        "type": "array",
+        "items": { "type": "string" }
+      }
+    },
+    "explanations": {
+      "type": "object",
+      "description": "Explanations keyed by ISO 639-1 language code",
+      "propertyNames": {
+        "pattern": "^[a-z]{2}$"
+      },
+      "additionalProperties": {
+        "type": "object",
+        "properties": {
+          "_description": {
+            "type": "string",
+            "description": "Main explanation text"
+          }
+        },
+        "additionalProperties": {
+          "type": "string"
+        }
+      }
+    }
+  }
+}

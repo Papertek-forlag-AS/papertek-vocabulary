@@ -1,0 +1,97 @@
+{
+  "_metadata": {
+    "description": "Per-tense verb classification for German. Maps verb IDs to their grammar class in each tense, and flags separable verbs with their prefix. Used by exercises to filter verbs correctly (e.g., 'practice strong verbs in Präteritum', 'practice separable verbs').",
+    "classes": {
+      "weak": "Regular conjugation pattern (e.g., spielen → spielte → hat gespielt)",
+      "strong": "Irregular with vowel change (e.g., fahren → fuhr → ist gefahren)",
+      "mixed": "Mixed pattern: weak endings + vowel change (e.g., bringen → brachte → hat gebracht)",
+      "modal": "Modal verb with special conjugation"
+    },
+    "separableField": "When present, contains the separable prefix string (e.g., 'auf', 'an', 'ein'). Verbs with this field split in present tense: 'aufstehen' → 'ich stehe auf'.",
+    "notes": "Verbs marked 'strong' in presens have stem-vowel change in 2nd/3rd person singular (du isst, er isst). Verbs marked 'weak' in presens follow regular pattern even if they are strong in past tenses.",
+    "updatedAt": "2026-02-13"
+  },
+
+  "sein_verb":           { "default": "strong",  "presens": "strong",  "preteritum": "strong",  "perfektum": "strong" },
+  "haben_verb":          { "default": "strong",  "presens": "strong",  "preteritum": "mixed",   "perfektum": "mixed" },
+  "werden_verb":         { "default": "strong",  "presens": "strong",  "preteritum": "strong",  "perfektum": "strong" },
+
+  "essen_verb":          { "default": "strong",  "presens": "strong",  "preteritum": "strong",  "perfektum": "strong" },
+  "fressen_verb":        { "default": "strong",  "presens": "strong",  "preteritum": "strong",  "perfektum": "strong" },
+  "lesen_verb":          { "default": "strong",  "presens": "strong",  "preteritum": "strong",  "perfektum": "strong" },
+  "sehen_verb":          { "default": "strong",  "presens": "strong",  "preteritum": "strong",  "perfektum": "strong" },
+  "nehmen_verb":         { "default": "strong",  "presens": "strong",  "preteritum": "strong",  "perfektum": "strong" },
+  "sprechen_verb":       { "default": "strong",  "presens": "strong",  "preteritum": "strong",  "perfektum": "strong" },
+  "treffen_verb":        { "default": "strong",  "presens": "strong",  "preteritum": "strong",  "perfektum": "strong" },
+  "helfen_verb":         { "default": "strong",  "presens": "strong",  "preteritum": "strong",  "perfektum": "strong" },
+  "geben_verb":          { "default": "strong",  "presens": "strong",  "preteritum": "strong",  "perfektum": "strong" },
+  "vergessen_verb":      { "default": "strong",  "presens": "strong",  "preteritum": "strong",  "perfektum": "strong" },
+  "versprechen_verb":    { "default": "strong",  "presens": "strong",  "preteritum": "strong",  "perfektum": "strong" },
+
+  "fahren_verb":         { "default": "strong",  "presens": "strong",  "preteritum": "strong",  "perfektum": "strong" },
+  "tragen_verb":         { "default": "strong",  "presens": "strong",  "preteritum": "strong",  "perfektum": "strong" },
+  "schlafen_verb":       { "default": "strong",  "presens": "strong",  "preteritum": "strong",  "perfektum": "strong" },
+  "laufen_verb":         { "default": "strong",  "presens": "strong",  "preteritum": "strong",  "perfektum": "strong" },
+
+  "anfangen_verb":       { "default": "strong",  "presens": "strong",  "preteritum": "strong",  "perfektum": "strong",  "separable": "an" },
+  "einladen_verb":       { "default": "strong",  "presens": "strong",  "preteritum": "strong",  "perfektum": "strong",  "separable": "ein" },
+  "mitnehmen_verb":      { "default": "strong",  "presens": "strong",  "preteritum": "strong",  "perfektum": "strong",  "separable": "mit" },
+
+  "wissen_verb":         { "default": "mixed",   "presens": "strong",  "preteritum": "mixed",   "perfektum": "mixed" },
+
+  "schreiben_verb":      { "default": "strong",  "presens": "weak",    "preteritum": "strong",  "perfektum": "strong" },
+  "sitzen_verb":         { "default": "strong",  "presens": "weak",    "preteritum": "strong",  "perfektum": "strong" },
+  "liegen_verb":         { "default": "strong",  "presens": "weak",    "preteritum": "strong",  "perfektum": "strong" },
+  "stehen_verb":         { "default": "strong",  "presens": "weak",    "preteritum": "strong",  "perfektum": "strong" },
+  "klingen_verb":        { "default": "strong",  "presens": "weak",    "preteritum": "strong",  "perfektum": "strong" },
+  "verstehen_verb":      { "default": "strong",  "presens": "weak",    "preteritum": "strong",  "perfektum": "strong" },
+
+  "sich_treffen_verb":   { "default": "strong",  "presens": "strong",  "preteritum": "strong",  "perfektum": "strong" },
+  "sich_waschen_verb":   { "default": "strong",  "presens": "strong",  "preteritum": "strong",  "perfektum": "strong" },
+  "sich_unterhalten_verb": { "default": "strong", "presens": "strong", "preteritum": "strong",  "perfektum": "strong" },
+
+  "sich_anziehen_verb":  { "default": "strong",  "presens": "weak",    "preteritum": "strong",  "perfektum": "strong",  "separable": "an" },
+  "sich_aufregen_verb":  { "default": "weak",    "separable": "auf" },
+  "sich_ausruhen_verb":  { "default": "weak",    "separable": "aus" },
+  "sich_vorbereiten_verb": { "default": "weak",  "separable": "vor" },
+
+  "gehen_verb":          { "default": "strong",  "presens": "weak",    "preteritum": "strong",  "perfektum": "strong" },
+  "finden_verb":         { "default": "strong",  "presens": "weak",    "preteritum": "strong",  "perfektum": "strong" },
+  "beginnen_verb":       { "default": "strong",  "presens": "weak",    "preteritum": "strong",  "perfektum": "strong" },
+  "schwimmen_verb":      { "default": "strong",  "presens": "weak",    "preteritum": "strong",  "perfektum": "strong" },
+  "singen_verb":         { "default": "strong",  "presens": "weak",    "preteritum": "strong",  "perfektum": "strong" },
+  "trinken_verb":        { "default": "strong",  "presens": "weak",    "preteritum": "strong",  "perfektum": "strong" },
+  "fliegen_verb":        { "default": "strong",  "presens": "weak",    "preteritum": "strong",  "perfektum": "strong" },
+  "scheinen_verb":       { "default": "strong",  "presens": "weak",    "preteritum": "strong",  "perfektum": "strong" },
+  "bleiben_verb":        { "default": "strong",  "presens": "weak",    "preteritum": "strong",  "perfektum": "strong" },
+  "anrufen_verb":        { "default": "strong",  "presens": "weak",    "preteritum": "strong",  "perfektum": "strong",  "separable": "an" },
+  "springen_verb":       { "default": "strong",  "presens": "weak",    "preteritum": "strong",  "perfektum": "strong" },
+  "gewinnen_verb":       { "default": "strong",  "presens": "weak",    "preteritum": "strong",  "perfektum": "strong" },
+  "verlieren_verb":      { "default": "strong",  "presens": "weak",    "preteritum": "strong",  "perfektum": "strong" },
+
+  "kommen_verb":         { "default": "strong",  "presens": "weak",    "preteritum": "strong",  "perfektum": "strong" },
+  "heissen_verb":        { "default": "strong",  "presens": "weak",    "preteritum": "strong",  "perfektum": "strong" },
+
+  "bringen_verb":        { "default": "mixed",   "presens": "weak",    "preteritum": "mixed",   "perfektum": "mixed" },
+  "mitbringen_verb":     { "default": "mixed",   "presens": "weak",    "preteritum": "mixed",   "perfektum": "mixed",   "separable": "mit" },
+  "kennen_verb":         { "default": "mixed",   "presens": "weak",    "preteritum": "mixed",   "perfektum": "mixed" },
+
+  "aufstehen_verb":      { "default": "strong",  "presens": "weak",    "preteritum": "strong",  "perfektum": "strong",  "separable": "auf" },
+  "aufwachen_verb":      { "default": "weak",    "separable": "auf" },
+  "aufraeumen_verb":     { "default": "weak",    "separable": "auf" },
+  "einkaufen_verb":      { "default": "weak",    "separable": "ein" },
+  "einpacken_verb":      { "default": "weak",    "separable": "ein" },
+  "fernsehen_verb":      { "default": "strong",  "presens": "strong",  "preteritum": "strong",  "perfektum": "strong",  "separable": "fern" },
+  "ausziehen_verb":      { "default": "strong",  "presens": "weak",    "preteritum": "strong",  "perfektum": "strong",  "separable": "aus" },
+  "einschlafen_verb":    { "default": "strong",  "presens": "strong",  "preteritum": "strong",  "perfektum": "strong",  "separable": "ein" },
+  "wegfahren_verb":      { "default": "strong",  "presens": "strong",  "preteritum": "strong",  "perfektum": "strong",  "separable": "weg" },
+  "mitkommen_verb":      { "default": "strong",  "presens": "weak",    "preteritum": "strong",  "perfektum": "strong",  "separable": "mit" },
+
+  "moegen_verb":         { "default": "modal" },
+  "koennen_verb":        { "default": "modal" },
+  "moechten_modal":      { "default": "modal" },
+  "muessen_verb":        { "default": "modal" },
+  "wollen_verb":         { "default": "modal" },
+  "duerfen_verb":        { "default": "modal" },
+  "sollen_verb":         { "default": "modal" }
+}

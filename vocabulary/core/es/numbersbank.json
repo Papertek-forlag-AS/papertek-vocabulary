@@ -1,0 +1,181 @@
+{
+  "_metadata": {
+    "description": "Spanish numbers (Números) - cardinal and ordinal numbers",
+    "purpose": "Stores number words for vocabulary training.",
+    "wordIdSuffix": "_tallord",
+    "keyFields": [
+      "word",
+      "translations",
+      "type"
+    ],
+    "usedBy": [
+      "Flashcards",
+      "Write mode"
+    ],
+    "examples": [
+      "uno",
+      "dos",
+      "tres"
+    ]
+  },
+  "cero_num": {
+    "word": "cero",
+    "type": "num",
+    "translations": {
+      "nb": "null",
+      "en": "zero"
+    }
+  },
+  "uno_num": {
+    "word": "uno",
+    "type": "num",
+    "translations": {
+      "nb": "en",
+      "en": "one"
+    }
+  },
+  "dos_num": {
+    "word": "dos",
+    "type": "num",
+    "translations": {
+      "nb": "to",
+      "en": "two"
+    }
+  },
+  "tres_num": {
+    "word": "tres",
+    "type": "num",
+    "translations": {
+      "nb": "tre",
+      "en": "three"
+    }
+  },
+  "cuatro_num": {
+    "word": "cuatro",
+    "type": "num",
+    "translations": {
+      "nb": "fire",
+      "en": "four"
+    }
+  },
+  "cinco_num": {
+    "word": "cinco",
+    "type": "num",
+    "translations": {
+      "nb": "fem",
+      "en": "five"
+    }
+  },
+  "seis_num": {
+    "word": "seis",
+    "type": "num",
+    "translations": {
+      "nb": "seks",
+      "en": "six"
+    }
+  },
+  "siete_num": {
+    "word": "siete",
+    "type": "num",
+    "translations": {
+      "nb": "sju",
+      "en": "seven"
+    }
+  },
+  "ocho_num": {
+    "word": "ocho",
+    "type": "num",
+    "translations": {
+      "nb": "åtte",
+      "en": "eight"
+    }
+  },
+  "nueve_num": {
+    "word": "nueve",
+    "type": "num",
+    "translations": {
+      "nb": "ni",
+      "en": "nine"
+    }
+  },
+  "diez_num": {
+    "word": "diez",
+    "type": "num",
+    "translations": {
+      "nb": "ti",
+      "en": "ten"
+    }
+  },
+  "once_num": {
+    "word": "once",
+    "type": "num",
+    "translations": {
+      "nb": "elleve",
+      "en": "eleven"
+    }
+  },
+  "doce_num": {
+    "word": "doce",
+    "type": "num",
+    "translations": {
+      "nb": "tolv",
+      "en": "twelve"
+    }
+  },
+  "veinte_num": {
+    "word": "veinte",
+    "type": "num",
+    "translations": {
+      "nb": "tjue",
+      "en": "twenty"
+    }
+  },
+  "treinta_num": {
+    "word": "treinta",
+    "type": "num",
+    "translations": {
+      "nb": "tretti",
+      "en": "thirty"
+    }
+  },
+  "cien_num": {
+    "word": "cien",
+    "type": "num",
+    "translations": {
+      "nb": "hundre",
+      "en": "hundred"
+    }
+  },
+  "trece_num": {
+    "word": "trece",
+    "type": "num",
+    "translations": {
+      "nb": "tretten",
+      "en": "thirteen"
+    }
+  },
+  "catorce_num": {
+    "word": "catorce",
+    "type": "num",
+    "translations": {
+      "nb": "fjorten",
+      "en": "fourteen"
+    }
+  },
+  "quince_num": {
+    "word": "quince",
+    "type": "num",
+    "translations": {
+      "nb": "femten",
+      "en": "fifteen"
+    }
+  },
+  "dieciseis_num": {
+    "word": "dieciséis",
+    "type": "num",
+    "translations": {
+      "nb": "seksten",
+      "en": "sixteen"
+    }
+  }
+}

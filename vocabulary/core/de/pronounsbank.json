@@ -1,0 +1,273 @@
+{
+  "_metadata": {
+    "source": "pronounsbank.json",
+    "targetLanguage": "german",
+    "generatedAt": "2026-01-16T17:26:35.894Z",
+    "description": "Core pronouns data for german"
+  },
+  "ich_pron": {
+    "word": "ich",
+    "type": "pron",
+    "intro": "1.1",
+    "_id": "ich_pron",
+    "audio": "pronomen_ich.mp3"
+  },
+  "du_pron": {
+    "word": "du",
+    "type": "pron",
+    "intro": "1.1",
+    "_id": "du_pron",
+    "audio": "pronomen_du.mp3"
+  },
+  "er_pron": {
+    "word": "er",
+    "type": "pron",
+    "intro": "1.2",
+    "_id": "er_pron",
+    "audio": "pronomen_er.mp3"
+  },
+  "sie_pron": {
+    "word": "sie",
+    "type": "pron",
+    "intro": "1.2",
+    "_id": "sie_pron",
+    "audio": "pronomen_sie.mp3"
+  },
+  "es_pron": {
+    "word": "es",
+    "type": "pron",
+    "intro": "1.2",
+    "_id": "es_pron",
+    "audio": "pronomen_es.mp3"
+  },
+  "mein_possessiv": {
+    "word": "mein",
+    "type": "possessiv pronomen",
+    "intro": "1.2",
+    "_id": "mein_possessiv",
+    "audio": "pronomen_mein.mp3"
+  },
+  "meine_possessiv": {
+    "word": "meine",
+    "type": "possessiv pronomen",
+    "intro": "1.2",
+    "_id": "meine_possessiv",
+    "audio": "pronomen_meine.mp3"
+  },
+  "dein_possessiv": {
+    "word": "dein",
+    "type": "possessiv pronomen",
+    "intro": "1.2",
+    "_id": "dein_possessiv",
+    "audio": "pronomen_dein.mp3"
+  },
+  "deine_possessiv": {
+    "word": "deine",
+    "type": "possessiv pronomen",
+    "intro": "1.2",
+    "_id": "deine_possessiv",
+    "audio": "pronomen_deine.mp3"
+  },
+  "wir_pron": {
+    "word": "wir",
+    "type": "pron",
+    "intro": "1.3",
+    "_id": "wir_pron",
+    "audio": "pronomen_wir.mp3"
+  },
+  "mich_pron": {
+    "word": "mich",
+    "type": "pron",
+    "intro": "2.1",
+    "_id": "mich_pron",
+    "audio": "pronomen_mich.mp3"
+  },
+  "alle_pron": {
+    "word": "alle",
+    "type": "pron",
+    "intro": "2.2",
+    "_id": "alle_pron",
+    "audio": "pronomen_alle.mp3"
+  },
+  "man_pron": {
+    "word": "man",
+    "type": "pron",
+    "intro": "2.2",
+    "_id": "man_pron",
+    "audio": "pronomen_man.mp3"
+  },
+  "alles_pron": {
+    "word": "alles",
+    "type": "pron",
+    "intro": "3.1",
+    "_id": "alles_pron",
+    "audio": "pronomen_alles.mp3"
+  },
+  "ihr_pron": {
+    "word": "ihr",
+    "type": "pron",
+    "intro": "2.3",
+    "_id": "ihr_pron",
+    "audio": "pronomen_ihr.mp3"
+  },
+  "uns_pron": {
+    "word": "uns",
+    "type": "pron",
+    "intro": "2.3",
+    "_id": "uns_pron",
+    "audio": "pronomen_uns.mp3"
+  },
+  "euch_pron": {
+    "word": "euch",
+    "type": "pron",
+    "intro": "2.3",
+    "_id": "euch_pron",
+    "audio": "pronomen_euch.mp3"
+  },
+  "dich_pron": {
+    "word": "dich",
+    "type": "pron",
+    "intro": "2.3",
+    "_id": "dich_pron",
+    "audio": "pronomen_dich.mp3"
+  },
+  "sich_pron": {
+    "word": "sich",
+    "type": "pron",
+    "intro": "2.3",
+    "_id": "sich_pron",
+    "audio": "pronomen_sich.mp3"
+  },
+  "sein_possessiv": {
+    "word": "sein",
+    "type": "possessiv pronomen",
+    "intro": "2.3",
+    "_id": "sein_possessiv",
+    "audio": "pronomen_sein.mp3"
+  },
+  "seine_possessiv": {
+    "word": "seine",
+    "type": "possessiv pronomen",
+    "intro": "2.3",
+    "_id": "seine_possessiv",
+    "audio": "pronomen_seine.mp3"
+  },
+  "ihr_poss_possessiv": {
+    "word": "ihr",
+    "type": "possessiv pronomen",
+    "intro": "2.3",
+    "_id": "ihr_poss_possessiv",
+    "audio": "pronomen_ihr.mp3"
+  },
+  "ihre_possessiv": {
+    "word": "ihre",
+    "type": "possessiv pronomen",
+    "intro": "2.3",
+    "_id": "ihre_possessiv",
+    "audio": "pronomen_ihre.mp3"
+  },
+  "unser_possessiv": {
+    "word": "unser",
+    "type": "possessiv pronomen",
+    "intro": "2.3",
+    "_id": "unser_possessiv",
+    "audio": "pronomen_unser.mp3"
+  },
+  "unsere_possessiv": {
+    "word": "unsere",
+    "type": "possessiv pronomen",
+    "intro": "2.3",
+    "_id": "unsere_possessiv",
+    "audio": "pronomen_unsere.mp3"
+  },
+  "euer_possessiv": {
+    "word": "euer",
+    "type": "possessiv pronomen",
+    "intro": "2.3",
+    "_id": "euer_possessiv",
+    "audio": "pronomen_euer.mp3"
+  },
+  "eure_possessiv": {
+    "word": "eure",
+    "type": "possessiv pronomen",
+    "intro": "2.3",
+    "_id": "eure_possessiv",
+    "audio": "pronomen_eure.mp3"
+  },
+  "ihn_pron": {
+    "word": "ihn",
+    "type": "pron",
+    "intro": "4.1",
+    "_id": "ihn_pron",
+    "audio": "pronomen_ihn.mp3"
+  },
+  "jedes_pron": {
+    "word": "jedes",
+    "type": "pron",
+    "intro": "6.2",
+    "_id": "jedes_pron",
+    "audio": "pronomen_jedes.mp3"
+  },
+  "dir_pron": {
+    "word": "dir",
+    "type": "pron",
+    "intro": "7.3",
+    "_id": "dir_pron",
+    "audio": "pronomen_dir.mp3"
+  },
+  "beide_pron": {
+    "word": "beide",
+    "type": "pron",
+    "intro": "9.1",
+    "_id": "beide_pron",
+    "audio": "pronomen_beide.mp3"
+  },
+  "wer_pron": {
+    "word": "wer",
+    "type": "pron",
+    "intro": "9.3",
+    "_id": "wer_pron",
+    "audio": "pronomen_wer.mp3"
+  },
+  "wen_pron": {
+    "word": "wen",
+    "type": "pron",
+    "intro": "9.3",
+    "_id": "wen_pron",
+    "audio": "pronomen_wen.mp3"
+  },
+  "mir_pron": {
+    "word": "mir",
+    "type": "pron",
+    "intro": "12.1",
+    "_id": "mir_pron",
+    "audio": "pronomen_mir.mp3"
+  },
+  "ihm_pron": {
+    "word": "ihm",
+    "type": "pron",
+    "intro": "12.1",
+    "_id": "ihm_pron",
+    "audio": "pronomen_ihm.mp3"
+  },
+  "ihr_dat_pron": {
+    "word": "ihr",
+    "type": "pron",
+    "intro": "12.1",
+    "_id": "ihr_dat_pron",
+    "audio": "pronomen_ihr.mp3"
+  },
+  "ihnen_pron": {
+    "word": "ihnen",
+    "type": "pron",
+    "intro": "12.2",
+    "_id": "ihnen_pron",
+    "audio": "pronomen_ihnen.mp3"
+  },
+  "einander_pron": {
+    "word": "einander",
+    "type": "pron",
+    "audio": "ord_einander.mp3",
+    "_id": "einander_pron"
+  }
+}

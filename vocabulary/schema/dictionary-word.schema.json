@@ -1,0 +1,160 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://papertek.no/schemas/vocabulary/dictionary-word.schema.json",
+  "title": "Dictionary Word Schema",
+  "description": "Extended word schema for dictionary entries. Superset of core-word with fields for CEFR level, frequency, usage notes, collocations, related words, etymology, tags, and register.",
+  "type": "object",
+  "additionalProperties": {
+    "$ref": "#/$defs/dictionaryEntry"
+  },
+  "$defs": {
+    "dictionaryEntry": {
+      "type": "object",
+      "properties": {
+        "word": {
+          "type": "string",
+          "description": "The word in the target language"
+        },
+        "_id": {
+          "type": "string",
+          "description": "Canonical word ID (mirrors the object key)"
+        },
+        "audio": {
+          "type": "string",
+          "description": "Audio filename for pronunciation"
+        },
+        "type": {
+          "type": "string",
+          "description": "Word type/part of speech"
+        },
+        "intro": {
+          "type": "string",
+          "description": "Lesson ID where word is introduced (e.g., '2.1')",
+          "pattern": "^[0-9]+\\.[0-9]+$"
+        },
+        "curriculum": {
+          "type": "boolean",
+          "description": "true if word is part of curriculum vocabulary (exists in core/), false or absent for dictionary-only words",
+          "default": false
+        },
+        "cefr": {
+          "type": "string",
+          "description": "CEFR proficiency level",
+          "enum": ["A1", "A2", "B1", "B2", "C1", "C2"]
+        },
+        "frequency": {
+          "type": ["integer", "null"],
+          "description": "Frequency rank (1 = most common word in the language). Based on corpus frequency lists.",
+          "minimum": 1
+        },
+        "usageNotes": {
+          "type": "object",
+          "description": "Usage notes keyed by ISO 639-1 language code",
+          "propertyNames": {
+            "pattern": "^[a-z]{2}$"
+          },
+          "additionalProperties": {
+            "type": "string"
+          }
+        },
+        "collocations": {
+          "type": "array",
+          "description": "Common word combinations / fixed expressions",
+          "items": {
+            "type": "object",
+            "properties": {
+              "phrase": {
+                "type": "string",
+                "description": "The collocation in the target language"
+              },
+              "translation": {
+                "type": "object",
+                "description": "Translations keyed by language code",
+                "propertyNames": {
+                  "pattern": "^[a-z]{2}$"
+                },
+                "additionalProperties": {
+                  "type": "string"
+                }
+              }
+            },
+            "required": ["phrase"]
+          }
+        },
+        "relatedWords": {
+          "type": "array",
+          "description": "Word IDs of semantically related words (see also)",
+          "items": {
+            "type": "string"
+          }
+        },
+        "etymology": {
+          "type": "string",
+          "description": "Brief etymology note"
+        },
+        "tags": {
+          "type": "array",
+          "description": "Topical/thematic tags for categorization",
+          "items": {
+            "type": "string"
+          }
+        },
+        "register": {
+          "type": "string",
+          "description": "Language register / formality level",
+          "enum": ["formal", "informal", "colloquial", "slang", "literary", "technical", "neutral"]
+        },
+        "genus": {
+          "type": "string",
+          "description": "Grammatical gender (nouns)",
+          "enum": ["m", "f", "n", "c", "pl"]
+        },
+        "plural": {
+          "type": "string",
+          "description": "Plural form (nouns)"
+        },
+        "declension": {
+          "type": "object",
+          "description": "Number-based declension (nouns)"
+        },
+        "cases": {
+          "type": "object",
+          "description": "Case declensions (nouns)"
+        },
+        "conjugations": {
+          "type": "object",
+          "description": "Conjugation tables keyed by tense (verbs)"
+        },
+        "verbClass": {
+          "type": "object",
+          "description": "Per-tense grammar classification for verbs. The 'default' key is the overall classification. Tense-specific keys (presens, preteritum, perfektum) override for exercises that filter by tense. Example: gehen is weak in presens but strong in preteritum/perfektum.",
+          "properties": {
+            "default": {
+              "type": "string",
+              "enum": ["weak", "strong", "mixed", "modal"],
+              "description": "Overall verb classification, used when no tense-specific filter is needed"
+            },
+            "presens": {
+              "type": "string",
+              "enum": ["weak", "strong", "mixed", "modal"]
+            },
+            "preteritum": {
+              "type": "string",
+              "enum": ["weak", "strong", "mixed", "modal"]
+            },
+            "perfektum": {
+              "type": "string",
+              "enum": ["weak", "strong", "mixed", "modal"]
+            }
+          },
+          "required": ["default"]
+        },
+        "comparison": {
+          "type": "object",
+          "description": "Comparison forms (adjectives)"
+        }
+      },
+      "required": ["word", "_id"]
+    }
+  }
+}

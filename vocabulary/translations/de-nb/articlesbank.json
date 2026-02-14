@@ -1,0 +1,105 @@
+{
+  "_metadata": {
+    "source": "articlesbank.json",
+    "targetLanguage": "german",
+    "nativeLanguage": "nb",
+    "generatedAt": "2026-01-16T17:26:35.893Z",
+    "description": "NB translations for german articles"
+  },
+  "der_art": {
+    "translation": "den (hankjønn)",
+    "explanation": {
+      "_description": "Bestemt artikkel for hankjønnsord (maskulinum) i nominativ. Eksempel: \"der Vater\" (faren)."
+    }
+  },
+  "die_art": {
+    "translation": "den/det (hunkjønn/flertall)",
+    "explanation": {
+      "_description": "Bestemt artikkel for hunkjønnsord (femininum) eller flertall. Eksempel: \"die Mutter\" (mora), \"die Eltern\" (foreldrene)."
+    }
+  },
+  "das_art": {
+    "translation": "det (intetkjønn)",
+    "explanation": {
+      "_description": "Bestemt artikkel for intetkjønnsord (neutrum) eller brukt som demonstrativ pronomen \"det/den\". Eksempel: \"das Foto\" (bildet), \"Das ist...\" (Det er...)."
+    }
+  },
+  "ein_art": {
+    "translation": "en/et (hankjønn/intetkjønn)",
+    "explanation": {
+      "_description": "Ubestemt artikkel for hankjønn eller intetkjønn i nominativ. Eksempel: \"ein Bruder\" (en bror), \"ein Foto\" (et bilde)."
+    }
+  },
+  "eine_art": {
+    "translation": "en/ei (hunkjønn)",
+    "explanation": {
+      "_description": "Ubestemt artikkel for hunkjønnsord. Eksempel: \"eine Schwester\" (en søster), \"eine Familie\" (en familie)."
+    }
+  },
+  "keine_art": {
+    "translation": "ingen (hunkjønn/flertall)",
+    "explanation": {
+      "_description": "Negativ artikkel for hunkjønn eller flertall. Brukes for å si \"ingen\". Eksempel: \"keine Schwester\" (ingen søster), \"keine Geschwister\" (ingen søsken)."
+    }
+  },
+  "kein_art": {
+    "translation": "ingen (hankjønn/intetkjønn)",
+    "explanation": {
+      "_description": "Negativ artikkel for hankjønn eller intetkjønn. Eksempel: \"kein Bruder\" (ingen bror)."
+    }
+  },
+  "einen_art": {
+    "translation": "en/et (akkusativ hankjønn)",
+    "explanation": {
+      "_description": "Ubestemt artikkel for hankjønnsord i akkusativ (objekt). Eksempel: \"Ich sehe einen Film\" (jeg ser en film)."
+    }
+  },
+  "keinen_art": {
+    "translation": "ingen (akkusativ hankjønn)",
+    "explanation": {
+      "_description": "Negativ artikkel for hankjønn i akkusativ. Eksempel: \"Ich habe keinen Bruder\" (jeg har ingen bror)."
+    }
+  },
+  "den_art": {
+    "translation": "den (akkusativ hankjønn)",
+    "explanation": {
+      "_description": "Bestemt artikkel for hankjønnsord i akkusativ. Eksempel: \"Ich sehe den Film\" (jeg ser filmen)."
+    }
+  },
+  "am_contr": {
+    "translation": "på/i (an + dem)",
+    "explanation": {
+      "_description": "Sammentrekning av \"an dem\" (dativ). Brukes for tidspunkt: \"am Montag\" (på mandag), \"am Wochenende\" (i helgen), \"am Nachmittag\" (om ettermiddagen)."
+    }
+  },
+  "ins_contr": {
+    "translation": "til/inn i (in + das)",
+    "explanation": {
+      "_description": "Sammentrekning av \"in das\" (akkusativ). Brukes for retning/bevegelse: \"ins Kino\" (til kinoen), \"ins Café\" (til kaféen)."
+    }
+  },
+  "zum_contr": {
+    "translation": "til (zu + dem)",
+    "explanation": {
+      "_description": "Sammentrekning av \"zu dem\" (dativ). Brukes for retning eller formål: \"zum Grillen\" (til grilling), \"zum Flughafen\" (til flyplassen)."
+    }
+  },
+  "zur_contr": {
+    "translation": "til (zu + der)",
+    "explanation": {
+      "_description": "Sammentrekning av \"zu der\" (dativ). Brukes for retning: \"zur Schule\" (til skolen)."
+    }
+  },
+  "im_contr": {
+    "translation": "i (in + dem)",
+    "explanation": {
+      "_description": "Sammentrekning av \"in dem\" (dativ). Brukes for sted: \"im Kino\" (på kinoen), \"im Zoo\" (i dyrehagen)."
+    }
+  },
+  "vom_contr": {
+    "translation": "fra (von + dem)",
+    "explanation": {
+      "_description": "Sammentrekning av \"von dem\" (dativ). Brukes for å angi utgangspunkt eller opprinnelse: \"vom ersten März\" (fra første mars), \"vom Bahnhof\" (fra togstasjonen)."
+    }
+  }
+}

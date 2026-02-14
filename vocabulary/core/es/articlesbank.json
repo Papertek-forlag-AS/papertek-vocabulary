@@ -1,0 +1,151 @@
+{
+  "_metadata": {
+    "language": "spanish",
+    "description": "Spanish definite and indefinite articles",
+    "purpose": "Articles in Spanish agree with noun gender and number",
+    "wordIdSuffix": "_articulo",
+    "keyFields": [
+      "word",
+      "translations",
+      "type",
+      "usage"
+    ],
+    "note": "Spanish has 4 definite articles (el, la, los, las) and 4 indefinite (un, una, unos, unas). Contractions: a + el = al, de + el = del"
+  },
+  "el_articulo": {
+    "word": "el",
+    "translations": {
+      "nb": "den/det (hankjønn entall)",
+      "en": "the (masc. sing.)"
+    },
+    "type": "articulo",
+    "usage": "masculine singular definite",
+    "examples": [
+      "el libro (boken)",
+      "el chico (gutten)",
+      "el día (dagen)"
+    ]
+  },
+  "la_articulo": {
+    "word": "la",
+    "translations": {
+      "nb": "den/det (hunkjønn entall)",
+      "en": "the (fem. sing.)"
+    },
+    "type": "articulo",
+    "usage": "feminine singular definite",
+    "examples": [
+      "la casa (huset)",
+      "la chica (jenta)",
+      "la mesa (bordet)"
+    ]
+  },
+  "los_articulo": {
+    "word": "los",
+    "translations": {
+      "nb": "de (hankjønn flertall)",
+      "en": "the (masc. pl.)"
+    },
+    "type": "articulo",
+    "usage": "masculine plural definite",
+    "examples": [
+      "los libros (bøkene)",
+      "los chicos (guttene)",
+      "los días (dagene)"
+    ]
+  },
+  "las_articulo": {
+    "word": "las",
+    "translations": {
+      "nb": "de (hunkjønn flertall)",
+      "en": "the (fem. pl.)"
+    },
+    "type": "articulo",
+    "usage": "feminine plural definite",
+    "examples": [
+      "las casas (husene)",
+      "las chicas (jentene)",
+      "las mesas (bordene)"
+    ]
+  },
+  "un_articulo": {
+    "word": "un",
+    "translations": {
+      "nb": "en (hankjønn)",
+      "en": "a/an (masc.)"
+    },
+    "type": "articulo",
+    "usage": "masculine singular indefinite",
+    "examples": [
+      "un libro (en bok)",
+      "un chico (en gutt)",
+      "un día (en dag)"
+    ]
+  },
+  "una_articulo": {
+    "word": "una",
+    "translations": {
+      "nb": "en (hunkjønn)",
+      "en": "a/an (fem.)"
+    },
+    "type": "articulo",
+    "usage": "feminine singular indefinite",
+    "examples": [
+      "una casa (et hus)",
+      "una chica (en jente)",
+      "una mesa (et bord)"
+    ]
+  },
+  "unos_articulo": {
+    "word": "unos",
+    "translations": {
+      "nb": "noen (hankjønn flertall)",
+      "en": "some (masc. pl.)"
+    },
+    "type": "articulo",
+    "usage": "masculine plural indefinite",
+    "examples": [
+      "unos libros (noen bøker)",
+      "unos chicos (noen gutter)"
+    ]
+  },
+  "unas_articulo": {
+    "word": "unas",
+    "translations": {
+      "nb": "noen (hunkjønn flertall)",
+      "en": "some (fem. pl.)"
+    },
+    "type": "articulo",
+    "usage": "feminine plural indefinite",
+    "examples": [
+      "unas casas (noen hus)",
+      "unas chicas (noen jenter)"
+    ]
+  },
+  "al_contr": {
+    "word": "al",
+    "translations": {
+      "nb": "til (a + el)",
+      "en": "to the (a + el)"
+    },
+    "type": "contr",
+    "usage": "contraction of 'a' + 'el'",
+    "examples": [
+      "Voy al cine (Jeg går på kino)",
+      "al lado de (ved siden av)"
+    ]
+  },
+  "del_contr": {
+    "word": "del",
+    "translations": {
+      "nb": "fra/av (de + el)",
+      "en": "of/from the (de + el)"
+    },
+    "type": "contr",
+    "usage": "contraction of 'de' + 'el'",
+    "examples": [
+      "el libro del profesor (lærerens bok)",
+      "cerca del parque (nær parken)"
+    ]
+  }
+}

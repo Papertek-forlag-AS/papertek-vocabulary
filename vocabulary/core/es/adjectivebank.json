@@ -1,0 +1,2023 @@
+{
+  "_metadata": {
+    "description": "Spanish adjectives for Hablamos Español 1",
+    "total_adjectives": 50,
+    "genderNote": "Most adjectives have -o (m) and -a (f) forms. Adjectives ending in -e or consonant are invariable for gender."
+  },
+  "bueno_adj": {
+    "word": "bueno",
+    "translations": {
+      "nb": "god, bra",
+      "en": "good"
+    },
+    "forms": {
+      "m": "bueno",
+      "f": "buena",
+      "m_pl": "buenos",
+      "f_pl": "buenas"
+    },
+    "comparison": {
+      "positiv": "bueno",
+      "komparativ": {
+        "form": "mejor",
+        "irregular": true
+      },
+      "superlativ": {
+        "form": "el mejor",
+        "irregular": true
+      }
+    }
+  },
+  "malo_adj": {
+    "word": "malo",
+    "translations": {
+      "nb": "dårlig",
+      "en": "bad"
+    },
+    "forms": {
+      "m": "malo",
+      "f": "mala",
+      "m_pl": "malos",
+      "f_pl": "malas"
+    },
+    "comparison": {
+      "positiv": "malo",
+      "komparativ": {
+        "form": "peor",
+        "irregular": true
+      },
+      "superlativ": {
+        "form": "el peor",
+        "irregular": true
+      }
+    }
+  },
+  "grande_adj": {
+    "word": "grande",
+    "translations": {
+      "nb": "stor",
+      "en": "big, large"
+    },
+    "forms": {
+      "m": "grande",
+      "f": "grande",
+      "m_pl": "grandes",
+      "f_pl": "grandes"
+    },
+    "comparison": {
+      "positiv": "grande",
+      "komparativ": {
+        "form": "mayor/más grande"
+      },
+      "superlativ": {
+        "form": "el mayor/el más grande"
+      }
+    }
+  },
+  "pequeno_adj": {
+    "word": "pequeño",
+    "translations": {
+      "nb": "liten",
+      "en": "small, little"
+    },
+    "forms": {
+      "m": "pequeño",
+      "f": "pequeña",
+      "m_pl": "pequeños",
+      "f_pl": "pequeñas"
+    },
+    "comparison": {
+      "positiv": "pequeño",
+      "komparativ": {
+        "form": "menor/más pequeño"
+      },
+      "superlativ": {
+        "form": "el menor/el más pequeño"
+      }
+    }
+  },
+  "alto_adj": {
+    "word": "alto",
+    "translations": {
+      "nb": "høy",
+      "en": "tall, high"
+    },
+    "forms": {
+      "m": "alto",
+      "f": "alta",
+      "m_pl": "altos",
+      "f_pl": "altas"
+    }
+  },
+  "bajo_adj": {
+    "word": "bajo",
+    "translations": {
+      "nb": "lav, kort",
+      "en": "short, low"
+    },
+    "forms": {
+      "m": "bajo",
+      "f": "baja",
+      "m_pl": "bajos",
+      "f_pl": "bajas"
+    }
+  },
+  "largo_adj": {
+    "word": "largo",
+    "translations": {
+      "nb": "lang",
+      "en": "long"
+    },
+    "forms": {
+      "m": "largo",
+      "f": "larga",
+      "m_pl": "largos",
+      "f_pl": "largas"
+    }
+  },
+  "corto_adj": {
+    "word": "corto",
+    "translations": {
+      "nb": "kort",
+      "en": "short"
+    },
+    "forms": {
+      "m": "corto",
+      "f": "corta",
+      "m_pl": "cortos",
+      "f_pl": "cortas"
+    }
+  },
+  "nuevo_adj": {
+    "word": "nuevo",
+    "translations": {
+      "nb": "ny",
+      "en": "new"
+    },
+    "forms": {
+      "m": "nuevo",
+      "f": "nueva",
+      "m_pl": "nuevos",
+      "f_pl": "nuevas"
+    }
+  },
+  "viejo_adj": {
+    "word": "viejo",
+    "translations": {
+      "nb": "gammel",
+      "en": "old"
+    },
+    "forms": {
+      "m": "viejo",
+      "f": "vieja",
+      "m_pl": "viejos",
+      "f_pl": "viejas"
+    }
+  },
+  "joven_adj": {
+    "word": "joven",
+    "translations": {
+      "nb": "ung",
+      "en": "young"
+    },
+    "forms": {
+      "m": "joven",
+      "f": "joven",
+      "m_pl": "jóvenes",
+      "f_pl": "jóvenes"
+    }
+  },
+  "bonito_adj": {
+    "word": "bonito",
+    "translations": {
+      "nb": "pen, vakker",
+      "en": "pretty, beautiful"
+    },
+    "forms": {
+      "m": "bonito",
+      "f": "bonita",
+      "m_pl": "bonitos",
+      "f_pl": "bonitas"
+    }
+  },
+  "feo_adj": {
+    "word": "feo",
+    "translations": {
+      "nb": "stygg",
+      "en": "ugly"
+    },
+    "forms": {
+      "m": "feo",
+      "f": "fea",
+      "m_pl": "feos",
+      "f_pl": "feas"
+    }
+  },
+  "guapo_adj": {
+    "word": "guapo",
+    "translations": {
+      "nb": "kjekk, pen",
+      "en": "handsome, good-looking"
+    },
+    "forms": {
+      "m": "guapo",
+      "f": "guapa",
+      "m_pl": "guapos",
+      "f_pl": "guapas"
+    }
+  },
+  "rapido_adj": {
+    "word": "rápido",
+    "translations": {
+      "nb": "rask",
+      "en": "fast, quick"
+    },
+    "forms": {
+      "m": "rápido",
+      "f": "rápida",
+      "m_pl": "rápidos",
+      "f_pl": "rápidas"
+    }
+  },
+  "lento_adj": {
+    "word": "lento",
+    "translations": {
+      "nb": "langsom",
+      "en": "slow"
+    },
+    "forms": {
+      "m": "lento",
+      "f": "lenta",
+      "m_pl": "lentos",
+      "f_pl": "lentas"
+    }
+  },
+  "caliente_adj": {
+    "word": "caliente",
+    "translations": {
+      "nb": "varm",
+      "en": "hot, warm"
+    },
+    "forms": {
+      "m": "caliente",
+      "f": "caliente",
+      "m_pl": "calientes",
+      "f_pl": "calientes"
+    }
+  },
+  "frio_adj": {
+    "word": "frío",
+    "translations": {
+      "nb": "kald",
+      "en": "cold"
+    },
+    "forms": {
+      "m": "frío",
+      "f": "fría",
+      "m_pl": "fríos",
+      "f_pl": "frías"
+    }
+  },
+  "facil_adj": {
+    "word": "fácil",
+    "translations": {
+      "nb": "lett, enkel",
+      "en": "easy"
+    },
+    "forms": {
+      "m": "fácil",
+      "f": "fácil",
+      "m_pl": "fáciles",
+      "f_pl": "fáciles"
+    }
+  },
+  "dificil_adj": {
+    "word": "difícil",
+    "translations": {
+      "nb": "vanskelig",
+      "en": "difficult, hard"
+    },
+    "forms": {
+      "m": "difícil",
+      "f": "difícil",
+      "m_pl": "difíciles",
+      "f_pl": "difíciles"
+    }
+  },
+  "importante_adj": {
+    "word": "importante",
+    "translations": {
+      "nb": "viktig",
+      "en": "important"
+    },
+    "forms": {
+      "m": "importante",
+      "f": "importante",
+      "m_pl": "importantes",
+      "f_pl": "importantes"
+    }
+  },
+  "interesante_adj": {
+    "word": "interesante",
+    "translations": {
+      "nb": "interessant",
+      "en": "interesting"
+    },
+    "forms": {
+      "m": "interesante",
+      "f": "interesante",
+      "m_pl": "interesantes",
+      "f_pl": "interesantes"
+    }
+  },
+  "aburrido_adj": {
+    "word": "aburrido",
+    "translations": {
+      "nb": "kjedelig",
+      "en": "boring, bored"
+    },
+    "forms": {
+      "m": "aburrido",
+      "f": "aburrida",
+      "m_pl": "aburridos",
+      "f_pl": "aburridas"
+    }
+  },
+  "divertido_adj": {
+    "word": "divertido",
+    "translations": {
+      "nb": "morsom, gøy",
+      "en": "fun, funny"
+    },
+    "forms": {
+      "m": "divertido",
+      "f": "divertida",
+      "m_pl": "divertidos",
+      "f_pl": "divertidas"
+    }
+  },
+  "feliz_adj": {
+    "word": "feliz",
+    "translations": {
+      "nb": "lykkelig",
+      "en": "happy"
+    },
+    "forms": {
+      "m": "feliz",
+      "f": "feliz",
+      "m_pl": "felices",
+      "f_pl": "felices"
+    }
+  },
+  "triste_adj": {
+    "word": "triste",
+    "translations": {
+      "nb": "trist",
+      "en": "sad"
+    },
+    "forms": {
+      "m": "triste",
+      "f": "triste",
+      "m_pl": "tristes",
+      "f_pl": "tristes"
+    }
+  },
+  "contento_adj": {
+    "word": "contento",
+    "translations": {
+      "nb": "fornøyd, glad",
+      "en": "happy, pleased"
+    },
+    "forms": {
+      "m": "contento",
+      "f": "contenta",
+      "m_pl": "contentos",
+      "f_pl": "contentas"
+    }
+  },
+  "enfermo_adj": {
+    "word": "enfermo",
+    "translations": {
+      "nb": "syk",
+      "en": "sick, ill"
+    },
+    "forms": {
+      "m": "enfermo",
+      "f": "enferma",
+      "m_pl": "enfermos",
+      "f_pl": "enfermas"
+    }
+  },
+  "sano_adj": {
+    "word": "sano",
+    "translations": {
+      "nb": "frisk, sunn",
+      "en": "healthy"
+    },
+    "forms": {
+      "m": "sano",
+      "f": "sana",
+      "m_pl": "sanos",
+      "f_pl": "sanas"
+    }
+  },
+  "cansado_adj": {
+    "word": "cansado",
+    "translations": {
+      "nb": "trøtt, sliten",
+      "en": "tired"
+    },
+    "forms": {
+      "m": "cansado",
+      "f": "cansada",
+      "m_pl": "cansados",
+      "f_pl": "cansadas"
+    }
+  },
+  "rico_adj": {
+    "word": "rico",
+    "translations": {
+      "nb": "rik, deilig",
+      "en": "rich, delicious"
+    },
+    "forms": {
+      "m": "rico",
+      "f": "rica",
+      "m_pl": "ricos",
+      "f_pl": "ricas"
+    }
+  },
+  "pobre_adj": {
+    "word": "pobre",
+    "translations": {
+      "nb": "fattig",
+      "en": "poor"
+    },
+    "forms": {
+      "m": "pobre",
+      "f": "pobre",
+      "m_pl": "pobres",
+      "f_pl": "pobres"
+    }
+  },
+  "barato_adj": {
+    "word": "barato",
+    "translations": {
+      "nb": "billig",
+      "en": "cheap"
+    },
+    "forms": {
+      "m": "barato",
+      "f": "barata",
+      "m_pl": "baratos",
+      "f_pl": "baratas"
+    }
+  },
+  "caro_adj": {
+    "word": "caro",
+    "translations": {
+      "nb": "dyr",
+      "en": "expensive"
+    },
+    "forms": {
+      "m": "caro",
+      "f": "cara",
+      "m_pl": "caros",
+      "f_pl": "caras"
+    }
+  },
+  "limpio_adj": {
+    "word": "limpio",
+    "translations": {
+      "nb": "ren",
+      "en": "clean"
+    },
+    "forms": {
+      "m": "limpio",
+      "f": "limpia",
+      "m_pl": "limpios",
+      "f_pl": "limpias"
+    }
+  },
+  "sucio_adj": {
+    "word": "sucio",
+    "translations": {
+      "nb": "skitten",
+      "en": "dirty"
+    },
+    "forms": {
+      "m": "sucio",
+      "f": "sucia",
+      "m_pl": "sucios",
+      "f_pl": "sucias"
+    }
+  },
+  "lleno_adj": {
+    "word": "lleno",
+    "translations": {
+      "nb": "full",
+      "en": "full"
+    },
+    "forms": {
+      "m": "lleno",
+      "f": "llena",
+      "m_pl": "llenos",
+      "f_pl": "llenas"
+    }
+  },
+  "vacio_adj": {
+    "word": "vacío",
+    "translations": {
+      "nb": "tom",
+      "en": "empty"
+    },
+    "forms": {
+      "m": "vacío",
+      "f": "vacía",
+      "m_pl": "vacíos",
+      "f_pl": "vacías"
+    }
+  },
+  "abierto_adj": {
+    "word": "abierto",
+    "translations": {
+      "nb": "åpen",
+      "en": "open"
+    },
+    "forms": {
+      "m": "abierto",
+      "f": "abierta",
+      "m_pl": "abiertos",
+      "f_pl": "abiertas"
+    }
+  },
+  "cerrado_adj": {
+    "word": "cerrado",
+    "translations": {
+      "nb": "stengt, lukket",
+      "en": "closed"
+    },
+    "forms": {
+      "m": "cerrado",
+      "f": "cerrada",
+      "m_pl": "cerrados",
+      "f_pl": "cerradas"
+    }
+  },
+  "blanco_adj": {
+    "word": "blanco",
+    "translations": {
+      "nb": "hvit",
+      "en": "white"
+    },
+    "forms": {
+      "m": "blanco",
+      "f": "blanca",
+      "m_pl": "blancos",
+      "f_pl": "blancas"
+    }
+  },
+  "negro_adj": {
+    "word": "negro",
+    "translations": {
+      "nb": "svart",
+      "en": "black"
+    },
+    "forms": {
+      "m": "negro",
+      "f": "negra",
+      "m_pl": "negros",
+      "f_pl": "negras"
+    }
+  },
+  "rojo_adj": {
+    "word": "rojo",
+    "translations": {
+      "nb": "rød",
+      "en": "red"
+    },
+    "forms": {
+      "m": "rojo",
+      "f": "roja",
+      "m_pl": "rojos",
+      "f_pl": "rojas"
+    }
+  },
+  "azul_adj": {
+    "word": "azul",
+    "translations": {
+      "nb": "blå",
+      "en": "blue"
+    },
+    "forms": {
+      "m": "azul",
+      "f": "azul",
+      "m_pl": "azules",
+      "f_pl": "azules"
+    }
+  },
+  "verde_adj": {
+    "word": "verde",
+    "translations": {
+      "nb": "grønn",
+      "en": "green"
+    },
+    "forms": {
+      "m": "verde",
+      "f": "verde",
+      "m_pl": "verdes",
+      "f_pl": "verdes"
+    }
+  },
+  "amarillo_adj": {
+    "word": "amarillo",
+    "translations": {
+      "nb": "gul",
+      "en": "yellow"
+    },
+    "forms": {
+      "m": "amarillo",
+      "f": "amarilla",
+      "m_pl": "amarillos",
+      "f_pl": "amarillas"
+    }
+  },
+  "marron_adj": {
+    "word": "marrón",
+    "translations": {
+      "nb": "brun",
+      "en": "brown"
+    },
+    "forms": {
+      "m": "marrón",
+      "f": "marrón",
+      "m_pl": "marrones",
+      "f_pl": "marrones"
+    }
+  },
+  "gris_adj": {
+    "word": "gris",
+    "translations": {
+      "nb": "grå",
+      "en": "gray"
+    },
+    "forms": {
+      "m": "gris",
+      "f": "gris",
+      "m_pl": "grises",
+      "f_pl": "grises"
+    }
+  },
+  "listo_adj": {
+    "word": "listo",
+    "translations": {
+      "nb": "smart, klar",
+      "en": "smart, ready"
+    },
+    "forms": {
+      "m": "listo",
+      "f": "lista",
+      "m_pl": "listos",
+      "f_pl": "listas"
+    }
+  },
+  "tonto_adj": {
+    "word": "tonto",
+    "translations": {
+      "nb": "dum",
+      "en": "silly, stupid"
+    },
+    "forms": {
+      "m": "tonto",
+      "f": "tonta",
+      "m_pl": "tontos",
+      "f_pl": "tontas"
+    }
+  },
+  "simpatico_adj": {
+    "word": "simpático",
+    "translations": {
+      "nb": "hyggelig, sympatisk",
+      "en": "nice, likeable"
+    },
+    "forms": {
+      "m": "simpático",
+      "f": "simpática",
+      "m_pl": "simpáticos",
+      "f_pl": "simpáticas"
+    }
+  },
+  "antipatico_adj": {
+    "word": "antipático",
+    "translations": {
+      "nb": "usympatisk",
+      "en": "unpleasant, unlikeable"
+    },
+    "forms": {
+      "m": "antipático",
+      "f": "antipática",
+      "m_pl": "antipáticos",
+      "f_pl": "antipáticas"
+    }
+  },
+  "tranquilo_adj": {
+    "word": "tranquilo",
+    "translations": {
+      "nb": "rolig",
+      "en": "calm, quiet"
+    },
+    "forms": {
+      "m": "tranquilo",
+      "f": "tranquila",
+      "m_pl": "tranquilos",
+      "f_pl": "tranquilas"
+    }
+  },
+  "nervioso_adj": {
+    "word": "nervioso",
+    "translations": {
+      "nb": "nervøs",
+      "en": "nervous"
+    },
+    "forms": {
+      "m": "nervioso",
+      "f": "nerviosa",
+      "m_pl": "nerviosos",
+      "f_pl": "nerviosas"
+    }
+  },
+  "famoso_adj": {
+    "word": "famoso",
+    "translations": {
+      "nb": "kjent, berømt",
+      "en": "famous"
+    },
+    "forms": {
+      "m": "famoso",
+      "f": "famosa",
+      "m_pl": "famosos",
+      "f_pl": "famosas"
+    }
+  },
+  "delicioso_adj": {
+    "word": "delicioso",
+    "translations": {
+      "nb": "deilig",
+      "en": "delicious"
+    },
+    "forms": {
+      "m": "delicioso",
+      "f": "deliciosa",
+      "m_pl": "deliciosos",
+      "f_pl": "deliciosas"
+    }
+  },
+  "perfecto_adj": {
+    "word": "perfecto",
+    "translations": {
+      "nb": "perfekt",
+      "en": "perfect"
+    },
+    "forms": {
+      "m": "perfecto",
+      "f": "perfecta",
+      "m_pl": "perfectos",
+      "f_pl": "perfectas"
+    }
+  },
+  "horrible_adj": {
+    "word": "horrible",
+    "translations": {
+      "nb": "forferdelig",
+      "en": "horrible"
+    },
+    "forms": {
+      "m": "horrible",
+      "f": "horrible",
+      "m_pl": "horribles",
+      "f_pl": "horribles"
+    }
+  },
+  "terrible_adj": {
+    "word": "terrible",
+    "translations": {
+      "nb": "fryktelig",
+      "en": "terrible"
+    },
+    "forms": {
+      "m": "terrible",
+      "f": "terrible",
+      "m_pl": "terribles",
+      "f_pl": "terribles"
+    }
+  },
+  "increible_adj": {
+    "word": "increíble",
+    "translations": {
+      "nb": "utrolig",
+      "en": "incredible"
+    },
+    "forms": {
+      "m": "increíble",
+      "f": "increíble",
+      "m_pl": "increíbles",
+      "f_pl": "increíbles"
+    }
+  },
+  "posible_adj": {
+    "word": "posible",
+    "translations": {
+      "nb": "mulig",
+      "en": "possible"
+    },
+    "forms": {
+      "m": "posible",
+      "f": "posible",
+      "m_pl": "posibles",
+      "f_pl": "posibles"
+    }
+  },
+  "imposible_adj": {
+    "word": "imposible",
+    "translations": {
+      "nb": "umulig",
+      "en": "impossible"
+    },
+    "forms": {
+      "m": "imposible",
+      "f": "imposible",
+      "m_pl": "imposibles",
+      "f_pl": "imposibles"
+    }
+  },
+  "normal_adj": {
+    "word": "normal",
+    "translations": {
+      "nb": "normal",
+      "en": "normal"
+    },
+    "forms": {
+      "m": "normal",
+      "f": "normal",
+      "m_pl": "normales",
+      "f_pl": "normales"
+    }
+  },
+  "especial_adj": {
+    "word": "especial",
+    "translations": {
+      "nb": "spesiell",
+      "en": "special"
+    },
+    "forms": {
+      "m": "especial",
+      "f": "especial",
+      "m_pl": "especiales",
+      "f_pl": "especiales"
+    }
+  },
+  "diferente_adj": {
+    "word": "diferente",
+    "translations": {
+      "nb": "forskjellig",
+      "en": "different"
+    },
+    "forms": {
+      "m": "diferente",
+      "f": "diferente",
+      "m_pl": "diferentes",
+      "f_pl": "diferentes"
+    }
+  },
+  "igual_adj": {
+    "word": "igual",
+    "translations": {
+      "nb": "lik",
+      "en": "equal, same"
+    },
+    "forms": {
+      "m": "igual",
+      "f": "igual",
+      "m_pl": "iguales",
+      "f_pl": "iguales"
+    }
+  },
+  "mismo_adj": {
+    "word": "mismo",
+    "translations": {
+      "nb": "samme",
+      "en": "same"
+    },
+    "forms": {
+      "m": "mismo",
+      "f": "misma",
+      "m_pl": "mismos",
+      "f_pl": "mismas"
+    }
+  },
+  "otro_adj": {
+    "word": "otro",
+    "translations": {
+      "nb": "annen",
+      "en": "other, another"
+    },
+    "forms": {
+      "m": "otro",
+      "f": "otra",
+      "m_pl": "otros",
+      "f_pl": "otras"
+    }
+  },
+  "solo_adj": {
+    "word": "solo",
+    "translations": {
+      "nb": "alene",
+      "en": "alone"
+    },
+    "forms": {
+      "m": "solo",
+      "f": "sola",
+      "m_pl": "solos",
+      "f_pl": "solas"
+    }
+  },
+  "unico_adj": {
+    "word": "único",
+    "translations": {
+      "nb": "eneste, unik",
+      "en": "only, unique"
+    },
+    "forms": {
+      "m": "único",
+      "f": "única",
+      "m_pl": "únicos",
+      "f_pl": "únicas"
+    }
+  },
+  "primero_adj": {
+    "word": "primero",
+    "translations": {
+      "nb": "første",
+      "en": "first"
+    },
+    "forms": {
+      "m": "primero",
+      "f": "primera",
+      "m_pl": "primeros",
+      "f_pl": "primeras"
+    }
+  },
+  "ultimo_adj": {
+    "word": "último",
+    "translations": {
+      "nb": "siste",
+      "en": "last"
+    },
+    "forms": {
+      "m": "último",
+      "f": "última",
+      "m_pl": "últimos",
+      "f_pl": "últimas"
+    }
+  },
+  "proximo_adj": {
+    "word": "próximo",
+    "translations": {
+      "nb": "neste",
+      "en": "next"
+    },
+    "forms": {
+      "m": "próximo",
+      "f": "próxima",
+      "m_pl": "próximos",
+      "f_pl": "próximas"
+    }
+  },
+  "anterior_adj": {
+    "word": "anterior",
+    "translations": {
+      "nb": "forrige",
+      "en": "previous"
+    },
+    "forms": {
+      "m": "anterior",
+      "f": "anterior",
+      "m_pl": "anteriores",
+      "f_pl": "anteriores"
+    }
+  },
+  "oscuro_adj": {
+    "word": "oscuro",
+    "translations": {
+      "nb": "mørk",
+      "en": "dark"
+    },
+    "forms": {
+      "m": "oscuro",
+      "f": "oscura",
+      "m_pl": "oscuros",
+      "f_pl": "oscuras"
+    }
+  },
+  "claro_adj": {
+    "word": "claro",
+    "translations": {
+      "nb": "lys, klar",
+      "en": "light, clear"
+    },
+    "forms": {
+      "m": "claro",
+      "f": "clara",
+      "m_pl": "claros",
+      "f_pl": "claras"
+    }
+  },
+  "brillante_adj": {
+    "word": "brillante",
+    "translations": {
+      "nb": "skinnende, strålende",
+      "en": "bright, brilliant"
+    },
+    "forms": {
+      "m": "brillante",
+      "f": "brillante",
+      "m_pl": "brillantes",
+      "f_pl": "brillantes"
+    }
+  },
+  "fuerte_adj": {
+    "word": "fuerte",
+    "translations": {
+      "nb": "sterk",
+      "en": "strong"
+    },
+    "forms": {
+      "m": "fuerte",
+      "f": "fuerte",
+      "m_pl": "fuertes",
+      "f_pl": "fuertes"
+    }
+  },
+  "debil_adj": {
+    "word": "débil",
+    "translations": {
+      "nb": "svak",
+      "en": "weak"
+    },
+    "forms": {
+      "m": "débil",
+      "f": "débil",
+      "m_pl": "débiles",
+      "f_pl": "débiles"
+    }
+  },
+  "duro_adj": {
+    "word": "duro",
+    "translations": {
+      "nb": "hard",
+      "en": "hard"
+    },
+    "forms": {
+      "m": "duro",
+      "f": "dura",
+      "m_pl": "duros",
+      "f_pl": "duras"
+    }
+  },
+  "blando_adj": {
+    "word": "blando",
+    "translations": {
+      "nb": "myk",
+      "en": "soft"
+    },
+    "forms": {
+      "m": "blando",
+      "f": "blanda",
+      "m_pl": "blandos",
+      "f_pl": "blandas"
+    }
+  },
+  "pesado_adj": {
+    "word": "pesado",
+    "translations": {
+      "nb": "tung",
+      "en": "heavy"
+    },
+    "forms": {
+      "m": "pesado",
+      "f": "pesada",
+      "m_pl": "pesados",
+      "f_pl": "pesadas"
+    }
+  },
+  "ligero_adj": {
+    "word": "ligero",
+    "translations": {
+      "nb": "lett (vekt)",
+      "en": "light (weight)"
+    },
+    "forms": {
+      "m": "ligero",
+      "f": "ligera",
+      "m_pl": "ligeros",
+      "f_pl": "ligeras"
+    }
+  },
+  "ancho_adj": {
+    "word": "ancho",
+    "translations": {
+      "nb": "bred",
+      "en": "wide"
+    },
+    "forms": {
+      "m": "ancho",
+      "f": "ancha",
+      "m_pl": "anchos",
+      "f_pl": "anchas"
+    }
+  },
+  "estrecho_adj": {
+    "word": "estrecho",
+    "translations": {
+      "nb": "smal",
+      "en": "narrow"
+    },
+    "forms": {
+      "m": "estrecho",
+      "f": "estrecha",
+      "m_pl": "estrechos",
+      "f_pl": "estrechas"
+    }
+  },
+  "profundo_adj": {
+    "word": "profundo",
+    "translations": {
+      "nb": "dyp",
+      "en": "deep"
+    },
+    "forms": {
+      "m": "profundo",
+      "f": "profunda",
+      "m_pl": "profundos",
+      "f_pl": "profundas"
+    }
+  },
+  "humedo_adj": {
+    "word": "húmedo",
+    "translations": {
+      "nb": "fuktig",
+      "en": "humid, wet"
+    },
+    "forms": {
+      "m": "húmedo",
+      "f": "húmeda",
+      "m_pl": "húmedos",
+      "f_pl": "húmedas"
+    }
+  },
+  "seco_adj": {
+    "word": "seco",
+    "translations": {
+      "nb": "tørr",
+      "en": "dry"
+    },
+    "forms": {
+      "m": "seco",
+      "f": "seca",
+      "m_pl": "secos",
+      "f_pl": "secas"
+    }
+  },
+  "amable_adj": {
+    "word": "amable",
+    "translations": {
+      "nb": "vennlig",
+      "en": "kind, friendly"
+    },
+    "forms": {
+      "m": "amable",
+      "f": "amable",
+      "m_pl": "amables",
+      "f_pl": "amables"
+    }
+  },
+  "educado_adj": {
+    "word": "educado",
+    "translations": {
+      "nb": "høflig",
+      "en": "polite"
+    },
+    "forms": {
+      "m": "educado",
+      "f": "educada",
+      "m_pl": "educados",
+      "f_pl": "educadas"
+    }
+  },
+  "maleducado_adj": {
+    "word": "maleducado",
+    "translations": {
+      "nb": "uhøflig",
+      "en": "rude"
+    },
+    "forms": {
+      "m": "maleducado",
+      "f": "maleducada",
+      "m_pl": "maleducados",
+      "f_pl": "maleducadas"
+    }
+  },
+  "timido_adj": {
+    "word": "tímido",
+    "translations": {
+      "nb": "sjenert",
+      "en": "shy"
+    },
+    "forms": {
+      "m": "tímido",
+      "f": "tímida",
+      "m_pl": "tímidos",
+      "f_pl": "tímidas"
+    }
+  },
+  "valiente_adj": {
+    "word": "valiente",
+    "translations": {
+      "nb": "modig",
+      "en": "brave"
+    },
+    "forms": {
+      "m": "valiente",
+      "f": "valiente",
+      "m_pl": "valientes",
+      "f_pl": "valientes"
+    }
+  },
+  "cobarde_adj": {
+    "word": "cobarde",
+    "translations": {
+      "nb": "feig",
+      "en": "cowardly"
+    },
+    "forms": {
+      "m": "cobarde",
+      "f": "cobarde",
+      "m_pl": "cobardes",
+      "f_pl": "cobardes"
+    }
+  },
+  "generoso_adj": {
+    "word": "generoso",
+    "translations": {
+      "nb": "sjenerøs",
+      "en": "generous"
+    },
+    "forms": {
+      "m": "generoso",
+      "f": "generosa",
+      "m_pl": "generosos",
+      "f_pl": "generosas"
+    }
+  },
+  "tacano_adj": {
+    "word": "tacaño",
+    "translations": {
+      "nb": "gjerrig",
+      "en": "stingy"
+    },
+    "forms": {
+      "m": "tacaño",
+      "f": "tacaña",
+      "m_pl": "tacaños",
+      "f_pl": "tacañas"
+    }
+  },
+  "perezoso_adj": {
+    "word": "perezoso",
+    "translations": {
+      "nb": "lat",
+      "en": "lazy"
+    },
+    "forms": {
+      "m": "perezoso",
+      "f": "perezosa",
+      "m_pl": "perezosos",
+      "f_pl": "perezosas"
+    }
+  },
+  "trabajador_adj": {
+    "word": "trabajador",
+    "translations": {
+      "nb": "hardtarbeidende",
+      "en": "hardworking"
+    },
+    "forms": {
+      "m": "trabajador",
+      "f": "trabajadora",
+      "m_pl": "trabajadores",
+      "f_pl": "trabajadoras"
+    }
+  },
+  "serio_adj": {
+    "word": "serio",
+    "translations": {
+      "nb": "seriøs",
+      "en": "serious"
+    },
+    "forms": {
+      "m": "serio",
+      "f": "seria",
+      "m_pl": "serios",
+      "f_pl": "serias"
+    }
+  },
+  "gracioso_adj": {
+    "word": "gracioso",
+    "translations": {
+      "nb": "morsom",
+      "en": "funny"
+    },
+    "forms": {
+      "m": "gracioso",
+      "f": "graciosa",
+      "m_pl": "graciosos",
+      "f_pl": "graciosas"
+    }
+  },
+  "curioso_adj": {
+    "word": "curioso",
+    "translations": {
+      "nb": "nysgjerrig",
+      "en": "curious"
+    },
+    "forms": {
+      "m": "curioso",
+      "f": "curiosa",
+      "m_pl": "curiosos",
+      "f_pl": "curiosas"
+    }
+  },
+  "orgulloso_adj": {
+    "word": "orgulloso",
+    "translations": {
+      "nb": "stolt",
+      "en": "proud"
+    },
+    "forms": {
+      "m": "orgulloso",
+      "f": "orgullosa",
+      "m_pl": "orgullosos",
+      "f_pl": "orgullosas"
+    }
+  },
+  "celoso_adj": {
+    "word": "celoso",
+    "translations": {
+      "nb": "sjalu",
+      "en": "jealous"
+    },
+    "forms": {
+      "m": "celoso",
+      "f": "celosa",
+      "m_pl": "celosos",
+      "f_pl": "celosas"
+    }
+  },
+  "ocupado_adj": {
+    "word": "ocupado",
+    "translations": {
+      "nb": "opptatt",
+      "en": "busy"
+    },
+    "forms": {
+      "m": "ocupado",
+      "f": "ocupada",
+      "m_pl": "ocupados",
+      "f_pl": "ocupadas"
+    }
+  },
+  "libre_adj": {
+    "word": "libre",
+    "translations": {
+      "nb": "fri, ledig",
+      "en": "free"
+    },
+    "forms": {
+      "m": "libre",
+      "f": "libre",
+      "m_pl": "libres",
+      "f_pl": "libres"
+    }
+  },
+  "preparado_adj": {
+    "word": "preparado",
+    "translations": {
+      "nb": "forberedt",
+      "en": "prepared, ready"
+    },
+    "forms": {
+      "m": "preparado",
+      "f": "preparada",
+      "m_pl": "preparados",
+      "f_pl": "preparadas"
+    }
+  },
+  "seguro_adj": {
+    "word": "seguro",
+    "translations": {
+      "nb": "sikker",
+      "en": "sure, safe"
+    },
+    "forms": {
+      "m": "seguro",
+      "f": "segura",
+      "m_pl": "seguros",
+      "f_pl": "seguras"
+    }
+  },
+  "peligroso_adj": {
+    "word": "peligroso",
+    "translations": {
+      "nb": "farlig",
+      "en": "dangerous"
+    },
+    "forms": {
+      "m": "peligroso",
+      "f": "peligrosa",
+      "m_pl": "peligrosos",
+      "f_pl": "peligrosas"
+    }
+  },
+  "rubio_adj": {
+    "word": "rubio",
+    "translations": {
+      "nb": "blond",
+      "en": "blonde"
+    },
+    "forms": {
+      "m": "rubio",
+      "f": "rubia",
+      "m_pl": "rubios",
+      "f_pl": "rubias"
+    }
+  },
+  "moreno_adj": {
+    "word": "moreno",
+    "translations": {
+      "nb": "mørkhåret",
+      "en": "dark-haired, brunette"
+    },
+    "forms": {
+      "m": "moreno",
+      "f": "morena",
+      "m_pl": "morenos",
+      "f_pl": "morenas"
+    }
+  },
+  "pelirrojo_adj": {
+    "word": "pelirrojo",
+    "translations": {
+      "nb": "rødhåret",
+      "en": "red-haired"
+    },
+    "forms": {
+      "m": "pelirrojo",
+      "f": "pelirroja",
+      "m_pl": "pelirrojos",
+      "f_pl": "pelirrojas"
+    }
+  },
+  "calvo_adj": {
+    "word": "calvo",
+    "translations": {
+      "nb": "skallet",
+      "en": "bald"
+    },
+    "forms": {
+      "m": "calvo",
+      "f": "calva",
+      "m_pl": "calvos",
+      "f_pl": "calvas"
+    }
+  },
+  "gordo_adj": {
+    "word": "gordo",
+    "translations": {
+      "nb": "tykk",
+      "en": "fat"
+    },
+    "forms": {
+      "m": "gordo",
+      "f": "gorda",
+      "m_pl": "gordos",
+      "f_pl": "gordas"
+    }
+  },
+  "delgado_adj": {
+    "word": "delgado",
+    "translations": {
+      "nb": "slank, tynn",
+      "en": "slim, thin"
+    },
+    "forms": {
+      "m": "delgado",
+      "f": "delgada",
+      "m_pl": "delgados",
+      "f_pl": "delgadas"
+    }
+  },
+  "soleado_adj": {
+    "word": "soleado",
+    "translations": {
+      "nb": "solrik",
+      "en": "sunny"
+    },
+    "forms": {
+      "m": "soleado",
+      "f": "soleada",
+      "m_pl": "soleados",
+      "f_pl": "soleadas"
+    }
+  },
+  "nublado_adj": {
+    "word": "nublado",
+    "translations": {
+      "nb": "overskyet",
+      "en": "cloudy"
+    },
+    "forms": {
+      "m": "nublado",
+      "f": "nublada",
+      "m_pl": "nublados",
+      "f_pl": "nubladas"
+    }
+  },
+  "lluvioso_adj": {
+    "word": "lluvioso",
+    "translations": {
+      "nb": "regnfull",
+      "en": "rainy"
+    },
+    "forms": {
+      "m": "lluvioso",
+      "f": "lluviosa",
+      "m_pl": "lluviosos",
+      "f_pl": "lluviosas"
+    }
+  },
+  "ventoso_adj": {
+    "word": "ventoso",
+    "translations": {
+      "nb": "vindfull",
+      "en": "windy"
+    },
+    "forms": {
+      "m": "ventoso",
+      "f": "ventosa",
+      "m_pl": "ventosos",
+      "f_pl": "ventosas"
+    }
+  },
+  "agradable_adj": {
+    "word": "agradable",
+    "translations": {
+      "nb": "behagelig",
+      "en": "pleasant"
+    },
+    "forms": {
+      "m": "agradable",
+      "f": "agradable",
+      "m_pl": "agradables",
+      "f_pl": "agradables"
+    }
+  },
+  "desagradable_adj": {
+    "word": "desagradable",
+    "translations": {
+      "nb": "ubehagelig",
+      "en": "unpleasant"
+    },
+    "forms": {
+      "m": "desagradable",
+      "f": "desagradable",
+      "m_pl": "desagradables",
+      "f_pl": "desagradables"
+    }
+  },
+  "comodo_adj": {
+    "word": "cómodo",
+    "translations": {
+      "nb": "komfortabel",
+      "en": "comfortable"
+    },
+    "forms": {
+      "m": "cómodo",
+      "f": "cómoda",
+      "m_pl": "cómodos",
+      "f_pl": "cómodas"
+    }
+  },
+  "incomodo_adj": {
+    "word": "incómodo",
+    "translations": {
+      "nb": "ukomfortabel",
+      "en": "uncomfortable"
+    },
+    "forms": {
+      "m": "incómodo",
+      "f": "incómoda",
+      "m_pl": "incómodos",
+      "f_pl": "incómodas"
+    }
+  },
+  "util_adj": {
+    "word": "útil",
+    "translations": {
+      "nb": "nyttig",
+      "en": "useful"
+    },
+    "forms": {
+      "m": "útil",
+      "f": "útil",
+      "m_pl": "útiles",
+      "f_pl": "útiles"
+    }
+  },
+  "inutil_adj": {
+    "word": "inútil",
+    "translations": {
+      "nb": "unyttig",
+      "en": "useless"
+    },
+    "forms": {
+      "m": "inútil",
+      "f": "inútil",
+      "m_pl": "inútiles",
+      "f_pl": "inútiles"
+    }
+  },
+  "necesario_adj": {
+    "word": "necesario",
+    "translations": {
+      "nb": "nødvendig",
+      "en": "necessary"
+    },
+    "forms": {
+      "m": "necesario",
+      "f": "necesaria",
+      "m_pl": "necesarios",
+      "f_pl": "necesarias"
+    }
+  },
+  "correcto_adj": {
+    "word": "correcto",
+    "translations": {
+      "nb": "riktig",
+      "en": "correct"
+    },
+    "forms": {
+      "m": "correcto",
+      "f": "correcta",
+      "m_pl": "correctos",
+      "f_pl": "correctas"
+    }
+  },
+  "incorrecto_adj": {
+    "word": "incorrecto",
+    "translations": {
+      "nb": "feil",
+      "en": "incorrect"
+    },
+    "forms": {
+      "m": "incorrecto",
+      "f": "incorrecta",
+      "m_pl": "incorrectos",
+      "f_pl": "incorrectas"
+    }
+  },
+  "moderno_adj": {
+    "word": "moderno",
+    "translations": {
+      "nb": "moderne",
+      "en": "modern"
+    },
+    "forms": {
+      "m": "moderno",
+      "f": "moderna",
+      "m_pl": "modernos",
+      "f_pl": "modernas"
+    }
+  },
+  "antiguo_adj": {
+    "word": "antiguo",
+    "translations": {
+      "nb": "gammel, antikk",
+      "en": "old, ancient"
+    },
+    "forms": {
+      "m": "antiguo",
+      "f": "antigua",
+      "m_pl": "antiguos",
+      "f_pl": "antiguas"
+    }
+  },
+  "tradicional_adj": {
+    "word": "tradicional",
+    "translations": {
+      "nb": "tradisjonell",
+      "en": "traditional"
+    },
+    "forms": {
+      "m": "tradicional",
+      "f": "tradicional",
+      "m_pl": "tradicionales",
+      "f_pl": "tradicionales"
+    }
+  },
+  "natural_adj": {
+    "word": "natural",
+    "translations": {
+      "nb": "naturlig",
+      "en": "natural"
+    },
+    "forms": {
+      "m": "natural",
+      "f": "natural",
+      "m_pl": "naturales",
+      "f_pl": "naturales"
+    }
+  },
+  "artificial_adj": {
+    "word": "artificial",
+    "translations": {
+      "nb": "kunstig",
+      "en": "artificial"
+    },
+    "forms": {
+      "m": "artificial",
+      "f": "artificial",
+      "m_pl": "artificiales",
+      "f_pl": "artificiales"
+    }
+  },
+  "real_adj": {
+    "word": "real",
+    "translations": {
+      "nb": "ekte, virkelig",
+      "en": "real"
+    },
+    "forms": {
+      "m": "real",
+      "f": "real",
+      "m_pl": "reales",
+      "f_pl": "reales"
+    }
+  },
+  "falso_adj": {
+    "word": "falso",
+    "translations": {
+      "nb": "falsk",
+      "en": "false, fake"
+    },
+    "forms": {
+      "m": "falso",
+      "f": "falsa",
+      "m_pl": "falsos",
+      "f_pl": "falsas"
+    }
+  },
+  "verdadero_adj": {
+    "word": "verdadero",
+    "translations": {
+      "nb": "sann",
+      "en": "true"
+    },
+    "forms": {
+      "m": "verdadero",
+      "f": "verdadera",
+      "m_pl": "verdaderos",
+      "f_pl": "verdaderas"
+    }
+  },
+  "publico_adj": {
+    "word": "público",
+    "translations": {
+      "nb": "offentlig",
+      "en": "public"
+    },
+    "forms": {
+      "m": "público",
+      "f": "pública",
+      "m_pl": "públicos",
+      "f_pl": "públicas"
+    }
+  },
+  "privado_adj": {
+    "word": "privado",
+    "translations": {
+      "nb": "privat",
+      "en": "private"
+    },
+    "forms": {
+      "m": "privado",
+      "f": "privada",
+      "m_pl": "privados",
+      "f_pl": "privadas"
+    }
+  },
+  "nacional_adj": {
+    "word": "nacional",
+    "translations": {
+      "nb": "nasjonal",
+      "en": "national"
+    },
+    "forms": {
+      "m": "nacional",
+      "f": "nacional",
+      "m_pl": "nacionales",
+      "f_pl": "nacionales"
+    }
+  },
+  "internacional_adj": {
+    "word": "internacional",
+    "translations": {
+      "nb": "internasjonal",
+      "en": "international"
+    },
+    "forms": {
+      "m": "internacional",
+      "f": "internacional",
+      "m_pl": "internacionales",
+      "f_pl": "internacionales"
+    }
+  },
+  "local_adj": {
+    "word": "local",
+    "translations": {
+      "nb": "lokal",
+      "en": "local"
+    },
+    "forms": {
+      "m": "local",
+      "f": "local",
+      "m_pl": "locales",
+      "f_pl": "locales"
+    }
+  },
+  "favorito_adj": {
+    "word": "favorito",
+    "translations": {
+      "nb": "favoritt",
+      "en": "favorite"
+    },
+    "forms": {
+      "m": "favorito",
+      "f": "favorita",
+      "m_pl": "favoritos",
+      "f_pl": "favoritas"
+    }
+  },
+  "tipico_adj": {
+    "word": "típico",
+    "translations": {
+      "nb": "typisk",
+      "en": "typical"
+    },
+    "forms": {
+      "m": "típico",
+      "f": "típica",
+      "m_pl": "típicos",
+      "f_pl": "típicas"
+    }
+  },
+  "clasico_adj": {
+    "word": "clásico",
+    "translations": {
+      "nb": "klassisk",
+      "en": "classic"
+    },
+    "forms": {
+      "m": "clásico",
+      "f": "clásica",
+      "m_pl": "clásicos",
+      "f_pl": "clásicas"
+    }
+  },
+  "popular_adj": {
+    "word": "popular",
+    "translations": {
+      "nb": "populær",
+      "en": "popular"
+    },
+    "forms": {
+      "m": "popular",
+      "f": "popular",
+      "m_pl": "populares",
+      "f_pl": "populares"
+    }
+  },
+  "profesional_adj": {
+    "word": "profesional",
+    "translations": {
+      "nb": "profesjonell",
+      "en": "professional"
+    },
+    "forms": {
+      "m": "profesional",
+      "f": "profesional",
+      "m_pl": "profesionales",
+      "f_pl": "profesionales"
+    }
+  },
+  "dulce_adj": {
+    "word": "dulce",
+    "translations": {
+      "nb": "søt",
+      "en": "sweet"
+    },
+    "forms": {
+      "m": "dulce",
+      "f": "dulce",
+      "m_pl": "dulces",
+      "f_pl": "dulces"
+    }
+  },
+  "salado_adj": {
+    "word": "salado",
+    "translations": {
+      "nb": "salt",
+      "en": "salty"
+    },
+    "forms": {
+      "m": "salado",
+      "f": "salada",
+      "m_pl": "salados",
+      "f_pl": "saladas"
+    }
+  },
+  "amargo_adj": {
+    "word": "amargo",
+    "translations": {
+      "nb": "bitter",
+      "en": "bitter"
+    },
+    "forms": {
+      "m": "amargo",
+      "f": "amarga",
+      "m_pl": "amargos",
+      "f_pl": "amargas"
+    }
+  },
+  "picante_adj": {
+    "word": "picante",
+    "translations": {
+      "nb": "sterk (mat)",
+      "en": "spicy"
+    },
+    "forms": {
+      "m": "picante",
+      "f": "picante",
+      "m_pl": "picantes",
+      "f_pl": "picantes"
+    }
+  },
+  "fresco_adj": {
+    "word": "fresco",
+    "translations": {
+      "nb": "fersk, frisk",
+      "en": "fresh, cool"
+    },
+    "forms": {
+      "m": "fresco",
+      "f": "fresca",
+      "m_pl": "frescos",
+      "f_pl": "frescas"
+    }
+  },
+  "crudo_adj": {
+    "word": "crudo",
+    "translations": {
+      "nb": "rå",
+      "en": "raw"
+    },
+    "forms": {
+      "m": "crudo",
+      "f": "cruda",
+      "m_pl": "crudos",
+      "f_pl": "crudas"
+    }
+  },
+  "maduro_adj": {
+    "word": "maduro",
+    "translations": {
+      "nb": "moden",
+      "en": "ripe, mature"
+    },
+    "forms": {
+      "m": "maduro",
+      "f": "madura",
+      "m_pl": "maduros",
+      "f_pl": "maduras"
+    }
+  }
+}

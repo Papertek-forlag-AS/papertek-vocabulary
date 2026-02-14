@@ -1,0 +1,2563 @@
+{
+  "_metadata": {
+    "source": "verbbank.json",
+    "targetLanguage": "german",
+    "generatedAt": "2026-01-16T17:26:35.871Z",
+    "description": "Core verb data for german"
+  },
+  "sein_verb": {
+    "word": "sein",
+    "type": "strong",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "bin",
+          "du": "bist",
+          "er/sie/es": "ist",
+          "wir": "sind",
+          "ihr": "seid",
+          "sie/Sie": "sind"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sein_verb",
+    "audio": "verb_sein.mp3"
+  },
+  "heissen_verb": {
+    "word": "heißen",
+    "type": "vanlig",
+    "audio": "verb_heissen.mp3",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "heiße",
+          "du": "heißt",
+          "er/sie/es": "heißt",
+          "wir": "heißen",
+          "ihr": "heißt",
+          "sie/Sie": "heißen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "heissen_verb"
+  },
+  "kommen_verb": {
+    "word": "kommen",
+    "type": "vanlig",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "komme",
+          "du": "kommst",
+          "er/sie/es": "kommt",
+          "wir": "kommen",
+          "ihr": "kommt",
+          "sie/Sie": "kommen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "kommen_verb",
+    "audio": "verb_kommen.mp3"
+  },
+  "wohnen_verb": {
+    "word": "wohnen",
+    "type": "vanlig",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "wohne",
+          "du": "wohnst",
+          "er/sie/es": "wohnt",
+          "wir": "wohnen",
+          "ihr": "wohnt",
+          "sie/Sie": "wohnen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "wohnen_verb",
+    "audio": "verb_wohnen.mp3"
+  },
+  "schauen_verb": {
+    "word": "schauen",
+    "type": "vanlig",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "schaue",
+          "du": "schaust",
+          "er/sie/es": "schaut",
+          "wir": "schauen",
+          "ihr": "schaut",
+          "sie/Sie": "schauen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "schauen_verb",
+    "audio": "verb_schauen.mp3"
+  },
+  "spielen_verb": {
+    "word": "spielen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "spiele",
+          "du": "spielst",
+          "er/sie/es": "spielt",
+          "wir": "spielen",
+          "ihr": "spielt",
+          "sie/Sie": "spielen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "spielen_verb",
+    "audio": "verb_spielen.mp3"
+  },
+  "interessieren_verb": {
+    "word": "interessieren",
+    "type": "refleksiv",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "interessiere",
+          "du": "interessierst",
+          "er/sie/es": "interessiert",
+          "wir": "interessieren",
+          "ihr": "interessiert",
+          "sie/Sie": "interessieren"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "interessieren_verb",
+    "audio": "verb_interessieren.mp3"
+  },
+  "shoppen_verb": {
+    "word": "shoppen",
+    "type": "vanlig",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "shoppe",
+          "du": "shoppst",
+          "er/sie/es": "shoppt",
+          "wir": "shoppen",
+          "ihr": "shoppt",
+          "sie/Sie": "shoppen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "shoppen_verb",
+    "audio": "verb_shoppen.mp3"
+  },
+  "entspannen_verb": {
+    "word": "entspannen",
+    "type": "refleksiv",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "entspanne",
+          "du": "entspannst",
+          "er/sie/es": "entspannt",
+          "wir": "entspannen",
+          "ihr": "entspannt",
+          "sie/Sie": "entspannen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "entspannen_verb",
+    "audio": "verb_entspannen.mp3"
+  },
+  "lernen_verb": {
+    "word": "lernen",
+    "type": "vanlig",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "lerne",
+          "du": "lernst",
+          "er/sie/es": "lernt",
+          "wir": "lernen",
+          "ihr": "lernt",
+          "sie/Sie": "lernen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "lernen_verb",
+    "audio": "verb_lernen.mp3"
+  },
+  "finden_verb": {
+    "word": "finden",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "finde",
+          "du": "findest",
+          "er/sie/es": "findet",
+          "wir": "finden",
+          "ihr": "findet",
+          "sie/Sie": "finden"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "finden_verb",
+    "audio": "verb_finden.mp3"
+  },
+  "moegen_verb": {
+    "word": "mögen",
+    "type": "modal",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "mag",
+          "du": "magst",
+          "er/sie/es": "mag",
+          "wir": "mögen",
+          "ihr": "mögt",
+          "sie/Sie": "mögen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "modal": true,
+    "_id": "moegen_verb",
+    "audio": "verb_moegen.mp3"
+  },
+  "klingeln_verb": {
+    "word": "klingeln",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "klingle",
+          "du": "klingelst",
+          "er/sie/es": "klingelt",
+          "wir": "klingeln",
+          "ihr": "klingelt",
+          "sie/Sie": "klingeln"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "klingeln_verb",
+    "audio": "verb_klingeln.mp3"
+  },
+  "beginnen_verb": {
+    "word": "beginnen",
+    "synonyms": ["anfangen_verb"],
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "beginne",
+          "du": "beginnst",
+          "er/sie/es": "beginnt",
+          "wir": "beginnen",
+          "ihr": "beginnt",
+          "sie/Sie": "beginnen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "beginnen_verb",
+    "audio": "verb_beginnen.mp3"
+  },
+  "koennen_verb": {
+    "word": "können",
+    "type": "modal",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "kann",
+          "du": "kannst",
+          "er/sie/es": "kann",
+          "wir": "können",
+          "ihr": "könnt",
+          "sie/Sie": "können"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "modal": true,
+    "_id": "koennen_verb",
+    "audio": "verb_koennen.mp3"
+  },
+  "lesen_verb": {
+    "word": "lesen",
+    "type": "strong",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "lese",
+          "du": "liest",
+          "er/sie/es": "liest",
+          "wir": "lesen",
+          "ihr": "lest",
+          "sie/Sie": "lesen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "lesen_verb",
+    "audio": "verb_lesen.mp3"
+  },
+  "schwimmen_verb": {
+    "word": "schwimmen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "schwimme",
+          "du": "schwimmst",
+          "er/sie/es": "schwimmt",
+          "wir": "schwimmen",
+          "ihr": "schwimmt",
+          "sie/Sie": "schwimmen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "schwimmen_verb",
+    "audio": "verb_schwimmen.mp3"
+  },
+  "singen_verb": {
+    "word": "singen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "singe",
+          "du": "singst",
+          "er/sie/es": "singt",
+          "wir": "singen",
+          "ihr": "singt",
+          "sie/Sie": "singen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "singen_verb",
+    "audio": "verb_singen.mp3"
+  },
+  "tanzen_verb": {
+    "word": "tanzen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "tanze",
+          "du": "tanzt",
+          "er/sie/es": "tanzt",
+          "wir": "tanzen",
+          "ihr": "tanzt",
+          "sie/Sie": "tanzen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "tanzen_verb",
+    "audio": "verb_tanzen.mp3"
+  },
+  "kochen_verb": {
+    "word": "kochen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "koche",
+          "du": "kochst",
+          "er/sie/es": "kocht",
+          "wir": "kochen",
+          "ihr": "kocht",
+          "sie/Sie": "kochen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "kochen_verb",
+    "audio": "verb_kochen.mp3"
+  },
+  "malen_verb": {
+    "word": "malen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "male",
+          "du": "malst",
+          "er/sie/es": "malt",
+          "wir": "malen",
+          "ihr": "malt",
+          "sie/Sie": "malen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "malen_verb",
+    "audio": "verb_malen.mp3"
+  },
+  "machen_verb": {
+    "word": "machen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "mache",
+          "du": "machst",
+          "er/sie/es": "macht",
+          "wir": "machen",
+          "ihr": "macht",
+          "sie/Sie": "machen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "machen_verb",
+    "audio": "verb_machen.mp3"
+  },
+  "gehen_verb": {
+    "word": "gehen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "gehe",
+          "du": "gehst",
+          "er/sie/es": "geht",
+          "wir": "gehen",
+          "ihr": "geht",
+          "sie/Sie": "gehen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "gehen_verb",
+    "audio": "verb_gehen.mp3"
+  },
+  "besuchen_verb": {
+    "word": "besuchen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "besuche",
+          "du": "besuchst",
+          "er/sie/es": "besucht",
+          "wir": "besuchen",
+          "ihr": "besucht",
+          "sie/Sie": "besuchen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "besuchen_verb",
+    "audio": "verb_besuchen.mp3"
+  },
+  "kaufen_verb": {
+    "word": "kaufen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "kaufe",
+          "du": "kaufst",
+          "er/sie/es": "kauft",
+          "wir": "kaufen",
+          "ihr": "kauft",
+          "sie/Sie": "kaufen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "kaufen_verb",
+    "audio": "verb_kaufen.mp3"
+  },
+  "brauchen_verb": {
+    "word": "brauchen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "brauche",
+          "du": "brauchst",
+          "er/sie/es": "braucht",
+          "wir": "brauchen",
+          "ihr": "braucht",
+          "sie/Sie": "brauchen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "brauchen_verb",
+    "audio": "verb_brauchen.mp3"
+  },
+  "essen_verb": {
+    "word": "essen",
+    "type": "strong",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "esse",
+          "du": "isst",
+          "er/sie/es": "isst",
+          "wir": "essen",
+          "ihr": "esst",
+          "sie/Sie": "essen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "essen_verb",
+    "audio": "verb_essen.mp3"
+  },
+  "nehmen_verb": {
+    "word": "nehmen",
+    "type": "strong",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "nehme",
+          "du": "nimmst",
+          "er/sie/es": "nimmt",
+          "wir": "nehmen",
+          "ihr": "nehmt",
+          "sie/Sie": "nehmen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "nehmen_verb",
+    "audio": "verb_nehmen.mp3"
+  },
+  "trinken_verb": {
+    "word": "trinken",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "trinke",
+          "du": "trinkst",
+          "er/sie/es": "trinkt",
+          "wir": "trinken",
+          "ihr": "trinkt",
+          "sie/Sie": "trinken"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "trinken_verb",
+    "audio": "verb_trinken.mp3"
+  },
+  "hoeren_verb": {
+    "word": "hören",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "höre",
+          "du": "hörst",
+          "er/sie/es": "hört",
+          "wir": "hören",
+          "ihr": "hört",
+          "sie/Sie": "hören"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "hoeren_verb",
+    "audio": "verb_hoeren.mp3"
+  },
+  "hoffen_verb": {
+    "word": "hoffen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "hoffe",
+          "du": "hoffst",
+          "er/sie/es": "hofft",
+          "wir": "hoffen",
+          "ihr": "hofft",
+          "sie/Sie": "hoffen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "hoffen_verb",
+    "audio": "verb_hoffen.mp3"
+  },
+  "haben_verb": {
+    "word": "haben",
+    "type": "strong",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "habe",
+          "du": "hast",
+          "er/sie/es": "hat",
+          "wir": "haben",
+          "ihr": "habt",
+          "sie/Sie": "haben"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "haben_verb",
+    "audio": "verb_haben.mp3"
+  },
+  "fuettern_verb": {
+    "word": "füttern",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "füttere",
+          "du": "fütterst",
+          "er/sie/es": "füttert",
+          "wir": "füttern",
+          "ihr": "füttert",
+          "sie/Sie": "füttern"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "fuettern_verb",
+    "audio": "verb_fuettern.mp3"
+  },
+  "streicheln_verb": {
+    "word": "streicheln",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "streichle",
+          "du": "streichelst",
+          "er/sie/es": "streichelt",
+          "wir": "streicheln",
+          "ihr": "streichelt",
+          "sie/Sie": "streicheln"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "streicheln_verb",
+    "audio": "verb_streicheln.mp3"
+  },
+  "fressen_verb": {
+    "word": "fressen",
+    "type": "strong",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "fresse",
+          "du": "frisst",
+          "er/sie/es": "frisst",
+          "wir": "fressen",
+          "ihr": "fresst",
+          "sie/Sie": "fressen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "fressen_verb",
+    "audio": "verb_fressen.mp3"
+  },
+  "leben_verb": {
+    "word": "leben",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "lebe",
+          "du": "lebst",
+          "er/sie/es": "lebt",
+          "wir": "leben",
+          "ihr": "lebt",
+          "sie/Sie": "leben"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "leben_verb",
+    "audio": "verb_leben.mp3"
+  },
+  "oeffnen_verb": {
+    "word": "öffnen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "öffne",
+          "du": "öffnest",
+          "er/sie/es": "öffnet",
+          "wir": "öffnen",
+          "ihr": "öffnet",
+          "sie/Sie": "öffnen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "oeffnen_verb",
+    "audio": "verb_oeffnen.mp3"
+  },
+  "jagen_verb": {
+    "word": "jagen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "jage",
+          "du": "jagst",
+          "er/sie/es": "jagt",
+          "wir": "jagen",
+          "ihr": "jagt",
+          "sie/Sie": "jagen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "jagen_verb",
+    "audio": "verb_jagen.mp3"
+  },
+  "tragen_verb": {
+    "word": "tragen",
+    "type": "strong",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "trage",
+          "du": "trägst",
+          "er/sie/es": "trägt",
+          "wir": "tragen",
+          "ihr": "tragt",
+          "sie/Sie": "tragen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "tragen_verb",
+    "audio": "verb_tragen.mp3"
+  },
+  "sehen_verb": {
+    "word": "sehen",
+    "type": "strong",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "sehe",
+          "du": "siehst",
+          "er/sie/es": "sieht",
+          "wir": "sehen",
+          "ihr": "seht",
+          "sie/Sie": "sehen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sehen_verb",
+    "audio": "verb_sehen.mp3"
+  },
+  "treffen_verb": {
+    "word": "treffen",
+    "type": "strong",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "treffe",
+          "du": "triffst",
+          "er/sie/es": "trifft",
+          "wir": "treffen",
+          "ihr": "trefft",
+          "sie/Sie": "treffen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "treffen_verb",
+    "audio": "verb_treffen.mp3"
+  },
+  "muessen_verb": {
+    "word": "müssen",
+    "type": "modal",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "muss",
+          "du": "musst",
+          "er/sie/es": "muss",
+          "wir": "müssen",
+          "ihr": "müsst",
+          "sie/Sie": "müssen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "modal": true,
+    "_id": "muessen_verb",
+    "audio": "verb_muessen.mp3"
+  },
+  "wollen_verb": {
+    "word": "wollen",
+    "type": "modal",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "will",
+          "du": "willst",
+          "er/sie/es": "will",
+          "wir": "wollen",
+          "ihr": "wollt",
+          "sie/Sie": "wollen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "modal": true,
+    "_id": "wollen_verb",
+    "audio": "verb_wollen.mp3"
+  },
+  "fahren_verb": {
+    "word": "fahren",
+    "type": "strong",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "fahre",
+          "du": "fährst",
+          "er/sie/es": "fährt",
+          "wir": "fahren",
+          "ihr": "fahrt",
+          "sie/Sie": "fahren"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "fahren_verb",
+    "audio": "verb_fahren.mp3"
+  },
+  "wandern_verb": {
+    "word": "wandern",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "wandere",
+          "du": "wanderst",
+          "er/sie/es": "wandert",
+          "wir": "wandern",
+          "ihr": "wandert",
+          "sie/Sie": "wandern"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "wandern_verb",
+    "audio": "verb_wandern.mp3"
+  },
+  "traeumen_verb": {
+    "word": "träumen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "träume",
+          "du": "träumst",
+          "er/sie/es": "träumt",
+          "wir": "träumen",
+          "ihr": "träumt",
+          "sie/Sie": "träumen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "traeumen_verb",
+    "audio": "verb_traeumen.mp3"
+  },
+  "sagen_verb": {
+    "word": "sagen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "sage",
+          "du": "sagst",
+          "er/sie/es": "sagt",
+          "wir": "sagen",
+          "ihr": "sagt",
+          "sie/Sie": "sagen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sagen_verb",
+    "audio": "verb_sagen.mp3"
+  },
+  "schreiben_verb": {
+    "word": "schreiben",
+    "type": "strong",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "schreibe",
+          "du": "schreibst",
+          "er/sie/es": "schreibt",
+          "wir": "schreiben",
+          "ihr": "schreibt",
+          "sie/Sie": "schreiben"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "schreiben_verb",
+    "audio": "verb_schreiben.mp3"
+  },
+  "fliegen_verb": {
+    "word": "fliegen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "fliege",
+          "du": "fliegst",
+          "er/sie/es": "fliegt",
+          "wir": "fliegen",
+          "ihr": "fliegt",
+          "sie/Sie": "fliegen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "fliegen_verb",
+    "audio": "verb_fliegen.mp3"
+  },
+  "mitnehmen_verb": {
+    "word": "mitnehmen",
+    "type": "strong",
+    "separable": true,
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "nehme mit",
+          "du": "nimmst mit",
+          "er/sie/es": "nimmt mit",
+          "wir": "nehmen mit",
+          "ihr": "nehmt mit",
+          "sie/Sie": "nehmen mit"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "mitnehmen_verb",
+    "audio": "verb_mitnehmen.mp3"
+  },
+  "packen_verb": {
+    "word": "packen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "packe",
+          "du": "packst",
+          "er/sie/es": "packt",
+          "wir": "packen",
+          "ihr": "packt",
+          "sie/Sie": "packen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "packen_verb",
+    "audio": "verb_packen.mp3"
+  },
+  "einpacken_verb": {
+    "word": "einpacken",
+    "separable": true,
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "packe ein",
+          "du": "packst ein",
+          "er/sie/es": "packt ein",
+          "wir": "packen ein",
+          "ihr": "packt ein",
+          "sie/Sie": "packen ein"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "einpacken_verb",
+    "audio": "verb_einpacken.mp3"
+  },
+  "duerfen_verb": {
+    "word": "dürfen",
+    "type": "modal",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "darf",
+          "du": "darfst",
+          "er/sie/es": "darf",
+          "wir": "dürfen",
+          "ihr": "dürft",
+          "sie/Sie": "dürfen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "modal": true,
+    "_id": "duerfen_verb",
+    "audio": "verb_duerfen.mp3"
+  },
+  "scheinen_verb": {
+    "word": "scheinen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "scheine",
+          "du": "scheinst",
+          "er/sie/es": "scheint",
+          "wir": "scheinen",
+          "ihr": "scheint",
+          "sie/Sie": "scheinen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "scheinen_verb",
+    "audio": "verb_scheinen.mp3"
+  },
+  "lieben_verb": {
+    "word": "lieben",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "liebe",
+          "du": "liebst",
+          "er/sie/es": "liebt",
+          "wir": "lieben",
+          "ihr": "liebt",
+          "sie/Sie": "lieben"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "lieben_verb",
+    "audio": "verb_lieben.mp3"
+  },
+  "stimmen_verb": {
+    "word": "stimmen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "stimme",
+          "du": "stimmst",
+          "er/sie/es": "stimmt",
+          "wir": "stimmen",
+          "ihr": "stimmt",
+          "sie/Sie": "stimmen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "stimmen_verb",
+    "audio": "verb_stimmen.mp3"
+  },
+  "dekorieren_verb": {
+    "word": "dekorieren",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "dekoriere",
+          "du": "dekorierst",
+          "er/sie/es": "dekoriert",
+          "wir": "dekorieren",
+          "ihr": "dekoriert",
+          "sie/Sie": "dekorieren"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "dekorieren_verb",
+    "audio": "verb_dekorieren.mp3"
+  },
+  "sprechen_verb": {
+    "word": "sprechen",
+    "type": "strong",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "spreche",
+          "du": "sprichst",
+          "er/sie/es": "spricht",
+          "wir": "sprechen",
+          "ihr": "sprecht",
+          "sie/Sie": "sprechen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sprechen_verb",
+    "audio": "verb_sprechen.mp3"
+  },
+  "werden_verb": {
+    "word": "werden",
+    "type": "strong",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "werde",
+          "du": "wirst",
+          "er/sie/es": "wird",
+          "wir": "werden",
+          "ihr": "werdet",
+          "sie/Sie": "werden"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "werden_verb",
+    "audio": "verb_werden.mp3"
+  },
+  "dauern_verb": {
+    "word": "dauern",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "dauere",
+          "du": "dauerst",
+          "er/sie/es": "dauert",
+          "wir": "dauern",
+          "ihr": "dauert",
+          "sie/Sie": "dauern"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "dauern_verb",
+    "audio": "verb_dauern.mp3"
+  },
+  "bleiben_verb": {
+    "word": "bleiben",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "bleibe",
+          "du": "bleibst",
+          "er/sie/es": "bleibt",
+          "wir": "bleiben",
+          "ihr": "bleibt",
+          "sie/Sie": "bleiben"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "bleiben_verb",
+    "audio": "verb_bleiben.mp3"
+  },
+  "schlafen_verb": {
+    "word": "schlafen",
+    "type": "strong",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "schlafe",
+          "du": "schläfst",
+          "er/sie/es": "schläft",
+          "wir": "schlafen",
+          "ihr": "schlaft",
+          "sie/Sie": "schlafen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "schlafen_verb",
+    "audio": "verb_schlafen.mp3"
+  },
+  "feiern_verb": {
+    "word": "feiern",
+    "type": "vanlig",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "feiere",
+          "du": "feierst",
+          "er/sie/es": "feiert",
+          "wir": "feiern",
+          "ihr": "feiert",
+          "sie/Sie": "feiern"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "feiern_verb",
+    "audio": "verb_feiern.mp3"
+  },
+  "kennen_verb": {
+    "word": "kennen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "kenne",
+          "du": "kennst",
+          "er/sie/es": "kennt",
+          "wir": "kennen",
+          "ihr": "kennt",
+          "sie/Sie": "kennen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "kennen_verb",
+    "audio": "verb_kennen.mp3"
+  },
+  "sich_treffen_verb": {
+    "word": "sich treffen",
+    "type": "strong",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "treffe mich",
+          "du": "triffst dich",
+          "er/sie/es": "trifft sich",
+          "wir": "treffen uns",
+          "ihr": "trefft euch",
+          "sie/Sie": "treffen sich"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sich_treffen_verb",
+    "audio": "verb_sich_treffen.mp3"
+  },
+  "anrufen_verb": {
+    "word": "anrufen",
+    "separable": true,
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "rufe an",
+          "du": "rufst an",
+          "er/sie/es": "ruft an",
+          "wir": "rufen an",
+          "ihr": "ruft an",
+          "sie/Sie": "rufen an"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "anrufen_verb",
+    "audio": "verb_anrufen.mp3"
+  },
+  "anfangen_verb": {
+    "word": "anfangen",
+    "type": "sterkt",
+    "separable": true,
+    "synonyms": ["beginnen_verb"],
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "fange an",
+          "du": "fängst an",
+          "er/sie/es": "fängt an",
+          "wir": "fangen an",
+          "ihr": "fangt an",
+          "sie/Sie": "fangen an"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "anfangen_verb",
+    "audio": "verb_anfangen.mp3"
+  },
+  "einladen_verb": {
+    "word": "einladen",
+    "type": "vanlig",
+    "separable": true,
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "lade ein",
+          "du": "lädst ein",
+          "er/sie/es": "lädt ein",
+          "wir": "laden ein",
+          "ihr": "ladet ein",
+          "sie/Sie": "laden ein"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "einladen_verb",
+    "audio": "verb_einladen.mp3"
+  },
+  "einkaufen_verb": {
+    "word": "einkaufen",
+    "type": "vanlig",
+    "separable": true,
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "kaufe ein",
+          "du": "kaufst ein",
+          "er/sie/es": "kauft ein",
+          "wir": "kaufen ein",
+          "ihr": "kauft ein",
+          "sie/Sie": "kaufen ein"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "einkaufen_verb",
+    "audio": "verb_einkaufen.mp3"
+  },
+  "sich_freuen_auf_verb": {
+    "word": "sich freuen auf",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "freue mich auf",
+          "du": "freust dich auf",
+          "er/sie/es": "freut sich auf",
+          "wir": "freuen uns auf",
+          "ihr": "freut euch auf",
+          "sie/Sie": "freuen sich auf"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sich_freuen_auf_verb",
+    "audio": "verb_sich_freuen_auf.mp3"
+  },
+  "sich_waschen_verb": {
+    "word": "sich waschen",
+    "type": "strong",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "wasche mich",
+          "du": "wäschst dich",
+          "er/sie/es": "wäscht sich",
+          "wir": "waschen uns",
+          "ihr": "wascht euch",
+          "sie/Sie": "waschen sich"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sich_waschen_verb",
+    "audio": "verb_sich_waschen.mp3"
+  },
+  "sich_duschen_verb": {
+    "word": "sich duschen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "dusche mich",
+          "du": "duschst dich",
+          "er/sie/es": "duscht sich",
+          "wir": "duschen uns",
+          "ihr": "duscht euch",
+          "sie/Sie": "duschen sich"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sich_duschen_verb",
+    "audio": "verb_sich_duschen.mp3"
+  },
+  "sich_anziehen_verb": {
+    "word": "sich anziehen",
+    "separable": true,
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "ziehe mich an",
+          "du": "ziehst dich an",
+          "er/sie/es": "zieht sich an",
+          "wir": "ziehen uns an",
+          "ihr": "zieht euch an",
+          "sie/Sie": "ziehen sich an"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sich_anziehen_verb",
+    "audio": "verb_sich_anziehen.mp3"
+  },
+  "sich_kaemmen_verb": {
+    "word": "sich kämmen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "kämme mich",
+          "du": "kämmst dich",
+          "er/sie/es": "kämmt sich",
+          "wir": "kämmen uns",
+          "ihr": "kämmt euch",
+          "sie/Sie": "kämmen sich"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sich_kaemmen_verb",
+    "audio": "verb_sich_kaemmen.mp3"
+  },
+  "sich_schminken_verb": {
+    "word": "sich schminken",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "schminke mich",
+          "du": "schminkst dich",
+          "er/sie/es": "schminkt sich",
+          "wir": "schminken uns",
+          "ihr": "schminkt euch",
+          "sie/Sie": "schminken sich"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sich_schminken_verb",
+    "audio": "verb_sich_schminken.mp3"
+  },
+  "sich_rasieren_verb": {
+    "word": "sich rasieren",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "rasiere mich",
+          "du": "rasierst dich",
+          "er/sie/es": "rasiert sich",
+          "wir": "rasieren uns",
+          "ihr": "rasiert euch",
+          "sie/Sie": "rasieren sich"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sich_rasieren_verb",
+    "audio": "verb_sich_rasieren.mp3"
+  },
+  "sich_freuen_verb": {
+    "word": "sich freuen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "freue mich",
+          "du": "freust dich",
+          "er/sie/es": "freut sich",
+          "wir": "freuen uns",
+          "ihr": "freut euch",
+          "sie/Sie": "freuen sich"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sich_freuen_verb",
+    "audio": "verb_sich_freuen.mp3"
+  },
+  "aufwachen_verb": {
+    "word": "aufwachen",
+    "separable": true,
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "wache auf",
+          "du": "wachst auf",
+          "er/sie/es": "wacht auf",
+          "wir": "wachen auf",
+          "ihr": "wacht auf",
+          "sie/Sie": "wachen auf"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "aufwachen_verb",
+    "audio": "verb_aufwachen.mp3"
+  },
+  "aufstehen_verb": {
+    "word": "aufstehen",
+    "separable": true,
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "stehe auf",
+          "du": "stehst auf",
+          "er/sie/es": "steht auf",
+          "wir": "stehen auf",
+          "ihr": "steht auf",
+          "sie/Sie": "stehen auf"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "aufstehen_verb",
+    "audio": "verb_aufstehen.mp3"
+  },
+  "fruehstuecken_verb": {
+    "word": "frühstücken",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "frühstücke",
+          "du": "frühstückst",
+          "er/sie/es": "frühstückt",
+          "wir": "frühstücken",
+          "ihr": "frühstückt",
+          "sie/Sie": "frühstücken"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "fruehstuecken_verb",
+    "audio": "verb_fruehstuecken.mp3"
+  },
+  "sich_fuehlen_verb": {
+    "word": "sich fühlen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "fühle mich",
+          "du": "fühlst dich",
+          "er/sie/es": "fühlt sich",
+          "wir": "fühlen uns",
+          "ihr": "fühlt euch",
+          "sie/Sie": "fühlen sich"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sich_fuehlen_verb",
+    "audio": "verb_sich_fuehlen.mp3"
+  },
+  "sich_freuen_ueber_verb": {
+    "word": "sich freuen über",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "freue mich über",
+          "du": "freust dich über",
+          "er/sie/es": "freut sich über",
+          "wir": "freuen uns über",
+          "ihr": "freut euch über",
+          "sie/Sie": "freuen sich über"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sich_freuen_ueber_verb",
+    "audio": "verb_sich_freuen_ueber.mp3"
+  },
+  "sich_aergern_verb": {
+    "word": "sich ärgern",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "ärgere mich",
+          "du": "ärgerst dich",
+          "er/sie/es": "ärgert sich",
+          "wir": "ärgern uns",
+          "ihr": "ärgert euch",
+          "sie/Sie": "ärgern sich"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sich_aergern_verb",
+    "audio": "verb_sich_aergern.mp3"
+  },
+  "sich_interessieren_verb": {
+    "word": "sich interessieren",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "interessiere mich",
+          "du": "interessierst dich",
+          "er/sie/es": "interessiert sich",
+          "wir": "interessieren uns",
+          "ihr": "interessiert euch",
+          "sie/Sie": "interessieren sich"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sich_interessieren_verb",
+    "audio": "verb_sich_interessieren.mp3"
+  },
+  "sich_langweilen_verb": {
+    "word": "sich langweilen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "langweile mich",
+          "du": "langweilst dich",
+          "er/sie/es": "langweilt sich",
+          "wir": "langweilen uns",
+          "ihr": "langweilt euch",
+          "sie/Sie": "langweilen sich"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sich_langweilen_verb",
+    "audio": "verb_sich_langweilen.mp3"
+  },
+  "sich_konzentrieren_verb": {
+    "word": "sich konzentrieren",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "konzentriere mich",
+          "du": "konzentrierst dich",
+          "er/sie/es": "konzentriert sich",
+          "wir": "konzentrieren uns",
+          "ihr": "konzentriert euch",
+          "sie/Sie": "konzentrieren sich"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sich_konzentrieren_verb",
+    "audio": "verb_sich_konzentrieren.mp3"
+  },
+  "sich_entschuldigen_verb": {
+    "word": "sich entschuldigen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "entschuldige mich",
+          "du": "entschuldigst dich",
+          "er/sie/es": "entschuldigt sich",
+          "wir": "entschuldigen uns",
+          "ihr": "entschuldigt euch",
+          "sie/Sie": "entschuldigen sich"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sich_entschuldigen_verb",
+    "audio": "verb_sich_entschuldigen.mp3"
+  },
+  "sich_verspaeten_verb": {
+    "word": "sich verspäten",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "verspäte mich",
+          "du": "verspätest dich",
+          "er/sie/es": "verspätet sich",
+          "wir": "verspäten uns",
+          "ihr": "verspätet euch",
+          "sie/Sie": "verspäten sich"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sich_verspaeten_verb",
+    "audio": "verb_sich_verspaeten.mp3"
+  },
+  "sich_entspannen_verb": {
+    "word": "sich entspannen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "entspanne mich",
+          "du": "entspannst dich",
+          "er/sie/es": "entspannt sich",
+          "wir": "entspannen uns",
+          "ihr": "entspannt euch",
+          "sie/Sie": "entspannen sich"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sich_entspannen_verb",
+    "audio": "verb_sich_entspannen.mp3"
+  },
+  "sich_aufregen_verb": {
+    "word": "sich aufregen",
+    "separable": true,
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "rege mich auf",
+          "du": "regst dich auf",
+          "er/sie/es": "regt sich auf",
+          "wir": "regen uns auf",
+          "ihr": "regt euch auf",
+          "sie/Sie": "regen sich auf"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sich_aufregen_verb",
+    "audio": "verb_sich_aufregen.mp3"
+  },
+  "sich_ausruhen_verb": {
+    "word": "sich ausruhen",
+    "separable": true,
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "ruhe mich aus",
+          "du": "ruhst dich aus",
+          "er/sie/es": "ruht sich aus",
+          "wir": "ruhen uns aus",
+          "ihr": "ruht euch aus",
+          "sie/Sie": "ruhen sich aus"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sich_ausruhen_verb",
+    "audio": "verb_sich_ausruhen.mp3"
+  },
+  "sich_erholen_verb": {
+    "word": "sich erholen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "erhole mich",
+          "du": "erholst dich",
+          "er/sie/es": "erholt sich",
+          "wir": "erholen uns",
+          "ihr": "erholt euch",
+          "sie/Sie": "erholen sich"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sich_erholen_verb",
+    "audio": "verb_sich_erholen.mp3"
+  },
+  "sich_vorbereiten_verb": {
+    "word": "sich vorbereiten",
+    "separable": true,
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "bereite mich vor",
+          "du": "bereitest dich vor",
+          "er/sie/es": "bereitet sich vor",
+          "wir": "bereiten uns vor",
+          "ihr": "bereitet euch vor",
+          "sie/Sie": "bereiten sich vor"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sich_vorbereiten_verb",
+    "audio": "verb_sich_vorbereiten.mp3"
+  },
+  "sich_setzen_verb": {
+    "word": "sich setzen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "setze mich",
+          "du": "setzt dich",
+          "er/sie/es": "setzt sich",
+          "wir": "setzen uns",
+          "ihr": "setzt euch",
+          "sie/Sie": "setzen sich"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sich_setzen_verb",
+    "audio": "verb_sich_setzen.mp3"
+  },
+  "sich_unterhalten_verb": {
+    "word": "sich unterhalten",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "unterhalte mich",
+          "du": "unterhältst dich",
+          "er/sie/es": "unterhält sich",
+          "wir": "unterhalten uns",
+          "ihr": "unterhaltet euch",
+          "sie/Sie": "unterhalten sich"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sich_unterhalten_verb",
+    "audio": "verb_sich_unterhalten.mp3"
+  },
+  "sich_bewegen_verb": {
+    "word": "sich bewegen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "bewege mich",
+          "du": "bewegst dich",
+          "er/sie/es": "bewegt sich",
+          "wir": "bewegen uns",
+          "ihr": "bewegt euch",
+          "sie/Sie": "bewegt sich"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sich_bewegen_verb",
+    "audio": "verb_sich_bewegen.mp3"
+  },
+  "sollen_verb": {
+    "word": "sollen",
+    "type": "modal",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "soll",
+          "du": "sollst",
+          "er/sie/es": "soll",
+          "wir": "sollen",
+          "ihr": "sollt",
+          "sie/Sie": "sollen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "modal": true,
+    "_id": "sollen_verb",
+    "audio": "verb_sollen.mp3"
+  },
+  "mitbringen_verb": {
+    "word": "mitbringen",
+    "type": "vanlig",
+    "separable": true,
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "bringe mit",
+          "du": "bringst mit",
+          "er/sie/es": "bringt mit",
+          "wir": "bringen mit",
+          "ihr": "bringt mit",
+          "sie/Sie": "bringen mit"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "mitbringen_verb",
+    "audio": "verb_mitbringen.mp3"
+  },
+  "grillen_verb": {
+    "word": "grillen",
+    "type": "vanlig",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "grille",
+          "du": "grillst",
+          "er/sie/es": "grillt",
+          "wir": "grillen",
+          "ihr": "grillt",
+          "sie/Sie": "grillen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "grillen_verb",
+    "audio": "verb_grillen.mp3"
+  },
+  "planen_verb": {
+    "word": "planen",
+    "type": "vanlig",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "plane",
+          "du": "planst",
+          "er/sie/es": "plant",
+          "wir": "planen",
+          "ihr": "plant",
+          "sie/Sie": "planen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "planen_verb",
+    "audio": "verb_planen.mp3"
+  },
+  "sitzen_verb": {
+    "word": "sitzen",
+    "type": "strong",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "sitze",
+          "du": "sitzt",
+          "er/sie/es": "sitzt",
+          "wir": "sitzen",
+          "ihr": "sitzt",
+          "sie/Sie": "sitzen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sitzen_verb",
+    "audio": "verb_sitzen.mp3"
+  },
+  "lachen_verb": {
+    "word": "lachen",
+    "type": "vanlig",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "lache",
+          "du": "lachst",
+          "er/sie/es": "lacht",
+          "wir": "lachen",
+          "ihr": "lacht",
+          "sie/Sie": "lachen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "lachen_verb",
+    "audio": "verb_lachen.mp3"
+  },
+  "fragen_verb": {
+    "word": "fragen",
+    "type": "vanlig",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "frage",
+          "du": "fragst",
+          "er/sie/es": "fragt",
+          "wir": "fragen",
+          "ihr": "fragt",
+          "sie/Sie": "fragen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "fragen_verb",
+    "audio": "verb_fragen.mp3"
+  },
+  "verstehen_verb": {
+    "word": "verstehen",
+    "type": "strong",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "verstehe",
+          "du": "verstehst",
+          "er/sie/es": "versteht",
+          "wir": "verstehen",
+          "ihr": "versteht",
+          "sie/Sie": "verstehen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "verstehen_verb",
+    "audio": "verb_verstehen.mp3"
+  },
+  "helfen_verb": {
+    "word": "helfen",
+    "type": "strong",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "helfe",
+          "du": "hilfst",
+          "er/sie/es": "hilft",
+          "wir": "helfen",
+          "ihr": "helft",
+          "sie/Sie": "helfen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "helfen_verb",
+    "audio": "verb_helfen.mp3"
+  },
+  "laecheln_verb": {
+    "word": "lächeln",
+    "type": "vanlig",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "lächle",
+          "du": "lächelst",
+          "er/sie/es": "lächelt",
+          "wir": "lächeln",
+          "ihr": "lächelt",
+          "sie/Sie": "lächeln"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "laecheln_verb",
+    "audio": "verb_laecheln.mp3"
+  },
+  "wecken_verb": {
+    "word": "wecken",
+    "type": "vanlig",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "wecke",
+          "du": "weckst",
+          "er/sie/es": "weckt",
+          "wir": "wecken",
+          "ihr": "weckt",
+          "sie/Sie": "wecken"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "wecken_verb",
+    "audio": "verb_wecken.mp3"
+  },
+  "liegen_verb": {
+    "word": "liegen",
+    "type": "strong",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "liege",
+          "du": "liegst",
+          "er/sie/es": "liegt",
+          "wir": "liegen",
+          "ihr": "liegt",
+          "sie/Sie": "liegen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "liegen_verb",
+    "audio": "verb_liegen.mp3"
+  },
+  "putzen_verb": {
+    "word": "putzen",
+    "type": "vanlig",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "putze",
+          "du": "putzt",
+          "er/sie/es": "putzt",
+          "wir": "putzen",
+          "ihr": "putzt",
+          "sie/Sie": "putzen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "putzen_verb",
+    "audio": "verb_putzen.mp3"
+  },
+  "arbeiten_verb": {
+    "word": "arbeiten",
+    "type": "vanlig",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "arbeite",
+          "du": "arbeitest",
+          "er/sie/es": "arbeitet",
+          "wir": "arbeiten",
+          "ihr": "arbeitet",
+          "sie/Sie": "arbeiten"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "arbeiten_verb",
+    "audio": "verb_arbeiten.mp3"
+  },
+  "wissen_verb": {
+    "word": "wissen",
+    "type": "strong",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "weiß",
+          "du": "weißt",
+          "er/sie/es": "weiß",
+          "wir": "wissen",
+          "ihr": "wisst",
+          "sie/Sie": "wissen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "wissen_verb",
+    "audio": "verb_wissen.mp3"
+  },
+  "geben_verb": {
+    "word": "geben",
+    "type": "strong",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "gebe",
+          "du": "gibst",
+          "er/sie/es": "gibt",
+          "wir": "geben",
+          "ihr": "gebt",
+          "sie/Sie": "geben"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "geben_verb",
+    "audio": "verb_geben.mp3"
+  },
+  "vergessen_verb": {
+    "word": "vergessen",
+    "type": "strong",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "vergesse",
+          "du": "vergisst",
+          "er/sie/es": "vergisst",
+          "wir": "vergessen",
+          "ihr": "vergesst",
+          "sie/Sie": "vergessen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "vergessen_verb",
+    "audio": "verb_vergessen.mp3"
+  },
+  "klingen_verb": {
+    "word": "klingen",
+    "type": "strong",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "klinge",
+          "du": "klingst",
+          "er/sie/es": "klingt",
+          "wir": "klingen",
+          "ihr": "klingt",
+          "sie/Sie": "klingen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "klingen_verb",
+    "audio": "verb_klingen.mp3"
+  },
+  "haengen_verb": {
+    "word": "hängen",
+    "type": "vanlig",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "hänge",
+          "du": "hängst",
+          "er/sie/es": "hängt",
+          "wir": "hängen",
+          "ihr": "hängt",
+          "sie/Sie": "hängen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "haengen_verb",
+    "audio": "verb_haengen.mp3"
+  },
+  "stehen_verb": {
+    "word": "stehen",
+    "type": "strong",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "stehe",
+          "du": "stehst",
+          "er/sie/es": "steht",
+          "wir": "stehen",
+          "ihr": "steht",
+          "sie/Sie": "stehen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "stehen_verb",
+    "audio": "verb_stehen.mp3"
+  },
+  "warten_verb": {
+    "word": "warten",
+    "type": "vanlig",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "warte",
+          "du": "wartest",
+          "er/sie/es": "wartet",
+          "wir": "warten",
+          "ihr": "wartet",
+          "sie/Sie": "warten"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "warten_verb",
+    "audio": "verb_warten.mp3"
+  },
+  "laufen_verb": {
+    "word": "laufen",
+    "type": "sterkt",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "laufe",
+          "du": "läufst",
+          "er/sie/es": "läuft",
+          "wir": "laufen",
+          "ihr": "lauft",
+          "sie/Sie": "laufen"
+        }
+      }
+    },
+    "_id": "laufen_verb",
+    "audio": "verb_laufen.mp3"
+  },
+  "springen_verb": {
+    "word": "springen",
+    "type": "sterkt",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "springe",
+          "du": "springst",
+          "er/sie/es": "springt",
+          "wir": "springen",
+          "ihr": "springt",
+          "sie/Sie": "springen"
+        }
+      }
+    },
+    "_id": "springen_verb",
+    "audio": "verb_springen.mp3"
+  },
+  "glauben_verb": {
+    "word": "glauben",
+    "type": "svakt",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "glaube",
+          "du": "glaubst",
+          "er/sie/es": "glaubt",
+          "wir": "glauben",
+          "ihr": "glaubt",
+          "sie/Sie": "glauben"
+        }
+      }
+    },
+    "_id": "glauben_verb",
+    "audio": "verb_glauben.mp3"
+  },
+  "gewinnen_verb": {
+    "word": "gewinnen",
+    "type": "sterkt",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "gewinne",
+          "du": "gewinnst",
+          "er/sie/es": "gewinnt",
+          "wir": "gewinnen",
+          "ihr": "gewinnt",
+          "sie/Sie": "gewinnen"
+        }
+      }
+    },
+    "_id": "gewinnen_verb",
+    "audio": "verb_gewinnen.mp3"
+  },
+  "verlieren_verb": {
+    "word": "verlieren",
+    "type": "sterkt",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "verliere",
+          "du": "verlierst",
+          "er/sie/es": "verliert",
+          "wir": "verlieren",
+          "ihr": "verliert",
+          "sie/Sie": "verlieren"
+        }
+      }
+    },
+    "_id": "verlieren_verb",
+    "audio": "verb_verlieren.mp3"
+  },
+  "danken_verb": {
+    "word": "danken",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "danke",
+          "du": "dankst",
+          "er/sie/es": "dankt",
+          "wir": "danken",
+          "ihr": "dankt",
+          "sie/Sie": "danken"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "danken_verb",
+    "audio": "verb_danken.mp3"
+  },
+  "antworten_verb": {
+    "word": "antworten",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "antworte",
+          "du": "antwortest",
+          "er/sie/es": "antwortet",
+          "wir": "antworten",
+          "ihr": "antwortet",
+          "sie/Sie": "antworten"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "antworten_verb",
+    "audio": "verb_antworten.mp3"
+  },
+  "vertrauen_verb": {
+    "word": "vertrauen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "vertraue",
+          "du": "vertraust",
+          "er/sie/es": "vertraut",
+          "wir": "vertrauen",
+          "ihr": "vertraut",
+          "sie/Sie": "vertrauen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "vertrauen_verb",
+    "audio": "verb_vertrauen.mp3"
+  },
+  "versprechen_verb": {
+    "word": "versprechen",
+    "type": "strong",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "verspreche",
+          "du": "versprichst",
+          "er/sie/es": "verspricht",
+          "wir": "versprechen",
+          "ihr": "versprecht",
+          "sie/Sie": "versprechen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "versprechen_verb",
+    "audio": "verb_versprechen.mp3"
+  },
+  "erklaeren_verb": {
+    "word": "erklären",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "erkläre",
+          "du": "erklärst",
+          "er/sie/es": "erklärt",
+          "wir": "erklären",
+          "ihr": "erklärt",
+          "sie/Sie": "erklären"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "erklaeren_verb",
+    "audio": "verb_erklaeren.mp3"
+  },
+  "zeigen_verb": {
+    "word": "zeigen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "zeige",
+          "du": "zeigst",
+          "er/sie/es": "zeigt",
+          "wir": "zeigen",
+          "ihr": "zeigt",
+          "sie/Sie": "zeigen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "zeigen_verb",
+    "audio": "verb_zeigen.mp3"
+  },
+  "bringen_verb": {
+    "word": "bringen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "bringe",
+          "du": "bringst",
+          "er/sie/es": "bringt",
+          "wir": "bringen",
+          "ihr": "bringt",
+          "sie/Sie": "bringen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "bringen_verb",
+    "audio": "verb_bringen.mp3"
+  },
+  "erzaehlen_verb": {
+    "word": "erzählen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "erzähle",
+          "du": "erzählst",
+          "er/sie/es": "erzählt",
+          "wir": "erzählen",
+          "ihr": "erzählt",
+          "sie/Sie": "erzählen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "erzaehlen_verb",
+    "audio": "verb_erzaehlen.mp3"
+  },
+  "aufraeumen_verb": {
+    "word": "aufräumen",
+    "separable": true,
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "räume auf",
+          "du": "raumst auf",
+          "er/sie/es": "räumt auf",
+          "wir": "räumen auf",
+          "ihr": "räumt auf",
+          "sie/Sie": "räumen auf"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "aufraeumen_verb",
+    "audio": "verb_aufraeumen.mp3"
+  },
+  "reisen_verb": {
+    "word": "reisen",
+    "_id": "reisen_verb",
+    "audio": "verb_reisen.mp3"
+  },
+  "fernsehen_verb": {
+    "word": "fernsehen",
+    "separable": true,
+    "_id": "fernsehen_verb",
+    "audio": "verb_fernsehen.mp3"
+  },
+  "rad_fahren_verbphrase": {
+    "word": "Rad fahren",
+    "type": "verbphrase",
+    "audio": "ord_rad_fahren.mp3",
+    "_id": "rad_fahren_verbphrase"
+  },
+  "musik_hoeren_verbphrase": {
+    "word": "Musik hören",
+    "type": "verbphrase",
+    "audio": "ord_musik_hoeren.mp3",
+    "_id": "musik_hoeren_verbphrase"
+  },
+  "moechten_modal": {
+    "word": "möchten",
+    "type": "modal",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "möchte",
+          "du": "möchtest",
+          "er/sie/es": "möchte",
+          "wir": "möchten",
+          "ihr": "möchtet",
+          "sie/Sie": "möchten"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "modal": true,
+    "_id": "moechten_modal",
+    "audio": "verb_moechten.mp3"
+  },
+  "bekommen_verb": {
+    "word": "bekommen",
+    "type": "verb",
+    "audio": "ord_bekommen.mp3",
+    "_id": "bekommen_verb"
+  },
+  "gassi_gehen_verbphrase": {
+    "word": "Gassi gehen",
+    "type": "verbphrase",
+    "audio": "ord_gassi_gehen.mp3",
+    "_id": "gassi_gehen_verbphrase"
+  },
+  "klettern_verb": {
+    "word": "klettern",
+    "type": "verb",
+    "audio": "ord_klettern.mp3",
+    "_id": "klettern_verb"
+  },
+  "wegfahren_verb": {
+    "word": "wegfahren",
+    "type": "verb",
+    "separable": true,
+    "audio": "ord_wegfahren.mp3",
+    "_id": "wegfahren_verb"
+  },
+  "liegen_bleiben_verb": {
+    "word": "liegen bleiben",
+    "type": "verb",
+    "audio": "ord_liegen_bleiben.mp3",
+    "_id": "liegen_bleiben_verb"
+  },
+  "sich_aergern_ueber_verb": {
+    "word": "sich ärgern über",
+    "type": "verb",
+    "audio": "ord_sich_aergern_ueber.mp3",
+    "_id": "sich_aergern_ueber_verb"
+  },
+  "mitkommen_verb": {
+    "word": "mitkommen",
+    "type": "verb",
+    "separable": true,
+    "audio": "ord_mitkommen.mp3",
+    "_id": "mitkommen_verb"
+  },
+  "spazieren_gehen_verb": {
+    "word": "spazieren gehen",
+    "type": "verb",
+    "audio": "ord_spazieren_gehen.mp3",
+    "_id": "spazieren_gehen_verb"
+  },
+  "fertig_werden_verbphrase": {
+    "word": "fertig werden",
+    "type": "verbphrase",
+    "audio": "ord_fertig_werden.mp3",
+    "_id": "fertig_werden_verbphrase"
+  },
+  "zaehneputzen_verb": {
+    "word": "Zähne putzen",
+    "type": "verb",
+    "_id": "zaehneputzen_verb",
+    "audio": "verb_zaehne_putzen.mp3"
+  },
+  "ausziehen_verb": {
+    "word": "ausziehen",
+    "type": "verb",
+    "separable": true,
+    "_id": "ausziehen_verb",
+    "audio": "verb_ausziehen.mp3"
+  },
+  "einschlafen_verb": {
+    "word": "einschlafen",
+    "type": "verb",
+    "separable": true,
+    "_id": "einschlafen_verb",
+    "audio": "verb_einschlafen.mp3"
+  }
+}

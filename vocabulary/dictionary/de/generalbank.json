@@ -1,0 +1,5070 @@
+{
+  "_metadata": {
+    "source": "generalbank.json",
+    "type": "dictionary",
+    "targetLanguage": "german",
+    "generatedAt": "2026-02-13T22:16:19.163Z",
+    "description": "Dictionary data for german generalbank (includes curriculum words)"
+  },
+  "hallo_interj": {
+    "word": "Hallo!",
+    "type": "interj",
+    "audio": "ord_hallo!.mp3",
+    "_id": "hallo_interj",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 164
+  },
+  "wie_heisst_du_phrase": {
+    "word": "Wie heißt du?",
+    "type": "phrase",
+    "_id": "wie_heisst_du_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 20
+  },
+  "und_conj": {
+    "word": "und",
+    "type": "conj",
+    "audio": "ord_und.mp3",
+    "_id": "und_conj",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 9
+  },
+  "jahre_alt_phrase": {
+    "word": "Jahre alt",
+    "type": "phrase",
+    "audio": "frase_jahre_alt.mp3",
+    "_id": "jahre_alt_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 308
+  },
+  "woher_kommst_du_phrase": {
+    "word": "Woher kommst du?",
+    "type": "phrase",
+    "_id": "woher_kommst_du_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 449
+  },
+  "aus_prep": {
+    "word": "aus",
+    "type": "prep",
+    "audio": "ord_aus.mp3",
+    "_id": "aus_prep",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 61
+  },
+  "auch_adv": {
+    "word": "auch",
+    "type": "adv",
+    "audio": "ord_auch.mp3",
+    "_id": "auch_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 53
+  },
+  "super_interj": {
+    "word": "Super!",
+    "type": "interj",
+    "audio": "ord_super!.mp3",
+    "_id": "super_interj",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 735
+  },
+  "tschuess_interj": {
+    "word": "Tschüss!",
+    "type": "interj",
+    "audio": "ord_tschuess!.mp3",
+    "_id": "tschuess_interj",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 1060
+  },
+  "danke_interj": {
+    "word": "Danke",
+    "type": "interj",
+    "audio": "ord_danke.mp3",
+    "_id": "danke_interj",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 98
+  },
+  "bitte_interj": {
+    "word": "Bitte",
+    "type": "interj",
+    "audio": "ord_bitte.mp3",
+    "_id": "bitte_interj",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 88
+  },
+  "wer_ist_das_phrase": {
+    "word": "Wer ist das?",
+    "type": "phrase",
+    "_id": "wer_ist_das_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 110
+  },
+  "das_ist_phrase": {
+    "word": "Das ist...",
+    "type": "phrase",
+    "_id": "das_ist_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": null
+  },
+  "von_prep": {
+    "word": "von",
+    "type": "prep",
+    "audio": "ord_von.mp3",
+    "_id": "von_prep",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 34
+  },
+  "ja_interj": {
+    "word": "ja",
+    "type": "interj",
+    "audio": "ord_ja.mp3",
+    "_id": "ja_interj",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 17
+  },
+  "nein_interj": {
+    "word": "nein",
+    "type": "interj",
+    "audio": "ord_nein.mp3",
+    "_id": "nein_interj",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 38
+  },
+  "jetzt_adv": {
+    "word": "jetzt",
+    "type": "adv",
+    "audio": "ord_jetzt.mp3",
+    "_id": "jetzt_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 58
+  },
+  "aber_conj": {
+    "word": "aber",
+    "type": "conj",
+    "audio": "ord_aber.mp3",
+    "_id": "aber_conj",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 25
+  },
+  "hier_adv": {
+    "word": "hier",
+    "type": "adv",
+    "audio": "ord_hier.mp3",
+    "_id": "hier_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 29
+  },
+  "nur_adv": {
+    "word": "nur",
+    "type": "adv",
+    "audio": "ord_nur.mp3",
+    "_id": "nur_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 43
+  },
+  "willkommen_interj": {
+    "word": "Willkommen",
+    "type": "interj",
+    "audio": "ord_willkommen.mp3",
+    "_id": "willkommen_interj",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 636
+  },
+  "in_prep": {
+    "word": "in",
+    "type": "prep",
+    "audio": "ord_in.mp3",
+    "_id": "in_prep",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 16
+  },
+  "in_der_schule_phrase": {
+    "word": "in der Schule",
+    "type": "phrase",
+    "audio": "frase_in_der_schule.mp3",
+    "_id": "in_der_schule_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 559
+  },
+  "spass_machen_phrase": {
+    "word": "Spaß machen",
+    "type": "phrase",
+    "audio": "frase_spass_machen.mp3",
+    "_id": "spass_machen_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 517
+  },
+  "ein_bisschen_phrase": {
+    "word": "ein bisschen",
+    "type": "phrase",
+    "audio": "frase_ein_bisschen.mp3",
+    "_id": "ein_bisschen_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 400
+  },
+  "schnell_adv": {
+    "word": "schnell",
+    "type": "adv",
+    "audio": "adjektiv_schnell.mp3",
+    "_id": "schnell_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 273
+  },
+  "los_geht_s_phrase": {
+    "word": "los geht's",
+    "type": "phrase",
+    "audio": "frase_los_geht's.mp3",
+    "_id": "los_geht_s_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 93
+  },
+  "da_adv": {
+    "word": "da",
+    "type": "adv",
+    "audio": "ord_da.mp3",
+    "_id": "da_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 44
+  },
+  "sehr_adv": {
+    "word": "sehr",
+    "type": "adv",
+    "audio": "ord_sehr.mp3",
+    "_id": "sehr_adv",
+    "synonyms": [
+      "viel_adv"
+    ],
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 99
+  },
+  "fuer_prep": {
+    "word": "für",
+    "type": "prep",
+    "audio": "ord_fuer.mp3",
+    "_id": "fuer_prep",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 31
+  },
+  "heute_adv": {
+    "word": "heute",
+    "type": "adv",
+    "audio": "ord_heute.mp3",
+    "_id": "heute_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 142
+  },
+  "manchmal_adv": {
+    "word": "manchmal",
+    "type": "adv",
+    "audio": "ord_manchmal.mp3",
+    "_id": "manchmal_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 531
+  },
+  "gern_adv": {
+    "word": "gern",
+    "type": "adv",
+    "audio": "adjektiv_gern.mp3",
+    "_id": "gern_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 328
+  },
+  "lieber_adv": {
+    "word": "lieber",
+    "type": "adv",
+    "audio": "ord_lieber.mp3",
+    "_id": "lieber_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 348
+  },
+  "nicht_adv": {
+    "word": "nicht",
+    "type": "adv",
+    "audio": "ord_nicht.mp3",
+    "_id": "nicht_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 6
+  },
+  "zusammen_adv": {
+    "word": "zusammen",
+    "type": "adv",
+    "audio": "ord_zusammen.mp3",
+    "_id": "zusammen_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 269
+  },
+  "vielleicht_adv": {
+    "word": "vielleicht",
+    "type": "adv",
+    "audio": "ord_vielleicht.mp3",
+    "_id": "vielleicht_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 108
+  },
+  "leider_adv": {
+    "word": "leider",
+    "type": "adv",
+    "audio": "ord_leider.mp3",
+    "_id": "leider_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 666
+  },
+  "ein_anderes_mal_phrase": {
+    "word": "ein anderes Mal",
+    "type": "phrase",
+    "audio": "frase_ein_anderes_mal.mp3",
+    "_id": "ein_anderes_mal_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 548
+  },
+  "endlich_adv": {
+    "word": "endlich",
+    "type": "adv",
+    "audio": "ord_endlich.mp3",
+    "_id": "endlich_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 480
+  },
+  "bis_dann_phrase": {
+    "word": "Bis dann!",
+    "type": "phrase",
+    "audio": "frase_bis_dann!.mp3",
+    "_id": "bis_dann_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 155
+  },
+  "was_interr": {
+    "word": "Was",
+    "type": "interr",
+    "audio": "ord_was.mp3",
+    "_id": "was_interr",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 12
+  },
+  "wer_interr": {
+    "word": "Wer",
+    "type": "interr",
+    "audio": "ord_wer.mp3",
+    "_id": "wer_interr",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 110
+  },
+  "wo_interr": {
+    "word": "Wo?",
+    "type": "interr",
+    "_id": "wo_interr",
+    "audio": "ord_wo.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 82
+  },
+  "woher_interr": {
+    "word": "Woher",
+    "type": "interr",
+    "audio": "ord_woher.mp3",
+    "_id": "woher_interr",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 449
+  },
+  "wie_interr": {
+    "word": "Wie",
+    "type": "interr",
+    "audio": "ord_wie.mp3",
+    "_id": "wie_interr",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 20
+  },
+  "wann_interr": {
+    "word": "Wann",
+    "type": "interr",
+    "audio": "ord_wann.mp3",
+    "_id": "wann_interr",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 312
+  },
+  "warum_interr": {
+    "word": "Warum",
+    "type": "interr",
+    "audio": "ord_warum.mp3",
+    "_id": "warum_interr",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 91
+  },
+  "um_prep": {
+    "word": "um",
+    "type": "prep",
+    "audio": "ord_um.mp3",
+    "_id": "um_prep",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 63
+  },
+  "mit_prep": {
+    "word": "mit",
+    "type": "prep",
+    "audio": "ord_mit.mp3",
+    "_id": "mit_prep",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 19
+  },
+  "am_wochenende_phrase": {
+    "word": "am Wochenende",
+    "type": "phrase",
+    "audio": "frase_am_wochenende.mp3",
+    "_id": "am_wochenende_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 132
+  },
+  "am_montag_phrase": {
+    "word": "am Montag",
+    "type": "phrase",
+    "audio": "frase_am_montag.mp3",
+    "_id": "am_montag_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 132
+  },
+  "am_nachmittag_phrase": {
+    "word": "am Nachmittag",
+    "type": "phrase",
+    "audio": "frase_am_nachmittag.mp3",
+    "_id": "am_nachmittag_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 132
+  },
+  "wie_spaet_ist_es_phrase": {
+    "word": "Wie spät ist es?",
+    "type": "phrase",
+    "_id": "wie_spaet_ist_es_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 20
+  },
+  "welcher_interr": {
+    "word": "welcher",
+    "type": "interr",
+    "audio": "ord_welcher.mp3",
+    "_id": "welcher_interr",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 1000
+  },
+  "auf_prep": {
+    "word": "auf",
+    "type": "prep",
+    "audio": "ord_auf.mp3",
+    "_id": "auf_prep",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 23
+  },
+  "danach_adv": {
+    "word": "danach",
+    "type": "adv",
+    "audio": "ord_danach.mp3",
+    "_id": "danach_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 686
+  },
+  "noch_adv": {
+    "word": "noch",
+    "type": "adv",
+    "audio": "ord_noch.mp3",
+    "_id": "noch_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 42
+  },
+  "immer_adv": {
+    "word": "immer",
+    "type": "adv",
+    "audio": "ord_immer.mp3",
+    "_id": "immer_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 89
+  },
+  "getrennt_adv": {
+    "word": "getrennt",
+    "type": "adv",
+    "audio": "ord_getrennt.mp3",
+    "_id": "getrennt_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 2113
+  },
+  "spaeter_adv": {
+    "word": "später",
+    "type": "adv",
+    "audio": "ord_spaeter.mp3",
+    "_id": "spaeter_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 379
+  },
+  "zu_hause_phrase": {
+    "word": "zu Hause",
+    "type": "phrase",
+    "audio": "ord_zu_hause.mp3",
+    "_id": "zu_hause_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 249
+  },
+  "passt_es_phrase": {
+    "word": "Passt es?",
+    "type": "phrase",
+    "_id": "passt_es_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 775
+  },
+  "deutschland_propn": {
+    "word": "Deutschland",
+    "type": "propn",
+    "audio": "land_deutschland.mp3",
+    "_id": "deutschland_propn",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 2625
+  },
+  "norwegisch_propn": {
+    "word": "Norwegisch",
+    "type": "propn",
+    "audio": "land_norwegisch.mp3",
+    "_id": "norwegisch_propn",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 33930
+  },
+  "genau_adv": {
+    "word": "genau",
+    "type": "adv",
+    "audio": "ord_genau.mp3",
+    "_id": "genau_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 171
+  },
+  "oder_conj": {
+    "word": "oder",
+    "type": "conj",
+    "audio": "ord_oder.mp3",
+    "_id": "oder_conj",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 72
+  },
+  "frueh_adv": {
+    "word": "früh",
+    "type": "adv",
+    "audio": "ord_frueh.mp3",
+    "_id": "frueh_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 626
+  },
+  "spaet_adv": {
+    "word": "spät",
+    "type": "adv",
+    "audio": "ord_spaet.mp3",
+    "_id": "spaet_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 437
+  },
+  "jeden_tag_phrase": {
+    "word": "jeden Tag",
+    "type": "phrase",
+    "audio": "frase_jeden_tag.mp3",
+    "_id": "jeden_tag_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 365
+  },
+  "zuerst_adv": {
+    "word": "zuerst",
+    "type": "adv",
+    "audio": "ord_zuerst.mp3",
+    "_id": "zuerst_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 628
+  },
+  "dann_adv": {
+    "word": "dann",
+    "type": "adv",
+    "audio": "ord_dann.mp3",
+    "_id": "dann_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 60
+  },
+  "mit_meiner_mutter_phrase": {
+    "word": "mit meiner Mutter",
+    "type": "phrase",
+    "audio": "frase_mit_meiner_mutter.mp3",
+    "_id": "mit_meiner_mutter_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 216
+  },
+  "viertel_nach_phrase": {
+    "word": "Viertel nach",
+    "type": "phrase",
+    "audio": "frase_viertel_nach.mp3",
+    "_id": "viertel_nach_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 3115
+  },
+  "viertel_vor_phrase": {
+    "word": "Viertel vor",
+    "type": "phrase",
+    "audio": "frase_viertel_vor.mp3",
+    "_id": "viertel_vor_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 3115
+  },
+  "halb_adv": {
+    "word": "halb",
+    "type": "adv",
+    "audio": "ord_halb.mp3",
+    "_id": "halb_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 1544
+  },
+  "zu_frueh_phrase": {
+    "word": "zu früh",
+    "type": "phrase",
+    "audio": "frase_zu_frueh.mp3",
+    "_id": "zu_frueh_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 626
+  },
+  "ich_freue_mich_phrase": {
+    "word": "Ich freue mich",
+    "type": "phrase",
+    "audio": "frase_ich_freue_mich.mp3",
+    "_id": "ich_freue_mich_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 1
+  },
+  "hast_du_lust_auf_phrase": {
+    "word": "Hast du Lust auf...?",
+    "type": "phrase",
+    "_id": "hast_du_lust_auf_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 49
+  },
+  "nicht_schon_wieder_phrase": {
+    "word": "nicht schon wieder",
+    "type": "phrase",
+    "audio": "frase_nicht_schon_wieder.mp3",
+    "_id": "nicht_schon_wieder_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 6
+  },
+  "beides_adv": {
+    "word": "beides",
+    "type": "adv",
+    "audio": "ord_beides.mp3",
+    "_id": "beides_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 2731
+  },
+  "also_adv": {
+    "word": "Also",
+    "type": "adv",
+    "audio": "ord_also.mp3",
+    "_id": "also_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 87
+  },
+  "nee_interj": {
+    "word": "nee",
+    "type": "interj",
+    "audio": "ord_nee.mp3",
+    "_id": "nee_interj",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 1725
+  },
+  "schon_adv": {
+    "word": "schon",
+    "type": "adv",
+    "audio": "ord_schon.mp3",
+    "_id": "schon_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 54
+  },
+  "raus_adv": {
+    "word": "raus",
+    "type": "adv",
+    "audio": "ord_raus.mp3",
+    "_id": "raus_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 198
+  },
+  "lange_adv": {
+    "word": "lange",
+    "type": "adv",
+    "audio": "ord_lange.mp3",
+    "_id": "lange_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 224
+  },
+  "tagsueber_adv": {
+    "word": "tagsüber",
+    "type": "adv",
+    "audio": "ord_tagsueber.mp3",
+    "_id": "tagsueber_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 6850
+  },
+  "ueberall_adv": {
+    "word": "überall",
+    "type": "adv",
+    "audio": "ord_ueberall.mp3",
+    "_id": "ueberall_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 675
+  },
+  "niemals_adv": {
+    "word": "niemals",
+    "type": "adv",
+    "audio": "ord_niemals.mp3",
+    "_id": "niemals_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 518
+  },
+  "denn_conj": {
+    "word": "denn",
+    "type": "conj",
+    "audio": "ord_denn.mp3",
+    "_id": "denn_conj",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 101
+  },
+  "als_conj": {
+    "word": "als",
+    "type": "conj",
+    "audio": "ord_als.mp3",
+    "_id": "als_conj",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 55
+  },
+  "viel_adv": {
+    "word": "viel",
+    "type": "adv",
+    "audio": "adjektiv_viel.mp3",
+    "_id": "viel_adv",
+    "synonyms": [
+      "sehr_adv"
+    ],
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 128
+  },
+  "wenig_adv": {
+    "word": "wenig",
+    "type": "adv",
+    "audio": "ord_wenig.mp3",
+    "_id": "wenig_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 497
+  },
+  "zu_adv": {
+    "word": "zu",
+    "type": "adv",
+    "audio": "ord_zu.mp3",
+    "_id": "zu_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 13
+  },
+  "mit_meinen_freunden_phrase": {
+    "word": "mit meinen Freunden",
+    "type": "phrase",
+    "audio": "frase_mit_meinen_freunden.mp3",
+    "_id": "mit_meinen_freunden_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 165
+  },
+  "im_zoo_phrase": {
+    "word": "im Zoo",
+    "type": "phrase",
+    "audio": "frase_im_zoo.mp3",
+    "_id": "im_zoo_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 5074
+  },
+  "den_ganzen_tag_phrase": {
+    "word": "den ganzen Tag",
+    "type": "phrase",
+    "audio": "frase_den_ganzen_tag.mp3",
+    "_id": "den_ganzen_tag_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 21
+  },
+  "einen_elefanten_phrase": {
+    "word": "einen Elefanten",
+    "type": "phrase",
+    "audio": "frase_einen_elefanten.mp3",
+    "_id": "einen_elefanten_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 47
+  },
+  "den_elefanten_phrase": {
+    "word": "den Elefanten",
+    "type": "phrase",
+    "audio": "frase_den_elefanten.mp3",
+    "_id": "den_elefanten_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 21
+  },
+  "den_loewen_phrase": {
+    "word": "den Löwen",
+    "type": "phrase",
+    "audio": "frase_den_loewen.mp3",
+    "_id": "den_loewen_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 21
+  },
+  "asien_propn": {
+    "word": "Asien",
+    "type": "propn",
+    "audio": "land_asien.mp3",
+    "_id": "asien_propn",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 11989
+  },
+  "afrika_propn": {
+    "word": "Afrika",
+    "type": "propn",
+    "audio": "land_afrika.mp3",
+    "_id": "afrika_propn",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 3284
+  },
+  "es_gibt_phrase": {
+    "word": "es gibt",
+    "type": "phrase",
+    "audio": "frase_es_gibt.mp3",
+    "_id": "es_gibt_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 8
+  },
+  "wieder_adv": {
+    "word": "wieder",
+    "type": "adv",
+    "audio": "ord_wieder.mp3",
+    "_id": "wieder_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 95
+  },
+  "egal_adv": {
+    "word": "egal",
+    "type": "adv",
+    "audio": "ord_egal.mp3",
+    "_id": "egal_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 352
+  },
+  "bald_adv": {
+    "word": "bald",
+    "type": "adv",
+    "audio": "ord_bald.mp3",
+    "_id": "bald_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 388
+  },
+  "super_adv": {
+    "word": "super",
+    "type": "adv",
+    "audio": "ord_super.mp3",
+    "_id": "super_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 735
+  },
+  "unbedingt_adv": {
+    "word": "unbedingt",
+    "type": "adv",
+    "audio": "ord_unbedingt.mp3",
+    "_id": "unbedingt_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 1071
+  },
+  "mal_adv": {
+    "word": "mal",
+    "type": "adv",
+    "audio": "ord_mal.mp3",
+    "_id": "mal_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 57
+  },
+  "dort_adv": {
+    "word": "dort",
+    "type": "adv",
+    "audio": "ord_dort.mp3",
+    "_id": "dort_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 231
+  },
+  "nach_prep": {
+    "word": "nach",
+    "type": "prep",
+    "audio": "ord_nach.mp3",
+    "_id": "nach_prep",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 73
+  },
+  "wohin_interr": {
+    "word": "wohin",
+    "type": "interr",
+    "audio": "ord_wohin.mp3",
+    "_id": "wohin_interr",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 624
+  },
+  "oesterreich_propn": {
+    "word": "Österreich",
+    "type": "propn",
+    "audio": "land_oesterreich.mp3",
+    "_id": "oesterreich_propn",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 10393
+  },
+  "die_schweiz_propn": {
+    "word": "die Schweiz",
+    "type": "propn",
+    "_id": "die_schweiz_propn",
+    "audio": "ord_die_schweiz.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 5802
+  },
+  "in_den_alpen_phrase": {
+    "word": "in den Alpen",
+    "type": "phrase",
+    "audio": "frase_in_den_alpen.mp3",
+    "_id": "in_den_alpen_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 21
+  },
+  "mit_der_schweiz_phrase": {
+    "word": "mit der Schweiz",
+    "type": "phrase",
+    "audio": "frase_mit_der_schweiz.mp3",
+    "_id": "mit_der_schweiz_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 5802
+  },
+  "hast_du_gehoert_expr": {
+    "word": "Hast du gehört",
+    "type": "expr",
+    "audio": "frase_hast_du_gehoert.mp3",
+    "_id": "hast_du_gehoert_expr",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 49
+  },
+  "ohne_prep": {
+    "word": "ohne",
+    "type": "prep",
+    "audio": "ord_ohne.mp3",
+    "_id": "ohne_prep",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 212
+  },
+  "mehr_adv": {
+    "word": "mehr",
+    "type": "adv",
+    "audio": "ord_mehr.mp3",
+    "_id": "mehr_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 85
+  },
+  "stimmt_interj": {
+    "word": "stimmt",
+    "type": "interj",
+    "audio": "ord_stimmt.mp3",
+    "_id": "stimmt_interj",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 280
+  },
+  "natuerlich_adv": {
+    "word": "natürlich",
+    "type": "adv",
+    "audio": "ord_natuerlich.mp3",
+    "_id": "natuerlich_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 225
+  },
+  "italien_propn": {
+    "word": "Italien",
+    "type": "propn",
+    "audio": "land_italien.mp3",
+    "_id": "italien_propn",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 3509
+  },
+  "klar_interj": {
+    "word": "klar",
+    "type": "interj",
+    "_id": "klar_interj",
+    "audio": "ord_klar.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 175
+  },
+  "mit_dem_auto_phrase": {
+    "word": "mit dem Auto",
+    "type": "phrase",
+    "audio": "frase_mit_dem_auto.mp3",
+    "_id": "mit_dem_auto_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 50
+  },
+  "allein_adv": {
+    "word": "allein",
+    "type": "adv",
+    "audio": "ord_allein.mp3",
+    "_id": "allein_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 316
+  },
+  "gespannt_sein_phrase": {
+    "word": "gespannt sein",
+    "type": "phrase",
+    "audio": "frase_gespannt_sein.mp3",
+    "_id": "gespannt_sein_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 4765
+  },
+  "ins_gebirge_expr": {
+    "word": "ins Gebirge",
+    "type": "expr",
+    "audio": "frase_ins_gebirge.mp3",
+    "_id": "ins_gebirge_expr",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 229
+  },
+  "besonders_adv": {
+    "word": "besonders",
+    "type": "adv",
+    "audio": "ord_besonders.mp3",
+    "_id": "besonders_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 832
+  },
+  "gerade_adv": {
+    "word": "gerade",
+    "type": "adv",
+    "audio": "ord_gerade.mp3",
+    "_id": "gerade_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 183
+  },
+  "bestimmt_adv": {
+    "word": "bestimmt",
+    "type": "adv",
+    "audio": "ord_bestimmt.mp3",
+    "_id": "bestimmt_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 506
+  },
+  "urlaub_auf_balkonien_phrase": {
+    "word": "Urlaub auf Balkonien",
+    "type": "phrase",
+    "audio": "frase_urlaub_auf_balkonien.mp3",
+    "_id": "urlaub_auf_balkonien_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 1735
+  },
+  "ins_prep": {
+    "word": "ins",
+    "type": "prep",
+    "audio": "ord_ins.mp3",
+    "_id": "ins_prep",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 229
+  },
+  "zum_geburtstag_viel_glueck_phrase": {
+    "word": "Zum Geburtstag viel Glück",
+    "type": "phrase",
+    "audio": "frase_zum_geburtstag_viel_glueck.mp3",
+    "_id": "zum_geburtstag_viel_glueck_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 105
+  },
+  "noch_nicht_phrase": {
+    "word": "noch nicht",
+    "type": "phrase",
+    "audio": "frase_noch_nicht.mp3",
+    "_id": "noch_nicht_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 42
+  },
+  "dort_drueben_phrase": {
+    "word": "dort drüben",
+    "type": "phrase",
+    "audio": "frase_dort_drueben.mp3",
+    "_id": "dort_drueben_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 231
+  },
+  "neben_prep": {
+    "word": "neben",
+    "type": "prep",
+    "audio": "ord_neben.mp3",
+    "_id": "neben_prep",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 1146
+  },
+  "freunde_sind_wichtig_phrase": {
+    "word": "Freunde sind wichtig",
+    "type": "phrase",
+    "audio": "frase_freunde_sind_wichtig.mp3",
+    "_id": "freunde_sind_wichtig_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 382
+  },
+  "wirklich_adv": {
+    "word": "wirklich",
+    "type": "adv",
+    "audio": "ord_wirklich.mp3",
+    "_id": "wirklich_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 125
+  },
+  "am_samstag_phrase": {
+    "word": "am Samstag",
+    "type": "phrase",
+    "audio": "frase_am_samstag.mp3",
+    "_id": "am_samstag_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 132
+  },
+  "am_sonntag_phrase": {
+    "word": "am Sonntag",
+    "type": "phrase",
+    "audio": "frase_am_sonntag.mp3",
+    "_id": "am_sonntag_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 132
+  },
+  "am_freitag_phrase": {
+    "word": "am Freitag",
+    "type": "phrase",
+    "audio": "frase_am_freitag.mp3",
+    "_id": "am_freitag_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 132
+  },
+  "morgen_adv": {
+    "word": "morgen",
+    "type": "adv",
+    "audio": "ord_morgen.mp3",
+    "_id": "morgen_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 176
+  },
+  "herzlichen_glueckwunsch_phrase": {
+    "word": "Herzlichen Glückwunsch",
+    "type": "phrase",
+    "audio": "frase_herzlichen_glueckwunsch.mp3",
+    "_id": "herzlichen_glueckwunsch_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 2141
+  },
+  "im_voraus_phrase": {
+    "word": "im Voraus",
+    "type": "phrase",
+    "audio": "frase_im_voraus.mp3",
+    "_id": "im_voraus_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 2174
+  },
+  "gleich_adv": {
+    "word": "gleich",
+    "type": "adv",
+    "audio": "ord_gleich.mp3",
+    "_id": "gleich_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 235
+  },
+  "aus_frankreich_phrase": {
+    "word": "aus Frankreich",
+    "type": "phrase",
+    "audio": "frase_aus_frankreich.mp3",
+    "_id": "aus_frankreich_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 1941
+  },
+  "frankreich_land": {
+    "word": "Frankreich",
+    "type": "land",
+    "audio": "land_frankreich.mp3",
+    "_id": "frankreich_land",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 1941
+  },
+  "oft_adv": {
+    "word": "oft",
+    "type": "adv",
+    "audio": "ord_oft.mp3",
+    "_id": "oft_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 581
+  },
+  "meistens_adv": {
+    "word": "meistens",
+    "type": "adv",
+    "audio": "ord_meistens.mp3",
+    "_id": "meistens_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 2904
+  },
+  "normalerweise_adv": {
+    "word": "normalerweise",
+    "type": "adv",
+    "audio": "ord_normalerweise.mp3",
+    "_id": "normalerweise_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 1831
+  },
+  "sofort_adv": {
+    "word": "sofort",
+    "type": "adv",
+    "audio": "ord_sofort.mp3",
+    "_id": "sofort_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 306
+  },
+  "am_abend_phrase": {
+    "word": "am Abend",
+    "type": "phrase",
+    "audio": "frase_am_abend.mp3",
+    "_id": "am_abend_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 132
+  },
+  "dauert_laenger_phrase": {
+    "word": "dauert länger",
+    "type": "phrase",
+    "audio": "frase_dauert_laenger.mp3",
+    "_id": "dauert_laenger_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 1084
+  },
+  "eher_adv": {
+    "word": "eher",
+    "type": "adv",
+    "audio": "ord_eher.mp3",
+    "_id": "eher_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 788
+  },
+  "bei_mir_phrase": {
+    "word": "bei mir",
+    "type": "phrase",
+    "audio": "frase_bei_mir.mp3",
+    "_id": "bei_mir_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 18
+  },
+  "darauf_adv": {
+    "word": "darauf",
+    "type": "adv",
+    "audio": "ord_darauf.mp3",
+    "_id": "darauf_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 385
+  },
+  "dabei_adv": {
+    "word": "dabei",
+    "type": "adv",
+    "audio": "ord_dabei.mp3",
+    "_id": "dabei_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 301
+  },
+  "nach_der_schule_phrase": {
+    "word": "nach der Schule",
+    "type": "phrase",
+    "audio": "frase_nach_der_schule.mp3",
+    "_id": "nach_der_schule_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 559
+  },
+  "wie_fuehlst_du_dich_phrase": {
+    "word": "Wie fühlst du dich?",
+    "type": "phrase",
+    "_id": "wie_fuehlst_du_dich_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 20
+  },
+  "gerne_adv": {
+    "word": "gerne",
+    "type": "adv",
+    "audio": "ord_gerne.mp3",
+    "_id": "gerne_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 416
+  },
+  "bei_prep": {
+    "word": "bei",
+    "type": "prep",
+    "audio": "ord_bei.mp3",
+    "_id": "bei_prep",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 86
+  },
+  "so_adv": {
+    "word": "so",
+    "type": "adv",
+    "audio": "ord_so.mp3",
+    "_id": "so_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 27
+  },
+  "sich_warm_anziehen_phrase": {
+    "word": "sich warm anziehen",
+    "type": "phrase",
+    "audio": "frase_sich_warm_anziehen.mp3",
+    "_id": "sich_warm_anziehen_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 2074
+  },
+  "das_klingt_gut_phrase": {
+    "word": "das klingt gut",
+    "type": "phrase",
+    "_id": "das_klingt_gut_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 613
+  },
+  "viel_spass_phrase": {
+    "word": "viel Spaß",
+    "type": "phrase",
+    "audio": "frase_viel_spass.mp3",
+    "_id": "viel_spass_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 128
+  },
+  "ins_kino_gehen_phrase": {
+    "word": "ins Kino gehen",
+    "type": "phrase",
+    "audio": "frase_ins_kino_gehen.mp3",
+    "_id": "ins_kino_gehen_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 229
+  },
+  "ins_cafe_phrase": {
+    "word": "ins Café",
+    "type": "phrase",
+    "audio": "frase_ins_café.mp3",
+    "_id": "ins_cafe_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 229
+  },
+  "zu_viel_phrase": {
+    "word": "zu viel",
+    "type": "phrase",
+    "audio": "frase_zu_viel.mp3",
+    "_id": "zu_viel_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 128
+  },
+  "rein_adv": {
+    "word": "rein",
+    "type": "adv",
+    "audio": "ord_rein.mp3",
+    "_id": "rein_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 279
+  },
+  "draussen_adv": {
+    "word": "draußen",
+    "type": "adv",
+    "audio": "ord_draussen.mp3",
+    "_id": "draussen_adv",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 410
+  },
+  "dass_conj": {
+    "word": "dass",
+    "type": "conj",
+    "audio": "ord_dass.mp3",
+    "_id": "dass_conj",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 24
+  },
+  "so_wie_phrase": {
+    "word": "so ... wie",
+    "type": "phrase",
+    "audio": "frase_so_..._wie.mp3",
+    "_id": "so_wie_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 27
+  },
+  "nie_adv": {
+    "word": "nie",
+    "type": "adv",
+    "_id": "nie_adv",
+    "audio": "ord_nie.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 124
+  },
+  "nach_hause_phrase": {
+    "word": "nach Hause",
+    "type": "phrase",
+    "_id": "nach_hause_phrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 249
+  },
+  "zuhause_adv": {
+    "word": "zuhause",
+    "type": "adv",
+    "_id": "zuhause_adv",
+    "audio": "ord_zuhause.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 1046
+  },
+  "durch_prep": {
+    "word": "durch",
+    "type": "prep",
+    "_id": "durch_prep",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 194
+  },
+  "gegen_prep": {
+    "word": "gegen",
+    "type": "prep",
+    "_id": "gegen_prep",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 290
+  },
+  "seit_prep": {
+    "word": "seit",
+    "type": "prep",
+    "_id": "seit_prep",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 234
+  },
+  "zu_prep": {
+    "word": "zu",
+    "type": "prep",
+    "_id": "zu_prep",
+    "audio": "ord_zu.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 13
+  },
+  "an_prep": {
+    "word": "an",
+    "type": "prep",
+    "_id": "an_prep",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 40
+  },
+  "hinter_prep": {
+    "word": "hinter",
+    "type": "prep",
+    "_id": "hinter_prep",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 424
+  },
+  "ueber_prep": {
+    "word": "über",
+    "type": "prep",
+    "_id": "ueber_prep",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 116
+  },
+  "unter_prep": {
+    "word": "unter",
+    "type": "prep",
+    "_id": "unter_prep",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 271
+  },
+  "vor_prep": {
+    "word": "vor",
+    "type": "prep",
+    "_id": "vor_prep",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 92
+  },
+  "zwischen_prep": {
+    "word": "zwischen",
+    "type": "prep",
+    "_id": "zwischen_prep",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 535
+  },
+  "ab_general": {
+    "word": "ab",
+    "_id": "ab_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 182
+  },
+  "achtung_general": {
+    "word": "Achtung",
+    "_id": "achtung_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 1372
+  },
+  "all_general": {
+    "word": "all-",
+    "_id": "all_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 384
+  },
+  "an_sein_general": {
+    "word": "an sein",
+    "_id": "an_sein_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 56
+  },
+  "arbeitslos_general": {
+    "word": "arbeitslos",
+    "_id": "arbeitslos_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 7523
+  },
+  "auf_sein_general": {
+    "word": "auf sein",
+    "_id": "auf_sein_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 56
+  },
+  "auslaendisch_general": {
+    "word": "ausländisch",
+    "_id": "auslaendisch_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": null
+  },
+  "aus_sein_general": {
+    "word": "aus sein",
+    "_id": "aus_sein_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 56
+  },
+  "automatisch_general": {
+    "word": "automatisch",
+    "_id": "automatisch_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 7700
+  },
+  "bar_general": {
+    "word": "bar",
+    "_id": "bar_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 1126
+  },
+  "bekannt_general": {
+    "word": "bekannt",
+    "_id": "bekannt_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 1090
+  },
+  "besetzt_general": {
+    "word": "besetzt",
+    "_id": "besetzt_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 4623
+  },
+  "besser_general": {
+    "word": "besser",
+    "_id": "besser_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 204
+  },
+  "billig_general": {
+    "word": "billig",
+    "_id": "billig_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 4577
+  },
+  "bis_general": {
+    "word": "bis",
+    "_id": "bis_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 155
+  },
+  "bitter_general": {
+    "word": "bitter",
+    "_id": "bitter_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 9243
+  },
+  "breit_general": {
+    "word": "breit",
+    "_id": "breit_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 5213
+  },
+  "eilig_general": {
+    "word": "eilig",
+    "_id": "eilig_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 2735
+  },
+  "ein_general": {
+    "word": "ein-",
+    "_id": "ein_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 15
+  },
+  "einmal_general": {
+    "word": "einmal",
+    "_id": "einmal_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 309
+  },
+  "falsch_general": {
+    "word": "falsch",
+    "_id": "falsch_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 618
+  },
+  "frei_general": {
+    "word": "frei",
+    "_id": "frei_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 602
+  },
+  "fremd_general": {
+    "word": "fremd",
+    "_id": "fremd_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 6298
+  },
+  "frueher_general": {
+    "word": "früher",
+    "_id": "frueher_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 622
+  },
+  "geradeaus_general": {
+    "word": "geradeaus",
+    "_id": "geradeaus_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 5002
+  },
+  "gueltig_general": {
+    "word": "gültig",
+    "_id": "gueltig_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 16717
+  },
+  "guenstig_general": {
+    "word": "günstig",
+    "_id": "guenstig_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 8908
+  },
+  "hallo_general": {
+    "word": "hallo",
+    "_id": "hallo_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 164
+  },
+  "mit_freundlichen_gruessen_general": {
+    "word": "Mit freundlichen Grüßen",
+    "_id": "mit_freundlichen_gruessen_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 12399
+  },
+  "hell_general": {
+    "word": "hell",
+    "_id": "hell_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 3980
+  },
+  "herzlich_general": {
+    "word": "herzlich",
+    "_id": "herzlich_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 3769
+  },
+  "international_general": {
+    "word": "international",
+    "_id": "international_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 9141
+  },
+  "kaputt_general": {
+    "word": "kaputt",
+    "_id": "kaputt_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 1298
+  },
+  "krank_general": {
+    "word": "krank",
+    "_id": "krank_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 724
+  },
+  "kulturell_general": {
+    "word": "kulturell",
+    "_id": "kulturell_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 40047
+  },
+  "laut_general": {
+    "word": "laut",
+    "_id": "laut_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 778
+  },
+  "ledig_general": {
+    "word": "ledig",
+    "_id": "ledig_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 16281
+  },
+  "leicht_general": {
+    "word": "leicht",
+    "_id": "leicht_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 750
+  },
+  "leise_general": {
+    "word": "leise",
+    "_id": "leise_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 1547
+  },
+  "links_general": {
+    "word": "links",
+    "_id": "links_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 1177
+  },
+  "maennlich_general": {
+    "word": "männlich",
+    "_id": "maennlich_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 7729
+  },
+  "moeglich_general": {
+    "word": "möglich",
+    "_id": "moeglich_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 605
+  },
+  "nichts_general": {
+    "word": "nichts",
+    "_id": "nichts_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 75
+  },
+  "geoeffnet_general": {
+    "word": "geöffnet",
+    "_id": "geoeffnet_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 2310
+  },
+  "normal_general": {
+    "word": "normal",
+    "_id": "normal_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 1121
+  },
+  "puenktlich_general": {
+    "word": "pünktlich",
+    "_id": "puenktlich_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 3117
+  },
+  "rechts_general": {
+    "word": "rechts",
+    "_id": "rechts_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 1286
+  },
+  "schlecht_general": {
+    "word": "schlecht",
+    "_id": "schlecht_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 558
+  },
+  "schwer_general": {
+    "word": "schwer",
+    "_id": "schwer_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 486
+  },
+  "weg_sein_general": {
+    "word": "weg sein",
+    "_id": "weg_sein_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 56
+  },
+  "zu_sein_general": {
+    "word": "zu sein",
+    "_id": "zu_sein_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 56
+  },
+  "selbststaendig_general": {
+    "word": "selbstständig",
+    "_id": "selbststaendig_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 14857
+  },
+  "tot_general": {
+    "word": "tot",
+    "_id": "tot_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 275
+  },
+  "tschuess_general": {
+    "word": "tschüss",
+    "_id": "tschuess_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 1060
+  },
+  "tun_general": {
+    "word": "tun",
+    "_id": "tun_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 103
+  },
+  "verheiratet_general": {
+    "word": "verheiratet",
+    "_id": "verheiratet_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 970
+  },
+  "was_fuer_ein_general": {
+    "word": "was für ein",
+    "_id": "was_fuer_ein_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 12
+  },
+  "weh_tun_general": {
+    "word": "weh tun",
+    "_id": "weh_tun_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 809
+  },
+  "weiblich_general": {
+    "word": "weiblich",
+    "_id": "weiblich_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 10660
+  },
+  "weiter_general": {
+    "word": "weiter",
+    "_id": "weiter_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 232
+  },
+  "welchdie_welt_general": {
+    "word": "welchdie Welt",
+    "_id": "welchdie_welt_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 270
+  },
+  "wie_viel_general": {
+    "word": "wie viel",
+    "_id": "wie_viel_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 20
+  },
+  "wo_general": {
+    "word": "wo",
+    "_id": "wo_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 82
+  },
+  "wunderbar_general": {
+    "word": "wunderbar",
+    "_id": "wunderbar_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 1047
+  },
+  "zurzeit_general": {
+    "word": "zurzeit",
+    "_id": "zurzeit_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 4273
+  },
+  "zurueck_general": {
+    "word": "zurück",
+    "_id": "zurueck_general",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 162
+  },
+  "ander_general": {
+    "word": "ander-",
+    "_id": "ander_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 35159
+  },
+  "anders_general": {
+    "word": "anders",
+    "_id": "anders_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 487
+  },
+  "hast_general": {
+    "word": "hast",
+    "_id": "hast_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 49
+  },
+  "aktuell_general": {
+    "word": "aktuell",
+    "_id": "aktuell_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 14940
+  },
+  "den_anrufbeantworter_general": {
+    "word": "den Anrufbeantworter",
+    "_id": "den_anrufbeantworter_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 21
+  },
+  "arbeitslos_sind_general": {
+    "word": "arbeitslos sind",
+    "_id": "arbeitslos_sind_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 7523
+  },
+  "ausser_general": {
+    "word": "außer",
+    "_id": "ausser_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 625
+  },
+  "keinen_fall_general": {
+    "word": "keinen Fall",
+    "_id": "keinen_fall_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 196
+  },
+  "aufregend_general": {
+    "word": "aufregend",
+    "_id": "aufregend_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 2804
+  },
+  "ausserdem_general": {
+    "word": "außerdem",
+    "_id": "ausserdem_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 819
+  },
+  "ausserhalb_general": {
+    "word": "außerhalb",
+    "_id": "ausserhalb_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 2020
+  },
+  "beliebt_general": {
+    "word": "beliebt",
+    "_id": "beliebt_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 4280
+  },
+  "bequem_general": {
+    "word": "bequem",
+    "_id": "bequem_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 3644
+  },
+  "beruehmt_general": {
+    "word": "berühmt",
+    "_id": "beruehmt_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 3405
+  },
+  "nach_links_general": {
+    "word": "nach links",
+    "_id": "nach_links_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 1177
+  },
+  "deshalb_general": {
+    "word": "deshalb",
+    "_id": "deshalb_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 504
+  },
+  "deutlich_general": {
+    "word": "deutlich",
+    "_id": "deutlich_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 2466
+  },
+  "dick_general": {
+    "word": "dick",
+    "_id": "dick_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 2127
+  },
+  "direkt_general": {
+    "word": "direkt",
+    "_id": "direkt_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 678
+  },
+  "doch_general": {
+    "word": "doch",
+    "_id": "doch_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 68
+  },
+  "hungrig_general": {
+    "word": "hungrig",
+    "_id": "hungrig_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 2653
+  },
+  "damals_general": {
+    "word": "damals",
+    "_id": "damals_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 748
+  },
+  "dringend_general": {
+    "word": "dringend",
+    "_id": "dringend_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 1778
+  },
+  "dumm_general": {
+    "word": "dumm",
+    "_id": "dumm_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 955
+  },
+  "dunkel_general": {
+    "word": "dunkel",
+    "_id": "dunkel_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 2100
+  },
+  "duenn_general": {
+    "word": "dünn",
+    "_id": "duenn_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 4988
+  },
+  "hinten_links_general": {
+    "word": "hinten links",
+    "_id": "hinten_links_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 900
+  },
+  "echt_general": {
+    "word": "echt",
+    "_id": "echt_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 362
+  },
+  "einzel_general": {
+    "word": "einzel-",
+    "_id": "einzel_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": null
+  },
+  "eng_general": {
+    "word": "eng",
+    "_id": "eng_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 3218
+  },
+  "einig_general": {
+    "word": "einig-",
+    "_id": "einig_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 3510
+  },
+  "fantastisch_general": {
+    "word": "fantastisch",
+    "_id": "fantastisch_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 1522
+  },
+  "fast_general": {
+    "word": "fast",
+    "_id": "fast_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 412
+  },
+  "ihnen_erlaubt_general": {
+    "word": "ihnen erlaubt",
+    "_id": "ihnen_erlaubt_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 80
+  },
+  "erst_general": {
+    "word": "erst",
+    "_id": "erst_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 278
+  },
+  "etwas_general": {
+    "word": "etwas",
+    "_id": "etwas_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 83
+  },
+  "fett_general": {
+    "word": "fett",
+    "_id": "fett_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 2951
+  },
+  "jetzt_ab_general": {
+    "word": "jetzt ab",
+    "_id": "jetzt_ab_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 58
+  },
+  "fleissig_general": {
+    "word": "fleißig",
+    "_id": "fleissig_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 7184
+  },
+  "fuehlt_hat_gefuehlt_general": {
+    "word": "fühlt, hat gefühlt",
+    "_id": "fuehlt_hat_gefuehlt_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 28
+  },
+  "furchtbar_general": {
+    "word": "furchtbar",
+    "_id": "furchtbar_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 1416
+  },
+  "ganz_general": {
+    "word": "ganz",
+    "_id": "ganz_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 146
+  },
+  "freiwillig_general": {
+    "word": "freiwillig",
+    "_id": "freiwillig_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 2977
+  },
+  "geehrt_general": {
+    "word": "geehrt-",
+    "_id": "geehrt_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 6683
+  },
+  "froh_general": {
+    "word": "froh",
+    "_id": "froh_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 730
+  },
+  "gegenueber_general": {
+    "word": "gegenüber",
+    "_id": "gegenueber_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 1257
+  },
+  "zu_fuss_general": {
+    "word": "zu Fuß",
+    "_id": "zu_fuss_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 1239
+  },
+  "genug_general": {
+    "word": "genug",
+    "_id": "genug_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 287
+  },
+  "hatte_hat_gehabt_general": {
+    "word": "hatte, hat gehabt",
+    "_id": "hatte_hat_gehabt_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 28
+  },
+  "gehaengt_general": {
+    "word": "gehängt",
+    "_id": "gehaengt_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 7892
+  },
+  "haesslich_general": {
+    "word": "hässlich",
+    "_id": "haesslich_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 3201
+  },
+  "hoffentlich_general": {
+    "word": "hoffentlich",
+    "_id": "hoffentlich_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 1040
+  },
+  "so_schoen_general": {
+    "word": "so schön",
+    "_id": "so_schoen_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 27
+  },
+  "fuer_sie_general": {
+    "word": "für Sie",
+    "_id": "fuer_sie_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 2
+  },
+  "dem_urlaub_general": {
+    "word": "dem Urlaub",
+    "_id": "dem_urlaub_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 50
+  },
+  "deinem_lieblingssaenger_general": {
+    "word": "deinem Lieblingssänger",
+    "_id": "deinem_lieblingssaenger_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 354
+  },
+  "jeder_e_s_general": {
+    "word": "jeder, e, s",
+    "_id": "jeder_e_s_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 74
+  },
+  "jemand_general": {
+    "word": "jemand",
+    "_id": "jemand_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 192
+  },
+  "kein_e_general": {
+    "word": "kein, e",
+    "_id": "kein_e_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 3031
+  },
+  "kostenlos_general": {
+    "word": "kostenlos",
+    "_id": "kostenlos_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 9766
+  },
+  "klappt_general": {
+    "word": "klappt",
+    "_id": "klappt_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 2045
+  },
+  "klug_general": {
+    "word": "klug",
+    "_id": "klug_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 2017
+  },
+  "komisch_general": {
+    "word": "komisch",
+    "_id": "komisch_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 948
+  },
+  "komisch_aus_general": {
+    "word": "komisch aus",
+    "_id": "komisch_aus_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 948
+  },
+  "gekuendigt_general": {
+    "word": "gekündigt",
+    "_id": "gekuendigt_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 5258
+  },
+  "keine_lust_general": {
+    "word": "keine Lust",
+    "_id": "keine_lust_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 71
+  },
+  "leer_general": {
+    "word": "leer",
+    "_id": "leer_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 1664
+  },
+  "manch_general": {
+    "word": "manch-",
+    "_id": "manch_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 16922
+  },
+  "letzt_general": {
+    "word": "letzt-",
+    "_id": "letzt_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 16489
+  },
+  "lieb_general": {
+    "word": "lieb-",
+    "_id": "lieb_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 1219
+  },
+  "meist_general": {
+    "word": "meist-",
+    "_id": "meist_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 5128
+  },
+  "musste_general": {
+    "word": "musste",
+    "_id": "musste_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 489
+  },
+  "mindestens_general": {
+    "word": "mindestens",
+    "_id": "mindestens_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 1862
+  },
+  "nebenan_general": {
+    "word": "nebenan",
+    "_id": "nebenan_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 3260
+  },
+  "keine_zeit_general": {
+    "word": "keine Zeit",
+    "_id": "keine_zeit_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 71
+  },
+  "ihn_alex_general": {
+    "word": "ihn Alex",
+    "_id": "ihn_alex_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 59
+  },
+  "online_general": {
+    "word": "online",
+    "_id": "online_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 4159
+  },
+  "niemand_general": {
+    "word": "niemand",
+    "_id": "niemand_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 305
+  },
+  "nirgends_general": {
+    "word": "nirgends",
+    "_id": "nirgends_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 3989
+  },
+  "in_ordnung_general": {
+    "word": "in Ordnung",
+    "_id": "in_ordnung_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 240
+  },
+  "ein_paar_general": {
+    "word": "ein paar",
+    "_id": "ein_paar_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 200
+  },
+  "notwendig_general": {
+    "word": "notwendig",
+    "_id": "notwendig_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 3623
+  },
+  "nicht_notwendig_general": {
+    "word": "nicht notwendig",
+    "_id": "nicht_notwendig_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 6
+  },
+  "nuetzlich_general": {
+    "word": "nützlich",
+    "_id": "nuetzlich_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 3513
+  },
+  "unserer_stadt_general": {
+    "word": "unserer Stadt",
+    "_id": "unserer_stadt_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 526
+  },
+  "ploetzlich_general": {
+    "word": "plötzlich",
+    "_id": "ploetzlich_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 923
+  },
+  "praktisch_general": {
+    "word": "praktisch",
+    "_id": "praktisch_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 2551
+  },
+  "preiswert_general": {
+    "word": "preiswert",
+    "_id": "preiswert_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 37437
+  },
+  "privat_general": {
+    "word": "privat",
+    "_id": "privat_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 4442
+  },
+  "private_handynummer_general": {
+    "word": "private Handynummer",
+    "_id": "private_handynummer_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 4679
+  },
+  "pro_general": {
+    "word": "pro",
+    "_id": "pro_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 1455
+  },
+  "reich_general": {
+    "word": "reich",
+    "_id": "reich_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 1195
+  },
+  "dritten_reihe_general": {
+    "word": "dritten Reihe",
+    "_id": "dritten_reihe_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 2505
+  },
+  "rund_general": {
+    "word": "rund",
+    "_id": "rund_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 3235
+  },
+  "sauer_general": {
+    "word": "sauer",
+    "_id": "sauer_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 1167
+  },
+  "schaedlich_general": {
+    "word": "schädlich",
+    "_id": "schaedlich_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 21794
+  },
+  "alleine_general": {
+    "word": "alleine",
+    "_id": "alleine_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 696
+  },
+  "scharf_general": {
+    "word": "scharf",
+    "_id": "scharf_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 2221
+  },
+  "romantisch_general": {
+    "word": "romantisch",
+    "_id": "romantisch_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 3880
+  },
+  "schmutzig_general": {
+    "word": "schmutzig",
+    "_id": "schmutzig_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 3998
+  },
+  "schwach_general": {
+    "word": "schwach",
+    "_id": "schwach_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 2036
+  },
+  "schwanger_general": {
+    "word": "schwanger",
+    "_id": "schwanger_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 1470
+  },
+  "schrecklich_general": {
+    "word": "schrecklich",
+    "_id": "schrecklich_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 1151
+  },
+  "linken_seite_general": {
+    "word": "linken Seite",
+    "_id": "linken_seite_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 3213
+  },
+  "selbst_general": {
+    "word": "selbst",
+    "_id": "selbst_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 209
+  },
+  "setzt_hat_gesetzt_general": {
+    "word": "setzt, hat gesetzt",
+    "_id": "setzt_hat_gesetzt_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 28
+  },
+  "schriftlich_general": {
+    "word": "schriftlich",
+    "_id": "schriftlich_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 9586
+  },
+  "sogar_general": {
+    "word": "sogar",
+    "_id": "sogar_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 441
+  },
+  "ein_stipendium_general": {
+    "word": "ein Stipendium",
+    "_id": "ein_stipendium_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 7857
+  },
+  "sollte_general": {
+    "word": "sollte",
+    "_id": "sollte_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 189
+  },
+  "sonst_general": {
+    "word": "sonst",
+    "_id": "sonst_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 294
+  },
+  "tief_general": {
+    "word": "tief",
+    "_id": "tief_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 1116
+  },
+  "total_general": {
+    "word": "total",
+    "_id": "total_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 741
+  },
+  "dann_links_general": {
+    "word": "dann links",
+    "_id": "dann_links_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 60
+  },
+  "tschues_general": {
+    "word": "tschüs",
+    "_id": "tschues_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 2405
+  },
+  "typisch_general": {
+    "word": "typisch",
+    "_id": "typisch_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 3683
+  },
+  "verboten_sein_general": {
+    "word": "verboten sein",
+    "_id": "verboten_sein_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 2091
+  },
+  "komme_gleich_general": {
+    "word": "komme gleich",
+    "_id": "komme_gleich_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 358
+  },
+  "viel_e_general": {
+    "word": "viel, e",
+    "_id": "viel_e_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 3031
+  },
+  "voll_general": {
+    "word": "voll",
+    "_id": "voll_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 673
+  },
+  "vorbei_general": {
+    "word": "vorbei",
+    "_id": "vorbei_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 414
+  },
+  "vorher_general": {
+    "word": "vorher",
+    "_id": "vorher_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 888
+  },
+  "zur_bank_general": {
+    "word": "zur Bank",
+    "_id": "zur_bank_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 173
+  },
+  "vorsichtig_general": {
+    "word": "vorsichtig",
+    "_id": "vorsichtig_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 825
+  },
+  "vorwaerts_general": {
+    "word": "vorwärts",
+    "_id": "vorwaerts_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 1737
+  },
+  "wahr_general": {
+    "word": "wahr",
+    "_id": "wahr_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 338
+  },
+  "wahrscheinlich_general": {
+    "word": "wahrscheinlich",
+    "_id": "wahrscheinlich_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 629
+  },
+  "wenn_general": {
+    "word": "wenn",
+    "_id": "wenn_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 35
+  },
+  "witzig_general": {
+    "word": "witzig",
+    "_id": "witzig_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 1261
+  },
+  "wenigstens_general": {
+    "word": "wenigstens",
+    "_id": "wenigstens_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 824
+  },
+  "weil_general": {
+    "word": "weil",
+    "_id": "weil_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 138
+  },
+  "meiner_firma_general": {
+    "word": "meiner Firma",
+    "_id": "meiner_firma_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 216
+  },
+  "zuletzt_general": {
+    "word": "zuletzt",
+    "_id": "zuletzt_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 2243
+  },
+  "zum_beispiel_general": {
+    "word": "zum Beispiel",
+    "_id": "zum_beispiel_general",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 105
+  },
+  "abhaengig_general": {
+    "word": "abhängig",
+    "_id": "abhaengig_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 6240
+  },
+  "absolut_general": {
+    "word": "absolut",
+    "_id": "absolut_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 986
+  },
+  "abwaerts_general": {
+    "word": "abwärts",
+    "_id": "abwaerts_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 15284
+  },
+  "abwesend_general": {
+    "word": "abwesend",
+    "_id": "abwesend_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 12545
+  },
+  "aehnlich_general": {
+    "word": "ähnlich",
+    "_id": "aehnlich_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1894
+  },
+  "als_ob_general": {
+    "word": "als ob",
+    "_id": "als_ob_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 55
+  },
+  "alternativ_general": {
+    "word": "alternativ",
+    "_id": "alternativ_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": null
+  },
+  "aller_general": {
+    "word": "aller-",
+    "_id": "aller_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1079
+  },
+  "allerdings_general": {
+    "word": "allerdings",
+    "_id": "allerdings_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1354
+  },
+  "allgemein_general": {
+    "word": "allgemein",
+    "_id": "allgemein_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 10181
+  },
+  "aengstlich_general": {
+    "word": "ängstlich",
+    "_id": "aengstlich_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 6960
+  },
+  "anfangs_general": {
+    "word": "anfangs",
+    "_id": "anfangs_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 5634
+  },
+  "angenehm_general": {
+    "word": "angenehm",
+    "_id": "angenehm_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 3375
+  },
+  "anwesend_general": {
+    "word": "anwesend",
+    "_id": "anwesend_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 5590
+  },
+  "aergerlich_general": {
+    "word": "ärgerlich",
+    "_id": "aergerlich_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 10217
+  },
+  "aufmerksam_general": {
+    "word": "aufmerksam",
+    "_id": "aufmerksam_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 4316
+  },
+  "aufwaerts_general": {
+    "word": "aufwärts",
+    "_id": "aufwaerts_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 17758
+  },
+  "auseinander_general": {
+    "word": "auseinander",
+    "_id": "auseinander_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2729
+  },
+  "ausreichend_general": {
+    "word": "ausreichend",
+    "_id": "ausreichend_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 7656
+  },
+  "aeusserlich_general": {
+    "word": "äußerlich",
+    "_id": "aeusserlich_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 19771
+  },
+  "ausschliesslich_general": {
+    "word": "ausschließlich",
+    "_id": "ausschliesslich_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 9724
+  },
+  "befriedigend_general": {
+    "word": "befriedigend",
+    "_id": "befriedigend_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 21266
+  },
+  "beid_general": {
+    "word": "beid-",
+    "_id": "beid_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": null
+  },
+  "beinahe_general": {
+    "word": "beinahe",
+    "_id": "beinahe_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2372
+  },
+  "beruflich_general": {
+    "word": "beruflich",
+    "_id": "beruflich_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 6083
+  },
+  "berufstaetig_general": {
+    "word": "berufstätig",
+    "_id": "berufstaetig_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": null
+  },
+  "bereit_general": {
+    "word": "bereit",
+    "_id": "bereit_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 396
+  },
+  "bereits_general": {
+    "word": "bereits",
+    "_id": "bereits_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 655
+  },
+  "besonder_general": {
+    "word": "besonder-",
+    "_id": "besonder_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": null
+  },
+  "bevor_general": {
+    "word": "bevor",
+    "_id": "bevor_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 307
+  },
+  "blass_general": {
+    "word": "blass",
+    "_id": "blass_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 7196
+  },
+  "bisher_general": {
+    "word": "bisher",
+    "_id": "bisher_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1069
+  },
+  "blind_general": {
+    "word": "blind",
+    "_id": "blind_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2235
+  },
+  "bloss_general": {
+    "word": "bloß",
+    "_id": "bloss_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 574
+  },
+  "dafuer_general": {
+    "word": "dafür",
+    "_id": "dafuer_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 245
+  },
+  "daher_general": {
+    "word": "daher",
+    "_id": "daher_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1529
+  },
+  "dahin_general": {
+    "word": "dahin",
+    "_id": "dahin_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1093
+  },
+  "damit_general": {
+    "word": "damit",
+    "_id": "damit_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 145
+  },
+  "dauernd_general": {
+    "word": "dauernd",
+    "_id": "dauernd_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2605
+  },
+  "dankbar_general": {
+    "word": "dankbar",
+    "_id": "dankbar_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1714
+  },
+  "dasselbe_general": {
+    "word": "dasselbe",
+    "_id": "dasselbe_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1097
+  },
+  "dicht_general": {
+    "word": "dicht",
+    "_id": "dicht_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2796
+  },
+  "zum_doktor_general": {
+    "word": "zum Doktor",
+    "_id": "zum_doktor_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 105
+  },
+  "doppelt_general": {
+    "word": "doppelt",
+    "_id": "doppelt_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 3765
+  },
+  "digital_general": {
+    "word": "digital",
+    "_id": "digital_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 17167
+  },
+  "dorthin_general": {
+    "word": "dorthin",
+    "_id": "dorthin_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1734
+  },
+  "dies_general": {
+    "word": "dies-",
+    "_id": "dies_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 587
+  },
+  "durcheinander_general": {
+    "word": "durcheinander",
+    "_id": "durcheinander_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1957
+  },
+  "durchschnittlich_general": {
+    "word": "durchschnittlich",
+    "_id": "durchschnittlich_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 18508
+  },
+  "durstig_general": {
+    "word": "durstig",
+    "_id": "durstig_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 8493
+  },
+  "ebenfalls_general": {
+    "word": "ebenfalls",
+    "_id": "ebenfalls_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2295
+  },
+  "ebenso_general": {
+    "word": "ebenso",
+    "_id": "ebenso_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2116
+  },
+  "eckig_general": {
+    "word": "eckig",
+    "_id": "eckig_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": null
+  },
+  "eigen_general": {
+    "word": "eigen-",
+    "_id": "eigen_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 11383
+  },
+  "eindeutig_general": {
+    "word": "eindeutig",
+    "_id": "eindeutig_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2711
+  },
+  "einerseits_general": {
+    "word": "einerseits",
+    "_id": "einerseits_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 19764
+  },
+  "einheitlich_general": {
+    "word": "einheitlich",
+    "_id": "einheitlich_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": null
+  },
+  "einsam_general": {
+    "word": "einsam",
+    "_id": "einsam_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2291
+  },
+  "einschliesslich_general": {
+    "word": "einschließlich",
+    "_id": "einschliesslich_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 6358
+  },
+  "einzig_general": {
+    "word": "einzig-",
+    "_id": "einzig_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 3635
+  },
+  "elegant_general": {
+    "word": "elegant",
+    "_id": "elegant_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 7186
+  },
+  "elektrisch_general": {
+    "word": "elektrisch",
+    "_id": "elektrisch_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 23175
+  },
+  "elektronisch_general": {
+    "word": "elektronisch",
+    "_id": "elektronisch_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 26474
+  },
+  "entlang_general": {
+    "word": "entlang",
+    "_id": "entlang_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1557
+  },
+  "entspannend_general": {
+    "word": "entspannend",
+    "_id": "entspannend_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 26245
+  },
+  "erfolgreich_general": {
+    "word": "erfolgreich",
+    "_id": "erfolgreich_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2833
+  },
+  "erforderlich_general": {
+    "word": "erforderlich",
+    "_id": "erforderlich_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 10224
+  },
+  "ernsthaft_general": {
+    "word": "ernsthaft",
+    "_id": "ernsthaft_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1693
+  },
+  "eventuell_general": {
+    "word": "eventuell",
+    "_id": "eventuell_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 4761
+  },
+  "ewig_general": {
+    "word": "ewig",
+    "_id": "ewig_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1227
+  },
+  "extra_general": {
+    "word": "extra",
+    "_id": "extra_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2401
+  },
+  "extrem_general": {
+    "word": "extrem",
+    "_id": "extrem_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 3248
+  },
+  "etwa_general": {
+    "word": "etwa",
+    "_id": "etwa_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 483
+  },
+  "farbig_general": {
+    "word": "farbig",
+    "_id": "farbig_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 38094
+  },
+  "fair_general": {
+    "word": "fair",
+    "_id": "fair_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1882
+  },
+  "faellig_general": {
+    "word": "fällig",
+    "_id": "faellig_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 7603
+  },
+  "falls_general": {
+    "word": "falls",
+    "_id": "falls_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 572
+  },
+  "feucht_general": {
+    "word": "feucht",
+    "_id": "feucht_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 6851
+  },
+  "finanziell_general": {
+    "word": "finanziell",
+    "_id": "finanziell_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 11061
+  },
+  "flach_general": {
+    "word": "flach",
+    "_id": "flach_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 7420
+  },
+  "flexibel_general": {
+    "word": "flexibel",
+    "_id": "flexibel_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 17738
+  },
+  "gar_general": {
+    "word": "gar",
+    "_id": "gar_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 228
+  },
+  "als_garantie_general": {
+    "word": "als Garantie",
+    "_id": "als_garantie_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 55
+  },
+  "gemeinsam_general": {
+    "word": "gemeinsam",
+    "_id": "gemeinsam_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1402
+  },
+  "gering_general": {
+    "word": "gering",
+    "_id": "gering_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 10196
+  },
+  "genauso_general": {
+    "word": "genauso",
+    "_id": "genauso_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 764
+  },
+  "giftig_general": {
+    "word": "giftig",
+    "_id": "giftig_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 11222
+  },
+  "glatt_general": {
+    "word": "glatt",
+    "_id": "glatt_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 4641
+  },
+  "gleichfalls_general": {
+    "word": "gleichfalls",
+    "_id": "gleichfalls_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 7305
+  },
+  "gleichberechtigt_general": {
+    "word": "gleichberechtigt",
+    "_id": "gleichberechtigt_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 33709
+  },
+  "gleichzeitig_general": {
+    "word": "gleichzeitig",
+    "_id": "gleichzeitig_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2651
+  },
+  "gewoehnlich_general": {
+    "word": "gewöhnlich",
+    "_id": "gewoehnlich_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 3523
+  },
+  "gratis_general": {
+    "word": "gratis",
+    "_id": "gratis_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 6057
+  },
+  "gruendlich_general": {
+    "word": "gründlich",
+    "_id": "gruendlich_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 4663
+  },
+  "halbtags_general": {
+    "word": "halbtags",
+    "_id": "halbtags_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 39427
+  },
+  "haltbar_general": {
+    "word": "haltbar",
+    "_id": "haltbar_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": null
+  },
+  "haeufig_general": {
+    "word": "häufig",
+    "_id": "haeufig_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 5353
+  },
+  "heim_general": {
+    "word": "heim",
+    "_id": "heim_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1266
+  },
+  "heimlich_general": {
+    "word": "heimlich",
+    "_id": "heimlich_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 3836
+  },
+  "heutig_general": {
+    "word": "heutig-",
+    "_id": "heutig_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": null
+  },
+  "hierher_general": {
+    "word": "hierher",
+    "_id": "hierher_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 640
+  },
+  "historisch_general": {
+    "word": "historisch",
+    "_id": "historisch_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 20944
+  },
+  "hoechstens_general": {
+    "word": "höchstens",
+    "_id": "hoechstens_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 3630
+  },
+  "hinterher_general": {
+    "word": "hinterher",
+    "_id": "hinterher_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2544
+  },
+  "hoeflich_general": {
+    "word": "höflich",
+    "_id": "hoeflich_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 4402
+  },
+  "huebsch_general": {
+    "word": "hübsch",
+    "_id": "huebsch_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1113
+  },
+  "indem_general": {
+    "word": "indem",
+    "_id": "indem_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1292
+  },
+  "individuell_general": {
+    "word": "individuell",
+    "_id": "individuell_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 36106
+  },
+  "inklusive_general": {
+    "word": "inklusive",
+    "_id": "inklusive_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 6700
+  },
+  "ideal_general": {
+    "word": "ideal",
+    "_id": "ideal_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 7297
+  },
+  "illegal_general": {
+    "word": "illegal",
+    "_id": "illegal_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 4045
+  },
+  "inner_general": {
+    "word": "inner-",
+    "_id": "inner_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": null
+  },
+  "irgendirgendein_general": {
+    "word": "irgendirgendein",
+    "_id": "irgendirgendein_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": null
+  },
+  "irgendwann_general": {
+    "word": "irgendwann",
+    "_id": "irgendwann_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1052
+  },
+  "intensiv_general": {
+    "word": "intensiv",
+    "_id": "intensiv_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 9521
+  },
+  "interessiert_general": {
+    "word": "interessiert",
+    "_id": "interessiert_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 757
+  },
+  "je_general": {
+    "word": "je",
+    "_id": "je_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 448
+  },
+  "interkulturell_general": {
+    "word": "interkulturell",
+    "_id": "interkulturell_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": null
+  },
+  "jedoch_general": {
+    "word": "jedoch",
+    "_id": "jedoch_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2440
+  },
+  "jemals_general": {
+    "word": "jemals",
+    "_id": "jemals_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 929
+  },
+  "jeweils_general": {
+    "word": "jeweils",
+    "_id": "jeweils_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 10009
+  },
+  "kaum_general": {
+    "word": "kaum",
+    "_id": "kaum_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 611
+  },
+  "kein_general": {
+    "word": "kein-",
+    "_id": "kein_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 127
+  },
+  "knapp_general": {
+    "word": "knapp",
+    "_id": "knapp_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2294
+  },
+  "komplett_general": {
+    "word": "komplett",
+    "_id": "komplett_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2169
+  },
+  "kompliziert_general": {
+    "word": "kompliziert",
+    "_id": "kompliziert_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2300
+  },
+  "koerperlich_general": {
+    "word": "körperlich",
+    "_id": "koerperlich_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 7211
+  },
+  "korrekt_general": {
+    "word": "korrekt",
+    "_id": "korrekt_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 3074
+  },
+  "kritisch_general": {
+    "word": "kritisch",
+    "_id": "kritisch_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 9233
+  },
+  "kuenstlich_general": {
+    "word": "künstlich",
+    "_id": "kuenstlich_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 13856
+  },
+  "kuerzlich_general": {
+    "word": "kürzlich",
+    "_id": "kuerzlich_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 3536
+  },
+  "laengst_general": {
+    "word": "längst",
+    "_id": "laengst_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1822
+  },
+  "locker_general": {
+    "word": "locker",
+    "_id": "locker_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2280
+  },
+  "zum_zahnarzt_general": {
+    "word": "zum Zahnarzt",
+    "_id": "zum_zahnarzt_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 105
+  },
+  "mager_general": {
+    "word": "mager",
+    "_id": "mager_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 18069
+  },
+  "maximal_general": {
+    "word": "maximal",
+    "_id": "maximal_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 10939
+  },
+  "mild_general": {
+    "word": "mild",
+    "_id": "mild_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 23822
+  },
+  "menschlich_general": {
+    "word": "menschlich",
+    "_id": "menschlich_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 4879
+  },
+  "merkwuerdig_general": {
+    "word": "merkwürdig",
+    "_id": "merkwuerdig_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2254
+  },
+  "minimal_general": {
+    "word": "minimal",
+    "_id": "minimal_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 21862
+  },
+  "miss_general": {
+    "word": "miss-",
+    "_id": "miss_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 488
+  },
+  "miteinander_general": {
+    "word": "miteinander",
+    "_id": "miteinander_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1289
+  },
+  "mittler_general": {
+    "word": "mittler-",
+    "_id": "mittler_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": null
+  },
+  "mittlerweile_general": {
+    "word": "mittlerweile",
+    "_id": "mittlerweile_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 5871
+  },
+  "muendlich_general": {
+    "word": "mündlich",
+    "_id": "muendlich_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 35823
+  },
+  "nachdem_general": {
+    "word": "nachdem",
+    "_id": "nachdem_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 751
+  },
+  "nachher_general": {
+    "word": "nachher",
+    "_id": "nachher_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1925
+  },
+  "mutig_general": {
+    "word": "mutig",
+    "_id": "mutig_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 3210
+  },
+  "naechst_general": {
+    "word": "nächst-",
+    "_id": "naechst_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": null
+  },
+  "naemlich_general": {
+    "word": "nämlich",
+    "_id": "naemlich_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1220
+  },
+  "nebenbei_general": {
+    "word": "nebenbei",
+    "_id": "nebenbei_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 4594
+  },
+  "negativ_general": {
+    "word": "negativ",
+    "_id": "negativ_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 3310
+  },
+  "neugierig_general": {
+    "word": "neugierig",
+    "_id": "neugierig_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2722
+  },
+  "neulich_general": {
+    "word": "neulich",
+    "_id": "neulich_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1999
+  },
+  "niedrig_general": {
+    "word": "niedrig",
+    "_id": "niedrig_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 8396
+  },
+  "noetig_general": {
+    "word": "nötig",
+    "_id": "noetig_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 907
+  },
+  "nirgendwo_general": {
+    "word": "nirgendwo",
+    "_id": "nirgendwo_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2053
+  },
+  "nun_general": {
+    "word": "nun",
+    "_id": "nun_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 154
+  },
+  "nochmals_general": {
+    "word": "nochmals",
+    "_id": "nochmals_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 4813
+  },
+  "ob_general": {
+    "word": "ob",
+    "_id": "ob_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 195
+  },
+  "ober_general": {
+    "word": "ober-",
+    "_id": "ober_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 9420
+  },
+  "obwohl_general": {
+    "word": "obwohl",
+    "_id": "obwohl_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 946
+  },
+  "offenbar_general": {
+    "word": "offenbar",
+    "_id": "offenbar_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1643
+  },
+  "optimistisch_general": {
+    "word": "optimistisch",
+    "_id": "optimistisch_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 11021
+  },
+  "offiziell_general": {
+    "word": "offiziell",
+    "_id": "offiziell_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2601
+  },
+  "oeffentlich_general": {
+    "word": "öffentlich",
+    "_id": "oeffentlich_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 4723
+  },
+  "ordentlich_general": {
+    "word": "ordentlich",
+    "_id": "ordentlich_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 3937
+  },
+  "parallel_general": {
+    "word": "parallel",
+    "_id": "parallel_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 20497
+  },
+  "passiv_general": {
+    "word": "passiv",
+    "_id": "passiv_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 27930
+  },
+  "pauschal_general": {
+    "word": "pauschal",
+    "_id": "pauschal_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": null
+  },
+  "peinlich_general": {
+    "word": "peinlich",
+    "_id": "peinlich_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2044
+  },
+  "per_general": {
+    "word": "per",
+    "_id": "per_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2762
+  },
+  "prima_general": {
+    "word": "prima",
+    "_id": "prima_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1761
+  },
+  "positiv_general": {
+    "word": "positiv",
+    "_id": "positiv_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 3913
+  },
+  "und_jugendliche_general": {
+    "word": "und Jugendliche",
+    "_id": "und_jugendliche_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 9
+  },
+  "quer_general": {
+    "word": "quer",
+    "_id": "quer_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 7846
+  },
+  "rechtzeitig_general": {
+    "word": "rechtzeitig",
+    "_id": "rechtzeitig_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2668
+  },
+  "realistisch_general": {
+    "word": "realistisch",
+    "_id": "realistisch_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 8627
+  },
+  "regelmaessig_general": {
+    "word": "regelmäßig",
+    "_id": "regelmaessig_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 6013
+  },
+  "rechtlich_general": {
+    "word": "rechtlich",
+    "_id": "rechtlich_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 14728
+  },
+  "recht_general": {
+    "word": "recht-",
+    "_id": "recht_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 237
+  },
+  "regional_general": {
+    "word": "regional",
+    "_id": "regional_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 45534
+  },
+  "reif_general": {
+    "word": "reif",
+    "_id": "reif_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 5791
+  },
+  "relativ_general": {
+    "word": "relativ",
+    "_id": "relativ_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 8508
+  },
+  "roh_general": {
+    "word": "roh",
+    "_id": "roh_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 15093
+  },
+  "rueckwaerts_general": {
+    "word": "rückwärts",
+    "_id": "rueckwaerts_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 5757
+  },
+  "salzig_general": {
+    "word": "salzig",
+    "_id": "salzig_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 22066
+  },
+  "saemtliche_general": {
+    "word": "sämtliche",
+    "_id": "saemtliche_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 5257
+  },
+  "satt_general": {
+    "word": "satt",
+    "_id": "satt_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2066
+  },
+  "schief_general": {
+    "word": "schief",
+    "_id": "schief_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2565
+  },
+  "schliesslich_general": {
+    "word": "schließlich",
+    "_id": "schliesslich_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1506
+  },
+  "schlank_general": {
+    "word": "schlank",
+    "_id": "schlank_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 12455
+  },
+  "schmal_general": {
+    "word": "schmal",
+    "_id": "schmal_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 20393
+  },
+  "schuldig_general": {
+    "word": "schuldig",
+    "_id": "schuldig_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1327
+  },
+  "seitdem_general": {
+    "word": "seitdem",
+    "_id": "seitdem_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1890
+  },
+  "selb_general": {
+    "word": "selb-",
+    "_id": "selb_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": null
+  },
+  "selber_general": {
+    "word": "selber",
+    "_id": "selber_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1187
+  },
+  "selbstverstaendlich_general": {
+    "word": "selbstverständlich",
+    "_id": "selbstverstaendlich_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2022
+  },
+  "seltsam_general": {
+    "word": "seltsam",
+    "_id": "seltsam_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1157
+  },
+  "senkrecht_general": {
+    "word": "senkrecht",
+    "_id": "senkrecht_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 28231
+  },
+  "sichtbar_general": {
+    "word": "sichtbar",
+    "_id": "sichtbar_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 9085
+  },
+  "sinnlos_general": {
+    "word": "sinnlos",
+    "_id": "sinnlos_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 3842
+  },
+  "sinnvoll_general": {
+    "word": "sinnvoll",
+    "_id": "sinnvoll_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 12168
+  },
+  "sobald_general": {
+    "word": "sobald",
+    "_id": "sobald_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 803
+  },
+  "sodass_general": {
+    "word": "sodass",
+    "_id": "sodass_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 5144
+  },
+  "soviel_general": {
+    "word": "soviel",
+    "_id": "soviel_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2908
+  },
+  "sogenannt_general": {
+    "word": "sogenannt-",
+    "_id": "sogenannt_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": null
+  },
+  "solange_general": {
+    "word": "solange",
+    "_id": "solange_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 837
+  },
+  "solch_general": {
+    "word": "solch-",
+    "_id": "solch_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2903
+  },
+  "sozial_general": {
+    "word": "sozial",
+    "_id": "sozial_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 19263
+  },
+  "sowieso_general": {
+    "word": "sowieso",
+    "_id": "sowieso_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1119
+  },
+  "spaetestens_general": {
+    "word": "spätestens",
+    "_id": "spaetestens_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 10252
+  },
+  "speziell_general": {
+    "word": "speziell",
+    "_id": "speziell_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 6819
+  },
+  "staedtisch_general": {
+    "word": "städtisch",
+    "_id": "staedtisch_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": null
+  },
+  "spitz_general": {
+    "word": "spitz",
+    "_id": "spitz_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 12542
+  },
+  "staendig_general": {
+    "word": "ständig",
+    "_id": "staendig_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 983
+  },
+  "steil_general": {
+    "word": "steil",
+    "_id": "steil_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 17762
+  },
+  "statistisch_general": {
+    "word": "statistisch",
+    "_id": "statistisch_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 21931
+  },
+  "statt_general": {
+    "word": "statt",
+    "_id": "statt_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1380
+  },
+  "stilistisch_general": {
+    "word": "stilistisch",
+    "_id": "stilistisch_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": null
+  },
+  "still_general": {
+    "word": "still",
+    "_id": "still_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 850
+  },
+  "stolz_general": {
+    "word": "stolz",
+    "_id": "stolz_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 827
+  },
+  "strafbar_general": {
+    "word": "strafbar",
+    "_id": "strafbar_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 16607
+  },
+  "stumm_general": {
+    "word": "stumm",
+    "_id": "stumm_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 7951
+  },
+  "taub_general": {
+    "word": "taub",
+    "_id": "taub_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 3760
+  },
+  "theoretisch_general": {
+    "word": "theoretisch",
+    "_id": "theoretisch_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 7081
+  },
+  "traditionell_general": {
+    "word": "traditionell",
+    "_id": "traditionell_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 17049
+  },
+  "tolerant_general": {
+    "word": "tolerant",
+    "_id": "tolerant_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 26789
+  },
+  "toedlich_general": {
+    "word": "tödlich",
+    "_id": "toedlich_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 5007
+  },
+  "trotz_general": {
+    "word": "trotz",
+    "_id": "trotz_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2135
+  },
+  "trotzdem_general": {
+    "word": "trotzdem",
+    "_id": "trotzdem_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 669
+  },
+  "ueberhaupt_general": {
+    "word": "überhaupt",
+    "_id": "ueberhaupt_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 458
+  },
+  "ueblich_general": {
+    "word": "üblich",
+    "_id": "ueblich_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 5055
+  },
+  "uebrig_general": {
+    "word": "übrig",
+    "_id": "uebrig_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1422
+  },
+  "uebrigens_general": {
+    "word": "übrigens",
+    "_id": "uebrigens_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1264
+  },
+  "umso_general": {
+    "word": "umso",
+    "_id": "umso_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 3691
+  },
+  "umsonst_general": {
+    "word": "umsonst",
+    "_id": "umsonst_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2050
+  },
+  "un_general": {
+    "word": "un-",
+    "_id": "un_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 6084
+  },
+  "ungefaehr_general": {
+    "word": "ungefähr",
+    "_id": "ungefaehr_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1413
+  },
+  "ungewoehnlich_general": {
+    "word": "ungewöhnlich",
+    "_id": "ungewoehnlich_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 3618
+  },
+  "unglaublich_general": {
+    "word": "unglaublich",
+    "_id": "unglaublich_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 866
+  },
+  "unheimlich_general": {
+    "word": "unheimlich",
+    "_id": "unheimlich_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 3242
+  },
+  "unter_general": {
+    "word": "unter-",
+    "_id": "unter_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 271
+  },
+  "untersagt_general": {
+    "word": "untersagt",
+    "_id": "untersagt_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 15598
+  },
+  "unterschiedlich_general": {
+    "word": "unterschiedlich",
+    "_id": "unterschiedlich_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 10114
+  },
+  "vegetarisch_general": {
+    "word": "vegetarisch",
+    "_id": "vegetarisch_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 37384
+  },
+  "unterwegs_general": {
+    "word": "unterwegs",
+    "_id": "unterwegs_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 954
+  },
+  "urspruenglich_general": {
+    "word": "ursprünglich",
+    "_id": "urspruenglich_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 7822
+  },
+  "verantwortlich_general": {
+    "word": "verantwortlich",
+    "_id": "verantwortlich_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1391
+  },
+  "vergeblich_general": {
+    "word": "vergeblich",
+    "_id": "vergeblich_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 11956
+  },
+  "verrueckt_general": {
+    "word": "verrückt",
+    "_id": "verrueckt_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 421
+  },
+  "vernuenftig_general": {
+    "word": "vernünftig",
+    "_id": "vernuenftig_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2756
+  },
+  "vermutlich_general": {
+    "word": "vermutlich",
+    "_id": "vermutlich_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1168
+  },
+  "verstaendlich_general": {
+    "word": "verständlich",
+    "_id": "verstaendlich_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 6090
+  },
+  "virtuell_general": {
+    "word": "virtuell",
+    "_id": "virtuell_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": null
+  },
+  "verwandt_general": {
+    "word": "verwandt",
+    "_id": "verwandt_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 5635
+  },
+  "voellig_general": {
+    "word": "völlig",
+    "_id": "voellig_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 698
+  },
+  "voneinander_general": {
+    "word": "voneinander",
+    "_id": "voneinander_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 6927
+  },
+  "vor_allem_general": {
+    "word": "vor allem",
+    "_id": "vor_allem_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 647
+  },
+  "voraus_general": {
+    "word": "voraus",
+    "_id": "voraus_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2174
+  },
+  "vorlaeufig_general": {
+    "word": "vorläufig",
+    "_id": "vorlaeufig_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 9384
+  },
+  "voraussichtlich_general": {
+    "word": "voraussichtlich",
+    "_id": "voraussichtlich_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 31536
+  },
+  "vorder_general": {
+    "word": "vorder-",
+    "_id": "vorder_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": null
+  },
+  "vorhin_general": {
+    "word": "vorhin",
+    "_id": "vorhin_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1690
+  },
+  "wahnsinnig_general": {
+    "word": "wahnsinnig",
+    "_id": "wahnsinnig_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1893
+  },
+  "waehrend_general": {
+    "word": "während",
+    "_id": "waehrend_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 537
+  },
+  "wert_general": {
+    "word": "wert",
+    "_id": "wert_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 728
+  },
+  "weshalb_general": {
+    "word": "weshalb",
+    "_id": "weshalb_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2008
+  },
+  "wertlos_general": {
+    "word": "wertlos",
+    "_id": "wertlos_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 7353
+  },
+  "wertvoll_general": {
+    "word": "wertvoll",
+    "_id": "wertvoll_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 5408
+  },
+  "wieso_general": {
+    "word": "wieso",
+    "_id": "wieso_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 206
+  },
+  "wohl_general": {
+    "word": "wohl",
+    "_id": "wohl_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 187
+  },
+  "wuetend_general": {
+    "word": "wütend",
+    "_id": "wuetend_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1100
+  },
+  "worueber_general": {
+    "word": "worüber",
+    "_id": "worueber_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1487
+  },
+  "worum_general": {
+    "word": "worum",
+    "_id": "worum_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1588
+  },
+  "zahlreich_general": {
+    "word": "zahlreich",
+    "_id": "zahlreich_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 25770
+  },
+  "ziemlich_general": {
+    "word": "ziemlich",
+    "_id": "ziemlich_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 438
+  },
+  "zentral_general": {
+    "word": "zentral",
+    "_id": "zentral_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 37315
+  },
+  "zugaenglich_general": {
+    "word": "zugänglich",
+    "_id": "zugaenglich_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 15798
+  },
+  "zukuenftig_general": {
+    "word": "zukünftig",
+    "_id": "zukuenftig_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 25920
+  },
+  "zumindest_general": {
+    "word": "zumindest",
+    "_id": "zumindest_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1111
+  },
+  "zunaechst_general": {
+    "word": "zunächst",
+    "_id": "zunaechst_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 3681
+  },
+  "zusaetzlich_general": {
+    "word": "zusätzlich",
+    "_id": "zusaetzlich_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 8731
+  },
+  "zustaendig_general": {
+    "word": "zuständig",
+    "_id": "zustaendig_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 4704
+  },
+  "zuverlaessig_general": {
+    "word": "zuverlässig",
+    "_id": "zuverlaessig_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 9656
+  },
+  "zwar_general": {
+    "word": "zwar",
+    "_id": "zwar_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 720
+  },
+  "und_stuttgart_general": {
+    "word": "und Stuttgart",
+    "_id": "und_stuttgart_general",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 9
+  }
+}

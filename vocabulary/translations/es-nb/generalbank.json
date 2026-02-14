@@ -1,0 +1,821 @@
+{
+  "_metadata": {
+    "source": "generalbank.json",
+    "targetLanguage": "spanish",
+    "nativeLanguage": "nb",
+    "generatedAt": "2026-01-16T17:26:35.899Z",
+    "description": "NB translations for spanish general"
+  },
+  "hola_interj": {
+    "translation": "Hei!",
+    "synonyms": [
+      "Hei på deg",
+      "God dag"
+    ]
+  },
+  "adios_interj": {
+    "translation": "Ha det!",
+    "synonyms": [
+      "Ha det bra!",
+      "Vi sees!"
+    ]
+  },
+  "gracias_interj": {
+    "translation": "Takk",
+    "synonyms": [
+      "Tusen takk",
+      "Mange takk"
+    ]
+  },
+  "por_favor_interj": {
+    "translation": "Vær så snill"
+  },
+  "si_interj": {
+    "translation": "Ja",
+    "synonyms": [
+      "Klart",
+      "Selvfølgelig"
+    ]
+  },
+  "no_interj": {
+    "translation": "Nei"
+  },
+  "vale_interj": {
+    "translation": "Greit / OK",
+    "synonyms": [
+      "Okei",
+      "I orden"
+    ]
+  },
+  "claro_interj": {
+    "translation": "Klart / Selvfølgelig",
+    "synonyms": [
+      "Jada",
+      "Absolutt"
+    ]
+  },
+  "genial_interj": {
+    "translation": "Fantastisk!",
+    "synonyms": [
+      "Supert!",
+      "Kjempebra!"
+    ]
+  },
+  "perdon_interj": {
+    "translation": "Unnskyld",
+    "synonyms": [
+      "Beklager",
+      "Unnskyld meg"
+    ]
+  },
+  "lo_siento_interj": {
+    "translation": "Beklager / Unnskyld"
+  },
+  "salud_interj": {
+    "translation": "Skål! / Prosit!"
+  },
+  "enhorabuena_interj": {
+    "translation": "Gratulerer!"
+  },
+  "bienvenido_interj": {
+    "translation": "Velkommen!"
+  },
+  "como_te_llamas_phrase": {
+    "translation": "Hva heter du?"
+  },
+  "me_llamo_phrase": {
+    "translation": "Jeg heter..."
+  },
+  "buenos_dias_phrase": {
+    "translation": "God morgen"
+  },
+  "buenas_tardes_phrase": {
+    "translation": "God ettermiddag"
+  },
+  "buenas_noches_phrase": {
+    "translation": "God kveld / God natt"
+  },
+  "de_nada_phrase": {
+    "translation": "Bare hyggelig / Ingen årsak"
+  },
+  "soy_de_phrase": {
+    "translation": "Jeg er fra..."
+  },
+  "de_donde_eres_phrase": {
+    "translation": "Hvor kommer du fra?"
+  },
+  "cuantos_anos_tienes_phrase": {
+    "translation": "Hvor gammel er du?"
+  },
+  "tengo_anos_phrase": {
+    "translation": "Jeg er ... år"
+  },
+  "que_tal_phrase": {
+    "translation": "Hvordan går det?"
+  },
+  "como_estas_phrase": {
+    "translation": "Hvordan har du det?"
+  },
+  "muy_bien_phrase": {
+    "translation": "Veldig bra"
+  },
+  "mas_o_menos_phrase": {
+    "translation": "Sånn passe"
+  },
+  "que_hora_es_phrase": {
+    "translation": "Hva er klokka?"
+  },
+  "es_la_una_phrase": {
+    "translation": "Klokka er ett"
+  },
+  "son_las_dos_phrase": {
+    "translation": "Klokka er to"
+  },
+  "y_cuarto_phrase": {
+    "translation": "kvart over"
+  },
+  "y_media_phrase": {
+    "translation": "halv (30 minutter over)"
+  },
+  "menos_cuarto_phrase": {
+    "translation": "kvart på"
+  },
+  "hasta_luego_phrase": {
+    "translation": "Vi sees senere"
+  },
+  "hasta_manana_phrase": {
+    "translation": "Vi sees i morgen"
+  },
+  "hasta_pronto_phrase": {
+    "translation": "Vi sees snart"
+  },
+  "mucho_gusto_phrase": {
+    "translation": "Hyggelig å møte deg"
+  },
+  "que_significa_phrase": {
+    "translation": "Hva betyr...?"
+  },
+  "no_entiendo_phrase": {
+    "translation": "Jeg forstår ikke"
+  },
+  "puede_repetir_phrase": {
+    "translation": "Kan du gjenta?"
+  },
+  "mas_despacio_phrase": {
+    "translation": "Langsommere, vær så snill"
+  },
+  "como_se_dice_phrase": {
+    "translation": "Hvordan sier man...?"
+  },
+  "tengo_una_pregunta_phrase": {
+    "translation": "Jeg har et spørsmål"
+  },
+  "me_gusta_phrase": {
+    "translation": "Jeg liker"
+  },
+  "no_me_gusta_phrase": {
+    "translation": "Jeg liker ikke"
+  },
+  "me_encanta_phrase": {
+    "translation": "Jeg elsker det"
+  },
+  "en_mi_opinion_phrase": {
+    "translation": "Etter min mening"
+  },
+  "creo_que_phrase": {
+    "translation": "Jeg tror at..."
+  },
+  "pienso_que_phrase": {
+    "translation": "Jeg mener at..."
+  },
+  "a_mi_me_parece_phrase": {
+    "translation": "Det virker for meg som..."
+  },
+  "por_ejemplo_phrase": {
+    "translation": "For eksempel"
+  },
+  "en_primer_lugar_phrase": {
+    "translation": "For det første"
+  },
+  "por_un_lado_phrase": {
+    "translation": "På den ene siden"
+  },
+  "por_otro_lado_phrase": {
+    "translation": "På den andre siden"
+  },
+  "en_conclusion_phrase": {
+    "translation": "Som konklusjon"
+  },
+  "es_decir_phrase": {
+    "translation": "Det vil si"
+  },
+  "sin_embargo_phrase": {
+    "translation": "Likevel"
+  },
+  "en_cambio_phrase": {
+    "translation": "Derimot"
+  },
+  "por_eso_phrase": {
+    "translation": "Derfor"
+  },
+  "ademas_phrase": {
+    "translation": "Dessuten"
+  },
+  "al_final_phrase": {
+    "translation": "Til slutt"
+  },
+  "hace_buen_tiempo_phrase": {
+    "translation": "Det er fint vær"
+  },
+  "hace_mal_tiempo_phrase": {
+    "translation": "Det er dårlig vær"
+  },
+  "hace_frio_phrase": {
+    "translation": "Det er kaldt"
+  },
+  "hace_calor_phrase": {
+    "translation": "Det er varmt"
+  },
+  "hace_sol_phrase": {
+    "translation": "Solen skinner"
+  },
+  "llueve_phrase": {
+    "translation": "Det regner"
+  },
+  "nieva_phrase": {
+    "translation": "Det snør"
+  },
+  "tengo_hambre_phrase": {
+    "translation": "Jeg er sulten"
+  },
+  "tengo_sed_phrase": {
+    "translation": "Jeg er tørst"
+  },
+  "tengo_sueno_phrase": {
+    "translation": "Jeg er søvnig"
+  },
+  "tengo_frio_phrase": {
+    "translation": "Jeg fryser"
+  },
+  "tengo_calor_phrase": {
+    "translation": "Jeg er varm"
+  },
+  "tengo_prisa_phrase": {
+    "translation": "Jeg har det travelt"
+  },
+  "tengo_razon_phrase": {
+    "translation": "Jeg har rett"
+  },
+  "tengo_miedo_phrase": {
+    "translation": "Jeg er redd"
+  },
+  "hay_phrase": {
+    "translation": "Det finnes / Det er"
+  },
+  "no_hay_phrase": {
+    "translation": "Det finnes ikke"
+  },
+  "que_hay_phrase": {
+    "translation": "Hva er det? / Hva skjer?"
+  },
+  "hace_falta_phrase": {
+    "translation": "Det trengs"
+  },
+  "ir_de_compras_phrase": {
+    "translation": "Å gå og handle"
+  },
+  "dar_un_paseo_phrase": {
+    "translation": "Å gå en tur"
+  },
+  "tomar_el_sol_phrase": {
+    "translation": "Å sole seg"
+  },
+  "pasarlo_bien_phrase": {
+    "translation": "Å ha det gøy"
+  },
+  "echar_de_menos_phrase": {
+    "translation": "Å savne"
+  },
+  "tener_ganas_de_phrase": {
+    "translation": "Å ha lyst til"
+  },
+  "llevarse_bien_phrase": {
+    "translation": "Å komme godt overens"
+  },
+  "feliz_cumpleanos_phrase": {
+    "translation": "Gratulerer med dagen!"
+  },
+  "feliz_navidad_phrase": {
+    "translation": "God jul!"
+  },
+  "feliz_ano_nuevo_phrase": {
+    "translation": "Godt nytt år!"
+  },
+  "buen_provecho_phrase": {
+    "translation": "Vel bekomme!"
+  },
+  "buena_suerte_phrase": {
+    "translation": "Lykke til!"
+  },
+  "que_tengas_un_buen_dia_phrase": {
+    "translation": "Ha en fin dag!"
+  },
+  "que_duermas_bien_phrase": {
+    "translation": "Sov godt!"
+  },
+  "que_interr": {
+    "translation": "Hva"
+  },
+  "donde_interr": {
+    "translation": "Hvor"
+  },
+  "cuando_interr": {
+    "translation": "Når"
+  },
+  "como_interr": {
+    "translation": "Hvordan"
+  },
+  "por_que_interr": {
+    "translation": "Hvorfor"
+  },
+  "quien_interr": {
+    "translation": "Hvem"
+  },
+  "cual_interr": {
+    "translation": "Hvilken"
+  },
+  "cuanto_interr": {
+    "translation": "Hvor mye"
+  },
+  "cuantos_interr": {
+    "translation": "Hvor mange"
+  },
+  "adonde_interr": {
+    "translation": "Hvor hen"
+  },
+  "y_conj": {
+    "translation": "og",
+    "explanation": {
+      "_description": "Endres til 'e' foran ord som begynner med 'i' eller 'hi' (f.eks. 'padre e hijo')"
+    }
+  },
+  "o_conj": {
+    "translation": "eller",
+    "explanation": {
+      "_description": "Endres til 'u' foran ord som begynner med 'o' eller 'ho'"
+    }
+  },
+  "pero_conj": {
+    "translation": "men"
+  },
+  "sino_conj": {
+    "translation": "men (etter nektelse)",
+    "explanation": {
+      "_description": "Brukes etter nektelse for å introdusere en kontrast. F.eks. 'No es rojo, sino azul' (Det er ikke rødt, men blått)"
+    }
+  },
+  "porque_conj": {
+    "translation": "fordi"
+  },
+  "que_conj": {
+    "translation": "at"
+  },
+  "si_conj": {
+    "translation": "hvis / om"
+  },
+  "cuando_conj": {
+    "translation": "når"
+  },
+  "mientras_conj": {
+    "translation": "mens"
+  },
+  "aunque_conj": {
+    "translation": "selv om"
+  },
+  "como_conj": {
+    "translation": "som / siden"
+  },
+  "pues_conj": {
+    "translation": "vel / altså"
+  },
+  "ni_conj": {
+    "translation": "verken / heller ikke"
+  },
+  "tanto_como_conj": {
+    "translation": "både ... og"
+  },
+  "a_prep": {
+    "translation": "til / på",
+    "explanation": {
+      "_description": "Brukes ved bevegelse til et sted (voy a la escuela), før personobjekt (veo a mi madre), og med klokkeslett (a las tres)"
+    }
+  },
+  "de_prep": {
+    "translation": "av / fra"
+  },
+  "en_prep": {
+    "translation": "i / på"
+  },
+  "con_prep": {
+    "translation": "med"
+  },
+  "sin_prep": {
+    "translation": "uten"
+  },
+  "para_prep": {
+    "translation": "for / til",
+    "explanation": {
+      "_description": "Brukes for formål, mottaker, eller retning. F.eks. 'un regalo para ti' (en gave til deg)"
+    }
+  },
+  "por_prep": {
+    "translation": "for / gjennom / på grunn av",
+    "explanation": {
+      "_description": "Brukes for årsak, tidsrom, eller bevegelse gjennom. F.eks. 'por la mañana' (om morgenen)"
+    }
+  },
+  "sobre_prep": {
+    "translation": "på / om / over"
+  },
+  "entre_prep": {
+    "translation": "mellom"
+  },
+  "hasta_prep": {
+    "translation": "til / inntil"
+  },
+  "desde_prep": {
+    "translation": "fra / siden"
+  },
+  "hacia_prep": {
+    "translation": "mot"
+  },
+  "ante_prep": {
+    "translation": "foran / overfor"
+  },
+  "bajo_prep": {
+    "translation": "under"
+  },
+  "tras_prep": {
+    "translation": "etter / bak"
+  },
+  "segun_prep": {
+    "translation": "ifølge"
+  },
+  "contra_prep": {
+    "translation": "mot / imot"
+  },
+  "durante_prep": {
+    "translation": "i løpet av / under"
+  },
+  "delante_de_prep": {
+    "translation": "foran"
+  },
+  "detras_de_prep": {
+    "translation": "bak"
+  },
+  "encima_de_prep": {
+    "translation": "oppå"
+  },
+  "debajo_de_prep": {
+    "translation": "under"
+  },
+  "al_lado_de_prep": {
+    "translation": "ved siden av"
+  },
+  "cerca_de_prep": {
+    "translation": "nær / i nærheten av"
+  },
+  "lejos_de_prep": {
+    "translation": "langt fra"
+  },
+  "enfrente_de_prep": {
+    "translation": "overfor"
+  },
+  "dentro_de_prep": {
+    "translation": "inni / om (tid)"
+  },
+  "fuera_de_prep": {
+    "translation": "utenfor"
+  },
+  "alrededor_de_prep": {
+    "translation": "rundt"
+  },
+  "muy_adv": {
+    "translation": "veldig"
+  },
+  "bien_adv": {
+    "translation": "bra / godt"
+  },
+  "mal_adv": {
+    "translation": "dårlig"
+  },
+  "mucho_adv": {
+    "translation": "mye"
+  },
+  "poco_adv": {
+    "translation": "lite"
+  },
+  "mas_adv": {
+    "translation": "mer"
+  },
+  "menos_adv": {
+    "translation": "mindre"
+  },
+  "tambien_adv": {
+    "translation": "også"
+  },
+  "tampoco_adv": {
+    "translation": "heller ikke"
+  },
+  "aqui_adv": {
+    "translation": "her"
+  },
+  "ahi_adv": {
+    "translation": "der"
+  },
+  "alli_adv": {
+    "translation": "der borte"
+  },
+  "ahora_adv": {
+    "translation": "nå"
+  },
+  "hoy_adv": {
+    "translation": "i dag"
+  },
+  "manana_adv": {
+    "translation": "i morgen"
+  },
+  "ayer_adv": {
+    "translation": "i går"
+  },
+  "siempre_adv": {
+    "translation": "alltid"
+  },
+  "nunca_adv": {
+    "translation": "aldri"
+  },
+  "a_veces_adv": {
+    "translation": "noen ganger"
+  },
+  "a_menudo_adv": {
+    "translation": "ofte"
+  },
+  "casi_adv": {
+    "translation": "nesten"
+  },
+  "ya_adv": {
+    "translation": "allerede"
+  },
+  "todavia_adv": {
+    "translation": "ennå / fortsatt"
+  },
+  "aun_adv": {
+    "translation": "ennå / selv"
+  },
+  "pronto_adv": {
+    "translation": "snart"
+  },
+  "tarde_adv": {
+    "translation": "sent"
+  },
+  "temprano_adv": {
+    "translation": "tidlig"
+  },
+  "despacio_adv": {
+    "translation": "sakte"
+  },
+  "rapido_adv": {
+    "translation": "raskt"
+  },
+  "solo_adv": {
+    "translation": "bare / kun"
+  },
+  "juntos_adv": {
+    "translation": "sammen"
+  },
+  "quiza_adv": {
+    "translation": "kanskje"
+  },
+  "tal_vez_adv": {
+    "translation": "kanskje"
+  },
+  "realmente_adv": {
+    "translation": "virkelig"
+  },
+  "seguramente_adv": {
+    "translation": "sikkert"
+  },
+  "normalmente_adv": {
+    "translation": "vanligvis"
+  },
+  "generalmente_adv": {
+    "translation": "generelt"
+  },
+  "especialmente_adv": {
+    "translation": "spesielt"
+  },
+  "solamente_adv": {
+    "translation": "bare / kun"
+  },
+  "completamente_adv": {
+    "translation": "helt / fullstendig"
+  },
+  "finalmente_adv": {
+    "translation": "endelig / til slutt"
+  },
+  "desafortunadamente_adv": {
+    "translation": "dessverre"
+  },
+  "afortunadamente_adv": {
+    "translation": "heldigvis"
+  },
+  "primero_adv": {
+    "translation": "først"
+  },
+  "luego_adv": {
+    "translation": "så / etterpå"
+  },
+  "despues_adv": {
+    "translation": "etterpå / siden"
+  },
+  "antes_adv": {
+    "translation": "før"
+  },
+  "enseguida_adv": {
+    "translation": "straks / med en gang"
+  },
+  "inmediatamente_adv": {
+    "translation": "umiddelbart"
+  },
+  "arriba_adv": {
+    "translation": "opp / oppe"
+  },
+  "abajo_adv": {
+    "translation": "ned / nede"
+  },
+  "adentro_adv": {
+    "translation": "inne"
+  },
+  "afuera_adv": {
+    "translation": "ute"
+  },
+  "adelante_adv": {
+    "translation": "fremover"
+  },
+  "atras_adv": {
+    "translation": "bakover"
+  },
+  "bastante_adv": {
+    "translation": "ganske / nok"
+  },
+  "demasiado_adv": {
+    "translation": "for mye"
+  },
+  "tan_adv": {
+    "translation": "så"
+  },
+  "asi_adv": {
+    "translation": "slik / sånn"
+  },
+  "exactamente_adv": {
+    "translation": "akkurat / nøyaktig"
+  },
+  "aproximadamente_adv": {
+    "translation": "omtrent"
+  },
+  "claramente_adv": {
+    "translation": "tydelig"
+  },
+  "simplemente_adv": {
+    "translation": "rett og slett"
+  },
+  "espana_propn": {
+    "translation": "Spania"
+  },
+  "mexico_propn": {
+    "translation": "Mexico"
+  },
+  "argentina_propn": {
+    "translation": "Argentina"
+  },
+  "colombia_propn": {
+    "translation": "Colombia"
+  },
+  "peru_propn": {
+    "translation": "Peru"
+  },
+  "chile_propn": {
+    "translation": "Chile"
+  },
+  "cuba_propn": {
+    "translation": "Cuba"
+  },
+  "noruega_propn": {
+    "translation": "Norge"
+  },
+  "europa_propn": {
+    "translation": "Europa"
+  },
+  "america_latina_propn": {
+    "translation": "Latin-Amerika"
+  },
+  "estados_unidos_propn": {
+    "translation": "USA"
+  },
+  "madrid_propn": {
+    "translation": "Madrid"
+  },
+  "barcelona_propn": {
+    "translation": "Barcelona"
+  },
+  "en_casa_expr": {
+    "translation": "hjemme"
+  },
+  "a_casa_expr": {
+    "translation": "hjem (bevegelse)"
+  },
+  "a_pie_expr": {
+    "translation": "til fots"
+  },
+  "en_coche_expr": {
+    "translation": "med bil"
+  },
+  "en_autobus_expr": {
+    "translation": "med buss"
+  },
+  "en_tren_expr": {
+    "translation": "med tog"
+  },
+  "en_avion_expr": {
+    "translation": "med fly"
+  },
+  "por_la_manana_expr": {
+    "translation": "om morgenen"
+  },
+  "por_la_tarde_expr": {
+    "translation": "om ettermiddagen"
+  },
+  "por_la_noche_expr": {
+    "translation": "om kvelden"
+  },
+  "de_vez_en_cuando_expr": {
+    "translation": "av og til"
+  },
+  "en_seguida_expr": {
+    "translation": "straks"
+  },
+  "al_principio_expr": {
+    "translation": "i begynnelsen"
+  },
+  "en_realidad_expr": {
+    "translation": "egentlig / i virkeligheten"
+  },
+  "de_repente_expr": {
+    "translation": "plutselig"
+  },
+  "por_fin_expr": {
+    "translation": "endelig"
+  },
+  "a_lo_mejor_expr": {
+    "translation": "kanskje"
+  },
+  "cada_dia_expr": {
+    "translation": "hver dag"
+  },
+  "todos_los_dias_expr": {
+    "translation": "hver dag"
+  },
+  "el_fin_de_semana_expr": {
+    "translation": "helgen"
+  },
+  "la_semana_que_viene_expr": {
+    "translation": "neste uke"
+  },
+  "el_ano_pasado_expr": {
+    "translation": "i fjor"
+  },
+  "el_proximo_ano_expr": {
+    "translation": "neste år"
+  },
+  "en_general_expr": {
+    "translation": "generelt"
+  },
+  "de_acuerdo_expr": {
+    "translation": "enig / greit"
+  },
+  "con_mucho_gusto_expr": {
+    "translation": "med stor glede"
+  },
+  "en_serio_expr": {
+    "translation": "på alvor"
+  },
+  "de_verdad_expr": {
+    "translation": "virkelig"
+  },
+  "por_supuesto_expr": {
+    "translation": "selvfølgelig"
+  },
+  "sin_duda_expr": {
+    "translation": "uten tvil"
+  }
+}
