@@ -1,0 +1,3345 @@
+{
+  "_metadata": {
+    "description": "Spanish noun bank",
+    "purpose": "Stores nouns with gender and plural forms",
+    "wordIdSuffix": "_substantiv",
+    "keyFields": [
+      "word",
+      "translations",
+      "genus",
+      "plural"
+    ],
+    "genderSystem": "Spanish has 2 genders: m (masculine/el) and f (feminine/la)",
+    "encodingConvention": "ñ→n, á→a, é→e, í→i, ó→o, ú→u in IDs"
+  },
+  "familia_noun": {
+    "word": "familia",
+    "genus": "f",
+    "translations": {
+      "nb": "familie",
+      "en": "family"
+    },
+    "plural": "familias"
+  },
+  "madre_noun": {
+    "word": "madre",
+    "genus": "f",
+    "translations": {
+      "nb": "mor",
+      "en": "mother"
+    },
+    "plural": "madres"
+  },
+  "padre_noun": {
+    "word": "padre",
+    "genus": "m",
+    "translations": {
+      "nb": "far",
+      "en": "father"
+    },
+    "plural": "padres"
+  },
+  "hermano_noun": {
+    "word": "hermano",
+    "genus": "m",
+    "translations": {
+      "nb": "bror",
+      "en": "brother"
+    },
+    "plural": "hermanos"
+  },
+  "hermana_noun": {
+    "word": "hermana",
+    "genus": "f",
+    "translations": {
+      "nb": "søster",
+      "en": "sister"
+    },
+    "plural": "hermanas"
+  },
+  "hijo_noun": {
+    "word": "hijo",
+    "genus": "m",
+    "translations": {
+      "nb": "sønn",
+      "en": "son"
+    },
+    "plural": "hijos"
+  },
+  "hija_noun": {
+    "word": "hija",
+    "genus": "f",
+    "translations": {
+      "nb": "datter",
+      "en": "daughter"
+    },
+    "plural": "hijas"
+  },
+  "abuelo_noun": {
+    "word": "abuelo",
+    "genus": "m",
+    "translations": {
+      "nb": "bestefar",
+      "en": "grandfather"
+    },
+    "plural": "abuelos"
+  },
+  "abuela_noun": {
+    "word": "abuela",
+    "genus": "f",
+    "translations": {
+      "nb": "bestemor",
+      "en": "grandmother"
+    },
+    "plural": "abuelas"
+  },
+  "tio_noun": {
+    "word": "tío",
+    "genus": "m",
+    "translations": {
+      "nb": "onkel",
+      "en": "uncle"
+    },
+    "plural": "tíos"
+  },
+  "tia_noun": {
+    "word": "tía",
+    "genus": "f",
+    "translations": {
+      "nb": "tante",
+      "en": "aunt"
+    },
+    "plural": "tías"
+  },
+  "primo_noun": {
+    "word": "primo",
+    "genus": "m",
+    "translations": {
+      "nb": "fetter",
+      "en": "cousin (male)"
+    },
+    "plural": "primos"
+  },
+  "prima_noun": {
+    "word": "prima",
+    "genus": "f",
+    "translations": {
+      "nb": "kusine",
+      "en": "cousin (female)"
+    },
+    "plural": "primas"
+  },
+  "amigo_noun": {
+    "word": "amigo",
+    "genus": "m",
+    "translations": {
+      "nb": "venn",
+      "en": "friend (male)"
+    },
+    "plural": "amigos"
+  },
+  "amiga_noun": {
+    "word": "amiga",
+    "genus": "f",
+    "translations": {
+      "nb": "venninne",
+      "en": "friend (female)"
+    },
+    "plural": "amigas"
+  },
+  "nino_noun": {
+    "word": "niño",
+    "genus": "m",
+    "translations": {
+      "nb": "gutt/barn",
+      "en": "boy/child"
+    },
+    "plural": "niños"
+  },
+  "nina_noun": {
+    "word": "niña",
+    "genus": "f",
+    "translations": {
+      "nb": "jente",
+      "en": "girl"
+    },
+    "plural": "niñas"
+  },
+  "hombre_noun": {
+    "word": "hombre",
+    "genus": "m",
+    "translations": {
+      "nb": "mann",
+      "en": "man"
+    },
+    "plural": "hombres"
+  },
+  "mujer_noun": {
+    "word": "mujer",
+    "genus": "f",
+    "translations": {
+      "nb": "kvinne",
+      "en": "woman"
+    },
+    "plural": "mujeres"
+  },
+  "persona_noun": {
+    "word": "persona",
+    "genus": "f",
+    "translations": {
+      "nb": "person",
+      "en": "person"
+    },
+    "plural": "personas"
+  },
+  "perro_noun": {
+    "word": "perro",
+    "genus": "m",
+    "translations": {
+      "nb": "hund",
+      "en": "dog"
+    },
+    "plural": "perros"
+  },
+  "gato_noun": {
+    "word": "gato",
+    "genus": "m",
+    "translations": {
+      "nb": "katt",
+      "en": "cat"
+    },
+    "plural": "gatos"
+  },
+  "pajaro_noun": {
+    "word": "pájaro",
+    "genus": "m",
+    "translations": {
+      "nb": "fugl",
+      "en": "bird"
+    },
+    "plural": "pájaros"
+  },
+  "pez_noun": {
+    "word": "pez",
+    "genus": "m",
+    "translations": {
+      "nb": "fisk",
+      "en": "fish"
+    },
+    "plural": "peces"
+  },
+  "caballo_noun": {
+    "word": "caballo",
+    "genus": "m",
+    "translations": {
+      "nb": "hest",
+      "en": "horse"
+    },
+    "plural": "caballos"
+  },
+  "vaca_noun": {
+    "word": "vaca",
+    "genus": "f",
+    "translations": {
+      "nb": "ku",
+      "en": "cow"
+    },
+    "plural": "vacas"
+  },
+  "cerdo_noun": {
+    "word": "cerdo",
+    "genus": "m",
+    "translations": {
+      "nb": "gris",
+      "en": "pig"
+    },
+    "plural": "cerdos"
+  },
+  "conejo_noun": {
+    "word": "conejo",
+    "genus": "m",
+    "translations": {
+      "nb": "kanin",
+      "en": "rabbit"
+    },
+    "plural": "conejos"
+  },
+  "raton_noun": {
+    "word": "ratón",
+    "genus": "m",
+    "translations": {
+      "nb": "mus",
+      "en": "mouse"
+    },
+    "plural": "ratones"
+  },
+  "leon_noun": {
+    "word": "león",
+    "genus": "m",
+    "translations": {
+      "nb": "løve",
+      "en": "lion"
+    },
+    "plural": "leones"
+  },
+  "oso_noun": {
+    "word": "oso",
+    "genus": "m",
+    "translations": {
+      "nb": "bjørn",
+      "en": "bear"
+    },
+    "plural": "osos"
+  },
+  "elefante_noun": {
+    "word": "elefante",
+    "genus": "m",
+    "translations": {
+      "nb": "elefant",
+      "en": "elephant"
+    },
+    "plural": "elefantes"
+  },
+  "tortuga_noun": {
+    "word": "tortuga",
+    "genus": "f",
+    "translations": {
+      "nb": "skilpadde",
+      "en": "turtle"
+    },
+    "plural": "tortugas"
+  },
+  "escuela_noun": {
+    "word": "escuela",
+    "genus": "f",
+    "translations": {
+      "nb": "skole",
+      "en": "school"
+    },
+    "plural": "escuelas"
+  },
+  "clase_noun": {
+    "word": "clase",
+    "genus": "f",
+    "translations": {
+      "nb": "klasse/time",
+      "en": "class"
+    },
+    "plural": "clases"
+  },
+  "profesor_noun": {
+    "word": "profesor",
+    "genus": "m",
+    "translations": {
+      "nb": "lærer (mann)",
+      "en": "teacher (male)"
+    },
+    "plural": "profesores"
+  },
+  "profesora_noun": {
+    "word": "profesora",
+    "genus": "f",
+    "translations": {
+      "nb": "lærer (kvinne)",
+      "en": "teacher (female)"
+    },
+    "plural": "profesoras"
+  },
+  "alumno_noun": {
+    "word": "alumno",
+    "genus": "m",
+    "translations": {
+      "nb": "elev (gutt)",
+      "en": "student (male)"
+    },
+    "plural": "alumnos"
+  },
+  "alumna_noun": {
+    "word": "alumna",
+    "genus": "f",
+    "translations": {
+      "nb": "elev (jente)",
+      "en": "student (female)"
+    },
+    "plural": "alumnas"
+  },
+  "libro_noun": {
+    "word": "libro",
+    "genus": "m",
+    "translations": {
+      "nb": "bok",
+      "en": "book"
+    },
+    "plural": "libros"
+  },
+  "cuaderno_noun": {
+    "word": "cuaderno",
+    "genus": "m",
+    "translations": {
+      "nb": "notatbok",
+      "en": "notebook"
+    },
+    "plural": "cuadernos"
+  },
+  "boligrafo_noun": {
+    "word": "bolígrafo",
+    "genus": "m",
+    "translations": {
+      "nb": "penn",
+      "en": "pen"
+    },
+    "plural": "bolígrafos"
+  },
+  "lapiz_noun": {
+    "word": "lápiz",
+    "genus": "m",
+    "translations": {
+      "nb": "blyant",
+      "en": "pencil"
+    },
+    "plural": "lápices"
+  },
+  "mesa_noun": {
+    "word": "mesa",
+    "genus": "f",
+    "translations": {
+      "nb": "bord",
+      "en": "table/desk"
+    },
+    "plural": "mesas"
+  },
+  "silla_noun": {
+    "word": "silla",
+    "genus": "f",
+    "translations": {
+      "nb": "stol",
+      "en": "chair"
+    },
+    "plural": "sillas"
+  },
+  "pizarra_noun": {
+    "word": "pizarra",
+    "genus": "f",
+    "translations": {
+      "nb": "tavle",
+      "en": "blackboard"
+    },
+    "plural": "pizarras"
+  },
+  "examen_noun": {
+    "word": "examen",
+    "genus": "m",
+    "translations": {
+      "nb": "eksamen/prøve",
+      "en": "exam"
+    },
+    "plural": "exámenes"
+  },
+  "deberes_noun": {
+    "word": "deberes",
+    "genus": "m",
+    "translations": {
+      "nb": "lekser",
+      "en": "homework"
+    },
+    "plural": "deberes"
+  },
+  "espanol_noun": {
+    "word": "español",
+    "genus": "m",
+    "translations": {
+      "nb": "spansk",
+      "en": "Spanish"
+    },
+    "plural": "españoles"
+  },
+  "ingles_noun": {
+    "word": "inglés",
+    "genus": "m",
+    "translations": {
+      "nb": "engelsk",
+      "en": "English"
+    },
+    "plural": "ingleses"
+  },
+  "matematicas_noun": {
+    "word": "matemáticas",
+    "genus": "f",
+    "translations": {
+      "nb": "matematikk",
+      "en": "mathematics"
+    },
+    "plural": "matemáticas"
+  },
+  "historia_noun": {
+    "word": "historia",
+    "genus": "f",
+    "translations": {
+      "nb": "historie",
+      "en": "history"
+    },
+    "plural": "historias"
+  },
+  "geografia_noun": {
+    "word": "geografía",
+    "genus": "f",
+    "translations": {
+      "nb": "geografi",
+      "en": "geography"
+    },
+    "plural": "geografías"
+  },
+  "ciencias_noun": {
+    "word": "ciencias",
+    "genus": "f",
+    "translations": {
+      "nb": "naturfag",
+      "en": "science"
+    },
+    "plural": "ciencias"
+  },
+  "musica_noun": {
+    "word": "música",
+    "genus": "f",
+    "translations": {
+      "nb": "musikk",
+      "en": "music"
+    },
+    "plural": "músicas"
+  },
+  "arte_noun": {
+    "word": "arte",
+    "genus": "m",
+    "translations": {
+      "nb": "kunst",
+      "en": "art"
+    },
+    "plural": "artes"
+  },
+  "agua_noun": {
+    "word": "agua",
+    "genus": "f",
+    "translations": {
+      "nb": "vann",
+      "en": "water"
+    },
+    "plural": "aguas"
+  },
+  "pan_noun": {
+    "word": "pan",
+    "genus": "m",
+    "translations": {
+      "nb": "brød",
+      "en": "bread"
+    },
+    "plural": "panes"
+  },
+  "leche_noun": {
+    "word": "leche",
+    "genus": "f",
+    "translations": {
+      "nb": "melk",
+      "en": "milk"
+    },
+    "plural": "leches"
+  },
+  "carne_noun": {
+    "word": "carne",
+    "genus": "f",
+    "translations": {
+      "nb": "kjøtt",
+      "en": "meat"
+    },
+    "plural": "carnes"
+  },
+  "pescado_noun": {
+    "word": "pescado",
+    "genus": "m",
+    "translations": {
+      "nb": "fisk (mat)",
+      "en": "fish (food)"
+    },
+    "plural": "pescados"
+  },
+  "pollo_noun": {
+    "word": "pollo",
+    "genus": "m",
+    "translations": {
+      "nb": "kylling",
+      "en": "chicken"
+    },
+    "plural": "pollos"
+  },
+  "fruta_noun": {
+    "word": "fruta",
+    "genus": "f",
+    "translations": {
+      "nb": "frukt",
+      "en": "fruit"
+    },
+    "plural": "frutas"
+  },
+  "manzana_noun": {
+    "word": "manzana",
+    "genus": "f",
+    "translations": {
+      "nb": "eple",
+      "en": "apple"
+    },
+    "plural": "manzanas"
+  },
+  "naranja_noun": {
+    "word": "naranja",
+    "genus": "f",
+    "translations": {
+      "nb": "appelsin",
+      "en": "orange"
+    },
+    "plural": "naranjas"
+  },
+  "platano_noun": {
+    "word": "plátano",
+    "genus": "m",
+    "translations": {
+      "nb": "banan",
+      "en": "banana"
+    },
+    "plural": "plátanos"
+  },
+  "verdura_noun": {
+    "word": "verdura",
+    "genus": "f",
+    "translations": {
+      "nb": "grønnsak",
+      "en": "vegetable"
+    },
+    "plural": "verduras"
+  },
+  "tomate_noun": {
+    "word": "tomate",
+    "genus": "m",
+    "translations": {
+      "nb": "tomat",
+      "en": "tomato"
+    },
+    "plural": "tomates"
+  },
+  "ensalada_noun": {
+    "word": "ensalada",
+    "genus": "f",
+    "translations": {
+      "nb": "salat",
+      "en": "salad"
+    },
+    "plural": "ensaladas"
+  },
+  "arroz_noun": {
+    "word": "arroz",
+    "genus": "m",
+    "translations": {
+      "nb": "ris",
+      "en": "rice"
+    },
+    "plural": "arroces"
+  },
+  "pasta_noun": {
+    "word": "pasta",
+    "genus": "f",
+    "translations": {
+      "nb": "pasta",
+      "en": "pasta"
+    },
+    "plural": "pastas"
+  },
+  "queso_noun": {
+    "word": "queso",
+    "genus": "m",
+    "translations": {
+      "nb": "ost",
+      "en": "cheese"
+    },
+    "plural": "quesos"
+  },
+  "huevo_noun": {
+    "word": "huevo",
+    "genus": "m",
+    "translations": {
+      "nb": "egg",
+      "en": "egg"
+    },
+    "plural": "huevos"
+  },
+  "cafe_noun": {
+    "word": "café",
+    "genus": "m",
+    "translations": {
+      "nb": "kaffe",
+      "en": "coffee"
+    },
+    "plural": "cafés"
+  },
+  "te_noun": {
+    "word": "té",
+    "genus": "m",
+    "translations": {
+      "nb": "te",
+      "en": "tea"
+    },
+    "plural": "tés"
+  },
+  "zumo_noun": {
+    "word": "zumo",
+    "genus": "m",
+    "translations": {
+      "nb": "juice",
+      "en": "juice"
+    },
+    "plural": "zumos"
+  },
+  "comida_noun": {
+    "word": "comida",
+    "genus": "f",
+    "translations": {
+      "nb": "mat/måltid",
+      "en": "food/meal"
+    },
+    "plural": "comidas"
+  },
+  "desayuno_noun": {
+    "word": "desayuno",
+    "genus": "m",
+    "translations": {
+      "nb": "frokost",
+      "en": "breakfast"
+    },
+    "plural": "desayunos"
+  },
+  "almuerzo_noun": {
+    "word": "almuerzo",
+    "genus": "m",
+    "translations": {
+      "nb": "lunsj",
+      "en": "lunch"
+    },
+    "plural": "almuerzos"
+  },
+  "cena_noun": {
+    "word": "cena",
+    "genus": "f",
+    "translations": {
+      "nb": "middag (kveld)",
+      "en": "dinner"
+    },
+    "plural": "cenas"
+  },
+  "restaurante_noun": {
+    "word": "restaurante",
+    "genus": "m",
+    "translations": {
+      "nb": "restaurant",
+      "en": "restaurant"
+    },
+    "plural": "restaurantes"
+  },
+  "dia_noun": {
+    "word": "día",
+    "genus": "m",
+    "translations": {
+      "nb": "dag",
+      "en": "day"
+    },
+    "plural": "días"
+  },
+  "semana_noun": {
+    "word": "semana",
+    "genus": "f",
+    "translations": {
+      "nb": "uke",
+      "en": "week"
+    },
+    "plural": "semanas"
+  },
+  "mes_noun": {
+    "word": "mes",
+    "genus": "m",
+    "translations": {
+      "nb": "måned",
+      "en": "month"
+    },
+    "plural": "meses"
+  },
+  "ano_noun": {
+    "word": "año",
+    "genus": "m",
+    "translations": {
+      "nb": "år",
+      "en": "year"
+    },
+    "plural": "años"
+  },
+  "hora_noun": {
+    "word": "hora",
+    "genus": "f",
+    "translations": {
+      "nb": "time",
+      "en": "hour"
+    },
+    "plural": "horas"
+  },
+  "minuto_noun": {
+    "word": "minuto",
+    "genus": "m",
+    "translations": {
+      "nb": "minutt",
+      "en": "minute"
+    },
+    "plural": "minutos"
+  },
+  "manana_tiempo_noun": {
+    "word": "mañana",
+    "genus": "f",
+    "translations": {
+      "nb": "morgen",
+      "en": "morning"
+    },
+    "plural": "mañanas"
+  },
+  "tarde_noun": {
+    "word": "tarde",
+    "genus": "f",
+    "translations": {
+      "nb": "ettermiddag",
+      "en": "afternoon"
+    },
+    "plural": "tardes"
+  },
+  "noche_noun": {
+    "word": "noche",
+    "genus": "f",
+    "translations": {
+      "nb": "natt/kveld",
+      "en": "night"
+    },
+    "plural": "noches"
+  },
+  "lunes_noun": {
+    "word": "lunes",
+    "genus": "m",
+    "translations": {
+      "nb": "mandag",
+      "en": "Monday"
+    },
+    "plural": "lunes"
+  },
+  "martes_noun": {
+    "word": "martes",
+    "genus": "m",
+    "translations": {
+      "nb": "tirsdag",
+      "en": "Tuesday"
+    },
+    "plural": "martes"
+  },
+  "miercoles_noun": {
+    "word": "miércoles",
+    "genus": "m",
+    "translations": {
+      "nb": "onsdag",
+      "en": "Wednesday"
+    },
+    "plural": "miércoles"
+  },
+  "jueves_noun": {
+    "word": "jueves",
+    "genus": "m",
+    "translations": {
+      "nb": "torsdag",
+      "en": "Thursday"
+    },
+    "plural": "jueves"
+  },
+  "viernes_noun": {
+    "word": "viernes",
+    "genus": "m",
+    "translations": {
+      "nb": "fredag",
+      "en": "Friday"
+    },
+    "plural": "viernes"
+  },
+  "sabado_noun": {
+    "word": "sábado",
+    "genus": "m",
+    "translations": {
+      "nb": "lørdag",
+      "en": "Saturday"
+    },
+    "plural": "sábados"
+  },
+  "domingo_noun": {
+    "word": "domingo",
+    "genus": "m",
+    "translations": {
+      "nb": "søndag",
+      "en": "Sunday"
+    },
+    "plural": "domingos"
+  },
+  "fin_de_semana_noun": {
+    "word": "fin de semana",
+    "genus": "m",
+    "translations": {
+      "nb": "helg",
+      "en": "weekend"
+    },
+    "plural": "fines de semana"
+  },
+  "cabeza_noun": {
+    "word": "cabeza",
+    "genus": "f",
+    "translations": {
+      "nb": "hode",
+      "en": "head"
+    },
+    "plural": "cabezas"
+  },
+  "cara_noun": {
+    "word": "cara",
+    "genus": "f",
+    "translations": {
+      "nb": "ansikt",
+      "en": "face"
+    },
+    "plural": "caras"
+  },
+  "ojo_noun": {
+    "word": "ojo",
+    "genus": "m",
+    "translations": {
+      "nb": "øye",
+      "en": "eye"
+    },
+    "plural": "ojos"
+  },
+  "nariz_noun": {
+    "word": "nariz",
+    "genus": "f",
+    "translations": {
+      "nb": "nese",
+      "en": "nose"
+    },
+    "plural": "narices"
+  },
+  "boca_noun": {
+    "word": "boca",
+    "genus": "f",
+    "translations": {
+      "nb": "munn",
+      "en": "mouth"
+    },
+    "plural": "bocas"
+  },
+  "oreja_noun": {
+    "word": "oreja",
+    "genus": "f",
+    "translations": {
+      "nb": "øre",
+      "en": "ear"
+    },
+    "plural": "orejas"
+  },
+  "pelo_noun": {
+    "word": "pelo",
+    "genus": "m",
+    "translations": {
+      "nb": "hår",
+      "en": "hair"
+    },
+    "plural": "pelos"
+  },
+  "mano_noun": {
+    "word": "mano",
+    "genus": "f",
+    "translations": {
+      "nb": "hånd",
+      "en": "hand"
+    },
+    "plural": "manos"
+  },
+  "pie_noun": {
+    "word": "pie",
+    "genus": "m",
+    "translations": {
+      "nb": "fot",
+      "en": "foot"
+    },
+    "plural": "pies"
+  },
+  "brazo_noun": {
+    "word": "brazo",
+    "genus": "m",
+    "translations": {
+      "nb": "arm",
+      "en": "arm"
+    },
+    "plural": "brazos"
+  },
+  "pierna_noun": {
+    "word": "pierna",
+    "genus": "f",
+    "translations": {
+      "nb": "bein",
+      "en": "leg"
+    },
+    "plural": "piernas"
+  },
+  "cuerpo_noun": {
+    "word": "cuerpo",
+    "genus": "m",
+    "translations": {
+      "nb": "kropp",
+      "en": "body"
+    },
+    "plural": "cuerpos"
+  },
+  "corazon_noun": {
+    "word": "corazón",
+    "genus": "m",
+    "translations": {
+      "nb": "hjerte",
+      "en": "heart"
+    },
+    "plural": "corazones"
+  },
+  "casa_noun": {
+    "word": "casa",
+    "genus": "f",
+    "translations": {
+      "nb": "hus/hjem",
+      "en": "house/home"
+    },
+    "plural": "casas"
+  },
+  "habitacion_noun": {
+    "word": "habitación",
+    "genus": "f",
+    "translations": {
+      "nb": "rom/soverom",
+      "en": "room/bedroom"
+    },
+    "plural": "habitaciones"
+  },
+  "cocina_noun": {
+    "word": "cocina",
+    "genus": "f",
+    "translations": {
+      "nb": "kjøkken",
+      "en": "kitchen"
+    },
+    "plural": "cocinas"
+  },
+  "bano_noun": {
+    "word": "baño",
+    "genus": "m",
+    "translations": {
+      "nb": "bad",
+      "en": "bathroom"
+    },
+    "plural": "baños"
+  },
+  "salon_noun": {
+    "word": "salón",
+    "genus": "m",
+    "translations": {
+      "nb": "stue",
+      "en": "living room"
+    },
+    "plural": "salones"
+  },
+  "jardin_noun": {
+    "word": "jardín",
+    "genus": "m",
+    "translations": {
+      "nb": "hage",
+      "en": "garden"
+    },
+    "plural": "jardines"
+  },
+  "puerta_noun": {
+    "word": "puerta",
+    "genus": "f",
+    "translations": {
+      "nb": "dør",
+      "en": "door"
+    },
+    "plural": "puertas"
+  },
+  "ventana_noun": {
+    "word": "ventana",
+    "genus": "f",
+    "translations": {
+      "nb": "vindu",
+      "en": "window"
+    },
+    "plural": "ventanas"
+  },
+  "cama_noun": {
+    "word": "cama",
+    "genus": "f",
+    "translations": {
+      "nb": "seng",
+      "en": "bed"
+    },
+    "plural": "camas"
+  },
+  "ciudad_noun": {
+    "word": "ciudad",
+    "genus": "f",
+    "translations": {
+      "nb": "by",
+      "en": "city"
+    },
+    "plural": "ciudades"
+  },
+  "pais_noun": {
+    "word": "país",
+    "genus": "m",
+    "translations": {
+      "nb": "land",
+      "en": "country"
+    },
+    "plural": "países"
+  },
+  "calle_noun": {
+    "word": "calle",
+    "genus": "f",
+    "translations": {
+      "nb": "gate",
+      "en": "street"
+    },
+    "plural": "calles"
+  },
+  "plaza_noun": {
+    "word": "plaza",
+    "genus": "f",
+    "translations": {
+      "nb": "plass/torg",
+      "en": "square/plaza"
+    },
+    "plural": "plazas"
+  },
+  "parque_noun": {
+    "word": "parque",
+    "genus": "m",
+    "translations": {
+      "nb": "park",
+      "en": "park"
+    },
+    "plural": "parques"
+  },
+  "tienda_noun": {
+    "word": "tienda",
+    "genus": "f",
+    "translations": {
+      "nb": "butikk",
+      "en": "shop"
+    },
+    "plural": "tiendas"
+  },
+  "supermercado_noun": {
+    "word": "supermercado",
+    "genus": "m",
+    "translations": {
+      "nb": "supermarked",
+      "en": "supermarket"
+    },
+    "plural": "supermercados"
+  },
+  "hospital_noun": {
+    "word": "hospital",
+    "genus": "m",
+    "translations": {
+      "nb": "sykehus",
+      "en": "hospital"
+    },
+    "plural": "hospitales"
+  },
+  "banco_noun": {
+    "word": "banco",
+    "genus": "m",
+    "translations": {
+      "nb": "bank",
+      "en": "bank"
+    },
+    "plural": "bancos"
+  },
+  "aeropuerto_noun": {
+    "word": "aeropuerto",
+    "genus": "m",
+    "translations": {
+      "nb": "flyplass",
+      "en": "airport"
+    },
+    "plural": "aeropuertos"
+  },
+  "estacion_noun": {
+    "word": "estación",
+    "genus": "f",
+    "translations": {
+      "nb": "stasjon",
+      "en": "station"
+    },
+    "plural": "estaciones"
+  },
+  "sol_noun": {
+    "word": "sol",
+    "genus": "m",
+    "translations": {
+      "nb": "sol",
+      "en": "sun"
+    },
+    "plural": "soles"
+  },
+  "luna_noun": {
+    "word": "luna",
+    "genus": "f",
+    "translations": {
+      "nb": "måne",
+      "en": "moon"
+    },
+    "plural": "lunas"
+  },
+  "cielo_noun": {
+    "word": "cielo",
+    "genus": "m",
+    "translations": {
+      "nb": "himmel",
+      "en": "sky"
+    },
+    "plural": "cielos"
+  },
+  "mar_noun": {
+    "word": "mar",
+    "genus": "m",
+    "translations": {
+      "nb": "hav",
+      "en": "sea"
+    },
+    "plural": "mares"
+  },
+  "playa_noun": {
+    "word": "playa",
+    "genus": "f",
+    "translations": {
+      "nb": "strand",
+      "en": "beach"
+    },
+    "plural": "playas"
+  },
+  "montana_noun": {
+    "word": "montaña",
+    "genus": "f",
+    "translations": {
+      "nb": "fjell",
+      "en": "mountain"
+    },
+    "plural": "montañas"
+  },
+  "rio_noun": {
+    "word": "río",
+    "genus": "m",
+    "translations": {
+      "nb": "elv",
+      "en": "river"
+    },
+    "plural": "ríos"
+  },
+  "arbol_noun": {
+    "word": "árbol",
+    "genus": "m",
+    "translations": {
+      "nb": "tre",
+      "en": "tree"
+    },
+    "plural": "árboles"
+  },
+  "flor_noun": {
+    "word": "flor",
+    "genus": "f",
+    "translations": {
+      "nb": "blomst",
+      "en": "flower"
+    },
+    "plural": "flores"
+  },
+  "lluvia_noun": {
+    "word": "lluvia",
+    "genus": "f",
+    "translations": {
+      "nb": "regn",
+      "en": "rain"
+    },
+    "plural": "lluvias"
+  },
+  "nieve_noun": {
+    "word": "nieve",
+    "genus": "f",
+    "translations": {
+      "nb": "snø",
+      "en": "snow"
+    },
+    "plural": "nieves"
+  },
+  "viento_noun": {
+    "word": "viento",
+    "genus": "m",
+    "translations": {
+      "nb": "vind",
+      "en": "wind"
+    },
+    "plural": "vientos"
+  },
+  "tiempo_noun": {
+    "word": "tiempo",
+    "genus": "m",
+    "translations": {
+      "nb": "tid/vær",
+      "en": "time/weather"
+    },
+    "plural": "tiempos"
+  },
+  "coche_noun": {
+    "word": "coche",
+    "genus": "m",
+    "translations": {
+      "nb": "bil",
+      "en": "car"
+    },
+    "plural": "coches"
+  },
+  "autobus_noun": {
+    "word": "autobús",
+    "genus": "m",
+    "translations": {
+      "nb": "buss",
+      "en": "bus"
+    },
+    "plural": "autobuses"
+  },
+  "tren_noun": {
+    "word": "tren",
+    "genus": "m",
+    "translations": {
+      "nb": "tog",
+      "en": "train"
+    },
+    "plural": "trenes"
+  },
+  "avion_noun": {
+    "word": "avión",
+    "genus": "m",
+    "translations": {
+      "nb": "fly",
+      "en": "airplane"
+    },
+    "plural": "aviones"
+  },
+  "bicicleta_noun": {
+    "word": "bicicleta",
+    "genus": "f",
+    "translations": {
+      "nb": "sykkel",
+      "en": "bicycle"
+    },
+    "plural": "bicicletas"
+  },
+  "metro_noun": {
+    "word": "metro",
+    "genus": "m",
+    "translations": {
+      "nb": "t-bane",
+      "en": "metro/subway"
+    },
+    "plural": "metros"
+  },
+  "telefono_noun": {
+    "word": "teléfono",
+    "genus": "m",
+    "translations": {
+      "nb": "telefon",
+      "en": "phone"
+    },
+    "plural": "teléfonos"
+  },
+  "ordenador_noun": {
+    "word": "ordenador",
+    "genus": "m",
+    "translations": {
+      "nb": "datamaskin",
+      "en": "computer"
+    },
+    "plural": "ordenadores"
+  },
+  "pelicula_noun": {
+    "word": "película",
+    "genus": "f",
+    "translations": {
+      "nb": "film",
+      "en": "movie"
+    },
+    "plural": "películas"
+  },
+  "foto_noun": {
+    "word": "foto",
+    "genus": "f",
+    "translations": {
+      "nb": "bilde/foto",
+      "en": "photo"
+    },
+    "plural": "fotos"
+  },
+  "cancion_noun": {
+    "word": "canción",
+    "genus": "f",
+    "translations": {
+      "nb": "sang",
+      "en": "song"
+    },
+    "plural": "canciones"
+  },
+  "deporte_noun": {
+    "word": "deporte",
+    "genus": "m",
+    "translations": {
+      "nb": "sport",
+      "en": "sport"
+    },
+    "plural": "deportes"
+  },
+  "futbol_noun": {
+    "word": "fútbol",
+    "genus": "m",
+    "translations": {
+      "nb": "fotball",
+      "en": "football/soccer"
+    },
+    "plural": "fútboles"
+  },
+  "fiesta_noun": {
+    "word": "fiesta",
+    "genus": "f",
+    "translations": {
+      "nb": "fest",
+      "en": "party"
+    },
+    "plural": "fiestas"
+  },
+  "vacaciones_noun": {
+    "word": "vacaciones",
+    "genus": "f",
+    "translations": {
+      "nb": "ferie",
+      "en": "vacation"
+    },
+    "plural": "vacaciones"
+  },
+  "viaje_noun": {
+    "word": "viaje",
+    "genus": "m",
+    "translations": {
+      "nb": "reise",
+      "en": "trip"
+    },
+    "plural": "viajes"
+  },
+  "regalo_noun": {
+    "word": "regalo",
+    "genus": "m",
+    "translations": {
+      "nb": "gave",
+      "en": "gift"
+    },
+    "plural": "regalos"
+  },
+  "cumpleanos_noun": {
+    "word": "cumpleaños",
+    "genus": "m",
+    "translations": {
+      "nb": "bursdag",
+      "en": "birthday"
+    },
+    "plural": "cumpleaños"
+  },
+  "navidad_noun": {
+    "word": "Navidad",
+    "genus": "f",
+    "translations": {
+      "nb": "jul",
+      "en": "Christmas"
+    },
+    "plural": "Navidades"
+  },
+  "trabajo_noun": {
+    "word": "trabajo",
+    "genus": "m",
+    "translations": {
+      "nb": "jobb/arbeid",
+      "en": "work/job"
+    },
+    "plural": "trabajos"
+  },
+  "dinero_noun": {
+    "word": "dinero",
+    "genus": "m",
+    "translations": {
+      "nb": "penger",
+      "en": "money"
+    },
+    "plural": "dineros"
+  },
+  "problema_noun": {
+    "word": "problema",
+    "genus": "m",
+    "translations": {
+      "nb": "problem",
+      "en": "problem"
+    },
+    "plural": "problemas"
+  },
+  "cosa_noun": {
+    "word": "cosa",
+    "genus": "f",
+    "translations": {
+      "nb": "ting",
+      "en": "thing"
+    },
+    "plural": "cosas"
+  },
+  "vez_noun": {
+    "word": "vez",
+    "genus": "f",
+    "translations": {
+      "nb": "gang",
+      "en": "time (occurrence)"
+    },
+    "plural": "veces"
+  },
+  "vida_noun": {
+    "word": "vida",
+    "genus": "f",
+    "translations": {
+      "nb": "liv",
+      "en": "life"
+    },
+    "plural": "vidas"
+  },
+  "mundo_noun": {
+    "word": "mundo",
+    "genus": "m",
+    "translations": {
+      "nb": "verden",
+      "en": "world"
+    },
+    "plural": "mundos"
+  },
+  "nombre_noun": {
+    "word": "nombre",
+    "genus": "m",
+    "translations": {
+      "nb": "navn",
+      "en": "name"
+    },
+    "plural": "nombres"
+  },
+  "pregunta_noun": {
+    "word": "pregunta",
+    "genus": "f",
+    "translations": {
+      "nb": "spørsmål",
+      "en": "question"
+    },
+    "plural": "preguntas"
+  },
+  "respuesta_noun": {
+    "word": "respuesta",
+    "genus": "f",
+    "translations": {
+      "nb": "svar",
+      "en": "answer"
+    },
+    "plural": "respuestas"
+  },
+  "idea_noun": {
+    "word": "idea",
+    "genus": "f",
+    "translations": {
+      "nb": "idé",
+      "en": "idea"
+    },
+    "plural": "ideas"
+  },
+  "palabra_noun": {
+    "word": "palabra",
+    "genus": "f",
+    "translations": {
+      "nb": "ord",
+      "en": "word"
+    },
+    "plural": "palabras"
+  },
+  "camisa_noun": {
+    "word": "camisa",
+    "genus": "f",
+    "translations": {
+      "nb": "skjorte",
+      "en": "shirt"
+    },
+    "plural": "camisas"
+  },
+  "camiseta_noun": {
+    "word": "camiseta",
+    "genus": "f",
+    "translations": {
+      "nb": "t-skjorte",
+      "en": "t-shirt"
+    },
+    "plural": "camisetas"
+  },
+  "pantalon_noun": {
+    "word": "pantalón",
+    "genus": "m",
+    "translations": {
+      "nb": "bukse",
+      "en": "pants/trousers"
+    },
+    "plural": "pantalones"
+  },
+  "pantalones_cortos_noun": {
+    "word": "pantalones cortos",
+    "genus": "m",
+    "translations": {
+      "nb": "shorts",
+      "en": "shorts"
+    },
+    "plural": "pantalones cortos"
+  },
+  "falda_noun": {
+    "word": "falda",
+    "genus": "f",
+    "translations": {
+      "nb": "skjørt",
+      "en": "skirt"
+    },
+    "plural": "faldas"
+  },
+  "vestido_noun": {
+    "word": "vestido",
+    "genus": "m",
+    "translations": {
+      "nb": "kjole",
+      "en": "dress"
+    },
+    "plural": "vestidos"
+  },
+  "jersey_noun": {
+    "word": "jersey",
+    "genus": "m",
+    "translations": {
+      "nb": "genser",
+      "en": "sweater/jumper"
+    },
+    "plural": "jerséis"
+  },
+  "chaqueta_noun": {
+    "word": "chaqueta",
+    "genus": "f",
+    "translations": {
+      "nb": "jakke",
+      "en": "jacket"
+    },
+    "plural": "chaquetas"
+  },
+  "abrigo_noun": {
+    "word": "abrigo",
+    "genus": "m",
+    "translations": {
+      "nb": "frakk/kåpe",
+      "en": "coat"
+    },
+    "plural": "abrigos"
+  },
+  "zapato_noun": {
+    "word": "zapato",
+    "genus": "m",
+    "translations": {
+      "nb": "sko",
+      "en": "shoe"
+    },
+    "plural": "zapatos"
+  },
+  "zapatilla_noun": {
+    "word": "zapatilla",
+    "genus": "f",
+    "translations": {
+      "nb": "joggesko/tøffel",
+      "en": "sneaker/slipper"
+    },
+    "plural": "zapatillas"
+  },
+  "bota_noun": {
+    "word": "bota",
+    "genus": "f",
+    "translations": {
+      "nb": "støvel",
+      "en": "boot"
+    },
+    "plural": "botas"
+  },
+  "calcetin_noun": {
+    "word": "calcetín",
+    "genus": "m",
+    "translations": {
+      "nb": "sokk",
+      "en": "sock"
+    },
+    "plural": "calcetines"
+  },
+  "gorro_noun": {
+    "word": "gorro",
+    "genus": "m",
+    "translations": {
+      "nb": "lue",
+      "en": "cap/beanie"
+    },
+    "plural": "gorros"
+  },
+  "sombrero_noun": {
+    "word": "sombrero",
+    "genus": "m",
+    "translations": {
+      "nb": "hatt",
+      "en": "hat"
+    },
+    "plural": "sombreros"
+  },
+  "guante_noun": {
+    "word": "guante",
+    "genus": "m",
+    "translations": {
+      "nb": "hanske",
+      "en": "glove"
+    },
+    "plural": "guantes"
+  },
+  "bufanda_noun": {
+    "word": "bufanda",
+    "genus": "f",
+    "translations": {
+      "nb": "skjerf",
+      "en": "scarf"
+    },
+    "plural": "bufandas"
+  },
+  "cinturon_noun": {
+    "word": "cinturón",
+    "genus": "m",
+    "translations": {
+      "nb": "belte",
+      "en": "belt"
+    },
+    "plural": "cinturones"
+  },
+  "bolso_noun": {
+    "word": "bolso",
+    "genus": "m",
+    "translations": {
+      "nb": "veske",
+      "en": "bag/handbag"
+    },
+    "plural": "bolsos"
+  },
+  "mochila_noun": {
+    "word": "mochila",
+    "genus": "f",
+    "translations": {
+      "nb": "ryggsekk",
+      "en": "backpack"
+    },
+    "plural": "mochilas"
+  },
+  "gafas_noun": {
+    "word": "gafas",
+    "genus": "f",
+    "translations": {
+      "nb": "briller",
+      "en": "glasses"
+    },
+    "plural": "gafas"
+  },
+  "reloj_noun": {
+    "word": "reloj",
+    "genus": "m",
+    "translations": {
+      "nb": "klokke",
+      "en": "watch/clock"
+    },
+    "plural": "relojes"
+  },
+  "anillo_noun": {
+    "word": "anillo",
+    "genus": "m",
+    "translations": {
+      "nb": "ring",
+      "en": "ring"
+    },
+    "plural": "anillos"
+  },
+  "collar_noun": {
+    "word": "collar",
+    "genus": "m",
+    "translations": {
+      "nb": "halskjede",
+      "en": "necklace"
+    },
+    "plural": "collares"
+  },
+  "medico_noun": {
+    "word": "médico",
+    "genus": "m",
+    "translations": {
+      "nb": "lege",
+      "en": "doctor"
+    },
+    "plural": "médicos"
+  },
+  "medica_noun": {
+    "word": "médica",
+    "genus": "f",
+    "translations": {
+      "nb": "lege (kvinne)",
+      "en": "doctor (female)"
+    },
+    "plural": "médicas"
+  },
+  "enfermero_noun": {
+    "word": "enfermero",
+    "genus": "m",
+    "translations": {
+      "nb": "sykepleier",
+      "en": "nurse (male)"
+    },
+    "plural": "enfermeros"
+  },
+  "enfermera_noun": {
+    "word": "enfermera",
+    "genus": "f",
+    "translations": {
+      "nb": "sykepleier (kvinne)",
+      "en": "nurse (female)"
+    },
+    "plural": "enfermeras"
+  },
+  "abogado_noun": {
+    "word": "abogado",
+    "genus": "m",
+    "translations": {
+      "nb": "advokat",
+      "en": "lawyer"
+    },
+    "plural": "abogados"
+  },
+  "policia_noun": {
+    "word": "policía",
+    "genus": "m",
+    "translations": {
+      "nb": "politimann",
+      "en": "police officer"
+    },
+    "plural": "policías"
+  },
+  "bombero_noun": {
+    "word": "bombero",
+    "genus": "m",
+    "translations": {
+      "nb": "brannmann",
+      "en": "firefighter"
+    },
+    "plural": "bomberos"
+  },
+  "camarero_noun": {
+    "word": "camarero",
+    "genus": "m",
+    "translations": {
+      "nb": "kelner",
+      "en": "waiter"
+    },
+    "plural": "camareros"
+  },
+  "camarera_noun": {
+    "word": "camarera",
+    "genus": "f",
+    "translations": {
+      "nb": "servitør (kvinne)",
+      "en": "waitress"
+    },
+    "plural": "camareras"
+  },
+  "cocinero_noun": {
+    "word": "cocinero",
+    "genus": "m",
+    "translations": {
+      "nb": "kokk",
+      "en": "cook/chef"
+    },
+    "plural": "cocineros"
+  },
+  "vendedor_noun": {
+    "word": "vendedor",
+    "genus": "m",
+    "translations": {
+      "nb": "selger",
+      "en": "salesperson"
+    },
+    "plural": "vendedores"
+  },
+  "actor_noun": {
+    "word": "actor",
+    "genus": "m",
+    "translations": {
+      "nb": "skuespiller",
+      "en": "actor"
+    },
+    "plural": "actores"
+  },
+  "actriz_noun": {
+    "word": "actriz",
+    "genus": "f",
+    "translations": {
+      "nb": "skuespiller (kvinne)",
+      "en": "actress"
+    },
+    "plural": "actrices"
+  },
+  "cantante_noun": {
+    "word": "cantante",
+    "genus": "m",
+    "translations": {
+      "nb": "sanger",
+      "en": "singer"
+    },
+    "plural": "cantantes"
+  },
+  "escritor_noun": {
+    "word": "escritor",
+    "genus": "m",
+    "translations": {
+      "nb": "forfatter",
+      "en": "writer"
+    },
+    "plural": "escritores"
+  },
+  "periodista_noun": {
+    "word": "periodista",
+    "genus": "m",
+    "translations": {
+      "nb": "journalist",
+      "en": "journalist"
+    },
+    "plural": "periodistas"
+  },
+  "ingeniero_noun": {
+    "word": "ingeniero",
+    "genus": "m",
+    "translations": {
+      "nb": "ingeniør",
+      "en": "engineer"
+    },
+    "plural": "ingenieros"
+  },
+  "arquitecto_noun": {
+    "word": "arquitecto",
+    "genus": "m",
+    "translations": {
+      "nb": "arkitekt",
+      "en": "architect"
+    },
+    "plural": "arquitectos"
+  },
+  "piloto_noun": {
+    "word": "piloto",
+    "genus": "m",
+    "translations": {
+      "nb": "pilot",
+      "en": "pilot"
+    },
+    "plural": "pilotos"
+  },
+  "conductor_noun": {
+    "word": "conductor",
+    "genus": "m",
+    "translations": {
+      "nb": "sjåfør",
+      "en": "driver"
+    },
+    "plural": "conductores"
+  },
+  "peluquero_noun": {
+    "word": "peluquero",
+    "genus": "m",
+    "translations": {
+      "nb": "frisør",
+      "en": "hairdresser"
+    },
+    "plural": "peluqueros"
+  },
+  "deportista_noun": {
+    "word": "deportista",
+    "genus": "m",
+    "translations": {
+      "nb": "idrettsutøver",
+      "en": "athlete"
+    },
+    "plural": "deportistas"
+  },
+  "futbolista_noun": {
+    "word": "futbolista",
+    "genus": "m",
+    "translations": {
+      "nb": "fotballspiller",
+      "en": "football player"
+    },
+    "plural": "futbolistas"
+  },
+  "taza_noun": {
+    "word": "taza",
+    "genus": "f",
+    "translations": {
+      "nb": "kopp",
+      "en": "cup/mug"
+    },
+    "plural": "tazas"
+  },
+  "vaso_noun": {
+    "word": "vaso",
+    "genus": "m",
+    "translations": {
+      "nb": "glass",
+      "en": "glass"
+    },
+    "plural": "vasos"
+  },
+  "plato_noun": {
+    "word": "plato",
+    "genus": "m",
+    "translations": {
+      "nb": "tallerken",
+      "en": "plate/dish"
+    },
+    "plural": "platos"
+  },
+  "cuchara_noun": {
+    "word": "cuchara",
+    "genus": "f",
+    "translations": {
+      "nb": "skje",
+      "en": "spoon"
+    },
+    "plural": "cucharas"
+  },
+  "tenedor_noun": {
+    "word": "tenedor",
+    "genus": "m",
+    "translations": {
+      "nb": "gaffel",
+      "en": "fork"
+    },
+    "plural": "tenedores"
+  },
+  "cuchillo_noun": {
+    "word": "cuchillo",
+    "genus": "m",
+    "translations": {
+      "nb": "kniv",
+      "en": "knife"
+    },
+    "plural": "cuchillos"
+  },
+  "botella_noun": {
+    "word": "botella",
+    "genus": "f",
+    "translations": {
+      "nb": "flaske",
+      "en": "bottle"
+    },
+    "plural": "botellas"
+  },
+  "nevera_noun": {
+    "word": "nevera",
+    "genus": "f",
+    "translations": {
+      "nb": "kjøleskap",
+      "en": "refrigerator"
+    },
+    "plural": "neveras"
+  },
+  "horno_noun": {
+    "word": "horno",
+    "genus": "m",
+    "translations": {
+      "nb": "ovn",
+      "en": "oven"
+    },
+    "plural": "hornos"
+  },
+  "lavadora_noun": {
+    "word": "lavadora",
+    "genus": "f",
+    "translations": {
+      "nb": "vaskemaskin",
+      "en": "washing machine"
+    },
+    "plural": "lavadoras"
+  },
+  "television_noun": {
+    "word": "televisión",
+    "genus": "f",
+    "translations": {
+      "nb": "TV",
+      "en": "television"
+    },
+    "plural": "televisiones"
+  },
+  "sofa_noun": {
+    "word": "sofá",
+    "genus": "m",
+    "translations": {
+      "nb": "sofa",
+      "en": "sofa/couch"
+    },
+    "plural": "sofás"
+  },
+  "armario_noun": {
+    "word": "armario",
+    "genus": "m",
+    "translations": {
+      "nb": "skap",
+      "en": "wardrobe/closet"
+    },
+    "plural": "armarios"
+  },
+  "espejo_noun": {
+    "word": "espejo",
+    "genus": "m",
+    "translations": {
+      "nb": "speil",
+      "en": "mirror"
+    },
+    "plural": "espejos"
+  },
+  "lampara_noun": {
+    "word": "lámpara",
+    "genus": "f",
+    "translations": {
+      "nb": "lampe",
+      "en": "lamp"
+    },
+    "plural": "lámparas"
+  },
+  "alfombra_noun": {
+    "word": "alfombra",
+    "genus": "f",
+    "translations": {
+      "nb": "teppe",
+      "en": "rug/carpet"
+    },
+    "plural": "alfombras"
+  },
+  "cuadro_noun": {
+    "word": "cuadro",
+    "genus": "m",
+    "translations": {
+      "nb": "bilde/maleri",
+      "en": "picture/painting"
+    },
+    "plural": "cuadros"
+  },
+  "escalera_noun": {
+    "word": "escalera",
+    "genus": "f",
+    "translations": {
+      "nb": "trapp",
+      "en": "stairs"
+    },
+    "plural": "escaleras"
+  },
+  "suelo_noun": {
+    "word": "suelo",
+    "genus": "m",
+    "translations": {
+      "nb": "gulv/bakke",
+      "en": "floor/ground"
+    },
+    "plural": "suelos"
+  },
+  "techo_noun": {
+    "word": "techo",
+    "genus": "m",
+    "translations": {
+      "nb": "tak",
+      "en": "ceiling/roof"
+    },
+    "plural": "techos"
+  },
+  "pared_noun": {
+    "word": "pared",
+    "genus": "f",
+    "translations": {
+      "nb": "vegg",
+      "en": "wall"
+    },
+    "plural": "paredes"
+  },
+  "helado_noun": {
+    "word": "helado",
+    "genus": "m",
+    "translations": {
+      "nb": "iskrem",
+      "en": "ice cream"
+    },
+    "plural": "helados"
+  },
+  "tarta_noun": {
+    "word": "tarta",
+    "genus": "f",
+    "translations": {
+      "nb": "kake",
+      "en": "cake/pie"
+    },
+    "plural": "tartas"
+  },
+  "galleta_noun": {
+    "word": "galleta",
+    "genus": "f",
+    "translations": {
+      "nb": "kjeks",
+      "en": "cookie/biscuit"
+    },
+    "plural": "galletas"
+  },
+  "chocolate_noun": {
+    "word": "chocolate",
+    "genus": "m",
+    "translations": {
+      "nb": "sjokolade",
+      "en": "chocolate"
+    },
+    "plural": "chocolates"
+  },
+  "caramelo_noun": {
+    "word": "caramelo",
+    "genus": "m",
+    "translations": {
+      "nb": "karamell/godteri",
+      "en": "candy/caramel"
+    },
+    "plural": "caramelos"
+  },
+  "patata_noun": {
+    "word": "patata",
+    "genus": "f",
+    "translations": {
+      "nb": "potet",
+      "en": "potato"
+    },
+    "plural": "patatas"
+  },
+  "zanahoria_noun": {
+    "word": "zanahoria",
+    "genus": "f",
+    "translations": {
+      "nb": "gulrot",
+      "en": "carrot"
+    },
+    "plural": "zanahorias"
+  },
+  "cebolla_noun": {
+    "word": "cebolla",
+    "genus": "f",
+    "translations": {
+      "nb": "løk",
+      "en": "onion"
+    },
+    "plural": "cebollas"
+  },
+  "ajo_noun": {
+    "word": "ajo",
+    "genus": "m",
+    "translations": {
+      "nb": "hvitløk",
+      "en": "garlic"
+    },
+    "plural": "ajos"
+  },
+  "lechuga_noun": {
+    "word": "lechuga",
+    "genus": "f",
+    "translations": {
+      "nb": "salat",
+      "en": "lettuce"
+    },
+    "plural": "lechugas"
+  },
+  "pepino_noun": {
+    "word": "pepino",
+    "genus": "m",
+    "translations": {
+      "nb": "agurk",
+      "en": "cucumber"
+    },
+    "plural": "pepinos"
+  },
+  "pimiento_noun": {
+    "word": "pimiento",
+    "genus": "m",
+    "translations": {
+      "nb": "paprika",
+      "en": "pepper (vegetable)"
+    },
+    "plural": "pimientos"
+  },
+  "fresa_noun": {
+    "word": "fresa",
+    "genus": "f",
+    "translations": {
+      "nb": "jordbær",
+      "en": "strawberry"
+    },
+    "plural": "fresas"
+  },
+  "uva_noun": {
+    "word": "uva",
+    "genus": "f",
+    "translations": {
+      "nb": "drue",
+      "en": "grape"
+    },
+    "plural": "uvas"
+  },
+  "melocoton_noun": {
+    "word": "melocotón",
+    "genus": "m",
+    "translations": {
+      "nb": "fersken",
+      "en": "peach"
+    },
+    "plural": "melocotones"
+  },
+  "limon_noun": {
+    "word": "limón",
+    "genus": "m",
+    "translations": {
+      "nb": "sitron",
+      "en": "lemon"
+    },
+    "plural": "limones"
+  },
+  "sandia_noun": {
+    "word": "sandía",
+    "genus": "f",
+    "translations": {
+      "nb": "vannmelon",
+      "en": "watermelon"
+    },
+    "plural": "sandías"
+  },
+  "mantequilla_noun": {
+    "word": "mantequilla",
+    "genus": "f",
+    "translations": {
+      "nb": "smør",
+      "en": "butter"
+    },
+    "plural": "mantequillas"
+  },
+  "sal_noun": {
+    "word": "sal",
+    "genus": "f",
+    "translations": {
+      "nb": "salt",
+      "en": "salt"
+    },
+    "plural": "sales"
+  },
+  "azucar_noun": {
+    "word": "azúcar",
+    "genus": "m",
+    "translations": {
+      "nb": "sukker",
+      "en": "sugar"
+    },
+    "plural": "azúcares"
+  },
+  "aceite_noun": {
+    "word": "aceite",
+    "genus": "m",
+    "translations": {
+      "nb": "olje",
+      "en": "oil"
+    },
+    "plural": "aceites"
+  },
+  "sopa_noun": {
+    "word": "sopa",
+    "genus": "f",
+    "translations": {
+      "nb": "suppe",
+      "en": "soup"
+    },
+    "plural": "sopas"
+  },
+  "bocadillo_noun": {
+    "word": "bocadillo",
+    "genus": "m",
+    "translations": {
+      "nb": "sandwich/smørbrød",
+      "en": "sandwich"
+    },
+    "plural": "bocadillos"
+  },
+  "jamon_noun": {
+    "word": "jamón",
+    "genus": "m",
+    "translations": {
+      "nb": "skinke",
+      "en": "ham"
+    },
+    "plural": "jamones"
+  },
+  "salchicha_noun": {
+    "word": "salchicha",
+    "genus": "f",
+    "translations": {
+      "nb": "pølse",
+      "en": "sausage"
+    },
+    "plural": "salchichas"
+  },
+  "isla_noun": {
+    "word": "isla",
+    "genus": "f",
+    "translations": {
+      "nb": "øy",
+      "en": "island"
+    },
+    "plural": "islas"
+  },
+  "bosque_noun": {
+    "word": "bosque",
+    "genus": "m",
+    "translations": {
+      "nb": "skog",
+      "en": "forest"
+    },
+    "plural": "bosques"
+  },
+  "campo_noun": {
+    "word": "campo",
+    "genus": "m",
+    "translations": {
+      "nb": "landsbygd/åker",
+      "en": "countryside/field"
+    },
+    "plural": "campos"
+  },
+  "lago_noun": {
+    "word": "lago",
+    "genus": "m",
+    "translations": {
+      "nb": "innsjø",
+      "en": "lake"
+    },
+    "plural": "lagos"
+  },
+  "estrella_noun": {
+    "word": "estrella",
+    "genus": "f",
+    "translations": {
+      "nb": "stjerne",
+      "en": "star"
+    },
+    "plural": "estrellas"
+  },
+  "nube_noun": {
+    "word": "nube",
+    "genus": "f",
+    "translations": {
+      "nb": "sky",
+      "en": "cloud"
+    },
+    "plural": "nubes"
+  },
+  "piedra_noun": {
+    "word": "piedra",
+    "genus": "f",
+    "translations": {
+      "nb": "stein",
+      "en": "stone/rock"
+    },
+    "plural": "piedras"
+  },
+  "hierba_noun": {
+    "word": "hierba",
+    "genus": "f",
+    "translations": {
+      "nb": "gress",
+      "en": "grass"
+    },
+    "plural": "hierbas"
+  },
+  "hoja_noun": {
+    "word": "hoja",
+    "genus": "f",
+    "translations": {
+      "nb": "blad",
+      "en": "leaf"
+    },
+    "plural": "hojas"
+  },
+  "arena_noun": {
+    "word": "arena",
+    "genus": "f",
+    "translations": {
+      "nb": "sand",
+      "en": "sand"
+    },
+    "plural": "arenas"
+  },
+  "ola_noun": {
+    "word": "ola",
+    "genus": "f",
+    "translations": {
+      "nb": "bølge",
+      "en": "wave"
+    },
+    "plural": "olas"
+  },
+  "fuego_noun": {
+    "word": "fuego",
+    "genus": "m",
+    "translations": {
+      "nb": "ild",
+      "en": "fire"
+    },
+    "plural": "fuegos"
+  },
+  "tierra_noun": {
+    "word": "tierra",
+    "genus": "f",
+    "translations": {
+      "nb": "jord",
+      "en": "earth/land"
+    },
+    "plural": "tierras"
+  },
+  "aire_noun": {
+    "word": "aire",
+    "genus": "m",
+    "translations": {
+      "nb": "luft",
+      "en": "air"
+    },
+    "plural": "aires"
+  },
+  "iglesia_noun": {
+    "word": "iglesia",
+    "genus": "f",
+    "translations": {
+      "nb": "kirke",
+      "en": "church"
+    },
+    "plural": "iglesias"
+  },
+  "museo_noun": {
+    "word": "museo",
+    "genus": "m",
+    "translations": {
+      "nb": "museum",
+      "en": "museum"
+    },
+    "plural": "museos"
+  },
+  "teatro_noun": {
+    "word": "teatro",
+    "genus": "m",
+    "translations": {
+      "nb": "teater",
+      "en": "theater"
+    },
+    "plural": "teatros"
+  },
+  "cine_noun": {
+    "word": "cine",
+    "genus": "m",
+    "translations": {
+      "nb": "kino",
+      "en": "cinema"
+    },
+    "plural": "cines"
+  },
+  "biblioteca_noun": {
+    "word": "biblioteca",
+    "genus": "f",
+    "translations": {
+      "nb": "bibliotek",
+      "en": "library"
+    },
+    "plural": "bibliotecas"
+  },
+  "farmacia_noun": {
+    "word": "farmacia",
+    "genus": "f",
+    "translations": {
+      "nb": "apotek",
+      "en": "pharmacy"
+    },
+    "plural": "farmacias"
+  },
+  "panaderia_noun": {
+    "word": "panadería",
+    "genus": "f",
+    "translations": {
+      "nb": "bakeri",
+      "en": "bakery"
+    },
+    "plural": "panaderías"
+  },
+  "cafeteria_noun": {
+    "word": "cafetería",
+    "genus": "f",
+    "translations": {
+      "nb": "kafé",
+      "en": "café"
+    },
+    "plural": "cafeterías"
+  },
+  "hotel_noun": {
+    "word": "hotel",
+    "genus": "m",
+    "translations": {
+      "nb": "hotell",
+      "en": "hotel"
+    },
+    "plural": "hoteles"
+  },
+  "oficina_noun": {
+    "word": "oficina",
+    "genus": "f",
+    "translations": {
+      "nb": "kontor",
+      "en": "office"
+    },
+    "plural": "oficinas"
+  },
+  "fabrica_noun": {
+    "word": "fábrica",
+    "genus": "f",
+    "translations": {
+      "nb": "fabrikk",
+      "en": "factory"
+    },
+    "plural": "fábricas"
+  },
+  "mercado_noun": {
+    "word": "mercado",
+    "genus": "m",
+    "translations": {
+      "nb": "marked",
+      "en": "market"
+    },
+    "plural": "mercados"
+  },
+  "estadio_noun": {
+    "word": "estadio",
+    "genus": "m",
+    "translations": {
+      "nb": "stadion",
+      "en": "stadium"
+    },
+    "plural": "estadios"
+  },
+  "gimnasio_noun": {
+    "word": "gimnasio",
+    "genus": "m",
+    "translations": {
+      "nb": "treningssenter",
+      "en": "gym"
+    },
+    "plural": "gimnasios"
+  },
+  "piscina_noun": {
+    "word": "piscina",
+    "genus": "f",
+    "translations": {
+      "nb": "svømmebasseng",
+      "en": "swimming pool"
+    },
+    "plural": "piscinas"
+  },
+  "zoo_noun": {
+    "word": "zoo",
+    "genus": "m",
+    "translations": {
+      "nb": "dyrehage",
+      "en": "zoo"
+    },
+    "plural": "zoos"
+  },
+  "puerto_noun": {
+    "word": "puerto",
+    "genus": "m",
+    "translations": {
+      "nb": "havn",
+      "en": "port/harbor"
+    },
+    "plural": "puertos"
+  },
+  "puente_noun": {
+    "word": "puente",
+    "genus": "m",
+    "translations": {
+      "nb": "bro",
+      "en": "bridge"
+    },
+    "plural": "puentes"
+  },
+  "castillo_noun": {
+    "word": "castillo",
+    "genus": "m",
+    "translations": {
+      "nb": "slott",
+      "en": "castle"
+    },
+    "plural": "castillos"
+  },
+  "juego_noun": {
+    "word": "juego",
+    "genus": "m",
+    "translations": {
+      "nb": "spill",
+      "en": "game"
+    },
+    "plural": "juegos"
+  },
+  "pelota_noun": {
+    "word": "pelota",
+    "genus": "f",
+    "translations": {
+      "nb": "ball",
+      "en": "ball"
+    },
+    "plural": "pelotas"
+  },
+  "balon_noun": {
+    "word": "balón",
+    "genus": "m",
+    "translations": {
+      "nb": "ball (stor)",
+      "en": "ball (large)"
+    },
+    "plural": "balones"
+  },
+  "guitarra_noun": {
+    "word": "guitarra",
+    "genus": "f",
+    "translations": {
+      "nb": "gitar",
+      "en": "guitar"
+    },
+    "plural": "guitarras"
+  },
+  "piano_noun": {
+    "word": "piano",
+    "genus": "m",
+    "translations": {
+      "nb": "piano",
+      "en": "piano"
+    },
+    "plural": "pianos"
+  },
+  "violin_noun": {
+    "word": "violín",
+    "genus": "m",
+    "translations": {
+      "nb": "fiolin",
+      "en": "violin"
+    },
+    "plural": "violines"
+  },
+  "bateria_noun": {
+    "word": "batería",
+    "genus": "f",
+    "translations": {
+      "nb": "trommesett",
+      "en": "drums"
+    },
+    "plural": "baterías"
+  },
+  "revista_noun": {
+    "word": "revista",
+    "genus": "f",
+    "translations": {
+      "nb": "magasin",
+      "en": "magazine"
+    },
+    "plural": "revistas"
+  },
+  "periodico_noun": {
+    "word": "periódico",
+    "genus": "m",
+    "translations": {
+      "nb": "avis",
+      "en": "newspaper"
+    },
+    "plural": "periódicos"
+  },
+  "carta_noun": {
+    "word": "carta",
+    "genus": "f",
+    "translations": {
+      "nb": "brev",
+      "en": "letter"
+    },
+    "plural": "cartas"
+  },
+  "correo_noun": {
+    "word": "correo",
+    "genus": "m",
+    "translations": {
+      "nb": "post/e-post",
+      "en": "mail/email"
+    },
+    "plural": "correos"
+  },
+  "mensaje_noun": {
+    "word": "mensaje",
+    "genus": "m",
+    "translations": {
+      "nb": "melding",
+      "en": "message"
+    },
+    "plural": "mensajes"
+  },
+  "noticia_noun": {
+    "word": "noticia",
+    "genus": "f",
+    "translations": {
+      "nb": "nyhet",
+      "en": "news"
+    },
+    "plural": "noticias"
+  },
+  "pagina_noun": {
+    "word": "página",
+    "genus": "f",
+    "translations": {
+      "nb": "side",
+      "en": "page"
+    },
+    "plural": "páginas"
+  },
+  "historia_cuento_noun": {
+    "word": "historia",
+    "genus": "f",
+    "translations": {
+      "nb": "fortelling",
+      "en": "story"
+    },
+    "plural": "historias"
+  },
+  "cuento_noun": {
+    "word": "cuento",
+    "genus": "m",
+    "translations": {
+      "nb": "eventyr",
+      "en": "tale/story"
+    },
+    "plural": "cuentos"
+  },
+  "serpiente_noun": {
+    "word": "serpiente",
+    "genus": "f",
+    "translations": {
+      "nb": "slange",
+      "en": "snake"
+    },
+    "plural": "serpientes"
+  },
+  "mono_noun": {
+    "word": "mono",
+    "genus": "m",
+    "translations": {
+      "nb": "ape",
+      "en": "monkey"
+    },
+    "plural": "monos"
+  },
+  "tigre_noun": {
+    "word": "tigre",
+    "genus": "m",
+    "translations": {
+      "nb": "tiger",
+      "en": "tiger"
+    },
+    "plural": "tigres"
+  },
+  "lobo_noun": {
+    "word": "lobo",
+    "genus": "m",
+    "translations": {
+      "nb": "ulv",
+      "en": "wolf"
+    },
+    "plural": "lobos"
+  },
+  "zorro_noun": {
+    "word": "zorro",
+    "genus": "m",
+    "translations": {
+      "nb": "rev",
+      "en": "fox"
+    },
+    "plural": "zorros"
+  },
+  "oveja_noun": {
+    "word": "oveja",
+    "genus": "f",
+    "translations": {
+      "nb": "sau",
+      "en": "sheep"
+    },
+    "plural": "ovejas"
+  },
+  "gallina_noun": {
+    "word": "gallina",
+    "genus": "f",
+    "translations": {
+      "nb": "høne",
+      "en": "hen"
+    },
+    "plural": "gallinas"
+  },
+  "pato_noun": {
+    "word": "pato",
+    "genus": "m",
+    "translations": {
+      "nb": "and",
+      "en": "duck"
+    },
+    "plural": "patos"
+  },
+  "mariposa_noun": {
+    "word": "mariposa",
+    "genus": "f",
+    "translations": {
+      "nb": "sommerfugl",
+      "en": "butterfly"
+    },
+    "plural": "mariposas"
+  },
+  "abeja_noun": {
+    "word": "abeja",
+    "genus": "f",
+    "translations": {
+      "nb": "bie",
+      "en": "bee"
+    },
+    "plural": "abejas"
+  },
+  "hormiga_noun": {
+    "word": "hormiga",
+    "genus": "f",
+    "translations": {
+      "nb": "maur",
+      "en": "ant"
+    },
+    "plural": "hormigas"
+  },
+  "mosca_noun": {
+    "word": "mosca",
+    "genus": "f",
+    "translations": {
+      "nb": "flue",
+      "en": "fly"
+    },
+    "plural": "moscas"
+  },
+  "arana_noun": {
+    "word": "araña",
+    "genus": "f",
+    "translations": {
+      "nb": "edderkopp",
+      "en": "spider"
+    },
+    "plural": "arañas"
+  },
+  "delfin_noun": {
+    "word": "delfín",
+    "genus": "m",
+    "translations": {
+      "nb": "delfin",
+      "en": "dolphin"
+    },
+    "plural": "delfines"
+  },
+  "ballena_noun": {
+    "word": "ballena",
+    "genus": "f",
+    "translations": {
+      "nb": "hval",
+      "en": "whale"
+    },
+    "plural": "ballenas"
+  },
+  "tiburon_noun": {
+    "word": "tiburón",
+    "genus": "m",
+    "translations": {
+      "nb": "hai",
+      "en": "shark"
+    },
+    "plural": "tiburones"
+  },
+  "diente_noun": {
+    "word": "diente",
+    "genus": "m",
+    "translations": {
+      "nb": "tann",
+      "en": "tooth"
+    },
+    "plural": "dientes"
+  },
+  "lengua_noun": {
+    "word": "lengua",
+    "genus": "f",
+    "translations": {
+      "nb": "tunge/språk",
+      "en": "tongue/language"
+    },
+    "plural": "lenguas"
+  },
+  "cuello_noun": {
+    "word": "cuello",
+    "genus": "m",
+    "translations": {
+      "nb": "nakke/hals",
+      "en": "neck"
+    },
+    "plural": "cuellos"
+  },
+  "hombro_noun": {
+    "word": "hombro",
+    "genus": "m",
+    "translations": {
+      "nb": "skulder",
+      "en": "shoulder"
+    },
+    "plural": "hombros"
+  },
+  "espalda_noun": {
+    "word": "espalda",
+    "genus": "f",
+    "translations": {
+      "nb": "rygg",
+      "en": "back"
+    },
+    "plural": "espaldas"
+  },
+  "pecho_noun": {
+    "word": "pecho",
+    "genus": "m",
+    "translations": {
+      "nb": "bryst",
+      "en": "chest"
+    },
+    "plural": "pechos"
+  },
+  "estomago_noun": {
+    "word": "estómago",
+    "genus": "m",
+    "translations": {
+      "nb": "mage",
+      "en": "stomach"
+    },
+    "plural": "estómagos"
+  },
+  "rodilla_noun": {
+    "word": "rodilla",
+    "genus": "f",
+    "translations": {
+      "nb": "kne",
+      "en": "knee"
+    },
+    "plural": "rodillas"
+  },
+  "dedo_noun": {
+    "word": "dedo",
+    "genus": "m",
+    "translations": {
+      "nb": "finger/tå",
+      "en": "finger/toe"
+    },
+    "plural": "dedos"
+  },
+  "sangre_noun": {
+    "word": "sangre",
+    "genus": "f",
+    "translations": {
+      "nb": "blod",
+      "en": "blood"
+    },
+    "plural": "sangres"
+  },
+  "piel_noun": {
+    "word": "piel",
+    "genus": "f",
+    "translations": {
+      "nb": "hud",
+      "en": "skin"
+    },
+    "plural": "pieles"
+  },
+  "sentimiento_noun": {
+    "word": "sentimiento",
+    "genus": "m",
+    "translations": {
+      "nb": "følelse",
+      "en": "feeling"
+    },
+    "plural": "sentimientos"
+  },
+  "amor_noun": {
+    "word": "amor",
+    "genus": "m",
+    "translations": {
+      "nb": "kjærlighet",
+      "en": "love"
+    },
+    "plural": "amores"
+  },
+  "miedo_noun": {
+    "word": "miedo",
+    "genus": "m",
+    "translations": {
+      "nb": "frykt",
+      "en": "fear"
+    },
+    "plural": "miedos"
+  },
+  "sueno_noun": {
+    "word": "sueño",
+    "genus": "m",
+    "translations": {
+      "nb": "drøm/søvn",
+      "en": "dream/sleep"
+    },
+    "plural": "sueños"
+  },
+  "suerte_noun": {
+    "word": "suerte",
+    "genus": "f",
+    "translations": {
+      "nb": "flaks/lykke",
+      "en": "luck"
+    },
+    "plural": "suertes"
+  },
+  "verdad_noun": {
+    "word": "verdad",
+    "genus": "f",
+    "translations": {
+      "nb": "sannhet",
+      "en": "truth"
+    },
+    "plural": "verdades"
+  },
+  "mentira_noun": {
+    "word": "mentira",
+    "genus": "f",
+    "translations": {
+      "nb": "løgn",
+      "en": "lie"
+    },
+    "plural": "mentiras"
+  },
+  "razon_noun": {
+    "word": "razón",
+    "genus": "f",
+    "translations": {
+      "nb": "grunn/fornuft",
+      "en": "reason"
+    },
+    "plural": "razones"
+  },
+  "secreto_noun": {
+    "word": "secreto",
+    "genus": "m",
+    "translations": {
+      "nb": "hemmelighet",
+      "en": "secret"
+    },
+    "plural": "secretos"
+  },
+  "error_noun": {
+    "word": "error",
+    "genus": "m",
+    "translations": {
+      "nb": "feil",
+      "en": "error/mistake"
+    },
+    "plural": "errores"
+  },
+  "ejemplo_noun": {
+    "word": "ejemplo",
+    "genus": "m",
+    "translations": {
+      "nb": "eksempel",
+      "en": "example"
+    },
+    "plural": "ejemplos"
+  },
+  "grupo_noun": {
+    "word": "grupo",
+    "genus": "m",
+    "translations": {
+      "nb": "gruppe",
+      "en": "group"
+    },
+    "plural": "grupos"
+  },
+  "equipo_noun": {
+    "word": "equipo",
+    "genus": "m",
+    "translations": {
+      "nb": "lag/utstyr",
+      "en": "team/equipment"
+    },
+    "plural": "equipos"
+  },
+  "lugar_noun": {
+    "word": "lugar",
+    "genus": "m",
+    "translations": {
+      "nb": "sted",
+      "en": "place"
+    },
+    "plural": "lugares"
+  },
+  "parte_noun": {
+    "word": "parte",
+    "genus": "f",
+    "translations": {
+      "nb": "del",
+      "en": "part"
+    },
+    "plural": "partes"
+  },
+  "tipo_noun": {
+    "word": "tipo",
+    "genus": "m",
+    "translations": {
+      "nb": "type",
+      "en": "type"
+    },
+    "plural": "tipos"
+  },
+  "forma_noun": {
+    "word": "forma",
+    "genus": "f",
+    "translations": {
+      "nb": "form/måte",
+      "en": "form/way"
+    },
+    "plural": "formas"
+  },
+  "manera_noun": {
+    "word": "manera",
+    "genus": "f",
+    "translations": {
+      "nb": "måte",
+      "en": "way/manner"
+    },
+    "plural": "maneras"
+  },
+  "final_noun": {
+    "word": "final",
+    "genus": "m",
+    "translations": {
+      "nb": "slutt",
+      "en": "end"
+    },
+    "plural": "finales"
+  },
+  "principio_noun": {
+    "word": "principio",
+    "genus": "m",
+    "translations": {
+      "nb": "begynnelse",
+      "en": "beginning"
+    },
+    "plural": "principios"
+  },
+  "centro_noun": {
+    "word": "centro",
+    "genus": "m",
+    "translations": {
+      "nb": "sentrum/senter",
+      "en": "center"
+    },
+    "plural": "centros"
+  },
+  "lado_noun": {
+    "word": "lado",
+    "genus": "m",
+    "translations": {
+      "nb": "side",
+      "en": "side"
+    },
+    "plural": "lados"
+  },
+  "paso_noun": {
+    "word": "paso",
+    "genus": "m",
+    "translations": {
+      "nb": "skritt/steg",
+      "en": "step"
+    },
+    "plural": "pasos"
+  },
+  "camino_noun": {
+    "word": "camino",
+    "genus": "m",
+    "translations": {
+      "nb": "vei",
+      "en": "way/path"
+    },
+    "plural": "caminos"
+  },
+  "entrada_noun": {
+    "word": "entrada",
+    "genus": "f",
+    "translations": {
+      "nb": "inngang/billett",
+      "en": "entrance/ticket"
+    },
+    "plural": "entradas"
+  },
+  "salida_noun": {
+    "word": "salida",
+    "genus": "f",
+    "translations": {
+      "nb": "utgang",
+      "en": "exit"
+    },
+    "plural": "salidas"
+  }
+}

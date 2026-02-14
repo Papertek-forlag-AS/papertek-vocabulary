@@ -1,0 +1,79 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://papertek.no/schemas/vocabulary/verb.schema.json",
+  "title": "Verb Schema",
+  "description": "Schema for verb entries with conjugation tables",
+  "type": "object",
+  "additionalProperties": {
+    "$ref": "#/$defs/verbEntry"
+  },
+  "$defs": {
+    "verbEntry": {
+      "type": "object",
+      "properties": {
+        "word": {
+          "type": "string",
+          "description": "Infinitive form of the verb"
+        },
+        "audio": {
+          "type": "string"
+        },
+        "type": {
+          "type": "string",
+          "description": "Verb classification",
+          "enum": ["strong", "weak", "modal", "reflexive", "separable", "auxiliary", "regular", "irregular"]
+        },
+        "intro": {
+          "type": "string",
+          "pattern": "^[0-9]+\\.[0-9]+$"
+        },
+        "translations": {
+          "$ref": "core-word.schema.json#/$defs/translations"
+        },
+        "synonyms": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "translation_synonyms": {
+          "$ref": "core-word.schema.json#/$defs/translationSynonyms"
+        },
+        "explanations": {
+          "$ref": "core-word.schema.json#/$defs/explanations"
+        },
+        "conjugations": {
+          "$ref": "#/$defs/conjugations"
+        }
+      },
+      "required": ["translations"]
+    },
+    "conjugations": {
+      "type": "object",
+      "description": "Conjugation tables keyed by tense name",
+      "additionalProperties": {
+        "$ref": "#/$defs/tenseConjugation"
+      }
+    },
+    "tenseConjugation": {
+      "type": "object",
+      "properties": {
+        "intro": {
+          "type": "string",
+          "pattern": "^[0-9]+\\.[0-9]+$",
+          "description": "Lesson where this tense is introduced"
+        },
+        "feature": {
+          "type": "string",
+          "description": "Grammar feature flag (e.g., 'grammar_presens')"
+        },
+        "former": {
+          "type": "object",
+          "description": "Person/pronoun to conjugated form mapping",
+          "additionalProperties": {
+            "type": "string"
+          }
+        }
+      },
+      "required": ["former"]
+    }
+  }
+}

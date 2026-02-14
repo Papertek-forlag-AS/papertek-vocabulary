@@ -1,0 +1,210 @@
+{
+  "_metadata": {
+    "language": "french",
+    "description": "French definite, indefinite, and partitive articles",
+    "purpose": "Articles in French agree with noun gender and number. French uses elision (l') before vowels.",
+    "wordIdSuffix": "_article",
+    "keyFields": [
+      "word",
+      "translations",
+      "type",
+      "usage"
+    ],
+    "note": "French has 4 definite articles (le, la, l', les), 3 indefinite (un, une, des), partitive articles (du, de la, de l'), and contractions (au, aux, du, des)."
+  },
+  "le_article": {
+    "word": "le",
+    "translations": {
+      "nb": "den/det (hankjønn entall)",
+      "en": "the (masc. sing.)"
+    },
+    "type": "article",
+    "usage": "masculine singular definite",
+    "examples": [
+      "le livre (boken)",
+      "le garçon (gutten)",
+      "le chat (katten)"
+    ]
+  },
+  "la_article": {
+    "word": "la",
+    "translations": {
+      "nb": "den/det (hunkjønn entall)",
+      "en": "the (fem. sing.)"
+    },
+    "type": "article",
+    "usage": "feminine singular definite",
+    "examples": [
+      "la maison (huset)",
+      "la fille (jenta)",
+      "la table (bordet)"
+    ]
+  },
+  "l_article": {
+    "word": "l'",
+    "translations": {
+      "nb": "den/det (foran vokal)",
+      "en": "the (before vowel)"
+    },
+    "type": "article",
+    "usage": "singular definite before vowel or silent h (elision)",
+    "examples": [
+      "l'ami (vennen, m)",
+      "l'école (skolen, f)",
+      "l'homme (mannen, m)"
+    ]
+  },
+  "les_article": {
+    "word": "les",
+    "translations": {
+      "nb": "de (flertall)",
+      "en": "the (plural)"
+    },
+    "type": "article",
+    "usage": "plural definite (both genders)",
+    "examples": [
+      "les livres (bøkene)",
+      "les maisons (husene)",
+      "les enfants (barna)"
+    ]
+  },
+  "un_article": {
+    "word": "un",
+    "translations": {
+      "nb": "en (hankjønn)",
+      "en": "a/an (masc.)"
+    },
+    "type": "article",
+    "usage": "masculine singular indefinite",
+    "examples": [
+      "un livre (en bok)",
+      "un garçon (en gutt)",
+      "un ami (en venn)"
+    ]
+  },
+  "une_article": {
+    "word": "une",
+    "translations": {
+      "nb": "en (hunkjønn)",
+      "en": "a/an (fem.)"
+    },
+    "type": "article",
+    "usage": "feminine singular indefinite",
+    "examples": [
+      "une maison (et hus)",
+      "une fille (en jente)",
+      "une amie (en venninne)"
+    ]
+  },
+  "des_article": {
+    "word": "des",
+    "translations": {
+      "nb": "noen (flertall ubestemt)",
+      "en": "some (plural indefinite)"
+    },
+    "type": "article",
+    "usage": "plural indefinite (both genders)",
+    "examples": [
+      "des livres (noen bøker)",
+      "des maisons (noen hus)",
+      "des amis (noen venner)"
+    ]
+  },
+  "du_partitif": {
+    "word": "du",
+    "translations": {
+      "nb": "litt/noe (hankjønn)",
+      "en": "some (masc. partitive)"
+    },
+    "type": "article",
+    "usage": "masculine partitive / contraction de + le",
+    "examples": [
+      "du pain (litt brød)",
+      "du lait (litt melk)",
+      "du fromage (litt ost)"
+    ]
+  },
+  "de_la_partitif": {
+    "word": "de la",
+    "translations": {
+      "nb": "litt/noe (hunkjønn)",
+      "en": "some (fem. partitive)"
+    },
+    "type": "article",
+    "usage": "feminine partitive",
+    "examples": [
+      "de la viande (litt kjøtt)",
+      "de la musique (litt musikk)",
+      "de la salade (litt salat)"
+    ]
+  },
+  "de_l_partitif": {
+    "word": "de l'",
+    "translations": {
+      "nb": "litt/noe (foran vokal)",
+      "en": "some (before vowel)"
+    },
+    "type": "article",
+    "usage": "partitive before vowel or silent h",
+    "examples": [
+      "de l'eau (litt vann)",
+      "de l'argent (litt penger)",
+      "de l'huile (litt olje)"
+    ]
+  },
+  "au_contr": {
+    "word": "au",
+    "translations": {
+      "nb": "til (à + le)",
+      "en": "to the (à + le)"
+    },
+    "type": "contr",
+    "usage": "contraction of 'à' + 'le'",
+    "examples": [
+      "Je vais au cinéma (Jeg går på kino)",
+      "au restaurant (på restaurant)",
+      "au bureau (på kontoret)"
+    ]
+  },
+  "aux_contr": {
+    "word": "aux",
+    "translations": {
+      "nb": "til (à + les)",
+      "en": "to the (à + les)"
+    },
+    "type": "contr",
+    "usage": "contraction of 'à' + 'les'",
+    "examples": [
+      "aux États-Unis (i USA)",
+      "aux enfants (til barna)",
+      "aux toilettes (på do)"
+    ]
+  },
+  "du_contr": {
+    "word": "du",
+    "translations": {
+      "nb": "fra/av (de + le)",
+      "en": "of/from the (de + le)"
+    },
+    "type": "contr",
+    "usage": "contraction of 'de' + 'le' (also partitive)",
+    "examples": [
+      "le livre du professeur (lærerens bok)",
+      "près du parc (nær parken)",
+      "à côté du cinéma (ved siden av kinoen)"
+    ]
+  },
+  "des_contr": {
+    "word": "des",
+    "translations": {
+      "nb": "fra/av (de + les)",
+      "en": "of/from the (de + les)"
+    },
+    "type": "contr",
+    "usage": "contraction of 'de' + 'les' (also plural indefinite)",
+    "examples": [
+      "les livres des élèves (elevenes bøker)",
+      "près des magasins (nær butikkene)"
+    ]
+  }
+}

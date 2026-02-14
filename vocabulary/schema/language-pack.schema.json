@@ -1,0 +1,93 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://papertek.no/schemas/vocabulary/language-pack.schema.json",
+  "title": "Language Pack Manifest Schema",
+  "description": "Schema for downloadable language pack manifests",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique pack identifier (e.g., 'german-to-norwegian')",
+      "pattern": "^[a-z]+-to-[a-z]+$"
+    },
+    "version": {
+      "type": "string",
+      "description": "Semantic version of the pack",
+      "pattern": "^[0-9]+\\.[0-9]+\\.[0-9]+$"
+    },
+    "targetLanguage": {
+      "$ref": "#/$defs/languageInfo"
+    },
+    "nativeLanguage": {
+      "$ref": "#/$defs/languageInfo"
+    },
+    "files": {
+      "type": "array",
+      "description": "List of files in this pack",
+      "items": {
+        "$ref": "#/$defs/packFile"
+      }
+    },
+    "requiredCoreVersion": {
+      "type": "string",
+      "description": "Minimum required core vocabulary version (semver range)",
+      "pattern": "^[><=~^]*[0-9]+\\.[0-9]+\\.[0-9]+$"
+    },
+    "lastUpdated": {
+      "type": "string",
+      "format": "date-time",
+      "description": "ISO 8601 timestamp of last update"
+    },
+    "downloadSize": {
+      "type": "string",
+      "description": "Human-readable download size (e.g., '245KB')"
+    },
+    "license": {
+      "type": "string",
+      "description": "License type",
+      "enum": ["proprietary", "cc-by", "cc-by-sa", "cc-by-nc", "mit", "apache-2.0"]
+    }
+  },
+  "required": ["id", "version", "targetLanguage", "nativeLanguage", "files"],
+  "$defs": {
+    "languageInfo": {
+      "type": "object",
+      "properties": {
+        "code": {
+          "type": "string",
+          "description": "ISO 639-1 language code",
+          "pattern": "^[a-z]{2}$"
+        },
+        "name": {
+          "type": "string",
+          "description": "English name of the language"
+        },
+        "nativeName": {
+          "type": "string",
+          "description": "Native name of the language"
+        }
+      },
+      "required": ["code", "name"]
+    },
+    "packFile": {
+      "type": "object",
+      "properties": {
+        "path": {
+          "type": "string",
+          "description": "Relative path to the file"
+        },
+        "checksum": {
+          "type": "string",
+          "description": "SHA-256 checksum prefixed with 'sha256:'",
+          "pattern": "^sha256:[a-f0-9]{64}$"
+        },
+        "entries": {
+          "type": "integer",
+          "description": "Number of entries in the file",
+          "minimum": 0
+        }
+      },
+      "required": ["path", "checksum"]
+    }
+  }
+}

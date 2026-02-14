@@ -1,0 +1,91 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://papertek.no/schemas/vocabulary/adjective.schema.json",
+  "title": "Adjective Schema",
+  "description": "Schema for adjective entries with comparison forms",
+  "type": "object",
+  "additionalProperties": {
+    "$ref": "#/$defs/adjectiveEntry"
+  },
+  "$defs": {
+    "adjectiveEntry": {
+      "type": "object",
+      "properties": {
+        "word": {
+          "type": "string",
+          "description": "Base/positive form of the adjective"
+        },
+        "audio": {
+          "type": "string"
+        },
+        "type": {
+          "type": "string",
+          "const": "adj"
+        },
+        "intro": {
+          "type": "string",
+          "pattern": "^[0-9]+\\.[0-9]+$"
+        },
+        "translations": {
+          "$ref": "core-word.schema.json#/$defs/translations"
+        },
+        "synonyms": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "translation_synonyms": {
+          "$ref": "core-word.schema.json#/$defs/translationSynonyms"
+        },
+        "explanations": {
+          "$ref": "core-word.schema.json#/$defs/explanations"
+        },
+        "comparison": {
+          "$ref": "#/$defs/comparison"
+        }
+      },
+      "required": ["translations"]
+    },
+    "comparison": {
+      "type": "object",
+      "description": "Comparison forms (positive, comparative, superlative)",
+      "properties": {
+        "positiv": {
+          "type": "string",
+          "description": "Positive/base form"
+        },
+        "komparativ": {
+          "$ref": "#/$defs/comparisonForm"
+        },
+        "superlativ": {
+          "$ref": "#/$defs/comparisonForm"
+        },
+        "positive": {
+          "type": "string"
+        },
+        "comparative": {
+          "$ref": "#/$defs/comparisonForm"
+        },
+        "superlative": {
+          "$ref": "#/$defs/comparisonForm"
+        }
+      }
+    },
+    "comparisonForm": {
+      "oneOf": [
+        { "type": "string" },
+        {
+          "type": "object",
+          "properties": {
+            "form": { "type": "string" },
+            "intro": {
+              "type": "string",
+              "pattern": "^[0-9]+\\.[0-9]+$"
+            },
+            "feature": { "type": "string" }
+          },
+          "required": ["form"]
+        }
+      ]
+    }
+  }
+}

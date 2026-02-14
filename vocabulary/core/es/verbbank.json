@@ -1,0 +1,1245 @@
+{
+    "_metadata": {
+        "description": "Spanish verb bank for Hablamos Español 1",
+        "conjugation_order": ["yo", "tú", "él/ella/usted", "nosotros/nosotras", "vosotros/vosotras", "ellos/ellas/ustedes"],
+        "total_verbs": 100
+    },
+
+    "ser_verb": {
+        "word": "ser",
+        "translations": { "nb": "å være (permanent)", "en": "to be (permanent)" },
+        "type": "verb",
+        "verbType": "irregular",
+        "conjugations": {
+            "presens": {
+                "former": ["soy", "eres", "es", "somos", "sois", "son"]
+            }
+        }
+    },
+    "estar_verb": {
+        "word": "estar",
+        "translations": { "nb": "å være (tilstand/sted)", "en": "to be (state/location)" },
+        "type": "verb",
+        "verbType": "irregular",
+        "conjugations": {
+            "presens": {
+                "former": ["estoy", "estás", "está", "estamos", "estáis", "están"]
+            }
+        }
+    },
+    "tener_verb": {
+        "word": "tener",
+        "translations": { "nb": "å ha", "en": "to have" },
+        "type": "verb",
+        "verbType": "irregular",
+        "conjugations": {
+            "presens": {
+                "former": ["tengo", "tienes", "tiene", "tenemos", "tenéis", "tienen"]
+            }
+        }
+    },
+    "hacer_verb": {
+        "word": "hacer",
+        "translations": { "nb": "å gjøre, å lage", "en": "to do, to make" },
+        "type": "verb",
+        "verbType": "irregular",
+        "conjugations": {
+            "presens": {
+                "former": ["hago", "haces", "hace", "hacemos", "hacéis", "hacen"]
+            }
+        }
+    },
+    "ir_verb": {
+        "word": "ir",
+        "translations": { "nb": "å gå, å dra", "en": "to go" },
+        "type": "verb",
+        "verbType": "irregular",
+        "conjugations": {
+            "presens": {
+                "former": ["voy", "vas", "va", "vamos", "vais", "van"]
+            }
+        }
+    },
+    "poder_verb": {
+        "word": "poder",
+        "translations": { "nb": "å kunne", "en": "to be able to, can" },
+        "type": "verb",
+        "verbType": "irregular",
+        "conjugations": {
+            "presens": {
+                "former": ["puedo", "puedes", "puede", "podemos", "podéis", "pueden"]
+            }
+        }
+    },
+    "querer_verb": {
+        "word": "querer",
+        "translations": { "nb": "å ville, å ønske, å elske", "en": "to want, to love" },
+        "type": "verb",
+        "verbType": "irregular",
+        "conjugations": {
+            "presens": {
+                "former": ["quiero", "quieres", "quiere", "queremos", "queréis", "quieren"]
+            }
+        }
+    },
+    "decir_verb": {
+        "word": "decir",
+        "translations": { "nb": "å si", "en": "to say, to tell" },
+        "type": "verb",
+        "verbType": "irregular",
+        "conjugations": {
+            "presens": {
+                "former": ["digo", "dices", "dice", "decimos", "decís", "dicen"]
+            }
+        }
+    },
+    "saber_verb": {
+        "word": "saber",
+        "translations": { "nb": "å vite, å kunne", "en": "to know (facts)" },
+        "type": "verb",
+        "verbType": "irregular",
+        "conjugations": {
+            "presens": {
+                "former": ["sé", "sabes", "sabe", "sabemos", "sabéis", "saben"]
+            }
+        }
+    },
+    "conocer_verb": {
+        "word": "conocer",
+        "translations": { "nb": "å kjenne, å bli kjent med", "en": "to know (people/places)" },
+        "type": "verb",
+        "verbType": "irregular",
+        "conjugations": {
+            "presens": {
+                "former": ["conozco", "conoces", "conoce", "conocemos", "conocéis", "conocen"]
+            }
+        }
+    },
+    "venir_verb": {
+        "word": "venir",
+        "translations": { "nb": "å komme", "en": "to come" },
+        "type": "verb",
+        "verbType": "irregular",
+        "conjugations": {
+            "presens": {
+                "former": ["vengo", "vienes", "viene", "venimos", "venís", "vienen"]
+            }
+        }
+    },
+    "dar_verb": {
+        "word": "dar",
+        "translations": { "nb": "å gi", "en": "to give" },
+        "type": "verb",
+        "verbType": "irregular",
+        "conjugations": {
+            "presens": {
+                "former": ["doy", "das", "da", "damos", "dais", "dan"]
+            }
+        }
+    },
+    "ver_verb": {
+        "word": "ver",
+        "translations": { "nb": "å se", "en": "to see" },
+        "type": "verb",
+        "verbType": "irregular",
+        "conjugations": {
+            "presens": {
+                "former": ["veo", "ves", "ve", "vemos", "veis", "ven"]
+            }
+        }
+    },
+    "poner_verb": {
+        "word": "poner",
+        "translations": { "nb": "å sette, å legge", "en": "to put, to place" },
+        "type": "verb",
+        "verbType": "irregular",
+        "conjugations": {
+            "presens": {
+                "former": ["pongo", "pones", "pone", "ponemos", "ponéis", "ponen"]
+            }
+        }
+    },
+    "salir_verb": {
+        "word": "salir",
+        "translations": { "nb": "å gå ut, å dra", "en": "to go out, to leave" },
+        "type": "verb",
+        "verbType": "irregular",
+        "conjugations": {
+            "presens": {
+                "former": ["salgo", "sales", "sale", "salimos", "salís", "salen"]
+            }
+        }
+    },
+    "traer_verb": {
+        "word": "traer",
+        "translations": { "nb": "å bringe, å ta med", "en": "to bring" },
+        "type": "verb",
+        "verbType": "irregular",
+        "conjugations": {
+            "presens": {
+                "former": ["traigo", "traes", "trae", "traemos", "traéis", "traen"]
+            }
+        }
+    },
+    "oir_verb": {
+        "word": "oír",
+        "translations": { "nb": "å høre", "en": "to hear" },
+        "type": "verb",
+        "verbType": "irregular",
+        "conjugations": {
+            "presens": {
+                "former": ["oigo", "oyes", "oye", "oímos", "oís", "oyen"]
+            }
+        }
+    },
+    "pensar_verb": {
+        "word": "pensar",
+        "translations": { "nb": "å tenke", "en": "to think" },
+        "type": "verb",
+        "verbType": "stem-changing",
+        "stemChange": "e→ie",
+        "conjugations": {
+            "presens": {
+                "former": ["pienso", "piensas", "piensa", "pensamos", "pensáis", "piensan"]
+            }
+        }
+    },
+    "empezar_verb": {
+        "word": "empezar",
+        "translations": { "nb": "å begynne", "en": "to begin, to start" },
+        "type": "verb",
+        "verbType": "stem-changing",
+        "stemChange": "e→ie",
+        "conjugations": {
+            "presens": {
+                "former": ["empiezo", "empiezas", "empieza", "empezamos", "empezáis", "empiezan"]
+            }
+        }
+    },
+    "entender_verb": {
+        "word": "entender",
+        "translations": { "nb": "å forstå", "en": "to understand" },
+        "type": "verb",
+        "verbType": "stem-changing",
+        "stemChange": "e→ie",
+        "conjugations": {
+            "presens": {
+                "former": ["entiendo", "entiendes", "entiende", "entendemos", "entendéis", "entienden"]
+            }
+        }
+    },
+    "perder_verb": {
+        "word": "perder",
+        "translations": { "nb": "å miste, å tape", "en": "to lose" },
+        "type": "verb",
+        "verbType": "stem-changing",
+        "stemChange": "e→ie",
+        "conjugations": {
+            "presens": {
+                "former": ["pierdo", "pierdes", "pierde", "perdemos", "perdéis", "pierden"]
+            }
+        }
+    },
+    "preferir_verb": {
+        "word": "preferir",
+        "translations": { "nb": "å foretrekke", "en": "to prefer" },
+        "type": "verb",
+        "verbType": "stem-changing",
+        "stemChange": "e→ie",
+        "conjugations": {
+            "presens": {
+                "former": ["prefiero", "prefieres", "prefiere", "preferimos", "preferís", "prefieren"]
+            }
+        }
+    },
+    "dormir_verb": {
+        "word": "dormir",
+        "translations": { "nb": "å sove", "en": "to sleep" },
+        "type": "verb",
+        "verbType": "stem-changing",
+        "stemChange": "o→ue",
+        "conjugations": {
+            "presens": {
+                "former": ["duermo", "duermes", "duerme", "dormimos", "dormís", "duermen"]
+            }
+        }
+    },
+    "volver_verb": {
+        "word": "volver",
+        "translations": { "nb": "å komme tilbake", "en": "to return, to come back" },
+        "type": "verb",
+        "verbType": "stem-changing",
+        "stemChange": "o→ue",
+        "conjugations": {
+            "presens": {
+                "former": ["vuelvo", "vuelves", "vuelve", "volvemos", "volvéis", "vuelven"]
+            }
+        }
+    },
+    "encontrar_verb": {
+        "word": "encontrar",
+        "translations": { "nb": "å finne, å møte", "en": "to find, to meet" },
+        "type": "verb",
+        "verbType": "stem-changing",
+        "stemChange": "o→ue",
+        "conjugations": {
+            "presens": {
+                "former": ["encuentro", "encuentras", "encuentra", "encontramos", "encontráis", "encuentran"]
+            }
+        }
+    },
+    "jugar_verb": {
+        "word": "jugar",
+        "translations": { "nb": "å spille, å leke", "en": "to play" },
+        "type": "verb",
+        "verbType": "stem-changing",
+        "stemChange": "u→ue",
+        "conjugations": {
+            "presens": {
+                "former": ["juego", "juegas", "juega", "jugamos", "jugáis", "juegan"]
+            }
+        }
+    },
+    "pedir_verb": {
+        "word": "pedir",
+        "translations": { "nb": "å be om, å bestille", "en": "to ask for, to order" },
+        "type": "verb",
+        "verbType": "stem-changing",
+        "stemChange": "e→i",
+        "conjugations": {
+            "presens": {
+                "former": ["pido", "pides", "pide", "pedimos", "pedís", "piden"]
+            }
+        }
+    },
+    "seguir_verb": {
+        "word": "seguir",
+        "translations": { "nb": "å følge, å fortsette", "en": "to follow, to continue" },
+        "type": "verb",
+        "verbType": "stem-changing",
+        "stemChange": "e→i",
+        "conjugations": {
+            "presens": {
+                "former": ["sigo", "sigues", "sigue", "seguimos", "seguís", "siguen"]
+            }
+        }
+    },
+    "repetir_verb": {
+        "word": "repetir",
+        "translations": { "nb": "å gjenta", "en": "to repeat" },
+        "type": "verb",
+        "verbType": "stem-changing",
+        "stemChange": "e→i",
+        "conjugations": {
+            "presens": {
+                "former": ["repito", "repites", "repite", "repetimos", "repetís", "repiten"]
+            }
+        }
+    },
+
+    "hablar_verb": {
+        "word": "hablar",
+        "translations": { "nb": "å snakke", "en": "to speak, to talk" },
+        "type": "verb",
+        "verbType": "regular-ar",
+        "conjugations": {
+            "presens": {
+                "former": ["hablo", "hablas", "habla", "hablamos", "habláis", "hablan"]
+            }
+        }
+    },
+    "estudiar_verb": {
+        "word": "estudiar",
+        "translations": { "nb": "å studere", "en": "to study" },
+        "type": "verb",
+        "verbType": "regular-ar",
+        "conjugations": {
+            "presens": {
+                "former": ["estudio", "estudias", "estudia", "estudiamos", "estudiáis", "estudian"]
+            }
+        }
+    },
+    "trabajar_verb": {
+        "word": "trabajar",
+        "translations": { "nb": "å jobbe", "en": "to work" },
+        "type": "verb",
+        "verbType": "regular-ar",
+        "conjugations": {
+            "presens": {
+                "former": ["trabajo", "trabajas", "trabaja", "trabajamos", "trabajáis", "trabajan"]
+            }
+        }
+    },
+    "comprar_verb": {
+        "word": "comprar",
+        "translations": { "nb": "å kjøpe", "en": "to buy" },
+        "type": "verb",
+        "verbType": "regular-ar",
+        "conjugations": {
+            "presens": {
+                "former": ["compro", "compras", "compra", "compramos", "compráis", "compran"]
+            }
+        }
+    },
+    "escuchar_verb": {
+        "word": "escuchar",
+        "translations": { "nb": "å høre på, å lytte", "en": "to listen" },
+        "type": "verb",
+        "verbType": "regular-ar",
+        "conjugations": {
+            "presens": {
+                "former": ["escucho", "escuchas", "escucha", "escuchamos", "escucháis", "escuchan"]
+            }
+        }
+    },
+    "mirar_verb": {
+        "word": "mirar",
+        "translations": { "nb": "å se på", "en": "to look at, to watch" },
+        "type": "verb",
+        "verbType": "regular-ar",
+        "conjugations": {
+            "presens": {
+                "former": ["miro", "miras", "mira", "miramos", "miráis", "miran"]
+            }
+        }
+    },
+    "buscar_verb": {
+        "word": "buscar",
+        "translations": { "nb": "å lete etter, å søke", "en": "to look for, to search" },
+        "type": "verb",
+        "verbType": "regular-ar",
+        "conjugations": {
+            "presens": {
+                "former": ["busco", "buscas", "busca", "buscamos", "buscáis", "buscan"]
+            }
+        }
+    },
+    "llamar_verb": {
+        "word": "llamar",
+        "translations": { "nb": "å ringe, å kalle", "en": "to call" },
+        "type": "verb",
+        "verbType": "regular-ar",
+        "conjugations": {
+            "presens": {
+                "former": ["llamo", "llamas", "llama", "llamamos", "llamáis", "llaman"]
+            }
+        }
+    },
+    "llegar_verb": {
+        "word": "llegar",
+        "translations": { "nb": "å ankomme", "en": "to arrive" },
+        "type": "verb",
+        "verbType": "regular-ar",
+        "conjugations": {
+            "presens": {
+                "former": ["llego", "llegas", "llega", "llegamos", "llegáis", "llegan"]
+            }
+        }
+    },
+    "llevar_verb": {
+        "word": "llevar",
+        "translations": { "nb": "å bære, å ha på seg", "en": "to carry, to wear" },
+        "type": "verb",
+        "verbType": "regular-ar",
+        "conjugations": {
+            "presens": {
+                "former": ["llevo", "llevas", "lleva", "llevamos", "lleváis", "llevan"]
+            }
+        }
+    },
+    "tomar_verb": {
+        "word": "tomar",
+        "translations": { "nb": "å ta, å drikke", "en": "to take, to drink" },
+        "type": "verb",
+        "verbType": "regular-ar",
+        "conjugations": {
+            "presens": {
+                "former": ["tomo", "tomas", "toma", "tomamos", "tomáis", "toman"]
+            }
+        }
+    },
+    "caminar_verb": {
+        "word": "caminar",
+        "translations": { "nb": "å gå, å spasere", "en": "to walk" },
+        "type": "verb",
+        "verbType": "regular-ar",
+        "conjugations": {
+            "presens": {
+                "former": ["camino", "caminas", "camina", "caminamos", "camináis", "caminan"]
+            }
+        }
+    },
+    "cantar_verb": {
+        "word": "cantar",
+        "translations": { "nb": "å synge", "en": "to sing" },
+        "type": "verb",
+        "verbType": "regular-ar",
+        "conjugations": {
+            "presens": {
+                "former": ["canto", "cantas", "canta", "cantamos", "cantáis", "cantan"]
+            }
+        }
+    },
+    "bailar_verb": {
+        "word": "bailar",
+        "translations": { "nb": "å danse", "en": "to dance" },
+        "type": "verb",
+        "verbType": "regular-ar",
+        "conjugations": {
+            "presens": {
+                "former": ["bailo", "bailas", "baila", "bailamos", "bailáis", "bailan"]
+            }
+        }
+    },
+    "cocinar_verb": {
+        "word": "cocinar",
+        "translations": { "nb": "å lage mat", "en": "to cook" },
+        "type": "verb",
+        "verbType": "regular-ar",
+        "conjugations": {
+            "presens": {
+                "former": ["cocino", "cocinas", "cocina", "cocinamos", "cocináis", "cocinan"]
+            }
+        }
+    },
+    "descansar_verb": {
+        "word": "descansar",
+        "translations": { "nb": "å hvile", "en": "to rest" },
+        "type": "verb",
+        "verbType": "regular-ar",
+        "conjugations": {
+            "presens": {
+                "former": ["descanso", "descansas", "descansa", "descansamos", "descansáis", "descansan"]
+            }
+        }
+    },
+    "ensenar_verb": {
+        "word": "enseñar",
+        "translations": { "nb": "å undervise, å vise", "en": "to teach, to show" },
+        "type": "verb",
+        "verbType": "regular-ar",
+        "conjugations": {
+            "presens": {
+                "former": ["enseño", "enseñas", "enseña", "enseñamos", "enseñáis", "enseñan"]
+            }
+        }
+    },
+    "esperar_verb": {
+        "word": "esperar",
+        "translations": { "nb": "å vente, å håpe", "en": "to wait, to hope" },
+        "type": "verb",
+        "verbType": "regular-ar",
+        "conjugations": {
+            "presens": {
+                "former": ["espero", "esperas", "espera", "esperamos", "esperáis", "esperan"]
+            }
+        }
+    },
+    "ganar_verb": {
+        "word": "ganar",
+        "translations": { "nb": "å vinne, å tjene", "en": "to win, to earn" },
+        "type": "verb",
+        "verbType": "regular-ar",
+        "conjugations": {
+            "presens": {
+                "former": ["gano", "ganas", "gana", "ganamos", "ganáis", "ganan"]
+            }
+        }
+    },
+    "lavar_verb": {
+        "word": "lavar",
+        "translations": { "nb": "å vaske", "en": "to wash" },
+        "type": "verb",
+        "verbType": "regular-ar",
+        "conjugations": {
+            "presens": {
+                "former": ["lavo", "lavas", "lava", "lavamos", "laváis", "lavan"]
+            }
+        }
+    },
+    "nadar_verb": {
+        "word": "nadar",
+        "translations": { "nb": "å svømme", "en": "to swim" },
+        "type": "verb",
+        "verbType": "regular-ar",
+        "conjugations": {
+            "presens": {
+                "former": ["nado", "nadas", "nada", "nadamos", "nadáis", "nadan"]
+            }
+        }
+    },
+    "necesitar_verb": {
+        "word": "necesitar",
+        "translations": { "nb": "å trenge", "en": "to need" },
+        "type": "verb",
+        "verbType": "regular-ar",
+        "conjugations": {
+            "presens": {
+                "former": ["necesito", "necesitas", "necesita", "necesitamos", "necesitáis", "necesitan"]
+            }
+        }
+    },
+    "pagar_verb": {
+        "word": "pagar",
+        "translations": { "nb": "å betale", "en": "to pay" },
+        "type": "verb",
+        "verbType": "regular-ar",
+        "conjugations": {
+            "presens": {
+                "former": ["pago", "pagas", "paga", "pagamos", "pagáis", "pagan"]
+            }
+        }
+    },
+    "pasar_verb": {
+        "word": "pasar",
+        "translations": { "nb": "å passere, å skje", "en": "to pass, to happen" },
+        "type": "verb",
+        "verbType": "regular-ar",
+        "conjugations": {
+            "presens": {
+                "former": ["paso", "pasas", "pasa", "pasamos", "pasáis", "pasan"]
+            }
+        }
+    },
+    "practicar_verb": {
+        "word": "practicar",
+        "translations": { "nb": "å øve, å praktisere", "en": "to practice" },
+        "type": "verb",
+        "verbType": "regular-ar",
+        "conjugations": {
+            "presens": {
+                "former": ["practico", "practicas", "practica", "practicamos", "practicáis", "practican"]
+            }
+        }
+    },
+    "preguntar_verb": {
+        "word": "preguntar",
+        "translations": { "nb": "å spørre", "en": "to ask" },
+        "type": "verb",
+        "verbType": "regular-ar",
+        "conjugations": {
+            "presens": {
+                "former": ["pregunto", "preguntas", "pregunta", "preguntamos", "preguntáis", "preguntan"]
+            }
+        }
+    },
+    "preparar_verb": {
+        "word": "preparar",
+        "translations": { "nb": "å forberede", "en": "to prepare" },
+        "type": "verb",
+        "verbType": "regular-ar",
+        "conjugations": {
+            "presens": {
+                "former": ["preparo", "preparas", "prepara", "preparamos", "preparáis", "preparan"]
+            }
+        }
+    },
+    "terminar_verb": {
+        "word": "terminar",
+        "translations": { "nb": "å avslutte, å fullføre", "en": "to finish, to end" },
+        "type": "verb",
+        "verbType": "regular-ar",
+        "conjugations": {
+            "presens": {
+                "former": ["termino", "terminas", "termina", "terminamos", "termináis", "terminan"]
+            }
+        }
+    },
+    "viajar_verb": {
+        "word": "viajar",
+        "translations": { "nb": "å reise", "en": "to travel" },
+        "type": "verb",
+        "verbType": "regular-ar",
+        "conjugations": {
+            "presens": {
+                "former": ["viajo", "viajas", "viaja", "viajamos", "viajáis", "viajan"]
+            }
+        }
+    },
+    "visitar_verb": {
+        "word": "visitar",
+        "translations": { "nb": "å besøke", "en": "to visit" },
+        "type": "verb",
+        "verbType": "regular-ar",
+        "conjugations": {
+            "presens": {
+                "former": ["visito", "visitas", "visita", "visitamos", "visitáis", "visitan"]
+            }
+        }
+    },
+    "ayudar_verb": {
+        "word": "ayudar",
+        "translations": { "nb": "å hjelpe", "en": "to help" },
+        "type": "verb",
+        "verbType": "regular-ar",
+        "conjugations": {
+            "presens": {
+                "former": ["ayudo", "ayudas", "ayuda", "ayudamos", "ayudáis", "ayudan"]
+            }
+        }
+    },
+    "usar_verb": {
+        "word": "usar",
+        "translations": { "nb": "å bruke", "en": "to use" },
+        "type": "verb",
+        "verbType": "regular-ar",
+        "conjugations": {
+            "presens": {
+                "former": ["uso", "usas", "usa", "usamos", "usáis", "usan"]
+            }
+        }
+    },
+    "cenar_verb": {
+        "word": "cenar",
+        "translations": { "nb": "å spise middag", "en": "to have dinner" },
+        "type": "verb",
+        "verbType": "regular-ar",
+        "conjugations": {
+            "presens": {
+                "former": ["ceno", "cenas", "cena", "cenamos", "cenáis", "cenan"]
+            }
+        }
+    },
+    "desayunar_verb": {
+        "word": "desayunar",
+        "translations": { "nb": "å spise frokost", "en": "to have breakfast" },
+        "type": "verb",
+        "verbType": "regular-ar",
+        "conjugations": {
+            "presens": {
+                "former": ["desayuno", "desayunas", "desayuna", "desayunamos", "desayunáis", "desayunan"]
+            }
+        }
+    },
+
+    "comer_verb": {
+        "word": "comer",
+        "translations": { "nb": "å spise", "en": "to eat" },
+        "type": "verb",
+        "verbType": "regular-er",
+        "conjugations": {
+            "presens": {
+                "former": ["como", "comes", "come", "comemos", "coméis", "comen"]
+            }
+        }
+    },
+    "beber_verb": {
+        "word": "beber",
+        "translations": { "nb": "å drikke", "en": "to drink" },
+        "type": "verb",
+        "verbType": "regular-er",
+        "conjugations": {
+            "presens": {
+                "former": ["bebo", "bebes", "bebe", "bebemos", "bebéis", "beben"]
+            }
+        }
+    },
+    "leer_verb": {
+        "word": "leer",
+        "translations": { "nb": "å lese", "en": "to read" },
+        "type": "verb",
+        "verbType": "regular-er",
+        "conjugations": {
+            "presens": {
+                "former": ["leo", "lees", "lee", "leemos", "leéis", "leen"]
+            }
+        }
+    },
+    "aprender_verb": {
+        "word": "aprender",
+        "translations": { "nb": "å lære", "en": "to learn" },
+        "type": "verb",
+        "verbType": "regular-er",
+        "conjugations": {
+            "presens": {
+                "former": ["aprendo", "aprendes", "aprende", "aprendemos", "aprendéis", "aprenden"]
+            }
+        }
+    },
+    "comprender_verb": {
+        "word": "comprender",
+        "translations": { "nb": "å forstå", "en": "to understand" },
+        "type": "verb",
+        "verbType": "regular-er",
+        "conjugations": {
+            "presens": {
+                "former": ["comprendo", "comprendes", "comprende", "comprendemos", "comprendéis", "comprenden"]
+            }
+        }
+    },
+    "correr_verb": {
+        "word": "correr",
+        "translations": { "nb": "å løpe", "en": "to run" },
+        "type": "verb",
+        "verbType": "regular-er",
+        "conjugations": {
+            "presens": {
+                "former": ["corro", "corres", "corre", "corremos", "corréis", "corren"]
+            }
+        }
+    },
+    "creer_verb": {
+        "word": "creer",
+        "translations": { "nb": "å tro", "en": "to believe" },
+        "type": "verb",
+        "verbType": "regular-er",
+        "conjugations": {
+            "presens": {
+                "former": ["creo", "crees", "cree", "creemos", "creéis", "creen"]
+            }
+        }
+    },
+    "responder_verb": {
+        "word": "responder",
+        "translations": { "nb": "å svare", "en": "to answer, to respond" },
+        "type": "verb",
+        "verbType": "regular-er",
+        "conjugations": {
+            "presens": {
+                "former": ["respondo", "respondes", "responde", "respondemos", "respondéis", "responden"]
+            }
+        }
+    },
+    "vender_verb": {
+        "word": "vender",
+        "translations": { "nb": "å selge", "en": "to sell" },
+        "type": "verb",
+        "verbType": "regular-er",
+        "conjugations": {
+            "presens": {
+                "former": ["vendo", "vendes", "vende", "vendemos", "vendéis", "venden"]
+            }
+        }
+    },
+    "meter_verb": {
+        "word": "meter",
+        "translations": { "nb": "å putte inn", "en": "to put in" },
+        "type": "verb",
+        "verbType": "regular-er",
+        "conjugations": {
+            "presens": {
+                "former": ["meto", "metes", "mete", "metemos", "metéis", "meten"]
+            }
+        }
+    },
+    "prometer_verb": {
+        "word": "prometer",
+        "translations": { "nb": "å love", "en": "to promise" },
+        "type": "verb",
+        "verbType": "regular-er",
+        "conjugations": {
+            "presens": {
+                "former": ["prometo", "prometes", "promete", "prometemos", "prometéis", "prometen"]
+            }
+        }
+    },
+    "romper_verb": {
+        "word": "romper",
+        "translations": { "nb": "å knuse, å brekke", "en": "to break" },
+        "type": "verb",
+        "verbType": "regular-er",
+        "conjugations": {
+            "presens": {
+                "former": ["rompo", "rompes", "rompe", "rompemos", "rompéis", "rompen"]
+            }
+        }
+    },
+    "deber_verb": {
+        "word": "deber",
+        "translations": { "nb": "å måtte, å skylde", "en": "must, to owe" },
+        "type": "verb",
+        "verbType": "regular-er",
+        "conjugations": {
+            "presens": {
+                "former": ["debo", "debes", "debe", "debemos", "debéis", "deben"]
+            }
+        }
+    },
+    "coger_verb": {
+        "word": "coger",
+        "translations": { "nb": "å ta, å gripe", "en": "to take, to catch" },
+        "type": "verb",
+        "verbType": "regular-er",
+        "conjugations": {
+            "presens": {
+                "former": ["cojo", "coges", "coge", "cogemos", "cogéis", "cogen"]
+            }
+        }
+    },
+
+    "vivir_verb": {
+        "word": "vivir",
+        "translations": { "nb": "å bo, å leve", "en": "to live" },
+        "type": "verb",
+        "verbType": "regular-ir",
+        "conjugations": {
+            "presens": {
+                "former": ["vivo", "vives", "vive", "vivimos", "vivís", "viven"]
+            }
+        }
+    },
+    "escribir_verb": {
+        "word": "escribir",
+        "translations": { "nb": "å skrive", "en": "to write" },
+        "type": "verb",
+        "verbType": "regular-ir",
+        "conjugations": {
+            "presens": {
+                "former": ["escribo", "escribes", "escribe", "escribimos", "escribís", "escriben"]
+            }
+        }
+    },
+    "abrir_verb": {
+        "word": "abrir",
+        "translations": { "nb": "å åpne", "en": "to open" },
+        "type": "verb",
+        "verbType": "regular-ir",
+        "conjugations": {
+            "presens": {
+                "former": ["abro", "abres", "abre", "abrimos", "abrís", "abren"]
+            }
+        }
+    },
+    "subir_verb": {
+        "word": "subir",
+        "translations": { "nb": "å gå opp, å stige", "en": "to go up, to climb" },
+        "type": "verb",
+        "verbType": "regular-ir",
+        "conjugations": {
+            "presens": {
+                "former": ["subo", "subes", "sube", "subimos", "subís", "suben"]
+            }
+        }
+    },
+    "recibir_verb": {
+        "word": "recibir",
+        "translations": { "nb": "å motta", "en": "to receive" },
+        "type": "verb",
+        "verbType": "regular-ir",
+        "conjugations": {
+            "presens": {
+                "former": ["recibo", "recibes", "recibe", "recibimos", "recibís", "reciben"]
+            }
+        }
+    },
+    "decidir_verb": {
+        "word": "decidir",
+        "translations": { "nb": "å bestemme", "en": "to decide" },
+        "type": "verb",
+        "verbType": "regular-ir",
+        "conjugations": {
+            "presens": {
+                "former": ["decido", "decides", "decide", "decidimos", "decidís", "deciden"]
+            }
+        }
+    },
+    "describir_verb": {
+        "word": "describir",
+        "translations": { "nb": "å beskrive", "en": "to describe" },
+        "type": "verb",
+        "verbType": "regular-ir",
+        "conjugations": {
+            "presens": {
+                "former": ["describo", "describes", "describe", "describimos", "describís", "describen"]
+            }
+        }
+    },
+    "compartir_verb": {
+        "word": "compartir",
+        "translations": { "nb": "å dele", "en": "to share" },
+        "type": "verb",
+        "verbType": "regular-ir",
+        "conjugations": {
+            "presens": {
+                "former": ["comparto", "compartes", "comparte", "compartimos", "compartís", "comparten"]
+            }
+        }
+    },
+    "asistir_verb": {
+        "word": "asistir",
+        "translations": { "nb": "å delta, å være til stede", "en": "to attend" },
+        "type": "verb",
+        "verbType": "regular-ir",
+        "conjugations": {
+            "presens": {
+                "former": ["asisto", "asistes", "asiste", "asistimos", "asistís", "asisten"]
+            }
+        }
+    },
+    "permitir_verb": {
+        "word": "permitir",
+        "translations": { "nb": "å tillate", "en": "to allow, to permit" },
+        "type": "verb",
+        "verbType": "regular-ir",
+        "conjugations": {
+            "presens": {
+                "former": ["permito", "permites", "permite", "permitimos", "permitís", "permiten"]
+            }
+        }
+    },
+    "existir_verb": {
+        "word": "existir",
+        "translations": { "nb": "å eksistere", "en": "to exist" },
+        "type": "verb",
+        "verbType": "regular-ir",
+        "conjugations": {
+            "presens": {
+                "former": ["existo", "existes", "existe", "existimos", "existís", "existen"]
+            }
+        }
+    },
+    "sufrir_verb": {
+        "word": "sufrir",
+        "translations": { "nb": "å lide", "en": "to suffer" },
+        "type": "verb",
+        "verbType": "regular-ir",
+        "conjugations": {
+            "presens": {
+                "former": ["sufro", "sufres", "sufre", "sufrimos", "sufrís", "sufren"]
+            }
+        }
+    },
+    "discutir_verb": {
+        "word": "discutir",
+        "translations": { "nb": "å diskutere", "en": "to discuss, to argue" },
+        "type": "verb",
+        "verbType": "regular-ir",
+        "conjugations": {
+            "presens": {
+                "former": ["discuto", "discutes", "discute", "discutimos", "discutís", "discuten"]
+            }
+        }
+    },
+
+    "levantarse_verb": {
+        "word": "levantarse",
+        "translations": { "nb": "å stå opp", "en": "to get up" },
+        "type": "verb",
+        "verbType": "reflexive",
+        "conjugations": {
+            "presens": {
+                "former": ["me levanto", "te levantas", "se levanta", "nos levantamos", "os levantáis", "se levantan"]
+            }
+        }
+    },
+    "acostarse_verb": {
+        "word": "acostarse",
+        "translations": { "nb": "å legge seg", "en": "to go to bed" },
+        "type": "verb",
+        "verbType": "reflexive",
+        "stemChange": "o→ue",
+        "conjugations": {
+            "presens": {
+                "former": ["me acuesto", "te acuestas", "se acuesta", "nos acostamos", "os acostáis", "se acuestan"]
+            }
+        }
+    },
+    "despertarse_verb": {
+        "word": "despertarse",
+        "translations": { "nb": "å våkne", "en": "to wake up" },
+        "type": "verb",
+        "verbType": "reflexive",
+        "stemChange": "e→ie",
+        "conjugations": {
+            "presens": {
+                "former": ["me despierto", "te despiertas", "se despierta", "nos despertamos", "os despertáis", "se despiertan"]
+            }
+        }
+    },
+    "ducharse_verb": {
+        "word": "ducharse",
+        "translations": { "nb": "å dusje", "en": "to shower" },
+        "type": "verb",
+        "verbType": "reflexive",
+        "conjugations": {
+            "presens": {
+                "former": ["me ducho", "te duchas", "se ducha", "nos duchamos", "os ducháis", "se duchan"]
+            }
+        }
+    },
+    "banarse_verb": {
+        "word": "bañarse",
+        "translations": { "nb": "å bade", "en": "to bathe" },
+        "type": "verb",
+        "verbType": "reflexive",
+        "conjugations": {
+            "presens": {
+                "former": ["me baño", "te bañas", "se baña", "nos bañamos", "os bañáis", "se bañan"]
+            }
+        }
+    },
+    "vestirse_verb": {
+        "word": "vestirse",
+        "translations": { "nb": "å kle på seg", "en": "to get dressed" },
+        "type": "verb",
+        "verbType": "reflexive",
+        "stemChange": "e→i",
+        "conjugations": {
+            "presens": {
+                "former": ["me visto", "te vistes", "se viste", "nos vestimos", "os vestís", "se visten"]
+            }
+        }
+    },
+    "sentarse_verb": {
+        "word": "sentarse",
+        "translations": { "nb": "å sette seg", "en": "to sit down" },
+        "type": "verb",
+        "verbType": "reflexive",
+        "stemChange": "e→ie",
+        "conjugations": {
+            "presens": {
+                "former": ["me siento", "te sientas", "se sienta", "nos sentamos", "os sentáis", "se sientan"]
+            }
+        }
+    },
+    "llamarse_verb": {
+        "word": "llamarse",
+        "translations": { "nb": "å hete", "en": "to be called" },
+        "type": "verb",
+        "verbType": "reflexive",
+        "conjugations": {
+            "presens": {
+                "former": ["me llamo", "te llamas", "se llama", "nos llamamos", "os llamáis", "se llaman"]
+            }
+        }
+    },
+    "irse_verb": {
+        "word": "irse",
+        "translations": { "nb": "å dra, å gå", "en": "to leave, to go away" },
+        "type": "verb",
+        "verbType": "reflexive",
+        "conjugations": {
+            "presens": {
+                "former": ["me voy", "te vas", "se va", "nos vamos", "os vais", "se van"]
+            }
+        }
+    },
+    "quedarse_verb": {
+        "word": "quedarse",
+        "translations": { "nb": "å bli (værende)", "en": "to stay" },
+        "type": "verb",
+        "verbType": "reflexive",
+        "conjugations": {
+            "presens": {
+                "former": ["me quedo", "te quedas", "se queda", "nos quedamos", "os quedáis", "se quedan"]
+            }
+        }
+    },
+    "sentirse_verb": {
+        "word": "sentirse",
+        "translations": { "nb": "å føle seg", "en": "to feel" },
+        "type": "verb",
+        "verbType": "reflexive",
+        "stemChange": "e→ie",
+        "conjugations": {
+            "presens": {
+                "former": ["me siento", "te sientes", "se siente", "nos sentimos", "os sentís", "se sienten"]
+            }
+        }
+    },
+    "divertirse_verb": {
+        "word": "divertirse",
+        "translations": { "nb": "å more seg", "en": "to have fun" },
+        "type": "verb",
+        "verbType": "reflexive",
+        "stemChange": "e→ie",
+        "conjugations": {
+            "presens": {
+                "former": ["me divierto", "te diviertes", "se divierte", "nos divertimos", "os divertís", "se divierten"]
+            }
+        }
+    },
+    "peinarse_verb": {
+        "word": "peinarse",
+        "translations": { "nb": "å gre seg", "en": "to comb one's hair" },
+        "type": "verb",
+        "verbType": "reflexive",
+        "conjugations": {
+            "presens": {
+                "former": ["me peino", "te peinas", "se peina", "nos peinamos", "os peináis", "se peinan"]
+            }
+        }
+    },
+    "lavarse_verb": {
+        "word": "lavarse",
+        "translations": { "nb": "å vaske seg", "en": "to wash oneself" },
+        "type": "verb",
+        "verbType": "reflexive",
+        "conjugations": {
+            "presens": {
+                "former": ["me lavo", "te lavas", "se lava", "nos lavamos", "os laváis", "se lavan"]
+            }
+        }
+    },
+    "ponerse_verb": {
+        "word": "ponerse",
+        "translations": { "nb": "å ta på seg, å bli", "en": "to put on, to become" },
+        "type": "verb",
+        "verbType": "reflexive",
+        "conjugations": {
+            "presens": {
+                "former": ["me pongo", "te pones", "se pone", "nos ponemos", "os ponéis", "se ponen"]
+            }
+        }
+    },
+
+    "gustar_verb": {
+        "word": "gustar",
+        "translations": { "nb": "å like", "en": "to like" },
+        "type": "verb",
+        "verbType": "special",
+        "note": "Brukes med indirekte objekt: Me gusta...",
+        "conjugations": {
+            "presens": {
+                "former": ["gusto", "gustas", "gusta", "gustamos", "gustáis", "gustan"]
+            }
+        }
+    },
+    "encantar_verb": {
+        "word": "encantar",
+        "translations": { "nb": "å elske, å like veldig godt", "en": "to love, to delight" },
+        "type": "verb",
+        "verbType": "special",
+        "note": "Brukes som gustar: Me encanta...",
+        "conjugations": {
+            "presens": {
+                "former": ["encanto", "encantas", "encanta", "encantamos", "encantáis", "encantan"]
+            }
+        }
+    },
+    "interesar_verb": {
+        "word": "interesar",
+        "translations": { "nb": "å interessere", "en": "to interest" },
+        "type": "verb",
+        "verbType": "special",
+        "note": "Brukes som gustar: Me interesa...",
+        "conjugations": {
+            "presens": {
+                "former": ["intereso", "interesas", "interesa", "interesamos", "interesáis", "interesan"]
+            }
+        }
+    },
+    "parecer_verb": {
+        "word": "parecer",
+        "translations": { "nb": "å virke, å synes", "en": "to seem, to appear" },
+        "type": "verb",
+        "verbType": "special",
+        "conjugations": {
+            "presens": {
+                "former": ["parezco", "pareces", "parece", "parecemos", "parecéis", "parecen"]
+            }
+        }
+    },
+    "haber_verb": {
+        "word": "haber",
+        "translations": { "nb": "å finnes (hay = det finnes)", "en": "to have (auxiliary), there is/are" },
+        "type": "verb",
+        "verbType": "irregular",
+        "note": "Upersonlig form: hay (det finnes)",
+        "conjugations": {
+            "presens": {
+                "former": ["he", "has", "ha/hay", "hemos", "habéis", "han"]
+            }
+        }
+    }
+}

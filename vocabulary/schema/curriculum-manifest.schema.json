@@ -1,0 +1,43 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://papertek.no/schemas/vocabulary/curriculum-manifest.schema.json",
+  "title": "Curriculum Manifest Schema",
+  "description": "Schema for curriculum vocabulary manifests that map lessons to word IDs",
+  "type": "object",
+  "properties": {
+    "lessons": {
+      "type": "object",
+      "description": "Lesson ID to lesson content mapping",
+      "propertyNames": {
+        "pattern": "^[0-9]+\\.[0-9]+$"
+      },
+      "additionalProperties": {
+        "$ref": "#/$defs/lessonManifest"
+      }
+    }
+  },
+  "required": ["lessons"],
+  "$defs": {
+    "lessonManifest": {
+      "type": "object",
+      "properties": {
+        "words": {
+          "type": "array",
+          "description": "List of word IDs in this lesson",
+          "items": {
+            "type": "string",
+            "description": "Word ID (e.g., 'hund_noun' or legacy 'hund_substantiv')"
+          }
+        },
+        "features": {
+          "type": "array",
+          "description": "Grammar features introduced in this lesson",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "required": ["words"]
+    }
+  }
+}

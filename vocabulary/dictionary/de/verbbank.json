@@ -1,0 +1,7193 @@
+{
+  "_metadata": {
+    "source": "verbbank.json",
+    "type": "dictionary",
+    "targetLanguage": "german",
+    "generatedAt": "2026-02-13T22:16:19.168Z",
+    "description": "Dictionary data for german verbbank (includes curriculum words)"
+  },
+  "sein_verb": {
+    "word": "sein",
+    "type": "strong",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "bin",
+          "du": "bist",
+          "er/sie/es": "ist",
+          "wir": "sind",
+          "ihr": "seid",
+          "sie/Sie": "sind"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sein_verb",
+    "audio": "verb_sein.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 56,
+    "verbClass": {
+      "default": "strong",
+      "presens": "strong",
+      "preteritum": "strong",
+      "perfektum": "strong"
+    }
+  },
+  "heissen_verb": {
+    "word": "heißen",
+    "type": "vanlig",
+    "audio": "verb_heissen.mp3",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "heiße",
+          "du": "heißt",
+          "er/sie/es": "heißt",
+          "wir": "heißen",
+          "ihr": "heißt",
+          "sie/Sie": "heißen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "heissen_verb",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 810,
+    "verbClass": {
+      "default": "strong",
+      "presens": "weak",
+      "preteritum": "strong",
+      "perfektum": "strong"
+    }
+  },
+  "kommen_verb": {
+    "word": "kommen",
+    "type": "vanlig",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "komme",
+          "du": "kommst",
+          "er/sie/es": "kommt",
+          "wir": "kommen",
+          "ihr": "kommt",
+          "sie/Sie": "kommen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "kommen_verb",
+    "audio": "verb_kommen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 140,
+    "verbClass": {
+      "default": "strong",
+      "presens": "weak",
+      "preteritum": "strong",
+      "perfektum": "strong"
+    }
+  },
+  "wohnen_verb": {
+    "word": "wohnen",
+    "type": "vanlig",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "wohne",
+          "du": "wohnst",
+          "er/sie/es": "wohnt",
+          "wir": "wohnen",
+          "ihr": "wohnt",
+          "sie/Sie": "wohnen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "wohnen_verb",
+    "audio": "verb_wohnen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 1295
+  },
+  "schauen_verb": {
+    "word": "schauen",
+    "type": "vanlig",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "schaue",
+          "du": "schaust",
+          "er/sie/es": "schaut",
+          "wir": "schauen",
+          "ihr": "schaut",
+          "sie/Sie": "schauen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "schauen_verb",
+    "audio": "verb_schauen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 871
+  },
+  "spielen_verb": {
+    "word": "spielen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "spiele",
+          "du": "spielst",
+          "er/sie/es": "spielt",
+          "wir": "spielen",
+          "ihr": "spielt",
+          "sie/Sie": "spielen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "spielen_verb",
+    "audio": "verb_spielen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 456
+  },
+  "interessieren_verb": {
+    "word": "interessieren",
+    "type": "refleksiv",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "interessiere",
+          "du": "interessierst",
+          "er/sie/es": "interessiert",
+          "wir": "interessieren",
+          "ihr": "interessiert",
+          "sie/Sie": "interessieren"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "interessieren_verb",
+    "audio": "verb_interessieren.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 2422
+  },
+  "shoppen_verb": {
+    "word": "shoppen",
+    "type": "vanlig",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "shoppe",
+          "du": "shoppst",
+          "er/sie/es": "shoppt",
+          "wir": "shoppen",
+          "ihr": "shoppt",
+          "sie/Sie": "shoppen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "shoppen_verb",
+    "audio": "verb_shoppen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 9922
+  },
+  "entspannen_verb": {
+    "word": "entspannen",
+    "type": "refleksiv",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "entspanne",
+          "du": "entspannst",
+          "er/sie/es": "entspannt",
+          "wir": "entspannen",
+          "ihr": "entspannt",
+          "sie/Sie": "entspannen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "entspannen_verb",
+    "audio": "verb_entspannen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 2751
+  },
+  "lernen_verb": {
+    "word": "lernen",
+    "type": "vanlig",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "lerne",
+          "du": "lernst",
+          "er/sie/es": "lernt",
+          "wir": "lernen",
+          "ihr": "lernt",
+          "sie/Sie": "lernen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "lernen_verb",
+    "audio": "verb_lernen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 689
+  },
+  "finden_verb": {
+    "word": "finden",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "finde",
+          "du": "findest",
+          "er/sie/es": "findet",
+          "wir": "finden",
+          "ihr": "findet",
+          "sie/Sie": "finden"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "finden_verb",
+    "audio": "verb_finden.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 220,
+    "verbClass": {
+      "default": "strong",
+      "presens": "weak",
+      "preteritum": "strong",
+      "perfektum": "strong"
+    }
+  },
+  "moegen_verb": {
+    "word": "mögen",
+    "type": "modal",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "mag",
+          "du": "magst",
+          "er/sie/es": "mag",
+          "wir": "mögen",
+          "ihr": "mögt",
+          "sie/Sie": "mögen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "modal": true,
+    "_id": "moegen_verb",
+    "audio": "verb_moegen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 893,
+    "verbClass": {
+      "default": "modal"
+    }
+  },
+  "klingeln_verb": {
+    "word": "klingeln",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "klingle",
+          "du": "klingelst",
+          "er/sie/es": "klingelt",
+          "wir": "klingeln",
+          "ihr": "klingelt",
+          "sie/Sie": "klingeln"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "klingeln_verb",
+    "audio": "verb_klingeln.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 4772
+  },
+  "beginnen_verb": {
+    "word": "beginnen",
+    "synonyms": [
+      "anfangen_verb"
+    ],
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "beginne",
+          "du": "beginnst",
+          "er/sie/es": "beginnt",
+          "wir": "beginnen",
+          "ihr": "beginnt",
+          "sie/Sie": "beginnen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "beginnen_verb",
+    "audio": "verb_beginnen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 1410,
+    "verbClass": {
+      "default": "strong",
+      "presens": "weak",
+      "preteritum": "strong",
+      "perfektum": "strong"
+    }
+  },
+  "koennen_verb": {
+    "word": "können",
+    "type": "modal",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "kann",
+          "du": "kannst",
+          "er/sie/es": "kann",
+          "wir": "können",
+          "ihr": "könnt",
+          "sie/Sie": "können"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "modal": true,
+    "_id": "koennen_verb",
+    "audio": "verb_koennen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 94,
+    "verbClass": {
+      "default": "modal"
+    }
+  },
+  "lesen_verb": {
+    "word": "lesen",
+    "type": "strong",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "lese",
+          "du": "liest",
+          "er/sie/es": "liest",
+          "wir": "lesen",
+          "ihr": "lest",
+          "sie/Sie": "lesen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "lesen_verb",
+    "audio": "verb_lesen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 873,
+    "verbClass": {
+      "default": "strong",
+      "presens": "strong",
+      "preteritum": "strong",
+      "perfektum": "strong"
+    }
+  },
+  "schwimmen_verb": {
+    "word": "schwimmen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "schwimme",
+          "du": "schwimmst",
+          "er/sie/es": "schwimmt",
+          "wir": "schwimmen",
+          "ihr": "schwimmt",
+          "sie/Sie": "schwimmen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "schwimmen_verb",
+    "audio": "verb_schwimmen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 2231,
+    "verbClass": {
+      "default": "strong",
+      "presens": "weak",
+      "preteritum": "strong",
+      "perfektum": "strong"
+    }
+  },
+  "singen_verb": {
+    "word": "singen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "singe",
+          "du": "singst",
+          "er/sie/es": "singt",
+          "wir": "singen",
+          "ihr": "singt",
+          "sie/Sie": "singen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "singen_verb",
+    "audio": "verb_singen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 1228,
+    "verbClass": {
+      "default": "strong",
+      "presens": "weak",
+      "preteritum": "strong",
+      "perfektum": "strong"
+    }
+  },
+  "tanzen_verb": {
+    "word": "tanzen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "tanze",
+          "du": "tanzt",
+          "er/sie/es": "tanzt",
+          "wir": "tanzen",
+          "ihr": "tanzt",
+          "sie/Sie": "tanzen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "tanzen_verb",
+    "audio": "verb_tanzen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 1043
+  },
+  "kochen_verb": {
+    "word": "kochen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "koche",
+          "du": "kochst",
+          "er/sie/es": "kocht",
+          "wir": "kochen",
+          "ihr": "kocht",
+          "sie/Sie": "kochen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "kochen_verb",
+    "audio": "verb_kochen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 2035
+  },
+  "malen_verb": {
+    "word": "malen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "male",
+          "du": "malst",
+          "er/sie/es": "malt",
+          "wir": "malen",
+          "ihr": "malt",
+          "sie/Sie": "malen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "malen_verb",
+    "audio": "verb_malen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 4299
+  },
+  "machen_verb": {
+    "word": "machen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "mache",
+          "du": "machst",
+          "er/sie/es": "macht",
+          "wir": "machen",
+          "ihr": "macht",
+          "sie/Sie": "machen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "machen_verb",
+    "audio": "verb_machen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 97
+  },
+  "gehen_verb": {
+    "word": "gehen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "gehe",
+          "du": "gehst",
+          "er/sie/es": "geht",
+          "wir": "gehen",
+          "ihr": "geht",
+          "sie/Sie": "gehen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "gehen_verb",
+    "audio": "verb_gehen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 106,
+    "verbClass": {
+      "default": "strong",
+      "presens": "weak",
+      "preteritum": "strong",
+      "perfektum": "strong"
+    }
+  },
+  "besuchen_verb": {
+    "word": "besuchen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "besuche",
+          "du": "besuchst",
+          "er/sie/es": "besucht",
+          "wir": "besuchen",
+          "ihr": "besucht",
+          "sie/Sie": "besuchen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "besuchen_verb",
+    "audio": "verb_besuchen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 1330
+  },
+  "kaufen_verb": {
+    "word": "kaufen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "kaufe",
+          "du": "kaufst",
+          "er/sie/es": "kauft",
+          "wir": "kaufen",
+          "ihr": "kauft",
+          "sie/Sie": "kaufen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "kaufen_verb",
+    "audio": "verb_kaufen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 754
+  },
+  "brauchen_verb": {
+    "word": "brauchen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "brauche",
+          "du": "brauchst",
+          "er/sie/es": "braucht",
+          "wir": "brauchen",
+          "ihr": "braucht",
+          "sie/Sie": "brauchen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "brauchen_verb",
+    "audio": "verb_brauchen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 289
+  },
+  "essen_verb": {
+    "word": "essen",
+    "type": "strong",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "esse",
+          "du": "isst",
+          "er/sie/es": "isst",
+          "wir": "essen",
+          "ihr": "esst",
+          "sie/Sie": "essen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "essen_verb",
+    "audio": "verb_essen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 266,
+    "verbClass": {
+      "default": "strong",
+      "presens": "strong",
+      "preteritum": "strong",
+      "perfektum": "strong"
+    }
+  },
+  "nehmen_verb": {
+    "word": "nehmen",
+    "type": "strong",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "nehme",
+          "du": "nimmst",
+          "er/sie/es": "nimmt",
+          "wir": "nehmen",
+          "ihr": "nehmt",
+          "sie/Sie": "nehmen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "nehmen_verb",
+    "audio": "verb_nehmen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 281,
+    "verbClass": {
+      "default": "strong",
+      "presens": "strong",
+      "preteritum": "strong",
+      "perfektum": "strong"
+    }
+  },
+  "trinken_verb": {
+    "word": "trinken",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "trinke",
+          "du": "trinkst",
+          "er/sie/es": "trinkt",
+          "wir": "trinken",
+          "ihr": "trinkt",
+          "sie/Sie": "trinken"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "trinken_verb",
+    "audio": "verb_trinken.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 585,
+    "verbClass": {
+      "default": "strong",
+      "presens": "weak",
+      "preteritum": "strong",
+      "perfektum": "strong"
+    }
+  },
+  "hoeren_verb": {
+    "word": "hören",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "höre",
+          "du": "hörst",
+          "er/sie/es": "hört",
+          "wir": "hören",
+          "ihr": "hört",
+          "sie/Sie": "hören"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "hoeren_verb",
+    "audio": "verb_hoeren.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 242
+  },
+  "hoffen_verb": {
+    "word": "hoffen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "hoffe",
+          "du": "hoffst",
+          "er/sie/es": "hofft",
+          "wir": "hoffen",
+          "ihr": "hofft",
+          "sie/Sie": "hoffen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "hoffen_verb",
+    "audio": "verb_hoffen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 1746
+  },
+  "haben_verb": {
+    "word": "haben",
+    "type": "strong",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "habe",
+          "du": "hast",
+          "er/sie/es": "hat",
+          "wir": "haben",
+          "ihr": "habt",
+          "sie/Sie": "haben"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "haben_verb",
+    "audio": "verb_haben.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 30,
+    "verbClass": {
+      "default": "strong",
+      "presens": "strong",
+      "preteritum": "mixed",
+      "perfektum": "mixed"
+    }
+  },
+  "fuettern_verb": {
+    "word": "füttern",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "füttere",
+          "du": "fütterst",
+          "er/sie/es": "füttert",
+          "wir": "füttern",
+          "ihr": "füttert",
+          "sie/Sie": "füttern"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "fuettern_verb",
+    "audio": "verb_fuettern.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 4876
+  },
+  "streicheln_verb": {
+    "word": "streicheln",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "streichle",
+          "du": "streichelst",
+          "er/sie/es": "streichelt",
+          "wir": "streicheln",
+          "ihr": "streichelt",
+          "sie/Sie": "streicheln"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "streicheln_verb",
+    "audio": "verb_streicheln.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 11153
+  },
+  "fressen_verb": {
+    "word": "fressen",
+    "type": "strong",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "fresse",
+          "du": "frisst",
+          "er/sie/es": "frisst",
+          "wir": "fressen",
+          "ihr": "fresst",
+          "sie/Sie": "fressen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "fressen_verb",
+    "audio": "verb_fressen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 2730,
+    "verbClass": {
+      "default": "strong",
+      "presens": "strong",
+      "preteritum": "strong",
+      "perfektum": "strong"
+    }
+  },
+  "leben_verb": {
+    "word": "leben",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "lebe",
+          "du": "lebst",
+          "er/sie/es": "lebt",
+          "wir": "leben",
+          "ihr": "lebt",
+          "sie/Sie": "leben"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "leben_verb",
+    "audio": "verb_leben.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 135
+  },
+  "oeffnen_verb": {
+    "word": "öffnen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "öffne",
+          "du": "öffnest",
+          "er/sie/es": "öffnet",
+          "wir": "öffnen",
+          "ihr": "öffnet",
+          "sie/Sie": "öffnen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "oeffnen_verb",
+    "audio": "verb_oeffnen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 1154
+  },
+  "jagen_verb": {
+    "word": "jagen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "jage",
+          "du": "jagst",
+          "er/sie/es": "jagt",
+          "wir": "jagen",
+          "ihr": "jagt",
+          "sie/Sie": "jagen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "jagen_verb",
+    "audio": "verb_jagen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 1771
+  },
+  "tragen_verb": {
+    "word": "tragen",
+    "type": "strong",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "trage",
+          "du": "trägst",
+          "er/sie/es": "trägt",
+          "wir": "tragen",
+          "ihr": "tragt",
+          "sie/Sie": "tragen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "tragen_verb",
+    "audio": "verb_tragen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 823,
+    "verbClass": {
+      "default": "strong",
+      "presens": "strong",
+      "preteritum": "strong",
+      "perfektum": "strong"
+    }
+  },
+  "sehen_verb": {
+    "word": "sehen",
+    "type": "strong",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "sehe",
+          "du": "siehst",
+          "er/sie/es": "sieht",
+          "wir": "sehen",
+          "ihr": "seht",
+          "sie/Sie": "sehen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sehen_verb",
+    "audio": "verb_sehen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 107,
+    "verbClass": {
+      "default": "strong",
+      "presens": "strong",
+      "preteritum": "strong",
+      "perfektum": "strong"
+    }
+  },
+  "treffen_verb": {
+    "word": "treffen",
+    "type": "strong",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "treffe",
+          "du": "triffst",
+          "er/sie/es": "trifft",
+          "wir": "treffen",
+          "ihr": "trefft",
+          "sie/Sie": "treffen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "treffen_verb",
+    "audio": "verb_treffen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 415,
+    "verbClass": {
+      "default": "strong",
+      "presens": "strong",
+      "preteritum": "strong",
+      "perfektum": "strong"
+    }
+  },
+  "muessen_verb": {
+    "word": "müssen",
+    "type": "modal",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "muss",
+          "du": "musst",
+          "er/sie/es": "muss",
+          "wir": "müssen",
+          "ihr": "müsst",
+          "sie/Sie": "müssen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "modal": true,
+    "_id": "muessen_verb",
+    "audio": "verb_muessen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 121,
+    "verbClass": {
+      "default": "modal"
+    }
+  },
+  "wollen_verb": {
+    "word": "wollen",
+    "type": "modal",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "will",
+          "du": "willst",
+          "er/sie/es": "will",
+          "wir": "wollen",
+          "ihr": "wollt",
+          "sie/Sie": "wollen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "modal": true,
+    "_id": "wollen_verb",
+    "audio": "verb_wollen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 144,
+    "verbClass": {
+      "default": "modal"
+    }
+  },
+  "fahren_verb": {
+    "word": "fahren",
+    "type": "strong",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "fahre",
+          "du": "fährst",
+          "er/sie/es": "fährt",
+          "wir": "fahren",
+          "ihr": "fahrt",
+          "sie/Sie": "fahren"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "fahren_verb",
+    "audio": "verb_fahren.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 372,
+    "verbClass": {
+      "default": "strong",
+      "presens": "strong",
+      "preteritum": "strong",
+      "perfektum": "strong"
+    }
+  },
+  "wandern_verb": {
+    "word": "wandern",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "wandere",
+          "du": "wanderst",
+          "er/sie/es": "wandert",
+          "wir": "wandern",
+          "ihr": "wandert",
+          "sie/Sie": "wandern"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "wandern_verb",
+    "audio": "verb_wandern.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 6215
+  },
+  "traeumen_verb": {
+    "word": "träumen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "träume",
+          "du": "träumst",
+          "er/sie/es": "träumt",
+          "wir": "träumen",
+          "ihr": "träumt",
+          "sie/Sie": "träumen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "traeumen_verb",
+    "audio": "verb_traeumen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 2467
+  },
+  "sagen_verb": {
+    "word": "sagen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "sage",
+          "du": "sagst",
+          "er/sie/es": "sagt",
+          "wir": "sagen",
+          "ihr": "sagt",
+          "sie/Sie": "sagen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sagen_verb",
+    "audio": "verb_sagen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 96
+  },
+  "schreiben_verb": {
+    "word": "schreiben",
+    "type": "strong",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "schreibe",
+          "du": "schreibst",
+          "er/sie/es": "schreibt",
+          "wir": "schreiben",
+          "ihr": "schreibt",
+          "sie/Sie": "schreiben"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "schreiben_verb",
+    "audio": "verb_schreiben.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 797,
+    "verbClass": {
+      "default": "strong",
+      "presens": "weak",
+      "preteritum": "strong",
+      "perfektum": "strong"
+    }
+  },
+  "fliegen_verb": {
+    "word": "fliegen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "fliege",
+          "du": "fliegst",
+          "er/sie/es": "fliegt",
+          "wir": "fliegen",
+          "ihr": "fliegt",
+          "sie/Sie": "fliegen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "fliegen_verb",
+    "audio": "verb_fliegen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 881,
+    "verbClass": {
+      "default": "strong",
+      "presens": "weak",
+      "preteritum": "strong",
+      "perfektum": "strong"
+    }
+  },
+  "mitnehmen_verb": {
+    "word": "mitnehmen",
+    "type": "strong",
+    "separable": true,
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "nehme mit",
+          "du": "nimmst mit",
+          "er/sie/es": "nimmt mit",
+          "wir": "nehmen mit",
+          "ihr": "nehmt mit",
+          "sie/Sie": "nehmen mit"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "mitnehmen_verb",
+    "audio": "verb_mitnehmen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 309,
+    "verbClass": {
+      "default": "strong",
+      "presens": "strong",
+      "preteritum": "strong",
+      "perfektum": "strong",
+      "separable": "mit"
+    },
+    "separablePrefix": "mit"
+  },
+  "packen_verb": {
+    "word": "packen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "packe",
+          "du": "packst",
+          "er/sie/es": "packt",
+          "wir": "packen",
+          "ihr": "packt",
+          "sie/Sie": "packen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "packen_verb",
+    "audio": "verb_packen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 2335
+  },
+  "einpacken_verb": {
+    "word": "einpacken",
+    "separable": true,
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "packe ein",
+          "du": "packst ein",
+          "er/sie/es": "packt ein",
+          "wir": "packen ein",
+          "ihr": "packt ein",
+          "sie/Sie": "packen ein"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "einpacken_verb",
+    "audio": "verb_einpacken.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 2569,
+    "verbClass": {
+      "default": "weak",
+      "separable": "ein"
+    },
+    "separablePrefix": "ein"
+  },
+  "duerfen_verb": {
+    "word": "dürfen",
+    "type": "modal",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "darf",
+          "du": "darfst",
+          "er/sie/es": "darf",
+          "wir": "dürfen",
+          "ihr": "dürft",
+          "sie/Sie": "dürfen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "modal": true,
+    "_id": "duerfen_verb",
+    "audio": "verb_duerfen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 630,
+    "verbClass": {
+      "default": "modal"
+    }
+  },
+  "scheinen_verb": {
+    "word": "scheinen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "scheine",
+          "du": "scheinst",
+          "er/sie/es": "scheint",
+          "wir": "scheinen",
+          "ihr": "scheint",
+          "sie/Sie": "scheinen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "scheinen_verb",
+    "audio": "verb_scheinen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 1994,
+    "verbClass": {
+      "default": "strong",
+      "presens": "weak",
+      "preteritum": "strong",
+      "perfektum": "strong"
+    }
+  },
+  "lieben_verb": {
+    "word": "lieben",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "liebe",
+          "du": "liebst",
+          "er/sie/es": "liebt",
+          "wir": "lieben",
+          "ihr": "liebt",
+          "sie/Sie": "lieben"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "lieben_verb",
+    "audio": "verb_lieben.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 658
+  },
+  "stimmen_verb": {
+    "word": "stimmen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "stimme",
+          "du": "stimmst",
+          "er/sie/es": "stimmt",
+          "wir": "stimmen",
+          "ihr": "stimmt",
+          "sie/Sie": "stimmen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "stimmen_verb",
+    "audio": "verb_stimmen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 1488
+  },
+  "dekorieren_verb": {
+    "word": "dekorieren",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "dekoriere",
+          "du": "dekorierst",
+          "er/sie/es": "dekoriert",
+          "wir": "dekorieren",
+          "ihr": "dekoriert",
+          "sie/Sie": "dekorieren"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "dekorieren_verb",
+    "audio": "verb_dekorieren.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 21613
+  },
+  "sprechen_verb": {
+    "word": "sprechen",
+    "type": "strong",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "spreche",
+          "du": "sprichst",
+          "er/sie/es": "spricht",
+          "wir": "sprechen",
+          "ihr": "sprecht",
+          "sie/Sie": "sprechen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sprechen_verb",
+    "audio": "verb_sprechen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 318,
+    "verbClass": {
+      "default": "strong",
+      "presens": "strong",
+      "preteritum": "strong",
+      "perfektum": "strong"
+    }
+  },
+  "werden_verb": {
+    "word": "werden",
+    "type": "strong",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "werde",
+          "du": "wirst",
+          "er/sie/es": "wird",
+          "wir": "werden",
+          "ihr": "werdet",
+          "sie/Sie": "werden"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "werden_verb",
+    "audio": "verb_werden.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 78,
+    "verbClass": {
+      "default": "strong",
+      "presens": "strong",
+      "preteritum": "strong",
+      "perfektum": "strong"
+    }
+  },
+  "dauern_verb": {
+    "word": "dauern",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "dauere",
+          "du": "dauerst",
+          "er/sie/es": "dauert",
+          "wir": "dauern",
+          "ihr": "dauert",
+          "sie/Sie": "dauern"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "dauern_verb",
+    "audio": "verb_dauern.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 1528
+  },
+  "bleiben_verb": {
+    "word": "bleiben",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "bleibe",
+          "du": "bleibst",
+          "er/sie/es": "bleibt",
+          "wir": "bleiben",
+          "ihr": "bleibt",
+          "sie/Sie": "bleiben"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "bleiben_verb",
+    "audio": "verb_bleiben.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 268,
+    "verbClass": {
+      "default": "strong",
+      "presens": "weak",
+      "preteritum": "strong",
+      "perfektum": "strong"
+    }
+  },
+  "schlafen_verb": {
+    "word": "schlafen",
+    "type": "strong",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "schlafe",
+          "du": "schläfst",
+          "er/sie/es": "schläft",
+          "wir": "schlafen",
+          "ihr": "schlaft",
+          "sie/Sie": "schlafen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "schlafen_verb",
+    "audio": "verb_schlafen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 566,
+    "verbClass": {
+      "default": "strong",
+      "presens": "strong",
+      "preteritum": "strong",
+      "perfektum": "strong"
+    }
+  },
+  "feiern_verb": {
+    "word": "feiern",
+    "type": "vanlig",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "feiere",
+          "du": "feierst",
+          "er/sie/es": "feiert",
+          "wir": "feiern",
+          "ihr": "feiert",
+          "sie/Sie": "feiern"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "feiern_verb",
+    "audio": "verb_feiern.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 1350
+  },
+  "kennen_verb": {
+    "word": "kennen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "kenne",
+          "du": "kennst",
+          "er/sie/es": "kennt",
+          "wir": "kennen",
+          "ihr": "kennt",
+          "sie/Sie": "kennen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "kennen_verb",
+    "audio": "verb_kennen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 353,
+    "verbClass": {
+      "default": "mixed",
+      "presens": "weak",
+      "preteritum": "mixed",
+      "perfektum": "mixed"
+    }
+  },
+  "sich_treffen_verb": {
+    "word": "sich treffen",
+    "type": "strong",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "treffe mich",
+          "du": "triffst dich",
+          "er/sie/es": "trifft sich",
+          "wir": "treffen uns",
+          "ihr": "trefft euch",
+          "sie/Sie": "treffen sich"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sich_treffen_verb",
+    "audio": "verb_sich_treffen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 415,
+    "verbClass": {
+      "default": "strong",
+      "presens": "strong",
+      "preteritum": "strong",
+      "perfektum": "strong"
+    }
+  },
+  "anrufen_verb": {
+    "word": "anrufen",
+    "separable": true,
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "rufe an",
+          "du": "rufst an",
+          "er/sie/es": "ruft an",
+          "wir": "rufen an",
+          "ihr": "ruft an",
+          "sie/Sie": "rufen an"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "anrufen_verb",
+    "audio": "verb_anrufen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 806,
+    "verbClass": {
+      "default": "strong",
+      "presens": "weak",
+      "preteritum": "strong",
+      "perfektum": "strong",
+      "separable": "an"
+    },
+    "separablePrefix": "an"
+  },
+  "anfangen_verb": {
+    "word": "anfangen",
+    "type": "sterkt",
+    "separable": true,
+    "synonyms": [
+      "beginnen_verb"
+    ],
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "fange an",
+          "du": "fängst an",
+          "er/sie/es": "fängt an",
+          "wir": "fangen an",
+          "ihr": "fangt an",
+          "sie/Sie": "fangen an"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "anfangen_verb",
+    "audio": "verb_anfangen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 933,
+    "verbClass": {
+      "default": "strong",
+      "presens": "strong",
+      "preteritum": "strong",
+      "perfektum": "strong",
+      "separable": "an"
+    },
+    "separablePrefix": "an"
+  },
+  "einladen_verb": {
+    "word": "einladen",
+    "type": "vanlig",
+    "separable": true,
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "lade ein",
+          "du": "lädst ein",
+          "er/sie/es": "lädt ein",
+          "wir": "laden ein",
+          "ihr": "ladet ein",
+          "sie/Sie": "laden ein"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "einladen_verb",
+    "audio": "verb_einladen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 955,
+    "verbClass": {
+      "default": "strong",
+      "presens": "strong",
+      "preteritum": "strong",
+      "perfektum": "strong",
+      "separable": "ein"
+    },
+    "separablePrefix": "ein"
+  },
+  "einkaufen_verb": {
+    "word": "einkaufen",
+    "type": "vanlig",
+    "separable": true,
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "kaufe ein",
+          "du": "kaufst ein",
+          "er/sie/es": "kauft ein",
+          "wir": "kaufen ein",
+          "ihr": "kauft ein",
+          "sie/Sie": "kaufen ein"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "einkaufen_verb",
+    "audio": "verb_einkaufen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 829,
+    "verbClass": {
+      "default": "weak",
+      "separable": "ein"
+    },
+    "separablePrefix": "ein"
+  },
+  "sich_freuen_auf_verb": {
+    "word": "sich freuen auf",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "freue mich auf",
+          "du": "freust dich auf",
+          "er/sie/es": "freut sich auf",
+          "wir": "freuen uns auf",
+          "ihr": "freut euch auf",
+          "sie/Sie": "freuen sich auf"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sich_freuen_auf_verb",
+    "audio": "verb_sich_freuen_auf.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 1641
+  },
+  "sich_waschen_verb": {
+    "word": "sich waschen",
+    "type": "strong",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "wasche mich",
+          "du": "wäschst dich",
+          "er/sie/es": "wäscht sich",
+          "wir": "waschen uns",
+          "ihr": "wascht euch",
+          "sie/Sie": "waschen sich"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sich_waschen_verb",
+    "audio": "verb_sich_waschen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 2777,
+    "verbClass": {
+      "default": "strong",
+      "presens": "strong",
+      "preteritum": "strong",
+      "perfektum": "strong"
+    }
+  },
+  "sich_duschen_verb": {
+    "word": "sich duschen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "dusche mich",
+          "du": "duschst dich",
+          "er/sie/es": "duscht sich",
+          "wir": "duschen uns",
+          "ihr": "duscht euch",
+          "sie/Sie": "duschen sich"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sich_duschen_verb",
+    "audio": "verb_sich_duschen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 3902
+  },
+  "sich_anziehen_verb": {
+    "word": "sich anziehen",
+    "separable": true,
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "ziehe mich an",
+          "du": "ziehst dich an",
+          "er/sie/es": "zieht sich an",
+          "wir": "ziehen uns an",
+          "ihr": "zieht euch an",
+          "sie/Sie": "ziehen sich an"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sich_anziehen_verb",
+    "audio": "verb_sich_anziehen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 2381,
+    "verbClass": {
+      "default": "strong",
+      "presens": "weak",
+      "preteritum": "strong",
+      "perfektum": "strong",
+      "separable": "an"
+    },
+    "separablePrefix": "an"
+  },
+  "sich_kaemmen_verb": {
+    "word": "sich kämmen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "kämme mich",
+          "du": "kämmst dich",
+          "er/sie/es": "kämmt sich",
+          "wir": "kämmen uns",
+          "ihr": "kämmt euch",
+          "sie/Sie": "kämmen sich"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sich_kaemmen_verb",
+    "audio": "verb_sich_kaemmen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 24059
+  },
+  "sich_schminken_verb": {
+    "word": "sich schminken",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "schminke mich",
+          "du": "schminkst dich",
+          "er/sie/es": "schminkt sich",
+          "wir": "schminken uns",
+          "ihr": "schminkt euch",
+          "sie/Sie": "schminken sich"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sich_schminken_verb",
+    "audio": "verb_sich_schminken.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 19779
+  },
+  "sich_rasieren_verb": {
+    "word": "sich rasieren",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "rasiere mich",
+          "du": "rasierst dich",
+          "er/sie/es": "rasiert sich",
+          "wir": "rasieren uns",
+          "ihr": "rasiert euch",
+          "sie/Sie": "rasieren sich"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sich_rasieren_verb",
+    "audio": "verb_sich_rasieren.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 7416
+  },
+  "sich_freuen_verb": {
+    "word": "sich freuen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "freue mich",
+          "du": "freust dich",
+          "er/sie/es": "freut sich",
+          "wir": "freuen uns",
+          "ihr": "freut euch",
+          "sie/Sie": "freuen sich"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sich_freuen_verb",
+    "audio": "verb_sich_freuen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 1641
+  },
+  "aufwachen_verb": {
+    "word": "aufwachen",
+    "separable": true,
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "wache auf",
+          "du": "wachst auf",
+          "er/sie/es": "wacht auf",
+          "wir": "wachen auf",
+          "ihr": "wacht auf",
+          "sie/Sie": "wachen auf"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "aufwachen_verb",
+    "audio": "verb_aufwachen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 2294,
+    "verbClass": {
+      "default": "weak",
+      "separable": "auf"
+    },
+    "separablePrefix": "auf"
+  },
+  "aufstehen_verb": {
+    "word": "aufstehen",
+    "separable": true,
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "stehe auf",
+          "du": "stehst auf",
+          "er/sie/es": "steht auf",
+          "wir": "stehen auf",
+          "ihr": "steht auf",
+          "sie/Sie": "stehen auf"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "aufstehen_verb",
+    "audio": "verb_aufstehen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 448,
+    "verbClass": {
+      "default": "strong",
+      "presens": "weak",
+      "preteritum": "strong",
+      "perfektum": "strong",
+      "separable": "auf"
+    },
+    "separablePrefix": "auf"
+  },
+  "fruehstuecken_verb": {
+    "word": "frühstücken",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "frühstücke",
+          "du": "frühstückst",
+          "er/sie/es": "frühstückt",
+          "wir": "frühstücken",
+          "ihr": "frühstückt",
+          "sie/Sie": "frühstücken"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "fruehstuecken_verb",
+    "audio": "verb_fruehstuecken.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 6411
+  },
+  "sich_fuehlen_verb": {
+    "word": "sich fühlen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "fühle mich",
+          "du": "fühlst dich",
+          "er/sie/es": "fühlt sich",
+          "wir": "fühlen uns",
+          "ihr": "fühlt euch",
+          "sie/Sie": "fühlen sich"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sich_fuehlen_verb",
+    "audio": "verb_sich_fuehlen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 844
+  },
+  "sich_freuen_ueber_verb": {
+    "word": "sich freuen über",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "freue mich über",
+          "du": "freust dich über",
+          "er/sie/es": "freut sich über",
+          "wir": "freuen uns über",
+          "ihr": "freut euch über",
+          "sie/Sie": "freuen sich über"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sich_freuen_ueber_verb",
+    "audio": "verb_sich_freuen_ueber.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 1641
+  },
+  "sich_aergern_verb": {
+    "word": "sich ärgern",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "ärgere mich",
+          "du": "ärgerst dich",
+          "er/sie/es": "ärgert sich",
+          "wir": "ärgern uns",
+          "ihr": "ärgert euch",
+          "sie/Sie": "ärgern sich"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sich_aergern_verb",
+    "audio": "verb_sich_aergern.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 5528
+  },
+  "sich_interessieren_verb": {
+    "word": "sich interessieren",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "interessiere mich",
+          "du": "interessierst dich",
+          "er/sie/es": "interessiert sich",
+          "wir": "interessieren uns",
+          "ihr": "interessiert euch",
+          "sie/Sie": "interessieren sich"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sich_interessieren_verb",
+    "audio": "verb_sich_interessieren.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 2422
+  },
+  "sich_langweilen_verb": {
+    "word": "sich langweilen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "langweile mich",
+          "du": "langweilst dich",
+          "er/sie/es": "langweilt sich",
+          "wir": "langweilen uns",
+          "ihr": "langweilt euch",
+          "sie/Sie": "langweilen sich"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sich_langweilen_verb",
+    "audio": "verb_sich_langweilen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 7540
+  },
+  "sich_konzentrieren_verb": {
+    "word": "sich konzentrieren",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "konzentriere mich",
+          "du": "konzentrierst dich",
+          "er/sie/es": "konzentriert sich",
+          "wir": "konzentrieren uns",
+          "ihr": "konzentriert euch",
+          "sie/Sie": "konzentrieren sich"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sich_konzentrieren_verb",
+    "audio": "verb_sich_konzentrieren.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 2184
+  },
+  "sich_entschuldigen_verb": {
+    "word": "sich entschuldigen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "entschuldige mich",
+          "du": "entschuldigst dich",
+          "er/sie/es": "entschuldigt sich",
+          "wir": "entschuldigen uns",
+          "ihr": "entschuldigt euch",
+          "sie/Sie": "entschuldigen sich"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sich_entschuldigen_verb",
+    "audio": "verb_sich_entschuldigen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 550
+  },
+  "sich_verspaeten_verb": {
+    "word": "sich verspäten",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "verspäte mich",
+          "du": "verspätest dich",
+          "er/sie/es": "verspätet sich",
+          "wir": "verspäten uns",
+          "ihr": "verspätet euch",
+          "sie/Sie": "verspäten sich"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sich_verspaeten_verb",
+    "audio": "verb_sich_verspaeten.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 15991
+  },
+  "sich_entspannen_verb": {
+    "word": "sich entspannen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "entspanne mich",
+          "du": "entspannst dich",
+          "er/sie/es": "entspannt sich",
+          "wir": "entspannen uns",
+          "ihr": "entspannt euch",
+          "sie/Sie": "entspannen sich"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sich_entspannen_verb",
+    "audio": "verb_sich_entspannen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 2751
+  },
+  "sich_aufregen_verb": {
+    "word": "sich aufregen",
+    "separable": true,
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "rege mich auf",
+          "du": "regst dich auf",
+          "er/sie/es": "regt sich auf",
+          "wir": "regen uns auf",
+          "ihr": "regt euch auf",
+          "sie/Sie": "regen sich auf"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sich_aufregen_verb",
+    "audio": "verb_sich_aufregen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 6102,
+    "verbClass": {
+      "default": "weak",
+      "separable": "auf"
+    },
+    "separablePrefix": "auf"
+  },
+  "sich_ausruhen_verb": {
+    "word": "sich ausruhen",
+    "separable": true,
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "ruhe mich aus",
+          "du": "ruhst dich aus",
+          "er/sie/es": "ruht sich aus",
+          "wir": "ruhen uns aus",
+          "ihr": "ruht euch aus",
+          "sie/Sie": "ruhen sich aus"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sich_ausruhen_verb",
+    "audio": "verb_sich_ausruhen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 3211,
+    "verbClass": {
+      "default": "weak",
+      "separable": "aus"
+    },
+    "separablePrefix": "aus"
+  },
+  "sich_erholen_verb": {
+    "word": "sich erholen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "erhole mich",
+          "du": "erholst dich",
+          "er/sie/es": "erholt sich",
+          "wir": "erholen uns",
+          "ihr": "erholt euch",
+          "sie/Sie": "erholen sich"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sich_erholen_verb",
+    "audio": "verb_sich_erholen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 5998
+  },
+  "sich_vorbereiten_verb": {
+    "word": "sich vorbereiten",
+    "separable": true,
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "bereite mich vor",
+          "du": "bereitest dich vor",
+          "er/sie/es": "bereitet sich vor",
+          "wir": "bereiten uns vor",
+          "ihr": "bereitet euch vor",
+          "sie/Sie": "bereiten sich vor"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sich_vorbereiten_verb",
+    "audio": "verb_sich_vorbereiten.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 3042,
+    "verbClass": {
+      "default": "weak",
+      "separable": "vor"
+    },
+    "separablePrefix": "vor"
+  },
+  "sich_setzen_verb": {
+    "word": "sich setzen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "setze mich",
+          "du": "setzt dich",
+          "er/sie/es": "setzt sich",
+          "wir": "setzen uns",
+          "ihr": "setzt euch",
+          "sie/Sie": "setzen sich"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sich_setzen_verb",
+    "audio": "verb_sich_setzen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 627
+  },
+  "sich_unterhalten_verb": {
+    "word": "sich unterhalten",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "unterhalte mich",
+          "du": "unterhältst dich",
+          "er/sie/es": "unterhält sich",
+          "wir": "unterhalten uns",
+          "ihr": "unterhaltet euch",
+          "sie/Sie": "unterhalten sich"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sich_unterhalten_verb",
+    "audio": "verb_sich_unterhalten.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 1564,
+    "verbClass": {
+      "default": "strong",
+      "presens": "strong",
+      "preteritum": "strong",
+      "perfektum": "strong"
+    }
+  },
+  "sich_bewegen_verb": {
+    "word": "sich bewegen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "bewege mich",
+          "du": "bewegst dich",
+          "er/sie/es": "bewegt sich",
+          "wir": "bewegen uns",
+          "ihr": "bewegt euch",
+          "sie/Sie": "bewegt sich"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sich_bewegen_verb",
+    "audio": "verb_sich_bewegen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 1278
+  },
+  "sollen_verb": {
+    "word": "sollen",
+    "type": "modal",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "soll",
+          "du": "sollst",
+          "er/sie/es": "soll",
+          "wir": "sollen",
+          "ihr": "sollt",
+          "sie/Sie": "sollen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "modal": true,
+    "_id": "sollen_verb",
+    "audio": "verb_sollen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 253,
+    "verbClass": {
+      "default": "modal"
+    }
+  },
+  "mitbringen_verb": {
+    "word": "mitbringen",
+    "type": "vanlig",
+    "separable": true,
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "bringe mit",
+          "du": "bringst mit",
+          "er/sie/es": "bringt mit",
+          "wir": "bringen mit",
+          "ihr": "bringt mit",
+          "sie/Sie": "bringen mit"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "mitbringen_verb",
+    "audio": "verb_mitbringen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 314,
+    "verbClass": {
+      "default": "mixed",
+      "presens": "weak",
+      "preteritum": "mixed",
+      "perfektum": "mixed",
+      "separable": "mit"
+    },
+    "separablePrefix": "mit"
+  },
+  "grillen_verb": {
+    "word": "grillen",
+    "type": "vanlig",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "grille",
+          "du": "grillst",
+          "er/sie/es": "grillt",
+          "wir": "grillen",
+          "ihr": "grillt",
+          "sie/Sie": "grillen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "grillen_verb",
+    "audio": "verb_grillen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 8658
+  },
+  "planen_verb": {
+    "word": "planen",
+    "type": "vanlig",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "plane",
+          "du": "planst",
+          "er/sie/es": "plant",
+          "wir": "planen",
+          "ihr": "plant",
+          "sie/Sie": "planen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "planen_verb",
+    "audio": "verb_planen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 3377
+  },
+  "sitzen_verb": {
+    "word": "sitzen",
+    "type": "strong",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "sitze",
+          "du": "sitzt",
+          "er/sie/es": "sitzt",
+          "wir": "sitzen",
+          "ihr": "sitzt",
+          "sie/Sie": "sitzen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "sitzen_verb",
+    "audio": "verb_sitzen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 781,
+    "verbClass": {
+      "default": "strong",
+      "presens": "weak",
+      "preteritum": "strong",
+      "perfektum": "strong"
+    }
+  },
+  "lachen_verb": {
+    "word": "lachen",
+    "type": "vanlig",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "lache",
+          "du": "lachst",
+          "er/sie/es": "lacht",
+          "wir": "lachen",
+          "ihr": "lacht",
+          "sie/Sie": "lachen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "lachen_verb",
+    "audio": "verb_lachen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 857
+  },
+  "fragen_verb": {
+    "word": "fragen",
+    "type": "vanlig",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "frage",
+          "du": "fragst",
+          "er/sie/es": "fragt",
+          "wir": "fragen",
+          "ihr": "fragt",
+          "sie/Sie": "fragen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "fragen_verb",
+    "audio": "verb_fragen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 299
+  },
+  "verstehen_verb": {
+    "word": "verstehen",
+    "type": "strong",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "verstehe",
+          "du": "verstehst",
+          "er/sie/es": "versteht",
+          "wir": "verstehen",
+          "ihr": "versteht",
+          "sie/Sie": "verstehen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "verstehen_verb",
+    "audio": "verb_verstehen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 455,
+    "verbClass": {
+      "default": "strong",
+      "presens": "weak",
+      "preteritum": "strong",
+      "perfektum": "strong"
+    }
+  },
+  "helfen_verb": {
+    "word": "helfen",
+    "type": "strong",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "helfe",
+          "du": "hilfst",
+          "er/sie/es": "hilft",
+          "wir": "helfen",
+          "ihr": "helft",
+          "sie/Sie": "helfen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "helfen_verb",
+    "audio": "verb_helfen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 218,
+    "verbClass": {
+      "default": "strong",
+      "presens": "strong",
+      "preteritum": "strong",
+      "perfektum": "strong"
+    }
+  },
+  "laecheln_verb": {
+    "word": "lächeln",
+    "type": "vanlig",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "lächle",
+          "du": "lächelst",
+          "er/sie/es": "lächelt",
+          "wir": "lächeln",
+          "ihr": "lächelt",
+          "sie/Sie": "lächeln"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "laecheln_verb",
+    "audio": "verb_laecheln.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 1683
+  },
+  "wecken_verb": {
+    "word": "wecken",
+    "type": "vanlig",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "wecke",
+          "du": "weckst",
+          "er/sie/es": "weckt",
+          "wir": "wecken",
+          "ihr": "weckt",
+          "sie/Sie": "wecken"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "wecken_verb",
+    "audio": "verb_wecken.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 3929
+  },
+  "liegen_verb": {
+    "word": "liegen",
+    "type": "strong",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "liege",
+          "du": "liegst",
+          "er/sie/es": "liegt",
+          "wir": "liegen",
+          "ihr": "liegt",
+          "sie/Sie": "liegen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "liegen_verb",
+    "audio": "verb_liegen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 930,
+    "verbClass": {
+      "default": "strong",
+      "presens": "weak",
+      "preteritum": "strong",
+      "perfektum": "strong"
+    }
+  },
+  "putzen_verb": {
+    "word": "putzen",
+    "type": "vanlig",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "putze",
+          "du": "putzt",
+          "er/sie/es": "putzt",
+          "wir": "putzen",
+          "ihr": "putzt",
+          "sie/Sie": "putzen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "putzen_verb",
+    "audio": "verb_putzen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 4506
+  },
+  "arbeiten_verb": {
+    "word": "arbeiten",
+    "type": "vanlig",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "arbeite",
+          "du": "arbeitest",
+          "er/sie/es": "arbeitet",
+          "wir": "arbeiten",
+          "ihr": "arbeitet",
+          "sie/Sie": "arbeiten"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "arbeiten_verb",
+    "audio": "verb_arbeiten.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 419
+  },
+  "wissen_verb": {
+    "word": "wissen",
+    "type": "strong",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "weiß",
+          "du": "weißt",
+          "er/sie/es": "weiß",
+          "wir": "wissen",
+          "ihr": "wisst",
+          "sie/Sie": "wissen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "wissen_verb",
+    "audio": "verb_wissen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 119,
+    "verbClass": {
+      "default": "mixed",
+      "presens": "strong",
+      "preteritum": "mixed",
+      "perfektum": "mixed"
+    }
+  },
+  "geben_verb": {
+    "word": "geben",
+    "type": "strong",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "gebe",
+          "du": "gibst",
+          "er/sie/es": "gibt",
+          "wir": "geben",
+          "ihr": "gebt",
+          "sie/Sie": "geben"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "geben_verb",
+    "audio": "verb_geben.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 233,
+    "verbClass": {
+      "default": "strong",
+      "presens": "strong",
+      "preteritum": "strong",
+      "perfektum": "strong"
+    }
+  },
+  "vergessen_verb": {
+    "word": "vergessen",
+    "type": "strong",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "vergesse",
+          "du": "vergisst",
+          "er/sie/es": "vergisst",
+          "wir": "vergessen",
+          "ihr": "vergesst",
+          "sie/Sie": "vergessen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "vergessen_verb",
+    "audio": "verb_vergessen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 355,
+    "verbClass": {
+      "default": "strong",
+      "presens": "strong",
+      "preteritum": "strong",
+      "perfektum": "strong"
+    }
+  },
+  "klingen_verb": {
+    "word": "klingen",
+    "type": "strong",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "klinge",
+          "du": "klingst",
+          "er/sie/es": "klingt",
+          "wir": "klingen",
+          "ihr": "klingt",
+          "sie/Sie": "klingen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "klingen_verb",
+    "audio": "verb_klingen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 3381,
+    "verbClass": {
+      "default": "strong",
+      "presens": "weak",
+      "preteritum": "strong",
+      "perfektum": "strong"
+    }
+  },
+  "haengen_verb": {
+    "word": "hängen",
+    "type": "vanlig",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "hänge",
+          "du": "hängst",
+          "er/sie/es": "hängt",
+          "wir": "hängen",
+          "ihr": "hängt",
+          "sie/Sie": "hängen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "haengen_verb",
+    "audio": "verb_haengen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 1541
+  },
+  "stehen_verb": {
+    "word": "stehen",
+    "type": "strong",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "stehe",
+          "du": "stehst",
+          "er/sie/es": "steht",
+          "wir": "stehen",
+          "ihr": "steht",
+          "sie/Sie": "stehen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "stehen_verb",
+    "audio": "verb_stehen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 407,
+    "verbClass": {
+      "default": "strong",
+      "presens": "weak",
+      "preteritum": "strong",
+      "perfektum": "strong"
+    }
+  },
+  "warten_verb": {
+    "word": "warten",
+    "type": "vanlig",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "warte",
+          "du": "wartest",
+          "er/sie/es": "wartet",
+          "wir": "warten",
+          "ihr": "wartet",
+          "sie/Sie": "warten"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "warten_verb",
+    "audio": "verb_warten.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 304
+  },
+  "laufen_verb": {
+    "word": "laufen",
+    "type": "sterkt",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "laufe",
+          "du": "läufst",
+          "er/sie/es": "läuft",
+          "wir": "laufen",
+          "ihr": "lauft",
+          "sie/Sie": "laufen"
+        }
+      }
+    },
+    "_id": "laufen_verb",
+    "audio": "verb_laufen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 695,
+    "verbClass": {
+      "default": "strong",
+      "presens": "strong",
+      "preteritum": "strong",
+      "perfektum": "strong"
+    }
+  },
+  "springen_verb": {
+    "word": "springen",
+    "type": "sterkt",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "springe",
+          "du": "springst",
+          "er/sie/es": "springt",
+          "wir": "springen",
+          "ihr": "springt",
+          "sie/Sie": "springen"
+        }
+      }
+    },
+    "_id": "springen_verb",
+    "audio": "verb_springen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 2412,
+    "verbClass": {
+      "default": "strong",
+      "presens": "weak",
+      "preteritum": "strong",
+      "perfektum": "strong"
+    }
+  },
+  "glauben_verb": {
+    "word": "glauben",
+    "type": "svakt",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "glaube",
+          "du": "glaubst",
+          "er/sie/es": "glaubt",
+          "wir": "glauben",
+          "ihr": "glaubt",
+          "sie/Sie": "glauben"
+        }
+      }
+    },
+    "_id": "glauben_verb",
+    "audio": "verb_glauben.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 284
+  },
+  "gewinnen_verb": {
+    "word": "gewinnen",
+    "type": "sterkt",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "gewinne",
+          "du": "gewinnst",
+          "er/sie/es": "gewinnt",
+          "wir": "gewinnen",
+          "ihr": "gewinnt",
+          "sie/Sie": "gewinnen"
+        }
+      }
+    },
+    "_id": "gewinnen_verb",
+    "audio": "verb_gewinnen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 949,
+    "verbClass": {
+      "default": "strong",
+      "presens": "weak",
+      "preteritum": "strong",
+      "perfektum": "strong"
+    }
+  },
+  "verlieren_verb": {
+    "word": "verlieren",
+    "type": "sterkt",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "verliere",
+          "du": "verlierst",
+          "er/sie/es": "verliert",
+          "wir": "verlieren",
+          "ihr": "verliert",
+          "sie/Sie": "verlieren"
+        }
+      }
+    },
+    "_id": "verlieren_verb",
+    "audio": "verb_verlieren.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 703,
+    "verbClass": {
+      "default": "strong",
+      "presens": "weak",
+      "preteritum": "strong",
+      "perfektum": "strong"
+    }
+  },
+  "danken_verb": {
+    "word": "danken",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "danke",
+          "du": "dankst",
+          "er/sie/es": "dankt",
+          "wir": "danken",
+          "ihr": "dankt",
+          "sie/Sie": "danken"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "danken_verb",
+    "audio": "verb_danken.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 1481
+  },
+  "antworten_verb": {
+    "word": "antworten",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "antworte",
+          "du": "antwortest",
+          "er/sie/es": "antwortet",
+          "wir": "antworten",
+          "ihr": "antwortet",
+          "sie/Sie": "antworten"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "antworten_verb",
+    "audio": "verb_antworten.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 1280
+  },
+  "vertrauen_verb": {
+    "word": "vertrauen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "vertraue",
+          "du": "vertraust",
+          "er/sie/es": "vertraut",
+          "wir": "vertrauen",
+          "ihr": "vertraut",
+          "sie/Sie": "vertrauen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "vertrauen_verb",
+    "audio": "verb_vertrauen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 747
+  },
+  "versprechen_verb": {
+    "word": "versprechen",
+    "type": "strong",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "verspreche",
+          "du": "versprichst",
+          "er/sie/es": "verspricht",
+          "wir": "versprechen",
+          "ihr": "versprecht",
+          "sie/Sie": "versprechen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "versprechen_verb",
+    "audio": "verb_versprechen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 1559,
+    "verbClass": {
+      "default": "strong",
+      "presens": "strong",
+      "preteritum": "strong",
+      "perfektum": "strong"
+    }
+  },
+  "erklaeren_verb": {
+    "word": "erklären",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "erkläre",
+          "du": "erklärst",
+          "er/sie/es": "erklärt",
+          "wir": "erklären",
+          "ihr": "erklärt",
+          "sie/Sie": "erklären"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "erklaeren_verb",
+    "audio": "verb_erklaeren.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 744
+  },
+  "zeigen_verb": {
+    "word": "zeigen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "zeige",
+          "du": "zeigst",
+          "er/sie/es": "zeigt",
+          "wir": "zeigen",
+          "ihr": "zeigt",
+          "sie/Sie": "zeigen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "zeigen_verb",
+    "audio": "verb_zeigen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 523
+  },
+  "bringen_verb": {
+    "word": "bringen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "bringe",
+          "du": "bringst",
+          "er/sie/es": "bringt",
+          "wir": "bringen",
+          "ihr": "bringt",
+          "sie/Sie": "bringen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "bringen_verb",
+    "audio": "verb_bringen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 285,
+    "verbClass": {
+      "default": "mixed",
+      "presens": "weak",
+      "preteritum": "mixed",
+      "perfektum": "mixed"
+    }
+  },
+  "erzaehlen_verb": {
+    "word": "erzählen",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "erzähle",
+          "du": "erzählst",
+          "er/sie/es": "erzählt",
+          "wir": "erzählen",
+          "ihr": "erzählt",
+          "sie/Sie": "erzählen"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "erzaehlen_verb",
+    "audio": "verb_erzaehlen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 547
+  },
+  "aufraeumen_verb": {
+    "word": "aufräumen",
+    "separable": true,
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "räume auf",
+          "du": "raumst auf",
+          "er/sie/es": "räumt auf",
+          "wir": "räumen auf",
+          "ihr": "räumt auf",
+          "sie/Sie": "räumen auf"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "_id": "aufraeumen_verb",
+    "audio": "verb_aufraeumen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 4254,
+    "verbClass": {
+      "default": "weak",
+      "separable": "auf"
+    },
+    "separablePrefix": "auf"
+  },
+  "reisen_verb": {
+    "word": "reisen",
+    "_id": "reisen_verb",
+    "audio": "verb_reisen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 1934
+  },
+  "fernsehen_verb": {
+    "word": "fernsehen",
+    "separable": true,
+    "_id": "fernsehen_verb",
+    "audio": "verb_fernsehen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 118,
+    "verbClass": {
+      "default": "strong",
+      "presens": "strong",
+      "preteritum": "strong",
+      "perfektum": "strong",
+      "separable": "fern"
+    },
+    "separablePrefix": "fern"
+  },
+  "rad_fahren_verbphrase": {
+    "word": "Rad fahren",
+    "type": "verbphrase",
+    "audio": "ord_rad_fahren.mp3",
+    "_id": "rad_fahren_verbphrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 3838
+  },
+  "musik_hoeren_verbphrase": {
+    "word": "Musik hören",
+    "type": "verbphrase",
+    "audio": "ord_musik_hoeren.mp3",
+    "_id": "musik_hoeren_verbphrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 295
+  },
+  "moechten_modal": {
+    "word": "möchten",
+    "type": "modal",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "möchte",
+          "du": "möchtest",
+          "er/sie/es": "möchte",
+          "wir": "möchten",
+          "ihr": "möchtet",
+          "sie/Sie": "möchten"
+        },
+        "feature": "grammar_presens"
+      }
+    },
+    "modal": true,
+    "_id": "moechten_modal",
+    "audio": "verb_moechten.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 758,
+    "verbClass": {
+      "default": "modal"
+    }
+  },
+  "bekommen_verb": {
+    "word": "bekommen",
+    "type": "verb",
+    "audio": "ord_bekommen.mp3",
+    "_id": "bekommen_verb",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 374
+  },
+  "gassi_gehen_verbphrase": {
+    "word": "Gassi gehen",
+    "type": "verbphrase",
+    "audio": "ord_gassi_gehen.mp3",
+    "_id": "gassi_gehen_verbphrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 16907
+  },
+  "klettern_verb": {
+    "word": "klettern",
+    "type": "verb",
+    "audio": "ord_klettern.mp3",
+    "_id": "klettern_verb",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 6387
+  },
+  "wegfahren_verb": {
+    "word": "wegfahren",
+    "type": "verb",
+    "separable": true,
+    "audio": "ord_wegfahren.mp3",
+    "_id": "wegfahren_verb",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 409,
+    "verbClass": {
+      "default": "strong",
+      "presens": "strong",
+      "preteritum": "strong",
+      "perfektum": "strong",
+      "separable": "weg"
+    },
+    "separablePrefix": "weg"
+  },
+  "liegen_bleiben_verb": {
+    "word": "liegen bleiben",
+    "type": "verb",
+    "audio": "ord_liegen_bleiben.mp3",
+    "_id": "liegen_bleiben_verb",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 930
+  },
+  "sich_aergern_ueber_verb": {
+    "word": "sich ärgern über",
+    "type": "verb",
+    "audio": "ord_sich_aergern_ueber.mp3",
+    "_id": "sich_aergern_ueber_verb",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 5528
+  },
+  "mitkommen_verb": {
+    "word": "mitkommen",
+    "type": "verb",
+    "separable": true,
+    "audio": "ord_mitkommen.mp3",
+    "_id": "mitkommen_verb",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 154,
+    "verbClass": {
+      "default": "strong",
+      "presens": "weak",
+      "preteritum": "strong",
+      "perfektum": "strong",
+      "separable": "mit"
+    },
+    "separablePrefix": "mit"
+  },
+  "spazieren_gehen_verb": {
+    "word": "spazieren gehen",
+    "type": "verb",
+    "audio": "ord_spazieren_gehen.mp3",
+    "_id": "spazieren_gehen_verb",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 2702
+  },
+  "fertig_werden_verbphrase": {
+    "word": "fertig werden",
+    "type": "verbphrase",
+    "audio": "ord_fertig_werden.mp3",
+    "_id": "fertig_werden_verbphrase",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 314
+  },
+  "zaehneputzen_verb": {
+    "word": "Zähne putzen",
+    "type": "verb",
+    "_id": "zaehneputzen_verb",
+    "audio": "verb_zaehne_putzen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 2156
+  },
+  "ausziehen_verb": {
+    "word": "ausziehen",
+    "type": "verb",
+    "separable": true,
+    "_id": "ausziehen_verb",
+    "audio": "verb_ausziehen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 782,
+    "verbClass": {
+      "default": "strong",
+      "presens": "weak",
+      "preteritum": "strong",
+      "perfektum": "strong",
+      "separable": "aus"
+    },
+    "separablePrefix": "aus"
+  },
+  "einschlafen_verb": {
+    "word": "einschlafen",
+    "type": "verb",
+    "separable": true,
+    "_id": "einschlafen_verb",
+    "audio": "verb_einschlafen.mp3",
+    "curriculum": true,
+    "cefr": "A1",
+    "frequency": 623,
+    "verbClass": {
+      "default": "strong",
+      "presens": "strong",
+      "preteritum": "strong",
+      "perfektum": "strong",
+      "separable": "ein"
+    },
+    "separablePrefix": "ein"
+  },
+  "abfahren_verb": {
+    "word": "abfahren",
+    "_id": "abfahren_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 409
+  },
+  "abgeben_verb": {
+    "word": "abgeben",
+    "_id": "abgeben_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 256
+  },
+  "abholen_verb": {
+    "word": "abholen",
+    "_id": "abholen_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 548
+  },
+  "anbieten_verb": {
+    "word": "anbieten",
+    "_id": "anbieten_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 2331
+  },
+  "anklicken_verb": {
+    "word": "anklicken",
+    "_id": "anklicken_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 11749
+  },
+  "ankommen_verb": {
+    "word": "ankommen",
+    "_id": "ankommen_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 154
+  },
+  "ankreuzen_verb": {
+    "word": "ankreuzen",
+    "_id": "ankreuzen_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 12944
+  },
+  "anmachen_verb": {
+    "word": "anmachen",
+    "_id": "anmachen_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 107
+  },
+  "anmelden_verb": {
+    "word": "anmelden",
+    "_id": "anmelden_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 1569,
+    "reflexive": true
+  },
+  "anziehen_verb": {
+    "word": "anziehen",
+    "_id": "anziehen_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 782,
+    "reflexive": true
+  },
+  "aufhoeren_verb": {
+    "word": "aufhören",
+    "_id": "aufhoeren_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 266
+  },
+  "ausfuellen_verb": {
+    "word": "ausfüllen",
+    "_id": "ausfuellen_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 5005
+  },
+  "ausmachen_verb": {
+    "word": "ausmachen",
+    "_id": "ausmachen_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 107
+  },
+  "aussteigen_verb": {
+    "word": "aussteigen",
+    "_id": "aussteigen_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 2039
+  },
+  "baden_verb": {
+    "word": "baden",
+    "_id": "baden_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 4910
+  },
+  "bedeuten_verb": {
+    "word": "bedeuten",
+    "_id": "bedeuten_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 1459
+  },
+  "benutzen_verb": {
+    "word": "benutzen",
+    "_id": "benutzen_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 1037
+  },
+  "besichtigen_verb": {
+    "word": "besichtigen",
+    "_id": "besichtigen_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 16501
+  },
+  "bezahlen_verb": {
+    "word": "bezahlen",
+    "_id": "bezahlen_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 960
+  },
+  "bisschen_verb": {
+    "word": "bisschen",
+    "_id": "bisschen_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 400
+  },
+  "bitten_verb": {
+    "word": "bitten",
+    "_id": "bitten_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 917
+  },
+  "buchstabieren_verb": {
+    "word": "buchstabieren",
+    "_id": "buchstabieren_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 14221
+  },
+  "daneben_verb": {
+    "word": "daneben",
+    "_id": "daneben_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 3145
+  },
+  "drucken_verb": {
+    "word": "drucken",
+    "_id": "drucken_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 8313
+  },
+  "druecken_verb": {
+    "word": "drücken",
+    "_id": "druecken_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 2356
+  },
+  "duschen_verb": {
+    "word": "duschen",
+    "_id": "duschen_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 3902,
+    "reflexive": true
+  },
+  "einsteigen_verb": {
+    "word": "einsteigen",
+    "_id": "einsteigen_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 2039
+  },
+  "empfehlen_verb": {
+    "word": "empfehlen",
+    "_id": "empfehlen_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 5291
+  },
+  "enden_verb": {
+    "word": "enden",
+    "_id": "enden_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 2073
+  },
+  "entschuldigen_verb": {
+    "word": "entschuldigen",
+    "_id": "entschuldigen_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 550
+  },
+  "erlauben_verb": {
+    "word": "erlauben",
+    "_id": "erlauben_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 2166
+  },
+  "fehlen_verb": {
+    "word": "fehlen",
+    "_id": "fehlen_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 2204
+  },
+  "abfliegen_verb": {
+    "word": "abfliegen",
+    "_id": "abfliegen_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 969
+  },
+  "freuen_verb": {
+    "word": "freuen",
+    "_id": "freuen_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 1641,
+    "reflexive": true
+  },
+  "geboren_verb": {
+    "word": "geboren",
+    "_id": "geboren_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 1181
+  },
+  "gefallen_verb": {
+    "word": "gefallen",
+    "_id": "gefallen_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 516
+  },
+  "gehoeren_verb": {
+    "word": "gehören",
+    "_id": "gehoeren_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 1272
+  },
+  "gestern_verb": {
+    "word": "gestern",
+    "_id": "gestern_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 475
+  },
+  "gestorben_verb": {
+    "word": "gestorben",
+    "_id": "gestorben_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 870
+  },
+  "gratulieren_verb": {
+    "word": "gratulieren",
+    "_id": "gratulieren_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 6552
+  },
+  "halten_verb": {
+    "word": "halten",
+    "_id": "halten_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 331
+  },
+  "heiraten_verb": {
+    "word": "heiraten",
+    "_id": "heiraten_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 734
+  },
+  "hinten_verb": {
+    "word": "hinten",
+    "_id": "hinten_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 900
+  },
+  "holen_verb": {
+    "word": "holen",
+    "_id": "holen_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 498
+  },
+  "kennenlernen_verb": {
+    "word": "kennenlernen",
+    "_id": "kennenlernen_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 2724
+  },
+  "kosten_verb": {
+    "word": "kosten",
+    "_id": "kosten_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 1698
+  },
+  "kriegen_verb": {
+    "word": "kriegen",
+    "_id": "kriegen_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 590
+  },
+  "sich_kuemmern_verb": {
+    "word": "sich kümmern",
+    "_id": "sich_kuemmern_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 777
+  },
+  "legen_verb": {
+    "word": "legen",
+    "_id": "legen_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 1003
+  },
+  "meistder_mensch_verb": {
+    "word": "meistder Mensch",
+    "_id": "meistder_mensch_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 578
+  },
+  "mieten_verb": {
+    "word": "mieten",
+    "_id": "mieten_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 6818
+  },
+  "mitmachen_verb": {
+    "word": "mitmachen",
+    "_id": "mitmachen_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 107
+  },
+  "oben_verb": {
+    "word": "oben",
+    "_id": "oben_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 474
+  },
+  "rauchen_verb": {
+    "word": "rauchen",
+    "_id": "rauchen_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 2126
+  },
+  "regnen_verb": {
+    "word": "regnen",
+    "_id": "regnen_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 7999
+  },
+  "reparieren_verb": {
+    "word": "reparieren",
+    "_id": "reparieren_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 2347
+  },
+  "riechen_verb": {
+    "word": "riechen",
+    "_id": "riechen_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 2889
+  },
+  "schicken_verb": {
+    "word": "schicken",
+    "_id": "schicken_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 834
+  },
+  "schliessen_verb": {
+    "word": "schließen",
+    "_id": "schliessen_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 1484
+  },
+  "geschlossen_verb": {
+    "word": "geschlossen",
+    "_id": "geschlossen_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 1728
+  },
+  "schmecken_verb": {
+    "word": "schmecken",
+    "_id": "schmecken_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 4120
+  },
+  "stellen_verb": {
+    "word": "stellen",
+    "_id": "stellen_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 580
+  },
+  "studieren_verb": {
+    "word": "studieren",
+    "_id": "studieren_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 3900
+  },
+  "suchen_verb": {
+    "word": "suchen",
+    "_id": "suchen_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 446
+  },
+  "telefonieren_verb": {
+    "word": "telefonieren",
+    "_id": "telefonieren_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 3453
+  },
+  "uebernachten_verb": {
+    "word": "übernachten",
+    "_id": "uebernachten_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 5181
+  },
+  "ueberweisen_verb": {
+    "word": "überweisen",
+    "_id": "ueberweisen_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 13937
+  },
+  "umziehen_verb": {
+    "word": "umziehen",
+    "_id": "umziehen_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 782
+  },
+  "unterschreiben_verb": {
+    "word": "unterschreiben",
+    "_id": "unterschreiben_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 2354
+  },
+  "verboten_verb": {
+    "word": "verboten",
+    "_id": "verboten_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 2091
+  },
+  "verdienen_verb": {
+    "word": "verdienen",
+    "_id": "verdienen_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 1562
+  },
+  "verkaufen_verb": {
+    "word": "verkaufen",
+    "_id": "verkaufen_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 931
+  },
+  "vermieten_verb": {
+    "word": "vermieten",
+    "_id": "vermieten_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 10881
+  },
+  "vorstellen_verb": {
+    "word": "vorstellen",
+    "_id": "vorstellen_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 638,
+    "reflexive": true
+  },
+  "waschen_verb": {
+    "word": "waschen",
+    "_id": "waschen_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 2777,
+    "reflexive": true
+  },
+  "wiederholen_verb": {
+    "word": "wiederholen",
+    "_id": "wiederholen_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 2975
+  },
+  "zahlen_verb": {
+    "word": "zahlen",
+    "_id": "zahlen_verb",
+    "curriculum": false,
+    "cefr": "A1",
+    "frequency": 1001
+  },
+  "anderen_verb": {
+    "word": "anderen",
+    "_id": "anderen_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 217
+  },
+  "damit_zufrieden_verb": {
+    "word": "damit zufrieden",
+    "_id": "damit_zufrieden_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 145
+  },
+  "abschliessen_verb": {
+    "word": "abschließen",
+    "_id": "abschliessen_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 1632
+  },
+  "gelesen_verb": {
+    "word": "gelesen",
+    "_id": "gelesen_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 1128
+  },
+  "ausgeben_verb": {
+    "word": "ausgeben",
+    "_id": "ausgeben_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 256
+  },
+  "ausgehen_verb": {
+    "word": "ausgehen",
+    "_id": "ausgehen_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 117
+  },
+  "auspacken_verb": {
+    "word": "auspacken",
+    "_id": "auspacken_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 2569
+  },
+  "aufmachen_verb": {
+    "word": "aufmachen",
+    "_id": "aufmachen_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 107
+  },
+  "aufpassen_verb": {
+    "word": "aufpassen",
+    "_id": "aufpassen_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 1465
+  },
+  "aussprechen_verb": {
+    "word": "aussprechen",
+    "_id": "aussprechen_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 350
+  },
+  "austragen_verb": {
+    "word": "austragen",
+    "_id": "austragen_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 905
+  },
+  "beenden_verb": {
+    "word": "beenden",
+    "_id": "beenden_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 1568
+  },
+  "begruenden_verb": {
+    "word": "begründen",
+    "_id": "begruenden_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 27216
+  },
+  "backen_verb": {
+    "word": "backen",
+    "_id": "backen_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 6931
+  },
+  "berichten_verb": {
+    "word": "berichten",
+    "_id": "berichten_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 3022
+  },
+  "beantworten_verb": {
+    "word": "beantworten",
+    "_id": "beantworten_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 2465
+  },
+  "beschreiben_verb": {
+    "word": "beschreiben",
+    "_id": "beschreiben_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 3621
+  },
+  "braten_verb": {
+    "word": "braten",
+    "_id": "braten_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 7121
+  },
+  "buchen_verb": {
+    "word": "buchen",
+    "_id": "buchen_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 11276
+  },
+  "chatten_verb": {
+    "word": "chatten",
+    "_id": "chatten_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 41094
+  },
+  "diskutieren_verb": {
+    "word": "diskutieren",
+    "_id": "diskutieren_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 4138
+  },
+  "dagegen_gewesen_verb": {
+    "word": "dagegen gewesen",
+    "_id": "dagegen_gewesen_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 961
+  },
+  "drinnen_verb": {
+    "word": "drinnen",
+    "_id": "drinnen_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 1417
+  },
+  "drueben_verb": {
+    "word": "drüben",
+    "_id": "drueben_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 774
+  },
+  "eintragen_verb": {
+    "word": "eintragen",
+    "_id": "eintragen_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 905
+  },
+  "einverstanden_verb": {
+    "word": "einverstanden",
+    "_id": "einverstanden_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 506
+  },
+  "bin_einverstanden_verb": {
+    "word": "bin) einverstanden",
+    "_id": "bin_einverstanden_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 1537
+  },
+  "gewesen_verb": {
+    "word": "gewesen",
+    "_id": "gewesen_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 469
+  },
+  "einziehen_verb": {
+    "word": "einziehen",
+    "_id": "einziehen_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 782
+  },
+  "erreichen_verb": {
+    "word": "erreichen",
+    "_id": "erreichen_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 1182
+  },
+  "fotografieren_verb": {
+    "word": "fotografieren",
+    "_id": "fotografieren_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 6731
+  },
+  "am_liebsten_verb": {
+    "word": "am liebsten",
+    "_id": "am_liebsten_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 132
+  },
+  "fuenf_aufgaben_verb": {
+    "word": "fünf Aufgaben",
+    "_id": "fuenf_aufgaben_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 490
+  },
+  "am_besten_verb": {
+    "word": "am besten",
+    "_id": "am_besten_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 132
+  },
+  "herstellen_verb": {
+    "word": "herstellen",
+    "_id": "herstellen_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 638
+  },
+  "gehangen_verb": {
+    "word": "gehangen",
+    "_id": "gehangen_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 29799
+  },
+  "herunterladen_verb": {
+    "word": "herunterladen",
+    "_id": "herunterladen_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 48322
+  },
+  "informieren_verb": {
+    "word": "informieren",
+    "_id": "informieren_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 3464
+  },
+  "schnellsten_verb": {
+    "word": "schnellsten",
+    "_id": "schnellsten_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 12570
+  },
+  "kontrollieren_verb": {
+    "word": "kontrollieren",
+    "_id": "kontrollieren_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 2110
+  },
+  "lassen_verb": {
+    "word": "lassen",
+    "_id": "lassen_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 163
+  },
+  "schon_laufen_verb": {
+    "word": "schon laufen",
+    "_id": "schon_laufen_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 54
+  },
+  "im_sueden_verb": {
+    "word": "im Süden",
+    "_id": "im_sueden_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 2661
+  },
+  "modern_verb": {
+    "word": "modern",
+    "_id": "modern_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 9353
+  },
+  "offen_verb": {
+    "word": "offen",
+    "_id": "offen_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 1009
+  },
+  "organisieren_verb": {
+    "word": "organisieren",
+    "_id": "organisieren_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 5817
+  },
+  "passieren_verb": {
+    "word": "passieren",
+    "_id": "passieren_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 787
+  },
+  "schwimmen_gehen_verb": {
+    "word": "schwimmen gehen",
+    "_id": "schwimmen_gehen_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 2231
+  },
+  "probieren_verb": {
+    "word": "probieren",
+    "_id": "probieren_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 2306
+  },
+  "renovieren_verb": {
+    "word": "renovieren",
+    "_id": "renovieren_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 12634
+  },
+  "reservieren_verb": {
+    "word": "reservieren",
+    "_id": "reservieren_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 13485
+  },
+  "sammeln_verb": {
+    "word": "sammeln",
+    "_id": "sammeln_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 3099
+  },
+  "schenken_verb": {
+    "word": "schenken",
+    "_id": "schenken_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 2991
+  },
+  "schimpfen_verb": {
+    "word": "schimpfen",
+    "_id": "schimpfen_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 16866
+  },
+  "laut_sprechen_verb": {
+    "word": "laut sprechen",
+    "_id": "laut_sprechen_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 778
+  },
+  "schneien_verb": {
+    "word": "schneien",
+    "_id": "schneien_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 21752
+  },
+  "stattfinden_verb": {
+    "word": "stattfinden",
+    "_id": "stattfinden_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 5858
+  },
+  "viel_stehen_verb": {
+    "word": "viel stehen",
+    "_id": "viel_stehen_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 128
+  },
+  "gestern_gestorben_verb": {
+    "word": "gestern gestorben",
+    "_id": "gestern_gestorben_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 475
+  },
+  "speichern_verb": {
+    "word": "speichern",
+    "_id": "speichern_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 17168
+  },
+  "teilnehmen_verb": {
+    "word": "teilnehmen",
+    "_id": "teilnehmen_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 309
+  },
+  "tauschen_verb": {
+    "word": "tauschen",
+    "_id": "tauschen_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 3714
+  },
+  "trainieren_verb": {
+    "word": "trainieren",
+    "_id": "trainieren_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 4110
+  },
+  "unten_verb": {
+    "word": "unten",
+    "_id": "unten_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 575
+  },
+  "unternehmen_verb": {
+    "word": "unternehmen",
+    "_id": "unternehmen_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 1551
+  },
+  "zwei_stunden_verb": {
+    "word": "zwei Stunden",
+    "_id": "zwei_stunden_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 169
+  },
+  "nicht_finden_verb": {
+    "word": "nicht finden",
+    "_id": "nicht_finden_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 6
+  },
+  "uebermorgen_verb": {
+    "word": "übermorgen",
+    "_id": "uebermorgen_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 5792
+  },
+  "uebersetzen_verb": {
+    "word": "übersetzen",
+    "_id": "uebersetzen_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 8823
+  },
+  "umsteigen_verb": {
+    "word": "umsteigen",
+    "_id": "umsteigen_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 2039
+  },
+  "vereinbaren_verb": {
+    "word": "vereinbaren",
+    "_id": "vereinbaren_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 12042
+  },
+  "untersuchen_verb": {
+    "word": "untersuchen",
+    "_id": "untersuchen_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 2215
+  },
+  "vergleichen_verb": {
+    "word": "vergleichen",
+    "_id": "vergleichen_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 5801
+  },
+  "verpassen_verb": {
+    "word": "verpassen",
+    "_id": "verpassen_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 2545
+  },
+  "verreisen_verb": {
+    "word": "verreisen",
+    "_id": "verreisen_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 8036
+  },
+  "verschieben_verb": {
+    "word": "verschieben",
+    "_id": "verschieben_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 4520
+  },
+  "verschieden_verb": {
+    "word": "verschieden",
+    "_id": "verschieden_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 7134
+  },
+  "versuchen_verb": {
+    "word": "versuchen",
+    "_id": "versuchen_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 476
+  },
+  "vorbereiten_verb": {
+    "word": "vorbereiten",
+    "_id": "vorbereiten_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 3042
+  },
+  "dafuer_vorbereiten_verb": {
+    "word": "dafür vorbereiten",
+    "_id": "dafuer_vorbereiten_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 245
+  },
+  "vorgestern_verb": {
+    "word": "vorgestern",
+    "_id": "vorgestern_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 523
+  },
+  "wechseln_verb": {
+    "word": "wechseln",
+    "_id": "wechseln_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 2617
+  },
+  "wegen_verb": {
+    "word": "wegen",
+    "_id": "wegen_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 248
+  },
+  "zeichnen_verb": {
+    "word": "zeichnen",
+    "_id": "zeichnen_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 6930
+  },
+  "zumachen_verb": {
+    "word": "zumachen",
+    "_id": "zumachen_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 107
+  },
+  "wuenschen_verb": {
+    "word": "wünschen",
+    "_id": "wuenschen_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 1677
+  },
+  "notieren_verb": {
+    "word": "notieren",
+    "_id": "notieren_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 12136
+  },
+  "ziehen_verb": {
+    "word": "ziehen",
+    "_id": "ziehen_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 711
+  },
+  "angezogen_verb": {
+    "word": "angezogen",
+    "_id": "angezogen_verb",
+    "curriculum": false,
+    "cefr": "A2",
+    "frequency": 2319
+  },
+  "abbiegen_verb": {
+    "word": "abbiegen",
+    "_id": "abbiegen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 11403
+  },
+  "abhaengen_verb": {
+    "word": "abhängen",
+    "_id": "abhaengen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1695
+  },
+  "abheben_verb": {
+    "word": "abheben",
+    "_id": "abheben_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 4070
+  },
+  "abschreiben_verb": {
+    "word": "abschreiben",
+    "_id": "abschreiben_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 877
+  },
+  "ablehnen_verb": {
+    "word": "ablehnen",
+    "_id": "ablehnen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 5609
+  },
+  "abmachen_verb": {
+    "word": "abmachen",
+    "_id": "abmachen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 107
+  },
+  "abnehmen_verb": {
+    "word": "abnehmen",
+    "_id": "abnehmen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 309
+  },
+  "absagen_verb": {
+    "word": "absagen",
+    "_id": "absagen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 106
+  },
+  "abstimmen_verb": {
+    "word": "abstimmen",
+    "_id": "abstimmen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1637
+  },
+  "abwaschen_verb": {
+    "word": "abwaschen",
+    "_id": "abwaschen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 3055
+  },
+  "achten_verb": {
+    "word": "achten",
+    "_id": "achten_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2954
+  },
+  "akzeptieren_verb": {
+    "word": "akzeptieren",
+    "_id": "akzeptieren_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2378
+  },
+  "sich_amuesieren_verb": {
+    "word": "sich amüsieren",
+    "_id": "sich_amuesieren_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 3936,
+    "reflexive": true
+  },
+  "analysieren_verb": {
+    "word": "analysieren",
+    "_id": "analysieren_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 7849
+  },
+  "aendern_verb": {
+    "word": "ändern",
+    "_id": "aendern_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 821
+  },
+  "anhaben_verb": {
+    "word": "anhaben",
+    "_id": "anhaben_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 33
+  },
+  "ankuendigen_verb": {
+    "word": "ankündigen",
+    "_id": "ankuendigen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 6757
+  },
+  "anerkennen_verb": {
+    "word": "anerkennen",
+    "_id": "anerkennen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1527
+  },
+  "angeben_verb": {
+    "word": "angeben",
+    "_id": "angeben_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 256
+  },
+  "annehmen_verb": {
+    "word": "annehmen",
+    "_id": "annehmen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 309
+  },
+  "anschaffen_verb": {
+    "word": "anschaffen",
+    "_id": "anschaffen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 732
+  },
+  "anschliessen_verb": {
+    "word": "anschließen",
+    "_id": "anschliessen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1632
+  },
+  "anzeigen_verb": {
+    "word": "anzeigen",
+    "_id": "anzeigen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 575
+  },
+  "anschnallen_verb": {
+    "word": "anschnallen",
+    "_id": "anschnallen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 12997
+  },
+  "ansprechen_verb": {
+    "word": "ansprechen",
+    "_id": "ansprechen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 350
+  },
+  "anstellen_verb": {
+    "word": "anstellen",
+    "_id": "anstellen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 638
+  },
+  "sich_anstrengen_verb": {
+    "word": "sich anstrengen",
+    "_id": "sich_anstrengen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 10414,
+    "reflexive": true
+  },
+  "anwenden_verb": {
+    "word": "anwenden",
+    "_id": "anwenden_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 3662
+  },
+  "atmen_verb": {
+    "word": "atmen",
+    "_id": "atmen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1796
+  },
+  "auffallen_verb": {
+    "word": "auffallen",
+    "_id": "auffallen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 996
+  },
+  "auffordern_verb": {
+    "word": "auffordern",
+    "_id": "auffordern_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 5928
+  },
+  "auffuehren_verb": {
+    "word": "aufführen",
+    "_id": "auffuehren_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 956
+  },
+  "aufgeben_verb": {
+    "word": "aufgeben",
+    "_id": "aufgeben_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 256
+  },
+  "aufhalten_verb": {
+    "word": "aufhalten",
+    "_id": "aufhalten_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 364
+  },
+  "aufheben_verb": {
+    "word": "aufheben",
+    "_id": "aufheben_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 4070
+  },
+  "aufladen_verb": {
+    "word": "aufladen",
+    "_id": "aufladen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 955
+  },
+  "aufloesen_verb": {
+    "word": "auflösen",
+    "_id": "aufloesen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2170
+  },
+  "aufnehmen_verb": {
+    "word": "aufnehmen",
+    "_id": "aufnehmen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 309
+  },
+  "aufregen_verb": {
+    "word": "aufregen",
+    "_id": "aufregen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2379
+  },
+  "auftreten_verb": {
+    "word": "auftreten",
+    "_id": "auftreten_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1772
+  },
+  "ausdrucken_verb": {
+    "word": "ausdrucken",
+    "_id": "ausdrucken_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 9144
+  },
+  "ausfallen_verb": {
+    "word": "ausfallen",
+    "_id": "ausfallen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 996
+  },
+  "ausrichten_verb": {
+    "word": "ausrichten",
+    "_id": "ausrichten_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 3101
+  },
+  "ausstellen_verb": {
+    "word": "ausstellen",
+    "_id": "ausstellen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 638
+  },
+  "auswaehlen_verb": {
+    "word": "auswählen",
+    "_id": "auswaehlen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2375
+  },
+  "aussen_verb": {
+    "word": "außen",
+    "_id": "aussen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 3634
+  },
+  "basteln_verb": {
+    "word": "basteln",
+    "_id": "basteln_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 15987
+  },
+  "bauen_verb": {
+    "word": "bauen",
+    "_id": "bauen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1539
+  },
+  "beachten_verb": {
+    "word": "beachten",
+    "_id": "beachten_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 7963
+  },
+  "beantragen_verb": {
+    "word": "beantragen",
+    "_id": "beantragen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 11389
+  },
+  "sich_bedanken_verb": {
+    "word": "sich bedanken",
+    "_id": "sich_bedanken_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 3884,
+    "reflexive": true
+  },
+  "bedienen_verb": {
+    "word": "bedienen",
+    "_id": "bedienen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 5012
+  },
+  "sich_beeilen_verb": {
+    "word": "sich beeilen",
+    "_id": "sich_beeilen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2000,
+    "reflexive": true
+  },
+  "sich_befinden_verb": {
+    "word": "sich befinden",
+    "_id": "sich_befinden_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2797,
+    "reflexive": true
+  },
+  "begegnen_verb": {
+    "word": "begegnen",
+    "_id": "begegnen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 4934
+  },
+  "behaupten_verb": {
+    "word": "behaupten",
+    "_id": "behaupten_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2781
+  },
+  "beissen_verb": {
+    "word": "beißen",
+    "_id": "beissen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 4509
+  },
+  "behalten_verb": {
+    "word": "behalten",
+    "_id": "behalten_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 918
+  },
+  "behandeln_verb": {
+    "word": "behandeln",
+    "_id": "behandeln_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2134
+  },
+  "begruessen_verb": {
+    "word": "begrüßen",
+    "_id": "begruessen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 3553
+  },
+  "beleidigen_verb": {
+    "word": "beleidigen",
+    "_id": "beleidigen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 5505
+  },
+  "sich_bemuehen_verb": {
+    "word": "sich bemühen",
+    "_id": "sich_bemuehen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 6737,
+    "reflexive": true
+  },
+  "benoetigen_verb": {
+    "word": "benötigen",
+    "_id": "benoetigen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 4376
+  },
+  "beobachten_verb": {
+    "word": "beobachten",
+    "_id": "beobachten_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2403
+  },
+  "beruhigen_verb": {
+    "word": "beruhigen",
+    "_id": "beruhigen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1835
+  },
+  "berechnen_verb": {
+    "word": "berechnen",
+    "_id": "berechnen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 11149
+  },
+  "beschaedigen_verb": {
+    "word": "beschädigen",
+    "_id": "beschaedigen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 18867
+  },
+  "beschliessen_verb": {
+    "word": "beschließen",
+    "_id": "beschliessen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 17924
+  },
+  "bemerken_verb": {
+    "word": "bemerken",
+    "_id": "bemerken_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 5803
+  },
+  "sich_beschweren_verb": {
+    "word": "sich beschweren",
+    "_id": "sich_beschweren_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 6002,
+    "reflexive": true
+  },
+  "besetzen_verb": {
+    "word": "besetzen",
+    "_id": "besetzen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 11764
+  },
+  "sich_beteiligen_verb": {
+    "word": "sich beteiligen",
+    "_id": "sich_beteiligen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 12557,
+    "reflexive": true
+  },
+  "betreuen_verb": {
+    "word": "betreuen",
+    "_id": "betreuen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 20576
+  },
+  "besorgen_verb": {
+    "word": "besorgen",
+    "_id": "besorgen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1485
+  },
+  "besprechen_verb": {
+    "word": "besprechen",
+    "_id": "besprechen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1905
+  },
+  "bewegen_verb": {
+    "word": "bewegen",
+    "_id": "bewegen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1278
+  },
+  "beweisen_verb": {
+    "word": "beweisen",
+    "_id": "beweisen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1109
+  },
+  "sich_bewerben_verb": {
+    "word": "sich bewerben",
+    "_id": "sich_bewerben_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 12903,
+    "reflexive": true
+  },
+  "bieten_verb": {
+    "word": "bieten",
+    "_id": "bieten_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2119
+  },
+  "blitzen_verb": {
+    "word": "blitzen",
+    "_id": "blitzen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 21126
+  },
+  "bluehen_verb": {
+    "word": "blühen",
+    "_id": "bluehen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 12494
+  },
+  "bluten_verb": {
+    "word": "bluten",
+    "_id": "bluten_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 6652
+  },
+  "bremsen_verb": {
+    "word": "bremsen",
+    "_id": "bremsen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 5352
+  },
+  "brennen_verb": {
+    "word": "brennen",
+    "_id": "brennen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 3993
+  },
+  "dagegen_verb": {
+    "word": "dagegen",
+    "_id": "dagegen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 961
+  },
+  "denken_verb": {
+    "word": "denken",
+    "_id": "denken_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 344
+  },
+  "darstellen_verb": {
+    "word": "darstellen",
+    "_id": "darstellen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 8738
+  },
+  "deswegen_verb": {
+    "word": "deswegen",
+    "_id": "deswegen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 690
+  },
+  "donnern_verb": {
+    "word": "donnern",
+    "_id": "donnern_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 13710
+  },
+  "dienen_verb": {
+    "word": "dienen",
+    "_id": "dienen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2602
+  },
+  "drehen_verb": {
+    "word": "drehen",
+    "_id": "drehen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1479
+  },
+  "eben_verb": {
+    "word": "eben",
+    "_id": "eben_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 536
+  },
+  "eilen_verb": {
+    "word": "eilen",
+    "_id": "eilen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 17273
+  },
+  "einbrechen_verb": {
+    "word": "einbrechen",
+    "_id": "einbrechen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1816
+  },
+  "sich_eignen_verb": {
+    "word": "sich eignen",
+    "_id": "sich_eignen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 19924,
+    "reflexive": true
+  },
+  "einfallen_verb": {
+    "word": "einfallen",
+    "_id": "einfallen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 996
+  },
+  "beeinflussen_verb": {
+    "word": "beeinflussen",
+    "_id": "beeinflussen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 5519
+  },
+  "einfuegen_verb": {
+    "word": "einfügen",
+    "_id": "einfuegen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 11733
+  },
+  "einrichten_verb": {
+    "word": "einrichten",
+    "_id": "einrichten_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 3101
+  },
+  "sich_einigen_verb": {
+    "word": "sich einigen",
+    "_id": "sich_einigen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1876,
+    "reflexive": true
+  },
+  "einnehmen_verb": {
+    "word": "einnehmen",
+    "_id": "einnehmen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 309
+  },
+  "einschalten_verb": {
+    "word": "einschalten",
+    "_id": "einschalten_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 4111
+  },
+  "einsetzen_verb": {
+    "word": "einsetzen",
+    "_id": "einsetzen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 690
+  },
+  "eintreten_verb": {
+    "word": "eintreten",
+    "_id": "eintreten_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1772
+  },
+  "einzahlen_verb": {
+    "word": "einzahlen",
+    "_id": "einzahlen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1101
+  },
+  "einzeln_verb": {
+    "word": "einzeln",
+    "_id": "einzeln_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 10089
+  },
+  "entdecken_verb": {
+    "word": "entdecken",
+    "_id": "entdecken_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 4525
+  },
+  "entfernen_verb": {
+    "word": "entfernen",
+    "_id": "entfernen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2827
+  },
+  "empfangen_verb": {
+    "word": "empfangen",
+    "_id": "empfangen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2862
+  },
+  "entlassen_verb": {
+    "word": "entlassen",
+    "_id": "entlassen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1985
+  },
+  "sich_entschliessen_verb": {
+    "word": "sich entschließen",
+    "_id": "sich_entschliessen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 28571,
+    "reflexive": true
+  },
+  "entsorgen_verb": {
+    "word": "entsorgen",
+    "_id": "entsorgen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 13610
+  },
+  "sich_ereignen_verb": {
+    "word": "sich ereignen",
+    "_id": "sich_ereignen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 46664,
+    "reflexive": true
+  },
+  "enttaeuschen_verb": {
+    "word": "enttäuschen",
+    "_id": "enttaeuschen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 4153
+  },
+  "entwickeln_verb": {
+    "word": "entwickeln",
+    "_id": "entwickeln_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 3853
+  },
+  "erfinden_verb": {
+    "word": "erfinden",
+    "_id": "erfinden_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 6535
+  },
+  "entstehen_verb": {
+    "word": "entstehen",
+    "_id": "entstehen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 7365
+  },
+  "erfordern_verb": {
+    "word": "erfordern",
+    "_id": "erfordern_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 14434
+  },
+  "erfuellen_verb": {
+    "word": "erfüllen",
+    "_id": "erfuellen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 3118
+  },
+  "ergaenzen_verb": {
+    "word": "ergänzen",
+    "_id": "ergaenzen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 24849
+  },
+  "erhalten_verb": {
+    "word": "erhalten",
+    "_id": "erhalten_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1334
+  },
+  "erinnern_verb": {
+    "word": "erinnern",
+    "_id": "erinnern_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 697
+  },
+  "sich_erkaelten_verb": {
+    "word": "sich erkälten",
+    "_id": "sich_erkaelten_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 20282,
+    "reflexive": true
+  },
+  "erkennen_verb": {
+    "word": "erkennen",
+    "_id": "erkennen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1388
+  },
+  "erledigen_verb": {
+    "word": "erledigen",
+    "_id": "erledigen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1255
+  },
+  "erleichtern_verb": {
+    "word": "erleichtern",
+    "_id": "erleichtern_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 10929
+  },
+  "und_senioren_verb": {
+    "word": "und Senioren",
+    "_id": "und_senioren_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 9
+  },
+  "ernaehren_verb": {
+    "word": "ernähren",
+    "_id": "ernaehren_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 6348
+  },
+  "eroeffnen_verb": {
+    "word": "eröffnen",
+    "_id": "eroeffnen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 4831
+  },
+  "sich_erkundigen_verb": {
+    "word": "sich erkundigen",
+    "_id": "sich_erkundigen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 15730,
+    "reflexive": true
+  },
+  "erleben_verb": {
+    "word": "erleben",
+    "_id": "erleben_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2481
+  },
+  "erstellen_verb": {
+    "word": "erstellen",
+    "_id": "erstellen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 8939
+  },
+  "erwachsen_verb": {
+    "word": "erwachsen",
+    "_id": "erwachsen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2143
+  },
+  "erwarten_verb": {
+    "word": "erwarten",
+    "_id": "erwarten_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1164
+  },
+  "erziehen_verb": {
+    "word": "erziehen",
+    "_id": "erziehen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 10513
+  },
+  "fassen_verb": {
+    "word": "fassen",
+    "_id": "fassen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1621
+  },
+  "fallen_verb": {
+    "word": "fallen",
+    "_id": "fallen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 905
+  },
+  "fangen_verb": {
+    "word": "fangen",
+    "_id": "fangen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 981
+  },
+  "faulenzen_verb": {
+    "word": "faulenzen",
+    "_id": "faulenzen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 32098
+  },
+  "finanzieren_verb": {
+    "word": "finanzieren",
+    "_id": "finanzieren_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 9290
+  },
+  "feststehen_verb": {
+    "word": "feststehen",
+    "_id": "feststehen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 448
+  },
+  "feststellen_verb": {
+    "word": "feststellen",
+    "_id": "feststellen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 638
+  },
+  "festlegen_verb": {
+    "word": "festlegen",
+    "_id": "festlegen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1103
+  },
+  "folgen_verb": {
+    "word": "folgen",
+    "_id": "folgen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 916
+  },
+  "foerdern_verb": {
+    "word": "fördern",
+    "_id": "foerdern_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 5389
+  },
+  "fuehlen_verb": {
+    "word": "fühlen",
+    "_id": "fuehlen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 844
+  },
+  "fuehren_verb": {
+    "word": "führen",
+    "_id": "fuehren_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 869
+  },
+  "frieren_verb": {
+    "word": "frieren",
+    "_id": "frieren_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 13031
+  },
+  "funktionieren_verb": {
+    "word": "funktionieren",
+    "_id": "funktionieren_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1743
+  },
+  "sich_fuerchten_verb": {
+    "word": "sich fürchten",
+    "_id": "sich_fuerchten_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 3161,
+    "reflexive": true
+  },
+  "garantieren_verb": {
+    "word": "garantieren",
+    "_id": "garantieren_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 6402
+  },
+  "gelingen_verb": {
+    "word": "gelingen",
+    "_id": "gelingen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 9021
+  },
+  "gelten_verb": {
+    "word": "gelten",
+    "_id": "gelten_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 5964
+  },
+  "genehmigen_verb": {
+    "word": "genehmigen",
+    "_id": "genehmigen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 13035
+  },
+  "genuegen_verb": {
+    "word": "genügen",
+    "_id": "genuegen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 8259
+  },
+  "geschehen_verb": {
+    "word": "geschehen",
+    "_id": "geschehen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 877
+  },
+  "greifen_verb": {
+    "word": "greifen",
+    "_id": "greifen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2758
+  },
+  "grillieren_verb": {
+    "word": "grillieren",
+    "_id": "grillieren_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": null
+  },
+  "gruessen_verb": {
+    "word": "grüßen",
+    "_id": "gruessen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 4516
+  },
+  "gruenden_verb": {
+    "word": "gründen",
+    "_id": "gruenden_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2713
+  },
+  "gucken_verb": {
+    "word": "gucken",
+    "_id": "gucken_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2515
+  },
+  "hageln_verb": {
+    "word": "hageln",
+    "_id": "hageln_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": null
+  },
+  "hassen_verb": {
+    "word": "hassen",
+    "_id": "hassen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2024
+  },
+  "heben_verb": {
+    "word": "heben",
+    "_id": "heben_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 3700
+  },
+  "heizen_verb": {
+    "word": "heizen",
+    "_id": "heizen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 22762
+  },
+  "hochladen_verb": {
+    "word": "hochladen",
+    "_id": "hochladen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 31562
+  },
+  "hinterlassen_verb": {
+    "word": "hinterlassen",
+    "_id": "hinterlassen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1783
+  },
+  "hinweisen_verb": {
+    "word": "hinweisen",
+    "_id": "hinweisen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 5873
+  },
+  "husten_verb": {
+    "word": "husten",
+    "_id": "husten_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 5893
+  },
+  "hupen_verb": {
+    "word": "hupen",
+    "_id": "hupen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 5307
+  },
+  "innen_verb": {
+    "word": "innen",
+    "_id": "innen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 3508
+  },
+  "installieren_verb": {
+    "word": "installieren",
+    "_id": "installieren_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 14033
+  },
+  "inzwischen_verb": {
+    "word": "inzwischen",
+    "_id": "inzwischen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2337
+  },
+  "sich_irren_verb": {
+    "word": "sich irren",
+    "_id": "sich_irren_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2812,
+    "reflexive": true
+  },
+  "kaempfen_verb": {
+    "word": "kämpfen",
+    "_id": "kaempfen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 855
+  },
+  "kaputtmachen_verb": {
+    "word": "kaputtmachen",
+    "_id": "kaputtmachen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 15471
+  },
+  "klagen_verb": {
+    "word": "klagen",
+    "_id": "klagen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 6054
+  },
+  "klappen_verb": {
+    "word": "klappen",
+    "_id": "klappen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 4121
+  },
+  "klaeren_verb": {
+    "word": "klären",
+    "_id": "klaeren_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2550
+  },
+  "kleben_verb": {
+    "word": "kleben",
+    "_id": "kleben_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 9057
+  },
+  "klicken_verb": {
+    "word": "klicken",
+    "_id": "klicken_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 10681
+  },
+  "klopfen_verb": {
+    "word": "klopfen",
+    "_id": "klopfen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2103
+  },
+  "konsumieren_verb": {
+    "word": "konsumieren",
+    "_id": "konsumieren_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 34487
+  },
+  "kopieren_verb": {
+    "word": "kopieren",
+    "_id": "kopieren_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 11799
+  },
+  "kritisieren_verb": {
+    "word": "kritisieren",
+    "_id": "kritisieren_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 12436
+  },
+  "kuendigen_verb": {
+    "word": "kündigen",
+    "_id": "kuendigen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 6143
+  },
+  "kuessen_verb": {
+    "word": "küssen",
+    "_id": "kuessen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1820
+  },
+  "leiden_verb": {
+    "word": "leiden",
+    "_id": "leiden_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1594
+  },
+  "leihen_verb": {
+    "word": "leihen",
+    "_id": "leihen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 3778
+  },
+  "leisten_verb": {
+    "word": "leisten",
+    "_id": "leisten_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1456
+  },
+  "leiten_verb": {
+    "word": "leiten",
+    "_id": "leiten_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 3239
+  },
+  "luegen_verb": {
+    "word": "lügen",
+    "_id": "luegen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1134
+  },
+  "loben_verb": {
+    "word": "loben",
+    "_id": "loben_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 14594
+  },
+  "sich_lohnen_verb": {
+    "word": "sich lohnen",
+    "_id": "sich_lohnen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 15724,
+    "reflexive": true
+  },
+  "losfahren_verb": {
+    "word": "losfahren",
+    "_id": "losfahren_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 409
+  },
+  "loeschen_verb": {
+    "word": "löschen",
+    "_id": "loeschen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 4204
+  },
+  "loesen_verb": {
+    "word": "lösen",
+    "_id": "loesen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1973
+  },
+  "markieren_verb": {
+    "word": "markieren",
+    "_id": "markieren_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 12975
+  },
+  "meinen_verb": {
+    "word": "meinen",
+    "_id": "meinen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 165
+  },
+  "messen_verb": {
+    "word": "messen",
+    "_id": "messen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 6808
+  },
+  "melden_verb": {
+    "word": "melden",
+    "_id": "melden_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1426
+  },
+  "merken_verb": {
+    "word": "merken",
+    "_id": "merken_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2060
+  },
+  "mitteilen_verb": {
+    "word": "mitteilen",
+    "_id": "mitteilen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1469
+  },
+  "mitten_verb": {
+    "word": "mitten",
+    "_id": "mitten_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1534
+  },
+  "nachdenken_verb": {
+    "word": "nachdenken",
+    "_id": "nachdenken_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 378
+  },
+  "nachschlagen_verb": {
+    "word": "nachschlagen",
+    "_id": "nachschlagen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1209
+  },
+  "sich_naehern_verb": {
+    "word": "sich nähern",
+    "_id": "sich_naehern_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 3940,
+    "reflexive": true
+  },
+  "nennen_verb": {
+    "word": "nennen",
+    "_id": "nennen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 692
+  },
+  "nutzen_verb": {
+    "word": "nutzen",
+    "_id": "nutzen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1676
+  },
+  "nuetzen_verb": {
+    "word": "nützen",
+    "_id": "nuetzen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1676
+  },
+  "veroeffentlichen_verb": {
+    "word": "veröffentlichen",
+    "_id": "veroeffentlichen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 7468
+  },
+  "operieren_verb": {
+    "word": "operieren",
+    "_id": "operieren_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 5412
+  },
+  "ordnen_verb": {
+    "word": "ordnen",
+    "_id": "ordnen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 14432
+  },
+  "parkieren_verb": {
+    "word": "parkieren",
+    "_id": "parkieren_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": null
+  },
+  "passen_verb": {
+    "word": "passen",
+    "_id": "passen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1332
+  },
+  "pflanzen_verb": {
+    "word": "pflanzen",
+    "_id": "pflanzen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 4254
+  },
+  "pflegen_verb": {
+    "word": "pflegen",
+    "_id": "pflegen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 8887
+  },
+  "praesentieren_verb": {
+    "word": "präsentieren",
+    "_id": "praesentieren_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 5198
+  },
+  "produzieren_verb": {
+    "word": "produzieren",
+    "_id": "produzieren_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 7890
+  },
+  "protestieren_verb": {
+    "word": "protestieren",
+    "_id": "protestieren_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 14088
+  },
+  "raten_verb": {
+    "word": "raten",
+    "_id": "raten_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2075
+  },
+  "reden_verb": {
+    "word": "reden",
+    "_id": "reden_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 186
+  },
+  "reduzieren_verb": {
+    "word": "reduzieren",
+    "_id": "reduzieren_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 10879
+  },
+  "reagieren_verb": {
+    "word": "reagieren",
+    "_id": "reagieren_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 3719
+  },
+  "realisieren_verb": {
+    "word": "realisieren",
+    "_id": "realisieren_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 18627
+  },
+  "rechnen_verb": {
+    "word": "rechnen",
+    "_id": "rechnen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 4371
+  },
+  "regeln_verb": {
+    "word": "regeln",
+    "_id": "regeln_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 979
+  },
+  "reichen_verb": {
+    "word": "reichen",
+    "_id": "reichen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1585
+  },
+  "reinigen_verb": {
+    "word": "reinigen",
+    "_id": "reinigen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 6979
+  },
+  "retten_verb": {
+    "word": "retten",
+    "_id": "retten_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 639
+  },
+  "reiten_verb": {
+    "word": "reiten",
+    "_id": "reiten_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2695
+  },
+  "rennen_verb": {
+    "word": "rennen",
+    "_id": "rennen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1517
+  },
+  "rufen_verb": {
+    "word": "rufen",
+    "_id": "rufen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 733
+  },
+  "zuschauen_verb": {
+    "word": "zuschauen",
+    "_id": "zuschauen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 958
+  },
+  "sich_scheiden_verb": {
+    "word": "sich scheiden",
+    "_id": "sich_scheiden_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 3779,
+    "reflexive": true
+  },
+  "schaffen_verb": {
+    "word": "schaffen",
+    "_id": "schaffen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 665
+  },
+  "schaetzen_verb": {
+    "word": "schätzen",
+    "_id": "schaetzen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1575
+  },
+  "schieben_verb": {
+    "word": "schieben",
+    "_id": "schieben_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 3745
+  },
+  "schiessen_verb": {
+    "word": "schießen",
+    "_id": "schiessen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1082
+  },
+  "schlagen_verb": {
+    "word": "schlagen",
+    "_id": "schlagen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1099
+  },
+  "schminken_verb": {
+    "word": "schminken",
+    "_id": "schminken_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 19779
+  },
+  "sich_schneiden_verb": {
+    "word": "sich schneiden",
+    "_id": "sich_schneiden_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 3098,
+    "reflexive": true
+  },
+  "aufschreiben_verb": {
+    "word": "aufschreiben",
+    "_id": "aufschreiben_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 877
+  },
+  "schreien_verb": {
+    "word": "schreien",
+    "_id": "schreien_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1601
+  },
+  "schuetteln_verb": {
+    "word": "schütteln",
+    "_id": "schuetteln_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 7780
+  },
+  "schuetzen_verb": {
+    "word": "schützen",
+    "_id": "schuetzen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1329
+  },
+  "schweigen_verb": {
+    "word": "schweigen",
+    "_id": "schweigen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2081
+  },
+  "schwitzen_verb": {
+    "word": "schwitzen",
+    "_id": "schwitzen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 8372
+  },
+  "selten_verb": {
+    "word": "selten",
+    "_id": "selten_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2352
+  },
+  "siegen_verb": {
+    "word": "siegen",
+    "_id": "siegen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 6546
+  },
+  "sich_siezen_verb": {
+    "word": "sich siezen",
+    "_id": "sich_siezen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 47660,
+    "reflexive": true
+  },
+  "sichern_verb": {
+    "word": "sichern",
+    "_id": "sichern_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 4359
+  },
+  "sondern_verb": {
+    "word": "sondern",
+    "_id": "sondern_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 619
+  },
+  "sorgen_verb": {
+    "word": "sorgen",
+    "_id": "sorgen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 425
+  },
+  "spazieren_verb": {
+    "word": "spazieren",
+    "_id": "spazieren_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2702
+  },
+  "spuelen_verb": {
+    "word": "spülen",
+    "_id": "spuelen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 13167
+  },
+  "spueren_verb": {
+    "word": "spüren",
+    "_id": "spueren_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2104
+  },
+  "stammen_verb": {
+    "word": "stammen",
+    "_id": "stammen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 4511
+  },
+  "starten_verb": {
+    "word": "starten",
+    "_id": "starten_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2640
+  },
+  "staubsaugen_verb": {
+    "word": "staubsaugen",
+    "_id": "staubsaugen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 41649
+  },
+  "stecken_verb": {
+    "word": "stecken",
+    "_id": "stecken_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1284
+  },
+  "stechen_verb": {
+    "word": "stechen",
+    "_id": "stechen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 7263
+  },
+  "stehlen_verb": {
+    "word": "stehlen",
+    "_id": "stehlen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1937
+  },
+  "steigen_verb": {
+    "word": "steigen",
+    "_id": "steigen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1854
+  },
+  "streiken_verb": {
+    "word": "streiken",
+    "_id": "streiken_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 16869
+  },
+  "stinken_verb": {
+    "word": "stinken",
+    "_id": "stinken_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 10102
+  },
+  "stoppen_verb": {
+    "word": "stoppen",
+    "_id": "stoppen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2314
+  },
+  "sich_stossen_verb": {
+    "word": "sich stoßen",
+    "_id": "sich_stossen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 4834,
+    "reflexive": true
+  },
+  "sich_streiten_verb": {
+    "word": "sich streiten",
+    "_id": "sich_streiten_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2185,
+    "reflexive": true
+  },
+  "stoeren_verb": {
+    "word": "stören",
+    "_id": "stoeren_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1794
+  },
+  "stuerzen_verb": {
+    "word": "stürzen",
+    "_id": "stuerzen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 4341
+  },
+  "tanken_verb": {
+    "word": "tanken",
+    "_id": "tanken_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 11145
+  },
+  "tauchen_verb": {
+    "word": "tauchen",
+    "_id": "tauchen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 5223
+  },
+  "teilen_verb": {
+    "word": "teilen",
+    "_id": "teilen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1335
+  },
+  "testen_verb": {
+    "word": "testen",
+    "_id": "testen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 3270
+  },
+  "transportieren_verb": {
+    "word": "transportieren",
+    "_id": "transportieren_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 8521
+  },
+  "sich_trennen_verb": {
+    "word": "sich trennen",
+    "_id": "sich_trennen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2457,
+    "reflexive": true
+  },
+  "sich_getren_verb": {
+    "word": "sich getren",
+    "_id": "sich_getren_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": null,
+    "reflexive": true
+  },
+  "treten_verb": {
+    "word": "treten",
+    "_id": "treten_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1611
+  },
+  "trocknen_verb": {
+    "word": "trocknen",
+    "_id": "trocknen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 11681
+  },
+  "ueben_verb": {
+    "word": "üben",
+    "_id": "ueben_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 3221
+  },
+  "ueberfahren_verb": {
+    "word": "überfahren",
+    "_id": "ueberfahren_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 5132
+  },
+  "ueberholen_verb": {
+    "word": "überholen",
+    "_id": "ueberholen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 16652
+  },
+  "ueberlegen_verb": {
+    "word": "überlegen",
+    "_id": "ueberlegen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1806
+  },
+  "sich_ueberzeugen_verb": {
+    "word": "sich überzeugen",
+    "_id": "sich_ueberzeugen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2189,
+    "reflexive": true
+  },
+  "uebernehmen_verb": {
+    "word": "übernehmen",
+    "_id": "uebernehmen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1381
+  },
+  "ueberpruefen_verb": {
+    "word": "überprüfen",
+    "_id": "ueberpruefen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1738
+  },
+  "ueberqueren_verb": {
+    "word": "überqueren",
+    "_id": "ueberqueren_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 8329
+  },
+  "ueberraschen_verb": {
+    "word": "überraschen",
+    "_id": "ueberraschen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 3556
+  },
+  "ueberreden_verb": {
+    "word": "überreden",
+    "_id": "ueberreden_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 4859
+  },
+  "umarmen_verb": {
+    "word": "umarmen",
+    "_id": "umarmen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1703
+  },
+  "sich_umdrehen_verb": {
+    "word": "sich umdrehen",
+    "_id": "sich_umdrehen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 3306,
+    "reflexive": true
+  },
+  "ueberuebertreiben_verb": {
+    "word": "überübertreiben",
+    "_id": "ueberuebertreiben_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": null
+  },
+  "umgehen_verb": {
+    "word": "umgehen",
+    "_id": "umgehen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 117
+  },
+  "sich_umziehen_verb": {
+    "word": "sich umziehen",
+    "_id": "sich_umziehen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 3680,
+    "reflexive": true
+  },
+  "unterlassen_verb": {
+    "word": "unterlassen",
+    "_id": "unterlassen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 19215
+  },
+  "unterrichten_verb": {
+    "word": "unterrichten",
+    "_id": "unterrichten_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 5153
+  },
+  "unterscheiden_verb": {
+    "word": "unterscheiden",
+    "_id": "unterscheiden_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 5689
+  },
+  "unterstreichen_verb": {
+    "word": "unterstreichen",
+    "_id": "unterstreichen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 38742
+  },
+  "unterstuetzen_verb": {
+    "word": "unterstützen",
+    "_id": "unterstuetzen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2658
+  },
+  "sich_verabreden_verb": {
+    "word": "sich verabreden",
+    "_id": "sich_verabreden_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 11817,
+    "reflexive": true
+  },
+  "sich_verabschieden_verb": {
+    "word": "sich verabschieden",
+    "_id": "sich_verabschieden_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 3023,
+    "reflexive": true
+  },
+  "sich_verbessern_verb": {
+    "word": "sich verbessern",
+    "_id": "sich_verbessern_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 4994,
+    "reflexive": true
+  },
+  "sich_veraendern_verb": {
+    "word": "sich verändern",
+    "_id": "sich_veraendern_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2277,
+    "reflexive": true
+  },
+  "verursachen_verb": {
+    "word": "verursachen",
+    "_id": "verursachen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 6005
+  },
+  "verbrauchen_verb": {
+    "word": "verbrauchen",
+    "_id": "verbrauchen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 23104
+  },
+  "sich_verbrennen_verb": {
+    "word": "sich verbrennen",
+    "_id": "sich_verbrennen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 3313,
+    "reflexive": true
+  },
+  "verbringen_verb": {
+    "word": "verbringen",
+    "_id": "verbringen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1630
+  },
+  "vergroessern_verb": {
+    "word": "vergrößern",
+    "_id": "vergroessern_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 9314
+  },
+  "verhaften_verb": {
+    "word": "verhaften",
+    "_id": "verhaften_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2363
+  },
+  "sich_verhalten_verb": {
+    "word": "sich verhalten",
+    "_id": "sich_verhalten_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1608,
+    "reflexive": true
+  },
+  "verhindern_verb": {
+    "word": "verhindern",
+    "_id": "verhindern_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2013
+  },
+  "sich_vergnuegen_verb": {
+    "word": "sich vergnügen",
+    "_id": "sich_vergnuegen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1343,
+    "reflexive": true
+  },
+  "verlangen_verb": {
+    "word": "verlangen",
+    "_id": "verlangen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2019
+  },
+  "verlaengern_verb": {
+    "word": "verlängern",
+    "_id": "verlaengern_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 12376
+  },
+  "verlassen_verb": {
+    "word": "verlassen",
+    "_id": "verlassen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 522
+  },
+  "sich_verlaufen_verb": {
+    "word": "sich verlaufen",
+    "_id": "sich_verlaufen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 4368,
+    "reflexive": true
+  },
+  "sich_verlieben_verb": {
+    "word": "sich verlieben",
+    "_id": "sich_verlieben_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 4928,
+    "reflexive": true
+  },
+  "verpflegen_verb": {
+    "word": "verpflegen",
+    "_id": "verpflegen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": null
+  },
+  "verraten_verb": {
+    "word": "verraten",
+    "_id": "verraten_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1186
+  },
+  "vermeiden_verb": {
+    "word": "vermeiden",
+    "_id": "vermeiden_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 3360
+  },
+  "vermissen_verb": {
+    "word": "vermissen",
+    "_id": "vermissen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2463
+  },
+  "verpacken_verb": {
+    "word": "verpacken",
+    "_id": "verpacken_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 23869
+  },
+  "versaeumen_verb": {
+    "word": "versäumen",
+    "_id": "versaeumen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 15805
+  },
+  "vermuten_verb": {
+    "word": "vermuten",
+    "_id": "vermuten_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 6103
+  },
+  "verschreiben_verb": {
+    "word": "verschreiben",
+    "_id": "verschreiben_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 18388
+  },
+  "versichern_verb": {
+    "word": "versichern",
+    "_id": "versichern_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 6189
+  },
+  "sich_verstecken_verb": {
+    "word": "sich verstecken",
+    "_id": "sich_verstecken_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1326,
+    "reflexive": true
+  },
+  "verteilen_verb": {
+    "word": "verteilen",
+    "_id": "verteilen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 5115
+  },
+  "vertreten_verb": {
+    "word": "vertreten",
+    "_id": "vertreten_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 4546
+  },
+  "verzeihen_verb": {
+    "word": "verzeihen",
+    "_id": "verzeihen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1436
+  },
+  "verzichten_verb": {
+    "word": "verzichten",
+    "_id": "verzichten_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 4430
+  },
+  "verurteilen_verb": {
+    "word": "verurteilen",
+    "_id": "verurteilen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 6443
+  },
+  "verwechseln_verb": {
+    "word": "verwechseln",
+    "_id": "verwechseln_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 9312
+  },
+  "vorlesen_verb": {
+    "word": "vorlesen",
+    "_id": "vorlesen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 960
+  },
+  "vorschlagen_verb": {
+    "word": "vorschlagen",
+    "_id": "vorschlagen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1209
+  },
+  "vorhaben_verb": {
+    "word": "vorhaben",
+    "_id": "vorhaben_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 33
+  },
+  "vorkommen_verb": {
+    "word": "vorkommen",
+    "_id": "vorkommen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 154
+  },
+  "wachsen_verb": {
+    "word": "wachsen",
+    "_id": "wachsen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2919
+  },
+  "und_kartoffeln_verb": {
+    "word": "und Kartoffeln",
+    "_id": "und_kartoffeln_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 9
+  },
+  "waehlen_verb": {
+    "word": "wählen",
+    "_id": "waehlen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2159
+  },
+  "warnen_verb": {
+    "word": "warnen",
+    "_id": "warnen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2785
+  },
+  "wenden_verb": {
+    "word": "wenden",
+    "_id": "wenden_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 3329
+  },
+  "sich_weigern_verb": {
+    "word": "sich weigern",
+    "_id": "sich_weigern_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 9853,
+    "reflexive": true
+  },
+  "weinen_verb": {
+    "word": "weinen",
+    "_id": "weinen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1675
+  },
+  "werfen_verb": {
+    "word": "werfen",
+    "_id": "werfen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1428
+  },
+  "wetten_verb": {
+    "word": "wetten",
+    "_id": "wetten_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2648
+  },
+  "widersprechen_verb": {
+    "word": "widersprechen",
+    "_id": "widersprechen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 8513
+  },
+  "wirken_verb": {
+    "word": "wirken",
+    "_id": "wirken_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2638
+  },
+  "wiegen_verb": {
+    "word": "wiegen",
+    "_id": "wiegen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 10690
+  },
+  "winken_verb": {
+    "word": "winken",
+    "_id": "winken_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 13660
+  },
+  "sich_wundern_verb": {
+    "word": "sich wundern",
+    "_id": "sich_wundern_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 5515,
+    "reflexive": true
+  },
+  "zaehlen_verb": {
+    "word": "zählen",
+    "_id": "zaehlen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1001
+  },
+  "zelten_verb": {
+    "word": "zelten",
+    "_id": "zelten_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 13092
+  },
+  "zerstoeren_verb": {
+    "word": "zerstören",
+    "_id": "zerstoeren_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1396
+  },
+  "zubereiten_verb": {
+    "word": "zubereiten",
+    "_id": "zubereiten_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 3462
+  },
+  "zunehmen_verb": {
+    "word": "zunehmen",
+    "_id": "zunehmen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 309
+  },
+  "zurechtkommen_verb": {
+    "word": "zurechtkommen",
+    "_id": "zurechtkommen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 12772
+  },
+  "zusagen_verb": {
+    "word": "zusagen",
+    "_id": "zusagen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 106
+  },
+  "zugehen_verb": {
+    "word": "zugehen",
+    "_id": "zugehen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 117
+  },
+  "zuhoeren_verb": {
+    "word": "zuhören",
+    "_id": "zuhoeren_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 266
+  },
+  "zusammenfassen_verb": {
+    "word": "zusammenfassen",
+    "_id": "zusammenfassen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1783
+  },
+  "zustimmen_verb": {
+    "word": "zustimmen",
+    "_id": "zustimmen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 1637
+  },
+  "zweifeln_verb": {
+    "word": "zweifeln",
+    "_id": "zweifeln_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 7105
+  },
+  "sich_zwingen_verb": {
+    "word": "sich zwingen",
+    "_id": "sich_zwingen_verb",
+    "curriculum": false,
+    "cefr": "B1",
+    "frequency": 2655,
+    "reflexive": true
+  }
+}

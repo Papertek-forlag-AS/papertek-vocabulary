@@ -1,0 +1,1101 @@
+{
+  "_metadata": {
+    "source": "generalbank.json",
+    "targetLanguage": "german",
+    "generatedAt": "2026-01-16T17:26:35.862Z",
+    "description": "Core general data for german"
+  },
+  "hallo_interj": {
+    "word": "Hallo!",
+    "type": "interj",
+    "audio": "ord_hallo!.mp3",
+    "_id": "hallo_interj"
+  },
+  "wie_heisst_du_phrase": {
+    "word": "Wie heißt du?",
+    "type": "phrase",
+    "_id": "wie_heisst_du_phrase"
+  },
+  "und_conj": {
+    "word": "und",
+    "type": "conj",
+    "audio": "ord_und.mp3",
+    "_id": "und_conj"
+  },
+  "jahre_alt_phrase": {
+    "word": "Jahre alt",
+    "type": "phrase",
+    "audio": "frase_jahre_alt.mp3",
+    "_id": "jahre_alt_phrase"
+  },
+  "woher_kommst_du_phrase": {
+    "word": "Woher kommst du?",
+    "type": "phrase",
+    "_id": "woher_kommst_du_phrase"
+  },
+  "aus_prep": {
+    "word": "aus",
+    "type": "prep",
+    "audio": "ord_aus.mp3",
+    "_id": "aus_prep"
+  },
+  "auch_adv": {
+    "word": "auch",
+    "type": "adv",
+    "audio": "ord_auch.mp3",
+    "_id": "auch_adv"
+  },
+  "super_interj": {
+    "word": "Super!",
+    "type": "interj",
+    "audio": "ord_super!.mp3",
+    "_id": "super_interj"
+  },
+  "tschuess_interj": {
+    "word": "Tschüss!",
+    "type": "interj",
+    "audio": "ord_tschuess!.mp3",
+    "_id": "tschuess_interj"
+  },
+  "danke_interj": {
+    "word": "Danke",
+    "type": "interj",
+    "audio": "ord_danke.mp3",
+    "_id": "danke_interj"
+  },
+  "bitte_interj": {
+    "word": "Bitte",
+    "type": "interj",
+    "audio": "ord_bitte.mp3",
+    "_id": "bitte_interj"
+  },
+  "wer_ist_das_phrase": {
+    "word": "Wer ist das?",
+    "type": "phrase",
+    "_id": "wer_ist_das_phrase"
+  },
+  "das_ist_phrase": {
+    "word": "Das ist...",
+    "type": "phrase",
+    "_id": "das_ist_phrase"
+  },
+  "von_prep": {
+    "word": "von",
+    "type": "prep",
+    "audio": "ord_von.mp3",
+    "_id": "von_prep"
+  },
+  "ja_interj": {
+    "word": "ja",
+    "type": "interj",
+    "audio": "ord_ja.mp3",
+    "_id": "ja_interj"
+  },
+  "nein_interj": {
+    "word": "nein",
+    "type": "interj",
+    "audio": "ord_nein.mp3",
+    "_id": "nein_interj"
+  },
+  "jetzt_adv": {
+    "word": "jetzt",
+    "type": "adv",
+    "audio": "ord_jetzt.mp3",
+    "_id": "jetzt_adv"
+  },
+  "aber_conj": {
+    "word": "aber",
+    "type": "conj",
+    "audio": "ord_aber.mp3",
+    "_id": "aber_conj"
+  },
+  "hier_adv": {
+    "word": "hier",
+    "type": "adv",
+    "audio": "ord_hier.mp3",
+    "_id": "hier_adv"
+  },
+  "nur_adv": {
+    "word": "nur",
+    "type": "adv",
+    "audio": "ord_nur.mp3",
+    "_id": "nur_adv"
+  },
+  "willkommen_interj": {
+    "word": "Willkommen",
+    "type": "interj",
+    "audio": "ord_willkommen.mp3",
+    "_id": "willkommen_interj"
+  },
+  "in_prep": {
+    "word": "in",
+    "type": "prep",
+    "audio": "ord_in.mp3",
+    "_id": "in_prep"
+  },
+  "in_der_schule_phrase": {
+    "word": "in der Schule",
+    "type": "phrase",
+    "audio": "frase_in_der_schule.mp3",
+    "_id": "in_der_schule_phrase"
+  },
+  "spass_machen_phrase": {
+    "word": "Spaß machen",
+    "type": "phrase",
+    "audio": "frase_spass_machen.mp3",
+    "_id": "spass_machen_phrase"
+  },
+  "ein_bisschen_phrase": {
+    "word": "ein bisschen",
+    "type": "phrase",
+    "audio": "frase_ein_bisschen.mp3",
+    "_id": "ein_bisschen_phrase"
+  },
+  "schnell_adv": {
+    "word": "schnell",
+    "type": "adv",
+    "audio": "adjektiv_schnell.mp3",
+    "_id": "schnell_adv"
+  },
+  "los_geht_s_phrase": {
+    "word": "los geht's",
+    "type": "phrase",
+    "audio": "frase_los_geht's.mp3",
+    "_id": "los_geht_s_phrase"
+  },
+  "da_adv": {
+    "word": "da",
+    "type": "adv",
+    "audio": "ord_da.mp3",
+    "_id": "da_adv"
+  },
+  "sehr_adv": {
+    "word": "sehr",
+    "type": "adv",
+    "audio": "ord_sehr.mp3",
+    "_id": "sehr_adv",
+    "synonyms": ["viel_adv"]
+  },
+  "fuer_prep": {
+    "word": "für",
+    "type": "prep",
+    "audio": "ord_fuer.mp3",
+    "_id": "fuer_prep"
+  },
+  "heute_adv": {
+    "word": "heute",
+    "type": "adv",
+    "audio": "ord_heute.mp3",
+    "_id": "heute_adv"
+  },
+  "manchmal_adv": {
+    "word": "manchmal",
+    "type": "adv",
+    "audio": "ord_manchmal.mp3",
+    "_id": "manchmal_adv"
+  },
+  "gern_adv": {
+    "word": "gern",
+    "type": "adv",
+    "audio": "adjektiv_gern.mp3",
+    "_id": "gern_adv"
+  },
+  "lieber_adv": {
+    "word": "lieber",
+    "type": "adv",
+    "audio": "ord_lieber.mp3",
+    "_id": "lieber_adv"
+  },
+  "nicht_adv": {
+    "word": "nicht",
+    "type": "adv",
+    "audio": "ord_nicht.mp3",
+    "_id": "nicht_adv"
+  },
+  "zusammen_adv": {
+    "word": "zusammen",
+    "type": "adv",
+    "audio": "ord_zusammen.mp3",
+    "_id": "zusammen_adv"
+  },
+  "vielleicht_adv": {
+    "word": "vielleicht",
+    "type": "adv",
+    "audio": "ord_vielleicht.mp3",
+    "_id": "vielleicht_adv"
+  },
+  "leider_adv": {
+    "word": "leider",
+    "type": "adv",
+    "audio": "ord_leider.mp3",
+    "_id": "leider_adv"
+  },
+  "ein_anderes_mal_phrase": {
+    "word": "ein anderes Mal",
+    "type": "phrase",
+    "audio": "frase_ein_anderes_mal.mp3",
+    "_id": "ein_anderes_mal_phrase"
+  },
+  "endlich_adv": {
+    "word": "endlich",
+    "type": "adv",
+    "audio": "ord_endlich.mp3",
+    "_id": "endlich_adv"
+  },
+  "bis_dann_phrase": {
+    "word": "Bis dann!",
+    "type": "phrase",
+    "audio": "frase_bis_dann!.mp3",
+    "_id": "bis_dann_phrase"
+  },
+  "was_interr": {
+    "word": "Was",
+    "type": "interr",
+    "audio": "ord_was.mp3",
+    "_id": "was_interr"
+  },
+  "wer_interr": {
+    "word": "Wer",
+    "type": "interr",
+    "audio": "ord_wer.mp3",
+    "_id": "wer_interr"
+  },
+  "wo_interr": {
+    "word": "Wo?",
+    "type": "interr",
+    "_id": "wo_interr",
+    "audio": "ord_wo.mp3"
+  },
+  "woher_interr": {
+    "word": "Woher",
+    "type": "interr",
+    "audio": "ord_woher.mp3",
+    "_id": "woher_interr"
+  },
+  "wie_interr": {
+    "word": "Wie",
+    "type": "interr",
+    "audio": "ord_wie.mp3",
+    "_id": "wie_interr"
+  },
+  "wann_interr": {
+    "word": "Wann",
+    "type": "interr",
+    "audio": "ord_wann.mp3",
+    "_id": "wann_interr"
+  },
+  "warum_interr": {
+    "word": "Warum",
+    "type": "interr",
+    "audio": "ord_warum.mp3",
+    "_id": "warum_interr"
+  },
+  "um_prep": {
+    "word": "um",
+    "type": "prep",
+    "audio": "ord_um.mp3",
+    "_id": "um_prep"
+  },
+  "mit_prep": {
+    "word": "mit",
+    "type": "prep",
+    "audio": "ord_mit.mp3",
+    "_id": "mit_prep"
+  },
+  "am_wochenende_phrase": {
+    "word": "am Wochenende",
+    "type": "phrase",
+    "audio": "frase_am_wochenende.mp3",
+    "_id": "am_wochenende_phrase"
+  },
+  "am_montag_phrase": {
+    "word": "am Montag",
+    "type": "phrase",
+    "audio": "frase_am_montag.mp3",
+    "_id": "am_montag_phrase"
+  },
+  "am_nachmittag_phrase": {
+    "word": "am Nachmittag",
+    "type": "phrase",
+    "audio": "frase_am_nachmittag.mp3",
+    "_id": "am_nachmittag_phrase"
+  },
+  "wie_spaet_ist_es_phrase": {
+    "word": "Wie spät ist es?",
+    "type": "phrase",
+    "_id": "wie_spaet_ist_es_phrase"
+  },
+  "welcher_interr": {
+    "word": "welcher",
+    "type": "interr",
+    "audio": "ord_welcher.mp3",
+    "_id": "welcher_interr"
+  },
+  "auf_prep": {
+    "word": "auf",
+    "type": "prep",
+    "audio": "ord_auf.mp3",
+    "_id": "auf_prep"
+  },
+  "danach_adv": {
+    "word": "danach",
+    "type": "adv",
+    "audio": "ord_danach.mp3",
+    "_id": "danach_adv"
+  },
+  "noch_adv": {
+    "word": "noch",
+    "type": "adv",
+    "audio": "ord_noch.mp3",
+    "_id": "noch_adv"
+  },
+  "immer_adv": {
+    "word": "immer",
+    "type": "adv",
+    "audio": "ord_immer.mp3",
+    "_id": "immer_adv"
+  },
+  "getrennt_adv": {
+    "word": "getrennt",
+    "type": "adv",
+    "audio": "ord_getrennt.mp3",
+    "_id": "getrennt_adv"
+  },
+  "spaeter_adv": {
+    "word": "später",
+    "type": "adv",
+    "audio": "ord_spaeter.mp3",
+    "_id": "spaeter_adv"
+  },
+  "zu_hause_phrase": {
+    "word": "zu Hause",
+    "type": "phrase",
+    "audio": "ord_zu_hause.mp3",
+    "_id": "zu_hause_phrase"
+  },
+  "passt_es_phrase": {
+    "word": "Passt es?",
+    "type": "phrase",
+    "_id": "passt_es_phrase"
+  },
+  "deutschland_propn": {
+    "word": "Deutschland",
+    "type": "propn",
+    "audio": "land_deutschland.mp3",
+    "_id": "deutschland_propn"
+  },
+  "norwegisch_propn": {
+    "word": "Norwegisch",
+    "type": "propn",
+    "audio": "land_norwegisch.mp3",
+    "_id": "norwegisch_propn"
+  },
+  "genau_adv": {
+    "word": "genau",
+    "type": "adv",
+    "audio": "ord_genau.mp3",
+    "_id": "genau_adv"
+  },
+  "oder_conj": {
+    "word": "oder",
+    "type": "conj",
+    "audio": "ord_oder.mp3",
+    "_id": "oder_conj"
+  },
+  "frueh_adv": {
+    "word": "früh",
+    "type": "adv",
+    "audio": "ord_frueh.mp3",
+    "_id": "frueh_adv"
+  },
+  "spaet_adv": {
+    "word": "spät",
+    "type": "adv",
+    "audio": "ord_spaet.mp3",
+    "_id": "spaet_adv"
+  },
+  "jeden_tag_phrase": {
+    "word": "jeden Tag",
+    "type": "phrase",
+    "audio": "frase_jeden_tag.mp3",
+    "_id": "jeden_tag_phrase"
+  },
+  "zuerst_adv": {
+    "word": "zuerst",
+    "type": "adv",
+    "audio": "ord_zuerst.mp3",
+    "_id": "zuerst_adv"
+  },
+  "dann_adv": {
+    "word": "dann",
+    "type": "adv",
+    "audio": "ord_dann.mp3",
+    "_id": "dann_adv"
+  },
+  "mit_meiner_mutter_phrase": {
+    "word": "mit meiner Mutter",
+    "type": "phrase",
+    "audio": "frase_mit_meiner_mutter.mp3",
+    "_id": "mit_meiner_mutter_phrase"
+  },
+  "viertel_nach_phrase": {
+    "word": "Viertel nach",
+    "type": "phrase",
+    "audio": "frase_viertel_nach.mp3",
+    "_id": "viertel_nach_phrase"
+  },
+  "viertel_vor_phrase": {
+    "word": "Viertel vor",
+    "type": "phrase",
+    "audio": "frase_viertel_vor.mp3",
+    "_id": "viertel_vor_phrase"
+  },
+  "halb_adv": {
+    "word": "halb",
+    "type": "adv",
+    "audio": "ord_halb.mp3",
+    "_id": "halb_adv"
+  },
+  "zu_frueh_phrase": {
+    "word": "zu früh",
+    "type": "phrase",
+    "audio": "frase_zu_frueh.mp3",
+    "_id": "zu_frueh_phrase"
+  },
+  "ich_freue_mich_phrase": {
+    "word": "Ich freue mich",
+    "type": "phrase",
+    "audio": "frase_ich_freue_mich.mp3",
+    "_id": "ich_freue_mich_phrase"
+  },
+  "hast_du_lust_auf_phrase": {
+    "word": "Hast du Lust auf...?",
+    "type": "phrase",
+    "_id": "hast_du_lust_auf_phrase"
+  },
+  "nicht_schon_wieder_phrase": {
+    "word": "nicht schon wieder",
+    "type": "phrase",
+    "audio": "frase_nicht_schon_wieder.mp3",
+    "_id": "nicht_schon_wieder_phrase"
+  },
+  "beides_adv": {
+    "word": "beides",
+    "type": "adv",
+    "audio": "ord_beides.mp3",
+    "_id": "beides_adv"
+  },
+  "also_adv": {
+    "word": "Also",
+    "type": "adv",
+    "audio": "ord_also.mp3",
+    "_id": "also_adv"
+  },
+  "nee_interj": {
+    "word": "nee",
+    "type": "interj",
+    "audio": "ord_nee.mp3",
+    "_id": "nee_interj"
+  },
+  "schon_adv": {
+    "word": "schon",
+    "type": "adv",
+    "audio": "ord_schon.mp3",
+    "_id": "schon_adv"
+  },
+  "raus_adv": {
+    "word": "raus",
+    "type": "adv",
+    "audio": "ord_raus.mp3",
+    "_id": "raus_adv"
+  },
+  "lange_adv": {
+    "word": "lange",
+    "type": "adv",
+    "audio": "ord_lange.mp3",
+    "_id": "lange_adv"
+  },
+  "tagsueber_adv": {
+    "word": "tagsüber",
+    "type": "adv",
+    "audio": "ord_tagsueber.mp3",
+    "_id": "tagsueber_adv"
+  },
+  "ueberall_adv": {
+    "word": "überall",
+    "type": "adv",
+    "audio": "ord_ueberall.mp3",
+    "_id": "ueberall_adv"
+  },
+  "niemals_adv": {
+    "word": "niemals",
+    "type": "adv",
+    "audio": "ord_niemals.mp3",
+    "_id": "niemals_adv"
+  },
+  "denn_conj": {
+    "word": "denn",
+    "type": "conj",
+    "audio": "ord_denn.mp3",
+    "_id": "denn_conj"
+  },
+  "als_conj": {
+    "word": "als",
+    "type": "conj",
+    "audio": "ord_als.mp3",
+    "_id": "als_conj"
+  },
+  "viel_adv": {
+    "word": "viel",
+    "type": "adv",
+    "audio": "adjektiv_viel.mp3",
+    "_id": "viel_adv",
+    "synonyms": ["sehr_adv"]
+  },
+  "wenig_adv": {
+    "word": "wenig",
+    "type": "adv",
+    "audio": "ord_wenig.mp3",
+    "_id": "wenig_adv"
+  },
+  "zu_adv": {
+    "word": "zu",
+    "type": "adv",
+    "audio": "ord_zu.mp3",
+    "_id": "zu_adv"
+  },
+  "mit_meinen_freunden_phrase": {
+    "word": "mit meinen Freunden",
+    "type": "phrase",
+    "audio": "frase_mit_meinen_freunden.mp3",
+    "_id": "mit_meinen_freunden_phrase"
+  },
+  "im_zoo_phrase": {
+    "word": "im Zoo",
+    "type": "phrase",
+    "audio": "frase_im_zoo.mp3",
+    "_id": "im_zoo_phrase"
+  },
+  "den_ganzen_tag_phrase": {
+    "word": "den ganzen Tag",
+    "type": "phrase",
+    "audio": "frase_den_ganzen_tag.mp3",
+    "_id": "den_ganzen_tag_phrase"
+  },
+  "einen_elefanten_phrase": {
+    "word": "einen Elefanten",
+    "type": "phrase",
+    "audio": "frase_einen_elefanten.mp3",
+    "_id": "einen_elefanten_phrase"
+  },
+  "den_elefanten_phrase": {
+    "word": "den Elefanten",
+    "type": "phrase",
+    "audio": "frase_den_elefanten.mp3",
+    "_id": "den_elefanten_phrase"
+  },
+  "den_loewen_phrase": {
+    "word": "den Löwen",
+    "type": "phrase",
+    "audio": "frase_den_loewen.mp3",
+    "_id": "den_loewen_phrase"
+  },
+  "asien_propn": {
+    "word": "Asien",
+    "type": "propn",
+    "audio": "land_asien.mp3",
+    "_id": "asien_propn"
+  },
+  "afrika_propn": {
+    "word": "Afrika",
+    "type": "propn",
+    "audio": "land_afrika.mp3",
+    "_id": "afrika_propn"
+  },
+  "es_gibt_phrase": {
+    "word": "es gibt",
+    "type": "phrase",
+    "audio": "frase_es_gibt.mp3",
+    "_id": "es_gibt_phrase"
+  },
+  "wieder_adv": {
+    "word": "wieder",
+    "type": "adv",
+    "audio": "ord_wieder.mp3",
+    "_id": "wieder_adv"
+  },
+  "egal_adv": {
+    "word": "egal",
+    "type": "adv",
+    "audio": "ord_egal.mp3",
+    "_id": "egal_adv"
+  },
+  "bald_adv": {
+    "word": "bald",
+    "type": "adv",
+    "audio": "ord_bald.mp3",
+    "_id": "bald_adv"
+  },
+  "super_adv": {
+    "word": "super",
+    "type": "adv",
+    "audio": "ord_super.mp3",
+    "_id": "super_adv"
+  },
+  "unbedingt_adv": {
+    "word": "unbedingt",
+    "type": "adv",
+    "audio": "ord_unbedingt.mp3",
+    "_id": "unbedingt_adv"
+  },
+  "mal_adv": {
+    "word": "mal",
+    "type": "adv",
+    "audio": "ord_mal.mp3",
+    "_id": "mal_adv"
+  },
+  "dort_adv": {
+    "word": "dort",
+    "type": "adv",
+    "audio": "ord_dort.mp3",
+    "_id": "dort_adv"
+  },
+  "nach_prep": {
+    "word": "nach",
+    "type": "prep",
+    "audio": "ord_nach.mp3",
+    "_id": "nach_prep"
+  },
+  "wohin_interr": {
+    "word": "wohin",
+    "type": "interr",
+    "audio": "ord_wohin.mp3",
+    "_id": "wohin_interr"
+  },
+  "oesterreich_propn": {
+    "word": "Österreich",
+    "type": "propn",
+    "audio": "land_oesterreich.mp3",
+    "_id": "oesterreich_propn"
+  },
+  "die_schweiz_propn": {
+    "word": "die Schweiz",
+    "type": "propn",
+    "_id": "die_schweiz_propn",
+    "audio": "ord_die_schweiz.mp3"
+  },
+  "in_den_alpen_phrase": {
+    "word": "in den Alpen",
+    "type": "phrase",
+    "audio": "frase_in_den_alpen.mp3",
+    "_id": "in_den_alpen_phrase"
+  },
+  "mit_der_schweiz_phrase": {
+    "word": "mit der Schweiz",
+    "type": "phrase",
+    "audio": "frase_mit_der_schweiz.mp3",
+    "_id": "mit_der_schweiz_phrase"
+  },
+  "hast_du_gehoert_expr": {
+    "word": "Hast du gehört",
+    "type": "expr",
+    "audio": "frase_hast_du_gehoert.mp3",
+    "_id": "hast_du_gehoert_expr"
+  },
+  "ohne_prep": {
+    "word": "ohne",
+    "type": "prep",
+    "audio": "ord_ohne.mp3",
+    "_id": "ohne_prep"
+  },
+  "mehr_adv": {
+    "word": "mehr",
+    "type": "adv",
+    "audio": "ord_mehr.mp3",
+    "_id": "mehr_adv"
+  },
+  "stimmt_interj": {
+    "word": "stimmt",
+    "type": "interj",
+    "audio": "ord_stimmt.mp3",
+    "_id": "stimmt_interj"
+  },
+  "natuerlich_adv": {
+    "word": "natürlich",
+    "type": "adv",
+    "audio": "ord_natuerlich.mp3",
+    "_id": "natuerlich_adv"
+  },
+  "italien_propn": {
+    "word": "Italien",
+    "type": "propn",
+    "audio": "land_italien.mp3",
+    "_id": "italien_propn"
+  },
+  "klar_interj": {
+    "word": "klar",
+    "type": "interj",
+    "_id": "klar_interj",
+    "audio": "ord_klar.mp3"
+  },
+  "mit_dem_auto_phrase": {
+    "word": "mit dem Auto",
+    "type": "phrase",
+    "audio": "frase_mit_dem_auto.mp3",
+    "_id": "mit_dem_auto_phrase"
+  },
+  "allein_adv": {
+    "word": "allein",
+    "type": "adv",
+    "audio": "ord_allein.mp3",
+    "_id": "allein_adv"
+  },
+  "gespannt_sein_phrase": {
+    "word": "gespannt sein",
+    "type": "phrase",
+    "audio": "frase_gespannt_sein.mp3",
+    "_id": "gespannt_sein_phrase"
+  },
+  "ins_gebirge_expr": {
+    "word": "ins Gebirge",
+    "type": "expr",
+    "audio": "frase_ins_gebirge.mp3",
+    "_id": "ins_gebirge_expr"
+  },
+  "besonders_adv": {
+    "word": "besonders",
+    "type": "adv",
+    "audio": "ord_besonders.mp3",
+    "_id": "besonders_adv"
+  },
+  "gerade_adv": {
+    "word": "gerade",
+    "type": "adv",
+    "audio": "ord_gerade.mp3",
+    "_id": "gerade_adv"
+  },
+  "bestimmt_adv": {
+    "word": "bestimmt",
+    "type": "adv",
+    "audio": "ord_bestimmt.mp3",
+    "_id": "bestimmt_adv"
+  },
+  "urlaub_auf_balkonien_phrase": {
+    "word": "Urlaub auf Balkonien",
+    "type": "phrase",
+    "audio": "frase_urlaub_auf_balkonien.mp3",
+    "_id": "urlaub_auf_balkonien_phrase"
+  },
+  "ins_prep": {
+    "word": "ins",
+    "type": "prep",
+    "audio": "ord_ins.mp3",
+    "_id": "ins_prep"
+  },
+  "zum_geburtstag_viel_glueck_phrase": {
+    "word": "Zum Geburtstag viel Glück",
+    "type": "phrase",
+    "audio": "frase_zum_geburtstag_viel_glueck.mp3",
+    "_id": "zum_geburtstag_viel_glueck_phrase"
+  },
+  "noch_nicht_phrase": {
+    "word": "noch nicht",
+    "type": "phrase",
+    "audio": "frase_noch_nicht.mp3",
+    "_id": "noch_nicht_phrase"
+  },
+  "dort_drueben_phrase": {
+    "word": "dort drüben",
+    "type": "phrase",
+    "audio": "frase_dort_drueben.mp3",
+    "_id": "dort_drueben_phrase"
+  },
+  "neben_prep": {
+    "word": "neben",
+    "type": "prep",
+    "audio": "ord_neben.mp3",
+    "_id": "neben_prep"
+  },
+  "freunde_sind_wichtig_phrase": {
+    "word": "Freunde sind wichtig",
+    "type": "phrase",
+    "audio": "frase_freunde_sind_wichtig.mp3",
+    "_id": "freunde_sind_wichtig_phrase"
+  },
+  "wirklich_adv": {
+    "word": "wirklich",
+    "type": "adv",
+    "audio": "ord_wirklich.mp3",
+    "_id": "wirklich_adv"
+  },
+  "am_samstag_phrase": {
+    "word": "am Samstag",
+    "type": "phrase",
+    "audio": "frase_am_samstag.mp3",
+    "_id": "am_samstag_phrase"
+  },
+  "am_sonntag_phrase": {
+    "word": "am Sonntag",
+    "type": "phrase",
+    "audio": "frase_am_sonntag.mp3",
+    "_id": "am_sonntag_phrase"
+  },
+  "am_freitag_phrase": {
+    "word": "am Freitag",
+    "type": "phrase",
+    "audio": "frase_am_freitag.mp3",
+    "_id": "am_freitag_phrase"
+  },
+  "morgen_adv": {
+    "word": "morgen",
+    "type": "adv",
+    "audio": "ord_morgen.mp3",
+    "_id": "morgen_adv"
+  },
+  "herzlichen_glueckwunsch_phrase": {
+    "word": "Herzlichen Glückwunsch",
+    "type": "phrase",
+    "audio": "frase_herzlichen_glueckwunsch.mp3",
+    "_id": "herzlichen_glueckwunsch_phrase"
+  },
+  "im_voraus_phrase": {
+    "word": "im Voraus",
+    "type": "phrase",
+    "audio": "frase_im_voraus.mp3",
+    "_id": "im_voraus_phrase"
+  },
+  "gleich_adv": {
+    "word": "gleich",
+    "type": "adv",
+    "audio": "ord_gleich.mp3",
+    "_id": "gleich_adv"
+  },
+  "aus_frankreich_phrase": {
+    "word": "aus Frankreich",
+    "type": "phrase",
+    "audio": "frase_aus_frankreich.mp3",
+    "_id": "aus_frankreich_phrase"
+  },
+  "frankreich_land": {
+    "word": "Frankreich",
+    "type": "land",
+    "audio": "land_frankreich.mp3",
+    "_id": "frankreich_land"
+  },
+  "oft_adv": {
+    "word": "oft",
+    "type": "adv",
+    "audio": "ord_oft.mp3",
+    "_id": "oft_adv"
+  },
+  "meistens_adv": {
+    "word": "meistens",
+    "type": "adv",
+    "audio": "ord_meistens.mp3",
+    "_id": "meistens_adv"
+  },
+  "normalerweise_adv": {
+    "word": "normalerweise",
+    "type": "adv",
+    "audio": "ord_normalerweise.mp3",
+    "_id": "normalerweise_adv"
+  },
+  "sofort_adv": {
+    "word": "sofort",
+    "type": "adv",
+    "audio": "ord_sofort.mp3",
+    "_id": "sofort_adv"
+  },
+  "am_abend_phrase": {
+    "word": "am Abend",
+    "type": "phrase",
+    "audio": "frase_am_abend.mp3",
+    "_id": "am_abend_phrase"
+  },
+  "dauert_laenger_phrase": {
+    "word": "dauert länger",
+    "type": "phrase",
+    "audio": "frase_dauert_laenger.mp3",
+    "_id": "dauert_laenger_phrase"
+  },
+  "eher_adv": {
+    "word": "eher",
+    "type": "adv",
+    "audio": "ord_eher.mp3",
+    "_id": "eher_adv"
+  },
+  "bei_mir_phrase": {
+    "word": "bei mir",
+    "type": "phrase",
+    "audio": "frase_bei_mir.mp3",
+    "_id": "bei_mir_phrase"
+  },
+  "darauf_adv": {
+    "word": "darauf",
+    "type": "adv",
+    "audio": "ord_darauf.mp3",
+    "_id": "darauf_adv"
+  },
+  "dabei_adv": {
+    "word": "dabei",
+    "type": "adv",
+    "audio": "ord_dabei.mp3",
+    "_id": "dabei_adv"
+  },
+  "nach_der_schule_phrase": {
+    "word": "nach der Schule",
+    "type": "phrase",
+    "audio": "frase_nach_der_schule.mp3",
+    "_id": "nach_der_schule_phrase"
+  },
+  "wie_fuehlst_du_dich_phrase": {
+    "word": "Wie fühlst du dich?",
+    "type": "phrase",
+    "_id": "wie_fuehlst_du_dich_phrase"
+  },
+  "gerne_adv": {
+    "word": "gerne",
+    "type": "adv",
+    "audio": "ord_gerne.mp3",
+    "_id": "gerne_adv"
+  },
+  "bei_prep": {
+    "word": "bei",
+    "type": "prep",
+    "audio": "ord_bei.mp3",
+    "_id": "bei_prep"
+  },
+  "so_adv": {
+    "word": "so",
+    "type": "adv",
+    "audio": "ord_so.mp3",
+    "_id": "so_adv"
+  },
+  "sich_warm_anziehen_phrase": {
+    "word": "sich warm anziehen",
+    "type": "phrase",
+    "audio": "frase_sich_warm_anziehen.mp3",
+    "_id": "sich_warm_anziehen_phrase"
+  },
+  "das_klingt_gut_phrase": {
+    "word": "das klingt gut",
+    "type": "phrase",
+    "_id": "das_klingt_gut_phrase"
+  },
+  "viel_spass_phrase": {
+    "word": "viel Spaß",
+    "type": "phrase",
+    "audio": "frase_viel_spass.mp3",
+    "_id": "viel_spass_phrase"
+  },
+  "ins_kino_gehen_phrase": {
+    "word": "ins Kino gehen",
+    "type": "phrase",
+    "audio": "frase_ins_kino_gehen.mp3",
+    "_id": "ins_kino_gehen_phrase"
+  },
+  "ins_cafe_phrase": {
+    "word": "ins Café",
+    "type": "phrase",
+    "audio": "frase_ins_café.mp3",
+    "_id": "ins_cafe_phrase"
+  },
+  "zu_viel_phrase": {
+    "word": "zu viel",
+    "type": "phrase",
+    "audio": "frase_zu_viel.mp3",
+    "_id": "zu_viel_phrase"
+  },
+  "rein_adv": {
+    "word": "rein",
+    "type": "adv",
+    "audio": "ord_rein.mp3",
+    "_id": "rein_adv"
+  },
+  "draussen_adv": {
+    "word": "draußen",
+    "type": "adv",
+    "audio": "ord_draussen.mp3",
+    "_id": "draussen_adv"
+  },
+  "dass_conj": {
+    "word": "dass",
+    "type": "conj",
+    "audio": "ord_dass.mp3",
+    "_id": "dass_conj"
+  },
+  "so_wie_phrase": {
+    "word": "so ... wie",
+    "type": "phrase",
+    "audio": "frase_so_..._wie.mp3",
+    "_id": "so_wie_phrase"
+  },
+  "nie_adv": {
+    "word": "nie",
+    "type": "adv",
+    "_id": "nie_adv",
+    "audio": "ord_nie.mp3"
+  },
+  "nach_hause_phrase": {
+    "word": "nach Hause",
+    "type": "phrase",
+    "_id": "nach_hause_phrase"
+  },
+  "zuhause_adv": {
+    "word": "zuhause",
+    "type": "adv",
+    "_id": "zuhause_adv",
+    "audio": "ord_zuhause.mp3"
+  },
+  "durch_prep": {
+    "word": "durch",
+    "type": "prep",
+    "_id": "durch_prep"
+  },
+  "gegen_prep": {
+    "word": "gegen",
+    "type": "prep",
+    "_id": "gegen_prep"
+  },
+  "seit_prep": {
+    "word": "seit",
+    "type": "prep",
+    "_id": "seit_prep"
+  },
+  "zu_prep": {
+    "word": "zu",
+    "type": "prep",
+    "_id": "zu_prep",
+    "audio": "ord_zu.mp3"
+  },
+  "an_prep": {
+    "word": "an",
+    "type": "prep",
+    "_id": "an_prep"
+  },
+  "hinter_prep": {
+    "word": "hinter",
+    "type": "prep",
+    "_id": "hinter_prep"
+  },
+  "ueber_prep": {
+    "word": "über",
+    "type": "prep",
+    "_id": "ueber_prep"
+  },
+  "unter_prep": {
+    "word": "unter",
+    "type": "prep",
+    "_id": "unter_prep"
+  },
+  "vor_prep": {
+    "word": "vor",
+    "type": "prep",
+    "_id": "vor_prep"
+  },
+  "zwischen_prep": {
+    "word": "zwischen",
+    "type": "prep",
+    "_id": "zwischen_prep"
+  }
+}

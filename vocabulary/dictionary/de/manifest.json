@@ -1,0 +1,32 @@
+{
+  "_metadata": {
+    "packId": "dictionary-german",
+    "type": "dictionary",
+    "targetLanguage": "german",
+    "targetLanguageName": "German",
+    "version": "1.0.0",
+    "generatedAt": "2026-02-13T22:16:19.169Z",
+    "totalWords": 868,
+    "curriculumWords": 868,
+    "dictionaryOnlyWords": 0,
+    "files": {
+      "adjectivebank.json": 108,
+      "articlesbank.json": 16,
+      "generalbank.json": 185,
+      "nounbank.json": 331,
+      "numbersbank.json": 34,
+      "phrasesbank.json": 8,
+      "pronounsbank.json": 38,
+      "verbbank.json": 148
+    }
+  },
+  "totalWords": 3196,
+  "curriculumWords": 868,
+  "dictionaryOnlyWords": 2328,
+  "updatedAt": "2026-02-13T22:16:19.247Z",
+  "sources": [
+    "goethe-a1-wortliste",
+    "goethe-a2-wortliste",
+    "goethe-b1-wortliste"
+  ]
+}

@@ -1,0 +1,809 @@
+{
+  "_metadata": {
+    "source": "adjectivebank.json",
+    "targetLanguage": "german",
+    "nativeLanguage": "nb",
+    "generatedAt": "2026-01-16T17:26:35.892Z",
+    "description": "NB translations for german adjective"
+  },
+  "spannend_adj": {
+    "translation": "spennende",
+    "explanation": {
+      "_description": "Adjektiv som betyr \"spennende\". Eksempel: \"Geschichte ist sehr spannend\" (historie er veldig spennende)."
+    }
+  },
+  "trocken_adj": {
+    "translation": "tørr/kjedelig",
+    "explanation": {
+      "_description": "Adjektiv som betyr \"tørr\" eller i overført betydning \"kjedelig\". Eksempel: \"manchmal ein bisschen trocken\" (noen ganger litt kjedelig)."
+    }
+  },
+  "toll_adj": {
+    "translation": "flott / kjempebra",
+    "synonyms": [
+      "super",
+      "fantastisk",
+      "flott"
+    ],
+    "examples": [
+      { "sentence": "Das ist toll!", "translation": "Det er flott!" },
+      { "sentence": "Die Party war toll.", "translation": "Festen var fantastisk." },
+      { "sentence": "Du bist toll!", "translation": "Du er fantastisk!" }
+    ]
+  },
+  "schoen_adj": {
+    "translation": "pen / fin",
+    "synonyms": [
+      "vakker",
+      "pen"
+    ],
+    "examples": [
+      { "sentence": "Das Wetter ist schön.", "translation": "Været er fint." },
+      { "sentence": "Du siehst schön aus.", "translation": "Du ser pen ut." },
+      { "sentence": "Schönes Wochenende!", "translation": "God helg!" }
+    ]
+  },
+  "interessant_adj": {
+    "translation": "interessant",
+    "examples": [
+      { "sentence": "Das Buch ist interessant.", "translation": "Boken er interessant." },
+      { "sentence": "Ich finde Geschichte interessant.", "translation": "Jeg synes historie er interessant." },
+      { "sentence": "Das ist ein interessantes Thema.", "translation": "Det er et interessant tema." }
+    ]
+  },
+  "lustig_adj": {
+    "translation": "morsom / gøy",
+    "synonyms": [
+      "vittig",
+      "komisk",
+      "artig"
+    ],
+    "examples": [
+      { "sentence": "Das ist lustig!", "translation": "Det er morsomt!" },
+      { "sentence": "Er ist sehr lustig.", "translation": "Han er veldig morsom." },
+      { "sentence": "Wir hatten einen lustigen Abend.", "translation": "Vi hadde en morsom kveld." }
+    ]
+  },
+  "rot_adj": {
+    "translation": "rød",
+    "examples": [
+      { "sentence": "Das Auto ist rot.", "translation": "Bilen er rød." },
+      { "sentence": "Ich mag die Farbe rot.", "translation": "Jeg liker fargen rød." },
+      { "sentence": "Sie hat rote Haare.", "translation": "Hun har rødt hår." }
+    ]
+  },
+  "blau_adj": {
+    "translation": "blå",
+    "examples": [
+      { "sentence": "Der Himmel ist blau.", "translation": "Himmelen er blå." },
+      { "sentence": "Ich habe blaue Augen.", "translation": "Jeg har blå øyne." },
+      { "sentence": "Blau ist meine Lieblingsfarbe.", "translation": "Blå er favorittfargen min." }
+    ]
+  },
+  "gruen_adj": {
+    "translation": "grønn",
+    "examples": [
+      { "sentence": "Das Gras ist grün.", "translation": "Gresset er grønt." },
+      { "sentence": "Ich trage ein grünes T-Shirt.", "translation": "Jeg har på meg en grønn t-skjorte." },
+      { "sentence": "Grün steht dir gut.", "translation": "Grønt kler deg." }
+    ]
+  },
+  "gelb_adj": {
+    "translation": "gul"
+  },
+  "schwarz_adj": {
+    "translation": "svart"
+  },
+  "weiss_adj": {
+    "translation": "hvit"
+  },
+  "grau_adj": {
+    "translation": "grå"
+  },
+  "braun_adj": {
+    "translation": "brun"
+  },
+  "orange_adj": {
+    "translation": "oransje",
+    "explanation": {
+      "_description": "Invariabelt adjektiv (bøyes ikke). Eksempel: \"ein orange Pullover\", \"eine orange Jacke\"."
+    }
+  },
+  "lila_adj": {
+    "translation": "lilla / fiolett",
+    "explanation": {
+      "_description": "Invariabelt adjektiv (bøyes ikke). Eksempel: \"ein lila Hemd\", \"eine lila Hose\"."
+    }
+  },
+  "rosa_adj": {
+    "translation": "rosa",
+    "explanation": {
+      "_description": "Invariabelt adjektiv (bøyes ikke). Eksempel: \"ein rosa T-Shirt\", \"eine rosa Bluse\"."
+    }
+  },
+  "gross_adj": {
+    "translation": "stor",
+    "explanation": {
+      "_description": "Betyr \"stor\". I komparativ og superlativ får det umlaut: groß → größer → am größten."
+    },
+    "examples": [
+      { "sentence": "Das Haus ist groß.", "translation": "Huset er stort." },
+      { "sentence": "Wie groß bist du?", "translation": "Hvor høy er du?" },
+      { "sentence": "Ich habe eine große Familie.", "translation": "Jeg har en stor familie." }
+    ]
+  },
+  "sauber_adj": {
+    "translation": "ren",
+    "synonyms": [
+      "ren",
+      "hygienisk",
+      "velstelt"
+    ]
+  },
+  "klein_adj": {
+    "translation": "liten",
+    "explanation": {
+      "_description": "Betyr \"liten\". Regulær komparativ uten umlaut: klein → kleiner → am kleinsten."
+    },
+    "examples": [
+      { "sentence": "Die Wohnung ist klein.", "translation": "Leiligheten er liten." },
+      { "sentence": "Ich habe einen kleinen Hund.", "translation": "Jeg har en liten hund." },
+      { "sentence": "Mein Bruder ist noch klein.", "translation": "Broren min er fortsatt liten." }
+    ]
+  },
+  "lang_adj": {
+    "translation": "lang",
+    "explanation": {
+      "_description": "Betyr \"lang\". Får umlaut i komparativ: lang → länger → am längsten."
+    },
+    "examples": [
+      { "sentence": "Der Film ist lang.", "translation": "Filmen er lang." },
+      { "sentence": "Ich habe lange Haare.", "translation": "Jeg har langt hår." },
+      { "sentence": "Wie lange dauert es?", "translation": "Hvor lang tid tar det?" }
+    ]
+  },
+  "kurz_adj": {
+    "translation": "kort",
+    "explanation": {
+      "_description": "Betyr \"kort\". Får umlaut i komparativ: kurz → kürzer → am kürzesten."
+    },
+    "examples": [
+      { "sentence": "Ich habe kurze Haare.", "translation": "Jeg har kort hår." },
+      { "sentence": "Kurz gesagt...", "translation": "Kort sagt..." },
+      { "sentence": "Die Pause war zu kurz.", "translation": "Pausen var for kort." }
+    ]
+  },
+  "intelligent_adj": {
+    "translation": "intelligent"
+  },
+  "stark_adj": {
+    "translation": "sterk",
+    "explanation": {
+      "_description": "Betyr \"sterk\". Får umlaut i komparativ: stark → stärker → am stärksten."
+    }
+  },
+  "schnell_adj": {
+    "translation": "rask",
+    "examples": [
+      { "sentence": "Das Auto fährt schnell.", "translation": "Bilen kjører fort." },
+      { "sentence": "Schnell! Wir kommen zu spät!", "translation": "Fort! Vi kommer for sent!" },
+      { "sentence": "Er läuft sehr schnell.", "translation": "Han løper veldig fort." }
+    ]
+  },
+  "langsam_adj": {
+    "translation": "langsom",
+    "examples": [
+      { "sentence": "Die Schnecke ist langsam.", "translation": "Sneglen er langsom." },
+      { "sentence": "Bitte sprechen Sie langsam.", "translation": "Vennligst snakk sakte." },
+      { "sentence": "Der Bus fährt zu langsam.", "translation": "Bussen kjører for sakte." }
+    ]
+  },
+  "alt_adj": {
+    "translation": "gammel",
+    "synonyms": [
+      "gammel",
+      "eldre"
+    ],
+    "explanation": {
+      "_description": "Betyr \"gammel\". Får umlaut i komparativ: alt → älter → am ältesten."
+    },
+    "examples": [
+      { "sentence": "Wie alt bist du?", "translation": "Hvor gammel er du?" },
+      { "sentence": "Ich bin 16 Jahre alt.", "translation": "Jeg er 16 år gammel." },
+      { "sentence": "Das Haus ist alt.", "translation": "Huset er gammelt." }
+    ]
+  },
+  "jung_adj": {
+    "translation": "ung",
+    "explanation": {
+      "_description": "Betyr \"ung\". Får umlaut i komparativ: jung → jünger → am jüngsten."
+    },
+    "examples": [
+      { "sentence": "Er ist noch jung.", "translation": "Han er fortsatt ung." },
+      { "sentence": "Meine Schwester ist jünger als ich.", "translation": "Søsteren min er yngre enn meg." },
+      { "sentence": "Die jungen Leute tanzen.", "translation": "De unge menneskene danser." }
+    ]
+  },
+  "warm_adj": {
+    "translation": "varm",
+    "explanation": {
+      "_description": "Betyr \"varm\". Får umlaut i komparativ: warm → wärmer → am wärmsten."
+    },
+    "examples": [
+      { "sentence": "Es ist warm heute.", "translation": "Det er varmt i dag." },
+      { "sentence": "Das Essen ist noch warm.", "translation": "Maten er fortsatt varm." },
+      { "sentence": "Zieh etwas Warmes an!", "translation": "Ta på deg noe varmt!" }
+    ]
+  },
+  "kalt_adj": {
+    "translation": "kald",
+    "explanation": {
+      "_description": "Betyr \"kald\". Får umlaut i komparativ: kalt → kälter → am kältesten."
+    },
+    "examples": [
+      { "sentence": "Es ist kalt draußen.", "translation": "Det er kaldt ute." },
+      { "sentence": "Das Wasser ist zu kalt.", "translation": "Vannet er for kaldt." },
+      { "sentence": "Im Winter ist es kalt.", "translation": "Om vinteren er det kaldt." }
+    ]
+  },
+  "gut_adj": {
+    "translation": "god / bra",
+    "explanation": {
+      "_description": "Betyr \"god/bra\". Irregulær komparativ: gut → besser → am besten (helt annerledes ord!)."
+    },
+    "examples": [
+      { "sentence": "Das ist sehr gut!", "translation": "Det er veldig bra!" },
+      { "sentence": "Wie geht es dir? - Mir geht es gut.", "translation": "Hvordan har du det? - Jeg har det bra." },
+      { "sentence": "Sie spricht gut Deutsch.", "translation": "Hun snakker godt tysk." }
+    ]
+  },
+  "viel_adj": {
+    "translation": "mye",
+    "examples": [
+      { "sentence": "Ich habe viel zu tun.", "translation": "Jeg har mye å gjøre." },
+      { "sentence": "Viel Spaß!", "translation": "Ha det gøy!" },
+      { "sentence": "Vielen Dank!", "translation": "Tusen takk!" }
+    ]
+  },
+  "faul_adj": {
+    "translation": "lat / doven"
+  },
+  "schlau_adj": {
+    "translation": "smart / lur",
+    "synonyms": [
+      "intelligent",
+      "klok"
+    ]
+  },
+  "frech_adj": {
+    "translation": "frekk",
+    "synonyms": [
+      "nesevis",
+      "frekk"
+    ]
+  },
+  "riesig_adj": {
+    "translation": "kjempestor",
+    "synonyms": [
+      "enorm",
+      "voldsom",
+      "gigantisk",
+      "kolossal"
+    ]
+  },
+  "ruhig_adj": {
+    "translation": "rolig",
+    "synonyms": [
+      "stille",
+      "fredelig",
+      "avslappet"
+    ]
+  },
+  "gefaehrlich_adj": {
+    "translation": "farlig",
+    "synonyms": [
+      "risikabelt",
+      "truende",
+      "risikofylt"
+    ]
+  },
+  "wild_adj": {
+    "translation": "vill",
+    "synonyms": [
+      "utemmet",
+      "vilt"
+    ]
+  },
+  "schwierig_adj": {
+    "translation": "vanskelig",
+    "synonyms": [
+      "tungt",
+      "krevende",
+      "komplisert"
+    ],
+    "examples": [
+      { "sentence": "Die Aufgabe ist schwierig.", "translation": "Oppgaven er vanskelig." },
+      { "sentence": "Das ist sehr schwierig.", "translation": "Det er veldig vanskelig." },
+      { "sentence": "Ich finde Mathe schwierig.", "translation": "Jeg synes matte er vanskelig." }
+    ]
+  },
+  "schade_adj": {
+    "translation": "synd",
+    "synonyms": [
+      "beklagelig",
+      "leit"
+    ]
+  },
+  "lecker_adj": {
+    "translation": "godt / smakfullt",
+    "examples": [
+      { "sentence": "Das Essen ist lecker!", "translation": "Maten er god!" },
+      { "sentence": "Die Pizza schmeckt lecker.", "translation": "Pizzaen smaker godt." },
+      { "sentence": "Das sieht lecker aus!", "translation": "Det ser godt ut!" }
+    ]
+  },
+  "blond_adj": {
+    "translation": "blond",
+    "synonyms": [
+      "lys",
+      "lyshåret"
+    ]
+  },
+  "nett_adj": {
+    "translation": "hyggelig",
+    "synonyms": [
+      "vennlig",
+      "snill",
+      "trivelig"
+    ],
+    "examples": [
+      { "sentence": "Sie ist sehr nett.", "translation": "Hun er veldig hyggelig." },
+      { "sentence": "Das war nett von dir.", "translation": "Det var snilt av deg." },
+      { "sentence": "Meine Nachbarn sind nett.", "translation": "Naboene mine er hyggelige." }
+    ]
+  },
+  "streng_adj": {
+    "translation": "streng",
+    "synonyms": [
+      "hard",
+      "alvorlig"
+    ]
+  },
+  "sportlich_adj": {
+    "translation": "sporty",
+    "synonyms": [
+      "atletisk",
+      "sprek"
+    ]
+  },
+  "musikalisch_adj": {
+    "translation": "musikalsk"
+  },
+  "kreativ_adj": {
+    "translation": "kreativ",
+    "synonyms": [
+      "oppfinnsom",
+      "fantasifull",
+      "original"
+    ]
+  },
+  "schuechtern_adj": {
+    "translation": "sjenert",
+    "synonyms": [
+      "tilbakeholden",
+      "sky",
+      "blyg"
+    ]
+  },
+  "aktiv_adj": {
+    "translation": "aktiv",
+    "synonyms": [
+      "energisk",
+      "dynamisk"
+    ]
+  },
+  "ungeduldig_adj": {
+    "translation": "utålmodig",
+    "synonyms": [
+      "rastløs",
+      "urolig"
+    ]
+  },
+  "freundlich_adj": {
+    "translation": "vennlig",
+    "synonyms": [
+      "hyggelig",
+      "snill",
+      "høflig"
+    ],
+    "examples": [
+      { "sentence": "Der Lehrer ist freundlich.", "translation": "Læreren er vennlig." },
+      { "sentence": "Sei bitte freundlich!", "translation": "Vær vennlig!" },
+      { "sentence": "Er hat ein freundliches Lächeln.", "translation": "Han har et vennlig smil." }
+    ]
+  },
+  "muede_adj": {
+    "translation": "trøtt",
+    "explanation": {
+      "_description": "Sliten, søvnig."
+    },
+    "examples": [
+      { "sentence": "Ich bin müde.", "translation": "Jeg er trøtt." },
+      { "sentence": "Bist du müde?", "translation": "Er du trøtt?" },
+      { "sentence": "Sie sieht müde aus.", "translation": "Hun ser trøtt ut." }
+    ]
+  },
+  "zufrieden_adj": {
+    "translation": "fornøyd"
+  },
+  "langweilig_adj": {
+    "translation": "kjedelig",
+    "examples": [
+      { "sentence": "Der Film war langweilig.", "translation": "Filmen var kjedelig." },
+      { "sentence": "Das ist so langweilig!", "translation": "Det er så kjedelig!" },
+      { "sentence": "Mir ist langweilig.", "translation": "Jeg kjeder meg." }
+    ]
+  },
+  "perfekt_adj": {
+    "translation": "perfekt",
+    "synonyms": [
+      "perfekt",
+      "ideelt",
+      "utmerket"
+    ]
+  },
+  "suess_adj": {
+    "translation": "søt",
+    "synonyms": [
+      "søtelig",
+      "nusselig",
+      "bedårende"
+    ],
+    "examples": [
+      { "sentence": "Die Katze ist süß!", "translation": "Katten er søt!" },
+      { "sentence": "Das Baby ist so süß.", "translation": "Babyen er så søt." },
+      { "sentence": "Das Dessert ist süß.", "translation": "Desserten er søt." }
+    ]
+  },
+  "treu_adj": {
+    "translation": "lojal",
+    "synonyms": [
+      "trofast",
+      "pålitelig"
+    ]
+  },
+  "bloed_adj": {
+    "translation": "dum / irriterende",
+    "synonyms": [
+      "teit",
+      "dumt",
+      "kjedelig",
+      "irriterende"
+    ]
+  },
+  "populaer_adj": {
+    "translation": "populær",
+    "synonyms": [
+      "populær",
+      "velkjent",
+      "kjent",
+      "ettertraktet"
+    ]
+  },
+  "brav_adj": {
+    "translation": "snill / lydig",
+    "synonyms": [
+      "lydig",
+      "artig",
+      "veloppdratt"
+    ]
+  },
+  "zahm_adj": {
+    "translation": "tam",
+    "synonyms": [
+      "tammet",
+      "domestisert"
+    ]
+  },
+  "weich_adj": {
+    "translation": "myk",
+    "synonyms": [
+      "myk",
+      "mjuk",
+      "fluffy"
+    ]
+  },
+  "richtig_adj": {
+    "translation": "riktig / skikkelig",
+    "synonyms": [
+      "korrekt",
+      "ordentlig",
+      "ekte"
+    ]
+  },
+  "einfach_adj": {
+    "translation": "enkel / lett",
+    "synonyms": [
+      "lett",
+      "simpel",
+      "ukomplisert"
+    ],
+    "examples": [
+      { "sentence": "Das ist einfach!", "translation": "Det er lett!" },
+      { "sentence": "Die Lösung ist einfach.", "translation": "Løsningen er enkel." },
+      { "sentence": "Es ist einfach zu verstehen.", "translation": "Det er lett å forstå." }
+    ]
+  },
+  "teuer_adj": {
+    "translation": "dyr (om pris)",
+    "examples": [
+      { "sentence": "Das ist zu teuer.", "translation": "Det er for dyrt." },
+      { "sentence": "Der Ring ist teuer.", "translation": "Ringen er dyr." },
+      { "sentence": "Haben Sie etwas Billigeres?", "translation": "Har dere noe billigere?" }
+    ]
+  },
+  "wichtig_adj": {
+    "translation": "viktig",
+    "examples": [
+      { "sentence": "Das ist sehr wichtig.", "translation": "Det er veldig viktig." },
+      { "sentence": "Ich habe eine wichtige Frage.", "translation": "Jeg har et viktig spørsmål." },
+      { "sentence": "Familie ist wichtig für mich.", "translation": "Familie er viktig for meg." }
+    ]
+  },
+  "gemuetlich_adj": {
+    "translation": "koselig"
+  },
+  "bunt_adj": {
+    "translation": "fargerik"
+  },
+  "frisch_adj": {
+    "translation": "frisk"
+  },
+  "klar_adj": {
+    "translation": "klar",
+    "examples": [
+      { "sentence": "Alles klar!", "translation": "Alt klart!" },
+      { "sentence": "Ist das klar?", "translation": "Er det klart?" },
+      { "sentence": "Das ist mir klar.", "translation": "Det er klart for meg." }
+    ]
+  },
+  "sicher_adj": {
+    "translation": "sikker"
+  },
+  "wach_adj": {
+    "translation": "våken"
+  },
+  "cool_adj": {
+    "translation": "kul",
+    "examples": [
+      { "sentence": "Das ist cool!", "translation": "Det er kult!" },
+      { "sentence": "Du bist so cool.", "translation": "Du er så kul." },
+      { "sentence": "Die Musik ist cool.", "translation": "Musikken er kul." }
+    ]
+  },
+  "sympathisch_adj": {
+    "translation": "sympatisk"
+  },
+  "neu_adj": {
+    "translation": "ny",
+    "examples": [
+      { "sentence": "Ich habe ein neues Handy.", "translation": "Jeg har en ny mobil." },
+      { "sentence": "Das ist mein neuer Freund.", "translation": "Det er min nye venn." },
+      { "sentence": "Was gibt es Neues?", "translation": "Hva er nytt?" }
+    ]
+  },
+  "gespannt_adj": {
+    "translation": "spent / nysgjerrig",
+    "explanation": {
+      "_description": "Betyr \"spent/nysgjerrig\". Brukes ofte i uttrykket \"Ich bin gespannt!\" (jeg er spent/nysgjerrig!)."
+    }
+  },
+  "gesund_adj": {
+    "translation": "sunn / sunt",
+    "explanation": {
+      "_description": "Betyr \"sunn/sunt\". Får umlaut i komparativ: gesund → gesünder → am gesündesten."
+    },
+    "examples": [
+      { "sentence": "Obst ist gesund.", "translation": "Frukt er sunt." },
+      { "sentence": "Ich fühle mich gesund.", "translation": "Jeg føler meg frisk." },
+      { "sentence": "Gesunde Ernährung ist wichtig.", "translation": "Sunt kosthold er viktig." }
+    ]
+  },
+  "erschoepft_adj": {
+    "translation": "utmattet / utslitt",
+    "synonyms": [
+      "utmattet",
+      "oppbrukt",
+      "ferdig"
+    ]
+  },
+  "gluecklich_adj": {
+    "translation": "lykkelig",
+    "synonyms": [
+      "glad",
+      "fornøyd",
+      "tilfreds",
+      "salig"
+    ],
+    "examples": [
+      { "sentence": "Ich bin glücklich.", "translation": "Jeg er lykkelig." },
+      { "sentence": "Sie macht mich glücklich.", "translation": "Hun gjør meg lykkelig." },
+      { "sentence": "Herzlichen Glückwunsch!", "translation": "Gratulerer!" }
+    ]
+  },
+  "traurig_adj": {
+    "translation": "trist / lei seg",
+    "synonyms": [
+      "trist",
+      "nedtrykt",
+      "ulykkelig",
+      "lei seg"
+    ],
+    "examples": [
+      { "sentence": "Warum bist du traurig?", "translation": "Hvorfor er du lei deg?" },
+      { "sentence": "Das ist eine traurige Geschichte.", "translation": "Det er en trist historie." },
+      { "sentence": "Ich bin traurig.", "translation": "Jeg er lei meg." }
+    ]
+  },
+  "gestresst_adj": {
+    "translation": "stresset",
+    "synonyms": [
+      "anspent",
+      "overbelastet",
+      "presset"
+    ]
+  },
+  "entspannt_adj": {
+    "translation": "avslappet",
+    "synonyms": [
+      "rolig",
+      "avbalansert",
+      "avslappet"
+    ]
+  },
+  "nervoes_adj": {
+    "translation": "nervøs",
+    "synonyms": [
+      "spent",
+      "urolig",
+      "anspent"
+    ]
+  },
+  "aufgeregt_adj": {
+    "translation": "spent / opphisset",
+    "synonyms": [
+      "spent",
+      "nervøs",
+      "begeistret",
+      "opprørt"
+    ]
+  },
+  "stressig_adj": {
+    "translation": "stressende"
+  },
+  "hoch_adj": {
+    "translation": "høy"
+  },
+  "gern_adj": {
+    "translation": "gjerne"
+  },
+  "anstrengend_adj": {
+    "translation": "anstrengende / slitsom"
+  },
+  "hart_adj": {
+    "translation": "hard"
+  },
+  "weit_adj": {
+    "translation": "langt"
+  },
+  "ehrlich_adj": {
+    "translation": "ærlig",
+    "synonyms": [
+      "oppriktig",
+      "åpen",
+      "direkte"
+    ],
+    "explanation": {
+      "_description": "Betyr \"ærlig\" eller \"ærlig talt\". Eksempel: \"Ich bin ehrlich\" (jeg er ærlig), \"Ehrlich gesagt...\" (ærlig talt...)."
+    }
+  },
+  "schlimm_adj": {
+    "translation": "ille / galt",
+    "synonyms": [
+      "ille",
+      "galt",
+      "alvorlig"
+    ],
+    "explanation": {
+      "_description": "Betyr \"ille\", \"galt\" eller \"alvorlig\". Eksempel: \"Das ist nicht so schlimm\" (det er ikke så ille), \"eine schlimme Situation\" (en alvorlig situasjon)."
+    }
+  },
+  "boese_adj": {
+    "translation": "sint / slem",
+    "synonyms": [
+      "sint",
+      "rasende",
+      "irritert"
+    ],
+    "explanation": {
+      "_description": "Betyr \"sint\" eller \"slem\". Eksempel: \"Bist du böse auf mich?\" (er du sint på meg?), \"ein böser Hund\" (en slem hund)."
+    }
+  },
+  "sonnig_adj": {
+    "translation": "solrik",
+    "explanation": {
+      "_description": "Beskriver vær med sol."
+    }
+  },
+  "regnerisch_adj": {
+    "translation": "regnfull",
+    "explanation": {
+      "_description": "Beskriver vær med mye regn."
+    }
+  },
+  "bewoelkt_adj": {
+    "translation": "overskyet",
+    "explanation": {
+      "_description": "Beskriver vær med skyer."
+    }
+  },
+  "windig_adj": {
+    "translation": "vindfullt",
+    "explanation": {
+      "_description": "Beskriver vær med vind."
+    }
+  },
+  "neblig_adj": {
+    "translation": "tåkete",
+    "explanation": {
+      "_description": "Beskriver vær med tåke."
+    }
+  },
+  "heiss_adj": {
+    "translation": "varmt / het",
+    "explanation": {
+      "_description": "Veldig varm temperatur."
+    }
+  },
+  "kuehl_adj": {
+    "translation": "kjølig",
+    "explanation": {
+      "_description": "Litt kald, men ikke veldig."
+    }
+  },
+  "nass_adj": {
+    "translation": "våt",
+    "explanation": {
+      "_description": "Dekket av vann."
+    }
+  },
+  "lieblings-_adj": {
+    "translation": "favoritt-",
+    "explanation": {
+      "_description": "Prefiks som betyr favoritt. F.eks. Lieblingsfarbe (favorittfarge)."
+    }
+  },
+  "fertig_adj": {
+    "translation": "ferdig",
+    "explanation": {
+      "_description": "Klar, fullført."
+    },
+    "examples": [
+      { "sentence": "Ich bin fertig!", "translation": "Jeg er ferdig!" },
+      { "sentence": "Bist du fertig?", "translation": "Er du ferdig?" },
+      { "sentence": "Das Essen ist fertig.", "translation": "Maten er klar." }
+    ]
+  },
+  "beste_adj": {
+    "translation": "beste"
+  },
+  "geheim_adj": {
+    "translation": "hemmelig"
+  },
+  "recht_adj": {
+    "translation": "rett / riktig"
+  },
+  "ueberrascht_adj": {
+    "translation": "overrasket"
+  }
+}

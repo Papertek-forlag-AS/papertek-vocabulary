@@ -1,0 +1,1921 @@
+{
+  "_metadata": {
+    "source": "nounbank.json",
+    "targetLanguage": "german",
+    "nativeLanguage": "nb",
+    "generatedAt": "2026-01-16T17:26:35.879Z",
+    "description": "NB translations for german noun"
+  },
+  "arbeid_paagar_noun": {
+    "translation": "arbeid pågår",
+    "explanation": {
+      "_description": "Placeholder for lessons still under construction."
+    }
+  },
+  "jahr_noun": {
+    "translation": "år",
+    "explanation": {
+      "_description": "Substantiv (intetkjønn). Brukes i aldersbeskrivelser. Flertall: \"Jahre\". Eksempel: \"sechzehn Jahre alt\" (seksten år gammel)."
+    },
+    "definite": "året"
+  },
+  "zusammenfassung_noun": {
+    "translation": "sammendrag",
+    "definite": "sammendraget"
+  },
+  "hilfe_noun": {
+    "translation": "hjelp",
+    "definite": "hjelpen"
+  },
+  "familie_noun": {
+    "translation": "familie",
+    "definite": "familien",
+    "examples": [
+      { "sentence": "Meine Familie ist groß.", "translation": "Familien min er stor." },
+      { "sentence": "Wie groß ist deine Familie?", "translation": "Hvor stor er familien din?" },
+      { "sentence": "Wir machen Urlaub mit der Familie.", "translation": "Vi reiser på ferie med familien." }
+    ]
+  },
+  "vater_noun": {
+    "translation": "far",
+    "definite": "faren",
+    "examples": [
+      { "sentence": "Mein Vater arbeitet viel.", "translation": "Faren min jobber mye." },
+      { "sentence": "Wo ist dein Vater?", "translation": "Hvor er faren din?" },
+      { "sentence": "Ich helfe meinem Vater.", "translation": "Jeg hjelper faren min." }
+    ]
+  },
+  "mutter_noun": {
+    "translation": "mor",
+    "synonyms": ["mamma"],
+    "definite": "moren",
+    "examples": [
+      { "sentence": "Meine Mutter kocht gut.", "translation": "Moren min lager god mat." },
+      { "sentence": "Ich rufe meine Mutter an.", "translation": "Jeg ringer moren min." },
+      { "sentence": "Meine Mutter heißt Anna.", "translation": "Moren min heter Anna." }
+    ]
+  },
+  "bruder_noun": {
+    "translation": "bror",
+    "definite": "broren",
+    "examples": [
+      { "sentence": "Ich habe einen Bruder.", "translation": "Jeg har en bror." },
+      { "sentence": "Mein Bruder ist älter als ich.", "translation": "Broren min er eldre enn meg." },
+      { "sentence": "Spielst du mit deinem Bruder?", "translation": "Leker du med broren din?" }
+    ]
+  },
+  "schwester_noun": {
+    "translation": "søster",
+    "definite": "søsteren",
+    "examples": [
+      { "sentence": "Ich habe eine Schwester.", "translation": "Jeg har en søster." },
+      { "sentence": "Meine Schwester geht zur Schule.", "translation": "Søsteren min går på skolen." },
+      { "sentence": "Hast du eine Schwester?", "translation": "Har du en søster?" }
+    ]
+  },
+  "geschwister_noun": {
+    "translation": "søsken",
+    "definite": "søskenet"
+  },
+  "foto_noun": {
+    "translation": "bilde",
+    "synonyms": [
+      "foto"
+    ],
+    "definite": "bildet",
+    "examples": [
+      { "sentence": "Ich mache ein Foto.", "translation": "Jeg tar et bilde." },
+      { "sentence": "Das Foto ist schön.", "translation": "Bildet er fint." },
+      { "sentence": "Zeig mir das Foto!", "translation": "Vis meg bildet!" }
+    ]
+  },
+  "eltern_noun": {
+    "translation": "foreldre",
+    "definite": "foreldrene",
+    "examples": [
+      { "sentence": "Meine Eltern sind nett.", "translation": "Foreldrene mine er snille." },
+      { "sentence": "Ich wohne bei meinen Eltern.", "translation": "Jeg bor hos foreldrene mine." },
+      { "sentence": "Was machen deine Eltern?", "translation": "Hva gjør foreldrene dine?" }
+    ]
+  },
+  "freund_noun": {
+    "translation": "venn",
+    "definite": "vennen",
+    "examples": [
+      { "sentence": "Er ist mein bester Freund.", "translation": "Han er min beste venn." },
+      { "sentence": "Ich treffe meinen Freund.", "translation": "Jeg møter vennen min." },
+      { "sentence": "Hast du viele Freunde?", "translation": "Har du mange venner?" }
+    ]
+  },
+  "freundin_noun": {
+    "translation": "venninne",
+    "definite": "venninnen",
+    "examples": [
+      { "sentence": "Sie ist meine beste Freundin.", "translation": "Hun er min beste venninne." },
+      { "sentence": "Ich rufe meine Freundin an.", "translation": "Jeg ringer venninnen min." },
+      { "sentence": "Meine Freundin wohnt in Berlin.", "translation": "Venninnen min bor i Berlin." }
+    ]
+  },
+  "schule_noun": {
+    "translation": "skole",
+    "definite": "skolen",
+    "examples": [
+      { "sentence": "Ich gehe in die Schule.", "translation": "Jeg går på skolen." },
+      { "sentence": "Die Schule beginnt um 8 Uhr.", "translation": "Skolen begynner klokken 8." },
+      { "sentence": "Wie ist deine Schule?", "translation": "Hvordan er skolen din?" }
+    ]
+  },
+  "note_noun": {
+    "translation": "karakter",
+    "definite": "karakteren"
+  },
+  "charakter_noun": {
+    "translation": "karakter",
+    "definite": "karakteren"
+  },
+  "klasse_noun": {
+    "translation": "klasse",
+    "definite": "klassen",
+    "examples": [
+      { "sentence": "Ich bin in der 10. Klasse.", "translation": "Jeg går i 10. klasse." },
+      { "sentence": "Meine Klasse hat 25 Schüler.", "translation": "Klassen min har 25 elever." },
+      { "sentence": "Die Klasse ist sehr nett.", "translation": "Klassen er veldig hyggelig." }
+    ]
+  },
+  "sport_noun": {
+    "translation": "sport",
+    "definite": "sporten",
+    "examples": [
+      { "sentence": "Ich mache gern Sport.", "translation": "Jeg liker å drive med sport." },
+      { "sentence": "Welchen Sport magst du?", "translation": "Hvilken sport liker du?" },
+      { "sentence": "Sport ist gesund.", "translation": "Sport er sunt." }
+    ]
+  },
+  "mathematik_noun": {
+    "translation": "matematikk",
+    "synonyms": [
+      "matte"
+    ],
+    "explanation": {
+      "_description": "Hunkjønn: skolefaget \"matematikk\". Ofte forkortet til \"Mathe\". Eksempel: \"Ich habe Mathematik\" (jeg har matematikk)."
+    },
+    "definite": "matematikken"
+  },
+  "deutsch_noun": {
+    "translation": "tysk (fag)",
+    "explanation": {
+      "_description": "Intetkjønn: språket/faget \"tysk\". Eksempel: \"Ich lerne Deutsch\" (jeg lærer tysk), \"auf Deutsch\" (på tysk)."
+    },
+    "definite": "tysken"
+  },
+  "biologie_noun": {
+    "translation": "biologi",
+    "explanation": {
+      "_description": "Hunkjønn: skolefaget \"biologi\". Ofte forkortet til \"Bio\"."
+    },
+    "definite": "biologien"
+  },
+  "geschichte_noun": {
+    "translation": "historie",
+    "definite": "historien"
+  },
+  "politik_noun": {
+    "translation": "politikk",
+    "explanation": {
+      "_description": "Hunkjønn: \"politikk\". Eksempel: \"Ich interessiere mich für Politik\" (jeg interesserer meg for politikk)."
+    },
+    "definite": "politikken"
+  },
+  "lieblingsfach_noun": {
+    "translation": "favorittfag",
+    "definite": "favorittfaget"
+  },
+  "sprache_noun": {
+    "translation": "språk",
+    "definite": "språket",
+    "examples": [
+      { "sentence": "Ich lerne eine neue Sprache.", "translation": "Jeg lærer et nytt språk." },
+      { "sentence": "Welche Sprachen sprichst du?", "translation": "Hvilke språk snakker du?" },
+      { "sentence": "Deutsch ist eine schöne Sprache.", "translation": "Tysk er et fint språk." }
+    ]
+  },
+  "glocke_noun": {
+    "translation": "klokke (bjelle)",
+    "synonyms": [
+      "bjelle",
+      "bjella"
+    ],
+    "definite": "klokka (bjella)"
+  },
+  "unterricht_noun": {
+    "translation": "undervisning",
+    "definite": "undervisningen"
+  },
+  "lehrer_noun": {
+    "translation": "lærer (mannlig)",
+    "definite": "læreren (mannlig)",
+    "examples": [
+      { "sentence": "Der Lehrer erklärt die Grammatik.", "translation": "Læreren forklarer grammatikken." },
+      { "sentence": "Unser Lehrer ist nett.", "translation": "Læreren vår er hyggelig." },
+      { "sentence": "Ich frage den Lehrer.", "translation": "Jeg spør læreren." }
+    ]
+  },
+  "hobby_noun": {
+    "translation": "hobby",
+    "definite": "hobbyen",
+    "examples": [
+      { "sentence": "Was ist dein Hobby?", "translation": "Hva er hobbyen din?" },
+      { "sentence": "Mein Hobby ist Fußball.", "translation": "Hobbyen min er fotball." },
+      { "sentence": "Ich habe viele Hobbys.", "translation": "Jeg har mange hobbyer." }
+    ]
+  },
+  "gitarre_noun": {
+    "translation": "gitar",
+    "explanation": {
+      "_description": "Hunkjønn: \"gitar\". Eksempel: \"Ich spiele Gitarre\" (jeg spiller gitar)."
+    },
+    "definite": "gitaren",
+    "examples": [
+      { "sentence": "Ich spiele Gitarre.", "translation": "Jeg spiller gitar." },
+      { "sentence": "Meine Gitarre ist neu.", "translation": "Gitaren min er ny." },
+      { "sentence": "Kannst du Gitarre spielen?", "translation": "Kan du spille gitar?" }
+    ]
+  },
+  "fussball_noun": {
+    "translation": "fotball",
+    "definite": "fotballen",
+    "examples": [
+      { "sentence": "Ich spiele gern Fußball.", "translation": "Jeg liker å spille fotball." },
+      { "sentence": "Wir spielen Fußball im Park.", "translation": "Vi spiller fotball i parken." },
+      { "sentence": "Fußball ist mein Lieblingssport.", "translation": "Fotball er favorittsporten min." }
+    ]
+  },
+  "freizeit_noun": {
+    "translation": "fritid",
+    "definite": "fritida",
+    "examples": [
+      { "sentence": "Was machst du in der Freizeit?", "translation": "Hva gjør du i fritiden?" },
+      { "sentence": "Ich habe wenig Freizeit.", "translation": "Jeg har lite fritid." },
+      { "sentence": "In meiner Freizeit spiele ich Gitarre.", "translation": "I fritiden spiller jeg gitar." }
+    ]
+  },
+  "wochenende_noun": {
+    "translation": "helg",
+    "definite": "helga",
+    "examples": [
+      { "sentence": "Was machst du am Wochenende?", "translation": "Hva gjør du i helgen?" },
+      { "sentence": "Das Wochenende war toll.", "translation": "Helgen var fantastisk." },
+      { "sentence": "Ich freue mich auf das Wochenende.", "translation": "Jeg gleder meg til helgen." }
+    ]
+  },
+  "montag_noun": {
+    "translation": "mandag",
+    "definite": "mandagen"
+  },
+  "dienstag_noun": {
+    "translation": "tirsdag",
+    "definite": "tirsdagen"
+  },
+  "mittwoch_noun": {
+    "translation": "onsdag",
+    "definite": "onsdagen"
+  },
+  "donnerstag_noun": {
+    "translation": "torsdag",
+    "definite": "torsdagen"
+  },
+  "freitag_noun": {
+    "translation": "fredag",
+    "definite": "fredagen"
+  },
+  "samstag_noun": {
+    "translation": "lørdag",
+    "definite": "lørdagen"
+  },
+  "sonntag_noun": {
+    "translation": "søndag",
+    "definite": "søndagen"
+  },
+  "frage_noun": {
+    "translation": "spørsmål",
+    "explanation": {
+      "_description": "Betyr \"spørsmål\". Eksempel: \"Erste Frage: Wer ist dein bester Freund?\" (første spørsmål: hvem er din beste venn?)."
+    },
+    "definite": "spørsmålet",
+    "examples": [
+      { "sentence": "Ich habe eine Frage.", "translation": "Jeg har et spørsmål." },
+      { "sentence": "Das ist eine gute Frage.", "translation": "Det er et godt spørsmål." },
+      { "sentence": "Hast du Fragen?", "translation": "Har du spørsmål?" }
+    ]
+  },
+  "kino_noun": {
+    "translation": "kino",
+    "definite": "kinoen",
+    "examples": [
+      { "sentence": "Wir gehen ins Kino.", "translation": "Vi går på kino." },
+      { "sentence": "Was läuft im Kino?", "translation": "Hva vises på kinoen?" },
+      { "sentence": "Das Kino ist um die Ecke.", "translation": "Kinoen er rundt hjørnet." }
+    ]
+  },
+  "film_noun": {
+    "translation": "film",
+    "definite": "filmen",
+    "examples": [
+      { "sentence": "Der Film war gut.", "translation": "Filmen var bra." },
+      { "sentence": "Wir sehen einen Film.", "translation": "Vi ser en film." },
+      { "sentence": "Welchen Film magst du?", "translation": "Hvilken film liker du?" }
+    ]
+  },
+  "oma_noun": {
+    "translation": "bestemor",
+    "definite": "bestemora",
+    "examples": [
+      { "sentence": "Meine Oma wohnt in Berlin.", "translation": "Bestemora mi bor i Berlin." },
+      { "sentence": "Ich besuche meine Oma.", "translation": "Jeg besøker bestemora mi." },
+      { "sentence": "Oma backt Kuchen.", "translation": "Bestemor baker kake." }
+    ]
+  },
+  "opa_noun": {
+    "translation": "bestefar",
+    "definite": "bestefaren",
+    "examples": [
+      { "sentence": "Mein Opa ist lustig.", "translation": "Bestefaren min er morsom." },
+      { "sentence": "Opa erzählt Geschichten.", "translation": "Bestefar forteller historier." },
+      { "sentence": "Ich helfe meinem Opa.", "translation": "Jeg hjelper bestefaren min." }
+    ]
+  },
+  "uhr_noun": {
+    "translation": "klokke / klokkeslett",
+    "definite": "klokka / klokkeslettet"
+  },
+  "cafe_noun": {
+    "translation": "kafé",
+    "explanation": {
+      "_description": "Intetkjønn: \"kafé\". Eksempel: \"Wir gehen ins Café\" (vi går til kaféen)."
+    },
+    "definite": "kafeen"
+  },
+  "pruefungen_noun": {
+    "translation": "prøver",
+    "explanation": {
+      "_description": "Hunkjønn flertall: \"prøver\" eller \"eksamener\". Entall: \"die Prüfung\". Eksempel: \"Ich lerne für Prüfungen\" (jeg studerer til prøver)."
+    },
+    "definite": "prøvene"
+  },
+  "supermarkt_noun": {
+    "translation": "supermarked",
+    "definite": "supermarkedet",
+    "examples": [
+      { "sentence": "Ich gehe in den Supermarkt.", "translation": "Jeg går til supermarkedet." },
+      { "sentence": "Der Supermarkt ist um die Ecke.", "translation": "Supermarkedet er rundt hjørnet." },
+      { "sentence": "Wir kaufen im Supermarkt ein.", "translation": "Vi handler i supermarkedet." }
+    ]
+  },
+  "milch_noun": {
+    "translation": "melk",
+    "definite": "melka",
+    "examples": [
+      { "sentence": "Ich trinke gern Milch.", "translation": "Jeg liker å drikke melk." },
+      { "sentence": "Wir brauchen Milch.", "translation": "Vi trenger melk." },
+      { "sentence": "Die Milch ist im Kühlschrank.", "translation": "Melken er i kjøleskapet." }
+    ]
+  },
+  "brot_noun": {
+    "translation": "brød",
+    "definite": "brødet",
+    "examples": [
+      { "sentence": "Ich esse Brot zum Frühstück.", "translation": "Jeg spiser brød til frokost." },
+      { "sentence": "Das Brot ist frisch.", "translation": "Brødet er ferskt." },
+      { "sentence": "Wir kaufen Brot.", "translation": "Vi kjøper brød." }
+    ]
+  },
+  "kaese_noun": {
+    "translation": "ost",
+    "definite": "osten",
+    "examples": [
+      { "sentence": "Ich esse gern Käse.", "translation": "Jeg liker å spise ost." },
+      { "sentence": "Der Käse ist lecker.", "translation": "Osten er god." },
+      { "sentence": "Wir kaufen Käse.", "translation": "Vi kjøper ost." }
+    ]
+  },
+  "apfel_noun": {
+    "translation": "eple",
+    "definite": "eplet",
+    "examples": [
+      { "sentence": "Ich esse einen Apfel.", "translation": "Jeg spiser et eple." },
+      { "sentence": "Der Apfel ist rot.", "translation": "Eplet er rødt." },
+      { "sentence": "Möchtest du einen Apfel?", "translation": "Vil du ha et eple?" }
+    ]
+  },
+  "banane_noun": {
+    "translation": "banan",
+    "definite": "bananen"
+  },
+  "flasche_noun": {
+    "translation": "flaske",
+    "definite": "flaska"
+  },
+  "schokolade_noun": {
+    "translation": "sjokolade",
+    "definite": "sjokoladen",
+    "examples": [
+      { "sentence": "Ich esse gern Schokolade.", "translation": "Jeg liker å spise sjokolade." },
+      { "sentence": "Die Schokolade ist süß.", "translation": "Sjokoladen er søt." },
+      { "sentence": "Möchtest du Schokolade?", "translation": "Vil du ha sjokolade?" }
+    ]
+  },
+  "gemuese_noun": {
+    "translation": "grønnsaker",
+    "definite": "grønnsakene"
+  },
+  "gurke_noun": {
+    "translation": "agurk",
+    "definite": "agurken"
+  },
+  "tomate_noun": {
+    "translation": "tomat",
+    "definite": "tomaten"
+  },
+  "ei_noun": {
+    "translation": "egg",
+    "definite": "egget",
+    "examples": [
+      { "sentence": "Ich esse ein Ei zum Frühstück.", "translation": "Jeg spiser et egg til frokost." },
+      { "sentence": "Wir brauchen Eier.", "translation": "Vi trenger egg." },
+      { "sentence": "Das Ei ist gekocht.", "translation": "Egget er kokt." }
+    ]
+  },
+  "abendessen_noun": {
+    "translation": "middag / kveldsmat",
+    "definite": "middagen / kveldsmaten"
+  },
+  "hunger_noun": {
+    "translation": "sult",
+    "definite": "sulten"
+  },
+  "nudeln_noun": {
+    "translation": "pasta",
+    "definite": "pastaen"
+  },
+  "tomatensosse_noun": {
+    "translation": "tomatsaus",
+    "definite": "tomatsausen"
+  },
+  "zwiebel_noun": {
+    "translation": "løk",
+    "definite": "løken"
+  },
+  "pizza_noun": {
+    "translation": "pizza",
+    "definite": "pizzaen",
+    "examples": [
+      { "sentence": "Ich esse gern Pizza.", "translation": "Jeg liker å spise pizza." },
+      { "sentence": "Wir bestellen eine Pizza.", "translation": "Vi bestiller en pizza." },
+      { "sentence": "Die Pizza ist lecker.", "translation": "Pizzaen er deilig." }
+    ]
+  },
+  "salat_noun": {
+    "translation": "salat",
+    "definite": "salaten"
+  },
+  "hamburger_noun": {
+    "translation": "hamburger",
+    "definite": "hamburgeren"
+  },
+  "regel_noun": {
+    "translation": "regel",
+    "definite": "regelen"
+  },
+  "restaurant_noun": {
+    "translation": "restaurant",
+    "definite": "restauranten",
+    "examples": [
+      { "sentence": "Wir gehen ins Restaurant.", "translation": "Vi går på restaurant." },
+      { "sentence": "Das Restaurant ist gut.", "translation": "Restauranten er bra." },
+      { "sentence": "Kennst du ein gutes Restaurant?", "translation": "Kjenner du en god restaurant?" }
+    ]
+  },
+  "kellner_noun": {
+    "translation": "kelner",
+    "definite": "kelneren"
+  },
+  "rechnung_noun": {
+    "translation": "regning",
+    "definite": "regninga"
+  },
+  "kuchen_noun": {
+    "translation": "kake",
+    "definite": "kaka",
+    "examples": [
+      { "sentence": "Der Kuchen ist lecker.", "translation": "Kaken er deilig." },
+      { "sentence": "Ich backe einen Kuchen.", "translation": "Jeg baker en kake." },
+      { "sentence": "Möchtest du ein Stück Kuchen?", "translation": "Vil du ha et stykke kake?" }
+    ]
+  },
+  "apfelsaft_noun": {
+    "translation": "eplejuice",
+    "definite": "eplejuicen"
+  },
+  "pullover_noun": {
+    "translation": "genser",
+    "definite": "genseren"
+  },
+  "hose_noun": {
+    "translation": "bukse",
+    "definite": "buksa",
+    "examples": [
+      { "sentence": "Die Hose ist blau.", "translation": "Buksa er blå." },
+      { "sentence": "Ich kaufe eine neue Hose.", "translation": "Jeg kjøper en ny bukse." },
+      { "sentence": "Passt die Hose?", "translation": "Passer buksa?" }
+    ]
+  },
+  "jacke_noun": {
+    "translation": "jakke",
+    "definite": "jakka",
+    "examples": [
+      { "sentence": "Ich ziehe meine Jacke an.", "translation": "Jeg tar på meg jakka." },
+      { "sentence": "Die Jacke ist warm.", "translation": "Jakka er varm." },
+      { "sentence": "Wo ist meine Jacke?", "translation": "Hvor er jakka mi?" }
+    ]
+  },
+  "schuhe_noun": {
+    "translation": "sko (flertall)",
+    "definite": "skoene (flertall)",
+    "examples": [
+      { "sentence": "Meine Schuhe sind neu.", "translation": "Skoene mine er nye." },
+      { "sentence": "Ich ziehe meine Schuhe an.", "translation": "Jeg tar på meg skoene." },
+      { "sentence": "Die Schuhe sind bequem.", "translation": "Skoene er behagelige." }
+    ]
+  },
+  "hemd_noun": {
+    "translation": "skjorte",
+    "definite": "skjorta"
+  },
+  "rock_noun": {
+    "translation": "skjørt",
+    "definite": "skjørtet"
+  },
+  "kleid_noun": {
+    "translation": "kjole",
+    "definite": "kjolen"
+  },
+  "farbe_noun": {
+    "translation": "farge",
+    "definite": "fargen",
+    "examples": [
+      { "sentence": "Welche Farbe magst du?", "translation": "Hvilken farge liker du?" },
+      { "sentence": "Meine Lieblingsfarbe ist blau.", "translation": "Favorittfargen min er blå." },
+      { "sentence": "Die Farbe ist schön.", "translation": "Fargen er fin." }
+    ]
+  },
+  "aussehen_noun": {
+    "translation": "utseende",
+    "definite": "utseendet"
+  },
+  "koerperteil_noun": {
+    "translation": "kroppsdel",
+    "definite": "kroppsdelen"
+  },
+  "auge_noun": {
+    "translation": "øye",
+    "definite": "øyet",
+    "examples": [
+      { "sentence": "Ich habe blaue Augen.", "translation": "Jeg har blå øyne." },
+      { "sentence": "Das Auge tut weh.", "translation": "Øyet gjør vondt." },
+      { "sentence": "Sie hat schöne Augen.", "translation": "Hun har fine øyne." }
+    ]
+  },
+  "haar_noun": {
+    "translation": "hår",
+    "definite": "håret",
+    "examples": [
+      { "sentence": "Sie hat lange Haare.", "translation": "Hun har langt hår." },
+      { "sentence": "Mein Haar ist braun.", "translation": "Håret mitt er brunt." },
+      { "sentence": "Ich wasche mir die Haare.", "translation": "Jeg vasker håret." }
+    ]
+  },
+  "nase_noun": {
+    "translation": "nese",
+    "definite": "nesa"
+  },
+  "mund_noun": {
+    "translation": "munn",
+    "definite": "munnen"
+  },
+  "kopf_noun": {
+    "translation": "hode",
+    "definite": "hodet",
+    "examples": [
+      { "sentence": "Mein Kopf tut weh.", "translation": "Hodet mitt gjør vondt." },
+      { "sentence": "Er nickt mit dem Kopf.", "translation": "Han nikker med hodet." },
+      { "sentence": "Ich habe Kopfschmerzen.", "translation": "Jeg har hodepine." }
+    ]
+  },
+  "persoenlichkeit_noun": {
+    "translation": "personlighet",
+    "definite": "personligheten"
+  },
+  "tag_noun": {
+    "translation": "dag",
+    "definite": "dagen",
+    "examples": [
+      { "sentence": "Guten Tag!", "translation": "God dag!" },
+      { "sentence": "Wie war dein Tag?", "translation": "Hvordan var dagen din?" },
+      { "sentence": "Heute ist ein schöner Tag.", "translation": "I dag er det en fin dag." }
+    ]
+  },
+  "nachmittag_noun": {
+    "translation": "ettermiddag",
+    "definite": "ettermiddagen"
+  },
+  "abend_noun": {
+    "translation": "kveld",
+    "definite": "kvelden",
+    "examples": [
+      { "sentence": "Guten Abend!", "translation": "God kveld!" },
+      { "sentence": "Am Abend sehe ich fern.", "translation": "Om kvelden ser jeg på TV." },
+      { "sentence": "Der Abend war gemütlich.", "translation": "Kvelden var koselig." }
+    ]
+  },
+  "schultasche_noun": {
+    "translation": "skolesekk",
+    "definite": "skolesekken"
+  },
+  "uhrzeit_noun": {
+    "translation": "klokkeslett",
+    "definite": "klokkeslettet"
+  },
+  "superheld_noun": {
+    "translation": "superhelt",
+    "definite": "superhelten"
+  },
+  "plan_noun": {
+    "translation": "plan",
+    "definite": "planen"
+  },
+  "vorschlag_noun": {
+    "translation": "forslag",
+    "definite": "forslaget"
+  },
+  "eis_noun": {
+    "translation": "is",
+    "definite": "isen",
+    "examples": [
+      { "sentence": "Ich esse gern Eis.", "translation": "Jeg liker å spise is." },
+      { "sentence": "Möchtest du ein Eis?", "translation": "Vil du ha en is?" },
+      { "sentence": "Das Eis ist lecker.", "translation": "Isen er deilig." }
+    ]
+  },
+  "park_noun": {
+    "translation": "park",
+    "definite": "parken",
+    "examples": [
+      { "sentence": "Wir gehen in den Park.", "translation": "Vi går til parken." },
+      { "sentence": "Der Park ist schön.", "translation": "Parken er fin." },
+      { "sentence": "Ich jogge im Park.", "translation": "Jeg jogger i parken." }
+    ]
+  },
+  "musik_noun": {
+    "translation": "musikk",
+    "definite": "musikken",
+    "examples": [
+      { "sentence": "Ich höre gern Musik.", "translation": "Jeg liker å høre på musikk." },
+      { "sentence": "Welche Musik magst du?", "translation": "Hvilken musikk liker du?" },
+      { "sentence": "Die Musik ist laut.", "translation": "Musikken er høy." }
+    ]
+  },
+  "idee_noun": {
+    "translation": "idé",
+    "definite": "idéen",
+    "examples": [
+      { "sentence": "Das ist eine gute Idee!", "translation": "Det er en god idé!" },
+      { "sentence": "Ich habe eine Idee.", "translation": "Jeg har en idé." },
+      { "sentence": "Hast du eine Idee?", "translation": "Har du en idé?" }
+    ]
+  },
+  "computerspiel_noun": {
+    "translation": "dataspill",
+    "synonyms": ["computerspill"],
+    "definite": "dataspillet"
+  },
+  "turnier_noun": {
+    "translation": "turnering",
+    "definite": "turneringen"
+  },
+  "wetter_noun": {
+    "translation": "vær",
+    "definite": "været",
+    "examples": [
+      { "sentence": "Das Wetter ist schön.", "translation": "Været er fint." },
+      { "sentence": "Wie ist das Wetter?", "translation": "Hvordan er været?" },
+      { "sentence": "Das Wetter wird besser.", "translation": "Været blir bedre." }
+    ]
+  },
+  "stunde_noun": {
+    "translation": "time",
+    "definite": "timen",
+    "examples": [
+      { "sentence": "Die Stunde dauert 45 Minuten.", "translation": "Timen varer 45 minutter." },
+      { "sentence": "In einer Stunde bin ich fertig.", "translation": "Om en time er jeg ferdig." },
+      { "sentence": "Wir haben jetzt Deutschstunde.", "translation": "Vi har tysktime nå." }
+    ]
+  },
+  "viertel_noun": {
+    "translation": "kvarter",
+    "definite": "kvarteret"
+  },
+  "hund_noun": {
+    "translation": "hund",
+    "definite": "hunden",
+    "examples": [
+      { "sentence": "Ich habe einen Hund.", "translation": "Jeg har en hund." },
+      { "sentence": "Der Hund ist süß.", "translation": "Hunden er søt." },
+      { "sentence": "Ich gehe mit dem Hund spazieren.", "translation": "Jeg går tur med hunden." }
+    ]
+  },
+  "tiger_noun": {
+    "translation": "tiger",
+    "definite": "tigeren"
+  },
+  "katze_noun": {
+    "translation": "katt",
+    "definite": "katten",
+    "examples": [
+      { "sentence": "Die Katze schläft.", "translation": "Katten sover." },
+      { "sentence": "Ich streichle die Katze.", "translation": "Jeg klapper katten." },
+      { "sentence": "Unsere Katze heißt Mia.", "translation": "Katten vår heter Mia." }
+    ]
+  },
+  "kaninchen_noun": {
+    "translation": "kanin",
+    "definite": "kaninen"
+  },
+  "fisch_noun": {
+    "translation": "fisk",
+    "definite": "fisken"
+  },
+  "hamster_noun": {
+    "translation": "hamster",
+    "definite": "hamsteren"
+  },
+  "garten_noun": {
+    "translation": "hage",
+    "definite": "hagen",
+    "examples": [
+      { "sentence": "Wir spielen im Garten.", "translation": "Vi leker i hagen." },
+      { "sentence": "Der Garten ist groß.", "translation": "Hagen er stor." },
+      { "sentence": "Ich arbeite im Garten.", "translation": "Jeg jobber i hagen." }
+    ]
+  },
+  "tier_noun": {
+    "translation": "dyr",
+    "definite": "dyret",
+    "examples": [
+      { "sentence": "Ich mag Tiere.", "translation": "Jeg liker dyr." },
+      { "sentence": "Welches Tier magst du?", "translation": "Hvilket dyr liker du?" },
+      { "sentence": "Das Tier ist süß.", "translation": "Dyret er søtt." }
+    ]
+  },
+  "haustier_noun": {
+    "translation": "kjæledyr",
+    "definite": "kjæledyret",
+    "examples": [
+      { "sentence": "Hast du ein Haustier?", "translation": "Har du et kjæledyr?" },
+      { "sentence": "Mein Haustier ist ein Hund.", "translation": "Kjæledyret mitt er en hund." },
+      { "sentence": "Ich liebe mein Haustier.", "translation": "Jeg elsker kjæledyret mitt." }
+    ]
+  },
+  "goldfisch_noun": {
+    "translation": "gullfisk",
+    "definite": "gullfisken"
+  },
+  "vogel_noun": {
+    "translation": "fugl",
+    "definite": "fuglen",
+    "examples": [
+      { "sentence": "Der Vogel singt.", "translation": "Fuglen synger." },
+      { "sentence": "Ich sehe einen Vogel.", "translation": "Jeg ser en fugl." },
+      { "sentence": "Die Vögel fliegen.", "translation": "Fuglene flyr." }
+    ]
+  },
+  "maus_noun": {
+    "translation": "mus",
+    "definite": "musa / musen"
+  },
+  "essen_noun": {
+    "translation": "mat",
+    "explanation": {
+      "_description": "Som substantiv betyr \"Essen\" mat/måltid. Som verb betyr \"essen\" å spise."
+    },
+    "definite": "maten",
+    "examples": [
+      { "sentence": "Das Essen ist lecker.", "translation": "Maten er deilig." },
+      { "sentence": "Wir haben genug Essen.", "translation": "Vi har nok mat." },
+      { "sentence": "Das Essen ist fertig!", "translation": "Maten er klar!" }
+    ]
+  },
+  "wasser_noun": {
+    "translation": "vann",
+    "definite": "vannet",
+    "examples": [
+      { "sentence": "Ich trinke Wasser.", "translation": "Jeg drikker vann." },
+      { "sentence": "Kann ich ein Glas Wasser haben?", "translation": "Kan jeg få et glass vann?" },
+      { "sentence": "Das Wasser ist kalt.", "translation": "Vannet er kaldt." }
+    ]
+  },
+  "zeit_noun": {
+    "translation": "tid",
+    "definite": "tida",
+    "examples": [
+      { "sentence": "Ich habe keine Zeit.", "translation": "Jeg har ikke tid." },
+      { "sentence": "Hast du Zeit?", "translation": "Har du tid?" },
+      { "sentence": "Die Zeit vergeht schnell.", "translation": "Tiden går fort." }
+    ]
+  },
+  "arbeit_noun": {
+    "translation": "arbeid",
+    "definite": "arbeidet",
+    "examples": [
+      { "sentence": "Ich gehe zur Arbeit.", "translation": "Jeg går på jobb." },
+      { "sentence": "Die Arbeit ist fertig.", "translation": "Arbeidet er ferdig." },
+      { "sentence": "Ich habe viel Arbeit.", "translation": "Jeg har mye arbeid." }
+    ]
+  },
+  "platz_noun": {
+    "translation": "plass",
+    "definite": "plassen"
+  },
+  "futter_noun": {
+    "translation": "dyrefôr",
+    "explanation": {
+      "_description": "Futter er mat til dyr. For menneskemat bruker vi \"Essen\" eller \"Nahrung\"."
+    },
+    "definite": "dyrefôret"
+  },
+  "kaefig_noun": {
+    "translation": "bur",
+    "definite": "buret"
+  },
+  "aquarium_noun": {
+    "translation": "akvarium",
+    "definite": "akvariet"
+  },
+  "fell_noun": {
+    "translation": "pels",
+    "definite": "pelsen"
+  },
+  "tuer_noun": {
+    "translation": "dør",
+    "definite": "døra"
+  },
+  "jaeger_noun": {
+    "translation": "jeger",
+    "definite": "jegeren"
+  },
+  "jaegerin_noun": {
+    "translation": "jegerinne",
+    "explanation": {
+      "_description": "Hunkjønnsform av \"Jäger\" (jeger). Brukes om kvinnelige jegere."
+    },
+    "definite": "jegerinna"
+  },
+  "groesse_noun": {
+    "translation": "størrelse",
+    "explanation": {
+      "_description": "Betyr størrelse, både om fysisk størrelse og størrelser på klær. Eksempel: \"Größe ist nicht alles\" (størrelse er ikke alt)."
+    },
+    "definite": "størrelsen"
+  },
+  "mensch_noun": {
+    "translation": "menneske",
+    "explanation": {
+      "_description": "Betyr menneske eller person. I flertall: \"die Menschen\" (menneskene/folkene). Eksempel: \"Menschen mit Haustieren\" (mennesker med kjæledyr)."
+    },
+    "definite": "mennesket"
+  },
+  "zoo_noun": {
+    "translation": "dyrehage",
+    "definite": "dyrehagen"
+  },
+  "elefant_noun": {
+    "translation": "elefant",
+    "definite": "elefanten"
+  },
+  "giraffe_noun": {
+    "translation": "sjiraff",
+    "definite": "sjiraffen"
+  },
+  "loewe_noun": {
+    "translation": "løve",
+    "definite": "løven"
+  },
+  "affe_noun": {
+    "translation": "ape",
+    "definite": "apen"
+  },
+  "baer_noun": {
+    "translation": "bjørn",
+    "definite": "bjørnen"
+  },
+  "lieblingstier_noun": {
+    "translation": "favorittdyr",
+    "synonyms": ["yndlingsdyr"],
+    "definite": "favorittdyret"
+  },
+  "hals_noun": {
+    "translation": "hals",
+    "definite": "halsen"
+  },
+  "obst_noun": {
+    "translation": "frukt",
+    "explanation": {
+      "_description": "Betyr frukt. Dette er et \"mass noun\" (stofford) som vanligvis ikke brukes i flertall. Eksempel: \"Affen fressen Obst\" (aper spiser frukt)."
+    },
+    "definite": "frukten"
+  },
+  "fleisch_noun": {
+    "translation": "kjøtt",
+    "explanation": {
+      "_description": "Betyr kjøtt. Dette er et \"mass noun\" (stofford) som vanligvis ikke brukes i flertall. Eksempel: \"Der Löwe frisst Fleisch\" (løven spiser kjøtt)."
+    },
+    "definite": "kjøttet"
+  },
+  "tierpfleger_noun": {
+    "translation": "dyrepasser",
+    "definite": "dyrepasseren"
+  },
+  "hausaufgabe_noun": {
+    "translation": "lekse",
+    "definite": "leksa/leksen",
+    "examples": [
+      { "sentence": "Ich mache meine Hausaufgaben.", "translation": "Jeg gjør leksene mine." },
+      { "sentence": "Hast du die Hausaufgaben gemacht?", "translation": "Har du gjort leksene?" },
+      { "sentence": "Die Hausaufgabe ist schwer.", "translation": "Leksa er vanskelig." }
+    ]
+  },
+  "urlaub_noun": {
+    "translation": "ferie",
+    "definite": "ferien",
+    "examples": [
+      { "sentence": "Ich mache Urlaub.", "translation": "Jeg er på ferie." },
+      { "sentence": "Wohin fährst du im Urlaub?", "translation": "Hvor reiser du på ferie?" },
+      { "sentence": "Der Urlaub war toll.", "translation": "Ferien var fantastisk." }
+    ]
+  },
+  "sommerferien_noun": {
+    "translation": "sommerferie",
+    "definite": "sommerferien"
+  },
+  "stadt_noun": {
+    "translation": "by",
+    "definite": "byen",
+    "examples": [
+      { "sentence": "Die Stadt ist groß.", "translation": "Byen er stor." },
+      { "sentence": "Ich wohne in der Stadt.", "translation": "Jeg bor i byen." },
+      { "sentence": "Wir gehen in die Stadt.", "translation": "Vi går til byen." }
+    ]
+  },
+  "ort_noun": {
+    "translation": "sted",
+    "definite": "stedet"
+  },
+  "natur_noun": {
+    "translation": "natur",
+    "definite": "naturen",
+    "examples": [
+      { "sentence": "Die Natur ist schön.", "translation": "Naturen er vakker." },
+      { "sentence": "Ich liebe die Natur.", "translation": "Jeg elsker naturen." },
+      { "sentence": "Wir sind in der Natur.", "translation": "Vi er i naturen." }
+    ]
+  },
+  "blog_noun": {
+    "translation": "blogg",
+    "definite": "bloggen"
+  },
+  "leben_noun": {
+    "translation": "liv",
+    "definite": "livet",
+    "examples": [
+      { "sentence": "Das Leben ist schön.", "translation": "Livet er fint." },
+      { "sentence": "Wie ist dein Leben?", "translation": "Hvordan er livet ditt?" },
+      { "sentence": "Ich lebe ein gutes Leben.", "translation": "Jeg lever et godt liv." }
+    ]
+  },
+  "traum_noun": {
+    "translation": "drøm",
+    "definite": "drømmen",
+    "examples": [
+      { "sentence": "Ich habe einen Traum.", "translation": "Jeg har en drøm." },
+      { "sentence": "Das war ein schöner Traum.", "translation": "Det var en fin drøm." },
+      { "sentence": "Mein Traum ist zu reisen.", "translation": "Drømmen min er å reise." }
+    ]
+  },
+  "koffer_noun": {
+    "translation": "koffert",
+    "definite": "kofferten"
+  },
+  "pass_noun": {
+    "translation": "pass",
+    "definite": "passet"
+  },
+  "flugzeug_noun": {
+    "translation": "fly",
+    "definite": "flyet",
+    "examples": [
+      { "sentence": "Wir fliegen mit dem Flugzeug.", "translation": "Vi flyr med fly." },
+      { "sentence": "Das Flugzeug startet.", "translation": "Flyet tar av." },
+      { "sentence": "Ich sehe ein Flugzeug.", "translation": "Jeg ser et fly." }
+    ]
+  },
+  "badesachen_noun": {
+    "translation": "badetøy",
+    "synonyms": ["badesaker"],
+    "definite": "badetøyet"
+  },
+  "sonnencreme_noun": {
+    "translation": "solkrem",
+    "definite": "solkremen"
+  },
+  "flughafen_noun": {
+    "translation": "flyplass",
+    "definite": "flyplassen"
+  },
+  "sommerkleidung_noun": {
+    "translation": "sommerklær",
+    "definite": "sommerklærne"
+  },
+  "auto_noun": {
+    "translation": "bil",
+    "definite": "bilen",
+    "examples": [
+      { "sentence": "Mein Vater hat ein Auto.", "translation": "Faren min har en bil." },
+      { "sentence": "Wir fahren mit dem Auto.", "translation": "Vi kjører med bil." },
+      { "sentence": "Das Auto ist rot.", "translation": "Bilen er rød." }
+    ]
+  },
+  "berg_noun": {
+    "translation": "fjell",
+    "definite": "fjellet",
+    "examples": [
+      { "sentence": "Wir wandern in den Bergen.", "translation": "Vi går tur i fjellene." },
+      { "sentence": "Der Berg ist hoch.", "translation": "Fjellet er høyt." },
+      { "sentence": "Ich sehe die Berge.", "translation": "Jeg ser fjellene." }
+    ]
+  },
+  "gebirge_noun": {
+    "translation": "fjellkjede / fjellområde",
+    "definite": "fjellkjeda / fjellområdet"
+  },
+  "see_noun": {
+    "translation": "innsjø",
+    "definite": "innsjøen",
+    "examples": [
+      { "sentence": "Wir schwimmen im See.", "translation": "Vi svømmer i innsjøen." },
+      { "sentence": "Der See ist kalt.", "translation": "Innsjøen er kald." },
+      { "sentence": "Ich wohne am See.", "translation": "Jeg bor ved innsjøen." }
+    ]
+  },
+  "seilbahn_noun": {
+    "translation": "taubane",
+    "definite": "taubana"
+  },
+  "sonne_noun": {
+    "translation": "sol",
+    "definite": "sola",
+    "examples": [
+      { "sentence": "Die Sonne scheint.", "translation": "Sola skinner." },
+      { "sentence": "Ich liege in der Sonne.", "translation": "Jeg ligger i sola." },
+      { "sentence": "Die Sonne ist warm.", "translation": "Sola er varm." }
+    ]
+  },
+  "jahreszeit_noun": {
+    "translation": "årstid",
+    "definite": "årstida"
+  },
+  "fruehling_noun": {
+    "translation": "vår",
+    "definite": "våren",
+    "examples": [
+      { "sentence": "Im Frühling blühen die Blumen.", "translation": "Om våren blomstrer blomstene." },
+      { "sentence": "Der Frühling kommt.", "translation": "Våren kommer." },
+      { "sentence": "Ich mag den Frühling.", "translation": "Jeg liker våren." }
+    ]
+  },
+  "sommer_noun": {
+    "translation": "sommer",
+    "definite": "sommeren",
+    "examples": [
+      { "sentence": "Im Sommer ist es warm.", "translation": "Om sommeren er det varmt." },
+      { "sentence": "Der Sommer ist meine Lieblingsjahreszeit.", "translation": "Sommeren er min favorittårstid." },
+      { "sentence": "Was machst du im Sommer?", "translation": "Hva gjør du om sommeren?" }
+    ]
+  },
+  "herbst_noun": {
+    "translation": "høst",
+    "definite": "høsten",
+    "examples": [
+      { "sentence": "Im Herbst fallen die Blätter.", "translation": "Om høsten faller bladene." },
+      { "sentence": "Der Herbst ist bunt.", "translation": "Høsten er fargerik." },
+      { "sentence": "Ich mag den Herbst.", "translation": "Jeg liker høsten." }
+    ]
+  },
+  "winter_noun": {
+    "translation": "vinter",
+    "definite": "vinteren",
+    "examples": [
+      { "sentence": "Im Winter ist es kalt.", "translation": "Om vinteren er det kaldt." },
+      { "sentence": "Ich fahre im Winter Ski.", "translation": "Jeg står på ski om vinteren." },
+      { "sentence": "Der Winter ist lang in Norwegen.", "translation": "Vinteren er lang i Norge." }
+    ]
+  },
+  "monat_noun": {
+    "translation": "måned",
+    "definite": "måneden"
+  },
+  "reiseziel_noun": {
+    "translation": "reisemål",
+    "definite": "reisemålet"
+  },
+  "schwimmbad_noun": {
+    "translation": "svømmebasseng / badeland",
+    "definite": "svømmebassenget / badelandet"
+  },
+  "fahrradtour_noun": {
+    "translation": "sykkeltur",
+    "definite": "sykkelturen"
+  },
+  "highlight_noun": {
+    "translation": "høydepunkt",
+    "definite": "høydepunktet"
+  },
+  "geburtstagskind_noun": {
+    "translation": "bursdagsbarn",
+    "definite": "bursdagsbarnet"
+  },
+  "geburtstagstorte_noun": {
+    "translation": "bursdagskake",
+    "definite": "bursdagskaka"
+  },
+  "schueler_noun": {
+    "translation": "elev (gutt)"
+  },
+  "kompliment_noun": {
+    "translation": "kompliment",
+    "definite": "komplimentet"
+  },
+  "party_noun": {
+    "translation": "fest",
+    "definite": "festen",
+    "examples": [
+      { "sentence": "Ich mache eine Party.", "translation": "Jeg holder en fest." },
+      { "sentence": "Kommst du zur Party?", "translation": "Kommer du til festen?" },
+      { "sentence": "Die Party war super!", "translation": "Festen var fantastisk!" }
+    ]
+  },
+  "mitschueler_noun": {
+    "translation": "medelev",
+    "definite": "medeleven"
+  },
+  "mitschuelerin_noun": {
+    "translation": "medeleven (jente)",
+    "definite": "medeleven (jente)"
+  },
+  "morgenroutine_noun": {
+    "translation": "morgenrutine",
+    "definite": "morgenrutinen"
+  },
+  "morgen_noun": {
+    "translation": "morgen",
+    "definite": "morgenen",
+    "examples": [
+      { "sentence": "Guten Morgen!", "translation": "God morgen!" },
+      { "sentence": "Am Morgen trinke ich Kaffee.", "translation": "Om morgenen drikker jeg kaffe." },
+      { "sentence": "Der Morgen war schön.", "translation": "Morgenen var fin." }
+    ]
+  },
+  "spiegel_noun": {
+    "translation": "speil",
+    "definite": "speilet"
+  },
+  "broetchen_noun": {
+    "translation": "rundstykke",
+    "definite": "rundstykket"
+  },
+  "marmelade_noun": {
+    "translation": "syltetøy",
+    "definite": "syltetøyet"
+  },
+  "muesli_noun": {
+    "translation": "müsli",
+    "definite": "müslien"
+  },
+  "joghurt_noun": {
+    "translation": "yoghurt",
+    "definite": "yoghurten"
+  },
+  "zahn_noun": {
+    "translation": "tann",
+    "definite": "tannen"
+  },
+  "gefuehl_noun": {
+    "translation": "følelse",
+    "definite": "følelsen"
+  },
+  "projekt_noun": {
+    "translation": "prosjekt",
+    "definite": "prosjektet"
+  },
+  "ferien_noun": {
+    "translation": "ferie",
+    "definite": "ferien",
+    "examples": [
+      { "sentence": "Endlich sind Ferien!", "translation": "Endelig er det ferie!" },
+      { "sentence": "Was machst du in den Ferien?", "translation": "Hva gjør du i ferien?" },
+      { "sentence": "Die Ferien waren toll.", "translation": "Ferien var fantastisk." }
+    ]
+  },
+  "test_noun": {
+    "translation": "test",
+    "definite": "testen"
+  },
+  "pruefung_noun": {
+    "translation": "prøve",
+    "synonyms": ["eksamen"],
+    "definite": "prøven"
+  },
+  "strand_noun": {
+    "translation": "strand",
+    "definite": "stranden",
+    "examples": [
+      { "sentence": "Wir gehen an den Strand.", "translation": "Vi går til stranden." },
+      { "sentence": "Der Strand ist schön.", "translation": "Stranden er fin." },
+      { "sentence": "Ich liege am Strand.", "translation": "Jeg ligger på stranden." }
+    ]
+  },
+  "geschenk_noun": {
+    "translation": "gave",
+    "explanation": {
+      "_description": "Betyr \"gave\" eller \"presang\". Eksempel: \"ein Geschenk für dich\" (en gave til deg)."
+    },
+    "definite": "gaven",
+    "examples": [
+      { "sentence": "Ich habe ein Geschenk für dich.", "translation": "Jeg har en gave til deg." },
+      { "sentence": "Was für ein Geschenk möchtest du?", "translation": "Hva slags gave ønsker du?" },
+      { "sentence": "Das Geschenk ist toll!", "translation": "Gaven er fantastisk!" }
+    ]
+  },
+  "geburtstag_noun": {
+    "translation": "bursdag",
+    "explanation": {
+      "_description": "Betyr \"bursdag\". Eksempel: \"Ich habe am 13. Juli Geburtstag\" (jeg har bursdag den 13. juli). Man sier \"Herzlichen Glückwunsch zum Geburtstag!\" (gratulerer med dagen!)."
+    },
+    "definite": "bursdagen",
+    "examples": [
+      { "sentence": "Wann hast du Geburtstag?", "translation": "Når har du bursdag?" },
+      { "sentence": "Ich habe im Juli Geburtstag.", "translation": "Jeg har bursdag i juli." },
+      { "sentence": "Herzlichen Glückwunsch zum Geburtstag!", "translation": "Gratulerer med dagen!" }
+    ]
+  },
+  "fest_noun": {
+    "translation": "fest",
+    "explanation": {
+      "_description": "Betyr \"fest\", \"feiring\" eller \"høytid\". Eksempel: \"Welches Fest magst du?\" (hvilken feiring liker du?)."
+    },
+    "definite": "festen"
+  },
+  "weihnachten_noun": {
+    "translation": "jul",
+    "explanation": {
+      "_description": "Betyr \"jul\". Alltid i flertall på tysk! Man feirer \"am 24. Dezember\" (julaften). \"Frohe Weihnachten!\" (God jul!)."
+    },
+    "definite": "julen"
+  },
+  "ostern_noun": {
+    "translation": "påske",
+    "explanation": {
+      "_description": "Betyr \"påske\". Alltid i flertall på tysk! Man feirer med påskeegg (Ostereier) og påskeharen (der Osterhase). \"Frohe Ostern!\" (God påske!)."
+    },
+    "definite": "påsken"
+  },
+  "karneval_noun": {
+    "translation": "karneval",
+    "explanation": {
+      "_description": "Betyr \"karneval\" eller \"fastelavn\". Populært i Rhinland (Köln, Düsseldorf, Mainz). Folk kler seg ut og roper \"Helau!\" eller \"Alaaf!\"."
+    },
+    "definite": "karnevalet"
+  },
+  "halloween_noun": {
+    "translation": "Halloween",
+    "explanation": {
+      "_description": "Betyr \"Halloween\". Feires den 31. oktober. Barn kler seg ut og går fra dør til dør og sier \"Süßes oder Saures!\" (knask eller knep!)."
+    },
+    "definite": "Halloween"
+  },
+  "schokoladenei_noun": {
+    "translation": "sjokoladeegg",
+    "explanation": {
+      "_description": "Betyr \"sjokoladeegg\". Typisk for påske (Ostern). Sammensatt ord: Schokolade + Ei."
+    },
+    "definite": "sjokoladeegget"
+  },
+  "tradition_noun": {
+    "translation": "tradisjon",
+    "explanation": {
+      "_description": "Betyr \"tradisjon\". Eksempel: \"Wir sprechen über Traditionen\" (vi snakker om tradisjoner)."
+    },
+    "definite": "tradisjonen"
+  },
+  "brauch_noun": {
+    "translation": "skikk",
+    "explanation": {
+      "_description": "Betyr \"skikk\" eller \"tradisjon\". Flertall: Bräuche (med omlyd). Eksempel: \"alte Bräuche\" (gamle skikker)."
+    },
+    "definite": "skikken"
+  },
+  "geheimnis_noun": {
+    "translation": "hemmelighet",
+    "explanation": {
+      "_description": "Betyr \"hemmelighet\". Eksempel: \"Es ist ein Geheimnis!\" (det er en hemmelighet!). Psst!"
+    },
+    "definite": "hemmeligheten"
+  },
+  "getraenk_noun": {
+    "translation": "drikke",
+    "explanation": {
+      "_description": "Betyr \"drikke\" eller \"drikke vare\". Eksempel: \"Wir kaufen Getränke ein\" (vi kjøper inn drikke)."
+    },
+    "definite": "drikken"
+  },
+  "adresse_noun": {
+    "translation": "adresse",
+    "explanation": {
+      "_description": "Betyr \"adresse\". Eksempel: \"Kennt ihr meine Adresse?\" (kjenner dere adressen min?)."
+    },
+    "definite": "adressen"
+  },
+  "freundschaft_noun": {
+    "translation": "vennskap",
+    "explanation": {
+      "_description": "Betyr \"vennskap\". Eksempel: \"Ich mache ein Interview über Freundschaft\" (jeg lager et intervju om vennskap)."
+    },
+    "definite": "vennskapet"
+  },
+  "grundschule_noun": {
+    "translation": "barneskole",
+    "explanation": {
+      "_description": "Betyr \"barneskole\". I Tyskland går man på Grundschule fra 1. til 4. klasse. Eksempel: \"Wir kennen uns seit der Grundschule\" (vi kjenner hverandre siden barneskolen)."
+    },
+    "definite": "barneskolen"
+  },
+  "interview_noun": {
+    "translation": "intervju",
+    "explanation": {
+      "_description": "Låneord fra engelsk. Betyr \"intervju\". Eksempel: \"Ich mache ein Interview\" (jeg lager et intervju)."
+    },
+    "definite": "intervjuet"
+  },
+  "problem_noun": {
+    "translation": "problem",
+    "explanation": {
+      "_description": "Betyr \"problem\". Eksempel: \"Wen rufst du an, wenn du Probleme hast?\" (hvem ringer du til når du har problemer?)."
+    },
+    "definite": "problemet",
+    "examples": [
+      { "sentence": "Ich habe ein Problem.", "translation": "Jeg har et problem." },
+      { "sentence": "Kein Problem!", "translation": "Ikke noe problem!" },
+      { "sentence": "Was ist das Problem?", "translation": "Hva er problemet?" }
+    ]
+  },
+  "bett_noun": {
+    "translation": "seng",
+    "explanation": {
+      "_description": "Betyr \"seng\". Eksempel: \"Ich bleibe noch 10 Minuten im Bett liegen\" (jeg blir liggende i sengen 10 minutter til)."
+    },
+    "definite": "sengen",
+    "examples": [
+      { "sentence": "Ich gehe ins Bett.", "translation": "Jeg legger meg." },
+      { "sentence": "Ich bleibe im Bett.", "translation": "Jeg blir i sengen." },
+      { "sentence": "Das Bett ist bequem.", "translation": "Sengen er behagelig." }
+    ]
+  },
+  "fruehstueck_noun": {
+    "translation": "frokost"
+  },
+  "haus_noun": {
+    "translation": "hus",
+    "explanation": {
+      "_description": "Betyr \"hus\". Eksempel: \"aus dem Haus gehen\" (å gå ut av huset)."
+    },
+    "definite": "huset",
+    "examples": [
+      { "sentence": "Ich wohne in einem Haus.", "translation": "Jeg bor i et hus." },
+      { "sentence": "Das Haus ist groß.", "translation": "Huset er stort." },
+      { "sentence": "Wir gehen aus dem Haus.", "translation": "Vi går ut av huset." }
+    ]
+  },
+  "minute_noun": {
+    "translation": "minutt",
+    "explanation": {
+      "_description": "Betyr \"minutt\". Brukes for tidsmåling. Eksempel: \"noch 10 Minuten\" (ennå 10 minutter)."
+    },
+    "definite": "minuttet"
+  },
+  "frau_noun": {
+    "translation": "fru / kvinne",
+    "explanation": {
+      "_description": "Betyr \"fru\" eller \"kvinne\". Brukes som tittel foran etternavn: \"Frau Schmidt\" (fru Schmidt). Eksempel: \"Entschuldigst du dich bei Frau Schmidt?\" (beklager du deg til fru Schmidt?)."
+    },
+    "definite": "fruen / kvinnen"
+  },
+  "buch_noun": {
+    "translation": "bok",
+    "explanation": {
+      "_description": "Betyr \"bok\". Eksempel: \"Ich lese ein Buch\" (jeg leser en bok)."
+    },
+    "definite": "boken",
+    "examples": [
+      { "sentence": "Ich lese ein Buch.", "translation": "Jeg leser en bok." },
+      { "sentence": "Das Buch ist interessant.", "translation": "Boken er interessant." },
+      { "sentence": "Ich kaufe ein neues Buch.", "translation": "Jeg kjøper en ny bok." }
+    ]
+  },
+  "woche_noun": {
+    "translation": "uke",
+    "explanation": {
+      "_description": "Betyr \"uke\". Eksempel: \"Die Woche war stressig\" (uken var stressende)."
+    },
+    "definite": "uken",
+    "examples": [
+      { "sentence": "Diese Woche habe ich viel zu tun.", "translation": "Denne uken har jeg mye å gjøre." },
+      { "sentence": "Die Woche hat sieben Tage.", "translation": "Uken har sju dager." },
+      { "sentence": "Nächste Woche habe ich Urlaub.", "translation": "Neste uke har jeg ferie." }
+    ]
+  },
+  "bus_noun": {
+    "translation": "buss",
+    "definite": "bussen",
+    "examples": [
+      { "sentence": "Ich fahre mit dem Bus.", "translation": "Jeg tar bussen." },
+      { "sentence": "Der Bus kommt.", "translation": "Bussen kommer." },
+      { "sentence": "Wann fährt der Bus?", "translation": "Når går bussen?" }
+    ]
+  },
+  "wohnzimmer_noun": {
+    "translation": "stue",
+    "definite": "stua"
+  },
+  "saft_noun": {
+    "translation": "saft / juice",
+    "definite": "saften / juicen"
+  },
+  "rucksack_noun": {
+    "translation": "ryggsekk",
+    "definite": "ryggsekken"
+  },
+  "zimmer_noun": {
+    "translation": "rom",
+    "definite": "rommet",
+    "examples": [
+      { "sentence": "Mein Zimmer ist groß.", "translation": "Rommet mitt er stort." },
+      { "sentence": "Ich räume mein Zimmer auf.", "translation": "Jeg rydder rommet mitt." },
+      { "sentence": "Das Zimmer hat ein Fenster.", "translation": "Rommet har et vindu." }
+    ]
+  },
+  "hochsprung_noun": {
+    "translation": "høydehopp",
+    "definite": "høydehoppet"
+  },
+  "wind_noun": {
+    "translation": "vind",
+    "definite": "vinden"
+  },
+  "lieblingssport_noun": {
+    "translation": "favorittsport",
+    "definite": "favorittsporten"
+  },
+  "weitsprung_noun": {
+    "translation": "lengdehopp",
+    "definite": "lengdehoppet"
+  },
+  "meter_noun": {
+    "translation": "meter",
+    "definite": "meteren"
+  },
+  "sekunde_noun": {
+    "translation": "sekund",
+    "definite": "sekundet"
+  },
+  "aufgabe_noun": {
+    "translation": "oppgave",
+    "definite": "oppgaven"
+  },
+  "matheaufgabe_noun": {
+    "translation": "matteoppgave",
+    "definite": "matteoppgaven"
+  },
+  "wahrheit_noun": {
+    "translation": "sannhet",
+    "definite": "sannheten"
+  },
+  "stress_noun": {
+    "translation": "stress",
+    "definite": "stresset"
+  },
+  "lerngruppe_noun": {
+    "translation": "læringsgruppe",
+    "definite": "læringsgruppen"
+  },
+  "notiz_noun": {
+    "translation": "notat",
+    "definite": "notatet"
+  },
+  "biologiebuch_noun": {
+    "translation": "biologibok",
+    "definite": "biologiboken"
+  },
+  "geschichtshausaufgabe_noun": {
+    "translation": "historielekse",
+    "definite": "historieleksen"
+  },
+  "tennis_noun": {
+    "translation": "tennis",
+    "definite": "tennisen"
+  },
+  "sohn_noun": {
+    "translation": "sønn",
+    "definite": "sønnen"
+  },
+  "tochter_noun": {
+    "translation": "datter",
+    "definite": "datteren"
+  },
+  "onkel_noun": {
+    "translation": "onkel",
+    "definite": "onkelen"
+  },
+  "tante_noun": {
+    "translation": "tante",
+    "definite": "tanten"
+  },
+  "cousin_noun": {
+    "translation": "fetter",
+    "definite": "fetteren"
+  },
+  "cousine_noun": {
+    "translation": "kusine",
+    "definite": "kusinen"
+  },
+  "grossvater_noun": {
+    "translation": "bestefar",
+    "definite": "bestefaren"
+  },
+  "grossmutter_noun": {
+    "translation": "bestemor",
+    "definite": "bestemoren"
+  },
+  "kind_noun": {
+    "translation": "barn",
+    "definite": "barnet",
+    "examples": [
+      { "sentence": "Das Kind spielt.", "translation": "Barnet leker." },
+      { "sentence": "Wir haben zwei Kinder.", "translation": "Vi har to barn." },
+      { "sentence": "Die Kinder sind in der Schule.", "translation": "Barna er på skolen." }
+    ]
+  },
+  "ehemann_noun": {
+    "translation": "ektemann",
+    "definite": "ektemannen"
+  },
+  "ehefrau_noun": {
+    "translation": "kone",
+    "definite": "konen"
+  },
+  "tee_noun": {
+    "translation": "te",
+    "definite": "teen",
+    "examples": [
+      { "sentence": "Ich trinke Tee.", "translation": "Jeg drikker te." },
+      { "sentence": "Möchtest du Tee?", "translation": "Vil du ha te?" },
+      { "sentence": "Der Tee ist warm.", "translation": "Teen er varm." }
+    ]
+  },
+  "kaffee_noun": {
+    "translation": "kaffe",
+    "definite": "kaffen",
+    "examples": [
+      { "sentence": "Ich trinke gern Kaffee.", "translation": "Jeg liker å drikke kaffe." },
+      { "sentence": "Möchten Sie einen Kaffee?", "translation": "Vil De ha en kaffe?" },
+      { "sentence": "Der Kaffee ist heiß.", "translation": "Kaffen er varm." }
+    ]
+  },
+  "kartoffel_noun": {
+    "translation": "potet",
+    "definite": "poteten"
+  },
+  "orange_noun": {
+    "translation": "appelsin",
+    "definite": "appelsinen"
+  },
+  "birne_noun": {
+    "translation": "pære",
+    "definite": "pæren"
+  },
+  "suppe_noun": {
+    "translation": "suppe",
+    "definite": "suppen"
+  },
+  "reis_noun": {
+    "translation": "ris",
+    "definite": "risen"
+  },
+  "regen_noun": {
+    "translation": "regn",
+    "definite": "regnet",
+    "examples": [
+      { "sentence": "Es gibt Regen.", "translation": "Det blir regn." },
+      { "sentence": "Ich mag keinen Regen.", "translation": "Jeg liker ikke regn." },
+      { "sentence": "Der Regen hört auf.", "translation": "Regnet stopper." }
+    ]
+  },
+  "schnee_noun": {
+    "translation": "snø",
+    "definite": "snøen",
+    "examples": [
+      { "sentence": "Es schneit! Es gibt Schnee.", "translation": "Det snør! Det kommer snø." },
+      { "sentence": "Der Schnee ist weiß.", "translation": "Snøen er hvit." },
+      { "sentence": "Wir spielen im Schnee.", "translation": "Vi leker i snøen." }
+    ]
+  },
+  "wolke_noun": {
+    "translation": "sky",
+    "definite": "skyen"
+  },
+  "himmel_noun": {
+    "translation": "himmel",
+    "definite": "himmelen"
+  },
+  "gewitter_noun": {
+    "translation": "tordenvær",
+    "definite": "tordenværet"
+  },
+  "nebel_noun": {
+    "translation": "tåke",
+    "definite": "tåken"
+  },
+  "temperatur_noun": {
+    "translation": "temperatur",
+    "definite": "temperaturen"
+  },
+  "grad_noun": {
+    "translation": "grad",
+    "definite": "graden"
+  },
+  "mittag_noun": {
+    "translation": "formiddag / lunsj",
+    "definite": "lunsjen"
+  },
+  "nacht_noun": {
+    "translation": "natt",
+    "definite": "natten",
+    "examples": [
+      { "sentence": "Gute Nacht!", "translation": "God natt!" },
+      { "sentence": "In der Nacht schlafe ich.", "translation": "Om natten sover jeg." },
+      { "sentence": "Die Nacht war lang.", "translation": "Natten var lang." }
+    ]
+  },
+  "klassenkamerad_noun": {
+    "translation": "klassekamerat",
+    "definite": "klassekameraten"
+  },
+  "mathe_noun": {
+    "translation": "matte",
+    "definite": "matten"
+  },
+  "mathehausaufgabe_noun": {
+    "translation": "mattelekse",
+    "definite": "matteleksen"
+  },
+  "musikunterricht_noun": {
+    "translation": "musikkundervisning",
+    "definite": "musikkundervisningen"
+  },
+  "realschule_noun": {
+    "translation": "ungdomsskole (tysk type)",
+    "definite": "ungdomsskolen"
+  },
+  "schuelerin_noun": {
+    "translation": "elev (jente)",
+    "definite": "eleven"
+  },
+  "schuljahr_noun": {
+    "translation": "skoleår",
+    "definite": "skoleåret"
+  },
+  "sportunterricht_noun": {
+    "translation": "gymtime",
+    "definite": "gymtimen"
+  },
+  "ball_noun": {
+    "translation": "ball",
+    "definite": "ballen",
+    "examples": [
+      { "sentence": "Wirf mir den Ball!", "translation": "Kast ballen til meg!" },
+      { "sentence": "Der Ball ist rund.", "translation": "Ballen er rund." },
+      { "sentence": "Wir spielen mit dem Ball.", "translation": "Vi leker med ballen." }
+    ]
+  },
+  "spass_noun": {
+    "translation": "moro",
+    "definite": "moroa",
+    "examples": [
+      { "sentence": "Das macht Spaß!", "translation": "Det er gøy!" },
+      { "sentence": "Wir haben viel Spaß.", "translation": "Vi har det veldig gøy." },
+      { "sentence": "Viel Spaß!", "translation": "Ha det gøy!" }
+    ]
+  },
+  "leute_noun": {
+    "translation": "folk / mennesker"
+  },
+  "das_haustier_noun": {
+    "translation": "kjæledyret"
+  },
+  "januar_noun": {
+    "translation": "januar"
+  },
+  "februar_noun": {
+    "translation": "februar"
+  },
+  "maerz_noun": {
+    "translation": "mars"
+  },
+  "april_noun": {
+    "translation": "april"
+  },
+  "mai_noun": {
+    "translation": "mai"
+  },
+  "juni_noun": {
+    "translation": "juni"
+  },
+  "juli_noun": {
+    "translation": "juli"
+  },
+  "august_noun": {
+    "translation": "august"
+  },
+  "september_noun": {
+    "translation": "september"
+  },
+  "oktober_noun": {
+    "translation": "oktober"
+  },
+  "november_noun": {
+    "translation": "november"
+  },
+  "dezember_noun": {
+    "translation": "desember"
+  },
+  "morgenmensch_noun": {
+    "translation": "morgenfugl"
+  },
+  "pferd_noun": {
+    "translation": "hest"
+  },
+  "kuh_noun": {
+    "translation": "ku"
+  },
+  "schwein_noun": {
+    "translation": "gris"
+  },
+  "huhn_noun": {
+    "translation": "høne/kylling"
+  },
+  "schaf_noun": {
+    "translation": "sau"
+  },
+  "ente_noun": {
+    "translation": "and"
+  },
+  "hase_noun": {
+    "translation": "hare"
+  },
+  "wolf_noun": {
+    "translation": "ulv"
+  },
+  "fuchs_noun": {
+    "translation": "rev"
+  },
+  "schlange_noun": {
+    "translation": "slange"
+  },
+  "schildkroete_noun": {
+    "translation": "skilpadde"
+  },
+  "wecker_noun": {
+    "translation": "vekkerklokke"
+  },
+  "dusche_noun": {
+    "translation": "dusj"
+  },
+  "badezimmer_noun": {
+    "translation": "bad/baderom"
+  },
+  "mittagessen_noun": {
+    "translation": "lunsj/middag"
+  },
+  "zahnbuerste_noun": {
+    "translation": "tannbørste"
+  },
+  "neffe_noun": {
+    "translation": "nevø"
+  },
+  "nichte_noun": {
+    "translation": "niese"
+  },
+  "enkel_noun": {
+    "translation": "barnebarn (gutt)"
+  },
+  "enkelin_noun": {
+    "translation": "barnebarn (jente)"
+  },
+  "baby_noun": {
+    "translation": "baby"
+  },
+  "nachbar_noun": {
+    "translation": "nabo"
+  },
+  "bleistift_noun": {
+    "translation": "blyant"
+  },
+  "kugelschreiber_noun": {
+    "translation": "kulepenn"
+  },
+  "heft_noun": {
+    "translation": "hefte/skrivebok"
+  },
+  "tafel_noun": {
+    "translation": "tavle"
+  },
+  "klassenzimmer_noun": {
+    "translation": "klasserom"
+  },
+  "stundenplan_noun": {
+    "translation": "timeplan"
+  },
+  "basketball_noun": {
+    "translation": "basketball"
+  },
+  "klavier_noun": {
+    "translation": "piano",
+    "definite": "pianoet",
+    "examples": [
+      { "sentence": "Ich spiele Klavier.", "translation": "Jeg spiller piano." },
+      { "sentence": "Das Klavier ist groß.", "translation": "Pianoet er stort." },
+      { "sentence": "Sie übt jeden Tag Klavier.", "translation": "Hun øver piano hver dag." }
+    ]
+  },
+  "fahrrad_noun": {
+    "translation": "sykkel",
+    "definite": "sykkelen",
+    "examples": [
+      { "sentence": "Ich fahre mit dem Fahrrad.", "translation": "Jeg sykler." },
+      { "sentence": "Mein Fahrrad ist neu.", "translation": "Sykkelen min er ny." },
+      { "sentence": "Hast du ein Fahrrad?", "translation": "Har du en sykkel?" }
+    ]
+  },
+  "spiel_noun": {
+    "translation": "spill",
+    "definite": "spillet",
+    "examples": [
+      { "sentence": "Das Spiel ist spannend.", "translation": "Spillet er spennende." },
+      { "sentence": "Wir spielen ein Spiel.", "translation": "Vi spiller et spill." },
+      { "sentence": "Hast du das Spiel gewonnen?", "translation": "Vant du spillet?" }
+    ]
+  },
+  "konzert_noun": {
+    "translation": "konsert",
+    "definite": "konserten",
+    "examples": [
+      { "sentence": "Wir gehen auf ein Konzert.", "translation": "Vi går på konsert." },
+      { "sentence": "Das Konzert war toll.", "translation": "Konserten var fantastisk." },
+      { "sentence": "Ich kaufe Tickets für ein Konzert.", "translation": "Jeg kjøper billetter til en konsert." }
+    ]
+  },
+  "theater_noun": {
+    "translation": "teater",
+    "definite": "teateret",
+    "examples": [
+      { "sentence": "Wir gehen ins Theater.", "translation": "Vi går på teater." },
+      { "sentence": "Das Theater ist in der Stadt.", "translation": "Teateret er i byen." },
+      { "sentence": "Ich mag Theater.", "translation": "Jeg liker teater." }
+    ]
+  },
+  "ueberraschungsparty_noun": {
+    "translation": "overraskelsesfest",
+    "definite": "overraskelsesfesten"
+  },
+  "tshirt_noun": {
+    "translation": "t-skjorte",
+    "definite": "t-skjorten"
+  }
+}

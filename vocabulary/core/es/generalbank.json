@@ -1,0 +1,2172 @@
+{
+  "_metadata": {
+    "description": "Spanish general vocabulary",
+    "purpose": "General vocabulary for Spanish curriculum - adverbs, prepositions, conjunctions, interjections, and phrases",
+    "wordIdSuffix": "_interjeksjon, _frase, _spørreord, _preposisjon, _adverb, _konjunksjon, _utrykk",
+    "keyFields": [
+      "word",
+      "translations",
+      "type"
+    ],
+    "usedBy": [
+      "Flashcards",
+      "Write mode",
+      "Grammar tooltips"
+    ],
+    "note": "Does NOT include: verbs, nouns, adjectives, numbers, pronouns, articles - these have their own banks"
+  },
+  "hola_interj": {
+    "word": "¡Hola!",
+    "type": "interj",
+    "translations": {
+      "nb": "Hei!",
+      "en": "Hello!"
+    },
+    "synonyms": [
+      "¡Buenos días!",
+      "¡Buenas!",
+      "¡Qué tal!"
+    ],
+    "translation_synonyms": {
+      "nb": [
+        "Hei på deg",
+        "God dag"
+      ]
+    }
+  },
+  "adios_interj": {
+    "word": "¡Adiós!",
+    "type": "interj",
+    "translations": {
+      "nb": "Ha det!",
+      "en": "Goodbye!"
+    },
+    "synonyms": [
+      "¡Hasta luego!",
+      "¡Chao!",
+      "¡Nos vemos!"
+    ],
+    "translation_synonyms": {
+      "nb": [
+        "Ha det bra!",
+        "Vi sees!"
+      ]
+    }
+  },
+  "gracias_interj": {
+    "word": "Gracias",
+    "type": "interj",
+    "translations": {
+      "nb": "Takk",
+      "en": "Thank you"
+    },
+    "synonyms": [
+      "Muchas gracias",
+      "Mil gracias"
+    ],
+    "translation_synonyms": {
+      "nb": [
+        "Tusen takk",
+        "Mange takk"
+      ]
+    }
+  },
+  "por_favor_interj": {
+    "word": "Por favor",
+    "type": "interj",
+    "translations": {
+      "nb": "Vær så snill",
+      "en": "Please"
+    }
+  },
+  "si_interj": {
+    "word": "Sí",
+    "type": "interj",
+    "translations": {
+      "nb": "Ja",
+      "en": "Yes"
+    },
+    "synonyms": [
+      "Claro",
+      "Por supuesto",
+      "Vale"
+    ],
+    "translation_synonyms": {
+      "nb": [
+        "Klart",
+        "Selvfølgelig"
+      ]
+    }
+  },
+  "no_interj": {
+    "word": "No",
+    "type": "interj",
+    "translations": {
+      "nb": "Nei",
+      "en": "No"
+    }
+  },
+  "vale_interj": {
+    "word": "Vale",
+    "type": "interj",
+    "translations": {
+      "nb": "Greit / OK",
+      "en": "OK / Alright"
+    },
+    "synonyms": [
+      "De acuerdo",
+      "Está bien"
+    ],
+    "translation_synonyms": {
+      "nb": [
+        "Okei",
+        "I orden"
+      ]
+    }
+  },
+  "claro_interj": {
+    "word": "Claro",
+    "type": "interj",
+    "translations": {
+      "nb": "Klart / Selvfølgelig",
+      "en": "Of course / Sure"
+    },
+    "synonyms": [
+      "Por supuesto",
+      "Desde luego"
+    ],
+    "translation_synonyms": {
+      "nb": [
+        "Jada",
+        "Absolutt"
+      ]
+    }
+  },
+  "genial_interj": {
+    "word": "¡Genial!",
+    "type": "interj",
+    "translations": {
+      "nb": "Fantastisk!",
+      "en": "Great!"
+    },
+    "synonyms": [
+      "¡Estupendo!",
+      "¡Fenomenal!",
+      "¡Maravilloso!"
+    ],
+    "translation_synonyms": {
+      "nb": [
+        "Supert!",
+        "Kjempebra!"
+      ]
+    }
+  },
+  "perdon_interj": {
+    "word": "Perdón",
+    "type": "interj",
+    "translations": {
+      "nb": "Unnskyld",
+      "en": "Sorry / Excuse me"
+    },
+    "synonyms": [
+      "Disculpa",
+      "Lo siento"
+    ],
+    "translation_synonyms": {
+      "nb": [
+        "Beklager",
+        "Unnskyld meg"
+      ]
+    }
+  },
+  "lo_siento_interj": {
+    "word": "Lo siento",
+    "type": "interj",
+    "translations": {
+      "nb": "Beklager / Unnskyld",
+      "en": "I'm sorry"
+    }
+  },
+  "salud_interj": {
+    "word": "¡Salud!",
+    "type": "interj",
+    "translations": {
+      "nb": "Skål! / Prosit!",
+      "en": "Cheers! / Bless you!"
+    }
+  },
+  "enhorabuena_interj": {
+    "word": "¡Enhorabuena!",
+    "type": "interj",
+    "translations": {
+      "nb": "Gratulerer!",
+      "en": "Congratulations!"
+    },
+    "synonyms": [
+      "¡Felicidades!",
+      "¡Felicitaciones!"
+    ]
+  },
+  "bienvenido_interj": {
+    "word": "¡Bienvenido!",
+    "type": "interj",
+    "translations": {
+      "nb": "Velkommen!",
+      "en": "Welcome!"
+    }
+  },
+  "como_te_llamas_phrase": {
+    "word": "¿Cómo te llamas?",
+    "type": "phrase",
+    "translations": {
+      "nb": "Hva heter du?",
+      "en": "What is your name?"
+    }
+  },
+  "me_llamo_phrase": {
+    "word": "Me llamo...",
+    "type": "phrase",
+    "translations": {
+      "nb": "Jeg heter...",
+      "en": "My name is..."
+    }
+  },
+  "buenos_dias_phrase": {
+    "word": "Buenos días",
+    "type": "phrase",
+    "translations": {
+      "nb": "God morgen",
+      "en": "Good morning"
+    }
+  },
+  "buenas_tardes_phrase": {
+    "word": "Buenas tardes",
+    "type": "phrase",
+    "translations": {
+      "nb": "God ettermiddag",
+      "en": "Good afternoon"
+    }
+  },
+  "buenas_noches_phrase": {
+    "word": "Buenas noches",
+    "type": "phrase",
+    "translations": {
+      "nb": "God kveld / God natt",
+      "en": "Good evening / Good night"
+    }
+  },
+  "de_nada_phrase": {
+    "word": "De nada",
+    "type": "phrase",
+    "translations": {
+      "nb": "Bare hyggelig / Ingen årsak",
+      "en": "You're welcome"
+    }
+  },
+  "soy_de_phrase": {
+    "word": "Soy de...",
+    "type": "phrase",
+    "translations": {
+      "nb": "Jeg er fra...",
+      "en": "I am from..."
+    }
+  },
+  "de_donde_eres_phrase": {
+    "word": "¿De dónde eres?",
+    "type": "phrase",
+    "translations": {
+      "nb": "Hvor kommer du fra?",
+      "en": "Where are you from?"
+    }
+  },
+  "cuantos_anos_tienes_phrase": {
+    "word": "¿Cuántos años tienes?",
+    "type": "phrase",
+    "translations": {
+      "nb": "Hvor gammel er du?",
+      "en": "How old are you?"
+    }
+  },
+  "tengo_anos_phrase": {
+    "word": "Tengo ... años",
+    "type": "phrase",
+    "translations": {
+      "nb": "Jeg er ... år",
+      "en": "I am ... years old"
+    }
+  },
+  "que_tal_phrase": {
+    "word": "¿Qué tal?",
+    "type": "phrase",
+    "translations": {
+      "nb": "Hvordan går det?",
+      "en": "How's it going?"
+    }
+  },
+  "como_estas_phrase": {
+    "word": "¿Cómo estás?",
+    "type": "phrase",
+    "translations": {
+      "nb": "Hvordan har du det?",
+      "en": "How are you?"
+    }
+  },
+  "muy_bien_phrase": {
+    "word": "Muy bien",
+    "type": "phrase",
+    "translations": {
+      "nb": "Veldig bra",
+      "en": "Very well"
+    }
+  },
+  "mas_o_menos_phrase": {
+    "word": "Más o menos",
+    "type": "phrase",
+    "translations": {
+      "nb": "Sånn passe",
+      "en": "So-so"
+    }
+  },
+  "que_hora_es_phrase": {
+    "word": "¿Qué hora es?",
+    "type": "phrase",
+    "translations": {
+      "nb": "Hva er klokka?",
+      "en": "What time is it?"
+    }
+  },
+  "es_la_una_phrase": {
+    "word": "Es la una",
+    "type": "phrase",
+    "translations": {
+      "nb": "Klokka er ett",
+      "en": "It's one o'clock"
+    }
+  },
+  "son_las_dos_phrase": {
+    "word": "Son las dos",
+    "type": "phrase",
+    "translations": {
+      "nb": "Klokka er to",
+      "en": "It's two o'clock"
+    }
+  },
+  "y_cuarto_phrase": {
+    "word": "y cuarto",
+    "type": "phrase",
+    "translations": {
+      "nb": "kvart over",
+      "en": "quarter past"
+    }
+  },
+  "y_media_phrase": {
+    "word": "y media",
+    "type": "phrase",
+    "translations": {
+      "nb": "halv (30 minutter over)",
+      "en": "half past"
+    }
+  },
+  "menos_cuarto_phrase": {
+    "word": "menos cuarto",
+    "type": "phrase",
+    "translations": {
+      "nb": "kvart på",
+      "en": "quarter to"
+    }
+  },
+  "hasta_luego_phrase": {
+    "word": "Hasta luego",
+    "type": "phrase",
+    "translations": {
+      "nb": "Vi sees senere",
+      "en": "See you later"
+    }
+  },
+  "hasta_manana_phrase": {
+    "word": "Hasta mañana",
+    "type": "phrase",
+    "translations": {
+      "nb": "Vi sees i morgen",
+      "en": "See you tomorrow"
+    }
+  },
+  "hasta_pronto_phrase": {
+    "word": "Hasta pronto",
+    "type": "phrase",
+    "translations": {
+      "nb": "Vi sees snart",
+      "en": "See you soon"
+    }
+  },
+  "mucho_gusto_phrase": {
+    "word": "Mucho gusto",
+    "type": "phrase",
+    "translations": {
+      "nb": "Hyggelig å møte deg",
+      "en": "Nice to meet you"
+    },
+    "synonyms": [
+      "Encantado/a",
+      "Es un placer"
+    ]
+  },
+  "que_significa_phrase": {
+    "word": "¿Qué significa...?",
+    "type": "phrase",
+    "translations": {
+      "nb": "Hva betyr...?",
+      "en": "What does ... mean?"
+    }
+  },
+  "no_entiendo_phrase": {
+    "word": "No entiendo",
+    "type": "phrase",
+    "translations": {
+      "nb": "Jeg forstår ikke",
+      "en": "I don't understand"
+    }
+  },
+  "puede_repetir_phrase": {
+    "word": "¿Puede repetir?",
+    "type": "phrase",
+    "translations": {
+      "nb": "Kan du gjenta?",
+      "en": "Can you repeat?"
+    }
+  },
+  "mas_despacio_phrase": {
+    "word": "Más despacio, por favor",
+    "type": "phrase",
+    "translations": {
+      "nb": "Langsommere, vær så snill",
+      "en": "More slowly, please"
+    }
+  },
+  "como_se_dice_phrase": {
+    "word": "¿Cómo se dice...?",
+    "type": "phrase",
+    "translations": {
+      "nb": "Hvordan sier man...?",
+      "en": "How do you say...?"
+    }
+  },
+  "tengo_una_pregunta_phrase": {
+    "word": "Tengo una pregunta",
+    "type": "phrase",
+    "translations": {
+      "nb": "Jeg har et spørsmål",
+      "en": "I have a question"
+    }
+  },
+  "me_gusta_phrase": {
+    "word": "Me gusta",
+    "type": "phrase",
+    "translations": {
+      "nb": "Jeg liker",
+      "en": "I like"
+    }
+  },
+  "no_me_gusta_phrase": {
+    "word": "No me gusta",
+    "type": "phrase",
+    "translations": {
+      "nb": "Jeg liker ikke",
+      "en": "I don't like"
+    }
+  },
+  "me_encanta_phrase": {
+    "word": "Me encanta",
+    "type": "phrase",
+    "translations": {
+      "nb": "Jeg elsker det",
+      "en": "I love it"
+    }
+  },
+  "en_mi_opinion_phrase": {
+    "word": "En mi opinión",
+    "type": "phrase",
+    "translations": {
+      "nb": "Etter min mening",
+      "en": "In my opinion"
+    }
+  },
+  "creo_que_phrase": {
+    "word": "Creo que...",
+    "type": "phrase",
+    "translations": {
+      "nb": "Jeg tror at...",
+      "en": "I think that..."
+    }
+  },
+  "pienso_que_phrase": {
+    "word": "Pienso que...",
+    "type": "phrase",
+    "translations": {
+      "nb": "Jeg mener at...",
+      "en": "I think that..."
+    }
+  },
+  "a_mi_me_parece_phrase": {
+    "word": "A mí me parece que...",
+    "type": "phrase",
+    "translations": {
+      "nb": "Det virker for meg som...",
+      "en": "It seems to me that..."
+    }
+  },
+  "por_ejemplo_phrase": {
+    "word": "Por ejemplo",
+    "type": "phrase",
+    "translations": {
+      "nb": "For eksempel",
+      "en": "For example"
+    }
+  },
+  "en_primer_lugar_phrase": {
+    "word": "En primer lugar",
+    "type": "phrase",
+    "translations": {
+      "nb": "For det første",
+      "en": "Firstly"
+    }
+  },
+  "por_un_lado_phrase": {
+    "word": "Por un lado",
+    "type": "phrase",
+    "translations": {
+      "nb": "På den ene siden",
+      "en": "On one hand"
+    }
+  },
+  "por_otro_lado_phrase": {
+    "word": "Por otro lado",
+    "type": "phrase",
+    "translations": {
+      "nb": "På den andre siden",
+      "en": "On the other hand"
+    }
+  },
+  "en_conclusion_phrase": {
+    "word": "En conclusión",
+    "type": "phrase",
+    "translations": {
+      "nb": "Som konklusjon",
+      "en": "In conclusion"
+    }
+  },
+  "es_decir_phrase": {
+    "word": "Es decir",
+    "type": "phrase",
+    "translations": {
+      "nb": "Det vil si",
+      "en": "That is to say"
+    }
+  },
+  "sin_embargo_phrase": {
+    "word": "Sin embargo",
+    "type": "phrase",
+    "translations": {
+      "nb": "Likevel",
+      "en": "However"
+    }
+  },
+  "en_cambio_phrase": {
+    "word": "En cambio",
+    "type": "phrase",
+    "translations": {
+      "nb": "Derimot",
+      "en": "On the other hand"
+    }
+  },
+  "por_eso_phrase": {
+    "word": "Por eso",
+    "type": "phrase",
+    "translations": {
+      "nb": "Derfor",
+      "en": "That's why"
+    }
+  },
+  "ademas_phrase": {
+    "word": "Además",
+    "type": "phrase",
+    "translations": {
+      "nb": "Dessuten",
+      "en": "Besides / Furthermore"
+    }
+  },
+  "al_final_phrase": {
+    "word": "Al final",
+    "type": "phrase",
+    "translations": {
+      "nb": "Til slutt",
+      "en": "In the end"
+    }
+  },
+  "hace_buen_tiempo_phrase": {
+    "word": "Hace buen tiempo",
+    "type": "phrase",
+    "translations": {
+      "nb": "Det er fint vær",
+      "en": "The weather is good"
+    }
+  },
+  "hace_mal_tiempo_phrase": {
+    "word": "Hace mal tiempo",
+    "type": "phrase",
+    "translations": {
+      "nb": "Det er dårlig vær",
+      "en": "The weather is bad"
+    }
+  },
+  "hace_frio_phrase": {
+    "word": "Hace frío",
+    "type": "phrase",
+    "translations": {
+      "nb": "Det er kaldt",
+      "en": "It's cold"
+    }
+  },
+  "hace_calor_phrase": {
+    "word": "Hace calor",
+    "type": "phrase",
+    "translations": {
+      "nb": "Det er varmt",
+      "en": "It's hot"
+    }
+  },
+  "hace_sol_phrase": {
+    "word": "Hace sol",
+    "type": "phrase",
+    "translations": {
+      "nb": "Solen skinner",
+      "en": "It's sunny"
+    }
+  },
+  "llueve_phrase": {
+    "word": "Llueve",
+    "type": "phrase",
+    "translations": {
+      "nb": "Det regner",
+      "en": "It's raining"
+    }
+  },
+  "nieva_phrase": {
+    "word": "Nieva",
+    "type": "phrase",
+    "translations": {
+      "nb": "Det snør",
+      "en": "It's snowing"
+    }
+  },
+  "tengo_hambre_phrase": {
+    "word": "Tengo hambre",
+    "type": "phrase",
+    "translations": {
+      "nb": "Jeg er sulten",
+      "en": "I'm hungry"
+    }
+  },
+  "tengo_sed_phrase": {
+    "word": "Tengo sed",
+    "type": "phrase",
+    "translations": {
+      "nb": "Jeg er tørst",
+      "en": "I'm thirsty"
+    }
+  },
+  "tengo_sueno_phrase": {
+    "word": "Tengo sueño",
+    "type": "phrase",
+    "translations": {
+      "nb": "Jeg er søvnig",
+      "en": "I'm sleepy"
+    }
+  },
+  "tengo_frio_phrase": {
+    "word": "Tengo frío",
+    "type": "phrase",
+    "translations": {
+      "nb": "Jeg fryser",
+      "en": "I'm cold"
+    }
+  },
+  "tengo_calor_phrase": {
+    "word": "Tengo calor",
+    "type": "phrase",
+    "translations": {
+      "nb": "Jeg er varm",
+      "en": "I'm hot"
+    }
+  },
+  "tengo_prisa_phrase": {
+    "word": "Tengo prisa",
+    "type": "phrase",
+    "translations": {
+      "nb": "Jeg har det travelt",
+      "en": "I'm in a hurry"
+    }
+  },
+  "tengo_razon_phrase": {
+    "word": "Tengo razón",
+    "type": "phrase",
+    "translations": {
+      "nb": "Jeg har rett",
+      "en": "I'm right"
+    }
+  },
+  "tengo_miedo_phrase": {
+    "word": "Tengo miedo",
+    "type": "phrase",
+    "translations": {
+      "nb": "Jeg er redd",
+      "en": "I'm afraid"
+    }
+  },
+  "hay_phrase": {
+    "word": "Hay",
+    "type": "phrase",
+    "translations": {
+      "nb": "Det finnes / Det er",
+      "en": "There is / There are"
+    }
+  },
+  "no_hay_phrase": {
+    "word": "No hay",
+    "type": "phrase",
+    "translations": {
+      "nb": "Det finnes ikke",
+      "en": "There isn't / There aren't"
+    }
+  },
+  "que_hay_phrase": {
+    "word": "¿Qué hay?",
+    "type": "phrase",
+    "translations": {
+      "nb": "Hva er det? / Hva skjer?",
+      "en": "What's up?"
+    }
+  },
+  "hace_falta_phrase": {
+    "word": "Hace falta",
+    "type": "phrase",
+    "translations": {
+      "nb": "Det trengs",
+      "en": "It's needed"
+    }
+  },
+  "ir_de_compras_phrase": {
+    "word": "Ir de compras",
+    "type": "phrase",
+    "translations": {
+      "nb": "Å gå og handle",
+      "en": "To go shopping"
+    }
+  },
+  "dar_un_paseo_phrase": {
+    "word": "Dar un paseo",
+    "type": "phrase",
+    "translations": {
+      "nb": "Å gå en tur",
+      "en": "To take a walk"
+    }
+  },
+  "tomar_el_sol_phrase": {
+    "word": "Tomar el sol",
+    "type": "phrase",
+    "translations": {
+      "nb": "Å sole seg",
+      "en": "To sunbathe"
+    }
+  },
+  "pasarlo_bien_phrase": {
+    "word": "Pasarlo bien",
+    "type": "phrase",
+    "translations": {
+      "nb": "Å ha det gøy",
+      "en": "To have a good time"
+    }
+  },
+  "echar_de_menos_phrase": {
+    "word": "Echar de menos",
+    "type": "phrase",
+    "translations": {
+      "nb": "Å savne",
+      "en": "To miss"
+    }
+  },
+  "tener_ganas_de_phrase": {
+    "word": "Tener ganas de",
+    "type": "phrase",
+    "translations": {
+      "nb": "Å ha lyst til",
+      "en": "To feel like"
+    }
+  },
+  "llevarse_bien_phrase": {
+    "word": "Llevarse bien",
+    "type": "phrase",
+    "translations": {
+      "nb": "Å komme godt overens",
+      "en": "To get along well"
+    }
+  },
+  "feliz_cumpleanos_phrase": {
+    "word": "¡Feliz cumpleaños!",
+    "type": "phrase",
+    "translations": {
+      "nb": "Gratulerer med dagen!",
+      "en": "Happy birthday!"
+    }
+  },
+  "feliz_navidad_phrase": {
+    "word": "¡Feliz Navidad!",
+    "type": "phrase",
+    "translations": {
+      "nb": "God jul!",
+      "en": "Merry Christmas!"
+    }
+  },
+  "feliz_ano_nuevo_phrase": {
+    "word": "¡Feliz Año Nuevo!",
+    "type": "phrase",
+    "translations": {
+      "nb": "Godt nytt år!",
+      "en": "Happy New Year!"
+    }
+  },
+  "buen_provecho_phrase": {
+    "word": "¡Buen provecho!",
+    "type": "phrase",
+    "translations": {
+      "nb": "Vel bekomme!",
+      "en": "Enjoy your meal!"
+    }
+  },
+  "buena_suerte_phrase": {
+    "word": "¡Buena suerte!",
+    "type": "phrase",
+    "translations": {
+      "nb": "Lykke til!",
+      "en": "Good luck!"
+    }
+  },
+  "que_tengas_un_buen_dia_phrase": {
+    "word": "¡Que tengas un buen día!",
+    "type": "phrase",
+    "translations": {
+      "nb": "Ha en fin dag!",
+      "en": "Have a good day!"
+    }
+  },
+  "que_duermas_bien_phrase": {
+    "word": "¡Que duermas bien!",
+    "type": "phrase",
+    "translations": {
+      "nb": "Sov godt!",
+      "en": "Sleep well!"
+    }
+  },
+  "que_interr": {
+    "word": "Qué",
+    "type": "interr",
+    "translations": {
+      "nb": "Hva",
+      "en": "What"
+    }
+  },
+  "donde_interr": {
+    "word": "Dónde",
+    "type": "interr",
+    "translations": {
+      "nb": "Hvor",
+      "en": "Where"
+    }
+  },
+  "cuando_interr": {
+    "word": "Cuándo",
+    "type": "interr",
+    "translations": {
+      "nb": "Når",
+      "en": "When"
+    }
+  },
+  "como_interr": {
+    "word": "Cómo",
+    "type": "interr",
+    "translations": {
+      "nb": "Hvordan",
+      "en": "How"
+    }
+  },
+  "por_que_interr": {
+    "word": "Por qué",
+    "type": "interr",
+    "translations": {
+      "nb": "Hvorfor",
+      "en": "Why"
+    }
+  },
+  "quien_interr": {
+    "word": "Quién",
+    "type": "interr",
+    "translations": {
+      "nb": "Hvem",
+      "en": "Who"
+    }
+  },
+  "cual_interr": {
+    "word": "Cuál",
+    "type": "interr",
+    "translations": {
+      "nb": "Hvilken",
+      "en": "Which"
+    }
+  },
+  "cuanto_interr": {
+    "word": "Cuánto",
+    "type": "interr",
+    "translations": {
+      "nb": "Hvor mye",
+      "en": "How much"
+    }
+  },
+  "cuantos_interr": {
+    "word": "Cuántos",
+    "type": "interr",
+    "translations": {
+      "nb": "Hvor mange",
+      "en": "How many"
+    }
+  },
+  "adonde_interr": {
+    "word": "Adónde",
+    "type": "interr",
+    "translations": {
+      "nb": "Hvor hen",
+      "en": "Where to"
+    }
+  },
+  "y_conj": {
+    "word": "y",
+    "type": "conj",
+    "translations": {
+      "nb": "og",
+      "en": "and"
+    },
+    "explanations": {
+      "nb": {
+        "_description": "Endres til 'e' foran ord som begynner med 'i' eller 'hi' (f.eks. 'padre e hijo')"
+      }
+    }
+  },
+  "o_conj": {
+    "word": "o",
+    "type": "conj",
+    "translations": {
+      "nb": "eller",
+      "en": "or"
+    },
+    "explanations": {
+      "nb": {
+        "_description": "Endres til 'u' foran ord som begynner med 'o' eller 'ho'"
+      }
+    }
+  },
+  "pero_conj": {
+    "word": "pero",
+    "type": "conj",
+    "translations": {
+      "nb": "men",
+      "en": "but"
+    }
+  },
+  "sino_conj": {
+    "word": "sino",
+    "type": "conj",
+    "translations": {
+      "nb": "men (etter nektelse)",
+      "en": "but rather"
+    },
+    "explanations": {
+      "nb": {
+        "_description": "Brukes etter nektelse for å introdusere en kontrast. F.eks. 'No es rojo, sino azul' (Det er ikke rødt, men blått)"
+      }
+    }
+  },
+  "porque_conj": {
+    "word": "porque",
+    "type": "conj",
+    "translations": {
+      "nb": "fordi",
+      "en": "because"
+    }
+  },
+  "que_conj": {
+    "word": "que",
+    "type": "conj",
+    "translations": {
+      "nb": "at",
+      "en": "that"
+    }
+  },
+  "si_conj": {
+    "word": "si",
+    "type": "conj",
+    "translations": {
+      "nb": "hvis / om",
+      "en": "if"
+    }
+  },
+  "cuando_conj": {
+    "word": "cuando",
+    "type": "conj",
+    "translations": {
+      "nb": "når",
+      "en": "when"
+    }
+  },
+  "mientras_conj": {
+    "word": "mientras",
+    "type": "conj",
+    "translations": {
+      "nb": "mens",
+      "en": "while"
+    }
+  },
+  "aunque_conj": {
+    "word": "aunque",
+    "type": "conj",
+    "translations": {
+      "nb": "selv om",
+      "en": "although"
+    }
+  },
+  "como_conj": {
+    "word": "como",
+    "type": "conj",
+    "translations": {
+      "nb": "som / siden",
+      "en": "as / since"
+    }
+  },
+  "pues_conj": {
+    "word": "pues",
+    "type": "conj",
+    "translations": {
+      "nb": "vel / altså",
+      "en": "well / so"
+    }
+  },
+  "ni_conj": {
+    "word": "ni",
+    "type": "conj",
+    "translations": {
+      "nb": "verken / heller ikke",
+      "en": "neither / nor"
+    }
+  },
+  "tanto_como_conj": {
+    "word": "tanto ... como",
+    "type": "conj",
+    "translations": {
+      "nb": "både ... og",
+      "en": "both ... and"
+    }
+  },
+  "a_prep": {
+    "word": "a",
+    "type": "prep",
+    "translations": {
+      "nb": "til / på",
+      "en": "to / at"
+    },
+    "explanations": {
+      "nb": {
+        "_description": "Brukes ved bevegelse til et sted (voy a la escuela), før personobjekt (veo a mi madre), og med klokkeslett (a las tres)"
+      }
+    }
+  },
+  "de_prep": {
+    "word": "de",
+    "type": "prep",
+    "translations": {
+      "nb": "av / fra",
+      "en": "of / from"
+    }
+  },
+  "en_prep": {
+    "word": "en",
+    "type": "prep",
+    "translations": {
+      "nb": "i / på",
+      "en": "in / on"
+    }
+  },
+  "con_prep": {
+    "word": "con",
+    "type": "prep",
+    "translations": {
+      "nb": "med",
+      "en": "with"
+    }
+  },
+  "sin_prep": {
+    "word": "sin",
+    "type": "prep",
+    "translations": {
+      "nb": "uten",
+      "en": "without"
+    }
+  },
+  "para_prep": {
+    "word": "para",
+    "type": "prep",
+    "translations": {
+      "nb": "for / til",
+      "en": "for / to"
+    },
+    "explanations": {
+      "nb": {
+        "_description": "Brukes for formål, mottaker, eller retning. F.eks. 'un regalo para ti' (en gave til deg)"
+      }
+    }
+  },
+  "por_prep": {
+    "word": "por",
+    "type": "prep",
+    "translations": {
+      "nb": "for / gjennom / på grunn av",
+      "en": "for / through / because of"
+    },
+    "explanations": {
+      "nb": {
+        "_description": "Brukes for årsak, tidsrom, eller bevegelse gjennom. F.eks. 'por la mañana' (om morgenen)"
+      }
+    }
+  },
+  "sobre_prep": {
+    "word": "sobre",
+    "type": "prep",
+    "translations": {
+      "nb": "på / om / over",
+      "en": "on / about / over"
+    }
+  },
+  "entre_prep": {
+    "word": "entre",
+    "type": "prep",
+    "translations": {
+      "nb": "mellom",
+      "en": "between"
+    }
+  },
+  "hasta_prep": {
+    "word": "hasta",
+    "type": "prep",
+    "translations": {
+      "nb": "til / inntil",
+      "en": "until / up to"
+    }
+  },
+  "desde_prep": {
+    "word": "desde",
+    "type": "prep",
+    "translations": {
+      "nb": "fra / siden",
+      "en": "from / since"
+    }
+  },
+  "hacia_prep": {
+    "word": "hacia",
+    "type": "prep",
+    "translations": {
+      "nb": "mot",
+      "en": "towards"
+    }
+  },
+  "ante_prep": {
+    "word": "ante",
+    "type": "prep",
+    "translations": {
+      "nb": "foran / overfor",
+      "en": "before / in front of"
+    }
+  },
+  "bajo_prep": {
+    "word": "bajo",
+    "type": "prep",
+    "translations": {
+      "nb": "under",
+      "en": "under"
+    }
+  },
+  "tras_prep": {
+    "word": "tras",
+    "type": "prep",
+    "translations": {
+      "nb": "etter / bak",
+      "en": "after / behind"
+    }
+  },
+  "segun_prep": {
+    "word": "según",
+    "type": "prep",
+    "translations": {
+      "nb": "ifølge",
+      "en": "according to"
+    }
+  },
+  "contra_prep": {
+    "word": "contra",
+    "type": "prep",
+    "translations": {
+      "nb": "mot / imot",
+      "en": "against"
+    }
+  },
+  "durante_prep": {
+    "word": "durante",
+    "type": "prep",
+    "translations": {
+      "nb": "i løpet av / under",
+      "en": "during"
+    }
+  },
+  "delante_de_prep": {
+    "word": "delante de",
+    "type": "prep",
+    "translations": {
+      "nb": "foran",
+      "en": "in front of"
+    }
+  },
+  "detras_de_prep": {
+    "word": "detrás de",
+    "type": "prep",
+    "translations": {
+      "nb": "bak",
+      "en": "behind"
+    }
+  },
+  "encima_de_prep": {
+    "word": "encima de",
+    "type": "prep",
+    "translations": {
+      "nb": "oppå",
+      "en": "on top of"
+    }
+  },
+  "debajo_de_prep": {
+    "word": "debajo de",
+    "type": "prep",
+    "translations": {
+      "nb": "under",
+      "en": "under"
+    }
+  },
+  "al_lado_de_prep": {
+    "word": "al lado de",
+    "type": "prep",
+    "translations": {
+      "nb": "ved siden av",
+      "en": "next to"
+    }
+  },
+  "cerca_de_prep": {
+    "word": "cerca de",
+    "type": "prep",
+    "translations": {
+      "nb": "nær / i nærheten av",
+      "en": "near / close to"
+    }
+  },
+  "lejos_de_prep": {
+    "word": "lejos de",
+    "type": "prep",
+    "translations": {
+      "nb": "langt fra",
+      "en": "far from"
+    }
+  },
+  "enfrente_de_prep": {
+    "word": "enfrente de",
+    "type": "prep",
+    "translations": {
+      "nb": "overfor",
+      "en": "opposite"
+    }
+  },
+  "dentro_de_prep": {
+    "word": "dentro de",
+    "type": "prep",
+    "translations": {
+      "nb": "inni / om (tid)",
+      "en": "inside / within"
+    }
+  },
+  "fuera_de_prep": {
+    "word": "fuera de",
+    "type": "prep",
+    "translations": {
+      "nb": "utenfor",
+      "en": "outside of"
+    }
+  },
+  "alrededor_de_prep": {
+    "word": "alrededor de",
+    "type": "prep",
+    "translations": {
+      "nb": "rundt",
+      "en": "around"
+    }
+  },
+  "muy_adv": {
+    "word": "muy",
+    "type": "adv",
+    "translations": {
+      "nb": "veldig",
+      "en": "very"
+    }
+  },
+  "bien_adv": {
+    "word": "bien",
+    "type": "adv",
+    "translations": {
+      "nb": "bra / godt",
+      "en": "well"
+    }
+  },
+  "mal_adv": {
+    "word": "mal",
+    "type": "adv",
+    "translations": {
+      "nb": "dårlig",
+      "en": "badly"
+    }
+  },
+  "mucho_adv": {
+    "word": "mucho",
+    "type": "adv",
+    "translations": {
+      "nb": "mye",
+      "en": "much / a lot"
+    }
+  },
+  "poco_adv": {
+    "word": "poco",
+    "type": "adv",
+    "translations": {
+      "nb": "lite",
+      "en": "little"
+    }
+  },
+  "mas_adv": {
+    "word": "más",
+    "type": "adv",
+    "translations": {
+      "nb": "mer",
+      "en": "more"
+    }
+  },
+  "menos_adv": {
+    "word": "menos",
+    "type": "adv",
+    "translations": {
+      "nb": "mindre",
+      "en": "less"
+    }
+  },
+  "tambien_adv": {
+    "word": "también",
+    "type": "adv",
+    "translations": {
+      "nb": "også",
+      "en": "also"
+    }
+  },
+  "tampoco_adv": {
+    "word": "tampoco",
+    "type": "adv",
+    "translations": {
+      "nb": "heller ikke",
+      "en": "neither / either"
+    }
+  },
+  "aqui_adv": {
+    "word": "aquí",
+    "type": "adv",
+    "translations": {
+      "nb": "her",
+      "en": "here"
+    }
+  },
+  "ahi_adv": {
+    "word": "ahí",
+    "type": "adv",
+    "translations": {
+      "nb": "der",
+      "en": "there"
+    }
+  },
+  "alli_adv": {
+    "word": "allí",
+    "type": "adv",
+    "translations": {
+      "nb": "der borte",
+      "en": "over there"
+    }
+  },
+  "ahora_adv": {
+    "word": "ahora",
+    "type": "adv",
+    "translations": {
+      "nb": "nå",
+      "en": "now"
+    }
+  },
+  "hoy_adv": {
+    "word": "hoy",
+    "type": "adv",
+    "translations": {
+      "nb": "i dag",
+      "en": "today"
+    }
+  },
+  "manana_adv": {
+    "word": "mañana",
+    "type": "adv",
+    "translations": {
+      "nb": "i morgen",
+      "en": "tomorrow"
+    }
+  },
+  "ayer_adv": {
+    "word": "ayer",
+    "type": "adv",
+    "translations": {
+      "nb": "i går",
+      "en": "yesterday"
+    }
+  },
+  "siempre_adv": {
+    "word": "siempre",
+    "type": "adv",
+    "translations": {
+      "nb": "alltid",
+      "en": "always"
+    }
+  },
+  "nunca_adv": {
+    "word": "nunca",
+    "type": "adv",
+    "translations": {
+      "nb": "aldri",
+      "en": "never"
+    }
+  },
+  "a_veces_adv": {
+    "word": "a veces",
+    "type": "adv",
+    "translations": {
+      "nb": "noen ganger",
+      "en": "sometimes"
+    }
+  },
+  "a_menudo_adv": {
+    "word": "a menudo",
+    "type": "adv",
+    "translations": {
+      "nb": "ofte",
+      "en": "often"
+    }
+  },
+  "casi_adv": {
+    "word": "casi",
+    "type": "adv",
+    "translations": {
+      "nb": "nesten",
+      "en": "almost"
+    }
+  },
+  "ya_adv": {
+    "word": "ya",
+    "type": "adv",
+    "translations": {
+      "nb": "allerede",
+      "en": "already"
+    }
+  },
+  "todavia_adv": {
+    "word": "todavía",
+    "type": "adv",
+    "translations": {
+      "nb": "ennå / fortsatt",
+      "en": "still / yet"
+    }
+  },
+  "aun_adv": {
+    "word": "aún",
+    "type": "adv",
+    "translations": {
+      "nb": "ennå / selv",
+      "en": "still / even"
+    }
+  },
+  "pronto_adv": {
+    "word": "pronto",
+    "type": "adv",
+    "translations": {
+      "nb": "snart",
+      "en": "soon"
+    }
+  },
+  "tarde_adv": {
+    "word": "tarde",
+    "type": "adv",
+    "translations": {
+      "nb": "sent",
+      "en": "late"
+    }
+  },
+  "temprano_adv": {
+    "word": "temprano",
+    "type": "adv",
+    "translations": {
+      "nb": "tidlig",
+      "en": "early"
+    }
+  },
+  "despacio_adv": {
+    "word": "despacio",
+    "type": "adv",
+    "translations": {
+      "nb": "sakte",
+      "en": "slowly"
+    }
+  },
+  "rapido_adv": {
+    "word": "rápido",
+    "type": "adv",
+    "translations": {
+      "nb": "raskt",
+      "en": "fast / quickly"
+    }
+  },
+  "solo_adv": {
+    "word": "solo",
+    "type": "adv",
+    "translations": {
+      "nb": "bare / kun",
+      "en": "only"
+    }
+  },
+  "juntos_adv": {
+    "word": "juntos",
+    "type": "adv",
+    "translations": {
+      "nb": "sammen",
+      "en": "together"
+    }
+  },
+  "quiza_adv": {
+    "word": "quizá(s)",
+    "type": "adv",
+    "translations": {
+      "nb": "kanskje",
+      "en": "maybe"
+    }
+  },
+  "tal_vez_adv": {
+    "word": "tal vez",
+    "type": "adv",
+    "translations": {
+      "nb": "kanskje",
+      "en": "perhaps"
+    }
+  },
+  "realmente_adv": {
+    "word": "realmente",
+    "type": "adv",
+    "translations": {
+      "nb": "virkelig",
+      "en": "really"
+    }
+  },
+  "seguramente_adv": {
+    "word": "seguramente",
+    "type": "adv",
+    "translations": {
+      "nb": "sikkert",
+      "en": "surely"
+    }
+  },
+  "normalmente_adv": {
+    "word": "normalmente",
+    "type": "adv",
+    "translations": {
+      "nb": "vanligvis",
+      "en": "normally"
+    }
+  },
+  "generalmente_adv": {
+    "word": "generalmente",
+    "type": "adv",
+    "translations": {
+      "nb": "generelt",
+      "en": "generally"
+    }
+  },
+  "especialmente_adv": {
+    "word": "especialmente",
+    "type": "adv",
+    "translations": {
+      "nb": "spesielt",
+      "en": "especially"
+    }
+  },
+  "solamente_adv": {
+    "word": "solamente",
+    "type": "adv",
+    "translations": {
+      "nb": "bare / kun",
+      "en": "only"
+    }
+  },
+  "completamente_adv": {
+    "word": "completamente",
+    "type": "adv",
+    "translations": {
+      "nb": "helt / fullstendig",
+      "en": "completely"
+    }
+  },
+  "finalmente_adv": {
+    "word": "finalmente",
+    "type": "adv",
+    "translations": {
+      "nb": "endelig / til slutt",
+      "en": "finally"
+    }
+  },
+  "desafortunadamente_adv": {
+    "word": "desafortunadamente",
+    "type": "adv",
+    "translations": {
+      "nb": "dessverre",
+      "en": "unfortunately"
+    }
+  },
+  "afortunadamente_adv": {
+    "word": "afortunadamente",
+    "type": "adv",
+    "translations": {
+      "nb": "heldigvis",
+      "en": "fortunately"
+    }
+  },
+  "primero_adv": {
+    "word": "primero",
+    "type": "adv",
+    "translations": {
+      "nb": "først",
+      "en": "first"
+    }
+  },
+  "luego_adv": {
+    "word": "luego",
+    "type": "adv",
+    "translations": {
+      "nb": "så / etterpå",
+      "en": "then / later"
+    }
+  },
+  "despues_adv": {
+    "word": "después",
+    "type": "adv",
+    "translations": {
+      "nb": "etterpå / siden",
+      "en": "after / afterwards"
+    }
+  },
+  "antes_adv": {
+    "word": "antes",
+    "type": "adv",
+    "translations": {
+      "nb": "før",
+      "en": "before"
+    }
+  },
+  "enseguida_adv": {
+    "word": "enseguida",
+    "type": "adv",
+    "translations": {
+      "nb": "straks / med en gang",
+      "en": "immediately"
+    }
+  },
+  "inmediatamente_adv": {
+    "word": "inmediatamente",
+    "type": "adv",
+    "translations": {
+      "nb": "umiddelbart",
+      "en": "immediately"
+    }
+  },
+  "arriba_adv": {
+    "word": "arriba",
+    "type": "adv",
+    "translations": {
+      "nb": "opp / oppe",
+      "en": "up / above"
+    }
+  },
+  "abajo_adv": {
+    "word": "abajo",
+    "type": "adv",
+    "translations": {
+      "nb": "ned / nede",
+      "en": "down / below"
+    }
+  },
+  "adentro_adv": {
+    "word": "adentro",
+    "type": "adv",
+    "translations": {
+      "nb": "inne",
+      "en": "inside"
+    }
+  },
+  "afuera_adv": {
+    "word": "afuera",
+    "type": "adv",
+    "translations": {
+      "nb": "ute",
+      "en": "outside"
+    }
+  },
+  "adelante_adv": {
+    "word": "adelante",
+    "type": "adv",
+    "translations": {
+      "nb": "fremover",
+      "en": "forward"
+    }
+  },
+  "atras_adv": {
+    "word": "atrás",
+    "type": "adv",
+    "translations": {
+      "nb": "bakover",
+      "en": "back / behind"
+    }
+  },
+  "bastante_adv": {
+    "word": "bastante",
+    "type": "adv",
+    "translations": {
+      "nb": "ganske / nok",
+      "en": "quite / enough"
+    }
+  },
+  "demasiado_adv": {
+    "word": "demasiado",
+    "type": "adv",
+    "translations": {
+      "nb": "for mye",
+      "en": "too much"
+    }
+  },
+  "tan_adv": {
+    "word": "tan",
+    "type": "adv",
+    "translations": {
+      "nb": "så",
+      "en": "so"
+    }
+  },
+  "asi_adv": {
+    "word": "así",
+    "type": "adv",
+    "translations": {
+      "nb": "slik / sånn",
+      "en": "like this / so"
+    }
+  },
+  "exactamente_adv": {
+    "word": "exactamente",
+    "type": "adv",
+    "translations": {
+      "nb": "akkurat / nøyaktig",
+      "en": "exactly"
+    }
+  },
+  "aproximadamente_adv": {
+    "word": "aproximadamente",
+    "type": "adv",
+    "translations": {
+      "nb": "omtrent",
+      "en": "approximately"
+    }
+  },
+  "claramente_adv": {
+    "word": "claramente",
+    "type": "adv",
+    "translations": {
+      "nb": "tydelig",
+      "en": "clearly"
+    }
+  },
+  "simplemente_adv": {
+    "word": "simplemente",
+    "type": "adv",
+    "translations": {
+      "nb": "rett og slett",
+      "en": "simply"
+    }
+  },
+  "espana_propn": {
+    "word": "España",
+    "type": "propn",
+    "translations": {
+      "nb": "Spania",
+      "en": "Spain"
+    }
+  },
+  "mexico_propn": {
+    "word": "México",
+    "type": "propn",
+    "translations": {
+      "nb": "Mexico",
+      "en": "Mexico"
+    }
+  },
+  "argentina_propn": {
+    "word": "Argentina",
+    "type": "propn",
+    "translations": {
+      "nb": "Argentina",
+      "en": "Argentina"
+    }
+  },
+  "colombia_propn": {
+    "word": "Colombia",
+    "type": "propn",
+    "translations": {
+      "nb": "Colombia",
+      "en": "Colombia"
+    }
+  },
+  "peru_propn": {
+    "word": "Perú",
+    "type": "propn",
+    "translations": {
+      "nb": "Peru",
+      "en": "Peru"
+    }
+  },
+  "chile_propn": {
+    "word": "Chile",
+    "type": "propn",
+    "translations": {
+      "nb": "Chile",
+      "en": "Chile"
+    }
+  },
+  "cuba_propn": {
+    "word": "Cuba",
+    "type": "propn",
+    "translations": {
+      "nb": "Cuba",
+      "en": "Cuba"
+    }
+  },
+  "noruega_propn": {
+    "word": "Noruega",
+    "type": "propn",
+    "translations": {
+      "nb": "Norge",
+      "en": "Norway"
+    }
+  },
+  "europa_propn": {
+    "word": "Europa",
+    "type": "propn",
+    "translations": {
+      "nb": "Europa",
+      "en": "Europe"
+    }
+  },
+  "america_latina_propn": {
+    "word": "América Latina",
+    "type": "propn",
+    "translations": {
+      "nb": "Latin-Amerika",
+      "en": "Latin America"
+    }
+  },
+  "estados_unidos_propn": {
+    "word": "Estados Unidos",
+    "type": "propn",
+    "translations": {
+      "nb": "USA",
+      "en": "United States"
+    }
+  },
+  "madrid_propn": {
+    "word": "Madrid",
+    "type": "propn",
+    "translations": {
+      "nb": "Madrid",
+      "en": "Madrid"
+    }
+  },
+  "barcelona_propn": {
+    "word": "Barcelona",
+    "type": "propn",
+    "translations": {
+      "nb": "Barcelona",
+      "en": "Barcelona"
+    }
+  },
+  "en_casa_expr": {
+    "word": "en casa",
+    "type": "expr",
+    "translations": {
+      "nb": "hjemme",
+      "en": "at home"
+    }
+  },
+  "a_casa_expr": {
+    "word": "a casa",
+    "type": "expr",
+    "translations": {
+      "nb": "hjem (bevegelse)",
+      "en": "home (movement)"
+    }
+  },
+  "a_pie_expr": {
+    "word": "a pie",
+    "type": "expr",
+    "translations": {
+      "nb": "til fots",
+      "en": "on foot"
+    }
+  },
+  "en_coche_expr": {
+    "word": "en coche",
+    "type": "expr",
+    "translations": {
+      "nb": "med bil",
+      "en": "by car"
+    }
+  },
+  "en_autobus_expr": {
+    "word": "en autobús",
+    "type": "expr",
+    "translations": {
+      "nb": "med buss",
+      "en": "by bus"
+    }
+  },
+  "en_tren_expr": {
+    "word": "en tren",
+    "type": "expr",
+    "translations": {
+      "nb": "med tog",
+      "en": "by train"
+    }
+  },
+  "en_avion_expr": {
+    "word": "en avión",
+    "type": "expr",
+    "translations": {
+      "nb": "med fly",
+      "en": "by plane"
+    }
+  },
+  "por_la_manana_expr": {
+    "word": "por la mañana",
+    "type": "expr",
+    "translations": {
+      "nb": "om morgenen",
+      "en": "in the morning"
+    }
+  },
+  "por_la_tarde_expr": {
+    "word": "por la tarde",
+    "type": "expr",
+    "translations": {
+      "nb": "om ettermiddagen",
+      "en": "in the afternoon"
+    }
+  },
+  "por_la_noche_expr": {
+    "word": "por la noche",
+    "type": "expr",
+    "translations": {
+      "nb": "om kvelden",
+      "en": "in the evening / at night"
+    }
+  },
+  "de_vez_en_cuando_expr": {
+    "word": "de vez en cuando",
+    "type": "expr",
+    "translations": {
+      "nb": "av og til",
+      "en": "from time to time"
+    }
+  },
+  "en_seguida_expr": {
+    "word": "en seguida",
+    "type": "expr",
+    "translations": {
+      "nb": "straks",
+      "en": "right away"
+    }
+  },
+  "al_principio_expr": {
+    "word": "al principio",
+    "type": "expr",
+    "translations": {
+      "nb": "i begynnelsen",
+      "en": "at the beginning"
+    }
+  },
+  "en_realidad_expr": {
+    "word": "en realidad",
+    "type": "expr",
+    "translations": {
+      "nb": "egentlig / i virkeligheten",
+      "en": "actually / in reality"
+    }
+  },
+  "de_repente_expr": {
+    "word": "de repente",
+    "type": "expr",
+    "translations": {
+      "nb": "plutselig",
+      "en": "suddenly"
+    }
+  },
+  "por_fin_expr": {
+    "word": "por fin",
+    "type": "expr",
+    "translations": {
+      "nb": "endelig",
+      "en": "finally"
+    }
+  },
+  "a_lo_mejor_expr": {
+    "word": "a lo mejor",
+    "type": "expr",
+    "translations": {
+      "nb": "kanskje",
+      "en": "maybe"
+    }
+  },
+  "cada_dia_expr": {
+    "word": "cada día",
+    "type": "expr",
+    "translations": {
+      "nb": "hver dag",
+      "en": "every day"
+    }
+  },
+  "todos_los_dias_expr": {
+    "word": "todos los días",
+    "type": "expr",
+    "translations": {
+      "nb": "hver dag",
+      "en": "every day"
+    }
+  },
+  "el_fin_de_semana_expr": {
+    "word": "el fin de semana",
+    "type": "expr",
+    "translations": {
+      "nb": "helgen",
+      "en": "the weekend"
+    }
+  },
+  "la_semana_que_viene_expr": {
+    "word": "la semana que viene",
+    "type": "expr",
+    "translations": {
+      "nb": "neste uke",
+      "en": "next week"
+    }
+  },
+  "el_ano_pasado_expr": {
+    "word": "el año pasado",
+    "type": "expr",
+    "translations": {
+      "nb": "i fjor",
+      "en": "last year"
+    }
+  },
+  "el_proximo_ano_expr": {
+    "word": "el próximo año",
+    "type": "expr",
+    "translations": {
+      "nb": "neste år",
+      "en": "next year"
+    }
+  },
+  "en_general_expr": {
+    "word": "en general",
+    "type": "expr",
+    "translations": {
+      "nb": "generelt",
+      "en": "in general"
+    }
+  },
+  "de_acuerdo_expr": {
+    "word": "de acuerdo",
+    "type": "expr",
+    "translations": {
+      "nb": "enig / greit",
+      "en": "agreed / okay"
+    }
+  },
+  "con_mucho_gusto_expr": {
+    "word": "con mucho gusto",
+    "type": "expr",
+    "translations": {
+      "nb": "med stor glede",
+      "en": "with great pleasure"
+    }
+  },
+  "en_serio_expr": {
+    "word": "en serio",
+    "type": "expr",
+    "translations": {
+      "nb": "på alvor",
+      "en": "seriously"
+    }
+  },
+  "de_verdad_expr": {
+    "word": "de verdad",
+    "type": "expr",
+    "translations": {
+      "nb": "virkelig",
+      "en": "really"
+    }
+  },
+  "por_supuesto_expr": {
+    "word": "por supuesto",
+    "type": "expr",
+    "translations": {
+      "nb": "selvfølgelig",
+      "en": "of course"
+    }
+  },
+  "sin_duda_expr": {
+    "word": "sin duda",
+    "type": "expr",
+    "translations": {
+      "nb": "uten tvil",
+      "en": "without doubt"
+    }
+  }
+}

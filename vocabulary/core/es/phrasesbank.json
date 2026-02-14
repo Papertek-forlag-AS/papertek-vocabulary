@@ -1,0 +1,500 @@
+{
+  "_metadata": {
+    "description": "Spanish phrases for Hablamos Español 1",
+    "total_phrases": 50,
+    "categories": [
+      "greetings",
+      "politeness",
+      "questions",
+      "responses",
+      "daily",
+      "classroom"
+    ]
+  },
+  "hola_phrase": {
+    "word": "hola",
+    "type": "phrase",
+    "category": "greetings",
+    "translations": {
+      "nb": "hei",
+      "en": "hello, hi"
+    }
+  },
+  "adios_phrase": {
+    "word": "adiós",
+    "type": "phrase",
+    "category": "greetings",
+    "translations": {
+      "nb": "ha det",
+      "en": "goodbye"
+    }
+  },
+  "hasta_luego_phrase": {
+    "word": "hasta luego",
+    "type": "phrase",
+    "category": "greetings",
+    "translations": {
+      "nb": "vi ses senere",
+      "en": "see you later"
+    }
+  },
+  "hasta_manana_phrase": {
+    "word": "hasta mañana",
+    "type": "phrase",
+    "category": "greetings",
+    "translations": {
+      "nb": "vi ses i morgen",
+      "en": "see you tomorrow"
+    }
+  },
+  "hasta_pronto_phrase": {
+    "word": "hasta pronto",
+    "type": "phrase",
+    "category": "greetings",
+    "translations": {
+      "nb": "vi sees snart",
+      "en": "see you soon"
+    }
+  },
+  "buenos_dias_phrase": {
+    "word": "buenos días",
+    "type": "phrase",
+    "category": "greetings",
+    "translations": {
+      "nb": "god morgen/dag",
+      "en": "good morning"
+    }
+  },
+  "buenas_tardes_phrase": {
+    "word": "buenas tardes",
+    "type": "phrase",
+    "category": "greetings",
+    "translations": {
+      "nb": "god ettermiddag",
+      "en": "good afternoon"
+    }
+  },
+  "buenas_noches_phrase": {
+    "word": "buenas noches",
+    "type": "phrase",
+    "category": "greetings",
+    "translations": {
+      "nb": "god kveld/natt",
+      "en": "good evening/night"
+    }
+  },
+  "como_estas_phrase": {
+    "word": "¿cómo estás?",
+    "type": "phrase",
+    "category": "greetings",
+    "translations": {
+      "nb": "hvordan har du det?",
+      "en": "how are you?"
+    }
+  },
+  "que_tal_phrase": {
+    "word": "¿qué tal?",
+    "type": "phrase",
+    "category": "greetings",
+    "translations": {
+      "nb": "hvordan går det?",
+      "en": "how's it going?"
+    }
+  },
+  "muy_bien_phrase": {
+    "word": "muy bien",
+    "type": "phrase",
+    "category": "responses",
+    "translations": {
+      "nb": "veldig bra",
+      "en": "very well"
+    }
+  },
+  "bien_gracias_phrase": {
+    "word": "bien, gracias",
+    "type": "phrase",
+    "category": "responses",
+    "translations": {
+      "nb": "bra, takk",
+      "en": "fine, thanks"
+    }
+  },
+  "mas_o_menos_phrase": {
+    "word": "más o menos",
+    "type": "phrase",
+    "category": "responses",
+    "translations": {
+      "nb": "sånn passe",
+      "en": "so-so"
+    }
+  },
+  "y_tu_phrase": {
+    "word": "¿y tú?",
+    "type": "phrase",
+    "category": "questions",
+    "translations": {
+      "nb": "og du?",
+      "en": "and you?"
+    }
+  },
+  "gracias_phrase": {
+    "word": "gracias",
+    "type": "phrase",
+    "category": "politeness",
+    "translations": {
+      "nb": "takk",
+      "en": "thank you"
+    }
+  },
+  "muchas_gracias_phrase": {
+    "word": "muchas gracias",
+    "type": "phrase",
+    "category": "politeness",
+    "translations": {
+      "nb": "tusen takk",
+      "en": "thank you very much"
+    }
+  },
+  "de_nada_phrase": {
+    "word": "de nada",
+    "type": "phrase",
+    "category": "politeness",
+    "translations": {
+      "nb": "bare hyggelig, ingen årsak",
+      "en": "you're welcome"
+    }
+  },
+  "por_favor_phrase": {
+    "word": "por favor",
+    "type": "phrase",
+    "category": "politeness",
+    "translations": {
+      "nb": "vær så snill",
+      "en": "please"
+    }
+  },
+  "perdon_phrase": {
+    "word": "perdón",
+    "type": "phrase",
+    "category": "politeness",
+    "translations": {
+      "nb": "unnskyld",
+      "en": "sorry, excuse me"
+    }
+  },
+  "lo_siento_phrase": {
+    "word": "lo siento",
+    "type": "phrase",
+    "category": "politeness",
+    "translations": {
+      "nb": "beklager, jeg er lei meg",
+      "en": "I'm sorry"
+    }
+  },
+  "disculpe_phrase": {
+    "word": "disculpe",
+    "type": "phrase",
+    "category": "politeness",
+    "translations": {
+      "nb": "unnskyld (høflig)",
+      "en": "excuse me (formal)"
+    }
+  },
+  "con_permiso_phrase": {
+    "word": "con permiso",
+    "type": "phrase",
+    "category": "politeness",
+    "translations": {
+      "nb": "unnskyld, får jeg komme forbi",
+      "en": "excuse me (may I pass)"
+    }
+  },
+  "como_te_llamas_phrase": {
+    "word": "¿cómo te llamas?",
+    "type": "phrase",
+    "category": "questions",
+    "translations": {
+      "nb": "hva heter du?",
+      "en": "what's your name?"
+    }
+  },
+  "me_llamo_phrase": {
+    "word": "me llamo...",
+    "type": "phrase",
+    "category": "responses",
+    "translations": {
+      "nb": "jeg heter...",
+      "en": "my name is..."
+    }
+  },
+  "de_donde_eres_phrase": {
+    "word": "¿de dónde eres?",
+    "type": "phrase",
+    "category": "questions",
+    "translations": {
+      "nb": "hvor er du fra?",
+      "en": "where are you from?"
+    }
+  },
+  "soy_de_phrase": {
+    "word": "soy de...",
+    "type": "phrase",
+    "category": "responses",
+    "translations": {
+      "nb": "jeg er fra...",
+      "en": "I'm from..."
+    }
+  },
+  "cuantos_anos_tienes_phrase": {
+    "word": "¿cuántos años tienes?",
+    "type": "phrase",
+    "category": "questions",
+    "translations": {
+      "nb": "hvor gammel er du?",
+      "en": "how old are you?"
+    }
+  },
+  "tengo_anos_phrase": {
+    "word": "tengo ... años",
+    "type": "phrase",
+    "category": "responses",
+    "translations": {
+      "nb": "jeg er ... år",
+      "en": "I am ... years old"
+    }
+  },
+  "donde_vives_phrase": {
+    "word": "¿dónde vives?",
+    "type": "phrase",
+    "category": "questions",
+    "translations": {
+      "nb": "hvor bor du?",
+      "en": "where do you live?"
+    }
+  },
+  "vivo_en_phrase": {
+    "word": "vivo en...",
+    "type": "phrase",
+    "category": "responses",
+    "translations": {
+      "nb": "jeg bor i...",
+      "en": "I live in..."
+    }
+  },
+  "que_hora_es_phrase": {
+    "word": "¿qué hora es?",
+    "type": "phrase",
+    "category": "questions",
+    "translations": {
+      "nb": "hva er klokka?",
+      "en": "what time is it?"
+    }
+  },
+  "que_significa_phrase": {
+    "word": "¿qué significa...?",
+    "type": "phrase",
+    "category": "classroom",
+    "translations": {
+      "nb": "hva betyr...?",
+      "en": "what does ... mean?"
+    }
+  },
+  "como_se_dice_phrase": {
+    "word": "¿cómo se dice...?",
+    "type": "phrase",
+    "category": "classroom",
+    "translations": {
+      "nb": "hvordan sier man...?",
+      "en": "how do you say...?"
+    }
+  },
+  "no_entiendo_phrase": {
+    "word": "no entiendo",
+    "type": "phrase",
+    "category": "classroom",
+    "translations": {
+      "nb": "jeg forstår ikke",
+      "en": "I don't understand"
+    }
+  },
+  "puede_repetir_phrase": {
+    "word": "¿puede repetir?",
+    "type": "phrase",
+    "category": "classroom",
+    "translations": {
+      "nb": "kan du gjenta?",
+      "en": "can you repeat?"
+    }
+  },
+  "mas_despacio_phrase": {
+    "word": "más despacio, por favor",
+    "type": "phrase",
+    "category": "classroom",
+    "translations": {
+      "nb": "saktere, takk",
+      "en": "slower, please"
+    }
+  },
+  "tengo_una_pregunta_phrase": {
+    "word": "tengo una pregunta",
+    "type": "phrase",
+    "category": "classroom",
+    "translations": {
+      "nb": "jeg har et spørsmål",
+      "en": "I have a question"
+    }
+  },
+  "mucho_gusto_phrase": {
+    "word": "mucho gusto",
+    "type": "phrase",
+    "category": "greetings",
+    "translations": {
+      "nb": "hyggelig å møte deg",
+      "en": "nice to meet you"
+    }
+  },
+  "encantado_phrase": {
+    "word": "encantado/a",
+    "type": "phrase",
+    "category": "greetings",
+    "translations": {
+      "nb": "hyggelig å treffe deg",
+      "en": "pleased to meet you"
+    }
+  },
+  "igualmente_phrase": {
+    "word": "igualmente",
+    "type": "phrase",
+    "category": "responses",
+    "translations": {
+      "nb": "i like måte",
+      "en": "likewise"
+    }
+  },
+  "claro_phrase": {
+    "word": "claro",
+    "type": "phrase",
+    "category": "responses",
+    "translations": {
+      "nb": "selvfølgelig, klart",
+      "en": "of course, sure"
+    }
+  },
+  "por_supuesto_phrase": {
+    "word": "por supuesto",
+    "type": "phrase",
+    "category": "responses",
+    "translations": {
+      "nb": "selvfølgelig",
+      "en": "of course"
+    }
+  },
+  "vale_phrase": {
+    "word": "vale",
+    "type": "phrase",
+    "category": "responses",
+    "translations": {
+      "nb": "ok, greit",
+      "en": "okay, alright"
+    }
+  },
+  "de_acuerdo_phrase": {
+    "word": "de acuerdo",
+    "type": "phrase",
+    "category": "responses",
+    "translations": {
+      "nb": "enig, ok",
+      "en": "agreed, okay"
+    }
+  },
+  "no_se_phrase": {
+    "word": "no sé",
+    "type": "phrase",
+    "category": "responses",
+    "translations": {
+      "nb": "jeg vet ikke",
+      "en": "I don't know"
+    }
+  },
+  "creo_que_si_phrase": {
+    "word": "creo que sí",
+    "type": "phrase",
+    "category": "responses",
+    "translations": {
+      "nb": "jeg tror det",
+      "en": "I think so"
+    }
+  },
+  "creo_que_no_phrase": {
+    "word": "creo que no",
+    "type": "phrase",
+    "category": "responses",
+    "translations": {
+      "nb": "jeg tror ikke det",
+      "en": "I don't think so"
+    }
+  },
+  "buen_provecho_phrase": {
+    "word": "buen provecho",
+    "type": "phrase",
+    "category": "daily",
+    "translations": {
+      "nb": "vel bekomme",
+      "en": "enjoy your meal"
+    }
+  },
+  "salud_phrase": {
+    "word": "¡salud!",
+    "type": "phrase",
+    "category": "daily",
+    "translations": {
+      "nb": "skål! / prosit!",
+      "en": "cheers! / bless you!"
+    }
+  },
+  "felicidades_phrase": {
+    "word": "¡felicidades!",
+    "type": "phrase",
+    "category": "daily",
+    "translations": {
+      "nb": "gratulerer!",
+      "en": "congratulations!"
+    }
+  },
+  "feliz_cumpleanos_phrase": {
+    "word": "¡feliz cumpleaños!",
+    "type": "phrase",
+    "category": "daily",
+    "translations": {
+      "nb": "gratulerer med dagen!",
+      "en": "happy birthday!"
+    }
+  },
+  "buena_suerte_phrase": {
+    "word": "buena suerte",
+    "type": "phrase",
+    "category": "daily",
+    "translations": {
+      "nb": "lykke til",
+      "en": "good luck"
+    }
+  },
+  "que_aproveche_phrase": {
+    "word": "¡que aproveche!",
+    "type": "phrase",
+    "category": "daily",
+    "translations": {
+      "nb": "god appetitt",
+      "en": "bon appétit"
+    }
+  },
+  "que_tengas_buen_dia_phrase": {
+    "word": "que tengas un buen día",
+    "type": "phrase",
+    "category": "daily",
+    "translations": {
+      "nb": "ha en fin dag",
+      "en": "have a nice day"
+    }
+  }
+}

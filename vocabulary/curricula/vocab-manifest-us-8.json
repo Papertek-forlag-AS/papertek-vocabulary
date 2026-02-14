@@ -1,0 +1,688 @@
+{
+  "lessons": {
+    "1.1": {
+      "words": [
+        "und_conj",
+        "aus_prep",
+        "auch_adv",
+        "hallo_interj",
+        "wie_heisst_du_phrase",
+        "jahre_alt_phrase",
+        "woher_kommst_du_phrase",
+        "super_interj",
+        "tschuess_interj",
+        "danke_interj",
+        "bitte_interj",
+        "woher_interr",
+        "wie_interr",
+        "eins_num",
+        "zwei_num",
+        "drei_num",
+        "vier_num",
+        "fuenf_num",
+        "sechs_num",
+        "sieben_num",
+        "acht_num",
+        "neun_num",
+        "zehn_num",
+        "elf_num",
+        "zwoelf_num",
+        "dreizehn_num",
+        "vierzehn_num",
+        "fuenfzehn_num",
+        "sechszehn_num",
+        "jahre_alt_phrase",
+        "alt_adj",
+        "cool_adj",
+        "sein_verb",
+        "heissen_verb",
+        "kommen_verb"
+      ],
+      "features": [
+        "grammar_presens"
+      ]
+    },
+    "1.2": {
+      "words": [
+        "von_prep",
+        "wer_ist_das_phrase",
+        "das_ist_phrase",
+        "ja_interj",
+        "nein_interj",
+        "achtzehn_num",
+        "familie_noun",
+        "vater_noun",
+        "mutter_noun",
+        "bruder_noun",
+        "schwester_noun",
+        "geschwister_noun",
+        "foto_noun",
+        "haben_verb"
+      ],
+      "features": [
+        "grammar_presens"
+      ]
+    },
+    "1.3": {
+      "words": [
+        "deutschland_propn",
+        "jetzt_adv",
+        "aber_conj",
+        "hier_adv",
+        "nur_adv",
+        "in_prep",
+        "willkommen_interj",
+        "wohnen_verb"
+      ],
+      "features": [
+        "grammar_presens"
+      ]
+    },
+    "2.1": {
+      "words": [
+        "schnell_adv",
+        "da_adv",
+        "sehr_adv",
+        "fuer_prep",
+        "heute_adv",
+        "manchmal_adv",
+        "in_der_schule_phrase",
+        "spass_machen_phrase",
+        "ein_bisschen_phrase",
+        "los_geht_s_phrase",
+        "was_interr",
+        "schule_noun",
+        "klasse_noun",
+        "mathematik_noun",
+        "deutsch_noun",
+        "biologie_noun",
+        "politik_noun",
+        "lieblingsfach_noun",
+        "sprache_noun",
+        "glocke_noun",
+        "lehrer_noun",
+        "spannend_adj",
+        "trocken_adj",
+        "toll_adj",
+        "schon_adv",
+        "interessant_adj",
+        "lustig_adj",
+        "gut_adj",
+        "schwierig_adj",
+        "nett_adj",
+        "neu_adj",
+        "schauen_verb",
+        "interessieren_verb",
+        "klingeln_verb",
+        "beginnen_verb",
+        "gehen_verb"
+      ],
+      "features": [
+        "grammar_presens"
+      ]
+    },
+    "2.2": {
+      "words": [
+        "gern_adv",
+        "lieber_adv",
+        "nicht_adv",
+        "zusammen_adv",
+        "vielleicht_adv",
+        "rad_fahren_verbphrase",
+        "musik_hoeren_verbphrase",
+        "hobby_noun",
+        "gitarre_noun",
+        "freizeit_noun",
+        "wochenende_noun",
+        "montag_noun",
+        "dienstag_noun",
+        "mittwoch_noun",
+        "donnerstag_noun",
+        "freitag_noun",
+        "samstag_noun",
+        "sonntag_noun",
+        "idee_noun",
+        "koennen_verb",
+        "lesen_verb",
+        "schwimmen_verb",
+        "singen_verb",
+        "tanzen_verb",
+        "kochen_verb",
+        "malen_verb"
+      ],
+      "features": [
+        "grammar_presens"
+      ]
+    },
+    "2.3": {
+      "words": [
+        "leider_adv",
+        "endlich_adv",
+        "um_prep",
+        "mit_prep",
+        "auf_prep",
+        "danach_adv",
+        "moechten_modal",
+        "oder_conj",
+        "ein_anderes_mal_phrase",
+        "passt_es_phrase",
+        "bis_dann_phrase",
+        "am_wochenende_phrase",
+        "am_montag_phrase",
+        "am_nachmittag_phrase",
+        "wie_spaet_ist_es_phrase",
+        "wie_spaet_ist_es_phrase",
+        "wer_interr",
+        "wo_interr",
+        "wann_interr",
+        "warum_interr",
+        "welcher_interr",
+        "kino_noun",
+        "film_noun",
+        "oma_noun",
+        "opa_noun",
+        "uhr_noun",
+        "cafe_noun",
+        "pruefungen_noun",
+        "stadt_noun",
+        "schade_adj",
+        "shoppen_verb",
+        "entspannen_verb",
+        "lernen_verb",
+        "machen_verb",
+        "besuchen_verb",
+        "sehen_verb",
+        "treffen_verb"
+      ],
+      "features": [
+        "grammar_presens"
+      ]
+    },
+    "3.1": {
+      "words": [
+        "noch_adv",
+        "supermarkt_noun",
+        "milch_noun",
+        "brot_noun",
+        "kaese_noun",
+        "apfel_noun",
+        "banane_noun",
+        "flasche_noun",
+        "schokolade_noun",
+        "gemuese_noun",
+        "gurke_noun",
+        "tomate_noun",
+        "ei_noun",
+        "moegen_verb",
+        "kaufen_verb",
+        "brauchen_verb"
+      ],
+      "features": [
+        "grammar_presens"
+      ]
+    },
+    "3.2": {
+      "words": [
+        "immer_adv",
+        "abendessen_noun",
+        "hunger_noun",
+        "nudeln_noun",
+        "tomatensosse_noun",
+        "zwiebel_noun",
+        "pizza_noun",
+        "salat_noun",
+        "hamburger_noun",
+        "lecker_adj",
+        "essen_noun",
+        "nehmen_verb",
+        "moechten_modal"
+      ],
+      "features": [
+        "grammar_presens"
+      ]
+    },
+    "3.3": {
+      "words": [
+        "norwegisch_propn",
+        "zu_hause_phrase",
+        "getrennt_adv",
+        "spaeter_adv",
+        "siebzehn_num",
+        "neunzehn_num",
+        "zwanzig_num",
+        "dreissig_num",
+        "vierzig_num",
+        "fuenfzig_num",
+        "sechzig_num",
+        "siebzig_num",
+        "achtzig_num",
+        "neunzig_num",
+        "hundert_num",
+        "restaurant_noun",
+        "kellner_noun",
+        "rechnung_noun",
+        "kuchen_noun",
+        "apfelsaft_noun"
+      ],
+      "features": []
+    },
+    "4.2": {
+      "words": [
+        "genau_adv",
+        "aussehen_noun",
+        "koerperteil_noun",
+        "auge_noun",
+        "haar_noun",
+        "nase_noun",
+        "mund_noun",
+        "kopf_noun",
+        "gross_adj",
+        "klein_adj",
+        "lang_adj",
+        "kurz_adj",
+        "blond_adj"
+      ],
+      "features": []
+    },
+    "5.1": {
+      "words": [
+        "frueh_adv",
+        "spaet_adv",
+        "zuerst_adv",
+        "dann_adv",
+        "morgen_adv",
+        "jeden_tag_phrase",
+        "mit_meiner_mutter_phrase",
+        "tag_noun",
+        "nachmittag_noun",
+        "abend_noun",
+        "schultasche_noun",
+        "zeit_noun",
+        "muede_adj",
+        "anrufen_verb",
+        "einkaufen_verb",
+        "aufstehen_verb"
+      ],
+      "features": [
+        "grammar_presens"
+      ]
+    },
+    "5.2": {
+      "words": [
+        "halb_adv",
+        "viertel_nach_phrase",
+        "viertel_vor_phrase",
+        "zu_frueh_phrase",
+        "ich_freue_mich_phrase",
+        "uhrzeit_noun",
+        "superheld_noun",
+        "wollen_verb",
+        "anfangen_verb"
+      ],
+      "features": [
+        "grammar_presens"
+      ]
+    },
+    "5.3": {
+      "words": [
+        "beides_adv",
+        "also_adv",
+        "schon_adv",
+        "raus_adv",
+        "lange_adv",
+        "leute_noun",
+        "hast_du_lust_auf_phrase",
+        "nicht_schon_wieder_phrase",
+        "nee_interj",
+        "plan_noun",
+        "vorschlag_noun",
+        "eis_noun",
+        "musik_hoeren_verbphrase",
+        "computerspiel_noun",
+        "turnier_noun",
+        "stunde_noun",
+        "viertel_nach_phrase",
+        "zufrieden_adj",
+        "langweilig_adj",
+        "perfekt_adj",
+        "trinken_verb",
+        "hoeren_verb"
+      ],
+      "features": [
+        "grammar_presens"
+      ]
+    },
+    "6.1": {
+      "words": [
+        "bekommen_verb",
+        "das_haustier_noun",
+        "tagsueber_adv",
+        "ueberall_adv",
+        "niemals_adv",
+        "gassi_gehen_verbphrase",
+        "hund_noun",
+        "katze_noun",
+        "kaninchen_noun",
+        "fisch_noun",
+        "hamster_noun",
+        "garten_noun",
+        "tier_noun",
+        "das_haustier_noun",
+        "goldfisch_noun",
+        "vogel_noun",
+        "maus_noun",
+        "essen_noun",
+        "wasser_noun",
+        "arbeit_noun",
+        "platz_noun",
+        "futter_noun",
+        "kaefig_noun",
+        "aquarium_noun",
+        "fell_noun",
+        "so_wie_phrase",
+        "treu_adj",
+        "bloed_adj",
+        "populaer_adj",
+        "brav_adj",
+        "zahm_adj",
+        "weich_adj",
+        "fuettern_verb",
+        "streicheln_verb"
+      ],
+      "features": [
+        "grammar_presens"
+      ]
+    },
+    "6.2": {
+      "words": [
+        "denn_conj",
+        "als_conj",
+        "viel_adv",
+        "wenig_adv",
+        "zu_adv",
+        "tuer_noun",
+        "jaeger_noun",
+        "jaegerin_noun",
+        "groesse_noun",
+        "sauber_adj",
+        "schnell_adv",
+        "langsam_adj",
+        "jung_adj",
+        "warm_adj",
+        "kalt_adj",
+        "viel_adv",
+        "faul_adj",
+        "schlau_adj",
+        "frech_adj",
+        "richtig_adj",
+        "einfach_adj",
+        "oeffnen_verb",
+        "jagen_verb"
+      ],
+      "features": [
+        "grammar_presens",
+        "grammar_comparative"
+      ]
+    },
+    "6.3": {
+      "words": [
+        "asien_propn",
+        "afrika_propn",
+        "klettern_verb",
+        "mit_meinen_freunden_phrase",
+        "im_zoo_phrase",
+        "den_ganzen_tag_phrase",
+        "einen_elefanten_phrase",
+        "den_elefanten_phrase",
+        "den_loewen_phrase",
+        "tiger_noun",
+        "mensch_noun",
+        "zoo_noun",
+        "elefant_noun",
+        "giraffe_noun",
+        "loewe_noun",
+        "affe_noun",
+        "baer_noun",
+        "lieblingstier_noun",
+        "hals_noun",
+        "obst_noun",
+        "fleisch_noun",
+        "tierpfleger_noun",
+        "riesig_adj",
+        "ruhig_adj",
+        "gefaehrlich_adj",
+        "wild_adj",
+        "fressen_verb",
+        "leben_noun"
+      ],
+      "features": [
+        "grammar_presens",
+        "grammar_comparative"
+      ]
+    },
+    "7.1": {
+      "words": [
+        "oesterreich_propn",
+        "die_schweiz_propn",
+        "wieder_adv",
+        "egal_adv",
+        "bald_adv",
+        "super_adv",
+        "unbedingt_adv",
+        "mal_adv",
+        "dort_adv",
+        "nach_prep",
+        "es_gibt_phrase",
+        "in_den_alpen_phrase",
+        "mit_der_schweiz_phrase",
+        "wohin_interr",
+        "urlaub_auf_balkonien_phrase",
+        "sommerferien_noun",
+        "ort_noun",
+        "natur_noun",
+        "blog_noun",
+        "leben_noun",
+        "traum_noun",
+        "see_noun",
+        "ferien_noun",
+        "teuer_adj",
+        "fahren_verb",
+        "wandern_verb",
+        "traeumen_verb",
+        "sagen_verb",
+        "schreiben_verb"
+      ],
+      "features": [
+        "grammar_presens"
+      ]
+    },
+    "7.2": {
+      "words": [
+        "italien_propn",
+        "hast_du_gehoert_expr",
+        "ohne_prep",
+        "mehr_adv",
+        "natuerlich_adv",
+        "noch_adv",
+        "neu_adj",
+        "stimmt_interj",
+        "klar_interj",
+        "mit_dem_auto_phrase",
+        "koffer_noun",
+        "pass_noun",
+        "flugzeug_noun",
+        "badesachen_noun",
+        "sonnencreme_noun",
+        "flughafen_noun",
+        "sommerkleidung_noun",
+        "auto_noun",
+        "sommer_noun",
+        "wichtig_adj",
+        "muessen_verb",
+        "fliegen_verb",
+        "mitnehmen_verb",
+        "packen_verb",
+        "einpacken_verb"
+      ],
+      "features": [
+        "grammar_presens"
+      ]
+    },
+    "7.3": {
+      "words": [
+        "allein_adv",
+        "ins_gebirge_expr",
+        "gespannt_sein_phrase",
+        "regel_noun",
+        "wetter_noun",
+        "berg_noun",
+        "gebirge_noun",
+        "seilbahn_noun",
+        "sonne_noun",
+        "gemuetlich_adj",
+        "gespannt_sein_phrase",
+        "hoffen_verb",
+        "duerfen_verb",
+        "scheinen_verb"
+      ],
+      "features": [
+        "grammar_presens"
+      ]
+    },
+    "8.1": {
+      "words": [
+        "januar_noun",
+        "februar_noun",
+        "maerz_noun",
+        "april_noun",
+        "mai_noun",
+        "juni_noun",
+        "juli_noun",
+        "august_noun",
+        "september_noun",
+        "oktober_noun",
+        "november_noun",
+        "dezember_noun",
+        "besonders_adv",
+        "erste_num",
+        "dritte_num",
+        "siebte_num",
+        "dreizehnten_num",
+        "jahreszeit_noun",
+        "fruehling_noun",
+        "herbst_noun",
+        "winter_noun",
+        "monat_noun",
+        "geschenk_noun",
+        "geburtstag_noun",
+        "bunt_adj",
+        "frisch_adj",
+        "klar_interj",
+        "lieben_verb",
+        "stimmen_verb",
+        "dekorieren_verb",
+        "mitbringen_verb",
+        "grillen_verb"
+      ],
+      "features": [
+        "grammar_presens"
+      ]
+    },
+    "8.2": {
+      "words": [
+        "gerade_adv",
+        "bestimmt_adv",
+        "wegfahren_verb",
+        "ins_prep",
+        "urlaub_auf_balkonien_phrase",
+        "vierundzwanzigsten_num",
+        "einunddreissigsten_num",
+        "reiseziel_noun",
+        "schwimmbad_noun",
+        "fahrradtour_noun",
+        "highlight_noun",
+        "fest_noun",
+        "weihnachten_noun",
+        "ostern_noun",
+        "karneval_noun",
+        "halloween_noun",
+        "schokoladenei_noun",
+        "tradition_noun",
+        "brauch_noun",
+        "sicher_adj",
+        "aufgeregt_adj",
+        "sprechen_verb",
+        "werden_verb",
+        "dauern_verb",
+        "bleiben_verb",
+        "feiern_verb"
+      ],
+      "features": [
+        "grammar_presens"
+      ]
+    },
+    "8.3": {
+      "words": [
+        "zum_geburtstag_viel_glueck_phrase",
+        "geburtstagskind_noun",
+        "geburtstagstorte_noun",
+        "ueberraschungsparty_noun",
+        "geheimnis_noun",
+        "getraenk_noun",
+        "wach_adj",
+        "ueberrascht_adj",
+        "schlafen_verb",
+        "einladen_verb",
+        "planen_verb"
+      ],
+      "features": [
+        "grammar_presens"
+      ]
+    },
+    "4.3": {
+      "words": [
+        "charakter_noun",
+        "persoenlichkeit_noun",
+        "intelligent_adj",
+        "stark_adj",
+        "streng_adj",
+        "sportlich_adj",
+        "musikalisch_adj",
+        "kreativ_adj",
+        "schuechtern_adj",
+        "aktiv_adj",
+        "ungeduldig_adj",
+        "freundlich_adj"
+      ],
+      "features": []
+    },
+    "4.1": {
+      "words": [
+        "pullover_noun",
+        "hose_noun",
+        "tshirt_noun",
+        "jacke_noun",
+        "schuhe_noun",
+        "hemd_noun",
+        "rock_noun",
+        "kleid_noun",
+        "farbe_noun",
+        "rot_adj",
+        "blau_adj",
+        "gruen_adj",
+        "gelb_adj",
+        "schwarz_adj",
+        "weiss_adj",
+        "grau_adj",
+        "braun_adj",
+        "orange_adj",
+        "lila_adj",
+        "rosa_adj",
+        "tragen_verb"
+      ],
+      "features": [
+        "grammar_presens"
+      ]
+    }
+  }
+}

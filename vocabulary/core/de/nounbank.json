@@ -1,0 +1,4849 @@
+{
+  "_metadata": {
+    "source": "nounbank.json",
+    "targetLanguage": "german",
+    "generatedAt": "2026-01-16T17:26:35.879Z",
+    "description": "Core noun data for german"
+  },
+  "arbeid_paagar_noun": {
+    "word": "Arbeit im Gange",
+    "genus": "f",
+    "plural": "die Arbeiten",
+    "_id": "arbeid_paagar_noun",
+    "audio": "substantiv_arbeit_im_gange.mp3"
+  },
+  "jahr_noun": {
+    "word": "Jahr",
+    "genus": "n",
+    "plural": "Jahre",
+    "audio": "substantiv_jahr.mp3",
+    "_id": "jahr_noun"
+  },
+  "zusammenfassung_noun": {
+    "word": "Zusammenfassung",
+    "declension": {
+      "entall": {
+        "ubestemt": {
+          "form": "Zusammenfassung"
+        },
+        "bestemt": {
+          "form": "die Zusammenfassung"
+        }
+      },
+      "flertall": {
+        "ubestemt": {
+          "form": "Zusammenfassungen"
+        },
+        "bestemt": {
+          "form": "die Zusammenfassungen"
+        }
+      }
+    },
+    "genus": "f",
+    "_id": "zusammenfassung_noun",
+    "audio": "substantiv_zusammenfassung.mp3"
+  },
+  "hilfe_noun": {
+    "word": "Hilfe",
+    "declension": {
+      "entall": {
+        "ubestemt": {
+          "form": "Hilfe"
+        },
+        "bestemt": {
+          "form": "die Hilfe"
+        }
+      },
+      "flertall": {
+        "ubestemt": {
+          "form": "Hilfen"
+        },
+        "bestemt": {
+          "form": "die Hilfen"
+        }
+      }
+    },
+    "genus": "f",
+    "_id": "hilfe_noun",
+    "audio": "substantiv_hilfe.mp3"
+  },
+  "familie_noun": {
+    "word": "Familie",
+    "genus": "f",
+    "plural": "die Familien",
+    "cases": {
+      "nominativ": {
+        "intro": "1.2",
+        "bestemt": "die Familie",
+        "ubestemt": "eine Familie"
+      }
+    },
+    "_id": "familie_noun",
+    "audio": "substantiv_familie.mp3"
+  },
+  "vater_noun": {
+    "word": "Vater",
+    "genus": "m",
+    "plural": "die Väter",
+    "cases": {
+      "nominativ": {
+        "intro": "1.2",
+        "bestemt": "der Vater",
+        "ubestemt": "ein Vater"
+      }
+    },
+    "_id": "vater_noun",
+    "audio": "substantiv_vater.mp3"
+  },
+  "mutter_noun": {
+    "word": "Mutter",
+    "genus": "f",
+    "plural": "die Mütter",
+    "cases": {
+      "nominativ": {
+        "intro": "1.2",
+        "bestemt": "die Mutter",
+        "ubestemt": "eine Mutter"
+      }
+    },
+    "_id": "mutter_noun",
+    "audio": "substantiv_mutter.mp3"
+  },
+  "bruder_noun": {
+    "word": "Bruder",
+    "genus": "m",
+    "plural": "die Brüder",
+    "cases": {
+      "nominativ": {
+        "intro": "1.2",
+        "bestemt": "der Bruder",
+        "ubestemt": "ein Bruder"
+      }
+    },
+    "_id": "bruder_noun",
+    "audio": "substantiv_bruder.mp3"
+  },
+  "schwester_noun": {
+    "word": "Schwester",
+    "genus": "f",
+    "plural": "die Schwestern",
+    "cases": {
+      "nominativ": {
+        "intro": "1.2",
+        "bestemt": "die Schwester",
+        "ubestemt": "eine Schwester"
+      }
+    },
+    "_id": "schwester_noun",
+    "audio": "substantiv_schwester.mp3"
+  },
+  "geschwister_noun": {
+    "word": "Geschwister",
+    "genus": "n",
+    "plural": "die Geschwister",
+    "cases": {
+      "nominativ": {
+        "intro": "1.2"
+      }
+    },
+    "_id": "geschwister_noun",
+    "audio": "substantiv_geschwister.mp3"
+  },
+  "foto_noun": {
+    "word": "Foto",
+    "genus": "n",
+    "plural": "die Fotos",
+    "cases": {
+      "nominativ": {
+        "intro": "1.2",
+        "bestemt": "das Foto",
+        "ubestemt": "ein Foto"
+      }
+    },
+    "_id": "foto_noun",
+    "audio": "substantiv_foto.mp3"
+  },
+  "eltern_noun": {
+    "word": "Eltern",
+    "genus": "pl",
+    "plural": "die Eltern",
+    "cases": {
+      "nominativ": {
+        "intro": "9.2",
+        "bestemt": "die Eltern",
+        "ubestemt": "Eltern"
+      },
+      "akkusativ": {
+        "intro": "9.2",
+        "bestemt": "die Eltern",
+        "ubestemt": "Eltern"
+      }
+    },
+    "_id": "eltern_noun",
+    "audio": "substantiv_eltern.mp3"
+  },
+  "freund_noun": {
+    "word": "Freund",
+    "genus": "m",
+    "plural": "die Freunde",
+    "cases": {
+      "nominativ": {
+        "intro": "9.1",
+        "bestemt": "der Freund",
+        "ubestemt": "ein Freund"
+      },
+      "akkusativ": {
+        "intro": "9.1",
+        "bestemt": "den Freund",
+        "ubestemt": "einen Freund"
+      }
+    },
+    "_id": "freund_noun",
+    "audio": "substantiv_freund.mp3"
+  },
+  "freundin_noun": {
+    "word": "Freundin",
+    "genus": "f",
+    "plural": "die Freundinnen",
+    "cases": {
+      "nominativ": {
+        "intro": "9.1",
+        "bestemt": "die Freundin",
+        "ubestemt": "eine Freundin"
+      },
+      "akkusativ": {
+        "intro": "9.1",
+        "bestemt": "die Freundin",
+        "ubestemt": "eine Freundin"
+      }
+    },
+    "_id": "freundin_noun",
+    "audio": "substantiv_freundin.mp3"
+  },
+  "schule_noun": {
+    "word": "Schule",
+    "genus": "f",
+    "plural": "die Schulen",
+    "cases": {
+      "nominativ": {
+        "intro": "2.1",
+        "bestemt": "die Schule",
+        "ubestemt": "eine Schule"
+      }
+    },
+    "_id": "schule_noun",
+    "audio": "substantiv_schule.mp3"
+  },
+  "note_noun": {
+    "word": "Note",
+    "genus": "f",
+    "plural": "die Noten",
+    "cases": {
+      "nominativ": {
+        "intro": "10.2",
+        "bestemt": "die Note",
+        "ubestemt": "eine Note"
+      },
+      "akkusativ": {
+        "intro": "10.2",
+        "bestemt": "die Note",
+        "ubestemt": "eine Note"
+      }
+    },
+    "_id": "note_noun",
+    "audio": "substantiv_note.mp3"
+  },
+  "charakter_noun": {
+    "word": "Charakter",
+    "genus": "m",
+    "plural": "die Charaktere",
+    "cases": {
+      "nominativ": {
+        "intro": "4.3",
+        "bestemt": "der Charakter",
+        "ubestemt": "ein Charakter"
+      },
+      "akkusativ": {
+        "intro": "4.3",
+        "bestemt": "den Charakter",
+        "ubestemt": "einen Charakter"
+      }
+    },
+    "_id": "charakter_noun",
+    "audio": "substantiv_charakter.mp3"
+  },
+  "klasse_noun": {
+    "word": "Klasse",
+    "genus": "f",
+    "plural": "die Klassen",
+    "cases": {
+      "nominativ": {
+        "intro": "2.1",
+        "bestemt": "die Klasse",
+        "ubestemt": "eine Klasse"
+      }
+    },
+    "_id": "klasse_noun",
+    "audio": "substantiv_klasse.mp3"
+  },
+  "sport_noun": {
+    "word": "Sport",
+    "genus": "m",
+    "plural": "die Sportarten",
+    "cases": {
+      "nominativ": {
+        "intro": "9.3",
+        "bestemt": "der Sport",
+        "ubestemt": "Sport"
+      },
+      "akkusativ": {
+        "intro": "9.3",
+        "bestemt": "den Sport",
+        "ubestemt": "Sport"
+      }
+    },
+    "_id": "sport_noun",
+    "audio": "substantiv_sport.mp3"
+  },
+  "mathematik_noun": {
+    "word": "Mathematik",
+    "genus": "f",
+    "_id": "mathematik_noun",
+    "audio": "substantiv_mathematik.mp3"
+  },
+  "deutsch_noun": {
+    "word": "Deutsch",
+    "genus": "n",
+    "_id": "deutsch_noun",
+    "audio": "substantiv_deutsch.mp3"
+  },
+  "biologie_noun": {
+    "word": "Biologie",
+    "genus": "f",
+    "_id": "biologie_noun",
+    "audio": "substantiv_biologie.mp3"
+  },
+  "geschichte_noun": {
+    "word": "Geschichte",
+    "genus": "f",
+    "plural": "die Geschichten",
+    "cases": {
+      "nominativ": {
+        "intro": "10.2",
+        "bestemt": "die Geschichte",
+        "ubestemt": "eine Geschichte"
+      },
+      "akkusativ": {
+        "intro": "10.2",
+        "bestemt": "die Geschichte",
+        "ubestemt": "eine Geschichte"
+      }
+    },
+    "_id": "geschichte_noun",
+    "audio": "substantiv_geschichte.mp3"
+  },
+  "politik_noun": {
+    "word": "Politik",
+    "genus": "f",
+    "_id": "politik_noun",
+    "audio": "substantiv_politik.mp3"
+  },
+  "lieblingsfach_noun": {
+    "word": "Lieblingsfach",
+    "genus": "n",
+    "plural": "die Lieblingsfächer",
+    "cases": {
+      "nominativ": {
+        "intro": "2.1",
+        "bestemt": "das Lieblingsfach",
+        "ubestemt": "ein Lieblingsfach"
+      }
+    },
+    "_id": "lieblingsfach_noun",
+    "audio": "substantiv_lieblingsfach.mp3"
+  },
+  "sprache_noun": {
+    "word": "Sprache",
+    "genus": "f",
+    "plural": "die Sprachen",
+    "cases": {
+      "nominativ": {
+        "intro": "2.1",
+        "bestemt": "die Sprache",
+        "ubestemt": "eine Sprache"
+      }
+    },
+    "_id": "sprache_noun",
+    "audio": "substantiv_sprache.mp3"
+  },
+  "glocke_noun": {
+    "word": "Glocke",
+    "genus": "f",
+    "plural": "die Glocken",
+    "cases": {
+      "nominativ": {
+        "intro": "2.1",
+        "bestemt": "die Glocke",
+        "ubestemt": "eine Glocke"
+      }
+    },
+    "_id": "glocke_noun",
+    "audio": "substantiv_glocke.mp3"
+  },
+  "unterricht_noun": {
+    "word": "Unterricht",
+    "genus": "m",
+    "plural": null,
+    "cases": {
+      "nominativ": {
+        "intro": "10.2",
+        "bestemt": "der Unterricht",
+        "ubestemt": "ein Unterricht"
+      },
+      "akkusativ": {
+        "intro": "10.2",
+        "bestemt": "den Unterricht",
+        "ubestemt": "einen Unterricht"
+      }
+    },
+    "_id": "unterricht_noun",
+    "audio": "substantiv_unterricht.mp3"
+  },
+  "lehrer_noun": {
+    "word": "Lehrer",
+    "genus": "m",
+    "plural": "die Lehrer",
+    "cases": {
+      "nominativ": {
+        "intro": "2.1",
+        "bestemt": "der Lehrer",
+        "ubestemt": "ein Lehrer"
+      }
+    },
+    "_id": "lehrer_noun",
+    "audio": "substantiv_lehrer.mp3"
+  },
+  "hobby_noun": {
+    "word": "Hobby",
+    "genus": "n",
+    "plural": "die Hobbys",
+    "cases": {
+      "nominativ": {
+        "intro": "2.2",
+        "bestemt": "das Hobby",
+        "ubestemt": "ein Hobby"
+      }
+    },
+    "_id": "hobby_noun",
+    "audio": "substantiv_hobby.mp3"
+  },
+  "gitarre_noun": {
+    "word": "Gitarre",
+    "genus": "f",
+    "plural": "Gitarren",
+    "_id": "gitarre_noun",
+    "audio": "substantiv_gitarre.mp3"
+  },
+  "fussball_noun": {
+    "word": "Fußball",
+    "genus": "m",
+    "plural": "die Fußbälle",
+    "cases": {
+      "nominativ": {
+        "intro": "9.3",
+        "bestemt": "der Fußball",
+        "ubestemt": "ein Fußball"
+      },
+      "akkusativ": {
+        "intro": "9.3",
+        "bestemt": "den Fußball",
+        "ubestemt": "einen Fußball"
+      }
+    },
+    "_id": "fussball_noun",
+    "audio": "substantiv_fussball.mp3"
+  },
+  "freizeit_noun": {
+    "word": "Freizeit",
+    "genus": "f",
+    "plural": "die Freizeiten",
+    "cases": {
+      "nominativ": {
+        "intro": "2.2",
+        "bestemt": "die Freizeit",
+        "ubestemt": "eine Freizeit"
+      }
+    },
+    "_id": "freizeit_noun",
+    "audio": "substantiv_freizeit.mp3"
+  },
+  "wochenende_noun": {
+    "word": "Wochenende",
+    "genus": "n",
+    "plural": "die Wochenenden",
+    "cases": {
+      "nominativ": {
+        "intro": "2.2",
+        "bestemt": "das Wochenende",
+        "ubestemt": "ein Wochenende"
+      },
+      "akkusativ": {
+        "intro": "3.1",
+        "bestemt": "das Wochenende",
+        "ubestemt": "ein Wochenende"
+      }
+    },
+    "_id": "wochenende_noun",
+    "audio": "substantiv_wochenende.mp3"
+  },
+  "montag_noun": {
+    "word": "Montag",
+    "genus": "m",
+    "plural": "die Montage",
+    "cases": {
+      "nominativ": {
+        "intro": "2.2",
+        "bestemt": "der Montag",
+        "ubestemt": "ein Montag"
+      }
+    },
+    "_id": "montag_noun",
+    "audio": "substantiv_montag.mp3"
+  },
+  "dienstag_noun": {
+    "word": "Dienstag",
+    "genus": "m",
+    "plural": "die Dienstage",
+    "cases": {
+      "nominativ": {
+        "intro": "2.2",
+        "bestemt": "der Dienstag",
+        "ubestemt": "ein Dienstag"
+      }
+    },
+    "_id": "dienstag_noun",
+    "audio": "substantiv_dienstag.mp3"
+  },
+  "mittwoch_noun": {
+    "word": "Mittwoch",
+    "genus": "m",
+    "plural": "die Mittwoche",
+    "cases": {
+      "nominativ": {
+        "intro": "2.2",
+        "bestemt": "der Mittwoch",
+        "ubestemt": "ein Mittwoch"
+      }
+    },
+    "_id": "mittwoch_noun",
+    "audio": "substantiv_mittwoch.mp3"
+  },
+  "donnerstag_noun": {
+    "word": "Donnerstag",
+    "genus": "m",
+    "plural": "die Donnerstage",
+    "cases": {
+      "nominativ": {
+        "intro": "2.2",
+        "bestemt": "der Donnerstag",
+        "ubestemt": "ein Donnerstag"
+      }
+    },
+    "_id": "donnerstag_noun",
+    "audio": "substantiv_donnerstag.mp3"
+  },
+  "freitag_noun": {
+    "word": "Freitag",
+    "genus": "m",
+    "plural": "die Freitage",
+    "cases": {
+      "nominativ": {
+        "intro": "2.2",
+        "bestemt": "der Freitag",
+        "ubestemt": "ein Freitag"
+      },
+      "akkusativ": {
+        "intro": "3.1",
+        "bestemt": "den Freitag",
+        "ubestemt": "einen Freitag"
+      }
+    },
+    "_id": "freitag_noun",
+    "audio": "substantiv_freitag.mp3"
+  },
+  "samstag_noun": {
+    "word": "Samstag",
+    "genus": "m",
+    "plural": "die Samstage",
+    "cases": {
+      "nominativ": {
+        "intro": "2.2",
+        "bestemt": "der Samstag",
+        "ubestemt": "ein Samstag"
+      },
+      "akkusativ": {
+        "intro": "3.1",
+        "bestemt": "den Samstag",
+        "ubestemt": "einen Samstag"
+      }
+    },
+    "_id": "samstag_noun",
+    "audio": "substantiv_samstag.mp3"
+  },
+  "sonntag_noun": {
+    "word": "Sonntag",
+    "genus": "m",
+    "plural": "die Sonntage",
+    "cases": {
+      "nominativ": {
+        "intro": "2.2",
+        "bestemt": "der Sonntag",
+        "ubestemt": "ein Sonntag"
+      }
+    },
+    "_id": "sonntag_noun",
+    "audio": "substantiv_sonntag.mp3"
+  },
+  "frage_noun": {
+    "word": "Frage",
+    "genus": "f",
+    "plural": "die Fragen",
+    "cases": {
+      "nominativ": {
+        "intro": "9.3",
+        "bestemt": "die Frage",
+        "ubestemt": "eine Frage"
+      },
+      "akkusativ": {
+        "intro": "9.3",
+        "bestemt": "die Frage",
+        "ubestemt": "eine Frage"
+      }
+    },
+    "_id": "frage_noun",
+    "audio": "substantiv_frage.mp3"
+  },
+  "kino_noun": {
+    "word": "Kino",
+    "genus": "n",
+    "plural": "die Kinos",
+    "cases": {
+      "nominativ": {
+        "intro": "2.3",
+        "bestemt": "das Kino",
+        "ubestemt": "ein Kino"
+      }
+    },
+    "_id": "kino_noun",
+    "audio": "substantiv_kino.mp3"
+  },
+  "film_noun": {
+    "word": "Film",
+    "genus": "m",
+    "plural": "die Filme",
+    "cases": {
+      "nominativ": {
+        "intro": "2.3",
+        "bestemt": "der Film",
+        "ubestemt": "ein Film"
+      }
+    },
+    "_id": "film_noun",
+    "audio": "substantiv_film.mp3"
+  },
+  "oma_noun": {
+    "word": "Oma",
+    "genus": "f",
+    "plural": "die Omas",
+    "cases": {
+      "nominativ": {
+        "intro": "2.3",
+        "bestemt": "die Oma",
+        "ubestemt": "eine Oma"
+      }
+    },
+    "_id": "oma_noun",
+    "audio": "substantiv_oma.mp3"
+  },
+  "opa_noun": {
+    "word": "Opa",
+    "genus": "m",
+    "plural": "die Opas",
+    "cases": {
+      "nominativ": {
+        "intro": "2.3",
+        "bestemt": "der Opa",
+        "ubestemt": "ein Opa"
+      }
+    },
+    "_id": "opa_noun",
+    "audio": "substantiv_opa.mp3"
+  },
+  "uhr_noun": {
+    "word": "Uhr",
+    "genus": "f",
+    "plural": "die Uhren",
+    "cases": {
+      "nominativ": {
+        "intro": "2.3",
+        "bestemt": "die Uhr",
+        "ubestemt": "eine Uhr"
+      }
+    },
+    "_id": "uhr_noun",
+    "audio": "substantiv_uhr.mp3"
+  },
+  "cafe_noun": {
+    "word": "Café",
+    "genus": "n",
+    "plural": "Cafés",
+    "_id": "cafe_noun"
+  },
+  "pruefungen_noun": {
+    "word": "Prüfungen",
+    "genus": "f",
+    "plural": "Prüfungen",
+    "_id": "pruefungen_noun",
+    "audio": "substantiv_pruefungen.mp3"
+  },
+  "supermarkt_noun": {
+    "word": "Supermarkt",
+    "genus": "m",
+    "plural": "die Supermärkte",
+    "cases": {
+      "nominativ": {
+        "intro": "3.1",
+        "bestemt": "der Supermarkt",
+        "ubestemt": "ein Supermarkt"
+      },
+      "akkusativ": {
+        "intro": "3.1",
+        "bestemt": "den Supermarkt",
+        "ubestemt": "einen Supermarkt"
+      }
+    },
+    "_id": "supermarkt_noun",
+    "audio": "substantiv_supermarkt.mp3"
+  },
+  "milch_noun": {
+    "word": "Milch",
+    "genus": "f",
+    "plural": " (ingen flertall) ",
+    "cases": {
+      "nominativ": {
+        "intro": "3.1",
+        "bestemt": "die Milch",
+        "ubestemt": "eine Milch"
+      },
+      "akkusativ": {
+        "intro": "3.1",
+        "bestemt": "die Milch",
+        "ubestemt": "eine Milch"
+      }
+    },
+    "_id": "milch_noun",
+    "audio": "substantiv_milch.mp3"
+  },
+  "brot_noun": {
+    "word": "Brot",
+    "genus": "n",
+    "plural": "die Brote",
+    "cases": {
+      "nominativ": {
+        "intro": "3.1",
+        "bestemt": "das Brot",
+        "ubestemt": "ein Brot"
+      },
+      "akkusativ": {
+        "intro": "3.1",
+        "bestemt": "das Brot",
+        "ubestemt": "ein Brot"
+      }
+    },
+    "_id": "brot_noun",
+    "audio": "substantiv_brot.mp3"
+  },
+  "kaese_noun": {
+    "word": "Käse",
+    "genus": "m",
+    "plural": "die Käse",
+    "cases": {
+      "nominativ": {
+        "intro": "3.1",
+        "bestemt": "der Käse",
+        "ubestemt": "ein Käse"
+      },
+      "akkusativ": {
+        "intro": "3.1",
+        "bestemt": "den Käse",
+        "ubestemt": "einen Käse"
+      }
+    },
+    "_id": "kaese_noun",
+    "audio": "substantiv_kaese.mp3"
+  },
+  "apfel_noun": {
+    "word": "Apfel",
+    "genus": "m",
+    "plural": "die Äpfel",
+    "cases": {
+      "nominativ": {
+        "intro": "3.1",
+        "bestemt": "der Apfel",
+        "ubestemt": "ein Apfel"
+      },
+      "akkusativ": {
+        "intro": "3.1",
+        "bestemt": "den Apfel",
+        "ubestemt": "einen Apfel"
+      }
+    },
+    "_id": "apfel_noun",
+    "audio": "substantiv_apfel.mp3"
+  },
+  "banane_noun": {
+    "word": "Banane",
+    "genus": "f",
+    "plural": "die Bananen",
+    "cases": {
+      "nominativ": {
+        "intro": "3.1",
+        "bestemt": "die Banane",
+        "ubestemt": "eine Banane"
+      },
+      "akkusativ": {
+        "intro": "3.1",
+        "bestemt": "die Banane",
+        "ubestemt": "eine Banane"
+      }
+    },
+    "_id": "banane_noun",
+    "audio": "substantiv_banane.mp3"
+  },
+  "flasche_noun": {
+    "word": "Flasche",
+    "genus": "f",
+    "plural": "die Flaschen",
+    "cases": {
+      "nominativ": {
+        "intro": "3.1",
+        "bestemt": "die Flasche",
+        "ubestemt": "eine Flasche"
+      },
+      "akkusativ": {
+        "intro": "3.1",
+        "bestemt": "die Flasche",
+        "ubestemt": "eine Flasche"
+      }
+    },
+    "_id": "flasche_noun",
+    "audio": "substantiv_flasche.mp3"
+  },
+  "schokolade_noun": {
+    "word": "Schokolade",
+    "genus": "f",
+    "plural": "die Schokoladen",
+    "cases": {
+      "nominativ": {
+        "intro": "3.1",
+        "bestemt": "die Schokolade",
+        "ubestemt": "eine Schokolade"
+      },
+      "akkusativ": {
+        "intro": "3.1",
+        "bestemt": "die Schokolade",
+        "ubestemt": "eine Schokolade"
+      }
+    },
+    "_id": "schokolade_noun",
+    "audio": "substantiv_schokolade.mp3"
+  },
+  "gemuese_noun": {
+    "word": "Gemüse",
+    "genus": "n",
+    "plural": "die Gemüse",
+    "cases": {
+      "nominativ": {
+        "intro": "3.1",
+        "bestemt": "das Gemüse",
+        "ubestemt": "ein Gemüse"
+      },
+      "akkusativ": {
+        "intro": "3.1",
+        "bestemt": "das Gemüse",
+        "ubestemt": "ein Gemüse"
+      }
+    },
+    "_id": "gemuese_noun",
+    "audio": "substantiv_gemuese.mp3"
+  },
+  "gurke_noun": {
+    "word": "Gurke",
+    "genus": "f",
+    "plural": "die Gurken",
+    "cases": {
+      "nominativ": {
+        "intro": "3.1",
+        "bestemt": "die Gurke",
+        "ubestemt": "eine Gurke"
+      },
+      "akkusativ": {
+        "intro": "3.1",
+        "bestemt": "die Gurke",
+        "ubestemt": "eine Gurke"
+      }
+    },
+    "_id": "gurke_noun",
+    "audio": "substantiv_gurke.mp3"
+  },
+  "tomate_noun": {
+    "word": "Tomate",
+    "genus": "f",
+    "plural": "die Tomaten",
+    "cases": {
+      "nominativ": {
+        "intro": "3.1",
+        "bestemt": "die Tomate",
+        "ubestemt": "eine Tomate"
+      },
+      "akkusativ": {
+        "intro": "3.1",
+        "bestemt": "die Tomate",
+        "ubestemt": "eine Tomate"
+      }
+    },
+    "_id": "tomate_noun",
+    "audio": "substantiv_tomate.mp3"
+  },
+  "ei_noun": {
+    "word": "Ei",
+    "genus": "n",
+    "plural": "die Eier",
+    "cases": {
+      "nominativ": {
+        "intro": "3.1",
+        "bestemt": "das Ei",
+        "ubestemt": "ein Ei"
+      },
+      "akkusativ": {
+        "intro": "3.1",
+        "bestemt": "das Ei",
+        "ubestemt": "ein Ei"
+      }
+    },
+    "_id": "ei_noun",
+    "audio": "substantiv_ei.mp3"
+  },
+  "abendessen_noun": {
+    "word": "Abendessen",
+    "genus": "n",
+    "plural": "die Abendessen",
+    "cases": {
+      "nominativ": {
+        "intro": "3.2",
+        "bestemt": "das Abendessen",
+        "ubestemt": "ein Abendessen"
+      },
+      "akkusativ": {
+        "intro": "3.2",
+        "bestemt": "das Abendessen",
+        "ubestemt": "ein Abendessen"
+      }
+    },
+    "_id": "abendessen_noun",
+    "audio": "substantiv_abendessen.mp3"
+  },
+  "hunger_noun": {
+    "word": "Hunger",
+    "genus": "m",
+    "plural": "(ingen flertall)",
+    "cases": {
+      "nominativ": {
+        "intro": "3.2",
+        "bestemt": "der Hunger",
+        "ubestemt": "ein Hunger"
+      },
+      "akkusativ": {
+        "intro": "3.2",
+        "bestemt": "den Hunger",
+        "ubestemt": "einen Hunger"
+      }
+    },
+    "_id": "hunger_noun",
+    "audio": "substantiv_hunger.mp3"
+  },
+  "nudeln_noun": {
+    "word": "Nudeln",
+    "genus": "f",
+    "plural": "die Nudeln",
+    "cases": {
+      "nominativ": {
+        "intro": "3.2",
+        "bestemt": "die Nudeln"
+      },
+      "akkusativ": {
+        "intro": "3.2",
+        "bestemt": "die Nudeln"
+      }
+    },
+    "_id": "nudeln_noun",
+    "audio": "substantiv_nudeln.mp3"
+  },
+  "tomatensosse_noun": {
+    "word": "Tomatensoße",
+    "genus": "f",
+    "plural": "die Tomatensoßen",
+    "cases": {
+      "nominativ": {
+        "intro": "3.2",
+        "bestemt": "die Tomatensoße",
+        "ubestemt": "eine Tomatensoße"
+      },
+      "akkusativ": {
+        "intro": "3.2",
+        "bestemt": "die Tomatensoße",
+        "ubestemt": "eine Tomatensoße"
+      }
+    },
+    "_id": "tomatensosse_noun",
+    "audio": "substantiv_tomatensosse.mp3"
+  },
+  "zwiebel_noun": {
+    "word": "Zwiebel",
+    "genus": "f",
+    "plural": "die Zwiebeln",
+    "cases": {
+      "nominativ": {
+        "intro": "3.2",
+        "bestemt": "die Zwiebel",
+        "ubestemt": "eine Zwiebel"
+      },
+      "akkusativ": {
+        "intro": "3.2",
+        "bestemt": "die Zwiebel",
+        "ubestemt": "eine Zwiebel"
+      }
+    },
+    "_id": "zwiebel_noun",
+    "audio": "substantiv_zwiebel.mp3"
+  },
+  "pizza_noun": {
+    "word": "Pizza",
+    "genus": "f",
+    "plural": "die Pizzen",
+    "cases": {
+      "nominativ": {
+        "intro": "3.2",
+        "bestemt": "die Pizza",
+        "ubestemt": "eine Pizza"
+      },
+      "akkusativ": {
+        "intro": "3.2",
+        "bestemt": "die Pizza",
+        "ubestemt": "eine Pizza"
+      }
+    },
+    "_id": "pizza_noun",
+    "audio": "substantiv_pizza.mp3"
+  },
+  "salat_noun": {
+    "word": "Salat",
+    "genus": "m",
+    "plural": "die Salate",
+    "cases": {
+      "nominativ": {
+        "intro": "3.2",
+        "bestemt": "der Salat",
+        "ubestemt": "ein Salat"
+      },
+      "akkusativ": {
+        "intro": "3.2",
+        "bestemt": "den Salat",
+        "ubestemt": "einen Salat"
+      }
+    },
+    "_id": "salat_noun",
+    "audio": "substantiv_salat.mp3"
+  },
+  "hamburger_noun": {
+    "word": "Hamburger",
+    "genus": "m",
+    "plural": "die Hamburger",
+    "cases": {
+      "nominativ": {
+        "intro": "3.2",
+        "bestemt": "der Hamburger",
+        "ubestemt": "ein Hamburger"
+      },
+      "akkusativ": {
+        "intro": "3.2",
+        "bestemt": "den Hamburger",
+        "ubestemt": "einen Hamburger"
+      }
+    },
+    "_id": "hamburger_noun",
+    "audio": "substantiv_hamburger.mp3"
+  },
+  "regel_noun": {
+    "word": "Regel",
+    "genus": "f",
+    "plural": "die Regeln",
+    "cases": {
+      "nominativ": {
+        "intro": "7.3",
+        "bestemt": "die Regel",
+        "ubestemt": "eine Regel"
+      },
+      "akkusativ": {
+        "intro": "7.3",
+        "bestemt": "die Regel",
+        "ubestemt": "eine Regel"
+      }
+    },
+    "_id": "regel_noun",
+    "audio": "substantiv_regel.mp3"
+  },
+  "restaurant_noun": {
+    "word": "Restaurant",
+    "genus": "n",
+    "plural": "die Restaurants",
+    "cases": {
+      "nominativ": {
+        "intro": "3.3",
+        "bestemt": "das Restaurant",
+        "ubestemt": "ein Restaurant"
+      },
+      "akkusativ": {
+        "intro": "3.3",
+        "bestemt": "das Restaurant",
+        "ubestemt": "ein Restaurant"
+      }
+    },
+    "_id": "restaurant_noun",
+    "audio": "substantiv_restaurant.mp3"
+  },
+  "kellner_noun": {
+    "word": "Kellner",
+    "genus": "m",
+    "plural": "die Kellner",
+    "cases": {
+      "nominativ": {
+        "intro": "3.3",
+        "bestemt": "der Kellner",
+        "ubestemt": "ein Kellner"
+      },
+      "akkusativ": {
+        "intro": "3.3",
+        "bestemt": "den Kellner",
+        "ubestemt": "einen Kellner"
+      }
+    },
+    "_id": "kellner_noun",
+    "audio": "substantiv_kellner.mp3"
+  },
+  "rechnung_noun": {
+    "word": "Rechnung",
+    "genus": "f",
+    "plural": "die Rechnungen",
+    "cases": {
+      "nominativ": {
+        "intro": "3.3",
+        "bestemt": "die Rechnung",
+        "ubestemt": "eine Rechnung"
+      },
+      "akkusativ": {
+        "intro": "3.3",
+        "bestemt": "die Rechnung",
+        "ubestemt": "eine Rechnung"
+      }
+    },
+    "_id": "rechnung_noun",
+    "audio": "substantiv_rechnung.mp3"
+  },
+  "kuchen_noun": {
+    "word": "Kuchen",
+    "genus": "m",
+    "plural": "die Kuchen",
+    "cases": {
+      "nominativ": {
+        "intro": "3.3",
+        "bestemt": "der Kuchen",
+        "ubestemt": "ein Kuchen"
+      },
+      "akkusativ": {
+        "intro": "3.3",
+        "bestemt": "den Kuchen",
+        "ubestemt": "einen Kuchen"
+      }
+    },
+    "_id": "kuchen_noun",
+    "audio": "substantiv_kuchen.mp3"
+  },
+  "apfelsaft_noun": {
+    "word": "Apfelsaft",
+    "genus": "m",
+    "plural": "die Apfelsäfte",
+    "cases": {
+      "nominativ": {
+        "intro": "3.3",
+        "bestemt": "der Apfelsaft",
+        "ubestemt": "ein Apfelsaft"
+      },
+      "akkusativ": {
+        "intro": "3.3",
+        "bestemt": "den Apfelsaft",
+        "ubestemt": "einen Apfelsaft"
+      }
+    },
+    "_id": "apfelsaft_noun",
+    "audio": "substantiv_apfelsaft.mp3"
+  },
+  "pullover_noun": {
+    "word": "Pullover",
+    "genus": "m",
+    "plural": "die Pullover",
+    "cases": {
+      "nominativ": {
+        "intro": "4.1",
+        "bestemt": "der Pullover",
+        "ubestemt": "ein Pullover"
+      },
+      "akkusativ": {
+        "intro": "4.1",
+        "bestemt": "den Pullover",
+        "ubestemt": "einen Pullover"
+      }
+    },
+    "_id": "pullover_noun",
+    "audio": "substantiv_pullover.mp3"
+  },
+  "hose_noun": {
+    "word": "Hose",
+    "genus": "f",
+    "plural": "die Hosen",
+    "cases": {
+      "nominativ": {
+        "intro": "4.1",
+        "bestemt": "die Hose",
+        "ubestemt": "eine Hose"
+      },
+      "akkusativ": {
+        "intro": "4.1",
+        "bestemt": "die Hose",
+        "ubestemt": "eine Hose"
+      }
+    },
+    "_id": "hose_noun",
+    "audio": "substantiv_hose.mp3"
+  },
+  "jacke_noun": {
+    "word": "Jacke",
+    "genus": "f",
+    "plural": "die Jacken",
+    "cases": {
+      "nominativ": {
+        "intro": "4.1",
+        "bestemt": "die Jacke",
+        "ubestemt": "eine Jacke"
+      },
+      "akkusativ": {
+        "intro": "4.1",
+        "bestemt": "die Jacke",
+        "ubestemt": "eine Jacke"
+      }
+    },
+    "_id": "jacke_noun",
+    "audio": "substantiv_jacke.mp3"
+  },
+  "schuhe_noun": {
+    "word": "Schuhe",
+    "genus": "m",
+    "plural": "die Schuhe",
+    "cases": {
+      "nominativ": {
+        "intro": "4.1",
+        "bestemt": "die Schuhe"
+      },
+      "akkusativ": {
+        "intro": "4.1",
+        "bestemt": "die Schuhe"
+      }
+    },
+    "_id": "schuhe_noun",
+    "audio": "substantiv_schuhe.mp3"
+  },
+  "hemd_noun": {
+    "word": "Hemd",
+    "genus": "n",
+    "plural": "die Hemden",
+    "cases": {
+      "nominativ": {
+        "intro": "4.1",
+        "bestemt": "das Hemd",
+        "ubestemt": "ein Hemd"
+      },
+      "akkusativ": {
+        "intro": "4.1",
+        "bestemt": "das Hemd",
+        "ubestemt": "ein Hemd"
+      }
+    },
+    "_id": "hemd_noun",
+    "audio": "substantiv_hemd.mp3"
+  },
+  "rock_noun": {
+    "word": "Rock",
+    "genus": "m",
+    "plural": "die Röcke",
+    "cases": {
+      "nominativ": {
+        "intro": "4.1",
+        "bestemt": "der Rock",
+        "ubestemt": "ein Rock"
+      },
+      "akkusativ": {
+        "intro": "4.1",
+        "bestemt": "den Rock",
+        "ubestemt": "einen Rock"
+      }
+    },
+    "_id": "rock_noun",
+    "audio": "substantiv_rock.mp3"
+  },
+  "kleid_noun": {
+    "word": "Kleid",
+    "genus": "n",
+    "plural": "die Kleider",
+    "cases": {
+      "nominativ": {
+        "intro": "4.1",
+        "bestemt": "das Kleid",
+        "ubestemt": "ein Kleid"
+      },
+      "akkusativ": {
+        "intro": "4.1",
+        "bestemt": "das Kleid",
+        "ubestemt": "ein Kleid"
+      }
+    },
+    "_id": "kleid_noun",
+    "audio": "substantiv_kleid.mp3"
+  },
+  "farbe_noun": {
+    "word": "Farbe",
+    "genus": "f",
+    "plural": "die Farben",
+    "cases": {
+      "nominativ": {
+        "intro": "4.1",
+        "bestemt": "die Farbe",
+        "ubestemt": "eine Farbe"
+      },
+      "akkusativ": {
+        "intro": "4.1",
+        "bestemt": "die Farbe",
+        "ubestemt": "eine Farbe"
+      }
+    },
+    "_id": "farbe_noun",
+    "audio": "substantiv_farbe.mp3"
+  },
+  "aussehen_noun": {
+    "word": "Aussehen",
+    "genus": "n",
+    "plural": " (ingen flertall)",
+    "cases": {
+      "nominativ": {
+        "intro": "4.2",
+        "bestemt": "das Aussehen",
+        "ubestemt": "ein Aussehen"
+      },
+      "akkusativ": {
+        "intro": "4.2",
+        "bestemt": "das Aussehen",
+        "ubestemt": "ein Aussehen"
+      }
+    },
+    "_id": "aussehen_noun",
+    "audio": "substantiv_aussehen.mp3"
+  },
+  "koerperteil_noun": {
+    "word": "Körperteil",
+    "genus": "m",
+    "plural": "die Körperteile",
+    "cases": {
+      "nominativ": {
+        "intro": "4.2",
+        "bestemt": "der Körperteil",
+        "ubestemt": "ein Körperteil"
+      },
+      "akkusativ": {
+        "intro": "4.2",
+        "bestemt": "den Körperteil",
+        "ubestemt": "einen Körperteil"
+      }
+    },
+    "_id": "koerperteil_noun",
+    "audio": "substantiv_koerperteil.mp3"
+  },
+  "auge_noun": {
+    "word": "Auge",
+    "genus": "n",
+    "plural": "die Augen",
+    "cases": {
+      "nominativ": {
+        "intro": "4.2",
+        "bestemt": "das Auge",
+        "ubestemt": "ein Auge"
+      },
+      "akkusativ": {
+        "intro": "4.2",
+        "bestemt": "das Auge",
+        "ubestemt": "ein Auge"
+      }
+    },
+    "_id": "auge_noun",
+    "audio": "substantiv_auge.mp3"
+  },
+  "haar_noun": {
+    "word": "Haar",
+    "genus": "n",
+    "plural": "die Haare",
+    "cases": {
+      "nominativ": {
+        "intro": "4.2",
+        "bestemt": "das Haar",
+        "ubestemt": "ein Haar"
+      },
+      "akkusativ": {
+        "intro": "4.2",
+        "bestemt": "das Haar",
+        "ubestemt": "ein Haar"
+      }
+    },
+    "_id": "haar_noun",
+    "audio": "substantiv_haar.mp3"
+  },
+  "nase_noun": {
+    "word": "Nase",
+    "genus": "f",
+    "plural": "die Nasen",
+    "cases": {
+      "nominativ": {
+        "intro": "4.2",
+        "bestemt": "die Nase",
+        "ubestemt": "eine Nase"
+      },
+      "akkusativ": {
+        "intro": "4.2",
+        "bestemt": "die Nase",
+        "ubestemt": "eine Nase"
+      }
+    },
+    "_id": "nase_noun",
+    "audio": "substantiv_nase.mp3"
+  },
+  "mund_noun": {
+    "word": "Mund",
+    "genus": "m",
+    "plural": "die Münder",
+    "cases": {
+      "nominativ": {
+        "intro": "4.2",
+        "bestemt": "der Mund",
+        "ubestemt": "ein Mund"
+      },
+      "akkusativ": {
+        "intro": "4.2",
+        "bestemt": "den Mund",
+        "ubestemt": "einen Mund"
+      }
+    },
+    "_id": "mund_noun",
+    "audio": "substantiv_mund.mp3"
+  },
+  "kopf_noun": {
+    "word": "Kopf",
+    "genus": "m",
+    "plural": "die Köpfe",
+    "cases": {
+      "nominativ": {
+        "intro": "4.2",
+        "bestemt": "der Kopf",
+        "ubestemt": "ein Kopf"
+      },
+      "akkusativ": {
+        "intro": "4.2",
+        "bestemt": "den Kopf",
+        "ubestemt": "einen Kopf"
+      }
+    },
+    "_id": "kopf_noun",
+    "audio": "substantiv_kopf.mp3"
+  },
+  "persoenlichkeit_noun": {
+    "word": "Persönlichkeit",
+    "genus": "f",
+    "plural": "die Persönlichkeiten",
+    "cases": {
+      "nominativ": {
+        "intro": "4.3",
+        "bestemt": "die Persönlichkeit",
+        "ubestemt": "eine Persönlichkeit"
+      },
+      "akkusativ": {
+        "intro": "4.3",
+        "bestemt": "die Persönlichkeit",
+        "ubestemt": "eine Persönlichkeit"
+      }
+    },
+    "_id": "persoenlichkeit_noun",
+    "audio": "substantiv_persoenlichkeit.mp3"
+  },
+  "tag_noun": {
+    "word": "Tag",
+    "genus": "m",
+    "plural": "die Tage",
+    "cases": {
+      "nominativ": {
+        "intro": "5.1",
+        "bestemt": "der Tag",
+        "ubestemt": "ein Tag"
+      },
+      "akkusativ": {
+        "intro": "5.1",
+        "bestemt": "den Tag",
+        "ubestemt": "einen Tag"
+      }
+    },
+    "_id": "tag_noun",
+    "audio": "substantiv_tag.mp3"
+  },
+  "nachmittag_noun": {
+    "word": "Nachmittag",
+    "genus": "m",
+    "plural": "die Nachmittage",
+    "cases": {
+      "nominativ": {
+        "intro": "5.1",
+        "bestemt": "der Nachmittag",
+        "ubestemt": "ein Nachmittag"
+      },
+      "akkusativ": {
+        "intro": "5.1",
+        "bestemt": "den Nachmittag",
+        "ubestemt": "einen Nachmittag"
+      }
+    },
+    "_id": "nachmittag_noun",
+    "audio": "substantiv_nachmittag.mp3"
+  },
+  "abend_noun": {
+    "word": "Abend",
+    "genus": "m",
+    "plural": "die Abende",
+    "cases": {
+      "nominativ": {
+        "intro": "5.1",
+        "bestemt": "der Abend",
+        "ubestemt": "ein Abend"
+      },
+      "akkusativ": {
+        "intro": "5.1",
+        "bestemt": "den Abend",
+        "ubestemt": "einen Abend"
+      }
+    },
+    "_id": "abend_noun",
+    "audio": "substantiv_abend.mp3"
+  },
+  "schultasche_noun": {
+    "word": "Schultasche",
+    "genus": "f",
+    "plural": "die Schultaschen",
+    "cases": {
+      "nominativ": {
+        "intro": "5.1",
+        "bestemt": "die Schultasche",
+        "ubestemt": "eine Schultasche"
+      },
+      "akkusativ": {
+        "intro": "5.1",
+        "bestemt": "die Schultasche",
+        "ubestemt": "eine Schultasche"
+      }
+    },
+    "_id": "schultasche_noun",
+    "audio": "substantiv_schultasche.mp3"
+  },
+  "uhrzeit_noun": {
+    "word": "Uhrzeit",
+    "genus": "f",
+    "plural": "die Uhrzeiten",
+    "cases": {
+      "nominativ": {
+        "intro": "5.2",
+        "bestemt": "die Uhrzeit",
+        "ubestemt": "eine Uhrzeit"
+      },
+      "akkusativ": {
+        "intro": "5.2",
+        "bestemt": "die Uhrzeit",
+        "ubestemt": "eine Uhrzeit"
+      }
+    },
+    "_id": "uhrzeit_noun",
+    "audio": "substantiv_uhrzeit.mp3"
+  },
+  "superheld_noun": {
+    "word": "Superheld",
+    "genus": "m",
+    "plural": "die Superhelden",
+    "cases": {
+      "nominativ": {
+        "intro": "5.2",
+        "bestemt": "der Superheld",
+        "ubestemt": "ein Superheld"
+      },
+      "akkusativ": {
+        "intro": "5.2",
+        "bestemt": "den Superhelden",
+        "ubestemt": "einen Superhelden"
+      }
+    },
+    "_id": "superheld_noun",
+    "audio": "substantiv_superheld.mp3"
+  },
+  "plan_noun": {
+    "word": "Plan",
+    "genus": "m",
+    "plural": "die Pläne",
+    "cases": {
+      "nominativ": {
+        "intro": "5.3",
+        "bestemt": "der Plan",
+        "ubestemt": "ein Plan"
+      },
+      "akkusativ": {
+        "intro": "5.3",
+        "bestemt": "den Plan",
+        "ubestemt": "einen Plan"
+      }
+    },
+    "_id": "plan_noun",
+    "audio": "substantiv_plan.mp3"
+  },
+  "vorschlag_noun": {
+    "word": "Vorschlag",
+    "genus": "m",
+    "plural": "die Vorschläge",
+    "cases": {
+      "nominativ": {
+        "intro": "5.3",
+        "bestemt": "der Vorschlag",
+        "ubestemt": "ein Vorschlag"
+      },
+      "akkusativ": {
+        "intro": "5.3",
+        "bestemt": "den Vorschlag",
+        "ubestemt": "einen Vorschlag"
+      }
+    },
+    "_id": "vorschlag_noun",
+    "audio": "substantiv_vorschlag.mp3"
+  },
+  "eis_noun": {
+    "word": "Eis",
+    "genus": "n",
+    "plural": "die Eis",
+    "cases": {
+      "nominativ": {
+        "intro": "5.3",
+        "bestemt": "das Eis",
+        "ubestemt": "ein Eis"
+      },
+      "akkusativ": {
+        "intro": "5.3",
+        "bestemt": "das Eis",
+        "ubestemt": "ein Eis"
+      }
+    },
+    "_id": "eis_noun",
+    "audio": "substantiv_eis.mp3"
+  },
+  "park_noun": {
+    "word": "Park",
+    "genus": "m",
+    "plural": "die Parks",
+    "cases": {
+      "nominativ": {
+        "intro": "9.2",
+        "bestemt": "der Park",
+        "ubestemt": "ein Park"
+      },
+      "akkusativ": {
+        "intro": "9.2",
+        "bestemt": "den Park",
+        "ubestemt": "einen Park"
+      }
+    },
+    "_id": "park_noun",
+    "audio": "substantiv_park.mp3"
+  },
+  "musik_noun": {
+    "word": "Musik",
+    "genus": "f",
+    "plural": null,
+    "cases": {
+      "nominativ": {
+        "intro": "5.3",
+        "bestemt": "die Musik"
+      },
+      "akkusativ": {
+        "intro": "5.3",
+        "bestemt": "die Musik"
+      }
+    },
+    "_id": "musik_noun",
+    "audio": "substantiv_musik.mp3"
+  },
+  "idee_noun": {
+    "word": "Idee",
+    "genus": "f",
+    "plural": "die Ideen",
+    "cases": {
+      "nominativ": {
+        "intro": "5.3",
+        "bestemt": "die Idee",
+        "ubestemt": "eine Idee"
+      },
+      "akkusativ": {
+        "intro": "5.3",
+        "bestemt": "die Idee",
+        "ubestemt": "eine Idee"
+      }
+    },
+    "_id": "idee_noun",
+    "audio": "substantiv_idee.mp3"
+  },
+  "computerspiel_noun": {
+    "word": "Computerspiel",
+    "genus": "n",
+    "plural": "die Computerspiele",
+    "cases": {
+      "nominativ": {
+        "intro": "5.3",
+        "bestemt": "das Computerspiel",
+        "ubestemt": "ein Computerspiel"
+      },
+      "akkusativ": {
+        "intro": "5.3",
+        "bestemt": "das Computerspiel",
+        "ubestemt": "ein Computerspiel"
+      }
+    },
+    "_id": "computerspiel_noun",
+    "audio": "substantiv_computerspiel.mp3"
+  },
+  "turnier_noun": {
+    "word": "Turnier",
+    "genus": "n",
+    "plural": "die Turniere",
+    "cases": {
+      "nominativ": {
+        "intro": "5.3",
+        "bestemt": "das Turnier",
+        "ubestemt": "ein Turnier"
+      },
+      "akkusativ": {
+        "intro": "5.3",
+        "bestemt": "das Turnier",
+        "ubestemt": "ein Turnier"
+      }
+    },
+    "_id": "turnier_noun",
+    "audio": "substantiv_turnier.mp3"
+  },
+  "wetter_noun": {
+    "word": "Wetter",
+    "genus": "n",
+    "plural": "(ingen flertall)",
+    "cases": {
+      "nominativ": {
+        "intro": "7.3",
+        "bestemt": "das Wetter",
+        "ubestemt": "ein Wetter"
+      },
+      "akkusativ": {
+        "intro": "7.3",
+        "bestemt": "das Wetter",
+        "ubestemt": "ein Wetter"
+      }
+    },
+    "_id": "wetter_noun",
+    "audio": "substantiv_wetter.mp3"
+  },
+  "stunde_noun": {
+    "word": "Stunde",
+    "genus": "f",
+    "plural": "die Stunden",
+    "cases": {
+      "nominativ": {
+        "intro": "5.3",
+        "bestemt": "die Stunde",
+        "ubestemt": "eine Stunde"
+      },
+      "akkusativ": {
+        "intro": "5.3",
+        "bestemt": "die Stunde",
+        "ubestemt": "eine Stunde"
+      }
+    },
+    "_id": "stunde_noun",
+    "audio": "substantiv_stunde.mp3"
+  },
+  "viertel_noun": {
+    "word": "Viertel",
+    "genus": "n",
+    "plural": "die Viertel",
+    "cases": {
+      "nominativ": {
+        "intro": "5.3",
+        "bestemt": "das Viertel",
+        "ubestemt": "ein Viertel"
+      },
+      "akkusativ": {
+        "intro": "5.3",
+        "bestemt": "das Viertel",
+        "ubestemt": "ein Viertel"
+      }
+    },
+    "_id": "viertel_noun",
+    "audio": "substantiv_viertel.mp3"
+  },
+  "hund_noun": {
+    "word": "Hund",
+    "genus": "m",
+    "plural": "die Hunde",
+    "cases": {
+      "nominativ": {
+        "intro": "6.1",
+        "bestemt": "der Hund",
+        "ubestemt": "ein Hund"
+      },
+      "akkusativ": {
+        "intro": "6.1",
+        "bestemt": "den Hund",
+        "ubestemt": "einen Hund"
+      }
+    },
+    "_id": "hund_noun",
+    "audio": "substantiv_hund.mp3"
+  },
+  "tiger_noun": {
+    "word": "Tiger",
+    "genus": "m",
+    "plural": "die Tiger",
+    "cases": {
+      "nominativ": {
+        "intro": "6.3",
+        "bestemt": "der Tiger",
+        "ubestemt": "ein Tiger"
+      },
+      "akkusativ": {
+        "intro": "6.3",
+        "bestemt": "den Tiger",
+        "ubestemt": "einen Tiger"
+      }
+    },
+    "_id": "tiger_noun",
+    "audio": "substantiv_tiger.mp3"
+  },
+  "katze_noun": {
+    "word": "Katze",
+    "genus": "f",
+    "plural": "die Katzen",
+    "cases": {
+      "nominativ": {
+        "intro": "6.1",
+        "bestemt": "die Katze",
+        "ubestemt": "eine Katze"
+      },
+      "akkusativ": {
+        "intro": "6.1",
+        "bestemt": "die Katze",
+        "ubestemt": "eine Katze"
+      }
+    },
+    "_id": "katze_noun",
+    "audio": "substantiv_katze.mp3"
+  },
+  "kaninchen_noun": {
+    "word": "Kaninchen",
+    "genus": "n",
+    "plural": "die Kaninchen",
+    "cases": {
+      "nominativ": {
+        "intro": "6.1",
+        "bestemt": "das Kaninchen",
+        "ubestemt": "ein Kaninchen"
+      },
+      "akkusativ": {
+        "intro": "6.1",
+        "bestemt": "das Kaninchen",
+        "ubestemt": "ein Kaninchen"
+      }
+    },
+    "_id": "kaninchen_noun",
+    "audio": "substantiv_kaninchen.mp3"
+  },
+  "fisch_noun": {
+    "word": "Fisch",
+    "genus": "m",
+    "plural": "die Fische",
+    "cases": {
+      "nominativ": {
+        "intro": "6.1",
+        "bestemt": "der Fisch",
+        "ubestemt": "ein Fisch"
+      },
+      "akkusativ": {
+        "intro": "6.1",
+        "bestemt": "den Fisch",
+        "ubestemt": "einen Fisch"
+      }
+    },
+    "_id": "fisch_noun",
+    "audio": "substantiv_fisch.mp3"
+  },
+  "hamster_noun": {
+    "word": "Hamster",
+    "genus": "m",
+    "plural": "die Hamster",
+    "cases": {
+      "nominativ": {
+        "intro": "6.1",
+        "bestemt": "der Hamster",
+        "ubestemt": "ein Hamster"
+      },
+      "akkusativ": {
+        "intro": "6.1",
+        "bestemt": "den Hamster",
+        "ubestemt": "einen Hamster"
+      }
+    },
+    "_id": "hamster_noun",
+    "audio": "substantiv_hamster.mp3"
+  },
+  "garten_noun": {
+    "word": "Garten",
+    "genus": "m",
+    "plural": "die Gärten",
+    "cases": {
+      "nominativ": {
+        "intro": "6.1",
+        "bestemt": "der Garten",
+        "ubestemt": "ein Garten"
+      },
+      "akkusativ": {
+        "intro": "6.1",
+        "bestemt": "den Garten",
+        "ubestemt": "einen Garten"
+      }
+    },
+    "_id": "garten_noun",
+    "audio": "substantiv_garten.mp3"
+  },
+  "tier_noun": {
+    "word": "Tier",
+    "genus": "n",
+    "plural": "die Tiere",
+    "cases": {
+      "nominativ": {
+        "intro": "6.1",
+        "bestemt": "das Tier",
+        "ubestemt": "ein Tier"
+      },
+      "akkusativ": {
+        "intro": "6.1",
+        "bestemt": "das Tier",
+        "ubestemt": "ein Tier"
+      }
+    },
+    "_id": "tier_noun",
+    "audio": "substantiv_tier.mp3"
+  },
+  "haustier_noun": {
+    "word": "Haustier",
+    "genus": "n",
+    "plural": "die Haustiere",
+    "cases": {
+      "nominativ": {
+        "intro": "6.1",
+        "bestemt": "das Haustier",
+        "ubestemt": "ein Haustier"
+      },
+      "akkusativ": {
+        "intro": "6.1",
+        "bestemt": "das Haustier",
+        "ubestemt": "ein Haustier"
+      }
+    },
+    "_id": "haustier_noun",
+    "audio": "substantiv_haustier.mp3"
+  },
+  "goldfisch_noun": {
+    "word": "Goldfisch",
+    "genus": "m",
+    "plural": "die Goldfische",
+    "cases": {
+      "nominativ": {
+        "intro": "6.1",
+        "bestemt": "der Goldfisch",
+        "ubestemt": "ein Goldfisch"
+      },
+      "akkusativ": {
+        "intro": "6.1",
+        "bestemt": "den Goldfisch",
+        "ubestemt": "einen Goldfisch"
+      }
+    },
+    "_id": "goldfisch_noun",
+    "audio": "substantiv_goldfisch.mp3"
+  },
+  "vogel_noun": {
+    "word": "Vogel",
+    "genus": "m",
+    "plural": "die Vögel",
+    "cases": {
+      "nominativ": {
+        "intro": "6.1",
+        "bestemt": "der Vogel",
+        "ubestemt": "ein Vogel"
+      },
+      "akkusativ": {
+        "intro": "6.1",
+        "bestemt": "den Vogel",
+        "ubestemt": "einen Vogel"
+      }
+    },
+    "_id": "vogel_noun",
+    "audio": "substantiv_vogel.mp3"
+  },
+  "maus_noun": {
+    "word": "Maus",
+    "genus": "f",
+    "plural": "die Mäuse",
+    "cases": {
+      "nominativ": {
+        "intro": "6.1",
+        "bestemt": "die Maus",
+        "ubestemt": "eine Maus"
+      },
+      "akkusativ": {
+        "intro": "6.1",
+        "bestemt": "die Maus",
+        "ubestemt": "eine Maus"
+      }
+    },
+    "_id": "maus_noun",
+    "audio": "substantiv_maus.mp3"
+  },
+  "essen_noun": {
+    "word": "Essen",
+    "genus": "n",
+    "plural": "die Essen",
+    "cases": {
+      "nominativ": {
+        "intro": "6.1",
+        "bestemt": "das Essen",
+        "ubestemt": "ein Essen"
+      },
+      "akkusativ": {
+        "intro": "6.1",
+        "bestemt": "das Essen",
+        "ubestemt": "ein Essen"
+      }
+    },
+    "_id": "essen_noun",
+    "audio": "substantiv_essen.mp3"
+  },
+  "wasser_noun": {
+    "word": "Wasser",
+    "genus": "n",
+    "plural": "(ingen flertall)",
+    "cases": {
+      "nominativ": {
+        "intro": "6.1",
+        "bestemt": "das Wasser",
+        "ubestemt": "ein Wasser"
+      },
+      "akkusativ": {
+        "intro": "6.1",
+        "bestemt": "das Wasser",
+        "ubestemt": "ein Wasser"
+      }
+    },
+    "_id": "wasser_noun",
+    "audio": "substantiv_wasser.mp3"
+  },
+  "zeit_noun": {
+    "word": "Zeit",
+    "genus": "f",
+    "plural": "die Zeiten",
+    "cases": {
+      "nominativ": {
+        "intro": "5.1",
+        "bestemt": "die Zeit",
+        "ubestemt": "eine Zeit"
+      },
+      "akkusativ": {
+        "intro": "5.1",
+        "bestemt": "die Zeit",
+        "ubestemt": "eine Zeit"
+      }
+    },
+    "_id": "zeit_noun",
+    "audio": "substantiv_zeit.mp3"
+  },
+  "arbeit_noun": {
+    "word": "Arbeit",
+    "genus": "f",
+    "plural": "die Arbeiten",
+    "cases": {
+      "nominativ": {
+        "intro": "6.1",
+        "bestemt": "die Arbeit",
+        "ubestemt": "eine Arbeit"
+      },
+      "akkusativ": {
+        "intro": "6.1",
+        "bestemt": "die Arbeit",
+        "ubestemt": "eine Arbeit"
+      }
+    },
+    "_id": "arbeit_noun",
+    "audio": "substantiv_arbeit.mp3"
+  },
+  "platz_noun": {
+    "word": "Platz",
+    "genus": "m",
+    "plural": "die Plätze",
+    "cases": {
+      "nominativ": {
+        "intro": "6.1",
+        "bestemt": "der Platz",
+        "ubestemt": "ein Platz"
+      },
+      "akkusativ": {
+        "intro": "6.1",
+        "bestemt": "den Platz",
+        "ubestemt": "einen Platz"
+      }
+    },
+    "_id": "platz_noun",
+    "audio": "substantiv_platz.mp3"
+  },
+  "futter_noun": {
+    "word": "Futter",
+    "genus": "n",
+    "plural": "die Futter",
+    "cases": {
+      "nominativ": {
+        "intro": "6.1",
+        "bestemt": "das Futter",
+        "ubestemt": "ein Futter"
+      },
+      "akkusativ": {
+        "intro": "6.1",
+        "bestemt": "das Futter",
+        "ubestemt": "ein Futter"
+      }
+    },
+    "_id": "futter_noun",
+    "audio": "substantiv_futter.mp3"
+  },
+  "kaefig_noun": {
+    "word": "Käfig",
+    "genus": "m",
+    "plural": "die Käfige",
+    "cases": {
+      "nominativ": {
+        "intro": "6.1",
+        "bestemt": "der Käfig",
+        "ubestemt": "ein Käfig"
+      },
+      "akkusativ": {
+        "intro": "6.1",
+        "bestemt": "den Käfig",
+        "ubestemt": "einen Käfig"
+      }
+    },
+    "_id": "kaefig_noun",
+    "audio": "substantiv_kaefig.mp3"
+  },
+  "aquarium_noun": {
+    "word": "Aquarium",
+    "genus": "n",
+    "plural": "die Aquarien",
+    "cases": {
+      "nominativ": {
+        "intro": "6.1",
+        "bestemt": "das Aquarium",
+        "ubestemt": "ein Aquarium"
+      },
+      "akkusativ": {
+        "intro": "6.1",
+        "bestemt": "das Aquarium",
+        "ubestemt": "ein Aquarium"
+      }
+    },
+    "_id": "aquarium_noun",
+    "audio": "substantiv_aquarium.mp3"
+  },
+  "fell_noun": {
+    "word": "Fell",
+    "genus": "n",
+    "plural": "die Felle",
+    "cases": {
+      "nominativ": {
+        "intro": "6.1",
+        "bestemt": "das Fell",
+        "ubestemt": "ein Fell"
+      },
+      "akkusativ": {
+        "intro": "6.1",
+        "bestemt": "das Fell",
+        "ubestemt": "ein Fell"
+      }
+    },
+    "_id": "fell_noun",
+    "audio": "substantiv_fell.mp3"
+  },
+  "tuer_noun": {
+    "word": "Tür",
+    "genus": "f",
+    "plural": "die Türen",
+    "cases": {
+      "nominativ": {
+        "intro": "6.2",
+        "bestemt": "die Tür",
+        "ubestemt": "eine Tür"
+      },
+      "akkusativ": {
+        "intro": "6.2",
+        "bestemt": "die Tür",
+        "ubestemt": "eine Tür"
+      }
+    },
+    "_id": "tuer_noun",
+    "audio": "substantiv_tuer.mp3"
+  },
+  "jaeger_noun": {
+    "word": "Jäger",
+    "genus": "m",
+    "plural": "die Jäger",
+    "cases": {
+      "nominativ": {
+        "intro": "6.2",
+        "bestemt": "der Jäger",
+        "ubestemt": "ein Jäger"
+      },
+      "akkusativ": {
+        "intro": "6.2",
+        "bestemt": "den Jäger",
+        "ubestemt": "einen Jäger"
+      }
+    },
+    "_id": "jaeger_noun",
+    "audio": "substantiv_jaeger.mp3"
+  },
+  "jaegerin_noun": {
+    "word": "Jägerin",
+    "genus": "f",
+    "plural": "die Jägerinnen",
+    "cases": {
+      "nominativ": {
+        "intro": "6.2",
+        "bestemt": "die Jägerin",
+        "ubestemt": "eine Jägerin"
+      },
+      "akkusativ": {
+        "intro": "6.2",
+        "bestemt": "die Jägerin",
+        "ubestemt": "eine Jägerin"
+      }
+    },
+    "_id": "jaegerin_noun",
+    "audio": "substantiv_jaegerin.mp3"
+  },
+  "groesse_noun": {
+    "word": "Gr  e",
+    "genus": "f",
+    "plural": "die Größen",
+    "cases": {
+      "nominativ": {
+        "intro": "6.2",
+        "bestemt": "die Größe",
+        "ubestemt": "eine Größe"
+      },
+      "akkusativ": {
+        "intro": "6.2",
+        "bestemt": "die Größe",
+        "ubestemt": "eine Größe"
+      }
+    },
+    "_id": "groesse_noun",
+    "audio": "substantiv_gr_e.mp3"
+  },
+  "mensch_noun": {
+    "word": "Mensch",
+    "genus": "m",
+    "plural": "die Menschen",
+    "cases": {
+      "nominativ": {
+        "intro": "6.2",
+        "bestemt": "der Mensch",
+        "ubestemt": "ein Mensch"
+      },
+      "akkusativ": {
+        "intro": "6.2",
+        "bestemt": "den Menschen",
+        "ubestemt": "einen Menschen"
+      }
+    },
+    "_id": "mensch_noun",
+    "audio": "substantiv_mensch.mp3"
+  },
+  "zoo_noun": {
+    "word": "Zoo",
+    "genus": "m",
+    "plural": "die Zoos",
+    "cases": {
+      "nominativ": {
+        "intro": "6.3",
+        "bestemt": "der Zoo",
+        "ubestemt": "ein Zoo"
+      },
+      "akkusativ": {
+        "intro": "6.3",
+        "bestemt": "den Zoo",
+        "ubestemt": "einen Zoo"
+      }
+    },
+    "_id": "zoo_noun",
+    "audio": "substantiv_zoo.mp3"
+  },
+  "elefant_noun": {
+    "word": "Elefant",
+    "genus": "m",
+    "plural": "die Elefanten",
+    "cases": {
+      "nominativ": {
+        "intro": "6.3",
+        "bestemt": "der Elefant",
+        "ubestemt": "ein Elefant"
+      },
+      "akkusativ": {
+        "intro": "6.3",
+        "bestemt": "den Elefanten",
+        "ubestemt": "einen Elefanten"
+      }
+    },
+    "_id": "elefant_noun",
+    "audio": "substantiv_elefant.mp3"
+  },
+  "giraffe_noun": {
+    "word": "Giraffe",
+    "genus": "f",
+    "plural": "die Giraffen",
+    "cases": {
+      "nominativ": {
+        "intro": "6.3",
+        "bestemt": "die Giraffe",
+        "ubestemt": "eine Giraffe"
+      },
+      "akkusativ": {
+        "intro": "6.3",
+        "bestemt": "die Giraffe",
+        "ubestemt": "eine Giraffe"
+      }
+    },
+    "_id": "giraffe_noun",
+    "audio": "substantiv_giraffe.mp3"
+  },
+  "loewe_noun": {
+    "word": "Löwe",
+    "genus": "m",
+    "plural": "die Löwen",
+    "cases": {
+      "nominativ": {
+        "intro": "6.3",
+        "bestemt": "der Löwe",
+        "ubestemt": "ein Löwe"
+      },
+      "akkusativ": {
+        "intro": "6.3",
+        "bestemt": "den Löwen",
+        "ubestemt": "einen Löwen"
+      }
+    },
+    "_id": "loewe_noun",
+    "audio": "substantiv_loewe.mp3"
+  },
+  "affe_noun": {
+    "word": "Affe",
+    "genus": "m",
+    "plural": "die Affen",
+    "cases": {
+      "nominativ": {
+        "intro": "6.3",
+        "bestemt": "der Affe",
+        "ubestemt": "ein Affe"
+      },
+      "akkusativ": {
+        "intro": "6.3",
+        "bestemt": "den Affen",
+        "ubestemt": "einen Affen"
+      }
+    },
+    "_id": "affe_noun",
+    "audio": "substantiv_affe.mp3"
+  },
+  "baer_noun": {
+    "word": "Bär",
+    "genus": "m",
+    "plural": "die Bären",
+    "cases": {
+      "nominativ": {
+        "intro": "6.3",
+        "bestemt": "der Bär",
+        "ubestemt": "ein Bär"
+      },
+      "akkusativ": {
+        "intro": "6.3",
+        "bestemt": "den Bären",
+        "ubestemt": "einen Bären"
+      }
+    },
+    "_id": "baer_noun",
+    "audio": "substantiv_baer.mp3"
+  },
+  "lieblingstier_noun": {
+    "word": "Lieblingstier",
+    "genus": "n",
+    "plural": "die Lieblingstiere",
+    "cases": {
+      "nominativ": {
+        "intro": "6.3",
+        "bestemt": "das Lieblingstier",
+        "ubestemt": "ein Lieblingstier"
+      },
+      "akkusativ": {
+        "intro": "6.3",
+        "bestemt": "das Lieblingstier",
+        "ubestemt": "ein Lieblingstier"
+      }
+    },
+    "_id": "lieblingstier_noun",
+    "audio": "substantiv_lieblingstier.mp3"
+  },
+  "hals_noun": {
+    "word": "Hals",
+    "genus": "m",
+    "plural": "die Hälse",
+    "cases": {
+      "nominativ": {
+        "intro": "6.3",
+        "bestemt": "der Hals",
+        "ubestemt": "ein Hals"
+      },
+      "akkusativ": {
+        "intro": "6.3",
+        "bestemt": "den Hals",
+        "ubestemt": "einen Hals"
+      }
+    },
+    "_id": "hals_noun",
+    "audio": "substantiv_hals.mp3"
+  },
+  "obst_noun": {
+    "word": "Obst",
+    "genus": "n",
+    "plural": "(ikke i bruk)",
+    "synonyms": ["Frucht"],
+    "cases": {
+      "nominativ": {
+        "intro": "6.3",
+        "bestemt": "das Obst",
+        "ubestemt": "Obst"
+      },
+      "akkusativ": {
+        "intro": "6.3",
+        "bestemt": "das Obst",
+        "ubestemt": "Obst"
+      }
+    },
+    "_id": "obst_noun",
+    "audio": "substantiv_obst.mp3"
+  },
+  "fleisch_noun": {
+    "word": "Fleisch",
+    "genus": "n",
+    "plural": "(ikke i bruk)",
+    "cases": {
+      "nominativ": {
+        "intro": "6.3",
+        "bestemt": "das Fleisch",
+        "ubestemt": "Fleisch"
+      },
+      "akkusativ": {
+        "intro": "6.3",
+        "bestemt": "das Fleisch",
+        "ubestemt": "Fleisch"
+      }
+    },
+    "_id": "fleisch_noun",
+    "audio": "substantiv_fleisch.mp3"
+  },
+  "tierpfleger_noun": {
+    "word": "Tierpfleger",
+    "genus": "m",
+    "plural": "die Tierpfleger",
+    "cases": {
+      "nominativ": {
+        "intro": "6.3",
+        "bestemt": "der Tierpfleger",
+        "ubestemt": "ein Tierpfleger"
+      },
+      "akkusativ": {
+        "intro": "6.3",
+        "bestemt": "den Tierpfleger",
+        "ubestemt": "einen Tierpfleger"
+      }
+    },
+    "_id": "tierpfleger_noun",
+    "audio": "substantiv_tierpfleger.mp3"
+  },
+  "hausaufgabe_noun": {
+    "word": "Hausaufgabe",
+    "genus": "f",
+    "plural": "die Hausaufgaben",
+    "cases": {
+      "nominativ": {
+        "intro": "10.2",
+        "bestemt": "die Hausaufgabe",
+        "ubestemt": "eine Hausaufgabe"
+      },
+      "akkusativ": {
+        "intro": "10.2",
+        "bestemt": "die Hausaufgabe",
+        "ubestemt": "eine Hausaufgabe"
+      }
+    },
+    "_id": "hausaufgabe_noun",
+    "audio": "substantiv_hausaufgabe.mp3"
+  },
+  "urlaub_noun": {
+    "word": "Urlaub",
+    "genus": "m",
+    "plural": "die Urlaube",
+    "cases": {
+      "nominativ": {
+        "intro": "7.1",
+        "bestemt": "der Urlaub",
+        "ubestemt": "ein Urlaub"
+      },
+      "akkusativ": {
+        "intro": "7.1",
+        "bestemt": "den Urlaub",
+        "ubestemt": "einen Urlaub"
+      }
+    },
+    "_id": "urlaub_noun",
+    "audio": "substantiv_urlaub.mp3"
+  },
+  "sommerferien_noun": {
+    "word": "Sommerferien",
+    "genus": "f",
+    "plural": "die Sommerferien",
+    "cases": {
+      "nominativ": {
+        "intro": "7.1",
+        "bestemt": "die Sommerferien"
+      }
+    },
+    "_id": "sommerferien_noun",
+    "audio": "substantiv_sommerferien.mp3"
+  },
+  "stadt_noun": {
+    "word": "Stadt",
+    "genus": "f",
+    "plural": "die Städte",
+    "cases": {
+      "nominativ": {
+        "intro": "7.1",
+        "bestemt": "die Stadt",
+        "ubestemt": "eine Stadt"
+      },
+      "akkusativ": {
+        "intro": "7.1",
+        "bestemt": "die Stadt",
+        "ubestemt": "eine Stadt"
+      }
+    },
+    "_id": "stadt_noun",
+    "audio": "substantiv_stadt.mp3"
+  },
+  "ort_noun": {
+    "word": "Ort",
+    "genus": "m",
+    "plural": "die Orte",
+    "cases": {
+      "nominativ": {
+        "intro": "7.1",
+        "bestemt": "der Ort",
+        "ubestemt": "ein Ort"
+      },
+      "akkusativ": {
+        "intro": "7.1",
+        "bestemt": "den Ort",
+        "ubestemt": "einen Ort"
+      }
+    },
+    "_id": "ort_noun",
+    "audio": "substantiv_ort.mp3"
+  },
+  "natur_noun": {
+    "word": "Natur",
+    "genus": "f",
+    "plural": "die Naturen",
+    "cases": {
+      "nominativ": {
+        "intro": "7.1",
+        "bestemt": "die Natur",
+        "ubestemt": "eine Natur"
+      },
+      "akkusativ": {
+        "intro": "7.1",
+        "bestemt": "die Natur",
+        "ubestemt": "eine Natur"
+      }
+    },
+    "_id": "natur_noun",
+    "audio": "substantiv_natur.mp3"
+  },
+  "blog_noun": {
+    "word": "Blog",
+    "genus": "m",
+    "plural": "die Blogs",
+    "cases": {
+      "nominativ": {
+        "intro": "7.1",
+        "bestemt": "der Blog",
+        "ubestemt": "ein Blog"
+      },
+      "akkusativ": {
+        "intro": "7.1",
+        "bestemt": "den Blog",
+        "ubestemt": "einen Blog"
+      }
+    },
+    "_id": "blog_noun",
+    "audio": "substantiv_blog.mp3"
+  },
+  "leben_noun": {
+    "word": "Leben",
+    "genus": "n",
+    "plural": "die Leben",
+    "cases": {
+      "nominativ": {
+        "intro": "7.1",
+        "bestemt": "das Leben",
+        "ubestemt": "ein Leben"
+      },
+      "akkusativ": {
+        "intro": "7.1",
+        "bestemt": "das Leben",
+        "ubestemt": "ein Leben"
+      }
+    },
+    "_id": "leben_noun",
+    "audio": "substantiv_leben.mp3"
+  },
+  "traum_noun": {
+    "word": "Traum",
+    "genus": "m",
+    "plural": "die Träume",
+    "cases": {
+      "nominativ": {
+        "intro": "7.1",
+        "bestemt": "der Traum",
+        "ubestemt": "ein Traum"
+      },
+      "akkusativ": {
+        "intro": "7.1",
+        "bestemt": "den Traum",
+        "ubestemt": "einen Traum"
+      }
+    },
+    "_id": "traum_noun",
+    "audio": "substantiv_traum.mp3"
+  },
+  "koffer_noun": {
+    "word": "Koffer",
+    "genus": "m",
+    "plural": "die Koffer",
+    "cases": {
+      "nominativ": {
+        "intro": "7.2",
+        "bestemt": "der Koffer",
+        "ubestemt": "ein Koffer"
+      },
+      "akkusativ": {
+        "intro": "7.2",
+        "bestemt": "den Koffer",
+        "ubestemt": "einen Koffer"
+      }
+    },
+    "_id": "koffer_noun",
+    "audio": "substantiv_koffer.mp3"
+  },
+  "pass_noun": {
+    "word": "Pass",
+    "genus": "m",
+    "plural": "die Pässe",
+    "cases": {
+      "nominativ": {
+        "intro": "7.2",
+        "bestemt": "der Pass",
+        "ubestemt": "ein Pass"
+      },
+      "akkusativ": {
+        "intro": "7.2",
+        "bestemt": "den Pass",
+        "ubestemt": "einen Pass"
+      }
+    },
+    "_id": "pass_noun",
+    "audio": "substantiv_pass.mp3"
+  },
+  "flugzeug_noun": {
+    "word": "Flugzeug",
+    "genus": "n",
+    "plural": "die Flugzeuge",
+    "cases": {
+      "nominativ": {
+        "intro": "7.2",
+        "bestemt": "das Flugzeug",
+        "ubestemt": "ein Flugzeug"
+      },
+      "akkusativ": {
+        "intro": "7.2",
+        "bestemt": "das Flugzeug",
+        "ubestemt": "ein Flugzeug"
+      }
+    },
+    "_id": "flugzeug_noun",
+    "audio": "substantiv_flugzeug.mp3"
+  },
+  "badesachen_noun": {
+    "word": "Badesachen",
+    "genus": "f",
+    "plural": "die Badesachen",
+    "cases": {
+      "nominativ": {
+        "intro": "7.2",
+        "bestemt": "die Badesachen"
+      }
+    },
+    "_id": "badesachen_noun",
+    "audio": "substantiv_badesachen.mp3"
+  },
+  "sonnencreme_noun": {
+    "word": "Sonnencreme",
+    "genus": "f",
+    "plural": "die Sonnencremes",
+    "cases": {
+      "nominativ": {
+        "intro": "7.2",
+        "bestemt": "die Sonnencreme",
+        "ubestemt": "eine Sonnencreme"
+      },
+      "akkusativ": {
+        "intro": "7.2",
+        "bestemt": "die Sonnencreme",
+        "ubestemt": "eine Sonnencreme"
+      }
+    },
+    "_id": "sonnencreme_noun",
+    "audio": "substantiv_sonnencreme.mp3"
+  },
+  "flughafen_noun": {
+    "word": "Flughafen",
+    "genus": "m",
+    "plural": "die Flughäfen",
+    "cases": {
+      "nominativ": {
+        "intro": "7.2",
+        "bestemt": "der Flughafen",
+        "ubestemt": "ein Flughafen"
+      },
+      "akkusativ": {
+        "intro": "7.2",
+        "bestemt": "den Flughafen",
+        "ubestemt": "einen Flughafen"
+      }
+    },
+    "_id": "flughafen_noun",
+    "audio": "substantiv_flughafen.mp3"
+  },
+  "sommerkleidung_noun": {
+    "word": "Sommerkleidung",
+    "genus": "f",
+    "plural": "die Sommerkleidungen",
+    "cases": {
+      "nominativ": {
+        "intro": "7.2",
+        "bestemt": "die Sommerkleidung",
+        "ubestemt": "eine Sommerkleidung"
+      },
+      "akkusativ": {
+        "intro": "7.2",
+        "bestemt": "die Sommerkleidung",
+        "ubestemt": "eine Sommerkleidung"
+      }
+    },
+    "_id": "sommerkleidung_noun",
+    "audio": "substantiv_sommerkleidung.mp3"
+  },
+  "auto_noun": {
+    "word": "Auto",
+    "genus": "n",
+    "plural": "die Autos",
+    "cases": {
+      "nominativ": {
+        "intro": "7.2",
+        "bestemt": "das Auto",
+        "ubestemt": "ein Auto"
+      },
+      "akkusativ": {
+        "intro": "7.2",
+        "bestemt": "das Auto",
+        "ubestemt": "ein Auto"
+      }
+    },
+    "_id": "auto_noun",
+    "audio": "substantiv_auto.mp3"
+  },
+  "berg_noun": {
+    "word": "Berg",
+    "genus": "m",
+    "plural": "die Berge",
+    "cases": {
+      "nominativ": {
+        "intro": "7.3",
+        "bestemt": "der Berg",
+        "ubestemt": "ein Berg"
+      },
+      "akkusativ": {
+        "intro": "7.3",
+        "bestemt": "den Berg",
+        "ubestemt": "einen Berg"
+      }
+    },
+    "_id": "berg_noun",
+    "audio": "substantiv_berg.mp3"
+  },
+  "gebirge_noun": {
+    "word": "Gebirge",
+    "genus": "n",
+    "plural": "die Gebirge",
+    "cases": {
+      "nominativ": {
+        "intro": "7.3",
+        "bestemt": "das Gebirge",
+        "ubestemt": "ein Gebirge"
+      },
+      "akkusativ": {
+        "intro": "7.3",
+        "bestemt": "das Gebirge",
+        "ubestemt": "ein Gebirge"
+      }
+    },
+    "_id": "gebirge_noun",
+    "audio": "substantiv_gebirge.mp3"
+  },
+  "see_noun": {
+    "word": "See",
+    "genus": "m",
+    "plural": "die Seen",
+    "cases": {
+      "nominativ": {
+        "intro": "7.1",
+        "bestemt": "der See",
+        "ubestemt": "ein See"
+      },
+      "akkusativ": {
+        "intro": "7.1",
+        "bestemt": "den See",
+        "ubestemt": "einen See"
+      }
+    },
+    "_id": "see_noun",
+    "audio": "substantiv_see.mp3"
+  },
+  "seilbahn_noun": {
+    "word": "Seilbahn",
+    "genus": "f",
+    "plural": "die Seilbahnen",
+    "cases": {
+      "nominativ": {
+        "intro": "7.3",
+        "bestemt": "die Seilbahn",
+        "ubestemt": "eine Seilbahn"
+      },
+      "akkusativ": {
+        "intro": "7.3",
+        "bestemt": "die Seilbahn",
+        "ubestemt": "eine Seilbahn"
+      }
+    },
+    "_id": "seilbahn_noun",
+    "audio": "substantiv_seilbahn.mp3"
+  },
+  "sonne_noun": {
+    "word": "Sonne",
+    "genus": "f",
+    "plural": "die Sonnen",
+    "cases": {
+      "nominativ": {
+        "intro": "7.3",
+        "bestemt": "die Sonne",
+        "ubestemt": "eine Sonne"
+      },
+      "akkusativ": {
+        "intro": "7.3",
+        "bestemt": "die Sonne",
+        "ubestemt": "eine Sonne"
+      }
+    },
+    "_id": "sonne_noun",
+    "audio": "substantiv_sonne.mp3"
+  },
+  "jahreszeit_noun": {
+    "word": "Jahreszeit",
+    "genus": "f",
+    "plural": "die Jahreszeiten",
+    "cases": {
+      "nominativ": {
+        "intro": "8.1",
+        "bestemt": "die Jahreszeit",
+        "ubestemt": "eine Jahreszeit"
+      },
+      "akkusativ": {
+        "intro": "8.1",
+        "bestemt": "die Jahreszeit",
+        "ubestemt": "eine Jahreszeit"
+      }
+    },
+    "_id": "jahreszeit_noun",
+    "audio": "substantiv_jahreszeit.mp3"
+  },
+  "fruehling_noun": {
+    "word": "Frühling",
+    "genus": "m",
+    "plural": "die Frühlinge",
+    "cases": {
+      "nominativ": {
+        "intro": "8.1",
+        "bestemt": "der Frühling",
+        "ubestemt": "ein Frühling"
+      },
+      "akkusativ": {
+        "intro": "8.1",
+        "bestemt": "den Frühling",
+        "ubestemt": "einen Frühling"
+      }
+    },
+    "_id": "fruehling_noun",
+    "audio": "substantiv_fruehling.mp3"
+  },
+  "sommer_noun": {
+    "word": "Sommer",
+    "genus": "m",
+    "plural": "die Sommer",
+    "cases": {
+      "nominativ": {
+        "intro": "7.2",
+        "bestemt": "der Sommer",
+        "ubestemt": "ein Sommer"
+      },
+      "akkusativ": {
+        "intro": "7.2",
+        "bestemt": "den Sommer",
+        "ubestemt": "einen Sommer"
+      }
+    },
+    "_id": "sommer_noun",
+    "audio": "substantiv_sommer.mp3"
+  },
+  "herbst_noun": {
+    "word": "Herbst",
+    "genus": "m",
+    "plural": "die Herbste",
+    "cases": {
+      "nominativ": {
+        "intro": "8.1",
+        "bestemt": "der Herbst",
+        "ubestemt": "ein Herbst"
+      },
+      "akkusativ": {
+        "intro": "8.1",
+        "bestemt": "den Herbst",
+        "ubestemt": "einen Herbst"
+      }
+    },
+    "_id": "herbst_noun",
+    "audio": "substantiv_herbst.mp3"
+  },
+  "winter_noun": {
+    "word": "Winter",
+    "genus": "m",
+    "plural": "die Winter",
+    "cases": {
+      "nominativ": {
+        "intro": "8.1",
+        "bestemt": "der Winter",
+        "ubestemt": "ein Winter"
+      },
+      "akkusativ": {
+        "intro": "8.1",
+        "bestemt": "den Winter",
+        "ubestemt": "einen Winter"
+      }
+    },
+    "_id": "winter_noun",
+    "audio": "substantiv_winter.mp3"
+  },
+  "monat_noun": {
+    "word": "Monat",
+    "genus": "m",
+    "plural": "die Monate",
+    "cases": {
+      "nominativ": {
+        "intro": "8.1",
+        "bestemt": "der Monat",
+        "ubestemt": "ein Monat"
+      },
+      "akkusativ": {
+        "intro": "8.1",
+        "bestemt": "den Monat",
+        "ubestemt": "einen Monat"
+      }
+    },
+    "_id": "monat_noun",
+    "audio": "substantiv_monat.mp3"
+  },
+  "reiseziel_noun": {
+    "word": "Reiseziel",
+    "genus": "n",
+    "plural": "die Reiseziele",
+    "cases": {
+      "nominativ": {
+        "intro": "8.2",
+        "bestemt": "das Reiseziel",
+        "ubestemt": "ein Reiseziel"
+      },
+      "akkusativ": {
+        "intro": "8.2",
+        "bestemt": "das Reiseziel",
+        "ubestemt": "ein Reiseziel"
+      }
+    },
+    "_id": "reiseziel_noun",
+    "audio": "substantiv_reiseziel.mp3"
+  },
+  "schwimmbad_noun": {
+    "word": "Schwimmbad",
+    "genus": "n",
+    "plural": "die Schwimmbäder",
+    "cases": {
+      "nominativ": {
+        "intro": "8.2",
+        "bestemt": "das Schwimmbad",
+        "ubestemt": "ein Schwimmbad"
+      },
+      "akkusativ": {
+        "intro": "8.2",
+        "bestemt": "das Schwimmbad",
+        "ubestemt": "ein Schwimmbad"
+      }
+    },
+    "_id": "schwimmbad_noun",
+    "audio": "substantiv_schwimmbad.mp3"
+  },
+  "fahrradtour_noun": {
+    "word": "Fahrradtour",
+    "genus": "f",
+    "plural": "die Fahrradtouren",
+    "cases": {
+      "nominativ": {
+        "intro": "8.2",
+        "bestemt": "die Fahrradtour",
+        "ubestemt": "eine Fahrradtour"
+      },
+      "akkusativ": {
+        "intro": "8.2",
+        "bestemt": "die Fahrradtour",
+        "ubestemt": "eine Fahrradtour"
+      }
+    },
+    "_id": "fahrradtour_noun",
+    "audio": "substantiv_fahrradtour.mp3"
+  },
+  "highlight_noun": {
+    "word": "Highlight",
+    "genus": "n",
+    "plural": "die Highlights",
+    "cases": {
+      "nominativ": {
+        "intro": "8.2",
+        "bestemt": "das Highlight",
+        "ubestemt": "ein Highlight"
+      },
+      "akkusativ": {
+        "intro": "8.2",
+        "bestemt": "das Highlight",
+        "ubestemt": "ein Highlight"
+      }
+    },
+    "_id": "highlight_noun",
+    "audio": "substantiv_highlight.mp3"
+  },
+  "geburtstagskind_noun": {
+    "word": "Geburtstagskind",
+    "genus": "n",
+    "plural": "die Geburtstagskinder",
+    "cases": {
+      "nominativ": {
+        "intro": "8.3",
+        "bestemt": "das Geburtstagskind",
+        "ubestemt": "ein Geburtstagskind"
+      },
+      "akkusativ": {
+        "intro": "8.3",
+        "bestemt": "das Geburtstagskind",
+        "ubestemt": "ein Geburtstagskind"
+      }
+    },
+    "_id": "geburtstagskind_noun",
+    "audio": "substantiv_geburtstagskind.mp3"
+  },
+  "geburtstagstorte_noun": {
+    "word": "Geburtstagstorte",
+    "genus": "f",
+    "plural": "die Geburtstagstorten",
+    "cases": {
+      "nominativ": {
+        "intro": "8.3",
+        "bestemt": "die Geburtstagstorte",
+        "ubestemt": "eine Geburtstagstorte"
+      },
+      "akkusativ": {
+        "intro": "8.3",
+        "bestemt": "die Geburtstagstorte",
+        "ubestemt": "eine Geburtstagstorte"
+      }
+    },
+    "_id": "geburtstagstorte_noun",
+    "audio": "substantiv_geburtstagstorte.mp3"
+  },
+  "schueler_noun": {
+    "word": "Schüler",
+    "type": "noun",
+    "genus": "m",
+    "plural": "die Schüler",
+    "_id": "schueler_noun",
+    "audio": "substantiv_schueler.mp3"
+  },
+  "kompliment_noun": {
+    "word": "Kompliment",
+    "genus": "n",
+    "plural": "die Komplimente",
+    "cases": {
+      "nominativ": {
+        "intro": "9.1",
+        "bestemt": "das Kompliment",
+        "ubestemt": "ein Kompliment"
+      },
+      "akkusativ": {
+        "intro": "9.1",
+        "bestemt": "das Kompliment",
+        "ubestemt": "ein Kompliment"
+      }
+    },
+    "_id": "kompliment_noun",
+    "audio": "substantiv_kompliment.mp3"
+  },
+  "party_noun": {
+    "word": "Party",
+    "genus": "f",
+    "plural": "die Partys",
+    "cases": {
+      "nominativ": {
+        "intro": "9.2",
+        "bestemt": "die Party",
+        "ubestemt": "eine Party"
+      },
+      "akkusativ": {
+        "intro": "9.2",
+        "bestemt": "die Party",
+        "ubestemt": "eine Party"
+      }
+    },
+    "_id": "party_noun",
+    "audio": "substantiv_party.mp3"
+  },
+  "mitschueler_noun": {
+    "word": "Mitschüler",
+    "genus": "m",
+    "plural": "die Mitschüler",
+    "cases": {
+      "nominativ": {
+        "intro": "9.3",
+        "bestemt": "der Mitschüler",
+        "ubestemt": "ein Mitschüler"
+      },
+      "akkusativ": {
+        "intro": "9.3",
+        "bestemt": "den Mitschüler",
+        "ubestemt": "einen Mitschüler"
+      }
+    },
+    "_id": "mitschueler_noun",
+    "audio": "substantiv_mitschueler.mp3"
+  },
+  "mitschuelerin_noun": {
+    "word": "Mitschülerin",
+    "genus": "f",
+    "plural": "die Mitschülerinnen",
+    "cases": {
+      "nominativ": {
+        "intro": "9.3",
+        "bestemt": "die Mitschülerin",
+        "ubestemt": "eine Mitschülerin"
+      },
+      "akkusativ": {
+        "intro": "9.3",
+        "bestemt": "die Mitschülerin",
+        "ubestemt": "eine Mitschülerin"
+      }
+    },
+    "_id": "mitschuelerin_noun",
+    "audio": "substantiv_mitschuelerin.mp3"
+  },
+  "morgenroutine_noun": {
+    "word": "Morgenroutine",
+    "genus": "f",
+    "plural": "die Morgenroutinen",
+    "cases": {
+      "nominativ": {
+        "intro": "10.1",
+        "bestemt": "die Morgenroutine",
+        "ubestemt": "eine Morgenroutine"
+      },
+      "akkusativ": {
+        "intro": "10.1",
+        "bestemt": "die Morgenroutine",
+        "ubestemt": "eine Morgenroutine"
+      }
+    },
+    "_id": "morgenroutine_noun",
+    "audio": "substantiv_morgenroutine.mp3"
+  },
+  "morgen_noun": {
+    "word": "Morgen",
+    "genus": "m",
+    "plural": "die Morgen",
+    "cases": {
+      "nominativ": {
+        "intro": "10.1",
+        "bestemt": "der Morgen",
+        "ubestemt": "ein Morgen"
+      },
+      "akkusativ": {
+        "intro": "10.1",
+        "bestemt": "den Morgen",
+        "ubestemt": "einen Morgen"
+      }
+    },
+    "_id": "morgen_noun",
+    "audio": "substantiv_morgen.mp3"
+  },
+  "spiegel_noun": {
+    "word": "Spiegel",
+    "genus": "m",
+    "plural": "die Spiegel",
+    "cases": {
+      "nominativ": {
+        "intro": "10.1",
+        "bestemt": "der Spiegel",
+        "ubestemt": "ein Spiegel"
+      },
+      "akkusativ": {
+        "intro": "10.1",
+        "bestemt": "den Spiegel",
+        "ubestemt": "einen Spiegel"
+      }
+    },
+    "_id": "spiegel_noun",
+    "audio": "substantiv_spiegel.mp3"
+  },
+  "broetchen_noun": {
+    "word": "Brötchen",
+    "genus": "n",
+    "plural": "die Brötchen",
+    "cases": {
+      "nominativ": {
+        "intro": "10.1",
+        "bestemt": "das Brötchen",
+        "ubestemt": "ein Brötchen"
+      },
+      "akkusativ": {
+        "intro": "10.1",
+        "bestemt": "das Brötchen",
+        "ubestemt": "ein Brötchen"
+      }
+    },
+    "_id": "broetchen_noun",
+    "audio": "substantiv_broetchen.mp3"
+  },
+  "marmelade_noun": {
+    "word": "Marmelade",
+    "genus": "f",
+    "plural": "die Marmeladen",
+    "cases": {
+      "nominativ": {
+        "intro": "10.1",
+        "bestemt": "die Marmelade",
+        "ubestemt": "eine Marmelade"
+      },
+      "akkusativ": {
+        "intro": "10.1",
+        "bestemt": "die Marmelade",
+        "ubestemt": "eine Marmelade"
+      }
+    },
+    "_id": "marmelade_noun",
+    "audio": "substantiv_marmelade.mp3"
+  },
+  "muesli_noun": {
+    "word": "Müsli",
+    "genus": "n",
+    "plural": "die Müslis",
+    "cases": {
+      "nominativ": {
+        "intro": "10.1",
+        "bestemt": "das Müsli",
+        "ubestemt": "ein Müsli"
+      },
+      "akkusativ": {
+        "intro": "10.1",
+        "bestemt": "das Müsli",
+        "ubestemt": "ein Müsli"
+      }
+    },
+    "_id": "muesli_noun",
+    "audio": "substantiv_muesli.mp3"
+  },
+  "joghurt_noun": {
+    "word": "Joghurt",
+    "genus": "m",
+    "plural": "die Joghurts",
+    "cases": {
+      "nominativ": {
+        "intro": "10.1",
+        "bestemt": "der Joghurt",
+        "ubestemt": "ein Joghurt"
+      },
+      "akkusativ": {
+        "intro": "10.1",
+        "bestemt": "den Joghurt",
+        "ubestemt": "einen Joghurt"
+      }
+    },
+    "_id": "joghurt_noun",
+    "audio": "substantiv_joghurt.mp3"
+  },
+  "zahn_noun": {
+    "word": "Zahn",
+    "genus": "m",
+    "plural": "die Zähne",
+    "cases": {
+      "nominativ": {
+        "intro": "10.1",
+        "bestemt": "der Zahn",
+        "ubestemt": "ein Zahn"
+      },
+      "akkusativ": {
+        "intro": "10.1",
+        "bestemt": "den Zahn",
+        "ubestemt": "einen Zahn"
+      }
+    },
+    "_id": "zahn_noun",
+    "audio": "substantiv_zahn.mp3"
+  },
+  "gefuehl_noun": {
+    "word": "Gefühl",
+    "genus": "n",
+    "plural": "die Gefühle",
+    "cases": {
+      "nominativ": {
+        "intro": "10.2",
+        "bestemt": "das Gefühl",
+        "ubestemt": "ein Gefühl"
+      },
+      "akkusativ": {
+        "intro": "10.2",
+        "bestemt": "das Gefühl",
+        "ubestemt": "ein Gefühl"
+      }
+    },
+    "_id": "gefuehl_noun",
+    "audio": "substantiv_gefuehl.mp3"
+  },
+  "projekt_noun": {
+    "word": "Projekt",
+    "genus": "n",
+    "plural": "die Projekte",
+    "cases": {
+      "nominativ": {
+        "intro": "10.2",
+        "bestemt": "das Projekt",
+        "ubestemt": "ein Projekt"
+      },
+      "akkusativ": {
+        "intro": "10.2",
+        "bestemt": "das Projekt",
+        "ubestemt": "ein Projekt"
+      }
+    },
+    "_id": "projekt_noun",
+    "audio": "substantiv_projekt.mp3"
+  },
+  "ferien_noun": {
+    "word": "Ferien",
+    "genus": "pl",
+    "plural": "die Ferien",
+    "cases": {
+      "nominativ": {
+        "intro": "7.1",
+        "bestemt": "die Ferien",
+        "ubestemt": "Ferien"
+      },
+      "akkusativ": {
+        "intro": "7.1",
+        "bestemt": "die Ferien",
+        "ubestemt": "Ferien"
+      }
+    },
+    "_id": "ferien_noun",
+    "audio": "substantiv_ferien.mp3"
+  },
+  "test_noun": {
+    "word": "Test",
+    "genus": "m",
+    "plural": "die Tests",
+    "cases": {
+      "nominativ": {
+        "intro": "10.2",
+        "bestemt": "der Test",
+        "ubestemt": "ein Test"
+      },
+      "akkusativ": {
+        "intro": "10.2",
+        "bestemt": "den Test",
+        "ubestemt": "einen Test"
+      }
+    },
+    "_id": "test_noun",
+    "audio": "substantiv_test.mp3"
+  },
+  "pruefung_noun": {
+    "word": "Prüfung",
+    "genus": "f",
+    "plural": "die Prüfungen",
+    "cases": {
+      "nominativ": {
+        "intro": "10.3",
+        "bestemt": "die Prüfung",
+        "ubestemt": "eine Prüfung"
+      },
+      "akkusativ": {
+        "intro": "10.3",
+        "bestemt": "die Prüfung",
+        "ubestemt": "eine Prüfung"
+      }
+    },
+    "_id": "pruefung_noun",
+    "audio": "substantiv_pruefung.mp3"
+  },
+  "strand_noun": {
+    "word": "Strand",
+    "type": "noun",
+    "genus": "m",
+    "plural": "die Strände",
+    "_id": "strand_noun",
+    "audio": "substantiv_strand.mp3"
+  },
+  "geschenk_noun": {
+    "word": "Geschenk",
+    "genus": "n",
+    "plural": "die Geschenke",
+    "cases": {
+      "nominativ": {
+        "intro": "8.1",
+        "bestemt": "das Geschenk",
+        "ubestemt": "ein Geschenk"
+      },
+      "akkusativ": {
+        "intro": "8.1",
+        "bestemt": "das Geschenk",
+        "ubestemt": "ein Geschenk"
+      }
+    },
+    "_id": "geschenk_noun",
+    "audio": "substantiv_geschenk.mp3"
+  },
+  "geburtstag_noun": {
+    "word": "Geburtstag",
+    "genus": "m",
+    "plural": "die Geburtstage",
+    "cases": {
+      "nominativ": {
+        "intro": "8.1",
+        "bestemt": "der Geburtstag",
+        "ubestemt": "ein Geburtstag"
+      },
+      "akkusativ": {
+        "intro": "8.1",
+        "bestemt": "den Geburtstag",
+        "ubestemt": "einen Geburtstag"
+      }
+    },
+    "_id": "geburtstag_noun",
+    "audio": "substantiv_geburtstag.mp3"
+  },
+  "fest_noun": {
+    "word": "Fest",
+    "genus": "n",
+    "plural": "die Feste",
+    "cases": {
+      "nominativ": {
+        "intro": "8.2",
+        "bestemt": "das Fest",
+        "ubestemt": "ein Fest"
+      },
+      "akkusativ": {
+        "intro": "8.2",
+        "bestemt": "das Fest",
+        "ubestemt": "ein Fest"
+      }
+    },
+    "_id": "fest_noun",
+    "audio": "substantiv_fest.mp3"
+  },
+  "weihnachten_noun": {
+    "word": "Weihnachten",
+    "genus": "n",
+    "cases": {
+      "nominativ": {
+        "intro": "8.2",
+        "bestemt": "Weihnachten",
+        "ubestemt": "Weihnachten"
+      },
+      "akkusativ": {
+        "intro": "8.2",
+        "bestemt": "Weihnachten",
+        "ubestemt": "Weihnachten"
+      }
+    },
+    "_id": "weihnachten_noun",
+    "audio": "substantiv_weihnachten.mp3"
+  },
+  "ostern_noun": {
+    "word": "Ostern",
+    "genus": "n",
+    "cases": {
+      "nominativ": {
+        "intro": "8.2",
+        "bestemt": "Ostern",
+        "ubestemt": "Ostern"
+      },
+      "akkusativ": {
+        "intro": "8.2",
+        "bestemt": "Ostern",
+        "ubestemt": "Ostern"
+      }
+    },
+    "_id": "ostern_noun",
+    "audio": "substantiv_ostern.mp3"
+  },
+  "karneval_noun": {
+    "word": "Karneval",
+    "genus": "m",
+    "cases": {
+      "nominativ": {
+        "intro": "8.2",
+        "bestemt": "der Karneval",
+        "ubestemt": "ein Karneval"
+      }
+    },
+    "_id": "karneval_noun",
+    "audio": "substantiv_karneval.mp3"
+  },
+  "halloween_noun": {
+    "word": "Halloween",
+    "genus": "n",
+    "cases": {
+      "nominativ": {
+        "intro": "8.2",
+        "bestemt": "Halloween",
+        "ubestemt": "Halloween"
+      },
+      "akkusativ": {
+        "intro": "8.2",
+        "bestemt": "Halloween",
+        "ubestemt": "Halloween"
+      }
+    },
+    "_id": "halloween_noun",
+    "audio": "substantiv_halloween.mp3"
+  },
+  "schokoladenei_noun": {
+    "word": "Schokoladenei",
+    "genus": "n",
+    "plural": "die Schokoladeneier",
+    "cases": {
+      "nominativ": {
+        "intro": "8.2",
+        "bestemt": "das Schokoladenei",
+        "ubestemt": "ein Schokoladenei"
+      },
+      "akkusativ": {
+        "intro": "8.2",
+        "bestemt": "das Schokoladenei",
+        "ubestemt": "ein Schokoladenei"
+      }
+    },
+    "_id": "schokoladenei_noun",
+    "audio": "substantiv_schokoladenei.mp3"
+  },
+  "tradition_noun": {
+    "word": "Tradition",
+    "genus": "f",
+    "plural": "die Traditionen",
+    "cases": {
+      "nominativ": {
+        "intro": "8.2",
+        "bestemt": "die Tradition",
+        "ubestemt": "eine Tradition"
+      },
+      "akkusativ": {
+        "intro": "8.2",
+        "bestemt": "die Tradition",
+        "ubestemt": "eine Tradition"
+      }
+    },
+    "_id": "tradition_noun",
+    "audio": "substantiv_tradition.mp3"
+  },
+  "brauch_noun": {
+    "word": "Brauch",
+    "genus": "m",
+    "plural": "die Bräuche",
+    "cases": {
+      "nominativ": {
+        "intro": "8.2",
+        "bestemt": "der Brauch",
+        "ubestemt": "ein Brauch"
+      },
+      "akkusativ": {
+        "intro": "8.2",
+        "bestemt": "den Brauch",
+        "ubestemt": "einen Brauch"
+      }
+    },
+    "_id": "brauch_noun",
+    "audio": "substantiv_brauch.mp3"
+  },
+  "geheimnis_noun": {
+    "word": "Geheimnis",
+    "genus": "n",
+    "plural": "die Geheimnisse",
+    "cases": {
+      "nominativ": {
+        "intro": "8.3",
+        "bestemt": "das Geheimnis",
+        "ubestemt": "ein Geheimnis"
+      },
+      "akkusativ": {
+        "intro": "8.3",
+        "bestemt": "das Geheimnis",
+        "ubestemt": "ein Geheimnis"
+      }
+    },
+    "_id": "geheimnis_noun",
+    "audio": "substantiv_geheimnis.mp3"
+  },
+  "getraenk_noun": {
+    "word": "Getränk",
+    "genus": "n",
+    "plural": "die Getränke",
+    "cases": {
+      "nominativ": {
+        "intro": "8.3",
+        "bestemt": "das Getränk",
+        "ubestemt": "ein Getränk"
+      },
+      "akkusativ": {
+        "intro": "8.3",
+        "bestemt": "das Getränk",
+        "ubestemt": "ein Getränk"
+      }
+    },
+    "_id": "getraenk_noun",
+    "audio": "substantiv_getraenk.mp3"
+  },
+  "adresse_noun": {
+    "word": "Adresse",
+    "genus": "f",
+    "plural": "die Adressen",
+    "cases": {
+      "nominativ": {
+        "intro": "9.2",
+        "bestemt": "die Adresse",
+        "ubestemt": "eine Adresse"
+      },
+      "akkusativ": {
+        "intro": "9.2",
+        "bestemt": "die Adresse",
+        "ubestemt": "eine Adresse"
+      }
+    },
+    "_id": "adresse_noun",
+    "audio": "substantiv_adresse.mp3"
+  },
+  "freundschaft_noun": {
+    "word": "Freundschaft",
+    "genus": "f",
+    "plural": "die Freundschaften",
+    "cases": {
+      "nominativ": {
+        "intro": "9.3",
+        "bestemt": "die Freundschaft",
+        "ubestemt": "eine Freundschaft"
+      },
+      "akkusativ": {
+        "intro": "9.3",
+        "bestemt": "die Freundschaft",
+        "ubestemt": "eine Freundschaft"
+      }
+    },
+    "_id": "freundschaft_noun",
+    "audio": "substantiv_freundschaft.mp3"
+  },
+  "grundschule_noun": {
+    "word": "Grundschule",
+    "genus": "f",
+    "plural": "die Grundschulen",
+    "cases": {
+      "nominativ": {
+        "intro": "9.3",
+        "bestemt": "die Grundschule",
+        "ubestemt": "eine Grundschule"
+      },
+      "akkusativ": {
+        "intro": "9.3",
+        "bestemt": "die Grundschule",
+        "ubestemt": "eine Grundschule"
+      }
+    },
+    "_id": "grundschule_noun",
+    "audio": "substantiv_grundschule.mp3"
+  },
+  "interview_noun": {
+    "word": "Interview",
+    "genus": "n",
+    "plural": "die Interviews",
+    "cases": {
+      "nominativ": {
+        "intro": "9.3",
+        "bestemt": "das Interview",
+        "ubestemt": "ein Interview"
+      },
+      "akkusativ": {
+        "intro": "9.3",
+        "bestemt": "das Interview",
+        "ubestemt": "ein Interview"
+      }
+    },
+    "_id": "interview_noun",
+    "audio": "substantiv_interview.mp3"
+  },
+  "problem_noun": {
+    "word": "Problem",
+    "genus": "n",
+    "plural": "die Probleme",
+    "cases": {
+      "nominativ": {
+        "intro": "9.3",
+        "bestemt": "das Problem",
+        "ubestemt": "ein Problem"
+      },
+      "akkusativ": {
+        "intro": "9.3",
+        "bestemt": "das Problem",
+        "ubestemt": "ein Problem"
+      }
+    },
+    "_id": "problem_noun",
+    "audio": "substantiv_problem.mp3"
+  },
+  "bett_noun": {
+    "word": "Bett",
+    "genus": "n",
+    "plural": "die Betten",
+    "cases": {
+      "nominativ": {
+        "intro": "10.1",
+        "bestemt": "das Bett",
+        "ubestemt": "ein Bett"
+      },
+      "akkusativ": {
+        "intro": "10.1",
+        "bestemt": "das Bett",
+        "ubestemt": "ein Bett"
+      }
+    },
+    "_id": "bett_noun",
+    "audio": "substantiv_bett.mp3"
+  },
+  "fruehstueck_noun": {
+    "word": "Frühstück",
+    "type": "noun",
+    "genus": "n",
+    "plural": "die Frühstücke",
+    "_id": "fruehstueck_noun",
+    "audio": "substantiv_fruehstueck.mp3"
+  },
+  "haus_noun": {
+    "word": "Haus",
+    "genus": "n",
+    "plural": "die Häuser",
+    "cases": {
+      "nominativ": {
+        "intro": "10.1",
+        "bestemt": "das Haus",
+        "ubestemt": "ein Haus"
+      },
+      "akkusativ": {
+        "intro": "10.1",
+        "bestemt": "das Haus",
+        "ubestemt": "ein Haus"
+      }
+    },
+    "_id": "haus_noun",
+    "audio": "substantiv_haus.mp3"
+  },
+  "minute_noun": {
+    "word": "Minute",
+    "genus": "f",
+    "plural": "die Minuten",
+    "cases": {
+      "nominativ": {
+        "intro": "10.1",
+        "bestemt": "die Minute",
+        "ubestemt": "eine Minute"
+      },
+      "akkusativ": {
+        "intro": "10.1",
+        "bestemt": "die Minute",
+        "ubestemt": "eine Minute"
+      }
+    },
+    "_id": "minute_noun",
+    "audio": "substantiv_minute.mp3"
+  },
+  "frau_noun": {
+    "word": "Frau",
+    "genus": "f",
+    "plural": "die Frauen",
+    "cases": {
+      "nominativ": {
+        "intro": "10.2",
+        "bestemt": "die Frau",
+        "ubestemt": "eine Frau"
+      },
+      "akkusativ": {
+        "intro": "10.2",
+        "bestemt": "die Frau",
+        "ubestemt": "eine Frau"
+      }
+    },
+    "_id": "frau_noun",
+    "audio": "substantiv_frau.mp3"
+  },
+  "buch_noun": {
+    "word": "Buch",
+    "genus": "n",
+    "plural": "die Bücher",
+    "cases": {
+      "nominativ": {
+        "intro": "10.3",
+        "bestemt": "das Buch",
+        "ubestemt": "ein Buch"
+      },
+      "akkusativ": {
+        "intro": "10.3",
+        "bestemt": "das Buch",
+        "ubestemt": "ein Buch"
+      }
+    },
+    "_id": "buch_noun",
+    "audio": "substantiv_buch.mp3"
+  },
+  "woche_noun": {
+    "word": "Woche",
+    "genus": "f",
+    "plural": "die Wochen",
+    "cases": {
+      "nominativ": {
+        "intro": "10.3",
+        "bestemt": "die Woche",
+        "ubestemt": "eine Woche"
+      },
+      "akkusativ": {
+        "intro": "10.3",
+        "bestemt": "die Woche",
+        "ubestemt": "eine Woche"
+      }
+    },
+    "_id": "woche_noun",
+    "audio": "substantiv_woche.mp3"
+  },
+  "bus_noun": {
+    "word": "Bus",
+    "genus": "m",
+    "plural": "die Busse",
+    "cases": {
+      "nominativ": {
+        "intro": "11.2",
+        "bestemt": "der Bus",
+        "ubestemt": "ein Bus"
+      },
+      "akkusativ": {
+        "intro": "11.2",
+        "bestemt": "den Bus",
+        "ubestemt": "einen Bus"
+      }
+    },
+    "_id": "bus_noun",
+    "audio": "substantiv_bus.mp3"
+  },
+  "wohnzimmer_noun": {
+    "word": "Wohnzimmer",
+    "genus": "n",
+    "plural": "die Wohnzimmer",
+    "cases": {
+      "nominativ": {
+        "intro": "11.2",
+        "bestemt": "das Wohnzimmer",
+        "ubestemt": "ein Wohnzimmer"
+      },
+      "akkusativ": {
+        "intro": "11.2",
+        "bestemt": "das Wohnzimmer",
+        "ubestemt": "ein Wohnzimmer"
+      }
+    },
+    "_id": "wohnzimmer_noun",
+    "audio": "substantiv_wohnzimmer.mp3"
+  },
+  "saft_noun": {
+    "word": "Saft",
+    "genus": "m",
+    "plural": "die Säfte",
+    "cases": {
+      "nominativ": {
+        "intro": "11.2",
+        "bestemt": "der Saft",
+        "ubestemt": "ein Saft"
+      },
+      "akkusativ": {
+        "intro": "11.2",
+        "bestemt": "den Saft",
+        "ubestemt": "einen Saft"
+      }
+    },
+    "_id": "saft_noun",
+    "audio": "substantiv_saft.mp3"
+  },
+  "rucksack_noun": {
+    "word": "Rucksack",
+    "genus": "m",
+    "plural": "die Rucksäcke",
+    "cases": {
+      "nominativ": {
+        "intro": "11.2",
+        "bestemt": "der Rucksack",
+        "ubestemt": "ein Rucksack"
+      },
+      "akkusativ": {
+        "intro": "11.2",
+        "bestemt": "den Rucksack",
+        "ubestemt": "einen Rucksack"
+      }
+    },
+    "_id": "rucksack_noun",
+    "audio": "substantiv_rucksack.mp3"
+  },
+  "zimmer_noun": {
+    "word": "Zimmer",
+    "genus": "n",
+    "plural": "die Zimmer",
+    "cases": {
+      "nominativ": {
+        "intro": "11.2",
+        "bestemt": "das Zimmer",
+        "ubestemt": "ein Zimmer"
+      },
+      "akkusativ": {
+        "intro": "11.2",
+        "bestemt": "das Zimmer",
+        "ubestemt": "ein Zimmer"
+      }
+    },
+    "_id": "zimmer_noun",
+    "audio": "substantiv_zimmer.mp3"
+  },
+  "hochsprung_noun": {
+    "word": "Hochsprung",
+    "genus": "m",
+    "_id": "hochsprung_noun",
+    "audio": "substantiv_hochsprung.mp3"
+  },
+  "wind_noun": {
+    "word": "Wind",
+    "genus": "m",
+    "_id": "wind_noun",
+    "audio": "substantiv_wind.mp3"
+  },
+  "lieblingssport_noun": {
+    "word": "Lieblingssport",
+    "genus": "m",
+    "_id": "lieblingssport_noun",
+    "audio": "substantiv_lieblingssport.mp3"
+  },
+  "weitsprung_noun": {
+    "word": "Weitsprung",
+    "genus": "m",
+    "_id": "weitsprung_noun",
+    "audio": "substantiv_weitsprung.mp3"
+  },
+  "meter_noun": {
+    "word": "Meter",
+    "genus": "m",
+    "_id": "meter_noun",
+    "audio": "substantiv_meter.mp3"
+  },
+  "sekunde_noun": {
+    "word": "Sekunde",
+    "genus": "f",
+    "_id": "sekunde_noun",
+    "audio": "substantiv_sekunde.mp3"
+  },
+  "aufgabe_noun": {
+    "word": "Aufgabe",
+    "genus": "f",
+    "plural": "die Aufgaben",
+    "cases": {
+      "nominativ": {
+        "intro": "12.1",
+        "bestemt": "die Aufgabe",
+        "ubestemt": "eine Aufgabe"
+      }
+    },
+    "_id": "aufgabe_noun",
+    "audio": "substantiv_aufgabe.mp3"
+  },
+  "matheaufgabe_noun": {
+    "word": "Matheaufgabe",
+    "genus": "f",
+    "plural": "die Matheaufgaben",
+    "cases": {
+      "nominativ": {
+        "intro": "12.1",
+        "bestemt": "die Matheaufgabe",
+        "ubestemt": "eine Matheaufgabe"
+      }
+    },
+    "_id": "matheaufgabe_noun",
+    "audio": "substantiv_matheaufgabe.mp3"
+  },
+  "wahrheit_noun": {
+    "word": "Wahrheit",
+    "genus": "f",
+    "plural": "die Wahrheiten",
+    "cases": {
+      "nominativ": {
+        "intro": "12.1",
+        "bestemt": "die Wahrheit",
+        "ubestemt": "eine Wahrheit"
+      }
+    },
+    "_id": "wahrheit_noun",
+    "audio": "substantiv_wahrheit.mp3"
+  },
+  "stress_noun": {
+    "word": "Stress",
+    "genus": "m",
+    "plural": "(usually uncountable)",
+    "cases": {
+      "nominativ": {
+        "intro": "12.1",
+        "bestemt": "der Stress",
+        "ubestemt": "Stress"
+      }
+    },
+    "_id": "stress_noun",
+    "audio": "substantiv_stress.mp3"
+  },
+  "lerngruppe_noun": {
+    "word": "Lerngruppe",
+    "genus": "f",
+    "plural": "die Lerngruppen",
+    "cases": {
+      "nominativ": {
+        "intro": "12.2",
+        "bestemt": "die Lerngruppe",
+        "ubestemt": "eine Lerngruppe"
+      }
+    },
+    "_id": "lerngruppe_noun",
+    "audio": "substantiv_lerngruppe.mp3"
+  },
+  "notiz_noun": {
+    "word": "Notiz",
+    "genus": "f",
+    "plural": "die Notizen",
+    "cases": {
+      "nominativ": {
+        "intro": "12.2",
+        "bestemt": "die Notiz",
+        "ubestemt": "eine Notiz"
+      }
+    },
+    "_id": "notiz_noun",
+    "audio": "substantiv_notiz.mp3"
+  },
+  "biologiebuch_noun": {
+    "word": "Biologiebuch",
+    "genus": "n",
+    "plural": "die Biologiebücher",
+    "cases": {
+      "nominativ": {
+        "intro": "12.2",
+        "bestemt": "das Biologiebuch",
+        "ubestemt": "ein Biologiebuch"
+      }
+    },
+    "_id": "biologiebuch_noun",
+    "audio": "substantiv_biologiebuch.mp3"
+  },
+  "geschichtshausaufgabe_noun": {
+    "word": "Geschichtshausaufgabe",
+    "genus": "f",
+    "plural": "die Geschichtshausaufgaben",
+    "cases": {
+      "nominativ": {
+        "intro": "12.2",
+        "bestemt": "die Geschichtshausaufgabe",
+        "ubestemt": "eine Geschichtshausaufgabe"
+      }
+    },
+    "_id": "geschichtshausaufgabe_noun",
+    "audio": "substantiv_geschichtshausaufgabe.mp3"
+  },
+  "tennis_noun": {
+    "word": "Tennis",
+    "genus": "n",
+    "plural": "-",
+    "cases": {
+      "nominativ": {
+        "intro": "12.3",
+        "bestemt": "das Tennis",
+        "ubestemt": "ein Tennis"
+      }
+    },
+    "_id": "tennis_noun",
+    "audio": "substantiv_tennis.mp3"
+  },
+  "sohn_noun": {
+    "word": "Sohn",
+    "genus": "m",
+    "plural": "Söhne",
+    "_id": "sohn_noun",
+    "audio": "substantiv_sohn.mp3"
+  },
+  "tochter_noun": {
+    "word": "Tochter",
+    "genus": "f",
+    "plural": "Töchter",
+    "_id": "tochter_noun",
+    "audio": "substantiv_tochter.mp3"
+  },
+  "onkel_noun": {
+    "word": "Onkel",
+    "genus": "m",
+    "plural": "Onkel",
+    "_id": "onkel_noun",
+    "audio": "substantiv_onkel.mp3"
+  },
+  "tante_noun": {
+    "word": "Tante",
+    "genus": "f",
+    "plural": "Tanten",
+    "_id": "tante_noun",
+    "audio": "substantiv_tante.mp3"
+  },
+  "cousin_noun": {
+    "word": "Cousin",
+    "genus": "m",
+    "plural": "Cousins",
+    "_id": "cousin_noun",
+    "audio": "substantiv_cousin.mp3"
+  },
+  "cousine_noun": {
+    "word": "Cousine",
+    "genus": "f",
+    "plural": "Cousinen",
+    "_id": "cousine_noun",
+    "audio": "substantiv_cousine.mp3"
+  },
+  "grossvater_noun": {
+    "word": "Großvater",
+    "genus": "m",
+    "plural": "Großväter",
+    "_id": "grossvater_noun",
+    "audio": "substantiv_grossvater.mp3"
+  },
+  "grossmutter_noun": {
+    "word": "Großmutter",
+    "genus": "f",
+    "plural": "Großmütter",
+    "_id": "grossmutter_noun",
+    "audio": "substantiv_grossmutter.mp3"
+  },
+  "kind_noun": {
+    "word": "Kind",
+    "genus": "n",
+    "plural": "Kinder",
+    "_id": "kind_noun",
+    "audio": "substantiv_kind.mp3"
+  },
+  "ehemann_noun": {
+    "word": "Ehemann",
+    "genus": "m",
+    "plural": "Ehemänner",
+    "_id": "ehemann_noun",
+    "audio": "substantiv_ehemann.mp3"
+  },
+  "ehefrau_noun": {
+    "word": "Ehefrau",
+    "genus": "f",
+    "plural": "Ehefrauen",
+    "_id": "ehefrau_noun",
+    "audio": "substantiv_ehefrau.mp3"
+  },
+  "tee_noun": {
+    "word": "Tee",
+    "genus": "m",
+    "plural": "Tees",
+    "_id": "tee_noun",
+    "audio": "substantiv_tee.mp3"
+  },
+  "kaffee_noun": {
+    "word": "Kaffee",
+    "genus": "m",
+    "plural": "Kaffees",
+    "_id": "kaffee_noun",
+    "audio": "substantiv_kaffee.mp3"
+  },
+  "kartoffel_noun": {
+    "word": "Kartoffel",
+    "genus": "f",
+    "plural": "Kartoffeln",
+    "_id": "kartoffel_noun",
+    "audio": "substantiv_kartoffel.mp3"
+  },
+  "orange_noun": {
+    "word": "Orange",
+    "genus": "f",
+    "plural": "Orangen",
+    "_id": "orange_noun",
+    "audio": "substantiv_orange.mp3"
+  },
+  "birne_noun": {
+    "word": "Birne",
+    "genus": "f",
+    "plural": "Birnen",
+    "_id": "birne_noun",
+    "audio": "substantiv_birne.mp3"
+  },
+  "suppe_noun": {
+    "word": "Suppe",
+    "genus": "f",
+    "plural": "Suppen",
+    "_id": "suppe_noun",
+    "audio": "substantiv_suppe.mp3"
+  },
+  "reis_noun": {
+    "word": "Reis",
+    "genus": "m",
+    "plural": "Reis",
+    "_id": "reis_noun",
+    "audio": "substantiv_reis.mp3"
+  },
+  "regen_noun": {
+    "word": "Regen",
+    "genus": "m",
+    "plural": "Regen",
+    "_id": "regen_noun",
+    "audio": "substantiv_regen.mp3"
+  },
+  "schnee_noun": {
+    "word": "Schnee",
+    "genus": "m",
+    "plural": "Schnee",
+    "_id": "schnee_noun",
+    "audio": "substantiv_schnee.mp3"
+  },
+  "wolke_noun": {
+    "word": "Wolke",
+    "genus": "f",
+    "plural": "Wolken",
+    "_id": "wolke_noun",
+    "audio": "substantiv_wolke.mp3"
+  },
+  "himmel_noun": {
+    "word": "Himmel",
+    "genus": "m",
+    "plural": "Himmel",
+    "_id": "himmel_noun",
+    "audio": "substantiv_himmel.mp3"
+  },
+  "gewitter_noun": {
+    "word": "Gewitter",
+    "genus": "n",
+    "plural": "Gewitter",
+    "_id": "gewitter_noun",
+    "audio": "substantiv_gewitter.mp3"
+  },
+  "nebel_noun": {
+    "word": "Nebel",
+    "genus": "m",
+    "plural": "Nebel",
+    "_id": "nebel_noun",
+    "audio": "substantiv_nebel.mp3"
+  },
+  "temperatur_noun": {
+    "word": "Temperatur",
+    "genus": "f",
+    "plural": "Temperaturen",
+    "_id": "temperatur_noun",
+    "audio": "substantiv_temperatur.mp3"
+  },
+  "grad_noun": {
+    "word": "Grad",
+    "genus": "m",
+    "plural": "Grade",
+    "_id": "grad_noun",
+    "audio": "substantiv_grad.mp3"
+  },
+  "mittag_noun": {
+    "word": "Mittag",
+    "genus": "m",
+    "plural": "Mittage",
+    "_id": "mittag_noun",
+    "audio": "substantiv_mittag.mp3"
+  },
+  "nacht_noun": {
+    "word": "Nacht",
+    "genus": "f",
+    "plural": "Nächte",
+    "_id": "nacht_noun",
+    "audio": "substantiv_nacht.mp3"
+  },
+  "klassenkamerad_noun": {
+    "word": "Klassenkamerad",
+    "genus": "m",
+    "plural": "Klassenkameraden",
+    "_id": "klassenkamerad_noun",
+    "audio": "substantiv_klassenkamerad.mp3"
+  },
+  "mathe_noun": {
+    "word": "Mathe",
+    "genus": "f",
+    "plural": "Mathe",
+    "_id": "mathe_noun",
+    "audio": "substantiv_mathe.mp3"
+  },
+  "mathehausaufgabe_noun": {
+    "word": "Mathehausaufgabe",
+    "genus": "f",
+    "plural": "Mathehausaufgaben",
+    "_id": "mathehausaufgabe_noun",
+    "audio": "substantiv_mathehausaufgabe.mp3"
+  },
+  "musikunterricht_noun": {
+    "word": "Musikunterricht",
+    "genus": "m",
+    "plural": "Musikunterrichte",
+    "_id": "musikunterricht_noun",
+    "audio": "substantiv_musikunterricht.mp3"
+  },
+  "realschule_noun": {
+    "word": "Realschule",
+    "genus": "f",
+    "plural": "Realschulen",
+    "_id": "realschule_noun",
+    "audio": "substantiv_realschule.mp3"
+  },
+  "schuelerin_noun": {
+    "word": "Schülerin",
+    "genus": "f",
+    "plural": "Schülerinnen",
+    "_id": "schuelerin_noun",
+    "audio": "substantiv_schuelerin.mp3"
+  },
+  "schuljahr_noun": {
+    "word": "Schuljahr",
+    "genus": "n",
+    "plural": "Schuljahre",
+    "_id": "schuljahr_noun",
+    "audio": "substantiv_schuljahr.mp3"
+  },
+  "sportunterricht_noun": {
+    "word": "Sportunterricht",
+    "genus": "m",
+    "plural": "Sportunterricht",
+    "_id": "sportunterricht_noun",
+    "audio": "substantiv_sportunterricht.mp3"
+  },
+  "ball_noun": {
+    "word": "Ball",
+    "genus": "m",
+    "plural": "Bälle",
+    "_id": "ball_noun",
+    "audio": "substantiv_ball.mp3"
+  },
+  "spass_noun": {
+    "word": "Spaß",
+    "genus": "m",
+    "plural": "Späße",
+    "_id": "spass_noun",
+    "audio": "substantiv_spass.mp3"
+  },
+  "leute_noun": {
+    "word": "Leute",
+    "type": "substantiv (kun flertall)",
+    "audio": "ord_leute.mp3",
+    "_id": "leute_noun"
+  },
+  "das_haustier_noun": {
+    "word": "das Haustier",
+    "type": "noun",
+    "audio": "substantiv_haustier.mp3",
+    "_id": "das_haustier_noun"
+  },
+  "januar_noun": {
+    "word": "Januar",
+    "type": "noun",
+    "audio": "ord_januar.mp3",
+    "_id": "januar_noun"
+  },
+  "februar_noun": {
+    "word": "Februar",
+    "type": "noun",
+    "audio": "ord_februar.mp3",
+    "_id": "februar_noun"
+  },
+  "maerz_noun": {
+    "word": "März",
+    "type": "noun",
+    "audio": "ord_maerz.mp3",
+    "_id": "maerz_noun"
+  },
+  "april_noun": {
+    "word": "April",
+    "type": "noun",
+    "audio": "ord_april.mp3",
+    "_id": "april_noun"
+  },
+  "mai_noun": {
+    "word": "Mai",
+    "type": "noun",
+    "audio": "ord_mai.mp3",
+    "_id": "mai_noun"
+  },
+  "juni_noun": {
+    "word": "Juni",
+    "type": "noun",
+    "audio": "ord_juni.mp3",
+    "_id": "juni_noun"
+  },
+  "juli_noun": {
+    "word": "Juli",
+    "type": "noun",
+    "audio": "ord_juli.mp3",
+    "_id": "juli_noun"
+  },
+  "august_noun": {
+    "word": "August",
+    "type": "noun",
+    "audio": "ord_august.mp3",
+    "_id": "august_noun"
+  },
+  "september_noun": {
+    "word": "September",
+    "type": "noun",
+    "audio": "ord_september.mp3",
+    "_id": "september_noun"
+  },
+  "oktober_noun": {
+    "word": "Oktober",
+    "type": "noun",
+    "audio": "ord_oktober.mp3",
+    "_id": "oktober_noun"
+  },
+  "november_noun": {
+    "word": "November",
+    "type": "noun",
+    "audio": "ord_november.mp3",
+    "_id": "november_noun"
+  },
+  "dezember_noun": {
+    "word": "Dezember",
+    "type": "noun",
+    "audio": "ord_dezember.mp3",
+    "_id": "dezember_noun"
+  },
+  "morgenmensch_noun": {
+    "word": "Morgenmensch",
+    "type": "noun",
+    "audio": "ord_morgenmensch.mp3",
+    "_id": "morgenmensch_noun"
+  },
+  "pferd_noun": {
+    "word": "Pferd",
+    "type": "noun",
+    "genus": "n",
+    "plural": "die Pferde",
+    "_id": "pferd_noun",
+    "audio": "substantiv_pferd.mp3"
+  },
+  "kuh_noun": {
+    "word": "Kuh",
+    "type": "noun",
+    "genus": "f",
+    "plural": "die Kühe",
+    "_id": "kuh_noun",
+    "audio": "substantiv_kuh.mp3"
+  },
+  "schwein_noun": {
+    "word": "Schwein",
+    "type": "noun",
+    "genus": "n",
+    "plural": "die Schweine",
+    "_id": "schwein_noun",
+    "audio": "substantiv_schwein.mp3"
+  },
+  "huhn_noun": {
+    "word": "Huhn",
+    "type": "noun",
+    "genus": "n",
+    "plural": "die Hühner",
+    "_id": "huhn_noun",
+    "audio": "substantiv_huhn.mp3"
+  },
+  "schaf_noun": {
+    "word": "Schaf",
+    "type": "noun",
+    "genus": "n",
+    "plural": "die Schafe",
+    "_id": "schaf_noun",
+    "audio": "substantiv_schaf.mp3"
+  },
+  "ente_noun": {
+    "word": "Ente",
+    "type": "noun",
+    "genus": "f",
+    "plural": "die Enten",
+    "_id": "ente_noun",
+    "audio": "substantiv_ente.mp3"
+  },
+  "hase_noun": {
+    "word": "Hase",
+    "type": "noun",
+    "genus": "m",
+    "plural": "die Hasen",
+    "_id": "hase_noun",
+    "audio": "substantiv_hase.mp3"
+  },
+  "wolf_noun": {
+    "word": "Wolf",
+    "type": "noun",
+    "genus": "m",
+    "plural": "die Wölfe",
+    "_id": "wolf_noun",
+    "audio": "substantiv_wolf.mp3"
+  },
+  "fuchs_noun": {
+    "word": "Fuchs",
+    "type": "noun",
+    "genus": "m",
+    "plural": "die Füchse",
+    "_id": "fuchs_noun",
+    "audio": "substantiv_fuchs.mp3"
+  },
+  "schlange_noun": {
+    "word": "Schlange",
+    "type": "noun",
+    "genus": "f",
+    "plural": "die Schlangen",
+    "_id": "schlange_noun",
+    "audio": "substantiv_schlange.mp3"
+  },
+  "schildkroete_noun": {
+    "word": "Schildkröte",
+    "type": "noun",
+    "genus": "f",
+    "plural": "die Schildkröten",
+    "_id": "schildkroete_noun",
+    "audio": "substantiv_schildkroete.mp3"
+  },
+  "wecker_noun": {
+    "word": "Wecker",
+    "type": "noun",
+    "genus": "m",
+    "plural": "die Wecker",
+    "_id": "wecker_noun",
+    "audio": "substantiv_wecker.mp3"
+  },
+  "dusche_noun": {
+    "word": "Dusche",
+    "type": "noun",
+    "genus": "f",
+    "plural": "die Duschen",
+    "_id": "dusche_noun",
+    "audio": "substantiv_dusche.mp3"
+  },
+  "badezimmer_noun": {
+    "word": "Badezimmer",
+    "type": "noun",
+    "genus": "n",
+    "plural": "die Badezimmer",
+    "_id": "badezimmer_noun",
+    "audio": "substantiv_badezimmer.mp3"
+  },
+  "mittagessen_noun": {
+    "word": "Mittagessen",
+    "type": "noun",
+    "genus": "n",
+    "plural": "die Mittagessen",
+    "_id": "mittagessen_noun",
+    "audio": "substantiv_mittagessen.mp3"
+  },
+  "zahnbuerste_noun": {
+    "word": "Zahnbürste",
+    "type": "noun",
+    "genus": "f",
+    "plural": "die Zahnbürsten",
+    "_id": "zahnbuerste_noun",
+    "audio": "substantiv_zahnbuerste.mp3"
+  },
+  "neffe_noun": {
+    "word": "Neffe",
+    "type": "noun",
+    "genus": "m",
+    "plural": "die Neffen",
+    "_id": "neffe_noun",
+    "audio": "substantiv_neffe.mp3"
+  },
+  "nichte_noun": {
+    "word": "Nichte",
+    "type": "noun",
+    "genus": "f",
+    "plural": "die Nichten",
+    "_id": "nichte_noun",
+    "audio": "substantiv_nichte.mp3"
+  },
+  "enkel_noun": {
+    "word": "Enkel",
+    "type": "noun",
+    "genus": "m",
+    "plural": "die Enkel",
+    "_id": "enkel_noun",
+    "audio": "substantiv_enkel.mp3"
+  },
+  "enkelin_noun": {
+    "word": "Enkelin",
+    "type": "noun",
+    "genus": "f",
+    "plural": "die Enkelinnen",
+    "_id": "enkelin_noun",
+    "audio": "substantiv_enkelin.mp3"
+  },
+  "baby_noun": {
+    "word": "Baby",
+    "type": "noun",
+    "genus": "n",
+    "plural": "die Babys",
+    "_id": "baby_noun",
+    "audio": "substantiv_baby.mp3"
+  },
+  "nachbar_noun": {
+    "word": "Nachbar",
+    "type": "noun",
+    "genus": "m",
+    "plural": "die Nachbarn",
+    "_id": "nachbar_noun",
+    "audio": "substantiv_nachbar.mp3"
+  },
+  "bleistift_noun": {
+    "word": "Bleistift",
+    "type": "noun",
+    "genus": "m",
+    "plural": "die Bleistifte",
+    "_id": "bleistift_noun",
+    "audio": "substantiv_bleistift.mp3"
+  },
+  "kugelschreiber_noun": {
+    "word": "Kugelschreiber",
+    "type": "noun",
+    "genus": "m",
+    "plural": "die Kugelschreiber",
+    "_id": "kugelschreiber_noun",
+    "audio": "substantiv_kugelschreiber.mp3"
+  },
+  "heft_noun": {
+    "word": "Heft",
+    "type": "noun",
+    "genus": "n",
+    "plural": "die Hefte",
+    "_id": "heft_noun",
+    "audio": "substantiv_heft.mp3"
+  },
+  "tafel_noun": {
+    "word": "Tafel",
+    "type": "noun",
+    "genus": "f",
+    "plural": "die Tafeln",
+    "_id": "tafel_noun",
+    "audio": "substantiv_tafel.mp3"
+  },
+  "klassenzimmer_noun": {
+    "word": "Klassenzimmer",
+    "type": "noun",
+    "genus": "n",
+    "plural": "die Klassenzimmer",
+    "_id": "klassenzimmer_noun",
+    "audio": "substantiv_klassenzimmer.mp3"
+  },
+  "stundenplan_noun": {
+    "word": "Stundenplan",
+    "type": "noun",
+    "genus": "m",
+    "plural": "die Stundenpläne",
+    "_id": "stundenplan_noun",
+    "audio": "substantiv_stundenplan.mp3"
+  },
+  "basketball_noun": {
+    "word": "Basketball",
+    "type": "noun",
+    "genus": "m",
+    "plural": "die Basketbälle",
+    "_id": "basketball_noun",
+    "audio": "substantiv_basketball.mp3"
+  },
+  "klavier_noun": {
+    "word": "Klavier",
+    "type": "noun",
+    "genus": "n",
+    "plural": "die Klaviere",
+    "_id": "klavier_noun",
+    "audio": "substantiv_klavier.mp3"
+  },
+  "fahrrad_noun": {
+    "word": "Fahrrad",
+    "type": "noun",
+    "genus": "n",
+    "plural": "die Fahrräder",
+    "_id": "fahrrad_noun",
+    "audio": "substantiv_fahrrad.mp3"
+  },
+  "spiel_noun": {
+    "word": "Spiel",
+    "type": "noun",
+    "genus": "n",
+    "plural": "die Spiele",
+    "_id": "spiel_noun",
+    "audio": "substantiv_spiel.mp3"
+  },
+  "konzert_noun": {
+    "word": "Konzert",
+    "type": "noun",
+    "genus": "n",
+    "plural": "die Konzerte",
+    "_id": "konzert_noun",
+    "audio": "substantiv_konzert.mp3"
+  },
+  "theater_noun": {
+    "word": "Theater",
+    "type": "noun",
+    "genus": "n",
+    "plural": "die Theater",
+    "_id": "theater_noun",
+    "audio": "substantiv_theater.mp3"
+  },
+  "ueberraschungsparty_noun": {
+    "word": "Überraschungsparty",
+    "type": "noun",
+    "genus": "f",
+    "plural": "die Überraschungspartys",
+    "_id": "ueberraschungsparty_noun",
+    "audio": "substantiv_ueberraschungsparty.mp3"
+  },
+  "tshirt_noun": {
+    "word": "T-Shirt",
+    "type": "noun",
+    "genus": "n",
+    "plural": "die T-Shirts",
+    "cases": {
+      "nominativ": {
+        "intro": "4.1",
+        "bestemt": "das T-Shirt",
+        "ubestemt": "ein T-Shirt"
+      },
+      "akkusativ": {
+        "intro": "4.1",
+        "bestemt": "das T-Shirt",
+        "ubestemt": "ein T-Shirt"
+      }
+    },
+    "_id": "tshirt_noun"
+  }
+}
