@@ -1,0 +1,27 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-02-14T00:00:00Z",
+  "languages": {
+    "de": {
+      "banks": ["adjectivebank", "articlesbank", "generalbank", "nounbank", "numbersbank", "phrasesbank", "pronounsbank", "verbbank"],
+      "coreWords": 870,
+      "dictionaryWords": 3196,
+      "audioFiles": 3567
+    },
+    "es": {
+      "banks": ["adjectivebank", "articlesbank", "generalbank", "nounbank", "numbersbank", "phrasesbank", "pronounsbank", "verbbank"],
+      "coreWords": 870,
+      "audioFiles": 993
+    },
+    "fr": {
+      "banks": ["adjectivebank", "articlesbank", "generalbank", "nounbank", "numbersbank", "phrasesbank", "pronounsbank", "verbbank"],
+      "coreWords": 870,
+      "audioFiles": 1457
+    }
+  },
+  "curricula": [
+    "tysk1-vg1", "tysk1-vg2", "tysk2-vg1", "tysk2-vg2",
+    "us-8", "us-9", "us-10", "spansk1-vg1"
+  ],
+  "translationPairs": ["de-nb", "de-en", "es-nb", "es-en", "fr-nb"]
+}

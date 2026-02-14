@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Track audio files with Git LFS (prevents repo bloat)
+vocabulary/core/*/audio/*.mp3 filter=lfs diff=lfs merge=lfs -text
+vocabulary/downloads/*.zip filter=lfs diff=lfs merge=lfs -text
