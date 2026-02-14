@@ -5,7 +5,7 @@ A free, open API providing vocabulary data for language learning applications.
 ## Base URL
 
 ```
-https://www.papertek.no/api/vocab/v1
+https://www.papertek.no/api/vocab
 ```
 
 ## Endpoints
@@ -16,7 +16,7 @@ Returns available languages and translation packs.
 
 **Example:**
 ```bash
-curl https://www.papertek.no/api/vocab/v1/manifest
+curl https://www.papertek.no/api/vocab/manifest
 ```
 
 **Response:**
@@ -32,7 +32,7 @@ curl https://www.papertek.no/api/vocab/v1/manifest
       "version": "1.0.0",
       "totalWords": 870,
       "files": ["adjectivebank", "articlesbank", "generalbank", ...],
-      "endpoint": "/api/vocab/v1/core/german"
+      "endpoint": "/api/vocab/core/german"
     },
     "spanish": { ... }
   },
@@ -40,7 +40,7 @@ curl https://www.papertek.no/api/vocab/v1/manifest
     "german-to-norwegian": {
       "from": "german",
       "to": "norwegian",
-      "endpoint": "/api/vocab/v1/translations/german-to-norwegian"
+      "endpoint": "/api/vocab/translations/german-to-norwegian"
     },
     ...
   }
@@ -60,10 +60,10 @@ Returns core vocabulary for a language (words, conjugations, declensions).
 **Examples:**
 ```bash
 # Get all German vocabulary
-curl https://www.papertek.no/api/vocab/v1/core/german
+curl https://www.papertek.no/api/vocab/core/german
 
 # Get only German verbs
-curl https://www.papertek.no/api/vocab/v1/core/german?bank=verbbank
+curl https://www.papertek.no/api/vocab/core/german?bank=verbbank
 ```
 
 **Response (full):**
@@ -117,10 +117,10 @@ Returns translations for a language pair.
 **Examples:**
 ```bash
 # Get all German-to-English translations
-curl https://www.papertek.no/api/vocab/v1/translations/german-to-english
+curl https://www.papertek.no/api/vocab/translations/german-to-english
 
 # Get only verb translations
-curl https://www.papertek.no/api/vocab/v1/translations/german-to-english?bank=verbbank
+curl https://www.papertek.no/api/vocab/translations/german-to-english?bank=verbbank
 ```
 
 **Response:**
@@ -155,10 +155,10 @@ Returns available grammar features for progressive disclosure. Each language has
 **Examples:**
 ```bash
 # Get all languages' features
-curl https://www.papertek.no/api/vocab/v1/grammarfeatures
+curl https://www.papertek.no/api/vocab/grammarfeatures
 
 # Get German grammar features only
-curl https://www.papertek.no/api/vocab/v1/grammarfeatures?language=german
+curl https://www.papertek.no/api/vocab/grammarfeatures?language=german
 ```
 
 **Response (for German):**
@@ -211,7 +211,7 @@ curl https://www.papertek.no/api/vocab/v1/grammarfeatures?language=german
 
 ```javascript
 // Fetch German vocabulary
-const response = await fetch('https://www.papertek.no/api/vocab/v1/core/german');
+const response = await fetch('https://www.papertek.no/api/vocab/core/german');
 const germanVocab = await response.json();
 
 // Access verbs
@@ -225,8 +225,8 @@ console.log(verbs.sein_verb.conjugations.presens.former.ich); // "bin"
 import requests
 
 # Get Spanish vocabulary with Norwegian translations
-core = requests.get('https://www.papertek.no/api/vocab/v1/core/spanish').json()
-trans = requests.get('https://www.papertek.no/api/vocab/v1/translations/spanish-to-norwegian').json()
+core = requests.get('https://www.papertek.no/api/vocab/core/spanish').json()
+trans = requests.get('https://www.papertek.no/api/vocab/translations/spanish-to-norwegian').json()
 
 # Merge core + translations for a word
 word_id = 'ser_verb'
@@ -236,7 +236,7 @@ word = {**core['verbbank'][word_id], **trans['verbbank'][word_id]}
 ### Swift (iOS)
 
 ```swift
-let url = URL(string: "https://www.papertek.no/api/vocab/v1/core/german")!
+let url = URL(string: "https://www.papertek.no/api/vocab/core/german")!
 let (data, _) = try await URLSession.shared.data(from: url)
 let vocab = try JSONDecoder().decode(VocabularyResponse.self, from: data)
 ```

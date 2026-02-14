@@ -5,7 +5,7 @@ Serves vocabulary for German, Spanish, and French with Norwegian/English transla
 
 ## Live API
 
-- **Production:** `https://vocab.papertek.no/api/vocab/v1`
+- **Production:** `https://vocab.papertek.no/api/vocab`
 - **Documentation:** See [api/vocab/README.md](api/vocab/README.md)
 
 ## Quick Start
@@ -14,12 +14,12 @@ Serves vocabulary for German, Spanish, and French with Norwegian/English transla
 
 | Endpoint | Description |
 |----------|-------------|
-| `GET /api/vocab/v1/manifest` | Available languages, translations, downloads |
-| `GET /api/vocab/v1/core/{language}` | Core vocabulary (de, es, fr) |
-| `GET /api/vocab/v1/translations/{pair}` | Translations (de-nb, de-en, etc.) |
-| `GET /api/vocab/v1/grammarfeatures` | Grammar features for progressive disclosure |
-| `GET /api/vocab/v2/search/{language}?q=...` | Full-text vocabulary search |
-| `GET /api/vocab/v2/lookup/{language}/{wordId}` | Detailed word lookup |
+| `GET /api/vocab/manifest` | Available languages, translations, downloads |
+| `GET /api/vocab/core/{language}` | Core vocabulary (de, es, fr) |
+| `GET /api/vocab/translations/{pair}` | Translations (de-nb, de-en, etc.) |
+| `GET /api/vocab/grammarfeatures` | Grammar features for progressive disclosure |
+| `GET /api/vocab/search/{language}?q=...` | Full-text vocabulary search |
+| `GET /api/vocab/lookup/{language}/{wordId}` | Detailed word lookup |
 
 ### Static Files (audio, downloads)
 
@@ -38,7 +38,7 @@ https://vocab.papertek.no/vocabulary/downloads/audio-de.zip
 ```bash
 npm install
 npx vercel dev
-# API available at http://localhost:3000/api/vocab/v1/manifest
+# API available at http://localhost:3000/api/vocab/manifest
 ```
 
 ## Data Structure

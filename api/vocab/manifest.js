@@ -52,7 +52,7 @@ export default async function handler(req, res) {
           totalWords: manifest._metadata.totalWords,
           files: Object.keys(manifest._metadata.files),
           updatedAt: manifest._metadata.generatedAt,
-          endpoint: `/api/vocab/v1/core/${lang}`,
+          endpoint: `/api/vocab/core/${lang}`,
           audio: hasAudio ? {
             baseUrl: `/shared/vocabulary/core/${lang}/audio`,
             fileCount: audioCount,
@@ -69,7 +69,7 @@ export default async function handler(req, res) {
       translations[pack] = {
         from: from,
         to: to,
-        endpoint: `/api/vocab/v1/translations/${pack}`
+        endpoint: `/api/vocab/translations/${pack}`
       };
     }
 
@@ -100,8 +100,8 @@ export default async function handler(req, res) {
             curriculumWords: dictManifest.curriculumWords || dictManifest._metadata.curriculumWords,
             dictionaryOnlyWords: dictManifest.dictionaryOnlyWords || dictManifest._metadata.dictionaryOnlyWords,
             sources: dictManifest.sources || [],
-            searchEndpoint: `/api/vocab/v2/search/${lang}`,
-            lookupEndpoint: `/api/vocab/v2/lookup/${lang}/{wordId}`,
+            searchEndpoint: `/api/vocab/search/${lang}`,
+            lookupEndpoint: `/api/vocab/lookup/${lang}/{wordId}`,
           };
         }
       }
