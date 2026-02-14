@@ -46,12 +46,12 @@ Copy these paths from `Tysk-niv--1-versjon-1.3/` into the new repo root:
 
 | Source (monorepo) | Destination (new repo) | Description |
 |---|---|---|
-| `api/vocab/v1/manifest.js` | `api/vocab/v1/manifest.js` | Manifest/discovery endpoint |
-| `api/vocab/v1/grammarfeatures.js` | `api/vocab/v1/grammarfeatures.js` | Grammar features endpoint |
-| `api/vocab/v1/core/[language].js` | `api/vocab/v1/core/[language].js` | Core vocabulary endpoint |
-| `api/vocab/v1/translations/[pair].js` | `api/vocab/v1/translations/[pair].js` | Translations endpoint |
-| `api/vocab/v2/search/[language].js` | `api/vocab/v2/search/[language].js` | Full-text search endpoint |
-| `api/vocab/v2/lookup/[language]/[wordId].js` | `api/vocab/v2/lookup/[language]/[wordId].js` | Word lookup endpoint |
+| `api/vocab/manifest.js` | `api/vocab/manifest.js` | Manifest/discovery endpoint |
+| `api/vocab/grammarfeatures.js` | `api/vocab/grammarfeatures.js` | Grammar features endpoint |
+| `api/vocab/core/[language].js` | `api/vocab/core/[language].js` | Core vocabulary endpoint |
+| `api/vocab/translations/[pair].js` | `api/vocab/translations/[pair].js` | Translations endpoint |
+| `api/vocab/search/[language].js` | `api/vocab/search/[language].js` | Full-text search endpoint |
+| `api/vocab/lookup/[language]/[wordId].js` | `api/vocab/lookup/[language]/[wordId].js` | Word lookup endpoint |
 | `api/vocab/README.md` | `api/vocab/README.md` | API documentation |
 
 ### Shell Commands to Copy
@@ -73,17 +73,17 @@ cp shared/vocabulary/grammar-features.json ../papertek-vocabulary/vocabulary/
 cp shared/vocabulary/PROMOTE-WORD-TO-CURRICULUM.md ../papertek-vocabulary/vocabulary/
 
 # 2. Copy API handlers (preserve directory structure)
-mkdir -p ../papertek-vocabulary/api/vocab/v1/core
-mkdir -p ../papertek-vocabulary/api/vocab/v1/translations
-mkdir -p ../papertek-vocabulary/api/vocab/v2/search
-mkdir -p ../papertek-vocabulary/api/vocab/v2/lookup/\[language\]
+mkdir -p ../papertek-vocabulary/api/vocab/core
+mkdir -p ../papertek-vocabulary/api/vocab/translations
+mkdir -p ../papertek-vocabulary/api/vocab/search
+mkdir -p ../papertek-vocabulary/api/vocab/lookup/\[language\]
 
-cp api/vocab/v1/manifest.js ../papertek-vocabulary/api/vocab/v1/
-cp api/vocab/v1/grammarfeatures.js ../papertek-vocabulary/api/vocab/v1/
-cp "api/vocab/v1/core/[language].js" ../papertek-vocabulary/api/vocab/v1/core/
-cp "api/vocab/v1/translations/[pair].js" ../papertek-vocabulary/api/vocab/v1/translations/
-cp "api/vocab/v2/search/[language].js" ../papertek-vocabulary/api/vocab/v2/search/
-cp "api/vocab/v2/lookup/[language]/[wordId].js" "../papertek-vocabulary/api/vocab/v2/lookup/[language]/"
+cp api/vocab/manifest.js ../papertek-vocabulary/api/vocab/
+cp api/vocab/grammarfeatures.js ../papertek-vocabulary/api/vocab/
+cp "api/vocab/core/[language].js" ../papertek-vocabulary/api/vocab/core/
+cp "api/vocab/translations/[pair].js" ../papertek-vocabulary/api/vocab/translations/
+cp "api/vocab/search/[language].js" ../papertek-vocabulary/api/vocab/search/
+cp "api/vocab/lookup/[language]/[wordId].js" "../papertek-vocabulary/api/vocab/lookup/[language]/"
 cp api/vocab/README.md ../papertek-vocabulary/api/vocab/
 ```
 
@@ -96,19 +96,17 @@ papertek-vocabulary/
 ├── api/
 │   └── vocab/
 │       ├── README.md                           # API documentation
-│       ├── v1/
-│       │   ├── manifest.js                     # GET /api/vocab/v1/manifest
-│       │   ├── grammarfeatures.js              # GET /api/vocab/v1/grammarfeatures
-│       │   ├── core/
-│       │   │   └── [language].js               # GET /api/vocab/v1/core/{language}
-│       │   └── translations/
-│       │       └── [pair].js                   # GET /api/vocab/v1/translations/{pair}
-│       └── v2/
-│           ├── search/
-│           │   └── [language].js               # GET /api/vocab/v2/search/{language}
-│           └── lookup/
-│               └── [language]/
-│                   └── [wordId].js             # GET /api/vocab/v2/lookup/{lang}/{wordId}
+│       ├── manifest.js                         # GET /api/vocab/manifest
+│       ├── grammarfeatures.js                  # GET /api/vocab/grammarfeatures
+│       ├── core/
+│       │   └── [language].js                   # GET /api/vocab/core/{language}
+│       ├── translations/
+│       │   └── [pair].js                       # GET /api/vocab/translations/{pair}
+│       ├── search/
+│       │   └── [language].js                   # GET /api/vocab/search/{language}
+│       └── lookup/
+│           └── [language]/
+│               └── [wordId].js                 # GET /api/vocab/lookup/{lang}/{wordId}
 ├── vocabulary/                                  # All vocabulary data
 │   ├── grammar-features.json                   # Grammar features (source of truth)
 │   ├── PROMOTE-WORD-TO-CURRICULUM.md
@@ -203,7 +201,7 @@ path.join(process.cwd(), 'vocabulary')
 Each API handler has a function like `getVocabBasePath()` or hardcoded paths. Here's exactly
 what to change in each file:
 
-#### `api/vocab/v1/manifest.js`
+#### `api/vocab/manifest.js`
 **Line 23** — Change:
 ```javascript
 // OLD:
@@ -220,7 +218,7 @@ baseUrl: `/shared/vocabulary/core/${lang}/audio`,
 baseUrl: `/vocabulary/core/${lang}/audio`,
 ```
 
-#### `api/vocab/v1/core/[language].js`
+#### `api/vocab/core/[language].js`
 **Lines 28-34** — Change the `getVocabBasePath()` function:
 ```javascript
 // OLD:
@@ -239,7 +237,7 @@ function getVocabBasePath() {
 }
 ```
 
-#### `api/vocab/v1/translations/[pair].js`
+#### `api/vocab/translations/[pair].js`
 **Line 56** — Change:
 ```javascript
 // OLD:
@@ -248,7 +246,7 @@ const pairPath = path.join(process.cwd(), 'public', 'shared', 'vocabulary', 'tra
 const pairPath = path.join(process.cwd(), 'vocabulary', 'translations', normalizedPair);
 ```
 
-#### `api/vocab/v1/grammarfeatures.js`
+#### `api/vocab/grammarfeatures.js`
 **Lines 21-24** — Change the path list:
 ```javascript
 // OLD:
@@ -263,7 +261,7 @@ const possiblePaths = [
 ];
 ```
 
-#### `api/vocab/v2/search/[language].js`
+#### `api/vocab/search/[language].js`
 **Lines 22-38** — Change `getVocabBasePath()`:
 ```javascript
 // NEW:
@@ -272,7 +270,7 @@ function getVocabBasePath() {
 }
 ```
 
-#### `api/vocab/v2/lookup/[language]/[wordId].js`
+#### `api/vocab/lookup/[language]/[wordId].js`
 **Lines 47-61** — Change `getVocabBasePath()`:
 ```javascript
 // NEW:
@@ -293,10 +291,10 @@ audioUrl: entry.audio ? `/vocabulary/core/${langCode}/audio/${entry.audio}` : nu
 In `api/vocab/README.md`, update all URLs from `www.papertek.no` to `vocab.papertek.no`:
 ```
 # OLD:
-https://www.papertek.no/api/vocab/v1
+https://www.papertek.no/api/vocab
 
 # NEW:
-https://vocab.papertek.no/api/vocab/v1
+https://vocab.papertek.no/api/vocab
 ```
 
 ---
@@ -435,7 +433,7 @@ Serves vocabulary for German, Spanish, and French with Norwegian/English transla
 
 ## Live API
 
-- **Production:** `https://vocab.papertek.no/api/vocab/v1`
+- **Production:** `https://vocab.papertek.no/api/vocab`
 - **Documentation:** See [api/vocab/README.md](api/vocab/README.md)
 
 ## Quick Start
@@ -444,12 +442,12 @@ Serves vocabulary for German, Spanish, and French with Norwegian/English transla
 
 | Endpoint | Description |
 |----------|-------------|
-| `GET /api/vocab/v1/manifest` | Available languages, translations, downloads |
-| `GET /api/vocab/v1/core/{language}` | Core vocabulary (de, es, fr) |
-| `GET /api/vocab/v1/translations/{pair}` | Translations (de-nb, de-en, etc.) |
-| `GET /api/vocab/v1/grammarfeatures` | Grammar features for progressive disclosure |
-| `GET /api/vocab/v2/search/{language}?q=...` | Full-text vocabulary search |
-| `GET /api/vocab/v2/lookup/{language}/{wordId}` | Detailed word lookup |
+| `GET /api/vocab/manifest` | Available languages, translations, downloads |
+| `GET /api/vocab/core/{language}` | Core vocabulary (de, es, fr) |
+| `GET /api/vocab/translations/{pair}` | Translations (de-nb, de-en, etc.) |
+| `GET /api/vocab/grammarfeatures` | Grammar features for progressive disclosure |
+| `GET /api/vocab/search/{language}?q=...` | Full-text vocabulary search |
+| `GET /api/vocab/lookup/{language}/{wordId}` | Detailed word lookup |
 
 ### Static Files (audio, downloads)
 
@@ -468,7 +466,7 @@ https://vocab.papertek.no/vocabulary/downloads/audio-de.zip
 ```bash
 npm install
 npx vercel dev
-# API available at http://localhost:3000/api/vocab/v1/manifest
+# API available at http://localhost:3000/api/vocab/manifest
 ```
 
 ## Data Structure
@@ -592,13 +590,13 @@ In the Vercel dashboard for `papertek-vocabulary`:
 
 ```bash
 # Test API
-curl https://vocab.papertek.no/api/vocab/v1/manifest | jq .api
+curl https://vocab.papertek.no/api/vocab/manifest | jq .api
 
 # Test static audio
 curl -I https://vocab.papertek.no/vocabulary/core/de/audio/substantiv_garten.mp3
 
 # Test search
-curl "https://vocab.papertek.no/api/vocab/v2/search/de?q=Haus" | jq .results
+curl "https://vocab.papertek.no/api/vocab/search/de?q=Haus" | jq .results
 
 # Test downloads
 curl -I https://vocab.papertek.no/vocabulary/downloads/audio-de.zip
@@ -611,20 +609,20 @@ curl -I https://vocab.papertek.no/vocabulary/downloads/audio-de.zip
 Run through all of these before considering Phase 1B complete:
 
 ### API Endpoints
-- [ ] `GET /api/vocab/v1/manifest` returns language list with correct endpoints
-- [ ] `GET /api/vocab/v1/core/german` returns all German banks combined
-- [ ] `GET /api/vocab/v1/core/german?bank=verbbank` returns only verbs
-- [ ] `GET /api/vocab/v1/core/spanish` returns Spanish banks
-- [ ] `GET /api/vocab/v1/core/french` returns French banks
-- [ ] `GET /api/vocab/v1/translations/german-to-norwegian` returns translations
-- [ ] `GET /api/vocab/v1/translations/de-nb` also works (ISO code alias)
-- [ ] `GET /api/vocab/v1/translations/german-to-english` returns translations
-- [ ] `GET /api/vocab/v1/grammarfeatures` returns all languages' features
-- [ ] `GET /api/vocab/v1/grammarfeatures?language=de` returns German-only
-- [ ] `GET /api/vocab/v2/search/de?q=Haus` returns search results
-- [ ] `GET /api/vocab/v2/search/de?q=hus&lang=nb` finds via Norwegian translation
-- [ ] `GET /api/vocab/v2/lookup/de/sein_verb` returns full verb data with conjugations
-- [ ] `GET /api/vocab/v2/lookup/de/garten_noun` returns noun with genus and plural
+- [ ] `GET /api/vocab/manifest` returns language list with correct endpoints
+- [ ] `GET /api/vocab/core/german` returns all German banks combined
+- [ ] `GET /api/vocab/core/german?bank=verbbank` returns only verbs
+- [ ] `GET /api/vocab/core/spanish` returns Spanish banks
+- [ ] `GET /api/vocab/core/french` returns French banks
+- [ ] `GET /api/vocab/translations/german-to-norwegian` returns translations
+- [ ] `GET /api/vocab/translations/de-nb` also works (ISO code alias)
+- [ ] `GET /api/vocab/translations/german-to-english` returns translations
+- [ ] `GET /api/vocab/grammarfeatures` returns all languages' features
+- [ ] `GET /api/vocab/grammarfeatures?language=de` returns German-only
+- [ ] `GET /api/vocab/search/de?q=Haus` returns search results
+- [ ] `GET /api/vocab/search/de?q=hus&lang=nb` finds via Norwegian translation
+- [ ] `GET /api/vocab/lookup/de/sein_verb` returns full verb data with conjugations
+- [ ] `GET /api/vocab/lookup/de/garten_noun` returns noun with genus and plural
 - [ ] Invalid language returns 400 with helpful error
 - [ ] Invalid endpoint returns 404
 
@@ -657,7 +655,7 @@ Run through all of these before considering Phase 1B complete:
 - [ ] Open `www.papertek.no` or `localhost:8000` (the webapp)
 - [ ] In browser console, run:
   ```javascript
-  fetch('https://vocab.papertek.no/api/vocab/v1/manifest')
+  fetch('https://vocab.papertek.no/api/vocab/manifest')
     .then(r => r.json())
     .then(d => console.log('Vocab API works:', d.api))
     .catch(e => console.error('CORS or network error:', e));

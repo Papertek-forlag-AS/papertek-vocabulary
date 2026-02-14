@@ -159,7 +159,7 @@ console.log(w.word, '| curriculum:', w.curriculum, '| cefr:', w.cefr);
 "
 
 # Test the API locally
-curl http://localhost:8000/api/vocab/v2/lookup/de/abfahrt_noun
+curl http://localhost:8000/api/vocab/lookup/de/abfahrt_noun
 ```
 
 ---
