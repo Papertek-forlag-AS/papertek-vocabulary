@@ -20,7 +20,7 @@ export default async function handler(req, res) {
   }
 
   try {
-    const vocabPath = path.join(process.cwd(), 'public', 'shared', 'vocabulary');
+    const vocabPath = path.join(process.cwd(), 'vocabulary');
 
     // Read core languages
     const corePath = path.join(vocabPath, 'core');

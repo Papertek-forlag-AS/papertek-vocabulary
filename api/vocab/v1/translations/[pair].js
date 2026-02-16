@@ -53,7 +53,7 @@ export default async function handler(req, res) {
   }
 
   try {
-    const pairPath = path.join(process.cwd(), 'public', 'shared', 'vocabulary', 'translations', normalizedPair);
+    const pairPath = path.join(process.cwd(), 'vocabulary', 'translations', normalizedPair);
 
     // Check if translation folder exists
     if (!fs.existsSync(pairPath)) {

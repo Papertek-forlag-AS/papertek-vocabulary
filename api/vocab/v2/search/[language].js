@@ -1,6 +1,5 @@
 import fs from 'fs';
 import path from 'path';
-import { fileURLToPath } from 'url';
 
 const corsHeaders = {
   'Access-Control-Allow-Origin': '*',
@@ -20,21 +19,7 @@ function setCors(res) {
 }
 
 function getVocabBasePath() {
-  // Check paths that have the dictionary subfolder (not just vocabulary root)
-  const possiblePaths = [
-    path.join(process.cwd(), 'public', 'shared', 'vocabulary'),
-    path.join(process.cwd(), 'shared', 'vocabulary'),
-    path.join(path.dirname(fileURLToPath(import.meta.url)), '..', '..', '..', '..', 'public', 'shared', 'vocabulary'),
-  ];
-  // Prefer path that has dictionary/ subfolder
-  for (const p of possiblePaths) {
-    if (fs.existsSync(path.join(p, 'dictionary'))) return p;
-  }
-  // Fallback to first existing path
-  for (const p of possiblePaths) {
-    if (fs.existsSync(p)) return p;
-  }
-  return possiblePaths[0];
+  return path.join(process.cwd(), 'vocabulary');
 }
 
 // Module-level cache for search indices (survives across warm invocations)

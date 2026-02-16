@@ -18,20 +18,12 @@ const LANGUAGE_MAP = {
 
 // Load grammar features from shared JSON file (single source of truth)
 function loadGrammarFeatures() {
-  const possiblePaths = [
-    path.join(process.cwd(), 'public', 'shared', 'vocabulary', 'grammar-features.json'),
-    path.join(process.cwd(), 'shared', 'vocabulary', 'grammar-features.json'),
-  ];
-
-  for (const p of possiblePaths) {
-    if (fs.existsSync(p)) {
-      const data = JSON.parse(fs.readFileSync(p, 'utf-8'));
-      // Remove metadata from returned object, keep only language data
-      const { _metadata, ...languages } = data;
-      return { metadata: _metadata, languages };
-    }
+  const p = path.join(process.cwd(), 'vocabulary', 'grammar-features.json');
+  if (fs.existsSync(p)) {
+    const data = JSON.parse(fs.readFileSync(p, 'utf-8'));
+    const { _metadata, ...languages } = data;
+    return { metadata: _metadata, languages };
   }
-
   return null;
 }
 

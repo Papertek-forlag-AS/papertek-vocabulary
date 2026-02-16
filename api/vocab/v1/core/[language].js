@@ -1,6 +1,5 @@
 import fs from 'fs';
 import path from 'path';
-import { fileURLToPath } from 'url';
 
 // CORS headers for external API access
 const corsHeaders = {
@@ -26,19 +25,7 @@ const LANGUAGE_MAP = {
 
 // Get the vocabulary base path - try multiple locations
 function getVocabBasePath() {
-  const possiblePaths = [
-    path.join(process.cwd(), 'public', 'shared', 'vocabulary'),
-    path.join(process.cwd(), 'shared', 'vocabulary'),
-    // For Vercel bundled files
-    path.join(path.dirname(fileURLToPath(import.meta.url)), '..', '..', '..', 'public', 'shared', 'vocabulary'),
-  ];
-
-  for (const p of possiblePaths) {
-    if (fs.existsSync(p)) {
-      return p;
-    }
-  }
-  return possiblePaths[0]; // fallback
+  return path.join(process.cwd(), 'vocabulary');
 }
 
 export default async function handler(req, res) {
