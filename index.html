@@ -1,0 +1,628 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Papertek Vocabulary API</title>
+  <style>
+    :root {
+      --bg: #0f1117;
+      --surface: #161922;
+      --border: #2a2d3a;
+      --text: #e1e4ed;
+      --muted: #8b8fa7;
+      --accent: #6c8aff;
+      --accent-dim: #3d4f8a;
+      --green: #4ade80;
+      --orange: #fbbf24;
+      --code-bg: #1c1f2b;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+    }
+
+    .container {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 3rem 1.5rem;
+    }
+
+    header {
+      margin-bottom: 3rem;
+    }
+
+    header h1 {
+      font-size: 2rem;
+      font-weight: 700;
+      margin-bottom: 0.5rem;
+    }
+
+    header p {
+      color: var(--muted);
+      font-size: 1.1rem;
+    }
+
+    .base-url {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 1rem 1.25rem;
+      margin-bottom: 2.5rem;
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+    }
+
+    .base-url .label {
+      color: var(--muted);
+      font-size: 0.85rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      white-space: nowrap;
+    }
+
+    .base-url code {
+      font-family: "SF Mono", "Fira Code", monospace;
+      font-size: 1rem;
+      color: var(--accent);
+    }
+
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+      gap: 1rem;
+      margin-bottom: 3rem;
+    }
+
+    .stat {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 1rem 1.25rem;
+    }
+
+    .stat .value {
+      font-size: 1.5rem;
+      font-weight: 700;
+      color: var(--accent);
+    }
+
+    .stat .label {
+      font-size: 0.8rem;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    h2 {
+      font-size: 1.3rem;
+      font-weight: 600;
+      margin-bottom: 1rem;
+      padding-bottom: 0.5rem;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .endpoint {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      margin-bottom: 1rem;
+      overflow: hidden;
+    }
+
+    .endpoint-header {
+      padding: 1rem 1.25rem;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      user-select: none;
+    }
+
+    .endpoint-header:hover {
+      background: rgba(108, 138, 255, 0.04);
+    }
+
+    .method {
+      background: var(--accent-dim);
+      color: var(--green);
+      font-family: "SF Mono", "Fira Code", monospace;
+      font-size: 0.75rem;
+      font-weight: 700;
+      padding: 0.2rem 0.5rem;
+      border-radius: 4px;
+      letter-spacing: 0.03em;
+    }
+
+    .endpoint-path {
+      font-family: "SF Mono", "Fira Code", monospace;
+      font-size: 0.95rem;
+    }
+
+    .endpoint-desc {
+      color: var(--muted);
+      font-size: 0.85rem;
+      margin-left: auto;
+    }
+
+    .chevron {
+      color: var(--muted);
+      transition: transform 0.2s;
+      margin-left: 0.5rem;
+      flex-shrink: 0;
+    }
+
+    .endpoint.open .chevron {
+      transform: rotate(90deg);
+    }
+
+    .endpoint-body {
+      display: none;
+      padding: 0 1.25rem 1.25rem;
+      border-top: 1px solid var(--border);
+    }
+
+    .endpoint.open .endpoint-body {
+      display: block;
+      padding-top: 1.25rem;
+    }
+
+    .endpoint-body p {
+      margin-bottom: 0.75rem;
+      color: var(--muted);
+      font-size: 0.9rem;
+    }
+
+    .params-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.875rem;
+      margin-bottom: 1rem;
+    }
+
+    .params-table th {
+      text-align: left;
+      padding: 0.5rem 0.75rem;
+      color: var(--muted);
+      font-weight: 600;
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .params-table td {
+      padding: 0.5rem 0.75rem;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+
+    .params-table code {
+      font-family: "SF Mono", "Fira Code", monospace;
+      font-size: 0.8rem;
+      background: var(--code-bg);
+      padding: 0.15rem 0.4rem;
+      border-radius: 3px;
+      color: var(--accent);
+    }
+
+    .tag {
+      display: inline-block;
+      font-size: 0.7rem;
+      font-weight: 600;
+      padding: 0.1rem 0.4rem;
+      border-radius: 3px;
+      text-transform: uppercase;
+    }
+
+    .tag.required {
+      background: rgba(239, 68, 68, 0.15);
+      color: #f87171;
+    }
+
+    .tag.optional {
+      background: rgba(75, 85, 99, 0.3);
+      color: var(--muted);
+    }
+
+    pre {
+      background: var(--code-bg);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 1rem;
+      overflow-x: auto;
+      font-family: "SF Mono", "Fira Code", monospace;
+      font-size: 0.8rem;
+      line-height: 1.5;
+      margin-bottom: 1rem;
+    }
+
+    .try-link {
+      display: inline-block;
+      font-size: 0.8rem;
+      color: var(--accent);
+      text-decoration: none;
+      font-family: "SF Mono", "Fira Code", monospace;
+      margin-top: 0.25rem;
+    }
+
+    .try-link:hover { text-decoration: underline; }
+
+    .section { margin-bottom: 3rem; }
+
+    .lang-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 1rem;
+      margin-bottom: 2rem;
+    }
+
+    .lang-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 1.25rem;
+    }
+
+    .lang-card h3 {
+      font-size: 1rem;
+      margin-bottom: 0.5rem;
+    }
+
+    .lang-card .meta {
+      font-size: 0.8rem;
+      color: var(--muted);
+      line-height: 1.7;
+    }
+
+    .pair-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      margin-bottom: 2rem;
+    }
+
+    .pair {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 0.4rem 0.75rem;
+      font-family: "SF Mono", "Fira Code", monospace;
+      font-size: 0.85rem;
+    }
+
+    .note {
+      background: rgba(108, 138, 255, 0.08);
+      border-left: 3px solid var(--accent);
+      padding: 0.75rem 1rem;
+      border-radius: 0 6px 6px 0;
+      font-size: 0.85rem;
+      color: var(--muted);
+      margin-bottom: 1rem;
+    }
+
+    footer {
+      margin-top: 3rem;
+      padding-top: 2rem;
+      border-top: 1px solid var(--border);
+      color: var(--muted);
+      font-size: 0.8rem;
+      text-align: center;
+    }
+
+    footer a { color: var(--accent); text-decoration: none; }
+    footer a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Papertek Vocabulary API</h1>
+      <p>Open vocabulary data and API for language learning applications</p>
+    </header>
+
+    <div class="base-url">
+      <span class="label">Base URL</span>
+      <code>https://papertek-vocabulary.vercel.app/api/vocab</code>
+    </div>
+
+    <div class="stats">
+      <div class="stat">
+        <div class="value">3</div>
+        <div class="label">Languages</div>
+      </div>
+      <div class="stat">
+        <div class="value">870+</div>
+        <div class="label">Core words</div>
+      </div>
+      <div class="stat">
+        <div class="value">3 196</div>
+        <div class="label">Dictionary (DE)</div>
+      </div>
+      <div class="stat">
+        <div class="value">6 000+</div>
+        <div class="label">Audio files</div>
+      </div>
+      <div class="stat">
+        <div class="value">5</div>
+        <div class="label">Translation pairs</div>
+      </div>
+    </div>
+
+    <!-- Languages -->
+    <div class="section">
+      <h2>Languages</h2>
+      <div class="lang-grid">
+        <div class="lang-card">
+          <h3>German (de)</h3>
+          <div class="meta">
+            870 core words<br>
+            3 196 dictionary words<br>
+            3 567 audio files<br>
+            CEFR A1&ndash;B1 coverage
+          </div>
+        </div>
+        <div class="lang-card">
+          <h3>Spanish (es)</h3>
+          <div class="meta">
+            870 core words<br>
+            993 audio files
+          </div>
+        </div>
+        <div class="lang-card">
+          <h3>French (fr)</h3>
+          <div class="meta">
+            870 core words<br>
+            1 457 audio files
+          </div>
+        </div>
+      </div>
+
+      <h2>Translation pairs</h2>
+      <div class="pair-list">
+        <span class="pair">de-en</span>
+        <span class="pair">de-nb</span>
+        <span class="pair">es-en</span>
+        <span class="pair">es-nb</span>
+        <span class="pair">fr-nb</span>
+      </div>
+    </div>
+
+    <!-- Endpoints -->
+    <div class="section">
+      <h2>Endpoints</h2>
+
+      <!-- Manifest -->
+      <div class="endpoint">
+        <div class="endpoint-header" onclick="this.parentElement.classList.toggle('open')">
+          <span class="method">GET</span>
+          <span class="endpoint-path">/v1/manifest</span>
+          <span class="endpoint-desc">API overview &amp; available data</span>
+          <span class="chevron">&#9654;</span>
+        </div>
+        <div class="endpoint-body">
+          <p>Returns all available languages, translation pairs, dictionary info, and endpoint URLs. Start here to discover the API.</p>
+          <a class="try-link" href="/api/vocab/v1/manifest" target="_blank">/api/vocab/v1/manifest</a>
+        </div>
+      </div>
+
+      <!-- Core vocabulary -->
+      <div class="endpoint">
+        <div class="endpoint-header" onclick="this.parentElement.classList.toggle('open')">
+          <span class="method">GET</span>
+          <span class="endpoint-path">/v1/core/{language}</span>
+          <span class="endpoint-desc">Core vocabulary data</span>
+          <span class="chevron">&#9654;</span>
+        </div>
+        <div class="endpoint-body">
+          <p>Returns all vocabulary banks for a language, including words, conjugations, declensions, and audio references.</p>
+          <table class="params-table">
+            <tr><th>Parameter</th><th>Type</th><th>Description</th></tr>
+            <tr>
+              <td><code>language</code></td>
+              <td><span class="tag required">path</span></td>
+              <td>Language code or name: <code>de</code>, <code>german</code>, <code>es</code>, <code>spanish</code>, <code>fr</code>, <code>french</code></td>
+            </tr>
+            <tr>
+              <td><code>bank</code></td>
+              <td><span class="tag optional">query</span></td>
+              <td>Return a single bank: <code>verbbank</code>, <code>nounbank</code>, <code>adjectivebank</code>, <code>articlesbank</code>, <code>generalbank</code>, <code>numbersbank</code>, <code>phrasesbank</code>, <code>pronounsbank</code></td>
+            </tr>
+          </table>
+          <a class="try-link" href="/api/vocab/v1/core/de" target="_blank">/api/vocab/v1/core/de</a><br>
+          <a class="try-link" href="/api/vocab/v1/core/de?bank=verbbank" target="_blank">/api/vocab/v1/core/de?bank=verbbank</a>
+        </div>
+      </div>
+
+      <!-- Translations -->
+      <div class="endpoint">
+        <div class="endpoint-header" onclick="this.parentElement.classList.toggle('open')">
+          <span class="method">GET</span>
+          <span class="endpoint-path">/v1/translations/{pair}</span>
+          <span class="endpoint-desc">Translation data</span>
+          <span class="chevron">&#9654;</span>
+        </div>
+        <div class="endpoint-body">
+          <p>Returns translations, synonyms, examples, and explanations for a language pair.</p>
+          <table class="params-table">
+            <tr><th>Parameter</th><th>Type</th><th>Description</th></tr>
+            <tr>
+              <td><code>pair</code></td>
+              <td><span class="tag required">path</span></td>
+              <td>Translation pair: <code>de-en</code>, <code>de-nb</code>, <code>es-en</code>, <code>es-nb</code>, <code>fr-nb</code></td>
+            </tr>
+            <tr>
+              <td><code>bank</code></td>
+              <td><span class="tag optional">query</span></td>
+              <td>Return a single bank (e.g. <code>verbbank</code>)</td>
+            </tr>
+          </table>
+          <a class="try-link" href="/api/vocab/v1/translations/de-en" target="_blank">/api/vocab/v1/translations/de-en</a>
+        </div>
+      </div>
+
+      <!-- Grammar Features -->
+      <div class="endpoint">
+        <div class="endpoint-header" onclick="this.parentElement.classList.toggle('open')">
+          <span class="method">GET</span>
+          <span class="endpoint-path">/v1/grammarfeatures</span>
+          <span class="endpoint-desc">Grammar feature metadata</span>
+          <span class="chevron">&#9654;</span>
+        </div>
+        <div class="endpoint-body">
+          <p>Returns grammar features for progressive disclosure in learning apps. Use this to build settings UIs where users select which grammar concepts they've learned.</p>
+          <table class="params-table">
+            <tr><th>Parameter</th><th>Type</th><th>Description</th></tr>
+            <tr>
+              <td><code>language</code></td>
+              <td><span class="tag optional">query</span></td>
+              <td>Filter to one language: <code>de</code>, <code>es</code>, <code>fr</code>. Omit for all languages.</td>
+            </tr>
+          </table>
+          <a class="try-link" href="/api/vocab/v1/grammarfeatures" target="_blank">/api/vocab/v1/grammarfeatures</a><br>
+          <a class="try-link" href="/api/vocab/v1/grammarfeatures?language=de" target="_blank">/api/vocab/v1/grammarfeatures?language=de</a>
+        </div>
+      </div>
+
+      <!-- Search -->
+      <div class="endpoint">
+        <div class="endpoint-header" onclick="this.parentElement.classList.toggle('open')">
+          <span class="method">GET</span>
+          <span class="endpoint-path">/v2/search/{language}</span>
+          <span class="endpoint-desc">Full-text vocabulary search</span>
+          <span class="chevron">&#9654;</span>
+        </div>
+        <div class="endpoint-body">
+          <p>Search across all vocabulary with ranked results. Matches on both the original word and translations. Results are ranked by match type (prefix &gt; contains) and word frequency.</p>
+          <table class="params-table">
+            <tr><th>Parameter</th><th>Type</th><th>Description</th></tr>
+            <tr>
+              <td><code>language</code></td>
+              <td><span class="tag required">path</span></td>
+              <td>Language code: <code>de</code>, <code>es</code>, <code>fr</code></td>
+            </tr>
+            <tr>
+              <td><code>q</code></td>
+              <td><span class="tag required">query</span></td>
+              <td>Search query (min 2 characters)</td>
+            </tr>
+            <tr>
+              <td><code>lang</code></td>
+              <td><span class="tag optional">query</span></td>
+              <td>Translation language: <code>nb</code> (default), <code>en</code></td>
+            </tr>
+            <tr>
+              <td><code>limit</code></td>
+              <td><span class="tag optional">query</span></td>
+              <td>Max results, 1&ndash;50 (default: 10)</td>
+            </tr>
+            <tr>
+              <td><code>type</code></td>
+              <td><span class="tag optional">query</span></td>
+              <td>Filter by word type: <code>verb</code>, <code>noun</code>, <code>adjective</code>, etc.</td>
+            </tr>
+            <tr>
+              <td><code>cefr</code></td>
+              <td><span class="tag optional">query</span></td>
+              <td>Filter by CEFR level: <code>A1</code>, <code>A2</code>, <code>B1</code> (comma-separated)</td>
+            </tr>
+            <tr>
+              <td><code>source</code></td>
+              <td><span class="tag optional">query</span></td>
+              <td><code>all</code> (default), <code>curriculum</code>, <code>dictionary</code></td>
+            </tr>
+          </table>
+          <a class="try-link" href="/api/vocab/v2/search/de?q=haus" target="_blank">/api/vocab/v2/search/de?q=haus</a><br>
+          <a class="try-link" href="/api/vocab/v2/search/de?q=sein&type=verb" target="_blank">/api/vocab/v2/search/de?q=sein&amp;type=verb</a>
+        </div>
+      </div>
+
+      <!-- Lookup -->
+      <div class="endpoint">
+        <div class="endpoint-header" onclick="this.parentElement.classList.toggle('open')">
+          <span class="method">GET</span>
+          <span class="endpoint-path">/v2/lookup/{language}/{wordId}</span>
+          <span class="endpoint-desc">Detailed word lookup</span>
+          <span class="chevron">&#9654;</span>
+        </div>
+        <div class="endpoint-body">
+          <p>Returns full detail for a single word: translations, conjugations, declensions, cases, audio, CEFR level, frequency, grammar features, and more.</p>
+          <table class="params-table">
+            <tr><th>Parameter</th><th>Type</th><th>Description</th></tr>
+            <tr>
+              <td><code>language</code></td>
+              <td><span class="tag required">path</span></td>
+              <td>Language code: <code>de</code>, <code>es</code>, <code>fr</code></td>
+            </tr>
+            <tr>
+              <td><code>wordId</code></td>
+              <td><span class="tag required">path</span></td>
+              <td>Word identifier (e.g. <code>haus_noun</code>, <code>sein_verb</code>)</td>
+            </tr>
+            <tr>
+              <td><code>lang</code></td>
+              <td><span class="tag optional">query</span></td>
+              <td>Translation language: <code>nb</code> (default), <code>en</code></td>
+            </tr>
+          </table>
+          <pre>{
+  "word": "Haus",
+  "type": "noun",
+  "genus": "n",
+  "plural": "Häuser",
+  "audio": "substantiv_haus.mp3",
+  "translation": "hus",
+  "cefr": "A1",
+  "frequency": 156,
+  "curriculum": true,
+  "cases": {
+    "akkusativ": { "bestemt": "das Haus", "ubestemt": "ein Haus" },
+    "dativ": { "bestemt": "dem Haus", "ubestemt": "einem Haus" }
+  },
+  "grammarFeatures": ["grammar_articles", "grammar_plural", "grammar_accusative_definite", "grammar_dative"]
+}</pre>
+          <a class="try-link" href="/api/vocab/v2/lookup/de/haus_noun" target="_blank">/api/vocab/v2/lookup/de/haus_noun</a><br>
+          <a class="try-link" href="/api/vocab/v2/lookup/de/sein_verb" target="_blank">/api/vocab/v2/lookup/de/sein_verb</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Caching & CORS -->
+    <div class="section">
+      <h2>Caching &amp; CORS</h2>
+      <div class="note">
+        All endpoints return <code>Access-Control-Allow-Origin: *</code> &mdash; you can call the API directly from any browser application.
+      </div>
+      <p style="color: var(--muted); font-size: 0.9rem;">
+        Responses are cached with <code>Cache-Control: public, max-age=3600, s-maxage=86400</code> &mdash; 1 hour in the browser, 24 hours on the CDN. Vocabulary data changes infrequently, so aggressive caching is safe.
+      </p>
+    </div>
+
+    <!-- Quick Start -->
+    <div class="section">
+      <h2>Quick start</h2>
+<pre><span style="color: var(--muted)">// Fetch German core vocabulary</span>
+const res = await fetch('https://papertek-vocabulary.vercel.app/api/vocab/v1/core/de');
+const data = await res.json();
+
+<span style="color: var(--muted)">// Search for a word</span>
+const search = await fetch('https://papertek-vocabulary.vercel.app/api/vocab/v2/search/de?q=haus');
+const results = await search.json();
+
+<span style="color: var(--muted)">// Look up a specific word with full detail</span>
+const word = await fetch('https://papertek-vocabulary.vercel.app/api/vocab/v2/lookup/de/haus_noun');
+const detail = await word.json();</pre>
+    </div>
+
+    <footer>
+      <p>Built by <a href="https://www.papertek.no">Papertek</a></p>
+    </footer>
+  </div>
+</body>
+</html>
