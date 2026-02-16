@@ -83,6 +83,34 @@ export default async function handler(req, res) {
       }
     }
 
+    // Build curricula info
+    const curricula = [];
+    const curriculaMeta = {
+      'tysk1-vg1':   { language: 'de', name: 'Wir sprechen Deutsch 1 VG1' },
+      'tysk1-vg2':   { language: 'de', name: 'Wir sprechen Deutsch 1 VG2' },
+      'tysk2-vg1':   { language: 'de', name: 'Wir sprechen Deutsch 2 VG1' },
+      'tysk2-vg2':   { language: 'de', name: 'Wir sprechen Deutsch 2 VG2' },
+      'us-8':        { language: 'de', name: 'Deutsch für die Mittelstufe 8' },
+      'us-9':        { language: 'de', name: 'Deutsch für die Mittelstufe 9' },
+      'us-10':       { language: 'de', name: 'Deutsch für die Mittelstufe 10' },
+      'spansk1-vg1': { language: 'es', name: 'Buen viaje 1 VG1' },
+    };
+    const curriculaPath = path.join(vocabPath, 'curricula');
+    if (fs.existsSync(curriculaPath)) {
+      const files = fs.readdirSync(curriculaPath)
+        .filter(f => f.startsWith('vocab-manifest-') && f.endsWith('.json'));
+      for (const f of files) {
+        const id = f.replace('vocab-manifest-', '').replace('.json', '');
+        const meta = curriculaMeta[id] || { language: 'unknown', name: id };
+        curricula.push({
+          id,
+          language: meta.language,
+          name: meta.name,
+          endpoint: `/api/vocab/v1/curricula/${id}`,
+        });
+      }
+    }
+
     // Build dictionary info (v2 endpoints)
     const dictionary = {};
     const dictPath = path.join(vocabPath, 'dictionary');
@@ -115,6 +143,7 @@ export default async function handler(req, res) {
       },
       core,
       translations,
+      curricula: curricula.length > 0 ? curricula : null,
       dictionary: Object.keys(dictionary).length > 0 ? dictionary : null,
       downloads: downloads ? downloads.downloads : null,
       _generated: new Date().toISOString()

@@ -353,6 +353,10 @@
         <div class="value">5</div>
         <div class="label">Translation pairs</div>
       </div>
+      <div class="stat">
+        <div class="value">8</div>
+        <div class="label">Curricula</div>
+      </div>
     </div>
 
     <!-- Languages -->
@@ -487,6 +491,53 @@
           </table>
           <a class="try-link" href="/api/vocab/v1/grammarfeatures" target="_blank">/api/vocab/v1/grammarfeatures</a><br>
           <a class="try-link" href="/api/vocab/v1/grammarfeatures?language=de" target="_blank">/api/vocab/v1/grammarfeatures?language=de</a>
+        </div>
+      </div>
+
+      <!-- Curricula List -->
+      <div class="endpoint">
+        <div class="endpoint-header" onclick="this.parentElement.classList.toggle('open')">
+          <span class="method">GET</span>
+          <span class="endpoint-path">/v1/curricula</span>
+          <span class="endpoint-desc">List available curricula</span>
+          <span class="chevron">&#9654;</span>
+        </div>
+        <div class="endpoint-body">
+          <p>Returns all available curriculum manifests. Each curriculum maps lessons to vocabulary word IDs and grammar features.</p>
+          <a class="try-link" href="/api/vocab/v1/curricula" target="_blank">/api/vocab/v1/curricula</a>
+        </div>
+      </div>
+
+      <!-- Curriculum by ID -->
+      <div class="endpoint">
+        <div class="endpoint-header" onclick="this.parentElement.classList.toggle('open')">
+          <span class="method">GET</span>
+          <span class="endpoint-path">/v1/curricula/{curriculumId}</span>
+          <span class="endpoint-desc">Curriculum lesson manifest</span>
+          <span class="chevron">&#9654;</span>
+        </div>
+        <div class="endpoint-body">
+          <p>Returns the full lesson manifest for a curriculum. Each lesson contains word IDs and grammar feature IDs introduced in that lesson.</p>
+          <table class="params-table">
+            <tr><th>Parameter</th><th>Type</th><th>Description</th></tr>
+            <tr>
+              <td><code>curriculumId</code></td>
+              <td><span class="tag required">path</span></td>
+              <td><code>tysk1-vg1</code>, <code>tysk1-vg2</code>, <code>tysk2-vg1</code>, <code>tysk2-vg2</code>, <code>us-8</code>, <code>us-9</code>, <code>us-10</code>, <code>spansk1-vg1</code></td>
+            </tr>
+          </table>
+          <pre>{
+  "lessons": {
+    "1.1": {
+      "words": ["und_conj", "aus_prep", "hallo_interj", ...],
+      "features": ["grammar_present", "grammar_pronouns_ich_du"]
+    },
+    "1.2": { "words": [...], "features": [...] },
+    ...
+  }
+}</pre>
+          <a class="try-link" href="/api/vocab/v1/curricula/tysk1-vg1" target="_blank">/api/vocab/v1/curricula/tysk1-vg1</a><br>
+          <a class="try-link" href="/api/vocab/v1/curricula/spansk1-vg1" target="_blank">/api/vocab/v1/curricula/spansk1-vg1</a>
         </div>
       </div>
 
