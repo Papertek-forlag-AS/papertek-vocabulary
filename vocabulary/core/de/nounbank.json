@@ -308,18 +308,21 @@
   "mathematik_noun": {
     "word": "Mathematik",
     "genus": "f",
+    "plural": null,
     "_id": "mathematik_noun",
     "audio": "substantiv_mathematik.mp3"
   },
   "deutsch_noun": {
     "word": "Deutsch",
     "genus": "n",
+    "plural": null,
     "_id": "deutsch_noun",
     "audio": "substantiv_deutsch.mp3"
   },
   "biologie_noun": {
     "word": "Biologie",
     "genus": "f",
+    "plural": null,
     "_id": "biologie_noun",
     "audio": "substantiv_biologie.mp3"
   },
@@ -345,6 +348,7 @@
   "politik_noun": {
     "word": "Politik",
     "genus": "f",
+    "plural": null,
     "_id": "politik_noun",
     "audio": "substantiv_politik.mp3"
   },
@@ -3570,6 +3574,7 @@
         "ubestemt": "Weihnachten"
       }
     },
+    "plural": null,
     "_id": "weihnachten_noun",
     "audio": "substantiv_weihnachten.mp3"
   },
@@ -3588,6 +3593,7 @@
         "ubestemt": "Ostern"
       }
     },
+    "plural": null,
     "_id": "ostern_noun",
     "audio": "substantiv_ostern.mp3"
   },
@@ -3601,6 +3607,7 @@
         "ubestemt": "ein Karneval"
       }
     },
+    "plural": null,
     "_id": "karneval_noun",
     "audio": "substantiv_karneval.mp3"
   },
@@ -3619,6 +3626,7 @@
         "ubestemt": "Halloween"
       }
     },
+    "plural": null,
     "_id": "halloween_noun",
     "audio": "substantiv_halloween.mp3"
   },
@@ -4032,36 +4040,42 @@
   "hochsprung_noun": {
     "word": "Hochsprung",
     "genus": "m",
+    "plural": "Hochsprünge",
     "_id": "hochsprung_noun",
     "audio": "substantiv_hochsprung.mp3"
   },
   "wind_noun": {
     "word": "Wind",
     "genus": "m",
+    "plural": "Winde",
     "_id": "wind_noun",
     "audio": "substantiv_wind.mp3"
   },
   "lieblingssport_noun": {
     "word": "Lieblingssport",
     "genus": "m",
+    "plural": "Lieblingssportarten",
     "_id": "lieblingssport_noun",
     "audio": "substantiv_lieblingssport.mp3"
   },
   "weitsprung_noun": {
     "word": "Weitsprung",
     "genus": "m",
+    "plural": "Weitsprünge",
     "_id": "weitsprung_noun",
     "audio": "substantiv_weitsprung.mp3"
   },
   "meter_noun": {
     "word": "Meter",
     "genus": "m",
+    "plural": "Meter",
     "_id": "meter_noun",
     "audio": "substantiv_meter.mp3"
   },
   "sekunde_noun": {
     "word": "Sekunde",
     "genus": "f",
+    "plural": "Sekunden",
     "_id": "sekunde_noun",
     "audio": "substantiv_sekunde.mp3"
   },
@@ -4460,90 +4474,105 @@
   "leute_noun": {
     "word": "Leute",
     "type": "substantiv (kun flertall)",
+    "plural": null,
     "audio": "ord_leute.mp3",
     "_id": "leute_noun"
   },
   "das_haustier_noun": {
-    "word": "das Haustier",
-    "type": "noun",
+    "word": "Haustier",
+    "genus": "n",
+    "plural": "Haustiere",
     "audio": "substantiv_haustier.mp3",
     "_id": "das_haustier_noun"
   },
   "januar_noun": {
     "word": "Januar",
-    "type": "noun",
+    "genus": "m",
+    "plural": null,
     "audio": "ord_januar.mp3",
     "_id": "januar_noun"
   },
   "februar_noun": {
     "word": "Februar",
-    "type": "noun",
+    "genus": "m",
+    "plural": null,
     "audio": "ord_februar.mp3",
     "_id": "februar_noun"
   },
   "maerz_noun": {
     "word": "März",
-    "type": "noun",
+    "genus": "m",
+    "plural": null,
     "audio": "ord_maerz.mp3",
     "_id": "maerz_noun"
   },
   "april_noun": {
     "word": "April",
-    "type": "noun",
+    "genus": "m",
+    "plural": null,
     "audio": "ord_april.mp3",
     "_id": "april_noun"
   },
   "mai_noun": {
     "word": "Mai",
-    "type": "noun",
+    "genus": "m",
+    "plural": null,
     "audio": "ord_mai.mp3",
     "_id": "mai_noun"
   },
   "juni_noun": {
     "word": "Juni",
-    "type": "noun",
+    "genus": "m",
+    "plural": null,
     "audio": "ord_juni.mp3",
     "_id": "juni_noun"
   },
   "juli_noun": {
     "word": "Juli",
-    "type": "noun",
+    "genus": "m",
+    "plural": null,
     "audio": "ord_juli.mp3",
     "_id": "juli_noun"
   },
   "august_noun": {
     "word": "August",
-    "type": "noun",
+    "genus": "m",
+    "plural": null,
     "audio": "ord_august.mp3",
     "_id": "august_noun"
   },
   "september_noun": {
     "word": "September",
-    "type": "noun",
+    "genus": "m",
+    "plural": null,
     "audio": "ord_september.mp3",
     "_id": "september_noun"
   },
   "oktober_noun": {
     "word": "Oktober",
-    "type": "noun",
+    "genus": "m",
+    "plural": null,
     "audio": "ord_oktober.mp3",
     "_id": "oktober_noun"
   },
   "november_noun": {
     "word": "November",
-    "type": "noun",
+    "genus": "m",
+    "plural": null,
     "audio": "ord_november.mp3",
     "_id": "november_noun"
   },
   "dezember_noun": {
     "word": "Dezember",
-    "type": "noun",
+    "genus": "m",
+    "plural": null,
     "audio": "ord_dezember.mp3",
     "_id": "dezember_noun"
   },
   "morgenmensch_noun": {
     "word": "Morgenmensch",
-    "type": "noun",
+    "genus": "m",
+    "plural": "Morgenmenschen",
     "audio": "ord_morgenmensch.mp3",
     "_id": "morgenmensch_noun"
   },
