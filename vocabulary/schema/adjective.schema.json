@@ -43,7 +43,7 @@
           "$ref": "#/$defs/comparison"
         }
       },
-      "required": ["translations"]
+      "required": []
     },
     "comparison": {
       "type": "object",
