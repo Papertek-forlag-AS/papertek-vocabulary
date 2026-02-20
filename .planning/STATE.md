@@ -5,14 +5,14 @@
 See: .planning/PROJECT.md (updated 2026-02-20)
 
 **Core value:** Complete, correct vocabulary data so Leksihjelp's inflection search can find any German word form and return the base entry.
-**Current focus:** Planning next milestone
+**Current focus:** v1.1 German Adjective Declension
 
 ## Current Position
 
-Phase: —
+Phase: Not started (defining requirements)
 Plan: —
-Status: Milestone v1.0 complete
-Last activity: 2026-02-20 — v1.0 German Data Completeness shipped (2 phases, 5/5 requirements satisfied)
+Status: Defining requirements
+Last activity: 2026-02-20 — Milestone v1.1 started
 
 ## Accumulated Context
 
@@ -33,7 +33,7 @@ Last activity: 2026-02-20 — v1.0 German Data Completeness shipped (2 phases, 5
 ## Session Continuity
 
 Last session: 2026-02-20
-Stopped at: v1.0 milestone complete
+Stopped at: Defining v1.1 requirements
 
 ## Pending Todos
 

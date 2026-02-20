@@ -8,13 +8,24 @@ A vocabulary data repository and REST API serving German, Spanish, and French wo
 
 Complete, correct vocabulary data so Leksihjelp's inflection search can find any German word form (conjugated verb or declined noun) and return the base entry.
 
+## Current Milestone: v1.1 German Adjective Declension
+
+**Goal:** Expand the German adjective bank and add full declension data so Leksihjelp's inflection search can resolve any declined adjective form to its base entry.
+
+**Target features:**
+- Extract adjectives from Goethe "other" wordlist bucket into the adjective bank
+- Comparative and superlative stems for all adjectives (including irregular forms)
+- Full declension tables: 3 degrees (positive/comparative/superlative) × 3 article types (strong/weak/mixed) × 4 cases × 4 gender/number
+- Norwegian and English translations for newly extracted adjectives
+
 ## Current State
 
-v1.0 shipped. German noun and verb data complete for inflection search. No active milestone.
+v1.0 shipped. German noun and verb data complete for inflection search.
 
-- **Data:** 331 German nouns (all with plural/genus), 148 German verbs (all with presens + preteritum)
+- **Data:** 331 German nouns (all with plural/genus), 148 German verbs (all with presens + preteritum), 108 German adjectives (base forms only, no grammar data)
 - **Data size:** 9,188 lines JSON across verbbank.json + nounbank.json
-- **API:** `GET /api/vocab/v1/core/german` serves both banks, no code changes needed
+- **Adjective gap:** Goethe A1/A2/B1 "other" bucket has ~1,191 words with adjectives not yet extracted
+- **API:** `GET /api/vocab/v1/core/german` serves all banks, no code changes needed
 - **Deployment:** Vercel, auto-deploys on push to `main`
 
 ## Requirements
@@ -30,7 +41,11 @@ v1.0 shipped. German noun and verb data complete for inflection search. No activ
 
 ### Active
 
-(None — next milestone not yet planned)
+- [ ] Adjective bank expanded with entries extracted from Goethe "other" wordlists
+- [ ] All German adjectives have comparative and superlative forms (irregular forms correct)
+- [ ] Full declension tables for all 3 degrees × 3 article types × 4 cases × 4 gender/number
+- [ ] Norwegian and English translations for all new adjective entries
+- [ ] Adjective schema updated to support declension data
 
 ### Out of Scope
 
@@ -63,4 +78,4 @@ v1.0 shipped. German noun and verb data complete for inflection search. No activ
 | möchten uses wollte forms with note | möchten is Konjunktiv II of mögen, has no independent preteritum | ✓ Good |
 
 ---
-*Last updated: 2026-02-20 after v1.0 milestone completion*
+*Last updated: 2026-02-20 after v1.1 milestone start*
