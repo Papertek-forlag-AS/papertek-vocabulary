@@ -44,14 +44,15 @@
 - [ ] 03-01-PLAN.md — Fix schema validation, remove beste_adj, reclassify Lieblings- to generalbank
 
 ### Phase 4: Goethe Adjective Extraction
-**Goal**: A definitive curated list of new adjectives exists, deduplicated against the existing 108-entry bank, verified with the attributive test
+**Goal**: A definitive curated list of new adjectives exists, deduplicated against the existing 106-entry bank, verified with the attributive test
 **Depends on**: Phase 3
 **Requirements**: BANK-01
 **Success Criteria** (what must be TRUE):
   1. Each candidate word passes the "ein ___er Mann" attributive test confirming it is a genuine adjective
-  2. No candidate word already exists in the current 108-entry adjective bank (deduplication complete)
+  2. No candidate word already exists in the current 106-entry adjective bank (deduplication complete)
   3. The curated candidate list includes the source CEFR level (A1/A2/B1) for each entry, ready for stub creation
-**Plans**: TBD
+**Plans**: 1 plan
+- [ ] 04-01-PLAN.md — Extract, deduplicate, and classify adjectives from Goethe A1/A2/B1 wordlists
 
 ### Phase 5: Schema Extension
 **Goal**: The adjective schema supports declension data, exception flags, and the genitive grammar feature toggle — schema is a validated gate for all downstream data entry
