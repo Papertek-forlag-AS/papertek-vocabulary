@@ -40,7 +40,8 @@
   1. Running ajv validation against adjective.schema.json with translations optional produces zero errors on all 108 existing entries
   2. The `beste_adj` entry is either removed from the bank or its presence documented with a clear rationale in PROJECT.md
   3. The `Lieblings-` entry is either removed from the adjective bank or reclassified to the correct word type
-**Plans**: TBD
+**Plans**: 1 plan
+- [ ] 03-01-PLAN.md — Fix schema validation, remove beste_adj, reclassify Lieblings- to generalbank
 
 ### Phase 4: Goethe Adjective Extraction
 **Goal**: A definitive curated list of new adjectives exists, deduplicated against the existing 108-entry bank, verified with the attributive test
@@ -124,7 +125,7 @@ Phases 4 and 5 can begin in parallel after Phase 3. Phases 8 and 9 can run in pa
 |-------|-----------|----------------|--------|-----------|
 | 1. Fix German Noun Plurals | v1.0 | pre-GSD | Complete | 2026-02-20 |
 | 2. Add German Preteritum Conjugations | v1.0 | 1/1 | Complete | 2026-02-20 |
-| 3. Bank Cleanup | v1.1 | 0/TBD | Not started | - |
+| 3. Bank Cleanup | v1.1 | 0/1 | Planning complete | - |
 | 4. Goethe Adjective Extraction | v1.1 | 0/TBD | Not started | - |
 | 5. Schema Extension | v1.1 | 0/TBD | Not started | - |
 | 6. New Entry Stubs | v1.1 | 0/TBD | Not started | - |
