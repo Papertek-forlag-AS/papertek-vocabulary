@@ -60,6 +60,6 @@ Recent decisions affecting v1.1:
 
 ## Session Continuity
 
-Last session: 2026-02-20T13:28:31Z
-Stopped at: Completed 03-01-PLAN.md — Phase 3 Bank Cleanup complete
-Resume file: .planning/phases/03-bank-cleanup/03-01-SUMMARY.md
+Last session: 2026-02-20
+Stopped at: Phase 4 context gathered
+Resume file: .planning/phases/04-goethe-adjective-extraction/04-CONTEXT.md
