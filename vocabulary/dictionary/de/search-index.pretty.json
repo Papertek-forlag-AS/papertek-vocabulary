@@ -20276,18 +20276,6 @@
       }
     },
     {
-      "id": "lieblings-_adj",
-      "w": "Lieblings-",
-      "t": "adj",
-      "f": 25599,
-      "c": "A1",
-      "cur": true,
-      "tr": {
-        "nb": "favoritt-",
-        "en": "favorite"
-      }
-    },
-    {
       "id": "lieblingsfach_noun",
       "w": "Lieblingsfach",
       "t": "noun",
@@ -40063,6 +40051,19 @@
       "tr": {
         "nb": "tolv",
         "en": "twelve"
+      }
+    },
+    {
+      "id": "lieblings-_expr",
+      "w": "Lieblings-",
+      "t": "expr",
+      "f": 25599,
+      "c": "A1",
+      "cur": true,
+      "b": "generalbank",
+      "tr": {
+        "nb": "favoritt-",
+        "en": "favorite"
       }
     }
   ]
