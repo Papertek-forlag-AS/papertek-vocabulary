@@ -56,5 +56,5 @@ Recent decisions affecting v1.1:
 ## Session Continuity
 
 Last session: 2026-02-20
-Stopped at: Roadmap created for v1.1, ready to plan Phase 3
-Resume file: None
+Stopped at: Phase 3 context gathered
+Resume file: .planning/phases/03-bank-cleanup/03-CONTEXT.md
