@@ -73,37 +73,37 @@ Deferred to future release. Tracked but not in current roadmap.
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| CLEAN-01 | — | Pending |
-| CLEAN-02 | — | Pending |
-| CLEAN-03 | — | Pending |
-| BANK-01 | — | Pending |
-| BANK-02 | — | Pending |
-| BANK-03 | — | Pending |
-| BANK-04 | — | Pending |
-| BANK-05 | — | Pending |
-| SCHEMA-01 | — | Pending |
-| SCHEMA-02 | — | Pending |
-| SCHEMA-03 | — | Pending |
-| SCHEMA-04 | — | Pending |
-| COMP-01 | — | Pending |
-| COMP-02 | — | Pending |
-| COMP-03 | — | Pending |
-| COMP-04 | — | Pending |
-| COMP-05 | — | Pending |
-| DECL-01 | — | Pending |
-| DECL-02 | — | Pending |
-| DECL-03 | — | Pending |
-| DECL-04 | — | Pending |
-| DECL-05 | — | Pending |
-| INTG-01 | — | Pending |
-| INTG-02 | — | Pending |
-| INTG-03 | — | Pending |
+| CLEAN-01 | Phase 3 | Pending |
+| CLEAN-02 | Phase 3 | Pending |
+| CLEAN-03 | Phase 3 | Pending |
+| BANK-01 | Phase 4 | Pending |
+| BANK-02 | Phase 6 | Pending |
+| BANK-03 | Phase 6 | Pending |
+| BANK-04 | Phase 9 | Pending |
+| BANK-05 | Phase 9 | Pending |
+| SCHEMA-01 | Phase 5 | Pending |
+| SCHEMA-02 | Phase 5 | Pending |
+| SCHEMA-03 | Phase 5 | Pending |
+| SCHEMA-04 | Phase 5 | Pending |
+| COMP-01 | Phase 7 | Pending |
+| COMP-02 | Phase 7 | Pending |
+| COMP-03 | Phase 7 | Pending |
+| COMP-04 | Phase 7 | Pending |
+| COMP-05 | Phase 7 | Pending |
+| DECL-01 | Phase 8 | Pending |
+| DECL-02 | Phase 8 | Pending |
+| DECL-03 | Phase 8 | Pending |
+| DECL-04 | Phase 8 | Pending |
+| DECL-05 | Phase 8 | Pending |
+| INTG-01 | Phase 10 | Pending |
+| INTG-02 | Phase 10 | Pending |
+| INTG-03 | Phase 10 | Pending |
 
 **Coverage:**
 - v1.1 requirements: 25 total
-- Mapped to phases: 0 (pending roadmap)
-- Unmapped: 25
+- Mapped to phases: 25
+- Unmapped: 0
 
 ---
 *Requirements defined: 2026-02-20*
-*Last updated: 2026-02-20 after initial definition*
+*Last updated: 2026-02-20 — traceability populated after roadmap creation*
