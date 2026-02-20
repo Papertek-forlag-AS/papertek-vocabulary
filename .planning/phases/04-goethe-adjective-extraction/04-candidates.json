@@ -1,0 +1,1858 @@
+{
+  "_meta": {
+    "generatedAt": "2026-02-20T14:49:40.392Z",
+    "phase": "04-goethe-adjective-extraction",
+    "description": "Adjective candidates extracted from Goethe A1/A2/B1 'other' wordlists, deduplicated against 106-entry adjective bank. Participial adjectives excluded per locked decision. Each candidate passes the attributive test ('ein ___er Mann'). Note: final count of 249 exceeds the pre-execution estimate of 80-150 — the estimate was based on a rough morphological heuristic; actual count is correct as determined by applying the attributive test to all candidates.",
+    "sourceFiles": [
+      "goethe-a1-words.json",
+      "goethe-a2-words.json",
+      "goethe-b1-words.json"
+    ],
+    "bankEntriesAtGeneration": 106,
+    "stats": {
+      "totalOtherEntries": 1191,
+      "afterCleanFilter": 949,
+      "bankDuplicatesRemoved": 155,
+      "crossLevelDuplicatesRemoved": 279,
+      "uniqueCandidatesReviewed": 515,
+      "participialsExcluded": 13,
+      "nonAdjectivesExcluded": 243,
+      "finalCandidateCount": 259,
+      "flaggedForReview": 13,
+      "byCefr": {
+        "A1": 39,
+        "A2": 55,
+        "B1": 165
+      }
+    },
+    "observation": "All 106 existing dictionary bank adjectives carry cefr: 'A1' — this is a v1.0 artifact, not real CEFR data. Phase 6 or a future phase should backfill correct CEFR levels for existing bank entries."
+  },
+  "candidates": [
+    {
+      "word": "abhängig",
+      "_id": "abhaengig_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "absolut",
+      "_id": "absolut_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "abwesend",
+      "_id": "abwesend_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": true,
+      "review_note": "historically present participle of abwesen, now primarily used as adjective \"absent\"; borderline participial per locked decision — confirm for Phase 6"
+    },
+    {
+      "word": "ähnlich",
+      "_id": "aehnlich_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "aktuell",
+      "_id": "aktuell_adj",
+      "cefr": "A2",
+      "source": "goethe-a2",
+      "review": false
+    },
+    {
+      "word": "allgemein",
+      "_id": "allgemein_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "alternativ",
+      "_id": "alternativ_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "angenehm",
+      "_id": "angenehm_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "ängstlich",
+      "_id": "aengstlich_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "anwesend",
+      "_id": "anwesend_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": true,
+      "review_note": "historically present participle, now primarily used as adjective \"present\"; borderline participial per locked decision — confirm for Phase 6"
+    },
+    {
+      "word": "arbeitslos",
+      "_id": "arbeitslos_adj",
+      "cefr": "A1",
+      "source": "goethe-a1",
+      "review": false
+    },
+    {
+      "word": "ärgerlich",
+      "_id": "aergerlich_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "arm",
+      "_id": "arm_adj",
+      "cefr": "A2",
+      "source": "goethe-a2",
+      "review": false
+    },
+    {
+      "word": "aufmerksam",
+      "_id": "aufmerksam_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "ausländisch",
+      "_id": "auslaendisch_adj",
+      "cefr": "A1",
+      "source": "goethe-a1",
+      "review": false
+    },
+    {
+      "word": "ausschließlich",
+      "_id": "ausschliesslich_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "äußerlich",
+      "_id": "aeusserlich_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "automatisch",
+      "_id": "automatisch_adj",
+      "cefr": "A1",
+      "source": "goethe-a1",
+      "review": false
+    },
+    {
+      "word": "bekannt",
+      "_id": "bekannt_adj",
+      "cefr": "A1",
+      "source": "goethe-a1",
+      "review": true,
+      "review_note": "historically past participle of bekennen/bekanntmachen, but now fully lexicalized as adjective \"known/famous\" — confirm for Phase 6"
+    },
+    {
+      "word": "beliebt",
+      "_id": "beliebt_adj",
+      "cefr": "A2",
+      "source": "goethe-a2",
+      "review": true,
+      "review_note": "past participle of belieben (archaic), now fully lexicalized as adjective \"popular/liked\" — confirm for Phase 6"
+    },
+    {
+      "word": "bequem",
+      "_id": "bequem_adj",
+      "cefr": "A2",
+      "source": "goethe-a2",
+      "review": false
+    },
+    {
+      "word": "bereit",
+      "_id": "bereit_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": true,
+      "review_note": "typically used predicatively (\"er ist bereit\"); attributive \"ein bereiter Mann\" is grammatically valid but less natural than predicative use"
+    },
+    {
+      "word": "beruflich",
+      "_id": "beruflich_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "berufstätig",
+      "_id": "berufstaetig_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "berühmt",
+      "_id": "beruehmt_adj",
+      "cefr": "A2",
+      "source": "goethe-a2",
+      "review": true,
+      "review_note": "etymologically past participle of archaic berühmen; now fully lexicalized as adjective \"famous\" — confirm for Phase 6"
+    },
+    {
+      "word": "bestimmt",
+      "_id": "bestimmt_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": true,
+      "review_note": "past participle of bestimmen, widely used as adjective \"certain/specific\"; borderline participial — confirm for Phase 6"
+    },
+    {
+      "word": "billig",
+      "_id": "billig_adj",
+      "cefr": "A1",
+      "source": "goethe-a1",
+      "review": false
+    },
+    {
+      "word": "bitter",
+      "_id": "bitter_adj",
+      "cefr": "A1",
+      "source": "goethe-a1",
+      "review": false
+    },
+    {
+      "word": "blass",
+      "_id": "blass_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "blind",
+      "_id": "blind_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "bloß",
+      "_id": "bloss_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "breit",
+      "_id": "breit_adj",
+      "cefr": "A1",
+      "source": "goethe-a1",
+      "review": false
+    },
+    {
+      "word": "dankbar",
+      "_id": "dankbar_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "deutlich",
+      "_id": "deutlich_adj",
+      "cefr": "A2",
+      "source": "goethe-a2",
+      "review": false
+    },
+    {
+      "word": "dicht",
+      "_id": "dicht_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "dick",
+      "_id": "dick_adj",
+      "cefr": "A2",
+      "source": "goethe-a2",
+      "review": false
+    },
+    {
+      "word": "digital",
+      "_id": "digital_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "direkt",
+      "_id": "direkt_adj",
+      "cefr": "A2",
+      "source": "goethe-a2",
+      "review": false
+    },
+    {
+      "word": "doppelt",
+      "_id": "doppelt_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "dumm",
+      "_id": "dumm_adj",
+      "cefr": "A2",
+      "source": "goethe-a2",
+      "review": false
+    },
+    {
+      "word": "dunkel",
+      "_id": "dunkel_adj",
+      "cefr": "A2",
+      "source": "goethe-a2",
+      "review": false
+    },
+    {
+      "word": "dünn",
+      "_id": "duenn_adj",
+      "cefr": "A2",
+      "source": "goethe-a2",
+      "review": false
+    },
+    {
+      "word": "durchschnittlich",
+      "_id": "durchschnittlich_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "durstig",
+      "_id": "durstig_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "echt",
+      "_id": "echt_adj",
+      "cefr": "A2",
+      "source": "goethe-a2",
+      "review": false
+    },
+    {
+      "word": "eckig",
+      "_id": "eckig_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "eilig",
+      "_id": "eilig_adj",
+      "cefr": "A1",
+      "source": "goethe-a1",
+      "review": false
+    },
+    {
+      "word": "eindeutig",
+      "_id": "eindeutig_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "einheitlich",
+      "_id": "einheitlich_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "einsam",
+      "_id": "einsam_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "elegant",
+      "_id": "elegant_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "elektrisch",
+      "_id": "elektrisch_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "elektronisch",
+      "_id": "elektronisch_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "eng",
+      "_id": "eng_adj",
+      "cefr": "A2",
+      "source": "goethe-a2",
+      "review": false
+    },
+    {
+      "word": "erfolgreich",
+      "_id": "erfolgreich_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "ernsthaft",
+      "_id": "ernsthaft_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "eventuell",
+      "_id": "eventuell_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "ewig",
+      "_id": "ewig_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "extrem",
+      "_id": "extrem_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "fair",
+      "_id": "fair_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "fällig",
+      "_id": "faellig_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "falsch",
+      "_id": "falsch_adj",
+      "cefr": "A1",
+      "source": "goethe-a1",
+      "review": false
+    },
+    {
+      "word": "fantastisch",
+      "_id": "fantastisch_adj",
+      "cefr": "A2",
+      "source": "goethe-a2",
+      "review": false
+    },
+    {
+      "word": "farbig",
+      "_id": "farbig_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "fest",
+      "_id": "fest_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "fett",
+      "_id": "fett_adj",
+      "cefr": "A2",
+      "source": "goethe-a2",
+      "review": false
+    },
+    {
+      "word": "feucht",
+      "_id": "feucht_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "finanziell",
+      "_id": "finanziell_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "flach",
+      "_id": "flach_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "fleißig",
+      "_id": "fleissig_adj",
+      "cefr": "A2",
+      "source": "goethe-a2",
+      "review": false
+    },
+    {
+      "word": "flexibel",
+      "_id": "flexibel_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "frei",
+      "_id": "frei_adj",
+      "cefr": "A1",
+      "source": "goethe-a1",
+      "review": false
+    },
+    {
+      "word": "freiwillig",
+      "_id": "freiwillig_adj",
+      "cefr": "A2",
+      "source": "goethe-a2",
+      "review": false
+    },
+    {
+      "word": "fremd",
+      "_id": "fremd_adj",
+      "cefr": "A1",
+      "source": "goethe-a1",
+      "review": false
+    },
+    {
+      "word": "froh",
+      "_id": "froh_adj",
+      "cefr": "A2",
+      "source": "goethe-a2",
+      "review": false
+    },
+    {
+      "word": "früh",
+      "_id": "frueh_adj",
+      "cefr": "A2",
+      "source": "goethe-a2",
+      "review": false
+    },
+    {
+      "word": "früher",
+      "_id": "frueher_adj",
+      "cefr": "A1",
+      "source": "goethe-a1",
+      "review": false
+    },
+    {
+      "word": "furchtbar",
+      "_id": "furchtbar_adj",
+      "cefr": "A2",
+      "source": "goethe-a2",
+      "review": false
+    },
+    {
+      "word": "ganz",
+      "_id": "ganz_adj",
+      "cefr": "A2",
+      "source": "goethe-a2",
+      "review": false
+    },
+    {
+      "word": "genau",
+      "_id": "genau_adj",
+      "cefr": "A2",
+      "source": "goethe-a2",
+      "review": false
+    },
+    {
+      "word": "gerade",
+      "_id": "gerade_adj",
+      "cefr": "A1",
+      "source": "goethe-a1",
+      "review": false
+    },
+    {
+      "word": "gering",
+      "_id": "gering_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "gewöhnlich",
+      "_id": "gewoehnlich_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "giftig",
+      "_id": "giftig_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "glatt",
+      "_id": "glatt_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "gleich",
+      "_id": "gleich_adj",
+      "cefr": "A1",
+      "source": "goethe-a1",
+      "review": true,
+      "review_note": "primarily adverb/pronoun (\"immediately\", \"same\"); attributive use (\"ein gleiches Recht\") exists but is less common than adverb use"
+    },
+    {
+      "word": "gleichberechtigt",
+      "_id": "gleichberechtigt_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "gleichzeitig",
+      "_id": "gleichzeitig_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "gründlich",
+      "_id": "gruendlich_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "gültig",
+      "_id": "gueltig_adj",
+      "cefr": "A1",
+      "source": "goethe-a1",
+      "review": false
+    },
+    {
+      "word": "günstig",
+      "_id": "guenstig_adj",
+      "cefr": "A1",
+      "source": "goethe-a1",
+      "review": false
+    },
+    {
+      "word": "halb",
+      "_id": "halb_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "haltbar",
+      "_id": "haltbar_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "hässlich",
+      "_id": "haesslich_adj",
+      "cefr": "A2",
+      "source": "goethe-a2",
+      "review": false
+    },
+    {
+      "word": "häufig",
+      "_id": "haeufig_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "heimlich",
+      "_id": "heimlich_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "hell",
+      "_id": "hell_adj",
+      "cefr": "A1",
+      "source": "goethe-a1",
+      "review": false
+    },
+    {
+      "word": "herzlich",
+      "_id": "herzlich_adj",
+      "cefr": "A1",
+      "source": "goethe-a1",
+      "review": false
+    },
+    {
+      "word": "historisch",
+      "_id": "historisch_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "höflich",
+      "_id": "hoeflich_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "hübsch",
+      "_id": "huebsch_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "hungrig",
+      "_id": "hungrig_adj",
+      "cefr": "A2",
+      "source": "goethe-a2",
+      "review": false
+    },
+    {
+      "word": "ideal",
+      "_id": "ideal_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "illegal",
+      "_id": "illegal_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "individuell",
+      "_id": "individuell_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "intensiv",
+      "_id": "intensiv_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "interessiert",
+      "_id": "interessiert_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": true,
+      "review_note": "past participle of interessieren, used as adjective \"interested/keen\"; lexicalized but still participial form — confirm for Phase 6"
+    },
+    {
+      "word": "interkulturell",
+      "_id": "interkulturell_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "international",
+      "_id": "international_adj",
+      "cefr": "A1",
+      "source": "goethe-a1",
+      "review": false
+    },
+    {
+      "word": "kaputt",
+      "_id": "kaputt_adj",
+      "cefr": "A1",
+      "source": "goethe-a1",
+      "review": false
+    },
+    {
+      "word": "klug",
+      "_id": "klug_adj",
+      "cefr": "A2",
+      "source": "goethe-a2",
+      "review": false
+    },
+    {
+      "word": "knapp",
+      "_id": "knapp_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "komisch",
+      "_id": "komisch_adj",
+      "cefr": "A2",
+      "source": "goethe-a2",
+      "review": false
+    },
+    {
+      "word": "komplett",
+      "_id": "komplett_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "kompliziert",
+      "_id": "kompliziert_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": true,
+      "review_note": "past participle of komplizieren, used as adjective \"complicated\"; very strongly lexicalized — confirm for Phase 6"
+    },
+    {
+      "word": "körperlich",
+      "_id": "koerperlich_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "korrekt",
+      "_id": "korrekt_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "kostenlos",
+      "_id": "kostenlos_adj",
+      "cefr": "A2",
+      "source": "goethe-a2",
+      "review": false
+    },
+    {
+      "word": "krank",
+      "_id": "krank_adj",
+      "cefr": "A1",
+      "source": "goethe-a1",
+      "review": false
+    },
+    {
+      "word": "kritisch",
+      "_id": "kritisch_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "kulturell",
+      "_id": "kulturell_adj",
+      "cefr": "A1",
+      "source": "goethe-a1",
+      "review": false
+    },
+    {
+      "word": "künstlich",
+      "_id": "kuenstlich_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "laut",
+      "_id": "laut_adj",
+      "cefr": "A1",
+      "source": "goethe-a1",
+      "review": false
+    },
+    {
+      "word": "ledig",
+      "_id": "ledig_adj",
+      "cefr": "A1",
+      "source": "goethe-a1",
+      "review": false
+    },
+    {
+      "word": "leer",
+      "_id": "leer_adj",
+      "cefr": "A2",
+      "source": "goethe-a2",
+      "review": false
+    },
+    {
+      "word": "leicht",
+      "_id": "leicht_adj",
+      "cefr": "A1",
+      "source": "goethe-a1",
+      "review": false
+    },
+    {
+      "word": "leise",
+      "_id": "leise_adj",
+      "cefr": "A1",
+      "source": "goethe-a1",
+      "review": false
+    },
+    {
+      "word": "lieb",
+      "_id": "lieb_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "locker",
+      "_id": "locker_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "mager",
+      "_id": "mager_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "männlich",
+      "_id": "maennlich_adj",
+      "cefr": "A1",
+      "source": "goethe-a1",
+      "review": false
+    },
+    {
+      "word": "maximal",
+      "_id": "maximal_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "menschlich",
+      "_id": "menschlich_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "merkwürdig",
+      "_id": "merkwuerdig_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "mild",
+      "_id": "mild_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "minimal",
+      "_id": "minimal_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "möglich",
+      "_id": "moeglich_adj",
+      "cefr": "A1",
+      "source": "goethe-a1",
+      "review": false
+    },
+    {
+      "word": "mündlich",
+      "_id": "muendlich_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "mutig",
+      "_id": "mutig_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "natürlich",
+      "_id": "natuerlich_adj",
+      "cefr": "A2",
+      "source": "goethe-a2",
+      "review": false
+    },
+    {
+      "word": "negativ",
+      "_id": "negativ_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "neugierig",
+      "_id": "neugierig_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "niedrig",
+      "_id": "niedrig_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "normal",
+      "_id": "normal_adj",
+      "cefr": "A1",
+      "source": "goethe-a1",
+      "review": false
+    },
+    {
+      "word": "nötig",
+      "_id": "noetig_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "notwendig",
+      "_id": "notwendig_adj",
+      "cefr": "A2",
+      "source": "goethe-a2",
+      "review": false
+    },
+    {
+      "word": "nützlich",
+      "_id": "nuetzlich_adj",
+      "cefr": "A2",
+      "source": "goethe-a2",
+      "review": false
+    },
+    {
+      "word": "offenbar",
+      "_id": "offenbar_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "öffentlich",
+      "_id": "oeffentlich_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "offiziell",
+      "_id": "offiziell_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "optimistisch",
+      "_id": "optimistisch_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "ordentlich",
+      "_id": "ordentlich_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "parallel",
+      "_id": "parallel_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "passiv",
+      "_id": "passiv_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "pauschal",
+      "_id": "pauschal_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "plötzlich",
+      "_id": "ploetzlich_adj",
+      "cefr": "A2",
+      "source": "goethe-a2",
+      "review": false
+    },
+    {
+      "word": "positiv",
+      "_id": "positiv_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "praktisch",
+      "_id": "praktisch_adj",
+      "cefr": "A2",
+      "source": "goethe-a2",
+      "review": false
+    },
+    {
+      "word": "preiswert",
+      "_id": "preiswert_adj",
+      "cefr": "A2",
+      "source": "goethe-a2",
+      "review": false
+    },
+    {
+      "word": "privat",
+      "_id": "privat_adj",
+      "cefr": "A2",
+      "source": "goethe-a2",
+      "review": false
+    },
+    {
+      "word": "pünktlich",
+      "_id": "puenktlich_adj",
+      "cefr": "A1",
+      "source": "goethe-a1",
+      "review": false
+    },
+    {
+      "word": "quer",
+      "_id": "quer_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "realistisch",
+      "_id": "realistisch_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "rechtlich",
+      "_id": "rechtlich_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "rechtzeitig",
+      "_id": "rechtzeitig_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "regelmäßig",
+      "_id": "regelmaessig_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "regional",
+      "_id": "regional_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "reich",
+      "_id": "reich_adj",
+      "cefr": "A2",
+      "source": "goethe-a2",
+      "review": false
+    },
+    {
+      "word": "reif",
+      "_id": "reif_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "rein",
+      "_id": "rein_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "relativ",
+      "_id": "relativ_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "roh",
+      "_id": "roh_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "romantisch",
+      "_id": "romantisch_adj",
+      "cefr": "A2",
+      "source": "goethe-a2",
+      "review": false
+    },
+    {
+      "word": "rund",
+      "_id": "rund_adj",
+      "cefr": "A2",
+      "source": "goethe-a2",
+      "review": false
+    },
+    {
+      "word": "salzig",
+      "_id": "salzig_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "satt",
+      "_id": "satt_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "sauer",
+      "_id": "sauer_adj",
+      "cefr": "A2",
+      "source": "goethe-a2",
+      "review": false
+    },
+    {
+      "word": "schädlich",
+      "_id": "schaedlich_adj",
+      "cefr": "A2",
+      "source": "goethe-a2",
+      "review": false
+    },
+    {
+      "word": "scharf",
+      "_id": "scharf_adj",
+      "cefr": "A2",
+      "source": "goethe-a2",
+      "review": false
+    },
+    {
+      "word": "schief",
+      "_id": "schief_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "schlank",
+      "_id": "schlank_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "schlecht",
+      "_id": "schlecht_adj",
+      "cefr": "A1",
+      "source": "goethe-a1",
+      "review": false
+    },
+    {
+      "word": "schmal",
+      "_id": "schmal_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "schmutzig",
+      "_id": "schmutzig_adj",
+      "cefr": "A2",
+      "source": "goethe-a2",
+      "review": false
+    },
+    {
+      "word": "schrecklich",
+      "_id": "schrecklich_adj",
+      "cefr": "A2",
+      "source": "goethe-a2",
+      "review": false
+    },
+    {
+      "word": "schriftlich",
+      "_id": "schriftlich_adj",
+      "cefr": "A2",
+      "source": "goethe-a2",
+      "review": false
+    },
+    {
+      "word": "schuldig",
+      "_id": "schuldig_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "schwach",
+      "_id": "schwach_adj",
+      "cefr": "A2",
+      "source": "goethe-a2",
+      "review": false
+    },
+    {
+      "word": "schwanger",
+      "_id": "schwanger_adj",
+      "cefr": "A2",
+      "source": "goethe-a2",
+      "review": false
+    },
+    {
+      "word": "schwer",
+      "_id": "schwer_adj",
+      "cefr": "A1",
+      "source": "goethe-a1",
+      "review": false
+    },
+    {
+      "word": "selbstständig",
+      "_id": "selbststaendig_adj",
+      "cefr": "A1",
+      "source": "goethe-a1",
+      "review": false
+    },
+    {
+      "word": "selbstverständlich",
+      "_id": "selbstverstaendlich_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "seltsam",
+      "_id": "seltsam_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "senkrecht",
+      "_id": "senkrecht_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "sichtbar",
+      "_id": "sichtbar_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "sinnlos",
+      "_id": "sinnlos_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "sinnvoll",
+      "_id": "sinnvoll_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "sozial",
+      "_id": "sozial_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "spät",
+      "_id": "spaet_adj",
+      "cefr": "A1",
+      "source": "goethe-a1",
+      "review": false
+    },
+    {
+      "word": "später",
+      "_id": "spaeter_adj",
+      "cefr": "A1",
+      "source": "goethe-a1",
+      "review": false
+    },
+    {
+      "word": "speziell",
+      "_id": "speziell_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "spitz",
+      "_id": "spitz_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "städtisch",
+      "_id": "staedtisch_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "ständig",
+      "_id": "staendig_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "statistisch",
+      "_id": "statistisch_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "steil",
+      "_id": "steil_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "stilistisch",
+      "_id": "stilistisch_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "still",
+      "_id": "still_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "stolz",
+      "_id": "stolz_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "strafbar",
+      "_id": "strafbar_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "stumm",
+      "_id": "stumm_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "super",
+      "_id": "super_adj",
+      "cefr": "A2",
+      "source": "goethe-a2",
+      "review": false
+    },
+    {
+      "word": "taub",
+      "_id": "taub_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "theoretisch",
+      "_id": "theoretisch_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "tief",
+      "_id": "tief_adj",
+      "cefr": "A2",
+      "source": "goethe-a2",
+      "review": false
+    },
+    {
+      "word": "tödlich",
+      "_id": "toedlich_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "tolerant",
+      "_id": "tolerant_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "tot",
+      "_id": "tot_adj",
+      "cefr": "A1",
+      "source": "goethe-a1",
+      "review": false
+    },
+    {
+      "word": "total",
+      "_id": "total_adj",
+      "cefr": "A2",
+      "source": "goethe-a2",
+      "review": false
+    },
+    {
+      "word": "traditionell",
+      "_id": "traditionell_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "typisch",
+      "_id": "typisch_adj",
+      "cefr": "A2",
+      "source": "goethe-a2",
+      "review": false
+    },
+    {
+      "word": "üblich",
+      "_id": "ueblich_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "übrig",
+      "_id": "uebrig_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "ungewöhnlich",
+      "_id": "ungewoehnlich_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "unglaublich",
+      "_id": "unglaublich_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "unheimlich",
+      "_id": "unheimlich_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "unterschiedlich",
+      "_id": "unterschiedlich_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "ursprünglich",
+      "_id": "urspruenglich_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "vegetarisch",
+      "_id": "vegetarisch_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "verantwortlich",
+      "_id": "verantwortlich_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "vergeblich",
+      "_id": "vergeblich_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "verheiratet",
+      "_id": "verheiratet_adj",
+      "cefr": "A1",
+      "source": "goethe-a1",
+      "review": true,
+      "review_note": "past participle of heiraten, now fully lexicalized as adjective \"married\"; very common adjective use — confirm for Phase 6"
+    },
+    {
+      "word": "vermutlich",
+      "_id": "vermutlich_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "vernünftig",
+      "_id": "vernuenftig_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "verrückt",
+      "_id": "verrueckt_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "verständlich",
+      "_id": "verstaendlich_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "verwandt",
+      "_id": "verwandt_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": true,
+      "review_note": "historically related to verwenden/wenden, now used as adjective \"related/related to\"; fully lexicalized — confirm for Phase 6"
+    },
+    {
+      "word": "virtuell",
+      "_id": "virtuell_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "voll",
+      "_id": "voll_adj",
+      "cefr": "A2",
+      "source": "goethe-a2",
+      "review": false
+    },
+    {
+      "word": "voraussichtlich",
+      "_id": "voraussichtlich_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "vorläufig",
+      "_id": "vorlaeufig_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "vorsichtig",
+      "_id": "vorsichtig_adj",
+      "cefr": "A2",
+      "source": "goethe-a2",
+      "review": false
+    },
+    {
+      "word": "wahnsinnig",
+      "_id": "wahnsinnig_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "wahr",
+      "_id": "wahr_adj",
+      "cefr": "A2",
+      "source": "goethe-a2",
+      "review": false
+    },
+    {
+      "word": "weiblich",
+      "_id": "weiblich_adj",
+      "cefr": "A1",
+      "source": "goethe-a1",
+      "review": false
+    },
+    {
+      "word": "weiter",
+      "_id": "weiter_adj",
+      "cefr": "A1",
+      "source": "goethe-a1",
+      "review": false
+    },
+    {
+      "word": "wert",
+      "_id": "wert_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "wertlos",
+      "_id": "wertlos_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "wertvoll",
+      "_id": "wertvoll_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "wirklich",
+      "_id": "wirklich_adj",
+      "cefr": "A2",
+      "source": "goethe-a2",
+      "review": false
+    },
+    {
+      "word": "witzig",
+      "_id": "witzig_adj",
+      "cefr": "A2",
+      "source": "goethe-a2",
+      "review": false
+    },
+    {
+      "word": "wütend",
+      "_id": "wuetend_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": true,
+      "review_note": "present participle of wüten, but now overwhelmingly used as pure adjective \"angry\"; borderline participial per locked decision — confirm for Phase 6"
+    },
+    {
+      "word": "zahlreich",
+      "_id": "zahlreich_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "zentral",
+      "_id": "zentral_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "zugänglich",
+      "_id": "zugaenglich_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "zukünftig",
+      "_id": "zukuenftig_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "zusätzlich",
+      "_id": "zusaetzlich_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "zuständig",
+      "_id": "zustaendig_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    },
+    {
+      "word": "zuverlässig",
+      "_id": "zuverlaessig_adj",
+      "cefr": "B1",
+      "source": "goethe-b1",
+      "review": false
+    }
+  ]
+}
