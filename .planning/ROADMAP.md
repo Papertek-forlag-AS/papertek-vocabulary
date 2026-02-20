@@ -38,6 +38,9 @@
 
 **Scope:** 148 verbs, all currently missing preteritum.
 
+**Plans:** 1 plan
+- [ ] 02-01-PLAN.md — Add preteritum conjugations to all 148 verbs with structural and linguistic verification
+
 **Data format:**
 ```json
 "conjugations": {
