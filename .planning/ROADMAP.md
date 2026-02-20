@@ -22,7 +22,7 @@
 **Milestone Goal:** Expand the German adjective bank and add full declension data so Leksihjelp's inflection search can resolve any declined adjective form to its base entry.
 
 - [x] **Phase 3: Bank Cleanup** - Resolve data quality issues in the existing adjective bank before any grammar data is written (completed 2026-02-20)
-- [ ] **Phase 4: Goethe Adjective Extraction** - Extract genuine adjectives from the Goethe "other" wordlists and produce a curated candidate list
+- [x] **Phase 4: Goethe Adjective Extraction** - Extract genuine adjectives from the Goethe "other" wordlists and produce a curated candidate list (completed 2026-02-20)
 - [ ] **Phase 5: Schema Extension** - Extend adjective.schema.json with declension block, flags, and grammar feature registration
 - [ ] **Phase 6: New Entry Stubs** - Add bare-minimum stub entries for all extracted adjectives to both core and dictionary banks
 - [ ] **Phase 7: Comparison Data** - Populate comparative and superlative forms for all adjectives, irregular forms individually verified
@@ -127,7 +127,7 @@ Phases 4 and 5 can begin in parallel after Phase 3. Phases 8 and 9 can run in pa
 | 1. Fix German Noun Plurals | v1.0 | pre-GSD | Complete | 2026-02-20 |
 | 2. Add German Preteritum Conjugations | v1.0 | 1/1 | Complete | 2026-02-20 |
 | 3. Bank Cleanup | v1.1 | Complete    | 2026-02-20 | - |
-| 4. Goethe Adjective Extraction | v1.1 | 0/TBD | Not started | - |
+| 4. Goethe Adjective Extraction | v1.1 | Complete    | 2026-02-20 | - |
 | 5. Schema Extension | v1.1 | 0/TBD | Not started | - |
 | 6. New Entry Stubs | v1.1 | 0/TBD | Not started | - |
 | 7. Comparison Data | v1.1 | 0/TBD | Not started | - |
