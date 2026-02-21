@@ -63,7 +63,9 @@
   2. The `undeclinable` boolean flag is defined in the schema and the existing bank entries for lila, rosa, orange, cool can carry it without errors
   3. The `nicht_komparierbar` boolean flag is defined in the schema and validates correctly on test entries
   4. `grammar_adjective_declension` is registered and togglable in grammar-features.json (or confirmed already present from v1.0)
-**Plans**: TBD
+**Plans**: 1 plan
+Plans:
+- [ ] 05-01-PLAN.md — Add declension $defs chain, exception flags with conditionals, and register grammar_adjective_genitive
 
 ### Phase 6: New Entry Stubs
 **Goal**: All newly extracted adjectives exist as stub entries in both the core bank and the dictionary bank, with valid IDs that translation and declension phases can reference
@@ -128,7 +130,7 @@ Phases 4 and 5 can begin in parallel after Phase 3. Phases 8 and 9 can run in pa
 | 2. Add German Preteritum Conjugations | v1.0 | 1/1 | Complete | 2026-02-20 |
 | 3. Bank Cleanup | v1.1 | Complete    | 2026-02-20 | - |
 | 4. Goethe Adjective Extraction | v1.1 | Complete    | 2026-02-20 | - |
-| 5. Schema Extension | v1.1 | 0/TBD | Not started | - |
+| 5. Schema Extension | v1.1 | 0/1 | Not started | - |
 | 6. New Entry Stubs | v1.1 | 0/TBD | Not started | - |
 | 7. Comparison Data | v1.1 | 0/TBD | Not started | - |
 | 8. Declension Tables | v1.1 | 0/TBD | Not started | - |
