@@ -23,10 +23,10 @@ Requirements for German Adjective Declension milestone. Each maps to roadmap pha
 
 ### Schema
 
-- [ ] **SCHEMA-01**: Adjective schema extended with `declension` block supporting 3 degrees (positiv/komparativ/superlativ) × 3 article types (stark/schwach/gemischt) × 4 cases × 4 gender/number
-- [ ] **SCHEMA-02**: `undeclinable` boolean flag added to adjective schema for adjectives that take no endings (lila, rosa, orange, cool)
-- [ ] **SCHEMA-03**: `nicht_komparierbar` boolean flag added to adjective schema for absolute/non-comparable adjectives
-- [ ] **SCHEMA-04**: Genitive adjective declension registered as a toggleable grammar feature in grammar-features.json so users can opt out of seeing genitive forms
+- [x] **SCHEMA-01**: Adjective schema extended with `declension` block supporting 3 degrees (positiv/komparativ/superlativ) × 3 article types (stark/schwach/gemischt) × 4 cases × 4 gender/number
+- [x] **SCHEMA-02**: `undeclinable` boolean flag added to adjective schema for adjectives that take no endings (lila, rosa, orange, cool)
+- [x] **SCHEMA-03**: `nicht_komparierbar` boolean flag added to adjective schema for absolute/non-comparable adjectives
+- [x] **SCHEMA-04**: Genitive adjective declension registered as a toggleable grammar feature in grammar-features.json so users can opt out of seeing genitive forms
 
 ### Comparison
 
@@ -81,10 +81,10 @@ Deferred to future release. Tracked but not in current roadmap.
 | BANK-03 | Phase 6 | Pending |
 | BANK-04 | Phase 9 | Pending |
 | BANK-05 | Phase 9 | Pending |
-| SCHEMA-01 | Phase 5 | Pending |
-| SCHEMA-02 | Phase 5 | Pending |
-| SCHEMA-03 | Phase 5 | Pending |
-| SCHEMA-04 | Phase 5 | Pending |
+| SCHEMA-01 | Phase 5 | Complete |
+| SCHEMA-02 | Phase 5 | Complete |
+| SCHEMA-03 | Phase 5 | Complete |
+| SCHEMA-04 | Phase 5 | Complete |
 | COMP-01 | Phase 7 | Pending |
 | COMP-02 | Phase 7 | Pending |
 | COMP-03 | Phase 7 | Pending |
