@@ -26,7 +26,7 @@
 - [x] **Phase 5: Schema Extension** - Extend adjective.schema.json with declension block, flags, and grammar feature registration (completed 2026-02-21)
 - [ ] **Phase 6: New Entry Stubs** - Add bare-minimum stub entries for all extracted adjectives to both core and dictionary banks
 - [x] **Phase 7: Comparison Data** - Populate comparative and superlative forms for all adjectives, irregular forms individually verified (completed 2026-02-21)
-- [ ] **Phase 8: Declension Tables** - Enter full declension data for all declinable adjectives in both banks (largest data task)
+- [x] **Phase 8: Declension Tables** - Enter full declension data for all declinable adjectives in both banks (largest data task) (completed 2026-02-21)
 - [ ] **Phase 9: Translations** - Add Norwegian and English translations for all newly extracted adjectives (runs parallel with Phase 8)
 - [ ] **Phase 10: Integration** - Rebuild search index and update v2 lookup API to expose declension data
 
@@ -103,7 +103,7 @@ Plans:
   4. All declension data is present in both `vocabulary/core/de/adjectivebank.json` and `vocabulary/dictionary/de/adjectivebank.json`
 **Plans**: 1 plan
 Plans:
-- [ ] 08-01-PLAN.md — Generate declension tables for all 360 declinable adjectives (positiv/komparativ/superlativ), verify irregular stems, produce review report
+- [x] 08-01-PLAN.md — Generate declension tables for all 360 declinable adjectives (positiv/komparativ/superlativ), verify irregular stems, produce review report
 
 ### Phase 9: Translations
 **Goal**: Norwegian and English translations exist for every newly extracted adjective so Leksihjelp can display them
@@ -139,6 +139,6 @@ Phases 4 and 5 can begin in parallel after Phase 3. Phases 8 and 9 can run in pa
 | 5. Schema Extension | 1/1 | Complete   | 2026-02-21 | - |
 | 6. New Entry Stubs | v1.1 | 0/1 | Not started | - |
 | 7. Comparison Data | 1/1 | Complete    | 2026-02-21 | - |
-| 8. Declension Tables | v1.1 | 0/1 | Not started | - |
+| 8. Declension Tables | v1.1 | 1/1 | Complete | 2026-02-21 |
 | 9. Translations | v1.1 | 0/TBD | Not started | - |
 | 10. Integration | v1.1 | 0/TBD | Not started | - |

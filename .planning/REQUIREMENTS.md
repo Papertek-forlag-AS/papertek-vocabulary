@@ -38,11 +38,11 @@ Requirements for German Adjective Declension milestone. Each maps to roadmap pha
 
 ### Declension
 
-- [ ] **DECL-01**: Positive degree declension tables (stark/schwach/gemischt × 4 cases × 4 gender/number) for all declinable adjectives
-- [ ] **DECL-02**: Comparative degree declension tables (stark/schwach/gemischt × 4 cases × 4 gender/number) for all comparable adjectives
-- [ ] **DECL-03**: Superlative degree declension tables for all comparable adjectives
-- [ ] **DECL-04**: All declension data linguistically correct — irregular stems (hoch→hoh-, dunkel→dunkl-, teuer→teur-) individually verified
-- [ ] **DECL-05**: Declension data present in both core and dictionary banks (dual-storage pattern)
+- [x] **DECL-01**: Positive degree declension tables (stark/schwach/gemischt × 4 cases × 4 gender/number) for all declinable adjectives
+- [x] **DECL-02**: Comparative degree declension tables (stark/schwach/gemischt × 4 cases × 4 gender/number) for all comparable adjectives
+- [x] **DECL-03**: Superlative degree declension tables for all comparable adjectives
+- [x] **DECL-04**: All declension data linguistically correct — irregular stems (hoch→hoh-, dunkel→dunkl-, teuer→teur-) individually verified
+- [x] **DECL-05**: Declension data present in both core and dictionary banks (dual-storage pattern)
 
 ### Integration
 
@@ -90,11 +90,11 @@ Deferred to future release. Tracked but not in current roadmap.
 | COMP-03 | Phase 7 | Complete |
 | COMP-04 | Phase 7 | Complete |
 | COMP-05 | Phase 7 | Complete |
-| DECL-01 | Phase 8 | Pending |
-| DECL-02 | Phase 8 | Pending |
-| DECL-03 | Phase 8 | Pending |
-| DECL-04 | Phase 8 | Pending |
-| DECL-05 | Phase 8 | Pending |
+| DECL-01 | Phase 8 | Complete |
+| DECL-02 | Phase 8 | Complete |
+| DECL-03 | Phase 8 | Complete |
+| DECL-04 | Phase 8 | Complete |
+| DECL-05 | Phase 8 | Complete |
 | INTG-01 | Phase 10 | Pending |
 | INTG-02 | Phase 10 | Pending |
 | INTG-03 | Phase 10 | Pending |

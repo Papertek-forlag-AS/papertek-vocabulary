@@ -5,16 +5,16 @@
 See: .planning/PROJECT.md (updated 2026-02-20)
 
 **Core value:** Complete, correct vocabulary data so Leksihjelp's inflection search can find any German word form and return the base entry.
-**Current focus:** v1.1 German Adjective Declension — Phase 7: Comparison Data (COMPLETE)
+**Current focus:** v1.1 German Adjective Declension — Phase 8: Declension Tables (COMPLETE)
 
 ## Current Position
 
-Phase: 7 of 10 — Phase 7: Comparison Data (COMPLETE)
-Plan: 1 of 1 in Phase 7 — COMPLETE
-Status: Phase 7 complete — ready for Phase 8
-Last activity: 2026-02-21 — Phase 7 Plan 01 executed (comparison data for all 365 adjectives)
+Phase: 8 of 10 — Phase 8: Declension Tables (COMPLETE)
+Plan: 1 of 1 in Phase 8 — COMPLETE
+Status: Phase 8 complete — ready for Phase 9
+Last activity: 2026-02-21 — Phase 8 Plan 01 executed (declension tables for all 360 declinable adjectives)
 
-Progress: [█████░░░░░] 50%
+Progress: [██████░░░░] 60%
 
 ## Performance Metrics
 
@@ -35,6 +35,7 @@ Progress: [█████░░░░░] 50%
 | Phase 05-schema-extension P01 | 2 min | 3 tasks | 2 files |
 | Phase 06-new-entry-stubs P01 | 8 min | 2 tasks | 5 files |
 | Phase 07-comparison-data P01 | 2 min | 2 tasks | 4 files |
+| Phase 08-declension-tables P01 | 7 | 2 tasks | 5 files |
 
 ## Accumulated Context
 
@@ -63,6 +64,8 @@ Recent decisions affecting v1.1:
 - [Phase 07-comparison-data]: schwach_adj uses umlaut form (schwächer/schwächst) — Duden primary form preferred over optional non-umlaut variant
 - [Phase 07-comparison-data]: Consonant-cluster exceptions (blind, rund, mild, wild, fremd) handled via EXCEPTIONS table not rule engine — explicit is safer and more auditable than adding consonant+d heuristic to rule engine
 - [Phase 07-comparison-data]: nah_adj not in bank — COMP-03 suppletive list was informational context, not an action item
+- [Phase 08-declension-tables]: viel_adj komparativ uses KOMPARATIV_BLOCK_EXCEPTIONS — 'mehr' cannot serve as declension stem; declining base is 'mehrere' (mehrerer/mehrere/mehreres etc.)
+- [Phase 08-declension-tables]: declension_alternatives entry-level key used for teuer_adj to store Duden-accepted teuer- forms alongside primary teur- forms — declension additionalProperties:false forbids alternatives inside declension block
 
 ### Blockers/Concerns
 
@@ -77,5 +80,5 @@ Recent decisions affecting v1.1:
 ## Session Continuity
 
 Last session: 2026-02-21
-Stopped at: Completed 07-01-PLAN.md — Phase 7 comparison data complete
-Resume file: .planning/phases/08-declension/ (Phase 8 — declension tables)
+Stopped at: Completed 08-01-PLAN.md — Phase 8 declension tables complete
+Resume file: .planning/phases/09-translations/ (Phase 9 — translations)
