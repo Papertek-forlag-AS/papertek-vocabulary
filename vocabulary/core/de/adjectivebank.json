@@ -2,523 +2,676 @@
   "_metadata": {
     "source": "adjectivebank.json",
     "targetLanguage": "german",
-    "generatedAt": "2026-01-16T17:26:35.892Z",
+    "generatedAt": "2026-02-21T11:30:24.279Z",
     "description": "Core adjective data for german"
   },
-  "spannend_adj": {
-    "word": "spannend",
-    "_id": "spannend_adj",
-    "audio": "adjektiv_spannend.mp3"
+  "abhaengig_adj": {
+    "word": "abhängig",
+    "_id": "abhaengig_adj",
+    "audio": "adjektiv_abhaengig.mp3",
+    "comparison": {},
+    "declension": {}
   },
-  "trocken_adj": {
-    "word": "trocken",
-    "_id": "trocken_adj",
-    "audio": "adjektiv_trocken.mp3"
+  "absolut_adj": {
+    "word": "absolut",
+    "_id": "absolut_adj",
+    "audio": "adjektiv_absolut.mp3",
+    "comparison": {},
+    "declension": {}
   },
-  "toll_adj": {
-    "word": "toll",
-    "_id": "toll_adj",
-    "audio": "adjektiv_toll.mp3"
+  "abwesend_adj": {
+    "word": "abwesend",
+    "_id": "abwesend_adj",
+    "audio": "adjektiv_abwesend.mp3",
+    "comparison": {},
+    "declension": {}
   },
-  "schoen_adj": {
-    "word": "schön",
-    "_id": "schoen_adj",
-    "audio": "adjektiv_schoen.mp3"
+  "aehnlich_adj": {
+    "word": "ähnlich",
+    "_id": "aehnlich_adj",
+    "audio": "adjektiv_aehnlich.mp3",
+    "comparison": {},
+    "declension": {}
   },
-  "interessant_adj": {
-    "word": "interessant",
-    "_id": "interessant_adj",
-    "audio": "adjektiv_interessant.mp3"
+  "aengstlich_adj": {
+    "word": "ängstlich",
+    "_id": "aengstlich_adj",
+    "audio": "adjektiv_aengstlich.mp3",
+    "comparison": {},
+    "declension": {}
   },
-  "lustig_adj": {
-    "word": "lustig",
-    "_id": "lustig_adj",
-    "audio": "adjektiv_lustig.mp3"
+  "aergerlich_adj": {
+    "word": "ärgerlich",
+    "_id": "aergerlich_adj",
+    "audio": "adjektiv_aergerlich.mp3",
+    "comparison": {},
+    "declension": {}
   },
-  "rot_adj": {
-    "word": "rot",
-    "_id": "rot_adj",
-    "audio": "adjektiv_rot.mp3"
-  },
-  "blau_adj": {
-    "word": "blau",
-    "_id": "blau_adj",
-    "audio": "adjektiv_blau.mp3"
-  },
-  "gruen_adj": {
-    "word": "grün",
-    "_id": "gruen_adj",
-    "audio": "adjektiv_gruen.mp3"
-  },
-  "gelb_adj": {
-    "word": "gelb",
-    "_id": "gelb_adj",
-    "audio": "adjektiv_gelb.mp3"
-  },
-  "schwarz_adj": {
-    "word": "schwarz",
-    "_id": "schwarz_adj",
-    "audio": "adjektiv_schwarz.mp3"
-  },
-  "weiss_adj": {
-    "word": "weiß",
-    "_id": "weiss_adj",
-    "audio": "adjektiv_weiss.mp3"
-  },
-  "grau_adj": {
-    "word": "grau",
-    "_id": "grau_adj",
-    "audio": "adjektiv_grau.mp3"
-  },
-  "braun_adj": {
-    "word": "braun",
-    "_id": "braun_adj",
-    "audio": "adjektiv_braun.mp3"
-  },
-  "orange_adj": {
-    "word": "orange",
-    "_id": "orange_adj",
-    "audio": "adjektiv_orange.mp3"
-  },
-  "lila_adj": {
-    "word": "lila",
-    "_id": "lila_adj",
-    "audio": "adjektiv_lila.mp3"
-  },
-  "rosa_adj": {
-    "word": "rosa",
-    "_id": "rosa_adj",
-    "audio": "adjektiv_rosa.mp3"
-  },
-  "gross_adj": {
-    "word": "groß",
-    "_id": "gross_adj",
-    "audio": "adjektiv_gross.mp3"
-  },
-  "sauber_adj": {
-    "word": "sauber",
-    "_id": "sauber_adj",
-    "audio": "adjektiv_sauber.mp3"
-  },
-  "klein_adj": {
-    "word": "klein",
-    "_id": "klein_adj",
-    "audio": "adjektiv_klein.mp3"
-  },
-  "lang_adj": {
-    "word": "lang",
-    "_id": "lang_adj",
-    "audio": "adjektiv_lang.mp3"
-  },
-  "kurz_adj": {
-    "word": "kurz",
-    "_id": "kurz_adj",
-    "audio": "adjektiv_kurz.mp3"
-  },
-  "intelligent_adj": {
-    "word": "intelligent",
-    "_id": "intelligent_adj",
-    "audio": "adjektiv_intelligent.mp3"
-  },
-  "stark_adj": {
-    "word": "stark",
-    "_id": "stark_adj",
-    "audio": "adjektiv_stark.mp3"
-  },
-  "schnell_adj": {
-    "word": "schnell",
-    "_id": "schnell_adj",
-    "audio": "adjektiv_schnell.mp3"
-  },
-  "langsam_adj": {
-    "word": "langsam",
-    "_id": "langsam_adj",
-    "audio": "adjektiv_langsam.mp3"
-  },
-  "alt_adj": {
-    "word": "alt",
-    "_id": "alt_adj",
-    "audio": "adjektiv_alt.mp3"
-  },
-  "jung_adj": {
-    "word": "jung",
-    "_id": "jung_adj",
-    "audio": "adjektiv_jung.mp3"
-  },
-  "warm_adj": {
-    "word": "warm",
-    "_id": "warm_adj",
-    "audio": "adjektiv_warm.mp3"
-  },
-  "kalt_adj": {
-    "word": "kalt",
-    "_id": "kalt_adj",
-    "audio": "adjektiv_kalt.mp3"
-  },
-  "gut_adj": {
-    "word": "gut",
-    "_id": "gut_adj",
-    "audio": "adjektiv_gut.mp3"
-  },
-  "viel_adj": {
-    "word": "viel",
-    "_id": "viel_adj",
-    "audio": "adjektiv_viel.mp3"
-  },
-  "faul_adj": {
-    "word": "faul",
-    "_id": "faul_adj",
-    "audio": "adjektiv_faul.mp3"
-  },
-  "schlau_adj": {
-    "word": "schlau",
-    "_id": "schlau_adj",
-    "audio": "adjektiv_schlau.mp3"
-  },
-  "frech_adj": {
-    "word": "frech",
-    "_id": "frech_adj",
-    "audio": "adjektiv_frech.mp3"
-  },
-  "riesig_adj": {
-    "word": "riesig",
-    "_id": "riesig_adj",
-    "audio": "adjektiv_riesig.mp3"
-  },
-  "ruhig_adj": {
-    "word": "ruhig",
-    "_id": "ruhig_adj",
-    "audio": "adjektiv_ruhig.mp3"
-  },
-  "gefaehrlich_adj": {
-    "word": "gefährlich",
-    "_id": "gefaehrlich_adj",
-    "audio": "adjektiv_gefaehrlich.mp3"
-  },
-  "wild_adj": {
-    "word": "wild",
-    "_id": "wild_adj",
-    "audio": "adjektiv_wild.mp3"
-  },
-  "schwierig_adj": {
-    "word": "schwierig",
-    "_id": "schwierig_adj",
-    "audio": "adjektiv_schwierig.mp3"
-  },
-  "schade_adj": {
-    "word": "schade",
-    "_id": "schade_adj",
-    "audio": "adjektiv_schade.mp3"
-  },
-  "lecker_adj": {
-    "word": "lecker",
-    "_id": "lecker_adj",
-    "audio": "adjektiv_lecker.mp3"
-  },
-  "blond_adj": {
-    "word": "blond",
-    "_id": "blond_adj",
-    "audio": "adjektiv_blond.mp3"
-  },
-  "nett_adj": {
-    "word": "nett",
-    "_id": "nett_adj",
-    "audio": "adjektiv_nett.mp3"
-  },
-  "streng_adj": {
-    "word": "streng",
-    "_id": "streng_adj",
-    "audio": "adjektiv_streng.mp3"
-  },
-  "sportlich_adj": {
-    "word": "sportlich",
-    "_id": "sportlich_adj",
-    "audio": "adjektiv_sportlich.mp3"
-  },
-  "musikalisch_adj": {
-    "word": "musikalisch",
-    "_id": "musikalisch_adj",
-    "audio": "adjektiv_musikalisch.mp3"
-  },
-  "kreativ_adj": {
-    "word": "kreativ",
-    "_id": "kreativ_adj",
-    "audio": "adjektiv_kreativ.mp3"
-  },
-  "schuechtern_adj": {
-    "word": "schüchtern",
-    "_id": "schuechtern_adj",
-    "audio": "adjektiv_schuechtern.mp3"
+  "aeusserlich_adj": {
+    "word": "äußerlich",
+    "_id": "aeusserlich_adj",
+    "audio": "adjektiv_aeusserlich.mp3",
+    "comparison": {},
+    "declension": {}
   },
   "aktiv_adj": {
     "word": "aktiv",
     "_id": "aktiv_adj",
     "audio": "adjektiv_aktiv.mp3"
   },
-  "ungeduldig_adj": {
-    "word": "ungeduldig",
-    "_id": "ungeduldig_adj",
-    "audio": "adjektiv_ungeduldig.mp3"
+  "aktuell_adj": {
+    "word": "aktuell",
+    "_id": "aktuell_adj",
+    "audio": "adjektiv_aktuell.mp3",
+    "comparison": {},
+    "declension": {}
   },
-  "freundlich_adj": {
-    "word": "freundlich",
-    "_id": "freundlich_adj",
-    "audio": "adjektiv_freundlich.mp3"
+  "allgemein_adj": {
+    "word": "allgemein",
+    "_id": "allgemein_adj",
+    "audio": "adjektiv_allgemein.mp3",
+    "comparison": {},
+    "declension": {}
   },
-  "muede_adj": {
-    "word": "müde",
-    "_id": "muede_adj",
-    "audio": "adjektiv_muede.mp3"
+  "alt_adj": {
+    "word": "alt",
+    "_id": "alt_adj",
+    "audio": "adjektiv_alt.mp3"
   },
-  "zufrieden_adj": {
-    "word": "zufrieden",
-    "_id": "zufrieden_adj",
-    "audio": "adjektiv_zufrieden.mp3"
+  "alternativ_adj": {
+    "word": "alternativ",
+    "_id": "alternativ_adj",
+    "audio": "adjektiv_alternativ.mp3",
+    "comparison": {},
+    "declension": {}
   },
-  "langweilig_adj": {
-    "word": "langweilig",
-    "_id": "langweilig_adj",
-    "audio": "adjektiv_langweilig.mp3"
-  },
-  "perfekt_adj": {
-    "word": "perfekt",
-    "_id": "perfekt_adj",
-    "audio": "adjektiv_perfekt.mp3"
-  },
-  "suess_adj": {
-    "word": "süß",
-    "_id": "suess_adj",
-    "audio": "adjektiv_suess.mp3"
-  },
-  "treu_adj": {
-    "word": "treu",
-    "_id": "treu_adj",
-    "audio": "adjektiv_treu.mp3"
-  },
-  "bloed_adj": {
-    "word": "blöd",
-    "_id": "bloed_adj",
-    "audio": "adjektiv_bloed.mp3"
-  },
-  "populaer_adj": {
-    "word": "populär",
-    "_id": "populaer_adj",
-    "audio": "adjektiv_populaer.mp3"
-  },
-  "brav_adj": {
-    "word": "brav",
-    "_id": "brav_adj",
-    "audio": "adjektiv_brav.mp3"
-  },
-  "zahm_adj": {
-    "word": "zahm",
-    "_id": "zahm_adj",
-    "audio": "adjektiv_zahm.mp3"
-  },
-  "weich_adj": {
-    "word": "weich",
-    "_id": "weich_adj",
-    "audio": "adjektiv_weich.mp3"
-  },
-  "richtig_adj": {
-    "word": "richtig",
-    "_id": "richtig_adj",
-    "audio": "adjektiv_richtig.mp3"
-  },
-  "einfach_adj": {
-    "word": "einfach",
-    "_id": "einfach_adj",
-    "audio": "adjektiv_einfach.mp3"
-  },
-  "teuer_adj": {
-    "word": "teuer",
-    "_id": "teuer_adj",
-    "audio": "adjektiv_teuer.mp3"
-  },
-  "wichtig_adj": {
-    "word": "wichtig",
-    "_id": "wichtig_adj",
-    "audio": "adjektiv_wichtig.mp3"
-  },
-  "gemuetlich_adj": {
-    "word": "gemütlich",
-    "_id": "gemuetlich_adj",
-    "audio": "adjektiv_gemuetlich.mp3"
-  },
-  "bunt_adj": {
-    "word": "bunt",
-    "_id": "bunt_adj",
-    "audio": "adjektiv_bunt.mp3"
-  },
-  "frisch_adj": {
-    "word": "frisch",
-    "_id": "frisch_adj",
-    "audio": "adjektiv_frisch.mp3"
-  },
-  "klar_adj": {
-    "word": "klar",
-    "_id": "klar_adj",
-    "audio": "adjektiv_klar.mp3"
-  },
-  "sicher_adj": {
-    "word": "sicher",
-    "_id": "sicher_adj",
-    "audio": "adjektiv_sicher.mp3"
-  },
-  "wach_adj": {
-    "word": "wach",
-    "_id": "wach_adj",
-    "audio": "adjektiv_wach.mp3"
-  },
-  "cool_adj": {
-    "word": "cool",
-    "_id": "cool_adj",
-    "audio": "adjektiv_cool.mp3"
-  },
-  "sympathisch_adj": {
-    "word": "sympathisch",
-    "_id": "sympathisch_adj",
-    "audio": "adjektiv_sympathisch.mp3"
-  },
-  "neu_adj": {
-    "word": "neu",
-    "_id": "neu_adj",
-    "audio": "adjektiv_neu.mp3"
-  },
-  "gespannt_adj": {
-    "word": "gespannt",
-    "_id": "gespannt_adj",
-    "audio": "adjektiv_gespannt.mp3"
-  },
-  "gesund_adj": {
-    "word": "gesund",
-    "_id": "gesund_adj",
-    "audio": "adjektiv_gesund.mp3"
-  },
-  "erschoepft_adj": {
-    "word": "erschöpft",
-    "_id": "erschoepft_adj",
-    "audio": "adjektiv_erschoepft.mp3"
-  },
-  "gluecklich_adj": {
-    "word": "glücklich",
-    "_id": "gluecklich_adj",
-    "audio": "adjektiv_gluecklich.mp3"
-  },
-  "traurig_adj": {
-    "word": "traurig",
-    "_id": "traurig_adj",
-    "audio": "adjektiv_traurig.mp3"
-  },
-  "gestresst_adj": {
-    "word": "gestresst",
-    "_id": "gestresst_adj",
-    "audio": "adjektiv_gestresst.mp3"
-  },
-  "entspannt_adj": {
-    "word": "entspannt",
-    "_id": "entspannt_adj",
-    "audio": "adjektiv_entspannt.mp3"
-  },
-  "nervoes_adj": {
-    "word": "nervös",
-    "_id": "nervoes_adj",
-    "audio": "adjektiv_nervoes.mp3"
-  },
-  "aufgeregt_adj": {
-    "word": "aufgeregt",
-    "_id": "aufgeregt_adj",
-    "audio": "adjektiv_aufgeregt.mp3"
-  },
-  "stressig_adj": {
-    "word": "stressig",
-    "_id": "stressig_adj",
-    "audio": "adjektiv_stressig.mp3"
-  },
-  "hoch_adj": {
-    "word": "hoch",
-    "_id": "hoch_adj",
-    "audio": "adjektiv_hoch.mp3"
-  },
-  "gern_adj": {
-    "word": "gern",
-    "_id": "gern_adj",
-    "audio": "adjektiv_gern.mp3"
+  "angenehm_adj": {
+    "word": "angenehm",
+    "_id": "angenehm_adj",
+    "audio": "adjektiv_angenehm.mp3",
+    "comparison": {},
+    "declension": {}
   },
   "anstrengend_adj": {
     "word": "anstrengend",
     "_id": "anstrengend_adj",
     "audio": "adjektiv_anstrengend.mp3"
   },
-  "hart_adj": {
-    "word": "hart",
-    "_id": "hart_adj",
-    "audio": "adjektiv_hart.mp3"
+  "anwesend_adj": {
+    "word": "anwesend",
+    "_id": "anwesend_adj",
+    "audio": "adjektiv_anwesend.mp3",
+    "comparison": {},
+    "declension": {}
   },
-  "weit_adj": {
-    "word": "weit",
-    "_id": "weit_adj",
-    "audio": "adjektiv_weit.mp3"
+  "arbeitslos_adj": {
+    "word": "arbeitslos",
+    "_id": "arbeitslos_adj",
+    "audio": "adjektiv_arbeitslos.mp3",
+    "comparison": {},
+    "declension": {}
   },
-  "ehrlich_adj": {
-    "word": "ehrlich",
-    "_id": "ehrlich_adj",
-    "audio": "adjektiv_ehrlich.mp3"
+  "arm_adj": {
+    "word": "arm",
+    "_id": "arm_adj",
+    "audio": "adjektiv_arm.mp3",
+    "comparison": {},
+    "declension": {}
   },
-  "schlimm_adj": {
-    "word": "schlimm",
-    "_id": "schlimm_adj",
-    "audio": "adjektiv_schlimm.mp3"
+  "aufgeregt_adj": {
+    "word": "aufgeregt",
+    "_id": "aufgeregt_adj",
+    "audio": "adjektiv_aufgeregt.mp3"
   },
-  "boese_adj": {
-    "word": "böse",
-    "_id": "boese_adj",
-    "audio": "adjektiv_boese.mp3"
+  "aufmerksam_adj": {
+    "word": "aufmerksam",
+    "_id": "aufmerksam_adj",
+    "audio": "adjektiv_aufmerksam.mp3",
+    "comparison": {},
+    "declension": {}
   },
-  "sonnig_adj": {
-    "word": "sonnig",
-    "_id": "sonnig_adj",
-    "audio": "adjektiv_sonnig.mp3"
+  "auslaendisch_adj": {
+    "word": "ausländisch",
+    "_id": "auslaendisch_adj",
+    "audio": "adjektiv_auslaendisch.mp3",
+    "comparison": {},
+    "declension": {}
   },
-  "regnerisch_adj": {
-    "word": "regnerisch",
-    "_id": "regnerisch_adj",
-    "audio": "adjektiv_regnerisch.mp3"
+  "ausschliesslich_adj": {
+    "word": "ausschließlich",
+    "_id": "ausschliesslich_adj",
+    "audio": "adjektiv_ausschliesslich.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "automatisch_adj": {
+    "word": "automatisch",
+    "_id": "automatisch_adj",
+    "audio": "adjektiv_automatisch.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "bekannt_adj": {
+    "word": "bekannt",
+    "_id": "bekannt_adj",
+    "audio": "adjektiv_bekannt.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "beliebt_adj": {
+    "word": "beliebt",
+    "_id": "beliebt_adj",
+    "audio": "adjektiv_beliebt.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "bequem_adj": {
+    "word": "bequem",
+    "_id": "bequem_adj",
+    "audio": "adjektiv_bequem.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "bereit_adj": {
+    "word": "bereit",
+    "_id": "bereit_adj",
+    "audio": "adjektiv_bereit.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "beruehmt_adj": {
+    "word": "berühmt",
+    "_id": "beruehmt_adj",
+    "audio": "adjektiv_beruehmt.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "beruflich_adj": {
+    "word": "beruflich",
+    "_id": "beruflich_adj",
+    "audio": "adjektiv_beruflich.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "berufstaetig_adj": {
+    "word": "berufstätig",
+    "_id": "berufstaetig_adj",
+    "audio": "adjektiv_berufstaetig.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "bestimmt_adj": {
+    "word": "bestimmt",
+    "_id": "bestimmt_adj",
+    "audio": "adjektiv_bestimmt.mp3",
+    "comparison": {},
+    "declension": {}
   },
   "bewoelkt_adj": {
     "word": "bewölkt",
     "_id": "bewoelkt_adj",
     "audio": "adjektiv_bewoelkt.mp3"
   },
-  "windig_adj": {
-    "word": "windig",
-    "_id": "windig_adj",
-    "audio": "adjektiv_windig.mp3"
+  "billig_adj": {
+    "word": "billig",
+    "_id": "billig_adj",
+    "audio": "adjektiv_billig.mp3",
+    "comparison": {},
+    "declension": {}
   },
-  "neblig_adj": {
-    "word": "neblig",
-    "_id": "neblig_adj",
-    "audio": "adjektiv_neblig.mp3"
+  "bitter_adj": {
+    "word": "bitter",
+    "_id": "bitter_adj",
+    "audio": "adjektiv_bitter.mp3",
+    "comparison": {},
+    "declension": {}
   },
-  "heiss_adj": {
-    "word": "heiß",
-    "_id": "heiss_adj",
-    "audio": "adjektiv_heiss.mp3"
+  "blass_adj": {
+    "word": "blass",
+    "_id": "blass_adj",
+    "audio": "adjektiv_blass.mp3",
+    "comparison": {},
+    "declension": {}
   },
-  "kuehl_adj": {
-    "word": "kühl",
-    "_id": "kuehl_adj",
-    "audio": "adjektiv_kuehl.mp3"
+  "blau_adj": {
+    "word": "blau",
+    "_id": "blau_adj",
+    "audio": "adjektiv_blau.mp3"
   },
-  "nass_adj": {
-    "word": "nass",
-    "_id": "nass_adj",
-    "audio": "adjektiv_nass.mp3"
+  "blind_adj": {
+    "word": "blind",
+    "_id": "blind_adj",
+    "audio": "adjektiv_blind.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "bloed_adj": {
+    "word": "blöd",
+    "_id": "bloed_adj",
+    "audio": "adjektiv_bloed.mp3"
+  },
+  "blond_adj": {
+    "word": "blond",
+    "_id": "blond_adj",
+    "audio": "adjektiv_blond.mp3"
+  },
+  "bloss_adj": {
+    "word": "bloß",
+    "_id": "bloss_adj",
+    "audio": "adjektiv_bloss.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "boese_adj": {
+    "word": "böse",
+    "_id": "boese_adj",
+    "audio": "adjektiv_boese.mp3"
+  },
+  "braun_adj": {
+    "word": "braun",
+    "_id": "braun_adj",
+    "audio": "adjektiv_braun.mp3"
+  },
+  "brav_adj": {
+    "word": "brav",
+    "_id": "brav_adj",
+    "audio": "adjektiv_brav.mp3"
+  },
+  "breit_adj": {
+    "word": "breit",
+    "_id": "breit_adj",
+    "audio": "adjektiv_breit.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "bunt_adj": {
+    "word": "bunt",
+    "_id": "bunt_adj",
+    "audio": "adjektiv_bunt.mp3"
+  },
+  "cool_adj": {
+    "word": "cool",
+    "_id": "cool_adj",
+    "audio": "adjektiv_cool.mp3"
+  },
+  "dankbar_adj": {
+    "word": "dankbar",
+    "_id": "dankbar_adj",
+    "audio": "adjektiv_dankbar.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "deutlich_adj": {
+    "word": "deutlich",
+    "_id": "deutlich_adj",
+    "audio": "adjektiv_deutlich.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "dicht_adj": {
+    "word": "dicht",
+    "_id": "dicht_adj",
+    "audio": "adjektiv_dicht.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "dick_adj": {
+    "word": "dick",
+    "_id": "dick_adj",
+    "audio": "adjektiv_dick.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "digital_adj": {
+    "word": "digital",
+    "_id": "digital_adj",
+    "audio": "adjektiv_digital.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "direkt_adj": {
+    "word": "direkt",
+    "_id": "direkt_adj",
+    "audio": "adjektiv_direkt.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "doppelt_adj": {
+    "word": "doppelt",
+    "_id": "doppelt_adj",
+    "audio": "adjektiv_doppelt.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "duenn_adj": {
+    "word": "dünn",
+    "_id": "duenn_adj",
+    "audio": "adjektiv_duenn.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "dumm_adj": {
+    "word": "dumm",
+    "_id": "dumm_adj",
+    "audio": "adjektiv_dumm.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "dunkel_adj": {
+    "word": "dunkel",
+    "_id": "dunkel_adj",
+    "audio": "adjektiv_dunkel.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "durchschnittlich_adj": {
+    "word": "durchschnittlich",
+    "_id": "durchschnittlich_adj",
+    "audio": "adjektiv_durchschnittlich.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "durstig_adj": {
+    "word": "durstig",
+    "_id": "durstig_adj",
+    "audio": "adjektiv_durstig.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "echt_adj": {
+    "word": "echt",
+    "_id": "echt_adj",
+    "audio": "adjektiv_echt.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "eckig_adj": {
+    "word": "eckig",
+    "_id": "eckig_adj",
+    "audio": "adjektiv_eckig.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "ehrlich_adj": {
+    "word": "ehrlich",
+    "_id": "ehrlich_adj",
+    "audio": "adjektiv_ehrlich.mp3"
+  },
+  "eilig_adj": {
+    "word": "eilig",
+    "_id": "eilig_adj",
+    "audio": "adjektiv_eilig.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "eindeutig_adj": {
+    "word": "eindeutig",
+    "_id": "eindeutig_adj",
+    "audio": "adjektiv_eindeutig.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "einfach_adj": {
+    "word": "einfach",
+    "_id": "einfach_adj",
+    "audio": "adjektiv_einfach.mp3"
+  },
+  "einheitlich_adj": {
+    "word": "einheitlich",
+    "_id": "einheitlich_adj",
+    "audio": "adjektiv_einheitlich.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "einsam_adj": {
+    "word": "einsam",
+    "_id": "einsam_adj",
+    "audio": "adjektiv_einsam.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "elegant_adj": {
+    "word": "elegant",
+    "_id": "elegant_adj",
+    "audio": "adjektiv_elegant.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "elektrisch_adj": {
+    "word": "elektrisch",
+    "_id": "elektrisch_adj",
+    "audio": "adjektiv_elektrisch.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "elektronisch_adj": {
+    "word": "elektronisch",
+    "_id": "elektronisch_adj",
+    "audio": "adjektiv_elektronisch.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "eng_adj": {
+    "word": "eng",
+    "_id": "eng_adj",
+    "audio": "adjektiv_eng.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "entspannt_adj": {
+    "word": "entspannt",
+    "_id": "entspannt_adj",
+    "audio": "adjektiv_entspannt.mp3"
+  },
+  "erfolgreich_adj": {
+    "word": "erfolgreich",
+    "_id": "erfolgreich_adj",
+    "audio": "adjektiv_erfolgreich.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "ernsthaft_adj": {
+    "word": "ernsthaft",
+    "_id": "ernsthaft_adj",
+    "audio": "adjektiv_ernsthaft.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "erschoepft_adj": {
+    "word": "erschöpft",
+    "_id": "erschoepft_adj",
+    "audio": "adjektiv_erschoepft.mp3"
+  },
+  "eventuell_adj": {
+    "word": "eventuell",
+    "_id": "eventuell_adj",
+    "audio": "adjektiv_eventuell.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "ewig_adj": {
+    "word": "ewig",
+    "_id": "ewig_adj",
+    "audio": "adjektiv_ewig.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "extrem_adj": {
+    "word": "extrem",
+    "_id": "extrem_adj",
+    "audio": "adjektiv_extrem.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "faellig_adj": {
+    "word": "fällig",
+    "_id": "faellig_adj",
+    "audio": "adjektiv_faellig.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "fair_adj": {
+    "word": "fair",
+    "_id": "fair_adj",
+    "audio": "adjektiv_fair.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "falsch_adj": {
+    "word": "falsch",
+    "_id": "falsch_adj",
+    "audio": "adjektiv_falsch.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "fantastisch_adj": {
+    "word": "fantastisch",
+    "_id": "fantastisch_adj",
+    "audio": "adjektiv_fantastisch.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "farbig_adj": {
+    "word": "farbig",
+    "_id": "farbig_adj",
+    "audio": "adjektiv_farbig.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "faul_adj": {
+    "word": "faul",
+    "_id": "faul_adj",
+    "audio": "adjektiv_faul.mp3"
   },
   "fertig_adj": {
     "word": "fertig",
     "_id": "fertig_adj",
     "audio": "adjektiv_fertig.mp3"
+  },
+  "fest_adj": {
+    "word": "fest",
+    "_id": "fest_adj",
+    "audio": "adjektiv_fest.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "fett_adj": {
+    "word": "fett",
+    "_id": "fett_adj",
+    "audio": "adjektiv_fett.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "feucht_adj": {
+    "word": "feucht",
+    "_id": "feucht_adj",
+    "audio": "adjektiv_feucht.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "finanziell_adj": {
+    "word": "finanziell",
+    "_id": "finanziell_adj",
+    "audio": "adjektiv_finanziell.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "flach_adj": {
+    "word": "flach",
+    "_id": "flach_adj",
+    "audio": "adjektiv_flach.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "fleissig_adj": {
+    "word": "fleißig",
+    "_id": "fleissig_adj",
+    "audio": "adjektiv_fleissig.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "flexibel_adj": {
+    "word": "flexibel",
+    "_id": "flexibel_adj",
+    "audio": "adjektiv_flexibel.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "frech_adj": {
+    "word": "frech",
+    "_id": "frech_adj",
+    "audio": "adjektiv_frech.mp3"
+  },
+  "frei_adj": {
+    "word": "frei",
+    "_id": "frei_adj",
+    "audio": "adjektiv_frei.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "freiwillig_adj": {
+    "word": "freiwillig",
+    "_id": "freiwillig_adj",
+    "audio": "adjektiv_freiwillig.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "fremd_adj": {
+    "word": "fremd",
+    "_id": "fremd_adj",
+    "audio": "adjektiv_fremd.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "freundlich_adj": {
+    "word": "freundlich",
+    "_id": "freundlich_adj",
+    "audio": "adjektiv_freundlich.mp3"
+  },
+  "frisch_adj": {
+    "word": "frisch",
+    "_id": "frisch_adj",
+    "audio": "adjektiv_frisch.mp3"
+  },
+  "froh_adj": {
+    "word": "froh",
+    "_id": "froh_adj",
+    "audio": "adjektiv_froh.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "frueh_adj": {
+    "word": "früh",
+    "_id": "frueh_adj",
+    "audio": "adjektiv_frueh.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "frueher_adj": {
+    "word": "früher",
+    "_id": "frueher_adj",
+    "audio": "adjektiv_frueher.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "furchtbar_adj": {
+    "word": "furchtbar",
+    "_id": "furchtbar_adj",
+    "audio": "adjektiv_furchtbar.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "ganz_adj": {
+    "word": "ganz",
+    "_id": "ganz_adj",
+    "audio": "adjektiv_ganz.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "gefaehrlich_adj": {
+    "word": "gefährlich",
+    "_id": "gefaehrlich_adj",
+    "audio": "adjektiv_gefaehrlich.mp3"
   },
   "geheim_adj": {
     "word": "geheim",
@@ -526,16 +679,1676 @@
     "audio": "ord_geheim.mp3",
     "_id": "geheim_adj"
   },
+  "gelb_adj": {
+    "word": "gelb",
+    "_id": "gelb_adj",
+    "audio": "adjektiv_gelb.mp3"
+  },
+  "gemuetlich_adj": {
+    "word": "gemütlich",
+    "_id": "gemuetlich_adj",
+    "audio": "adjektiv_gemuetlich.mp3"
+  },
+  "genau_adj": {
+    "word": "genau",
+    "_id": "genau_adj",
+    "audio": "adjektiv_genau.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "gerade_adj": {
+    "word": "gerade",
+    "_id": "gerade_adj",
+    "audio": "adjektiv_gerade.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "gering_adj": {
+    "word": "gering",
+    "_id": "gering_adj",
+    "audio": "adjektiv_gering.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "gern_adj": {
+    "word": "gern",
+    "_id": "gern_adj",
+    "audio": "adjektiv_gern.mp3"
+  },
+  "gespannt_adj": {
+    "word": "gespannt",
+    "_id": "gespannt_adj",
+    "audio": "adjektiv_gespannt.mp3"
+  },
+  "gestresst_adj": {
+    "word": "gestresst",
+    "_id": "gestresst_adj",
+    "audio": "adjektiv_gestresst.mp3"
+  },
+  "gesund_adj": {
+    "word": "gesund",
+    "_id": "gesund_adj",
+    "audio": "adjektiv_gesund.mp3"
+  },
+  "gewoehnlich_adj": {
+    "word": "gewöhnlich",
+    "_id": "gewoehnlich_adj",
+    "audio": "adjektiv_gewoehnlich.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "giftig_adj": {
+    "word": "giftig",
+    "_id": "giftig_adj",
+    "audio": "adjektiv_giftig.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "glatt_adj": {
+    "word": "glatt",
+    "_id": "glatt_adj",
+    "audio": "adjektiv_glatt.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "gleich_adj": {
+    "word": "gleich",
+    "_id": "gleich_adj",
+    "audio": "adjektiv_gleich.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "gleichberechtigt_adj": {
+    "word": "gleichberechtigt",
+    "_id": "gleichberechtigt_adj",
+    "audio": "adjektiv_gleichberechtigt.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "gleichzeitig_adj": {
+    "word": "gleichzeitig",
+    "_id": "gleichzeitig_adj",
+    "audio": "adjektiv_gleichzeitig.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "gluecklich_adj": {
+    "word": "glücklich",
+    "_id": "gluecklich_adj",
+    "audio": "adjektiv_gluecklich.mp3"
+  },
+  "grau_adj": {
+    "word": "grau",
+    "_id": "grau_adj",
+    "audio": "adjektiv_grau.mp3"
+  },
+  "gross_adj": {
+    "word": "groß",
+    "_id": "gross_adj",
+    "audio": "adjektiv_gross.mp3"
+  },
+  "gruen_adj": {
+    "word": "grün",
+    "_id": "gruen_adj",
+    "audio": "adjektiv_gruen.mp3"
+  },
+  "gruendlich_adj": {
+    "word": "gründlich",
+    "_id": "gruendlich_adj",
+    "audio": "adjektiv_gruendlich.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "gueltig_adj": {
+    "word": "gültig",
+    "_id": "gueltig_adj",
+    "audio": "adjektiv_gueltig.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "guenstig_adj": {
+    "word": "günstig",
+    "_id": "guenstig_adj",
+    "audio": "adjektiv_guenstig.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "gut_adj": {
+    "word": "gut",
+    "_id": "gut_adj",
+    "audio": "adjektiv_gut.mp3"
+  },
+  "haesslich_adj": {
+    "word": "hässlich",
+    "_id": "haesslich_adj",
+    "audio": "adjektiv_haesslich.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "haeufig_adj": {
+    "word": "häufig",
+    "_id": "haeufig_adj",
+    "audio": "adjektiv_haeufig.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "halb_adj": {
+    "word": "halb",
+    "_id": "halb_adj",
+    "audio": "adjektiv_halb.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "haltbar_adj": {
+    "word": "haltbar",
+    "_id": "haltbar_adj",
+    "audio": "adjektiv_haltbar.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "hart_adj": {
+    "word": "hart",
+    "_id": "hart_adj",
+    "audio": "adjektiv_hart.mp3"
+  },
+  "heimlich_adj": {
+    "word": "heimlich",
+    "_id": "heimlich_adj",
+    "audio": "adjektiv_heimlich.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "heiss_adj": {
+    "word": "heiß",
+    "_id": "heiss_adj",
+    "audio": "adjektiv_heiss.mp3"
+  },
+  "hell_adj": {
+    "word": "hell",
+    "_id": "hell_adj",
+    "audio": "adjektiv_hell.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "herzlich_adj": {
+    "word": "herzlich",
+    "_id": "herzlich_adj",
+    "audio": "adjektiv_herzlich.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "historisch_adj": {
+    "word": "historisch",
+    "_id": "historisch_adj",
+    "audio": "adjektiv_historisch.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "hoch_adj": {
+    "word": "hoch",
+    "_id": "hoch_adj",
+    "audio": "adjektiv_hoch.mp3"
+  },
+  "hoeflich_adj": {
+    "word": "höflich",
+    "_id": "hoeflich_adj",
+    "audio": "adjektiv_hoeflich.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "huebsch_adj": {
+    "word": "hübsch",
+    "_id": "huebsch_adj",
+    "audio": "adjektiv_huebsch.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "hungrig_adj": {
+    "word": "hungrig",
+    "_id": "hungrig_adj",
+    "audio": "adjektiv_hungrig.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "ideal_adj": {
+    "word": "ideal",
+    "_id": "ideal_adj",
+    "audio": "adjektiv_ideal.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "illegal_adj": {
+    "word": "illegal",
+    "_id": "illegal_adj",
+    "audio": "adjektiv_illegal.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "individuell_adj": {
+    "word": "individuell",
+    "_id": "individuell_adj",
+    "audio": "adjektiv_individuell.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "intelligent_adj": {
+    "word": "intelligent",
+    "_id": "intelligent_adj",
+    "audio": "adjektiv_intelligent.mp3"
+  },
+  "intensiv_adj": {
+    "word": "intensiv",
+    "_id": "intensiv_adj",
+    "audio": "adjektiv_intensiv.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "interessant_adj": {
+    "word": "interessant",
+    "_id": "interessant_adj",
+    "audio": "adjektiv_interessant.mp3"
+  },
+  "interessiert_adj": {
+    "word": "interessiert",
+    "_id": "interessiert_adj",
+    "audio": "adjektiv_interessiert.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "interkulturell_adj": {
+    "word": "interkulturell",
+    "_id": "interkulturell_adj",
+    "audio": "adjektiv_interkulturell.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "international_adj": {
+    "word": "international",
+    "_id": "international_adj",
+    "audio": "adjektiv_international.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "jung_adj": {
+    "word": "jung",
+    "_id": "jung_adj",
+    "audio": "adjektiv_jung.mp3"
+  },
+  "kalt_adj": {
+    "word": "kalt",
+    "_id": "kalt_adj",
+    "audio": "adjektiv_kalt.mp3"
+  },
+  "kaputt_adj": {
+    "word": "kaputt",
+    "_id": "kaputt_adj",
+    "audio": "adjektiv_kaputt.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "klar_adj": {
+    "word": "klar",
+    "_id": "klar_adj",
+    "audio": "adjektiv_klar.mp3"
+  },
+  "klein_adj": {
+    "word": "klein",
+    "_id": "klein_adj",
+    "audio": "adjektiv_klein.mp3"
+  },
+  "klug_adj": {
+    "word": "klug",
+    "_id": "klug_adj",
+    "audio": "adjektiv_klug.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "knapp_adj": {
+    "word": "knapp",
+    "_id": "knapp_adj",
+    "audio": "adjektiv_knapp.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "koerperlich_adj": {
+    "word": "körperlich",
+    "_id": "koerperlich_adj",
+    "audio": "adjektiv_koerperlich.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "komisch_adj": {
+    "word": "komisch",
+    "_id": "komisch_adj",
+    "audio": "adjektiv_komisch.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "komplett_adj": {
+    "word": "komplett",
+    "_id": "komplett_adj",
+    "audio": "adjektiv_komplett.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "kompliziert_adj": {
+    "word": "kompliziert",
+    "_id": "kompliziert_adj",
+    "audio": "adjektiv_kompliziert.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "korrekt_adj": {
+    "word": "korrekt",
+    "_id": "korrekt_adj",
+    "audio": "adjektiv_korrekt.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "kostenlos_adj": {
+    "word": "kostenlos",
+    "_id": "kostenlos_adj",
+    "audio": "adjektiv_kostenlos.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "krank_adj": {
+    "word": "krank",
+    "_id": "krank_adj",
+    "audio": "adjektiv_krank.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "kreativ_adj": {
+    "word": "kreativ",
+    "_id": "kreativ_adj",
+    "audio": "adjektiv_kreativ.mp3"
+  },
+  "kritisch_adj": {
+    "word": "kritisch",
+    "_id": "kritisch_adj",
+    "audio": "adjektiv_kritisch.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "kuehl_adj": {
+    "word": "kühl",
+    "_id": "kuehl_adj",
+    "audio": "adjektiv_kuehl.mp3"
+  },
+  "kuenstlich_adj": {
+    "word": "künstlich",
+    "_id": "kuenstlich_adj",
+    "audio": "adjektiv_kuenstlich.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "kulturell_adj": {
+    "word": "kulturell",
+    "_id": "kulturell_adj",
+    "audio": "adjektiv_kulturell.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "kurz_adj": {
+    "word": "kurz",
+    "_id": "kurz_adj",
+    "audio": "adjektiv_kurz.mp3"
+  },
+  "lang_adj": {
+    "word": "lang",
+    "_id": "lang_adj",
+    "audio": "adjektiv_lang.mp3"
+  },
+  "langsam_adj": {
+    "word": "langsam",
+    "_id": "langsam_adj",
+    "audio": "adjektiv_langsam.mp3"
+  },
+  "langweilig_adj": {
+    "word": "langweilig",
+    "_id": "langweilig_adj",
+    "audio": "adjektiv_langweilig.mp3"
+  },
+  "laut_adj": {
+    "word": "laut",
+    "_id": "laut_adj",
+    "audio": "adjektiv_laut.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "lecker_adj": {
+    "word": "lecker",
+    "_id": "lecker_adj",
+    "audio": "adjektiv_lecker.mp3"
+  },
+  "ledig_adj": {
+    "word": "ledig",
+    "_id": "ledig_adj",
+    "audio": "adjektiv_ledig.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "leer_adj": {
+    "word": "leer",
+    "_id": "leer_adj",
+    "audio": "adjektiv_leer.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "leicht_adj": {
+    "word": "leicht",
+    "_id": "leicht_adj",
+    "audio": "adjektiv_leicht.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "leise_adj": {
+    "word": "leise",
+    "_id": "leise_adj",
+    "audio": "adjektiv_leise.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "lieb_adj": {
+    "word": "lieb",
+    "_id": "lieb_adj",
+    "audio": "adjektiv_lieb.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "lila_adj": {
+    "word": "lila",
+    "_id": "lila_adj",
+    "audio": "adjektiv_lila.mp3"
+  },
+  "locker_adj": {
+    "word": "locker",
+    "_id": "locker_adj",
+    "audio": "adjektiv_locker.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "lustig_adj": {
+    "word": "lustig",
+    "_id": "lustig_adj",
+    "audio": "adjektiv_lustig.mp3"
+  },
+  "maennlich_adj": {
+    "word": "männlich",
+    "_id": "maennlich_adj",
+    "audio": "adjektiv_maennlich.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "mager_adj": {
+    "word": "mager",
+    "_id": "mager_adj",
+    "audio": "adjektiv_mager.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "maximal_adj": {
+    "word": "maximal",
+    "_id": "maximal_adj",
+    "audio": "adjektiv_maximal.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "menschlich_adj": {
+    "word": "menschlich",
+    "_id": "menschlich_adj",
+    "audio": "adjektiv_menschlich.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "merkwuerdig_adj": {
+    "word": "merkwürdig",
+    "_id": "merkwuerdig_adj",
+    "audio": "adjektiv_merkwuerdig.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "mild_adj": {
+    "word": "mild",
+    "_id": "mild_adj",
+    "audio": "adjektiv_mild.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "minimal_adj": {
+    "word": "minimal",
+    "_id": "minimal_adj",
+    "audio": "adjektiv_minimal.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "moeglich_adj": {
+    "word": "möglich",
+    "_id": "moeglich_adj",
+    "audio": "adjektiv_moeglich.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "muede_adj": {
+    "word": "müde",
+    "_id": "muede_adj",
+    "audio": "adjektiv_muede.mp3"
+  },
+  "muendlich_adj": {
+    "word": "mündlich",
+    "_id": "muendlich_adj",
+    "audio": "adjektiv_muendlich.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "musikalisch_adj": {
+    "word": "musikalisch",
+    "_id": "musikalisch_adj",
+    "audio": "adjektiv_musikalisch.mp3"
+  },
+  "mutig_adj": {
+    "word": "mutig",
+    "_id": "mutig_adj",
+    "audio": "adjektiv_mutig.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "nass_adj": {
+    "word": "nass",
+    "_id": "nass_adj",
+    "audio": "adjektiv_nass.mp3"
+  },
+  "natuerlich_adj": {
+    "word": "natürlich",
+    "_id": "natuerlich_adj",
+    "audio": "adjektiv_natuerlich.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "neblig_adj": {
+    "word": "neblig",
+    "_id": "neblig_adj",
+    "audio": "adjektiv_neblig.mp3"
+  },
+  "negativ_adj": {
+    "word": "negativ",
+    "_id": "negativ_adj",
+    "audio": "adjektiv_negativ.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "nervoes_adj": {
+    "word": "nervös",
+    "_id": "nervoes_adj",
+    "audio": "adjektiv_nervoes.mp3"
+  },
+  "nett_adj": {
+    "word": "nett",
+    "_id": "nett_adj",
+    "audio": "adjektiv_nett.mp3"
+  },
+  "neu_adj": {
+    "word": "neu",
+    "_id": "neu_adj",
+    "audio": "adjektiv_neu.mp3"
+  },
+  "neugierig_adj": {
+    "word": "neugierig",
+    "_id": "neugierig_adj",
+    "audio": "adjektiv_neugierig.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "niedrig_adj": {
+    "word": "niedrig",
+    "_id": "niedrig_adj",
+    "audio": "adjektiv_niedrig.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "noetig_adj": {
+    "word": "nötig",
+    "_id": "noetig_adj",
+    "audio": "adjektiv_noetig.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "normal_adj": {
+    "word": "normal",
+    "_id": "normal_adj",
+    "audio": "adjektiv_normal.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "notwendig_adj": {
+    "word": "notwendig",
+    "_id": "notwendig_adj",
+    "audio": "adjektiv_notwendig.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "nuetzlich_adj": {
+    "word": "nützlich",
+    "_id": "nuetzlich_adj",
+    "audio": "adjektiv_nuetzlich.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "oeffentlich_adj": {
+    "word": "öffentlich",
+    "_id": "oeffentlich_adj",
+    "audio": "adjektiv_oeffentlich.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "offenbar_adj": {
+    "word": "offenbar",
+    "_id": "offenbar_adj",
+    "audio": "adjektiv_offenbar.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "offiziell_adj": {
+    "word": "offiziell",
+    "_id": "offiziell_adj",
+    "audio": "adjektiv_offiziell.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "optimistisch_adj": {
+    "word": "optimistisch",
+    "_id": "optimistisch_adj",
+    "audio": "adjektiv_optimistisch.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "orange_adj": {
+    "word": "orange",
+    "_id": "orange_adj",
+    "audio": "adjektiv_orange.mp3"
+  },
+  "ordentlich_adj": {
+    "word": "ordentlich",
+    "_id": "ordentlich_adj",
+    "audio": "adjektiv_ordentlich.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "parallel_adj": {
+    "word": "parallel",
+    "_id": "parallel_adj",
+    "audio": "adjektiv_parallel.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "passiv_adj": {
+    "word": "passiv",
+    "_id": "passiv_adj",
+    "audio": "adjektiv_passiv.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "pauschal_adj": {
+    "word": "pauschal",
+    "_id": "pauschal_adj",
+    "audio": "adjektiv_pauschal.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "perfekt_adj": {
+    "word": "perfekt",
+    "_id": "perfekt_adj",
+    "audio": "adjektiv_perfekt.mp3"
+  },
+  "ploetzlich_adj": {
+    "word": "plötzlich",
+    "_id": "ploetzlich_adj",
+    "audio": "adjektiv_ploetzlich.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "populaer_adj": {
+    "word": "populär",
+    "_id": "populaer_adj",
+    "audio": "adjektiv_populaer.mp3"
+  },
+  "positiv_adj": {
+    "word": "positiv",
+    "_id": "positiv_adj",
+    "audio": "adjektiv_positiv.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "praktisch_adj": {
+    "word": "praktisch",
+    "_id": "praktisch_adj",
+    "audio": "adjektiv_praktisch.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "preiswert_adj": {
+    "word": "preiswert",
+    "_id": "preiswert_adj",
+    "audio": "adjektiv_preiswert.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "privat_adj": {
+    "word": "privat",
+    "_id": "privat_adj",
+    "audio": "adjektiv_privat.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "puenktlich_adj": {
+    "word": "pünktlich",
+    "_id": "puenktlich_adj",
+    "audio": "adjektiv_puenktlich.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "quer_adj": {
+    "word": "quer",
+    "_id": "quer_adj",
+    "audio": "adjektiv_quer.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "realistisch_adj": {
+    "word": "realistisch",
+    "_id": "realistisch_adj",
+    "audio": "adjektiv_realistisch.mp3",
+    "comparison": {},
+    "declension": {}
+  },
   "recht_adj": {
     "word": "recht",
     "type": "adj",
     "audio": "ord_recht.mp3",
     "_id": "recht_adj"
   },
+  "rechtlich_adj": {
+    "word": "rechtlich",
+    "_id": "rechtlich_adj",
+    "audio": "adjektiv_rechtlich.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "rechtzeitig_adj": {
+    "word": "rechtzeitig",
+    "_id": "rechtzeitig_adj",
+    "audio": "adjektiv_rechtzeitig.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "regelmaessig_adj": {
+    "word": "regelmäßig",
+    "_id": "regelmaessig_adj",
+    "audio": "adjektiv_regelmaessig.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "regional_adj": {
+    "word": "regional",
+    "_id": "regional_adj",
+    "audio": "adjektiv_regional.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "regnerisch_adj": {
+    "word": "regnerisch",
+    "_id": "regnerisch_adj",
+    "audio": "adjektiv_regnerisch.mp3"
+  },
+  "reich_adj": {
+    "word": "reich",
+    "_id": "reich_adj",
+    "audio": "adjektiv_reich.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "reif_adj": {
+    "word": "reif",
+    "_id": "reif_adj",
+    "audio": "adjektiv_reif.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "rein_adj": {
+    "word": "rein",
+    "_id": "rein_adj",
+    "audio": "adjektiv_rein.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "relativ_adj": {
+    "word": "relativ",
+    "_id": "relativ_adj",
+    "audio": "adjektiv_relativ.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "richtig_adj": {
+    "word": "richtig",
+    "_id": "richtig_adj",
+    "audio": "adjektiv_richtig.mp3"
+  },
+  "riesig_adj": {
+    "word": "riesig",
+    "_id": "riesig_adj",
+    "audio": "adjektiv_riesig.mp3"
+  },
+  "roh_adj": {
+    "word": "roh",
+    "_id": "roh_adj",
+    "audio": "adjektiv_roh.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "romantisch_adj": {
+    "word": "romantisch",
+    "_id": "romantisch_adj",
+    "audio": "adjektiv_romantisch.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "rosa_adj": {
+    "word": "rosa",
+    "_id": "rosa_adj",
+    "audio": "adjektiv_rosa.mp3"
+  },
+  "rot_adj": {
+    "word": "rot",
+    "_id": "rot_adj",
+    "audio": "adjektiv_rot.mp3"
+  },
+  "ruhig_adj": {
+    "word": "ruhig",
+    "_id": "ruhig_adj",
+    "audio": "adjektiv_ruhig.mp3"
+  },
+  "rund_adj": {
+    "word": "rund",
+    "_id": "rund_adj",
+    "audio": "adjektiv_rund.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "salzig_adj": {
+    "word": "salzig",
+    "_id": "salzig_adj",
+    "audio": "adjektiv_salzig.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "satt_adj": {
+    "word": "satt",
+    "_id": "satt_adj",
+    "audio": "adjektiv_satt.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "sauber_adj": {
+    "word": "sauber",
+    "_id": "sauber_adj",
+    "audio": "adjektiv_sauber.mp3"
+  },
+  "sauer_adj": {
+    "word": "sauer",
+    "_id": "sauer_adj",
+    "audio": "adjektiv_sauer.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "schade_adj": {
+    "word": "schade",
+    "_id": "schade_adj",
+    "audio": "adjektiv_schade.mp3"
+  },
+  "schaedlich_adj": {
+    "word": "schädlich",
+    "_id": "schaedlich_adj",
+    "audio": "adjektiv_schaedlich.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "scharf_adj": {
+    "word": "scharf",
+    "_id": "scharf_adj",
+    "audio": "adjektiv_scharf.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "schief_adj": {
+    "word": "schief",
+    "_id": "schief_adj",
+    "audio": "adjektiv_schief.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "schlank_adj": {
+    "word": "schlank",
+    "_id": "schlank_adj",
+    "audio": "adjektiv_schlank.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "schlau_adj": {
+    "word": "schlau",
+    "_id": "schlau_adj",
+    "audio": "adjektiv_schlau.mp3"
+  },
+  "schlecht_adj": {
+    "word": "schlecht",
+    "_id": "schlecht_adj",
+    "audio": "adjektiv_schlecht.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "schlimm_adj": {
+    "word": "schlimm",
+    "_id": "schlimm_adj",
+    "audio": "adjektiv_schlimm.mp3"
+  },
+  "schmal_adj": {
+    "word": "schmal",
+    "_id": "schmal_adj",
+    "audio": "adjektiv_schmal.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "schmutzig_adj": {
+    "word": "schmutzig",
+    "_id": "schmutzig_adj",
+    "audio": "adjektiv_schmutzig.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "schnell_adj": {
+    "word": "schnell",
+    "_id": "schnell_adj",
+    "audio": "adjektiv_schnell.mp3"
+  },
+  "schoen_adj": {
+    "word": "schön",
+    "_id": "schoen_adj",
+    "audio": "adjektiv_schoen.mp3"
+  },
+  "schrecklich_adj": {
+    "word": "schrecklich",
+    "_id": "schrecklich_adj",
+    "audio": "adjektiv_schrecklich.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "schriftlich_adj": {
+    "word": "schriftlich",
+    "_id": "schriftlich_adj",
+    "audio": "adjektiv_schriftlich.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "schuechtern_adj": {
+    "word": "schüchtern",
+    "_id": "schuechtern_adj",
+    "audio": "adjektiv_schuechtern.mp3"
+  },
+  "schuldig_adj": {
+    "word": "schuldig",
+    "_id": "schuldig_adj",
+    "audio": "adjektiv_schuldig.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "schwach_adj": {
+    "word": "schwach",
+    "_id": "schwach_adj",
+    "audio": "adjektiv_schwach.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "schwanger_adj": {
+    "word": "schwanger",
+    "_id": "schwanger_adj",
+    "audio": "adjektiv_schwanger.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "schwarz_adj": {
+    "word": "schwarz",
+    "_id": "schwarz_adj",
+    "audio": "adjektiv_schwarz.mp3"
+  },
+  "schwer_adj": {
+    "word": "schwer",
+    "_id": "schwer_adj",
+    "audio": "adjektiv_schwer.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "schwierig_adj": {
+    "word": "schwierig",
+    "_id": "schwierig_adj",
+    "audio": "adjektiv_schwierig.mp3"
+  },
+  "selbststaendig_adj": {
+    "word": "selbstständig",
+    "_id": "selbststaendig_adj",
+    "audio": "adjektiv_selbststaendig.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "selbstverstaendlich_adj": {
+    "word": "selbstverständlich",
+    "_id": "selbstverstaendlich_adj",
+    "audio": "adjektiv_selbstverstaendlich.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "seltsam_adj": {
+    "word": "seltsam",
+    "_id": "seltsam_adj",
+    "audio": "adjektiv_seltsam.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "senkrecht_adj": {
+    "word": "senkrecht",
+    "_id": "senkrecht_adj",
+    "audio": "adjektiv_senkrecht.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "sicher_adj": {
+    "word": "sicher",
+    "_id": "sicher_adj",
+    "audio": "adjektiv_sicher.mp3"
+  },
+  "sichtbar_adj": {
+    "word": "sichtbar",
+    "_id": "sichtbar_adj",
+    "audio": "adjektiv_sichtbar.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "sinnlos_adj": {
+    "word": "sinnlos",
+    "_id": "sinnlos_adj",
+    "audio": "adjektiv_sinnlos.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "sinnvoll_adj": {
+    "word": "sinnvoll",
+    "_id": "sinnvoll_adj",
+    "audio": "adjektiv_sinnvoll.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "sonnig_adj": {
+    "word": "sonnig",
+    "_id": "sonnig_adj",
+    "audio": "adjektiv_sonnig.mp3"
+  },
+  "sozial_adj": {
+    "word": "sozial",
+    "_id": "sozial_adj",
+    "audio": "adjektiv_sozial.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "spaet_adj": {
+    "word": "spät",
+    "_id": "spaet_adj",
+    "audio": "adjektiv_spaet.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "spaeter_adj": {
+    "word": "später",
+    "_id": "spaeter_adj",
+    "audio": "adjektiv_spaeter.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "spannend_adj": {
+    "word": "spannend",
+    "_id": "spannend_adj",
+    "audio": "adjektiv_spannend.mp3"
+  },
+  "speziell_adj": {
+    "word": "speziell",
+    "_id": "speziell_adj",
+    "audio": "adjektiv_speziell.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "spitz_adj": {
+    "word": "spitz",
+    "_id": "spitz_adj",
+    "audio": "adjektiv_spitz.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "sportlich_adj": {
+    "word": "sportlich",
+    "_id": "sportlich_adj",
+    "audio": "adjektiv_sportlich.mp3"
+  },
+  "staedtisch_adj": {
+    "word": "städtisch",
+    "_id": "staedtisch_adj",
+    "audio": "adjektiv_staedtisch.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "staendig_adj": {
+    "word": "ständig",
+    "_id": "staendig_adj",
+    "audio": "adjektiv_staendig.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "stark_adj": {
+    "word": "stark",
+    "_id": "stark_adj",
+    "audio": "adjektiv_stark.mp3"
+  },
+  "statistisch_adj": {
+    "word": "statistisch",
+    "_id": "statistisch_adj",
+    "audio": "adjektiv_statistisch.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "steil_adj": {
+    "word": "steil",
+    "_id": "steil_adj",
+    "audio": "adjektiv_steil.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "stilistisch_adj": {
+    "word": "stilistisch",
+    "_id": "stilistisch_adj",
+    "audio": "adjektiv_stilistisch.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "still_adj": {
+    "word": "still",
+    "_id": "still_adj",
+    "audio": "adjektiv_still.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "stolz_adj": {
+    "word": "stolz",
+    "_id": "stolz_adj",
+    "audio": "adjektiv_stolz.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "strafbar_adj": {
+    "word": "strafbar",
+    "_id": "strafbar_adj",
+    "audio": "adjektiv_strafbar.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "streng_adj": {
+    "word": "streng",
+    "_id": "streng_adj",
+    "audio": "adjektiv_streng.mp3"
+  },
+  "stressig_adj": {
+    "word": "stressig",
+    "_id": "stressig_adj",
+    "audio": "adjektiv_stressig.mp3"
+  },
+  "stumm_adj": {
+    "word": "stumm",
+    "_id": "stumm_adj",
+    "audio": "adjektiv_stumm.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "suess_adj": {
+    "word": "süß",
+    "_id": "suess_adj",
+    "audio": "adjektiv_suess.mp3"
+  },
+  "super_adj": {
+    "word": "super",
+    "_id": "super_adj",
+    "audio": "adjektiv_super.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "sympathisch_adj": {
+    "word": "sympathisch",
+    "_id": "sympathisch_adj",
+    "audio": "adjektiv_sympathisch.mp3"
+  },
+  "taub_adj": {
+    "word": "taub",
+    "_id": "taub_adj",
+    "audio": "adjektiv_taub.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "teuer_adj": {
+    "word": "teuer",
+    "_id": "teuer_adj",
+    "audio": "adjektiv_teuer.mp3"
+  },
+  "theoretisch_adj": {
+    "word": "theoretisch",
+    "_id": "theoretisch_adj",
+    "audio": "adjektiv_theoretisch.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "tief_adj": {
+    "word": "tief",
+    "_id": "tief_adj",
+    "audio": "adjektiv_tief.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "toedlich_adj": {
+    "word": "tödlich",
+    "_id": "toedlich_adj",
+    "audio": "adjektiv_toedlich.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "tolerant_adj": {
+    "word": "tolerant",
+    "_id": "tolerant_adj",
+    "audio": "adjektiv_tolerant.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "toll_adj": {
+    "word": "toll",
+    "_id": "toll_adj",
+    "audio": "adjektiv_toll.mp3"
+  },
+  "tot_adj": {
+    "word": "tot",
+    "_id": "tot_adj",
+    "audio": "adjektiv_tot.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "total_adj": {
+    "word": "total",
+    "_id": "total_adj",
+    "audio": "adjektiv_total.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "traditionell_adj": {
+    "word": "traditionell",
+    "_id": "traditionell_adj",
+    "audio": "adjektiv_traditionell.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "traurig_adj": {
+    "word": "traurig",
+    "_id": "traurig_adj",
+    "audio": "adjektiv_traurig.mp3"
+  },
+  "treu_adj": {
+    "word": "treu",
+    "_id": "treu_adj",
+    "audio": "adjektiv_treu.mp3"
+  },
+  "trocken_adj": {
+    "word": "trocken",
+    "_id": "trocken_adj",
+    "audio": "adjektiv_trocken.mp3"
+  },
+  "typisch_adj": {
+    "word": "typisch",
+    "_id": "typisch_adj",
+    "audio": "adjektiv_typisch.mp3",
+    "comparison": {},
+    "declension": {}
+  },
   "ueberrascht_adj": {
     "word": "überrascht",
     "type": "adj",
     "_id": "ueberrascht_adj",
     "audio": "adjektiv_ueberrascht.mp3"
+  },
+  "ueblich_adj": {
+    "word": "üblich",
+    "_id": "ueblich_adj",
+    "audio": "adjektiv_ueblich.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "uebrig_adj": {
+    "word": "übrig",
+    "_id": "uebrig_adj",
+    "audio": "adjektiv_uebrig.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "ungeduldig_adj": {
+    "word": "ungeduldig",
+    "_id": "ungeduldig_adj",
+    "audio": "adjektiv_ungeduldig.mp3"
+  },
+  "ungewoehnlich_adj": {
+    "word": "ungewöhnlich",
+    "_id": "ungewoehnlich_adj",
+    "audio": "adjektiv_ungewoehnlich.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "unglaublich_adj": {
+    "word": "unglaublich",
+    "_id": "unglaublich_adj",
+    "audio": "adjektiv_unglaublich.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "unheimlich_adj": {
+    "word": "unheimlich",
+    "_id": "unheimlich_adj",
+    "audio": "adjektiv_unheimlich.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "unterschiedlich_adj": {
+    "word": "unterschiedlich",
+    "_id": "unterschiedlich_adj",
+    "audio": "adjektiv_unterschiedlich.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "urspruenglich_adj": {
+    "word": "ursprünglich",
+    "_id": "urspruenglich_adj",
+    "audio": "adjektiv_urspruenglich.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "vegetarisch_adj": {
+    "word": "vegetarisch",
+    "_id": "vegetarisch_adj",
+    "audio": "adjektiv_vegetarisch.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "verantwortlich_adj": {
+    "word": "verantwortlich",
+    "_id": "verantwortlich_adj",
+    "audio": "adjektiv_verantwortlich.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "vergeblich_adj": {
+    "word": "vergeblich",
+    "_id": "vergeblich_adj",
+    "audio": "adjektiv_vergeblich.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "verheiratet_adj": {
+    "word": "verheiratet",
+    "_id": "verheiratet_adj",
+    "audio": "adjektiv_verheiratet.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "vermutlich_adj": {
+    "word": "vermutlich",
+    "_id": "vermutlich_adj",
+    "audio": "adjektiv_vermutlich.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "vernuenftig_adj": {
+    "word": "vernünftig",
+    "_id": "vernuenftig_adj",
+    "audio": "adjektiv_vernuenftig.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "verrueckt_adj": {
+    "word": "verrückt",
+    "_id": "verrueckt_adj",
+    "audio": "adjektiv_verrueckt.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "verstaendlich_adj": {
+    "word": "verständlich",
+    "_id": "verstaendlich_adj",
+    "audio": "adjektiv_verstaendlich.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "verwandt_adj": {
+    "word": "verwandt",
+    "_id": "verwandt_adj",
+    "audio": "adjektiv_verwandt.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "viel_adj": {
+    "word": "viel",
+    "_id": "viel_adj",
+    "audio": "adjektiv_viel.mp3"
+  },
+  "virtuell_adj": {
+    "word": "virtuell",
+    "_id": "virtuell_adj",
+    "audio": "adjektiv_virtuell.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "voll_adj": {
+    "word": "voll",
+    "_id": "voll_adj",
+    "audio": "adjektiv_voll.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "voraussichtlich_adj": {
+    "word": "voraussichtlich",
+    "_id": "voraussichtlich_adj",
+    "audio": "adjektiv_voraussichtlich.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "vorlaeufig_adj": {
+    "word": "vorläufig",
+    "_id": "vorlaeufig_adj",
+    "audio": "adjektiv_vorlaeufig.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "vorsichtig_adj": {
+    "word": "vorsichtig",
+    "_id": "vorsichtig_adj",
+    "audio": "adjektiv_vorsichtig.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "wach_adj": {
+    "word": "wach",
+    "_id": "wach_adj",
+    "audio": "adjektiv_wach.mp3"
+  },
+  "wahnsinnig_adj": {
+    "word": "wahnsinnig",
+    "_id": "wahnsinnig_adj",
+    "audio": "adjektiv_wahnsinnig.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "wahr_adj": {
+    "word": "wahr",
+    "_id": "wahr_adj",
+    "audio": "adjektiv_wahr.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "warm_adj": {
+    "word": "warm",
+    "_id": "warm_adj",
+    "audio": "adjektiv_warm.mp3"
+  },
+  "weiblich_adj": {
+    "word": "weiblich",
+    "_id": "weiblich_adj",
+    "audio": "adjektiv_weiblich.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "weich_adj": {
+    "word": "weich",
+    "_id": "weich_adj",
+    "audio": "adjektiv_weich.mp3"
+  },
+  "weiss_adj": {
+    "word": "weiß",
+    "_id": "weiss_adj",
+    "audio": "adjektiv_weiss.mp3"
+  },
+  "weit_adj": {
+    "word": "weit",
+    "_id": "weit_adj",
+    "audio": "adjektiv_weit.mp3"
+  },
+  "weiter_adj": {
+    "word": "weiter",
+    "_id": "weiter_adj",
+    "audio": "adjektiv_weiter.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "wert_adj": {
+    "word": "wert",
+    "_id": "wert_adj",
+    "audio": "adjektiv_wert.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "wertlos_adj": {
+    "word": "wertlos",
+    "_id": "wertlos_adj",
+    "audio": "adjektiv_wertlos.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "wertvoll_adj": {
+    "word": "wertvoll",
+    "_id": "wertvoll_adj",
+    "audio": "adjektiv_wertvoll.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "wichtig_adj": {
+    "word": "wichtig",
+    "_id": "wichtig_adj",
+    "audio": "adjektiv_wichtig.mp3"
+  },
+  "wild_adj": {
+    "word": "wild",
+    "_id": "wild_adj",
+    "audio": "adjektiv_wild.mp3"
+  },
+  "windig_adj": {
+    "word": "windig",
+    "_id": "windig_adj",
+    "audio": "adjektiv_windig.mp3"
+  },
+  "wirklich_adj": {
+    "word": "wirklich",
+    "_id": "wirklich_adj",
+    "audio": "adjektiv_wirklich.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "witzig_adj": {
+    "word": "witzig",
+    "_id": "witzig_adj",
+    "audio": "adjektiv_witzig.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "wuetend_adj": {
+    "word": "wütend",
+    "_id": "wuetend_adj",
+    "audio": "adjektiv_wuetend.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "zahlreich_adj": {
+    "word": "zahlreich",
+    "_id": "zahlreich_adj",
+    "audio": "adjektiv_zahlreich.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "zahm_adj": {
+    "word": "zahm",
+    "_id": "zahm_adj",
+    "audio": "adjektiv_zahm.mp3"
+  },
+  "zentral_adj": {
+    "word": "zentral",
+    "_id": "zentral_adj",
+    "audio": "adjektiv_zentral.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "zufrieden_adj": {
+    "word": "zufrieden",
+    "_id": "zufrieden_adj",
+    "audio": "adjektiv_zufrieden.mp3"
+  },
+  "zugaenglich_adj": {
+    "word": "zugänglich",
+    "_id": "zugaenglich_adj",
+    "audio": "adjektiv_zugaenglich.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "zukuenftig_adj": {
+    "word": "zukünftig",
+    "_id": "zukuenftig_adj",
+    "audio": "adjektiv_zukuenftig.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "zusaetzlich_adj": {
+    "word": "zusätzlich",
+    "_id": "zusaetzlich_adj",
+    "audio": "adjektiv_zusaetzlich.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "zustaendig_adj": {
+    "word": "zuständig",
+    "_id": "zustaendig_adj",
+    "audio": "adjektiv_zustaendig.mp3",
+    "comparison": {},
+    "declension": {}
+  },
+  "zuverlaessig_adj": {
+    "word": "zuverlässig",
+    "_id": "zuverlaessig_adj",
+    "audio": "adjektiv_zuverlaessig.mp3",
+    "comparison": {},
+    "declension": {}
   }
 }
