@@ -44,9 +44,44 @@
         },
         "declension": {
           "$ref": "#/$defs/declension"
+        },
+        "undeclinable": {
+          "type": "boolean"
+        },
+        "nicht_komparierbar": {
+          "type": "boolean"
         }
       },
-      "required": []
+      "required": [],
+      "allOf": [
+        {
+          "if": {
+            "properties": { "undeclinable": { "const": true } },
+            "required": ["undeclinable"]
+          },
+          "then": {
+            "properties": { "declension": false }
+          }
+        },
+        {
+          "if": {
+            "properties": { "nicht_komparierbar": { "const": true } },
+            "required": ["nicht_komparierbar"]
+          },
+          "then": {
+            "properties": {
+              "comparison": false,
+              "declension": {
+                "type": "object",
+                "properties": {
+                  "komparativ": false,
+                  "superlativ": false
+                }
+              }
+            }
+          }
+        }
+      ]
     },
     "comparison": {
       "type": "object",
