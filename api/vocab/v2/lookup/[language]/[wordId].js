@@ -248,6 +248,10 @@ export default async function handler(req, res) {
     if (entry.cases?.dativ) grammarFeatures.push('grammar_dative');
     if (entry.comparison?.komparativ) grammarFeatures.push('grammar_comparative');
     if (entry.comparison?.superlativ) grammarFeatures.push('grammar_superlative');
+    // Adjective declension — positiv key is unique to adjective declension blocks
+    if (entry.declension?.positiv) {
+      grammarFeatures.push('grammar_adjective_declension');
+    }
     // Check explanation text for case references (contractions, prepositions)
     const explanationText = (translationEntry?.explanation?._description || '').toLowerCase();
     if (explanationText.includes('dativ') && !grammarFeatures.includes('grammar_dative')) {
