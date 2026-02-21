@@ -112,7 +112,9 @@ Plans:
 **Success Criteria** (what must be TRUE):
   1. Every new adjective entry has a corresponding Norwegian (nb) translation entry in `vocabulary/translations/de-nb/adjectivebank.json`
   2. Every new adjective entry has a corresponding English (en) translation entry in `vocabulary/translations/de-en/adjectivebank.json`
-**Plans**: TBD
+**Plans**: 1 plan
+Plans:
+- [ ] 09-01-PLAN.md — Generate rich nb and en translations for all 365 adjectives, upgrade existing simple entries, clean up slashes, update manifests, produce verification report
 
 ### Phase 10: Integration
 **Goal**: The complete adjective dataset is discoverable via search and exposed through the v2 API with declension data and grammar feature tagging
@@ -140,5 +142,5 @@ Phases 4 and 5 can begin in parallel after Phase 3. Phases 8 and 9 can run in pa
 | 6. New Entry Stubs | v1.1 | 0/1 | Not started | - |
 | 7. Comparison Data | 1/1 | Complete    | 2026-02-21 | - |
 | 8. Declension Tables | v1.1 | 1/1 | Complete | 2026-02-21 |
-| 9. Translations | v1.1 | 0/TBD | Not started | - |
+| 9. Translations | v1.1 | 0/1 | Not started | - |
 | 10. Integration | v1.1 | 0/TBD | Not started | - |
