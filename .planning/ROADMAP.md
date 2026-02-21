@@ -101,7 +101,9 @@ Plans:
   2. Every comparable adjective in the core bank has `declension.komparativ` and `declension.superlativ` blocks (superlativ uses schwach only, as grammatically correct)
   3. Irregular stems (hoch→hoh-, dunkel→dunkl-, teuer→teur-) produce correct declined forms — spot-check confirms "hohem" appears and "hochem" does not
   4. All declension data is present in both `vocabulary/core/de/adjectivebank.json` and `vocabulary/dictionary/de/adjectivebank.json`
-**Plans**: TBD
+**Plans**: 1 plan
+Plans:
+- [ ] 08-01-PLAN.md — Generate declension tables for all 360 declinable adjectives (positiv/komparativ/superlativ), verify irregular stems, produce review report
 
 ### Phase 9: Translations
 **Goal**: Norwegian and English translations exist for every newly extracted adjective so Leksihjelp can display them
@@ -137,6 +139,6 @@ Phases 4 and 5 can begin in parallel after Phase 3. Phases 8 and 9 can run in pa
 | 5. Schema Extension | 1/1 | Complete   | 2026-02-21 | - |
 | 6. New Entry Stubs | v1.1 | 0/1 | Not started | - |
 | 7. Comparison Data | 1/1 | Complete    | 2026-02-21 | - |
-| 8. Declension Tables | v1.1 | 0/TBD | Not started | - |
+| 8. Declension Tables | v1.1 | 0/1 | Not started | - |
 | 9. Translations | v1.1 | 0/TBD | Not started | - |
 | 10. Integration | v1.1 | 0/TBD | Not started | - |
