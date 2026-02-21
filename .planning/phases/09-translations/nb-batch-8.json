@@ -1,0 +1,357 @@
+{
+  "staedtisch_adj": {
+    "translation": "urban",
+    "explanation": { "_description": "Betyr \"urban\" eller \"bymessig\" — knyttet til by og byliv." },
+    "synonyms": ["bymessig", "urbant", "metropolitan"],
+    "examples": [
+      { "sentence": "Das ist ein städtisches Gebiet.", "translation": "Det er et urbant område." },
+      { "sentence": "Städtischer Verkehr.", "translation": "Urban trafikk." }
+    ]
+  },
+  "staendig_adj": {
+    "translation": "stadig",
+    "explanation": { "_description": "Betyr \"stadig\" eller \"konstant\" — uten avbrudd, hele tiden." },
+    "synonyms": ["konstant", "kontinuerlig", "vedvarende"],
+    "examples": [
+      { "sentence": "Er arbeitet ständig.", "translation": "Han jobber stadig." },
+      { "sentence": "Das ist ständig ein Problem.", "translation": "Det er stadig et problem." }
+    ]
+  },
+  "stark_adj": {
+    "translation": "sterk",
+    "explanation": { "_description": "Betyr \"sterk\" — med stor kraft. Komparativ: stärker." },
+    "synonyms": ["kraftig", "robust", "mektig"],
+    "examples": [
+      { "sentence": "Er ist sehr stark.", "translation": "Han er veldig sterk." },
+      { "sentence": "Ein starker Wind.", "translation": "En sterk vind." }
+    ]
+  },
+  "statistisch_adj": {
+    "translation": "statistisk",
+    "explanation": { "_description": "Betyr \"statistisk\" — knyttet til statistikk og tall." },
+    "synonyms": ["tallmessig", "kvantitativ"],
+    "examples": [
+      { "sentence": "Das ist statistisch gesehen normal.", "translation": "Det er statistisk sett normalt." },
+      { "sentence": "Statistische Daten.", "translation": "Statistiske data." }
+    ]
+  },
+  "steil_adj": {
+    "translation": "bratt",
+    "explanation": { "_description": "Betyr \"bratt\" — med stor helning." },
+    "synonyms": ["brattlent", "vertikal"],
+    "examples": [
+      { "sentence": "Der Berg ist steil.", "translation": "Fjellet er bratt." },
+      { "sentence": "Eine steile Treppe.", "translation": "En bratt trapp." }
+    ]
+  },
+  "stilistisch_adj": {
+    "translation": "stilistisk",
+    "explanation": { "_description": "Betyr \"stilistisk\" — knyttet til stil og estetikk." },
+    "synonyms": ["estetisk", "stifull"],
+    "examples": [
+      { "sentence": "Stilistische Unterschiede.", "translation": "Stilistiske forskjeller." },
+      { "sentence": "Das ist eine stilistische Wahl.", "translation": "Det er et stilistisk valg." }
+    ]
+  },
+  "still_adj": {
+    "translation": "stille",
+    "explanation": { "_description": "Betyr \"stille\" — ingen lyd, ro. Kan også bety \"rolig\" om person." },
+    "synonyms": ["taus", "rolig", "lydløs"],
+    "examples": [
+      { "sentence": "Es ist still.", "translation": "Det er stille." },
+      { "sentence": "Sei still!", "translation": "Vær stille!" }
+    ]
+  },
+  "stolz_adj": {
+    "translation": "stolt",
+    "explanation": { "_description": "Betyr \"stolt\" — tilfreds med egne prestasjoner eller andres." },
+    "synonyms": ["hovmodig", "fornøyd med seg selv", "tilfreds"],
+    "examples": [
+      { "sentence": "Ich bin stolz auf dich.", "translation": "Jeg er stolt av deg." },
+      { "sentence": "Er ist stolz auf seine Arbeit.", "translation": "Han er stolt av arbeidet sitt." }
+    ]
+  },
+  "strafbar_adj": {
+    "translation": "straffbart",
+    "explanation": { "_description": "Betyr \"straffbart\" — kan straffes av loven." },
+    "synonyms": ["ulovlig", "kriminelt", "lovstridig"],
+    "examples": [
+      { "sentence": "Das ist strafbar.", "translation": "Det er straffbart." },
+      { "sentence": "Strafbare Handlungen.", "translation": "Straffbare handlinger." }
+    ]
+  },
+  "streng_adj": {
+    "translation": "streng",
+    "explanation": { "_description": "Betyr \"streng\" — krever nøye etterlevelse av regler." },
+    "synonyms": ["hard", "alvorlig", "krevende"],
+    "examples": [
+      { "sentence": "Der Lehrer ist streng.", "translation": "Læreren er streng." },
+      { "sentence": "Strenge Regeln.", "translation": "Strenge regler." }
+    ]
+  },
+  "stressig_adj": {
+    "translation": "stressende",
+    "explanation": { "_description": "Betyr \"stressende\" — skaper stress." },
+    "synonyms": ["krevende", "anstrengende", "slitsom"],
+    "examples": [
+      { "sentence": "Die Arbeit ist stressig.", "translation": "Arbeidet er stressende." },
+      { "sentence": "Ein stressiger Tag.", "translation": "En stressende dag." }
+    ]
+  },
+  "stumm_adj": {
+    "translation": "stum",
+    "explanation": { "_description": "Betyr \"stum\" — ikke i stand til å snakke, taus." },
+    "synonyms": ["taus", "mållaus", "lydløs"],
+    "examples": [
+      { "sentence": "Er ist stumm.", "translation": "Han er stum." },
+      { "sentence": "Ein stummer Film.", "translation": "En stum film." }
+    ]
+  },
+  "suess_adj": {
+    "translation": "søt",
+    "explanation": { "_description": "Betyr \"søt\" — søt smak eller søt av utseende." },
+    "synonyms": ["søtelig", "nusselig", "bedårende"],
+    "examples": [
+      { "sentence": "Die Katze ist süß!", "translation": "Katten er søt!" },
+      { "sentence": "Das Baby ist so süß.", "translation": "Babyen er så søt." },
+      { "sentence": "Das Dessert ist süß.", "translation": "Desserten er søt." }
+    ]
+  },
+  "super_adj": {
+    "translation": "super",
+    "explanation": { "_description": "Betyr \"super\" — veldig bra, utmerket. Uformelt og entusiastisk." },
+    "synonyms": ["fantastisk", "kjempebra", "topp"],
+    "examples": [
+      { "sentence": "Das ist super!", "translation": "Det er super!" },
+      { "sentence": "Du bist super.", "translation": "Du er super." }
+    ]
+  },
+  "sympathisch_adj": {
+    "translation": "sympatisk",
+    "explanation": { "_description": "Betyr \"sympatisk\" — hyggelig og likandes." },
+    "synonyms": ["likandes", "tiltalende", "behagelig"],
+    "examples": [
+      { "sentence": "Er ist sehr sympathisch.", "translation": "Han er veldig sympatisk." },
+      { "sentence": "Sie macht einen sympathischen Eindruck.", "translation": "Hun gjør et sympatisk inntrykk." }
+    ]
+  },
+  "taub_adj": {
+    "translation": "døv",
+    "explanation": { "_description": "Betyr \"døv\" — ikke i stand til å høre. Kan også bety følelsesløs (om lemmer)." },
+    "synonyms": ["hørselshemmet", "uten hørsel"],
+    "examples": [
+      { "sentence": "Er ist taub.", "translation": "Han er døv." },
+      { "sentence": "Meine Hand ist taub.", "translation": "Hånden min er uten følelse." }
+    ]
+  },
+  "teuer_adj": {
+    "translation": "dyr",
+    "explanation": { "_description": "Betyr \"dyr\" — høy pris." },
+    "synonyms": ["kostbar", "prishopp", "luksuriøs"],
+    "examples": [
+      { "sentence": "Das ist zu teuer.", "translation": "Det er for dyrt." },
+      { "sentence": "Der Ring ist teuer.", "translation": "Ringen er dyr." }
+    ]
+  },
+  "theoretisch_adj": {
+    "translation": "teoretisk",
+    "explanation": { "_description": "Betyr \"teoretisk\" — basert på teori, ikke praksis." },
+    "synonyms": ["abstrakt", "spekulativ", "akademisk"],
+    "examples": [
+      { "sentence": "Das ist rein theoretisch.", "translation": "Det er rent teoretisk." },
+      { "sentence": "Theoretisch ist das möglich.", "translation": "Teoretisk sett er det mulig." }
+    ]
+  },
+  "tief_adj": {
+    "translation": "dyp",
+    "explanation": { "_description": "Betyr \"dyp\" — stor dybde. Kan også bety lav (om stemme eller pris)." },
+    "synonyms": ["dyptgripende", "abyssal"],
+    "examples": [
+      { "sentence": "Das Wasser ist tief.", "translation": "Vannet er dypt." },
+      { "sentence": "Er hat eine tiefe Stimme.", "translation": "Han har en dyp/lav stemme." }
+    ],
+    "alternativeMeanings": [
+      { "meaning": "lav", "context": "om stemme, tone eller pris" }
+    ]
+  },
+  "toedlich_adj": {
+    "translation": "dødelig",
+    "explanation": { "_description": "Betyr \"dødelig\" — fører til død." },
+    "synonyms": ["fatal", "livstruende"],
+    "examples": [
+      { "sentence": "Das ist tödlich.", "translation": "Det er dødelig." },
+      { "sentence": "Eine tödliche Krankheit.", "translation": "En dødelig sykdom." }
+    ]
+  },
+  "tolerant_adj": {
+    "translation": "tolerant",
+    "explanation": { "_description": "Betyr \"tolerant\" — aksepterer andres meninger og levemåter." },
+    "synonyms": ["åpen", "aksepterende", "romslig"],
+    "examples": [
+      { "sentence": "Sei tolerant!", "translation": "Vær tolerant!" },
+      { "sentence": "Eine tolerante Gesellschaft.", "translation": "Et tolerant samfunn." }
+    ]
+  },
+  "toll_adj": {
+    "translation": "flott",
+    "explanation": { "_description": "Betyr \"flott\" eller \"kjempebra\" — positivt utrop. Uformelt og entusiastisk." },
+    "synonyms": ["kjempebra", "fantastisk", "super"],
+    "examples": [
+      { "sentence": "Das ist toll!", "translation": "Det er flott!" },
+      { "sentence": "Die Party war toll.", "translation": "Festen var fantastisk." },
+      { "sentence": "Du bist toll!", "translation": "Du er fantastisk!" }
+    ]
+  },
+  "tot_adj": {
+    "translation": "død",
+    "explanation": { "_description": "Betyr \"død\" — uten liv." },
+    "synonyms": ["livløs", "avdød", "omkommet"],
+    "examples": [
+      { "sentence": "Der Fisch ist tot.", "translation": "Fisken er død." },
+      { "sentence": "Die Pflanze ist tot.", "translation": "Planten er død." }
+    ]
+  },
+  "total_adj": {
+    "translation": "total",
+    "explanation": { "_description": "Betyr \"total\" — fullstendig, komplett. Brukes som forsterker." },
+    "synonyms": ["fullstendig", "komplett", "absolutt"],
+    "examples": [
+      { "sentence": "Das ist ein totales Chaos.", "translation": "Det er et fullstendig kaos." },
+      { "sentence": "Das ist total falsch.", "translation": "Det er totalt feil." }
+    ]
+  },
+  "traditionell_adj": {
+    "translation": "tradisjonell",
+    "explanation": { "_description": "Betyr \"tradisjonell\" — i samsvar med tradisjon og skikk." },
+    "synonyms": ["gammeldags", "klassisk", "historisk"],
+    "examples": [
+      { "sentence": "Ein traditionelles Fest.", "translation": "Et tradisjonelt fest." },
+      { "sentence": "Traditionelle Werte.", "translation": "Tradisjonelle verdier." }
+    ]
+  },
+  "traurig_adj": {
+    "translation": "trist",
+    "explanation": { "_description": "Betyr \"trist\" — ulykkelig og nedstemt." },
+    "synonyms": ["lei seg", "nedtrykt", "ulykkelig"],
+    "examples": [
+      { "sentence": "Warum bist du traurig?", "translation": "Hvorfor er du lei deg?" },
+      { "sentence": "Das ist eine traurige Geschichte.", "translation": "Det er en trist historie." },
+      { "sentence": "Ich bin traurig.", "translation": "Jeg er lei meg." }
+    ]
+  },
+  "treu_adj": {
+    "translation": "lojal",
+    "explanation": { "_description": "Betyr \"lojal\" eller \"trofast\" — pålitelig og trofastet." },
+    "synonyms": ["trofast", "pålitelig", "hengiven"],
+    "examples": [
+      { "sentence": "Er ist treu.", "translation": "Han er lojal/trofast." },
+      { "sentence": "Ein treuer Freund.", "translation": "En lojal venn." }
+    ]
+  },
+  "trocken_adj": {
+    "translation": "tørr",
+    "explanation": { "_description": "Betyr \"tørr\" — uten fuktighet. I overført betydning kan det bety noe kjedelig eller uinspirerende." },
+    "synonyms": ["uttørket", "turr"],
+    "examples": [
+      { "sentence": "Das Handtuch ist trocken.", "translation": "Håndkleet er tørt." },
+      { "sentence": "Es ist heute sehr trocken.", "translation": "Det er veldig tørt i dag." },
+      { "sentence": "Er hat einen trockenen Humor.", "translation": "Han har en tørr humor." }
+    ],
+    "alternativeMeanings": [
+      { "meaning": "kjedelig", "context": "overført: om noe uinspirerende eller kjedelig" }
+    ]
+  },
+  "typisch_adj": {
+    "translation": "typisk",
+    "explanation": { "_description": "Betyr \"typisk\" — representativt for en type eller gruppe." },
+    "synonyms": ["karakteristisk", "normal", "vanlig"],
+    "examples": [
+      { "sentence": "Das ist typisch deutsch.", "translation": "Det er typisk tysk." },
+      { "sentence": "Ein typisches Beispiel.", "translation": "Et typisk eksempel." }
+    ]
+  },
+  "ueberrascht_adj": {
+    "translation": "overrasket",
+    "explanation": { "_description": "Betyr \"overrasket\" — uventet reaksjon." },
+    "synonyms": ["forundret", "forbauset", "sjokkert"],
+    "examples": [
+      { "sentence": "Ich bin überrascht.", "translation": "Jeg er overrasket." },
+      { "sentence": "Sie ist überrascht.", "translation": "Hun er overrasket." }
+    ]
+  },
+  "ueblich_adj": {
+    "translation": "vanlig",
+    "explanation": { "_description": "Betyr \"vanlig\" — alminnelig, slik det pleier å være." },
+    "synonyms": ["normal", "ordinær", "standard"],
+    "examples": [
+      { "sentence": "Das ist üblich.", "translation": "Det er vanlig." },
+      { "sentence": "Wie üblich.", "translation": "Som vanlig." }
+    ]
+  },
+  "uebrig_adj": {
+    "translation": "overskytende",
+    "explanation": { "_description": "Betyr \"overskytende\" eller \"til overs\" — det som er igjen etter bruk." },
+    "synonyms": ["til overs", "resterende", "gjenværende"],
+    "examples": [
+      { "sentence": "Was ist übrig?", "translation": "Hva er til overs?" },
+      { "sentence": "Das Übrige.", "translation": "Det som er igjen." }
+    ]
+  },
+  "ungeduldig_adj": {
+    "translation": "utålmodig",
+    "explanation": { "_description": "Betyr \"utålmodig\" — kan ikke vente, rastløs." },
+    "synonyms": ["rastløs", "urolig", "hastig"],
+    "examples": [
+      { "sentence": "Sei nicht ungeduldig!", "translation": "Ikke vær utålmodig!" },
+      { "sentence": "Er ist ungeduldig.", "translation": "Han er utålmodig." }
+    ]
+  },
+  "ungewoehnlich_adj": {
+    "translation": "uvanlig",
+    "explanation": { "_description": "Betyr \"uvanlig\" — ikke som forventet, avvikende fra normen." },
+    "synonyms": ["sjelden", "eksepsjonell", "atypisk"],
+    "examples": [
+      { "sentence": "Das ist ungewöhnlich.", "translation": "Det er uvanlig." },
+      { "sentence": "Ein ungewöhnlicher Name.", "translation": "Et uvanlig navn." }
+    ]
+  },
+  "unglaublich_adj": {
+    "translation": "utrolig",
+    "explanation": { "_description": "Betyr \"utrolig\" — vanskelig å tro, eller brukes som forsterker." },
+    "synonyms": ["fantastisk", "oppsiktsvekkende", "sjokkerende"],
+    "examples": [
+      { "sentence": "Das ist unglaublich!", "translation": "Det er utrolig!" },
+      { "sentence": "Sie ist unglaublich talentiert.", "translation": "Hun er utrolig talentfull." }
+    ]
+  },
+  "unheimlich_adj": {
+    "translation": "uhyggelig",
+    "explanation": { "_description": "Betyr \"uhyggelig\" — skremmende og ubehagelig. Brukes også som forsterker: \"unheimlich gut\" = utrolig bra." },
+    "synonyms": ["skremmende", "makaber", "grøssende"],
+    "examples": [
+      { "sentence": "Das ist unheimlich.", "translation": "Det er uhyggelig." },
+      { "sentence": "Er ist unheimlich gut.", "translation": "Han er utrolig god." }
+    ],
+    "alternativeMeanings": [
+      { "meaning": "utrolig/veldig", "context": "forsterker i uformelt talespråk" }
+    ]
+  },
+  "unterschiedlich_adj": {
+    "translation": "forskjellig",
+    "explanation": { "_description": "Betyr \"forskjellig\" — ikke like, varierende." },
+    "synonyms": ["ulik", "varierende", "mangfoldig"],
+    "examples": [
+      { "sentence": "Die Meinungen sind unterschiedlich.", "translation": "Meningene er forskjellige." },
+      { "sentence": "Unterschiedliche Kulturen.", "translation": "Forskjellige kulturer." }
+    ]
+  },
+  "urspruenglich_adj": {
+    "translation": "opprinnelig",
+    "explanation": { "_description": "Betyr \"opprinnelig\" — slik det var i starten." },
+    "synonyms": ["original", "første", "innledende"],
+    "examples": [
+      { "sentence": "Der ursprüngliche Plan.", "translation": "Den opprinnelige planen." },
+      { "sentence": "Das war ursprünglich anders.", "translation": "Det var opprinnelig annerledes." }
+    ]
+  }
+}

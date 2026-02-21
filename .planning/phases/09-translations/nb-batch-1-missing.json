@@ -1,0 +1,424 @@
+{
+  "abhaengig_adj": {
+    "translation": "avhengig",
+    "explanation": { "_description": "Betyr \"avhengig\" eller \"avhengig av noe\". Brukes om person, stoff eller situasjon som er betinget av noe annet." },
+    "synonyms": ["betinget", "knyttet til"],
+    "examples": [
+      { "sentence": "Er ist von Kaffee abhängig.", "translation": "Han er avhengig av kaffe." },
+      { "sentence": "Das Ergebnis ist vom Wetter abhängig.", "translation": "Resultatet er avhengig av været." }
+    ]
+  },
+  "absolut_adj": {
+    "translation": "absolutt",
+    "explanation": { "_description": "Betyr \"absolutt\" eller \"fullstendig\". Brukes som forsterker eller om noe uten unntak." },
+    "synonyms": ["fullstendig", "total", "ubetinget"],
+    "examples": [
+      { "sentence": "Das ist absolut richtig.", "translation": "Det er absolutt riktig." },
+      { "sentence": "Ich habe absolutes Vertrauen in sie.", "translation": "Jeg har absolutt tillit til henne." }
+    ]
+  },
+  "abwesend_adj": {
+    "translation": "fraværende",
+    "explanation": { "_description": "Betyr \"fraværende\" — ikke til stede. Opprinnelig et partisipp, men brukes som adjektiv." },
+    "synonyms": ["ikke til stede", "borte"],
+    "examples": [
+      { "sentence": "Sie ist heute abwesend.", "translation": "Hun er fraværende i dag." },
+      { "sentence": "Warum ist er abwesend?", "translation": "Hvorfor er han fraværende?" }
+    ]
+  },
+  "aehnlich_adj": {
+    "translation": "lignende",
+    "explanation": { "_description": "Betyr \"lignende\" eller \"lik\". Brukes om ting som ligner hverandre men ikke er identiske." },
+    "synonyms": ["lik", "tilsvarende", "beslektet"],
+    "examples": [
+      { "sentence": "Diese Farben sind ähnlich.", "translation": "Disse fargene er lignende." },
+      { "sentence": "Er sieht seinem Vater ähnlich.", "translation": "Han ligner faren sin." }
+    ]
+  },
+  "aengstlich_adj": {
+    "translation": "engstelig",
+    "explanation": { "_description": "Betyr \"engstelig\" eller \"redd\". Beskriver en person som lett bekymrer seg eller er redd." },
+    "synonyms": ["redd", "nervøs", "bekymret"],
+    "examples": [
+      { "sentence": "Das Kind ist ängstlich.", "translation": "Barnet er engstelig." },
+      { "sentence": "Sie ist ängstlich vor der Prüfung.", "translation": "Hun er engstelig før eksamen." }
+    ]
+  },
+  "aergerlich_adj": {
+    "translation": "irriterende",
+    "explanation": { "_description": "Betyr \"irriterende\" (om situasjon) eller \"irritert\" (om person). Konteksten avgjør hvilken betydning." },
+    "synonyms": ["ergerlig", "plagsom"],
+    "examples": [
+      { "sentence": "Das ist wirklich ärgerlich.", "translation": "Det er virkelig irriterende." },
+      { "sentence": "Er ist ärgerlich auf mich.", "translation": "Han er irritert på meg." }
+    ],
+    "alternativeMeanings": [
+      { "meaning": "irritert", "context": "om person som er sint eller ergerlig" }
+    ]
+  },
+  "aeusserlich_adj": {
+    "translation": "ytre",
+    "explanation": { "_description": "Betyr \"ytre\" eller \"utvendig\". Brukes om det som er synlig utenpå, i motsetning til det indre." },
+    "synonyms": ["utvendig", "overfladisk", "synlig"],
+    "examples": [
+      { "sentence": "Das ist nur äußerlich.", "translation": "Det er bare ytre." },
+      { "sentence": "Die äußerlichen Merkmale sind wichtig.", "translation": "De ytre kjennetegnene er viktige." }
+    ]
+  },
+  "aktiv_adj": {
+    "translation": "aktiv",
+    "explanation": { "_description": "Betyr \"aktiv\" — i bevegelse, engasjert eller virksom." },
+    "synonyms": ["energisk", "dynamisk", "engasjert"],
+    "examples": [
+      { "sentence": "Sie ist sehr aktiv.", "translation": "Hun er veldig aktiv." },
+      { "sentence": "Bleib aktiv!", "translation": "Vær aktiv!" }
+    ]
+  },
+  "aktuell_adj": {
+    "translation": "aktuell",
+    "explanation": { "_description": "Betyr \"aktuell\" i betydningen \"nåværende\" eller \"dagsaktuell\". NB: Tysk \"aktuell\" betyr først og fremst \"i dag relevant/nåværende\", mens norsk \"aktuell\" kan bety \"relevant\" mer generelt — en subtil forskjell." },
+    "synonyms": ["nåværende", "dagsaktuell", "tidsaktuell"],
+    "examples": [
+      { "sentence": "Das ist ein aktuelles Thema.", "translation": "Det er et aktuelt tema." },
+      { "sentence": "Was sind die aktuellen Nachrichten?", "translation": "Hva er de aktuelle nyhetene?" }
+    ]
+  },
+  "allgemein_adj": {
+    "translation": "generell",
+    "explanation": { "_description": "Betyr \"generell\" eller \"allmenn\". Brukes om noe som gjelder alle eller i sin alminnelighet." },
+    "synonyms": ["alminnelig", "felles", "bred"],
+    "examples": [
+      { "sentence": "Das ist eine allgemeine Regel.", "translation": "Det er en generell regel." },
+      { "sentence": "Im Allgemeinen bin ich zufrieden.", "translation": "Generelt sett er jeg fornøyd." }
+    ]
+  },
+  "alt_adj": {
+    "translation": "gammel",
+    "explanation": { "_description": "Betyr \"gammel\". Får umlaut i komparativ: alt → älter → am ältesten." },
+    "synonyms": ["eldre", "eldgammel"],
+    "examples": [
+      { "sentence": "Wie alt bist du?", "translation": "Hvor gammel er du?" },
+      { "sentence": "Ich bin 16 Jahre alt.", "translation": "Jeg er 16 år gammel." },
+      { "sentence": "Das Haus ist alt.", "translation": "Huset er gammelt." }
+    ]
+  },
+  "alternativ_adj": {
+    "translation": "alternativ",
+    "explanation": { "_description": "Betyr \"alternativ\" — et annet valg eller en annen løsning." },
+    "synonyms": ["annerledes", "valgfri"],
+    "examples": [
+      { "sentence": "Gibt es eine alternative Lösung?", "translation": "Finnes det en alternativ løsning?" },
+      { "sentence": "Wir brauchen einen alternativen Plan.", "translation": "Vi trenger en alternativ plan." }
+    ]
+  },
+  "angenehm_adj": {
+    "translation": "behagelig",
+    "explanation": { "_description": "Betyr \"behagelig\" eller \"hyggelig\". Brukes om noe som er godt å oppleve." },
+    "synonyms": ["hyggelig", "trivelig", "komfortabel"],
+    "examples": [
+      { "sentence": "Das Wetter ist angenehm.", "translation": "Været er behagelig." },
+      { "sentence": "Es ist angenehm hier.", "translation": "Det er behagelig her." }
+    ]
+  },
+  "anstrengend_adj": {
+    "translation": "anstrengende",
+    "explanation": { "_description": "Betyr \"anstrengende\" — noe som krever mye energi eller innsats." },
+    "synonyms": ["slitsom", "krevende", "utmattende"],
+    "examples": [
+      { "sentence": "Die Arbeit ist anstrengend.", "translation": "Arbeidet er anstrengende." },
+      { "sentence": "Das war ein anstrengender Tag.", "translation": "Det var en anstrengende dag." }
+    ]
+  },
+  "anwesend_adj": {
+    "translation": "til stede",
+    "explanation": { "_description": "Betyr \"til stede\" — fysisk til stede på et sted. Motsatt av \"abwesend\"." },
+    "synonyms": ["present", "her"],
+    "examples": [
+      { "sentence": "Alle Schüler sind anwesend.", "translation": "Alle elevene er til stede." },
+      { "sentence": "Bist du anwesend?", "translation": "Er du til stede?" }
+    ]
+  },
+  "arbeitslos_adj": {
+    "translation": "arbeidsledig",
+    "explanation": { "_description": "Betyr \"arbeidsledig\" eller \"uten jobb\"." },
+    "synonyms": ["uten jobb", "ledig"],
+    "examples": [
+      { "sentence": "Er ist seit einem Jahr arbeitslos.", "translation": "Han har vært arbeidsledig i et år." },
+      { "sentence": "Die Arbeitslosenquote ist gestiegen.", "translation": "Arbeidsledighetsraten har økt." }
+    ]
+  },
+  "arm_adj": {
+    "translation": "fattig",
+    "explanation": { "_description": "Betyr \"fattig\" (uten penger). NB: FALSK VEN — norsk \"arm\" betyr kroppsdel (arm). Tysk \"arm\" som adjektiv betyr utelukkende \"fattig/ubemidlet\"." },
+    "synonyms": ["ubemidlet", "pengelens"],
+    "examples": [
+      { "sentence": "Die Familie ist sehr arm.", "translation": "Familien er veldig fattig." },
+      { "sentence": "Er war arm, aber glücklich.", "translation": "Han var fattig, men lykkelig." }
+    ]
+  },
+  "aufgeregt_adj": {
+    "translation": "spent",
+    "explanation": { "_description": "Betyr primært \"spent\" (av forventning). Kan også bety \"opprørt\" i negativ forstand." },
+    "synonyms": ["nervøs", "begeistret"],
+    "examples": [
+      { "sentence": "Ich bin aufgeregt!", "translation": "Jeg er spent!" },
+      { "sentence": "Das Kind ist aufgeregt vor dem Urlaub.", "translation": "Barnet er spent før ferien." },
+      { "sentence": "Warum bist du so aufgeregt?", "translation": "Hvorfor er du så spent?" }
+    ],
+    "alternativeMeanings": [
+      { "meaning": "opprørt/opphisset", "context": "om person som er agitert eller urolig" }
+    ]
+  },
+  "aufmerksam_adj": {
+    "translation": "oppmerksom",
+    "explanation": { "_description": "Betyr \"oppmerksom\" — som følger med eller er hensynsfull." },
+    "synonyms": ["årvåken", "hensynsfull", "fokusert"],
+    "examples": [
+      { "sentence": "Sei aufmerksam!", "translation": "Vær oppmerksom!" },
+      { "sentence": "Er ist ein aufmerksamer Schüler.", "translation": "Han er en oppmerksom elev." }
+    ]
+  },
+  "auslaendisch_adj": {
+    "translation": "utenlandsk",
+    "explanation": { "_description": "Betyr \"utenlandsk\" — fra et annet land." },
+    "synonyms": ["fremmed", "internasjonal"],
+    "examples": [
+      { "sentence": "Er hat eine ausländische Freundin.", "translation": "Han har en utenlandsk kjæreste." },
+      { "sentence": "Ausländische Produkte sind oft billiger.", "translation": "Utenlandske produkter er ofte billigere." }
+    ]
+  },
+  "ausschliesslich_adj": {
+    "translation": "utelukkende",
+    "explanation": { "_description": "Betyr \"utelukkende\" eller \"eksklusiv\". Brukes om noe som kun gjelder én ting." },
+    "synonyms": ["eksklusiv", "bare", "kun"],
+    "examples": [
+      { "sentence": "Das ist ausschließlich für Mitglieder.", "translation": "Det er utelukkende for medlemmer." },
+      { "sentence": "Er isst ausschließlich vegetarisch.", "translation": "Han spiser utelukkende vegetarisk." }
+    ]
+  },
+  "automatisch_adj": {
+    "translation": "automatisk",
+    "explanation": { "_description": "Betyr \"automatisk\" — som skjer uten manuell inngripen." },
+    "synonyms": ["selvvirkende", "mekanisk"],
+    "examples": [
+      { "sentence": "Die Tür öffnet automatisch.", "translation": "Døren åpner automatisk." },
+      { "sentence": "Das ist ein automatischer Prozess.", "translation": "Det er en automatisk prosess." }
+    ]
+  },
+  "bekannt_adj": {
+    "translation": "kjent",
+    "explanation": { "_description": "Betyr \"kjent\" — velkjent eller berømt. Opprinnelig partisipp av \"bekennen\", men brukes som vanlig adjektiv." },
+    "synonyms": ["kjendis", "berømt", "velkjent"],
+    "examples": [
+      { "sentence": "Er ist ein bekannter Schauspieler.", "translation": "Han er en kjent skuespiller." },
+      { "sentence": "Das ist allgemein bekannt.", "translation": "Det er allment kjent." }
+    ]
+  },
+  "beliebt_adj": {
+    "translation": "populær",
+    "explanation": { "_description": "Betyr \"populær\" eller \"elsket av mange\". Opprinnelig partisipp, brukt som adjektiv." },
+    "synonyms": ["populær", "godt likt", "etterspurt"],
+    "examples": [
+      { "sentence": "Das ist ein beliebtes Restaurant.", "translation": "Det er en populær restaurant." },
+      { "sentence": "Sie ist bei allen beliebt.", "translation": "Hun er godt likt av alle." }
+    ]
+  },
+  "bequem_adj": {
+    "translation": "komfortabel",
+    "explanation": { "_description": "Betyr \"komfortabel\" — behagelig å bruke eller sitte i." },
+    "synonyms": ["behagelig", "praktisk", "god"],
+    "examples": [
+      { "sentence": "Der Stuhl ist sehr bequem.", "translation": "Stolen er veldig komfortabel." },
+      { "sentence": "Das Sofa ist bequem.", "translation": "Sofaen er komfortabel." }
+    ]
+  },
+  "bereit_adj": {
+    "translation": "klar",
+    "explanation": { "_description": "Betyr \"klar\" eller \"beredt\" — forberedt og klar til å gjøre noe." },
+    "synonyms": ["forberedt", "villig", "ferdig"],
+    "examples": [
+      { "sentence": "Ich bin bereit.", "translation": "Jeg er klar." },
+      { "sentence": "Bist du bereit?", "translation": "Er du klar?" },
+      { "sentence": "Sie ist bereit zu helfen.", "translation": "Hun er klar til å hjelpe." }
+    ]
+  },
+  "beruehmt_adj": {
+    "translation": "berømt",
+    "explanation": { "_description": "Betyr \"berømt\" — kjent av mange, fremragende." },
+    "synonyms": ["kjent", "fremstående", "legendarisk"],
+    "examples": [
+      { "sentence": "Er ist ein berühmter Musiker.", "translation": "Han er en berømt musiker." },
+      { "sentence": "Mozart ist weltweit berühmt.", "translation": "Mozart er verdensberømt." }
+    ]
+  },
+  "beruflich_adj": {
+    "translation": "yrkesmessig",
+    "explanation": { "_description": "Betyr \"yrkesmessig\" eller \"profesjonell\" — knyttet til yrke eller arbeid." },
+    "synonyms": ["profesjonell", "faglig", "jobbmessig"],
+    "examples": [
+      { "sentence": "Das ist eine berufliche Reise.", "translation": "Det er en yrkesmessig reise." },
+      { "sentence": "Beruflich geht es mir gut.", "translation": "Yrkesmessig har jeg det bra." }
+    ]
+  },
+  "berufstaetig_adj": {
+    "translation": "yrkesaktiv",
+    "explanation": { "_description": "Betyr \"yrkesaktiv\" — i arbeid, med jobb." },
+    "synonyms": ["i arbeid", "ansatt", "arbeidende"],
+    "examples": [
+      { "sentence": "Sie ist berufstätig.", "translation": "Hun er yrkesaktiv." },
+      { "sentence": "Berufstätige Mütter haben es schwer.", "translation": "Yrkesaktive mødre har det vanskelig." }
+    ]
+  },
+  "bestimmt_adj": {
+    "translation": "bestemt",
+    "explanation": { "_description": "Betyr \"bestemt\" — fast, tydelig, eller konkret." },
+    "synonyms": ["fast", "konkret", "klar"],
+    "examples": [
+      { "sentence": "Ich suche einen bestimmten Artikel.", "translation": "Jeg ser etter en bestemt artikkel." },
+      { "sentence": "Sie sprach in einem bestimmten Ton.", "translation": "Hun snakket i en bestemt tone." }
+    ],
+    "alternativeMeanings": [
+      { "meaning": "sikkert/garantert", "context": "som adverb: \"bestimmt\" = helt sikkert" }
+    ]
+  },
+  "bewoelkt_adj": {
+    "translation": "overskyet",
+    "explanation": { "_description": "Beskriver vær med skyer." },
+    "synonyms": ["skyet", "grå", "tåkete"],
+    "examples": [
+      { "sentence": "Der Himmel ist bewölkt.", "translation": "Himmelen er overskyet." },
+      { "sentence": "Es ist heute bewölkt.", "translation": "Det er overskyet i dag." }
+    ]
+  },
+  "billig_adj": {
+    "translation": "billig",
+    "explanation": { "_description": "Betyr \"billig\" — lav pris. Kan ha en negativ konnotasjon (dårlig kvalitet)." },
+    "synonyms": ["rimelig", "prisgunstig", "ikke dyr"],
+    "examples": [
+      { "sentence": "Das ist sehr billig.", "translation": "Det er veldig billig." },
+      { "sentence": "Ich kaufe immer billige Produkte.", "translation": "Jeg kjøper alltid billige produkter." }
+    ]
+  },
+  "bitter_adj": {
+    "translation": "bitter",
+    "explanation": { "_description": "Betyr \"bitter\" — om smak eller følelse." },
+    "synonyms": ["besk", "skarp"],
+    "examples": [
+      { "sentence": "Der Kaffee schmeckt bitter.", "translation": "Kaffen smaker bitter." },
+      { "sentence": "Er ist bitter enttäuscht.", "translation": "Han er bittert skuffet." }
+    ]
+  },
+  "blass_adj": {
+    "translation": "blek",
+    "explanation": { "_description": "Betyr \"blek\" — om hudfarge eller farger." },
+    "synonyms": ["hvitlig", "avblek", "lys"],
+    "examples": [
+      { "sentence": "Sie sieht blass aus.", "translation": "Hun ser blek ut." },
+      { "sentence": "Die Farbe ist blass.", "translation": "Fargen er blek." }
+    ]
+  },
+  "blau_adj": {
+    "translation": "blå",
+    "explanation": { "_description": "Betyr \"blå\". Regulær farge-adjektiv." },
+    "synonyms": ["azurblå", "marineblå"],
+    "examples": [
+      { "sentence": "Der Himmel ist blau.", "translation": "Himmelen er blå." },
+      { "sentence": "Ich habe blaue Augen.", "translation": "Jeg har blå øyne." },
+      { "sentence": "Blau ist meine Lieblingsfarbe.", "translation": "Blå er favorittfargen min." }
+    ]
+  },
+  "blind_adj": {
+    "translation": "blind",
+    "explanation": { "_description": "Betyr \"blind\" — uten syn. I overført betydning: uvitende." },
+    "synonyms": ["synshemmet", "seingssvak"],
+    "examples": [
+      { "sentence": "Er ist blind auf einem Auge.", "translation": "Han er blind på ett øye." },
+      { "sentence": "Sie ist blind vor Liebe.", "translation": "Hun er blind av kjærlighet." }
+    ],
+    "alternativeMeanings": [
+      { "meaning": "uvitende/naiv", "context": "overført: blind for egne feil eller situasjonen" }
+    ]
+  },
+  "bloed_adj": {
+    "translation": "dum",
+    "explanation": { "_description": "Betyr \"dum\" — uintelligent eller irriterende/meningsløst. Uformelt." },
+    "synonyms": ["teit", "idiotisk"],
+    "examples": [
+      { "sentence": "Das ist eine blöde Idee.", "translation": "Det er en dum idé." },
+      { "sentence": "Sei nicht so blöd!", "translation": "Ikke vær så dum!" }
+    ],
+    "alternativeMeanings": [
+      { "meaning": "irriterende", "context": "uformelt om noe ergerlig eller kjedelig" }
+    ]
+  },
+  "blond_adj": {
+    "translation": "blond",
+    "explanation": { "_description": "Betyr \"blond\" — lys hårfarge." },
+    "synonyms": ["lys", "lyshåret"],
+    "examples": [
+      { "sentence": "Sie hat blonde Haare.", "translation": "Hun har blondt hår." },
+      { "sentence": "Er ist blond.", "translation": "Han er blond." }
+    ]
+  },
+  "bloss_adj": {
+    "translation": "bare",
+    "explanation": { "_description": "Betyr \"bare\" (kun) eller \"naken/ubeskyttet\"." },
+    "synonyms": ["kun", "naken", "ubeskyttet"],
+    "examples": [
+      { "sentence": "Mit bloßen Händen.", "translation": "Med bare hender." },
+      { "sentence": "Das ist bloß eine Meinung.", "translation": "Det er bare en mening." }
+    ],
+    "alternativeMeanings": [
+      { "meaning": "naken/ubeskyttet", "context": "som adjektiv om hender eller kropp uten beskyttelse" }
+    ]
+  },
+  "boese_adj": {
+    "translation": "sint",
+    "explanation": { "_description": "Betyr primært \"sint\" (om person) eller \"slem/ond\" (om karakter)." },
+    "synonyms": ["rasende", "irritert", "harm"],
+    "examples": [
+      { "sentence": "Bist du böse auf mich?", "translation": "Er du sint på meg?" },
+      { "sentence": "Der böse Wolf.", "translation": "Den slemme ulven." },
+      { "sentence": "Sie ist böse.", "translation": "Hun er sint." }
+    ],
+    "alternativeMeanings": [
+      { "meaning": "slem/ond", "context": "om karakter eller oppførsel — moralsk negativ" }
+    ]
+  },
+  "braun_adj": {
+    "translation": "brun",
+    "explanation": { "_description": "Betyr \"brun\" — farge." },
+    "synonyms": ["kastanjebrun", "mørkbrun"],
+    "examples": [
+      { "sentence": "Er hat braune Augen.", "translation": "Han har brune øyne." },
+      { "sentence": "Das Brot ist braun.", "translation": "Brødet er brunt." }
+    ]
+  },
+  "brav_adj": {
+    "translation": "snill",
+    "explanation": { "_description": "Betyr \"snill\", \"lydig\" eller \"veldisiplinert\". NB: FALSK VEN — norsk \"brav\" betyr modig/tapper, mens tysk \"brav\" betyr veloppdratt/lydig." },
+    "synonyms": ["lydig", "artig", "veloppdratt"],
+    "examples": [
+      { "sentence": "Das Kind ist brav.", "translation": "Barnet er snilt." },
+      { "sentence": "Sei brav!", "translation": "Vær snill!" }
+    ]
+  },
+  "breit_adj": {
+    "translation": "bred",
+    "explanation": { "_description": "Betyr \"bred\" — stor utstrekning fra side til side." },
+    "synonyms": ["vid", "stor"],
+    "examples": [
+      { "sentence": "Die Straße ist breit.", "translation": "Gaten er bred." },
+      { "sentence": "Er hat breite Schultern.", "translation": "Han har brede skuldre." }
+    ]
+  },
+  "bunt_adj": {
+    "translation": "fargerik",
+    "explanation": { "_description": "Betyr \"fargerik\" eller \"broket\" — med mange farger." },
+    "synonyms": ["mangfarget", "broket", "flerfarget"],
+    "examples": [
+      { "sentence": "Die Blumen sind bunt.", "translation": "Blomstene er fargerike." },
+      { "sentence": "Sie trägt bunte Kleidung.", "translation": "Hun har på seg fargerike klær." }
+    ]
+  }
+}

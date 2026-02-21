@@ -1,0 +1,386 @@
+{
+  "salzig_adj": {
+    "translation": "salt",
+    "explanation": { "_description": "Betyr \"salt\" — smak av salt, eller mye salt." },
+    "synonyms": ["saltholdig", "salt i smaken"],
+    "examples": [
+      { "sentence": "Das Wasser ist salzig.", "translation": "Vannet er salt." },
+      { "sentence": "Die Suppe ist zu salzig.", "translation": "Suppen er for salt." }
+    ]
+  },
+  "satt_adj": {
+    "translation": "mett",
+    "explanation": { "_description": "Betyr \"mett\" — har spist nok, ikke lenger sulten." },
+    "synonyms": ["fornøyd med mat", "full"],
+    "examples": [
+      { "sentence": "Ich bin satt.", "translation": "Jeg er mett." },
+      { "sentence": "Bist du schon satt?", "translation": "Er du allerede mett?" }
+    ]
+  },
+  "sauber_adj": {
+    "translation": "ren",
+    "explanation": { "_description": "Betyr \"ren\" — fri for skitt, vasket og i orden." },
+    "synonyms": ["hygienisk", "velstelt", "flekkeøs"],
+    "examples": [
+      { "sentence": "Das Zimmer ist sauber.", "translation": "Rommet er rent." },
+      { "sentence": "Bitte halt es sauber!", "translation": "Hold det rent!" }
+    ]
+  },
+  "sauer_adj": {
+    "translation": "sur",
+    "explanation": { "_description": "Betyr \"sur\" — syrlig smak. I overført betydning: irritert/sur." },
+    "synonyms": ["syrlig", "skarp i smaken"],
+    "examples": [
+      { "sentence": "Die Zitrone ist sauer.", "translation": "Sitronen er sur." },
+      { "sentence": "Er ist sauer auf mich.", "translation": "Han er sur på meg." }
+    ],
+    "alternativeMeanings": [
+      { "meaning": "irritert/sint", "context": "overført: person som er sur/irritert" }
+    ]
+  },
+  "schade_adj": {
+    "translation": "synd",
+    "explanation": { "_description": "Betyr \"synd\" — beklagelig. Brukes i uttrykket \"Das ist schade!\" (det er synd!)." },
+    "synonyms": ["beklagelig", "leit"],
+    "examples": [
+      { "sentence": "Das ist schade!", "translation": "Det er synd!" },
+      { "sentence": "Wie schade.", "translation": "Så synd." }
+    ]
+  },
+  "schaedlich_adj": {
+    "translation": "skadelig",
+    "explanation": { "_description": "Betyr \"skadelig\" — kan forårsake skade." },
+    "synonyms": ["farlig", "giftig", "usunt"],
+    "examples": [
+      { "sentence": "Rauchen ist schädlich.", "translation": "Røyking er skadelig." },
+      { "sentence": "Schädliche Chemikalien.", "translation": "Skadelige kjemikalier." }
+    ]
+  },
+  "scharf_adj": {
+    "translation": "skarp",
+    "explanation": { "_description": "Betyr \"skarp\" — om knivsegger, kritikk, syn. Kan også bety sterk/krydret om mat." },
+    "synonyms": ["spiss", "hvass", "snarp"],
+    "examples": [
+      { "sentence": "Das Messer ist scharf.", "translation": "Kniven er skarp." },
+      { "sentence": "Er hat einen scharfen Blick.", "translation": "Han har et skarpt blikk." },
+      { "sentence": "Das Essen ist sehr scharf.", "translation": "Maten er veldig sterk/krydret." }
+    ],
+    "alternativeMeanings": [
+      { "meaning": "sterk/krydret", "context": "om mat med sterk smak, mye chili eller krydder" }
+    ]
+  },
+  "schief_adj": {
+    "translation": "skjev",
+    "explanation": { "_description": "Betyr \"skjev\" — ikke rett, i vinkel." },
+    "synonyms": ["på skrå", "ikke rett", "vinklet"],
+    "examples": [
+      { "sentence": "Das Bild hängt schief.", "translation": "Bildet henger skjevt." },
+      { "sentence": "Der Turm ist schief.", "translation": "Tårnet er skjevt." }
+    ]
+  },
+  "schlank_adj": {
+    "translation": "slank",
+    "explanation": { "_description": "Betyr \"slank\" — tynn og velvokst." },
+    "synonyms": ["smal", "tynn", "grasiøs"],
+    "examples": [
+      { "sentence": "Sie ist sehr schlank.", "translation": "Hun er veldig slank." },
+      { "sentence": "Er hat eine schlanke Figur.", "translation": "Han har en slank figur." }
+    ]
+  },
+  "schlau_adj": {
+    "translation": "smart",
+    "explanation": { "_description": "Betyr \"smart\" eller \"lur\" — klok på en praktisk og sluhet måte." },
+    "synonyms": ["lur", "klok", "oppvakt"],
+    "examples": [
+      { "sentence": "Das war schlau.", "translation": "Det var smart." },
+      { "sentence": "Sie ist sehr schlau.", "translation": "Hun er veldig smart." }
+    ]
+  },
+  "schlecht_adj": {
+    "translation": "dårlig",
+    "explanation": { "_description": "Betyr \"dårlig\" — av lav kvalitet eller negativ. Irregulær: schlecht → schlechter → am schlechtesten." },
+    "synonyms": ["elendig", "ikke bra", "svak"],
+    "examples": [
+      { "sentence": "Das Wetter ist schlecht.", "translation": "Været er dårlig." },
+      { "sentence": "Mir ist schlecht.", "translation": "Jeg er kvalm." }
+    ]
+  },
+  "schlimm_adj": {
+    "translation": "ille",
+    "explanation": { "_description": "Betyr \"ille\" eller \"alvorlig\" — en negativ situasjon." },
+    "synonyms": ["alvorlig", "galt", "ille"],
+    "examples": [
+      { "sentence": "Das ist nicht so schlimm.", "translation": "Det er ikke så ille." },
+      { "sentence": "Eine schlimme Situation.", "translation": "En alvorlig situasjon." }
+    ]
+  },
+  "schmal_adj": {
+    "translation": "smal",
+    "explanation": { "_description": "Betyr \"smal\" — liten bredde." },
+    "synonyms": ["trang", "slank", "liten"],
+    "examples": [
+      { "sentence": "Die Straße ist schmal.", "translation": "Gaten er smal." },
+      { "sentence": "Ein schmales Bett.", "translation": "En smal seng." }
+    ]
+  },
+  "schmutzig_adj": {
+    "translation": "skitten",
+    "explanation": { "_description": "Betyr \"skitten\" — dekket av smuss eller skitt." },
+    "synonyms": ["uren", "flekkete", "tilsølt"],
+    "examples": [
+      { "sentence": "Deine Hände sind schmutzig.", "translation": "Hendene dine er skitne." },
+      { "sentence": "Das Wasser ist schmutzig.", "translation": "Vannet er skittent." }
+    ]
+  },
+  "schnell_adj": {
+    "translation": "rask",
+    "explanation": { "_description": "Betyr \"rask\" — høy hastighet." },
+    "synonyms": ["fort", "hurtig", "lynrask"],
+    "examples": [
+      { "sentence": "Das Auto fährt schnell.", "translation": "Bilen kjører fort." },
+      { "sentence": "Schnell! Wir kommen zu spät!", "translation": "Fort! Vi kommer for sent!" },
+      { "sentence": "Er läuft sehr schnell.", "translation": "Han løper veldig fort." }
+    ]
+  },
+  "schoen_adj": {
+    "translation": "pen",
+    "explanation": { "_description": "Betyr \"pen\" eller \"vakker\" — estetisk behagelig." },
+    "synonyms": ["vakker", "fin", "flott"],
+    "examples": [
+      { "sentence": "Das Wetter ist schön.", "translation": "Været er fint." },
+      { "sentence": "Du siehst schön aus.", "translation": "Du ser pen ut." },
+      { "sentence": "Schönes Wochenende!", "translation": "God helg!" }
+    ]
+  },
+  "schrecklich_adj": {
+    "translation": "fryktelig",
+    "explanation": { "_description": "Betyr \"fryktelig\" — skremmende og svært ille." },
+    "synonyms": ["grusom", "forferdelig", "skrekkelig"],
+    "examples": [
+      { "sentence": "Das ist schrecklich!", "translation": "Det er fryktelig!" },
+      { "sentence": "Ein schrecklicher Unfall.", "translation": "En fryktelig ulykke." }
+    ]
+  },
+  "schriftlich_adj": {
+    "translation": "skriftlig",
+    "explanation": { "_description": "Betyr \"skriftlig\" — nedskrevet, ikke muntlig." },
+    "synonyms": ["nedskrevet", "dokumentert", "på papir"],
+    "examples": [
+      { "sentence": "Das ist eine schriftliche Prüfung.", "translation": "Det er en skriftlig eksamen." },
+      { "sentence": "Schriftliche Vereinbarungen.", "translation": "Skriftlige avtaler." }
+    ]
+  },
+  "schuechtern_adj": {
+    "translation": "sjenert",
+    "explanation": { "_description": "Betyr \"sjenert\" — reservert og tilbakeholden i sosiale situasjoner." },
+    "synonyms": ["tilbakeholden", "sky", "blyg"],
+    "examples": [
+      { "sentence": "Sie ist schüchtern.", "translation": "Hun er sjenert." },
+      { "sentence": "Er ist schüchtern mit Fremden.", "translation": "Han er sjenert med fremmede." }
+    ]
+  },
+  "schuldig_adj": {
+    "translation": "skyldig",
+    "explanation": { "_description": "Betyr \"skyldig\" — har gjort noe galt, eller skylder noe." },
+    "synonyms": ["ansvarlig", "straffskyldig"],
+    "examples": [
+      { "sentence": "Er ist schuldig.", "translation": "Han er skyldig." },
+      { "sentence": "Ich fühle mich schuldig.", "translation": "Jeg føler meg skyldig." }
+    ],
+    "alternativeMeanings": [
+      { "meaning": "å skylde (penger)", "context": "\"Ich bin dir etwas schuldig\" = jeg skylder deg noe" }
+    ]
+  },
+  "schwach_adj": {
+    "translation": "svak",
+    "explanation": { "_description": "Betyr \"svak\" — uten styrke, liten kraft." },
+    "synonyms": ["kraftløs", "spinkel", "skrøpelig"],
+    "examples": [
+      { "sentence": "Er ist schwach.", "translation": "Han er svak." },
+      { "sentence": "Das Signal ist schwach.", "translation": "Signalet er svakt." }
+    ]
+  },
+  "schwanger_adj": {
+    "translation": "gravid",
+    "explanation": { "_description": "Betyr \"gravid\" — med barn." },
+    "synonyms": ["med barn", "vordende mor"],
+    "examples": [
+      { "sentence": "Sie ist schwanger.", "translation": "Hun er gravid." },
+      { "sentence": "Im dritten Monat schwanger.", "translation": "Tre måneder gravid." }
+    ]
+  },
+  "schwarz_adj": {
+    "translation": "svart",
+    "explanation": { "_description": "Betyr \"svart\" — farge." },
+    "synonyms": ["bekmørk", "kullsvart"],
+    "examples": [
+      { "sentence": "Das Auto ist schwarz.", "translation": "Bilen er svart." },
+      { "sentence": "Er trägt schwarze Kleidung.", "translation": "Han har på seg svarte klær." }
+    ]
+  },
+  "schwer_adj": {
+    "translation": "tung",
+    "explanation": { "_description": "Betyr \"tung\" (vekt) eller \"vanskelig\" (oppgave). Begge er svært vanlige." },
+    "synonyms": ["tyngdebærende", "kraftig", "krevende"],
+    "examples": [
+      { "sentence": "Die Tasche ist schwer.", "translation": "Vesken er tung." },
+      { "sentence": "Das ist schwer zu verstehen.", "translation": "Det er vanskelig å forstå." }
+    ],
+    "alternativeMeanings": [
+      { "meaning": "vanskelig", "context": "om oppgave, problem eller situasjon som er krevende" }
+    ]
+  },
+  "schwierig_adj": {
+    "translation": "vanskelig",
+    "explanation": { "_description": "Betyr \"vanskelig\" — krever mye innsats å løse eller forstå." },
+    "synonyms": ["tungt", "krevende", "komplisert"],
+    "examples": [
+      { "sentence": "Die Aufgabe ist schwierig.", "translation": "Oppgaven er vanskelig." },
+      { "sentence": "Das ist sehr schwierig.", "translation": "Det er veldig vanskelig." }
+    ]
+  },
+  "selbststaendig_adj": {
+    "translation": "selvstendig",
+    "explanation": { "_description": "Betyr \"selvstendig\" — uavhengig, gjør ting på egenhånd. Brukes om bedrifter: selvstendig næringsdrivende." },
+    "synonyms": ["uavhengig", "autonom", "frilanser"],
+    "examples": [
+      { "sentence": "Sie ist selbstständig.", "translation": "Hun er selvstendig." },
+      { "sentence": "Er arbeitet selbstständig.", "translation": "Han jobber selvstendig/som selvstendig næringsdrivende." }
+    ]
+  },
+  "selbstverstaendlich_adj": {
+    "translation": "selvfølgelig",
+    "explanation": { "_description": "Betyr \"selvfølgelig\" — noe som er opplagt og ikke trenger forklaring." },
+    "synonyms": ["opplagt", "selvsagt", "naturlig"],
+    "examples": [
+      { "sentence": "Das ist selbstverständlich.", "translation": "Det er selvfølgelig." },
+      { "sentence": "Selbstverständlich helfe ich dir.", "translation": "Selvfølgelig hjelper jeg deg." }
+    ]
+  },
+  "seltsam_adj": {
+    "translation": "underlig",
+    "explanation": { "_description": "Betyr \"underlig\" eller \"merkelig\" — avviker fra det normale." },
+    "synonyms": ["rar", "merkelig", "pussig"],
+    "examples": [
+      { "sentence": "Das ist seltsam.", "translation": "Det er underlig." },
+      { "sentence": "Er verhält sich seltsam.", "translation": "Han oppfører seg underlig." }
+    ]
+  },
+  "senkrecht_adj": {
+    "translation": "loddrett",
+    "explanation": { "_description": "Betyr \"loddrett\" — vinkelrett på horisontal, rett opp og ned." },
+    "synonyms": ["vertikal", "rett opp og ned"],
+    "examples": [
+      { "sentence": "Die Wand ist senkrecht.", "translation": "Veggen er loddrett." },
+      { "sentence": "Eine senkrechte Linie.", "translation": "En loddrett linje." }
+    ]
+  },
+  "sicher_adj": {
+    "translation": "sikker",
+    "explanation": { "_description": "Betyr \"sikker\" — trygg eller viss/sikker på noe." },
+    "synonyms": ["trygg", "viss", "garantert"],
+    "examples": [
+      { "sentence": "Das ist sicher.", "translation": "Det er sikkert." },
+      { "sentence": "Ich bin sicher, dass er kommt.", "translation": "Jeg er sikker på at han kommer." }
+    ]
+  },
+  "sichtbar_adj": {
+    "translation": "synlig",
+    "explanation": { "_description": "Betyr \"synlig\" — kan sees, ikke skjult." },
+    "synonyms": ["observerbar", "tydelig", "merkbar"],
+    "examples": [
+      { "sentence": "Das ist sichtbar.", "translation": "Det er synlig." },
+      { "sentence": "Ein sichtbarer Unterschied.", "translation": "En synlig forskjell." }
+    ]
+  },
+  "sinnlos_adj": {
+    "translation": "meningsløs",
+    "explanation": { "_description": "Betyr \"meningsløs\" — uten mening eller hensikt." },
+    "synonyms": ["hensiktsløs", "unyttig", "bortkastet"],
+    "examples": [
+      { "sentence": "Das ist sinnlos.", "translation": "Det er meningsløst." },
+      { "sentence": "Sinnlose Diskussionen.", "translation": "Meningsløse diskusjoner." }
+    ]
+  },
+  "sinnvoll_adj": {
+    "translation": "fornuftig",
+    "explanation": { "_description": "Betyr \"fornuftig\" eller \"meningsfull\" — har en god grunn." },
+    "synonyms": ["meningsfull", "hensiktsmessig", "klok"],
+    "examples": [
+      { "sentence": "Das ist sinnvoll.", "translation": "Det er fornuftig." },
+      { "sentence": "Eine sinnvolle Lösung.", "translation": "En fornuftig løsning." }
+    ]
+  },
+  "sonnig_adj": {
+    "translation": "solrik",
+    "explanation": { "_description": "Betyr \"solrik\" — vær med sol." },
+    "synonyms": ["sol", "klart vær", "lyst"],
+    "examples": [
+      { "sentence": "Es ist sonnig heute.", "translation": "Det er solrik i dag." },
+      { "sentence": "Ein sonniger Tag.", "translation": "En solrik dag." }
+    ]
+  },
+  "sozial_adj": {
+    "translation": "sosial",
+    "explanation": { "_description": "Betyr \"sosial\" — knyttet til samfunnet eller sosiale relasjoner." },
+    "synonyms": ["samfunnsmessig", "mellommenneskelig"],
+    "examples": [
+      { "sentence": "Das ist ein soziales Problem.", "translation": "Det er et sosialt problem." },
+      { "sentence": "Soziale Medien sind wichtig.", "translation": "Sosiale medier er viktige." }
+    ]
+  },
+  "spaet_adj": {
+    "translation": "sen",
+    "explanation": { "_description": "Betyr \"sen\" — etter forventet tid, eller sent på dagen." },
+    "synonyms": ["for sent", "langt ut på kvelden"],
+    "examples": [
+      { "sentence": "Es ist spät.", "translation": "Det er sent." },
+      { "sentence": "Du kommst zu spät.", "translation": "Du kommer for sent." }
+    ]
+  },
+  "spaeter_adj": {
+    "translation": "senere",
+    "explanation": { "_description": "Betyr \"senere\" — etter dette tidspunktet. Komparativ av \"spät\"." },
+    "synonyms": ["etterpå", "siden"],
+    "examples": [
+      { "sentence": "Bis später!", "translation": "Vi ses senere!" },
+      { "sentence": "Ich erkläre das später.", "translation": "Jeg forklarer det senere." }
+    ]
+  },
+  "spannend_adj": {
+    "translation": "spennende",
+    "explanation": { "_description": "Betyr \"spennende\" — interessant og engasjerende." },
+    "synonyms": ["grensende", "fascinerende", "engasjerende"],
+    "examples": [
+      { "sentence": "Das Buch ist spannend.", "translation": "Boken er spennende." },
+      { "sentence": "Geschichte ist sehr spannend.", "translation": "Historie er veldig spennende." }
+    ]
+  },
+  "speziell_adj": {
+    "translation": "spesiell",
+    "explanation": { "_description": "Betyr \"spesiell\" — utenom det vanlige, særskilt." },
+    "synonyms": ["særskilt", "eksepsjonell", "unik"],
+    "examples": [
+      { "sentence": "Das ist ein spezieller Anlass.", "translation": "Det er en spesiell anledning." },
+      { "sentence": "Etwas Spezielles.", "translation": "Noe spesielt." }
+    ]
+  },
+  "spitz_adj": {
+    "translation": "spiss",
+    "explanation": { "_description": "Betyr \"spiss\" — med en skarp spiss. Motsatt av buet eller rund." },
+    "synonyms": ["skarp", "spinkel", "nålespiss"],
+    "examples": [
+      { "sentence": "Der Bleistift ist spitz.", "translation": "Blyanten er spiss." },
+      { "sentence": "Ein spitzer Winkel.", "translation": "En spiss vinkel." }
+    ]
+  },
+  "sportlich_adj": {
+    "translation": "sporty",
+    "explanation": { "_description": "Betyr \"sporty\" — idrettslig aktiv eller med sporty stil." },
+    "synonyms": ["atletisk", "sprek", "aktivt kledd"],
+    "examples": [
+      { "sentence": "Er ist sehr sportlich.", "translation": "Han er veldig sporty." },
+      { "sentence": "Ein sportliches Auto.", "translation": "En sporty bil." }
+    ]
+  }
+}

@@ -1,0 +1,381 @@
+{
+  "finanziell_adj": {
+    "translation": "finansiell",
+    "explanation": { "_description": "Betyr \"finansiell\" — knyttet til penger og økonomi." },
+    "synonyms": ["økonomisk", "pengemessig"],
+    "examples": [
+      { "sentence": "Das ist eine finanzielle Frage.", "translation": "Det er et finansielt spørsmål." },
+      { "sentence": "Sie hat finanzielle Probleme.", "translation": "Hun har finansielle problemer." }
+    ]
+  },
+  "flach_adj": {
+    "translation": "flat",
+    "explanation": { "_description": "Betyr \"flat\" — uten høyder, horisontal overflate." },
+    "synonyms": ["plan", "jevn", "lavt"],
+    "examples": [
+      { "sentence": "Das Land ist flach.", "translation": "Landet er flatt." },
+      { "sentence": "Ich brauche ein flaches Kissen.", "translation": "Jeg trenger en flat pute." }
+    ]
+  },
+  "fleissig_adj": {
+    "translation": "flittig",
+    "explanation": { "_description": "Betyr \"flittig\" — arbeidssom og hardtarbeidende." },
+    "synonyms": ["hardtarbeidende", "arbeidssom", "ivrig"],
+    "examples": [
+      { "sentence": "Sie ist sehr fleißig.", "translation": "Hun er veldig flittig." },
+      { "sentence": "Er ist ein fleißiger Schüler.", "translation": "Han er en flittig elev." }
+    ]
+  },
+  "flexibel_adj": {
+    "translation": "fleksibel",
+    "explanation": { "_description": "Betyr \"fleksibel\" — tilpasningsdyktig, bøyelig." },
+    "synonyms": ["tilpasningsdyktig", "smidig", "elastisk"],
+    "examples": [
+      { "sentence": "Meine Arbeitszeiten sind flexibel.", "translation": "Arbeidstiden min er fleksibel." },
+      { "sentence": "Sie ist sehr flexibel.", "translation": "Hun er veldig fleksibel." }
+    ]
+  },
+  "frech_adj": {
+    "translation": "frekk",
+    "explanation": { "_description": "Betyr \"frekk\" — uhøflig, nesevis eller dristig." },
+    "synonyms": ["nesevis", "uhøflig", "dristig"],
+    "examples": [
+      { "sentence": "Das Kind ist frech.", "translation": "Barnet er frekkt." },
+      { "sentence": "Sei nicht so frech!", "translation": "Ikke vær så frekk!" }
+    ]
+  },
+  "frei_adj": {
+    "translation": "fri",
+    "explanation": { "_description": "Betyr \"fri\" — ikke bundet, ledig eller gratis. Konteksten avgjør hvilken nyanse." },
+    "synonyms": ["ledig", "ubundet", "gratis"],
+    "examples": [
+      { "sentence": "Bist du heute frei?", "translation": "Er du fri i dag?" },
+      { "sentence": "Der Eintritt ist frei.", "translation": "Inngangen er gratis." }
+    ],
+    "alternativeMeanings": [
+      { "meaning": "gratis", "context": "om noe som ikke koster penger" }
+    ]
+  },
+  "freiwillig_adj": {
+    "translation": "frivillig",
+    "explanation": { "_description": "Betyr \"frivillig\" — gjort av egen fri vilje, ikke påtvunget." },
+    "synonyms": ["valgfri", "selvvalgt"],
+    "examples": [
+      { "sentence": "Das ist freiwillig.", "translation": "Det er frivillig." },
+      { "sentence": "Er arbeitet freiwillig.", "translation": "Han jobber frivillig." }
+    ]
+  },
+  "fremd_adj": {
+    "translation": "fremmed",
+    "explanation": { "_description": "Betyr \"fremmed\" — ukjent, fra et annet sted eller en annen kultur." },
+    "synonyms": ["ukjent", "utenlandsk", "eksotisk"],
+    "examples": [
+      { "sentence": "In einer fremden Stadt.", "translation": "I en fremmed by." },
+      { "sentence": "Er fühlt sich fremd hier.", "translation": "Han føler seg fremmed her." }
+    ]
+  },
+  "freundlich_adj": {
+    "translation": "vennlig",
+    "explanation": { "_description": "Betyr \"vennlig\" — hyggelig og imøtekommende i opptreden." },
+    "synonyms": ["hyggelig", "snill", "høflig"],
+    "examples": [
+      { "sentence": "Der Lehrer ist freundlich.", "translation": "Læreren er vennlig." },
+      { "sentence": "Sei bitte freundlich!", "translation": "Vær vennlig!" },
+      { "sentence": "Er hat ein freundliches Lächeln.", "translation": "Han har et vennlig smil." }
+    ]
+  },
+  "frisch_adj": {
+    "translation": "frisk",
+    "explanation": { "_description": "Betyr \"frisk\" — fersk (om mat), frisk (om luft) eller frisk (om person = sunn). Tett på norsk \"frisk\"." },
+    "synonyms": ["fersk", "ny", "ren"],
+    "examples": [
+      { "sentence": "Das Brot ist frisch.", "translation": "Brødet er ferskt." },
+      { "sentence": "Die Luft ist frisch.", "translation": "Luften er frisk." }
+    ]
+  },
+  "froh_adj": {
+    "translation": "glad",
+    "explanation": { "_description": "Betyr \"glad\" — lykkelig, fornøyd. Noe mer dempet enn \"glücklich\"." },
+    "synonyms": ["fornøyd", "lykkelig", "tilfreds"],
+    "examples": [
+      { "sentence": "Ich bin froh, dass du da bist.", "translation": "Jeg er glad for at du er her." },
+      { "sentence": "Wir sind froh über die Neuigkeit.", "translation": "Vi er glade for nyheten." }
+    ]
+  },
+  "frueh_adj": {
+    "translation": "tidlig",
+    "explanation": { "_description": "Betyr \"tidlig\" — ikke sent på dagen eller i utvikling." },
+    "synonyms": ["på et tidlig tidspunkt", "betids"],
+    "examples": [
+      { "sentence": "Ich stehe früh auf.", "translation": "Jeg står tidlig opp." },
+      { "sentence": "Es ist noch früh.", "translation": "Det er fortsatt tidlig." }
+    ]
+  },
+  "frueher_adj": {
+    "translation": "tidligere",
+    "explanation": { "_description": "Betyr \"tidligere\" — fra fortiden, ikke nåværende. Komparativ av \"früh\"." },
+    "synonyms": ["forhenværende", "gammel", "historisk"],
+    "examples": [
+      { "sentence": "Er ist ein früherer Lehrer.", "translation": "Han er en tidligere lærer." },
+      { "sentence": "In früheren Zeiten.", "translation": "I tidligere tider." }
+    ]
+  },
+  "furchtbar_adj": {
+    "translation": "forferdelig",
+    "explanation": { "_description": "Betyr \"forferdelig\" — svært dårlig eller skremmende. Sterk negativ forsterker." },
+    "synonyms": ["grusom", "skrekkelig", "fryktelig"],
+    "examples": [
+      { "sentence": "Das Wetter ist furchtbar.", "translation": "Været er forferdelig." },
+      { "sentence": "Das ist ein furchtbarer Fehler.", "translation": "Det er en forferdelig feil." }
+    ]
+  },
+  "ganz_adj": {
+    "translation": "hel",
+    "explanation": { "_description": "Betyr \"hel\" eller \"full\" — komplett, uten mangler. Som adverb: \"ganz gut\" = ganske bra." },
+    "synonyms": ["full", "komplett", "total"],
+    "examples": [
+      { "sentence": "Ich habe den ganzen Tag gearbeitet.", "translation": "Jeg jobbet hele dagen." },
+      { "sentence": "Das ist ganz einfach.", "translation": "Det er ganske enkelt." }
+    ],
+    "alternativeMeanings": [
+      { "meaning": "ganske/nokså", "context": "som adverb: forsterker av adjektiv — \"ganz gut\" = ganske bra" }
+    ]
+  },
+  "gefaehrlich_adj": {
+    "translation": "farlig",
+    "explanation": { "_description": "Betyr \"farlig\" — som kan forårsake skade eller fare." },
+    "synonyms": ["risikabelt", "truende", "risikofylt"],
+    "examples": [
+      { "sentence": "Das ist gefährlich!", "translation": "Det er farlig!" },
+      { "sentence": "Er lebt gefährlich.", "translation": "Han lever farlig." }
+    ]
+  },
+  "geheim_adj": {
+    "translation": "hemmelig",
+    "explanation": { "_description": "Betyr \"hemmelig\" — skjult for andre, ikke offentlig kjent." },
+    "synonyms": ["skjult", "fortrolig", "privat"],
+    "examples": [
+      { "sentence": "Das ist ein Geheimnis.", "translation": "Det er en hemmelighet." },
+      { "sentence": "Die Information ist geheim.", "translation": "Informasjonen er hemmelig." }
+    ]
+  },
+  "gelb_adj": {
+    "translation": "gul",
+    "explanation": { "_description": "Betyr \"gul\" — farge." },
+    "synonyms": ["gulaktig", "sitrongul"],
+    "examples": [
+      { "sentence": "Die Banane ist gelb.", "translation": "Bananen er gul." },
+      { "sentence": "Das Licht ist gelb.", "translation": "Lyset er gult." }
+    ]
+  },
+  "gemuetlich_adj": {
+    "translation": "koselig",
+    "explanation": { "_description": "Betyr \"koselig\" — hyggelig og behagelig atmosfære. Svarer til norsk \"koselig\"." },
+    "synonyms": ["hyggelig", "trivelig", "komfortabel"],
+    "examples": [
+      { "sentence": "Das Café ist gemütlich.", "translation": "Kaféen er koselig." },
+      { "sentence": "Wir hatten einen gemütlichen Abend.", "translation": "Vi hadde en koselig kveld." }
+    ]
+  },
+  "genau_adj": {
+    "translation": "nøyaktig",
+    "explanation": { "_description": "Betyr \"nøyaktig\" eller \"presis\" — uten feil, korrekt. Brukes også som bekrefter: \"Genau!\" = \"Nøyaktig!/Nettopp!\"" },
+    "synonyms": ["presis", "korrekt", "eksakt"],
+    "examples": [
+      { "sentence": "Bitte sei genau!", "translation": "Vær nøyaktig!" },
+      { "sentence": "Genau! Das ist richtig.", "translation": "Nøyaktig! Det er riktig." }
+    ]
+  },
+  "gerade_adj": {
+    "translation": "rett",
+    "explanation": { "_description": "Betyr \"rett\" — ikke bøyd. Som adverb: nettopp (\"Er ist gerade gegangen\" = han gikk nettopp)." },
+    "synonyms": ["rettlinjet", "direkte", "oppreist"],
+    "examples": [
+      { "sentence": "Steh gerade!", "translation": "Stå rett!" },
+      { "sentence": "Die Linie ist gerade.", "translation": "Linjen er rett." }
+    ],
+    "alternativeMeanings": [
+      { "meaning": "nettopp", "context": "som adverb om noe som skjedde øyeblikk siden" }
+    ]
+  },
+  "gering_adj": {
+    "translation": "liten",
+    "explanation": { "_description": "Betyr \"liten\" i betydningen av lite/lavt omfang eller betydning — ikke om størrelse. \"Ein geringer Unterschied\" = en liten forskjell." },
+    "synonyms": ["ubetydelig", "minimal", "lav"],
+    "examples": [
+      { "sentence": "Das ist ein geringer Unterschied.", "translation": "Det er en liten forskjell." },
+      { "sentence": "Die Kosten sind gering.", "translation": "Kostnadene er lave." }
+    ]
+  },
+  "gern_adj": {
+    "translation": "gjerne",
+    "explanation": { "_description": "Betyr \"gjerne\" — med glede. Brukes som adverb i uttrykk som \"Ich esse gern Pizza\" (jeg liker pizza)." },
+    "synonyms": ["med glede", "liker å"],
+    "examples": [
+      { "sentence": "Ich esse gern Pizza.", "translation": "Jeg liker å spise pizza." },
+      { "sentence": "Kommst du gern?", "translation": "Kommer du gjerne?" }
+    ]
+  },
+  "gespannt_adj": {
+    "translation": "spent",
+    "explanation": { "_description": "Betyr \"spent\" — fylt av forventning og spenning. \"Ich bin gespannt!\" = Jeg er spent!" },
+    "synonyms": ["nysgjerrig", "forventningsfull"],
+    "examples": [
+      { "sentence": "Ich bin gespannt!", "translation": "Jeg er spent!" },
+      { "sentence": "Er ist gespannt auf das Ergebnis.", "translation": "Han er spent på resultatet." }
+    ]
+  },
+  "gestresst_adj": {
+    "translation": "stresset",
+    "explanation": { "_description": "Betyr \"stresset\" — under press, overarbeidet." },
+    "synonyms": ["anspent", "overbelastet", "presset"],
+    "examples": [
+      { "sentence": "Ich bin gestresst.", "translation": "Jeg er stresset." },
+      { "sentence": "Sie wirkt gestresst.", "translation": "Hun virker stresset." }
+    ]
+  },
+  "gesund_adj": {
+    "translation": "sunn",
+    "explanation": { "_description": "Betyr \"sunn\" — i god helse eller bra for helsa. Komparativ: gesünder." },
+    "synonyms": ["frisk", "velskapt", "helsefremmende"],
+    "examples": [
+      { "sentence": "Obst ist gesund.", "translation": "Frukt er sunt." },
+      { "sentence": "Ich fühle mich gesund.", "translation": "Jeg føler meg frisk." },
+      { "sentence": "Gesunde Ernährung ist wichtig.", "translation": "Sunt kosthold er viktig." }
+    ]
+  },
+  "gewoehnlich_adj": {
+    "translation": "vanlig",
+    "explanation": { "_description": "Betyr \"vanlig\" eller \"ordinær\" — ikke spesiell. Noen ganger nedsettende." },
+    "synonyms": ["ordinær", "normal", "alminnelig"],
+    "examples": [
+      { "sentence": "Das ist ganz gewöhnlich.", "translation": "Det er helt vanlig." },
+      { "sentence": "Ein gewöhnlicher Tag.", "translation": "En vanlig dag." }
+    ]
+  },
+  "giftig_adj": {
+    "translation": "giftig",
+    "explanation": { "_description": "Betyr \"giftig\" — inneholder gift, farlig å spise eller berøre." },
+    "synonyms": ["giftig", "skadelig", "farlig"],
+    "examples": [
+      { "sentence": "Die Pflanze ist giftig.", "translation": "Planten er giftig." },
+      { "sentence": "Giftige Chemikalien sind gefährlich.", "translation": "Giftige kjemikalier er farlige." }
+    ]
+  },
+  "glatt_adj": {
+    "translation": "glatt",
+    "explanation": { "_description": "Betyr \"glatt\" — jevn overflate uten friksjon. Kan også bety \"glatt\" (rett og slett) som forsterker." },
+    "synonyms": ["jevn", "slett", "polert"],
+    "examples": [
+      { "sentence": "Die Straße ist glatt.", "translation": "Veien er glatt." },
+      { "sentence": "Das ist glatt gelogen.", "translation": "Det er rett og slett løgn." }
+    ],
+    "alternativeMeanings": [
+      { "meaning": "rett og slett", "context": "forsterker: glatt unmöglich = rett og slett umulig" }
+    ]
+  },
+  "gleich_adj": {
+    "translation": "lik",
+    "explanation": { "_description": "Betyr \"lik\" eller \"samme\". Som adverb: \"gleich\" = straks/snart." },
+    "synonyms": ["identisk", "samme", "tilsvarende"],
+    "examples": [
+      { "sentence": "Sie sind gleich groß.", "translation": "De er like høye." },
+      { "sentence": "Ich komme gleich.", "translation": "Jeg kommer straks." }
+    ],
+    "alternativeMeanings": [
+      { "meaning": "straks/snart", "context": "som adverb om noe som skjer om litt" }
+    ]
+  },
+  "gleichberechtigt_adj": {
+    "translation": "likestilt",
+    "explanation": { "_description": "Betyr \"likestilt\" — med like rettigheter uavhengig av kjønn eller bakgrunn." },
+    "synonyms": ["rettighetslik", "jevnbyrdig"],
+    "examples": [
+      { "sentence": "Männer und Frauen sollten gleichberechtigt sein.", "translation": "Menn og kvinner bør være likestilte." },
+      { "sentence": "Eine gleichberechtigte Gesellschaft.", "translation": "Et likestilt samfunn." }
+    ]
+  },
+  "gleichzeitig_adj": {
+    "translation": "samtidig",
+    "explanation": { "_description": "Betyr \"samtidig\" — skjer på samme tidspunkt." },
+    "synonyms": ["parallelt", "på en gang"],
+    "examples": [
+      { "sentence": "Das passiert gleichzeitig.", "translation": "Det skjer samtidig." },
+      { "sentence": "Ich kann nicht gleichzeitig arbeiten und fernsehen.", "translation": "Jeg kan ikke jobbe og se på TV samtidig." }
+    ]
+  },
+  "gluecklich_adj": {
+    "translation": "lykkelig",
+    "explanation": { "_description": "Betyr \"lykkelig\" — glad og tilfreds." },
+    "synonyms": ["glad", "fornøyd", "tilfreds"],
+    "examples": [
+      { "sentence": "Ich bin glücklich.", "translation": "Jeg er lykkelig." },
+      { "sentence": "Sie macht mich glücklich.", "translation": "Hun gjør meg lykkelig." }
+    ]
+  },
+  "grau_adj": {
+    "translation": "grå",
+    "explanation": { "_description": "Betyr \"grå\" — farge mellom svart og hvit." },
+    "synonyms": ["askegrå", "sølvgrå"],
+    "examples": [
+      { "sentence": "Der Himmel ist grau.", "translation": "Himmelen er grå." },
+      { "sentence": "Sein Haar ist grau.", "translation": "Håret hans er grått." }
+    ]
+  },
+  "gross_adj": {
+    "translation": "stor",
+    "explanation": { "_description": "Betyr \"stor\". Komparativ: größer. Superlativ: am größten." },
+    "synonyms": ["enorm", "mektig", "vid"],
+    "examples": [
+      { "sentence": "Das Haus ist groß.", "translation": "Huset er stort." },
+      { "sentence": "Wie groß bist du?", "translation": "Hvor høy er du?" },
+      { "sentence": "Ich habe eine große Familie.", "translation": "Jeg har en stor familie." }
+    ]
+  },
+  "gruen_adj": {
+    "translation": "grønn",
+    "explanation": { "_description": "Betyr \"grønn\" — farge." },
+    "synonyms": ["olivengrønn", "lysegrønn"],
+    "examples": [
+      { "sentence": "Das Gras ist grün.", "translation": "Gresset er grønt." },
+      { "sentence": "Ich trage ein grünes T-Shirt.", "translation": "Jeg har på meg en grønn t-skjorte." }
+    ]
+  },
+  "gruendlich_adj": {
+    "translation": "grundig",
+    "explanation": { "_description": "Betyr \"grundig\" — gjøre noe ordentlig og nøye." },
+    "synonyms": ["nøye", "grundig", "systematisk"],
+    "examples": [
+      { "sentence": "Sei gründlich!", "translation": "Vær grundig!" },
+      { "sentence": "Er arbeitet gründlich.", "translation": "Han jobber grundig." }
+    ]
+  },
+  "gueltig_adj": {
+    "translation": "gyldig",
+    "explanation": { "_description": "Betyr \"gyldig\" — offisielt godkjent, har gyldighet (om pass, billett, etc.)." },
+    "synonyms": ["godkjent", "aktuelt", "offisiell"],
+    "examples": [
+      { "sentence": "Ist dein Pass noch gültig?", "translation": "Er passet ditt fortsatt gyldig?" },
+      { "sentence": "Das Ticket ist gültig.", "translation": "Billetten er gyldig." }
+    ]
+  },
+  "guenstig_adj": {
+    "translation": "gunstig",
+    "explanation": { "_description": "Betyr \"gunstig\" eller \"rimelig\" — god pris eller fordelaktig situasjon." },
+    "synonyms": ["rimelig", "prisgunstig", "fordelaktig"],
+    "examples": [
+      { "sentence": "Das ist ein günstiger Preis.", "translation": "Det er en gunstig pris." },
+      { "sentence": "Die Bedingungen sind günstig.", "translation": "Forholdene er gunstige." }
+    ]
+  },
+  "gut_adj": {
+    "translation": "god",
+    "explanation": { "_description": "Betyr \"god\" eller \"bra\". Irregulær komparativ: gut → besser → am besten." },
+    "synonyms": ["bra", "utmerket", "fin"],
+    "examples": [
+      { "sentence": "Das ist sehr gut!", "translation": "Det er veldig bra!" },
+      { "sentence": "Wie geht es dir? - Mir geht es gut.", "translation": "Hvordan har du det? - Jeg har det bra." },
+      { "sentence": "Sie spricht gut Deutsch.", "translation": "Hun snakker godt tysk." }
+    ]
+  }
+}

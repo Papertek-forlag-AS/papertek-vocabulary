@@ -1,0 +1,1464 @@
+{
+  "oeffentlich_adj": {
+    "translation": "public",
+    "explanation": { "_description": "Means 'public' — for everyone, not private." },
+    "synonyms": ["communal", "open", "civic"],
+    "examples": [
+      { "sentence": "Das ist ein öffentlicher Platz.", "translation": "That is a public place." },
+      { "sentence": "Öffentliche Verkehrsmittel.", "translation": "Public transportation." }
+    ]
+  },
+  "offenbar_adj": {
+    "translation": "obvious",
+    "explanation": { "_description": "Means 'obvious' or 'apparent' — clearly visible or evident." },
+    "synonyms": ["apparent", "evident", "clear"],
+    "examples": [
+      { "sentence": "Das ist offenbar falsch.", "translation": "That is obviously wrong." },
+      { "sentence": "Offenbar hat er vergessen.", "translation": "Apparently he forgot." }
+    ]
+  },
+  "offiziell_adj": {
+    "translation": "official",
+    "explanation": { "_description": "Means 'official' — approved by authorities or organizations." },
+    "synonyms": ["formal", "authorized", "sanctioned"],
+    "examples": [
+      { "sentence": "Das ist eine offizielle Aussage.", "translation": "That is an official statement." },
+      { "sentence": "Der offizielle Termin.", "translation": "The official date." }
+    ]
+  },
+  "optimistisch_adj": {
+    "translation": "optimistic",
+    "explanation": { "_description": "Means 'optimistic' — positive outlook on the future." },
+    "synonyms": ["positive", "hopeful", "upbeat"],
+    "examples": [
+      { "sentence": "Er ist optimistisch.", "translation": "He is optimistic." },
+      { "sentence": "Bleib optimistisch!", "translation": "Stay optimistic!" }
+    ]
+  },
+  "orange_adj": {
+    "translation": "orange",
+    "explanation": { "_description": "Means 'orange' — color. Invariable adjective (does not inflect)." },
+    "synonyms": ["tangerine"],
+    "examples": [
+      { "sentence": "Das T-Shirt ist orange.", "translation": "The T-shirt is orange." },
+      { "sentence": "Eine orange Jacke.", "translation": "An orange jacket." }
+    ]
+  },
+  "ordentlich_adj": {
+    "translation": "tidy",
+    "explanation": { "_description": "Means 'tidy' or 'orderly' — in order, done properly." },
+    "synonyms": ["neat", "organized", "proper"],
+    "examples": [
+      { "sentence": "Sein Zimmer ist ordentlich.", "translation": "His room is tidy." },
+      { "sentence": "Sei ordentlich!", "translation": "Be orderly!" }
+    ]
+  },
+  "parallel_adj": {
+    "translation": "parallel",
+    "explanation": { "_description": "Means 'parallel' — in the same direction, side by side." },
+    "synonyms": ["concurrent", "side by side"],
+    "examples": [
+      { "sentence": "Die Linien sind parallel.", "translation": "The lines are parallel." },
+      { "sentence": "Parallele Prozesse.", "translation": "Parallel processes." }
+    ]
+  },
+  "passiv_adj": {
+    "translation": "passive",
+    "explanation": { "_description": "Means 'passive' — not active, taking no initiative." },
+    "synonyms": ["inactive", "inert", "indifferent"],
+    "examples": [
+      { "sentence": "Er ist sehr passiv.", "translation": "He is very passive." },
+      { "sentence": "Eine passive Haltung.", "translation": "A passive attitude." }
+    ]
+  },
+  "pauschal_adj": {
+    "translation": "blanket",
+    "explanation": { "_description": "Means 'blanket' or 'flat-rate' — generalized without nuance, or at a fixed price." },
+    "synonyms": ["flat-rate", "generalized", "sweeping"],
+    "examples": [
+      { "sentence": "Das ist eine pauschale Aussage.", "translation": "That is a blanket statement." },
+      { "sentence": "Ein Pauschalpreis.", "translation": "A flat-rate price." }
+    ]
+  },
+  "perfekt_adj": {
+    "translation": "perfect",
+    "explanation": { "_description": "Means 'perfect' — without flaws, ideal." },
+    "synonyms": ["flawless", "ideal", "excellent"],
+    "examples": [
+      { "sentence": "Das ist perfekt!", "translation": "That is perfect!" },
+      { "sentence": "Sie spricht perfektes Deutsch.", "translation": "She speaks perfect German." }
+    ]
+  },
+  "ploetzlich_adj": {
+    "translation": "sudden",
+    "explanation": { "_description": "Means 'sudden' or 'all of a sudden' — without warning, unexpected." },
+    "synonyms": ["abrupt", "unexpected", "swift"],
+    "examples": [
+      { "sentence": "Plötzlich fing es an zu regnen.", "translation": "Suddenly it started to rain." },
+      { "sentence": "Das war plötzlich.", "translation": "That was sudden." }
+    ]
+  },
+  "populaer_adj": {
+    "translation": "popular",
+    "explanation": { "_description": "Means 'popular' — well-liked by many." },
+    "synonyms": ["well-liked", "in vogue", "sought-after"],
+    "examples": [
+      { "sentence": "Das Lied ist populär.", "translation": "The song is popular." },
+      { "sentence": "Er ist sehr populär.", "translation": "He is very popular." }
+    ]
+  },
+  "positiv_adj": {
+    "translation": "positive",
+    "explanation": { "_description": "Means 'positive' — good, encouraging, optimistic." },
+    "synonyms": ["good", "favorable", "encouraging"],
+    "examples": [
+      { "sentence": "Das ist eine positive Nachricht.", "translation": "That is a positive news item." },
+      { "sentence": "Bleib positiv!", "translation": "Stay positive!" }
+    ]
+  },
+  "praktisch_adj": {
+    "translation": "practical",
+    "explanation": { "_description": "Means 'practical' — useful in practice, easy to use." },
+    "synonyms": ["useful", "functional", "handy"],
+    "examples": [
+      { "sentence": "Das ist sehr praktisch.", "translation": "That is very practical." },
+      { "sentence": "Eine praktische Lösung.", "translation": "A practical solution." }
+    ]
+  },
+  "preiswert_adj": {
+    "translation": "good value",
+    "explanation": { "_description": "Means 'good value' — a good price relative to quality. More positive than 'billig'." },
+    "synonyms": ["affordable", "worth the price", "economical"],
+    "examples": [
+      { "sentence": "Das Restaurant ist preiswert.", "translation": "The restaurant is good value." },
+      { "sentence": "Ein preiswertes Angebot.", "translation": "A good-value offer." }
+    ]
+  },
+  "privat_adj": {
+    "translation": "private",
+    "explanation": { "_description": "Means 'private' — personal, not public." },
+    "synonyms": ["personal", "confidential", "exclusive"],
+    "examples": [
+      { "sentence": "Das ist privat.", "translation": "That is private." },
+      { "sentence": "Eine private Veranstaltung.", "translation": "A private event." }
+    ]
+  },
+  "puenktlich_adj": {
+    "translation": "punctual",
+    "explanation": { "_description": "Means 'punctual' — on time, not late." },
+    "synonyms": ["on time", "prompt", "timely"],
+    "examples": [
+      { "sentence": "Er ist immer pünktlich.", "translation": "He is always punctual." },
+      { "sentence": "Der Zug ist pünktlich.", "translation": "The train is punctual." }
+    ]
+  },
+  "quer_adj": {
+    "translation": "crosswise",
+    "explanation": { "_description": "Means 'crosswise' or 'diagonal' — at an angle, perpendicular to the length." },
+    "synonyms": ["diagonal", "across", "sideways"],
+    "examples": [
+      { "sentence": "Quer durch das Land.", "translation": "Across the country." },
+      { "sentence": "Die Linie geht quer.", "translation": "The line goes crosswise." }
+    ]
+  },
+  "realistisch_adj": {
+    "translation": "realistic",
+    "explanation": { "_description": "Means 'realistic' — in accordance with reality, practical." },
+    "synonyms": ["pragmatic", "down-to-earth", "sensible"],
+    "examples": [
+      { "sentence": "Sei realistisch!", "translation": "Be realistic!" },
+      { "sentence": "Das ist ein realistischer Plan.", "translation": "That is a realistic plan." }
+    ]
+  },
+  "recht_adj": {
+    "translation": "right",
+    "explanation": { "_description": "Means 'right' or 'correct'. Also used in 'recht haben' (to be right) and as adverb ('recht gut' = quite good)." },
+    "synonyms": ["correct", "proper", "quite"],
+    "examples": [
+      { "sentence": "Du hast recht.", "translation": "You are right." },
+      { "sentence": "Das ist recht gut.", "translation": "That is quite good." }
+    ]
+  },
+  "rechtlich_adj": {
+    "translation": "legal",
+    "explanation": { "_description": "Means 'legal' or 'juridical' — relating to the law." },
+    "synonyms": ["juridical", "lawful", "statutory"],
+    "examples": [
+      { "sentence": "Das ist eine rechtliche Frage.", "translation": "That is a legal question." },
+      { "sentence": "Rechtliche Konsequenzen.", "translation": "Legal consequences." }
+    ]
+  },
+  "rechtzeitig_adj": {
+    "translation": "timely",
+    "explanation": { "_description": "Means 'timely' or 'in time' — not too late, at the right moment." },
+    "synonyms": ["in time", "on time", "prompt"],
+    "examples": [
+      { "sentence": "Komm rechtzeitig!", "translation": "Come in time!" },
+      { "sentence": "Er hat rechtzeitig reagiert.", "translation": "He reacted in time." }
+    ]
+  },
+  "regelmaessig_adj": {
+    "translation": "regular",
+    "explanation": { "_description": "Means 'regular' — at fixed intervals, not random." },
+    "synonyms": ["consistent", "periodic", "steady"],
+    "examples": [
+      { "sentence": "Ich mache regelmäßig Sport.", "translation": "I exercise regularly." },
+      { "sentence": "Regelmäßige Pausen sind wichtig.", "translation": "Regular breaks are important." }
+    ]
+  },
+  "regional_adj": {
+    "translation": "regional",
+    "explanation": { "_description": "Means 'regional' — relating to a specific region or area." },
+    "synonyms": ["local", "area-based", "territorial"],
+    "examples": [
+      { "sentence": "Regionale Produkte sind frischer.", "translation": "Regional products are fresher." },
+      { "sentence": "Ein regionales Fest.", "translation": "A regional festival." }
+    ]
+  },
+  "regnerisch_adj": {
+    "translation": "rainy",
+    "explanation": { "_description": "Means 'rainy' — weather with lots of rain." },
+    "synonyms": ["wet", "showery", "drizzly"],
+    "examples": [
+      { "sentence": "Das Wetter ist regnerisch.", "translation": "The weather is rainy." },
+      { "sentence": "Ein regnerischer Tag.", "translation": "A rainy day." }
+    ]
+  },
+  "reich_adj": {
+    "translation": "rich",
+    "explanation": { "_description": "Means 'rich' — having lots of money or resources." },
+    "synonyms": ["wealthy", "affluent", "prosperous"],
+    "examples": [
+      { "sentence": "Er ist sehr reich.", "translation": "He is very rich." },
+      { "sentence": "Eine reiche Familie.", "translation": "A rich family." }
+    ]
+  },
+  "reif_adj": {
+    "translation": "ripe",
+    "explanation": { "_description": "Means 'ripe' — fully developed (of fruit) or mature and responsible (of a person)." },
+    "synonyms": ["mature", "ready", "developed"],
+    "examples": [
+      { "sentence": "Die Frucht ist reif.", "translation": "The fruit is ripe." },
+      { "sentence": "Er ist sehr reif für sein Alter.", "translation": "He is very mature for his age." }
+    ]
+  },
+  "rein_adj": {
+    "translation": "pure",
+    "explanation": { "_description": "Means 'pure' or 'clean'. Note: Norwegian 'rein' means reindeer — a false friend." },
+    "synonyms": ["clean", "unadulterated", "pristine"],
+    "examples": [
+      { "sentence": "Das Wasser ist rein.", "translation": "The water is pure." },
+      { "sentence": "Das ist reines Gold.", "translation": "That is pure gold." }
+    ]
+  },
+  "relativ_adj": {
+    "translation": "relative",
+    "explanation": { "_description": "Means 'relative' — in relation to something else, not absolute." },
+    "synonyms": ["comparative", "proportional"],
+    "examples": [
+      { "sentence": "Das ist relativ einfach.", "translation": "That is relatively simple." },
+      { "sentence": "Alles ist relativ.", "translation": "Everything is relative." }
+    ]
+  },
+  "richtig_adj": {
+    "translation": "correct",
+    "explanation": { "_description": "Means 'correct' (right) or 'proper/real' (as an intensifier). Both uses are very common." },
+    "synonyms": ["right", "proper", "genuine"],
+    "examples": [
+      { "sentence": "Das ist richtig.", "translation": "That is correct." },
+      { "sentence": "Das ist ein richtiger Freund.", "translation": "That is a real friend." }
+    ],
+    "alternativeMeanings": [
+      { "meaning": "proper/genuine", "context": "as intensifier: 'ein richtiges Problem' = a real/proper problem" }
+    ]
+  },
+  "riesig_adj": {
+    "translation": "huge",
+    "explanation": { "_description": "Means 'huge' or 'enormous' — much larger than normal." },
+    "synonyms": ["enormous", "gigantic", "colossal"],
+    "examples": [
+      { "sentence": "Das ist ein riesiges Haus.", "translation": "That is a huge house." },
+      { "sentence": "Eine riesige Menge.", "translation": "An enormous amount." }
+    ]
+  },
+  "roh_adj": {
+    "translation": "raw",
+    "explanation": { "_description": "Means 'raw' — uncooked/unprocessed (of food), or rough/uncivilized (of behavior)." },
+    "synonyms": ["uncooked", "unprocessed", "crude"],
+    "examples": [
+      { "sentence": "Rohes Fleisch.", "translation": "Raw meat." },
+      { "sentence": "Ein roher Diamant.", "translation": "A raw diamond." }
+    ]
+  },
+  "romantisch_adj": {
+    "translation": "romantic",
+    "explanation": { "_description": "Means 'romantic' — relating to love and romance." },
+    "synonyms": ["loving", "sentimental", "idyllic"],
+    "examples": [
+      { "sentence": "Das ist so romantisch!", "translation": "That is so romantic!" },
+      { "sentence": "Ein romantisches Abendessen.", "translation": "A romantic dinner." }
+    ]
+  },
+  "rosa_adj": {
+    "translation": "pink",
+    "explanation": { "_description": "Means 'pink' — light red color. Invariable adjective (does not inflect)." },
+    "synonyms": ["light red", "rosy"],
+    "examples": [
+      { "sentence": "Das ist ein rosa Kleid.", "translation": "That is a pink dress." },
+      { "sentence": "Rosa Blumen.", "translation": "Pink flowers." }
+    ]
+  },
+  "rot_adj": {
+    "translation": "red",
+    "explanation": { "_description": "Means 'red' — color." },
+    "synonyms": ["crimson", "scarlet", "ruby"],
+    "examples": [
+      { "sentence": "Das Auto ist rot.", "translation": "The car is red." },
+      { "sentence": "Sie hat rote Haare.", "translation": "She has red hair." }
+    ]
+  },
+  "ruhig_adj": {
+    "translation": "calm",
+    "explanation": { "_description": "Means 'calm' or 'quiet' — without noise or disturbance, or a composed person." },
+    "synonyms": ["peaceful", "tranquil", "composed"],
+    "examples": [
+      { "sentence": "Es ist ruhig hier.", "translation": "It is calm here." },
+      { "sentence": "Bleib ruhig!", "translation": "Stay calm!" }
+    ]
+  },
+  "rund_adj": {
+    "translation": "round",
+    "explanation": { "_description": "Means 'round' — circular shape, no corners." },
+    "synonyms": ["circular", "spherical", "curved"],
+    "examples": [
+      { "sentence": "Der Tisch ist rund.", "translation": "The table is round." },
+      { "sentence": "Eine runde Zahl.", "translation": "A round number." }
+    ]
+  },
+  "salzig_adj": {
+    "translation": "salty",
+    "explanation": { "_description": "Means 'salty' — tasting of salt, or containing much salt." },
+    "synonyms": ["briny", "saline"],
+    "examples": [
+      { "sentence": "Das Wasser ist salzig.", "translation": "The water is salty." },
+      { "sentence": "Die Suppe ist zu salzig.", "translation": "The soup is too salty." }
+    ]
+  },
+  "satt_adj": {
+    "translation": "full",
+    "explanation": { "_description": "Means 'full' (after eating) — having had enough food, no longer hungry." },
+    "synonyms": ["satiated", "stuffed", "satisfied"],
+    "examples": [
+      { "sentence": "Ich bin satt.", "translation": "I am full." },
+      { "sentence": "Bist du schon satt?", "translation": "Are you already full?" }
+    ]
+  },
+  "sauber_adj": {
+    "translation": "clean",
+    "explanation": { "_description": "Means 'clean' — free from dirt, washed and in order." },
+    "synonyms": ["tidy", "spotless", "hygienic"],
+    "examples": [
+      { "sentence": "Das Zimmer ist sauber.", "translation": "The room is clean." },
+      { "sentence": "Bitte halt es sauber!", "translation": "Please keep it clean!" }
+    ]
+  },
+  "sauer_adj": {
+    "translation": "sour",
+    "explanation": { "_description": "Means 'sour' — acidic taste. Figuratively: annoyed/grumpy." },
+    "synonyms": ["acidic", "tart", "sharp"],
+    "examples": [
+      { "sentence": "Die Zitrone ist sauer.", "translation": "The lemon is sour." },
+      { "sentence": "Er ist sauer auf mich.", "translation": "He is annoyed at me." }
+    ],
+    "alternativeMeanings": [
+      { "meaning": "annoyed/grumpy", "context": "figurative: a person who is irritated or in a bad mood" }
+    ]
+  },
+  "schade_adj": {
+    "translation": "shame",
+    "explanation": { "_description": "Means 'shame' or 'pity' — a regrettable situation. Used in 'Das ist schade!' (That is a shame!)." },
+    "synonyms": ["pity", "unfortunate", "regrettable"],
+    "examples": [
+      { "sentence": "Das ist schade!", "translation": "That is a shame!" },
+      { "sentence": "Wie schade.", "translation": "What a pity." }
+    ]
+  },
+  "schaedlich_adj": {
+    "translation": "harmful",
+    "explanation": { "_description": "Means 'harmful' — can cause damage." },
+    "synonyms": ["damaging", "toxic", "detrimental"],
+    "examples": [
+      { "sentence": "Rauchen ist schädlich.", "translation": "Smoking is harmful." },
+      { "sentence": "Schädliche Chemikalien.", "translation": "Harmful chemicals." }
+    ]
+  },
+  "scharf_adj": {
+    "translation": "sharp",
+    "explanation": { "_description": "Means 'sharp' — of knife edges, criticism, eyesight. Can also mean spicy/hot for food." },
+    "synonyms": ["keen", "acute", "pointed"],
+    "examples": [
+      { "sentence": "Das Messer ist scharf.", "translation": "The knife is sharp." },
+      { "sentence": "Er hat einen scharfen Blick.", "translation": "He has a sharp eye." },
+      { "sentence": "Das Essen ist sehr scharf.", "translation": "The food is very spicy." }
+    ],
+    "alternativeMeanings": [
+      { "meaning": "spicy/hot", "context": "for food with a strong, peppery flavor" }
+    ]
+  },
+  "schief_adj": {
+    "translation": "crooked",
+    "explanation": { "_description": "Means 'crooked' or 'askew' — not straight, at an angle." },
+    "synonyms": ["lopsided", "tilted", "slanted"],
+    "examples": [
+      { "sentence": "Das Bild hängt schief.", "translation": "The picture is hanging crooked." },
+      { "sentence": "Der Turm ist schief.", "translation": "The tower is crooked." }
+    ]
+  },
+  "schlank_adj": {
+    "translation": "slim",
+    "explanation": { "_description": "Means 'slim' — thin and well-proportioned." },
+    "synonyms": ["slender", "trim", "svelte"],
+    "examples": [
+      { "sentence": "Sie ist sehr schlank.", "translation": "She is very slim." },
+      { "sentence": "Er hat eine schlanke Figur.", "translation": "He has a slim figure." }
+    ]
+  },
+  "schlau_adj": {
+    "translation": "smart",
+    "explanation": { "_description": "Means 'smart' or 'clever' — intelligent in a practical and resourceful way." },
+    "synonyms": ["clever", "shrewd", "bright"],
+    "examples": [
+      { "sentence": "Das war schlau.", "translation": "That was smart." },
+      { "sentence": "Sie ist sehr schlau.", "translation": "She is very smart." }
+    ]
+  },
+  "schlecht_adj": {
+    "translation": "bad",
+    "explanation": { "_description": "Means 'bad' — of low quality or negative. Irregular: schlecht → schlechter → am schlechtesten." },
+    "synonyms": ["poor", "awful", "terrible"],
+    "examples": [
+      { "sentence": "Das Wetter ist schlecht.", "translation": "The weather is bad." },
+      { "sentence": "Mir ist schlecht.", "translation": "I feel sick/nauseous." }
+    ]
+  },
+  "schlimm_adj": {
+    "translation": "bad",
+    "explanation": { "_description": "Means 'bad' or 'serious' — a negative situation or severity." },
+    "synonyms": ["serious", "severe", "grave"],
+    "examples": [
+      { "sentence": "Das ist nicht so schlimm.", "translation": "That is not so bad." },
+      { "sentence": "Eine schlimme Situation.", "translation": "A serious situation." }
+    ]
+  },
+  "schmal_adj": {
+    "translation": "narrow",
+    "explanation": { "_description": "Means 'narrow' — small in width." },
+    "synonyms": ["thin", "slender", "tight"],
+    "examples": [
+      { "sentence": "Die Straße ist schmal.", "translation": "The street is narrow." },
+      { "sentence": "Ein schmales Bett.", "translation": "A narrow bed." }
+    ]
+  },
+  "schmutzig_adj": {
+    "translation": "dirty",
+    "explanation": { "_description": "Means 'dirty' — covered with dirt or grime." },
+    "synonyms": ["filthy", "grimy", "soiled"],
+    "examples": [
+      { "sentence": "Deine Hände sind schmutzig.", "translation": "Your hands are dirty." },
+      { "sentence": "Das Wasser ist schmutzig.", "translation": "The water is dirty." }
+    ]
+  },
+  "schnell_adj": {
+    "translation": "fast",
+    "explanation": { "_description": "Means 'fast' — high speed." },
+    "synonyms": ["quick", "rapid", "swift"],
+    "examples": [
+      { "sentence": "Das Auto fährt schnell.", "translation": "The car drives fast." },
+      { "sentence": "Schnell! Wir kommen zu spät!", "translation": "Hurry! We are running late!" },
+      { "sentence": "Er läuft sehr schnell.", "translation": "He runs very fast." }
+    ]
+  },
+  "schoen_adj": {
+    "translation": "beautiful",
+    "explanation": { "_description": "Means 'beautiful' or 'nice' — aesthetically pleasing." },
+    "synonyms": ["lovely", "pretty", "gorgeous"],
+    "examples": [
+      { "sentence": "Das Wetter ist schön.", "translation": "The weather is nice." },
+      { "sentence": "Du siehst schön aus.", "translation": "You look beautiful." },
+      { "sentence": "Schönes Wochenende!", "translation": "Have a nice weekend!" }
+    ]
+  },
+  "schrecklich_adj": {
+    "translation": "dreadful",
+    "explanation": { "_description": "Means 'dreadful' or 'terrible' — very bad or frightening." },
+    "synonyms": ["awful", "terrible", "horrific"],
+    "examples": [
+      { "sentence": "Das ist schrecklich!", "translation": "That is dreadful!" },
+      { "sentence": "Ein schrecklicher Unfall.", "translation": "A dreadful accident." }
+    ]
+  },
+  "schriftlich_adj": {
+    "translation": "written",
+    "explanation": { "_description": "Means 'written' — in writing, not spoken." },
+    "synonyms": ["in writing", "documented", "on paper"],
+    "examples": [
+      { "sentence": "Das ist eine schriftliche Prüfung.", "translation": "That is a written exam." },
+      { "sentence": "Schriftliche Vereinbarungen.", "translation": "Written agreements." }
+    ]
+  },
+  "schuechtern_adj": {
+    "translation": "shy",
+    "explanation": { "_description": "Means 'shy' — reserved and withdrawn in social situations." },
+    "synonyms": ["timid", "bashful", "reserved"],
+    "examples": [
+      { "sentence": "Sie ist schüchtern.", "translation": "She is shy." },
+      { "sentence": "Er ist schüchtern mit Fremden.", "translation": "He is shy with strangers." }
+    ]
+  },
+  "schuldig_adj": {
+    "translation": "guilty",
+    "explanation": { "_description": "Means 'guilty' — has done something wrong, or owes something." },
+    "synonyms": ["culpable", "liable", "blameworthy"],
+    "examples": [
+      { "sentence": "Er ist schuldig.", "translation": "He is guilty." },
+      { "sentence": "Ich fühle mich schuldig.", "translation": "I feel guilty." }
+    ],
+    "alternativeMeanings": [
+      { "meaning": "owe", "context": "'Ich bin dir etwas schuldig' = I owe you something" }
+    ]
+  },
+  "schwach_adj": {
+    "translation": "weak",
+    "explanation": { "_description": "Means 'weak' — lacking strength or power." },
+    "synonyms": ["feeble", "frail", "powerless"],
+    "examples": [
+      { "sentence": "Er ist schwach.", "translation": "He is weak." },
+      { "sentence": "Das Signal ist schwach.", "translation": "The signal is weak." }
+    ]
+  },
+  "schwanger_adj": {
+    "translation": "pregnant",
+    "explanation": { "_description": "Means 'pregnant' — expecting a child." },
+    "synonyms": ["expecting", "with child"],
+    "examples": [
+      { "sentence": "Sie ist schwanger.", "translation": "She is pregnant." },
+      { "sentence": "Im dritten Monat schwanger.", "translation": "Three months pregnant." }
+    ]
+  },
+  "schwarz_adj": {
+    "translation": "black",
+    "explanation": { "_description": "Means 'black' — color." },
+    "synonyms": ["dark", "jet-black", "ebony"],
+    "examples": [
+      { "sentence": "Das Auto ist schwarz.", "translation": "The car is black." },
+      { "sentence": "Er trägt schwarze Kleidung.", "translation": "He wears black clothing." }
+    ]
+  },
+  "schwer_adj": {
+    "translation": "heavy",
+    "explanation": { "_description": "Means 'heavy' (weight) or 'difficult' (task). Both are very common meanings." },
+    "synonyms": ["weighty", "difficult", "hard"],
+    "examples": [
+      { "sentence": "Die Tasche ist schwer.", "translation": "The bag is heavy." },
+      { "sentence": "Das ist schwer zu verstehen.", "translation": "That is difficult to understand." }
+    ],
+    "alternativeMeanings": [
+      { "meaning": "difficult", "context": "of a task, problem, or situation that is hard or demanding" }
+    ]
+  },
+  "schwierig_adj": {
+    "translation": "difficult",
+    "explanation": { "_description": "Means 'difficult' — requiring much effort to solve or understand." },
+    "synonyms": ["challenging", "hard", "demanding"],
+    "examples": [
+      { "sentence": "Die Aufgabe ist schwierig.", "translation": "The task is difficult." },
+      { "sentence": "Das ist sehr schwierig.", "translation": "That is very difficult." }
+    ]
+  },
+  "selbststaendig_adj": {
+    "translation": "independent",
+    "explanation": { "_description": "Means 'independent' — self-reliant. Also: self-employed (as a business person)." },
+    "synonyms": ["autonomous", "self-reliant", "self-employed"],
+    "examples": [
+      { "sentence": "Sie ist selbstständig.", "translation": "She is independent." },
+      { "sentence": "Er arbeitet selbstständig.", "translation": "He works independently/is self-employed." }
+    ]
+  },
+  "selbstverstaendlich_adj": {
+    "translation": "obvious",
+    "explanation": { "_description": "Means 'obvious' or 'of course' — something that goes without saying." },
+    "synonyms": ["natural", "self-evident", "goes without saying"],
+    "examples": [
+      { "sentence": "Das ist selbstverständlich.", "translation": "That goes without saying." },
+      { "sentence": "Selbstverständlich helfe ich dir.", "translation": "Of course I will help you." }
+    ]
+  },
+  "seltsam_adj": {
+    "translation": "strange",
+    "explanation": { "_description": "Means 'strange' or 'odd' — deviating from the normal." },
+    "synonyms": ["weird", "peculiar", "unusual"],
+    "examples": [
+      { "sentence": "Das ist seltsam.", "translation": "That is strange." },
+      { "sentence": "Er verhält sich seltsam.", "translation": "He is behaving strangely." }
+    ]
+  },
+  "senkrecht_adj": {
+    "translation": "vertical",
+    "explanation": { "_description": "Means 'vertical' — perpendicular to the horizontal, straight up and down." },
+    "synonyms": ["upright", "plumb", "perpendicular"],
+    "examples": [
+      { "sentence": "Die Wand ist senkrecht.", "translation": "The wall is vertical." },
+      { "sentence": "Eine senkrechte Linie.", "translation": "A vertical line." }
+    ]
+  },
+  "sicher_adj": {
+    "translation": "safe",
+    "explanation": { "_description": "Means 'safe' or 'certain' — not dangerous, or definitely true." },
+    "synonyms": ["secure", "certain", "sure"],
+    "examples": [
+      { "sentence": "Das ist sicher.", "translation": "That is safe/certain." },
+      { "sentence": "Ich bin sicher, dass er kommt.", "translation": "I am sure that he will come." }
+    ]
+  },
+  "sichtbar_adj": {
+    "translation": "visible",
+    "explanation": { "_description": "Means 'visible' — can be seen, not hidden." },
+    "synonyms": ["observable", "apparent", "noticeable"],
+    "examples": [
+      { "sentence": "Das ist sichtbar.", "translation": "That is visible." },
+      { "sentence": "Ein sichtbarer Unterschied.", "translation": "A visible difference." }
+    ]
+  },
+  "sinnlos_adj": {
+    "translation": "pointless",
+    "explanation": { "_description": "Means 'pointless' or 'meaningless' — without purpose or meaning." },
+    "synonyms": ["futile", "useless", "purposeless"],
+    "examples": [
+      { "sentence": "Das ist sinnlos.", "translation": "That is pointless." },
+      { "sentence": "Sinnlose Diskussionen.", "translation": "Pointless discussions." }
+    ]
+  },
+  "sinnvoll_adj": {
+    "translation": "sensible",
+    "explanation": { "_description": "Means 'sensible' or 'meaningful' — has a good reason." },
+    "synonyms": ["meaningful", "reasonable", "worthwhile"],
+    "examples": [
+      { "sentence": "Das ist sinnvoll.", "translation": "That is sensible." },
+      { "sentence": "Eine sinnvolle Lösung.", "translation": "A sensible solution." }
+    ]
+  },
+  "sonnig_adj": {
+    "translation": "sunny",
+    "explanation": { "_description": "Means 'sunny' — weather with sunshine." },
+    "synonyms": ["bright", "sunlit", "clear"],
+    "examples": [
+      { "sentence": "Es ist sonnig heute.", "translation": "It is sunny today." },
+      { "sentence": "Ein sonniger Tag.", "translation": "A sunny day." }
+    ]
+  },
+  "sozial_adj": {
+    "translation": "social",
+    "explanation": { "_description": "Means 'social' — relating to society or social relations." },
+    "synonyms": ["societal", "communal", "interpersonal"],
+    "examples": [
+      { "sentence": "Das ist ein soziales Problem.", "translation": "That is a social problem." },
+      { "sentence": "Soziale Medien sind wichtig.", "translation": "Social media is important." }
+    ]
+  },
+  "spaet_adj": {
+    "translation": "late",
+    "explanation": { "_description": "Means 'late' — after the expected time, or late in the day." },
+    "synonyms": ["overdue", "behind schedule"],
+    "examples": [
+      { "sentence": "Es ist spät.", "translation": "It is late." },
+      { "sentence": "Du kommst zu spät.", "translation": "You are coming too late." }
+    ]
+  },
+  "spaeter_adj": {
+    "translation": "later",
+    "explanation": { "_description": "Means 'later' — after this point in time. Comparative of 'spät'." },
+    "synonyms": ["afterward", "subsequently"],
+    "examples": [
+      { "sentence": "Bis später!", "translation": "See you later!" },
+      { "sentence": "Ich erkläre das später.", "translation": "I will explain that later." }
+    ]
+  },
+  "spannend_adj": {
+    "translation": "exciting",
+    "explanation": { "_description": "Means 'exciting' — interesting and engaging, holding your attention." },
+    "synonyms": ["thrilling", "gripping", "captivating"],
+    "examples": [
+      { "sentence": "Das Buch ist spannend.", "translation": "The book is exciting." },
+      { "sentence": "Geschichte ist sehr spannend.", "translation": "History is very exciting." }
+    ]
+  },
+  "speziell_adj": {
+    "translation": "special",
+    "explanation": { "_description": "Means 'special' — out of the ordinary, distinct." },
+    "synonyms": ["particular", "exceptional", "unique"],
+    "examples": [
+      { "sentence": "Das ist ein spezieller Anlass.", "translation": "That is a special occasion." },
+      { "sentence": "Etwas Spezielles.", "translation": "Something special." }
+    ]
+  },
+  "spitz_adj": {
+    "translation": "pointed",
+    "explanation": { "_description": "Means 'pointed' — with a sharp tip. Opposite of blunt or rounded." },
+    "synonyms": ["sharp", "tapered", "needle-like"],
+    "examples": [
+      { "sentence": "Der Bleistift ist spitz.", "translation": "The pencil is pointed." },
+      { "sentence": "Ein spitzer Winkel.", "translation": "A sharp angle." }
+    ]
+  },
+  "sportlich_adj": {
+    "translation": "sporty",
+    "explanation": { "_description": "Means 'sporty' — athletically active or with a sporty style." },
+    "synonyms": ["athletic", "active", "fit"],
+    "examples": [
+      { "sentence": "Er ist sehr sportlich.", "translation": "He is very sporty." },
+      { "sentence": "Ein sportliches Auto.", "translation": "A sporty car." }
+    ]
+  },
+  "staedtisch_adj": {
+    "translation": "urban",
+    "explanation": { "_description": "Means 'urban' or 'city-like' — relating to the city and city life." },
+    "synonyms": ["metropolitan", "city", "municipal"],
+    "examples": [
+      { "sentence": "Das ist ein städtisches Gebiet.", "translation": "That is an urban area." },
+      { "sentence": "Städtischer Verkehr.", "translation": "Urban traffic." }
+    ]
+  },
+  "staendig_adj": {
+    "translation": "constant",
+    "explanation": { "_description": "Means 'constant' or 'continual' — without interruption, all the time." },
+    "synonyms": ["continuous", "perpetual", "incessant"],
+    "examples": [
+      { "sentence": "Er arbeitet ständig.", "translation": "He constantly works." },
+      { "sentence": "Das ist ständig ein Problem.", "translation": "That is constantly a problem." }
+    ]
+  },
+  "stark_adj": {
+    "translation": "strong",
+    "explanation": { "_description": "Means 'strong' — with great force or intensity. Comparative: stärker." },
+    "synonyms": ["powerful", "robust", "mighty"],
+    "examples": [
+      { "sentence": "Er ist sehr stark.", "translation": "He is very strong." },
+      { "sentence": "Ein starker Wind.", "translation": "A strong wind." }
+    ]
+  },
+  "statistisch_adj": {
+    "translation": "statistical",
+    "explanation": { "_description": "Means 'statistical' — relating to statistics and numbers." },
+    "synonyms": ["numerical", "quantitative"],
+    "examples": [
+      { "sentence": "Das ist statistisch gesehen normal.", "translation": "That is statistically normal." },
+      { "sentence": "Statistische Daten.", "translation": "Statistical data." }
+    ]
+  },
+  "steil_adj": {
+    "translation": "steep",
+    "explanation": { "_description": "Means 'steep' — with a great incline." },
+    "synonyms": ["sharp", "abrupt", "precipitous"],
+    "examples": [
+      { "sentence": "Der Berg ist steil.", "translation": "The mountain is steep." },
+      { "sentence": "Eine steile Treppe.", "translation": "A steep staircase." }
+    ]
+  },
+  "stilistisch_adj": {
+    "translation": "stylistic",
+    "explanation": { "_description": "Means 'stylistic' — relating to style and aesthetics." },
+    "synonyms": ["aesthetic", "artistic"],
+    "examples": [
+      { "sentence": "Stilistische Unterschiede.", "translation": "Stylistic differences." },
+      { "sentence": "Das ist eine stilistische Wahl.", "translation": "That is a stylistic choice." }
+    ]
+  },
+  "still_adj": {
+    "translation": "quiet",
+    "explanation": { "_description": "Means 'quiet' or 'still' — no sound, calm. Can also mean 'reserved' of a person." },
+    "synonyms": ["silent", "tranquil", "motionless"],
+    "examples": [
+      { "sentence": "Es ist still.", "translation": "It is quiet." },
+      { "sentence": "Sei still!", "translation": "Be quiet!" }
+    ]
+  },
+  "stolz_adj": {
+    "translation": "proud",
+    "explanation": { "_description": "Means 'proud' — satisfied with one's own or others' achievements." },
+    "synonyms": ["prideful", "pleased", "boastful"],
+    "examples": [
+      { "sentence": "Ich bin stolz auf dich.", "translation": "I am proud of you." },
+      { "sentence": "Er ist stolz auf seine Arbeit.", "translation": "He is proud of his work." }
+    ]
+  },
+  "strafbar_adj": {
+    "translation": "punishable",
+    "explanation": { "_description": "Means 'punishable' — subject to legal penalty." },
+    "synonyms": ["criminal", "illegal", "prosecutable"],
+    "examples": [
+      { "sentence": "Das ist strafbar.", "translation": "That is punishable." },
+      { "sentence": "Strafbare Handlungen.", "translation": "Punishable actions." }
+    ]
+  },
+  "streng_adj": {
+    "translation": "strict",
+    "explanation": { "_description": "Means 'strict' — requiring close adherence to rules." },
+    "synonyms": ["rigid", "stern", "demanding"],
+    "examples": [
+      { "sentence": "Der Lehrer ist streng.", "translation": "The teacher is strict." },
+      { "sentence": "Strenge Regeln.", "translation": "Strict rules." }
+    ]
+  },
+  "stressig_adj": {
+    "translation": "stressful",
+    "explanation": { "_description": "Means 'stressful' — causing stress." },
+    "synonyms": ["demanding", "tense", "high-pressure"],
+    "examples": [
+      { "sentence": "Die Arbeit ist stressig.", "translation": "The work is stressful." },
+      { "sentence": "Ein stressiger Tag.", "translation": "A stressful day." }
+    ]
+  },
+  "stumm_adj": {
+    "translation": "mute",
+    "explanation": { "_description": "Means 'mute' or 'silent' — unable to speak or making no sound." },
+    "synonyms": ["speechless", "silent", "voiceless"],
+    "examples": [
+      { "sentence": "Er ist stumm.", "translation": "He is mute." },
+      { "sentence": "Ein stummer Film.", "translation": "A silent film." }
+    ]
+  },
+  "suess_adj": {
+    "translation": "sweet",
+    "explanation": { "_description": "Means 'sweet' — sweet taste or cute appearance." },
+    "synonyms": ["cute", "adorable", "sugary"],
+    "examples": [
+      { "sentence": "Die Katze ist süß!", "translation": "The cat is cute!" },
+      { "sentence": "Das Baby ist so süß.", "translation": "The baby is so sweet." },
+      { "sentence": "Das Dessert ist süß.", "translation": "The dessert is sweet." }
+    ]
+  },
+  "super_adj": {
+    "translation": "super",
+    "explanation": { "_description": "Means 'super' — very good, excellent. Informal and enthusiastic." },
+    "synonyms": ["great", "awesome", "fantastic"],
+    "examples": [
+      { "sentence": "Das ist super!", "translation": "That is super!" },
+      { "sentence": "Du bist super.", "translation": "You are super." }
+    ]
+  },
+  "sympathisch_adj": {
+    "translation": "likeable",
+    "explanation": { "_description": "Means 'likeable' or 'pleasant' — easy to like and get along with." },
+    "synonyms": ["pleasant", "agreeable", "congenial"],
+    "examples": [
+      { "sentence": "Er ist sehr sympathisch.", "translation": "He is very likeable." },
+      { "sentence": "Sie macht einen sympathischen Eindruck.", "translation": "She makes a likeable impression." }
+    ]
+  },
+  "taub_adj": {
+    "translation": "deaf",
+    "explanation": { "_description": "Means 'deaf' — unable to hear. Can also mean numb (of limbs)." },
+    "synonyms": ["hearing-impaired", "hard of hearing"],
+    "examples": [
+      { "sentence": "Er ist taub.", "translation": "He is deaf." },
+      { "sentence": "Meine Hand ist taub.", "translation": "My hand is numb." }
+    ]
+  },
+  "teuer_adj": {
+    "translation": "expensive",
+    "explanation": { "_description": "Means 'expensive' — high price." },
+    "synonyms": ["costly", "pricey", "dear"],
+    "examples": [
+      { "sentence": "Das ist zu teuer.", "translation": "That is too expensive." },
+      { "sentence": "Der Ring ist teuer.", "translation": "The ring is expensive." }
+    ]
+  },
+  "theoretisch_adj": {
+    "translation": "theoretical",
+    "explanation": { "_description": "Means 'theoretical' — based on theory, not practice." },
+    "synonyms": ["abstract", "academic", "speculative"],
+    "examples": [
+      { "sentence": "Das ist rein theoretisch.", "translation": "That is purely theoretical." },
+      { "sentence": "Theoretisch ist das möglich.", "translation": "Theoretically that is possible." }
+    ]
+  },
+  "tief_adj": {
+    "translation": "deep",
+    "explanation": { "_description": "Means 'deep' — great depth. Can also mean low (of voice or price)." },
+    "synonyms": ["profound", "abysmal", "intense"],
+    "examples": [
+      { "sentence": "Das Wasser ist tief.", "translation": "The water is deep." },
+      { "sentence": "Er hat eine tiefe Stimme.", "translation": "He has a deep voice." }
+    ],
+    "alternativeMeanings": [
+      { "meaning": "low", "context": "of voice, musical pitch, or price" }
+    ]
+  },
+  "toedlich_adj": {
+    "translation": "deadly",
+    "explanation": { "_description": "Means 'deadly' or 'fatal' — causing death." },
+    "synonyms": ["fatal", "lethal", "mortal"],
+    "examples": [
+      { "sentence": "Das ist tödlich.", "translation": "That is deadly." },
+      { "sentence": "Eine tödliche Krankheit.", "translation": "A deadly disease." }
+    ]
+  },
+  "tolerant_adj": {
+    "translation": "tolerant",
+    "explanation": { "_description": "Means 'tolerant' — accepting of others' views and ways of life." },
+    "synonyms": ["open-minded", "accepting", "broad-minded"],
+    "examples": [
+      { "sentence": "Sei tolerant!", "translation": "Be tolerant!" },
+      { "sentence": "Eine tolerante Gesellschaft.", "translation": "A tolerant society." }
+    ]
+  },
+  "toll_adj": {
+    "translation": "great",
+    "explanation": { "_description": "Means 'great' or 'wonderful' — a positive exclamation. Informal and enthusiastic." },
+    "synonyms": ["wonderful", "fantastic", "brilliant"],
+    "examples": [
+      { "sentence": "Das ist toll!", "translation": "That is great!" },
+      { "sentence": "Die Party war toll.", "translation": "The party was wonderful." },
+      { "sentence": "Du bist toll!", "translation": "You are wonderful!" }
+    ]
+  },
+  "tot_adj": {
+    "translation": "dead",
+    "explanation": { "_description": "Means 'dead' — without life." },
+    "synonyms": ["lifeless", "deceased", "gone"],
+    "examples": [
+      { "sentence": "Der Fisch ist tot.", "translation": "The fish is dead." },
+      { "sentence": "Die Pflanze ist tot.", "translation": "The plant is dead." }
+    ]
+  },
+  "total_adj": {
+    "translation": "total",
+    "explanation": { "_description": "Means 'total' or 'complete'. Used as an intensifier." },
+    "synonyms": ["complete", "utter", "absolute"],
+    "examples": [
+      { "sentence": "Das ist ein totales Chaos.", "translation": "That is total chaos." },
+      { "sentence": "Das ist total falsch.", "translation": "That is totally wrong." }
+    ]
+  },
+  "traditionell_adj": {
+    "translation": "traditional",
+    "explanation": { "_description": "Means 'traditional' — in accordance with tradition and custom." },
+    "synonyms": ["conventional", "classic", "time-honored"],
+    "examples": [
+      { "sentence": "Ein traditionelles Fest.", "translation": "A traditional festival." },
+      { "sentence": "Traditionelle Werte.", "translation": "Traditional values." }
+    ]
+  },
+  "traurig_adj": {
+    "translation": "sad",
+    "explanation": { "_description": "Means 'sad' — unhappy and downcast." },
+    "synonyms": ["unhappy", "sorrowful", "melancholy"],
+    "examples": [
+      { "sentence": "Warum bist du traurig?", "translation": "Why are you sad?" },
+      { "sentence": "Das ist eine traurige Geschichte.", "translation": "That is a sad story." },
+      { "sentence": "Ich bin traurig.", "translation": "I am sad." }
+    ]
+  },
+  "treu_adj": {
+    "translation": "loyal",
+    "explanation": { "_description": "Means 'loyal' or 'faithful' — reliable and devoted." },
+    "synonyms": ["faithful", "devoted", "dedicated"],
+    "examples": [
+      { "sentence": "Er ist treu.", "translation": "He is loyal." },
+      { "sentence": "Ein treuer Freund.", "translation": "A loyal friend." }
+    ]
+  },
+  "trocken_adj": {
+    "translation": "dry",
+    "explanation": { "_description": "Means 'dry' — without moisture. Figuratively can mean boring or uninspiring." },
+    "synonyms": ["arid", "parched", "desiccated"],
+    "examples": [
+      { "sentence": "Das Handtuch ist trocken.", "translation": "The towel is dry." },
+      { "sentence": "Es ist heute sehr trocken.", "translation": "It is very dry today." },
+      { "sentence": "Er hat einen trockenen Humor.", "translation": "He has a dry sense of humor." }
+    ],
+    "alternativeMeanings": [
+      { "meaning": "boring/dull", "context": "figurative: of something uninspiring or uninteresting" }
+    ]
+  },
+  "typisch_adj": {
+    "translation": "typical",
+    "explanation": { "_description": "Means 'typical' — representative of a type or group." },
+    "synonyms": ["characteristic", "normal", "standard"],
+    "examples": [
+      { "sentence": "Das ist typisch deutsch.", "translation": "That is typically German." },
+      { "sentence": "Ein typisches Beispiel.", "translation": "A typical example." }
+    ]
+  },
+  "ueberrascht_adj": {
+    "translation": "surprised",
+    "explanation": { "_description": "Means 'surprised' — an unexpected reaction." },
+    "synonyms": ["astonished", "amazed", "startled"],
+    "examples": [
+      { "sentence": "Ich bin überrascht.", "translation": "I am surprised." },
+      { "sentence": "Sie ist überrascht.", "translation": "She is surprised." }
+    ]
+  },
+  "ueblich_adj": {
+    "translation": "usual",
+    "explanation": { "_description": "Means 'usual' or 'customary' — as it normally is." },
+    "synonyms": ["normal", "ordinary", "standard"],
+    "examples": [
+      { "sentence": "Das ist üblich.", "translation": "That is usual." },
+      { "sentence": "Wie üblich.", "translation": "As usual." }
+    ]
+  },
+  "uebrig_adj": {
+    "translation": "remaining",
+    "explanation": { "_description": "Means 'remaining' or 'left over' — what is left after use." },
+    "synonyms": ["leftover", "spare", "residual"],
+    "examples": [
+      { "sentence": "Was ist übrig?", "translation": "What is left over?" },
+      { "sentence": "Das Übrige.", "translation": "The rest." }
+    ]
+  },
+  "ungeduldig_adj": {
+    "translation": "impatient",
+    "explanation": { "_description": "Means 'impatient' — cannot wait, restless." },
+    "synonyms": ["restless", "eager", "hasty"],
+    "examples": [
+      { "sentence": "Sei nicht ungeduldig!", "translation": "Don't be impatient!" },
+      { "sentence": "Er ist ungeduldig.", "translation": "He is impatient." }
+    ]
+  },
+  "ungewoehnlich_adj": {
+    "translation": "unusual",
+    "explanation": { "_description": "Means 'unusual' — not as expected, deviating from the norm." },
+    "synonyms": ["rare", "exceptional", "atypical"],
+    "examples": [
+      { "sentence": "Das ist ungewöhnlich.", "translation": "That is unusual." },
+      { "sentence": "Ein ungewöhnlicher Name.", "translation": "An unusual name." }
+    ]
+  },
+  "unglaublich_adj": {
+    "translation": "incredible",
+    "explanation": { "_description": "Means 'incredible' — hard to believe, or used as an intensifier." },
+    "synonyms": ["unbelievable", "amazing", "astounding"],
+    "examples": [
+      { "sentence": "Das ist unglaublich!", "translation": "That is incredible!" },
+      { "sentence": "Sie ist unglaublich talentiert.", "translation": "She is incredibly talented." }
+    ]
+  },
+  "unheimlich_adj": {
+    "translation": "eerie",
+    "explanation": { "_description": "Means 'eerie' or 'creepy' — unsettling and frightening. Also used as intensifier: 'unheimlich gut' = incredibly good." },
+    "synonyms": ["creepy", "sinister", "uncanny"],
+    "examples": [
+      { "sentence": "Das ist unheimlich.", "translation": "That is eerie." },
+      { "sentence": "Er ist unheimlich gut.", "translation": "He is incredibly good." }
+    ],
+    "alternativeMeanings": [
+      { "meaning": "incredibly/enormously", "context": "informal intensifier: 'unheimlich viel' = an incredible amount" }
+    ]
+  },
+  "unterschiedlich_adj": {
+    "translation": "different",
+    "explanation": { "_description": "Means 'different' — not the same, varying." },
+    "synonyms": ["varied", "diverse", "varying"],
+    "examples": [
+      { "sentence": "Die Meinungen sind unterschiedlich.", "translation": "The opinions are different." },
+      { "sentence": "Unterschiedliche Kulturen.", "translation": "Different cultures." }
+    ]
+  },
+  "urspruenglich_adj": {
+    "translation": "original",
+    "explanation": { "_description": "Means 'original' — as it was at the beginning." },
+    "synonyms": ["initial", "first", "primary"],
+    "examples": [
+      { "sentence": "Der ursprüngliche Plan.", "translation": "The original plan." },
+      { "sentence": "Das war ursprünglich anders.", "translation": "That was originally different." }
+    ]
+  },
+  "vegetarisch_adj": {
+    "translation": "vegetarian",
+    "explanation": { "_description": "Means 'vegetarian' — without meat, plant-based." },
+    "synonyms": ["plant-based", "meat-free"],
+    "examples": [
+      { "sentence": "Ich esse vegetarisch.", "translation": "I eat vegetarian." },
+      { "sentence": "Ein vegetarisches Gericht.", "translation": "A vegetarian dish." }
+    ]
+  },
+  "verantwortlich_adj": {
+    "translation": "responsible",
+    "explanation": { "_description": "Means 'responsible' — accountable for something." },
+    "synonyms": ["accountable", "liable", "in charge"],
+    "examples": [
+      { "sentence": "Er ist verantwortlich dafür.", "translation": "He is responsible for it." },
+      { "sentence": "Wer ist verantwortlich?", "translation": "Who is responsible?" }
+    ]
+  },
+  "vergeblich_adj": {
+    "translation": "futile",
+    "explanation": { "_description": "Means 'futile' — without result, failed effort." },
+    "synonyms": ["useless", "in vain", "unsuccessful"],
+    "examples": [
+      { "sentence": "Das war vergeblich.", "translation": "That was futile." },
+      { "sentence": "Der Versuch war vergeblich.", "translation": "The attempt was futile." }
+    ]
+  },
+  "verheiratet_adj": {
+    "translation": "married",
+    "explanation": { "_description": "Means 'married' — having entered marriage." },
+    "synonyms": ["wed", "wedded", "in matrimony"],
+    "examples": [
+      { "sentence": "Sie ist verheiratet.", "translation": "She is married." },
+      { "sentence": "Wie lange bist du schon verheiratet?", "translation": "How long have you been married?" }
+    ]
+  },
+  "vermutlich_adj": {
+    "translation": "presumably",
+    "explanation": { "_description": "Means 'presumably' or 'probably' — not certain but likely." },
+    "synonyms": ["probably", "likely", "apparently"],
+    "examples": [
+      { "sentence": "Das ist vermutlich richtig.", "translation": "That is presumably correct." },
+      { "sentence": "Er kommt vermutlich später.", "translation": "He will presumably come later." }
+    ]
+  },
+  "vernuenftig_adj": {
+    "translation": "reasonable",
+    "explanation": { "_description": "Means 'reasonable' or 'sensible' — rational and not impulsive." },
+    "synonyms": ["sensible", "rational", "level-headed"],
+    "examples": [
+      { "sentence": "Sei vernünftig!", "translation": "Be reasonable!" },
+      { "sentence": "Das ist eine vernünftige Entscheidung.", "translation": "That is a reasonable decision." }
+    ]
+  },
+  "verrueckt_adj": {
+    "translation": "crazy",
+    "explanation": { "_description": "Means 'crazy' or 'mad' — not normal, eccentric. Can be used positively in slang." },
+    "synonyms": ["mad", "insane", "eccentric"],
+    "examples": [
+      { "sentence": "Das ist verrückt!", "translation": "That is crazy!" },
+      { "sentence": "Er ist ein bisschen verrückt.", "translation": "He is a bit crazy." }
+    ]
+  },
+  "verstaendlich_adj": {
+    "translation": "understandable",
+    "explanation": { "_description": "Means 'understandable' or 'comprehensible' — easy to understand." },
+    "synonyms": ["comprehensible", "clear", "intelligible"],
+    "examples": [
+      { "sentence": "Das ist verständlich.", "translation": "That is understandable." },
+      { "sentence": "Eine verständliche Erklärung.", "translation": "An understandable explanation." }
+    ]
+  },
+  "verwandt_adj": {
+    "translation": "related",
+    "explanation": { "_description": "Means 'related' — in the same family. Originally a participle, now a fixed adjective." },
+    "synonyms": ["kin", "connected by blood"],
+    "examples": [
+      { "sentence": "Wir sind verwandt.", "translation": "We are related." },
+      { "sentence": "Er ist mir verwandt.", "translation": "He is related to me." }
+    ]
+  },
+  "viel_adj": {
+    "translation": "much",
+    "explanation": { "_description": "Means 'much' or 'many' — a large quantity. Irregular: viel → mehr → am meisten." },
+    "synonyms": ["many", "a lot", "plenty"],
+    "examples": [
+      { "sentence": "Ich habe viel zu tun.", "translation": "I have much to do." },
+      { "sentence": "Viel Spaß!", "translation": "Have fun!" },
+      { "sentence": "Vielen Dank!", "translation": "Many thanks!" }
+    ]
+  },
+  "virtuell_adj": {
+    "translation": "virtual",
+    "explanation": { "_description": "Means 'virtual' — digital, not physically present." },
+    "synonyms": ["digital", "online", "simulated"],
+    "examples": [
+      { "sentence": "Ein virtuelles Meeting.", "translation": "A virtual meeting." },
+      { "sentence": "Virtuelle Realität.", "translation": "Virtual reality." }
+    ]
+  },
+  "voll_adj": {
+    "translation": "full",
+    "explanation": { "_description": "Means 'full' — filled to capacity. Informally also used for drunk." },
+    "synonyms": ["filled", "packed", "complete"],
+    "examples": [
+      { "sentence": "Das Glas ist voll.", "translation": "The glass is full." },
+      { "sentence": "Das Stadion ist voll.", "translation": "The stadium is full." }
+    ],
+    "alternativeMeanings": [
+      { "meaning": "drunk", "context": "informal: a person who is intoxicated" }
+    ]
+  },
+  "voraussichtlich_adj": {
+    "translation": "expected",
+    "explanation": { "_description": "Means 'expected' or 'anticipated' — likely to happen." },
+    "synonyms": ["anticipated", "projected", "likely"],
+    "examples": [
+      { "sentence": "Er kommt voraussichtlich um 18 Uhr.", "translation": "He is expected to arrive at 6 PM." },
+      { "sentence": "Voraussichtlich regnet es.", "translation": "Rain is expected." }
+    ]
+  },
+  "vorlaeufig_adj": {
+    "translation": "preliminary",
+    "explanation": { "_description": "Means 'preliminary' or 'provisional' — temporary, not final." },
+    "synonyms": ["provisional", "tentative", "interim"],
+    "examples": [
+      { "sentence": "Das ist eine vorläufige Entscheidung.", "translation": "That is a preliminary decision." },
+      { "sentence": "Vorläufige Ergebnisse.", "translation": "Preliminary results." }
+    ]
+  },
+  "vorsichtig_adj": {
+    "translation": "careful",
+    "explanation": { "_description": "Means 'careful' or 'cautious' — avoiding unnecessary risks." },
+    "synonyms": ["cautious", "wary", "prudent"],
+    "examples": [
+      { "sentence": "Sei vorsichtig!", "translation": "Be careful!" },
+      { "sentence": "Fahre vorsichtig.", "translation": "Drive carefully." }
+    ]
+  },
+  "wach_adj": {
+    "translation": "awake",
+    "explanation": { "_description": "Means 'awake' — not sleeping, alert." },
+    "synonyms": ["alert", "conscious", "wide-awake"],
+    "examples": [
+      { "sentence": "Ich bin wach.", "translation": "I am awake." },
+      { "sentence": "Bleib wach!", "translation": "Stay awake!" }
+    ]
+  },
+  "wahnsinnig_adj": {
+    "translation": "insane",
+    "explanation": { "_description": "Means 'insane' or 'crazy' — mentally unstable, or used as intensifier (incredibly much)." },
+    "synonyms": ["mad", "wild", "extreme"],
+    "examples": [
+      { "sentence": "Das ist wahnsinnig!", "translation": "That is insane!" },
+      { "sentence": "Er arbeitet wahnsinnig viel.", "translation": "He works like crazy." }
+    ],
+    "alternativeMeanings": [
+      { "meaning": "incredibly/enormously", "context": "informal intensifier: 'wahnsinnig schön' = incredibly beautiful" }
+    ]
+  },
+  "wahr_adj": {
+    "translation": "true",
+    "explanation": { "_description": "Means 'true' — in accordance with reality." },
+    "synonyms": ["real", "accurate", "genuine"],
+    "examples": [
+      { "sentence": "Das ist wahr.", "translation": "That is true." },
+      { "sentence": "Ist das wahr?", "translation": "Is that true?" }
+    ]
+  },
+  "warm_adj": {
+    "translation": "warm",
+    "explanation": { "_description": "Means 'warm' — higher temperature than cool. Comparative: wärmer." },
+    "synonyms": ["lukewarm", "cozy", "heated"],
+    "examples": [
+      { "sentence": "Es ist warm heute.", "translation": "It is warm today." },
+      { "sentence": "Das Essen ist noch warm.", "translation": "The food is still warm." },
+      { "sentence": "Zieh etwas Warmes an!", "translation": "Put on something warm!" }
+    ]
+  },
+  "weiblich_adj": {
+    "translation": "female",
+    "explanation": { "_description": "Means 'female' or 'feminine' — of the female gender." },
+    "synonyms": ["feminine", "womanly"],
+    "examples": [
+      { "sentence": "Das ist ein weiblicher Name.", "translation": "That is a female name." },
+      { "sentence": "Weibliche Eigenschaften.", "translation": "Female characteristics." }
+    ]
+  },
+  "weich_adj": {
+    "translation": "soft",
+    "explanation": { "_description": "Means 'soft' — not hard, pliable." },
+    "synonyms": ["tender", "pliable", "gentle"],
+    "examples": [
+      { "sentence": "Das Kissen ist weich.", "translation": "The pillow is soft." },
+      { "sentence": "Die Butter ist weich.", "translation": "The butter is soft." }
+    ]
+  },
+  "weiss_adj": {
+    "translation": "white",
+    "explanation": { "_description": "Means 'white' — color." },
+    "synonyms": ["ivory", "snow-white", "chalk-white"],
+    "examples": [
+      { "sentence": "Der Schnee ist weiß.", "translation": "The snow is white." },
+      { "sentence": "Sie trägt ein weißes Kleid.", "translation": "She wears a white dress." }
+    ]
+  },
+  "weit_adj": {
+    "translation": "far",
+    "explanation": { "_description": "Means 'far' (distance) or 'wide' (space or clothing). As adverb: far away." },
+    "synonyms": ["distant", "wide", "remote"],
+    "examples": [
+      { "sentence": "Das ist weit weg.", "translation": "That is far away." },
+      { "sentence": "Ein weiter Blick.", "translation": "A wide view." }
+    ]
+  },
+  "weiter_adj": {
+    "translation": "further",
+    "explanation": { "_description": "Means 'further' — continuation, additional. Comparative of 'weit'." },
+    "synonyms": ["additional", "more", "beyond"],
+    "examples": [
+      { "sentence": "Und weiter?", "translation": "And further?" },
+      { "sentence": "Keine weiteren Fragen.", "translation": "No further questions." }
+    ]
+  },
+  "wert_adj": {
+    "translation": "worth",
+    "explanation": { "_description": "Means 'worth' — has a value or deserves something." },
+    "synonyms": ["valuable", "deserving", "worthwhile"],
+    "examples": [
+      { "sentence": "Das ist es wert.", "translation": "That is worth it." },
+      { "sentence": "Es ist einen Versuch wert.", "translation": "It is worth a try." }
+    ]
+  },
+  "wertlos_adj": {
+    "translation": "worthless",
+    "explanation": { "_description": "Means 'worthless' — without value." },
+    "synonyms": ["useless", "valueless", "of no use"],
+    "examples": [
+      { "sentence": "Das ist wertlos.", "translation": "That is worthless." },
+      { "sentence": "Ein wertloser Gegenstand.", "translation": "A worthless object." }
+    ]
+  },
+  "wertvoll_adj": {
+    "translation": "valuable",
+    "explanation": { "_description": "Means 'valuable' — of great value, materially or figuratively." },
+    "synonyms": ["precious", "priceless", "significant"],
+    "examples": [
+      { "sentence": "Das ist wertvoll.", "translation": "That is valuable." },
+      { "sentence": "Eine wertvolle Erfahrung.", "translation": "A valuable experience." }
+    ]
+  },
+  "wichtig_adj": {
+    "translation": "important",
+    "explanation": { "_description": "Means 'important' — of great significance." },
+    "synonyms": ["significant", "essential", "critical"],
+    "examples": [
+      { "sentence": "Das ist sehr wichtig.", "translation": "That is very important." },
+      { "sentence": "Ich habe eine wichtige Frage.", "translation": "I have an important question." },
+      { "sentence": "Familie ist wichtig für mich.", "translation": "Family is important to me." }
+    ]
+  },
+  "wild_adj": {
+    "translation": "wild",
+    "explanation": { "_description": "Means 'wild' — untamed or uncontrolled." },
+    "synonyms": ["untamed", "unruly", "fierce"],
+    "examples": [
+      { "sentence": "Das Tier ist wild.", "translation": "The animal is wild." },
+      { "sentence": "Eine wilde Party.", "translation": "A wild party." }
+    ]
+  },
+  "windig_adj": {
+    "translation": "windy",
+    "explanation": { "_description": "Means 'windy' — weather with lots of wind." },
+    "synonyms": ["breezy", "gusty", "blustery"],
+    "examples": [
+      { "sentence": "Es ist windig draußen.", "translation": "It is windy outside." },
+      { "sentence": "Ein windiger Tag.", "translation": "A windy day." }
+    ]
+  },
+  "wirklich_adj": {
+    "translation": "really",
+    "explanation": { "_description": "Means 'real' or 'really' — genuine, actual. Used as intensifier: 'wirklich gut' = really good." },
+    "synonyms": ["genuinely", "truly", "actually"],
+    "examples": [
+      { "sentence": "Das ist wirklich wahr.", "translation": "That is really true." },
+      { "sentence": "Er ist wirklich nett.", "translation": "He is really nice." }
+    ]
+  },
+  "witzig_adj": {
+    "translation": "funny",
+    "explanation": { "_description": "Means 'funny' or 'witty' — something that makes you laugh or smile." },
+    "synonyms": ["amusing", "humorous", "entertaining"],
+    "examples": [
+      { "sentence": "Das ist witzig!", "translation": "That is funny!" },
+      { "sentence": "Er macht witzige Kommentare.", "translation": "He makes funny comments." }
+    ]
+  },
+  "wuetend_adj": {
+    "translation": "furious",
+    "explanation": { "_description": "Means 'furious' or 'enraged' — very angry." },
+    "synonyms": ["enraged", "livid", "infuriated"],
+    "examples": [
+      { "sentence": "Er ist wütend.", "translation": "He is furious." },
+      { "sentence": "Sie ist wütend auf ihn.", "translation": "She is furious at him." }
+    ]
+  },
+  "zahlreich_adj": {
+    "translation": "numerous",
+    "explanation": { "_description": "Means 'numerous' — many in number." },
+    "synonyms": ["many", "abundant", "plentiful"],
+    "examples": [
+      { "sentence": "Zahlreiche Besucher kamen.", "translation": "Numerous visitors came." },
+      { "sentence": "Zahlreiche Möglichkeiten.", "translation": "Numerous possibilities." }
+    ]
+  },
+  "zahm_adj": {
+    "translation": "tame",
+    "explanation": { "_description": "Means 'tame' — domesticated and accustomed to humans (of animals)." },
+    "synonyms": ["domesticated", "gentle", "manageable"],
+    "examples": [
+      { "sentence": "Das Tier ist zahm.", "translation": "The animal is tame." },
+      { "sentence": "Ein zahmer Hund.", "translation": "A tame dog." }
+    ]
+  },
+  "zentral_adj": {
+    "translation": "central",
+    "explanation": { "_description": "Means 'central' — in the middle, or of great importance." },
+    "synonyms": ["middle", "key", "pivotal"],
+    "examples": [
+      { "sentence": "Das Hotel liegt zentral.", "translation": "The hotel is centrally located." },
+      { "sentence": "Das ist ein zentrales Thema.", "translation": "That is a central topic." }
+    ]
+  },
+  "zufrieden_adj": {
+    "translation": "satisfied",
+    "explanation": { "_description": "Means 'satisfied' or 'content' — pleased with the situation." },
+    "synonyms": ["content", "pleased", "fulfilled"],
+    "examples": [
+      { "sentence": "Ich bin zufrieden.", "translation": "I am satisfied." },
+      { "sentence": "Bist du zufrieden?", "translation": "Are you satisfied?" }
+    ]
+  },
+  "zugaenglich_adj": {
+    "translation": "accessible",
+    "explanation": { "_description": "Means 'accessible' — easy to reach or approach. Of a person: approachable." },
+    "synonyms": ["approachable", "reachable", "open"],
+    "examples": [
+      { "sentence": "Das Gebäude ist zugänglich.", "translation": "The building is accessible." },
+      { "sentence": "Er ist sehr zugänglich.", "translation": "He is very approachable." }
+    ]
+  },
+  "zukuenftig_adj": {
+    "translation": "future",
+    "explanation": { "_description": "Means 'future' — belonging to the future." },
+    "synonyms": ["upcoming", "prospective", "forthcoming"],
+    "examples": [
+      { "sentence": "Zukünftige Generationen.", "translation": "Future generations." },
+      { "sentence": "Das ist ein zukünftiges Projekt.", "translation": "That is a future project." }
+    ]
+  },
+  "zusaetzlich_adj": {
+    "translation": "additional",
+    "explanation": { "_description": "Means 'additional' or 'extra' — something that comes on top." },
+    "synonyms": ["extra", "supplementary", "further"],
+    "examples": [
+      { "sentence": "Das kostet zusätzlich.", "translation": "That costs extra." },
+      { "sentence": "Eine zusätzliche Gebühr.", "translation": "An additional fee." }
+    ]
+  },
+  "zustaendig_adj": {
+    "translation": "responsible",
+    "explanation": { "_description": "Means 'responsible' in the sense of having authority or competence. Distinct from 'verantwortlich' (accountable)." },
+    "synonyms": ["competent", "authorized", "in charge"],
+    "examples": [
+      { "sentence": "Wer ist zuständig?", "translation": "Who is responsible/in charge?" },
+      { "sentence": "Ich bin nicht zuständig.", "translation": "That is not my responsibility." }
+    ]
+  },
+  "zuverlaessig_adj": {
+    "translation": "reliable",
+    "explanation": { "_description": "Means 'reliable' — can be trusted and depended upon." },
+    "synonyms": ["dependable", "trustworthy", "solid"],
+    "examples": [
+      { "sentence": "Er ist zuverlässig.", "translation": "He is reliable." },
+      { "sentence": "Ein zuverlässiges Auto.", "translation": "A reliable car." }
+    ]
+  }
+}

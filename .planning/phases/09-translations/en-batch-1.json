@@ -1,0 +1,542 @@
+{
+  "abhaengig_adj": {
+    "translation": "dependent",
+    "explanation": { "_description": "Means 'dependent' or 'addicted to'. Used for persons, substances, or situations conditioned on something else." },
+    "synonyms": ["reliant", "contingent"],
+    "examples": [
+      { "sentence": "Er ist von Kaffee abhängig.", "translation": "He is dependent on coffee." },
+      { "sentence": "Das Ergebnis ist vom Wetter abhängig.", "translation": "The result is dependent on the weather." }
+    ]
+  },
+  "absolut_adj": {
+    "translation": "absolute",
+    "explanation": { "_description": "Means 'absolute' or 'completely'. Used as an intensifier or to express something without exception." },
+    "synonyms": ["complete", "total", "unconditional"],
+    "examples": [
+      { "sentence": "Das ist absolut richtig.", "translation": "That is absolutely correct." },
+      { "sentence": "Ich habe absolutes Vertrauen in sie.", "translation": "I have absolute trust in her." }
+    ]
+  },
+  "abwesend_adj": {
+    "translation": "absent",
+    "explanation": { "_description": "Means 'absent' — not present. Originally a participle, now used as a regular adjective." },
+    "synonyms": ["away", "not present"],
+    "examples": [
+      { "sentence": "Sie ist heute abwesend.", "translation": "She is absent today." },
+      { "sentence": "Warum ist er abwesend?", "translation": "Why is he absent?" }
+    ]
+  },
+  "aehnlich_adj": {
+    "translation": "similar",
+    "explanation": { "_description": "Means 'similar' — things that resemble each other but are not identical." },
+    "synonyms": ["alike", "comparable", "resembling"],
+    "examples": [
+      { "sentence": "Diese Farben sind ähnlich.", "translation": "These colors are similar." },
+      { "sentence": "Er sieht seinem Vater ähnlich.", "translation": "He resembles his father." }
+    ]
+  },
+  "aengstlich_adj": {
+    "translation": "anxious",
+    "explanation": { "_description": "Means 'anxious' or 'fearful' — a person who worries easily or is scared." },
+    "synonyms": ["fearful", "nervous", "worried"],
+    "examples": [
+      { "sentence": "Das Kind ist ängstlich.", "translation": "The child is anxious." },
+      { "sentence": "Sie ist ängstlich vor der Prüfung.", "translation": "She is anxious before the exam." }
+    ]
+  },
+  "aergerlich_adj": {
+    "translation": "annoying",
+    "explanation": { "_description": "Means 'annoying' (of a situation) or 'annoyed' (of a person). Context determines which reading applies." },
+    "synonyms": ["irritating", "frustrating"],
+    "examples": [
+      { "sentence": "Das ist wirklich ärgerlich.", "translation": "That is really annoying." },
+      { "sentence": "Er ist ärgerlich auf mich.", "translation": "He is annoyed at me." }
+    ],
+    "alternativeMeanings": [
+      { "meaning": "annoyed", "context": "when describing a person who is irritated or upset" }
+    ]
+  },
+  "aeusserlich_adj": {
+    "translation": "external",
+    "explanation": { "_description": "Means 'external' or 'outward' — what is visible on the outside, as opposed to what is internal." },
+    "synonyms": ["outward", "superficial", "visible"],
+    "examples": [
+      { "sentence": "Das ist nur äußerlich.", "translation": "That is only external." },
+      { "sentence": "Die äußerlichen Merkmale sind wichtig.", "translation": "The external characteristics are important." }
+    ]
+  },
+  "aktiv_adj": {
+    "translation": "active",
+    "explanation": { "_description": "Means 'active' — engaged, in motion, or operational." },
+    "synonyms": ["energetic", "dynamic", "engaged"],
+    "examples": [
+      { "sentence": "Sie ist sehr aktiv.", "translation": "She is very active." },
+      { "sentence": "Bleib aktiv!", "translation": "Stay active!" }
+    ]
+  },
+  "aktuell_adj": {
+    "translation": "current",
+    "explanation": { "_description": "Means 'current' or 'topical' — relevant to the present moment. Note: German 'aktuell' emphasizes present relevance, not just general relevance." },
+    "synonyms": ["present", "contemporary", "up-to-date"],
+    "examples": [
+      { "sentence": "Das ist ein aktuelles Thema.", "translation": "That is a current topic." },
+      { "sentence": "Was sind die aktuellen Nachrichten?", "translation": "What is the current news?" }
+    ]
+  },
+  "allgemein_adj": {
+    "translation": "general",
+    "explanation": { "_description": "Means 'general' or 'common' — applying to everyone or in general." },
+    "synonyms": ["common", "universal", "broad"],
+    "examples": [
+      { "sentence": "Das ist eine allgemeine Regel.", "translation": "That is a general rule." },
+      { "sentence": "Im Allgemeinen bin ich zufrieden.", "translation": "In general I am satisfied." }
+    ]
+  },
+  "alt_adj": {
+    "translation": "old",
+    "explanation": { "_description": "Means 'old'. Umlaut comparative: alt → älter → am ältesten." },
+    "synonyms": ["aged", "elderly", "ancient"],
+    "examples": [
+      { "sentence": "Wie alt bist du?", "translation": "How old are you?" },
+      { "sentence": "Ich bin 16 Jahre alt.", "translation": "I am 16 years old." },
+      { "sentence": "Das Haus ist alt.", "translation": "The house is old." }
+    ]
+  },
+  "alternativ_adj": {
+    "translation": "alternative",
+    "explanation": { "_description": "Means 'alternative' — another choice or different option." },
+    "synonyms": ["different", "substitute", "other"],
+    "examples": [
+      { "sentence": "Gibt es eine alternative Lösung?", "translation": "Is there an alternative solution?" },
+      { "sentence": "Wir brauchen einen alternativen Plan.", "translation": "We need an alternative plan." }
+    ]
+  },
+  "angenehm_adj": {
+    "translation": "pleasant",
+    "explanation": { "_description": "Means 'pleasant' — agreeable and nice to experience." },
+    "synonyms": ["agreeable", "nice", "comfortable"],
+    "examples": [
+      { "sentence": "Das Wetter ist angenehm.", "translation": "The weather is pleasant." },
+      { "sentence": "Es ist angenehm hier.", "translation": "It is pleasant here." }
+    ]
+  },
+  "anstrengend_adj": {
+    "translation": "exhausting",
+    "explanation": { "_description": "Means 'exhausting' — requiring a lot of energy or effort." },
+    "synonyms": ["tiring", "demanding", "strenuous"],
+    "examples": [
+      { "sentence": "Die Arbeit ist anstrengend.", "translation": "The work is exhausting." },
+      { "sentence": "Das war ein anstrengender Tag.", "translation": "That was an exhausting day." }
+    ]
+  },
+  "anwesend_adj": {
+    "translation": "present",
+    "explanation": { "_description": "Means 'present' — physically at a place. Opposite of 'abwesend'." },
+    "synonyms": ["here", "in attendance"],
+    "examples": [
+      { "sentence": "Alle Schüler sind anwesend.", "translation": "All students are present." },
+      { "sentence": "Bist du anwesend?", "translation": "Are you present?" }
+    ]
+  },
+  "arbeitslos_adj": {
+    "translation": "unemployed",
+    "explanation": { "_description": "Means 'unemployed' — without a job." },
+    "synonyms": ["jobless", "out of work"],
+    "examples": [
+      { "sentence": "Er ist seit einem Jahr arbeitslos.", "translation": "He has been unemployed for a year." },
+      { "sentence": "Die Arbeitslosenquote ist gestiegen.", "translation": "The unemployment rate has risen." }
+    ]
+  },
+  "arm_adj": {
+    "translation": "poor",
+    "explanation": { "_description": "Means 'poor' (financially). Note: In English 'arm' is a body part, not related to this German adjective." },
+    "synonyms": ["impoverished", "destitute", "penniless"],
+    "examples": [
+      { "sentence": "Die Familie ist sehr arm.", "translation": "The family is very poor." },
+      { "sentence": "Er war arm, aber glücklich.", "translation": "He was poor but happy." }
+    ]
+  },
+  "aufgeregt_adj": {
+    "translation": "excited",
+    "explanation": { "_description": "Means primarily 'excited' (with anticipation). Can also mean 'agitated' in a negative sense." },
+    "synonyms": ["thrilled", "enthusiastic"],
+    "examples": [
+      { "sentence": "Ich bin aufgeregt!", "translation": "I am excited!" },
+      { "sentence": "Das Kind ist aufgeregt vor dem Urlaub.", "translation": "The child is excited before the holiday." },
+      { "sentence": "Warum bist du so aufgeregt?", "translation": "Why are you so excited?" }
+    ],
+    "alternativeMeanings": [
+      { "meaning": "agitated/wound up", "context": "when describing a person who is upset or unsettled" }
+    ]
+  },
+  "aufmerksam_adj": {
+    "translation": "attentive",
+    "explanation": { "_description": "Means 'attentive' — paying close attention, or thoughtful." },
+    "synonyms": ["alert", "observant", "considerate"],
+    "examples": [
+      { "sentence": "Sei aufmerksam!", "translation": "Be attentive!" },
+      { "sentence": "Er ist ein aufmerksamer Schüler.", "translation": "He is an attentive student." }
+    ]
+  },
+  "auslaendisch_adj": {
+    "translation": "foreign",
+    "explanation": { "_description": "Means 'foreign' — from another country." },
+    "synonyms": ["international", "overseas", "alien"],
+    "examples": [
+      { "sentence": "Er hat eine ausländische Freundin.", "translation": "He has a foreign girlfriend." },
+      { "sentence": "Ausländische Produkte sind oft billiger.", "translation": "Foreign products are often cheaper." }
+    ]
+  },
+  "ausschliesslich_adj": {
+    "translation": "exclusive",
+    "explanation": { "_description": "Means 'exclusive' or 'solely' — applying only to one thing." },
+    "synonyms": ["solely", "exclusively", "only"],
+    "examples": [
+      { "sentence": "Das ist ausschließlich für Mitglieder.", "translation": "That is exclusively for members." },
+      { "sentence": "Er isst ausschließlich vegetarisch.", "translation": "He eats exclusively vegetarian." }
+    ]
+  },
+  "automatisch_adj": {
+    "translation": "automatic",
+    "explanation": { "_description": "Means 'automatic' — happening without manual intervention." },
+    "synonyms": ["self-acting", "mechanical", "spontaneous"],
+    "examples": [
+      { "sentence": "Die Tür öffnet automatisch.", "translation": "The door opens automatically." },
+      { "sentence": "Das ist ein automatischer Prozess.", "translation": "That is an automatic process." }
+    ]
+  },
+  "bekannt_adj": {
+    "translation": "well-known",
+    "explanation": { "_description": "Means 'well-known' or 'famous'. Originally a participle, now used as a regular adjective." },
+    "synonyms": ["famous", "renowned", "recognized"],
+    "examples": [
+      { "sentence": "Er ist ein bekannter Schauspieler.", "translation": "He is a well-known actor." },
+      { "sentence": "Das ist allgemein bekannt.", "translation": "That is generally known." }
+    ]
+  },
+  "beliebt_adj": {
+    "translation": "popular",
+    "explanation": { "_description": "Means 'popular' or 'well-liked'. Originally a participle, used as an adjective." },
+    "synonyms": ["well-liked", "in demand", "favored"],
+    "examples": [
+      { "sentence": "Das ist ein beliebtes Restaurant.", "translation": "That is a popular restaurant." },
+      { "sentence": "Sie ist bei allen beliebt.", "translation": "She is popular with everyone." }
+    ]
+  },
+  "bequem_adj": {
+    "translation": "comfortable",
+    "explanation": { "_description": "Means 'comfortable' — pleasant to use or sit in. Can also describe a lazy person." },
+    "synonyms": ["cozy", "convenient", "at ease"],
+    "examples": [
+      { "sentence": "Der Stuhl ist sehr bequem.", "translation": "The chair is very comfortable." },
+      { "sentence": "Das Sofa ist bequem.", "translation": "The sofa is comfortable." }
+    ]
+  },
+  "bereit_adj": {
+    "translation": "ready",
+    "explanation": { "_description": "Means 'ready' or 'prepared' — willing and able to act." },
+    "synonyms": ["prepared", "willing", "set"],
+    "examples": [
+      { "sentence": "Ich bin bereit.", "translation": "I am ready." },
+      { "sentence": "Bist du bereit?", "translation": "Are you ready?" },
+      { "sentence": "Sie ist bereit zu helfen.", "translation": "She is ready to help." }
+    ]
+  },
+  "beruehmt_adj": {
+    "translation": "famous",
+    "explanation": { "_description": "Means 'famous' — known by many, celebrated. Originally a participle, now a fixed adjective." },
+    "synonyms": ["renowned", "celebrated", "legendary"],
+    "examples": [
+      { "sentence": "Er ist ein berühmter Musiker.", "translation": "He is a famous musician." },
+      { "sentence": "Mozart ist weltweit berühmt.", "translation": "Mozart is world-famous." }
+    ]
+  },
+  "beruflich_adj": {
+    "translation": "professional",
+    "explanation": { "_description": "Means 'professional' or 'occupational' — related to one's job or career." },
+    "synonyms": ["vocational", "career-related", "occupational"],
+    "examples": [
+      { "sentence": "Das ist eine berufliche Reise.", "translation": "That is a business trip." },
+      { "sentence": "Beruflich geht es mir gut.", "translation": "Professionally I am doing well." }
+    ]
+  },
+  "berufstaetig_adj": {
+    "translation": "employed",
+    "explanation": { "_description": "Means 'employed' or 'working' — having a job." },
+    "synonyms": ["working", "in employment", "active"],
+    "examples": [
+      { "sentence": "Sie ist berufstätig.", "translation": "She is employed." },
+      { "sentence": "Berufstätige Mütter haben es schwer.", "translation": "Working mothers have it tough." }
+    ]
+  },
+  "bestimmt_adj": {
+    "translation": "certain",
+    "explanation": { "_description": "Means 'certain', 'specific', or 'definite'. Originally a participle, used as adjective." },
+    "synonyms": ["specific", "definite", "particular"],
+    "examples": [
+      { "sentence": "Ich suche einen bestimmten Artikel.", "translation": "I am looking for a specific article." },
+      { "sentence": "Sie sprach in einem bestimmten Ton.", "translation": "She spoke in a firm tone." }
+    ],
+    "alternativeMeanings": [
+      { "meaning": "definitely/certainly", "context": "as adverb: 'bestimmt' = definitely, for sure" }
+    ]
+  },
+  "bewoelkt_adj": {
+    "translation": "cloudy",
+    "explanation": { "_description": "Describes weather with clouds." },
+    "synonyms": ["overcast", "gray", "grey"],
+    "examples": [
+      { "sentence": "Der Himmel ist bewölkt.", "translation": "The sky is cloudy." },
+      { "sentence": "Es ist heute bewölkt.", "translation": "It is cloudy today." }
+    ]
+  },
+  "billig_adj": {
+    "translation": "cheap",
+    "explanation": { "_description": "Means 'cheap' — low price. Can have a negative connotation (poor quality) depending on context." },
+    "synonyms": ["inexpensive", "affordable", "low-cost"],
+    "examples": [
+      { "sentence": "Das ist sehr billig.", "translation": "That is very cheap." },
+      { "sentence": "Ich kaufe immer billige Produkte.", "translation": "I always buy cheap products." }
+    ]
+  },
+  "bitter_adj": {
+    "translation": "bitter",
+    "explanation": { "_description": "Means 'bitter' — a sharp taste or a feeling of resentment." },
+    "synonyms": ["acrid", "sharp", "pungent"],
+    "examples": [
+      { "sentence": "Der Kaffee schmeckt bitter.", "translation": "The coffee tastes bitter." },
+      { "sentence": "Er ist bitter enttäuscht.", "translation": "He is bitterly disappointed." }
+    ]
+  },
+  "blass_adj": {
+    "translation": "pale",
+    "explanation": { "_description": "Means 'pale' — of skin or colors. A person can look pale when ill." },
+    "synonyms": ["wan", "washed-out", "light"],
+    "examples": [
+      { "sentence": "Sie sieht blass aus.", "translation": "She looks pale." },
+      { "sentence": "Die Farbe ist blass.", "translation": "The color is pale." }
+    ]
+  },
+  "blau_adj": {
+    "translation": "blue",
+    "explanation": { "_description": "Means 'blue' — color." },
+    "synonyms": ["azure", "cobalt", "navy"],
+    "examples": [
+      { "sentence": "Der Himmel ist blau.", "translation": "The sky is blue." },
+      { "sentence": "Ich habe blaue Augen.", "translation": "I have blue eyes." },
+      { "sentence": "Blau ist meine Lieblingsfarbe.", "translation": "Blue is my favorite color." }
+    ]
+  },
+  "blind_adj": {
+    "translation": "blind",
+    "explanation": { "_description": "Means 'blind' — unable to see. Figuratively: unaware or oblivious." },
+    "synonyms": ["sightless", "visually impaired"],
+    "examples": [
+      { "sentence": "Er ist blind auf einem Auge.", "translation": "He is blind in one eye." },
+      { "sentence": "Sie ist blind vor Liebe.", "translation": "She is blind with love." }
+    ],
+    "alternativeMeanings": [
+      { "meaning": "oblivious/unaware", "context": "figurative: blind to one's own faults or a situation" }
+    ]
+  },
+  "bloed_adj": {
+    "translation": "stupid",
+    "explanation": { "_description": "Means 'stupid' — unintelligent or annoying/silly. Informal, somewhat rude." },
+    "synonyms": ["dumb", "idiotic", "silly"],
+    "examples": [
+      { "sentence": "Das ist eine blöde Idee.", "translation": "That is a stupid idea." },
+      { "sentence": "Sei nicht so blöd!", "translation": "Don't be so stupid!" }
+    ],
+    "alternativeMeanings": [
+      { "meaning": "annoying", "context": "informal: something frustrating or tedious" }
+    ]
+  },
+  "blond_adj": {
+    "translation": "blonde",
+    "explanation": { "_description": "Means 'blonde' — light hair color." },
+    "synonyms": ["fair-haired", "light"],
+    "examples": [
+      { "sentence": "Sie hat blonde Haare.", "translation": "She has blonde hair." },
+      { "sentence": "Er ist blond.", "translation": "He is blonde." }
+    ]
+  },
+  "bloss_adj": {
+    "translation": "bare",
+    "explanation": { "_description": "Means 'bare' (uncovered) or 'mere/only' as an adverb." },
+    "synonyms": ["mere", "naked", "unprotected"],
+    "examples": [
+      { "sentence": "Mit bloßen Händen.", "translation": "With bare hands." },
+      { "sentence": "Das ist bloß eine Meinung.", "translation": "That is merely an opinion." }
+    ],
+    "alternativeMeanings": [
+      { "meaning": "mere/only", "context": "as adverb: 'bloß eine Meinung' = merely an opinion" }
+    ]
+  },
+  "boese_adj": {
+    "translation": "angry",
+    "explanation": { "_description": "Means primarily 'angry' (of a person) or 'evil/mean' (of character). Context determines the reading." },
+    "synonyms": ["furious", "mad", "upset"],
+    "examples": [
+      { "sentence": "Bist du böse auf mich?", "translation": "Are you angry at me?" },
+      { "sentence": "Der böse Wolf.", "translation": "The evil wolf." },
+      { "sentence": "Sie ist böse.", "translation": "She is angry." }
+    ],
+    "alternativeMeanings": [
+      { "meaning": "evil/mean", "context": "of character or behavior — morally negative" }
+    ]
+  },
+  "braun_adj": {
+    "translation": "brown",
+    "explanation": { "_description": "Means 'brown' — color." },
+    "synonyms": ["chestnut", "dark brown", "tan"],
+    "examples": [
+      { "sentence": "Er hat braune Augen.", "translation": "He has brown eyes." },
+      { "sentence": "Das Brot ist braun.", "translation": "The bread is brown." }
+    ]
+  },
+  "brav_adj": {
+    "translation": "well-behaved",
+    "explanation": { "_description": "Means 'well-behaved', 'obedient', or 'good'. Note: English 'brave' (courageous) is a false friend — German 'brav' means obedient/good, not courageous." },
+    "synonyms": ["obedient", "good", "well-mannered"],
+    "examples": [
+      { "sentence": "Das Kind ist brav.", "translation": "The child is well-behaved." },
+      { "sentence": "Sei brav!", "translation": "Be good!" }
+    ]
+  },
+  "breit_adj": {
+    "translation": "wide",
+    "explanation": { "_description": "Means 'wide' or 'broad' — large from side to side." },
+    "synonyms": ["broad", "expansive", "large"],
+    "examples": [
+      { "sentence": "Die Straße ist breit.", "translation": "The street is wide." },
+      { "sentence": "Er hat breite Schultern.", "translation": "He has broad shoulders." }
+    ]
+  },
+  "bunt_adj": {
+    "translation": "colorful",
+    "explanation": { "_description": "Means 'colorful' — with many colors." },
+    "synonyms": ["multicolored", "vivid", "varied"],
+    "examples": [
+      { "sentence": "Die Blumen sind bunt.", "translation": "The flowers are colorful." },
+      { "sentence": "Sie trägt bunte Kleidung.", "translation": "She wears colorful clothing." }
+    ]
+  },
+  "cool_adj": {
+    "translation": "cool",
+    "explanation": { "_description": "Means 'cool' — stylish or great. Loanword from English." },
+    "synonyms": ["stylish", "awesome", "great"],
+    "examples": [
+      { "sentence": "Das ist cool!", "translation": "That is cool!" },
+      { "sentence": "Du bist so cool.", "translation": "You are so cool." },
+      { "sentence": "Die Musik ist cool.", "translation": "The music is cool." }
+    ]
+  },
+  "dankbar_adj": {
+    "translation": "grateful",
+    "explanation": { "_description": "Means 'grateful' — thankful for something received." },
+    "synonyms": ["thankful", "appreciative"],
+    "examples": [
+      { "sentence": "Ich bin sehr dankbar.", "translation": "I am very grateful." },
+      { "sentence": "Sie ist dankbar für die Hilfe.", "translation": "She is grateful for the help." }
+    ]
+  },
+  "deutlich_adj": {
+    "translation": "clear",
+    "explanation": { "_description": "Means 'clear' or 'distinct' — easy to see or understand." },
+    "synonyms": ["distinct", "obvious", "evident"],
+    "examples": [
+      { "sentence": "Bitte sprechen Sie deutlich.", "translation": "Please speak clearly." },
+      { "sentence": "Das ist ein deutlicher Unterschied.", "translation": "That is a clear difference." }
+    ]
+  },
+  "dicht_adj": {
+    "translation": "dense",
+    "explanation": { "_description": "Means 'dense' or 'thick' — tightly packed, no gaps." },
+    "synonyms": ["thick", "compact", "solid"],
+    "examples": [
+      { "sentence": "Der Wald ist dicht.", "translation": "The forest is dense." },
+      { "sentence": "Der Verkehr ist dicht.", "translation": "The traffic is dense." }
+    ]
+  },
+  "dick_adj": {
+    "translation": "thick",
+    "explanation": { "_description": "Means 'thick' — large in depth. Also colloquially used for overweight." },
+    "synonyms": ["heavy", "robust", "sturdy"],
+    "examples": [
+      { "sentence": "Das Buch ist dick.", "translation": "The book is thick." },
+      { "sentence": "Die Wand ist dick.", "translation": "The wall is thick." }
+    ]
+  },
+  "digital_adj": {
+    "translation": "digital",
+    "explanation": { "_description": "Means 'digital' — relating to digital systems or data." },
+    "synonyms": ["electronic", "virtual"],
+    "examples": [
+      { "sentence": "Wir leben in einer digitalen Welt.", "translation": "We live in a digital world." },
+      { "sentence": "Das ist ein digitales Produkt.", "translation": "That is a digital product." }
+    ]
+  },
+  "direkt_adj": {
+    "translation": "direct",
+    "explanation": { "_description": "Means 'direct' — without detours, straightforward, or honest and frank." },
+    "synonyms": ["straight", "immediate", "frank"],
+    "examples": [
+      { "sentence": "Gibt es eine direkte Verbindung?", "translation": "Is there a direct connection?" },
+      { "sentence": "Er ist sehr direkt.", "translation": "He is very direct." }
+    ]
+  },
+  "doppelt_adj": {
+    "translation": "double",
+    "explanation": { "_description": "Means 'double' — twice as much or two of something." },
+    "synonyms": ["twice", "twofold", "dual"],
+    "examples": [
+      { "sentence": "Ich brauche die doppelte Menge.", "translation": "I need double the amount." },
+      { "sentence": "Das kostet doppelt so viel.", "translation": "That costs twice as much." }
+    ]
+  },
+  "duenn_adj": {
+    "translation": "thin",
+    "explanation": { "_description": "Means 'thin' — slim or of little thickness." },
+    "synonyms": ["slim", "slender", "narrow"],
+    "examples": [
+      { "sentence": "Das Papier ist dünn.", "translation": "The paper is thin." },
+      { "sentence": "Sie ist sehr dünn.", "translation": "She is very thin." }
+    ]
+  },
+  "dumm_adj": {
+    "translation": "dumb",
+    "explanation": { "_description": "Means 'dumb' or 'stupid' — unintelligent or foolish. Can be offensive." },
+    "synonyms": ["stupid", "foolish", "unintelligent"],
+    "examples": [
+      { "sentence": "Das war eine dumme Entscheidung.", "translation": "That was a dumb decision." },
+      { "sentence": "Ich bin nicht dumm!", "translation": "I am not dumb!" }
+    ]
+  },
+  "dunkel_adj": {
+    "translation": "dark",
+    "explanation": { "_description": "Means 'dark' — little light, or a dark color." },
+    "synonyms": ["dim", "gloomy", "shadowy"],
+    "examples": [
+      { "sentence": "Es ist dunkel draußen.", "translation": "It is dark outside." },
+      { "sentence": "Er trägt dunkle Kleidung.", "translation": "He wears dark clothing." }
+    ]
+  },
+  "durchschnittlich_adj": {
+    "translation": "average",
+    "explanation": { "_description": "Means 'average' or 'mediocre' — neither particularly good nor bad." },
+    "synonyms": ["median", "typical", "middling"],
+    "examples": [
+      { "sentence": "Das ist eine durchschnittliche Leistung.", "translation": "That is an average performance." },
+      { "sentence": "Der durchschnittliche Lohn ist gestiegen.", "translation": "The average wage has risen." }
+    ]
+  },
+  "durstig_adj": {
+    "translation": "thirsty",
+    "explanation": { "_description": "Means 'thirsty' — in need of a drink." },
+    "synonyms": ["parched", "dehydrated"],
+    "examples": [
+      { "sentence": "Ich bin sehr durstig.", "translation": "I am very thirsty." },
+      { "sentence": "Bist du durstig?", "translation": "Are you thirsty?" }
+    ]
+  }
+}

@@ -1,0 +1,390 @@
+{
+  "cool_adj": {
+    "translation": "kul",
+    "explanation": { "_description": "Betyr \"kul\" — stilig eller bra. Låneord fra engelsk." },
+    "synonyms": ["stilig", "tøff", "bra"],
+    "examples": [
+      { "sentence": "Das ist cool!", "translation": "Det er kult!" },
+      { "sentence": "Du bist so cool.", "translation": "Du er så kul." },
+      { "sentence": "Die Musik ist cool.", "translation": "Musikken er kul." }
+    ]
+  },
+  "dankbar_adj": {
+    "translation": "takknemlig",
+    "explanation": { "_description": "Betyr \"takknemlig\" — glad og anerkjennende for noe man har fått." },
+    "synonyms": ["glad", "anerkjennende"],
+    "examples": [
+      { "sentence": "Ich bin sehr dankbar.", "translation": "Jeg er veldig takknemlig." },
+      { "sentence": "Sie ist dankbar für die Hilfe.", "translation": "Hun er takknemlig for hjelpen." }
+    ]
+  },
+  "deutlich_adj": {
+    "translation": "tydelig",
+    "explanation": { "_description": "Betyr \"tydelig\" — klart og forståelig, lett å se eller høre." },
+    "synonyms": ["klar", "åpenbar", "synlig"],
+    "examples": [
+      { "sentence": "Bitte sprechen Sie deutlich.", "translation": "Vennligst snakk tydelig." },
+      { "sentence": "Das ist ein deutlicher Unterschied.", "translation": "Det er en tydelig forskjell." }
+    ]
+  },
+  "dicht_adj": {
+    "translation": "tett",
+    "explanation": { "_description": "Betyr \"tett\" — om skog, tåke, trafikk eller materiale uten hull." },
+    "synonyms": ["kompakt", "tykk", "massiv"],
+    "examples": [
+      { "sentence": "Der Wald ist dicht.", "translation": "Skogen er tett." },
+      { "sentence": "Der Verkehr ist dicht.", "translation": "Trafikken er tett." }
+    ]
+  },
+  "dick_adj": {
+    "translation": "tykk",
+    "explanation": { "_description": "Betyr \"tykk\" — om ting (tykk bok) eller person (kraftig bygd). Uformelt om overvektig person." },
+    "synonyms": ["kraftig", "robust", "bred"],
+    "examples": [
+      { "sentence": "Das Buch ist dick.", "translation": "Boken er tykk." },
+      { "sentence": "Die Wand ist dick.", "translation": "Veggen er tykk." }
+    ]
+  },
+  "digital_adj": {
+    "translation": "digital",
+    "explanation": { "_description": "Betyr \"digital\" — knyttet til digitale systemer eller data." },
+    "synonyms": ["elektronisk", "virtual"],
+    "examples": [
+      { "sentence": "Wir leben in einer digitalen Welt.", "translation": "Vi lever i en digital verden." },
+      { "sentence": "Das ist ein digitales Produkt.", "translation": "Det er et digitalt produkt." }
+    ]
+  },
+  "direkt_adj": {
+    "translation": "direkte",
+    "explanation": { "_description": "Betyr \"direkte\" — uten omveier, rettlinjet, eller ærlig og rett frem." },
+    "synonyms": ["rett", "umiddelbar", "ærlig"],
+    "examples": [
+      { "sentence": "Gibt es eine direkte Verbindung?", "translation": "Er det en direkteforbindelse?" },
+      { "sentence": "Er ist sehr direkt.", "translation": "Han er veldig direkte." }
+    ]
+  },
+  "doppelt_adj": {
+    "translation": "dobbelt",
+    "explanation": { "_description": "Betyr \"dobbelt\" — to ganger så mye eller to av noe." },
+    "synonyms": ["to ganger", "fordoblet"],
+    "examples": [
+      { "sentence": "Ich brauche die doppelte Menge.", "translation": "Jeg trenger den dobbelte mengden." },
+      { "sentence": "Das kostet doppelt so viel.", "translation": "Det koster dobbelt så mye." }
+    ]
+  },
+  "duenn_adj": {
+    "translation": "tynn",
+    "explanation": { "_description": "Betyr \"tynn\" — smal, slank, eller av liten tykkelse." },
+    "synonyms": ["slank", "spinkel", "smal"],
+    "examples": [
+      { "sentence": "Das Papier ist dünn.", "translation": "Papiret er tynt." },
+      { "sentence": "Sie ist sehr dünn.", "translation": "Hun er veldig tynn." }
+    ]
+  },
+  "dumm_adj": {
+    "translation": "dum",
+    "explanation": { "_description": "Betyr \"dum\" — uintelligent eller tåpelig. Kan virke støtende. Se også \"blöd\" (mer uformelt)." },
+    "synonyms": ["uintelligent", "tåpelig", "enfoldig"],
+    "examples": [
+      { "sentence": "Das war eine dumme Entscheidung.", "translation": "Det var en dum avgjørelse." },
+      { "sentence": "Ich bin nicht dumm!", "translation": "Jeg er ikke dum!" }
+    ]
+  },
+  "dunkel_adj": {
+    "translation": "mørk",
+    "explanation": { "_description": "Betyr \"mørk\" — lite lys, eller mørk farge." },
+    "synonyms": ["mørkt", "skummel", "dyster"],
+    "examples": [
+      { "sentence": "Es ist dunkel draußen.", "translation": "Det er mørkt ute." },
+      { "sentence": "Er trägt dunkle Kleidung.", "translation": "Han har på seg mørke klær." }
+    ]
+  },
+  "durchschnittlich_adj": {
+    "translation": "gjennomsnittlig",
+    "explanation": { "_description": "Betyr \"gjennomsnittlig\" eller \"middelmådig\" — verken spesielt god eller dårlig." },
+    "synonyms": ["middels", "normal", "typisk"],
+    "examples": [
+      { "sentence": "Das ist eine durchschnittliche Leistung.", "translation": "Det er en gjennomsnittlig prestasjon." },
+      { "sentence": "Der durchschnittliche Lohn ist gestiegen.", "translation": "Gjennomsnittslønnen har økt." }
+    ]
+  },
+  "durstig_adj": {
+    "translation": "tørst",
+    "explanation": { "_description": "Betyr \"tørst\" — behov for å drikke." },
+    "synonyms": ["uttørket", "tørstig"],
+    "examples": [
+      { "sentence": "Ich bin sehr durstig.", "translation": "Jeg er veldig tørst." },
+      { "sentence": "Bist du durstig?", "translation": "Er du tørst?" }
+    ]
+  },
+  "echt_adj": {
+    "translation": "ekte",
+    "explanation": { "_description": "Betyr \"ekte\" — genuin, ikke falsk. Brukes også som forsterker i uformelt språk." },
+    "synonyms": ["genuin", "autentisk", "virkelig"],
+    "examples": [
+      { "sentence": "Ist das echtes Gold?", "translation": "Er det ekte gull?" },
+      { "sentence": "Das ist echt schön!", "translation": "Det er virkelig fint!" }
+    ]
+  },
+  "eckig_adj": {
+    "translation": "firkantet",
+    "explanation": { "_description": "Betyr \"firkantet\" — med kanter og hjørner, ikke rund." },
+    "synonyms": ["kantete", "kvadratisk", "rektangulær"],
+    "examples": [
+      { "sentence": "Der Tisch ist eckig.", "translation": "Bordet er firkantet." },
+      { "sentence": "Das Zimmer ist eckig.", "translation": "Rommet er firkantet." }
+    ]
+  },
+  "ehrlich_adj": {
+    "translation": "ærlig",
+    "explanation": { "_description": "Betyr \"ærlig\" eller \"oppriktig\". Eksempel: \"Ehrlich gesagt...\" (ærlig talt...)." },
+    "synonyms": ["oppriktig", "åpen", "direkte"],
+    "examples": [
+      { "sentence": "Ich bin ehrlich.", "translation": "Jeg er ærlig." },
+      { "sentence": "Ehrlich gesagt, ich weiß es nicht.", "translation": "Ærlig talt vet jeg det ikke." }
+    ]
+  },
+  "eilig_adj": {
+    "translation": "travelt",
+    "explanation": { "_description": "Betyr \"travelt\" eller \"hastverk\". Sies gjerne som \"Es ist eilig\" (det haster)." },
+    "synonyms": ["hastverk", "pressende", "urgent"],
+    "examples": [
+      { "sentence": "Es ist eilig!", "translation": "Det haster!" },
+      { "sentence": "Ich habe es eilig.", "translation": "Jeg har det travelt." }
+    ]
+  },
+  "eindeutig_adj": {
+    "translation": "entydig",
+    "explanation": { "_description": "Betyr \"entydig\" eller \"utvilsom\" — uten tvil, klart og tydelig." },
+    "synonyms": ["utvilsom", "klar", "åpenbar"],
+    "examples": [
+      { "sentence": "Das ist eindeutig falsch.", "translation": "Det er entydig feil." },
+      { "sentence": "Die Antwort ist eindeutig.", "translation": "Svaret er entydig." }
+    ]
+  },
+  "einfach_adj": {
+    "translation": "enkel",
+    "explanation": { "_description": "Betyr \"enkel\" eller \"lett\". Brukes om noe som er lett å forstå eller gjøre." },
+    "synonyms": ["lett", "simpel", "ukomplisert"],
+    "examples": [
+      { "sentence": "Das ist einfach!", "translation": "Det er lett!" },
+      { "sentence": "Die Lösung ist einfach.", "translation": "Løsningen er enkel." },
+      { "sentence": "Es ist einfach zu verstehen.", "translation": "Det er lett å forstå." }
+    ]
+  },
+  "einheitlich_adj": {
+    "translation": "ensartet",
+    "explanation": { "_description": "Betyr \"ensartet\" eller \"uniform\" — likt over hele linjen, uten variasjon." },
+    "synonyms": ["uniform", "standardisert", "konsistent"],
+    "examples": [
+      { "sentence": "Die Regeln sind einheitlich.", "translation": "Reglene er ensartede." },
+      { "sentence": "Wir brauchen eine einheitliche Lösung.", "translation": "Vi trenger en ensartet løsning." }
+    ]
+  },
+  "einsam_adj": {
+    "translation": "ensom",
+    "explanation": { "_description": "Betyr \"ensom\" — alene og savner selskap." },
+    "synonyms": ["alene", "isolert", "forlatt"],
+    "examples": [
+      { "sentence": "Ich fühle mich einsam.", "translation": "Jeg føler meg ensom." },
+      { "sentence": "Er ist sehr einsam.", "translation": "Han er veldig ensom." }
+    ]
+  },
+  "elegant_adj": {
+    "translation": "elegant",
+    "explanation": { "_description": "Betyr \"elegant\" — stilfull, raffinert og sømakker." },
+    "synonyms": ["stilfull", "raffinert", "eksklusiv"],
+    "examples": [
+      { "sentence": "Sie sieht elegant aus.", "translation": "Hun ser elegant ut." },
+      { "sentence": "Das ist ein elegantes Kleid.", "translation": "Det er en elegant kjole." }
+    ]
+  },
+  "elektrisch_adj": {
+    "translation": "elektrisk",
+    "explanation": { "_description": "Betyr \"elektrisk\" — drevet av eller relatert til elektrisitet." },
+    "synonyms": ["strømdrevet", "elektronisk"],
+    "examples": [
+      { "sentence": "Ich habe ein elektrisches Auto.", "translation": "Jeg har en elektrisk bil." },
+      { "sentence": "Das Licht ist elektrisch.", "translation": "Lyset er elektrisk." }
+    ]
+  },
+  "elektronisch_adj": {
+    "translation": "elektronisk",
+    "explanation": { "_description": "Betyr \"elektronisk\" — knyttet til elektronikk og digitale systemer." },
+    "synonyms": ["digital", "elektrisk"],
+    "examples": [
+      { "sentence": "Ich lese eine elektronische Zeitung.", "translation": "Jeg leser en elektronisk avis." },
+      { "sentence": "Das ist ein elektronisches Gerät.", "translation": "Det er en elektronisk enhet." }
+    ]
+  },
+  "eng_adj": {
+    "translation": "trang",
+    "explanation": { "_description": "Betyr \"trang\" eller \"smal\" — lite plass. Kan også betyr \"nær\" om vennskap (eng befreundet)." },
+    "synonyms": ["smal", "knapp", "liten"],
+    "examples": [
+      { "sentence": "Die Hose ist eng.", "translation": "Buksene er trange." },
+      { "sentence": "Das Zimmer ist eng.", "translation": "Rommet er trangt." }
+    ]
+  },
+  "entspannt_adj": {
+    "translation": "avslappet",
+    "explanation": { "_description": "Betyr \"avslappet\" — rolig og fri for stress." },
+    "synonyms": ["rolig", "avbalansert", "fri for stress"],
+    "examples": [
+      { "sentence": "Ich bin entspannt.", "translation": "Jeg er avslappet." },
+      { "sentence": "Die Atmosphäre ist entspannt.", "translation": "Atmosfæren er avslappet." }
+    ]
+  },
+  "erfolgreich_adj": {
+    "translation": "vellykket",
+    "explanation": { "_description": "Betyr \"vellykket\" eller \"suksessfull\" — har oppnådd det man ønsket." },
+    "synonyms": ["suksessfull", "resultatrik", "fremgangsrik"],
+    "examples": [
+      { "sentence": "Das Projekt war erfolgreich.", "translation": "Prosjektet var vellykket." },
+      { "sentence": "Sie ist eine erfolgreiche Unternehmerin.", "translation": "Hun er en vellykket gründer." }
+    ]
+  },
+  "ernsthaft_adj": {
+    "translation": "alvorlig",
+    "explanation": { "_description": "Betyr \"alvorlig\" — ikke spøkende, opptatt av noe på en seriøs måte." },
+    "synonyms": ["seriøs", "oppriktig", "grundig"],
+    "examples": [
+      { "sentence": "Er ist ein ernsthafter Mensch.", "translation": "Han er et alvorlig menneske." },
+      { "sentence": "Das ist ein ernsthaftes Problem.", "translation": "Det er et alvorlig problem." }
+    ]
+  },
+  "erschoepft_adj": {
+    "translation": "utmattet",
+    "explanation": { "_description": "Betyr \"utmattet\" — fullstendig sliten, tom for energi." },
+    "synonyms": ["utslitt", "ferdig", "oppbrukt"],
+    "examples": [
+      { "sentence": "Ich bin erschöpft.", "translation": "Jeg er utmattet." },
+      { "sentence": "Sie sieht erschöpft aus.", "translation": "Hun ser utmattet ut." }
+    ]
+  },
+  "eventuell_adj": {
+    "translation": "muligens",
+    "explanation": { "_description": "Betyr \"muligens\" eller \"kanskje\" — ikke sikkert, men mulig. NB: FALSK VEN — norsk \"eventuelt\" betyr \"i tilfelle\"/\"om nødvendig\", mens tysk \"eventuell\" betyr \"kanskje\"." },
+    "synonyms": ["kanskje", "muligens", "trolig"],
+    "examples": [
+      { "sentence": "Das ist eventuell möglich.", "translation": "Det er muligens mulig." },
+      { "sentence": "Ich komme eventuell später.", "translation": "Jeg kommer muligens senere." }
+    ]
+  },
+  "ewig_adj": {
+    "translation": "evig",
+    "explanation": { "_description": "Betyr \"evig\" — uten ende i tid. Brukes også som hyperbel: \"das dauert ewig\" (det tar evig lang tid)." },
+    "synonyms": ["tidløs", "endeløs", "permanent"],
+    "examples": [
+      { "sentence": "Das dauert ewig!", "translation": "Det tar evig lang tid!" },
+      { "sentence": "Die ewige Liebe.", "translation": "Den evige kjærligheten." }
+    ]
+  },
+  "extrem_adj": {
+    "translation": "ekstrem",
+    "explanation": { "_description": "Betyr \"ekstrem\" — i ytterpunkt, svært kraftig eller overdrevet." },
+    "synonyms": ["overdreven", "radikal", "voldsom"],
+    "examples": [
+      { "sentence": "Das Wetter ist extrem.", "translation": "Været er ekstremt." },
+      { "sentence": "Er hat extreme Ansichten.", "translation": "Han har ekstreme meninger." }
+    ]
+  },
+  "faellig_adj": {
+    "translation": "forfalt",
+    "explanation": { "_description": "Betyr \"forfalt\" eller \"moden\" — noe som er på tide, har nådd fristen." },
+    "synonyms": ["moden", "på forfallsdato", "tidsbestemt"],
+    "examples": [
+      { "sentence": "Die Rechnung ist fällig.", "translation": "Regningen er forfalt." },
+      { "sentence": "Wann ist es fällig?", "translation": "Når forfaller det?" }
+    ]
+  },
+  "fair_adj": {
+    "translation": "rettferdig",
+    "explanation": { "_description": "Betyr \"rettferdig\" eller \"fair\" — behandler alle likt og etter reglene." },
+    "synonyms": ["rettvis", "upartisk", "rimelig"],
+    "examples": [
+      { "sentence": "Das ist fair.", "translation": "Det er rettferdig." },
+      { "sentence": "Er ist immer fair.", "translation": "Han er alltid rettferdig." }
+    ]
+  },
+  "falsch_adj": {
+    "translation": "feil",
+    "explanation": { "_description": "Betyr \"feil\" — ikke korrekt. Kan også bety \"falsk\" (uoppriktig)." },
+    "synonyms": ["galt", "ukorrekt", "unøyaktig"],
+    "examples": [
+      { "sentence": "Das ist falsch.", "translation": "Det er feil." },
+      { "sentence": "Du hast die falsche Antwort.", "translation": "Du har feil svar." }
+    ],
+    "alternativeMeanings": [
+      { "meaning": "falsk/uærlig", "context": "om person eller handling som er uoppriktig" }
+    ]
+  },
+  "fantastisch_adj": {
+    "translation": "fantastisk",
+    "explanation": { "_description": "Betyr \"fantastisk\" — utrolig bra, enestående." },
+    "synonyms": ["strålende", "enestående", "imponerende"],
+    "examples": [
+      { "sentence": "Das ist fantastisch!", "translation": "Det er fantastisk!" },
+      { "sentence": "Sie hat eine fantastische Stimme.", "translation": "Hun har en fantastisk stemme." }
+    ]
+  },
+  "farbig_adj": {
+    "translation": "farget",
+    "explanation": { "_description": "Betyr \"farget\" — som har farge, i motsetning til svart-hvitt." },
+    "synonyms": ["fargerik", "koloristisk"],
+    "examples": [
+      { "sentence": "Ich mag farbige Bilder.", "translation": "Jeg liker fargede bilder." },
+      { "sentence": "Das ist farbiges Papier.", "translation": "Det er farget papir." }
+    ]
+  },
+  "faul_adj": {
+    "translation": "lat",
+    "explanation": { "_description": "Betyr \"lat\" — som ikke vil jobbe. Kan også bety \"råtten\" (om mat)." },
+    "synonyms": ["doven", "treig", "uvirksom"],
+    "examples": [
+      { "sentence": "Er ist faul.", "translation": "Han er lat." },
+      { "sentence": "Sei nicht so faul!", "translation": "Ikke vær så lat!" }
+    ],
+    "alternativeMeanings": [
+      { "meaning": "råtten", "context": "om mat eller organisk materiale som har gått dårlig" }
+    ]
+  },
+  "fertig_adj": {
+    "translation": "ferdig",
+    "explanation": { "_description": "Betyr \"ferdig\" — fullført eller klar. \"Fertig machen\" = å gjøre ferdig." },
+    "synonyms": ["klar", "fullført", "avsluttet"],
+    "examples": [
+      { "sentence": "Ich bin fertig!", "translation": "Jeg er ferdig!" },
+      { "sentence": "Bist du fertig?", "translation": "Er du ferdig?" },
+      { "sentence": "Das Essen ist fertig.", "translation": "Maten er klar." }
+    ]
+  },
+  "fest_adj": {
+    "translation": "fast",
+    "explanation": { "_description": "Betyr \"fast\", \"solid\" eller \"bestemt\". NB: FALSK VEN — norsk \"fest\" betyr selskap/fest, mens tysk \"fest\" som adjektiv betyr solid/stabil." },
+    "synonyms": ["solid", "stabil", "bestemt"],
+    "examples": [
+      { "sentence": "Das Seil ist fest.", "translation": "Tauet er fast." },
+      { "sentence": "Ich halte es fest.", "translation": "Jeg holder det fast." },
+      { "sentence": "Sie hat eine feste Meinung.", "translation": "Hun har en bestemt mening." }
+    ]
+  },
+  "fett_adj": {
+    "translation": "fet",
+    "explanation": { "_description": "Betyr \"fet\" — mye fett. Kan brukes om mat eller som nedsettende om overvektig person (uformelt). Også om fet skrift." },
+    "synonyms": ["feitladen", "rik på fett"],
+    "examples": [
+      { "sentence": "Das Essen ist zu fett.", "translation": "Maten er for fet." },
+      { "sentence": "Fettes Fleisch.", "translation": "Fett kjøtt." }
+    ]
+  },
+  "feucht_adj": {
+    "translation": "fuktig",
+    "explanation": { "_description": "Betyr \"fuktig\" — lett våt, ikke helt tørr." },
+    "synonyms": ["klam", "litt våt", "råkald"],
+    "examples": [
+      { "sentence": "Das Handtuch ist noch feucht.", "translation": "Håndkleet er fortsatt fuktig." },
+      { "sentence": "Die Luft ist feucht.", "translation": "Luften er fuktig." }
+    ]
+  }
+}

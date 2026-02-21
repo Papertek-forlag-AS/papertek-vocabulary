@@ -1,0 +1,389 @@
+{
+  "vegetarisch_adj": {
+    "translation": "vegetarisk",
+    "explanation": { "_description": "Betyr \"vegetarisk\" — uten kjøtt, plantebasert mat." },
+    "synonyms": ["plantebasert", "kjøttfri"],
+    "examples": [
+      { "sentence": "Ich esse vegetarisch.", "translation": "Jeg spiser vegetarisk." },
+      { "sentence": "Ein vegetarisches Gericht.", "translation": "En vegetarisk rett." }
+    ]
+  },
+  "verantwortlich_adj": {
+    "translation": "ansvarlig",
+    "explanation": { "_description": "Betyr \"ansvarlig\" — har ansvar for noe." },
+    "synonyms": ["ansvarshavende", "skyldig", "forpliktet"],
+    "examples": [
+      { "sentence": "Er ist verantwortlich dafür.", "translation": "Han er ansvarlig for det." },
+      { "sentence": "Wer ist verantwortlich?", "translation": "Hvem er ansvarlig?" }
+    ]
+  },
+  "vergeblich_adj": {
+    "translation": "forgjeves",
+    "explanation": { "_description": "Betyr \"forgjeves\" — uten resultat, mislykket innsats." },
+    "synonyms": ["nytteløst", "uten resultat", "mislykket"],
+    "examples": [
+      { "sentence": "Das war vergeblich.", "translation": "Det var forgjeves." },
+      { "sentence": "Der Versuch war vergeblich.", "translation": "Forsøket var forgjeves." }
+    ]
+  },
+  "verheiratet_adj": {
+    "translation": "gift",
+    "explanation": { "_description": "Betyr \"gift\" — har inngått ekteskap." },
+    "synonyms": ["ektefolk", "i ekteskap"],
+    "examples": [
+      { "sentence": "Sie ist verheiratet.", "translation": "Hun er gift." },
+      { "sentence": "Wie lange bist du schon verheiratet?", "translation": "Hvor lenge har du vært gift?" }
+    ]
+  },
+  "vermutlich_adj": {
+    "translation": "antagelig",
+    "explanation": { "_description": "Betyr \"antagelig\" eller \"trolig\" — ikke sikkert, men sannsynlig." },
+    "synonyms": ["trolig", "sannsynligvis", "antakelig"],
+    "examples": [
+      { "sentence": "Das ist vermutlich richtig.", "translation": "Det er antagelig riktig." },
+      { "sentence": "Er kommt vermutlich später.", "translation": "Han kommer antagelig senere." }
+    ]
+  },
+  "vernuenftig_adj": {
+    "translation": "fornuftig",
+    "explanation": { "_description": "Betyr \"fornuftig\" — klok og rasjonell, ikke impulsiv." },
+    "synonyms": ["rasjonell", "klok", "saklig"],
+    "examples": [
+      { "sentence": "Sei vernünftig!", "translation": "Vær fornuftig!" },
+      { "sentence": "Das ist eine vernünftige Entscheidung.", "translation": "Det er en fornuftig avgjørelse." }
+    ]
+  },
+  "verrueckt_adj": {
+    "translation": "gal",
+    "explanation": { "_description": "Betyr \"gal\" eller \"sprø\" — ikke normalt, avvikende eller eksentrik. Kan brukes positivt i slang." },
+    "synonyms": ["sprø", "sær", "eksentrisk"],
+    "examples": [
+      { "sentence": "Das ist verrückt!", "translation": "Det er galt!" },
+      { "sentence": "Er ist ein bisschen verrückt.", "translation": "Han er litt sprø." }
+    ]
+  },
+  "verstaendlich_adj": {
+    "translation": "forståelig",
+    "explanation": { "_description": "Betyr \"forståelig\" — lett å forstå, begripelig." },
+    "synonyms": ["begripelig", "tydelig", "klar"],
+    "examples": [
+      { "sentence": "Das ist verständlich.", "translation": "Det er forståelig." },
+      { "sentence": "Eine verständliche Erklärung.", "translation": "En forståelig forklaring." }
+    ]
+  },
+  "verwandt_adj": {
+    "translation": "beslektet",
+    "explanation": { "_description": "Betyr \"beslektet\" — i familie med noen. Opprinnelig partisipp, men fast adjektiv." },
+    "synonyms": ["i slekt", "i familie"],
+    "examples": [
+      { "sentence": "Wir sind verwandt.", "translation": "Vi er beslektet." },
+      { "sentence": "Er ist mir verwandt.", "translation": "Han er i slekt med meg." }
+    ]
+  },
+  "viel_adj": {
+    "translation": "mye",
+    "explanation": { "_description": "Betyr \"mye\" — stor mengde. Uregelmessig: viel → mehr → am meisten." },
+    "synonyms": ["masse", "en god del"],
+    "examples": [
+      { "sentence": "Ich habe viel zu tun.", "translation": "Jeg har mye å gjøre." },
+      { "sentence": "Viel Spaß!", "translation": "Ha det gøy!" },
+      { "sentence": "Vielen Dank!", "translation": "Tusen takk!" }
+    ]
+  },
+  "virtuell_adj": {
+    "translation": "virtuell",
+    "explanation": { "_description": "Betyr \"virtuell\" — digital, ikke fysisk til stede." },
+    "synonyms": ["digital", "online", "simulert"],
+    "examples": [
+      { "sentence": "Ein virtuelles Meeting.", "translation": "Et virtuelt møte." },
+      { "sentence": "Virtuelle Realität.", "translation": "Virtuell virkelighet." }
+    ]
+  },
+  "voll_adj": {
+    "translation": "full",
+    "explanation": { "_description": "Betyr \"full\" — fylt til randen. Uformelt også brukt om person som er full (av alkohol)." },
+    "synonyms": ["fylt", "komplett", "stoppa"],
+    "examples": [
+      { "sentence": "Das Glas ist voll.", "translation": "Glasset er fullt." },
+      { "sentence": "Das Stadion ist voll.", "translation": "Stadionet er fullt." }
+    ],
+    "alternativeMeanings": [
+      { "meaning": "full (av alkohol)", "context": "dagligtale, uformelt" }
+    ]
+  },
+  "voraussichtlich_adj": {
+    "translation": "forventet",
+    "explanation": { "_description": "Betyr \"forventet\" eller \"sannsynligvis\" — antatt å skje." },
+    "synonyms": ["trolig", "sannsynligvis", "antagelig"],
+    "examples": [
+      { "sentence": "Er kommt voraussichtlich um 18 Uhr.", "translation": "Han kommer forventet klokken 18." },
+      { "sentence": "Voraussichtlich regnet es.", "translation": "Det forventes regn." }
+    ]
+  },
+  "vorlaeufig_adj": {
+    "translation": "foreløpig",
+    "explanation": { "_description": "Betyr \"foreløpig\" — midlertidig, ikke endelig." },
+    "synonyms": ["midlertidig", "provisorisk", "ikke endelig"],
+    "examples": [
+      { "sentence": "Das ist eine vorläufige Entscheidung.", "translation": "Det er en foreløpig avgjørelse." },
+      { "sentence": "Vorläufige Ergebnisse.", "translation": "Foreløpige resultater." }
+    ]
+  },
+  "vorsichtig_adj": {
+    "translation": "forsiktig",
+    "explanation": { "_description": "Betyr \"forsiktig\" — uten å ta unødige risikoer." },
+    "synonyms": ["varsom", "saktmodig", "omtenksom"],
+    "examples": [
+      { "sentence": "Sei vorsichtig!", "translation": "Vær forsiktig!" },
+      { "sentence": "Fahre vorsichtig.", "translation": "Kjør forsiktig." }
+    ]
+  },
+  "wach_adj": {
+    "translation": "våken",
+    "explanation": { "_description": "Betyr \"våken\" — ikke sovende, oppmerksom." },
+    "synonyms": ["oppmerksom", "årvåken", "alert"],
+    "examples": [
+      { "sentence": "Ich bin wach.", "translation": "Jeg er våken." },
+      { "sentence": "Bleib wach!", "translation": "Hold deg våken!" }
+    ]
+  },
+  "wahnsinnig_adj": {
+    "translation": "gal",
+    "explanation": { "_description": "Betyr \"gal\" eller \"vanvittig\" — mentalt ustabil, eller brukt som forsterker (utrolig mye)." },
+    "synonyms": ["sprø", "vanvittig", "galning"],
+    "examples": [
+      { "sentence": "Das ist wahnsinnig!", "translation": "Det er galskap!" },
+      { "sentence": "Er arbeitet wahnsinnig viel.", "translation": "Han jobber vanvittig mye." }
+    ],
+    "alternativeMeanings": [
+      { "meaning": "utrolig/enormt", "context": "forsterker i dagligtale: \"wahnsinnig schön\" = utrolig vakkert" }
+    ]
+  },
+  "wahr_adj": {
+    "translation": "sann",
+    "explanation": { "_description": "Betyr \"sann\" — i samsvar med virkeligheten." },
+    "synonyms": ["korrekt", "riktig", "virkelig"],
+    "examples": [
+      { "sentence": "Das ist wahr.", "translation": "Det er sant." },
+      { "sentence": "Ist das wahr?", "translation": "Er det sant?" }
+    ]
+  },
+  "warm_adj": {
+    "translation": "varm",
+    "explanation": { "_description": "Betyr \"varm\" — høyere temperatur enn kjølig. Komparativ: wärmer." },
+    "synonyms": ["lunken", "varmhjertet"],
+    "examples": [
+      { "sentence": "Es ist warm heute.", "translation": "Det er varmt i dag." },
+      { "sentence": "Das Essen ist noch warm.", "translation": "Maten er fortsatt varm." },
+      { "sentence": "Zieh etwas Warmes an!", "translation": "Ta på deg noe varmt!" }
+    ]
+  },
+  "weiblich_adj": {
+    "translation": "kvinnelig",
+    "explanation": { "_description": "Betyr \"kvinnelig\" eller \"feminin\" — av hunnkjønn." },
+    "synonyms": ["feminin", "hunkjønn"],
+    "examples": [
+      { "sentence": "Das ist ein weiblicher Name.", "translation": "Det er et kvinnelig navn." },
+      { "sentence": "Weibliche Eigenschaften.", "translation": "Kvinnelige egenskaper." }
+    ]
+  },
+  "weich_adj": {
+    "translation": "myk",
+    "explanation": { "_description": "Betyr \"myk\" — ikke hard, bøyelig." },
+    "synonyms": ["myk", "lendsom", "bøyelig"],
+    "examples": [
+      { "sentence": "Das Kissen ist weich.", "translation": "Puten er myk." },
+      { "sentence": "Die Butter ist weich.", "translation": "Smøret er mykt." }
+    ]
+  },
+  "weiss_adj": {
+    "translation": "hvit",
+    "explanation": { "_description": "Betyr \"hvit\" — farge." },
+    "synonyms": ["kridhvit", "snevit"],
+    "examples": [
+      { "sentence": "Der Schnee ist weiß.", "translation": "Snøen er hvit." },
+      { "sentence": "Sie trägt ein weißes Kleid.", "translation": "Hun har på seg en hvit kjole." }
+    ]
+  },
+  "weit_adj": {
+    "translation": "langt",
+    "explanation": { "_description": "Betyr \"langt\" (avstand) eller \"vid\" (om rom, klær). Som adverb: langt borte." },
+    "synonyms": ["vid", "fjern", "bred"],
+    "examples": [
+      { "sentence": "Das ist weit weg.", "translation": "Det er langt borte." },
+      { "sentence": "Ein weiter Blick.", "translation": "En vid utsikt." }
+    ]
+  },
+  "weiter_adj": {
+    "translation": "videre",
+    "explanation": { "_description": "Betyr \"videre\" — fortsettelse, ytterligere. Komparativ av \"weit\"." },
+    "synonyms": ["ytterligere", "fremover"],
+    "examples": [
+      { "sentence": "Und weiter?", "translation": "Og videre?" },
+      { "sentence": "Keine weiteren Fragen.", "translation": "Ingen videre spørsmål." }
+    ]
+  },
+  "wert_adj": {
+    "translation": "verdt",
+    "explanation": { "_description": "Betyr \"verdt\" — har en verdi eller fortjener noe." },
+    "synonyms": ["verdifull", "fortjent", "av verdi"],
+    "examples": [
+      { "sentence": "Das ist es wert.", "translation": "Det er verdt det." },
+      { "sentence": "Es ist einen Versuch wert.", "translation": "Det er et forsøk verdt." }
+    ]
+  },
+  "wertlos_adj": {
+    "translation": "verdiløs",
+    "explanation": { "_description": "Betyr \"verdiløs\" — uten verdi." },
+    "synonyms": ["uten verdi", "ubrukelig", "ingenting verdt"],
+    "examples": [
+      { "sentence": "Das ist wertlos.", "translation": "Det er verdiløst." },
+      { "sentence": "Ein wertloser Gegenstand.", "translation": "En verdiløs gjenstand." }
+    ]
+  },
+  "wertvoll_adj": {
+    "translation": "verdifull",
+    "explanation": { "_description": "Betyr \"verdifull\" — av stor verdi, materielt eller ideelt." },
+    "synonyms": ["kostbar", "betydningsfull", "uvurderlig"],
+    "examples": [
+      { "sentence": "Das ist wertvoll.", "translation": "Det er verdifullt." },
+      { "sentence": "Eine wertvolle Erfahrung.", "translation": "En verdifull erfaring." }
+    ]
+  },
+  "wichtig_adj": {
+    "translation": "viktig",
+    "explanation": { "_description": "Betyr \"viktig\" — av stor betydning." },
+    "synonyms": ["betydningsfull", "vesentlig", "essensielt"],
+    "examples": [
+      { "sentence": "Das ist sehr wichtig.", "translation": "Det er veldig viktig." },
+      { "sentence": "Ich habe eine wichtige Frage.", "translation": "Jeg har et viktig spørsmål." },
+      { "sentence": "Familie ist wichtig für mich.", "translation": "Familie er viktig for meg." }
+    ]
+  },
+  "wild_adj": {
+    "translation": "vill",
+    "explanation": { "_description": "Betyr \"vill\" — ikke temmet eller kontrollert." },
+    "synonyms": ["utemmet", "udisiplinert", "fri"],
+    "examples": [
+      { "sentence": "Das Tier ist wild.", "translation": "Dyret er vilt." },
+      { "sentence": "Eine wilde Party.", "translation": "En vill fest." }
+    ]
+  },
+  "windig_adj": {
+    "translation": "vindfullt",
+    "explanation": { "_description": "Betyr \"vindfullt\" — mye vind." },
+    "synonyms": ["stormy", "blåsende"],
+    "examples": [
+      { "sentence": "Es ist windig draußen.", "translation": "Det er vindfullt ute." },
+      { "sentence": "Ein windiger Tag.", "translation": "En vindfullt dag." }
+    ]
+  },
+  "wirklich_adj": {
+    "translation": "virkelig",
+    "explanation": { "_description": "Betyr \"virkelig\" — ekte, faktisk. Brukes som forsterker: \"wirklich gut\" = virkelig bra." },
+    "synonyms": ["ekte", "faktisk", "genuint"],
+    "examples": [
+      { "sentence": "Das ist wirklich wahr.", "translation": "Det er virkelig sant." },
+      { "sentence": "Er ist wirklich nett.", "translation": "Han er virkelig hyggelig." }
+    ]
+  },
+  "witzig_adj": {
+    "translation": "morsom",
+    "explanation": { "_description": "Betyr \"morsom\" eller \"vittig\" — noe som gjør deg glad eller ler." },
+    "synonyms": ["artig", "komisk", "underholdende"],
+    "examples": [
+      { "sentence": "Das ist witzig!", "translation": "Det er morsomt!" },
+      { "sentence": "Er macht witzige Kommentare.", "translation": "Han kommer med morsomme kommentarer." }
+    ]
+  },
+  "wuetend_adj": {
+    "translation": "rasende",
+    "explanation": { "_description": "Betyr \"rasende\" — veldig sint, i et voldsomt sinne." },
+    "synonyms": ["forbanna", "sint", "harmdirrende"],
+    "examples": [
+      { "sentence": "Er ist wütend.", "translation": "Han er rasende." },
+      { "sentence": "Sie ist wütend auf ihn.", "translation": "Hun er rasende på ham." }
+    ]
+  },
+  "zahlreich_adj": {
+    "translation": "tallrik",
+    "explanation": { "_description": "Betyr \"tallrik\" — mange i antall." },
+    "synonyms": ["mange", "mangfoldig", "rikholdig"],
+    "examples": [
+      { "sentence": "Zahlreiche Besucher kamen.", "translation": "Tallrike besøkende kom." },
+      { "sentence": "Zahlreiche Möglichkeiten.", "translation": "Tallrike muligheter." }
+    ]
+  },
+  "zahm_adj": {
+    "translation": "tam",
+    "explanation": { "_description": "Betyr \"tam\" — temmet og vant til mennesker (om dyr)." },
+    "synonyms": ["temmet", "domestisert", "fredelig"],
+    "examples": [
+      { "sentence": "Das Tier ist zahm.", "translation": "Dyret er tammet." },
+      { "sentence": "Ein zahmer Hund.", "translation": "En tam hund." }
+    ]
+  },
+  "zentral_adj": {
+    "translation": "sentral",
+    "explanation": { "_description": "Betyr \"sentral\" — i midten, eller av stor betydning." },
+    "synonyms": ["midtre", "viktig", "hovedsakelig"],
+    "examples": [
+      { "sentence": "Das Hotel liegt zentral.", "translation": "Hotellet ligger sentralt." },
+      { "sentence": "Das ist ein zentrales Thema.", "translation": "Det er et sentralt tema." }
+    ]
+  },
+  "zufrieden_adj": {
+    "translation": "fornøyd",
+    "explanation": { "_description": "Betyr \"fornøyd\" — tilfreds med situasjonen." },
+    "synonyms": ["tilfreds", "glade", "lykkelig"],
+    "examples": [
+      { "sentence": "Ich bin zufrieden.", "translation": "Jeg er fornøyd." },
+      { "sentence": "Bist du zufrieden?", "translation": "Er du fornøyd?" }
+    ]
+  },
+  "zugaenglich_adj": {
+    "translation": "tilgjengelig",
+    "explanation": { "_description": "Betyr \"tilgjengelig\" — lett å nå eller komme til. Om person: imøtekommende." },
+    "synonyms": ["åpen", "imøtekommende", "nåbar"],
+    "examples": [
+      { "sentence": "Das Gebäude ist zugänglich.", "translation": "Bygningen er tilgjengelig." },
+      { "sentence": "Er ist sehr zugänglich.", "translation": "Han er veldig tilgjengelig/imøtekommende." }
+    ]
+  },
+  "zukuenftig_adj": {
+    "translation": "fremtidig",
+    "explanation": { "_description": "Betyr \"fremtidig\" — som hører til fremtiden." },
+    "synonyms": ["kommende", "forestående"],
+    "examples": [
+      { "sentence": "Zukünftige Generationen.", "translation": "Fremtidige generasjoner." },
+      { "sentence": "Das ist ein zukünftiges Projekt.", "translation": "Det er et fremtidig prosjekt." }
+    ]
+  },
+  "zusaetzlich_adj": {
+    "translation": "ekstra",
+    "explanation": { "_description": "Betyr \"ekstra\" eller \"tillegg\" — noe som kommer i tillegg." },
+    "synonyms": ["tilleggsvis", "supplerende", "ytterligere"],
+    "examples": [
+      { "sentence": "Das kostet zusätzlich.", "translation": "Det koster ekstra." },
+      { "sentence": "Eine zusätzliche Gebühr.", "translation": "En ekstra avgift." }
+    ]
+  },
+  "zustaendig_adj": {
+    "translation": "ansvarlig",
+    "explanation": { "_description": "Betyr \"ansvarlig\" i meningen at man har kompetanse eller myndighet. Litt annerledes enn \"verantwortlich\"." },
+    "synonyms": ["kompetent", "autorisert", "bertrettiget"],
+    "examples": [
+      { "sentence": "Wer ist zuständig?", "translation": "Hvem er ansvarlig/kompetent?" },
+      { "sentence": "Ich bin nicht zuständig.", "translation": "Jeg er ikke ansvarlig for det." }
+    ]
+  },
+  "zuverlaessig_adj": {
+    "translation": "pålitelig",
+    "explanation": { "_description": "Betyr \"pålitelig\" — man kan stole på vedkommende eller det." },
+    "synonyms": ["troverdig", "stabil", "ansvarlig"],
+    "examples": [
+      { "sentence": "Er ist zuverlässig.", "translation": "Han er pålitelig." },
+      { "sentence": "Ein zuverlässiges Auto.", "translation": "En pålitelig bil." }
+    ]
+  }
+}

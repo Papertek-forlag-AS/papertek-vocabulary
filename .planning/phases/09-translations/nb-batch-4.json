@@ -1,0 +1,402 @@
+{
+  "haesslich_adj": {
+    "translation": "stygg",
+    "explanation": { "_description": "Betyr \"stygg\" — ikke pent, grim. Kan brukes om utseende eller oppførsel." },
+    "synonyms": ["grim", "uattraktiv", "fæl"],
+    "examples": [
+      { "sentence": "Das Gebäude ist hässlich.", "translation": "Bygningen er stygg." },
+      { "sentence": "Das ist hässliches Wetter.", "translation": "Det er stygt vær." }
+    ]
+  },
+  "haeufig_adj": {
+    "translation": "hyppig",
+    "explanation": { "_description": "Betyr \"hyppig\" eller \"ofte forekommende\" — som skjer mange ganger." },
+    "synonyms": ["ofte", "vanlig", "gjentakende"],
+    "examples": [
+      { "sentence": "Das ist ein häufiges Problem.", "translation": "Det er et hyppig problem." },
+      { "sentence": "Häufige Pausen sind wichtig.", "translation": "Hyppige pauser er viktige." }
+    ]
+  },
+  "halb_adj": {
+    "translation": "halv",
+    "explanation": { "_description": "Betyr \"halv\" — en av to like deler." },
+    "synonyms": ["50 prosent", "halvdelen"],
+    "examples": [
+      { "sentence": "Es ist halb drei.", "translation": "Klokken er halv tre." },
+      { "sentence": "Ich esse nur eine halbe Portion.", "translation": "Jeg spiser bare en halv porsjon." }
+    ]
+  },
+  "haltbar_adj": {
+    "translation": "holdbar",
+    "explanation": { "_description": "Betyr \"holdbar\" — varer lenge, ikke lett å ødelegge. Om mat: lang holdbarhet." },
+    "synonyms": ["slitesterk", "varig", "solid"],
+    "examples": [
+      { "sentence": "Das Produkt ist lange haltbar.", "translation": "Produktet er holdbart lenge." },
+      { "sentence": "Wähle haltbare Materialien.", "translation": "Velg holdbare materialer." }
+    ]
+  },
+  "hart_adj": {
+    "translation": "hard",
+    "explanation": { "_description": "Betyr \"hard\" — fast konsistens eller vanskelig/tøff (om person eller situasjon)." },
+    "synonyms": ["solid", "tøff", "vanskelig"],
+    "examples": [
+      { "sentence": "Der Stein ist hart.", "translation": "Steinen er hard." },
+      { "sentence": "Das ist eine harte Entscheidung.", "translation": "Det er en hard avgjørelse." }
+    ],
+    "alternativeMeanings": [
+      { "meaning": "tøff/brutal", "context": "om behandling eller situasjon som er krevende" }
+    ]
+  },
+  "heimlich_adj": {
+    "translation": "hemmelig",
+    "explanation": { "_description": "Betyr \"hemmelig\" — skjult, gjort i det skjulte. Mer fokus på selve handlingen enn \"geheim\"." },
+    "synonyms": ["skjult", "i det skjulte", "lønlig"],
+    "examples": [
+      { "sentence": "Er tut es heimlich.", "translation": "Han gjør det i det skjulte." },
+      { "sentence": "Ein heimliches Treffen.", "translation": "Et hemmelig møte." }
+    ]
+  },
+  "heiss_adj": {
+    "translation": "varm",
+    "explanation": { "_description": "Betyr \"veldig varm\" — høy temperatur. Sterkere enn \"warm\"." },
+    "synonyms": ["het", "brennende", "glødende"],
+    "examples": [
+      { "sentence": "Es ist heiß heute.", "translation": "Det er veldig varmt i dag." },
+      { "sentence": "Der Tee ist heiß.", "translation": "Teen er varm." }
+    ]
+  },
+  "hell_adj": {
+    "translation": "lys",
+    "explanation": { "_description": "Betyr \"lys\" — mye lys, eller lys farge." },
+    "synonyms": ["lysende", "klar", "strålende"],
+    "examples": [
+      { "sentence": "Das Zimmer ist hell.", "translation": "Rommet er lyst." },
+      { "sentence": "Sie hat helle Haare.", "translation": "Hun har lyst hår." }
+    ]
+  },
+  "herzlich_adj": {
+    "translation": "hjertelig",
+    "explanation": { "_description": "Betyr \"hjertelig\" — varm, genuin og oppriktig hilsen eller velkomst." },
+    "synonyms": ["varm", "oppriktig", "vennlig"],
+    "examples": [
+      { "sentence": "Herzlich willkommen!", "translation": "Hjertelig velkommen!" },
+      { "sentence": "Ein herzlicher Empfang.", "translation": "En hjertelig mottagelse." }
+    ]
+  },
+  "historisch_adj": {
+    "translation": "historisk",
+    "explanation": { "_description": "Betyr \"historisk\" — knyttet til historien eller av stor historisk betydning." },
+    "synonyms": ["gammeldags", "tradisjonell", "epokemessig"],
+    "examples": [
+      { "sentence": "Das ist ein historischer Moment.", "translation": "Det er et historisk øyeblikk." },
+      { "sentence": "Die Stadt hat historische Gebäude.", "translation": "Byen har historiske bygninger." }
+    ]
+  },
+  "hoch_adj": {
+    "translation": "høy",
+    "explanation": { "_description": "Betyr \"høy\" — stor høyde. Uregelmessig: hoch → höher → am höchsten. \"Hoch\" mister -ch- når det bøyes (hohes Haus)." },
+    "synonyms": ["langstrakt", "opphøyd"],
+    "examples": [
+      { "sentence": "Der Berg ist hoch.", "translation": "Fjellet er høyt." },
+      { "sentence": "Die Miete ist hoch.", "translation": "Husleien er høy." }
+    ]
+  },
+  "hoeflich_adj": {
+    "translation": "høflig",
+    "explanation": { "_description": "Betyr \"høflig\" — med god oppførsel og manerer." },
+    "synonyms": ["dannet", "med gode manerer", "respektfull"],
+    "examples": [
+      { "sentence": "Sei höflich!", "translation": "Vær høflig!" },
+      { "sentence": "Er ist immer höflich.", "translation": "Han er alltid høflig." }
+    ]
+  },
+  "huebsch_adj": {
+    "translation": "pen",
+    "explanation": { "_description": "Betyr \"pen\" — attraktiv, fint utseende. Ikke like sterkt som \"schön\"." },
+    "synonyms": ["fin", "søt", "tiltrekkende"],
+    "examples": [
+      { "sentence": "Sie ist hübsch.", "translation": "Hun er pen." },
+      { "sentence": "Das ist ein hübsches Kleid.", "translation": "Det er en pen kjole." }
+    ]
+  },
+  "hungrig_adj": {
+    "translation": "sulten",
+    "explanation": { "_description": "Betyr \"sulten\" — behov for å spise." },
+    "synonyms": ["matglad", "sulten"],
+    "examples": [
+      { "sentence": "Ich bin hungrig.", "translation": "Jeg er sulten." },
+      { "sentence": "Bist du hungrig?", "translation": "Er du sulten?" }
+    ]
+  },
+  "ideal_adj": {
+    "translation": "ideell",
+    "explanation": { "_description": "Betyr \"ideell\" — perfekt for formålet, det best tenkelige." },
+    "synonyms": ["perfekt", "optimal", "utmerket"],
+    "examples": [
+      { "sentence": "Das ist die ideale Lösung.", "translation": "Det er den ideelle løsningen." },
+      { "sentence": "Das Wetter ist ideal.", "translation": "Været er ideelt." }
+    ]
+  },
+  "illegal_adj": {
+    "translation": "ulovlig",
+    "explanation": { "_description": "Betyr \"ulovlig\" — i strid med loven." },
+    "synonyms": ["lovstridig", "forbudt", "kriminelt"],
+    "examples": [
+      { "sentence": "Das ist illegal.", "translation": "Det er ulovlig." },
+      { "sentence": "Illegale Aktivitäten.", "translation": "Ulovlige aktiviteter." }
+    ]
+  },
+  "individuell_adj": {
+    "translation": "individuell",
+    "explanation": { "_description": "Betyr \"individuell\" — tilpasset enkeltperson, personlig." },
+    "synonyms": ["personlig", "særegen", "skreddersydd"],
+    "examples": [
+      { "sentence": "Wir bieten individuelle Beratung.", "translation": "Vi tilbyr individuell rådgivning." },
+      { "sentence": "Das ist mein individueller Stil.", "translation": "Det er min individuelle stil." }
+    ]
+  },
+  "intelligent_adj": {
+    "translation": "intelligent",
+    "explanation": { "_description": "Betyr \"intelligent\" — klok, med god forstand." },
+    "synonyms": ["klok", "smart", "begavet"],
+    "examples": [
+      { "sentence": "Sie ist sehr intelligent.", "translation": "Hun er veldig intelligent." },
+      { "sentence": "Das ist eine intelligente Lösung.", "translation": "Det er en intelligent løsning." }
+    ]
+  },
+  "intensiv_adj": {
+    "translation": "intensiv",
+    "explanation": { "_description": "Betyr \"intensiv\" — med stor styrke eller konsentrasjon." },
+    "synonyms": ["kraftig", "konsentrert", "intens"],
+    "examples": [
+      { "sentence": "Das ist intensives Training.", "translation": "Det er intensiv trening." },
+      { "sentence": "Der Geruch ist intensiv.", "translation": "Lukten er intens." }
+    ]
+  },
+  "interessant_adj": {
+    "translation": "interessant",
+    "explanation": { "_description": "Betyr \"interessant\" — som vekker interesse." },
+    "synonyms": ["spennende", "fascinerende", "engasjerende"],
+    "examples": [
+      { "sentence": "Das Buch ist interessant.", "translation": "Boken er interessant." },
+      { "sentence": "Ich finde Geschichte interessant.", "translation": "Jeg synes historie er interessant." },
+      { "sentence": "Das ist ein interessantes Thema.", "translation": "Det er et interessant tema." }
+    ]
+  },
+  "interessiert_adj": {
+    "translation": "interessert",
+    "explanation": { "_description": "Betyr \"interessert\" — har interesse for noe. Skiller seg fra \"interessant\" (som betyr spennende): \"Ich bin interessiert\" = jeg er interessert." },
+    "synonyms": ["engasjert", "ivrig", "nysgjerrig"],
+    "examples": [
+      { "sentence": "Ich bin interessiert.", "translation": "Jeg er interessert." },
+      { "sentence": "Er ist interessiert an Musik.", "translation": "Han er interessert i musikk." }
+    ]
+  },
+  "interkulturell_adj": {
+    "translation": "interkulturell",
+    "explanation": { "_description": "Betyr \"interkulturell\" — mellom ulike kulturer." },
+    "synonyms": ["tverrkulturell", "flerkulturell"],
+    "examples": [
+      { "sentence": "Das ist ein interkulturelles Projekt.", "translation": "Det er et interkulturelt prosjekt." },
+      { "sentence": "Interkulturelle Kommunikation ist wichtig.", "translation": "Interkulturell kommunikasjon er viktig." }
+    ]
+  },
+  "international_adj": {
+    "translation": "internasjonal",
+    "explanation": { "_description": "Betyr \"internasjonal\" — mellom land, globalt." },
+    "synonyms": ["global", "verdensomspennende", "multinasjonalt"],
+    "examples": [
+      { "sentence": "Das ist ein internationales Unternehmen.", "translation": "Det er et internasjonalt selskap." },
+      { "sentence": "Sie spricht international.", "translation": "Hun arbeider internasjonalt." }
+    ]
+  },
+  "jung_adj": {
+    "translation": "ung",
+    "explanation": { "_description": "Betyr \"ung\". Komparativ med umlaut: jung → jünger → am jüngsten." },
+    "synonyms": ["ungdommelig", "fersk"],
+    "examples": [
+      { "sentence": "Er ist noch jung.", "translation": "Han er fortsatt ung." },
+      { "sentence": "Meine Schwester ist jünger als ich.", "translation": "Søsteren min er yngre enn meg." }
+    ]
+  },
+  "kalt_adj": {
+    "translation": "kald",
+    "explanation": { "_description": "Betyr \"kald\". Komparativ: kälter → am kältesten." },
+    "synonyms": ["frostig", "iskald", "kulde"],
+    "examples": [
+      { "sentence": "Es ist kalt draußen.", "translation": "Det er kaldt ute." },
+      { "sentence": "Das Wasser ist zu kalt.", "translation": "Vannet er for kaldt." }
+    ]
+  },
+  "kaputt_adj": {
+    "translation": "ødelagt",
+    "explanation": { "_description": "Betyr \"ødelagt\" eller \"defekt\" — ikke i stand. Uformelt: \"Ich bin kaputt\" = jeg er ferdig/utslitt." },
+    "synonyms": ["defekt", "i stykker", "skadet"],
+    "examples": [
+      { "sentence": "Das Handy ist kaputt.", "translation": "Mobiltelefonen er ødelagt." },
+      { "sentence": "Ich bin kaputt!", "translation": "Jeg er ferdig/utslitt!" }
+    ],
+    "alternativeMeanings": [
+      { "meaning": "utslitt/ferdig", "context": "uformelt om person som er totalt utmattet" }
+    ]
+  },
+  "klar_adj": {
+    "translation": "klar",
+    "explanation": { "_description": "Betyr \"klar\" — tydelig, ferdig, eller rent. \"Alles klar!\" = alt klart!" },
+    "synonyms": ["tydelig", "ferdig", "ren"],
+    "examples": [
+      { "sentence": "Alles klar!", "translation": "Alt klart!" },
+      { "sentence": "Ist das klar?", "translation": "Er det klart?" },
+      { "sentence": "Das Wasser ist klar.", "translation": "Vannet er klart." }
+    ]
+  },
+  "klein_adj": {
+    "translation": "liten",
+    "explanation": { "_description": "Betyr \"liten\". Regulær komparativ: kleiner → am kleinsten." },
+    "synonyms": ["bitteliten", "mikroskopisk", "kompakt"],
+    "examples": [
+      { "sentence": "Die Wohnung ist klein.", "translation": "Leiligheten er liten." },
+      { "sentence": "Ich habe einen kleinen Hund.", "translation": "Jeg har en liten hund." },
+      { "sentence": "Mein Bruder ist noch klein.", "translation": "Broren min er fortsatt liten." }
+    ]
+  },
+  "klug_adj": {
+    "translation": "klok",
+    "explanation": { "_description": "Betyr \"klok\" — intelligent og vis. Noe mer vektlegger visdom enn \"intelligent\"." },
+    "synonyms": ["vis", "intelligent", "smart"],
+    "examples": [
+      { "sentence": "Das ist eine kluge Entscheidung.", "translation": "Det er en klok beslutning." },
+      { "sentence": "Sie ist sehr klug.", "translation": "Hun er veldig klok." }
+    ]
+  },
+  "knapp_adj": {
+    "translation": "knapp",
+    "explanation": { "_description": "Betyr \"knapp\" — nesten ikke nok, liten margin eller kortfattet." },
+    "synonyms": ["nesten ikke", "snau", "kortfattet"],
+    "examples": [
+      { "sentence": "Die Zeit ist knapp.", "translation": "Tiden er knapp." },
+      { "sentence": "Eine knappe Antwort.", "translation": "Et knapt svar." }
+    ]
+  },
+  "koerperlich_adj": {
+    "translation": "kroppslig",
+    "explanation": { "_description": "Betyr \"kroppslig\" — knyttet til kroppen, fysisk." },
+    "synonyms": ["fysisk", "legemlig", "somatisk"],
+    "examples": [
+      { "sentence": "Körperliche Arbeit ist anstrengend.", "translation": "Fysisk arbeid er anstrengende." },
+      { "sentence": "Körperliche Fitness ist wichtig.", "translation": "Fysisk form er viktig." }
+    ]
+  },
+  "komisch_adj": {
+    "translation": "merkelig",
+    "explanation": { "_description": "Betyr \"merkelig\" eller \"rar\". Kan også bety \"komisk/morsom\" i eldre/litterær bruk." },
+    "synonyms": ["rar", "underlig", "selsom"],
+    "examples": [
+      { "sentence": "Das ist komisch.", "translation": "Det er merkelig." },
+      { "sentence": "Er verhält sich komisch.", "translation": "Han oppfører seg merkelig." }
+    ],
+    "alternativeMeanings": [
+      { "meaning": "morsom/komisk", "context": "eldre bruk — i dag oftest \"merkelig\" i dagligtale" }
+    ]
+  },
+  "komplett_adj": {
+    "translation": "komplett",
+    "explanation": { "_description": "Betyr \"komplett\" eller \"fullstendig\" — alt er med." },
+    "synonyms": ["fullstendig", "total", "hel"],
+    "examples": [
+      { "sentence": "Die Sammlung ist komplett.", "translation": "Samlingen er komplett." },
+      { "sentence": "Das ist ein komplettes Chaos.", "translation": "Det er et fullstendig kaos." }
+    ]
+  },
+  "kompliziert_adj": {
+    "translation": "komplisert",
+    "explanation": { "_description": "Betyr \"komplisert\" — vanskelig å forstå eller løse." },
+    "synonyms": ["vanskelig", "innviklet", "krevende"],
+    "examples": [
+      { "sentence": "Das ist kompliziert.", "translation": "Det er komplisert." },
+      { "sentence": "Die Aufgabe ist kompliziert.", "translation": "Oppgaven er komplisert." }
+    ]
+  },
+  "korrekt_adj": {
+    "translation": "korrekt",
+    "explanation": { "_description": "Betyr \"korrekt\" — riktig, feilfri." },
+    "synonyms": ["riktig", "nøyaktig", "presis"],
+    "examples": [
+      { "sentence": "Die Antwort ist korrekt.", "translation": "Svaret er korrekt." },
+      { "sentence": "Bitte sei korrekt.", "translation": "Vær korrekt." }
+    ]
+  },
+  "kostenlos_adj": {
+    "translation": "gratis",
+    "explanation": { "_description": "Betyr \"gratis\" — uten kostnad." },
+    "synonyms": ["gratis", "avgiftsfri", "uten betaling"],
+    "examples": [
+      { "sentence": "Der Eintritt ist kostenlos.", "translation": "Inngangen er gratis." },
+      { "sentence": "Das ist kostenlos.", "translation": "Det er gratis." }
+    ]
+  },
+  "krank_adj": {
+    "translation": "syk",
+    "explanation": { "_description": "Betyr \"syk\" — ikke frisk, har en sykdom." },
+    "synonyms": ["uvelkomst", "dårlig", "svak"],
+    "examples": [
+      { "sentence": "Ich bin krank.", "translation": "Jeg er syk." },
+      { "sentence": "Sie ist krank und bleibt zu Hause.", "translation": "Hun er syk og blir hjemme." }
+    ]
+  },
+  "kreativ_adj": {
+    "translation": "kreativ",
+    "explanation": { "_description": "Betyr \"kreativ\" — full av ideer og skaperkraft." },
+    "synonyms": ["oppfinnsom", "fantasifull", "original"],
+    "examples": [
+      { "sentence": "Sie ist sehr kreativ.", "translation": "Hun er veldig kreativ." },
+      { "sentence": "Wir brauchen kreative Ideen.", "translation": "Vi trenger kreative ideer." }
+    ]
+  },
+  "kritisch_adj": {
+    "translation": "kritisk",
+    "explanation": { "_description": "Betyr \"kritisk\" — som stiller spørsmål, vurderer nøye, eller er i en kritisk situasjon." },
+    "synonyms": ["analytisk", "streng", "alvorlig"],
+    "examples": [
+      { "sentence": "Er ist sehr kritisch.", "translation": "Han er veldig kritisk." },
+      { "sentence": "Das ist eine kritische Situation.", "translation": "Det er en kritisk situasjon." }
+    ]
+  },
+  "kuehl_adj": {
+    "translation": "kjølig",
+    "explanation": { "_description": "Betyr \"kjølig\" — litt kaldt, men ikke veldig." },
+    "synonyms": ["frisk", "litt kald", "sval"],
+    "examples": [
+      { "sentence": "Es ist kühl heute.", "translation": "Det er kjølig i dag." },
+      { "sentence": "Das Bier ist kühl.", "translation": "Ølet er kjølig." }
+    ]
+  },
+  "kuenstlich_adj": {
+    "translation": "kunstig",
+    "explanation": { "_description": "Betyr \"kunstig\" — laget av mennesker, ikke naturlig." },
+    "synonyms": ["syntetisk", "konstruert", "falsk"],
+    "examples": [
+      { "sentence": "Das sind künstliche Blumen.", "translation": "Det er kunstige blomster." },
+      { "sentence": "Künstliche Intelligenz.", "translation": "Kunstig intelligens." }
+    ]
+  },
+  "kulturell_adj": {
+    "translation": "kulturell",
+    "explanation": { "_description": "Betyr \"kulturell\" — knyttet til kultur, kunst og tradisjon." },
+    "synonyms": ["kulturbetinget", "tradisjonell"],
+    "examples": [
+      { "sentence": "Das ist ein kulturelles Ereignis.", "translation": "Det er et kulturelt arrangement." },
+      { "sentence": "Kulturelle Unterschiede sind interessant.", "translation": "Kulturelle forskjeller er interessante." }
+    ]
+  },
+  "kurz_adj": {
+    "translation": "kort",
+    "explanation": { "_description": "Betyr \"kort\" — liten lengde eller varighet. Komparativ: kürzer." },
+    "synonyms": ["bortemomentant", "kortfattet", "liten"],
+    "examples": [
+      { "sentence": "Ich habe kurze Haare.", "translation": "Jeg har kort hår." },
+      { "sentence": "Kurz gesagt...", "translation": "Kort sagt..." },
+      { "sentence": "Die Pause war zu kurz.", "translation": "Pausen var for kort." }
+    ]
+  }
+}

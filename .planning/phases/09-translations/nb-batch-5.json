@@ -1,0 +1,361 @@
+{
+  "lang_adj": {
+    "translation": "lang",
+    "explanation": { "_description": "Betyr \"lang\" — stor lengde eller varighet. Komparativ: länger." },
+    "synonyms": ["langstrakt", "vid", "omstendelig"],
+    "examples": [
+      { "sentence": "Der Film ist lang.", "translation": "Filmen er lang." },
+      { "sentence": "Ich habe lange Haare.", "translation": "Jeg har langt hår." },
+      { "sentence": "Wie lange dauert es?", "translation": "Hvor lang tid tar det?" }
+    ]
+  },
+  "langsam_adj": {
+    "translation": "langsom",
+    "explanation": { "_description": "Betyr \"langsom\" — lav hastighet." },
+    "synonyms": ["sakte", "treig", "sneglesakte"],
+    "examples": [
+      { "sentence": "Die Schnecke ist langsam.", "translation": "Sneglen er langsom." },
+      { "sentence": "Bitte sprechen Sie langsam.", "translation": "Vennligst snakk sakte." },
+      { "sentence": "Der Bus fährt zu langsam.", "translation": "Bussen kjører for sakte." }
+    ]
+  },
+  "langweilig_adj": {
+    "translation": "kjedelig",
+    "explanation": { "_description": "Betyr \"kjedelig\" — ikke interessant, kedsommelig." },
+    "synonyms": ["monoton", "trist", "ensformig"],
+    "examples": [
+      { "sentence": "Der Film war langweilig.", "translation": "Filmen var kjedelig." },
+      { "sentence": "Das ist so langweilig!", "translation": "Det er så kjedelig!" },
+      { "sentence": "Mir ist langweilig.", "translation": "Jeg kjeder meg." }
+    ]
+  },
+  "laut_adj": {
+    "translation": "høy",
+    "explanation": { "_description": "Betyr \"høy\" (om lyd) — med stor lydstyrke. Ikke om høyde (det er \"hoch\")." },
+    "synonyms": ["støyende", "bråkete", "sterk"],
+    "examples": [
+      { "sentence": "Die Musik ist laut.", "translation": "Musikken er høy." },
+      { "sentence": "Er redet zu laut.", "translation": "Han snakker for høyt." }
+    ]
+  },
+  "lecker_adj": {
+    "translation": "godt",
+    "explanation": { "_description": "Betyr \"godt\" (om mat) — deilig smak." },
+    "synonyms": ["smakfullt", "deilig", "velsmakende"],
+    "examples": [
+      { "sentence": "Das Essen ist lecker!", "translation": "Maten er god!" },
+      { "sentence": "Die Pizza schmeckt lecker.", "translation": "Pizzaen smaker godt." },
+      { "sentence": "Das sieht lecker aus!", "translation": "Det ser godt ut!" }
+    ]
+  },
+  "ledig_adj": {
+    "translation": "ugift",
+    "explanation": { "_description": "Betyr \"ugift\" eller \"enslig\" — ikke gift." },
+    "synonyms": ["enslig", "singel", "ikke gift"],
+    "examples": [
+      { "sentence": "Er ist ledig.", "translation": "Han er ugift." },
+      { "sentence": "Ich bin noch ledig.", "translation": "Jeg er fortsatt ugift." }
+    ]
+  },
+  "leer_adj": {
+    "translation": "tom",
+    "explanation": { "_description": "Betyr \"tom\" — uten innhold." },
+    "synonyms": ["tømt", "ingenting i", "hulrom"],
+    "examples": [
+      { "sentence": "Das Glas ist leer.", "translation": "Glasset er tomt." },
+      { "sentence": "Die Flasche ist leer.", "translation": "Flasken er tom." }
+    ]
+  },
+  "leicht_adj": {
+    "translation": "lett",
+    "explanation": { "_description": "Betyr \"lett\" — liten vekt eller enkel å gjøre. To like vanlige betydninger." },
+    "synonyms": ["enkel", "ukomplisert", "liten vekt"],
+    "examples": [
+      { "sentence": "Die Tasche ist leicht.", "translation": "Vesken er lett." },
+      { "sentence": "Das ist leicht zu verstehen.", "translation": "Det er lett å forstå." }
+    ],
+    "alternativeMeanings": [
+      { "meaning": "enkel/ukomplisert", "context": "om oppgave eller forståelse" }
+    ]
+  },
+  "leise_adj": {
+    "translation": "stille",
+    "explanation": { "_description": "Betyr \"stille\" eller \"rolig\" (om lyd) — lav lydstyrke. Motsatt av \"laut\"." },
+    "synonyms": ["rolig", "dempet", "lavmælt"],
+    "examples": [
+      { "sentence": "Bitte sei leise!", "translation": "Vær stille!" },
+      { "sentence": "Sprich leiser.", "translation": "Snakk litt lavere." }
+    ]
+  },
+  "lieb_adj": {
+    "translation": "snill",
+    "explanation": { "_description": "Betyr \"snill\" eller \"kjær\" — vennlig og omtenksom. Brukes i tiltale: \"Liebe Maria\" (Kjære Maria)." },
+    "synonyms": ["kjær", "sød", "vennlig"],
+    "examples": [
+      { "sentence": "Das ist lieb von dir.", "translation": "Det er snilt av deg." },
+      { "sentence": "Lieber Max, ...", "translation": "Kjære Max, ..." }
+    ]
+  },
+  "lila_adj": {
+    "translation": "lilla",
+    "explanation": { "_description": "Betyr \"lilla\" — farge. Invariabelt adjektiv (bøyes ikke)." },
+    "synonyms": ["fiolett", "purpur"],
+    "examples": [
+      { "sentence": "Sie trägt ein lila Kleid.", "translation": "Hun har på seg en lilla kjole." },
+      { "sentence": "Das Hemd ist lila.", "translation": "Skjorten er lilla." }
+    ]
+  },
+  "locker_adj": {
+    "translation": "løs",
+    "explanation": { "_description": "Betyr \"løs\" — ikke fast festet. I overført betydning: avslappet eller uformell." },
+    "synonyms": ["avslappet", "uformell", "ledig"],
+    "examples": [
+      { "sentence": "Der Zahn ist locker.", "translation": "Tannen er løs." },
+      { "sentence": "Er ist locker und entspannt.", "translation": "Han er avslappet og rolig." }
+    ],
+    "alternativeMeanings": [
+      { "meaning": "avslappet/uformell", "context": "om person eller atmosfære — ikke anstrengt" }
+    ]
+  },
+  "lustig_adj": {
+    "translation": "morsom",
+    "explanation": { "_description": "Betyr \"morsom\" — noe som er gøy eller morer deg." },
+    "synonyms": ["gøy", "komisk", "artig"],
+    "examples": [
+      { "sentence": "Das ist lustig!", "translation": "Det er morsomt!" },
+      { "sentence": "Er ist sehr lustig.", "translation": "Han er veldig morsom." },
+      { "sentence": "Wir hatten einen lustigen Abend.", "translation": "Vi hadde en morsom kveld." }
+    ]
+  },
+  "maennlich_adj": {
+    "translation": "mannlig",
+    "explanation": { "_description": "Betyr \"mannlig\" eller \"maskulin\" — av hannkjønn." },
+    "synonyms": ["maskulin", "hankjønn"],
+    "examples": [
+      { "sentence": "Das ist ein männlicher Name.", "translation": "Det er et mannlig navn." },
+      { "sentence": "Männliche Tiere.", "translation": "Mannlige dyr." }
+    ]
+  },
+  "mager_adj": {
+    "translation": "mager",
+    "explanation": { "_description": "Betyr \"mager\" — svært tynn, lite fett. Kan brukes om person eller mat." },
+    "synonyms": ["tynn", "slank", "mager"],
+    "examples": [
+      { "sentence": "Er ist sehr mager.", "translation": "Han er veldig mager." },
+      { "sentence": "Das ist mageres Fleisch.", "translation": "Det er magert kjøtt." }
+    ]
+  },
+  "maximal_adj": {
+    "translation": "maksimal",
+    "explanation": { "_description": "Betyr \"maksimal\" — det høyeste mulige." },
+    "synonyms": ["høyeste", "topp", "øverste"],
+    "examples": [
+      { "sentence": "Die maximale Geschwindigkeit.", "translation": "Den maksimale hastigheten." },
+      { "sentence": "Das ist maximal möglich.", "translation": "Det er maksimalt mulig." }
+    ]
+  },
+  "menschlich_adj": {
+    "translation": "menneskelig",
+    "explanation": { "_description": "Betyr \"menneskelig\" — knyttet til mennesker, humant." },
+    "synonyms": ["human", "humant", "menneskelig"],
+    "examples": [
+      { "sentence": "Das ist menschlich.", "translation": "Det er menneskelig." },
+      { "sentence": "Menschliche Fehler passieren.", "translation": "Menneskelige feil skjer." }
+    ]
+  },
+  "merkwuerdig_adj": {
+    "translation": "merkelig",
+    "explanation": { "_description": "Betyr \"merkelig\" — rar eller underlig, verdt å legge merke til." },
+    "synonyms": ["rar", "underlig", "selsom"],
+    "examples": [
+      { "sentence": "Das ist merkwürdig.", "translation": "Det er merkelig." },
+      { "sentence": "Er verhält sich merkwürdig.", "translation": "Han oppfører seg merkelig." }
+    ]
+  },
+  "mild_adj": {
+    "translation": "mild",
+    "explanation": { "_description": "Betyr \"mild\" — ikke sterk eller ekstrem, behagelig (om vær, smak, person)." },
+    "synonyms": ["lempelig", "behagelig", "skånsom"],
+    "examples": [
+      { "sentence": "Das Wetter ist mild.", "translation": "Været er mildt." },
+      { "sentence": "Eine milde Strafe.", "translation": "En mild straff." }
+    ]
+  },
+  "minimal_adj": {
+    "translation": "minimal",
+    "explanation": { "_description": "Betyr \"minimal\" — det minste mulige." },
+    "synonyms": ["minste", "ubetydelig", "mikroskopisk"],
+    "examples": [
+      { "sentence": "Das ist ein minimaler Unterschied.", "translation": "Det er en minimal forskjell." },
+      { "sentence": "Mit minimalem Aufwand.", "translation": "Med minimal innsats." }
+    ]
+  },
+  "moeglich_adj": {
+    "translation": "mulig",
+    "explanation": { "_description": "Betyr \"mulig\" — kan skje eller gjøres. \"So schnell wie möglich\" = så fort som mulig." },
+    "synonyms": ["gjennomførbar", "tenkelig", "realistisk"],
+    "examples": [
+      { "sentence": "Ist das möglich?", "translation": "Er det mulig?" },
+      { "sentence": "So bald wie möglich.", "translation": "Så snart som mulig." }
+    ]
+  },
+  "muede_adj": {
+    "translation": "trøtt",
+    "explanation": { "_description": "Betyr \"trøtt\" — sliten og søvnig." },
+    "synonyms": ["søvnig", "sliten", "utmattet"],
+    "examples": [
+      { "sentence": "Ich bin müde.", "translation": "Jeg er trøtt." },
+      { "sentence": "Bist du müde?", "translation": "Er du trøtt?" },
+      { "sentence": "Sie sieht müde aus.", "translation": "Hun ser trøtt ut." }
+    ]
+  },
+  "muendlich_adj": {
+    "translation": "muntlig",
+    "explanation": { "_description": "Betyr \"muntlig\" — talt, ikke skriftlig." },
+    "synonyms": ["talt", "verbal", "ikke skriftlig"],
+    "examples": [
+      { "sentence": "Das ist eine mündliche Prüfung.", "translation": "Det er en muntlig eksamen." },
+      { "sentence": "Mündliche Vereinbarungen.", "translation": "Muntlige avtaler." }
+    ]
+  },
+  "musikalisch_adj": {
+    "translation": "musikalsk",
+    "explanation": { "_description": "Betyr \"musikalsk\" — har talent for musikk eller er knyttet til musikk." },
+    "synonyms": ["musikktalen", "melodisk"],
+    "examples": [
+      { "sentence": "Sie ist sehr musikalisch.", "translation": "Hun er veldig musikalsk." },
+      { "sentence": "Ein musikalisches Kind.", "translation": "Et musikalsk barn." }
+    ]
+  },
+  "mutig_adj": {
+    "translation": "modig",
+    "explanation": { "_description": "Betyr \"modig\" — uten frykt, tapper. Se NB: \"brav\" på norsk = modig, men på tysk betyr \"brav\" snill/lydig." },
+    "synonyms": ["tapper", "dristig", "frimodig"],
+    "examples": [
+      { "sentence": "Er ist mutig.", "translation": "Han er modig." },
+      { "sentence": "Das war mutig von dir.", "translation": "Det var modig av deg." }
+    ]
+  },
+  "nass_adj": {
+    "translation": "våt",
+    "explanation": { "_description": "Betyr \"våt\" — dekket av vann eller annen væske." },
+    "synonyms": ["gjennombløt", "fuktig", "dryppende"],
+    "examples": [
+      { "sentence": "Meine Jacke ist nass.", "translation": "Jakken min er våt." },
+      { "sentence": "Der Boden ist nass.", "translation": "Gulvet er vått." }
+    ]
+  },
+  "natuerlich_adj": {
+    "translation": "naturlig",
+    "explanation": { "_description": "Betyr \"naturlig\" — fra naturen, ikke kunstig. Som adverb: \"natürlich!\" = selvfølgelig!" },
+    "synonyms": ["organisk", "ekte", "ubehandlet"],
+    "examples": [
+      { "sentence": "Das ist natürlich.", "translation": "Det er naturlig." },
+      { "sentence": "Natürlich! Das ist klar.", "translation": "Selvfølgelig! Det er klart." }
+    ],
+    "alternativeMeanings": [
+      { "meaning": "selvfølgelig", "context": "som adverb/bekreftelse: \"natürlich!\" = selvfølgelig!" }
+    ]
+  },
+  "neblig_adj": {
+    "translation": "tåkete",
+    "explanation": { "_description": "Betyr \"tåkete\" — vær med tåke." },
+    "synonyms": ["diset", "tåkelagt"],
+    "examples": [
+      { "sentence": "Es ist neblig heute.", "translation": "Det er tåkete i dag." },
+      { "sentence": "Das Wetter ist neblig.", "translation": "Været er tåkete." }
+    ]
+  },
+  "negativ_adj": {
+    "translation": "negativ",
+    "explanation": { "_description": "Betyr \"negativ\" — i en dårlig retning, motsatt av positiv." },
+    "synonyms": ["pessimistisk", "dårlig", "ugunstig"],
+    "examples": [
+      { "sentence": "Das hat negative Folgen.", "translation": "Det har negative konsekvenser." },
+      { "sentence": "Sei nicht so negativ!", "translation": "Ikke vær så negativ!" }
+    ]
+  },
+  "nervoes_adj": {
+    "translation": "nervøs",
+    "explanation": { "_description": "Betyr \"nervøs\" — urolig og spent, gjerne av frykt eller forventning." },
+    "synonyms": ["spent", "urolig", "anspent"],
+    "examples": [
+      { "sentence": "Ich bin nervös.", "translation": "Jeg er nervøs." },
+      { "sentence": "Sie wirkt nervös.", "translation": "Hun virker nervøs." }
+    ]
+  },
+  "nett_adj": {
+    "translation": "hyggelig",
+    "explanation": { "_description": "Betyr \"hyggelig\" — vennlig og snill." },
+    "synonyms": ["vennlig", "snill", "trivelig"],
+    "examples": [
+      { "sentence": "Sie ist sehr nett.", "translation": "Hun er veldig hyggelig." },
+      { "sentence": "Das war nett von dir.", "translation": "Det var snilt av deg." },
+      { "sentence": "Meine Nachbarn sind nett.", "translation": "Naboene mine er hyggelige." }
+    ]
+  },
+  "neu_adj": {
+    "translation": "ny",
+    "explanation": { "_description": "Betyr \"ny\" — ikke brukt før, eller fersk." },
+    "synonyms": ["fersk", "moderne", "nylig"],
+    "examples": [
+      { "sentence": "Ich habe ein neues Handy.", "translation": "Jeg har en ny mobil." },
+      { "sentence": "Das ist mein neuer Freund.", "translation": "Det er min nye venn." },
+      { "sentence": "Was gibt es Neues?", "translation": "Hva er nytt?" }
+    ]
+  },
+  "neugierig_adj": {
+    "translation": "nysgjerrig",
+    "explanation": { "_description": "Betyr \"nysgjerrig\" — ønsker å lære mer om noe." },
+    "synonyms": ["interessert", "ivrig etter å vite", "undersøkende"],
+    "examples": [
+      { "sentence": "Das Kind ist neugierig.", "translation": "Barnet er nysgjerrig." },
+      { "sentence": "Ich bin neugierig auf das Ergebnis.", "translation": "Jeg er nysgjerrig på resultatet." }
+    ]
+  },
+  "niedrig_adj": {
+    "translation": "lav",
+    "explanation": { "_description": "Betyr \"lav\" — liten høyde eller verdi. Om pris: lav/billig. Om bygning: lav." },
+    "synonyms": ["kort", "lavtstående", "beskjeden"],
+    "examples": [
+      { "sentence": "Die Preise sind niedrig.", "translation": "Prisene er lave." },
+      { "sentence": "Das Gebäude ist niedrig.", "translation": "Bygningen er lav." }
+    ]
+  },
+  "noetig_adj": {
+    "translation": "nødvendig",
+    "explanation": { "_description": "Betyr \"nødvendig\" — ikke valgfritt, må gjøres." },
+    "synonyms": ["påkrevd", "obligatorisk", "uunnværlig"],
+    "examples": [
+      { "sentence": "Das ist nötig.", "translation": "Det er nødvendig." },
+      { "sentence": "Ist das wirklich nötig?", "translation": "Er det virkelig nødvendig?" }
+    ]
+  },
+  "normal_adj": {
+    "translation": "normal",
+    "explanation": { "_description": "Betyr \"normal\" — vanlig, ikke avvikende." },
+    "synonyms": ["vanlig", "standard", "ordinær"],
+    "examples": [
+      { "sentence": "Das ist normal.", "translation": "Det er normalt." },
+      { "sentence": "Ist das normal?", "translation": "Er det normalt?" }
+    ]
+  },
+  "notwendig_adj": {
+    "translation": "nødvendig",
+    "explanation": { "_description": "Betyr \"nødvendig\" — absolutt påkrevd. Litt sterkere enn \"nötig\"." },
+    "synonyms": ["uunnværlig", "tvingende nødvendig", "obligatorisk"],
+    "examples": [
+      { "sentence": "Das ist notwendig.", "translation": "Det er nødvendig." },
+      { "sentence": "Die notwendigen Schritte.", "translation": "De nødvendige skrittene." }
+    ]
+  },
+  "nuetzlich_adj": {
+    "translation": "nyttig",
+    "explanation": { "_description": "Betyr \"nyttig\" — til nytte, praktisk brukbar." },
+    "synonyms": ["praktisk", "brukbar", "anvendelig"],
+    "examples": [
+      { "sentence": "Das ist nützlich.", "translation": "Det er nyttig." },
+      { "sentence": "Ein nützliches Werkzeug.", "translation": "Et nyttig verktøy." }
+    ]
+  }
+}

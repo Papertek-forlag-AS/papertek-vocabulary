@@ -1,0 +1,338 @@
+{
+  "oeffentlich_adj": {
+    "translation": "offentlig",
+    "explanation": { "_description": "Betyr \"offentlig\" — for alle, ikke privat." },
+    "synonyms": ["allmenn", "felles", "statslig"],
+    "examples": [
+      { "sentence": "Das ist ein öffentlicher Platz.", "translation": "Det er et offentlig sted." },
+      { "sentence": "Öffentliche Verkehrsmittel.", "translation": "Offentlige transportmidler." }
+    ]
+  },
+  "offenbar_adj": {
+    "translation": "åpenbart",
+    "explanation": { "_description": "Betyr \"åpenbart\" eller \"tydelig\" — noe som er klart og synlig." },
+    "synonyms": ["tydelig", "klart", "innlysende"],
+    "examples": [
+      { "sentence": "Das ist offenbar falsch.", "translation": "Det er åpenbart feil." },
+      { "sentence": "Offenbar hat er vergessen.", "translation": "Åpenbart har han glemt det." }
+    ]
+  },
+  "offiziell_adj": {
+    "translation": "offisiell",
+    "explanation": { "_description": "Betyr \"offisiell\" — godkjent av myndigheter eller organisasjoner." },
+    "synonyms": ["formell", "autorisert", "godkjent"],
+    "examples": [
+      { "sentence": "Das ist eine offizielle Aussage.", "translation": "Det er en offisiell uttalelse." },
+      { "sentence": "Der offizielle Termin.", "translation": "Den offisielle datoen." }
+    ]
+  },
+  "optimistisch_adj": {
+    "translation": "optimistisk",
+    "explanation": { "_description": "Betyr \"optimistisk\" — ser positivt på fremtiden." },
+    "synonyms": ["positiv", "håpefull", "lystig"],
+    "examples": [
+      { "sentence": "Er ist optimistisch.", "translation": "Han er optimistisk." },
+      { "sentence": "Bleib optimistisch!", "translation": "Hold deg optimistisk!" }
+    ]
+  },
+  "orange_adj": {
+    "translation": "oransje",
+    "explanation": { "_description": "Betyr \"oransje\" — farge. Invariabelt adjektiv (bøyes ikke)." },
+    "synonyms": ["appelsinfarget"],
+    "examples": [
+      { "sentence": "Das T-Shirt ist orange.", "translation": "T-skjorten er oransje." },
+      { "sentence": "Eine orange Jacke.", "translation": "En oransje jakke." }
+    ]
+  },
+  "ordentlich_adj": {
+    "translation": "ryddig",
+    "explanation": { "_description": "Betyr \"ryddig\" eller \"ordentlig\" — i orden, riktig gjort." },
+    "synonyms": ["pent ordnet", "skikkelig", "nøye"],
+    "examples": [
+      { "sentence": "Sein Zimmer ist ordentlich.", "translation": "Rommet hans er ryddig." },
+      { "sentence": "Sei ordentlich!", "translation": "Vær ordentlig!" }
+    ]
+  },
+  "parallel_adj": {
+    "translation": "parallell",
+    "explanation": { "_description": "Betyr \"parallell\" — i samme retning, side om side." },
+    "synonyms": ["side om side", "tilsvarende"],
+    "examples": [
+      { "sentence": "Die Linien sind parallel.", "translation": "Linjene er parallelle." },
+      { "sentence": "Parallele Prozesse.", "translation": "Parallelle prosesser." }
+    ]
+  },
+  "passiv_adj": {
+    "translation": "passiv",
+    "explanation": { "_description": "Betyr \"passiv\" — ikke aktiv, tar ingen initiativ." },
+    "synonyms": ["inaktiv", "stillestående", "likegyldig"],
+    "examples": [
+      { "sentence": "Er ist sehr passiv.", "translation": "Han er veldig passiv." },
+      { "sentence": "Eine passive Haltung.", "translation": "En passiv holdning." }
+    ]
+  },
+  "pauschal_adj": {
+    "translation": "pauschal",
+    "explanation": { "_description": "Betyr \"pauschal\" — generalisert, uten nyanser, eller til fast pris." },
+    "synonyms": ["generalisert", "flat rate", "overordnet"],
+    "examples": [
+      { "sentence": "Das ist eine pauschale Aussage.", "translation": "Det er en generalisert påstand." },
+      { "sentence": "Ein Pauschalpreis.", "translation": "En fastpris." }
+    ]
+  },
+  "perfekt_adj": {
+    "translation": "perfekt",
+    "explanation": { "_description": "Betyr \"perfekt\" — uten feil, ideell." },
+    "synonyms": ["feilfri", "ideell", "utmerket"],
+    "examples": [
+      { "sentence": "Das ist perfekt!", "translation": "Det er perfekt!" },
+      { "sentence": "Sie spricht perfektes Deutsch.", "translation": "Hun snakker perfekt tysk." }
+    ]
+  },
+  "ploetzlich_adj": {
+    "translation": "plutselig",
+    "explanation": { "_description": "Betyr \"plutselig\" — uten forvarsel, uventet." },
+    "synonyms": ["uventet", "brå", "overraskende"],
+    "examples": [
+      { "sentence": "Plötzlich fing es an zu regnen.", "translation": "Plutselig begynte det å regne." },
+      { "sentence": "Das war plötzlich.", "translation": "Det var plutselig." }
+    ]
+  },
+  "populaer_adj": {
+    "translation": "populær",
+    "explanation": { "_description": "Betyr \"populær\" — godt likt av mange." },
+    "synonyms": ["godt likt", "kjent", "ettertraktet"],
+    "examples": [
+      { "sentence": "Das Lied ist populär.", "translation": "Sangen er populær." },
+      { "sentence": "Er ist sehr populär.", "translation": "Han er veldig populær." }
+    ]
+  },
+  "positiv_adj": {
+    "translation": "positiv",
+    "explanation": { "_description": "Betyr \"positiv\" — god, oppmuntrende, optimistisk." },
+    "synonyms": ["god", "gunstig", "oppmuntrende"],
+    "examples": [
+      { "sentence": "Das ist eine positive Nachricht.", "translation": "Det er en positiv nyhet." },
+      { "sentence": "Bleib positiv!", "translation": "Hold deg positiv!" }
+    ]
+  },
+  "praktisch_adj": {
+    "translation": "praktisk",
+    "explanation": { "_description": "Betyr \"praktisk\" — nyttig i praksis, lett å bruke." },
+    "synonyms": ["nyttig", "funksjonell", "hensiktsmessig"],
+    "examples": [
+      { "sentence": "Das ist sehr praktisch.", "translation": "Det er veldig praktisk." },
+      { "sentence": "Eine praktische Lösung.", "translation": "En praktisk løsning." }
+    ]
+  },
+  "preiswert_adj": {
+    "translation": "prisverdig",
+    "explanation": { "_description": "Betyr \"prisverdig\" — god pris i forhold til kvalitet. Mer positivt enn \"billig\"." },
+    "synonyms": ["rimelig", "god kjøp", "verdt prisen"],
+    "examples": [
+      { "sentence": "Das Restaurant ist preiswert.", "translation": "Restauranten er prisverdig." },
+      { "sentence": "Ein preiswertes Angebot.", "translation": "Et prisverdrig tilbud." }
+    ]
+  },
+  "privat_adj": {
+    "translation": "privat",
+    "explanation": { "_description": "Betyr \"privat\" — personlig, ikke offentlig." },
+    "synonyms": ["personlig", "ikke offentlig", "lukket"],
+    "examples": [
+      { "sentence": "Das ist privat.", "translation": "Det er privat." },
+      { "sentence": "Eine private Veranstaltung.", "translation": "Et privat arrangement." }
+    ]
+  },
+  "puenktlich_adj": {
+    "translation": "punktlig",
+    "explanation": { "_description": "Betyr \"punktlig\" — til avtalt tid, ikke forsinket." },
+    "synonyms": ["i tide", "tidsnok", "nøyaktig"],
+    "examples": [
+      { "sentence": "Er ist immer pünktlich.", "translation": "Han er alltid punktlig." },
+      { "sentence": "Der Zug ist pünktlich.", "translation": "Toget er punktlig." }
+    ]
+  },
+  "quer_adj": {
+    "translation": "tvers",
+    "explanation": { "_description": "Betyr \"tvers\" — på skrå, vinkelrett på lengderetningen." },
+    "synonyms": ["diagonal", "på tvers", "horisontalt"],
+    "examples": [
+      { "sentence": "Quer durch das Land.", "translation": "Tvers gjennom landet." },
+      { "sentence": "Die Linie geht quer.", "translation": "Linjen går på tvers." }
+    ]
+  },
+  "realistisch_adj": {
+    "translation": "realistisk",
+    "explanation": { "_description": "Betyr \"realistisk\" — i samsvar med virkeligheten, praktisk." },
+    "synonyms": ["praktisk", "jordnær", "fornuftig"],
+    "examples": [
+      { "sentence": "Sei realistisch!", "translation": "Vær realistisk!" },
+      { "sentence": "Das ist ein realistischer Plan.", "translation": "Det er en realistisk plan." }
+    ]
+  },
+  "recht_adj": {
+    "translation": "rett",
+    "explanation": { "_description": "Betyr \"rett\" eller \"riktig\". Også brukt i \"recht haben\" (ha rett) og som adverb (\"recht gut\" = ganske bra)." },
+    "synonyms": ["riktig", "korrekt", "ganske"],
+    "examples": [
+      { "sentence": "Du hast recht.", "translation": "Du har rett." },
+      { "sentence": "Das ist recht gut.", "translation": "Det er ganske bra." }
+    ]
+  },
+  "rechtlich_adj": {
+    "translation": "juridisk",
+    "explanation": { "_description": "Betyr \"juridisk\" eller \"rettslig\" — knyttet til loven." },
+    "synonyms": ["rettslig", "lovmessig", "legal"],
+    "examples": [
+      { "sentence": "Das ist eine rechtliche Frage.", "translation": "Det er et juridisk spørsmål." },
+      { "sentence": "Rechtliche Konsequenzen.", "translation": "Juridiske konsekvenser." }
+    ]
+  },
+  "rechtzeitig_adj": {
+    "translation": "i tide",
+    "explanation": { "_description": "Betyr \"i tide\" — ikke for sent, til riktig tidspunkt." },
+    "synonyms": ["tidsnok", "punktlig", "betids"],
+    "examples": [
+      { "sentence": "Komm rechtzeitig!", "translation": "Kom i tide!" },
+      { "sentence": "Er hat rechtzeitig reagiert.", "translation": "Han reagerte i tide." }
+    ]
+  },
+  "regelmaessig_adj": {
+    "translation": "regelmessig",
+    "explanation": { "_description": "Betyr \"regelmessig\" — med fast intervall, ikke tilfeldig." },
+    "synonyms": ["jevnlig", "fast", "periodisk"],
+    "examples": [
+      { "sentence": "Ich mache regelmäßig Sport.", "translation": "Jeg trener regelmessig." },
+      { "sentence": "Regelmäßige Pausen sind wichtig.", "translation": "Regelmessige pauser er viktige." }
+    ]
+  },
+  "regional_adj": {
+    "translation": "regional",
+    "explanation": { "_description": "Betyr \"regional\" — knyttet til en bestemt region eller område." },
+    "synonyms": ["lokalt", "distriktsbasert", "stedlig"],
+    "examples": [
+      { "sentence": "Regionale Produkte sind frischer.", "translation": "Regionale produkter er ferskere." },
+      { "sentence": "Ein regionales Fest.", "translation": "Et regionalt festival." }
+    ]
+  },
+  "regnerisch_adj": {
+    "translation": "regnfull",
+    "explanation": { "_description": "Betyr \"regnfull\" — vær med mye regn." },
+    "synonyms": ["våt", "grå", "dystert vær"],
+    "examples": [
+      { "sentence": "Das Wetter ist regnerisch.", "translation": "Været er regnfullt." },
+      { "sentence": "Ein regnerischer Tag.", "translation": "En regnfull dag." }
+    ]
+  },
+  "reich_adj": {
+    "translation": "rik",
+    "explanation": { "_description": "Betyr \"rik\" — har mye penger eller ressurser." },
+    "synonyms": ["velstående", "velhavende", "formuende"],
+    "examples": [
+      { "sentence": "Er ist sehr reich.", "translation": "Han er veldig rik." },
+      { "sentence": "Eine reiche Familie.", "translation": "En rik familie." }
+    ]
+  },
+  "reif_adj": {
+    "translation": "moden",
+    "explanation": { "_description": "Betyr \"moden\" — ferdig utviklet (om frukt) eller voksen og ansvarlig (om person)." },
+    "synonyms": ["ferdig", "voksen", "ansvarlig"],
+    "examples": [
+      { "sentence": "Die Frucht ist reif.", "translation": "Frukten er moden." },
+      { "sentence": "Er ist sehr reif für sein Alter.", "translation": "Han er veldig moden for alderen sin." }
+    ]
+  },
+  "rein_adj": {
+    "translation": "ren",
+    "explanation": { "_description": "Betyr \"ren\" eller \"pur\". NB: FALSK VEN — norsk \"rein\" betyr reinsdyr. Tysk \"rein\" som adjektiv betyr rent/purt." },
+    "synonyms": ["pur", "ubesmittet", "klar"],
+    "examples": [
+      { "sentence": "Das Wasser ist rein.", "translation": "Vannet er rent." },
+      { "sentence": "Das ist reines Gold.", "translation": "Det er rent gull." }
+    ]
+  },
+  "relativ_adj": {
+    "translation": "relativ",
+    "explanation": { "_description": "Betyr \"relativ\" — i forhold til noe annet, ikke absolutt." },
+    "synonyms": ["forholdsmessig", "sammenlignet med"],
+    "examples": [
+      { "sentence": "Das ist relativ einfach.", "translation": "Det er relativt enkelt." },
+      { "sentence": "Alles ist relativ.", "translation": "Alt er relativt." }
+    ]
+  },
+  "richtig_adj": {
+    "translation": "riktig",
+    "explanation": { "_description": "Betyr \"riktig\" (korrekt) eller \"skikkelig/ordentlig\" (som forsterker). Begge brukes hyppig." },
+    "synonyms": ["korrekt", "ordentlig", "ekte"],
+    "examples": [
+      { "sentence": "Das ist richtig.", "translation": "Det er riktig." },
+      { "sentence": "Das ist ein richtiger Freund.", "translation": "Det er en skikkelig venn." }
+    ],
+    "alternativeMeanings": [
+      { "meaning": "skikkelig/ordentlig", "context": "som forsterker: \"ein richtiges Problem\" = et skikkelig problem" }
+    ]
+  },
+  "riesig_adj": {
+    "translation": "kjempestor",
+    "explanation": { "_description": "Betyr \"kjempestor\" eller \"enorm\" — mye større enn normalt." },
+    "synonyms": ["enorm", "gigantisk", "kolossal"],
+    "examples": [
+      { "sentence": "Das ist ein riesiges Haus.", "translation": "Det er et kjempestort hus." },
+      { "sentence": "Eine riesige Menge.", "translation": "En enorm mengde." }
+    ]
+  },
+  "roh_adj": {
+    "translation": "rå",
+    "explanation": { "_description": "Betyr \"rå\" — ikke kokt/bearbeidet (om mat) eller grov/usivilisert (om oppførsel)." },
+    "synonyms": ["ukokt", "ubehandlet", "ubarbariansk"],
+    "examples": [
+      { "sentence": "Rohes Fleisch.", "translation": "Rått kjøtt." },
+      { "sentence": "Ein roher Diamant.", "translation": "En rå diamant." }
+    ]
+  },
+  "romantisch_adj": {
+    "translation": "romantisk",
+    "explanation": { "_description": "Betyr \"romantisk\" — knyttet til kjærlighet og romantikk." },
+    "synonyms": ["kjærlig", "sentimental", "idyllisk"],
+    "examples": [
+      { "sentence": "Das ist so romantisch!", "translation": "Det er så romantisk!" },
+      { "sentence": "Ein romantisches Abendessen.", "translation": "Et romantisk middagsselskap." }
+    ]
+  },
+  "rosa_adj": {
+    "translation": "rosa",
+    "explanation": { "_description": "Betyr \"rosa\" — lyserød farge. Invariabelt adjektiv (bøyes ikke)." },
+    "synonyms": ["lyserød", "rosafarget"],
+    "examples": [
+      { "sentence": "Das ist ein rosa Kleid.", "translation": "Det er en rosa kjole." },
+      { "sentence": "Rosa Blumen.", "translation": "Rosa blomster." }
+    ]
+  },
+  "rot_adj": {
+    "translation": "rød",
+    "explanation": { "_description": "Betyr \"rød\" — farge." },
+    "synonyms": ["skarlagenrød", "kirsebærrød"],
+    "examples": [
+      { "sentence": "Das Auto ist rot.", "translation": "Bilen er rød." },
+      { "sentence": "Sie hat rote Haare.", "translation": "Hun har rødt hår." }
+    ]
+  },
+  "ruhig_adj": {
+    "translation": "rolig",
+    "explanation": { "_description": "Betyr \"rolig\" — uten bråk eller aktivitet, eller om person: behersket." },
+    "synonyms": ["stille", "fredelig", "avslappet"],
+    "examples": [
+      { "sentence": "Es ist ruhig hier.", "translation": "Det er rolig her." },
+      { "sentence": "Bleib ruhig!", "translation": "Hold deg rolig!" }
+    ]
+  },
+  "rund_adj": {
+    "translation": "rund",
+    "explanation": { "_description": "Betyr \"rund\" — sirkelform, uten kanter." },
+    "synonyms": ["sirkelformet", "kuleformet", "buet"],
+    "examples": [
+      { "sentence": "Der Tisch ist rund.", "translation": "Bordet er rundt." },
+      { "sentence": "Eine runde Zahl.", "translation": "Et rundt tall." }
+    ]
+  }
+}
