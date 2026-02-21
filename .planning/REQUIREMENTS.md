@@ -18,8 +18,8 @@ Requirements for German Adjective Declension milestone. Each maps to roadmap pha
 - [ ] **BANK-01**: Adjectives extracted from Goethe A1/A2/B1 "other" wordlists using attributive test ("ein ___er Mann"), deduplicated against existing 108 entries
 - [x] **BANK-02**: New adjective entries added to core bank (`vocabulary/core/de/adjectivebank.json`) with word, _id, audio fields
 - [x] **BANK-03**: New adjective entries mirrored to dictionary bank (`vocabulary/dictionary/de/adjectivebank.json`) with curriculum, cefr, frequency metadata
-- [ ] **BANK-04**: Norwegian (nb) translations provided for all new adjective entries
-- [ ] **BANK-05**: English (en) translations provided for all new adjective entries
+- [x] **BANK-04**: Norwegian (nb) translations provided for all new adjective entries
+- [x] **BANK-05**: English (en) translations provided for all new adjective entries
 
 ### Schema
 
@@ -79,8 +79,8 @@ Deferred to future release. Tracked but not in current roadmap.
 | BANK-01 | Phase 4 | Pending |
 | BANK-02 | Phase 6 | Complete |
 | BANK-03 | Phase 6 | Complete |
-| BANK-04 | Phase 9 | Pending |
-| BANK-05 | Phase 9 | Pending |
+| BANK-04 | Phase 9 | Complete |
+| BANK-05 | Phase 9 | Complete |
 | SCHEMA-01 | Phase 5 | Complete |
 | SCHEMA-02 | Phase 5 | Complete |
 | SCHEMA-03 | Phase 5 | Complete |
