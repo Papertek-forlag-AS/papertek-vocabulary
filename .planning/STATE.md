@@ -5,16 +5,16 @@
 See: .planning/PROJECT.md (updated 2026-02-20)
 
 **Core value:** Complete, correct vocabulary data so Leksihjelp's inflection search can find any German word form and return the base entry.
-**Current focus:** v1.1 German Adjective Declension — Phase 6: New Entry Stubs (COMPLETE)
+**Current focus:** v1.1 German Adjective Declension — Phase 7: Comparison Data (COMPLETE)
 
 ## Current Position
 
-Phase: 6 of 10 — Phase 6: New Entry Stubs (COMPLETE)
-Plan: 1 of 1 in Phase 6 — COMPLETE
-Status: Phase 6 complete — ready for Phase 7
-Last activity: 2026-02-21 — Phase 6 Plan 01 executed (259 adjective stubs generated)
+Phase: 7 of 10 — Phase 7: Comparison Data (COMPLETE)
+Plan: 1 of 1 in Phase 7 — COMPLETE
+Status: Phase 7 complete — ready for Phase 8
+Last activity: 2026-02-21 — Phase 7 Plan 01 executed (comparison data for all 365 adjectives)
 
-Progress: [████░░░░░░] 40%
+Progress: [█████░░░░░] 50%
 
 ## Performance Metrics
 
@@ -34,6 +34,7 @@ Progress: [████░░░░░░] 40%
 *Updated after each plan completion*
 | Phase 05-schema-extension P01 | 2 min | 3 tasks | 2 files |
 | Phase 06-new-entry-stubs P01 | 8 min | 2 tasks | 5 files |
+| Phase 07-comparison-data P01 | 2 min | 2 tasks | 4 files |
 
 ## Accumulated Context
 
@@ -59,6 +60,9 @@ Recent decisions affecting v1.1:
 - [Phase 06-new-entry-stubs]: Sort by _id key (ASCII, umlauts transliterated) not word value — deterministic, locale-independent
 - [Phase 06-new-entry-stubs]: Dict manifest has two totalWords fields with different scopes — _metadata.totalWords (sum of files = 1126) vs top-level totalWords (all dictionary entries = 3454); updated independently
 - [Phase 06-new-entry-stubs]: Frequency-0 used for 11 words missing from de_50k.txt corpus — placeholder, can be backfilled later
+- [Phase 07-comparison-data]: schwach_adj uses umlaut form (schwächer/schwächst) — Duden primary form preferred over optional non-umlaut variant
+- [Phase 07-comparison-data]: Consonant-cluster exceptions (blind, rund, mild, wild, fremd) handled via EXCEPTIONS table not rule engine — explicit is safer and more auditable than adding consonant+d heuristic to rule engine
+- [Phase 07-comparison-data]: nah_adj not in bank — COMP-03 suppletive list was informational context, not an action item
 
 ### Blockers/Concerns
 
@@ -73,5 +77,5 @@ Recent decisions affecting v1.1:
 ## Session Continuity
 
 Last session: 2026-02-21
-Stopped at: Completed 06-01-PLAN.md — Phase 6 new entry stubs complete
-Resume file: .planning/phases/07-comparison/ (Phase 7 — comparison data population)
+Stopped at: Completed 07-01-PLAN.md — Phase 7 comparison data complete
+Resume file: .planning/phases/08-declension/ (Phase 8 — declension tables)

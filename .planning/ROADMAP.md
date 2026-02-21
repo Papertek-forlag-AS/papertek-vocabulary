@@ -25,7 +25,7 @@
 - [x] **Phase 4: Goethe Adjective Extraction** - Extract genuine adjectives from the Goethe "other" wordlists and produce a curated candidate list (completed 2026-02-20)
 - [x] **Phase 5: Schema Extension** - Extend adjective.schema.json with declension block, flags, and grammar feature registration (completed 2026-02-21)
 - [ ] **Phase 6: New Entry Stubs** - Add bare-minimum stub entries for all extracted adjectives to both core and dictionary banks
-- [ ] **Phase 7: Comparison Data** - Populate comparative and superlative forms for all adjectives, irregular forms individually verified
+- [x] **Phase 7: Comparison Data** - Populate comparative and superlative forms for all adjectives, irregular forms individually verified (completed 2026-02-21)
 - [ ] **Phase 8: Declension Tables** - Enter full declension data for all declinable adjectives in both banks (largest data task)
 - [ ] **Phase 9: Translations** - Add Norwegian and English translations for all newly extracted adjectives (runs parallel with Phase 8)
 - [ ] **Phase 10: Integration** - Rebuild search index and update v2 lookup API to expose declension data
@@ -136,7 +136,7 @@ Phases 4 and 5 can begin in parallel after Phase 3. Phases 8 and 9 can run in pa
 | 4. Goethe Adjective Extraction | v1.1 | Complete    | 2026-02-20 | - |
 | 5. Schema Extension | 1/1 | Complete   | 2026-02-21 | - |
 | 6. New Entry Stubs | v1.1 | 0/1 | Not started | - |
-| 7. Comparison Data | v1.1 | 0/TBD | Not started | - |
+| 7. Comparison Data | 1/1 | Complete   | 2026-02-21 | - |
 | 8. Declension Tables | v1.1 | 0/TBD | Not started | - |
 | 9. Translations | v1.1 | 0/TBD | Not started | - |
 | 10. Integration | v1.1 | 0/TBD | Not started | - |

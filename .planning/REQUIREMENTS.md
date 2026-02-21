@@ -30,11 +30,11 @@ Requirements for German Adjective Declension milestone. Each maps to roadmap pha
 
 ### Comparison
 
-- [ ] **COMP-01**: All comparable adjectives have `comparison.komparativ` populated with correct comparative form/stem
-- [ ] **COMP-02**: All comparable adjectives have `comparison.superlativ` populated with correct superlative form/stem
-- [ ] **COMP-03**: Irregular comparatives individually verified (gut/besser/best, viel/mehr/meist, hoch/höher/höchst, nah/näher/nächst, plus all umlaut forms)
-- [ ] **COMP-04**: Indeclinable adjectives (lila, rosa, orange, cool, gern) flagged with `undeclinable: true`
-- [ ] **COMP-05**: Non-comparable adjectives flagged with `nicht_komparierbar: true`
+- [x] **COMP-01**: All comparable adjectives have `comparison.komparativ` populated with correct comparative form/stem
+- [x] **COMP-02**: All comparable adjectives have `comparison.superlativ` populated with correct superlative form/stem
+- [x] **COMP-03**: Irregular comparatives individually verified (gut/besser/best, viel/mehr/meist, hoch/höher/höchst, nah/näher/nächst, plus all umlaut forms)
+- [x] **COMP-04**: Indeclinable adjectives (lila, rosa, orange, cool, gern) flagged with `undeclinable: true`
+- [x] **COMP-05**: Non-comparable adjectives flagged with `nicht_komparierbar: true`
 
 ### Declension
 
@@ -85,11 +85,11 @@ Deferred to future release. Tracked but not in current roadmap.
 | SCHEMA-02 | Phase 5 | Complete |
 | SCHEMA-03 | Phase 5 | Complete |
 | SCHEMA-04 | Phase 5 | Complete |
-| COMP-01 | Phase 7 | Pending |
-| COMP-02 | Phase 7 | Pending |
-| COMP-03 | Phase 7 | Pending |
-| COMP-04 | Phase 7 | Pending |
-| COMP-05 | Phase 7 | Pending |
+| COMP-01 | Phase 7 | Complete |
+| COMP-02 | Phase 7 | Complete |
+| COMP-03 | Phase 7 | Complete |
+| COMP-04 | Phase 7 | Complete |
+| COMP-05 | Phase 7 | Complete |
 | DECL-01 | Phase 8 | Pending |
 | DECL-02 | Phase 8 | Pending |
 | DECL-03 | Phase 8 | Pending |
