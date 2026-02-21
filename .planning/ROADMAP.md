@@ -124,7 +124,9 @@ Plans:
   1. The v2 lookup API response for a German adjective includes the `declension` field and lists `grammar_adjective_declension` in the `grammarFeatures` array
   2. The dictionary search index includes all newly extracted adjectives — searching for a new adjective word returns its entry
   3. Bank manifests report correct entry counts reflecting the expanded adjective bank
-**Plans**: TBD
+**Plans**: 1 plan
+Plans:
+- [ ] 10-01-PLAN.md — Add grammarFeatures declension check, rebuild search index, verify all INTG requirements
 
 ## Progress
 
@@ -143,4 +145,4 @@ Phases 4 and 5 can begin in parallel after Phase 3. Phases 8 and 9 can run in pa
 | 7. Comparison Data | 1/1 | Complete    | 2026-02-21 | - |
 | 8. Declension Tables | v1.1 | 1/1 | Complete | 2026-02-21 |
 | 9. Translations | 1/1 | Complete   | 2026-02-21 | - |
-| 10. Integration | v1.1 | 0/TBD | Not started | - |
+| 10. Integration | v1.1 | 0/1 | Not started | - |
