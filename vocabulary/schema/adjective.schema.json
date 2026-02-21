@@ -2,7 +2,7 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://papertek.no/schemas/vocabulary/adjective.schema.json",
   "title": "Adjective Schema",
-  "description": "Schema for adjective entries with comparison forms",
+  "description": "Schema for adjective entries with comparison forms and declension",
   "type": "object",
   "additionalProperties": {
     "$ref": "#/$defs/adjectiveEntry"
@@ -41,13 +41,16 @@
         },
         "comparison": {
           "$ref": "#/$defs/comparison"
+        },
+        "declension": {
+          "$ref": "#/$defs/declension"
         }
       },
       "required": []
     },
     "comparison": {
       "type": "object",
-      "description": "Comparison forms (positive, comparative, superlative)",
+      "description": "Comparison forms (positiv, komparativ, superlativ)",
       "properties": {
         "positiv": {
           "type": "string",
@@ -58,17 +61,9 @@
         },
         "superlativ": {
           "$ref": "#/$defs/comparisonForm"
-        },
-        "positive": {
-          "type": "string"
-        },
-        "comparative": {
-          "$ref": "#/$defs/comparisonForm"
-        },
-        "superlative": {
-          "$ref": "#/$defs/comparisonForm"
         }
-      }
+      },
+      "additionalProperties": false
     },
     "comparisonForm": {
       "oneOf": [
@@ -86,6 +81,51 @@
           "required": ["form"]
         }
       ]
+    },
+    "genderNumber": {
+      "type": "object",
+      "properties": {
+        "maskulin": { "type": "string" },
+        "feminin":  { "type": "string" },
+        "neutrum":  { "type": "string" },
+        "plural":   { "type": "string" }
+      },
+      "additionalProperties": false
+    },
+    "caseBlock": {
+      "type": "object",
+      "properties": {
+        "nominativ":  { "$ref": "#/$defs/genderNumber" },
+        "akkusativ":  { "$ref": "#/$defs/genderNumber" },
+        "dativ":      { "$ref": "#/$defs/genderNumber" },
+        "genitiv":    { "$ref": "#/$defs/genderNumber" }
+      },
+      "additionalProperties": false
+    },
+    "articleBlock": {
+      "type": "object",
+      "properties": {
+        "stark":    { "$ref": "#/$defs/caseBlock" },
+        "schwach":  { "$ref": "#/$defs/caseBlock" },
+        "gemischt": { "$ref": "#/$defs/caseBlock" }
+      },
+      "additionalProperties": false
+    },
+    "superlativBlock": {
+      "type": "object",
+      "properties": {
+        "schwach": { "$ref": "#/$defs/caseBlock" }
+      },
+      "additionalProperties": false
+    },
+    "declension": {
+      "type": "object",
+      "properties": {
+        "positiv":    { "$ref": "#/$defs/articleBlock" },
+        "komparativ": { "$ref": "#/$defs/articleBlock" },
+        "superlativ": { "$ref": "#/$defs/superlativBlock" }
+      },
+      "additionalProperties": false
     }
   }
 }
