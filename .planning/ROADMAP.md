@@ -88,7 +88,9 @@ Plans:
   2. The suppletive irregulars (gut/besser/best, viel/mehr/meist, hoch/höher/höchst, nah/näher/nächst) and all umlaut forms have been individually spot-checked and confirmed correct
   3. Indeclinable adjectives (lila, rosa, orange, cool, gern) carry `undeclinable: true` and have no comparison data
   4. Non-comparable adjectives carry `nicht_komparierbar: true` and have no comparison data
-**Plans**: TBD
+**Plans**: 1 plan
+Plans:
+- [ ] 07-01-PLAN.md — Generate comparison data for all 365 entries via rule engine + exception table, flag undeclinable and nicht_komparierbar, validate
 
 ### Phase 8: Declension Tables
 **Goal**: Every declinable adjective has full declension data written to both core and dictionary banks — the primary deliverable of the v1.1 milestone
