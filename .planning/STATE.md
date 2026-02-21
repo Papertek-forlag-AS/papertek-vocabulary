@@ -5,16 +5,16 @@
 See: .planning/PROJECT.md (updated 2026-02-20)
 
 **Core value:** Complete, correct vocabulary data so Leksihjelp's inflection search can find any German word form and return the base entry.
-**Current focus:** v1.1 German Adjective Declension — Phase 9: Translations (COMPLETE)
+**Current focus:** v1.1 German Adjective Declension — Phase 10: Integration (COMPLETE) — v1.1 milestone COMPLETE
 
 ## Current Position
 
-Phase: 9 of 10 — Phase 9: Translations (COMPLETE)
-Plan: 1 of 1 in Phase 9 — COMPLETE
-Status: Phase 9 complete — ready for Phase 10
-Last activity: 2026-02-21 — Phase 9 Plan 01 executed (365 rich nb and en adjective translations)
+Phase: 10 of 10 — Phase 10: Integration (COMPLETE)
+Plan: 1 of 1 in Phase 10 — COMPLETE
+Status: All 10 phases complete — v1.1 milestone satisfied; ready for Vercel deploy
+Last activity: 2026-02-21 — Phase 10 Plan 01 executed (grammar_adjective_declension API + search index rebuild to 3454 entries)
 
-Progress: [████████░░] 70%
+Progress: [██████████] 100%
 
 ## Performance Metrics
 
@@ -37,6 +37,7 @@ Progress: [████████░░] 70%
 | Phase 07-comparison-data P01 | 2 min | 2 tasks | 4 files |
 | Phase 08-declension-tables P01 | 7 | 2 tasks | 5 files |
 | Phase 09-translations P01 | 180 | 2 tasks | 10 files |
+| Phase 10-integration P01 | 10 | 2 tasks | 5 files |
 
 ## Accumulated Context
 
@@ -69,6 +70,8 @@ Recent decisions affecting v1.1:
 - [Phase 08-declension-tables]: declension_alternatives entry-level key used for teuer_adj to store Duden-accepted teuer- forms alongside primary teur- forms — declension additionalProperties:false forbids alternatives inside declension block
 - [Phase 09-translations]: 365 rich nb and en adjective translations generated in batch data file pattern (split into 40-80 entry JSON batches, merged before generate step)
 - [Phase 09-translations]: alternativeMeanings field used for 30 entries with genuinely distinct secondary senses; sentence parity enforced across nb and en examples; 5 false friends documented with learner warnings
+- [Phase 10-integration]: Use entry.declension?.positiv for adj-specific grammarFeatures guard — positiv key is unique to adj declension blocks, nouns use cases key
+- [Phase 10-integration]: Rebuild all 365 adj entries fresh in search index (not just 259 new ones) — ensures Phase 9 translation data reflected for all adj entries
 
 ### Blockers/Concerns
 
@@ -83,5 +86,5 @@ Recent decisions affecting v1.1:
 ## Session Continuity
 
 Last session: 2026-02-21
-Stopped at: Completed 09-01-PLAN.md — Phase 9 translations complete
-Resume file: .planning/phases/10-integration/ (Phase 10 — integration)
+Stopped at: Completed 10-01-PLAN.md — Phase 10 integration complete; v1.1 milestone satisfied
+Resume file: N/A — all phases complete; next step is Vercel deploy

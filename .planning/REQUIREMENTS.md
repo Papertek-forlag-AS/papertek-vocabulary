@@ -46,9 +46,9 @@ Requirements for German Adjective Declension milestone. Each maps to roadmap pha
 
 ### Integration
 
-- [ ] **INTG-01**: v2 lookup API exposes `declension` field and pushes `grammar_adjective_declension` to grammarFeatures array
-- [ ] **INTG-02**: Dictionary search index rebuilt with all new adjective entries
-- [ ] **INTG-03**: Manifests updated with correct entry counts after bank expansion
+- [x] **INTG-01**: v2 lookup API exposes `declension` field and pushes `grammar_adjective_declension` to grammarFeatures array
+- [x] **INTG-02**: Dictionary search index rebuilt with all new adjective entries
+- [x] **INTG-03**: Manifests updated with correct entry counts after bank expansion
 
 ## v1.x Requirements
 
@@ -95,9 +95,9 @@ Deferred to future release. Tracked but not in current roadmap.
 | DECL-03 | Phase 8 | Complete |
 | DECL-04 | Phase 8 | Complete |
 | DECL-05 | Phase 8 | Complete |
-| INTG-01 | Phase 10 | Pending |
-| INTG-02 | Phase 10 | Pending |
-| INTG-03 | Phase 10 | Pending |
+| INTG-01 | Phase 10 | Complete |
+| INTG-02 | Phase 10 | Complete |
+| INTG-03 | Phase 10 | Complete |
 
 **Coverage:**
 - v1.1 requirements: 25 total
