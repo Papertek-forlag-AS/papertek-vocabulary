@@ -147,6 +147,17 @@
         "category": "adjectives",
         "appliesTo": ["adjective"],
         "dataPath": "declension"
+      },
+      {
+        "id": "grammar_adjective_genitive",
+        "name": "Adjektivbøyning genitiv",
+        "nameEn": "Adjective Declension Genitive",
+        "description": "Adjektivendelser i genitiv",
+        "descriptionEn": "Adjective endings in genitive case",
+        "category": "adjectives",
+        "appliesTo": ["adjective"],
+        "dataPath": "declension",
+        "dependsOn": "grammar_adjective_declension"
       }
     ],
     "categories": [
