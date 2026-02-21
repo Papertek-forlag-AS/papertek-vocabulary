@@ -75,7 +75,9 @@ Plans:
   1. Every adjective from the Phase 4 candidate list has an entry in `vocabulary/core/de/adjectivebank.json` with at minimum `word`, `_id`, and `audio` fields
   2. Every new entry is mirrored in `vocabulary/dictionary/de/adjectivebank.json` with `curriculum`, `cefr`, and `frequency` metadata populated
   3. The IDs in both bank files are identical for each entry, enabling safe cross-reference by translation and declension phases
-**Plans**: TBD
+**Plans**: 1 plan
+Plans:
+- [ ] 06-01-PLAN.md — Generate 259 adjective stubs in both core and dictionary banks, merge with existing entries, sort, update manifests, validate
 
 ### Phase 7: Comparison Data
 **Goal**: All comparable adjectives have verified comparative and superlative forms; all irregular and non-comparable forms are correctly flagged
@@ -131,7 +133,7 @@ Phases 4 and 5 can begin in parallel after Phase 3. Phases 8 and 9 can run in pa
 | 3. Bank Cleanup | v1.1 | Complete    | 2026-02-20 | - |
 | 4. Goethe Adjective Extraction | v1.1 | Complete    | 2026-02-20 | - |
 | 5. Schema Extension | 1/1 | Complete   | 2026-02-21 | - |
-| 6. New Entry Stubs | v1.1 | 0/TBD | Not started | - |
+| 6. New Entry Stubs | v1.1 | 0/1 | Not started | - |
 | 7. Comparison Data | v1.1 | 0/TBD | Not started | - |
 | 8. Declension Tables | v1.1 | 0/TBD | Not started | - |
 | 9. Translations | v1.1 | 0/TBD | Not started | - |
