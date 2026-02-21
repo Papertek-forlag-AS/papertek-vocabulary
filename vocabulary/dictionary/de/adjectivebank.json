@@ -3,7 +3,7 @@
     "source": "adjectivebank.json",
     "type": "dictionary",
     "targetLanguage": "german",
-    "generatedAt": "2026-02-21T11:30:24.294Z",
+    "generatedAt": "2026-02-21T12:18:45.015Z",
     "description": "Dictionary data for german adjectivebank (includes curriculum words)"
   },
   "abhaengig_adj": {
@@ -13,7 +13,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 6240,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "abhängiger",
+      "superlativ": "abhängigst"
+    },
     "declension": {}
   },
   "absolut_adj": {
@@ -23,8 +26,8 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 986,
-    "comparison": {},
-    "declension": {}
+    "declension": {},
+    "nicht_komparierbar": true
   },
   "abwesend_adj": {
     "word": "abwesend",
@@ -33,7 +36,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 12545,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "abwesender",
+      "superlativ": "abwesendst"
+    },
     "declension": {}
   },
   "aehnlich_adj": {
@@ -43,7 +49,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 1894,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "ähnlicher",
+      "superlativ": "ähnlichst"
+    },
     "declension": {}
   },
   "aengstlich_adj": {
@@ -53,7 +62,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 6960,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "ängstlicher",
+      "superlativ": "ängstlichst"
+    },
     "declension": {}
   },
   "aergerlich_adj": {
@@ -63,7 +75,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 10217,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "ärgerlicher",
+      "superlativ": "ärgerlichst"
+    },
     "declension": {}
   },
   "aeusserlich_adj": {
@@ -73,7 +88,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 19771,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "äußerlicher",
+      "superlativ": "äußerlichst"
+    },
     "declension": {}
   },
   "aktiv_adj": {
@@ -82,7 +100,11 @@
     "audio": "adjektiv_aktiv.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 5124
+    "frequency": 5124,
+    "comparison": {
+      "komparativ": "aktiver",
+      "superlativ": "aktivst"
+    }
   },
   "aktuell_adj": {
     "word": "aktuell",
@@ -91,7 +113,10 @@
     "curriculum": false,
     "cefr": "A2",
     "frequency": 14940,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "aktueller",
+      "superlativ": "aktuellst"
+    },
     "declension": {}
   },
   "allgemein_adj": {
@@ -101,7 +126,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 10181,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "allgemeiner",
+      "superlativ": "allgemeinst"
+    },
     "declension": {}
   },
   "alt_adj": {
@@ -110,7 +138,11 @@
     "audio": "adjektiv_alt.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 599
+    "frequency": 599,
+    "comparison": {
+      "komparativ": "älter",
+      "superlativ": "ältest"
+    }
   },
   "alternativ_adj": {
     "word": "alternativ",
@@ -119,7 +151,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 0,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "alternativer",
+      "superlativ": "alternativst"
+    },
     "declension": {}
   },
   "angenehm_adj": {
@@ -129,7 +164,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 3375,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "angenehmer",
+      "superlativ": "angenehmst"
+    },
     "declension": {}
   },
   "anstrengend_adj": {
@@ -138,7 +176,11 @@
     "audio": "adjektiv_anstrengend.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 5356
+    "frequency": 5356,
+    "comparison": {
+      "komparativ": "anstrengender",
+      "superlativ": "anstrengendst"
+    }
   },
   "anwesend_adj": {
     "word": "anwesend",
@@ -147,7 +189,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 5590,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "anwesender",
+      "superlativ": "anwesendst"
+    },
     "declension": {}
   },
   "arbeitslos_adj": {
@@ -157,7 +202,10 @@
     "curriculum": false,
     "cefr": "A1",
     "frequency": 7523,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "arbeitsloser",
+      "superlativ": "arbeitslosest"
+    },
     "declension": {}
   },
   "arm_adj": {
@@ -167,8 +215,11 @@
     "curriculum": false,
     "cefr": "A2",
     "frequency": 1034,
-    "comparison": {},
-    "declension": {}
+    "declension": {},
+    "comparison": {
+      "komparativ": "ärmer",
+      "superlativ": "ärmst"
+    }
   },
   "aufgeregt_adj": {
     "word": "aufgeregt",
@@ -176,7 +227,11 @@
     "audio": "adjektiv_aufgeregt.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 2205
+    "frequency": 2205,
+    "comparison": {
+      "komparativ": "aufgeregter",
+      "superlativ": "aufgeregtst"
+    }
   },
   "aufmerksam_adj": {
     "word": "aufmerksam",
@@ -185,7 +240,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 4316,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "aufmerksamer",
+      "superlativ": "aufmerksamst"
+    },
     "declension": {}
   },
   "auslaendisch_adj": {
@@ -195,7 +253,10 @@
     "curriculum": false,
     "cefr": "A1",
     "frequency": 0,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "ausländischer",
+      "superlativ": "ausländischest"
+    },
     "declension": {}
   },
   "ausschliesslich_adj": {
@@ -205,7 +266,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 9724,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "ausschließlicher",
+      "superlativ": "ausschließlichst"
+    },
     "declension": {}
   },
   "automatisch_adj": {
@@ -215,7 +279,10 @@
     "curriculum": false,
     "cefr": "A1",
     "frequency": 7700,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "automatischer",
+      "superlativ": "automatischest"
+    },
     "declension": {}
   },
   "bekannt_adj": {
@@ -225,7 +292,10 @@
     "curriculum": false,
     "cefr": "A1",
     "frequency": 1090,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "bekannter",
+      "superlativ": "bekanntst"
+    },
     "declension": {}
   },
   "beliebt_adj": {
@@ -235,7 +305,10 @@
     "curriculum": false,
     "cefr": "A2",
     "frequency": 4280,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "beliebter",
+      "superlativ": "beliebtst"
+    },
     "declension": {}
   },
   "bequem_adj": {
@@ -245,7 +318,10 @@
     "curriculum": false,
     "cefr": "A2",
     "frequency": 3644,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "bequemer",
+      "superlativ": "bequemst"
+    },
     "declension": {}
   },
   "bereit_adj": {
@@ -255,7 +331,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 396,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "bereiter",
+      "superlativ": "bereitst"
+    },
     "declension": {}
   },
   "beruehmt_adj": {
@@ -265,7 +344,10 @@
     "curriculum": false,
     "cefr": "A2",
     "frequency": 3405,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "berühmter",
+      "superlativ": "berühmtst"
+    },
     "declension": {}
   },
   "beruflich_adj": {
@@ -275,7 +357,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 6083,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "beruflicher",
+      "superlativ": "beruflichst"
+    },
     "declension": {}
   },
   "berufstaetig_adj": {
@@ -285,7 +370,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 0,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "berufstätiger",
+      "superlativ": "berufstätigst"
+    },
     "declension": {}
   },
   "bestimmt_adj": {
@@ -295,7 +383,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 506,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "bestimmter",
+      "superlativ": "bestimmtst"
+    },
     "declension": {}
   },
   "bewoelkt_adj": {
@@ -304,7 +395,11 @@
     "audio": "adjektiv_bewoelkt.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 32629
+    "frequency": 32629,
+    "comparison": {
+      "komparativ": "bewölkter",
+      "superlativ": "bewölktst"
+    }
   },
   "billig_adj": {
     "word": "billig",
@@ -313,7 +408,10 @@
     "curriculum": false,
     "cefr": "A1",
     "frequency": 4577,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "billiger",
+      "superlativ": "billigst"
+    },
     "declension": {}
   },
   "bitter_adj": {
@@ -323,7 +421,10 @@
     "curriculum": false,
     "cefr": "A1",
     "frequency": 9243,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "bitterer",
+      "superlativ": "bitterst"
+    },
     "declension": {}
   },
   "blass_adj": {
@@ -333,7 +434,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 7196,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "blasser",
+      "superlativ": "blassest"
+    },
     "declension": {}
   },
   "blau_adj": {
@@ -342,7 +446,11 @@
     "audio": "adjektiv_blau.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 2566
+    "frequency": 2566,
+    "comparison": {
+      "komparativ": "blauer",
+      "superlativ": "blaust"
+    }
   },
   "blind_adj": {
     "word": "blind",
@@ -351,8 +459,11 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 2235,
-    "comparison": {},
-    "declension": {}
+    "declension": {},
+    "comparison": {
+      "komparativ": "blinder",
+      "superlativ": "blindest"
+    }
   },
   "bloed_adj": {
     "word": "blöd",
@@ -360,7 +471,11 @@
     "audio": "adjektiv_bloed.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 1632
+    "frequency": 1632,
+    "comparison": {
+      "komparativ": "blöder",
+      "superlativ": "blödst"
+    }
   },
   "blond_adj": {
     "word": "blond",
@@ -368,7 +483,11 @@
     "audio": "adjektiv_blond.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 6830
+    "frequency": 6830,
+    "comparison": {
+      "komparativ": "blonder",
+      "superlativ": "blondst"
+    }
   },
   "bloss_adj": {
     "word": "bloß",
@@ -377,7 +496,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 574,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "bloßer",
+      "superlativ": "bloßest"
+    },
     "declension": {}
   },
   "boese_adj": {
@@ -386,7 +508,11 @@
     "audio": "adjektiv_boese.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 798
+    "frequency": 798,
+    "comparison": {
+      "komparativ": "böseer",
+      "superlativ": "bösest"
+    }
   },
   "braun_adj": {
     "word": "braun",
@@ -394,7 +520,11 @@
     "audio": "adjektiv_braun.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 6208
+    "frequency": 6208,
+    "comparison": {
+      "komparativ": "brauner",
+      "superlativ": "braunst"
+    }
   },
   "brav_adj": {
     "word": "brav",
@@ -402,7 +532,11 @@
     "audio": "adjektiv_brav.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 2996
+    "frequency": 2996,
+    "comparison": {
+      "komparativ": "braver",
+      "superlativ": "bravst"
+    }
   },
   "breit_adj": {
     "word": "breit",
@@ -411,7 +545,10 @@
     "curriculum": false,
     "cefr": "A1",
     "frequency": 5213,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "breiter",
+      "superlativ": "breitst"
+    },
     "declension": {}
   },
   "bunt_adj": {
@@ -420,7 +557,11 @@
     "audio": "adjektiv_bunt.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 18663
+    "frequency": 18663,
+    "comparison": {
+      "komparativ": "bunter",
+      "superlativ": "buntst"
+    }
   },
   "cool_adj": {
     "word": "cool",
@@ -428,7 +569,8 @@
     "audio": "adjektiv_cool.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 769
+    "frequency": 769,
+    "undeclinable": true
   },
   "dankbar_adj": {
     "word": "dankbar",
@@ -437,7 +579,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 1714,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "dankbarer",
+      "superlativ": "dankbarst"
+    },
     "declension": {}
   },
   "deutlich_adj": {
@@ -447,7 +592,10 @@
     "curriculum": false,
     "cefr": "A2",
     "frequency": 2466,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "deutlicher",
+      "superlativ": "deutlichst"
+    },
     "declension": {}
   },
   "dicht_adj": {
@@ -457,7 +605,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 2796,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "dichter",
+      "superlativ": "dichtst"
+    },
     "declension": {}
   },
   "dick_adj": {
@@ -467,7 +618,10 @@
     "curriculum": false,
     "cefr": "A2",
     "frequency": 2127,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "dicker",
+      "superlativ": "dickst"
+    },
     "declension": {}
   },
   "digital_adj": {
@@ -477,7 +631,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 17167,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "digitaler",
+      "superlativ": "digitalst"
+    },
     "declension": {}
   },
   "direkt_adj": {
@@ -487,7 +644,10 @@
     "curriculum": false,
     "cefr": "A2",
     "frequency": 678,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "direkter",
+      "superlativ": "direktst"
+    },
     "declension": {}
   },
   "doppelt_adj": {
@@ -497,7 +657,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 3765,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "doppelter",
+      "superlativ": "doppeltst"
+    },
     "declension": {}
   },
   "duenn_adj": {
@@ -507,7 +670,10 @@
     "curriculum": false,
     "cefr": "A2",
     "frequency": 4988,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "dünner",
+      "superlativ": "dünnst"
+    },
     "declension": {}
   },
   "dumm_adj": {
@@ -517,8 +683,11 @@
     "curriculum": false,
     "cefr": "A2",
     "frequency": 955,
-    "comparison": {},
-    "declension": {}
+    "declension": {},
+    "comparison": {
+      "komparativ": "dümmer",
+      "superlativ": "dümmst"
+    }
   },
   "dunkel_adj": {
     "word": "dunkel",
@@ -527,7 +696,10 @@
     "curriculum": false,
     "cefr": "A2",
     "frequency": 2100,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "dunkler",
+      "superlativ": "dunkelst"
+    },
     "declension": {}
   },
   "durchschnittlich_adj": {
@@ -537,7 +709,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 18508,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "durchschnittlicher",
+      "superlativ": "durchschnittlichst"
+    },
     "declension": {}
   },
   "durstig_adj": {
@@ -547,7 +722,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 8493,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "durstiger",
+      "superlativ": "durstigst"
+    },
     "declension": {}
   },
   "echt_adj": {
@@ -557,7 +735,10 @@
     "curriculum": false,
     "cefr": "A2",
     "frequency": 362,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "echter",
+      "superlativ": "echtst"
+    },
     "declension": {}
   },
   "eckig_adj": {
@@ -567,7 +748,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 0,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "eckiger",
+      "superlativ": "eckigst"
+    },
     "declension": {}
   },
   "ehrlich_adj": {
@@ -576,7 +760,11 @@
     "audio": "adjektiv_ehrlich.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 592
+    "frequency": 592,
+    "comparison": {
+      "komparativ": "ehrlicher",
+      "superlativ": "ehrlichst"
+    }
   },
   "eilig_adj": {
     "word": "eilig",
@@ -585,7 +773,10 @@
     "curriculum": false,
     "cefr": "A1",
     "frequency": 2735,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "eiliger",
+      "superlativ": "eiligst"
+    },
     "declension": {}
   },
   "eindeutig_adj": {
@@ -595,7 +786,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 2711,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "eindeutiger",
+      "superlativ": "eindeutigst"
+    },
     "declension": {}
   },
   "einfach_adj": {
@@ -604,7 +798,11 @@
     "audio": "adjektiv_einfach.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 134
+    "frequency": 134,
+    "comparison": {
+      "komparativ": "einfacher",
+      "superlativ": "einfachst"
+    }
   },
   "einheitlich_adj": {
     "word": "einheitlich",
@@ -613,7 +811,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 0,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "einheitlicher",
+      "superlativ": "einheitlichst"
+    },
     "declension": {}
   },
   "einsam_adj": {
@@ -623,7 +824,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 2291,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "einsamer",
+      "superlativ": "einsamst"
+    },
     "declension": {}
   },
   "elegant_adj": {
@@ -633,7 +837,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 7186,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "eleganter",
+      "superlativ": "elegantst"
+    },
     "declension": {}
   },
   "elektrisch_adj": {
@@ -643,7 +850,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 23175,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "elektrischer",
+      "superlativ": "elektrischest"
+    },
     "declension": {}
   },
   "elektronisch_adj": {
@@ -653,7 +863,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 26474,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "elektronischer",
+      "superlativ": "elektronischest"
+    },
     "declension": {}
   },
   "eng_adj": {
@@ -663,7 +876,10 @@
     "curriculum": false,
     "cefr": "A2",
     "frequency": 3218,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "enger",
+      "superlativ": "engst"
+    },
     "declension": {}
   },
   "entspannt_adj": {
@@ -672,7 +888,11 @@
     "audio": "adjektiv_entspannt.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 4770
+    "frequency": 4770,
+    "comparison": {
+      "komparativ": "entspannter",
+      "superlativ": "entspanntst"
+    }
   },
   "erfolgreich_adj": {
     "word": "erfolgreich",
@@ -681,7 +901,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 2833,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "erfolgreicher",
+      "superlativ": "erfolgreichst"
+    },
     "declension": {}
   },
   "ernsthaft_adj": {
@@ -691,7 +914,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 1693,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "ernsthafter",
+      "superlativ": "ernsthaftst"
+    },
     "declension": {}
   },
   "erschoepft_adj": {
@@ -700,7 +926,11 @@
     "audio": "adjektiv_erschoepft.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 3752
+    "frequency": 3752,
+    "comparison": {
+      "komparativ": "erschöpfter",
+      "superlativ": "erschöpftst"
+    }
   },
   "eventuell_adj": {
     "word": "eventuell",
@@ -709,7 +939,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 4761,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "eventueller",
+      "superlativ": "eventuellst"
+    },
     "declension": {}
   },
   "ewig_adj": {
@@ -719,7 +952,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 1227,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "ewiger",
+      "superlativ": "ewigst"
+    },
     "declension": {}
   },
   "extrem_adj": {
@@ -729,7 +965,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 3248,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "extremer",
+      "superlativ": "extremst"
+    },
     "declension": {}
   },
   "faellig_adj": {
@@ -739,7 +978,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 7603,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "fälliger",
+      "superlativ": "fälligst"
+    },
     "declension": {}
   },
   "fair_adj": {
@@ -749,7 +991,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 1882,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "fairer",
+      "superlativ": "fairst"
+    },
     "declension": {}
   },
   "falsch_adj": {
@@ -759,7 +1004,10 @@
     "curriculum": false,
     "cefr": "A1",
     "frequency": 618,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "falscher",
+      "superlativ": "falschest"
+    },
     "declension": {}
   },
   "fantastisch_adj": {
@@ -769,7 +1017,10 @@
     "curriculum": false,
     "cefr": "A2",
     "frequency": 1522,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "fantastischer",
+      "superlativ": "fantastischest"
+    },
     "declension": {}
   },
   "farbig_adj": {
@@ -779,7 +1030,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 38094,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "farbiger",
+      "superlativ": "farbigst"
+    },
     "declension": {}
   },
   "faul_adj": {
@@ -788,7 +1042,11 @@
     "audio": "adjektiv_faul.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 4816
+    "frequency": 4816,
+    "comparison": {
+      "komparativ": "fauler",
+      "superlativ": "faulst"
+    }
   },
   "fertig_adj": {
     "word": "fertig",
@@ -796,7 +1054,11 @@
     "audio": "adjektiv_fertig.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 314
+    "frequency": 314,
+    "comparison": {
+      "komparativ": "fertiger",
+      "superlativ": "fertigst"
+    }
   },
   "fest_adj": {
     "word": "fest",
@@ -805,7 +1067,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 608,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "fester",
+      "superlativ": "festest"
+    },
     "declension": {}
   },
   "fett_adj": {
@@ -815,7 +1080,10 @@
     "curriculum": false,
     "cefr": "A2",
     "frequency": 2951,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "fetter",
+      "superlativ": "fettst"
+    },
     "declension": {}
   },
   "feucht_adj": {
@@ -825,7 +1093,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 6851,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "feuchter",
+      "superlativ": "feuchtst"
+    },
     "declension": {}
   },
   "finanziell_adj": {
@@ -835,7 +1106,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 11061,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "finanzieller",
+      "superlativ": "finanziellst"
+    },
     "declension": {}
   },
   "flach_adj": {
@@ -845,7 +1119,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 7420,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "flacher",
+      "superlativ": "flachst"
+    },
     "declension": {}
   },
   "fleissig_adj": {
@@ -855,7 +1132,10 @@
     "curriculum": false,
     "cefr": "A2",
     "frequency": 7184,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "fleißiger",
+      "superlativ": "fleißigst"
+    },
     "declension": {}
   },
   "flexibel_adj": {
@@ -865,7 +1145,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 17738,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "flexibler",
+      "superlativ": "flexibelst"
+    },
     "declension": {}
   },
   "frech_adj": {
@@ -874,7 +1157,11 @@
     "audio": "adjektiv_frech.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 5946
+    "frequency": 5946,
+    "comparison": {
+      "komparativ": "frecher",
+      "superlativ": "frechst"
+    }
   },
   "frei_adj": {
     "word": "frei",
@@ -883,7 +1170,10 @@
     "curriculum": false,
     "cefr": "A1",
     "frequency": 602,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "freier",
+      "superlativ": "freist"
+    },
     "declension": {}
   },
   "freiwillig_adj": {
@@ -893,7 +1183,10 @@
     "curriculum": false,
     "cefr": "A2",
     "frequency": 2977,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "freiwilliger",
+      "superlativ": "freiwilligst"
+    },
     "declension": {}
   },
   "fremd_adj": {
@@ -903,8 +1196,11 @@
     "curriculum": false,
     "cefr": "A1",
     "frequency": 6298,
-    "comparison": {},
-    "declension": {}
+    "declension": {},
+    "comparison": {
+      "komparativ": "fremder",
+      "superlativ": "fremdest"
+    }
   },
   "freundlich_adj": {
     "word": "freundlich",
@@ -912,7 +1208,11 @@
     "audio": "adjektiv_freundlich.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 2124
+    "frequency": 2124,
+    "comparison": {
+      "komparativ": "freundlicher",
+      "superlativ": "freundlichst"
+    }
   },
   "frisch_adj": {
     "word": "frisch",
@@ -920,7 +1220,11 @@
     "audio": "adjektiv_frisch.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 2285
+    "frequency": 2285,
+    "comparison": {
+      "komparativ": "frischer",
+      "superlativ": "frischest"
+    }
   },
   "froh_adj": {
     "word": "froh",
@@ -929,7 +1233,10 @@
     "curriculum": false,
     "cefr": "A2",
     "frequency": 730,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "froher",
+      "superlativ": "frohst"
+    },
     "declension": {}
   },
   "frueh_adj": {
@@ -939,7 +1246,10 @@
     "curriculum": false,
     "cefr": "A2",
     "frequency": 626,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "früher",
+      "superlativ": "frühst"
+    },
     "declension": {}
   },
   "frueher_adj": {
@@ -949,7 +1259,10 @@
     "curriculum": false,
     "cefr": "A1",
     "frequency": 622,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "früherer",
+      "superlativ": "früherst"
+    },
     "declension": {}
   },
   "furchtbar_adj": {
@@ -959,7 +1272,10 @@
     "curriculum": false,
     "cefr": "A2",
     "frequency": 1416,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "furchtbarer",
+      "superlativ": "furchtbarst"
+    },
     "declension": {}
   },
   "ganz_adj": {
@@ -969,7 +1285,10 @@
     "curriculum": false,
     "cefr": "A2",
     "frequency": 146,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "ganzer",
+      "superlativ": "ganzest"
+    },
     "declension": {}
   },
   "gefaehrlich_adj": {
@@ -978,7 +1297,11 @@
     "audio": "adjektiv_gefaehrlich.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 932
+    "frequency": 932,
+    "comparison": {
+      "komparativ": "gefährlicher",
+      "superlativ": "gefährlichst"
+    }
   },
   "geheim_adj": {
     "word": "geheim",
@@ -987,7 +1310,11 @@
     "_id": "geheim_adj",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 2643
+    "frequency": 2643,
+    "comparison": {
+      "komparativ": "geheimer",
+      "superlativ": "geheimst"
+    }
   },
   "gelb_adj": {
     "word": "gelb",
@@ -995,7 +1322,11 @@
     "audio": "adjektiv_gelb.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 5955
+    "frequency": 5955,
+    "comparison": {
+      "komparativ": "gelber",
+      "superlativ": "gelbst"
+    }
   },
   "gemuetlich_adj": {
     "word": "gemütlich",
@@ -1003,7 +1334,11 @@
     "audio": "adjektiv_gemuetlich.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 4228
+    "frequency": 4228,
+    "comparison": {
+      "komparativ": "gemütlicher",
+      "superlativ": "gemütlichst"
+    }
   },
   "genau_adj": {
     "word": "genau",
@@ -1012,7 +1347,10 @@
     "curriculum": false,
     "cefr": "A2",
     "frequency": 171,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "genauer",
+      "superlativ": "genaust"
+    },
     "declension": {}
   },
   "gerade_adj": {
@@ -1022,7 +1360,10 @@
     "curriculum": false,
     "cefr": "A1",
     "frequency": 183,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "geradeer",
+      "superlativ": "geradest"
+    },
     "declension": {}
   },
   "gering_adj": {
@@ -1032,7 +1373,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 10196,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "geringer",
+      "superlativ": "geringst"
+    },
     "declension": {}
   },
   "gern_adj": {
@@ -1041,7 +1385,8 @@
     "audio": "adjektiv_gern.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 328
+    "frequency": 328,
+    "undeclinable": true
   },
   "gespannt_adj": {
     "word": "gespannt",
@@ -1049,7 +1394,11 @@
     "audio": "adjektiv_gespannt.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 4765
+    "frequency": 4765,
+    "comparison": {
+      "komparativ": "gespannter",
+      "superlativ": "gespanntst"
+    }
   },
   "gestresst_adj": {
     "word": "gestresst",
@@ -1057,7 +1406,11 @@
     "audio": "adjektiv_gestresst.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 8289
+    "frequency": 8289,
+    "comparison": {
+      "komparativ": "gestresster",
+      "superlativ": "gestresstest"
+    }
   },
   "gesund_adj": {
     "word": "gesund",
@@ -1065,7 +1418,11 @@
     "audio": "adjektiv_gesund.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 1453
+    "frequency": 1453,
+    "comparison": {
+      "komparativ": "gesünder",
+      "superlativ": "gesündest"
+    }
   },
   "gewoehnlich_adj": {
     "word": "gewöhnlich",
@@ -1074,7 +1431,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 3523,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "gewöhnlicher",
+      "superlativ": "gewöhnlichst"
+    },
     "declension": {}
   },
   "giftig_adj": {
@@ -1084,7 +1444,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 11222,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "giftiger",
+      "superlativ": "giftigst"
+    },
     "declension": {}
   },
   "glatt_adj": {
@@ -1094,7 +1457,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 4641,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "glatter",
+      "superlativ": "glattst"
+    },
     "declension": {}
   },
   "gleich_adj": {
@@ -1104,7 +1470,10 @@
     "curriculum": false,
     "cefr": "A1",
     "frequency": 235,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "gleicher",
+      "superlativ": "gleichst"
+    },
     "declension": {}
   },
   "gleichberechtigt_adj": {
@@ -1114,7 +1483,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 33709,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "gleichberechtigter",
+      "superlativ": "gleichberechtigtst"
+    },
     "declension": {}
   },
   "gleichzeitig_adj": {
@@ -1124,7 +1496,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 2651,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "gleichzeitiger",
+      "superlativ": "gleichzeitigst"
+    },
     "declension": {}
   },
   "gluecklich_adj": {
@@ -1133,7 +1508,11 @@
     "audio": "adjektiv_gluecklich.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 597
+    "frequency": 597,
+    "comparison": {
+      "komparativ": "glücklicher",
+      "superlativ": "glücklichst"
+    }
   },
   "grau_adj": {
     "word": "grau",
@@ -1141,7 +1520,11 @@
     "audio": "adjektiv_grau.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 7631
+    "frequency": 7631,
+    "comparison": {
+      "komparativ": "grauer",
+      "superlativ": "graust"
+    }
   },
   "gross_adj": {
     "word": "groß",
@@ -1149,7 +1532,11 @@
     "audio": "adjektiv_gross.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 721
+    "frequency": 721,
+    "comparison": {
+      "komparativ": "größer",
+      "superlativ": "größt"
+    }
   },
   "gruen_adj": {
     "word": "grün",
@@ -1157,7 +1544,11 @@
     "audio": "adjektiv_gruen.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 2943
+    "frequency": 2943,
+    "comparison": {
+      "komparativ": "grüner",
+      "superlativ": "grünst"
+    }
   },
   "gruendlich_adj": {
     "word": "gründlich",
@@ -1166,7 +1557,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 4663,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "gründlicher",
+      "superlativ": "gründlichst"
+    },
     "declension": {}
   },
   "gueltig_adj": {
@@ -1176,7 +1570,10 @@
     "curriculum": false,
     "cefr": "A1",
     "frequency": 16717,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "gültiger",
+      "superlativ": "gültigst"
+    },
     "declension": {}
   },
   "guenstig_adj": {
@@ -1186,7 +1583,10 @@
     "curriculum": false,
     "cefr": "A1",
     "frequency": 8908,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "günstiger",
+      "superlativ": "günstigst"
+    },
     "declension": {}
   },
   "gut_adj": {
@@ -1195,7 +1595,11 @@
     "audio": "adjektiv_gut.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 52
+    "frequency": 52,
+    "comparison": {
+      "komparativ": "besser",
+      "superlativ": "best"
+    }
   },
   "haesslich_adj": {
     "word": "hässlich",
@@ -1204,7 +1608,10 @@
     "curriculum": false,
     "cefr": "A2",
     "frequency": 3201,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "hässlicher",
+      "superlativ": "hässlichst"
+    },
     "declension": {}
   },
   "haeufig_adj": {
@@ -1214,7 +1621,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 5353,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "häufiger",
+      "superlativ": "häufigst"
+    },
     "declension": {}
   },
   "halb_adj": {
@@ -1224,7 +1634,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 1544,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "halber",
+      "superlativ": "halbst"
+    },
     "declension": {}
   },
   "haltbar_adj": {
@@ -1234,7 +1647,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 0,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "haltbarer",
+      "superlativ": "haltbarst"
+    },
     "declension": {}
   },
   "hart_adj": {
@@ -1243,7 +1659,11 @@
     "audio": "adjektiv_hart.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 816
+    "frequency": 816,
+    "comparison": {
+      "komparativ": "härter",
+      "superlativ": "härtest"
+    }
   },
   "heimlich_adj": {
     "word": "heimlich",
@@ -1252,7 +1672,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 3836,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "heimlicher",
+      "superlativ": "heimlichst"
+    },
     "declension": {}
   },
   "heiss_adj": {
@@ -1261,7 +1684,11 @@
     "audio": "adjektiv_heiss.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 1063
+    "frequency": 1063,
+    "comparison": {
+      "komparativ": "heißer",
+      "superlativ": "heißest"
+    }
   },
   "hell_adj": {
     "word": "hell",
@@ -1270,7 +1697,10 @@
     "curriculum": false,
     "cefr": "A1",
     "frequency": 3980,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "heller",
+      "superlativ": "hellst"
+    },
     "declension": {}
   },
   "herzlich_adj": {
@@ -1280,7 +1710,10 @@
     "curriculum": false,
     "cefr": "A1",
     "frequency": 3769,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "herzlicher",
+      "superlativ": "herzlichst"
+    },
     "declension": {}
   },
   "historisch_adj": {
@@ -1290,7 +1723,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 20944,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "historischer",
+      "superlativ": "historischest"
+    },
     "declension": {}
   },
   "hoch_adj": {
@@ -1299,7 +1735,11 @@
     "audio": "adjektiv_hoch.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 507
+    "frequency": 507,
+    "comparison": {
+      "komparativ": "höher",
+      "superlativ": "höchst"
+    }
   },
   "hoeflich_adj": {
     "word": "höflich",
@@ -1308,7 +1748,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 4402,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "höflicher",
+      "superlativ": "höflichst"
+    },
     "declension": {}
   },
   "huebsch_adj": {
@@ -1318,7 +1761,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 1113,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "hübscher",
+      "superlativ": "hübschest"
+    },
     "declension": {}
   },
   "hungrig_adj": {
@@ -1328,7 +1774,10 @@
     "curriculum": false,
     "cefr": "A2",
     "frequency": 2653,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "hungriger",
+      "superlativ": "hungrigst"
+    },
     "declension": {}
   },
   "ideal_adj": {
@@ -1338,8 +1787,8 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 7297,
-    "comparison": {},
-    "declension": {}
+    "declension": {},
+    "nicht_komparierbar": true
   },
   "illegal_adj": {
     "word": "illegal",
@@ -1348,7 +1797,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 4045,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "illegaler",
+      "superlativ": "illegalst"
+    },
     "declension": {}
   },
   "individuell_adj": {
@@ -1358,7 +1810,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 36106,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "individueller",
+      "superlativ": "individuellst"
+    },
     "declension": {}
   },
   "intelligent_adj": {
@@ -1367,7 +1822,11 @@
     "audio": "adjektiv_intelligent.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 4754
+    "frequency": 4754,
+    "comparison": {
+      "komparativ": "intelligenter",
+      "superlativ": "intelligentst"
+    }
   },
   "intensiv_adj": {
     "word": "intensiv",
@@ -1376,7 +1835,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 9521,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "intensiver",
+      "superlativ": "intensivst"
+    },
     "declension": {}
   },
   "interessant_adj": {
@@ -1385,7 +1847,11 @@
     "audio": "adjektiv_interessant.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 1287
+    "frequency": 1287,
+    "comparison": {
+      "komparativ": "interessanter",
+      "superlativ": "interessantst"
+    }
   },
   "interessiert_adj": {
     "word": "interessiert",
@@ -1394,7 +1860,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 757,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "interessierter",
+      "superlativ": "interessiertst"
+    },
     "declension": {}
   },
   "interkulturell_adj": {
@@ -1404,7 +1873,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 0,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "interkultureller",
+      "superlativ": "interkulturellst"
+    },
     "declension": {}
   },
   "international_adj": {
@@ -1414,7 +1886,10 @@
     "curriculum": false,
     "cefr": "A1",
     "frequency": 9141,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "internationaler",
+      "superlativ": "internationalst"
+    },
     "declension": {}
   },
   "jung_adj": {
@@ -1423,7 +1898,11 @@
     "audio": "adjektiv_jung.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 1171
+    "frequency": 1171,
+    "comparison": {
+      "komparativ": "jünger",
+      "superlativ": "jüngst"
+    }
   },
   "kalt_adj": {
     "word": "kalt",
@@ -1431,7 +1910,11 @@
     "audio": "adjektiv_kalt.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 1065
+    "frequency": 1065,
+    "comparison": {
+      "komparativ": "kälter",
+      "superlativ": "kältest"
+    }
   },
   "kaputt_adj": {
     "word": "kaputt",
@@ -1440,7 +1923,10 @@
     "curriculum": false,
     "cefr": "A1",
     "frequency": 1298,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "kaputter",
+      "superlativ": "kaputtst"
+    },
     "declension": {}
   },
   "klar_adj": {
@@ -1449,7 +1935,11 @@
     "audio": "adjektiv_klar.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 175
+    "frequency": 175,
+    "comparison": {
+      "komparativ": "klarer",
+      "superlativ": "klarst"
+    }
   },
   "klein_adj": {
     "word": "klein",
@@ -1457,7 +1947,11 @@
     "audio": "adjektiv_klein.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 1017
+    "frequency": 1017,
+    "comparison": {
+      "komparativ": "kleiner",
+      "superlativ": "kleinst"
+    }
   },
   "klug_adj": {
     "word": "klug",
@@ -1466,8 +1960,11 @@
     "curriculum": false,
     "cefr": "A2",
     "frequency": 2017,
-    "comparison": {},
-    "declension": {}
+    "declension": {},
+    "comparison": {
+      "komparativ": "klüger",
+      "superlativ": "klügst"
+    }
   },
   "knapp_adj": {
     "word": "knapp",
@@ -1476,7 +1973,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 2294,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "knapper",
+      "superlativ": "knappst"
+    },
     "declension": {}
   },
   "koerperlich_adj": {
@@ -1486,7 +1986,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 7211,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "körperlicher",
+      "superlativ": "körperlichst"
+    },
     "declension": {}
   },
   "komisch_adj": {
@@ -1496,7 +1999,10 @@
     "curriculum": false,
     "cefr": "A2",
     "frequency": 948,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "komischer",
+      "superlativ": "komischest"
+    },
     "declension": {}
   },
   "komplett_adj": {
@@ -1506,7 +2012,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 2169,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "kompletter",
+      "superlativ": "komplettst"
+    },
     "declension": {}
   },
   "kompliziert_adj": {
@@ -1516,7 +2025,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 2300,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "komplizierter",
+      "superlativ": "kompliziertst"
+    },
     "declension": {}
   },
   "korrekt_adj": {
@@ -1526,7 +2038,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 3074,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "korrekter",
+      "superlativ": "korrektst"
+    },
     "declension": {}
   },
   "kostenlos_adj": {
@@ -1536,7 +2051,10 @@
     "curriculum": false,
     "cefr": "A2",
     "frequency": 9766,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "kostenloser",
+      "superlativ": "kostenlosest"
+    },
     "declension": {}
   },
   "krank_adj": {
@@ -1546,8 +2064,11 @@
     "curriculum": false,
     "cefr": "A1",
     "frequency": 724,
-    "comparison": {},
-    "declension": {}
+    "declension": {},
+    "comparison": {
+      "komparativ": "kränker",
+      "superlativ": "kränkst"
+    }
   },
   "kreativ_adj": {
     "word": "kreativ",
@@ -1555,7 +2076,11 @@
     "audio": "adjektiv_kreativ.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 10208
+    "frequency": 10208,
+    "comparison": {
+      "komparativ": "kreativer",
+      "superlativ": "kreativst"
+    }
   },
   "kritisch_adj": {
     "word": "kritisch",
@@ -1564,7 +2089,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 9233,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "kritischer",
+      "superlativ": "kritischest"
+    },
     "declension": {}
   },
   "kuehl_adj": {
@@ -1573,7 +2101,11 @@
     "audio": "adjektiv_kuehl.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 7958
+    "frequency": 7958,
+    "comparison": {
+      "komparativ": "kühler",
+      "superlativ": "kühlst"
+    }
   },
   "kuenstlich_adj": {
     "word": "künstlich",
@@ -1582,7 +2114,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 13856,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "künstlicher",
+      "superlativ": "künstlichst"
+    },
     "declension": {}
   },
   "kulturell_adj": {
@@ -1592,7 +2127,10 @@
     "curriculum": false,
     "cefr": "A1",
     "frequency": 40047,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "kultureller",
+      "superlativ": "kulturellst"
+    },
     "declension": {}
   },
   "kurz_adj": {
@@ -1601,7 +2139,11 @@
     "audio": "adjektiv_kurz.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 442
+    "frequency": 442,
+    "comparison": {
+      "komparativ": "kürzer",
+      "superlativ": "kürzest"
+    }
   },
   "lang_adj": {
     "word": "lang",
@@ -1609,7 +2151,11 @@
     "audio": "adjektiv_lang.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 450
+    "frequency": 450,
+    "comparison": {
+      "komparativ": "länger",
+      "superlativ": "längst"
+    }
   },
   "langsam_adj": {
     "word": "langsam",
@@ -1617,7 +2163,11 @@
     "audio": "adjektiv_langsam.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 654
+    "frequency": 654,
+    "comparison": {
+      "komparativ": "langsamer",
+      "superlativ": "langsamst"
+    }
   },
   "langweilig_adj": {
     "word": "langweilig",
@@ -1625,7 +2175,11 @@
     "audio": "adjektiv_langweilig.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 1920
+    "frequency": 1920,
+    "comparison": {
+      "komparativ": "langweiliger",
+      "superlativ": "langweiligst"
+    }
   },
   "laut_adj": {
     "word": "laut",
@@ -1634,7 +2188,10 @@
     "curriculum": false,
     "cefr": "A1",
     "frequency": 778,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "lauter",
+      "superlativ": "lautst"
+    },
     "declension": {}
   },
   "lecker_adj": {
@@ -1643,7 +2200,11 @@
     "audio": "adjektiv_lecker.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 2794
+    "frequency": 2794,
+    "comparison": {
+      "komparativ": "leckerer",
+      "superlativ": "leckerst"
+    }
   },
   "ledig_adj": {
     "word": "ledig",
@@ -1652,7 +2213,10 @@
     "curriculum": false,
     "cefr": "A1",
     "frequency": 16281,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "lediger",
+      "superlativ": "ledigst"
+    },
     "declension": {}
   },
   "leer_adj": {
@@ -1662,7 +2226,10 @@
     "curriculum": false,
     "cefr": "A2",
     "frequency": 1664,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "leerer",
+      "superlativ": "leerst"
+    },
     "declension": {}
   },
   "leicht_adj": {
@@ -1672,7 +2239,10 @@
     "curriculum": false,
     "cefr": "A1",
     "frequency": 750,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "leichter",
+      "superlativ": "leichtst"
+    },
     "declension": {}
   },
   "leise_adj": {
@@ -1682,7 +2252,10 @@
     "curriculum": false,
     "cefr": "A1",
     "frequency": 1547,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "leiseer",
+      "superlativ": "leisest"
+    },
     "declension": {}
   },
   "lieb_adj": {
@@ -1692,7 +2265,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 1219,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "lieber",
+      "superlativ": "liebst"
+    },
     "declension": {}
   },
   "lila_adj": {
@@ -1701,7 +2277,8 @@
     "audio": "adjektiv_lila.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 5387
+    "frequency": 5387,
+    "undeclinable": true
   },
   "locker_adj": {
     "word": "locker",
@@ -1710,7 +2287,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 2280,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "lockerer",
+      "superlativ": "lockerst"
+    },
     "declension": {}
   },
   "lustig_adj": {
@@ -1719,7 +2299,11 @@
     "audio": "adjektiv_lustig.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 860
+    "frequency": 860,
+    "comparison": {
+      "komparativ": "lustiger",
+      "superlativ": "lustigst"
+    }
   },
   "maennlich_adj": {
     "word": "männlich",
@@ -1728,7 +2312,10 @@
     "curriculum": false,
     "cefr": "A1",
     "frequency": 7729,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "männlicher",
+      "superlativ": "männlichst"
+    },
     "declension": {}
   },
   "mager_adj": {
@@ -1738,7 +2325,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 18069,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "magerer",
+      "superlativ": "magerst"
+    },
     "declension": {}
   },
   "maximal_adj": {
@@ -1748,8 +2338,8 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 10939,
-    "comparison": {},
-    "declension": {}
+    "declension": {},
+    "nicht_komparierbar": true
   },
   "menschlich_adj": {
     "word": "menschlich",
@@ -1758,7 +2348,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 4879,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "menschlicher",
+      "superlativ": "menschlichst"
+    },
     "declension": {}
   },
   "merkwuerdig_adj": {
@@ -1768,7 +2361,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 2254,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "merkwürdiger",
+      "superlativ": "merkwürdigst"
+    },
     "declension": {}
   },
   "mild_adj": {
@@ -1778,8 +2374,11 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 23822,
-    "comparison": {},
-    "declension": {}
+    "declension": {},
+    "comparison": {
+      "komparativ": "milder",
+      "superlativ": "mildest"
+    }
   },
   "minimal_adj": {
     "word": "minimal",
@@ -1788,8 +2387,8 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 21862,
-    "comparison": {},
-    "declension": {}
+    "declension": {},
+    "nicht_komparierbar": true
   },
   "moeglich_adj": {
     "word": "möglich",
@@ -1798,7 +2397,10 @@
     "curriculum": false,
     "cefr": "A1",
     "frequency": 605,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "möglicher",
+      "superlativ": "möglichst"
+    },
     "declension": {}
   },
   "muede_adj": {
@@ -1807,7 +2409,11 @@
     "audio": "adjektiv_muede.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 1083
+    "frequency": 1083,
+    "comparison": {
+      "komparativ": "müdeer",
+      "superlativ": "müdest"
+    }
   },
   "muendlich_adj": {
     "word": "mündlich",
@@ -1816,7 +2422,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 35823,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "mündlicher",
+      "superlativ": "mündlichst"
+    },
     "declension": {}
   },
   "musikalisch_adj": {
@@ -1825,7 +2434,11 @@
     "audio": "adjektiv_musikalisch.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 24359
+    "frequency": 24359,
+    "comparison": {
+      "komparativ": "musikalischer",
+      "superlativ": "musikalischest"
+    }
   },
   "mutig_adj": {
     "word": "mutig",
@@ -1834,7 +2447,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 3210,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "mutiger",
+      "superlativ": "mutigst"
+    },
     "declension": {}
   },
   "nass_adj": {
@@ -1843,7 +2459,11 @@
     "audio": "adjektiv_nass.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 3550
+    "frequency": 3550,
+    "comparison": {
+      "komparativ": "nässer",
+      "superlativ": "nässest"
+    }
   },
   "natuerlich_adj": {
     "word": "natürlich",
@@ -1852,7 +2472,10 @@
     "curriculum": false,
     "cefr": "A2",
     "frequency": 225,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "natürlicher",
+      "superlativ": "natürlichst"
+    },
     "declension": {}
   },
   "neblig_adj": {
@@ -1861,7 +2484,11 @@
     "audio": "adjektiv_neblig.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 40259
+    "frequency": 40259,
+    "comparison": {
+      "komparativ": "nebliger",
+      "superlativ": "nebligst"
+    }
   },
   "negativ_adj": {
     "word": "negativ",
@@ -1870,7 +2497,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 3310,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "negativer",
+      "superlativ": "negativst"
+    },
     "declension": {}
   },
   "nervoes_adj": {
@@ -1879,7 +2509,11 @@
     "audio": "adjektiv_nervoes.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 1324
+    "frequency": 1324,
+    "comparison": {
+      "komparativ": "nervöser",
+      "superlativ": "nervösest"
+    }
   },
   "nett_adj": {
     "word": "nett",
@@ -1887,7 +2521,11 @@
     "audio": "adjektiv_nett.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 500
+    "frequency": 500,
+    "comparison": {
+      "komparativ": "netter",
+      "superlativ": "nettst"
+    }
   },
   "neu_adj": {
     "word": "neu",
@@ -1895,7 +2533,11 @@
     "audio": "adjektiv_neu.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 959
+    "frequency": 959,
+    "comparison": {
+      "komparativ": "neuer",
+      "superlativ": "neust"
+    }
   },
   "neugierig_adj": {
     "word": "neugierig",
@@ -1904,7 +2546,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 2722,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "neugieriger",
+      "superlativ": "neugierigst"
+    },
     "declension": {}
   },
   "niedrig_adj": {
@@ -1914,7 +2559,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 8396,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "niedriger",
+      "superlativ": "niedrigst"
+    },
     "declension": {}
   },
   "noetig_adj": {
@@ -1924,7 +2572,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 907,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "nötiger",
+      "superlativ": "nötigst"
+    },
     "declension": {}
   },
   "normal_adj": {
@@ -1934,7 +2585,10 @@
     "curriculum": false,
     "cefr": "A1",
     "frequency": 1121,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "normaler",
+      "superlativ": "normalst"
+    },
     "declension": {}
   },
   "notwendig_adj": {
@@ -1944,7 +2598,10 @@
     "curriculum": false,
     "cefr": "A2",
     "frequency": 3623,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "notwendiger",
+      "superlativ": "notwendigst"
+    },
     "declension": {}
   },
   "nuetzlich_adj": {
@@ -1954,7 +2611,10 @@
     "curriculum": false,
     "cefr": "A2",
     "frequency": 3513,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "nützlicher",
+      "superlativ": "nützlichst"
+    },
     "declension": {}
   },
   "oeffentlich_adj": {
@@ -1964,7 +2624,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 4723,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "öffentlicher",
+      "superlativ": "öffentlichst"
+    },
     "declension": {}
   },
   "offenbar_adj": {
@@ -1974,7 +2637,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 1643,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "offenbarer",
+      "superlativ": "offenbarst"
+    },
     "declension": {}
   },
   "offiziell_adj": {
@@ -1984,7 +2650,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 2601,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "offizieller",
+      "superlativ": "offiziellst"
+    },
     "declension": {}
   },
   "optimistisch_adj": {
@@ -1994,7 +2663,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 11021,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "optimistischer",
+      "superlativ": "optimistischest"
+    },
     "declension": {}
   },
   "orange_adj": {
@@ -2003,7 +2675,8 @@
     "audio": "adjektiv_orange.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 6022
+    "frequency": 6022,
+    "undeclinable": true
   },
   "ordentlich_adj": {
     "word": "ordentlich",
@@ -2012,7 +2685,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 3937,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "ordentlicher",
+      "superlativ": "ordentlichst"
+    },
     "declension": {}
   },
   "parallel_adj": {
@@ -2022,7 +2698,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 20497,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "paralller",
+      "superlativ": "parallelst"
+    },
     "declension": {}
   },
   "passiv_adj": {
@@ -2032,7 +2711,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 27930,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "passiver",
+      "superlativ": "passivst"
+    },
     "declension": {}
   },
   "pauschal_adj": {
@@ -2042,7 +2724,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 0,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "pauschaler",
+      "superlativ": "pauschalst"
+    },
     "declension": {}
   },
   "perfekt_adj": {
@@ -2051,7 +2736,8 @@
     "audio": "adjektiv_perfekt.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 897
+    "frequency": 897,
+    "nicht_komparierbar": true
   },
   "ploetzlich_adj": {
     "word": "plötzlich",
@@ -2060,7 +2746,10 @@
     "curriculum": false,
     "cefr": "A2",
     "frequency": 923,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "plötzlicher",
+      "superlativ": "plötzlichst"
+    },
     "declension": {}
   },
   "populaer_adj": {
@@ -2069,7 +2758,11 @@
     "audio": "adjektiv_populaer.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 20928
+    "frequency": 20928,
+    "comparison": {
+      "komparativ": "populärer",
+      "superlativ": "populärst"
+    }
   },
   "positiv_adj": {
     "word": "positiv",
@@ -2078,7 +2771,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 3913,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "positiver",
+      "superlativ": "positivst"
+    },
     "declension": {}
   },
   "praktisch_adj": {
@@ -2088,7 +2784,10 @@
     "curriculum": false,
     "cefr": "A2",
     "frequency": 2551,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "praktischer",
+      "superlativ": "praktischest"
+    },
     "declension": {}
   },
   "preiswert_adj": {
@@ -2098,7 +2797,10 @@
     "curriculum": false,
     "cefr": "A2",
     "frequency": 37437,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "preiswerter",
+      "superlativ": "preiswertst"
+    },
     "declension": {}
   },
   "privat_adj": {
@@ -2108,7 +2810,10 @@
     "curriculum": false,
     "cefr": "A2",
     "frequency": 4442,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "privater",
+      "superlativ": "privatst"
+    },
     "declension": {}
   },
   "puenktlich_adj": {
@@ -2118,7 +2823,10 @@
     "curriculum": false,
     "cefr": "A1",
     "frequency": 3117,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "pünktlicher",
+      "superlativ": "pünktlichst"
+    },
     "declension": {}
   },
   "quer_adj": {
@@ -2128,7 +2836,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 7846,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "querer",
+      "superlativ": "querst"
+    },
     "declension": {}
   },
   "realistisch_adj": {
@@ -2138,7 +2849,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 8627,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "realistischer",
+      "superlativ": "realistischest"
+    },
     "declension": {}
   },
   "recht_adj": {
@@ -2148,7 +2862,11 @@
     "_id": "recht_adj",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 237
+    "frequency": 237,
+    "comparison": {
+      "komparativ": "rechter",
+      "superlativ": "rechtst"
+    }
   },
   "rechtlich_adj": {
     "word": "rechtlich",
@@ -2157,7 +2875,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 14728,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "rechtlicher",
+      "superlativ": "rechtlichst"
+    },
     "declension": {}
   },
   "rechtzeitig_adj": {
@@ -2167,7 +2888,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 2668,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "rechtzeitiger",
+      "superlativ": "rechtzeitigst"
+    },
     "declension": {}
   },
   "regelmaessig_adj": {
@@ -2177,7 +2901,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 6013,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "regelmäßiger",
+      "superlativ": "regelmäßigst"
+    },
     "declension": {}
   },
   "regional_adj": {
@@ -2187,7 +2914,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 45534,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "regionaler",
+      "superlativ": "regionalst"
+    },
     "declension": {}
   },
   "regnerisch_adj": {
@@ -2196,7 +2926,11 @@
     "audio": "adjektiv_regnerisch.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": null
+    "frequency": null,
+    "comparison": {
+      "komparativ": "regnerischer",
+      "superlativ": "regnerischest"
+    }
   },
   "reich_adj": {
     "word": "reich",
@@ -2205,7 +2939,10 @@
     "curriculum": false,
     "cefr": "A2",
     "frequency": 1195,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "reicher",
+      "superlativ": "reichst"
+    },
     "declension": {}
   },
   "reif_adj": {
@@ -2215,7 +2952,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 5791,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "reifer",
+      "superlativ": "reifst"
+    },
     "declension": {}
   },
   "rein_adj": {
@@ -2225,8 +2965,8 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 279,
-    "comparison": {},
-    "declension": {}
+    "declension": {},
+    "nicht_komparierbar": true
   },
   "relativ_adj": {
     "word": "relativ",
@@ -2235,7 +2975,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 8508,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "relativer",
+      "superlativ": "relativst"
+    },
     "declension": {}
   },
   "richtig_adj": {
@@ -2244,7 +2987,11 @@
     "audio": "adjektiv_richtig.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 239
+    "frequency": 239,
+    "comparison": {
+      "komparativ": "richtiger",
+      "superlativ": "richtigst"
+    }
   },
   "riesig_adj": {
     "word": "riesig",
@@ -2252,7 +2999,11 @@
     "audio": "adjektiv_riesig.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 4393
+    "frequency": 4393,
+    "comparison": {
+      "komparativ": "riesiger",
+      "superlativ": "riesigst"
+    }
   },
   "roh_adj": {
     "word": "roh",
@@ -2261,7 +3012,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 15093,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "roher",
+      "superlativ": "rohst"
+    },
     "declension": {}
   },
   "romantisch_adj": {
@@ -2271,7 +3025,10 @@
     "curriculum": false,
     "cefr": "A2",
     "frequency": 3880,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "romantischer",
+      "superlativ": "romantischest"
+    },
     "declension": {}
   },
   "rosa_adj": {
@@ -2280,7 +3037,8 @@
     "audio": "adjektiv_rosa.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 3177
+    "frequency": 3177,
+    "undeclinable": true
   },
   "rot_adj": {
     "word": "rot",
@@ -2288,7 +3046,11 @@
     "audio": "adjektiv_rot.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 1930
+    "frequency": 1930,
+    "comparison": {
+      "komparativ": "roter",
+      "superlativ": "rotst"
+    }
   },
   "ruhig_adj": {
     "word": "ruhig",
@@ -2296,7 +3058,11 @@
     "audio": "adjektiv_ruhig.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 434
+    "frequency": 434,
+    "comparison": {
+      "komparativ": "ruhiger",
+      "superlativ": "ruhigst"
+    }
   },
   "rund_adj": {
     "word": "rund",
@@ -2305,8 +3071,11 @@
     "curriculum": false,
     "cefr": "A2",
     "frequency": 3235,
-    "comparison": {},
-    "declension": {}
+    "declension": {},
+    "comparison": {
+      "komparativ": "runder",
+      "superlativ": "rundest"
+    }
   },
   "salzig_adj": {
     "word": "salzig",
@@ -2315,7 +3084,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 22066,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "salziger",
+      "superlativ": "salzigst"
+    },
     "declension": {}
   },
   "satt_adj": {
@@ -2325,7 +3097,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 2066,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "satter",
+      "superlativ": "sattst"
+    },
     "declension": {}
   },
   "sauber_adj": {
@@ -2334,7 +3109,11 @@
     "audio": "adjektiv_sauber.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 1315
+    "frequency": 1315,
+    "comparison": {
+      "komparativ": "sauberer",
+      "superlativ": "sauberst"
+    }
   },
   "sauer_adj": {
     "word": "sauer",
@@ -2343,8 +3122,11 @@
     "curriculum": false,
     "cefr": "A2",
     "frequency": 1167,
-    "comparison": {},
-    "declension": {}
+    "declension": {},
+    "comparison": {
+      "komparativ": "saurer",
+      "superlativ": "sauerst"
+    }
   },
   "schade_adj": {
     "word": "schade",
@@ -2352,7 +3134,11 @@
     "audio": "adjektiv_schade.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 1212
+    "frequency": 1212,
+    "comparison": {
+      "komparativ": "schadeer",
+      "superlativ": "schadest"
+    }
   },
   "schaedlich_adj": {
     "word": "schädlich",
@@ -2361,7 +3147,10 @@
     "curriculum": false,
     "cefr": "A2",
     "frequency": 21794,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "schädlicher",
+      "superlativ": "schädlichst"
+    },
     "declension": {}
   },
   "scharf_adj": {
@@ -2371,8 +3160,11 @@
     "curriculum": false,
     "cefr": "A2",
     "frequency": 2221,
-    "comparison": {},
-    "declension": {}
+    "declension": {},
+    "comparison": {
+      "komparativ": "schärfer",
+      "superlativ": "schärfst"
+    }
   },
   "schief_adj": {
     "word": "schief",
@@ -2381,7 +3173,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 2565,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "schiefer",
+      "superlativ": "schiefst"
+    },
     "declension": {}
   },
   "schlank_adj": {
@@ -2391,7 +3186,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 12455,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "schlanker",
+      "superlativ": "schlankst"
+    },
     "declension": {}
   },
   "schlau_adj": {
@@ -2400,7 +3198,11 @@
     "audio": "adjektiv_schlau.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 2239
+    "frequency": 2239,
+    "comparison": {
+      "komparativ": "schlauer",
+      "superlativ": "schlaust"
+    }
   },
   "schlecht_adj": {
     "word": "schlecht",
@@ -2409,7 +3211,10 @@
     "curriculum": false,
     "cefr": "A1",
     "frequency": 558,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "schlechter",
+      "superlativ": "schlechtst"
+    },
     "declension": {}
   },
   "schlimm_adj": {
@@ -2418,7 +3223,11 @@
     "audio": "adjektiv_schlimm.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 864
+    "frequency": 864,
+    "comparison": {
+      "komparativ": "schlimmer",
+      "superlativ": "schlimmst"
+    }
   },
   "schmal_adj": {
     "word": "schmal",
@@ -2427,7 +3236,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 20393,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "schmaler",
+      "superlativ": "schmalst"
+    },
     "declension": {}
   },
   "schmutzig_adj": {
@@ -2437,7 +3249,10 @@
     "curriculum": false,
     "cefr": "A2",
     "frequency": 3998,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "schmutziger",
+      "superlativ": "schmutzigst"
+    },
     "declension": {}
   },
   "schnell_adj": {
@@ -2446,7 +3261,11 @@
     "audio": "adjektiv_schnell.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 273
+    "frequency": 273,
+    "comparison": {
+      "komparativ": "schneller",
+      "superlativ": "schnellst"
+    }
   },
   "schoen_adj": {
     "word": "schön",
@@ -2454,7 +3273,11 @@
     "audio": "adjektiv_schoen.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 54
+    "frequency": 54,
+    "comparison": {
+      "komparativ": "schöner",
+      "superlativ": "schönst"
+    }
   },
   "schrecklich_adj": {
     "word": "schrecklich",
@@ -2463,7 +3286,10 @@
     "curriculum": false,
     "cefr": "A2",
     "frequency": 1151,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "schrecklicher",
+      "superlativ": "schrecklichst"
+    },
     "declension": {}
   },
   "schriftlich_adj": {
@@ -2473,7 +3299,10 @@
     "curriculum": false,
     "cefr": "A2",
     "frequency": 9586,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "schriftlicher",
+      "superlativ": "schriftlichst"
+    },
     "declension": {}
   },
   "schuechtern_adj": {
@@ -2482,7 +3311,11 @@
     "audio": "adjektiv_schuechtern.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 4252
+    "frequency": 4252,
+    "comparison": {
+      "komparativ": "schüchterner",
+      "superlativ": "schüchternst"
+    }
   },
   "schuldig_adj": {
     "word": "schuldig",
@@ -2491,7 +3324,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 1327,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "schuldiger",
+      "superlativ": "schuldigst"
+    },
     "declension": {}
   },
   "schwach_adj": {
@@ -2501,8 +3337,11 @@
     "curriculum": false,
     "cefr": "A2",
     "frequency": 2036,
-    "comparison": {},
-    "declension": {}
+    "declension": {},
+    "comparison": {
+      "komparativ": "schwächer",
+      "superlativ": "schwächst"
+    }
   },
   "schwanger_adj": {
     "word": "schwanger",
@@ -2511,7 +3350,10 @@
     "curriculum": false,
     "cefr": "A2",
     "frequency": 1470,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "schwangerer",
+      "superlativ": "schwangerst"
+    },
     "declension": {}
   },
   "schwarz_adj": {
@@ -2520,7 +3362,11 @@
     "audio": "adjektiv_schwarz.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 1912
+    "frequency": 1912,
+    "comparison": {
+      "komparativ": "schwarzer",
+      "superlativ": "schwarzest"
+    }
   },
   "schwer_adj": {
     "word": "schwer",
@@ -2529,7 +3375,10 @@
     "curriculum": false,
     "cefr": "A1",
     "frequency": 486,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "schwerer",
+      "superlativ": "schwerst"
+    },
     "declension": {}
   },
   "schwierig_adj": {
@@ -2538,7 +3387,11 @@
     "audio": "adjektiv_schwierig.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 1510
+    "frequency": 1510,
+    "comparison": {
+      "komparativ": "schwieriger",
+      "superlativ": "schwierigst"
+    }
   },
   "selbststaendig_adj": {
     "word": "selbstständig",
@@ -2547,7 +3400,10 @@
     "curriculum": false,
     "cefr": "A1",
     "frequency": 14857,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "selbstständiger",
+      "superlativ": "selbstständigst"
+    },
     "declension": {}
   },
   "selbstverstaendlich_adj": {
@@ -2557,7 +3413,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 2022,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "selbstverständlicher",
+      "superlativ": "selbstverständlichst"
+    },
     "declension": {}
   },
   "seltsam_adj": {
@@ -2567,7 +3426,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 1157,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "seltsamer",
+      "superlativ": "seltsamst"
+    },
     "declension": {}
   },
   "senkrecht_adj": {
@@ -2577,7 +3439,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 28231,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "senkrechter",
+      "superlativ": "senkrechtst"
+    },
     "declension": {}
   },
   "sicher_adj": {
@@ -2586,7 +3451,11 @@
     "audio": "adjektiv_sicher.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 151
+    "frequency": 151,
+    "comparison": {
+      "komparativ": "sicherer",
+      "superlativ": "sicherst"
+    }
   },
   "sichtbar_adj": {
     "word": "sichtbar",
@@ -2595,7 +3464,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 9085,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "sichtbarer",
+      "superlativ": "sichtbarst"
+    },
     "declension": {}
   },
   "sinnlos_adj": {
@@ -2605,7 +3477,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 3842,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "sinnloser",
+      "superlativ": "sinnlosest"
+    },
     "declension": {}
   },
   "sinnvoll_adj": {
@@ -2615,7 +3490,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 12168,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "sinnvoller",
+      "superlativ": "sinnvollst"
+    },
     "declension": {}
   },
   "sonnig_adj": {
@@ -2624,7 +3502,11 @@
     "audio": "adjektiv_sonnig.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 22289
+    "frequency": 22289,
+    "comparison": {
+      "komparativ": "sonniger",
+      "superlativ": "sonnigst"
+    }
   },
   "sozial_adj": {
     "word": "sozial",
@@ -2633,7 +3515,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 19263,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "sozialer",
+      "superlativ": "sozialst"
+    },
     "declension": {}
   },
   "spaet_adj": {
@@ -2643,7 +3528,10 @@
     "curriculum": false,
     "cefr": "A1",
     "frequency": 437,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "später",
+      "superlativ": "spätst"
+    },
     "declension": {}
   },
   "spaeter_adj": {
@@ -2653,7 +3541,10 @@
     "curriculum": false,
     "cefr": "A1",
     "frequency": 379,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "späterer",
+      "superlativ": "späterst"
+    },
     "declension": {}
   },
   "spannend_adj": {
@@ -2662,7 +3553,11 @@
     "audio": "adjektiv_spannend.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 5865
+    "frequency": 5865,
+    "comparison": {
+      "komparativ": "spannender",
+      "superlativ": "spannendst"
+    }
   },
   "speziell_adj": {
     "word": "speziell",
@@ -2671,7 +3566,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 6819,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "spezieller",
+      "superlativ": "speziellst"
+    },
     "declension": {}
   },
   "spitz_adj": {
@@ -2681,7 +3579,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 12542,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "spitzer",
+      "superlativ": "spitzest"
+    },
     "declension": {}
   },
   "sportlich_adj": {
@@ -2690,7 +3591,11 @@
     "audio": "adjektiv_sportlich.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 17482
+    "frequency": 17482,
+    "comparison": {
+      "komparativ": "sportlicher",
+      "superlativ": "sportlichst"
+    }
   },
   "staedtisch_adj": {
     "word": "städtisch",
@@ -2699,7 +3604,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 0,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "städtischer",
+      "superlativ": "städtischest"
+    },
     "declension": {}
   },
   "staendig_adj": {
@@ -2709,7 +3617,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 983,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "ständiger",
+      "superlativ": "ständigst"
+    },
     "declension": {}
   },
   "stark_adj": {
@@ -2718,7 +3629,11 @@
     "audio": "adjektiv_stark.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 828
+    "frequency": 828,
+    "comparison": {
+      "komparativ": "stärker",
+      "superlativ": "stärkst"
+    }
   },
   "statistisch_adj": {
     "word": "statistisch",
@@ -2727,7 +3642,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 21931,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "statistischer",
+      "superlativ": "statistischest"
+    },
     "declension": {}
   },
   "steil_adj": {
@@ -2737,7 +3655,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 17762,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "steiler",
+      "superlativ": "steilst"
+    },
     "declension": {}
   },
   "stilistisch_adj": {
@@ -2747,7 +3668,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 0,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "stilistischer",
+      "superlativ": "stilistischest"
+    },
     "declension": {}
   },
   "still_adj": {
@@ -2757,7 +3681,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 850,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "stiller",
+      "superlativ": "stillst"
+    },
     "declension": {}
   },
   "stolz_adj": {
@@ -2767,7 +3694,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 827,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "stolzer",
+      "superlativ": "stolzest"
+    },
     "declension": {}
   },
   "strafbar_adj": {
@@ -2777,7 +3707,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 16607,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "strafbarer",
+      "superlativ": "strafbarst"
+    },
     "declension": {}
   },
   "streng_adj": {
@@ -2786,7 +3719,11 @@
     "audio": "adjektiv_streng.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 2669
+    "frequency": 2669,
+    "comparison": {
+      "komparativ": "strenger",
+      "superlativ": "strengst"
+    }
   },
   "stressig_adj": {
     "word": "stressig",
@@ -2794,7 +3731,11 @@
     "audio": "adjektiv_stressig.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 16424
+    "frequency": 16424,
+    "comparison": {
+      "komparativ": "stressiger",
+      "superlativ": "stressigst"
+    }
   },
   "stumm_adj": {
     "word": "stumm",
@@ -2803,7 +3744,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 7951,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "stummer",
+      "superlativ": "stummst"
+    },
     "declension": {}
   },
   "suess_adj": {
@@ -2812,7 +3756,11 @@
     "audio": "adjektiv_suess.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 1020
+    "frequency": 1020,
+    "comparison": {
+      "komparativ": "süßer",
+      "superlativ": "süßest"
+    }
   },
   "super_adj": {
     "word": "super",
@@ -2821,7 +3769,10 @@
     "curriculum": false,
     "cefr": "A2",
     "frequency": 735,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "superer",
+      "superlativ": "superst"
+    },
     "declension": {}
   },
   "sympathisch_adj": {
@@ -2830,7 +3781,11 @@
     "audio": "adjektiv_sympathisch.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 11053
+    "frequency": 11053,
+    "comparison": {
+      "komparativ": "sympathischer",
+      "superlativ": "sympathischest"
+    }
   },
   "taub_adj": {
     "word": "taub",
@@ -2839,7 +3794,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 3760,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "tauber",
+      "superlativ": "taubst"
+    },
     "declension": {}
   },
   "teuer_adj": {
@@ -2848,7 +3806,11 @@
     "audio": "adjektiv_teuer.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 2154
+    "frequency": 2154,
+    "comparison": {
+      "komparativ": "teurer",
+      "superlativ": "teuerst"
+    }
   },
   "theoretisch_adj": {
     "word": "theoretisch",
@@ -2857,7 +3819,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 7081,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "theoretischer",
+      "superlativ": "theoretischest"
+    },
     "declension": {}
   },
   "tief_adj": {
@@ -2867,7 +3832,10 @@
     "curriculum": false,
     "cefr": "A2",
     "frequency": 1116,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "tiefer",
+      "superlativ": "tiefst"
+    },
     "declension": {}
   },
   "toedlich_adj": {
@@ -2877,7 +3845,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 5007,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "tödlicher",
+      "superlativ": "tödlichst"
+    },
     "declension": {}
   },
   "tolerant_adj": {
@@ -2887,7 +3858,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 26789,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "toleranter",
+      "superlativ": "tolerantst"
+    },
     "declension": {}
   },
   "toll_adj": {
@@ -2896,7 +3870,11 @@
     "audio": "adjektiv_toll.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 392
+    "frequency": 392,
+    "comparison": {
+      "komparativ": "toller",
+      "superlativ": "tollst"
+    }
   },
   "tot_adj": {
     "word": "tot",
@@ -2905,8 +3883,8 @@
     "curriculum": false,
     "cefr": "A1",
     "frequency": 275,
-    "comparison": {},
-    "declension": {}
+    "declension": {},
+    "nicht_komparierbar": true
   },
   "total_adj": {
     "word": "total",
@@ -2915,8 +3893,8 @@
     "curriculum": false,
     "cefr": "A2",
     "frequency": 741,
-    "comparison": {},
-    "declension": {}
+    "declension": {},
+    "nicht_komparierbar": true
   },
   "traditionell_adj": {
     "word": "traditionell",
@@ -2925,7 +3903,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 17049,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "traditioneller",
+      "superlativ": "traditionellst"
+    },
     "declension": {}
   },
   "traurig_adj": {
@@ -2934,7 +3915,11 @@
     "audio": "adjektiv_traurig.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 1204
+    "frequency": 1204,
+    "comparison": {
+      "komparativ": "trauriger",
+      "superlativ": "traurigst"
+    }
   },
   "treu_adj": {
     "word": "treu",
@@ -2942,7 +3927,11 @@
     "audio": "adjektiv_treu.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 3912
+    "frequency": 3912,
+    "comparison": {
+      "komparativ": "treuer",
+      "superlativ": "treust"
+    }
   },
   "trocken_adj": {
     "word": "trocken",
@@ -2950,7 +3939,11 @@
     "audio": "adjektiv_trocken.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 4019
+    "frequency": 4019,
+    "comparison": {
+      "komparativ": "trockener",
+      "superlativ": "trockenst"
+    }
   },
   "typisch_adj": {
     "word": "typisch",
@@ -2959,7 +3952,10 @@
     "curriculum": false,
     "cefr": "A2",
     "frequency": 3683,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "typischer",
+      "superlativ": "typischest"
+    },
     "declension": {}
   },
   "ueberrascht_adj": {
@@ -2969,7 +3965,11 @@
     "audio": "adjektiv_ueberrascht.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 1314
+    "frequency": 1314,
+    "comparison": {
+      "komparativ": "überraschter",
+      "superlativ": "überraschtst"
+    }
   },
   "ueblich_adj": {
     "word": "üblich",
@@ -2978,7 +3978,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 5055,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "üblicher",
+      "superlativ": "üblichst"
+    },
     "declension": {}
   },
   "uebrig_adj": {
@@ -2988,7 +3991,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 1422,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "übriger",
+      "superlativ": "übrigst"
+    },
     "declension": {}
   },
   "ungeduldig_adj": {
@@ -2997,7 +4003,11 @@
     "audio": "adjektiv_ungeduldig.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 8779
+    "frequency": 8779,
+    "comparison": {
+      "komparativ": "ungeduldiger",
+      "superlativ": "ungeduldigst"
+    }
   },
   "ungewoehnlich_adj": {
     "word": "ungewöhnlich",
@@ -3006,7 +4016,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 3618,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "ungewöhnlicher",
+      "superlativ": "ungewöhnlichst"
+    },
     "declension": {}
   },
   "unglaublich_adj": {
@@ -3016,7 +4029,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 866,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "unglaublicher",
+      "superlativ": "unglaublichst"
+    },
     "declension": {}
   },
   "unheimlich_adj": {
@@ -3026,7 +4042,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 3242,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "unheimlicher",
+      "superlativ": "unheimlichst"
+    },
     "declension": {}
   },
   "unterschiedlich_adj": {
@@ -3036,7 +4055,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 10114,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "unterschiedlicher",
+      "superlativ": "unterschiedlichst"
+    },
     "declension": {}
   },
   "urspruenglich_adj": {
@@ -3046,7 +4068,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 7822,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "ursprünglicher",
+      "superlativ": "ursprünglichst"
+    },
     "declension": {}
   },
   "vegetarisch_adj": {
@@ -3056,7 +4081,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 37384,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "vegetarischer",
+      "superlativ": "vegetarischest"
+    },
     "declension": {}
   },
   "verantwortlich_adj": {
@@ -3066,7 +4094,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 1391,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "verantwortlicher",
+      "superlativ": "verantwortlichst"
+    },
     "declension": {}
   },
   "vergeblich_adj": {
@@ -3076,7 +4107,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 11956,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "vergeblicher",
+      "superlativ": "vergeblichst"
+    },
     "declension": {}
   },
   "verheiratet_adj": {
@@ -3086,7 +4120,10 @@
     "curriculum": false,
     "cefr": "A1",
     "frequency": 970,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "verheirateter",
+      "superlativ": "verheiratetst"
+    },
     "declension": {}
   },
   "vermutlich_adj": {
@@ -3096,7 +4133,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 1168,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "vermutlicher",
+      "superlativ": "vermutlichst"
+    },
     "declension": {}
   },
   "vernuenftig_adj": {
@@ -3106,7 +4146,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 2756,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "vernünftiger",
+      "superlativ": "vernünftigst"
+    },
     "declension": {}
   },
   "verrueckt_adj": {
@@ -3116,7 +4159,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 421,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "verrückter",
+      "superlativ": "verrücktst"
+    },
     "declension": {}
   },
   "verstaendlich_adj": {
@@ -3126,7 +4172,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 6090,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "verständlicher",
+      "superlativ": "verständlichst"
+    },
     "declension": {}
   },
   "verwandt_adj": {
@@ -3136,7 +4185,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 5635,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "verwandter",
+      "superlativ": "verwandtst"
+    },
     "declension": {}
   },
   "viel_adj": {
@@ -3145,7 +4197,11 @@
     "audio": "adjektiv_viel.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 128
+    "frequency": 128,
+    "comparison": {
+      "komparativ": "mehr",
+      "superlativ": "meist"
+    }
   },
   "virtuell_adj": {
     "word": "virtuell",
@@ -3154,7 +4210,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 0,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "virtueller",
+      "superlativ": "virtuellst"
+    },
     "declension": {}
   },
   "voll_adj": {
@@ -3164,7 +4223,10 @@
     "curriculum": false,
     "cefr": "A2",
     "frequency": 673,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "voller",
+      "superlativ": "vollst"
+    },
     "declension": {}
   },
   "voraussichtlich_adj": {
@@ -3174,7 +4236,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 31536,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "voraussichtlicher",
+      "superlativ": "voraussichtlichst"
+    },
     "declension": {}
   },
   "vorlaeufig_adj": {
@@ -3184,7 +4249,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 9384,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "vorläufiger",
+      "superlativ": "vorläufigst"
+    },
     "declension": {}
   },
   "vorsichtig_adj": {
@@ -3194,7 +4262,10 @@
     "curriculum": false,
     "cefr": "A2",
     "frequency": 825,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "vorsichtiger",
+      "superlativ": "vorsichtigst"
+    },
     "declension": {}
   },
   "wach_adj": {
@@ -3203,7 +4274,11 @@
     "audio": "adjektiv_wach.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 1032
+    "frequency": 1032,
+    "comparison": {
+      "komparativ": "wacher",
+      "superlativ": "wachst"
+    }
   },
   "wahnsinnig_adj": {
     "word": "wahnsinnig",
@@ -3212,7 +4287,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 1893,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "wahnsinniger",
+      "superlativ": "wahnsinnigst"
+    },
     "declension": {}
   },
   "wahr_adj": {
@@ -3222,7 +4300,10 @@
     "curriculum": false,
     "cefr": "A2",
     "frequency": 338,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "wahrer",
+      "superlativ": "wahrst"
+    },
     "declension": {}
   },
   "warm_adj": {
@@ -3231,7 +4312,11 @@
     "audio": "adjektiv_warm.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 2074
+    "frequency": 2074,
+    "comparison": {
+      "komparativ": "wärmer",
+      "superlativ": "wärmst"
+    }
   },
   "weiblich_adj": {
     "word": "weiblich",
@@ -3240,7 +4325,10 @@
     "curriculum": false,
     "cefr": "A1",
     "frequency": 10660,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "weiblicher",
+      "superlativ": "weiblichst"
+    },
     "declension": {}
   },
   "weich_adj": {
@@ -3249,7 +4337,11 @@
     "audio": "adjektiv_weich.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 3747
+    "frequency": 3747,
+    "comparison": {
+      "komparativ": "weicher",
+      "superlativ": "weichst"
+    }
   },
   "weiss_adj": {
     "word": "weiß",
@@ -3257,7 +4349,11 @@
     "audio": "adjektiv_weiss.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 70
+    "frequency": 70,
+    "comparison": {
+      "komparativ": "weißer",
+      "superlativ": "weißest"
+    }
   },
   "weit_adj": {
     "word": "weit",
@@ -3265,7 +4361,11 @@
     "audio": "adjektiv_weit.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 397
+    "frequency": 397,
+    "comparison": {
+      "komparativ": "weiter",
+      "superlativ": "weitst"
+    }
   },
   "weiter_adj": {
     "word": "weiter",
@@ -3274,7 +4374,10 @@
     "curriculum": false,
     "cefr": "A1",
     "frequency": 232,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "weiterer",
+      "superlativ": "weiterst"
+    },
     "declension": {}
   },
   "wert_adj": {
@@ -3284,7 +4387,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 728,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "werter",
+      "superlativ": "wertst"
+    },
     "declension": {}
   },
   "wertlos_adj": {
@@ -3294,7 +4400,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 7353,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "wertloser",
+      "superlativ": "wertlosest"
+    },
     "declension": {}
   },
   "wertvoll_adj": {
@@ -3304,7 +4413,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 5408,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "wertvoller",
+      "superlativ": "wertvollst"
+    },
     "declension": {}
   },
   "wichtig_adj": {
@@ -3313,7 +4425,11 @@
     "audio": "adjektiv_wichtig.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 551
+    "frequency": 551,
+    "comparison": {
+      "komparativ": "wichtiger",
+      "superlativ": "wichtigst"
+    }
   },
   "wild_adj": {
     "word": "wild",
@@ -3321,7 +4437,11 @@
     "audio": "adjektiv_wild.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 2453
+    "frequency": 2453,
+    "comparison": {
+      "komparativ": "wilder",
+      "superlativ": "wildest"
+    }
   },
   "windig_adj": {
     "word": "windig",
@@ -3329,7 +4449,11 @@
     "audio": "adjektiv_windig.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 20572
+    "frequency": 20572,
+    "comparison": {
+      "komparativ": "windiger",
+      "superlativ": "windigst"
+    }
   },
   "wirklich_adj": {
     "word": "wirklich",
@@ -3338,7 +4462,10 @@
     "curriculum": false,
     "cefr": "A2",
     "frequency": 125,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "wirklicher",
+      "superlativ": "wirklichst"
+    },
     "declension": {}
   },
   "witzig_adj": {
@@ -3348,7 +4475,10 @@
     "curriculum": false,
     "cefr": "A2",
     "frequency": 1261,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "witziger",
+      "superlativ": "witzigst"
+    },
     "declension": {}
   },
   "wuetend_adj": {
@@ -3358,7 +4488,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 1100,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "wütender",
+      "superlativ": "wütendst"
+    },
     "declension": {}
   },
   "zahlreich_adj": {
@@ -3368,7 +4501,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 25770,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "zahlreicher",
+      "superlativ": "zahlreichst"
+    },
     "declension": {}
   },
   "zahm_adj": {
@@ -3377,7 +4513,11 @@
     "audio": "adjektiv_zahm.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 21815
+    "frequency": 21815,
+    "comparison": {
+      "komparativ": "zahmer",
+      "superlativ": "zahmst"
+    }
   },
   "zentral_adj": {
     "word": "zentral",
@@ -3386,7 +4526,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 37315,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "zentraler",
+      "superlativ": "zentralst"
+    },
     "declension": {}
   },
   "zufrieden_adj": {
@@ -3395,7 +4538,11 @@
     "audio": "adjektiv_zufrieden.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 1483
+    "frequency": 1483,
+    "comparison": {
+      "komparativ": "zufriedener",
+      "superlativ": "zufriedenst"
+    }
   },
   "zugaenglich_adj": {
     "word": "zugänglich",
@@ -3404,7 +4551,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 15798,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "zugänglicher",
+      "superlativ": "zugänglichst"
+    },
     "declension": {}
   },
   "zukuenftig_adj": {
@@ -3414,7 +4564,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 25920,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "zukünftiger",
+      "superlativ": "zukünftigst"
+    },
     "declension": {}
   },
   "zusaetzlich_adj": {
@@ -3424,7 +4577,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 8731,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "zusätzlicher",
+      "superlativ": "zusätzlichst"
+    },
     "declension": {}
   },
   "zustaendig_adj": {
@@ -3434,7 +4590,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 4704,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "zuständiger",
+      "superlativ": "zuständigst"
+    },
     "declension": {}
   },
   "zuverlaessig_adj": {
@@ -3444,7 +4603,10 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 9656,
-    "comparison": {},
+    "comparison": {
+      "komparativ": "zuverlässiger",
+      "superlativ": "zuverlässigst"
+    },
     "declension": {}
   }
 }
