@@ -2,2353 +2,3515 @@
   "_metadata": {
     "source": "adjectivebank.json",
     "targetLanguage": "german",
-    "generatedAt": "2026-02-21T11:30:24.279Z",
+    "generatedAt": "2026-02-21T12:18:45.007Z",
     "description": "Core adjective data for german"
   },
   "abhaengig_adj": {
     "word": "abhängig",
     "_id": "abhaengig_adj",
     "audio": "adjektiv_abhaengig.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "abhängiger",
+      "superlativ": "abhängigst"
+    },
     "declension": {}
   },
   "absolut_adj": {
     "word": "absolut",
     "_id": "absolut_adj",
     "audio": "adjektiv_absolut.mp3",
-    "comparison": {},
-    "declension": {}
+    "declension": {},
+    "nicht_komparierbar": true
   },
   "abwesend_adj": {
     "word": "abwesend",
     "_id": "abwesend_adj",
     "audio": "adjektiv_abwesend.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "abwesender",
+      "superlativ": "abwesendst"
+    },
     "declension": {}
   },
   "aehnlich_adj": {
     "word": "ähnlich",
     "_id": "aehnlich_adj",
     "audio": "adjektiv_aehnlich.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "ähnlicher",
+      "superlativ": "ähnlichst"
+    },
     "declension": {}
   },
   "aengstlich_adj": {
     "word": "ängstlich",
     "_id": "aengstlich_adj",
     "audio": "adjektiv_aengstlich.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "ängstlicher",
+      "superlativ": "ängstlichst"
+    },
     "declension": {}
   },
   "aergerlich_adj": {
     "word": "ärgerlich",
     "_id": "aergerlich_adj",
     "audio": "adjektiv_aergerlich.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "ärgerlicher",
+      "superlativ": "ärgerlichst"
+    },
     "declension": {}
   },
   "aeusserlich_adj": {
     "word": "äußerlich",
     "_id": "aeusserlich_adj",
     "audio": "adjektiv_aeusserlich.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "äußerlicher",
+      "superlativ": "äußerlichst"
+    },
     "declension": {}
   },
   "aktiv_adj": {
     "word": "aktiv",
     "_id": "aktiv_adj",
-    "audio": "adjektiv_aktiv.mp3"
+    "audio": "adjektiv_aktiv.mp3",
+    "comparison": {
+      "komparativ": "aktiver",
+      "superlativ": "aktivst"
+    }
   },
   "aktuell_adj": {
     "word": "aktuell",
     "_id": "aktuell_adj",
     "audio": "adjektiv_aktuell.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "aktueller",
+      "superlativ": "aktuellst"
+    },
     "declension": {}
   },
   "allgemein_adj": {
     "word": "allgemein",
     "_id": "allgemein_adj",
     "audio": "adjektiv_allgemein.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "allgemeiner",
+      "superlativ": "allgemeinst"
+    },
     "declension": {}
   },
   "alt_adj": {
     "word": "alt",
     "_id": "alt_adj",
-    "audio": "adjektiv_alt.mp3"
+    "audio": "adjektiv_alt.mp3",
+    "comparison": {
+      "komparativ": "älter",
+      "superlativ": "ältest"
+    }
   },
   "alternativ_adj": {
     "word": "alternativ",
     "_id": "alternativ_adj",
     "audio": "adjektiv_alternativ.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "alternativer",
+      "superlativ": "alternativst"
+    },
     "declension": {}
   },
   "angenehm_adj": {
     "word": "angenehm",
     "_id": "angenehm_adj",
     "audio": "adjektiv_angenehm.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "angenehmer",
+      "superlativ": "angenehmst"
+    },
     "declension": {}
   },
   "anstrengend_adj": {
     "word": "anstrengend",
     "_id": "anstrengend_adj",
-    "audio": "adjektiv_anstrengend.mp3"
+    "audio": "adjektiv_anstrengend.mp3",
+    "comparison": {
+      "komparativ": "anstrengender",
+      "superlativ": "anstrengendst"
+    }
   },
   "anwesend_adj": {
     "word": "anwesend",
     "_id": "anwesend_adj",
     "audio": "adjektiv_anwesend.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "anwesender",
+      "superlativ": "anwesendst"
+    },
     "declension": {}
   },
   "arbeitslos_adj": {
     "word": "arbeitslos",
     "_id": "arbeitslos_adj",
     "audio": "adjektiv_arbeitslos.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "arbeitsloser",
+      "superlativ": "arbeitslosest"
+    },
     "declension": {}
   },
   "arm_adj": {
     "word": "arm",
     "_id": "arm_adj",
     "audio": "adjektiv_arm.mp3",
-    "comparison": {},
-    "declension": {}
+    "declension": {},
+    "comparison": {
+      "komparativ": "ärmer",
+      "superlativ": "ärmst"
+    }
   },
   "aufgeregt_adj": {
     "word": "aufgeregt",
     "_id": "aufgeregt_adj",
-    "audio": "adjektiv_aufgeregt.mp3"
+    "audio": "adjektiv_aufgeregt.mp3",
+    "comparison": {
+      "komparativ": "aufgeregter",
+      "superlativ": "aufgeregtst"
+    }
   },
   "aufmerksam_adj": {
     "word": "aufmerksam",
     "_id": "aufmerksam_adj",
     "audio": "adjektiv_aufmerksam.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "aufmerksamer",
+      "superlativ": "aufmerksamst"
+    },
     "declension": {}
   },
   "auslaendisch_adj": {
     "word": "ausländisch",
     "_id": "auslaendisch_adj",
     "audio": "adjektiv_auslaendisch.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "ausländischer",
+      "superlativ": "ausländischest"
+    },
     "declension": {}
   },
   "ausschliesslich_adj": {
     "word": "ausschließlich",
     "_id": "ausschliesslich_adj",
     "audio": "adjektiv_ausschliesslich.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "ausschließlicher",
+      "superlativ": "ausschließlichst"
+    },
     "declension": {}
   },
   "automatisch_adj": {
     "word": "automatisch",
     "_id": "automatisch_adj",
     "audio": "adjektiv_automatisch.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "automatischer",
+      "superlativ": "automatischest"
+    },
     "declension": {}
   },
   "bekannt_adj": {
     "word": "bekannt",
     "_id": "bekannt_adj",
     "audio": "adjektiv_bekannt.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "bekannter",
+      "superlativ": "bekanntst"
+    },
     "declension": {}
   },
   "beliebt_adj": {
     "word": "beliebt",
     "_id": "beliebt_adj",
     "audio": "adjektiv_beliebt.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "beliebter",
+      "superlativ": "beliebtst"
+    },
     "declension": {}
   },
   "bequem_adj": {
     "word": "bequem",
     "_id": "bequem_adj",
     "audio": "adjektiv_bequem.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "bequemer",
+      "superlativ": "bequemst"
+    },
     "declension": {}
   },
   "bereit_adj": {
     "word": "bereit",
     "_id": "bereit_adj",
     "audio": "adjektiv_bereit.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "bereiter",
+      "superlativ": "bereitst"
+    },
     "declension": {}
   },
   "beruehmt_adj": {
     "word": "berühmt",
     "_id": "beruehmt_adj",
     "audio": "adjektiv_beruehmt.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "berühmter",
+      "superlativ": "berühmtst"
+    },
     "declension": {}
   },
   "beruflich_adj": {
     "word": "beruflich",
     "_id": "beruflich_adj",
     "audio": "adjektiv_beruflich.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "beruflicher",
+      "superlativ": "beruflichst"
+    },
     "declension": {}
   },
   "berufstaetig_adj": {
     "word": "berufstätig",
     "_id": "berufstaetig_adj",
     "audio": "adjektiv_berufstaetig.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "berufstätiger",
+      "superlativ": "berufstätigst"
+    },
     "declension": {}
   },
   "bestimmt_adj": {
     "word": "bestimmt",
     "_id": "bestimmt_adj",
     "audio": "adjektiv_bestimmt.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "bestimmter",
+      "superlativ": "bestimmtst"
+    },
     "declension": {}
   },
   "bewoelkt_adj": {
     "word": "bewölkt",
     "_id": "bewoelkt_adj",
-    "audio": "adjektiv_bewoelkt.mp3"
+    "audio": "adjektiv_bewoelkt.mp3",
+    "comparison": {
+      "komparativ": "bewölkter",
+      "superlativ": "bewölktst"
+    }
   },
   "billig_adj": {
     "word": "billig",
     "_id": "billig_adj",
     "audio": "adjektiv_billig.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "billiger",
+      "superlativ": "billigst"
+    },
     "declension": {}
   },
   "bitter_adj": {
     "word": "bitter",
     "_id": "bitter_adj",
     "audio": "adjektiv_bitter.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "bitterer",
+      "superlativ": "bitterst"
+    },
     "declension": {}
   },
   "blass_adj": {
     "word": "blass",
     "_id": "blass_adj",
     "audio": "adjektiv_blass.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "blasser",
+      "superlativ": "blassest"
+    },
     "declension": {}
   },
   "blau_adj": {
     "word": "blau",
     "_id": "blau_adj",
-    "audio": "adjektiv_blau.mp3"
+    "audio": "adjektiv_blau.mp3",
+    "comparison": {
+      "komparativ": "blauer",
+      "superlativ": "blaust"
+    }
   },
   "blind_adj": {
     "word": "blind",
     "_id": "blind_adj",
     "audio": "adjektiv_blind.mp3",
-    "comparison": {},
-    "declension": {}
+    "declension": {},
+    "comparison": {
+      "komparativ": "blinder",
+      "superlativ": "blindest"
+    }
   },
   "bloed_adj": {
     "word": "blöd",
     "_id": "bloed_adj",
-    "audio": "adjektiv_bloed.mp3"
+    "audio": "adjektiv_bloed.mp3",
+    "comparison": {
+      "komparativ": "blöder",
+      "superlativ": "blödst"
+    }
   },
   "blond_adj": {
     "word": "blond",
     "_id": "blond_adj",
-    "audio": "adjektiv_blond.mp3"
+    "audio": "adjektiv_blond.mp3",
+    "comparison": {
+      "komparativ": "blonder",
+      "superlativ": "blondst"
+    }
   },
   "bloss_adj": {
     "word": "bloß",
     "_id": "bloss_adj",
     "audio": "adjektiv_bloss.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "bloßer",
+      "superlativ": "bloßest"
+    },
     "declension": {}
   },
   "boese_adj": {
     "word": "böse",
     "_id": "boese_adj",
-    "audio": "adjektiv_boese.mp3"
+    "audio": "adjektiv_boese.mp3",
+    "comparison": {
+      "komparativ": "böseer",
+      "superlativ": "bösest"
+    }
   },
   "braun_adj": {
     "word": "braun",
     "_id": "braun_adj",
-    "audio": "adjektiv_braun.mp3"
+    "audio": "adjektiv_braun.mp3",
+    "comparison": {
+      "komparativ": "brauner",
+      "superlativ": "braunst"
+    }
   },
   "brav_adj": {
     "word": "brav",
     "_id": "brav_adj",
-    "audio": "adjektiv_brav.mp3"
+    "audio": "adjektiv_brav.mp3",
+    "comparison": {
+      "komparativ": "braver",
+      "superlativ": "bravst"
+    }
   },
   "breit_adj": {
     "word": "breit",
     "_id": "breit_adj",
     "audio": "adjektiv_breit.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "breiter",
+      "superlativ": "breitst"
+    },
     "declension": {}
   },
   "bunt_adj": {
     "word": "bunt",
     "_id": "bunt_adj",
-    "audio": "adjektiv_bunt.mp3"
+    "audio": "adjektiv_bunt.mp3",
+    "comparison": {
+      "komparativ": "bunter",
+      "superlativ": "buntst"
+    }
   },
   "cool_adj": {
     "word": "cool",
     "_id": "cool_adj",
-    "audio": "adjektiv_cool.mp3"
+    "audio": "adjektiv_cool.mp3",
+    "undeclinable": true
   },
   "dankbar_adj": {
     "word": "dankbar",
     "_id": "dankbar_adj",
     "audio": "adjektiv_dankbar.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "dankbarer",
+      "superlativ": "dankbarst"
+    },
     "declension": {}
   },
   "deutlich_adj": {
     "word": "deutlich",
     "_id": "deutlich_adj",
     "audio": "adjektiv_deutlich.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "deutlicher",
+      "superlativ": "deutlichst"
+    },
     "declension": {}
   },
   "dicht_adj": {
     "word": "dicht",
     "_id": "dicht_adj",
     "audio": "adjektiv_dicht.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "dichter",
+      "superlativ": "dichtst"
+    },
     "declension": {}
   },
   "dick_adj": {
     "word": "dick",
     "_id": "dick_adj",
     "audio": "adjektiv_dick.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "dicker",
+      "superlativ": "dickst"
+    },
     "declension": {}
   },
   "digital_adj": {
     "word": "digital",
     "_id": "digital_adj",
     "audio": "adjektiv_digital.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "digitaler",
+      "superlativ": "digitalst"
+    },
     "declension": {}
   },
   "direkt_adj": {
     "word": "direkt",
     "_id": "direkt_adj",
     "audio": "adjektiv_direkt.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "direkter",
+      "superlativ": "direktst"
+    },
     "declension": {}
   },
   "doppelt_adj": {
     "word": "doppelt",
     "_id": "doppelt_adj",
     "audio": "adjektiv_doppelt.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "doppelter",
+      "superlativ": "doppeltst"
+    },
     "declension": {}
   },
   "duenn_adj": {
     "word": "dünn",
     "_id": "duenn_adj",
     "audio": "adjektiv_duenn.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "dünner",
+      "superlativ": "dünnst"
+    },
     "declension": {}
   },
   "dumm_adj": {
     "word": "dumm",
     "_id": "dumm_adj",
     "audio": "adjektiv_dumm.mp3",
-    "comparison": {},
-    "declension": {}
+    "declension": {},
+    "comparison": {
+      "komparativ": "dümmer",
+      "superlativ": "dümmst"
+    }
   },
   "dunkel_adj": {
     "word": "dunkel",
     "_id": "dunkel_adj",
     "audio": "adjektiv_dunkel.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "dunkler",
+      "superlativ": "dunkelst"
+    },
     "declension": {}
   },
   "durchschnittlich_adj": {
     "word": "durchschnittlich",
     "_id": "durchschnittlich_adj",
     "audio": "adjektiv_durchschnittlich.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "durchschnittlicher",
+      "superlativ": "durchschnittlichst"
+    },
     "declension": {}
   },
   "durstig_adj": {
     "word": "durstig",
     "_id": "durstig_adj",
     "audio": "adjektiv_durstig.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "durstiger",
+      "superlativ": "durstigst"
+    },
     "declension": {}
   },
   "echt_adj": {
     "word": "echt",
     "_id": "echt_adj",
     "audio": "adjektiv_echt.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "echter",
+      "superlativ": "echtst"
+    },
     "declension": {}
   },
   "eckig_adj": {
     "word": "eckig",
     "_id": "eckig_adj",
     "audio": "adjektiv_eckig.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "eckiger",
+      "superlativ": "eckigst"
+    },
     "declension": {}
   },
   "ehrlich_adj": {
     "word": "ehrlich",
     "_id": "ehrlich_adj",
-    "audio": "adjektiv_ehrlich.mp3"
+    "audio": "adjektiv_ehrlich.mp3",
+    "comparison": {
+      "komparativ": "ehrlicher",
+      "superlativ": "ehrlichst"
+    }
   },
   "eilig_adj": {
     "word": "eilig",
     "_id": "eilig_adj",
     "audio": "adjektiv_eilig.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "eiliger",
+      "superlativ": "eiligst"
+    },
     "declension": {}
   },
   "eindeutig_adj": {
     "word": "eindeutig",
     "_id": "eindeutig_adj",
     "audio": "adjektiv_eindeutig.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "eindeutiger",
+      "superlativ": "eindeutigst"
+    },
     "declension": {}
   },
   "einfach_adj": {
     "word": "einfach",
     "_id": "einfach_adj",
-    "audio": "adjektiv_einfach.mp3"
+    "audio": "adjektiv_einfach.mp3",
+    "comparison": {
+      "komparativ": "einfacher",
+      "superlativ": "einfachst"
+    }
   },
   "einheitlich_adj": {
     "word": "einheitlich",
     "_id": "einheitlich_adj",
     "audio": "adjektiv_einheitlich.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "einheitlicher",
+      "superlativ": "einheitlichst"
+    },
     "declension": {}
   },
   "einsam_adj": {
     "word": "einsam",
     "_id": "einsam_adj",
     "audio": "adjektiv_einsam.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "einsamer",
+      "superlativ": "einsamst"
+    },
     "declension": {}
   },
   "elegant_adj": {
     "word": "elegant",
     "_id": "elegant_adj",
     "audio": "adjektiv_elegant.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "eleganter",
+      "superlativ": "elegantst"
+    },
     "declension": {}
   },
   "elektrisch_adj": {
     "word": "elektrisch",
     "_id": "elektrisch_adj",
     "audio": "adjektiv_elektrisch.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "elektrischer",
+      "superlativ": "elektrischest"
+    },
     "declension": {}
   },
   "elektronisch_adj": {
     "word": "elektronisch",
     "_id": "elektronisch_adj",
     "audio": "adjektiv_elektronisch.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "elektronischer",
+      "superlativ": "elektronischest"
+    },
     "declension": {}
   },
   "eng_adj": {
     "word": "eng",
     "_id": "eng_adj",
     "audio": "adjektiv_eng.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "enger",
+      "superlativ": "engst"
+    },
     "declension": {}
   },
   "entspannt_adj": {
     "word": "entspannt",
     "_id": "entspannt_adj",
-    "audio": "adjektiv_entspannt.mp3"
+    "audio": "adjektiv_entspannt.mp3",
+    "comparison": {
+      "komparativ": "entspannter",
+      "superlativ": "entspanntst"
+    }
   },
   "erfolgreich_adj": {
     "word": "erfolgreich",
     "_id": "erfolgreich_adj",
     "audio": "adjektiv_erfolgreich.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "erfolgreicher",
+      "superlativ": "erfolgreichst"
+    },
     "declension": {}
   },
   "ernsthaft_adj": {
     "word": "ernsthaft",
     "_id": "ernsthaft_adj",
     "audio": "adjektiv_ernsthaft.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "ernsthafter",
+      "superlativ": "ernsthaftst"
+    },
     "declension": {}
   },
   "erschoepft_adj": {
     "word": "erschöpft",
     "_id": "erschoepft_adj",
-    "audio": "adjektiv_erschoepft.mp3"
+    "audio": "adjektiv_erschoepft.mp3",
+    "comparison": {
+      "komparativ": "erschöpfter",
+      "superlativ": "erschöpftst"
+    }
   },
   "eventuell_adj": {
     "word": "eventuell",
     "_id": "eventuell_adj",
     "audio": "adjektiv_eventuell.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "eventueller",
+      "superlativ": "eventuellst"
+    },
     "declension": {}
   },
   "ewig_adj": {
     "word": "ewig",
     "_id": "ewig_adj",
     "audio": "adjektiv_ewig.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "ewiger",
+      "superlativ": "ewigst"
+    },
     "declension": {}
   },
   "extrem_adj": {
     "word": "extrem",
     "_id": "extrem_adj",
     "audio": "adjektiv_extrem.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "extremer",
+      "superlativ": "extremst"
+    },
     "declension": {}
   },
   "faellig_adj": {
     "word": "fällig",
     "_id": "faellig_adj",
     "audio": "adjektiv_faellig.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "fälliger",
+      "superlativ": "fälligst"
+    },
     "declension": {}
   },
   "fair_adj": {
     "word": "fair",
     "_id": "fair_adj",
     "audio": "adjektiv_fair.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "fairer",
+      "superlativ": "fairst"
+    },
     "declension": {}
   },
   "falsch_adj": {
     "word": "falsch",
     "_id": "falsch_adj",
     "audio": "adjektiv_falsch.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "falscher",
+      "superlativ": "falschest"
+    },
     "declension": {}
   },
   "fantastisch_adj": {
     "word": "fantastisch",
     "_id": "fantastisch_adj",
     "audio": "adjektiv_fantastisch.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "fantastischer",
+      "superlativ": "fantastischest"
+    },
     "declension": {}
   },
   "farbig_adj": {
     "word": "farbig",
     "_id": "farbig_adj",
     "audio": "adjektiv_farbig.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "farbiger",
+      "superlativ": "farbigst"
+    },
     "declension": {}
   },
   "faul_adj": {
     "word": "faul",
     "_id": "faul_adj",
-    "audio": "adjektiv_faul.mp3"
+    "audio": "adjektiv_faul.mp3",
+    "comparison": {
+      "komparativ": "fauler",
+      "superlativ": "faulst"
+    }
   },
   "fertig_adj": {
     "word": "fertig",
     "_id": "fertig_adj",
-    "audio": "adjektiv_fertig.mp3"
+    "audio": "adjektiv_fertig.mp3",
+    "comparison": {
+      "komparativ": "fertiger",
+      "superlativ": "fertigst"
+    }
   },
   "fest_adj": {
     "word": "fest",
     "_id": "fest_adj",
     "audio": "adjektiv_fest.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "fester",
+      "superlativ": "festest"
+    },
     "declension": {}
   },
   "fett_adj": {
     "word": "fett",
     "_id": "fett_adj",
     "audio": "adjektiv_fett.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "fetter",
+      "superlativ": "fettst"
+    },
     "declension": {}
   },
   "feucht_adj": {
     "word": "feucht",
     "_id": "feucht_adj",
     "audio": "adjektiv_feucht.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "feuchter",
+      "superlativ": "feuchtst"
+    },
     "declension": {}
   },
   "finanziell_adj": {
     "word": "finanziell",
     "_id": "finanziell_adj",
     "audio": "adjektiv_finanziell.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "finanzieller",
+      "superlativ": "finanziellst"
+    },
     "declension": {}
   },
   "flach_adj": {
     "word": "flach",
     "_id": "flach_adj",
     "audio": "adjektiv_flach.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "flacher",
+      "superlativ": "flachst"
+    },
     "declension": {}
   },
   "fleissig_adj": {
     "word": "fleißig",
     "_id": "fleissig_adj",
     "audio": "adjektiv_fleissig.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "fleißiger",
+      "superlativ": "fleißigst"
+    },
     "declension": {}
   },
   "flexibel_adj": {
     "word": "flexibel",
     "_id": "flexibel_adj",
     "audio": "adjektiv_flexibel.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "flexibler",
+      "superlativ": "flexibelst"
+    },
     "declension": {}
   },
   "frech_adj": {
     "word": "frech",
     "_id": "frech_adj",
-    "audio": "adjektiv_frech.mp3"
+    "audio": "adjektiv_frech.mp3",
+    "comparison": {
+      "komparativ": "frecher",
+      "superlativ": "frechst"
+    }
   },
   "frei_adj": {
     "word": "frei",
     "_id": "frei_adj",
     "audio": "adjektiv_frei.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "freier",
+      "superlativ": "freist"
+    },
     "declension": {}
   },
   "freiwillig_adj": {
     "word": "freiwillig",
     "_id": "freiwillig_adj",
     "audio": "adjektiv_freiwillig.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "freiwilliger",
+      "superlativ": "freiwilligst"
+    },
     "declension": {}
   },
   "fremd_adj": {
     "word": "fremd",
     "_id": "fremd_adj",
     "audio": "adjektiv_fremd.mp3",
-    "comparison": {},
-    "declension": {}
+    "declension": {},
+    "comparison": {
+      "komparativ": "fremder",
+      "superlativ": "fremdest"
+    }
   },
   "freundlich_adj": {
     "word": "freundlich",
     "_id": "freundlich_adj",
-    "audio": "adjektiv_freundlich.mp3"
+    "audio": "adjektiv_freundlich.mp3",
+    "comparison": {
+      "komparativ": "freundlicher",
+      "superlativ": "freundlichst"
+    }
   },
   "frisch_adj": {
     "word": "frisch",
     "_id": "frisch_adj",
-    "audio": "adjektiv_frisch.mp3"
+    "audio": "adjektiv_frisch.mp3",
+    "comparison": {
+      "komparativ": "frischer",
+      "superlativ": "frischest"
+    }
   },
   "froh_adj": {
     "word": "froh",
     "_id": "froh_adj",
     "audio": "adjektiv_froh.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "froher",
+      "superlativ": "frohst"
+    },
     "declension": {}
   },
   "frueh_adj": {
     "word": "früh",
     "_id": "frueh_adj",
     "audio": "adjektiv_frueh.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "früher",
+      "superlativ": "frühst"
+    },
     "declension": {}
   },
   "frueher_adj": {
     "word": "früher",
     "_id": "frueher_adj",
     "audio": "adjektiv_frueher.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "früherer",
+      "superlativ": "früherst"
+    },
     "declension": {}
   },
   "furchtbar_adj": {
     "word": "furchtbar",
     "_id": "furchtbar_adj",
     "audio": "adjektiv_furchtbar.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "furchtbarer",
+      "superlativ": "furchtbarst"
+    },
     "declension": {}
   },
   "ganz_adj": {
     "word": "ganz",
     "_id": "ganz_adj",
     "audio": "adjektiv_ganz.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "ganzer",
+      "superlativ": "ganzest"
+    },
     "declension": {}
   },
   "gefaehrlich_adj": {
     "word": "gefährlich",
     "_id": "gefaehrlich_adj",
-    "audio": "adjektiv_gefaehrlich.mp3"
+    "audio": "adjektiv_gefaehrlich.mp3",
+    "comparison": {
+      "komparativ": "gefährlicher",
+      "superlativ": "gefährlichst"
+    }
   },
   "geheim_adj": {
     "word": "geheim",
     "type": "adj",
     "audio": "ord_geheim.mp3",
-    "_id": "geheim_adj"
+    "_id": "geheim_adj",
+    "comparison": {
+      "komparativ": "geheimer",
+      "superlativ": "geheimst"
+    }
   },
   "gelb_adj": {
     "word": "gelb",
     "_id": "gelb_adj",
-    "audio": "adjektiv_gelb.mp3"
+    "audio": "adjektiv_gelb.mp3",
+    "comparison": {
+      "komparativ": "gelber",
+      "superlativ": "gelbst"
+    }
   },
   "gemuetlich_adj": {
     "word": "gemütlich",
     "_id": "gemuetlich_adj",
-    "audio": "adjektiv_gemuetlich.mp3"
+    "audio": "adjektiv_gemuetlich.mp3",
+    "comparison": {
+      "komparativ": "gemütlicher",
+      "superlativ": "gemütlichst"
+    }
   },
   "genau_adj": {
     "word": "genau",
     "_id": "genau_adj",
     "audio": "adjektiv_genau.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "genauer",
+      "superlativ": "genaust"
+    },
     "declension": {}
   },
   "gerade_adj": {
     "word": "gerade",
     "_id": "gerade_adj",
     "audio": "adjektiv_gerade.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "geradeer",
+      "superlativ": "geradest"
+    },
     "declension": {}
   },
   "gering_adj": {
     "word": "gering",
     "_id": "gering_adj",
     "audio": "adjektiv_gering.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "geringer",
+      "superlativ": "geringst"
+    },
     "declension": {}
   },
   "gern_adj": {
     "word": "gern",
     "_id": "gern_adj",
-    "audio": "adjektiv_gern.mp3"
+    "audio": "adjektiv_gern.mp3",
+    "undeclinable": true
   },
   "gespannt_adj": {
     "word": "gespannt",
     "_id": "gespannt_adj",
-    "audio": "adjektiv_gespannt.mp3"
+    "audio": "adjektiv_gespannt.mp3",
+    "comparison": {
+      "komparativ": "gespannter",
+      "superlativ": "gespanntst"
+    }
   },
   "gestresst_adj": {
     "word": "gestresst",
     "_id": "gestresst_adj",
-    "audio": "adjektiv_gestresst.mp3"
+    "audio": "adjektiv_gestresst.mp3",
+    "comparison": {
+      "komparativ": "gestresster",
+      "superlativ": "gestresstest"
+    }
   },
   "gesund_adj": {
     "word": "gesund",
     "_id": "gesund_adj",
-    "audio": "adjektiv_gesund.mp3"
+    "audio": "adjektiv_gesund.mp3",
+    "comparison": {
+      "komparativ": "gesünder",
+      "superlativ": "gesündest"
+    }
   },
   "gewoehnlich_adj": {
     "word": "gewöhnlich",
     "_id": "gewoehnlich_adj",
     "audio": "adjektiv_gewoehnlich.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "gewöhnlicher",
+      "superlativ": "gewöhnlichst"
+    },
     "declension": {}
   },
   "giftig_adj": {
     "word": "giftig",
     "_id": "giftig_adj",
     "audio": "adjektiv_giftig.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "giftiger",
+      "superlativ": "giftigst"
+    },
     "declension": {}
   },
   "glatt_adj": {
     "word": "glatt",
     "_id": "glatt_adj",
     "audio": "adjektiv_glatt.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "glatter",
+      "superlativ": "glattst"
+    },
     "declension": {}
   },
   "gleich_adj": {
     "word": "gleich",
     "_id": "gleich_adj",
     "audio": "adjektiv_gleich.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "gleicher",
+      "superlativ": "gleichst"
+    },
     "declension": {}
   },
   "gleichberechtigt_adj": {
     "word": "gleichberechtigt",
     "_id": "gleichberechtigt_adj",
     "audio": "adjektiv_gleichberechtigt.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "gleichberechtigter",
+      "superlativ": "gleichberechtigtst"
+    },
     "declension": {}
   },
   "gleichzeitig_adj": {
     "word": "gleichzeitig",
     "_id": "gleichzeitig_adj",
     "audio": "adjektiv_gleichzeitig.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "gleichzeitiger",
+      "superlativ": "gleichzeitigst"
+    },
     "declension": {}
   },
   "gluecklich_adj": {
     "word": "glücklich",
     "_id": "gluecklich_adj",
-    "audio": "adjektiv_gluecklich.mp3"
+    "audio": "adjektiv_gluecklich.mp3",
+    "comparison": {
+      "komparativ": "glücklicher",
+      "superlativ": "glücklichst"
+    }
   },
   "grau_adj": {
     "word": "grau",
     "_id": "grau_adj",
-    "audio": "adjektiv_grau.mp3"
+    "audio": "adjektiv_grau.mp3",
+    "comparison": {
+      "komparativ": "grauer",
+      "superlativ": "graust"
+    }
   },
   "gross_adj": {
     "word": "groß",
     "_id": "gross_adj",
-    "audio": "adjektiv_gross.mp3"
+    "audio": "adjektiv_gross.mp3",
+    "comparison": {
+      "komparativ": "größer",
+      "superlativ": "größt"
+    }
   },
   "gruen_adj": {
     "word": "grün",
     "_id": "gruen_adj",
-    "audio": "adjektiv_gruen.mp3"
+    "audio": "adjektiv_gruen.mp3",
+    "comparison": {
+      "komparativ": "grüner",
+      "superlativ": "grünst"
+    }
   },
   "gruendlich_adj": {
     "word": "gründlich",
     "_id": "gruendlich_adj",
     "audio": "adjektiv_gruendlich.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "gründlicher",
+      "superlativ": "gründlichst"
+    },
     "declension": {}
   },
   "gueltig_adj": {
     "word": "gültig",
     "_id": "gueltig_adj",
     "audio": "adjektiv_gueltig.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "gültiger",
+      "superlativ": "gültigst"
+    },
     "declension": {}
   },
   "guenstig_adj": {
     "word": "günstig",
     "_id": "guenstig_adj",
     "audio": "adjektiv_guenstig.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "günstiger",
+      "superlativ": "günstigst"
+    },
     "declension": {}
   },
   "gut_adj": {
     "word": "gut",
     "_id": "gut_adj",
-    "audio": "adjektiv_gut.mp3"
+    "audio": "adjektiv_gut.mp3",
+    "comparison": {
+      "komparativ": "besser",
+      "superlativ": "best"
+    }
   },
   "haesslich_adj": {
     "word": "hässlich",
     "_id": "haesslich_adj",
     "audio": "adjektiv_haesslich.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "hässlicher",
+      "superlativ": "hässlichst"
+    },
     "declension": {}
   },
   "haeufig_adj": {
     "word": "häufig",
     "_id": "haeufig_adj",
     "audio": "adjektiv_haeufig.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "häufiger",
+      "superlativ": "häufigst"
+    },
     "declension": {}
   },
   "halb_adj": {
     "word": "halb",
     "_id": "halb_adj",
     "audio": "adjektiv_halb.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "halber",
+      "superlativ": "halbst"
+    },
     "declension": {}
   },
   "haltbar_adj": {
     "word": "haltbar",
     "_id": "haltbar_adj",
     "audio": "adjektiv_haltbar.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "haltbarer",
+      "superlativ": "haltbarst"
+    },
     "declension": {}
   },
   "hart_adj": {
     "word": "hart",
     "_id": "hart_adj",
-    "audio": "adjektiv_hart.mp3"
+    "audio": "adjektiv_hart.mp3",
+    "comparison": {
+      "komparativ": "härter",
+      "superlativ": "härtest"
+    }
   },
   "heimlich_adj": {
     "word": "heimlich",
     "_id": "heimlich_adj",
     "audio": "adjektiv_heimlich.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "heimlicher",
+      "superlativ": "heimlichst"
+    },
     "declension": {}
   },
   "heiss_adj": {
     "word": "heiß",
     "_id": "heiss_adj",
-    "audio": "adjektiv_heiss.mp3"
+    "audio": "adjektiv_heiss.mp3",
+    "comparison": {
+      "komparativ": "heißer",
+      "superlativ": "heißest"
+    }
   },
   "hell_adj": {
     "word": "hell",
     "_id": "hell_adj",
     "audio": "adjektiv_hell.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "heller",
+      "superlativ": "hellst"
+    },
     "declension": {}
   },
   "herzlich_adj": {
     "word": "herzlich",
     "_id": "herzlich_adj",
     "audio": "adjektiv_herzlich.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "herzlicher",
+      "superlativ": "herzlichst"
+    },
     "declension": {}
   },
   "historisch_adj": {
     "word": "historisch",
     "_id": "historisch_adj",
     "audio": "adjektiv_historisch.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "historischer",
+      "superlativ": "historischest"
+    },
     "declension": {}
   },
   "hoch_adj": {
     "word": "hoch",
     "_id": "hoch_adj",
-    "audio": "adjektiv_hoch.mp3"
+    "audio": "adjektiv_hoch.mp3",
+    "comparison": {
+      "komparativ": "höher",
+      "superlativ": "höchst"
+    }
   },
   "hoeflich_adj": {
     "word": "höflich",
     "_id": "hoeflich_adj",
     "audio": "adjektiv_hoeflich.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "höflicher",
+      "superlativ": "höflichst"
+    },
     "declension": {}
   },
   "huebsch_adj": {
     "word": "hübsch",
     "_id": "huebsch_adj",
     "audio": "adjektiv_huebsch.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "hübscher",
+      "superlativ": "hübschest"
+    },
     "declension": {}
   },
   "hungrig_adj": {
     "word": "hungrig",
     "_id": "hungrig_adj",
     "audio": "adjektiv_hungrig.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "hungriger",
+      "superlativ": "hungrigst"
+    },
     "declension": {}
   },
   "ideal_adj": {
     "word": "ideal",
     "_id": "ideal_adj",
     "audio": "adjektiv_ideal.mp3",
-    "comparison": {},
-    "declension": {}
+    "declension": {},
+    "nicht_komparierbar": true
   },
   "illegal_adj": {
     "word": "illegal",
     "_id": "illegal_adj",
     "audio": "adjektiv_illegal.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "illegaler",
+      "superlativ": "illegalst"
+    },
     "declension": {}
   },
   "individuell_adj": {
     "word": "individuell",
     "_id": "individuell_adj",
     "audio": "adjektiv_individuell.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "individueller",
+      "superlativ": "individuellst"
+    },
     "declension": {}
   },
   "intelligent_adj": {
     "word": "intelligent",
     "_id": "intelligent_adj",
-    "audio": "adjektiv_intelligent.mp3"
+    "audio": "adjektiv_intelligent.mp3",
+    "comparison": {
+      "komparativ": "intelligenter",
+      "superlativ": "intelligentst"
+    }
   },
   "intensiv_adj": {
     "word": "intensiv",
     "_id": "intensiv_adj",
     "audio": "adjektiv_intensiv.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "intensiver",
+      "superlativ": "intensivst"
+    },
     "declension": {}
   },
   "interessant_adj": {
     "word": "interessant",
     "_id": "interessant_adj",
-    "audio": "adjektiv_interessant.mp3"
+    "audio": "adjektiv_interessant.mp3",
+    "comparison": {
+      "komparativ": "interessanter",
+      "superlativ": "interessantst"
+    }
   },
   "interessiert_adj": {
     "word": "interessiert",
     "_id": "interessiert_adj",
     "audio": "adjektiv_interessiert.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "interessierter",
+      "superlativ": "interessiertst"
+    },
     "declension": {}
   },
   "interkulturell_adj": {
     "word": "interkulturell",
     "_id": "interkulturell_adj",
     "audio": "adjektiv_interkulturell.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "interkultureller",
+      "superlativ": "interkulturellst"
+    },
     "declension": {}
   },
   "international_adj": {
     "word": "international",
     "_id": "international_adj",
     "audio": "adjektiv_international.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "internationaler",
+      "superlativ": "internationalst"
+    },
     "declension": {}
   },
   "jung_adj": {
     "word": "jung",
     "_id": "jung_adj",
-    "audio": "adjektiv_jung.mp3"
+    "audio": "adjektiv_jung.mp3",
+    "comparison": {
+      "komparativ": "jünger",
+      "superlativ": "jüngst"
+    }
   },
   "kalt_adj": {
     "word": "kalt",
     "_id": "kalt_adj",
-    "audio": "adjektiv_kalt.mp3"
+    "audio": "adjektiv_kalt.mp3",
+    "comparison": {
+      "komparativ": "kälter",
+      "superlativ": "kältest"
+    }
   },
   "kaputt_adj": {
     "word": "kaputt",
     "_id": "kaputt_adj",
     "audio": "adjektiv_kaputt.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "kaputter",
+      "superlativ": "kaputtst"
+    },
     "declension": {}
   },
   "klar_adj": {
     "word": "klar",
     "_id": "klar_adj",
-    "audio": "adjektiv_klar.mp3"
+    "audio": "adjektiv_klar.mp3",
+    "comparison": {
+      "komparativ": "klarer",
+      "superlativ": "klarst"
+    }
   },
   "klein_adj": {
     "word": "klein",
     "_id": "klein_adj",
-    "audio": "adjektiv_klein.mp3"
+    "audio": "adjektiv_klein.mp3",
+    "comparison": {
+      "komparativ": "kleiner",
+      "superlativ": "kleinst"
+    }
   },
   "klug_adj": {
     "word": "klug",
     "_id": "klug_adj",
     "audio": "adjektiv_klug.mp3",
-    "comparison": {},
-    "declension": {}
+    "declension": {},
+    "comparison": {
+      "komparativ": "klüger",
+      "superlativ": "klügst"
+    }
   },
   "knapp_adj": {
     "word": "knapp",
     "_id": "knapp_adj",
     "audio": "adjektiv_knapp.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "knapper",
+      "superlativ": "knappst"
+    },
     "declension": {}
   },
   "koerperlich_adj": {
     "word": "körperlich",
     "_id": "koerperlich_adj",
     "audio": "adjektiv_koerperlich.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "körperlicher",
+      "superlativ": "körperlichst"
+    },
     "declension": {}
   },
   "komisch_adj": {
     "word": "komisch",
     "_id": "komisch_adj",
     "audio": "adjektiv_komisch.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "komischer",
+      "superlativ": "komischest"
+    },
     "declension": {}
   },
   "komplett_adj": {
     "word": "komplett",
     "_id": "komplett_adj",
     "audio": "adjektiv_komplett.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "kompletter",
+      "superlativ": "komplettst"
+    },
     "declension": {}
   },
   "kompliziert_adj": {
     "word": "kompliziert",
     "_id": "kompliziert_adj",
     "audio": "adjektiv_kompliziert.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "komplizierter",
+      "superlativ": "kompliziertst"
+    },
     "declension": {}
   },
   "korrekt_adj": {
     "word": "korrekt",
     "_id": "korrekt_adj",
     "audio": "adjektiv_korrekt.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "korrekter",
+      "superlativ": "korrektst"
+    },
     "declension": {}
   },
   "kostenlos_adj": {
     "word": "kostenlos",
     "_id": "kostenlos_adj",
     "audio": "adjektiv_kostenlos.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "kostenloser",
+      "superlativ": "kostenlosest"
+    },
     "declension": {}
   },
   "krank_adj": {
     "word": "krank",
     "_id": "krank_adj",
     "audio": "adjektiv_krank.mp3",
-    "comparison": {},
-    "declension": {}
+    "declension": {},
+    "comparison": {
+      "komparativ": "kränker",
+      "superlativ": "kränkst"
+    }
   },
   "kreativ_adj": {
     "word": "kreativ",
     "_id": "kreativ_adj",
-    "audio": "adjektiv_kreativ.mp3"
+    "audio": "adjektiv_kreativ.mp3",
+    "comparison": {
+      "komparativ": "kreativer",
+      "superlativ": "kreativst"
+    }
   },
   "kritisch_adj": {
     "word": "kritisch",
     "_id": "kritisch_adj",
     "audio": "adjektiv_kritisch.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "kritischer",
+      "superlativ": "kritischest"
+    },
     "declension": {}
   },
   "kuehl_adj": {
     "word": "kühl",
     "_id": "kuehl_adj",
-    "audio": "adjektiv_kuehl.mp3"
+    "audio": "adjektiv_kuehl.mp3",
+    "comparison": {
+      "komparativ": "kühler",
+      "superlativ": "kühlst"
+    }
   },
   "kuenstlich_adj": {
     "word": "künstlich",
     "_id": "kuenstlich_adj",
     "audio": "adjektiv_kuenstlich.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "künstlicher",
+      "superlativ": "künstlichst"
+    },
     "declension": {}
   },
   "kulturell_adj": {
     "word": "kulturell",
     "_id": "kulturell_adj",
     "audio": "adjektiv_kulturell.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "kultureller",
+      "superlativ": "kulturellst"
+    },
     "declension": {}
   },
   "kurz_adj": {
     "word": "kurz",
     "_id": "kurz_adj",
-    "audio": "adjektiv_kurz.mp3"
+    "audio": "adjektiv_kurz.mp3",
+    "comparison": {
+      "komparativ": "kürzer",
+      "superlativ": "kürzest"
+    }
   },
   "lang_adj": {
     "word": "lang",
     "_id": "lang_adj",
-    "audio": "adjektiv_lang.mp3"
+    "audio": "adjektiv_lang.mp3",
+    "comparison": {
+      "komparativ": "länger",
+      "superlativ": "längst"
+    }
   },
   "langsam_adj": {
     "word": "langsam",
     "_id": "langsam_adj",
-    "audio": "adjektiv_langsam.mp3"
+    "audio": "adjektiv_langsam.mp3",
+    "comparison": {
+      "komparativ": "langsamer",
+      "superlativ": "langsamst"
+    }
   },
   "langweilig_adj": {
     "word": "langweilig",
     "_id": "langweilig_adj",
-    "audio": "adjektiv_langweilig.mp3"
+    "audio": "adjektiv_langweilig.mp3",
+    "comparison": {
+      "komparativ": "langweiliger",
+      "superlativ": "langweiligst"
+    }
   },
   "laut_adj": {
     "word": "laut",
     "_id": "laut_adj",
     "audio": "adjektiv_laut.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "lauter",
+      "superlativ": "lautst"
+    },
     "declension": {}
   },
   "lecker_adj": {
     "word": "lecker",
     "_id": "lecker_adj",
-    "audio": "adjektiv_lecker.mp3"
+    "audio": "adjektiv_lecker.mp3",
+    "comparison": {
+      "komparativ": "leckerer",
+      "superlativ": "leckerst"
+    }
   },
   "ledig_adj": {
     "word": "ledig",
     "_id": "ledig_adj",
     "audio": "adjektiv_ledig.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "lediger",
+      "superlativ": "ledigst"
+    },
     "declension": {}
   },
   "leer_adj": {
     "word": "leer",
     "_id": "leer_adj",
     "audio": "adjektiv_leer.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "leerer",
+      "superlativ": "leerst"
+    },
     "declension": {}
   },
   "leicht_adj": {
     "word": "leicht",
     "_id": "leicht_adj",
     "audio": "adjektiv_leicht.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "leichter",
+      "superlativ": "leichtst"
+    },
     "declension": {}
   },
   "leise_adj": {
     "word": "leise",
     "_id": "leise_adj",
     "audio": "adjektiv_leise.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "leiseer",
+      "superlativ": "leisest"
+    },
     "declension": {}
   },
   "lieb_adj": {
     "word": "lieb",
     "_id": "lieb_adj",
     "audio": "adjektiv_lieb.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "lieber",
+      "superlativ": "liebst"
+    },
     "declension": {}
   },
   "lila_adj": {
     "word": "lila",
     "_id": "lila_adj",
-    "audio": "adjektiv_lila.mp3"
+    "audio": "adjektiv_lila.mp3",
+    "undeclinable": true
   },
   "locker_adj": {
     "word": "locker",
     "_id": "locker_adj",
     "audio": "adjektiv_locker.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "lockerer",
+      "superlativ": "lockerst"
+    },
     "declension": {}
   },
   "lustig_adj": {
     "word": "lustig",
     "_id": "lustig_adj",
-    "audio": "adjektiv_lustig.mp3"
+    "audio": "adjektiv_lustig.mp3",
+    "comparison": {
+      "komparativ": "lustiger",
+      "superlativ": "lustigst"
+    }
   },
   "maennlich_adj": {
     "word": "männlich",
     "_id": "maennlich_adj",
     "audio": "adjektiv_maennlich.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "männlicher",
+      "superlativ": "männlichst"
+    },
     "declension": {}
   },
   "mager_adj": {
     "word": "mager",
     "_id": "mager_adj",
     "audio": "adjektiv_mager.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "magerer",
+      "superlativ": "magerst"
+    },
     "declension": {}
   },
   "maximal_adj": {
     "word": "maximal",
     "_id": "maximal_adj",
     "audio": "adjektiv_maximal.mp3",
-    "comparison": {},
-    "declension": {}
+    "declension": {},
+    "nicht_komparierbar": true
   },
   "menschlich_adj": {
     "word": "menschlich",
     "_id": "menschlich_adj",
     "audio": "adjektiv_menschlich.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "menschlicher",
+      "superlativ": "menschlichst"
+    },
     "declension": {}
   },
   "merkwuerdig_adj": {
     "word": "merkwürdig",
     "_id": "merkwuerdig_adj",
     "audio": "adjektiv_merkwuerdig.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "merkwürdiger",
+      "superlativ": "merkwürdigst"
+    },
     "declension": {}
   },
   "mild_adj": {
     "word": "mild",
     "_id": "mild_adj",
     "audio": "adjektiv_mild.mp3",
-    "comparison": {},
-    "declension": {}
+    "declension": {},
+    "comparison": {
+      "komparativ": "milder",
+      "superlativ": "mildest"
+    }
   },
   "minimal_adj": {
     "word": "minimal",
     "_id": "minimal_adj",
     "audio": "adjektiv_minimal.mp3",
-    "comparison": {},
-    "declension": {}
+    "declension": {},
+    "nicht_komparierbar": true
   },
   "moeglich_adj": {
     "word": "möglich",
     "_id": "moeglich_adj",
     "audio": "adjektiv_moeglich.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "möglicher",
+      "superlativ": "möglichst"
+    },
     "declension": {}
   },
   "muede_adj": {
     "word": "müde",
     "_id": "muede_adj",
-    "audio": "adjektiv_muede.mp3"
+    "audio": "adjektiv_muede.mp3",
+    "comparison": {
+      "komparativ": "müdeer",
+      "superlativ": "müdest"
+    }
   },
   "muendlich_adj": {
     "word": "mündlich",
     "_id": "muendlich_adj",
     "audio": "adjektiv_muendlich.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "mündlicher",
+      "superlativ": "mündlichst"
+    },
     "declension": {}
   },
   "musikalisch_adj": {
     "word": "musikalisch",
     "_id": "musikalisch_adj",
-    "audio": "adjektiv_musikalisch.mp3"
+    "audio": "adjektiv_musikalisch.mp3",
+    "comparison": {
+      "komparativ": "musikalischer",
+      "superlativ": "musikalischest"
+    }
   },
   "mutig_adj": {
     "word": "mutig",
     "_id": "mutig_adj",
     "audio": "adjektiv_mutig.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "mutiger",
+      "superlativ": "mutigst"
+    },
     "declension": {}
   },
   "nass_adj": {
     "word": "nass",
     "_id": "nass_adj",
-    "audio": "adjektiv_nass.mp3"
+    "audio": "adjektiv_nass.mp3",
+    "comparison": {
+      "komparativ": "nässer",
+      "superlativ": "nässest"
+    }
   },
   "natuerlich_adj": {
     "word": "natürlich",
     "_id": "natuerlich_adj",
     "audio": "adjektiv_natuerlich.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "natürlicher",
+      "superlativ": "natürlichst"
+    },
     "declension": {}
   },
   "neblig_adj": {
     "word": "neblig",
     "_id": "neblig_adj",
-    "audio": "adjektiv_neblig.mp3"
+    "audio": "adjektiv_neblig.mp3",
+    "comparison": {
+      "komparativ": "nebliger",
+      "superlativ": "nebligst"
+    }
   },
   "negativ_adj": {
     "word": "negativ",
     "_id": "negativ_adj",
     "audio": "adjektiv_negativ.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "negativer",
+      "superlativ": "negativst"
+    },
     "declension": {}
   },
   "nervoes_adj": {
     "word": "nervös",
     "_id": "nervoes_adj",
-    "audio": "adjektiv_nervoes.mp3"
+    "audio": "adjektiv_nervoes.mp3",
+    "comparison": {
+      "komparativ": "nervöser",
+      "superlativ": "nervösest"
+    }
   },
   "nett_adj": {
     "word": "nett",
     "_id": "nett_adj",
-    "audio": "adjektiv_nett.mp3"
+    "audio": "adjektiv_nett.mp3",
+    "comparison": {
+      "komparativ": "netter",
+      "superlativ": "nettst"
+    }
   },
   "neu_adj": {
     "word": "neu",
     "_id": "neu_adj",
-    "audio": "adjektiv_neu.mp3"
+    "audio": "adjektiv_neu.mp3",
+    "comparison": {
+      "komparativ": "neuer",
+      "superlativ": "neust"
+    }
   },
   "neugierig_adj": {
     "word": "neugierig",
     "_id": "neugierig_adj",
     "audio": "adjektiv_neugierig.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "neugieriger",
+      "superlativ": "neugierigst"
+    },
     "declension": {}
   },
   "niedrig_adj": {
     "word": "niedrig",
     "_id": "niedrig_adj",
     "audio": "adjektiv_niedrig.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "niedriger",
+      "superlativ": "niedrigst"
+    },
     "declension": {}
   },
   "noetig_adj": {
     "word": "nötig",
     "_id": "noetig_adj",
     "audio": "adjektiv_noetig.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "nötiger",
+      "superlativ": "nötigst"
+    },
     "declension": {}
   },
   "normal_adj": {
     "word": "normal",
     "_id": "normal_adj",
     "audio": "adjektiv_normal.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "normaler",
+      "superlativ": "normalst"
+    },
     "declension": {}
   },
   "notwendig_adj": {
     "word": "notwendig",
     "_id": "notwendig_adj",
     "audio": "adjektiv_notwendig.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "notwendiger",
+      "superlativ": "notwendigst"
+    },
     "declension": {}
   },
   "nuetzlich_adj": {
     "word": "nützlich",
     "_id": "nuetzlich_adj",
     "audio": "adjektiv_nuetzlich.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "nützlicher",
+      "superlativ": "nützlichst"
+    },
     "declension": {}
   },
   "oeffentlich_adj": {
     "word": "öffentlich",
     "_id": "oeffentlich_adj",
     "audio": "adjektiv_oeffentlich.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "öffentlicher",
+      "superlativ": "öffentlichst"
+    },
     "declension": {}
   },
   "offenbar_adj": {
     "word": "offenbar",
     "_id": "offenbar_adj",
     "audio": "adjektiv_offenbar.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "offenbarer",
+      "superlativ": "offenbarst"
+    },
     "declension": {}
   },
   "offiziell_adj": {
     "word": "offiziell",
     "_id": "offiziell_adj",
     "audio": "adjektiv_offiziell.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "offizieller",
+      "superlativ": "offiziellst"
+    },
     "declension": {}
   },
   "optimistisch_adj": {
     "word": "optimistisch",
     "_id": "optimistisch_adj",
     "audio": "adjektiv_optimistisch.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "optimistischer",
+      "superlativ": "optimistischest"
+    },
     "declension": {}
   },
   "orange_adj": {
     "word": "orange",
     "_id": "orange_adj",
-    "audio": "adjektiv_orange.mp3"
+    "audio": "adjektiv_orange.mp3",
+    "undeclinable": true
   },
   "ordentlich_adj": {
     "word": "ordentlich",
     "_id": "ordentlich_adj",
     "audio": "adjektiv_ordentlich.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "ordentlicher",
+      "superlativ": "ordentlichst"
+    },
     "declension": {}
   },
   "parallel_adj": {
     "word": "parallel",
     "_id": "parallel_adj",
     "audio": "adjektiv_parallel.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "paralller",
+      "superlativ": "parallelst"
+    },
     "declension": {}
   },
   "passiv_adj": {
     "word": "passiv",
     "_id": "passiv_adj",
     "audio": "adjektiv_passiv.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "passiver",
+      "superlativ": "passivst"
+    },
     "declension": {}
   },
   "pauschal_adj": {
     "word": "pauschal",
     "_id": "pauschal_adj",
     "audio": "adjektiv_pauschal.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "pauschaler",
+      "superlativ": "pauschalst"
+    },
     "declension": {}
   },
   "perfekt_adj": {
     "word": "perfekt",
     "_id": "perfekt_adj",
-    "audio": "adjektiv_perfekt.mp3"
+    "audio": "adjektiv_perfekt.mp3",
+    "nicht_komparierbar": true
   },
   "ploetzlich_adj": {
     "word": "plötzlich",
     "_id": "ploetzlich_adj",
     "audio": "adjektiv_ploetzlich.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "plötzlicher",
+      "superlativ": "plötzlichst"
+    },
     "declension": {}
   },
   "populaer_adj": {
     "word": "populär",
     "_id": "populaer_adj",
-    "audio": "adjektiv_populaer.mp3"
+    "audio": "adjektiv_populaer.mp3",
+    "comparison": {
+      "komparativ": "populärer",
+      "superlativ": "populärst"
+    }
   },
   "positiv_adj": {
     "word": "positiv",
     "_id": "positiv_adj",
     "audio": "adjektiv_positiv.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "positiver",
+      "superlativ": "positivst"
+    },
     "declension": {}
   },
   "praktisch_adj": {
     "word": "praktisch",
     "_id": "praktisch_adj",
     "audio": "adjektiv_praktisch.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "praktischer",
+      "superlativ": "praktischest"
+    },
     "declension": {}
   },
   "preiswert_adj": {
     "word": "preiswert",
     "_id": "preiswert_adj",
     "audio": "adjektiv_preiswert.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "preiswerter",
+      "superlativ": "preiswertst"
+    },
     "declension": {}
   },
   "privat_adj": {
     "word": "privat",
     "_id": "privat_adj",
     "audio": "adjektiv_privat.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "privater",
+      "superlativ": "privatst"
+    },
     "declension": {}
   },
   "puenktlich_adj": {
     "word": "pünktlich",
     "_id": "puenktlich_adj",
     "audio": "adjektiv_puenktlich.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "pünktlicher",
+      "superlativ": "pünktlichst"
+    },
     "declension": {}
   },
   "quer_adj": {
     "word": "quer",
     "_id": "quer_adj",
     "audio": "adjektiv_quer.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "querer",
+      "superlativ": "querst"
+    },
     "declension": {}
   },
   "realistisch_adj": {
     "word": "realistisch",
     "_id": "realistisch_adj",
     "audio": "adjektiv_realistisch.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "realistischer",
+      "superlativ": "realistischest"
+    },
     "declension": {}
   },
   "recht_adj": {
     "word": "recht",
     "type": "adj",
     "audio": "ord_recht.mp3",
-    "_id": "recht_adj"
+    "_id": "recht_adj",
+    "comparison": {
+      "komparativ": "rechter",
+      "superlativ": "rechtst"
+    }
   },
   "rechtlich_adj": {
     "word": "rechtlich",
     "_id": "rechtlich_adj",
     "audio": "adjektiv_rechtlich.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "rechtlicher",
+      "superlativ": "rechtlichst"
+    },
     "declension": {}
   },
   "rechtzeitig_adj": {
     "word": "rechtzeitig",
     "_id": "rechtzeitig_adj",
     "audio": "adjektiv_rechtzeitig.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "rechtzeitiger",
+      "superlativ": "rechtzeitigst"
+    },
     "declension": {}
   },
   "regelmaessig_adj": {
     "word": "regelmäßig",
     "_id": "regelmaessig_adj",
     "audio": "adjektiv_regelmaessig.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "regelmäßiger",
+      "superlativ": "regelmäßigst"
+    },
     "declension": {}
   },
   "regional_adj": {
     "word": "regional",
     "_id": "regional_adj",
     "audio": "adjektiv_regional.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "regionaler",
+      "superlativ": "regionalst"
+    },
     "declension": {}
   },
   "regnerisch_adj": {
     "word": "regnerisch",
     "_id": "regnerisch_adj",
-    "audio": "adjektiv_regnerisch.mp3"
+    "audio": "adjektiv_regnerisch.mp3",
+    "comparison": {
+      "komparativ": "regnerischer",
+      "superlativ": "regnerischest"
+    }
   },
   "reich_adj": {
     "word": "reich",
     "_id": "reich_adj",
     "audio": "adjektiv_reich.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "reicher",
+      "superlativ": "reichst"
+    },
     "declension": {}
   },
   "reif_adj": {
     "word": "reif",
     "_id": "reif_adj",
     "audio": "adjektiv_reif.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "reifer",
+      "superlativ": "reifst"
+    },
     "declension": {}
   },
   "rein_adj": {
     "word": "rein",
     "_id": "rein_adj",
     "audio": "adjektiv_rein.mp3",
-    "comparison": {},
-    "declension": {}
+    "declension": {},
+    "nicht_komparierbar": true
   },
   "relativ_adj": {
     "word": "relativ",
     "_id": "relativ_adj",
     "audio": "adjektiv_relativ.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "relativer",
+      "superlativ": "relativst"
+    },
     "declension": {}
   },
   "richtig_adj": {
     "word": "richtig",
     "_id": "richtig_adj",
-    "audio": "adjektiv_richtig.mp3"
+    "audio": "adjektiv_richtig.mp3",
+    "comparison": {
+      "komparativ": "richtiger",
+      "superlativ": "richtigst"
+    }
   },
   "riesig_adj": {
     "word": "riesig",
     "_id": "riesig_adj",
-    "audio": "adjektiv_riesig.mp3"
+    "audio": "adjektiv_riesig.mp3",
+    "comparison": {
+      "komparativ": "riesiger",
+      "superlativ": "riesigst"
+    }
   },
   "roh_adj": {
     "word": "roh",
     "_id": "roh_adj",
     "audio": "adjektiv_roh.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "roher",
+      "superlativ": "rohst"
+    },
     "declension": {}
   },
   "romantisch_adj": {
     "word": "romantisch",
     "_id": "romantisch_adj",
     "audio": "adjektiv_romantisch.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "romantischer",
+      "superlativ": "romantischest"
+    },
     "declension": {}
   },
   "rosa_adj": {
     "word": "rosa",
     "_id": "rosa_adj",
-    "audio": "adjektiv_rosa.mp3"
+    "audio": "adjektiv_rosa.mp3",
+    "undeclinable": true
   },
   "rot_adj": {
     "word": "rot",
     "_id": "rot_adj",
-    "audio": "adjektiv_rot.mp3"
+    "audio": "adjektiv_rot.mp3",
+    "comparison": {
+      "komparativ": "roter",
+      "superlativ": "rotst"
+    }
   },
   "ruhig_adj": {
     "word": "ruhig",
     "_id": "ruhig_adj",
-    "audio": "adjektiv_ruhig.mp3"
+    "audio": "adjektiv_ruhig.mp3",
+    "comparison": {
+      "komparativ": "ruhiger",
+      "superlativ": "ruhigst"
+    }
   },
   "rund_adj": {
     "word": "rund",
     "_id": "rund_adj",
     "audio": "adjektiv_rund.mp3",
-    "comparison": {},
-    "declension": {}
+    "declension": {},
+    "comparison": {
+      "komparativ": "runder",
+      "superlativ": "rundest"
+    }
   },
   "salzig_adj": {
     "word": "salzig",
     "_id": "salzig_adj",
     "audio": "adjektiv_salzig.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "salziger",
+      "superlativ": "salzigst"
+    },
     "declension": {}
   },
   "satt_adj": {
     "word": "satt",
     "_id": "satt_adj",
     "audio": "adjektiv_satt.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "satter",
+      "superlativ": "sattst"
+    },
     "declension": {}
   },
   "sauber_adj": {
     "word": "sauber",
     "_id": "sauber_adj",
-    "audio": "adjektiv_sauber.mp3"
+    "audio": "adjektiv_sauber.mp3",
+    "comparison": {
+      "komparativ": "sauberer",
+      "superlativ": "sauberst"
+    }
   },
   "sauer_adj": {
     "word": "sauer",
     "_id": "sauer_adj",
     "audio": "adjektiv_sauer.mp3",
-    "comparison": {},
-    "declension": {}
+    "declension": {},
+    "comparison": {
+      "komparativ": "saurer",
+      "superlativ": "sauerst"
+    }
   },
   "schade_adj": {
     "word": "schade",
     "_id": "schade_adj",
-    "audio": "adjektiv_schade.mp3"
+    "audio": "adjektiv_schade.mp3",
+    "comparison": {
+      "komparativ": "schadeer",
+      "superlativ": "schadest"
+    }
   },
   "schaedlich_adj": {
     "word": "schädlich",
     "_id": "schaedlich_adj",
     "audio": "adjektiv_schaedlich.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "schädlicher",
+      "superlativ": "schädlichst"
+    },
     "declension": {}
   },
   "scharf_adj": {
     "word": "scharf",
     "_id": "scharf_adj",
     "audio": "adjektiv_scharf.mp3",
-    "comparison": {},
-    "declension": {}
+    "declension": {},
+    "comparison": {
+      "komparativ": "schärfer",
+      "superlativ": "schärfst"
+    }
   },
   "schief_adj": {
     "word": "schief",
     "_id": "schief_adj",
     "audio": "adjektiv_schief.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "schiefer",
+      "superlativ": "schiefst"
+    },
     "declension": {}
   },
   "schlank_adj": {
     "word": "schlank",
     "_id": "schlank_adj",
     "audio": "adjektiv_schlank.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "schlanker",
+      "superlativ": "schlankst"
+    },
     "declension": {}
   },
   "schlau_adj": {
     "word": "schlau",
     "_id": "schlau_adj",
-    "audio": "adjektiv_schlau.mp3"
+    "audio": "adjektiv_schlau.mp3",
+    "comparison": {
+      "komparativ": "schlauer",
+      "superlativ": "schlaust"
+    }
   },
   "schlecht_adj": {
     "word": "schlecht",
     "_id": "schlecht_adj",
     "audio": "adjektiv_schlecht.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "schlechter",
+      "superlativ": "schlechtst"
+    },
     "declension": {}
   },
   "schlimm_adj": {
     "word": "schlimm",
     "_id": "schlimm_adj",
-    "audio": "adjektiv_schlimm.mp3"
+    "audio": "adjektiv_schlimm.mp3",
+    "comparison": {
+      "komparativ": "schlimmer",
+      "superlativ": "schlimmst"
+    }
   },
   "schmal_adj": {
     "word": "schmal",
     "_id": "schmal_adj",
     "audio": "adjektiv_schmal.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "schmaler",
+      "superlativ": "schmalst"
+    },
     "declension": {}
   },
   "schmutzig_adj": {
     "word": "schmutzig",
     "_id": "schmutzig_adj",
     "audio": "adjektiv_schmutzig.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "schmutziger",
+      "superlativ": "schmutzigst"
+    },
     "declension": {}
   },
   "schnell_adj": {
     "word": "schnell",
     "_id": "schnell_adj",
-    "audio": "adjektiv_schnell.mp3"
+    "audio": "adjektiv_schnell.mp3",
+    "comparison": {
+      "komparativ": "schneller",
+      "superlativ": "schnellst"
+    }
   },
   "schoen_adj": {
     "word": "schön",
     "_id": "schoen_adj",
-    "audio": "adjektiv_schoen.mp3"
+    "audio": "adjektiv_schoen.mp3",
+    "comparison": {
+      "komparativ": "schöner",
+      "superlativ": "schönst"
+    }
   },
   "schrecklich_adj": {
     "word": "schrecklich",
     "_id": "schrecklich_adj",
     "audio": "adjektiv_schrecklich.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "schrecklicher",
+      "superlativ": "schrecklichst"
+    },
     "declension": {}
   },
   "schriftlich_adj": {
     "word": "schriftlich",
     "_id": "schriftlich_adj",
     "audio": "adjektiv_schriftlich.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "schriftlicher",
+      "superlativ": "schriftlichst"
+    },
     "declension": {}
   },
   "schuechtern_adj": {
     "word": "schüchtern",
     "_id": "schuechtern_adj",
-    "audio": "adjektiv_schuechtern.mp3"
+    "audio": "adjektiv_schuechtern.mp3",
+    "comparison": {
+      "komparativ": "schüchterner",
+      "superlativ": "schüchternst"
+    }
   },
   "schuldig_adj": {
     "word": "schuldig",
     "_id": "schuldig_adj",
     "audio": "adjektiv_schuldig.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "schuldiger",
+      "superlativ": "schuldigst"
+    },
     "declension": {}
   },
   "schwach_adj": {
     "word": "schwach",
     "_id": "schwach_adj",
     "audio": "adjektiv_schwach.mp3",
-    "comparison": {},
-    "declension": {}
+    "declension": {},
+    "comparison": {
+      "komparativ": "schwächer",
+      "superlativ": "schwächst"
+    }
   },
   "schwanger_adj": {
     "word": "schwanger",
     "_id": "schwanger_adj",
     "audio": "adjektiv_schwanger.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "schwangerer",
+      "superlativ": "schwangerst"
+    },
     "declension": {}
   },
   "schwarz_adj": {
     "word": "schwarz",
     "_id": "schwarz_adj",
-    "audio": "adjektiv_schwarz.mp3"
+    "audio": "adjektiv_schwarz.mp3",
+    "comparison": {
+      "komparativ": "schwarzer",
+      "superlativ": "schwarzest"
+    }
   },
   "schwer_adj": {
     "word": "schwer",
     "_id": "schwer_adj",
     "audio": "adjektiv_schwer.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "schwerer",
+      "superlativ": "schwerst"
+    },
     "declension": {}
   },
   "schwierig_adj": {
     "word": "schwierig",
     "_id": "schwierig_adj",
-    "audio": "adjektiv_schwierig.mp3"
+    "audio": "adjektiv_schwierig.mp3",
+    "comparison": {
+      "komparativ": "schwieriger",
+      "superlativ": "schwierigst"
+    }
   },
   "selbststaendig_adj": {
     "word": "selbstständig",
     "_id": "selbststaendig_adj",
     "audio": "adjektiv_selbststaendig.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "selbstständiger",
+      "superlativ": "selbstständigst"
+    },
     "declension": {}
   },
   "selbstverstaendlich_adj": {
     "word": "selbstverständlich",
     "_id": "selbstverstaendlich_adj",
     "audio": "adjektiv_selbstverstaendlich.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "selbstverständlicher",
+      "superlativ": "selbstverständlichst"
+    },
     "declension": {}
   },
   "seltsam_adj": {
     "word": "seltsam",
     "_id": "seltsam_adj",
     "audio": "adjektiv_seltsam.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "seltsamer",
+      "superlativ": "seltsamst"
+    },
     "declension": {}
   },
   "senkrecht_adj": {
     "word": "senkrecht",
     "_id": "senkrecht_adj",
     "audio": "adjektiv_senkrecht.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "senkrechter",
+      "superlativ": "senkrechtst"
+    },
     "declension": {}
   },
   "sicher_adj": {
     "word": "sicher",
     "_id": "sicher_adj",
-    "audio": "adjektiv_sicher.mp3"
+    "audio": "adjektiv_sicher.mp3",
+    "comparison": {
+      "komparativ": "sicherer",
+      "superlativ": "sicherst"
+    }
   },
   "sichtbar_adj": {
     "word": "sichtbar",
     "_id": "sichtbar_adj",
     "audio": "adjektiv_sichtbar.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "sichtbarer",
+      "superlativ": "sichtbarst"
+    },
     "declension": {}
   },
   "sinnlos_adj": {
     "word": "sinnlos",
     "_id": "sinnlos_adj",
     "audio": "adjektiv_sinnlos.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "sinnloser",
+      "superlativ": "sinnlosest"
+    },
     "declension": {}
   },
   "sinnvoll_adj": {
     "word": "sinnvoll",
     "_id": "sinnvoll_adj",
     "audio": "adjektiv_sinnvoll.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "sinnvoller",
+      "superlativ": "sinnvollst"
+    },
     "declension": {}
   },
   "sonnig_adj": {
     "word": "sonnig",
     "_id": "sonnig_adj",
-    "audio": "adjektiv_sonnig.mp3"
+    "audio": "adjektiv_sonnig.mp3",
+    "comparison": {
+      "komparativ": "sonniger",
+      "superlativ": "sonnigst"
+    }
   },
   "sozial_adj": {
     "word": "sozial",
     "_id": "sozial_adj",
     "audio": "adjektiv_sozial.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "sozialer",
+      "superlativ": "sozialst"
+    },
     "declension": {}
   },
   "spaet_adj": {
     "word": "spät",
     "_id": "spaet_adj",
     "audio": "adjektiv_spaet.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "später",
+      "superlativ": "spätst"
+    },
     "declension": {}
   },
   "spaeter_adj": {
     "word": "später",
     "_id": "spaeter_adj",
     "audio": "adjektiv_spaeter.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "späterer",
+      "superlativ": "späterst"
+    },
     "declension": {}
   },
   "spannend_adj": {
     "word": "spannend",
     "_id": "spannend_adj",
-    "audio": "adjektiv_spannend.mp3"
+    "audio": "adjektiv_spannend.mp3",
+    "comparison": {
+      "komparativ": "spannender",
+      "superlativ": "spannendst"
+    }
   },
   "speziell_adj": {
     "word": "speziell",
     "_id": "speziell_adj",
     "audio": "adjektiv_speziell.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "spezieller",
+      "superlativ": "speziellst"
+    },
     "declension": {}
   },
   "spitz_adj": {
     "word": "spitz",
     "_id": "spitz_adj",
     "audio": "adjektiv_spitz.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "spitzer",
+      "superlativ": "spitzest"
+    },
     "declension": {}
   },
   "sportlich_adj": {
     "word": "sportlich",
     "_id": "sportlich_adj",
-    "audio": "adjektiv_sportlich.mp3"
+    "audio": "adjektiv_sportlich.mp3",
+    "comparison": {
+      "komparativ": "sportlicher",
+      "superlativ": "sportlichst"
+    }
   },
   "staedtisch_adj": {
     "word": "städtisch",
     "_id": "staedtisch_adj",
     "audio": "adjektiv_staedtisch.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "städtischer",
+      "superlativ": "städtischest"
+    },
     "declension": {}
   },
   "staendig_adj": {
     "word": "ständig",
     "_id": "staendig_adj",
     "audio": "adjektiv_staendig.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "ständiger",
+      "superlativ": "ständigst"
+    },
     "declension": {}
   },
   "stark_adj": {
     "word": "stark",
     "_id": "stark_adj",
-    "audio": "adjektiv_stark.mp3"
+    "audio": "adjektiv_stark.mp3",
+    "comparison": {
+      "komparativ": "stärker",
+      "superlativ": "stärkst"
+    }
   },
   "statistisch_adj": {
     "word": "statistisch",
     "_id": "statistisch_adj",
     "audio": "adjektiv_statistisch.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "statistischer",
+      "superlativ": "statistischest"
+    },
     "declension": {}
   },
   "steil_adj": {
     "word": "steil",
     "_id": "steil_adj",
     "audio": "adjektiv_steil.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "steiler",
+      "superlativ": "steilst"
+    },
     "declension": {}
   },
   "stilistisch_adj": {
     "word": "stilistisch",
     "_id": "stilistisch_adj",
     "audio": "adjektiv_stilistisch.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "stilistischer",
+      "superlativ": "stilistischest"
+    },
     "declension": {}
   },
   "still_adj": {
     "word": "still",
     "_id": "still_adj",
     "audio": "adjektiv_still.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "stiller",
+      "superlativ": "stillst"
+    },
     "declension": {}
   },
   "stolz_adj": {
     "word": "stolz",
     "_id": "stolz_adj",
     "audio": "adjektiv_stolz.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "stolzer",
+      "superlativ": "stolzest"
+    },
     "declension": {}
   },
   "strafbar_adj": {
     "word": "strafbar",
     "_id": "strafbar_adj",
     "audio": "adjektiv_strafbar.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "strafbarer",
+      "superlativ": "strafbarst"
+    },
     "declension": {}
   },
   "streng_adj": {
     "word": "streng",
     "_id": "streng_adj",
-    "audio": "adjektiv_streng.mp3"
+    "audio": "adjektiv_streng.mp3",
+    "comparison": {
+      "komparativ": "strenger",
+      "superlativ": "strengst"
+    }
   },
   "stressig_adj": {
     "word": "stressig",
     "_id": "stressig_adj",
-    "audio": "adjektiv_stressig.mp3"
+    "audio": "adjektiv_stressig.mp3",
+    "comparison": {
+      "komparativ": "stressiger",
+      "superlativ": "stressigst"
+    }
   },
   "stumm_adj": {
     "word": "stumm",
     "_id": "stumm_adj",
     "audio": "adjektiv_stumm.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "stummer",
+      "superlativ": "stummst"
+    },
     "declension": {}
   },
   "suess_adj": {
     "word": "süß",
     "_id": "suess_adj",
-    "audio": "adjektiv_suess.mp3"
+    "audio": "adjektiv_suess.mp3",
+    "comparison": {
+      "komparativ": "süßer",
+      "superlativ": "süßest"
+    }
   },
   "super_adj": {
     "word": "super",
     "_id": "super_adj",
     "audio": "adjektiv_super.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "superer",
+      "superlativ": "superst"
+    },
     "declension": {}
   },
   "sympathisch_adj": {
     "word": "sympathisch",
     "_id": "sympathisch_adj",
-    "audio": "adjektiv_sympathisch.mp3"
+    "audio": "adjektiv_sympathisch.mp3",
+    "comparison": {
+      "komparativ": "sympathischer",
+      "superlativ": "sympathischest"
+    }
   },
   "taub_adj": {
     "word": "taub",
     "_id": "taub_adj",
     "audio": "adjektiv_taub.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "tauber",
+      "superlativ": "taubst"
+    },
     "declension": {}
   },
   "teuer_adj": {
     "word": "teuer",
     "_id": "teuer_adj",
-    "audio": "adjektiv_teuer.mp3"
+    "audio": "adjektiv_teuer.mp3",
+    "comparison": {
+      "komparativ": "teurer",
+      "superlativ": "teuerst"
+    }
   },
   "theoretisch_adj": {
     "word": "theoretisch",
     "_id": "theoretisch_adj",
     "audio": "adjektiv_theoretisch.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "theoretischer",
+      "superlativ": "theoretischest"
+    },
     "declension": {}
   },
   "tief_adj": {
     "word": "tief",
     "_id": "tief_adj",
     "audio": "adjektiv_tief.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "tiefer",
+      "superlativ": "tiefst"
+    },
     "declension": {}
   },
   "toedlich_adj": {
     "word": "tödlich",
     "_id": "toedlich_adj",
     "audio": "adjektiv_toedlich.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "tödlicher",
+      "superlativ": "tödlichst"
+    },
     "declension": {}
   },
   "tolerant_adj": {
     "word": "tolerant",
     "_id": "tolerant_adj",
     "audio": "adjektiv_tolerant.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "toleranter",
+      "superlativ": "tolerantst"
+    },
     "declension": {}
   },
   "toll_adj": {
     "word": "toll",
     "_id": "toll_adj",
-    "audio": "adjektiv_toll.mp3"
+    "audio": "adjektiv_toll.mp3",
+    "comparison": {
+      "komparativ": "toller",
+      "superlativ": "tollst"
+    }
   },
   "tot_adj": {
     "word": "tot",
     "_id": "tot_adj",
     "audio": "adjektiv_tot.mp3",
-    "comparison": {},
-    "declension": {}
+    "declension": {},
+    "nicht_komparierbar": true
   },
   "total_adj": {
     "word": "total",
     "_id": "total_adj",
     "audio": "adjektiv_total.mp3",
-    "comparison": {},
-    "declension": {}
+    "declension": {},
+    "nicht_komparierbar": true
   },
   "traditionell_adj": {
     "word": "traditionell",
     "_id": "traditionell_adj",
     "audio": "adjektiv_traditionell.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "traditioneller",
+      "superlativ": "traditionellst"
+    },
     "declension": {}
   },
   "traurig_adj": {
     "word": "traurig",
     "_id": "traurig_adj",
-    "audio": "adjektiv_traurig.mp3"
+    "audio": "adjektiv_traurig.mp3",
+    "comparison": {
+      "komparativ": "trauriger",
+      "superlativ": "traurigst"
+    }
   },
   "treu_adj": {
     "word": "treu",
     "_id": "treu_adj",
-    "audio": "adjektiv_treu.mp3"
+    "audio": "adjektiv_treu.mp3",
+    "comparison": {
+      "komparativ": "treuer",
+      "superlativ": "treust"
+    }
   },
   "trocken_adj": {
     "word": "trocken",
     "_id": "trocken_adj",
-    "audio": "adjektiv_trocken.mp3"
+    "audio": "adjektiv_trocken.mp3",
+    "comparison": {
+      "komparativ": "trockener",
+      "superlativ": "trockenst"
+    }
   },
   "typisch_adj": {
     "word": "typisch",
     "_id": "typisch_adj",
     "audio": "adjektiv_typisch.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "typischer",
+      "superlativ": "typischest"
+    },
     "declension": {}
   },
   "ueberrascht_adj": {
     "word": "überrascht",
     "type": "adj",
     "_id": "ueberrascht_adj",
-    "audio": "adjektiv_ueberrascht.mp3"
+    "audio": "adjektiv_ueberrascht.mp3",
+    "comparison": {
+      "komparativ": "überraschter",
+      "superlativ": "überraschtst"
+    }
   },
   "ueblich_adj": {
     "word": "üblich",
     "_id": "ueblich_adj",
     "audio": "adjektiv_ueblich.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "üblicher",
+      "superlativ": "üblichst"
+    },
     "declension": {}
   },
   "uebrig_adj": {
     "word": "übrig",
     "_id": "uebrig_adj",
     "audio": "adjektiv_uebrig.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "übriger",
+      "superlativ": "übrigst"
+    },
     "declension": {}
   },
   "ungeduldig_adj": {
     "word": "ungeduldig",
     "_id": "ungeduldig_adj",
-    "audio": "adjektiv_ungeduldig.mp3"
+    "audio": "adjektiv_ungeduldig.mp3",
+    "comparison": {
+      "komparativ": "ungeduldiger",
+      "superlativ": "ungeduldigst"
+    }
   },
   "ungewoehnlich_adj": {
     "word": "ungewöhnlich",
     "_id": "ungewoehnlich_adj",
     "audio": "adjektiv_ungewoehnlich.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "ungewöhnlicher",
+      "superlativ": "ungewöhnlichst"
+    },
     "declension": {}
   },
   "unglaublich_adj": {
     "word": "unglaublich",
     "_id": "unglaublich_adj",
     "audio": "adjektiv_unglaublich.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "unglaublicher",
+      "superlativ": "unglaublichst"
+    },
     "declension": {}
   },
   "unheimlich_adj": {
     "word": "unheimlich",
     "_id": "unheimlich_adj",
     "audio": "adjektiv_unheimlich.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "unheimlicher",
+      "superlativ": "unheimlichst"
+    },
     "declension": {}
   },
   "unterschiedlich_adj": {
     "word": "unterschiedlich",
     "_id": "unterschiedlich_adj",
     "audio": "adjektiv_unterschiedlich.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "unterschiedlicher",
+      "superlativ": "unterschiedlichst"
+    },
     "declension": {}
   },
   "urspruenglich_adj": {
     "word": "ursprünglich",
     "_id": "urspruenglich_adj",
     "audio": "adjektiv_urspruenglich.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "ursprünglicher",
+      "superlativ": "ursprünglichst"
+    },
     "declension": {}
   },
   "vegetarisch_adj": {
     "word": "vegetarisch",
     "_id": "vegetarisch_adj",
     "audio": "adjektiv_vegetarisch.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "vegetarischer",
+      "superlativ": "vegetarischest"
+    },
     "declension": {}
   },
   "verantwortlich_adj": {
     "word": "verantwortlich",
     "_id": "verantwortlich_adj",
     "audio": "adjektiv_verantwortlich.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "verantwortlicher",
+      "superlativ": "verantwortlichst"
+    },
     "declension": {}
   },
   "vergeblich_adj": {
     "word": "vergeblich",
     "_id": "vergeblich_adj",
     "audio": "adjektiv_vergeblich.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "vergeblicher",
+      "superlativ": "vergeblichst"
+    },
     "declension": {}
   },
   "verheiratet_adj": {
     "word": "verheiratet",
     "_id": "verheiratet_adj",
     "audio": "adjektiv_verheiratet.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "verheirateter",
+      "superlativ": "verheiratetst"
+    },
     "declension": {}
   },
   "vermutlich_adj": {
     "word": "vermutlich",
     "_id": "vermutlich_adj",
     "audio": "adjektiv_vermutlich.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "vermutlicher",
+      "superlativ": "vermutlichst"
+    },
     "declension": {}
   },
   "vernuenftig_adj": {
     "word": "vernünftig",
     "_id": "vernuenftig_adj",
     "audio": "adjektiv_vernuenftig.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "vernünftiger",
+      "superlativ": "vernünftigst"
+    },
     "declension": {}
   },
   "verrueckt_adj": {
     "word": "verrückt",
     "_id": "verrueckt_adj",
     "audio": "adjektiv_verrueckt.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "verrückter",
+      "superlativ": "verrücktst"
+    },
     "declension": {}
   },
   "verstaendlich_adj": {
     "word": "verständlich",
     "_id": "verstaendlich_adj",
     "audio": "adjektiv_verstaendlich.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "verständlicher",
+      "superlativ": "verständlichst"
+    },
     "declension": {}
   },
   "verwandt_adj": {
     "word": "verwandt",
     "_id": "verwandt_adj",
     "audio": "adjektiv_verwandt.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "verwandter",
+      "superlativ": "verwandtst"
+    },
     "declension": {}
   },
   "viel_adj": {
     "word": "viel",
     "_id": "viel_adj",
-    "audio": "adjektiv_viel.mp3"
+    "audio": "adjektiv_viel.mp3",
+    "comparison": {
+      "komparativ": "mehr",
+      "superlativ": "meist"
+    }
   },
   "virtuell_adj": {
     "word": "virtuell",
     "_id": "virtuell_adj",
     "audio": "adjektiv_virtuell.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "virtueller",
+      "superlativ": "virtuellst"
+    },
     "declension": {}
   },
   "voll_adj": {
     "word": "voll",
     "_id": "voll_adj",
     "audio": "adjektiv_voll.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "voller",
+      "superlativ": "vollst"
+    },
     "declension": {}
   },
   "voraussichtlich_adj": {
     "word": "voraussichtlich",
     "_id": "voraussichtlich_adj",
     "audio": "adjektiv_voraussichtlich.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "voraussichtlicher",
+      "superlativ": "voraussichtlichst"
+    },
     "declension": {}
   },
   "vorlaeufig_adj": {
     "word": "vorläufig",
     "_id": "vorlaeufig_adj",
     "audio": "adjektiv_vorlaeufig.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "vorläufiger",
+      "superlativ": "vorläufigst"
+    },
     "declension": {}
   },
   "vorsichtig_adj": {
     "word": "vorsichtig",
     "_id": "vorsichtig_adj",
     "audio": "adjektiv_vorsichtig.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "vorsichtiger",
+      "superlativ": "vorsichtigst"
+    },
     "declension": {}
   },
   "wach_adj": {
     "word": "wach",
     "_id": "wach_adj",
-    "audio": "adjektiv_wach.mp3"
+    "audio": "adjektiv_wach.mp3",
+    "comparison": {
+      "komparativ": "wacher",
+      "superlativ": "wachst"
+    }
   },
   "wahnsinnig_adj": {
     "word": "wahnsinnig",
     "_id": "wahnsinnig_adj",
     "audio": "adjektiv_wahnsinnig.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "wahnsinniger",
+      "superlativ": "wahnsinnigst"
+    },
     "declension": {}
   },
   "wahr_adj": {
     "word": "wahr",
     "_id": "wahr_adj",
     "audio": "adjektiv_wahr.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "wahrer",
+      "superlativ": "wahrst"
+    },
     "declension": {}
   },
   "warm_adj": {
     "word": "warm",
     "_id": "warm_adj",
-    "audio": "adjektiv_warm.mp3"
+    "audio": "adjektiv_warm.mp3",
+    "comparison": {
+      "komparativ": "wärmer",
+      "superlativ": "wärmst"
+    }
   },
   "weiblich_adj": {
     "word": "weiblich",
     "_id": "weiblich_adj",
     "audio": "adjektiv_weiblich.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "weiblicher",
+      "superlativ": "weiblichst"
+    },
     "declension": {}
   },
   "weich_adj": {
     "word": "weich",
     "_id": "weich_adj",
-    "audio": "adjektiv_weich.mp3"
+    "audio": "adjektiv_weich.mp3",
+    "comparison": {
+      "komparativ": "weicher",
+      "superlativ": "weichst"
+    }
   },
   "weiss_adj": {
     "word": "weiß",
     "_id": "weiss_adj",
-    "audio": "adjektiv_weiss.mp3"
+    "audio": "adjektiv_weiss.mp3",
+    "comparison": {
+      "komparativ": "weißer",
+      "superlativ": "weißest"
+    }
   },
   "weit_adj": {
     "word": "weit",
     "_id": "weit_adj",
-    "audio": "adjektiv_weit.mp3"
+    "audio": "adjektiv_weit.mp3",
+    "comparison": {
+      "komparativ": "weiter",
+      "superlativ": "weitst"
+    }
   },
   "weiter_adj": {
     "word": "weiter",
     "_id": "weiter_adj",
     "audio": "adjektiv_weiter.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "weiterer",
+      "superlativ": "weiterst"
+    },
     "declension": {}
   },
   "wert_adj": {
     "word": "wert",
     "_id": "wert_adj",
     "audio": "adjektiv_wert.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "werter",
+      "superlativ": "wertst"
+    },
     "declension": {}
   },
   "wertlos_adj": {
     "word": "wertlos",
     "_id": "wertlos_adj",
     "audio": "adjektiv_wertlos.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "wertloser",
+      "superlativ": "wertlosest"
+    },
     "declension": {}
   },
   "wertvoll_adj": {
     "word": "wertvoll",
     "_id": "wertvoll_adj",
     "audio": "adjektiv_wertvoll.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "wertvoller",
+      "superlativ": "wertvollst"
+    },
     "declension": {}
   },
   "wichtig_adj": {
     "word": "wichtig",
     "_id": "wichtig_adj",
-    "audio": "adjektiv_wichtig.mp3"
+    "audio": "adjektiv_wichtig.mp3",
+    "comparison": {
+      "komparativ": "wichtiger",
+      "superlativ": "wichtigst"
+    }
   },
   "wild_adj": {
     "word": "wild",
     "_id": "wild_adj",
-    "audio": "adjektiv_wild.mp3"
+    "audio": "adjektiv_wild.mp3",
+    "comparison": {
+      "komparativ": "wilder",
+      "superlativ": "wildest"
+    }
   },
   "windig_adj": {
     "word": "windig",
     "_id": "windig_adj",
-    "audio": "adjektiv_windig.mp3"
+    "audio": "adjektiv_windig.mp3",
+    "comparison": {
+      "komparativ": "windiger",
+      "superlativ": "windigst"
+    }
   },
   "wirklich_adj": {
     "word": "wirklich",
     "_id": "wirklich_adj",
     "audio": "adjektiv_wirklich.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "wirklicher",
+      "superlativ": "wirklichst"
+    },
     "declension": {}
   },
   "witzig_adj": {
     "word": "witzig",
     "_id": "witzig_adj",
     "audio": "adjektiv_witzig.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "witziger",
+      "superlativ": "witzigst"
+    },
     "declension": {}
   },
   "wuetend_adj": {
     "word": "wütend",
     "_id": "wuetend_adj",
     "audio": "adjektiv_wuetend.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "wütender",
+      "superlativ": "wütendst"
+    },
     "declension": {}
   },
   "zahlreich_adj": {
     "word": "zahlreich",
     "_id": "zahlreich_adj",
     "audio": "adjektiv_zahlreich.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "zahlreicher",
+      "superlativ": "zahlreichst"
+    },
     "declension": {}
   },
   "zahm_adj": {
     "word": "zahm",
     "_id": "zahm_adj",
-    "audio": "adjektiv_zahm.mp3"
+    "audio": "adjektiv_zahm.mp3",
+    "comparison": {
+      "komparativ": "zahmer",
+      "superlativ": "zahmst"
+    }
   },
   "zentral_adj": {
     "word": "zentral",
     "_id": "zentral_adj",
     "audio": "adjektiv_zentral.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "zentraler",
+      "superlativ": "zentralst"
+    },
     "declension": {}
   },
   "zufrieden_adj": {
     "word": "zufrieden",
     "_id": "zufrieden_adj",
-    "audio": "adjektiv_zufrieden.mp3"
+    "audio": "adjektiv_zufrieden.mp3",
+    "comparison": {
+      "komparativ": "zufriedener",
+      "superlativ": "zufriedenst"
+    }
   },
   "zugaenglich_adj": {
     "word": "zugänglich",
     "_id": "zugaenglich_adj",
     "audio": "adjektiv_zugaenglich.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "zugänglicher",
+      "superlativ": "zugänglichst"
+    },
     "declension": {}
   },
   "zukuenftig_adj": {
     "word": "zukünftig",
     "_id": "zukuenftig_adj",
     "audio": "adjektiv_zukuenftig.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "zukünftiger",
+      "superlativ": "zukünftigst"
+    },
     "declension": {}
   },
   "zusaetzlich_adj": {
     "word": "zusätzlich",
     "_id": "zusaetzlich_adj",
     "audio": "adjektiv_zusaetzlich.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "zusätzlicher",
+      "superlativ": "zusätzlichst"
+    },
     "declension": {}
   },
   "zustaendig_adj": {
     "word": "zuständig",
     "_id": "zustaendig_adj",
     "audio": "adjektiv_zustaendig.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "zuständiger",
+      "superlativ": "zuständigst"
+    },
     "declension": {}
   },
   "zuverlaessig_adj": {
     "word": "zuverlässig",
     "_id": "zuverlaessig_adj",
     "audio": "adjektiv_zuverlaessig.mp3",
-    "comparison": {},
+    "comparison": {
+      "komparativ": "zuverlässiger",
+      "superlativ": "zuverlässigst"
+    },
     "declension": {}
   }
 }
