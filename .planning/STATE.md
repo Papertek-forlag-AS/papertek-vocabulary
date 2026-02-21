@@ -5,16 +5,16 @@
 See: .planning/PROJECT.md (updated 2026-02-20)
 
 **Core value:** Complete, correct vocabulary data so Leksihjelp's inflection search can find any German word form and return the base entry.
-**Current focus:** v1.1 German Adjective Declension — Phase 5: Schema Extension (COMPLETE)
+**Current focus:** v1.1 German Adjective Declension — Phase 6: New Entry Stubs (COMPLETE)
 
 ## Current Position
 
-Phase: 5 of 10 — Phase 5: Schema Extension (COMPLETE)
-Plan: 1 of 1 in Phase 5 — COMPLETE
-Status: Phase 5 complete — ready for Phase 6
-Last activity: 2026-02-21 — Phase 5 Plan 01 executed (adjective schema extension)
+Phase: 6 of 10 — Phase 6: New Entry Stubs (COMPLETE)
+Plan: 1 of 1 in Phase 6 — COMPLETE
+Status: Phase 6 complete — ready for Phase 7
+Last activity: 2026-02-21 — Phase 6 Plan 01 executed (259 adjective stubs generated)
 
-Progress: [███░░░░░░░] 30%
+Progress: [████░░░░░░] 40%
 
 ## Performance Metrics
 
@@ -33,6 +33,7 @@ Progress: [███░░░░░░░] 30%
 
 *Updated after each plan completion*
 | Phase 05-schema-extension P01 | 2 min | 3 tasks | 2 files |
+| Phase 06-new-entry-stubs P01 | 8 min | 2 tasks | 5 files |
 
 ## Accumulated Context
 
@@ -55,6 +56,9 @@ Recent decisions affecting v1.1:
 - [Phase 05-schema-extension]: dependsOn added as one-off field on grammar_adjective_genitive only — no retrofitting existing features
 - [Phase 05-schema-extension]: allOf with independent if/then blocks chosen over oneOf for flag conditionals — cleaner error messages
 - [Phase 05-schema-extension]: Boolean false schema used to forbid properties — canonical JSON Schema 2020-12 approach
+- [Phase 06-new-entry-stubs]: Sort by _id key (ASCII, umlauts transliterated) not word value — deterministic, locale-independent
+- [Phase 06-new-entry-stubs]: Dict manifest has two totalWords fields with different scopes — _metadata.totalWords (sum of files = 1126) vs top-level totalWords (all dictionary entries = 3454); updated independently
+- [Phase 06-new-entry-stubs]: Frequency-0 used for 11 words missing from de_50k.txt corpus — placeholder, can be backfilled later
 
 ### Blockers/Concerns
 
@@ -69,5 +73,5 @@ Recent decisions affecting v1.1:
 ## Session Continuity
 
 Last session: 2026-02-21
-Stopped at: Completed 05-01-PLAN.md — Phase 5 schema extension complete
-Resume file: .planning/phases/06-stubs/06-01-PLAN.md (if exists) or plan Phase 6
+Stopped at: Completed 06-01-PLAN.md — Phase 6 new entry stubs complete
+Resume file: .planning/phases/07-comparison/ (Phase 7 — comparison data population)
