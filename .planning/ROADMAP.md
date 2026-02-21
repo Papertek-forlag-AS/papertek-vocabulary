@@ -136,7 +136,7 @@ Phases 4 and 5 can begin in parallel after Phase 3. Phases 8 and 9 can run in pa
 | 4. Goethe Adjective Extraction | v1.1 | Complete    | 2026-02-20 | - |
 | 5. Schema Extension | 1/1 | Complete   | 2026-02-21 | - |
 | 6. New Entry Stubs | v1.1 | 0/1 | Not started | - |
-| 7. Comparison Data | 1/1 | Complete   | 2026-02-21 | - |
+| 7. Comparison Data | 1/1 | Complete    | 2026-02-21 | - |
 | 8. Declension Tables | v1.1 | 0/TBD | Not started | - |
 | 9. Translations | v1.1 | 0/TBD | Not started | - |
 | 10. Integration | v1.1 | 0/TBD | Not started | - |
