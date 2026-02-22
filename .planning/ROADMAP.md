@@ -41,7 +41,7 @@
 - [x] **Phase 11: Schema Extensions** — Extend verb and noun schemas; register grammar features (completed 2026-02-22)
 - [x] **Phase 12: Pre-Entry Audit** — Flag inseparable verbs, n-Deklination nouns; backfill preteritum to dictionary bank (completed 2026-02-22)
 - [x] **Phase 13: Perfektum Data** — Add Perfektum conjugations for all 148 verbs in the core verbbank (completed 2026-02-22)
-- [ ] **Phase 14: Noun Declension Data** — Add 4-case declension for all 331 nouns in the core nounbank
+- [x] **Phase 14: Noun Declension Data** — Add 4-case declension for all 331 nouns in the core nounbank (completed 2026-02-22)
 - [ ] **Phase 15: Sync & Integration** — Mirror to dictionary banks, rebuild search index, update v2 handler, validate all
 
 ## Phase Details
@@ -96,7 +96,7 @@ Plans:
   3. Plural-only nouns (e.g., Eltern, Ferien) have plural-form cases only; uncountable nouns have singular-form cases only
   4. All 26 nouns with -s plurals have dative plural equal to nominative plural (no -n suffix added)
   5. `npm run validate:nouns` passes with zero errors against updated `noun.schema.json`
-**Plans:** 1/2 plans executed
+**Plans:** 2/2 plans complete
 Plans:
 - [ ] 14-01-PLAN.md — Add declension_type to noun schema and create validate:nouns tooling
 - [ ] 14-02-PLAN.md — Inject 4-case declension data for all 331 nouns via scripted data injection
@@ -130,5 +130,5 @@ Plans:
 | 11. Schema Extensions | 1/1 | Complete    | 2026-02-22 | - |
 | 12. Pre-Entry Audit | 1/1 | Complete    | 2026-02-22 | - |
 | 13. Perfektum Data | 1/1 | Complete    | 2026-02-22 | - |
-| 14. Noun Declension Data | 1/2 | In Progress|  | - |
+| 14. Noun Declension Data | 2/2 | Complete   | 2026-02-22 | - |
 | 15. Sync & Integration | v1.2 | 0/? | Not started | - |

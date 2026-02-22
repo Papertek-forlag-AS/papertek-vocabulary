@@ -5,14 +5,14 @@
 See: .planning/PROJECT.md (updated 2026-02-22)
 
 **Core value:** Complete, correct vocabulary data so Leksihjelp's inflection search can find any German word form and return the base entry.
-**Current focus:** Phase 14 — Noun Declension Data (schema foundation and validation tooling complete)
+**Current focus:** Phase 14 — Noun Declension Data (COMPLETE — all 331 nouns have 4-case declension data)
 
 ## Current Position
 
 Phase: 14 of 15 in v1.2 (Noun Declension Data)
-Plan: 1 of TBD complete
-Status: Phase 14 Plan 01 complete — schema foundation done; ready for Plan 02 (data injection)
-Last activity: 2026-02-22 — Phase 14 Plan 01 executed (noun schema + validate:nouns tooling)
+Plan: 2 of 2 complete
+Status: Phase 14 COMPLETE — all 331 nouns have complete 4-case declension; ready for Phase 15 (Sync & Integration)
+Last activity: 2026-02-22 — Phase 14 Plan 02 executed (noun declension data injection for all 331 nouns)
 
 Progress: [██████░░░░] 65% (v1.2)
 
@@ -27,6 +27,7 @@ Progress: [██████░░░░] 65% (v1.2)
 | v1.2 | 5 | TBD | In progress |
 | Phase 13 Plan 01 | 3 min | 2 tasks | 2 files |
 | Phase 14 Plan 01 | 1 min | 1 task | 3 files |
+| Phase 14 P02 | 9 | 2 tasks | 2 files |
 
 ## Accumulated Context
 
@@ -48,6 +49,8 @@ Recent decisions affecting v1.2:
 - [Phase 13-perfektum-data]: moechten_modal participle: 'gemocht' from underlying mögen with modal_note — defective verb has no true Perfektum, mirrors preteritum treatment
 - [Phase 14-noun-declension-data]: declension_type is optional (not in required array) — entries without it remain valid until Plan 02 injects data
 - [Phase 14-noun-declension-data]: Pre-existing 356-error AJV baseline confirmed; Phase 14 Plan 01 introduces zero new errors
+- [Phase 14]: Plan NDECL-07 spot-check compared full article+noun strings (den Autos vs die Autos) — always differ by article; corrected to compare noun stems; data was always correct
+- [Phase 14]: Uncountable noun set is 28 (not 22 estimated): months 12 + holidays 4 + musikunterricht/sportunterricht + 6 substance/abstract — matched nounbank null-plural entries
 
 ### Blockers/Concerns
 
@@ -61,5 +64,5 @@ Recent decisions affecting v1.2:
 ## Session Continuity
 
 Last session: 2026-02-22
-Stopped at: Phase 14 Plan 01 complete — noun schema + validate:nouns tooling (3 files, 1 task commit)
-Resume file: N/A — continue with Phase 14 Plan 02 (noun declension data injection for all 331 nouns)
+Stopped at: Phase 14 Plan 02 complete — noun declension data injection for all 331 nouns (2 files, 2 task commits)
+Resume file: N/A — continue with Phase 15 (Sync & Integration)
