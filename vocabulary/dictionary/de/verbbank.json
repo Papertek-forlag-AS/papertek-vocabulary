@@ -20,6 +20,17 @@
           "sie/Sie": "sind"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "war",
+          "du": "warst",
+          "er/sie/es": "war",
+          "wir": "waren",
+          "ihr": "wart",
+          "sie/Sie": "waren"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "sein_verb",
@@ -49,6 +60,17 @@
           "sie/Sie": "heißen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "hieß",
+          "du": "hießt",
+          "er/sie/es": "hieß",
+          "wir": "hießen",
+          "ihr": "hießt",
+          "sie/Sie": "hießen"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "heissen_verb",
@@ -76,6 +98,17 @@
           "sie/Sie": "kommen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "kam",
+          "du": "kamst",
+          "er/sie/es": "kam",
+          "wir": "kamen",
+          "ihr": "kamt",
+          "sie/Sie": "kamen"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "kommen_verb",
@@ -104,6 +137,17 @@
           "sie/Sie": "wohnen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "wohnte",
+          "du": "wohntest",
+          "er/sie/es": "wohnte",
+          "wir": "wohnten",
+          "ihr": "wohntet",
+          "sie/Sie": "wohnten"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "wohnen_verb",
@@ -126,6 +170,17 @@
           "sie/Sie": "schauen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "schaute",
+          "du": "schautest",
+          "er/sie/es": "schaute",
+          "wir": "schauten",
+          "ihr": "schautet",
+          "sie/Sie": "schauten"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "schauen_verb",
@@ -147,6 +202,17 @@
           "sie/Sie": "spielen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "spielte",
+          "du": "spieltest",
+          "er/sie/es": "spielte",
+          "wir": "spielten",
+          "ihr": "spieltet",
+          "sie/Sie": "spielten"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "spielen_verb",
@@ -169,6 +235,17 @@
           "sie/Sie": "interessieren"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "interessierte",
+          "du": "interessiertest",
+          "er/sie/es": "interessierte",
+          "wir": "interessierten",
+          "ihr": "interessiertet",
+          "sie/Sie": "interessierten"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "interessieren_verb",
@@ -191,6 +268,17 @@
           "sie/Sie": "shoppen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "shoppte",
+          "du": "shopptest",
+          "er/sie/es": "shoppte",
+          "wir": "shoppten",
+          "ihr": "shopptet",
+          "sie/Sie": "shoppten"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "shoppen_verb",
@@ -213,13 +301,25 @@
           "sie/Sie": "entspannen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "entspannte",
+          "du": "entspanntest",
+          "er/sie/es": "entspannte",
+          "wir": "entspannten",
+          "ihr": "entspanntet",
+          "sie/Sie": "entspannten"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "entspannen_verb",
     "audio": "verb_entspannen.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 2751
+    "frequency": 2751,
+    "inseparable": true
   },
   "lernen_verb": {
     "word": "lernen",
@@ -235,6 +335,17 @@
           "sie/Sie": "lernen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "lernte",
+          "du": "lerntest",
+          "er/sie/es": "lernte",
+          "wir": "lernten",
+          "ihr": "lerntet",
+          "sie/Sie": "lernten"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "lernen_verb",
@@ -256,6 +367,17 @@
           "sie/Sie": "finden"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "fand",
+          "du": "fandst",
+          "er/sie/es": "fand",
+          "wir": "fanden",
+          "ihr": "fandet",
+          "sie/Sie": "fanden"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "finden_verb",
@@ -284,6 +406,17 @@
           "sie/Sie": "mögen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "mochte",
+          "du": "mochtest",
+          "er/sie/es": "mochte",
+          "wir": "mochten",
+          "ihr": "mochtet",
+          "sie/Sie": "mochten"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "modal": true,
@@ -309,6 +442,17 @@
           "sie/Sie": "klingeln"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "klingelte",
+          "du": "klingeltest",
+          "er/sie/es": "klingelte",
+          "wir": "klingelten",
+          "ihr": "klingeltet",
+          "sie/Sie": "klingelten"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "klingeln_verb",
@@ -333,6 +477,17 @@
           "sie/Sie": "beginnen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "begann",
+          "du": "begannst",
+          "er/sie/es": "begann",
+          "wir": "begannen",
+          "ihr": "begannt",
+          "sie/Sie": "begannen"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "beginnen_verb",
@@ -345,7 +500,8 @@
       "presens": "weak",
       "preteritum": "strong",
       "perfektum": "strong"
-    }
+    },
+    "inseparable": true
   },
   "koennen_verb": {
     "word": "können",
@@ -361,6 +517,17 @@
           "sie/Sie": "können"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "konnte",
+          "du": "konntest",
+          "er/sie/es": "konnte",
+          "wir": "konnten",
+          "ihr": "konntet",
+          "sie/Sie": "konnten"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "modal": true,
@@ -387,6 +554,17 @@
           "sie/Sie": "lesen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "las",
+          "du": "last",
+          "er/sie/es": "las",
+          "wir": "lasen",
+          "ihr": "last",
+          "sie/Sie": "lasen"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "lesen_verb",
@@ -414,6 +592,17 @@
           "sie/Sie": "schwimmen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "schwamm",
+          "du": "schwammst",
+          "er/sie/es": "schwamm",
+          "wir": "schwammen",
+          "ihr": "schwammt",
+          "sie/Sie": "schwammen"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "schwimmen_verb",
@@ -441,6 +630,17 @@
           "sie/Sie": "singen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "sang",
+          "du": "sangst",
+          "er/sie/es": "sang",
+          "wir": "sangen",
+          "ihr": "sangt",
+          "sie/Sie": "sangen"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "singen_verb",
@@ -468,6 +668,17 @@
           "sie/Sie": "tanzen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "tanzte",
+          "du": "tanztest",
+          "er/sie/es": "tanzte",
+          "wir": "tanzten",
+          "ihr": "tanztet",
+          "sie/Sie": "tanzten"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "tanzen_verb",
@@ -489,6 +700,17 @@
           "sie/Sie": "kochen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "kochte",
+          "du": "kochtest",
+          "er/sie/es": "kochte",
+          "wir": "kochten",
+          "ihr": "kochtet",
+          "sie/Sie": "kochten"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "kochen_verb",
@@ -510,6 +732,17 @@
           "sie/Sie": "malen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "malte",
+          "du": "maltest",
+          "er/sie/es": "malte",
+          "wir": "malten",
+          "ihr": "maltet",
+          "sie/Sie": "malten"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "malen_verb",
@@ -531,6 +764,17 @@
           "sie/Sie": "machen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "machte",
+          "du": "machtest",
+          "er/sie/es": "machte",
+          "wir": "machten",
+          "ihr": "machtet",
+          "sie/Sie": "machten"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "machen_verb",
@@ -552,6 +796,17 @@
           "sie/Sie": "gehen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "ging",
+          "du": "gingst",
+          "er/sie/es": "ging",
+          "wir": "gingen",
+          "ihr": "gingt",
+          "sie/Sie": "gingen"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "gehen_verb",
@@ -579,13 +834,25 @@
           "sie/Sie": "besuchen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "besuchte",
+          "du": "besuchtest",
+          "er/sie/es": "besuchte",
+          "wir": "besuchten",
+          "ihr": "besuchtet",
+          "sie/Sie": "besuchten"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "besuchen_verb",
     "audio": "verb_besuchen.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 1330
+    "frequency": 1330,
+    "inseparable": true
   },
   "kaufen_verb": {
     "word": "kaufen",
@@ -600,6 +867,17 @@
           "sie/Sie": "kaufen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "kaufte",
+          "du": "kauftest",
+          "er/sie/es": "kaufte",
+          "wir": "kauften",
+          "ihr": "kauftet",
+          "sie/Sie": "kauften"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "kaufen_verb",
@@ -621,6 +899,17 @@
           "sie/Sie": "brauchen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "brauchte",
+          "du": "brauchtest",
+          "er/sie/es": "brauchte",
+          "wir": "brauchten",
+          "ihr": "brauchtet",
+          "sie/Sie": "brauchten"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "brauchen_verb",
@@ -643,6 +932,17 @@
           "sie/Sie": "essen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "aß",
+          "du": "aßt",
+          "er/sie/es": "aß",
+          "wir": "aßen",
+          "ihr": "aßt",
+          "sie/Sie": "aßen"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "essen_verb",
@@ -671,6 +971,17 @@
           "sie/Sie": "nehmen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "nahm",
+          "du": "nahmst",
+          "er/sie/es": "nahm",
+          "wir": "nahmen",
+          "ihr": "nahmt",
+          "sie/Sie": "nahmen"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "nehmen_verb",
@@ -698,6 +1009,17 @@
           "sie/Sie": "trinken"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "trank",
+          "du": "trankst",
+          "er/sie/es": "trank",
+          "wir": "tranken",
+          "ihr": "trankt",
+          "sie/Sie": "tranken"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "trinken_verb",
@@ -725,6 +1047,17 @@
           "sie/Sie": "hören"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "hörte",
+          "du": "hörtest",
+          "er/sie/es": "hörte",
+          "wir": "hörten",
+          "ihr": "hörtet",
+          "sie/Sie": "hörten"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "hoeren_verb",
@@ -746,6 +1079,17 @@
           "sie/Sie": "hoffen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "hoffte",
+          "du": "hofftest",
+          "er/sie/es": "hoffte",
+          "wir": "hofften",
+          "ihr": "hofftet",
+          "sie/Sie": "hofften"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "hoffen_verb",
@@ -768,6 +1112,17 @@
           "sie/Sie": "haben"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "hatte",
+          "du": "hattest",
+          "er/sie/es": "hatte",
+          "wir": "hatten",
+          "ihr": "hattet",
+          "sie/Sie": "hatten"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "haben_verb",
@@ -795,6 +1150,17 @@
           "sie/Sie": "füttern"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "fütterte",
+          "du": "füttertest",
+          "er/sie/es": "fütterte",
+          "wir": "fütterten",
+          "ihr": "füttertet",
+          "sie/Sie": "fütterten"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "fuettern_verb",
@@ -816,6 +1182,17 @@
           "sie/Sie": "streicheln"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "streichelte",
+          "du": "streicheltest",
+          "er/sie/es": "streichelte",
+          "wir": "streichelten",
+          "ihr": "streicheltet",
+          "sie/Sie": "streichelten"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "streicheln_verb",
@@ -838,6 +1215,17 @@
           "sie/Sie": "fressen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "fraß",
+          "du": "fraßt",
+          "er/sie/es": "fraß",
+          "wir": "fraßen",
+          "ihr": "fraßt",
+          "sie/Sie": "fraßen"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "fressen_verb",
@@ -865,6 +1253,17 @@
           "sie/Sie": "leben"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "lebte",
+          "du": "lebtest",
+          "er/sie/es": "lebte",
+          "wir": "lebten",
+          "ihr": "lebtet",
+          "sie/Sie": "lebten"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "leben_verb",
@@ -886,6 +1285,17 @@
           "sie/Sie": "öffnen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "öffnete",
+          "du": "öffnetest",
+          "er/sie/es": "öffnete",
+          "wir": "öffneten",
+          "ihr": "öffnetet",
+          "sie/Sie": "öffneten"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "oeffnen_verb",
@@ -907,6 +1317,17 @@
           "sie/Sie": "jagen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "jagte",
+          "du": "jagtest",
+          "er/sie/es": "jagte",
+          "wir": "jagten",
+          "ihr": "jagtet",
+          "sie/Sie": "jagten"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "jagen_verb",
@@ -929,6 +1350,17 @@
           "sie/Sie": "tragen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "trug",
+          "du": "trugst",
+          "er/sie/es": "trug",
+          "wir": "trugen",
+          "ihr": "trugt",
+          "sie/Sie": "trugen"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "tragen_verb",
@@ -957,6 +1389,17 @@
           "sie/Sie": "sehen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "sah",
+          "du": "sahst",
+          "er/sie/es": "sah",
+          "wir": "sahen",
+          "ihr": "saht",
+          "sie/Sie": "sahen"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "sehen_verb",
@@ -985,6 +1428,17 @@
           "sie/Sie": "treffen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "traf",
+          "du": "trafst",
+          "er/sie/es": "traf",
+          "wir": "trafen",
+          "ihr": "traft",
+          "sie/Sie": "trafen"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "treffen_verb",
@@ -1013,6 +1467,17 @@
           "sie/Sie": "müssen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "musste",
+          "du": "musstest",
+          "er/sie/es": "musste",
+          "wir": "mussten",
+          "ihr": "musstet",
+          "sie/Sie": "mussten"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "modal": true,
@@ -1039,6 +1504,17 @@
           "sie/Sie": "wollen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "wollte",
+          "du": "wolltest",
+          "er/sie/es": "wollte",
+          "wir": "wollten",
+          "ihr": "wolltet",
+          "sie/Sie": "wollten"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "modal": true,
@@ -1065,6 +1541,17 @@
           "sie/Sie": "fahren"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "fuhr",
+          "du": "fuhrst",
+          "er/sie/es": "fuhr",
+          "wir": "fuhren",
+          "ihr": "fuhrt",
+          "sie/Sie": "fuhren"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "fahren_verb",
@@ -1092,6 +1579,17 @@
           "sie/Sie": "wandern"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "wanderte",
+          "du": "wandertest",
+          "er/sie/es": "wanderte",
+          "wir": "wanderten",
+          "ihr": "wandertet",
+          "sie/Sie": "wanderten"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "wandern_verb",
@@ -1113,6 +1611,17 @@
           "sie/Sie": "träumen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "träumte",
+          "du": "träumtest",
+          "er/sie/es": "träumte",
+          "wir": "träumten",
+          "ihr": "träumtet",
+          "sie/Sie": "träumten"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "traeumen_verb",
@@ -1134,6 +1643,17 @@
           "sie/Sie": "sagen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "sagte",
+          "du": "sagtest",
+          "er/sie/es": "sagte",
+          "wir": "sagten",
+          "ihr": "sagtet",
+          "sie/Sie": "sagten"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "sagen_verb",
@@ -1156,6 +1676,17 @@
           "sie/Sie": "schreiben"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "schrieb",
+          "du": "schriebst",
+          "er/sie/es": "schrieb",
+          "wir": "schrieben",
+          "ihr": "schriebt",
+          "sie/Sie": "schrieben"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "schreiben_verb",
@@ -1183,6 +1714,17 @@
           "sie/Sie": "fliegen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "flog",
+          "du": "flogst",
+          "er/sie/es": "flog",
+          "wir": "flogen",
+          "ihr": "flogt",
+          "sie/Sie": "flogen"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "fliegen_verb",
@@ -1212,6 +1754,17 @@
           "sie/Sie": "nehmen mit"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "nahm mit",
+          "du": "nahmst mit",
+          "er/sie/es": "nahm mit",
+          "wir": "nahmen mit",
+          "ihr": "nahmt mit",
+          "sie/Sie": "nahmen mit"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "mitnehmen_verb",
@@ -1241,6 +1794,17 @@
           "sie/Sie": "packen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "packte",
+          "du": "packtest",
+          "er/sie/es": "packte",
+          "wir": "packten",
+          "ihr": "packtet",
+          "sie/Sie": "packten"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "packen_verb",
@@ -1263,6 +1827,17 @@
           "sie/Sie": "packen ein"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "packte ein",
+          "du": "packtest ein",
+          "er/sie/es": "packte ein",
+          "wir": "packten ein",
+          "ihr": "packtet ein",
+          "sie/Sie": "packten ein"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "einpacken_verb",
@@ -1290,6 +1865,17 @@
           "sie/Sie": "dürfen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "durfte",
+          "du": "durftest",
+          "er/sie/es": "durfte",
+          "wir": "durften",
+          "ihr": "durftet",
+          "sie/Sie": "durften"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "modal": true,
@@ -1315,6 +1901,17 @@
           "sie/Sie": "scheinen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "schien",
+          "du": "schienst",
+          "er/sie/es": "schien",
+          "wir": "schienen",
+          "ihr": "schient",
+          "sie/Sie": "schienen"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "scheinen_verb",
@@ -1342,6 +1939,17 @@
           "sie/Sie": "lieben"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "liebte",
+          "du": "liebtest",
+          "er/sie/es": "liebte",
+          "wir": "liebten",
+          "ihr": "liebtet",
+          "sie/Sie": "liebten"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "lieben_verb",
@@ -1363,6 +1971,17 @@
           "sie/Sie": "stimmen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "stimmte",
+          "du": "stimmtest",
+          "er/sie/es": "stimmte",
+          "wir": "stimmten",
+          "ihr": "stimmtet",
+          "sie/Sie": "stimmten"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "stimmen_verb",
@@ -1384,6 +2003,17 @@
           "sie/Sie": "dekorieren"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "dekorierte",
+          "du": "dekoriertest",
+          "er/sie/es": "dekorierte",
+          "wir": "dekorierten",
+          "ihr": "dekoriertet",
+          "sie/Sie": "dekorierten"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "dekorieren_verb",
@@ -1406,6 +2036,17 @@
           "sie/Sie": "sprechen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "sprach",
+          "du": "sprachst",
+          "er/sie/es": "sprach",
+          "wir": "sprachen",
+          "ihr": "spracht",
+          "sie/Sie": "sprachen"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "sprechen_verb",
@@ -1434,6 +2075,17 @@
           "sie/Sie": "werden"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "wurde",
+          "du": "wurdest",
+          "er/sie/es": "wurde",
+          "wir": "wurden",
+          "ihr": "wurdet",
+          "sie/Sie": "wurden"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "werden_verb",
@@ -1461,6 +2113,17 @@
           "sie/Sie": "dauern"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "dauerte",
+          "du": "dauertest",
+          "er/sie/es": "dauerte",
+          "wir": "dauerten",
+          "ihr": "dauertet",
+          "sie/Sie": "dauerten"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "dauern_verb",
@@ -1482,6 +2145,17 @@
           "sie/Sie": "bleiben"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "blieb",
+          "du": "bliebst",
+          "er/sie/es": "blieb",
+          "wir": "blieben",
+          "ihr": "bliebt",
+          "sie/Sie": "blieben"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "bleiben_verb",
@@ -1510,6 +2184,17 @@
           "sie/Sie": "schlafen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "schlief",
+          "du": "schliefst",
+          "er/sie/es": "schlief",
+          "wir": "schliefen",
+          "ihr": "schlieft",
+          "sie/Sie": "schliefen"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "schlafen_verb",
@@ -1538,6 +2223,17 @@
           "sie/Sie": "feiern"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "feierte",
+          "du": "feiertest",
+          "er/sie/es": "feierte",
+          "wir": "feierten",
+          "ihr": "feiertet",
+          "sie/Sie": "feierten"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "feiern_verb",
@@ -1559,6 +2255,17 @@
           "sie/Sie": "kennen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "kannte",
+          "du": "kanntest",
+          "er/sie/es": "kannte",
+          "wir": "kannten",
+          "ihr": "kanntet",
+          "sie/Sie": "kannten"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "kennen_verb",
@@ -1587,6 +2294,17 @@
           "sie/Sie": "treffen sich"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "traf mich",
+          "du": "trafst dich",
+          "er/sie/es": "traf sich",
+          "wir": "trafen uns",
+          "ihr": "traft euch",
+          "sie/Sie": "trafen sich"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "sich_treffen_verb",
@@ -1615,6 +2333,17 @@
           "sie/Sie": "rufen an"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "rief an",
+          "du": "riefst an",
+          "er/sie/es": "rief an",
+          "wir": "riefen an",
+          "ihr": "rieft an",
+          "sie/Sie": "riefen an"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "anrufen_verb",
@@ -1649,6 +2378,17 @@
           "sie/Sie": "fangen an"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "fing an",
+          "du": "fingst an",
+          "er/sie/es": "fing an",
+          "wir": "fingen an",
+          "ihr": "fingt an",
+          "sie/Sie": "fingen an"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "anfangen_verb",
@@ -1680,6 +2420,17 @@
           "sie/Sie": "laden ein"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "lud ein",
+          "du": "ludst ein",
+          "er/sie/es": "lud ein",
+          "wir": "luden ein",
+          "ihr": "ludet ein",
+          "sie/Sie": "luden ein"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "einladen_verb",
@@ -1711,6 +2462,17 @@
           "sie/Sie": "kaufen ein"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "kaufte ein",
+          "du": "kauftest ein",
+          "er/sie/es": "kaufte ein",
+          "wir": "kauften ein",
+          "ihr": "kauftet ein",
+          "sie/Sie": "kauften ein"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "einkaufen_verb",
@@ -1737,6 +2499,17 @@
           "sie/Sie": "freuen sich auf"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "freute mich auf",
+          "du": "freutest dich auf",
+          "er/sie/es": "freute sich auf",
+          "wir": "freuten uns auf",
+          "ihr": "freutet euch auf",
+          "sie/Sie": "freuten sich auf"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "sich_freuen_auf_verb",
@@ -1759,6 +2532,17 @@
           "sie/Sie": "waschen sich"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "wusch mich",
+          "du": "wuschst dich",
+          "er/sie/es": "wusch sich",
+          "wir": "wuschen uns",
+          "ihr": "wuscht euch",
+          "sie/Sie": "wuschen sich"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "sich_waschen_verb",
@@ -1786,6 +2570,17 @@
           "sie/Sie": "duschen sich"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "duschte mich",
+          "du": "duschtest dich",
+          "er/sie/es": "duschte sich",
+          "wir": "duschten uns",
+          "ihr": "duschtet euch",
+          "sie/Sie": "duschten sich"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "sich_duschen_verb",
@@ -1808,6 +2603,17 @@
           "sie/Sie": "ziehen sich an"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "zog mich an",
+          "du": "zogst dich an",
+          "er/sie/es": "zog sich an",
+          "wir": "zogen uns an",
+          "ihr": "zogt euch an",
+          "sie/Sie": "zogen sich an"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "sich_anziehen_verb",
@@ -1837,6 +2643,17 @@
           "sie/Sie": "kämmen sich"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "kämmte mich",
+          "du": "kämmtest dich",
+          "er/sie/es": "kämmte sich",
+          "wir": "kämmten uns",
+          "ihr": "kämmtet euch",
+          "sie/Sie": "kämmten sich"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "sich_kaemmen_verb",
@@ -1858,6 +2675,17 @@
           "sie/Sie": "schminken sich"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "schminkte mich",
+          "du": "schminktest dich",
+          "er/sie/es": "schminkte sich",
+          "wir": "schminkten uns",
+          "ihr": "schminktet euch",
+          "sie/Sie": "schminkten sich"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "sich_schminken_verb",
@@ -1879,6 +2707,17 @@
           "sie/Sie": "rasieren sich"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "rasierte mich",
+          "du": "rasiertest dich",
+          "er/sie/es": "rasierte sich",
+          "wir": "rasierten uns",
+          "ihr": "rasiertet euch",
+          "sie/Sie": "rasierten sich"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "sich_rasieren_verb",
@@ -1900,6 +2739,17 @@
           "sie/Sie": "freuen sich"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "freute mich",
+          "du": "freutest dich",
+          "er/sie/es": "freute sich",
+          "wir": "freuten uns",
+          "ihr": "freutet euch",
+          "sie/Sie": "freuten sich"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "sich_freuen_verb",
@@ -1922,6 +2772,17 @@
           "sie/Sie": "wachen auf"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "wachte auf",
+          "du": "wachtest auf",
+          "er/sie/es": "wachte auf",
+          "wir": "wachten auf",
+          "ihr": "wachtet auf",
+          "sie/Sie": "wachten auf"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "aufwachen_verb",
@@ -1949,6 +2810,17 @@
           "sie/Sie": "stehen auf"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "stand auf",
+          "du": "standst auf",
+          "er/sie/es": "stand auf",
+          "wir": "standen auf",
+          "ihr": "standet auf",
+          "sie/Sie": "standen auf"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "aufstehen_verb",
@@ -1978,6 +2850,17 @@
           "sie/Sie": "frühstücken"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "frühstückte",
+          "du": "frühstücktest",
+          "er/sie/es": "frühstückte",
+          "wir": "frühstückten",
+          "ihr": "frühstücktet",
+          "sie/Sie": "frühstückten"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "fruehstuecken_verb",
@@ -1999,6 +2882,17 @@
           "sie/Sie": "fühlen sich"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "fühlte mich",
+          "du": "fühltest dich",
+          "er/sie/es": "fühlte sich",
+          "wir": "fühlten uns",
+          "ihr": "fühltet euch",
+          "sie/Sie": "fühlten sich"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "sich_fuehlen_verb",
@@ -2020,6 +2914,17 @@
           "sie/Sie": "freuen sich über"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "freute mich über",
+          "du": "freutest dich über",
+          "er/sie/es": "freute sich über",
+          "wir": "freuten uns über",
+          "ihr": "freutet euch über",
+          "sie/Sie": "freuten sich über"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "sich_freuen_ueber_verb",
@@ -2041,6 +2946,17 @@
           "sie/Sie": "ärgern sich"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "ärgerte mich",
+          "du": "ärgertest dich",
+          "er/sie/es": "ärgerte sich",
+          "wir": "ärgerten uns",
+          "ihr": "ärgerten euch",
+          "sie/Sie": "ärgerten sich"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "sich_aergern_verb",
@@ -2062,6 +2978,17 @@
           "sie/Sie": "interessieren sich"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "interessierte mich",
+          "du": "interessiertest dich",
+          "er/sie/es": "interessierte sich",
+          "wir": "interessierten uns",
+          "ihr": "interessiertet euch",
+          "sie/Sie": "interessierten sich"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "sich_interessieren_verb",
@@ -2083,6 +3010,17 @@
           "sie/Sie": "langweilen sich"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "langweilte mich",
+          "du": "langweiltest dich",
+          "er/sie/es": "langweilte sich",
+          "wir": "langweilten uns",
+          "ihr": "langweiltet euch",
+          "sie/Sie": "langweilten sich"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "sich_langweilen_verb",
@@ -2104,6 +3042,17 @@
           "sie/Sie": "konzentrieren sich"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "konzentrierte mich",
+          "du": "konzentriertest dich",
+          "er/sie/es": "konzentrierte sich",
+          "wir": "konzentrierten uns",
+          "ihr": "konzentriertet euch",
+          "sie/Sie": "konzentrierten sich"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "sich_konzentrieren_verb",
@@ -2125,13 +3074,25 @@
           "sie/Sie": "entschuldigen sich"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "entschuldigte mich",
+          "du": "entschuldigtest dich",
+          "er/sie/es": "entschuldigte sich",
+          "wir": "entschuldigten uns",
+          "ihr": "entschuldigtet euch",
+          "sie/Sie": "entschuldigten sich"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "sich_entschuldigen_verb",
     "audio": "verb_sich_entschuldigen.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 550
+    "frequency": 550,
+    "inseparable": true
   },
   "sich_verspaeten_verb": {
     "word": "sich verspäten",
@@ -2146,13 +3107,25 @@
           "sie/Sie": "verspäten sich"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "verspätete mich",
+          "du": "verspätetest dich",
+          "er/sie/es": "verspätete sich",
+          "wir": "verspäteten uns",
+          "ihr": "verspätetet euch",
+          "sie/Sie": "verspäteten sich"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "sich_verspaeten_verb",
     "audio": "verb_sich_verspaeten.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 15991
+    "frequency": 15991,
+    "inseparable": true
   },
   "sich_entspannen_verb": {
     "word": "sich entspannen",
@@ -2167,13 +3140,25 @@
           "sie/Sie": "entspannen sich"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "entspannte mich",
+          "du": "entspanntest dich",
+          "er/sie/es": "entspannte sich",
+          "wir": "entspannten uns",
+          "ihr": "entspanntet euch",
+          "sie/Sie": "entspannten sich"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "sich_entspannen_verb",
     "audio": "verb_sich_entspannen.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 2751
+    "frequency": 2751,
+    "inseparable": true
   },
   "sich_aufregen_verb": {
     "word": "sich aufregen",
@@ -2189,6 +3174,17 @@
           "sie/Sie": "regen sich auf"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "regte mich auf",
+          "du": "regtest dich auf",
+          "er/sie/es": "regte sich auf",
+          "wir": "regten uns auf",
+          "ihr": "regtet euch auf",
+          "sie/Sie": "regten sich auf"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "sich_aufregen_verb",
@@ -2216,6 +3212,17 @@
           "sie/Sie": "ruhen sich aus"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "ruhte mich aus",
+          "du": "ruhtest dich aus",
+          "er/sie/es": "ruhte sich aus",
+          "wir": "ruhten uns aus",
+          "ihr": "ruhtet euch aus",
+          "sie/Sie": "ruhten sich aus"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "sich_ausruhen_verb",
@@ -2242,13 +3249,25 @@
           "sie/Sie": "erholen sich"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "erholte mich",
+          "du": "erholtest dich",
+          "er/sie/es": "erholte sich",
+          "wir": "erholten uns",
+          "ihr": "erholtet euch",
+          "sie/Sie": "erholten sich"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "sich_erholen_verb",
     "audio": "verb_sich_erholen.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 5998
+    "frequency": 5998,
+    "inseparable": true
   },
   "sich_vorbereiten_verb": {
     "word": "sich vorbereiten",
@@ -2264,6 +3283,17 @@
           "sie/Sie": "bereiten sich vor"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "bereitete mich vor",
+          "du": "bereitetest dich vor",
+          "er/sie/es": "bereitete sich vor",
+          "wir": "bereiteten uns vor",
+          "ihr": "bereitetet euch vor",
+          "sie/Sie": "bereiteten sich vor"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "sich_vorbereiten_verb",
@@ -2290,6 +3320,17 @@
           "sie/Sie": "setzen sich"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "setzte mich",
+          "du": "setztest dich",
+          "er/sie/es": "setzte sich",
+          "wir": "setzten uns",
+          "ihr": "setztet euch",
+          "sie/Sie": "setzten sich"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "sich_setzen_verb",
@@ -2311,6 +3352,17 @@
           "sie/Sie": "unterhalten sich"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "unterhielt mich",
+          "du": "unterhieltst dich",
+          "er/sie/es": "unterhielt sich",
+          "wir": "unterhielten uns",
+          "ihr": "unterhieltet euch",
+          "sie/Sie": "unterhielten sich"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "sich_unterhalten_verb",
@@ -2323,7 +3375,8 @@
       "presens": "strong",
       "preteritum": "strong",
       "perfektum": "strong"
-    }
+    },
+    "inseparable": true
   },
   "sich_bewegen_verb": {
     "word": "sich bewegen",
@@ -2338,13 +3391,25 @@
           "sie/Sie": "bewegt sich"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "bewegte mich",
+          "du": "bewegtest dich",
+          "er/sie/es": "bewegte sich",
+          "wir": "bewegten uns",
+          "ihr": "bewegtet euch",
+          "sie/Sie": "bewegten sich"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "sich_bewegen_verb",
     "audio": "verb_sich_bewegen.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 1278
+    "frequency": 1278,
+    "inseparable": true
   },
   "sollen_verb": {
     "word": "sollen",
@@ -2360,6 +3425,17 @@
           "sie/Sie": "sollen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "sollte",
+          "du": "solltest",
+          "er/sie/es": "sollte",
+          "wir": "sollten",
+          "ihr": "solltet",
+          "sie/Sie": "sollten"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "modal": true,
@@ -2387,6 +3463,17 @@
           "sie/Sie": "bringen mit"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "brachte mit",
+          "du": "brachtest mit",
+          "er/sie/es": "brachte mit",
+          "wir": "brachten mit",
+          "ihr": "brachtet mit",
+          "sie/Sie": "brachten mit"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "mitbringen_verb",
@@ -2417,6 +3504,17 @@
           "sie/Sie": "grillen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "grillte",
+          "du": "grilltest",
+          "er/sie/es": "grillte",
+          "wir": "grillten",
+          "ihr": "grilltet",
+          "sie/Sie": "grillten"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "grillen_verb",
@@ -2439,6 +3537,17 @@
           "sie/Sie": "planen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "plante",
+          "du": "plantest",
+          "er/sie/es": "plante",
+          "wir": "planten",
+          "ihr": "plantet",
+          "sie/Sie": "planten"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "planen_verb",
@@ -2461,6 +3570,17 @@
           "sie/Sie": "sitzen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "saß",
+          "du": "saßt",
+          "er/sie/es": "saß",
+          "wir": "saßen",
+          "ihr": "saßt",
+          "sie/Sie": "saßen"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "sitzen_verb",
@@ -2489,6 +3609,17 @@
           "sie/Sie": "lachen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "lachte",
+          "du": "lachtest",
+          "er/sie/es": "lachte",
+          "wir": "lachten",
+          "ihr": "lachtet",
+          "sie/Sie": "lachten"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "lachen_verb",
@@ -2511,6 +3642,17 @@
           "sie/Sie": "fragen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "fragte",
+          "du": "fragtest",
+          "er/sie/es": "fragte",
+          "wir": "fragten",
+          "ihr": "fragtet",
+          "sie/Sie": "fragten"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "fragen_verb",
@@ -2533,6 +3675,17 @@
           "sie/Sie": "verstehen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "verstand",
+          "du": "verstandst",
+          "er/sie/es": "verstand",
+          "wir": "verstanden",
+          "ihr": "verstandet",
+          "sie/Sie": "verstanden"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "verstehen_verb",
@@ -2545,7 +3698,8 @@
       "presens": "weak",
       "preteritum": "strong",
       "perfektum": "strong"
-    }
+    },
+    "inseparable": true
   },
   "helfen_verb": {
     "word": "helfen",
@@ -2561,6 +3715,17 @@
           "sie/Sie": "helfen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "half",
+          "du": "halfst",
+          "er/sie/es": "half",
+          "wir": "halfen",
+          "ihr": "halft",
+          "sie/Sie": "halfen"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "helfen_verb",
@@ -2589,6 +3754,17 @@
           "sie/Sie": "lächeln"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "lächelte",
+          "du": "lächeltest",
+          "er/sie/es": "lächelte",
+          "wir": "lächelten",
+          "ihr": "lächeltet",
+          "sie/Sie": "lächelten"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "laecheln_verb",
@@ -2611,6 +3787,17 @@
           "sie/Sie": "wecken"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "weckte",
+          "du": "wecktest",
+          "er/sie/es": "weckte",
+          "wir": "weckten",
+          "ihr": "wecktet",
+          "sie/Sie": "weckten"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "wecken_verb",
@@ -2633,6 +3820,17 @@
           "sie/Sie": "liegen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "lag",
+          "du": "lagst",
+          "er/sie/es": "lag",
+          "wir": "lagen",
+          "ihr": "lagt",
+          "sie/Sie": "lagen"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "liegen_verb",
@@ -2661,6 +3859,17 @@
           "sie/Sie": "putzen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "putzte",
+          "du": "putztest",
+          "er/sie/es": "putzte",
+          "wir": "putzten",
+          "ihr": "putztet",
+          "sie/Sie": "putzten"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "putzen_verb",
@@ -2683,6 +3892,17 @@
           "sie/Sie": "arbeiten"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "arbeitete",
+          "du": "arbeitetest",
+          "er/sie/es": "arbeitete",
+          "wir": "arbeiteten",
+          "ihr": "arbeitetet",
+          "sie/Sie": "arbeiteten"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "arbeiten_verb",
@@ -2705,6 +3925,17 @@
           "sie/Sie": "wissen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "wusste",
+          "du": "wusstest",
+          "er/sie/es": "wusste",
+          "wir": "wussten",
+          "ihr": "wusstet",
+          "sie/Sie": "wussten"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "wissen_verb",
@@ -2733,6 +3964,17 @@
           "sie/Sie": "geben"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "gab",
+          "du": "gabst",
+          "er/sie/es": "gab",
+          "wir": "gaben",
+          "ihr": "gabt",
+          "sie/Sie": "gaben"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "geben_verb",
@@ -2761,6 +4003,17 @@
           "sie/Sie": "vergessen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "vergaß",
+          "du": "vergaßt",
+          "er/sie/es": "vergaß",
+          "wir": "vergaßen",
+          "ihr": "vergaßt",
+          "sie/Sie": "vergaßen"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "vergessen_verb",
@@ -2773,7 +4026,8 @@
       "presens": "strong",
       "preteritum": "strong",
       "perfektum": "strong"
-    }
+    },
+    "inseparable": true
   },
   "klingen_verb": {
     "word": "klingen",
@@ -2789,6 +4043,17 @@
           "sie/Sie": "klingen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "klang",
+          "du": "klangst",
+          "er/sie/es": "klang",
+          "wir": "klangen",
+          "ihr": "klangt",
+          "sie/Sie": "klangen"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "klingen_verb",
@@ -2817,6 +4082,17 @@
           "sie/Sie": "hängen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "hing",
+          "du": "hingst",
+          "er/sie/es": "hing",
+          "wir": "hingen",
+          "ihr": "hingt",
+          "sie/Sie": "hingen"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "haengen_verb",
@@ -2839,6 +4115,17 @@
           "sie/Sie": "stehen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "stand",
+          "du": "standst",
+          "er/sie/es": "stand",
+          "wir": "standen",
+          "ihr": "standet",
+          "sie/Sie": "standen"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "stehen_verb",
@@ -2867,6 +4154,17 @@
           "sie/Sie": "warten"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "wartete",
+          "du": "wartetest",
+          "er/sie/es": "wartete",
+          "wir": "warteten",
+          "ihr": "wartetet",
+          "sie/Sie": "warteten"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "warten_verb",
@@ -2888,6 +4186,17 @@
           "ihr": "lauft",
           "sie/Sie": "laufen"
         }
+      },
+      "preteritum": {
+        "former": {
+          "ich": "lief",
+          "du": "liefst",
+          "er/sie/es": "lief",
+          "wir": "liefen",
+          "ihr": "lieft",
+          "sie/Sie": "liefen"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "laufen_verb",
@@ -2915,6 +4224,17 @@
           "ihr": "springt",
           "sie/Sie": "springen"
         }
+      },
+      "preteritum": {
+        "former": {
+          "ich": "sprang",
+          "du": "sprangst",
+          "er/sie/es": "sprang",
+          "wir": "sprangen",
+          "ihr": "sprangt",
+          "sie/Sie": "sprangen"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "springen_verb",
@@ -2942,6 +4262,17 @@
           "ihr": "glaubt",
           "sie/Sie": "glauben"
         }
+      },
+      "preteritum": {
+        "former": {
+          "ich": "glaubte",
+          "du": "glaubtest",
+          "er/sie/es": "glaubte",
+          "wir": "glaubten",
+          "ihr": "glaubtet",
+          "sie/Sie": "glaubten"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "glauben_verb",
@@ -2963,6 +4294,17 @@
           "ihr": "gewinnt",
           "sie/Sie": "gewinnen"
         }
+      },
+      "preteritum": {
+        "former": {
+          "ich": "gewann",
+          "du": "gewannst",
+          "er/sie/es": "gewann",
+          "wir": "gewannen",
+          "ihr": "gewannt",
+          "sie/Sie": "gewannen"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "gewinnen_verb",
@@ -2990,6 +4332,17 @@
           "ihr": "verliert",
           "sie/Sie": "verlieren"
         }
+      },
+      "preteritum": {
+        "former": {
+          "ich": "verlor",
+          "du": "verlorst",
+          "er/sie/es": "verlor",
+          "wir": "verloren",
+          "ihr": "verlort",
+          "sie/Sie": "verloren"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "verlieren_verb",
@@ -3002,7 +4355,8 @@
       "presens": "weak",
       "preteritum": "strong",
       "perfektum": "strong"
-    }
+    },
+    "inseparable": true
   },
   "danken_verb": {
     "word": "danken",
@@ -3017,6 +4371,17 @@
           "sie/Sie": "danken"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "dankte",
+          "du": "danktest",
+          "er/sie/es": "dankte",
+          "wir": "dankten",
+          "ihr": "danktet",
+          "sie/Sie": "dankten"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "danken_verb",
@@ -3038,6 +4403,17 @@
           "sie/Sie": "antworten"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "antwortete",
+          "du": "antwortetest",
+          "er/sie/es": "antwortete",
+          "wir": "antworteten",
+          "ihr": "antwortetet",
+          "sie/Sie": "antworteten"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "antworten_verb",
@@ -3059,13 +4435,25 @@
           "sie/Sie": "vertrauen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "vertraute",
+          "du": "vertrautest",
+          "er/sie/es": "vertraute",
+          "wir": "vertrauten",
+          "ihr": "vertrautet",
+          "sie/Sie": "vertrauten"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "vertrauen_verb",
     "audio": "verb_vertrauen.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 747
+    "frequency": 747,
+    "inseparable": true
   },
   "versprechen_verb": {
     "word": "versprechen",
@@ -3081,6 +4469,17 @@
           "sie/Sie": "versprechen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "versprach",
+          "du": "versprachst",
+          "er/sie/es": "versprach",
+          "wir": "versprachen",
+          "ihr": "verspracht",
+          "sie/Sie": "versprachen"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "versprechen_verb",
@@ -3093,7 +4492,8 @@
       "presens": "strong",
       "preteritum": "strong",
       "perfektum": "strong"
-    }
+    },
+    "inseparable": true
   },
   "erklaeren_verb": {
     "word": "erklären",
@@ -3108,13 +4508,25 @@
           "sie/Sie": "erklären"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "erklärte",
+          "du": "erklärtest",
+          "er/sie/es": "erklärte",
+          "wir": "erklärten",
+          "ihr": "erklärtet",
+          "sie/Sie": "erklärten"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "erklaeren_verb",
     "audio": "verb_erklaeren.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 744
+    "frequency": 744,
+    "inseparable": true
   },
   "zeigen_verb": {
     "word": "zeigen",
@@ -3129,6 +4541,17 @@
           "sie/Sie": "zeigen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "zeigte",
+          "du": "zeigtest",
+          "er/sie/es": "zeigte",
+          "wir": "zeigten",
+          "ihr": "zeigtet",
+          "sie/Sie": "zeigten"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "zeigen_verb",
@@ -3150,6 +4573,17 @@
           "sie/Sie": "bringen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "brachte",
+          "du": "brachtest",
+          "er/sie/es": "brachte",
+          "wir": "brachten",
+          "ihr": "brachtet",
+          "sie/Sie": "brachten"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "bringen_verb",
@@ -3177,13 +4611,25 @@
           "sie/Sie": "erzählen"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "erzählte",
+          "du": "erzähltest",
+          "er/sie/es": "erzählte",
+          "wir": "erzählten",
+          "ihr": "erzähltet",
+          "sie/Sie": "erzählten"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "erzaehlen_verb",
     "audio": "verb_erzaehlen.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 547
+    "frequency": 547,
+    "inseparable": true
   },
   "aufraeumen_verb": {
     "word": "aufräumen",
@@ -3199,6 +4645,17 @@
           "sie/Sie": "räumen auf"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "räumte auf",
+          "du": "räumtest auf",
+          "er/sie/es": "räumte auf",
+          "wir": "räumten auf",
+          "ihr": "räumtet auf",
+          "sie/Sie": "räumten auf"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "_id": "aufraeumen_verb",
@@ -3218,7 +4675,20 @@
     "audio": "verb_reisen.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 1934
+    "frequency": 1934,
+    "conjugations": {
+      "preteritum": {
+        "former": {
+          "ich": "reiste",
+          "du": "reistest",
+          "er/sie/es": "reiste",
+          "wir": "reisten",
+          "ihr": "reistet",
+          "sie/Sie": "reisten"
+        },
+        "feature": "grammar_preteritum"
+      }
+    }
   },
   "fernsehen_verb": {
     "word": "fernsehen",
@@ -3235,7 +4705,20 @@
       "perfektum": "strong",
       "separable": "fern"
     },
-    "separablePrefix": "fern"
+    "separablePrefix": "fern",
+    "conjugations": {
+      "preteritum": {
+        "former": {
+          "ich": "sah fern",
+          "du": "sahst fern",
+          "er/sie/es": "sah fern",
+          "wir": "sahen fern",
+          "ihr": "saht fern",
+          "sie/Sie": "sahen fern"
+        },
+        "feature": "grammar_preteritum"
+      }
+    }
   },
   "rad_fahren_verbphrase": {
     "word": "Rad fahren",
@@ -3244,7 +4727,20 @@
     "_id": "rad_fahren_verbphrase",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 3838
+    "frequency": 3838,
+    "conjugations": {
+      "preteritum": {
+        "former": {
+          "ich": "fuhr Rad",
+          "du": "fuhrst Rad",
+          "er/sie/es": "fuhr Rad",
+          "wir": "fuhren Rad",
+          "ihr": "fuhrt Rad",
+          "sie/Sie": "fuhren Rad"
+        },
+        "feature": "grammar_preteritum"
+      }
+    }
   },
   "musik_hoeren_verbphrase": {
     "word": "Musik hören",
@@ -3253,7 +4749,20 @@
     "_id": "musik_hoeren_verbphrase",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 295
+    "frequency": 295,
+    "conjugations": {
+      "preteritum": {
+        "former": {
+          "ich": "hörte Musik",
+          "du": "hörtest Musik",
+          "er/sie/es": "hörte Musik",
+          "wir": "hörten Musik",
+          "ihr": "hörtet Musik",
+          "sie/Sie": "hörten Musik"
+        },
+        "feature": "grammar_preteritum"
+      }
+    }
   },
   "moechten_modal": {
     "word": "möchten",
@@ -3269,6 +4778,17 @@
           "sie/Sie": "möchten"
         },
         "feature": "grammar_presens"
+      },
+      "preteritum": {
+        "former": {
+          "ich": "wollte",
+          "du": "wolltest",
+          "er/sie/es": "wollte",
+          "wir": "wollten",
+          "ihr": "wolltet",
+          "sie/Sie": "wollten"
+        },
+        "feature": "grammar_preteritum"
       }
     },
     "modal": true,
@@ -3288,7 +4808,21 @@
     "_id": "bekommen_verb",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 374
+    "frequency": 374,
+    "conjugations": {
+      "preteritum": {
+        "former": {
+          "ich": "bekam",
+          "du": "bekamst",
+          "er/sie/es": "bekam",
+          "wir": "bekamen",
+          "ihr": "bekamt",
+          "sie/Sie": "bekamen"
+        },
+        "feature": "grammar_preteritum"
+      }
+    },
+    "inseparable": true
   },
   "gassi_gehen_verbphrase": {
     "word": "Gassi gehen",
@@ -3297,7 +4831,20 @@
     "_id": "gassi_gehen_verbphrase",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 16907
+    "frequency": 16907,
+    "conjugations": {
+      "preteritum": {
+        "former": {
+          "ich": "ging Gassi",
+          "du": "gingst Gassi",
+          "er/sie/es": "ging Gassi",
+          "wir": "gingen Gassi",
+          "ihr": "gingt Gassi",
+          "sie/Sie": "gingen Gassi"
+        },
+        "feature": "grammar_preteritum"
+      }
+    }
   },
   "klettern_verb": {
     "word": "klettern",
@@ -3306,7 +4853,20 @@
     "_id": "klettern_verb",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 6387
+    "frequency": 6387,
+    "conjugations": {
+      "preteritum": {
+        "former": {
+          "ich": "kletterte",
+          "du": "klettertest",
+          "er/sie/es": "kletterte",
+          "wir": "kletterten",
+          "ihr": "klettertet",
+          "sie/Sie": "kletterten"
+        },
+        "feature": "grammar_preteritum"
+      }
+    }
   },
   "wegfahren_verb": {
     "word": "wegfahren",
@@ -3324,7 +4884,20 @@
       "perfektum": "strong",
       "separable": "weg"
     },
-    "separablePrefix": "weg"
+    "separablePrefix": "weg",
+    "conjugations": {
+      "preteritum": {
+        "former": {
+          "ich": "fuhr weg",
+          "du": "fuhrst weg",
+          "er/sie/es": "fuhr weg",
+          "wir": "fuhren weg",
+          "ihr": "fuhrt weg",
+          "sie/Sie": "fuhren weg"
+        },
+        "feature": "grammar_preteritum"
+      }
+    }
   },
   "liegen_bleiben_verb": {
     "word": "liegen bleiben",
@@ -3333,7 +4906,20 @@
     "_id": "liegen_bleiben_verb",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 930
+    "frequency": 930,
+    "conjugations": {
+      "preteritum": {
+        "former": {
+          "ich": "blieb liegen",
+          "du": "bliebst liegen",
+          "er/sie/es": "blieb liegen",
+          "wir": "blieben liegen",
+          "ihr": "bliebt liegen",
+          "sie/Sie": "blieben liegen"
+        },
+        "feature": "grammar_preteritum"
+      }
+    }
   },
   "sich_aergern_ueber_verb": {
     "word": "sich ärgern über",
@@ -3342,7 +4928,20 @@
     "_id": "sich_aergern_ueber_verb",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 5528
+    "frequency": 5528,
+    "conjugations": {
+      "preteritum": {
+        "former": {
+          "ich": "ärgerte mich über",
+          "du": "ärgertest dich über",
+          "er/sie/es": "ärgerte sich über",
+          "wir": "ärgerten uns über",
+          "ihr": "ärgerten euch über",
+          "sie/Sie": "ärgerten sich über"
+        },
+        "feature": "grammar_preteritum"
+      }
+    }
   },
   "mitkommen_verb": {
     "word": "mitkommen",
@@ -3360,7 +4959,20 @@
       "perfektum": "strong",
       "separable": "mit"
     },
-    "separablePrefix": "mit"
+    "separablePrefix": "mit",
+    "conjugations": {
+      "preteritum": {
+        "former": {
+          "ich": "kam mit",
+          "du": "kamst mit",
+          "er/sie/es": "kam mit",
+          "wir": "kamen mit",
+          "ihr": "kamt mit",
+          "sie/Sie": "kamen mit"
+        },
+        "feature": "grammar_preteritum"
+      }
+    }
   },
   "spazieren_gehen_verb": {
     "word": "spazieren gehen",
@@ -3369,7 +4981,20 @@
     "_id": "spazieren_gehen_verb",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 2702
+    "frequency": 2702,
+    "conjugations": {
+      "preteritum": {
+        "former": {
+          "ich": "ging spazieren",
+          "du": "gingst spazieren",
+          "er/sie/es": "ging spazieren",
+          "wir": "gingen spazieren",
+          "ihr": "gingt spazieren",
+          "sie/Sie": "gingen spazieren"
+        },
+        "feature": "grammar_preteritum"
+      }
+    }
   },
   "fertig_werden_verbphrase": {
     "word": "fertig werden",
@@ -3378,7 +5003,20 @@
     "_id": "fertig_werden_verbphrase",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 314
+    "frequency": 314,
+    "conjugations": {
+      "preteritum": {
+        "former": {
+          "ich": "wurde fertig",
+          "du": "wurdest fertig",
+          "er/sie/es": "wurde fertig",
+          "wir": "wurden fertig",
+          "ihr": "wurdet fertig",
+          "sie/Sie": "wurden fertig"
+        },
+        "feature": "grammar_preteritum"
+      }
+    }
   },
   "zaehneputzen_verb": {
     "word": "Zähne putzen",
@@ -3387,7 +5025,20 @@
     "audio": "verb_zaehne_putzen.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 2156
+    "frequency": 2156,
+    "conjugations": {
+      "preteritum": {
+        "former": {
+          "ich": "putzte Zähne",
+          "du": "putztest Zähne",
+          "er/sie/es": "putzte Zähne",
+          "wir": "putzten Zähne",
+          "ihr": "putztet Zähne",
+          "sie/Sie": "putzten Zähne"
+        },
+        "feature": "grammar_preteritum"
+      }
+    }
   },
   "ausziehen_verb": {
     "word": "ausziehen",
@@ -3405,7 +5056,20 @@
       "perfektum": "strong",
       "separable": "aus"
     },
-    "separablePrefix": "aus"
+    "separablePrefix": "aus",
+    "conjugations": {
+      "preteritum": {
+        "former": {
+          "ich": "zog aus",
+          "du": "zogst aus",
+          "er/sie/es": "zog aus",
+          "wir": "zogen aus",
+          "ihr": "zogt aus",
+          "sie/Sie": "zogen aus"
+        },
+        "feature": "grammar_preteritum"
+      }
+    }
   },
   "einschlafen_verb": {
     "word": "einschlafen",
@@ -3423,7 +5087,20 @@
       "perfektum": "strong",
       "separable": "ein"
     },
-    "separablePrefix": "ein"
+    "separablePrefix": "ein",
+    "conjugations": {
+      "preteritum": {
+        "former": {
+          "ich": "schlief ein",
+          "du": "schliefst ein",
+          "er/sie/es": "schlief ein",
+          "wir": "schliefen ein",
+          "ihr": "schlieft ein",
+          "sie/Sie": "schliefen ein"
+        },
+        "feature": "grammar_preteritum"
+      }
+    }
   },
   "abfahren_verb": {
     "word": "abfahren",
