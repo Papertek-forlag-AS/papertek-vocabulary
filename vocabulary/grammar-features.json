@@ -2,7 +2,7 @@
   "_metadata": {
     "description": "Grammar features for progressive disclosure in vocabulary apps",
     "usage": "Add new features here. Both the API and the app read from this file.",
-    "updatedAt": "2026-02-08"
+    "updatedAt": "2026-02-22"
   },
   "de": {
     "language": "German",
@@ -117,6 +117,27 @@
         "category": "nouns",
         "appliesTo": ["noun"],
         "dataPath": "cases.dativ"
+      },
+      {
+        "id": "grammar_noun_declension",
+        "name": "Kasusbøyning",
+        "nameEn": "Noun Declension",
+        "description": "Kasusbøyning av substantiv (nominativ, akkusativ, dativ, genitiv)",
+        "descriptionEn": "Noun case declension (nominative, accusative, dative, genitive)",
+        "category": "nouns",
+        "appliesTo": ["noun"],
+        "dataPath": "cases"
+      },
+      {
+        "id": "grammar_genitiv",
+        "name": "Genitiv",
+        "nameEn": "Genitive Case",
+        "description": "Genitivbøyning av substantiv (des/der/des)",
+        "descriptionEn": "Genitive case declension of nouns",
+        "category": "nouns",
+        "appliesTo": ["noun"],
+        "dataPath": "cases.genitiv",
+        "dependsOn": "grammar_noun_declension"
       },
       {
         "id": "grammar_comparative",
