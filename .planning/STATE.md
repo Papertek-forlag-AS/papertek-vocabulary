@@ -5,14 +5,14 @@
 See: .planning/PROJECT.md (updated 2026-02-22)
 
 **Core value:** Complete, correct vocabulary data so Leksihjelp's inflection search can find any German word form and return the base entry.
-**Current focus:** Phase 15 — Sync & Integration (COMPLETE — all dict banks bridged to core, v2 handler updated)
+**Current focus:** Phase 15 — Sync & Integration (COMPLETE — all dict banks bridged to core, v2 handler updated, search index rebuilt with pp, verify:integration script confirms all 5 SYNC requirements)
 
 ## Current Position
 
 Phase: 15 of 15 in v1.2 (Sync & Integration)
-Plan: 2 of 2 complete
-Status: Phase 15 COMPLETE — all SYNC requirements fulfilled; dict banks fully synced, v2 handler updated
-Last activity: 2026-02-22 — Phase 15 Plan 02 executed (sync perfektum + noun declension to dict banks, v2 handler update)
+Plan: 3 of 3 complete
+Status: Phase 15 COMPLETE — all SYNC requirements fulfilled; search index rebuilt with pp, verify:integration exits 0
+Last activity: 2026-02-22 — Phase 15 Plan 03 executed (rebuild search index with pp field, create verify:integration script)
 
 Progress: [██████████] 100% (v1.2)
 
@@ -29,6 +29,7 @@ Progress: [██████████] 100% (v1.2)
 | Phase 14 Plan 01 | 1 min | 1 task | 3 files |
 | Phase 14 P02 | 9 | 2 tasks | 2 files |
 | Phase 15 P02 | 2 | 2 tasks | 5 files |
+| Phase 15-sync-integration P03 | 3 | 2 tasks | 4 files |
 
 ## Accumulated Context
 
@@ -58,6 +59,8 @@ Recent decisions affecting v1.2:
 - [Phase 15-01-validation-baseline]: Dict bank _metadata.type field removed — _metadata is metadata not a word entry; type:dictionary was never valid per noun/verb schemas
 - [Phase 15-sync-integration]: koennen_modal does not exist in core verbbank — only moechten_modal exists as modal; spot-check adjusted accordingly, moechten_modal has modal_note and was synced correctly
 - [Phase 15-sync-integration]: Sync scripts (sync-perfektum.js, sync-nouns.js) follow sync-preteritum.js canonical ESM pattern; scripts serve as permanent audit trail for data provenance
+- [Phase 15-sync-integration]: build-search-index.js reads all 8 dict banks for complete 3454-entry rebuild including articlesbank/numbersbank/phrasesbank/pronounsbank
+- [Phase 15-sync-integration]: verify-integration.js is permanent (28 checks across SYNC-01 to SYNC-05); uses AJV directly rather than child processes
 
 ### Blockers/Concerns
 
@@ -71,5 +74,5 @@ Recent decisions affecting v1.2:
 ## Session Continuity
 
 Last session: 2026-02-22
-Stopped at: Phase 15 Plan 01 complete — AJV zero-error validation baseline for all 4 banks (core+dict nouns+verbs); 547 core errors + dict errors eliminated (11 files, 2 task commits)
+Stopped at: Phase 15 Plan 03 complete — search index rebuilt with pp field on 144 verbs; verify:integration script confirms all 5 SYNC requirements (28/28 checks pass)
 Resume file: N/A — v1.2 milestone COMPLETE; all SYNC requirements fulfilled

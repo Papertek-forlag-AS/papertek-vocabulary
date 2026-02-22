@@ -42,7 +42,7 @@
 - [x] **Phase 12: Pre-Entry Audit** — Flag inseparable verbs, n-Deklination nouns; backfill preteritum to dictionary bank (completed 2026-02-22)
 - [x] **Phase 13: Perfektum Data** — Add Perfektum conjugations for all 148 verbs in the core verbbank (completed 2026-02-22)
 - [x] **Phase 14: Noun Declension Data** — Add 4-case declension for all 331 nouns in the core nounbank (completed 2026-02-22)
-- [ ] **Phase 15: Sync & Integration** — Mirror to dictionary banks, rebuild search index, update v2 handler, validate all
+- [x] **Phase 15: Sync & Integration** — Mirror to dictionary banks, rebuild search index, update v2 handler, validate all (completed 2026-02-22)
 
 ## Phase Details
 
@@ -111,7 +111,7 @@ Plans:
   3. `vocabulary/dictionary/de/search-index.json` has a `pp` (past participle) field on all 148 verb entries, enabling past-participle inflection lookup
   4. The v2 lookup handler emits `grammar_noun_declension` and `grammar_genitiv` feature flags when a noun with declension data is requested
   5. Schema validation (`npm run validate:verbs` and `npm run validate:nouns`) passes on both core and dictionary banks with zero errors
-**Plans:** 2/3 plans executed
+**Plans:** 3/3 plans complete
 Plans:
 - [ ] 15-01-PLAN.md — Validation cleanup: fix 547 pre-existing errors to 0, create validate:verbs
 - [ ] 15-02-PLAN.md — Data sync and handler: sync perfektum/nouns to dict banks, update v2 feature flags
@@ -135,4 +135,4 @@ Plans:
 | 12. Pre-Entry Audit | 1/1 | Complete    | 2026-02-22 | - |
 | 13. Perfektum Data | 1/1 | Complete    | 2026-02-22 | - |
 | 14. Noun Declension Data | 2/2 | Complete    | 2026-02-22 | - |
-| 15. Sync & Integration | 2/3 | In Progress|  | - |
+| 15. Sync & Integration | 3/3 | Complete   | 2026-02-22 | - |
