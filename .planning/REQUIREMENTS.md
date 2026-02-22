@@ -58,23 +58,23 @@ Which phases cover which requirements. Updated during roadmap creation.
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| DATA-01 | — | Pending |
-| DATA-02 | — | Pending |
-| DATA-03 | — | Pending |
-| DATA-04 | — | Pending |
-| DATA-05 | — | Pending |
-| DATA-06 | — | Pending |
-| API-01 | — | Pending |
-| API-02 | — | Pending |
-| API-03 | — | Pending |
-| TOOL-01 | — | Pending |
-| TOOL-02 | — | Pending |
+| DATA-01 | Phase 16 | Pending |
+| DATA-02 | Phase 16 | Pending |
+| DATA-03 | Phase 16 | Pending |
+| DATA-04 | Phase 16 | Pending |
+| DATA-05 | Phase 16 | Pending |
+| DATA-06 | Phase 16 | Pending |
+| API-01 | Phase 17 | Pending |
+| API-02 | Phase 17 | Pending |
+| API-03 | Phase 17 | Pending |
+| TOOL-01 | Phase 18 | Pending |
+| TOOL-02 | Phase 18 | Pending |
 
 **Coverage:**
 - v1.3 requirements: 11 total
-- Mapped to phases: 0
-- Unmapped: 11 ⚠️
+- Mapped to phases: 11
+- Unmapped: 0 ✓
 
 ---
 *Requirements defined: 2026-02-22*
-*Last updated: 2026-02-22 after initial definition*
+*Last updated: 2026-02-22 after v1.3 roadmap created*

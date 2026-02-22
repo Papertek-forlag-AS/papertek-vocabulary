@@ -5,6 +5,7 @@
 - ✅ **v1.0 German Data Completeness** — Phases 1-2 (shipped 2026-02-20)
 - ✅ **v1.1 German Adjective Declension** — Phases 3-10 (shipped 2026-02-22)
 - ✅ **v1.2 German Perfektum & Noun Declension** — Phases 11-15 (shipped 2026-02-22)
+- **v1.3 Tech Debt Cleanup** — Phases 16-18 (in progress)
 
 ## Phases
 
@@ -47,6 +48,45 @@
 
 </details>
 
+**v1.3 Tech Debt Cleanup (Phases 16-18)**
+
+- [ ] **Phase 16: Data Fixes** - Correct missing/wrong fields across noun and verb data banks
+- [ ] **Phase 17: API Fixes** - Fix v2 handler grammar ID, missing feature flags, and hidden fields
+- [ ] **Phase 18: Tooling Fixes** - Register all scripts in package.json and unify validate:all
+
+## Phase Details
+
+### Phase 16: Data Fixes
+**Goal**: All noun and verb data banks are complete and correct — no missing required fields, no stale counts
+**Depends on**: Nothing (first phase of v1.3)
+**Requirements**: DATA-01, DATA-02, DATA-03, DATA-04, DATA-05, DATA-06
+**Success Criteria** (what must be TRUE):
+  1. `morgenmensch_noun` has a `genus` field in the dict nounbank
+  2. All 148 core verbbank entries have a `type` field (regular/irregular/modal/separable/reflexive)
+  3. All 144 non-verbphrase verbs have presens conjugation objects with all 6 pronoun forms
+  4. Core manifest counts (generalbank, nounbank, verbbank) match actual entry counts in each bank
+  5. The 2 nouns with declension-based plurals have their top-level `plural` field populated, and `leute_noun` has a `genus` field (or an explicitly documented null)
+**Plans**: TBD
+
+### Phase 17: API Fixes
+**Goal**: The v2 API handler exposes complete, consistently-named grammar features and all entry-level fields
+**Depends on**: Phase 16
+**Requirements**: API-01, API-02, API-03
+**Success Criteria** (what must be TRUE):
+  1. A v2 API response for a verb entry uses the ID `grammar_presens` (not `grammar_present`) in its feature flags
+  2. A v2 API response for an adjective entry emits the `grammar_adjective_genitive` feature flag when Genitiv data is present
+  3. A v2 API response for `teuer_adj` includes the `declension_alternatives` field
+**Plans**: TBD
+
+### Phase 18: Tooling Fixes
+**Goal**: All project scripts are discoverable and runnable via npm, and a single `validate:all` command covers the full validation suite
+**Depends on**: Phase 16
+**Requirements**: TOOL-01, TOOL-02
+**Success Criteria** (what must be TRUE):
+  1. Running `npm run build:search-index` executes `build-search-index.js` without error
+  2. Running `npm run validate:all` executes nouns, verbs, dict variants, and integration checks — all passing — in a single command
+**Plans**: TBD
+
 ## Progress
 
 | Phase | Milestone | Plans Complete | Status | Completed |
@@ -66,3 +106,6 @@
 | 13. Perfektum Data | v1.2 | 1/1 | Complete | 2026-02-22 |
 | 14. Noun Declension Data | v1.2 | 2/2 | Complete | 2026-02-22 |
 | 15. Sync & Integration | v1.2 | 3/3 | Complete | 2026-02-22 |
+| 16. Data Fixes | v1.3 | 0/TBD | Not started | - |
+| 17. API Fixes | v1.3 | 0/TBD | Not started | - |
+| 18. Tooling Fixes | v1.3 | 0/TBD | Not started | - |
