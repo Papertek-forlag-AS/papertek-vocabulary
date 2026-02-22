@@ -9,11 +9,11 @@ Requirements for milestone v1.2 — German Perfektum & Noun Declension. Each map
 
 ### Schema
 
-- [ ] **SCHEMA-01**: Verb schema extended with `auxiliary` (haben/sein/both), `participle` (string), and `auxiliary_note` (object) optional fields in tenseConjugation
-- [ ] **SCHEMA-02**: Verb schema extended with entry-level `inseparable` boolean flag
-- [ ] **SCHEMA-03**: Noun schema extended with `singular`/`plural` sub-objects on caseEntry (additive alongside existing flat bestemt/ubestemt)
-- [ ] **SCHEMA-04**: Noun schema extended with entry-level `weak_masculine` boolean flag
-- [ ] **SCHEMA-05**: `grammar_noun_declension` and `grammar_genitiv` features registered in grammar-features.json
+- [x] **SCHEMA-01**: Verb schema extended with `auxiliary` (haben/sein/both), `participle` (string), and `auxiliary_note` (object) optional fields in tenseConjugation
+- [x] **SCHEMA-02**: Verb schema extended with entry-level `inseparable` boolean flag
+- [x] **SCHEMA-03**: Noun schema extended with `singular`/`plural` sub-objects on caseEntry (additive alongside existing flat bestemt/ubestemt)
+- [x] **SCHEMA-04**: Noun schema extended with entry-level `weak_masculine` boolean flag
+- [x] **SCHEMA-05**: `grammar_noun_declension` and `grammar_genitiv` features registered in grammar-features.json
 
 ### Audit
 
@@ -77,11 +77,11 @@ Which phases cover which requirements. Updated during roadmap creation.
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| SCHEMA-01 | Phase 11 | Pending |
-| SCHEMA-02 | Phase 11 | Pending |
-| SCHEMA-03 | Phase 11 | Pending |
-| SCHEMA-04 | Phase 11 | Pending |
-| SCHEMA-05 | Phase 11 | Pending |
+| SCHEMA-01 | Phase 11 | Complete |
+| SCHEMA-02 | Phase 11 | Complete |
+| SCHEMA-03 | Phase 11 | Complete |
+| SCHEMA-04 | Phase 11 | Complete |
+| SCHEMA-05 | Phase 11 | Complete |
 | AUDIT-01 | Phase 12 | Pending |
 | AUDIT-02 | Phase 12 | Pending |
 | AUDIT-03 | Phase 12 | Pending |

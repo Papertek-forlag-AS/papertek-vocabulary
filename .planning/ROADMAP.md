@@ -38,7 +38,7 @@
 
 **Milestone Goal:** Add Perfektum conjugations for all 148 German verbs and full 4-case declension for all 331 German nouns, both schema-validated and indexed for inflection search.
 
-- [ ] **Phase 11: Schema Extensions** — Extend verb and noun schemas; register grammar features
+- [x] **Phase 11: Schema Extensions** — Extend verb and noun schemas; register grammar features (completed 2026-02-22)
 - [ ] **Phase 12: Pre-Entry Audit** — Flag inseparable verbs, n-Deklination nouns; backfill preteritum to dictionary bank
 - [ ] **Phase 13: Perfektum Data** — Add Perfektum conjugations for all 148 verbs in the core verbbank
 - [ ] **Phase 14: Noun Declension Data** — Add 4-case declension for all 331 nouns in the core nounbank
@@ -56,7 +56,7 @@
   3. `noun.schema.json` accepts `singular`/`plural` sub-objects on caseEntry alongside existing flat `bestemt`/`ubestemt` (additive, no migration)
   4. `noun.schema.json` accepts entry-level `weak_masculine: true` without breaking existing entries
   5. `grammar-features.json` contains `grammar_noun_declension` and `grammar_genitiv` feature entries
-**Plans:** 1 plan
+**Plans:** 1/1 plans complete
 Plans:
 - [ ] 11-01-PLAN.md — Extend verb/noun schemas and register grammar features
 
@@ -120,7 +120,7 @@ Plans:
 | 8. Declension Tables | v1.1 | 1/1 | Complete | 2026-02-21 |
 | 9. Translations | v1.1 | 1/1 | Complete | 2026-02-21 |
 | 10. Integration | v1.1 | 1/1 | Complete | 2026-02-21 |
-| 11. Schema Extensions | v1.2 | 0/1 | Planned | - |
+| 11. Schema Extensions | 1/1 | Complete   | 2026-02-22 | - |
 | 12. Pre-Entry Audit | v1.2 | 0/? | Not started | - |
 | 13. Perfektum Data | v1.2 | 0/? | Not started | - |
 | 14. Noun Declension Data | v1.2 | 0/? | Not started | - |
