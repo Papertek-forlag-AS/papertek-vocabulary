@@ -51,7 +51,7 @@
 **v1.3 Tech Debt Cleanup (Phases 16-18)**
 
 - [x] **Phase 16: Data Fixes** - Correct missing/wrong fields across noun and verb data banks (completed 2026-02-22)
-- [ ] **Phase 17: API Fixes** - Fix v2 handler grammar ID, missing feature flags, and hidden fields
+- [x] **Phase 17: API Fixes** - Fix v2 handler grammar ID, missing feature flags, and hidden fields (completed 2026-02-22)
 - [ ] **Phase 18: Tooling Fixes** - Register all scripts in package.json and unify validate:all
 
 ## Phase Details
@@ -113,5 +113,5 @@ Plans:
 | 14. Noun Declension Data | v1.2 | 2/2 | Complete | 2026-02-22 |
 | 15. Sync & Integration | v1.2 | 3/3 | Complete | 2026-02-22 |
 | 16. Data Fixes | 3/3 | Complete    | 2026-02-22 | - |
-| 17. API Fixes | v1.3 | 0/1 | Not started | - |
+| 17. API Fixes | 1/1 | Complete   | 2026-02-22 | - |
 | 18. Tooling Fixes | v1.3 | 0/TBD | Not started | - |

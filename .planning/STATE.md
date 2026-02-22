@@ -5,16 +5,16 @@
 See: .planning/PROJECT.md (updated 2026-02-22)
 
 **Core value:** Complete, correct vocabulary data so Leksihjelp's inflection search can find any German word form and return the base entry.
-**Current focus:** v1.3 Tech Debt Cleanup — Phase 16: Data Fixes
+**Current focus:** v1.3 Tech Debt Cleanup — Phase 17: API Fixes
 
 ## Current Position
 
-Phase: 16 — Data Fixes
-Plan: 03 of 3 complete
+Phase: 17 — API Fixes
+Plan: 01 of 1 complete
 Status: Phase complete
-Last activity: 2026-02-22 — Phase 16 Plan 03 complete (manifest count fixes — DATA-04)
+Last activity: 2026-02-22 — Phase 17 Plan 01 complete (v2 lookup API fixes — API-01, API-02, API-03)
 
-Progress: [██████░░░░░░░░░░░░░░] 1/3 phases complete
+Progress: [████████████░░░░░░░░] 2/3 phases complete
 
 ## Performance Metrics
 
@@ -41,6 +41,11 @@ Decisions logged in PROJECT.md Key Decisions table (15 decisions, all ✓ Good o
 - strong → irregular, weak → regular throughout verbbank (enum preserves old values for backward compat)
 - scripts/fix-manifest-counts.js counts entries dynamically (no hardcoded values) — safe to re-run as health check; curriculumWords confirmed 867 by direct count
 
+**Phase 17 decisions:**
+- German presens feature ID uses `grammar_presens` (not `grammar_present`) — aligns with German-native naming convention established by grammar_preteritum/grammar_perfektum
+- Spanish and French retain `grammar_present` — their languages use generic present tense terminology
+- Adjective genitive check covers stark/schwach/gemischt — defensive check ensures any adjective with genitiv in any declension type gets the feature flag
+
 ### Blockers/Concerns
 
 - CDN cache: Vercel s-maxage=86400 — after deploy, up to 24h before new data reaches Leksihjelp end users unless CDN is purged manually.
@@ -52,5 +57,5 @@ Decisions logged in PROJECT.md Key Decisions table (15 decisions, all ✓ Good o
 ## Session Continuity
 
 Last session: 2026-02-22
-Stopped at: Completed 16-03-PLAN.md (manifest count fixes — DATA-04)
-Resume with: Phase 16 complete — next milestone phase
+Stopped at: Completed 17-01-PLAN.md (v2 lookup API fixes — API-01, API-02, API-03)
+Resume with: Phase 17 complete — all API requirements met

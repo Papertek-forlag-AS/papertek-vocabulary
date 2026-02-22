@@ -18,9 +18,9 @@ Requirements for tech debt cleanup. Each maps to roadmap phases.
 
 ### API Fixes
 
-- [ ] **API-01**: v2 handler uses consistent grammar feature ID (`grammar_presens` not `grammar_present`)
-- [ ] **API-02**: v2 handler emits `grammar_adjective_genitive` feature flag for adjective Genitiv data
-- [ ] **API-03**: v2 handler surfaces `declension_alternatives` field for entries that have it (teuer_adj)
+- [x] **API-01**: v2 handler uses consistent grammar feature ID (`grammar_presens` not `grammar_present`)
+- [x] **API-02**: v2 handler emits `grammar_adjective_genitive` feature flag for adjective Genitiv data
+- [x] **API-03**: v2 handler surfaces `declension_alternatives` field for entries that have it (teuer_adj)
 
 ### Tooling
 
@@ -64,9 +64,9 @@ Which phases cover which requirements. Updated during roadmap creation.
 | DATA-04 | Phase 16 | Complete |
 | DATA-05 | Phase 16 | Complete |
 | DATA-06 | Phase 16 | Complete |
-| API-01 | Phase 17 | Pending |
-| API-02 | Phase 17 | Pending |
-| API-03 | Phase 17 | Pending |
+| API-01 | Phase 17 | Complete |
+| API-02 | Phase 17 | Complete |
+| API-03 | Phase 17 | Complete |
 | TOOL-01 | Phase 18 | Pending |
 | TOOL-02 | Phase 18 | Pending |
 
