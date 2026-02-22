@@ -9,13 +9,13 @@ Requirements for German Adjective Declension milestone. Each maps to roadmap pha
 
 ### Cleanup
 
-- [ ] **CLEAN-01**: beste_adj collision with gut's superlative resolved (removed or documented as intentional)
-- [ ] **CLEAN-02**: Lieblings- prefix entry correctly handled (removed from adjective bank or re-typed)
-- [ ] **CLEAN-03**: Schema `translations` field changed from required to optional (fixes validation for all 108 existing entries)
+- [x] **CLEAN-01**: beste_adj collision with gut's superlative resolved (removed or documented as intentional)
+- [x] **CLEAN-02**: Lieblings- prefix entry correctly handled (removed from adjective bank or re-typed)
+- [x] **CLEAN-03**: Schema `translations` field changed from required to optional (fixes validation for all 108 existing entries)
 
 ### Bank Expansion
 
-- [ ] **BANK-01**: Adjectives extracted from Goethe A1/A2/B1 "other" wordlists using attributive test ("ein ___er Mann"), deduplicated against existing 108 entries
+- [x] **BANK-01**: Adjectives extracted from Goethe A1/A2/B1 "other" wordlists using attributive test ("ein ___er Mann"), deduplicated against existing 108 entries
 - [x] **BANK-02**: New adjective entries added to core bank (`vocabulary/core/de/adjectivebank.json`) with word, _id, audio fields
 - [x] **BANK-03**: New adjective entries mirrored to dictionary bank (`vocabulary/dictionary/de/adjectivebank.json`) with curriculum, cefr, frequency metadata
 - [x] **BANK-04**: Norwegian (nb) translations provided for all new adjective entries
@@ -73,10 +73,10 @@ Deferred to future release. Tracked but not in current roadmap.
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| CLEAN-01 | Phase 3 | Pending |
-| CLEAN-02 | Phase 3 | Pending |
-| CLEAN-03 | Phase 3 | Pending |
-| BANK-01 | Phase 4 | Pending |
+| CLEAN-01 | Phase 3 | Complete |
+| CLEAN-02 | Phase 3 | Complete |
+| CLEAN-03 | Phase 3 | Complete |
+| BANK-01 | Phase 4 | Complete |
 | BANK-02 | Phase 6 | Complete |
 | BANK-03 | Phase 6 | Complete |
 | BANK-04 | Phase 9 | Complete |
