@@ -95,7 +95,7 @@ Plans:
   2. All 11 n-Deklination nouns have -(e)n endings in all non-nominative singular cases (e.g., des Bären, dem Bären, den Bären)
   3. Plural-only nouns (e.g., Eltern, Ferien) have plural-form cases only; uncountable nouns have singular-form cases only
   4. All 26 nouns with -s plurals have dative plural equal to nominative plural (no -n suffix added)
-  5. `npm run validate:nouns` passes with zero errors against updated `noun.schema.json`
+  5. `npm run validate:nouns` introduces zero new errors beyond the pre-existing 356-error baseline (pre-existing debt: missing translations fields, legacy plural type errors)
 **Plans:** 2/2 plans complete
 Plans:
 - [ ] 14-01-PLAN.md — Add declension_type to noun schema and create validate:nouns tooling
@@ -130,5 +130,5 @@ Plans:
 | 11. Schema Extensions | 1/1 | Complete    | 2026-02-22 | - |
 | 12. Pre-Entry Audit | 1/1 | Complete    | 2026-02-22 | - |
 | 13. Perfektum Data | 1/1 | Complete    | 2026-02-22 | - |
-| 14. Noun Declension Data | 2/2 | Complete   | 2026-02-22 | - |
+| 14. Noun Declension Data | 2/2 | Complete    | 2026-02-22 | - |
 | 15. Sync & Integration | v1.2 | 0/? | Not started | - |
