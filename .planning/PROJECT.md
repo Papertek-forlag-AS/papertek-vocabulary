@@ -39,7 +39,15 @@ v1.1 shipped. German noun, verb, and adjective data complete for inflection sear
 
 ### Active
 
-(None — define with `/gsd:new-milestone`)
+#### Current Milestone: v1.2 — German Perfektum & Noun Declension
+
+**Goal:** Add Perfektum conjugations for all German verbs and full declension tables for all German nouns, both searchable and displayable.
+
+**Target features:**
+- Verb Perfektum: past participle + full conjugation (6 pronouns x haben/sein) for all 148 verbs
+- Dual-auxiliary verb handling: flag + explanation of when each auxiliary is used
+- Noun declension: 4 cases x singular/plural with definite and indefinite articles for all 331 nouns
+- Search index expansion: past participles and declined noun forms indexed for inflection search
 
 ### Out of Scope
 
@@ -79,4 +87,4 @@ v1.1 shipped. German noun, verb, and adjective data complete for inflection sear
 | Frequency-0 for 11 words missing from de_50k.txt | Placeholder; can be backfilled later | — Pending |
 
 ---
-*Last updated: 2026-02-22 after v1.1 milestone completion*
+*Last updated: 2026-02-22 after v1.2 milestone started*

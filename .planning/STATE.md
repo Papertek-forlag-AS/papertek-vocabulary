@@ -5,16 +5,14 @@
 See: .planning/PROJECT.md (updated 2026-02-22)
 
 **Core value:** Complete, correct vocabulary data so Leksihjelp's inflection search can find any German word form and return the base entry.
-**Current focus:** Planning next milestone
+**Current focus:** Defining requirements for v1.2
 
 ## Current Position
 
-Phase: — (between milestones)
+Phase: Not started (defining requirements)
 Plan: —
-Status: v1.1 shipped — all 25 requirements satisfied, 8 phases complete
-Last activity: 2026-02-22 — v1.1 milestone archived
-
-Progress: [██████████] 100% (v1.1 complete)
+Status: Defining requirements
+Last activity: 2026-02-22 — Milestone v1.2 started
 
 ## Performance Metrics
 
@@ -42,5 +40,5 @@ Decisions logged in PROJECT.md Key Decisions table.
 ## Session Continuity
 
 Last session: 2026-02-22
-Stopped at: v1.1 milestone archived — ready for next milestone
-Resume file: N/A — use `/gsd:new-milestone` to start next cycle
+Stopped at: v1.2 requirements being defined
+Resume file: N/A
