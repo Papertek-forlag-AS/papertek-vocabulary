@@ -10,9 +10,9 @@ See: .planning/PROJECT.md (updated 2026-02-22)
 ## Current Position
 
 Phase: 16 — Data Fixes
-Plan: — (not started)
-Status: Ready to plan
-Last activity: 2026-02-22 — v1.3 roadmap created (3 phases, 11 requirements)
+Plan: 01 of TBD complete
+Status: In progress
+Last activity: 2026-02-22 — Phase 16 Plan 01 complete (noun field fixes)
 
 Progress: [░░░░░░░░░░░░░░░░░░░░] 0/3 phases complete
 
@@ -33,6 +33,10 @@ Progress: [░░░░░░░░░░░░░░░░░░░░] 0/3 pha
 
 Decisions logged in PROJECT.md Key Decisions table (15 decisions, all ✓ Good or — Pending).
 
+**Phase 16 decisions:**
+- Use `genus:"pl"` for leute_noun (plural-only noun) — schema enum only allows string values; "pl" matches eltern_noun/ferien_noun convention and passes AJV validation
+- Plural fields store bare noun without article (e.g. "Zusammenfassungen" not "die Zusammenfassungen") — matches existing nounbank convention
+
 ### Blockers/Concerns
 
 - CDN cache: Vercel s-maxage=86400 — after deploy, up to 24h before new data reaches Leksihjelp end users unless CDN is purged manually.
@@ -44,5 +48,5 @@ Decisions logged in PROJECT.md Key Decisions table (15 decisions, all ✓ Good o
 ## Session Continuity
 
 Last session: 2026-02-22
-Stopped at: v1.3 roadmap created — ready to plan Phase 16
-Resume with: `/gsd:plan-phase 16`
+Stopped at: Completed 16-01-PLAN.md (noun field fixes — DATA-01, DATA-05, DATA-06)
+Resume with: Next plan in Phase 16

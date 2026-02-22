@@ -9,12 +9,12 @@ Requirements for tech debt cleanup. Each maps to roadmap phases.
 
 ### Data Fixes
 
-- [ ] **DATA-01**: morgenmensch_noun has correct `genus` field in dict nounbank
+- [x] **DATA-01**: morgenmensch_noun has correct `genus` field in dict nounbank
 - [ ] **DATA-02**: All 148 core verbbank entries have `type` field (regular/irregular/modal/separable/reflexive)
 - [ ] **DATA-03**: All 144 non-verbphrase verbs have presens conjugation (fix 12 missing)
 - [ ] **DATA-04**: Core manifest counts (generalbank, nounbank, verbbank) match actual bank entry counts
-- [ ] **DATA-05**: 2 nouns with declension-based plural have top-level `plural` field populated
-- [ ] **DATA-06**: leute_noun has `genus` field (or documented null for plural-only)
+- [x] **DATA-05**: 2 nouns with declension-based plural have top-level `plural` field populated
+- [x] **DATA-06**: leute_noun has `genus` field (or documented null for plural-only)
 
 ### API Fixes
 
@@ -58,12 +58,12 @@ Which phases cover which requirements. Updated during roadmap creation.
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| DATA-01 | Phase 16 | Pending |
+| DATA-01 | Phase 16 | Complete |
 | DATA-02 | Phase 16 | Pending |
 | DATA-03 | Phase 16 | Pending |
 | DATA-04 | Phase 16 | Pending |
-| DATA-05 | Phase 16 | Pending |
-| DATA-06 | Phase 16 | Pending |
+| DATA-05 | Phase 16 | Complete |
+| DATA-06 | Phase 16 | Complete |
 | API-01 | Phase 17 | Pending |
 | API-02 | Phase 17 | Pending |
 | API-03 | Phase 17 | Pending |
