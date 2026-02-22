@@ -9,6 +9,7 @@
     "validate": "node scripts/validate.js",
     "validate:ids": "node scripts/check-ids.js",
     "validate:audio": "node scripts/check-audio.js",
+    "validate:nouns": "node scripts/validate-nouns.js",
     "validate:all": "npm run validate && npm run validate:ids && npm run validate:audio"
   },
   "engines": {

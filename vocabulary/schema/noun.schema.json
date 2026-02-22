@@ -72,6 +72,11 @@
         "weak_masculine": {
           "type": "boolean",
           "description": "True for n-Deklination masculine nouns that take -(e)n in all non-nominative singular cases"
+        },
+        "declension_type": {
+          "type": "string",
+          "description": "Declension pattern classification for pedagogical and data-processing use",
+          "enum": ["strong", "weak", "mixed", "plural-only", "uncountable"]
         }
       },
       "required": ["translations"]
