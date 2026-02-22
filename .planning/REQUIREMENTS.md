@@ -77,39 +77,39 @@ Which phases cover which requirements. Updated during roadmap creation.
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| SCHEMA-01 | — | Pending |
-| SCHEMA-02 | — | Pending |
-| SCHEMA-03 | — | Pending |
-| SCHEMA-04 | — | Pending |
-| SCHEMA-05 | — | Pending |
-| AUDIT-01 | — | Pending |
-| AUDIT-02 | — | Pending |
-| AUDIT-03 | — | Pending |
-| PERF-01 | — | Pending |
-| PERF-02 | — | Pending |
-| PERF-03 | — | Pending |
-| PERF-04 | — | Pending |
-| PERF-05 | — | Pending |
-| PERF-06 | — | Pending |
-| PERF-07 | — | Pending |
-| NDECL-01 | — | Pending |
-| NDECL-02 | — | Pending |
-| NDECL-03 | — | Pending |
-| NDECL-04 | — | Pending |
-| NDECL-05 | — | Pending |
-| NDECL-06 | — | Pending |
-| NDECL-07 | — | Pending |
-| SYNC-01 | — | Pending |
-| SYNC-02 | — | Pending |
-| SYNC-03 | — | Pending |
-| SYNC-04 | — | Pending |
-| SYNC-05 | — | Pending |
+| SCHEMA-01 | Phase 11 | Pending |
+| SCHEMA-02 | Phase 11 | Pending |
+| SCHEMA-03 | Phase 11 | Pending |
+| SCHEMA-04 | Phase 11 | Pending |
+| SCHEMA-05 | Phase 11 | Pending |
+| AUDIT-01 | Phase 12 | Pending |
+| AUDIT-02 | Phase 12 | Pending |
+| AUDIT-03 | Phase 12 | Pending |
+| PERF-01 | Phase 13 | Pending |
+| PERF-02 | Phase 13 | Pending |
+| PERF-03 | Phase 13 | Pending |
+| PERF-04 | Phase 13 | Pending |
+| PERF-05 | Phase 13 | Pending |
+| PERF-06 | Phase 13 | Pending |
+| PERF-07 | Phase 13 | Pending |
+| NDECL-01 | Phase 14 | Pending |
+| NDECL-02 | Phase 14 | Pending |
+| NDECL-03 | Phase 14 | Pending |
+| NDECL-04 | Phase 14 | Pending |
+| NDECL-05 | Phase 14 | Pending |
+| NDECL-06 | Phase 14 | Pending |
+| NDECL-07 | Phase 14 | Pending |
+| SYNC-01 | Phase 15 | Pending |
+| SYNC-02 | Phase 15 | Pending |
+| SYNC-03 | Phase 15 | Pending |
+| SYNC-04 | Phase 15 | Pending |
+| SYNC-05 | Phase 15 | Pending |
 
 **Coverage:**
 - v1.2 requirements: 27 total
-- Mapped to phases: 0
-- Unmapped: 27
+- Mapped to phases: 27
+- Unmapped: 0
 
 ---
 *Requirements defined: 2026-02-22*
-*Last updated: 2026-02-22 after initial definition*
+*Last updated: 2026-02-22 — traceability filled after roadmap creation*
