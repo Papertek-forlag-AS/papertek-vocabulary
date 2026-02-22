@@ -82,7 +82,9 @@ Plans:
   3. All 7 modal verbs have appropriate Perfektum forms with `modal_note` documenting Ersatzinfinitiv behavior
   4. All 19 separable verbs have ge- positioned between prefix and stem (e.g., aufgestanden, mitgenommen, eingekauft)
   5. All 20 inseparable prefix verbs have no ge- prefix in the past participle (e.g., besucht, vergessen, bekommen)
-**Plans**: TBD
+**Plans:** 1 plan
+Plans:
+- [ ] 13-01-PLAN.md — Add Perfektum conjugations for all 144 verbs via scripted data injection
 
 ### Phase 14: Noun Declension Data
 **Goal**: Every German noun has a complete, linguistically correct 4-case declension table in the core nounbank
@@ -124,6 +126,6 @@ Plans:
 | 10. Integration | v1.1 | 1/1 | Complete | 2026-02-21 |
 | 11. Schema Extensions | 1/1 | Complete    | 2026-02-22 | - |
 | 12. Pre-Entry Audit | 1/1 | Complete    | 2026-02-22 | - |
-| 13. Perfektum Data | v1.2 | 0/? | Not started | - |
+| 13. Perfektum Data | v1.2 | 0/1 | Planned | - |
 | 14. Noun Declension Data | v1.2 | 0/? | Not started | - |
 | 15. Sync & Integration | v1.2 | 0/? | Not started | - |
