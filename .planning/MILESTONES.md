@@ -25,3 +25,33 @@
 **Last phase number:** 2
 
 ---
+
+## v1.1 — German Adjective Declension (Shipped: 2026-02-22)
+
+**Phases:** 8 (3-10) | **Plans:** 8 | **Commits:** 60
+**Git range:** feat(03-bank-cleanup) → feat(10-01)
+**Data files:** 158,712 lines JSON across 4 adjective bank files
+**Lines changed:** +198,795 / -4,452 across 90 files
+**Timeline:** 3 days (2026-02-20 → 2026-02-22)
+
+**Key accomplishments:**
+- Cleaned adjective bank: removed beste_adj collision, reclassified Lieblings- prefix, fixed schema validation (106 entries clean)
+- Extracted 259 adjective candidates from Goethe A1/A2/B1 wordlists, expanding bank from 106 to 365 entries
+- Extended adjective schema with full declension support (3 degrees x 3 article types x 4 cases x 4 gender/number)
+- Generated comparison data (komparativ/superlativ) for all 352 comparable adjectives with irregular forms individually verified
+- Produced ~39,800 declension cells for 360 declinable adjectives with correct irregular stems (hoh-, dunkl-, teur-, flexibl-)
+- Added rich Norwegian and English translations for all 365 adjectives with false-friend warnings and alternative meanings
+
+**Requirements:** 25/25 satisfied (CLEAN-01..03, BANK-01..05, SCHEMA-01..04, COMP-01..05, DECL-01..05, INTG-01..03)
+
+**Known tech debt:**
+- Core manifest generalbank.json count stale by 1 (185 vs 186) after Lieblings- reclassification
+- Core manifest nounbank.json/verbbank.json counts pre-existing stale (not introduced by this milestone)
+- declension_alternatives field (teuer_adj only) not surfaced by v2 API
+
+**Archive:** `.planning/milestones/v1.1-ROADMAP.md`, `.planning/milestones/v1.1-REQUIREMENTS.md`
+
+**Last phase number:** 10
+
+---
+
