@@ -1,9 +1,11 @@
 import Ajv2020 from 'ajv/dist/2020.js';
 import { readFileSync } from 'fs';
 
+const nounBankPath = process.env.NOUN_BANK || 'vocabulary/core/de/nounbank.json';
+
 const coreSchema = JSON.parse(readFileSync('vocabulary/schema/core-word.schema.json', 'utf8'));
 const nounSchema = JSON.parse(readFileSync('vocabulary/schema/noun.schema.json', 'utf8'));
-const nounBank = JSON.parse(readFileSync('vocabulary/core/de/nounbank.json', 'utf8'));
+const nounBank = JSON.parse(readFileSync(nounBankPath, 'utf8'));
 
 const ajv = new Ajv2020({ strict: false, allErrors: true });
 ajv.addSchema(coreSchema, 'core-word.schema.json');
