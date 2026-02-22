@@ -52,7 +52,14 @@ v1.2 shipped. German noun, verb, and adjective data complete for inflection sear
 
 ### Active
 
-(None — no active milestone. Use `/gsd:new-milestone` to start next milestone.)
+**Current Milestone: v1.3 Tech Debt Cleanup**
+
+**Goal:** Fix accumulated data gaps, API inconsistencies, and tooling gaps across v1.0–v1.2.
+
+**Target features:**
+- Fix missing data fields (genus, type, presens conjugations, plural, manifest counts)
+- Fix v2 API inconsistencies (grammar ID mismatch, missing feature flags, declension_alternatives)
+- Register all scripts in package.json and unify validation tooling
 
 ### Out of Scope
 
@@ -99,4 +106,4 @@ v1.2 shipped. German noun, verb, and adjective data complete for inflection sear
 | Explicit Perfektum storage (no rule engine) | Mirrors preteritum and adjective declension precedent — 144 verbs fully stored | ✓ Good — v1.2 |
 
 ---
-*Last updated: 2026-02-22 after v1.2 milestone*
+*Last updated: 2026-02-22 after v1.3 milestone started*
