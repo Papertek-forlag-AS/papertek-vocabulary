@@ -10,7 +10,9 @@
     "validate:ids": "node scripts/check-ids.js",
     "validate:audio": "node scripts/check-audio.js",
     "validate:nouns": "node scripts/validate-nouns.js",
+    "validate:nouns:dict": "NOUN_BANK=vocabulary/dictionary/de/nounbank.json node scripts/validate-nouns.js",
     "validate:verbs": "node scripts/validate-verbs.js",
+    "validate:verbs:dict": "VERB_BANK=vocabulary/dictionary/de/verbbank.json node scripts/validate-verbs.js",
     "validate:all": "npm run validate && npm run validate:ids && npm run validate:audio"
   },
   "engines": {

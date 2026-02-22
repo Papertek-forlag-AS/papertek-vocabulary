@@ -1,10 +1,10 @@
 {
   "_metadata": {
     "source": "verbbank.json",
-    "type": "dictionary",
     "targetLanguage": "german",
     "generatedAt": "2026-02-13T22:16:19.168Z",
-    "description": "Dictionary data for german verbbank (includes curriculum words)"
+    "description": "Dictionary data for german verbbank (includes curriculum words)",
+    "translations": {}
   },
   "sein_verb": {
     "word": "sein",
@@ -56,11 +56,12 @@
       "presens": "strong",
       "preteritum": "strong",
       "perfektum": "strong"
-    }
+    },
+    "translations": {}
   },
   "heissen_verb": {
     "word": "heißen",
-    "type": "vanlig",
+    "type": "weak",
     "audio": "verb_heissen.mp3",
     "conjugations": {
       "presens": {
@@ -108,11 +109,12 @@
       "presens": "weak",
       "preteritum": "strong",
       "perfektum": "strong"
-    }
+    },
+    "translations": {}
   },
   "kommen_verb": {
     "word": "kommen",
-    "type": "vanlig",
+    "type": "weak",
     "conjugations": {
       "presens": {
         "former": {
@@ -160,11 +162,12 @@
       "presens": "weak",
       "preteritum": "strong",
       "perfektum": "strong"
-    }
+    },
+    "translations": {}
   },
   "wohnen_verb": {
     "word": "wohnen",
-    "type": "vanlig",
+    "type": "weak",
     "conjugations": {
       "presens": {
         "former": {
@@ -206,11 +209,12 @@
     "audio": "verb_wohnen.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 1295
+    "frequency": 1295,
+    "translations": {}
   },
   "schauen_verb": {
     "word": "schauen",
-    "type": "vanlig",
+    "type": "weak",
     "conjugations": {
       "presens": {
         "former": {
@@ -252,7 +256,8 @@
     "audio": "verb_schauen.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 871
+    "frequency": 871,
+    "translations": {}
   },
   "spielen_verb": {
     "word": "spielen",
@@ -297,11 +302,12 @@
     "audio": "verb_spielen.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 456
+    "frequency": 456,
+    "translations": {}
   },
   "interessieren_verb": {
     "word": "interessieren",
-    "type": "refleksiv",
+    "type": "reflexive",
     "conjugations": {
       "presens": {
         "former": {
@@ -343,11 +349,12 @@
     "audio": "verb_interessieren.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 2422
+    "frequency": 2422,
+    "translations": {}
   },
   "shoppen_verb": {
     "word": "shoppen",
-    "type": "vanlig",
+    "type": "weak",
     "conjugations": {
       "presens": {
         "former": {
@@ -389,11 +396,12 @@
     "audio": "verb_shoppen.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 9922
+    "frequency": 9922,
+    "translations": {}
   },
   "entspannen_verb": {
     "word": "entspannen",
-    "type": "refleksiv",
+    "type": "reflexive",
     "conjugations": {
       "presens": {
         "former": {
@@ -436,11 +444,12 @@
     "curriculum": true,
     "cefr": "A1",
     "frequency": 2751,
-    "inseparable": true
+    "inseparable": true,
+    "translations": {}
   },
   "lernen_verb": {
     "word": "lernen",
-    "type": "vanlig",
+    "type": "weak",
     "conjugations": {
       "presens": {
         "former": {
@@ -482,7 +491,8 @@
     "audio": "verb_lernen.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 689
+    "frequency": 689,
+    "translations": {}
   },
   "finden_verb": {
     "word": "finden",
@@ -533,7 +543,8 @@
       "presens": "weak",
       "preteritum": "strong",
       "perfektum": "strong"
-    }
+    },
+    "translations": {}
   },
   "moegen_verb": {
     "word": "mögen",
@@ -584,7 +595,8 @@
     "frequency": 893,
     "verbClass": {
       "default": "modal"
-    }
+    },
+    "translations": {}
   },
   "klingeln_verb": {
     "word": "klingeln",
@@ -629,7 +641,8 @@
     "audio": "verb_klingeln.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 4772
+    "frequency": 4772,
+    "translations": {}
   },
   "beginnen_verb": {
     "word": "beginnen",
@@ -684,7 +697,8 @@
       "preteritum": "strong",
       "perfektum": "strong"
     },
-    "inseparable": true
+    "inseparable": true,
+    "translations": {}
   },
   "koennen_verb": {
     "word": "können",
@@ -735,7 +749,8 @@
     "frequency": 94,
     "verbClass": {
       "default": "modal"
-    }
+    },
+    "translations": {}
   },
   "lesen_verb": {
     "word": "lesen",
@@ -787,7 +802,8 @@
       "presens": "strong",
       "preteritum": "strong",
       "perfektum": "strong"
-    }
+    },
+    "translations": {}
   },
   "schwimmen_verb": {
     "word": "schwimmen",
@@ -843,7 +859,8 @@
       "presens": "weak",
       "preteritum": "strong",
       "perfektum": "strong"
-    }
+    },
+    "translations": {}
   },
   "singen_verb": {
     "word": "singen",
@@ -894,7 +911,8 @@
       "presens": "weak",
       "preteritum": "strong",
       "perfektum": "strong"
-    }
+    },
+    "translations": {}
   },
   "tanzen_verb": {
     "word": "tanzen",
@@ -939,7 +957,8 @@
     "audio": "verb_tanzen.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 1043
+    "frequency": 1043,
+    "translations": {}
   },
   "kochen_verb": {
     "word": "kochen",
@@ -984,7 +1003,8 @@
     "audio": "verb_kochen.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 2035
+    "frequency": 2035,
+    "translations": {}
   },
   "malen_verb": {
     "word": "malen",
@@ -1029,7 +1049,8 @@
     "audio": "verb_malen.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 4299
+    "frequency": 4299,
+    "translations": {}
   },
   "machen_verb": {
     "word": "machen",
@@ -1074,7 +1095,8 @@
     "audio": "verb_machen.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 97
+    "frequency": 97,
+    "translations": {}
   },
   "gehen_verb": {
     "word": "gehen",
@@ -1125,7 +1147,8 @@
       "presens": "weak",
       "preteritum": "strong",
       "perfektum": "strong"
-    }
+    },
+    "translations": {}
   },
   "besuchen_verb": {
     "word": "besuchen",
@@ -1171,7 +1194,8 @@
     "curriculum": true,
     "cefr": "A1",
     "frequency": 1330,
-    "inseparable": true
+    "inseparable": true,
+    "translations": {}
   },
   "kaufen_verb": {
     "word": "kaufen",
@@ -1216,7 +1240,8 @@
     "audio": "verb_kaufen.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 754
+    "frequency": 754,
+    "translations": {}
   },
   "brauchen_verb": {
     "word": "brauchen",
@@ -1261,7 +1286,8 @@
     "audio": "verb_brauchen.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 289
+    "frequency": 289,
+    "translations": {}
   },
   "essen_verb": {
     "word": "essen",
@@ -1313,7 +1339,8 @@
       "presens": "strong",
       "preteritum": "strong",
       "perfektum": "strong"
-    }
+    },
+    "translations": {}
   },
   "nehmen_verb": {
     "word": "nehmen",
@@ -1365,7 +1392,8 @@
       "presens": "strong",
       "preteritum": "strong",
       "perfektum": "strong"
-    }
+    },
+    "translations": {}
   },
   "trinken_verb": {
     "word": "trinken",
@@ -1416,7 +1444,8 @@
       "presens": "weak",
       "preteritum": "strong",
       "perfektum": "strong"
-    }
+    },
+    "translations": {}
   },
   "hoeren_verb": {
     "word": "hören",
@@ -1461,7 +1490,8 @@
     "audio": "verb_hoeren.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 242
+    "frequency": 242,
+    "translations": {}
   },
   "hoffen_verb": {
     "word": "hoffen",
@@ -1506,7 +1536,8 @@
     "audio": "verb_hoffen.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 1746
+    "frequency": 1746,
+    "translations": {}
   },
   "haben_verb": {
     "word": "haben",
@@ -1558,7 +1589,8 @@
       "presens": "strong",
       "preteritum": "mixed",
       "perfektum": "mixed"
-    }
+    },
+    "translations": {}
   },
   "fuettern_verb": {
     "word": "füttern",
@@ -1603,7 +1635,8 @@
     "audio": "verb_fuettern.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 4876
+    "frequency": 4876,
+    "translations": {}
   },
   "streicheln_verb": {
     "word": "streicheln",
@@ -1648,7 +1681,8 @@
     "audio": "verb_streicheln.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 11153
+    "frequency": 11153,
+    "translations": {}
   },
   "fressen_verb": {
     "word": "fressen",
@@ -1700,7 +1734,8 @@
       "presens": "strong",
       "preteritum": "strong",
       "perfektum": "strong"
-    }
+    },
+    "translations": {}
   },
   "leben_verb": {
     "word": "leben",
@@ -1745,7 +1780,8 @@
     "audio": "verb_leben.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 135
+    "frequency": 135,
+    "translations": {}
   },
   "oeffnen_verb": {
     "word": "öffnen",
@@ -1790,7 +1826,8 @@
     "audio": "verb_oeffnen.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 1154
+    "frequency": 1154,
+    "translations": {}
   },
   "jagen_verb": {
     "word": "jagen",
@@ -1835,7 +1872,8 @@
     "audio": "verb_jagen.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 1771
+    "frequency": 1771,
+    "translations": {}
   },
   "tragen_verb": {
     "word": "tragen",
@@ -1887,7 +1925,8 @@
       "presens": "strong",
       "preteritum": "strong",
       "perfektum": "strong"
-    }
+    },
+    "translations": {}
   },
   "sehen_verb": {
     "word": "sehen",
@@ -1939,7 +1978,8 @@
       "presens": "strong",
       "preteritum": "strong",
       "perfektum": "strong"
-    }
+    },
+    "translations": {}
   },
   "treffen_verb": {
     "word": "treffen",
@@ -1991,7 +2031,8 @@
       "presens": "strong",
       "preteritum": "strong",
       "perfektum": "strong"
-    }
+    },
+    "translations": {}
   },
   "muessen_verb": {
     "word": "müssen",
@@ -2042,7 +2083,8 @@
     "frequency": 121,
     "verbClass": {
       "default": "modal"
-    }
+    },
+    "translations": {}
   },
   "wollen_verb": {
     "word": "wollen",
@@ -2093,7 +2135,8 @@
     "frequency": 144,
     "verbClass": {
       "default": "modal"
-    }
+    },
+    "translations": {}
   },
   "fahren_verb": {
     "word": "fahren",
@@ -2150,7 +2193,8 @@
       "presens": "strong",
       "preteritum": "strong",
       "perfektum": "strong"
-    }
+    },
+    "translations": {}
   },
   "wandern_verb": {
     "word": "wandern",
@@ -2195,7 +2239,8 @@
     "audio": "verb_wandern.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 6215
+    "frequency": 6215,
+    "translations": {}
   },
   "traeumen_verb": {
     "word": "träumen",
@@ -2240,7 +2285,8 @@
     "audio": "verb_traeumen.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 2467
+    "frequency": 2467,
+    "translations": {}
   },
   "sagen_verb": {
     "word": "sagen",
@@ -2285,7 +2331,8 @@
     "audio": "verb_sagen.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 96
+    "frequency": 96,
+    "translations": {}
   },
   "schreiben_verb": {
     "word": "schreiben",
@@ -2337,7 +2384,8 @@
       "presens": "weak",
       "preteritum": "strong",
       "perfektum": "strong"
-    }
+    },
+    "translations": {}
   },
   "fliegen_verb": {
     "word": "fliegen",
@@ -2393,7 +2441,8 @@
       "presens": "weak",
       "preteritum": "strong",
       "perfektum": "strong"
-    }
+    },
+    "translations": {}
   },
   "mitnehmen_verb": {
     "word": "mitnehmen",
@@ -2448,7 +2497,8 @@
       "perfektum": "strong",
       "separable": "mit"
     },
-    "separablePrefix": "mit"
+    "separablePrefix": "mit",
+    "translations": {}
   },
   "packen_verb": {
     "word": "packen",
@@ -2493,7 +2543,8 @@
     "audio": "verb_packen.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 2335
+    "frequency": 2335,
+    "translations": {}
   },
   "einpacken_verb": {
     "word": "einpacken",
@@ -2544,7 +2595,8 @@
       "default": "weak",
       "separable": "ein"
     },
-    "separablePrefix": "ein"
+    "separablePrefix": "ein",
+    "translations": {}
   },
   "duerfen_verb": {
     "word": "dürfen",
@@ -2595,7 +2647,8 @@
     "frequency": 630,
     "verbClass": {
       "default": "modal"
-    }
+    },
+    "translations": {}
   },
   "scheinen_verb": {
     "word": "scheinen",
@@ -2646,7 +2699,8 @@
       "presens": "weak",
       "preteritum": "strong",
       "perfektum": "strong"
-    }
+    },
+    "translations": {}
   },
   "lieben_verb": {
     "word": "lieben",
@@ -2691,7 +2745,8 @@
     "audio": "verb_lieben.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 658
+    "frequency": 658,
+    "translations": {}
   },
   "stimmen_verb": {
     "word": "stimmen",
@@ -2736,7 +2791,8 @@
     "audio": "verb_stimmen.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 1488
+    "frequency": 1488,
+    "translations": {}
   },
   "dekorieren_verb": {
     "word": "dekorieren",
@@ -2781,7 +2837,8 @@
     "audio": "verb_dekorieren.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 21613
+    "frequency": 21613,
+    "translations": {}
   },
   "sprechen_verb": {
     "word": "sprechen",
@@ -2833,7 +2890,8 @@
       "presens": "strong",
       "preteritum": "strong",
       "perfektum": "strong"
-    }
+    },
+    "translations": {}
   },
   "werden_verb": {
     "word": "werden",
@@ -2885,7 +2943,8 @@
       "presens": "strong",
       "preteritum": "strong",
       "perfektum": "strong"
-    }
+    },
+    "translations": {}
   },
   "dauern_verb": {
     "word": "dauern",
@@ -2930,7 +2989,8 @@
     "audio": "verb_dauern.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 1528
+    "frequency": 1528,
+    "translations": {}
   },
   "bleiben_verb": {
     "word": "bleiben",
@@ -2981,7 +3041,8 @@
       "presens": "weak",
       "preteritum": "strong",
       "perfektum": "strong"
-    }
+    },
+    "translations": {}
   },
   "schlafen_verb": {
     "word": "schlafen",
@@ -3033,11 +3094,12 @@
       "presens": "strong",
       "preteritum": "strong",
       "perfektum": "strong"
-    }
+    },
+    "translations": {}
   },
   "feiern_verb": {
     "word": "feiern",
-    "type": "vanlig",
+    "type": "weak",
     "conjugations": {
       "presens": {
         "former": {
@@ -3079,7 +3141,8 @@
     "audio": "verb_feiern.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 1350
+    "frequency": 1350,
+    "translations": {}
   },
   "kennen_verb": {
     "word": "kennen",
@@ -3130,7 +3193,8 @@
       "presens": "weak",
       "preteritum": "mixed",
       "perfektum": "mixed"
-    }
+    },
+    "translations": {}
   },
   "sich_treffen_verb": {
     "word": "sich treffen",
@@ -3182,7 +3246,8 @@
       "presens": "strong",
       "preteritum": "strong",
       "perfektum": "strong"
-    }
+    },
+    "translations": {}
   },
   "anrufen_verb": {
     "word": "anrufen",
@@ -3236,11 +3301,12 @@
       "perfektum": "strong",
       "separable": "an"
     },
-    "separablePrefix": "an"
+    "separablePrefix": "an",
+    "translations": {}
   },
   "anfangen_verb": {
     "word": "anfangen",
-    "type": "sterkt",
+    "type": "strong",
     "separable": true,
     "synonyms": [
       "beginnen_verb"
@@ -3294,11 +3360,12 @@
       "perfektum": "strong",
       "separable": "an"
     },
-    "separablePrefix": "an"
+    "separablePrefix": "an",
+    "translations": {}
   },
   "einladen_verb": {
     "word": "einladen",
-    "type": "vanlig",
+    "type": "weak",
     "separable": true,
     "conjugations": {
       "presens": {
@@ -3349,11 +3416,12 @@
       "perfektum": "strong",
       "separable": "ein"
     },
-    "separablePrefix": "ein"
+    "separablePrefix": "ein",
+    "translations": {}
   },
   "einkaufen_verb": {
     "word": "einkaufen",
-    "type": "vanlig",
+    "type": "weak",
     "separable": true,
     "conjugations": {
       "presens": {
@@ -3401,7 +3469,8 @@
       "default": "weak",
       "separable": "ein"
     },
-    "separablePrefix": "ein"
+    "separablePrefix": "ein",
+    "translations": {}
   },
   "sich_freuen_auf_verb": {
     "word": "sich freuen auf",
@@ -3446,7 +3515,8 @@
     "audio": "verb_sich_freuen_auf.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 1641
+    "frequency": 1641,
+    "translations": {}
   },
   "sich_waschen_verb": {
     "word": "sich waschen",
@@ -3498,7 +3568,8 @@
       "presens": "strong",
       "preteritum": "strong",
       "perfektum": "strong"
-    }
+    },
+    "translations": {}
   },
   "sich_duschen_verb": {
     "word": "sich duschen",
@@ -3543,7 +3614,8 @@
     "audio": "verb_sich_duschen.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 3902
+    "frequency": 3902,
+    "translations": {}
   },
   "sich_anziehen_verb": {
     "word": "sich anziehen",
@@ -3597,7 +3669,8 @@
       "perfektum": "strong",
       "separable": "an"
     },
-    "separablePrefix": "an"
+    "separablePrefix": "an",
+    "translations": {}
   },
   "sich_kaemmen_verb": {
     "word": "sich kämmen",
@@ -3642,7 +3715,8 @@
     "audio": "verb_sich_kaemmen.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 24059
+    "frequency": 24059,
+    "translations": {}
   },
   "sich_schminken_verb": {
     "word": "sich schminken",
@@ -3687,7 +3761,8 @@
     "audio": "verb_sich_schminken.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 19779
+    "frequency": 19779,
+    "translations": {}
   },
   "sich_rasieren_verb": {
     "word": "sich rasieren",
@@ -3732,7 +3807,8 @@
     "audio": "verb_sich_rasieren.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 7416
+    "frequency": 7416,
+    "translations": {}
   },
   "sich_freuen_verb": {
     "word": "sich freuen",
@@ -3777,7 +3853,8 @@
     "audio": "verb_sich_freuen.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 1641
+    "frequency": 1641,
+    "translations": {}
   },
   "aufwachen_verb": {
     "word": "aufwachen",
@@ -3828,7 +3905,8 @@
       "default": "weak",
       "separable": "auf"
     },
-    "separablePrefix": "auf"
+    "separablePrefix": "auf",
+    "translations": {}
   },
   "aufstehen_verb": {
     "word": "aufstehen",
@@ -3882,7 +3960,8 @@
       "perfektum": "strong",
       "separable": "auf"
     },
-    "separablePrefix": "auf"
+    "separablePrefix": "auf",
+    "translations": {}
   },
   "fruehstuecken_verb": {
     "word": "frühstücken",
@@ -3927,7 +4006,8 @@
     "audio": "verb_fruehstuecken.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 6411
+    "frequency": 6411,
+    "translations": {}
   },
   "sich_fuehlen_verb": {
     "word": "sich fühlen",
@@ -3972,7 +4052,8 @@
     "audio": "verb_sich_fuehlen.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 844
+    "frequency": 844,
+    "translations": {}
   },
   "sich_freuen_ueber_verb": {
     "word": "sich freuen über",
@@ -4017,7 +4098,8 @@
     "audio": "verb_sich_freuen_ueber.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 1641
+    "frequency": 1641,
+    "translations": {}
   },
   "sich_aergern_verb": {
     "word": "sich ärgern",
@@ -4062,7 +4144,8 @@
     "audio": "verb_sich_aergern.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 5528
+    "frequency": 5528,
+    "translations": {}
   },
   "sich_interessieren_verb": {
     "word": "sich interessieren",
@@ -4107,7 +4190,8 @@
     "audio": "verb_sich_interessieren.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 2422
+    "frequency": 2422,
+    "translations": {}
   },
   "sich_langweilen_verb": {
     "word": "sich langweilen",
@@ -4152,7 +4236,8 @@
     "audio": "verb_sich_langweilen.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 7540
+    "frequency": 7540,
+    "translations": {}
   },
   "sich_konzentrieren_verb": {
     "word": "sich konzentrieren",
@@ -4197,7 +4282,8 @@
     "audio": "verb_sich_konzentrieren.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 2184
+    "frequency": 2184,
+    "translations": {}
   },
   "sich_entschuldigen_verb": {
     "word": "sich entschuldigen",
@@ -4243,7 +4329,8 @@
     "curriculum": true,
     "cefr": "A1",
     "frequency": 550,
-    "inseparable": true
+    "inseparable": true,
+    "translations": {}
   },
   "sich_verspaeten_verb": {
     "word": "sich verspäten",
@@ -4289,7 +4376,8 @@
     "curriculum": true,
     "cefr": "A1",
     "frequency": 15991,
-    "inseparable": true
+    "inseparable": true,
+    "translations": {}
   },
   "sich_entspannen_verb": {
     "word": "sich entspannen",
@@ -4335,7 +4423,8 @@
     "curriculum": true,
     "cefr": "A1",
     "frequency": 2751,
-    "inseparable": true
+    "inseparable": true,
+    "translations": {}
   },
   "sich_aufregen_verb": {
     "word": "sich aufregen",
@@ -4386,7 +4475,8 @@
       "default": "weak",
       "separable": "auf"
     },
-    "separablePrefix": "auf"
+    "separablePrefix": "auf",
+    "translations": {}
   },
   "sich_ausruhen_verb": {
     "word": "sich ausruhen",
@@ -4437,7 +4527,8 @@
       "default": "weak",
       "separable": "aus"
     },
-    "separablePrefix": "aus"
+    "separablePrefix": "aus",
+    "translations": {}
   },
   "sich_erholen_verb": {
     "word": "sich erholen",
@@ -4483,7 +4574,8 @@
     "curriculum": true,
     "cefr": "A1",
     "frequency": 5998,
-    "inseparable": true
+    "inseparable": true,
+    "translations": {}
   },
   "sich_vorbereiten_verb": {
     "word": "sich vorbereiten",
@@ -4534,7 +4626,8 @@
       "default": "weak",
       "separable": "vor"
     },
-    "separablePrefix": "vor"
+    "separablePrefix": "vor",
+    "translations": {}
   },
   "sich_setzen_verb": {
     "word": "sich setzen",
@@ -4579,7 +4672,8 @@
     "audio": "verb_sich_setzen.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 627
+    "frequency": 627,
+    "translations": {}
   },
   "sich_unterhalten_verb": {
     "word": "sich unterhalten",
@@ -4631,7 +4725,8 @@
       "preteritum": "strong",
       "perfektum": "strong"
     },
-    "inseparable": true
+    "inseparable": true,
+    "translations": {}
   },
   "sich_bewegen_verb": {
     "word": "sich bewegen",
@@ -4677,7 +4772,8 @@
     "curriculum": true,
     "cefr": "A1",
     "frequency": 1278,
-    "inseparable": true
+    "inseparable": true,
+    "translations": {}
   },
   "sollen_verb": {
     "word": "sollen",
@@ -4728,11 +4824,12 @@
     "frequency": 253,
     "verbClass": {
       "default": "modal"
-    }
+    },
+    "translations": {}
   },
   "mitbringen_verb": {
     "word": "mitbringen",
-    "type": "vanlig",
+    "type": "weak",
     "separable": true,
     "conjugations": {
       "presens": {
@@ -4783,11 +4880,12 @@
       "perfektum": "mixed",
       "separable": "mit"
     },
-    "separablePrefix": "mit"
+    "separablePrefix": "mit",
+    "translations": {}
   },
   "grillen_verb": {
     "word": "grillen",
-    "type": "vanlig",
+    "type": "weak",
     "conjugations": {
       "presens": {
         "former": {
@@ -4829,11 +4927,12 @@
     "audio": "verb_grillen.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 8658
+    "frequency": 8658,
+    "translations": {}
   },
   "planen_verb": {
     "word": "planen",
-    "type": "vanlig",
+    "type": "weak",
     "conjugations": {
       "presens": {
         "former": {
@@ -4875,7 +4974,8 @@
     "audio": "verb_planen.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 3377
+    "frequency": 3377,
+    "translations": {}
   },
   "sitzen_verb": {
     "word": "sitzen",
@@ -4927,11 +5027,12 @@
       "presens": "weak",
       "preteritum": "strong",
       "perfektum": "strong"
-    }
+    },
+    "translations": {}
   },
   "lachen_verb": {
     "word": "lachen",
-    "type": "vanlig",
+    "type": "weak",
     "conjugations": {
       "presens": {
         "former": {
@@ -4973,11 +5074,12 @@
     "audio": "verb_lachen.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 857
+    "frequency": 857,
+    "translations": {}
   },
   "fragen_verb": {
     "word": "fragen",
-    "type": "vanlig",
+    "type": "weak",
     "conjugations": {
       "presens": {
         "former": {
@@ -5019,7 +5121,8 @@
     "audio": "verb_fragen.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 299
+    "frequency": 299,
+    "translations": {}
   },
   "verstehen_verb": {
     "word": "verstehen",
@@ -5072,7 +5175,8 @@
       "preteritum": "strong",
       "perfektum": "strong"
     },
-    "inseparable": true
+    "inseparable": true,
+    "translations": {}
   },
   "helfen_verb": {
     "word": "helfen",
@@ -5124,11 +5228,12 @@
       "presens": "strong",
       "preteritum": "strong",
       "perfektum": "strong"
-    }
+    },
+    "translations": {}
   },
   "laecheln_verb": {
     "word": "lächeln",
-    "type": "vanlig",
+    "type": "weak",
     "conjugations": {
       "presens": {
         "former": {
@@ -5170,11 +5275,12 @@
     "audio": "verb_laecheln.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 1683
+    "frequency": 1683,
+    "translations": {}
   },
   "wecken_verb": {
     "word": "wecken",
-    "type": "vanlig",
+    "type": "weak",
     "conjugations": {
       "presens": {
         "former": {
@@ -5216,7 +5322,8 @@
     "audio": "verb_wecken.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 3929
+    "frequency": 3929,
+    "translations": {}
   },
   "liegen_verb": {
     "word": "liegen",
@@ -5268,11 +5375,12 @@
       "presens": "weak",
       "preteritum": "strong",
       "perfektum": "strong"
-    }
+    },
+    "translations": {}
   },
   "putzen_verb": {
     "word": "putzen",
-    "type": "vanlig",
+    "type": "weak",
     "conjugations": {
       "presens": {
         "former": {
@@ -5314,11 +5422,12 @@
     "audio": "verb_putzen.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 4506
+    "frequency": 4506,
+    "translations": {}
   },
   "arbeiten_verb": {
     "word": "arbeiten",
-    "type": "vanlig",
+    "type": "weak",
     "conjugations": {
       "presens": {
         "former": {
@@ -5360,7 +5469,8 @@
     "audio": "verb_arbeiten.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 419
+    "frequency": 419,
+    "translations": {}
   },
   "wissen_verb": {
     "word": "wissen",
@@ -5412,7 +5522,8 @@
       "presens": "strong",
       "preteritum": "mixed",
       "perfektum": "mixed"
-    }
+    },
+    "translations": {}
   },
   "geben_verb": {
     "word": "geben",
@@ -5464,7 +5575,8 @@
       "presens": "strong",
       "preteritum": "strong",
       "perfektum": "strong"
-    }
+    },
+    "translations": {}
   },
   "vergessen_verb": {
     "word": "vergessen",
@@ -5517,7 +5629,8 @@
       "preteritum": "strong",
       "perfektum": "strong"
     },
-    "inseparable": true
+    "inseparable": true,
+    "translations": {}
   },
   "klingen_verb": {
     "word": "klingen",
@@ -5569,11 +5682,12 @@
       "presens": "weak",
       "preteritum": "strong",
       "perfektum": "strong"
-    }
+    },
+    "translations": {}
   },
   "haengen_verb": {
     "word": "hängen",
-    "type": "vanlig",
+    "type": "weak",
     "conjugations": {
       "presens": {
         "former": {
@@ -5615,7 +5729,8 @@
     "audio": "verb_haengen.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 1541
+    "frequency": 1541,
+    "translations": {}
   },
   "stehen_verb": {
     "word": "stehen",
@@ -5667,11 +5782,12 @@
       "presens": "weak",
       "preteritum": "strong",
       "perfektum": "strong"
-    }
+    },
+    "translations": {}
   },
   "warten_verb": {
     "word": "warten",
-    "type": "vanlig",
+    "type": "weak",
     "conjugations": {
       "presens": {
         "former": {
@@ -5713,11 +5829,12 @@
     "audio": "verb_warten.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 304
+    "frequency": 304,
+    "translations": {}
   },
   "laufen_verb": {
     "word": "laufen",
-    "type": "sterkt",
+    "type": "strong",
     "conjugations": {
       "presens": {
         "former": {
@@ -5769,11 +5886,12 @@
       "presens": "strong",
       "preteritum": "strong",
       "perfektum": "strong"
-    }
+    },
+    "translations": {}
   },
   "springen_verb": {
     "word": "springen",
-    "type": "sterkt",
+    "type": "strong",
     "conjugations": {
       "presens": {
         "former": {
@@ -5820,11 +5938,12 @@
       "presens": "weak",
       "preteritum": "strong",
       "perfektum": "strong"
-    }
+    },
+    "translations": {}
   },
   "glauben_verb": {
     "word": "glauben",
-    "type": "svakt",
+    "type": "weak",
     "conjugations": {
       "presens": {
         "former": {
@@ -5865,11 +5984,12 @@
     "audio": "verb_glauben.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 284
+    "frequency": 284,
+    "translations": {}
   },
   "gewinnen_verb": {
     "word": "gewinnen",
-    "type": "sterkt",
+    "type": "strong",
     "conjugations": {
       "presens": {
         "former": {
@@ -5916,11 +6036,12 @@
       "presens": "weak",
       "preteritum": "strong",
       "perfektum": "strong"
-    }
+    },
+    "translations": {}
   },
   "verlieren_verb": {
     "word": "verlieren",
-    "type": "sterkt",
+    "type": "strong",
     "conjugations": {
       "presens": {
         "former": {
@@ -5968,7 +6089,8 @@
       "preteritum": "strong",
       "perfektum": "strong"
     },
-    "inseparable": true
+    "inseparable": true,
+    "translations": {}
   },
   "danken_verb": {
     "word": "danken",
@@ -6013,7 +6135,8 @@
     "audio": "verb_danken.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 1481
+    "frequency": 1481,
+    "translations": {}
   },
   "antworten_verb": {
     "word": "antworten",
@@ -6058,7 +6181,8 @@
     "audio": "verb_antworten.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 1280
+    "frequency": 1280,
+    "translations": {}
   },
   "vertrauen_verb": {
     "word": "vertrauen",
@@ -6104,7 +6228,8 @@
     "curriculum": true,
     "cefr": "A1",
     "frequency": 747,
-    "inseparable": true
+    "inseparable": true,
+    "translations": {}
   },
   "versprechen_verb": {
     "word": "versprechen",
@@ -6157,7 +6282,8 @@
       "preteritum": "strong",
       "perfektum": "strong"
     },
-    "inseparable": true
+    "inseparable": true,
+    "translations": {}
   },
   "erklaeren_verb": {
     "word": "erklären",
@@ -6203,7 +6329,8 @@
     "curriculum": true,
     "cefr": "A1",
     "frequency": 744,
-    "inseparable": true
+    "inseparable": true,
+    "translations": {}
   },
   "zeigen_verb": {
     "word": "zeigen",
@@ -6248,7 +6375,8 @@
     "audio": "verb_zeigen.mp3",
     "curriculum": true,
     "cefr": "A1",
-    "frequency": 523
+    "frequency": 523,
+    "translations": {}
   },
   "bringen_verb": {
     "word": "bringen",
@@ -6299,7 +6427,8 @@
       "presens": "weak",
       "preteritum": "mixed",
       "perfektum": "mixed"
-    }
+    },
+    "translations": {}
   },
   "erzaehlen_verb": {
     "word": "erzählen",
@@ -6345,7 +6474,8 @@
     "curriculum": true,
     "cefr": "A1",
     "frequency": 547,
-    "inseparable": true
+    "inseparable": true,
+    "translations": {}
   },
   "aufraeumen_verb": {
     "word": "aufräumen",
@@ -6396,7 +6526,8 @@
       "default": "weak",
       "separable": "auf"
     },
-    "separablePrefix": "auf"
+    "separablePrefix": "auf",
+    "translations": {}
   },
   "reisen_verb": {
     "word": "reisen",
@@ -6430,7 +6561,8 @@
         },
         "feature": "grammar_perfektum"
       }
-    }
+    },
+    "translations": {}
   },
   "fernsehen_verb": {
     "word": "fernsehen",
@@ -6473,7 +6605,8 @@
         },
         "feature": "grammar_perfektum"
       }
-    }
+    },
+    "translations": {}
   },
   "rad_fahren_verbphrase": {
     "word": "Rad fahren",
@@ -6495,7 +6628,8 @@
         },
         "feature": "grammar_preteritum"
       }
-    }
+    },
+    "translations": {}
   },
   "musik_hoeren_verbphrase": {
     "word": "Musik hören",
@@ -6517,7 +6651,8 @@
         },
         "feature": "grammar_preteritum"
       }
-    }
+    },
+    "translations": {}
   },
   "moechten_modal": {
     "word": "möchten",
@@ -6568,11 +6703,12 @@
     "frequency": 758,
     "verbClass": {
       "default": "modal"
-    }
+    },
+    "translations": {}
   },
   "bekommen_verb": {
     "word": "bekommen",
-    "type": "verb",
+    "type": "weak",
     "audio": "ord_bekommen.mp3",
     "_id": "bekommen_verb",
     "curriculum": true,
@@ -6604,7 +6740,8 @@
         "feature": "grammar_perfektum"
       }
     },
-    "inseparable": true
+    "inseparable": true,
+    "translations": {}
   },
   "gassi_gehen_verbphrase": {
     "word": "Gassi gehen",
@@ -6626,11 +6763,12 @@
         },
         "feature": "grammar_preteritum"
       }
-    }
+    },
+    "translations": {}
   },
   "klettern_verb": {
     "word": "klettern",
-    "type": "verb",
+    "type": "weak",
     "audio": "ord_klettern.mp3",
     "_id": "klettern_verb",
     "curriculum": true,
@@ -6661,11 +6799,12 @@
         },
         "feature": "grammar_perfektum"
       }
-    }
+    },
+    "translations": {}
   },
   "wegfahren_verb": {
     "word": "wegfahren",
-    "type": "verb",
+    "type": "weak",
     "separable": true,
     "audio": "ord_wegfahren.mp3",
     "_id": "wegfahren_verb",
@@ -6710,11 +6849,12 @@
         },
         "feature": "grammar_perfektum"
       }
-    }
+    },
+    "translations": {}
   },
   "liegen_bleiben_verb": {
     "word": "liegen bleiben",
-    "type": "verb",
+    "type": "weak",
     "audio": "ord_liegen_bleiben.mp3",
     "_id": "liegen_bleiben_verb",
     "curriculum": true,
@@ -6745,11 +6885,12 @@
         },
         "feature": "grammar_perfektum"
       }
-    }
+    },
+    "translations": {}
   },
   "sich_aergern_ueber_verb": {
     "word": "sich ärgern über",
-    "type": "verb",
+    "type": "weak",
     "audio": "ord_sich_aergern_ueber.mp3",
     "_id": "sich_aergern_ueber_verb",
     "curriculum": true,
@@ -6780,11 +6921,12 @@
         },
         "feature": "grammar_perfektum"
       }
-    }
+    },
+    "translations": {}
   },
   "mitkommen_verb": {
     "word": "mitkommen",
-    "type": "verb",
+    "type": "weak",
     "separable": true,
     "audio": "ord_mitkommen.mp3",
     "_id": "mitkommen_verb",
@@ -6824,11 +6966,12 @@
         },
         "feature": "grammar_perfektum"
       }
-    }
+    },
+    "translations": {}
   },
   "spazieren_gehen_verb": {
     "word": "spazieren gehen",
-    "type": "verb",
+    "type": "weak",
     "audio": "ord_spazieren_gehen.mp3",
     "_id": "spazieren_gehen_verb",
     "curriculum": true,
@@ -6859,7 +7002,8 @@
         },
         "feature": "grammar_perfektum"
       }
-    }
+    },
+    "translations": {}
   },
   "fertig_werden_verbphrase": {
     "word": "fertig werden",
@@ -6881,11 +7025,12 @@
         },
         "feature": "grammar_preteritum"
       }
-    }
+    },
+    "translations": {}
   },
   "zaehneputzen_verb": {
     "word": "Zähne putzen",
-    "type": "verb",
+    "type": "weak",
     "_id": "zaehneputzen_verb",
     "audio": "verb_zaehne_putzen.mp3",
     "curriculum": true,
@@ -6916,11 +7061,12 @@
         },
         "feature": "grammar_perfektum"
       }
-    }
+    },
+    "translations": {}
   },
   "ausziehen_verb": {
     "word": "ausziehen",
-    "type": "verb",
+    "type": "weak",
     "separable": true,
     "_id": "ausziehen_verb",
     "audio": "verb_ausziehen.mp3",
@@ -6965,11 +7111,12 @@
         },
         "feature": "grammar_perfektum"
       }
-    }
+    },
+    "translations": {}
   },
   "einschlafen_verb": {
     "word": "einschlafen",
-    "type": "verb",
+    "type": "weak",
     "separable": true,
     "_id": "einschlafen_verb",
     "audio": "verb_einschlafen.mp3",
@@ -7009,63 +7156,72 @@
         },
         "feature": "grammar_perfektum"
       }
-    }
+    },
+    "translations": {}
   },
   "abfahren_verb": {
     "word": "abfahren",
     "_id": "abfahren_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 409
+    "frequency": 409,
+    "translations": {}
   },
   "abgeben_verb": {
     "word": "abgeben",
     "_id": "abgeben_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 256
+    "frequency": 256,
+    "translations": {}
   },
   "abholen_verb": {
     "word": "abholen",
     "_id": "abholen_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 548
+    "frequency": 548,
+    "translations": {}
   },
   "anbieten_verb": {
     "word": "anbieten",
     "_id": "anbieten_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 2331
+    "frequency": 2331,
+    "translations": {}
   },
   "anklicken_verb": {
     "word": "anklicken",
     "_id": "anklicken_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 11749
+    "frequency": 11749,
+    "translations": {}
   },
   "ankommen_verb": {
     "word": "ankommen",
     "_id": "ankommen_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 154
+    "frequency": 154,
+    "translations": {}
   },
   "ankreuzen_verb": {
     "word": "ankreuzen",
     "_id": "ankreuzen_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 12944
+    "frequency": 12944,
+    "translations": {}
   },
   "anmachen_verb": {
     "word": "anmachen",
     "_id": "anmachen_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 107
+    "frequency": 107,
+    "translations": {}
   },
   "anmelden_verb": {
     "word": "anmelden",
@@ -7073,7 +7229,8 @@
     "curriculum": false,
     "cefr": "A1",
     "frequency": 1569,
-    "reflexive": true
+    "reflexive": true,
+    "translations": {}
   },
   "anziehen_verb": {
     "word": "anziehen",
@@ -7081,112 +7238,128 @@
     "curriculum": false,
     "cefr": "A1",
     "frequency": 782,
-    "reflexive": true
+    "reflexive": true,
+    "translations": {}
   },
   "aufhoeren_verb": {
     "word": "aufhören",
     "_id": "aufhoeren_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 266
+    "frequency": 266,
+    "translations": {}
   },
   "ausfuellen_verb": {
     "word": "ausfüllen",
     "_id": "ausfuellen_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 5005
+    "frequency": 5005,
+    "translations": {}
   },
   "ausmachen_verb": {
     "word": "ausmachen",
     "_id": "ausmachen_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 107
+    "frequency": 107,
+    "translations": {}
   },
   "aussteigen_verb": {
     "word": "aussteigen",
     "_id": "aussteigen_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 2039
+    "frequency": 2039,
+    "translations": {}
   },
   "baden_verb": {
     "word": "baden",
     "_id": "baden_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 4910
+    "frequency": 4910,
+    "translations": {}
   },
   "bedeuten_verb": {
     "word": "bedeuten",
     "_id": "bedeuten_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 1459
+    "frequency": 1459,
+    "translations": {}
   },
   "benutzen_verb": {
     "word": "benutzen",
     "_id": "benutzen_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 1037
+    "frequency": 1037,
+    "translations": {}
   },
   "besichtigen_verb": {
     "word": "besichtigen",
     "_id": "besichtigen_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 16501
+    "frequency": 16501,
+    "translations": {}
   },
   "bezahlen_verb": {
     "word": "bezahlen",
     "_id": "bezahlen_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 960
+    "frequency": 960,
+    "translations": {}
   },
   "bisschen_verb": {
     "word": "bisschen",
     "_id": "bisschen_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 400
+    "frequency": 400,
+    "translations": {}
   },
   "bitten_verb": {
     "word": "bitten",
     "_id": "bitten_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 917
+    "frequency": 917,
+    "translations": {}
   },
   "buchstabieren_verb": {
     "word": "buchstabieren",
     "_id": "buchstabieren_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 14221
+    "frequency": 14221,
+    "translations": {}
   },
   "daneben_verb": {
     "word": "daneben",
     "_id": "daneben_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 3145
+    "frequency": 3145,
+    "translations": {}
   },
   "drucken_verb": {
     "word": "drucken",
     "_id": "drucken_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 8313
+    "frequency": 8313,
+    "translations": {}
   },
   "druecken_verb": {
     "word": "drücken",
     "_id": "druecken_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 2356
+    "frequency": 2356,
+    "translations": {}
   },
   "duschen_verb": {
     "word": "duschen",
@@ -7194,56 +7367,64 @@
     "curriculum": false,
     "cefr": "A1",
     "frequency": 3902,
-    "reflexive": true
+    "reflexive": true,
+    "translations": {}
   },
   "einsteigen_verb": {
     "word": "einsteigen",
     "_id": "einsteigen_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 2039
+    "frequency": 2039,
+    "translations": {}
   },
   "empfehlen_verb": {
     "word": "empfehlen",
     "_id": "empfehlen_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 5291
+    "frequency": 5291,
+    "translations": {}
   },
   "enden_verb": {
     "word": "enden",
     "_id": "enden_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 2073
+    "frequency": 2073,
+    "translations": {}
   },
   "entschuldigen_verb": {
     "word": "entschuldigen",
     "_id": "entschuldigen_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 550
+    "frequency": 550,
+    "translations": {}
   },
   "erlauben_verb": {
     "word": "erlauben",
     "_id": "erlauben_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 2166
+    "frequency": 2166,
+    "translations": {}
   },
   "fehlen_verb": {
     "word": "fehlen",
     "_id": "fehlen_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 2204
+    "frequency": 2204,
+    "translations": {}
   },
   "abfliegen_verb": {
     "word": "abfliegen",
     "_id": "abfliegen_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 969
+    "frequency": 969,
+    "translations": {}
   },
   "freuen_verb": {
     "word": "freuen",
@@ -7251,280 +7432,320 @@
     "curriculum": false,
     "cefr": "A1",
     "frequency": 1641,
-    "reflexive": true
+    "reflexive": true,
+    "translations": {}
   },
   "geboren_verb": {
     "word": "geboren",
     "_id": "geboren_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 1181
+    "frequency": 1181,
+    "translations": {}
   },
   "gefallen_verb": {
     "word": "gefallen",
     "_id": "gefallen_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 516
+    "frequency": 516,
+    "translations": {}
   },
   "gehoeren_verb": {
     "word": "gehören",
     "_id": "gehoeren_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 1272
+    "frequency": 1272,
+    "translations": {}
   },
   "gestern_verb": {
     "word": "gestern",
     "_id": "gestern_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 475
+    "frequency": 475,
+    "translations": {}
   },
   "gestorben_verb": {
     "word": "gestorben",
     "_id": "gestorben_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 870
+    "frequency": 870,
+    "translations": {}
   },
   "gratulieren_verb": {
     "word": "gratulieren",
     "_id": "gratulieren_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 6552
+    "frequency": 6552,
+    "translations": {}
   },
   "halten_verb": {
     "word": "halten",
     "_id": "halten_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 331
+    "frequency": 331,
+    "translations": {}
   },
   "heiraten_verb": {
     "word": "heiraten",
     "_id": "heiraten_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 734
+    "frequency": 734,
+    "translations": {}
   },
   "hinten_verb": {
     "word": "hinten",
     "_id": "hinten_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 900
+    "frequency": 900,
+    "translations": {}
   },
   "holen_verb": {
     "word": "holen",
     "_id": "holen_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 498
+    "frequency": 498,
+    "translations": {}
   },
   "kennenlernen_verb": {
     "word": "kennenlernen",
     "_id": "kennenlernen_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 2724
+    "frequency": 2724,
+    "translations": {}
   },
   "kosten_verb": {
     "word": "kosten",
     "_id": "kosten_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 1698
+    "frequency": 1698,
+    "translations": {}
   },
   "kriegen_verb": {
     "word": "kriegen",
     "_id": "kriegen_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 590
+    "frequency": 590,
+    "translations": {}
   },
   "sich_kuemmern_verb": {
     "word": "sich kümmern",
     "_id": "sich_kuemmern_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 777
+    "frequency": 777,
+    "translations": {}
   },
   "legen_verb": {
     "word": "legen",
     "_id": "legen_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 1003
+    "frequency": 1003,
+    "translations": {}
   },
   "meistder_mensch_verb": {
     "word": "meistder Mensch",
     "_id": "meistder_mensch_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 578
+    "frequency": 578,
+    "translations": {}
   },
   "mieten_verb": {
     "word": "mieten",
     "_id": "mieten_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 6818
+    "frequency": 6818,
+    "translations": {}
   },
   "mitmachen_verb": {
     "word": "mitmachen",
     "_id": "mitmachen_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 107
+    "frequency": 107,
+    "translations": {}
   },
   "oben_verb": {
     "word": "oben",
     "_id": "oben_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 474
+    "frequency": 474,
+    "translations": {}
   },
   "rauchen_verb": {
     "word": "rauchen",
     "_id": "rauchen_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 2126
+    "frequency": 2126,
+    "translations": {}
   },
   "regnen_verb": {
     "word": "regnen",
     "_id": "regnen_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 7999
+    "frequency": 7999,
+    "translations": {}
   },
   "reparieren_verb": {
     "word": "reparieren",
     "_id": "reparieren_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 2347
+    "frequency": 2347,
+    "translations": {}
   },
   "riechen_verb": {
     "word": "riechen",
     "_id": "riechen_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 2889
+    "frequency": 2889,
+    "translations": {}
   },
   "schicken_verb": {
     "word": "schicken",
     "_id": "schicken_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 834
+    "frequency": 834,
+    "translations": {}
   },
   "schliessen_verb": {
     "word": "schließen",
     "_id": "schliessen_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 1484
+    "frequency": 1484,
+    "translations": {}
   },
   "geschlossen_verb": {
     "word": "geschlossen",
     "_id": "geschlossen_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 1728
+    "frequency": 1728,
+    "translations": {}
   },
   "schmecken_verb": {
     "word": "schmecken",
     "_id": "schmecken_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 4120
+    "frequency": 4120,
+    "translations": {}
   },
   "stellen_verb": {
     "word": "stellen",
     "_id": "stellen_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 580
+    "frequency": 580,
+    "translations": {}
   },
   "studieren_verb": {
     "word": "studieren",
     "_id": "studieren_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 3900
+    "frequency": 3900,
+    "translations": {}
   },
   "suchen_verb": {
     "word": "suchen",
     "_id": "suchen_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 446
+    "frequency": 446,
+    "translations": {}
   },
   "telefonieren_verb": {
     "word": "telefonieren",
     "_id": "telefonieren_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 3453
+    "frequency": 3453,
+    "translations": {}
   },
   "uebernachten_verb": {
     "word": "übernachten",
     "_id": "uebernachten_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 5181
+    "frequency": 5181,
+    "translations": {}
   },
   "ueberweisen_verb": {
     "word": "überweisen",
     "_id": "ueberweisen_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 13937
+    "frequency": 13937,
+    "translations": {}
   },
   "umziehen_verb": {
     "word": "umziehen",
     "_id": "umziehen_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 782
+    "frequency": 782,
+    "translations": {}
   },
   "unterschreiben_verb": {
     "word": "unterschreiben",
     "_id": "unterschreiben_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 2354
+    "frequency": 2354,
+    "translations": {}
   },
   "verboten_verb": {
     "word": "verboten",
     "_id": "verboten_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 2091
+    "frequency": 2091,
+    "translations": {}
   },
   "verdienen_verb": {
     "word": "verdienen",
     "_id": "verdienen_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 1562
+    "frequency": 1562,
+    "translations": {}
   },
   "verkaufen_verb": {
     "word": "verkaufen",
     "_id": "verkaufen_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 931
+    "frequency": 931,
+    "translations": {}
   },
   "vermieten_verb": {
     "word": "vermieten",
     "_id": "vermieten_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 10881
+    "frequency": 10881,
+    "translations": {}
   },
   "vorstellen_verb": {
     "word": "vorstellen",
@@ -7532,7 +7753,8 @@
     "curriculum": false,
     "cefr": "A1",
     "frequency": 638,
-    "reflexive": true
+    "reflexive": true,
+    "translations": {}
   },
   "waschen_verb": {
     "word": "waschen",
@@ -7540,728 +7762,832 @@
     "curriculum": false,
     "cefr": "A1",
     "frequency": 2777,
-    "reflexive": true
+    "reflexive": true,
+    "translations": {}
   },
   "wiederholen_verb": {
     "word": "wiederholen",
     "_id": "wiederholen_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 2975
+    "frequency": 2975,
+    "translations": {}
   },
   "zahlen_verb": {
     "word": "zahlen",
     "_id": "zahlen_verb",
     "curriculum": false,
     "cefr": "A1",
-    "frequency": 1001
+    "frequency": 1001,
+    "translations": {}
   },
   "anderen_verb": {
     "word": "anderen",
     "_id": "anderen_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 217
+    "frequency": 217,
+    "translations": {}
   },
   "damit_zufrieden_verb": {
     "word": "damit zufrieden",
     "_id": "damit_zufrieden_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 145
+    "frequency": 145,
+    "translations": {}
   },
   "abschliessen_verb": {
     "word": "abschließen",
     "_id": "abschliessen_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 1632
+    "frequency": 1632,
+    "translations": {}
   },
   "gelesen_verb": {
     "word": "gelesen",
     "_id": "gelesen_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 1128
+    "frequency": 1128,
+    "translations": {}
   },
   "ausgeben_verb": {
     "word": "ausgeben",
     "_id": "ausgeben_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 256
+    "frequency": 256,
+    "translations": {}
   },
   "ausgehen_verb": {
     "word": "ausgehen",
     "_id": "ausgehen_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 117
+    "frequency": 117,
+    "translations": {}
   },
   "auspacken_verb": {
     "word": "auspacken",
     "_id": "auspacken_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 2569
+    "frequency": 2569,
+    "translations": {}
   },
   "aufmachen_verb": {
     "word": "aufmachen",
     "_id": "aufmachen_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 107
+    "frequency": 107,
+    "translations": {}
   },
   "aufpassen_verb": {
     "word": "aufpassen",
     "_id": "aufpassen_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 1465
+    "frequency": 1465,
+    "translations": {}
   },
   "aussprechen_verb": {
     "word": "aussprechen",
     "_id": "aussprechen_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 350
+    "frequency": 350,
+    "translations": {}
   },
   "austragen_verb": {
     "word": "austragen",
     "_id": "austragen_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 905
+    "frequency": 905,
+    "translations": {}
   },
   "beenden_verb": {
     "word": "beenden",
     "_id": "beenden_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 1568
+    "frequency": 1568,
+    "translations": {}
   },
   "begruenden_verb": {
     "word": "begründen",
     "_id": "begruenden_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 27216
+    "frequency": 27216,
+    "translations": {}
   },
   "backen_verb": {
     "word": "backen",
     "_id": "backen_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 6931
+    "frequency": 6931,
+    "translations": {}
   },
   "berichten_verb": {
     "word": "berichten",
     "_id": "berichten_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 3022
+    "frequency": 3022,
+    "translations": {}
   },
   "beantworten_verb": {
     "word": "beantworten",
     "_id": "beantworten_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 2465
+    "frequency": 2465,
+    "translations": {}
   },
   "beschreiben_verb": {
     "word": "beschreiben",
     "_id": "beschreiben_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 3621
+    "frequency": 3621,
+    "translations": {}
   },
   "braten_verb": {
     "word": "braten",
     "_id": "braten_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 7121
+    "frequency": 7121,
+    "translations": {}
   },
   "buchen_verb": {
     "word": "buchen",
     "_id": "buchen_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 11276
+    "frequency": 11276,
+    "translations": {}
   },
   "chatten_verb": {
     "word": "chatten",
     "_id": "chatten_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 41094
+    "frequency": 41094,
+    "translations": {}
   },
   "diskutieren_verb": {
     "word": "diskutieren",
     "_id": "diskutieren_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 4138
+    "frequency": 4138,
+    "translations": {}
   },
   "dagegen_gewesen_verb": {
     "word": "dagegen gewesen",
     "_id": "dagegen_gewesen_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 961
+    "frequency": 961,
+    "translations": {}
   },
   "drinnen_verb": {
     "word": "drinnen",
     "_id": "drinnen_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 1417
+    "frequency": 1417,
+    "translations": {}
   },
   "drueben_verb": {
     "word": "drüben",
     "_id": "drueben_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 774
+    "frequency": 774,
+    "translations": {}
   },
   "eintragen_verb": {
     "word": "eintragen",
     "_id": "eintragen_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 905
+    "frequency": 905,
+    "translations": {}
   },
   "einverstanden_verb": {
     "word": "einverstanden",
     "_id": "einverstanden_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 506
+    "frequency": 506,
+    "translations": {}
   },
   "bin_einverstanden_verb": {
     "word": "bin) einverstanden",
     "_id": "bin_einverstanden_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 1537
+    "frequency": 1537,
+    "translations": {}
   },
   "gewesen_verb": {
     "word": "gewesen",
     "_id": "gewesen_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 469
+    "frequency": 469,
+    "translations": {}
   },
   "einziehen_verb": {
     "word": "einziehen",
     "_id": "einziehen_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 782
+    "frequency": 782,
+    "translations": {}
   },
   "erreichen_verb": {
     "word": "erreichen",
     "_id": "erreichen_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 1182
+    "frequency": 1182,
+    "translations": {}
   },
   "fotografieren_verb": {
     "word": "fotografieren",
     "_id": "fotografieren_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 6731
+    "frequency": 6731,
+    "translations": {}
   },
   "am_liebsten_verb": {
     "word": "am liebsten",
     "_id": "am_liebsten_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 132
+    "frequency": 132,
+    "translations": {}
   },
   "fuenf_aufgaben_verb": {
     "word": "fünf Aufgaben",
     "_id": "fuenf_aufgaben_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 490
+    "frequency": 490,
+    "translations": {}
   },
   "am_besten_verb": {
     "word": "am besten",
     "_id": "am_besten_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 132
+    "frequency": 132,
+    "translations": {}
   },
   "herstellen_verb": {
     "word": "herstellen",
     "_id": "herstellen_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 638
+    "frequency": 638,
+    "translations": {}
   },
   "gehangen_verb": {
     "word": "gehangen",
     "_id": "gehangen_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 29799
+    "frequency": 29799,
+    "translations": {}
   },
   "herunterladen_verb": {
     "word": "herunterladen",
     "_id": "herunterladen_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 48322
+    "frequency": 48322,
+    "translations": {}
   },
   "informieren_verb": {
     "word": "informieren",
     "_id": "informieren_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 3464
+    "frequency": 3464,
+    "translations": {}
   },
   "schnellsten_verb": {
     "word": "schnellsten",
     "_id": "schnellsten_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 12570
+    "frequency": 12570,
+    "translations": {}
   },
   "kontrollieren_verb": {
     "word": "kontrollieren",
     "_id": "kontrollieren_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 2110
+    "frequency": 2110,
+    "translations": {}
   },
   "lassen_verb": {
     "word": "lassen",
     "_id": "lassen_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 163
+    "frequency": 163,
+    "translations": {}
   },
   "schon_laufen_verb": {
     "word": "schon laufen",
     "_id": "schon_laufen_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 54
+    "frequency": 54,
+    "translations": {}
   },
   "im_sueden_verb": {
     "word": "im Süden",
     "_id": "im_sueden_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 2661
+    "frequency": 2661,
+    "translations": {}
   },
   "modern_verb": {
     "word": "modern",
     "_id": "modern_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 9353
+    "frequency": 9353,
+    "translations": {}
   },
   "offen_verb": {
     "word": "offen",
     "_id": "offen_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 1009
+    "frequency": 1009,
+    "translations": {}
   },
   "organisieren_verb": {
     "word": "organisieren",
     "_id": "organisieren_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 5817
+    "frequency": 5817,
+    "translations": {}
   },
   "passieren_verb": {
     "word": "passieren",
     "_id": "passieren_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 787
+    "frequency": 787,
+    "translations": {}
   },
   "schwimmen_gehen_verb": {
     "word": "schwimmen gehen",
     "_id": "schwimmen_gehen_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 2231
+    "frequency": 2231,
+    "translations": {}
   },
   "probieren_verb": {
     "word": "probieren",
     "_id": "probieren_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 2306
+    "frequency": 2306,
+    "translations": {}
   },
   "renovieren_verb": {
     "word": "renovieren",
     "_id": "renovieren_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 12634
+    "frequency": 12634,
+    "translations": {}
   },
   "reservieren_verb": {
     "word": "reservieren",
     "_id": "reservieren_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 13485
+    "frequency": 13485,
+    "translations": {}
   },
   "sammeln_verb": {
     "word": "sammeln",
     "_id": "sammeln_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 3099
+    "frequency": 3099,
+    "translations": {}
   },
   "schenken_verb": {
     "word": "schenken",
     "_id": "schenken_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 2991
+    "frequency": 2991,
+    "translations": {}
   },
   "schimpfen_verb": {
     "word": "schimpfen",
     "_id": "schimpfen_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 16866
+    "frequency": 16866,
+    "translations": {}
   },
   "laut_sprechen_verb": {
     "word": "laut sprechen",
     "_id": "laut_sprechen_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 778
+    "frequency": 778,
+    "translations": {}
   },
   "schneien_verb": {
     "word": "schneien",
     "_id": "schneien_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 21752
+    "frequency": 21752,
+    "translations": {}
   },
   "stattfinden_verb": {
     "word": "stattfinden",
     "_id": "stattfinden_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 5858
+    "frequency": 5858,
+    "translations": {}
   },
   "viel_stehen_verb": {
     "word": "viel stehen",
     "_id": "viel_stehen_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 128
+    "frequency": 128,
+    "translations": {}
   },
   "gestern_gestorben_verb": {
     "word": "gestern gestorben",
     "_id": "gestern_gestorben_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 475
+    "frequency": 475,
+    "translations": {}
   },
   "speichern_verb": {
     "word": "speichern",
     "_id": "speichern_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 17168
+    "frequency": 17168,
+    "translations": {}
   },
   "teilnehmen_verb": {
     "word": "teilnehmen",
     "_id": "teilnehmen_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 309
+    "frequency": 309,
+    "translations": {}
   },
   "tauschen_verb": {
     "word": "tauschen",
     "_id": "tauschen_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 3714
+    "frequency": 3714,
+    "translations": {}
   },
   "trainieren_verb": {
     "word": "trainieren",
     "_id": "trainieren_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 4110
+    "frequency": 4110,
+    "translations": {}
   },
   "unten_verb": {
     "word": "unten",
     "_id": "unten_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 575
+    "frequency": 575,
+    "translations": {}
   },
   "unternehmen_verb": {
     "word": "unternehmen",
     "_id": "unternehmen_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 1551
+    "frequency": 1551,
+    "translations": {}
   },
   "zwei_stunden_verb": {
     "word": "zwei Stunden",
     "_id": "zwei_stunden_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 169
+    "frequency": 169,
+    "translations": {}
   },
   "nicht_finden_verb": {
     "word": "nicht finden",
     "_id": "nicht_finden_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 6
+    "frequency": 6,
+    "translations": {}
   },
   "uebermorgen_verb": {
     "word": "übermorgen",
     "_id": "uebermorgen_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 5792
+    "frequency": 5792,
+    "translations": {}
   },
   "uebersetzen_verb": {
     "word": "übersetzen",
     "_id": "uebersetzen_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 8823
+    "frequency": 8823,
+    "translations": {}
   },
   "umsteigen_verb": {
     "word": "umsteigen",
     "_id": "umsteigen_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 2039
+    "frequency": 2039,
+    "translations": {}
   },
   "vereinbaren_verb": {
     "word": "vereinbaren",
     "_id": "vereinbaren_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 12042
+    "frequency": 12042,
+    "translations": {}
   },
   "untersuchen_verb": {
     "word": "untersuchen",
     "_id": "untersuchen_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 2215
+    "frequency": 2215,
+    "translations": {}
   },
   "vergleichen_verb": {
     "word": "vergleichen",
     "_id": "vergleichen_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 5801
+    "frequency": 5801,
+    "translations": {}
   },
   "verpassen_verb": {
     "word": "verpassen",
     "_id": "verpassen_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 2545
+    "frequency": 2545,
+    "translations": {}
   },
   "verreisen_verb": {
     "word": "verreisen",
     "_id": "verreisen_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 8036
+    "frequency": 8036,
+    "translations": {}
   },
   "verschieben_verb": {
     "word": "verschieben",
     "_id": "verschieben_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 4520
+    "frequency": 4520,
+    "translations": {}
   },
   "verschieden_verb": {
     "word": "verschieden",
     "_id": "verschieden_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 7134
+    "frequency": 7134,
+    "translations": {}
   },
   "versuchen_verb": {
     "word": "versuchen",
     "_id": "versuchen_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 476
+    "frequency": 476,
+    "translations": {}
   },
   "vorbereiten_verb": {
     "word": "vorbereiten",
     "_id": "vorbereiten_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 3042
+    "frequency": 3042,
+    "translations": {}
   },
   "dafuer_vorbereiten_verb": {
     "word": "dafür vorbereiten",
     "_id": "dafuer_vorbereiten_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 245
+    "frequency": 245,
+    "translations": {}
   },
   "vorgestern_verb": {
     "word": "vorgestern",
     "_id": "vorgestern_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 523
+    "frequency": 523,
+    "translations": {}
   },
   "wechseln_verb": {
     "word": "wechseln",
     "_id": "wechseln_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 2617
+    "frequency": 2617,
+    "translations": {}
   },
   "wegen_verb": {
     "word": "wegen",
     "_id": "wegen_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 248
+    "frequency": 248,
+    "translations": {}
   },
   "zeichnen_verb": {
     "word": "zeichnen",
     "_id": "zeichnen_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 6930
+    "frequency": 6930,
+    "translations": {}
   },
   "zumachen_verb": {
     "word": "zumachen",
     "_id": "zumachen_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 107
+    "frequency": 107,
+    "translations": {}
   },
   "wuenschen_verb": {
     "word": "wünschen",
     "_id": "wuenschen_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 1677
+    "frequency": 1677,
+    "translations": {}
   },
   "notieren_verb": {
     "word": "notieren",
     "_id": "notieren_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 12136
+    "frequency": 12136,
+    "translations": {}
   },
   "ziehen_verb": {
     "word": "ziehen",
     "_id": "ziehen_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 711
+    "frequency": 711,
+    "translations": {}
   },
   "angezogen_verb": {
     "word": "angezogen",
     "_id": "angezogen_verb",
     "curriculum": false,
     "cefr": "A2",
-    "frequency": 2319
+    "frequency": 2319,
+    "translations": {}
   },
   "abbiegen_verb": {
     "word": "abbiegen",
     "_id": "abbiegen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 11403
+    "frequency": 11403,
+    "translations": {}
   },
   "abhaengen_verb": {
     "word": "abhängen",
     "_id": "abhaengen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1695
+    "frequency": 1695,
+    "translations": {}
   },
   "abheben_verb": {
     "word": "abheben",
     "_id": "abheben_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 4070
+    "frequency": 4070,
+    "translations": {}
   },
   "abschreiben_verb": {
     "word": "abschreiben",
     "_id": "abschreiben_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 877
+    "frequency": 877,
+    "translations": {}
   },
   "ablehnen_verb": {
     "word": "ablehnen",
     "_id": "ablehnen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 5609
+    "frequency": 5609,
+    "translations": {}
   },
   "abmachen_verb": {
     "word": "abmachen",
     "_id": "abmachen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 107
+    "frequency": 107,
+    "translations": {}
   },
   "abnehmen_verb": {
     "word": "abnehmen",
     "_id": "abnehmen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 309
+    "frequency": 309,
+    "translations": {}
   },
   "absagen_verb": {
     "word": "absagen",
     "_id": "absagen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 106
+    "frequency": 106,
+    "translations": {}
   },
   "abstimmen_verb": {
     "word": "abstimmen",
     "_id": "abstimmen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1637
+    "frequency": 1637,
+    "translations": {}
   },
   "abwaschen_verb": {
     "word": "abwaschen",
     "_id": "abwaschen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 3055
+    "frequency": 3055,
+    "translations": {}
   },
   "achten_verb": {
     "word": "achten",
     "_id": "achten_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 2954
+    "frequency": 2954,
+    "translations": {}
   },
   "akzeptieren_verb": {
     "word": "akzeptieren",
     "_id": "akzeptieren_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 2378
+    "frequency": 2378,
+    "translations": {}
   },
   "sich_amuesieren_verb": {
     "word": "sich amüsieren",
@@ -8269,98 +8595,112 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 3936,
-    "reflexive": true
+    "reflexive": true,
+    "translations": {}
   },
   "analysieren_verb": {
     "word": "analysieren",
     "_id": "analysieren_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 7849
+    "frequency": 7849,
+    "translations": {}
   },
   "aendern_verb": {
     "word": "ändern",
     "_id": "aendern_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 821
+    "frequency": 821,
+    "translations": {}
   },
   "anhaben_verb": {
     "word": "anhaben",
     "_id": "anhaben_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 33
+    "frequency": 33,
+    "translations": {}
   },
   "ankuendigen_verb": {
     "word": "ankündigen",
     "_id": "ankuendigen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 6757
+    "frequency": 6757,
+    "translations": {}
   },
   "anerkennen_verb": {
     "word": "anerkennen",
     "_id": "anerkennen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1527
+    "frequency": 1527,
+    "translations": {}
   },
   "angeben_verb": {
     "word": "angeben",
     "_id": "angeben_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 256
+    "frequency": 256,
+    "translations": {}
   },
   "annehmen_verb": {
     "word": "annehmen",
     "_id": "annehmen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 309
+    "frequency": 309,
+    "translations": {}
   },
   "anschaffen_verb": {
     "word": "anschaffen",
     "_id": "anschaffen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 732
+    "frequency": 732,
+    "translations": {}
   },
   "anschliessen_verb": {
     "word": "anschließen",
     "_id": "anschliessen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1632
+    "frequency": 1632,
+    "translations": {}
   },
   "anzeigen_verb": {
     "word": "anzeigen",
     "_id": "anzeigen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 575
+    "frequency": 575,
+    "translations": {}
   },
   "anschnallen_verb": {
     "word": "anschnallen",
     "_id": "anschnallen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 12997
+    "frequency": 12997,
+    "translations": {}
   },
   "ansprechen_verb": {
     "word": "ansprechen",
     "_id": "ansprechen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 350
+    "frequency": 350,
+    "translations": {}
   },
   "anstellen_verb": {
     "word": "anstellen",
     "_id": "anstellen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 638
+    "frequency": 638,
+    "translations": {}
   },
   "sich_anstrengen_verb": {
     "word": "sich anstrengen",
@@ -8368,168 +8708,192 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 10414,
-    "reflexive": true
+    "reflexive": true,
+    "translations": {}
   },
   "anwenden_verb": {
     "word": "anwenden",
     "_id": "anwenden_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 3662
+    "frequency": 3662,
+    "translations": {}
   },
   "atmen_verb": {
     "word": "atmen",
     "_id": "atmen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1796
+    "frequency": 1796,
+    "translations": {}
   },
   "auffallen_verb": {
     "word": "auffallen",
     "_id": "auffallen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 996
+    "frequency": 996,
+    "translations": {}
   },
   "auffordern_verb": {
     "word": "auffordern",
     "_id": "auffordern_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 5928
+    "frequency": 5928,
+    "translations": {}
   },
   "auffuehren_verb": {
     "word": "aufführen",
     "_id": "auffuehren_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 956
+    "frequency": 956,
+    "translations": {}
   },
   "aufgeben_verb": {
     "word": "aufgeben",
     "_id": "aufgeben_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 256
+    "frequency": 256,
+    "translations": {}
   },
   "aufhalten_verb": {
     "word": "aufhalten",
     "_id": "aufhalten_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 364
+    "frequency": 364,
+    "translations": {}
   },
   "aufheben_verb": {
     "word": "aufheben",
     "_id": "aufheben_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 4070
+    "frequency": 4070,
+    "translations": {}
   },
   "aufladen_verb": {
     "word": "aufladen",
     "_id": "aufladen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 955
+    "frequency": 955,
+    "translations": {}
   },
   "aufloesen_verb": {
     "word": "auflösen",
     "_id": "aufloesen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 2170
+    "frequency": 2170,
+    "translations": {}
   },
   "aufnehmen_verb": {
     "word": "aufnehmen",
     "_id": "aufnehmen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 309
+    "frequency": 309,
+    "translations": {}
   },
   "aufregen_verb": {
     "word": "aufregen",
     "_id": "aufregen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 2379
+    "frequency": 2379,
+    "translations": {}
   },
   "auftreten_verb": {
     "word": "auftreten",
     "_id": "auftreten_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1772
+    "frequency": 1772,
+    "translations": {}
   },
   "ausdrucken_verb": {
     "word": "ausdrucken",
     "_id": "ausdrucken_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 9144
+    "frequency": 9144,
+    "translations": {}
   },
   "ausfallen_verb": {
     "word": "ausfallen",
     "_id": "ausfallen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 996
+    "frequency": 996,
+    "translations": {}
   },
   "ausrichten_verb": {
     "word": "ausrichten",
     "_id": "ausrichten_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 3101
+    "frequency": 3101,
+    "translations": {}
   },
   "ausstellen_verb": {
     "word": "ausstellen",
     "_id": "ausstellen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 638
+    "frequency": 638,
+    "translations": {}
   },
   "auswaehlen_verb": {
     "word": "auswählen",
     "_id": "auswaehlen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 2375
+    "frequency": 2375,
+    "translations": {}
   },
   "aussen_verb": {
     "word": "außen",
     "_id": "aussen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 3634
+    "frequency": 3634,
+    "translations": {}
   },
   "basteln_verb": {
     "word": "basteln",
     "_id": "basteln_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 15987
+    "frequency": 15987,
+    "translations": {}
   },
   "bauen_verb": {
     "word": "bauen",
     "_id": "bauen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1539
+    "frequency": 1539,
+    "translations": {}
   },
   "beachten_verb": {
     "word": "beachten",
     "_id": "beachten_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 7963
+    "frequency": 7963,
+    "translations": {}
   },
   "beantragen_verb": {
     "word": "beantragen",
     "_id": "beantragen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 11389
+    "frequency": 11389,
+    "translations": {}
   },
   "sich_bedanken_verb": {
     "word": "sich bedanken",
@@ -8537,14 +8901,16 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 3884,
-    "reflexive": true
+    "reflexive": true,
+    "translations": {}
   },
   "bedienen_verb": {
     "word": "bedienen",
     "_id": "bedienen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 5012
+    "frequency": 5012,
+    "translations": {}
   },
   "sich_beeilen_verb": {
     "word": "sich beeilen",
@@ -8552,7 +8918,8 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 2000,
-    "reflexive": true
+    "reflexive": true,
+    "translations": {}
   },
   "sich_befinden_verb": {
     "word": "sich befinden",
@@ -8560,56 +8927,64 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 2797,
-    "reflexive": true
+    "reflexive": true,
+    "translations": {}
   },
   "begegnen_verb": {
     "word": "begegnen",
     "_id": "begegnen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 4934
+    "frequency": 4934,
+    "translations": {}
   },
   "behaupten_verb": {
     "word": "behaupten",
     "_id": "behaupten_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 2781
+    "frequency": 2781,
+    "translations": {}
   },
   "beissen_verb": {
     "word": "beißen",
     "_id": "beissen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 4509
+    "frequency": 4509,
+    "translations": {}
   },
   "behalten_verb": {
     "word": "behalten",
     "_id": "behalten_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 918
+    "frequency": 918,
+    "translations": {}
   },
   "behandeln_verb": {
     "word": "behandeln",
     "_id": "behandeln_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 2134
+    "frequency": 2134,
+    "translations": {}
   },
   "begruessen_verb": {
     "word": "begrüßen",
     "_id": "begruessen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 3553
+    "frequency": 3553,
+    "translations": {}
   },
   "beleidigen_verb": {
     "word": "beleidigen",
     "_id": "beleidigen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 5505
+    "frequency": 5505,
+    "translations": {}
   },
   "sich_bemuehen_verb": {
     "word": "sich bemühen",
@@ -8617,56 +8992,64 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 6737,
-    "reflexive": true
+    "reflexive": true,
+    "translations": {}
   },
   "benoetigen_verb": {
     "word": "benötigen",
     "_id": "benoetigen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 4376
+    "frequency": 4376,
+    "translations": {}
   },
   "beobachten_verb": {
     "word": "beobachten",
     "_id": "beobachten_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 2403
+    "frequency": 2403,
+    "translations": {}
   },
   "beruhigen_verb": {
     "word": "beruhigen",
     "_id": "beruhigen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1835
+    "frequency": 1835,
+    "translations": {}
   },
   "berechnen_verb": {
     "word": "berechnen",
     "_id": "berechnen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 11149
+    "frequency": 11149,
+    "translations": {}
   },
   "beschaedigen_verb": {
     "word": "beschädigen",
     "_id": "beschaedigen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 18867
+    "frequency": 18867,
+    "translations": {}
   },
   "beschliessen_verb": {
     "word": "beschließen",
     "_id": "beschliessen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 17924
+    "frequency": 17924,
+    "translations": {}
   },
   "bemerken_verb": {
     "word": "bemerken",
     "_id": "bemerken_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 5803
+    "frequency": 5803,
+    "translations": {}
   },
   "sich_beschweren_verb": {
     "word": "sich beschweren",
@@ -8674,14 +9057,16 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 6002,
-    "reflexive": true
+    "reflexive": true,
+    "translations": {}
   },
   "besetzen_verb": {
     "word": "besetzen",
     "_id": "besetzen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 11764
+    "frequency": 11764,
+    "translations": {}
   },
   "sich_beteiligen_verb": {
     "word": "sich beteiligen",
@@ -8689,42 +9074,48 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 12557,
-    "reflexive": true
+    "reflexive": true,
+    "translations": {}
   },
   "betreuen_verb": {
     "word": "betreuen",
     "_id": "betreuen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 20576
+    "frequency": 20576,
+    "translations": {}
   },
   "besorgen_verb": {
     "word": "besorgen",
     "_id": "besorgen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1485
+    "frequency": 1485,
+    "translations": {}
   },
   "besprechen_verb": {
     "word": "besprechen",
     "_id": "besprechen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1905
+    "frequency": 1905,
+    "translations": {}
   },
   "bewegen_verb": {
     "word": "bewegen",
     "_id": "bewegen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1278
+    "frequency": 1278,
+    "translations": {}
   },
   "beweisen_verb": {
     "word": "beweisen",
     "_id": "beweisen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1109
+    "frequency": 1109,
+    "translations": {}
   },
   "sich_bewerben_verb": {
     "word": "sich bewerben",
@@ -8732,119 +9123,136 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 12903,
-    "reflexive": true
+    "reflexive": true,
+    "translations": {}
   },
   "bieten_verb": {
     "word": "bieten",
     "_id": "bieten_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 2119
+    "frequency": 2119,
+    "translations": {}
   },
   "blitzen_verb": {
     "word": "blitzen",
     "_id": "blitzen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 21126
+    "frequency": 21126,
+    "translations": {}
   },
   "bluehen_verb": {
     "word": "blühen",
     "_id": "bluehen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 12494
+    "frequency": 12494,
+    "translations": {}
   },
   "bluten_verb": {
     "word": "bluten",
     "_id": "bluten_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 6652
+    "frequency": 6652,
+    "translations": {}
   },
   "bremsen_verb": {
     "word": "bremsen",
     "_id": "bremsen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 5352
+    "frequency": 5352,
+    "translations": {}
   },
   "brennen_verb": {
     "word": "brennen",
     "_id": "brennen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 3993
+    "frequency": 3993,
+    "translations": {}
   },
   "dagegen_verb": {
     "word": "dagegen",
     "_id": "dagegen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 961
+    "frequency": 961,
+    "translations": {}
   },
   "denken_verb": {
     "word": "denken",
     "_id": "denken_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 344
+    "frequency": 344,
+    "translations": {}
   },
   "darstellen_verb": {
     "word": "darstellen",
     "_id": "darstellen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 8738
+    "frequency": 8738,
+    "translations": {}
   },
   "deswegen_verb": {
     "word": "deswegen",
     "_id": "deswegen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 690
+    "frequency": 690,
+    "translations": {}
   },
   "donnern_verb": {
     "word": "donnern",
     "_id": "donnern_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 13710
+    "frequency": 13710,
+    "translations": {}
   },
   "dienen_verb": {
     "word": "dienen",
     "_id": "dienen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 2602
+    "frequency": 2602,
+    "translations": {}
   },
   "drehen_verb": {
     "word": "drehen",
     "_id": "drehen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1479
+    "frequency": 1479,
+    "translations": {}
   },
   "eben_verb": {
     "word": "eben",
     "_id": "eben_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 536
+    "frequency": 536,
+    "translations": {}
   },
   "eilen_verb": {
     "word": "eilen",
     "_id": "eilen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 17273
+    "frequency": 17273,
+    "translations": {}
   },
   "einbrechen_verb": {
     "word": "einbrechen",
     "_id": "einbrechen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1816
+    "frequency": 1816,
+    "translations": {}
   },
   "sich_eignen_verb": {
     "word": "sich eignen",
@@ -8852,35 +9260,40 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 19924,
-    "reflexive": true
+    "reflexive": true,
+    "translations": {}
   },
   "einfallen_verb": {
     "word": "einfallen",
     "_id": "einfallen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 996
+    "frequency": 996,
+    "translations": {}
   },
   "beeinflussen_verb": {
     "word": "beeinflussen",
     "_id": "beeinflussen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 5519
+    "frequency": 5519,
+    "translations": {}
   },
   "einfuegen_verb": {
     "word": "einfügen",
     "_id": "einfuegen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 11733
+    "frequency": 11733,
+    "translations": {}
   },
   "einrichten_verb": {
     "word": "einrichten",
     "_id": "einrichten_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 3101
+    "frequency": 3101,
+    "translations": {}
   },
   "sich_einigen_verb": {
     "word": "sich einigen",
@@ -8888,77 +9301,88 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 1876,
-    "reflexive": true
+    "reflexive": true,
+    "translations": {}
   },
   "einnehmen_verb": {
     "word": "einnehmen",
     "_id": "einnehmen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 309
+    "frequency": 309,
+    "translations": {}
   },
   "einschalten_verb": {
     "word": "einschalten",
     "_id": "einschalten_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 4111
+    "frequency": 4111,
+    "translations": {}
   },
   "einsetzen_verb": {
     "word": "einsetzen",
     "_id": "einsetzen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 690
+    "frequency": 690,
+    "translations": {}
   },
   "eintreten_verb": {
     "word": "eintreten",
     "_id": "eintreten_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1772
+    "frequency": 1772,
+    "translations": {}
   },
   "einzahlen_verb": {
     "word": "einzahlen",
     "_id": "einzahlen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1101
+    "frequency": 1101,
+    "translations": {}
   },
   "einzeln_verb": {
     "word": "einzeln",
     "_id": "einzeln_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 10089
+    "frequency": 10089,
+    "translations": {}
   },
   "entdecken_verb": {
     "word": "entdecken",
     "_id": "entdecken_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 4525
+    "frequency": 4525,
+    "translations": {}
   },
   "entfernen_verb": {
     "word": "entfernen",
     "_id": "entfernen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 2827
+    "frequency": 2827,
+    "translations": {}
   },
   "empfangen_verb": {
     "word": "empfangen",
     "_id": "empfangen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 2862
+    "frequency": 2862,
+    "translations": {}
   },
   "entlassen_verb": {
     "word": "entlassen",
     "_id": "entlassen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1985
+    "frequency": 1985,
+    "translations": {}
   },
   "sich_entschliessen_verb": {
     "word": "sich entschließen",
@@ -8966,14 +9390,16 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 28571,
-    "reflexive": true
+    "reflexive": true,
+    "translations": {}
   },
   "entsorgen_verb": {
     "word": "entsorgen",
     "_id": "entsorgen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 13610
+    "frequency": 13610,
+    "translations": {}
   },
   "sich_ereignen_verb": {
     "word": "sich ereignen",
@@ -8981,70 +9407,80 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 46664,
-    "reflexive": true
+    "reflexive": true,
+    "translations": {}
   },
   "enttaeuschen_verb": {
     "word": "enttäuschen",
     "_id": "enttaeuschen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 4153
+    "frequency": 4153,
+    "translations": {}
   },
   "entwickeln_verb": {
     "word": "entwickeln",
     "_id": "entwickeln_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 3853
+    "frequency": 3853,
+    "translations": {}
   },
   "erfinden_verb": {
     "word": "erfinden",
     "_id": "erfinden_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 6535
+    "frequency": 6535,
+    "translations": {}
   },
   "entstehen_verb": {
     "word": "entstehen",
     "_id": "entstehen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 7365
+    "frequency": 7365,
+    "translations": {}
   },
   "erfordern_verb": {
     "word": "erfordern",
     "_id": "erfordern_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 14434
+    "frequency": 14434,
+    "translations": {}
   },
   "erfuellen_verb": {
     "word": "erfüllen",
     "_id": "erfuellen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 3118
+    "frequency": 3118,
+    "translations": {}
   },
   "ergaenzen_verb": {
     "word": "ergänzen",
     "_id": "ergaenzen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 24849
+    "frequency": 24849,
+    "translations": {}
   },
   "erhalten_verb": {
     "word": "erhalten",
     "_id": "erhalten_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1334
+    "frequency": 1334,
+    "translations": {}
   },
   "erinnern_verb": {
     "word": "erinnern",
     "_id": "erinnern_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 697
+    "frequency": 697,
+    "translations": {}
   },
   "sich_erkaelten_verb": {
     "word": "sich erkälten",
@@ -9052,49 +9488,56 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 20282,
-    "reflexive": true
+    "reflexive": true,
+    "translations": {}
   },
   "erkennen_verb": {
     "word": "erkennen",
     "_id": "erkennen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1388
+    "frequency": 1388,
+    "translations": {}
   },
   "erledigen_verb": {
     "word": "erledigen",
     "_id": "erledigen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1255
+    "frequency": 1255,
+    "translations": {}
   },
   "erleichtern_verb": {
     "word": "erleichtern",
     "_id": "erleichtern_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 10929
+    "frequency": 10929,
+    "translations": {}
   },
   "und_senioren_verb": {
     "word": "und Senioren",
     "_id": "und_senioren_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 9
+    "frequency": 9,
+    "translations": {}
   },
   "ernaehren_verb": {
     "word": "ernähren",
     "_id": "ernaehren_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 6348
+    "frequency": 6348,
+    "translations": {}
   },
   "eroeffnen_verb": {
     "word": "eröffnen",
     "_id": "eroeffnen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 4831
+    "frequency": 4831,
+    "translations": {}
   },
   "sich_erkundigen_verb": {
     "word": "sich erkundigen",
@@ -9102,140 +9545,160 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 15730,
-    "reflexive": true
+    "reflexive": true,
+    "translations": {}
   },
   "erleben_verb": {
     "word": "erleben",
     "_id": "erleben_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 2481
+    "frequency": 2481,
+    "translations": {}
   },
   "erstellen_verb": {
     "word": "erstellen",
     "_id": "erstellen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 8939
+    "frequency": 8939,
+    "translations": {}
   },
   "erwachsen_verb": {
     "word": "erwachsen",
     "_id": "erwachsen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 2143
+    "frequency": 2143,
+    "translations": {}
   },
   "erwarten_verb": {
     "word": "erwarten",
     "_id": "erwarten_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1164
+    "frequency": 1164,
+    "translations": {}
   },
   "erziehen_verb": {
     "word": "erziehen",
     "_id": "erziehen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 10513
+    "frequency": 10513,
+    "translations": {}
   },
   "fassen_verb": {
     "word": "fassen",
     "_id": "fassen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1621
+    "frequency": 1621,
+    "translations": {}
   },
   "fallen_verb": {
     "word": "fallen",
     "_id": "fallen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 905
+    "frequency": 905,
+    "translations": {}
   },
   "fangen_verb": {
     "word": "fangen",
     "_id": "fangen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 981
+    "frequency": 981,
+    "translations": {}
   },
   "faulenzen_verb": {
     "word": "faulenzen",
     "_id": "faulenzen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 32098
+    "frequency": 32098,
+    "translations": {}
   },
   "finanzieren_verb": {
     "word": "finanzieren",
     "_id": "finanzieren_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 9290
+    "frequency": 9290,
+    "translations": {}
   },
   "feststehen_verb": {
     "word": "feststehen",
     "_id": "feststehen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 448
+    "frequency": 448,
+    "translations": {}
   },
   "feststellen_verb": {
     "word": "feststellen",
     "_id": "feststellen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 638
+    "frequency": 638,
+    "translations": {}
   },
   "festlegen_verb": {
     "word": "festlegen",
     "_id": "festlegen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1103
+    "frequency": 1103,
+    "translations": {}
   },
   "folgen_verb": {
     "word": "folgen",
     "_id": "folgen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 916
+    "frequency": 916,
+    "translations": {}
   },
   "foerdern_verb": {
     "word": "fördern",
     "_id": "foerdern_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 5389
+    "frequency": 5389,
+    "translations": {}
   },
   "fuehlen_verb": {
     "word": "fühlen",
     "_id": "fuehlen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 844
+    "frequency": 844,
+    "translations": {}
   },
   "fuehren_verb": {
     "word": "führen",
     "_id": "fuehren_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 869
+    "frequency": 869,
+    "translations": {}
   },
   "frieren_verb": {
     "word": "frieren",
     "_id": "frieren_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 13031
+    "frequency": 13031,
+    "translations": {}
   },
   "funktionieren_verb": {
     "word": "funktionieren",
     "_id": "funktionieren_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1743
+    "frequency": 1743,
+    "translations": {}
   },
   "sich_fuerchten_verb": {
     "word": "sich fürchten",
@@ -9243,168 +9706,192 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 3161,
-    "reflexive": true
+    "reflexive": true,
+    "translations": {}
   },
   "garantieren_verb": {
     "word": "garantieren",
     "_id": "garantieren_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 6402
+    "frequency": 6402,
+    "translations": {}
   },
   "gelingen_verb": {
     "word": "gelingen",
     "_id": "gelingen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 9021
+    "frequency": 9021,
+    "translations": {}
   },
   "gelten_verb": {
     "word": "gelten",
     "_id": "gelten_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 5964
+    "frequency": 5964,
+    "translations": {}
   },
   "genehmigen_verb": {
     "word": "genehmigen",
     "_id": "genehmigen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 13035
+    "frequency": 13035,
+    "translations": {}
   },
   "genuegen_verb": {
     "word": "genügen",
     "_id": "genuegen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 8259
+    "frequency": 8259,
+    "translations": {}
   },
   "geschehen_verb": {
     "word": "geschehen",
     "_id": "geschehen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 877
+    "frequency": 877,
+    "translations": {}
   },
   "greifen_verb": {
     "word": "greifen",
     "_id": "greifen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 2758
+    "frequency": 2758,
+    "translations": {}
   },
   "grillieren_verb": {
     "word": "grillieren",
     "_id": "grillieren_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": null
+    "frequency": null,
+    "translations": {}
   },
   "gruessen_verb": {
     "word": "grüßen",
     "_id": "gruessen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 4516
+    "frequency": 4516,
+    "translations": {}
   },
   "gruenden_verb": {
     "word": "gründen",
     "_id": "gruenden_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 2713
+    "frequency": 2713,
+    "translations": {}
   },
   "gucken_verb": {
     "word": "gucken",
     "_id": "gucken_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 2515
+    "frequency": 2515,
+    "translations": {}
   },
   "hageln_verb": {
     "word": "hageln",
     "_id": "hageln_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": null
+    "frequency": null,
+    "translations": {}
   },
   "hassen_verb": {
     "word": "hassen",
     "_id": "hassen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 2024
+    "frequency": 2024,
+    "translations": {}
   },
   "heben_verb": {
     "word": "heben",
     "_id": "heben_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 3700
+    "frequency": 3700,
+    "translations": {}
   },
   "heizen_verb": {
     "word": "heizen",
     "_id": "heizen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 22762
+    "frequency": 22762,
+    "translations": {}
   },
   "hochladen_verb": {
     "word": "hochladen",
     "_id": "hochladen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 31562
+    "frequency": 31562,
+    "translations": {}
   },
   "hinterlassen_verb": {
     "word": "hinterlassen",
     "_id": "hinterlassen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1783
+    "frequency": 1783,
+    "translations": {}
   },
   "hinweisen_verb": {
     "word": "hinweisen",
     "_id": "hinweisen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 5873
+    "frequency": 5873,
+    "translations": {}
   },
   "husten_verb": {
     "word": "husten",
     "_id": "husten_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 5893
+    "frequency": 5893,
+    "translations": {}
   },
   "hupen_verb": {
     "word": "hupen",
     "_id": "hupen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 5307
+    "frequency": 5307,
+    "translations": {}
   },
   "innen_verb": {
     "word": "innen",
     "_id": "innen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 3508
+    "frequency": 3508,
+    "translations": {}
   },
   "installieren_verb": {
     "word": "installieren",
     "_id": "installieren_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 14033
+    "frequency": 14033,
+    "translations": {}
   },
   "inzwischen_verb": {
     "word": "inzwischen",
     "_id": "inzwischen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 2337
+    "frequency": 2337,
+    "translations": {}
   },
   "sich_irren_verb": {
     "word": "sich irren",
@@ -9412,140 +9899,160 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 2812,
-    "reflexive": true
+    "reflexive": true,
+    "translations": {}
   },
   "kaempfen_verb": {
     "word": "kämpfen",
     "_id": "kaempfen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 855
+    "frequency": 855,
+    "translations": {}
   },
   "kaputtmachen_verb": {
     "word": "kaputtmachen",
     "_id": "kaputtmachen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 15471
+    "frequency": 15471,
+    "translations": {}
   },
   "klagen_verb": {
     "word": "klagen",
     "_id": "klagen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 6054
+    "frequency": 6054,
+    "translations": {}
   },
   "klappen_verb": {
     "word": "klappen",
     "_id": "klappen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 4121
+    "frequency": 4121,
+    "translations": {}
   },
   "klaeren_verb": {
     "word": "klären",
     "_id": "klaeren_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 2550
+    "frequency": 2550,
+    "translations": {}
   },
   "kleben_verb": {
     "word": "kleben",
     "_id": "kleben_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 9057
+    "frequency": 9057,
+    "translations": {}
   },
   "klicken_verb": {
     "word": "klicken",
     "_id": "klicken_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 10681
+    "frequency": 10681,
+    "translations": {}
   },
   "klopfen_verb": {
     "word": "klopfen",
     "_id": "klopfen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 2103
+    "frequency": 2103,
+    "translations": {}
   },
   "konsumieren_verb": {
     "word": "konsumieren",
     "_id": "konsumieren_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 34487
+    "frequency": 34487,
+    "translations": {}
   },
   "kopieren_verb": {
     "word": "kopieren",
     "_id": "kopieren_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 11799
+    "frequency": 11799,
+    "translations": {}
   },
   "kritisieren_verb": {
     "word": "kritisieren",
     "_id": "kritisieren_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 12436
+    "frequency": 12436,
+    "translations": {}
   },
   "kuendigen_verb": {
     "word": "kündigen",
     "_id": "kuendigen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 6143
+    "frequency": 6143,
+    "translations": {}
   },
   "kuessen_verb": {
     "word": "küssen",
     "_id": "kuessen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1820
+    "frequency": 1820,
+    "translations": {}
   },
   "leiden_verb": {
     "word": "leiden",
     "_id": "leiden_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1594
+    "frequency": 1594,
+    "translations": {}
   },
   "leihen_verb": {
     "word": "leihen",
     "_id": "leihen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 3778
+    "frequency": 3778,
+    "translations": {}
   },
   "leisten_verb": {
     "word": "leisten",
     "_id": "leisten_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1456
+    "frequency": 1456,
+    "translations": {}
   },
   "leiten_verb": {
     "word": "leiten",
     "_id": "leiten_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 3239
+    "frequency": 3239,
+    "translations": {}
   },
   "luegen_verb": {
     "word": "lügen",
     "_id": "luegen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1134
+    "frequency": 1134,
+    "translations": {}
   },
   "loben_verb": {
     "word": "loben",
     "_id": "loben_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 14594
+    "frequency": 14594,
+    "translations": {}
   },
   "sich_lohnen_verb": {
     "word": "sich lohnen",
@@ -9553,91 +10060,104 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 15724,
-    "reflexive": true
+    "reflexive": true,
+    "translations": {}
   },
   "losfahren_verb": {
     "word": "losfahren",
     "_id": "losfahren_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 409
+    "frequency": 409,
+    "translations": {}
   },
   "loeschen_verb": {
     "word": "löschen",
     "_id": "loeschen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 4204
+    "frequency": 4204,
+    "translations": {}
   },
   "loesen_verb": {
     "word": "lösen",
     "_id": "loesen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1973
+    "frequency": 1973,
+    "translations": {}
   },
   "markieren_verb": {
     "word": "markieren",
     "_id": "markieren_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 12975
+    "frequency": 12975,
+    "translations": {}
   },
   "meinen_verb": {
     "word": "meinen",
     "_id": "meinen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 165
+    "frequency": 165,
+    "translations": {}
   },
   "messen_verb": {
     "word": "messen",
     "_id": "messen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 6808
+    "frequency": 6808,
+    "translations": {}
   },
   "melden_verb": {
     "word": "melden",
     "_id": "melden_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1426
+    "frequency": 1426,
+    "translations": {}
   },
   "merken_verb": {
     "word": "merken",
     "_id": "merken_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 2060
+    "frequency": 2060,
+    "translations": {}
   },
   "mitteilen_verb": {
     "word": "mitteilen",
     "_id": "mitteilen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1469
+    "frequency": 1469,
+    "translations": {}
   },
   "mitten_verb": {
     "word": "mitten",
     "_id": "mitten_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1534
+    "frequency": 1534,
+    "translations": {}
   },
   "nachdenken_verb": {
     "word": "nachdenken",
     "_id": "nachdenken_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 378
+    "frequency": 378,
+    "translations": {}
   },
   "nachschlagen_verb": {
     "word": "nachschlagen",
     "_id": "nachschlagen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1209
+    "frequency": 1209,
+    "translations": {}
   },
   "sich_naehern_verb": {
     "word": "sich nähern",
@@ -9645,196 +10165,224 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 3940,
-    "reflexive": true
+    "reflexive": true,
+    "translations": {}
   },
   "nennen_verb": {
     "word": "nennen",
     "_id": "nennen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 692
+    "frequency": 692,
+    "translations": {}
   },
   "nutzen_verb": {
     "word": "nutzen",
     "_id": "nutzen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1676
+    "frequency": 1676,
+    "translations": {}
   },
   "nuetzen_verb": {
     "word": "nützen",
     "_id": "nuetzen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1676
+    "frequency": 1676,
+    "translations": {}
   },
   "veroeffentlichen_verb": {
     "word": "veröffentlichen",
     "_id": "veroeffentlichen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 7468
+    "frequency": 7468,
+    "translations": {}
   },
   "operieren_verb": {
     "word": "operieren",
     "_id": "operieren_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 5412
+    "frequency": 5412,
+    "translations": {}
   },
   "ordnen_verb": {
     "word": "ordnen",
     "_id": "ordnen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 14432
+    "frequency": 14432,
+    "translations": {}
   },
   "parkieren_verb": {
     "word": "parkieren",
     "_id": "parkieren_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": null
+    "frequency": null,
+    "translations": {}
   },
   "passen_verb": {
     "word": "passen",
     "_id": "passen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1332
+    "frequency": 1332,
+    "translations": {}
   },
   "pflanzen_verb": {
     "word": "pflanzen",
     "_id": "pflanzen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 4254
+    "frequency": 4254,
+    "translations": {}
   },
   "pflegen_verb": {
     "word": "pflegen",
     "_id": "pflegen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 8887
+    "frequency": 8887,
+    "translations": {}
   },
   "praesentieren_verb": {
     "word": "präsentieren",
     "_id": "praesentieren_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 5198
+    "frequency": 5198,
+    "translations": {}
   },
   "produzieren_verb": {
     "word": "produzieren",
     "_id": "produzieren_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 7890
+    "frequency": 7890,
+    "translations": {}
   },
   "protestieren_verb": {
     "word": "protestieren",
     "_id": "protestieren_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 14088
+    "frequency": 14088,
+    "translations": {}
   },
   "raten_verb": {
     "word": "raten",
     "_id": "raten_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 2075
+    "frequency": 2075,
+    "translations": {}
   },
   "reden_verb": {
     "word": "reden",
     "_id": "reden_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 186
+    "frequency": 186,
+    "translations": {}
   },
   "reduzieren_verb": {
     "word": "reduzieren",
     "_id": "reduzieren_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 10879
+    "frequency": 10879,
+    "translations": {}
   },
   "reagieren_verb": {
     "word": "reagieren",
     "_id": "reagieren_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 3719
+    "frequency": 3719,
+    "translations": {}
   },
   "realisieren_verb": {
     "word": "realisieren",
     "_id": "realisieren_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 18627
+    "frequency": 18627,
+    "translations": {}
   },
   "rechnen_verb": {
     "word": "rechnen",
     "_id": "rechnen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 4371
+    "frequency": 4371,
+    "translations": {}
   },
   "regeln_verb": {
     "word": "regeln",
     "_id": "regeln_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 979
+    "frequency": 979,
+    "translations": {}
   },
   "reichen_verb": {
     "word": "reichen",
     "_id": "reichen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1585
+    "frequency": 1585,
+    "translations": {}
   },
   "reinigen_verb": {
     "word": "reinigen",
     "_id": "reinigen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 6979
+    "frequency": 6979,
+    "translations": {}
   },
   "retten_verb": {
     "word": "retten",
     "_id": "retten_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 639
+    "frequency": 639,
+    "translations": {}
   },
   "reiten_verb": {
     "word": "reiten",
     "_id": "reiten_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 2695
+    "frequency": 2695,
+    "translations": {}
   },
   "rennen_verb": {
     "word": "rennen",
     "_id": "rennen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1517
+    "frequency": 1517,
+    "translations": {}
   },
   "rufen_verb": {
     "word": "rufen",
     "_id": "rufen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 733
+    "frequency": 733,
+    "translations": {}
   },
   "zuschauen_verb": {
     "word": "zuschauen",
     "_id": "zuschauen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 958
+    "frequency": 958,
+    "translations": {}
   },
   "sich_scheiden_verb": {
     "word": "sich scheiden",
@@ -9842,49 +10390,56 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 3779,
-    "reflexive": true
+    "reflexive": true,
+    "translations": {}
   },
   "schaffen_verb": {
     "word": "schaffen",
     "_id": "schaffen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 665
+    "frequency": 665,
+    "translations": {}
   },
   "schaetzen_verb": {
     "word": "schätzen",
     "_id": "schaetzen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1575
+    "frequency": 1575,
+    "translations": {}
   },
   "schieben_verb": {
     "word": "schieben",
     "_id": "schieben_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 3745
+    "frequency": 3745,
+    "translations": {}
   },
   "schiessen_verb": {
     "word": "schießen",
     "_id": "schiessen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1082
+    "frequency": 1082,
+    "translations": {}
   },
   "schlagen_verb": {
     "word": "schlagen",
     "_id": "schlagen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1099
+    "frequency": 1099,
+    "translations": {}
   },
   "schminken_verb": {
     "word": "schminken",
     "_id": "schminken_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 19779
+    "frequency": 19779,
+    "translations": {}
   },
   "sich_schneiden_verb": {
     "word": "sich schneiden",
@@ -9892,63 +10447,72 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 3098,
-    "reflexive": true
+    "reflexive": true,
+    "translations": {}
   },
   "aufschreiben_verb": {
     "word": "aufschreiben",
     "_id": "aufschreiben_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 877
+    "frequency": 877,
+    "translations": {}
   },
   "schreien_verb": {
     "word": "schreien",
     "_id": "schreien_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1601
+    "frequency": 1601,
+    "translations": {}
   },
   "schuetteln_verb": {
     "word": "schütteln",
     "_id": "schuetteln_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 7780
+    "frequency": 7780,
+    "translations": {}
   },
   "schuetzen_verb": {
     "word": "schützen",
     "_id": "schuetzen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1329
+    "frequency": 1329,
+    "translations": {}
   },
   "schweigen_verb": {
     "word": "schweigen",
     "_id": "schweigen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 2081
+    "frequency": 2081,
+    "translations": {}
   },
   "schwitzen_verb": {
     "word": "schwitzen",
     "_id": "schwitzen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 8372
+    "frequency": 8372,
+    "translations": {}
   },
   "selten_verb": {
     "word": "selten",
     "_id": "selten_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 2352
+    "frequency": 2352,
+    "translations": {}
   },
   "siegen_verb": {
     "word": "siegen",
     "_id": "siegen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 6546
+    "frequency": 6546,
+    "translations": {}
   },
   "sich_siezen_verb": {
     "word": "sich siezen",
@@ -9956,119 +10520,136 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 47660,
-    "reflexive": true
+    "reflexive": true,
+    "translations": {}
   },
   "sichern_verb": {
     "word": "sichern",
     "_id": "sichern_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 4359
+    "frequency": 4359,
+    "translations": {}
   },
   "sondern_verb": {
     "word": "sondern",
     "_id": "sondern_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 619
+    "frequency": 619,
+    "translations": {}
   },
   "sorgen_verb": {
     "word": "sorgen",
     "_id": "sorgen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 425
+    "frequency": 425,
+    "translations": {}
   },
   "spazieren_verb": {
     "word": "spazieren",
     "_id": "spazieren_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 2702
+    "frequency": 2702,
+    "translations": {}
   },
   "spuelen_verb": {
     "word": "spülen",
     "_id": "spuelen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 13167
+    "frequency": 13167,
+    "translations": {}
   },
   "spueren_verb": {
     "word": "spüren",
     "_id": "spueren_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 2104
+    "frequency": 2104,
+    "translations": {}
   },
   "stammen_verb": {
     "word": "stammen",
     "_id": "stammen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 4511
+    "frequency": 4511,
+    "translations": {}
   },
   "starten_verb": {
     "word": "starten",
     "_id": "starten_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 2640
+    "frequency": 2640,
+    "translations": {}
   },
   "staubsaugen_verb": {
     "word": "staubsaugen",
     "_id": "staubsaugen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 41649
+    "frequency": 41649,
+    "translations": {}
   },
   "stecken_verb": {
     "word": "stecken",
     "_id": "stecken_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1284
+    "frequency": 1284,
+    "translations": {}
   },
   "stechen_verb": {
     "word": "stechen",
     "_id": "stechen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 7263
+    "frequency": 7263,
+    "translations": {}
   },
   "stehlen_verb": {
     "word": "stehlen",
     "_id": "stehlen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1937
+    "frequency": 1937,
+    "translations": {}
   },
   "steigen_verb": {
     "word": "steigen",
     "_id": "steigen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1854
+    "frequency": 1854,
+    "translations": {}
   },
   "streiken_verb": {
     "word": "streiken",
     "_id": "streiken_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 16869
+    "frequency": 16869,
+    "translations": {}
   },
   "stinken_verb": {
     "word": "stinken",
     "_id": "stinken_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 10102
+    "frequency": 10102,
+    "translations": {}
   },
   "stoppen_verb": {
     "word": "stoppen",
     "_id": "stoppen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 2314
+    "frequency": 2314,
+    "translations": {}
   },
   "sich_stossen_verb": {
     "word": "sich stoßen",
@@ -10076,7 +10657,8 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 4834,
-    "reflexive": true
+    "reflexive": true,
+    "translations": {}
   },
   "sich_streiten_verb": {
     "word": "sich streiten",
@@ -10084,56 +10666,64 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 2185,
-    "reflexive": true
+    "reflexive": true,
+    "translations": {}
   },
   "stoeren_verb": {
     "word": "stören",
     "_id": "stoeren_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1794
+    "frequency": 1794,
+    "translations": {}
   },
   "stuerzen_verb": {
     "word": "stürzen",
     "_id": "stuerzen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 4341
+    "frequency": 4341,
+    "translations": {}
   },
   "tanken_verb": {
     "word": "tanken",
     "_id": "tanken_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 11145
+    "frequency": 11145,
+    "translations": {}
   },
   "tauchen_verb": {
     "word": "tauchen",
     "_id": "tauchen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 5223
+    "frequency": 5223,
+    "translations": {}
   },
   "teilen_verb": {
     "word": "teilen",
     "_id": "teilen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1335
+    "frequency": 1335,
+    "translations": {}
   },
   "testen_verb": {
     "word": "testen",
     "_id": "testen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 3270
+    "frequency": 3270,
+    "translations": {}
   },
   "transportieren_verb": {
     "word": "transportieren",
     "_id": "transportieren_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 8521
+    "frequency": 8521,
+    "translations": {}
   },
   "sich_trennen_verb": {
     "word": "sich trennen",
@@ -10141,7 +10731,8 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 2457,
-    "reflexive": true
+    "reflexive": true,
+    "translations": {}
   },
   "sich_getren_verb": {
     "word": "sich getren",
@@ -10149,49 +10740,56 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": null,
-    "reflexive": true
+    "reflexive": true,
+    "translations": {}
   },
   "treten_verb": {
     "word": "treten",
     "_id": "treten_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1611
+    "frequency": 1611,
+    "translations": {}
   },
   "trocknen_verb": {
     "word": "trocknen",
     "_id": "trocknen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 11681
+    "frequency": 11681,
+    "translations": {}
   },
   "ueben_verb": {
     "word": "üben",
     "_id": "ueben_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 3221
+    "frequency": 3221,
+    "translations": {}
   },
   "ueberfahren_verb": {
     "word": "überfahren",
     "_id": "ueberfahren_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 5132
+    "frequency": 5132,
+    "translations": {}
   },
   "ueberholen_verb": {
     "word": "überholen",
     "_id": "ueberholen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 16652
+    "frequency": 16652,
+    "translations": {}
   },
   "ueberlegen_verb": {
     "word": "überlegen",
     "_id": "ueberlegen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1806
+    "frequency": 1806,
+    "translations": {}
   },
   "sich_ueberzeugen_verb": {
     "word": "sich überzeugen",
@@ -10199,49 +10797,56 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 2189,
-    "reflexive": true
+    "reflexive": true,
+    "translations": {}
   },
   "uebernehmen_verb": {
     "word": "übernehmen",
     "_id": "uebernehmen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1381
+    "frequency": 1381,
+    "translations": {}
   },
   "ueberpruefen_verb": {
     "word": "überprüfen",
     "_id": "ueberpruefen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1738
+    "frequency": 1738,
+    "translations": {}
   },
   "ueberqueren_verb": {
     "word": "überqueren",
     "_id": "ueberqueren_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 8329
+    "frequency": 8329,
+    "translations": {}
   },
   "ueberraschen_verb": {
     "word": "überraschen",
     "_id": "ueberraschen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 3556
+    "frequency": 3556,
+    "translations": {}
   },
   "ueberreden_verb": {
     "word": "überreden",
     "_id": "ueberreden_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 4859
+    "frequency": 4859,
+    "translations": {}
   },
   "umarmen_verb": {
     "word": "umarmen",
     "_id": "umarmen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1703
+    "frequency": 1703,
+    "translations": {}
   },
   "sich_umdrehen_verb": {
     "word": "sich umdrehen",
@@ -10249,21 +10854,24 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 3306,
-    "reflexive": true
+    "reflexive": true,
+    "translations": {}
   },
   "ueberuebertreiben_verb": {
     "word": "überübertreiben",
     "_id": "ueberuebertreiben_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": null
+    "frequency": null,
+    "translations": {}
   },
   "umgehen_verb": {
     "word": "umgehen",
     "_id": "umgehen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 117
+    "frequency": 117,
+    "translations": {}
   },
   "sich_umziehen_verb": {
     "word": "sich umziehen",
@@ -10271,42 +10879,48 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 3680,
-    "reflexive": true
+    "reflexive": true,
+    "translations": {}
   },
   "unterlassen_verb": {
     "word": "unterlassen",
     "_id": "unterlassen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 19215
+    "frequency": 19215,
+    "translations": {}
   },
   "unterrichten_verb": {
     "word": "unterrichten",
     "_id": "unterrichten_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 5153
+    "frequency": 5153,
+    "translations": {}
   },
   "unterscheiden_verb": {
     "word": "unterscheiden",
     "_id": "unterscheiden_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 5689
+    "frequency": 5689,
+    "translations": {}
   },
   "unterstreichen_verb": {
     "word": "unterstreichen",
     "_id": "unterstreichen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 38742
+    "frequency": 38742,
+    "translations": {}
   },
   "unterstuetzen_verb": {
     "word": "unterstützen",
     "_id": "unterstuetzen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 2658
+    "frequency": 2658,
+    "translations": {}
   },
   "sich_verabreden_verb": {
     "word": "sich verabreden",
@@ -10314,7 +10928,8 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 11817,
-    "reflexive": true
+    "reflexive": true,
+    "translations": {}
   },
   "sich_verabschieden_verb": {
     "word": "sich verabschieden",
@@ -10322,7 +10937,8 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 3023,
-    "reflexive": true
+    "reflexive": true,
+    "translations": {}
   },
   "sich_verbessern_verb": {
     "word": "sich verbessern",
@@ -10330,7 +10946,8 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 4994,
-    "reflexive": true
+    "reflexive": true,
+    "translations": {}
   },
   "sich_veraendern_verb": {
     "word": "sich verändern",
@@ -10338,21 +10955,24 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 2277,
-    "reflexive": true
+    "reflexive": true,
+    "translations": {}
   },
   "verursachen_verb": {
     "word": "verursachen",
     "_id": "verursachen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 6005
+    "frequency": 6005,
+    "translations": {}
   },
   "verbrauchen_verb": {
     "word": "verbrauchen",
     "_id": "verbrauchen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 23104
+    "frequency": 23104,
+    "translations": {}
   },
   "sich_verbrennen_verb": {
     "word": "sich verbrennen",
@@ -10360,28 +10980,32 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 3313,
-    "reflexive": true
+    "reflexive": true,
+    "translations": {}
   },
   "verbringen_verb": {
     "word": "verbringen",
     "_id": "verbringen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1630
+    "frequency": 1630,
+    "translations": {}
   },
   "vergroessern_verb": {
     "word": "vergrößern",
     "_id": "vergroessern_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 9314
+    "frequency": 9314,
+    "translations": {}
   },
   "verhaften_verb": {
     "word": "verhaften",
     "_id": "verhaften_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 2363
+    "frequency": 2363,
+    "translations": {}
   },
   "sich_verhalten_verb": {
     "word": "sich verhalten",
@@ -10389,14 +11013,16 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 1608,
-    "reflexive": true
+    "reflexive": true,
+    "translations": {}
   },
   "verhindern_verb": {
     "word": "verhindern",
     "_id": "verhindern_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 2013
+    "frequency": 2013,
+    "translations": {}
   },
   "sich_vergnuegen_verb": {
     "word": "sich vergnügen",
@@ -10404,28 +11030,32 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 1343,
-    "reflexive": true
+    "reflexive": true,
+    "translations": {}
   },
   "verlangen_verb": {
     "word": "verlangen",
     "_id": "verlangen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 2019
+    "frequency": 2019,
+    "translations": {}
   },
   "verlaengern_verb": {
     "word": "verlängern",
     "_id": "verlaengern_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 12376
+    "frequency": 12376,
+    "translations": {}
   },
   "verlassen_verb": {
     "word": "verlassen",
     "_id": "verlassen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 522
+    "frequency": 522,
+    "translations": {}
   },
   "sich_verlaufen_verb": {
     "word": "sich verlaufen",
@@ -10433,7 +11063,8 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 4368,
-    "reflexive": true
+    "reflexive": true,
+    "translations": {}
   },
   "sich_verlieben_verb": {
     "word": "sich verlieben",
@@ -10441,70 +11072,80 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 4928,
-    "reflexive": true
+    "reflexive": true,
+    "translations": {}
   },
   "verpflegen_verb": {
     "word": "verpflegen",
     "_id": "verpflegen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": null
+    "frequency": null,
+    "translations": {}
   },
   "verraten_verb": {
     "word": "verraten",
     "_id": "verraten_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1186
+    "frequency": 1186,
+    "translations": {}
   },
   "vermeiden_verb": {
     "word": "vermeiden",
     "_id": "vermeiden_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 3360
+    "frequency": 3360,
+    "translations": {}
   },
   "vermissen_verb": {
     "word": "vermissen",
     "_id": "vermissen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 2463
+    "frequency": 2463,
+    "translations": {}
   },
   "verpacken_verb": {
     "word": "verpacken",
     "_id": "verpacken_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 23869
+    "frequency": 23869,
+    "translations": {}
   },
   "versaeumen_verb": {
     "word": "versäumen",
     "_id": "versaeumen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 15805
+    "frequency": 15805,
+    "translations": {}
   },
   "vermuten_verb": {
     "word": "vermuten",
     "_id": "vermuten_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 6103
+    "frequency": 6103,
+    "translations": {}
   },
   "verschreiben_verb": {
     "word": "verschreiben",
     "_id": "verschreiben_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 18388
+    "frequency": 18388,
+    "translations": {}
   },
   "versichern_verb": {
     "word": "versichern",
     "_id": "versichern_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 6189
+    "frequency": 6189,
+    "translations": {}
   },
   "sich_verstecken_verb": {
     "word": "sich verstecken",
@@ -10512,112 +11153,128 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 1326,
-    "reflexive": true
+    "reflexive": true,
+    "translations": {}
   },
   "verteilen_verb": {
     "word": "verteilen",
     "_id": "verteilen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 5115
+    "frequency": 5115,
+    "translations": {}
   },
   "vertreten_verb": {
     "word": "vertreten",
     "_id": "vertreten_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 4546
+    "frequency": 4546,
+    "translations": {}
   },
   "verzeihen_verb": {
     "word": "verzeihen",
     "_id": "verzeihen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1436
+    "frequency": 1436,
+    "translations": {}
   },
   "verzichten_verb": {
     "word": "verzichten",
     "_id": "verzichten_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 4430
+    "frequency": 4430,
+    "translations": {}
   },
   "verurteilen_verb": {
     "word": "verurteilen",
     "_id": "verurteilen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 6443
+    "frequency": 6443,
+    "translations": {}
   },
   "verwechseln_verb": {
     "word": "verwechseln",
     "_id": "verwechseln_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 9312
+    "frequency": 9312,
+    "translations": {}
   },
   "vorlesen_verb": {
     "word": "vorlesen",
     "_id": "vorlesen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 960
+    "frequency": 960,
+    "translations": {}
   },
   "vorschlagen_verb": {
     "word": "vorschlagen",
     "_id": "vorschlagen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1209
+    "frequency": 1209,
+    "translations": {}
   },
   "vorhaben_verb": {
     "word": "vorhaben",
     "_id": "vorhaben_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 33
+    "frequency": 33,
+    "translations": {}
   },
   "vorkommen_verb": {
     "word": "vorkommen",
     "_id": "vorkommen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 154
+    "frequency": 154,
+    "translations": {}
   },
   "wachsen_verb": {
     "word": "wachsen",
     "_id": "wachsen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 2919
+    "frequency": 2919,
+    "translations": {}
   },
   "und_kartoffeln_verb": {
     "word": "und Kartoffeln",
     "_id": "und_kartoffeln_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 9
+    "frequency": 9,
+    "translations": {}
   },
   "waehlen_verb": {
     "word": "wählen",
     "_id": "waehlen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 2159
+    "frequency": 2159,
+    "translations": {}
   },
   "warnen_verb": {
     "word": "warnen",
     "_id": "warnen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 2785
+    "frequency": 2785,
+    "translations": {}
   },
   "wenden_verb": {
     "word": "wenden",
     "_id": "wenden_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 3329
+    "frequency": 3329,
+    "translations": {}
   },
   "sich_weigern_verb": {
     "word": "sich weigern",
@@ -10625,56 +11282,64 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 9853,
-    "reflexive": true
+    "reflexive": true,
+    "translations": {}
   },
   "weinen_verb": {
     "word": "weinen",
     "_id": "weinen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1675
+    "frequency": 1675,
+    "translations": {}
   },
   "werfen_verb": {
     "word": "werfen",
     "_id": "werfen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1428
+    "frequency": 1428,
+    "translations": {}
   },
   "wetten_verb": {
     "word": "wetten",
     "_id": "wetten_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 2648
+    "frequency": 2648,
+    "translations": {}
   },
   "widersprechen_verb": {
     "word": "widersprechen",
     "_id": "widersprechen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 8513
+    "frequency": 8513,
+    "translations": {}
   },
   "wirken_verb": {
     "word": "wirken",
     "_id": "wirken_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 2638
+    "frequency": 2638,
+    "translations": {}
   },
   "wiegen_verb": {
     "word": "wiegen",
     "_id": "wiegen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 10690
+    "frequency": 10690,
+    "translations": {}
   },
   "winken_verb": {
     "word": "winken",
     "_id": "winken_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 13660
+    "frequency": 13660,
+    "translations": {}
   },
   "sich_wundern_verb": {
     "word": "sich wundern",
@@ -10682,91 +11347,104 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 5515,
-    "reflexive": true
+    "reflexive": true,
+    "translations": {}
   },
   "zaehlen_verb": {
     "word": "zählen",
     "_id": "zaehlen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1001
+    "frequency": 1001,
+    "translations": {}
   },
   "zelten_verb": {
     "word": "zelten",
     "_id": "zelten_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 13092
+    "frequency": 13092,
+    "translations": {}
   },
   "zerstoeren_verb": {
     "word": "zerstören",
     "_id": "zerstoeren_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1396
+    "frequency": 1396,
+    "translations": {}
   },
   "zubereiten_verb": {
     "word": "zubereiten",
     "_id": "zubereiten_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 3462
+    "frequency": 3462,
+    "translations": {}
   },
   "zunehmen_verb": {
     "word": "zunehmen",
     "_id": "zunehmen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 309
+    "frequency": 309,
+    "translations": {}
   },
   "zurechtkommen_verb": {
     "word": "zurechtkommen",
     "_id": "zurechtkommen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 12772
+    "frequency": 12772,
+    "translations": {}
   },
   "zusagen_verb": {
     "word": "zusagen",
     "_id": "zusagen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 106
+    "frequency": 106,
+    "translations": {}
   },
   "zugehen_verb": {
     "word": "zugehen",
     "_id": "zugehen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 117
+    "frequency": 117,
+    "translations": {}
   },
   "zuhoeren_verb": {
     "word": "zuhören",
     "_id": "zuhoeren_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 266
+    "frequency": 266,
+    "translations": {}
   },
   "zusammenfassen_verb": {
     "word": "zusammenfassen",
     "_id": "zusammenfassen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1783
+    "frequency": 1783,
+    "translations": {}
   },
   "zustimmen_verb": {
     "word": "zustimmen",
     "_id": "zustimmen_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 1637
+    "frequency": 1637,
+    "translations": {}
   },
   "zweifeln_verb": {
     "word": "zweifeln",
     "_id": "zweifeln_verb",
     "curriculum": false,
     "cefr": "B1",
-    "frequency": 7105
+    "frequency": 7105,
+    "translations": {}
   },
   "sich_zwingen_verb": {
     "word": "sich zwingen",
@@ -10774,6 +11452,7 @@
     "curriculum": false,
     "cefr": "B1",
     "frequency": 2655,
-    "reflexive": true
+    "reflexive": true,
+    "translations": {}
   }
 }
