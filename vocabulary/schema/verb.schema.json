@@ -21,7 +21,7 @@
         "type": {
           "type": "string",
           "description": "Verb classification",
-          "enum": ["strong", "weak", "modal", "reflexive", "separable", "auxiliary", "regular", "irregular"]
+          "enum": ["strong", "weak", "modal", "reflexive", "separable", "auxiliary", "regular", "irregular", "verbphrase"]
         },
         "intro": {
           "type": "string",

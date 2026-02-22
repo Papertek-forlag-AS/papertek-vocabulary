@@ -3,7 +3,8 @@
     "source": "nounbank.json",
     "targetLanguage": "german",
     "generatedAt": "2026-01-16T17:26:35.879Z",
-    "description": "Core noun data for german"
+    "description": "Core noun data for german",
+    "translations": {}
   },
   "arbeid_paagar_noun": {
     "word": "Arbeit im Gange",
@@ -63,7 +64,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "jahr_noun": {
     "word": "Jahr",
@@ -123,7 +125,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "zusammenfassung_noun": {
     "word": "Zusammenfassung",
@@ -200,7 +203,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "hilfe_noun": {
     "word": "Hilfe",
@@ -277,7 +281,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "familie_noun": {
     "word": "Familie",
@@ -338,7 +343,8 @@
     },
     "_id": "familie_noun",
     "audio": "substantiv_familie.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "vater_noun": {
     "word": "Vater",
@@ -399,7 +405,8 @@
     },
     "_id": "vater_noun",
     "audio": "substantiv_vater.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "mutter_noun": {
     "word": "Mutter",
@@ -460,7 +467,8 @@
     },
     "_id": "mutter_noun",
     "audio": "substantiv_mutter.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "bruder_noun": {
     "word": "Bruder",
@@ -521,7 +529,8 @@
     },
     "_id": "bruder_noun",
     "audio": "substantiv_bruder.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "schwester_noun": {
     "word": "Schwester",
@@ -582,7 +591,8 @@
     },
     "_id": "schwester_noun",
     "audio": "substantiv_schwester.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "geschwister_noun": {
     "word": "Geschwister",
@@ -643,7 +653,8 @@
     },
     "_id": "geschwister_noun",
     "audio": "substantiv_geschwister.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "foto_noun": {
     "word": "Foto",
@@ -704,7 +715,8 @@
     },
     "_id": "foto_noun",
     "audio": "substantiv_foto.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "eltern_noun": {
     "word": "Eltern",
@@ -753,7 +765,8 @@
     },
     "_id": "eltern_noun",
     "audio": "substantiv_eltern.mp3",
-    "declension_type": "plural-only"
+    "declension_type": "plural-only",
+    "translations": {}
   },
   "freund_noun": {
     "word": "Freund",
@@ -814,7 +827,8 @@
     },
     "_id": "freund_noun",
     "audio": "substantiv_freund.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "freundin_noun": {
     "word": "Freundin",
@@ -875,7 +889,8 @@
     },
     "_id": "freundin_noun",
     "audio": "substantiv_freundin.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "schule_noun": {
     "word": "Schule",
@@ -936,7 +951,8 @@
     },
     "_id": "schule_noun",
     "audio": "substantiv_schule.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "note_noun": {
     "word": "Note",
@@ -997,7 +1013,8 @@
     },
     "_id": "note_noun",
     "audio": "substantiv_note.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "charakter_noun": {
     "word": "Charakter",
@@ -1058,7 +1075,8 @@
     },
     "_id": "charakter_noun",
     "audio": "substantiv_charakter.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "klasse_noun": {
     "word": "Klasse",
@@ -1119,7 +1137,8 @@
     },
     "_id": "klasse_noun",
     "audio": "substantiv_klasse.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "sport_noun": {
     "word": "Sport",
@@ -1180,7 +1199,8 @@
     },
     "_id": "sport_noun",
     "audio": "substantiv_sport.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "mathematik_noun": {
     "word": "Mathematik",
@@ -1228,7 +1248,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "deutsch_noun": {
     "word": "Deutsch",
@@ -1276,7 +1297,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "biologie_noun": {
     "word": "Biologie",
@@ -1324,7 +1346,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "geschichte_noun": {
     "word": "Geschichte",
@@ -1385,7 +1408,8 @@
     },
     "_id": "geschichte_noun",
     "audio": "substantiv_geschichte.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "politik_noun": {
     "word": "Politik",
@@ -1433,7 +1457,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "lieblingsfach_noun": {
     "word": "Lieblingsfach",
@@ -1494,7 +1519,8 @@
     },
     "_id": "lieblingsfach_noun",
     "audio": "substantiv_lieblingsfach.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "sprache_noun": {
     "word": "Sprache",
@@ -1555,7 +1581,8 @@
     },
     "_id": "sprache_noun",
     "audio": "substantiv_sprache.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "glocke_noun": {
     "word": "Glocke",
@@ -1616,7 +1643,8 @@
     },
     "_id": "glocke_noun",
     "audio": "substantiv_glocke.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "unterricht_noun": {
     "word": "Unterricht",
@@ -1665,7 +1693,8 @@
     },
     "_id": "unterricht_noun",
     "audio": "substantiv_unterricht.mp3",
-    "declension_type": "uncountable"
+    "declension_type": "uncountable",
+    "translations": {}
   },
   "lehrer_noun": {
     "word": "Lehrer",
@@ -1726,7 +1755,8 @@
     },
     "_id": "lehrer_noun",
     "audio": "substantiv_lehrer.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "hobby_noun": {
     "word": "Hobby",
@@ -1787,7 +1817,8 @@
     },
     "_id": "hobby_noun",
     "audio": "substantiv_hobby.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "gitarre_noun": {
     "word": "Gitarre",
@@ -1847,7 +1878,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "fussball_noun": {
     "word": "Fußball",
@@ -1908,7 +1940,8 @@
     },
     "_id": "fussball_noun",
     "audio": "substantiv_fussball.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "freizeit_noun": {
     "word": "Freizeit",
@@ -1969,7 +2002,8 @@
     },
     "_id": "freizeit_noun",
     "audio": "substantiv_freizeit.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "wochenende_noun": {
     "word": "Wochenende",
@@ -2030,7 +2064,8 @@
     },
     "_id": "wochenende_noun",
     "audio": "substantiv_wochenende.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "montag_noun": {
     "word": "Montag",
@@ -2091,7 +2126,8 @@
     },
     "_id": "montag_noun",
     "audio": "substantiv_montag.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "dienstag_noun": {
     "word": "Dienstag",
@@ -2152,7 +2188,8 @@
     },
     "_id": "dienstag_noun",
     "audio": "substantiv_dienstag.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "mittwoch_noun": {
     "word": "Mittwoch",
@@ -2213,7 +2250,8 @@
     },
     "_id": "mittwoch_noun",
     "audio": "substantiv_mittwoch.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "donnerstag_noun": {
     "word": "Donnerstag",
@@ -2274,7 +2312,8 @@
     },
     "_id": "donnerstag_noun",
     "audio": "substantiv_donnerstag.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "freitag_noun": {
     "word": "Freitag",
@@ -2335,7 +2374,8 @@
     },
     "_id": "freitag_noun",
     "audio": "substantiv_freitag.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "samstag_noun": {
     "word": "Samstag",
@@ -2396,7 +2436,8 @@
     },
     "_id": "samstag_noun",
     "audio": "substantiv_samstag.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "sonntag_noun": {
     "word": "Sonntag",
@@ -2457,7 +2498,8 @@
     },
     "_id": "sonntag_noun",
     "audio": "substantiv_sonntag.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "frage_noun": {
     "word": "Frage",
@@ -2518,7 +2560,8 @@
     },
     "_id": "frage_noun",
     "audio": "substantiv_frage.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "kino_noun": {
     "word": "Kino",
@@ -2579,7 +2622,8 @@
     },
     "_id": "kino_noun",
     "audio": "substantiv_kino.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "film_noun": {
     "word": "Film",
@@ -2640,7 +2684,8 @@
     },
     "_id": "film_noun",
     "audio": "substantiv_film.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "oma_noun": {
     "word": "Oma",
@@ -2701,7 +2746,8 @@
     },
     "_id": "oma_noun",
     "audio": "substantiv_oma.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "opa_noun": {
     "word": "Opa",
@@ -2762,7 +2808,8 @@
     },
     "_id": "opa_noun",
     "audio": "substantiv_opa.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "uhr_noun": {
     "word": "Uhr",
@@ -2823,7 +2870,8 @@
     },
     "_id": "uhr_noun",
     "audio": "substantiv_uhr.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "cafe_noun": {
     "word": "Café",
@@ -2882,7 +2930,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "pruefungen_noun": {
     "word": "Prüfungen",
@@ -2942,7 +2991,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "supermarkt_noun": {
     "word": "Supermarkt",
@@ -3003,7 +3053,8 @@
     },
     "_id": "supermarkt_noun",
     "audio": "substantiv_supermarkt.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "milch_noun": {
     "word": "Milch",
@@ -3052,7 +3103,8 @@
     },
     "_id": "milch_noun",
     "audio": "substantiv_milch.mp3",
-    "declension_type": "uncountable"
+    "declension_type": "uncountable",
+    "translations": {}
   },
   "brot_noun": {
     "word": "Brot",
@@ -3113,7 +3165,8 @@
     },
     "_id": "brot_noun",
     "audio": "substantiv_brot.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "kaese_noun": {
     "word": "Käse",
@@ -3174,7 +3227,8 @@
     },
     "_id": "kaese_noun",
     "audio": "substantiv_kaese.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "apfel_noun": {
     "word": "Apfel",
@@ -3235,7 +3289,8 @@
     },
     "_id": "apfel_noun",
     "audio": "substantiv_apfel.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "banane_noun": {
     "word": "Banane",
@@ -3296,7 +3351,8 @@
     },
     "_id": "banane_noun",
     "audio": "substantiv_banane.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "flasche_noun": {
     "word": "Flasche",
@@ -3357,7 +3413,8 @@
     },
     "_id": "flasche_noun",
     "audio": "substantiv_flasche.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "schokolade_noun": {
     "word": "Schokolade",
@@ -3418,7 +3475,8 @@
     },
     "_id": "schokolade_noun",
     "audio": "substantiv_schokolade.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "gemuese_noun": {
     "word": "Gemüse",
@@ -3479,7 +3537,8 @@
     },
     "_id": "gemuese_noun",
     "audio": "substantiv_gemuese.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "gurke_noun": {
     "word": "Gurke",
@@ -3540,7 +3599,8 @@
     },
     "_id": "gurke_noun",
     "audio": "substantiv_gurke.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "tomate_noun": {
     "word": "Tomate",
@@ -3601,7 +3661,8 @@
     },
     "_id": "tomate_noun",
     "audio": "substantiv_tomate.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "ei_noun": {
     "word": "Ei",
@@ -3662,7 +3723,8 @@
     },
     "_id": "ei_noun",
     "audio": "substantiv_ei.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "abendessen_noun": {
     "word": "Abendessen",
@@ -3723,7 +3785,8 @@
     },
     "_id": "abendessen_noun",
     "audio": "substantiv_abendessen.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "hunger_noun": {
     "word": "Hunger",
@@ -3772,7 +3835,8 @@
     },
     "_id": "hunger_noun",
     "audio": "substantiv_hunger.mp3",
-    "declension_type": "uncountable"
+    "declension_type": "uncountable",
+    "translations": {}
   },
   "nudeln_noun": {
     "word": "Nudeln",
@@ -3833,7 +3897,8 @@
     },
     "_id": "nudeln_noun",
     "audio": "substantiv_nudeln.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "tomatensosse_noun": {
     "word": "Tomatensoße",
@@ -3894,7 +3959,8 @@
     },
     "_id": "tomatensosse_noun",
     "audio": "substantiv_tomatensosse.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "zwiebel_noun": {
     "word": "Zwiebel",
@@ -3955,7 +4021,8 @@
     },
     "_id": "zwiebel_noun",
     "audio": "substantiv_zwiebel.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "pizza_noun": {
     "word": "Pizza",
@@ -4016,7 +4083,8 @@
     },
     "_id": "pizza_noun",
     "audio": "substantiv_pizza.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "salat_noun": {
     "word": "Salat",
@@ -4077,7 +4145,8 @@
     },
     "_id": "salat_noun",
     "audio": "substantiv_salat.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "hamburger_noun": {
     "word": "Hamburger",
@@ -4138,7 +4207,8 @@
     },
     "_id": "hamburger_noun",
     "audio": "substantiv_hamburger.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "regel_noun": {
     "word": "Regel",
@@ -4199,7 +4269,8 @@
     },
     "_id": "regel_noun",
     "audio": "substantiv_regel.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "restaurant_noun": {
     "word": "Restaurant",
@@ -4260,7 +4331,8 @@
     },
     "_id": "restaurant_noun",
     "audio": "substantiv_restaurant.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "kellner_noun": {
     "word": "Kellner",
@@ -4321,7 +4393,8 @@
     },
     "_id": "kellner_noun",
     "audio": "substantiv_kellner.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "rechnung_noun": {
     "word": "Rechnung",
@@ -4382,7 +4455,8 @@
     },
     "_id": "rechnung_noun",
     "audio": "substantiv_rechnung.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "kuchen_noun": {
     "word": "Kuchen",
@@ -4443,7 +4517,8 @@
     },
     "_id": "kuchen_noun",
     "audio": "substantiv_kuchen.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "apfelsaft_noun": {
     "word": "Apfelsaft",
@@ -4504,7 +4579,8 @@
     },
     "_id": "apfelsaft_noun",
     "audio": "substantiv_apfelsaft.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "pullover_noun": {
     "word": "Pullover",
@@ -4565,7 +4641,8 @@
     },
     "_id": "pullover_noun",
     "audio": "substantiv_pullover.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "hose_noun": {
     "word": "Hose",
@@ -4626,7 +4703,8 @@
     },
     "_id": "hose_noun",
     "audio": "substantiv_hose.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "jacke_noun": {
     "word": "Jacke",
@@ -4687,7 +4765,8 @@
     },
     "_id": "jacke_noun",
     "audio": "substantiv_jacke.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "schuhe_noun": {
     "word": "Schuhe",
@@ -4748,7 +4827,8 @@
     },
     "_id": "schuhe_noun",
     "audio": "substantiv_schuhe.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "hemd_noun": {
     "word": "Hemd",
@@ -4809,7 +4889,8 @@
     },
     "_id": "hemd_noun",
     "audio": "substantiv_hemd.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "rock_noun": {
     "word": "Rock",
@@ -4870,7 +4951,8 @@
     },
     "_id": "rock_noun",
     "audio": "substantiv_rock.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "kleid_noun": {
     "word": "Kleid",
@@ -4931,7 +5013,8 @@
     },
     "_id": "kleid_noun",
     "audio": "substantiv_kleid.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "farbe_noun": {
     "word": "Farbe",
@@ -4992,7 +5075,8 @@
     },
     "_id": "farbe_noun",
     "audio": "substantiv_farbe.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "aussehen_noun": {
     "word": "Aussehen",
@@ -5041,7 +5125,8 @@
     },
     "_id": "aussehen_noun",
     "audio": "substantiv_aussehen.mp3",
-    "declension_type": "uncountable"
+    "declension_type": "uncountable",
+    "translations": {}
   },
   "koerperteil_noun": {
     "word": "Körperteil",
@@ -5102,7 +5187,8 @@
     },
     "_id": "koerperteil_noun",
     "audio": "substantiv_koerperteil.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "auge_noun": {
     "word": "Auge",
@@ -5163,7 +5249,8 @@
     },
     "_id": "auge_noun",
     "audio": "substantiv_auge.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "haar_noun": {
     "word": "Haar",
@@ -5224,7 +5311,8 @@
     },
     "_id": "haar_noun",
     "audio": "substantiv_haar.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "nase_noun": {
     "word": "Nase",
@@ -5285,7 +5373,8 @@
     },
     "_id": "nase_noun",
     "audio": "substantiv_nase.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "mund_noun": {
     "word": "Mund",
@@ -5346,7 +5435,8 @@
     },
     "_id": "mund_noun",
     "audio": "substantiv_mund.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "kopf_noun": {
     "word": "Kopf",
@@ -5407,7 +5497,8 @@
     },
     "_id": "kopf_noun",
     "audio": "substantiv_kopf.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "persoenlichkeit_noun": {
     "word": "Persönlichkeit",
@@ -5468,7 +5559,8 @@
     },
     "_id": "persoenlichkeit_noun",
     "audio": "substantiv_persoenlichkeit.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "tag_noun": {
     "word": "Tag",
@@ -5529,7 +5621,8 @@
     },
     "_id": "tag_noun",
     "audio": "substantiv_tag.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "nachmittag_noun": {
     "word": "Nachmittag",
@@ -5590,7 +5683,8 @@
     },
     "_id": "nachmittag_noun",
     "audio": "substantiv_nachmittag.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "abend_noun": {
     "word": "Abend",
@@ -5651,7 +5745,8 @@
     },
     "_id": "abend_noun",
     "audio": "substantiv_abend.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "schultasche_noun": {
     "word": "Schultasche",
@@ -5712,7 +5807,8 @@
     },
     "_id": "schultasche_noun",
     "audio": "substantiv_schultasche.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "uhrzeit_noun": {
     "word": "Uhrzeit",
@@ -5773,7 +5869,8 @@
     },
     "_id": "uhrzeit_noun",
     "audio": "substantiv_uhrzeit.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "superheld_noun": {
     "word": "Superheld",
@@ -5835,7 +5932,8 @@
     },
     "_id": "superheld_noun",
     "audio": "substantiv_superheld.mp3",
-    "declension_type": "weak"
+    "declension_type": "weak",
+    "translations": {}
   },
   "plan_noun": {
     "word": "Plan",
@@ -5896,7 +5994,8 @@
     },
     "_id": "plan_noun",
     "audio": "substantiv_plan.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "vorschlag_noun": {
     "word": "Vorschlag",
@@ -5957,7 +6056,8 @@
     },
     "_id": "vorschlag_noun",
     "audio": "substantiv_vorschlag.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "eis_noun": {
     "word": "Eis",
@@ -6018,7 +6118,8 @@
     },
     "_id": "eis_noun",
     "audio": "substantiv_eis.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "park_noun": {
     "word": "Park",
@@ -6079,7 +6180,8 @@
     },
     "_id": "park_noun",
     "audio": "substantiv_park.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "musik_noun": {
     "word": "Musik",
@@ -6128,7 +6230,8 @@
     },
     "_id": "musik_noun",
     "audio": "substantiv_musik.mp3",
-    "declension_type": "uncountable"
+    "declension_type": "uncountable",
+    "translations": {}
   },
   "idee_noun": {
     "word": "Idee",
@@ -6189,7 +6292,8 @@
     },
     "_id": "idee_noun",
     "audio": "substantiv_idee.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "computerspiel_noun": {
     "word": "Computerspiel",
@@ -6250,7 +6354,8 @@
     },
     "_id": "computerspiel_noun",
     "audio": "substantiv_computerspiel.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "turnier_noun": {
     "word": "Turnier",
@@ -6311,7 +6416,8 @@
     },
     "_id": "turnier_noun",
     "audio": "substantiv_turnier.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "wetter_noun": {
     "word": "Wetter",
@@ -6360,7 +6466,8 @@
     },
     "_id": "wetter_noun",
     "audio": "substantiv_wetter.mp3",
-    "declension_type": "uncountable"
+    "declension_type": "uncountable",
+    "translations": {}
   },
   "stunde_noun": {
     "word": "Stunde",
@@ -6421,7 +6528,8 @@
     },
     "_id": "stunde_noun",
     "audio": "substantiv_stunde.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "viertel_noun": {
     "word": "Viertel",
@@ -6482,7 +6590,8 @@
     },
     "_id": "viertel_noun",
     "audio": "substantiv_viertel.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "hund_noun": {
     "word": "Hund",
@@ -6543,7 +6652,8 @@
     },
     "_id": "hund_noun",
     "audio": "substantiv_hund.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "tiger_noun": {
     "word": "Tiger",
@@ -6604,7 +6714,8 @@
     },
     "_id": "tiger_noun",
     "audio": "substantiv_tiger.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "katze_noun": {
     "word": "Katze",
@@ -6665,7 +6776,8 @@
     },
     "_id": "katze_noun",
     "audio": "substantiv_katze.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "kaninchen_noun": {
     "word": "Kaninchen",
@@ -6726,7 +6838,8 @@
     },
     "_id": "kaninchen_noun",
     "audio": "substantiv_kaninchen.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "fisch_noun": {
     "word": "Fisch",
@@ -6787,7 +6900,8 @@
     },
     "_id": "fisch_noun",
     "audio": "substantiv_fisch.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "hamster_noun": {
     "word": "Hamster",
@@ -6848,7 +6962,8 @@
     },
     "_id": "hamster_noun",
     "audio": "substantiv_hamster.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "garten_noun": {
     "word": "Garten",
@@ -6909,7 +7024,8 @@
     },
     "_id": "garten_noun",
     "audio": "substantiv_garten.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "tier_noun": {
     "word": "Tier",
@@ -6970,7 +7086,8 @@
     },
     "_id": "tier_noun",
     "audio": "substantiv_tier.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "haustier_noun": {
     "word": "Haustier",
@@ -7031,7 +7148,8 @@
     },
     "_id": "haustier_noun",
     "audio": "substantiv_haustier.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "goldfisch_noun": {
     "word": "Goldfisch",
@@ -7092,7 +7210,8 @@
     },
     "_id": "goldfisch_noun",
     "audio": "substantiv_goldfisch.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "vogel_noun": {
     "word": "Vogel",
@@ -7153,7 +7272,8 @@
     },
     "_id": "vogel_noun",
     "audio": "substantiv_vogel.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "maus_noun": {
     "word": "Maus",
@@ -7214,7 +7334,8 @@
     },
     "_id": "maus_noun",
     "audio": "substantiv_maus.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "essen_noun": {
     "word": "Essen",
@@ -7275,7 +7396,8 @@
     },
     "_id": "essen_noun",
     "audio": "substantiv_essen.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "wasser_noun": {
     "word": "Wasser",
@@ -7324,7 +7446,8 @@
     },
     "_id": "wasser_noun",
     "audio": "substantiv_wasser.mp3",
-    "declension_type": "uncountable"
+    "declension_type": "uncountable",
+    "translations": {}
   },
   "zeit_noun": {
     "word": "Zeit",
@@ -7385,7 +7508,8 @@
     },
     "_id": "zeit_noun",
     "audio": "substantiv_zeit.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "arbeit_noun": {
     "word": "Arbeit",
@@ -7446,7 +7570,8 @@
     },
     "_id": "arbeit_noun",
     "audio": "substantiv_arbeit.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "platz_noun": {
     "word": "Platz",
@@ -7507,7 +7632,8 @@
     },
     "_id": "platz_noun",
     "audio": "substantiv_platz.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "futter_noun": {
     "word": "Futter",
@@ -7568,7 +7694,8 @@
     },
     "_id": "futter_noun",
     "audio": "substantiv_futter.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "kaefig_noun": {
     "word": "Käfig",
@@ -7629,7 +7756,8 @@
     },
     "_id": "kaefig_noun",
     "audio": "substantiv_kaefig.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "aquarium_noun": {
     "word": "Aquarium",
@@ -7690,7 +7818,8 @@
     },
     "_id": "aquarium_noun",
     "audio": "substantiv_aquarium.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "fell_noun": {
     "word": "Fell",
@@ -7751,7 +7880,8 @@
     },
     "_id": "fell_noun",
     "audio": "substantiv_fell.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "tuer_noun": {
     "word": "Tür",
@@ -7812,7 +7942,8 @@
     },
     "_id": "tuer_noun",
     "audio": "substantiv_tuer.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "jaeger_noun": {
     "word": "Jäger",
@@ -7873,7 +8004,8 @@
     },
     "_id": "jaeger_noun",
     "audio": "substantiv_jaeger.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "jaegerin_noun": {
     "word": "Jägerin",
@@ -7934,7 +8066,8 @@
     },
     "_id": "jaegerin_noun",
     "audio": "substantiv_jaegerin.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "groesse_noun": {
     "word": "Gr  e",
@@ -7995,7 +8128,8 @@
     },
     "_id": "groesse_noun",
     "audio": "substantiv_gr_e.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "mensch_noun": {
     "word": "Mensch",
@@ -8057,7 +8191,8 @@
     },
     "_id": "mensch_noun",
     "audio": "substantiv_mensch.mp3",
-    "declension_type": "weak"
+    "declension_type": "weak",
+    "translations": {}
   },
   "zoo_noun": {
     "word": "Zoo",
@@ -8118,7 +8253,8 @@
     },
     "_id": "zoo_noun",
     "audio": "substantiv_zoo.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "elefant_noun": {
     "word": "Elefant",
@@ -8180,7 +8316,8 @@
     },
     "_id": "elefant_noun",
     "audio": "substantiv_elefant.mp3",
-    "declension_type": "weak"
+    "declension_type": "weak",
+    "translations": {}
   },
   "giraffe_noun": {
     "word": "Giraffe",
@@ -8241,7 +8378,8 @@
     },
     "_id": "giraffe_noun",
     "audio": "substantiv_giraffe.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "loewe_noun": {
     "word": "Löwe",
@@ -8303,7 +8441,8 @@
     },
     "_id": "loewe_noun",
     "audio": "substantiv_loewe.mp3",
-    "declension_type": "weak"
+    "declension_type": "weak",
+    "translations": {}
   },
   "affe_noun": {
     "word": "Affe",
@@ -8365,7 +8504,8 @@
     },
     "_id": "affe_noun",
     "audio": "substantiv_affe.mp3",
-    "declension_type": "weak"
+    "declension_type": "weak",
+    "translations": {}
   },
   "baer_noun": {
     "word": "Bär",
@@ -8427,7 +8567,8 @@
     },
     "_id": "baer_noun",
     "audio": "substantiv_baer.mp3",
-    "declension_type": "weak"
+    "declension_type": "weak",
+    "translations": {}
   },
   "lieblingstier_noun": {
     "word": "Lieblingstier",
@@ -8488,7 +8629,8 @@
     },
     "_id": "lieblingstier_noun",
     "audio": "substantiv_lieblingstier.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "hals_noun": {
     "word": "Hals",
@@ -8549,7 +8691,8 @@
     },
     "_id": "hals_noun",
     "audio": "substantiv_hals.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "obst_noun": {
     "word": "Obst",
@@ -8601,7 +8744,8 @@
     },
     "_id": "obst_noun",
     "audio": "substantiv_obst.mp3",
-    "declension_type": "uncountable"
+    "declension_type": "uncountable",
+    "translations": {}
   },
   "fleisch_noun": {
     "word": "Fleisch",
@@ -8650,7 +8794,8 @@
     },
     "_id": "fleisch_noun",
     "audio": "substantiv_fleisch.mp3",
-    "declension_type": "uncountable"
+    "declension_type": "uncountable",
+    "translations": {}
   },
   "tierpfleger_noun": {
     "word": "Tierpfleger",
@@ -8711,7 +8856,8 @@
     },
     "_id": "tierpfleger_noun",
     "audio": "substantiv_tierpfleger.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "hausaufgabe_noun": {
     "word": "Hausaufgabe",
@@ -8772,7 +8918,8 @@
     },
     "_id": "hausaufgabe_noun",
     "audio": "substantiv_hausaufgabe.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "urlaub_noun": {
     "word": "Urlaub",
@@ -8833,7 +8980,8 @@
     },
     "_id": "urlaub_noun",
     "audio": "substantiv_urlaub.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "sommerferien_noun": {
     "word": "Sommerferien",
@@ -8894,7 +9042,8 @@
     },
     "_id": "sommerferien_noun",
     "audio": "substantiv_sommerferien.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "stadt_noun": {
     "word": "Stadt",
@@ -8955,7 +9104,8 @@
     },
     "_id": "stadt_noun",
     "audio": "substantiv_stadt.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "ort_noun": {
     "word": "Ort",
@@ -9016,7 +9166,8 @@
     },
     "_id": "ort_noun",
     "audio": "substantiv_ort.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "natur_noun": {
     "word": "Natur",
@@ -9077,7 +9228,8 @@
     },
     "_id": "natur_noun",
     "audio": "substantiv_natur.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "blog_noun": {
     "word": "Blog",
@@ -9138,7 +9290,8 @@
     },
     "_id": "blog_noun",
     "audio": "substantiv_blog.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "leben_noun": {
     "word": "Leben",
@@ -9199,7 +9352,8 @@
     },
     "_id": "leben_noun",
     "audio": "substantiv_leben.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "traum_noun": {
     "word": "Traum",
@@ -9260,7 +9414,8 @@
     },
     "_id": "traum_noun",
     "audio": "substantiv_traum.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "koffer_noun": {
     "word": "Koffer",
@@ -9321,7 +9476,8 @@
     },
     "_id": "koffer_noun",
     "audio": "substantiv_koffer.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "pass_noun": {
     "word": "Pass",
@@ -9382,7 +9538,8 @@
     },
     "_id": "pass_noun",
     "audio": "substantiv_pass.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "flugzeug_noun": {
     "word": "Flugzeug",
@@ -9443,7 +9600,8 @@
     },
     "_id": "flugzeug_noun",
     "audio": "substantiv_flugzeug.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "badesachen_noun": {
     "word": "Badesachen",
@@ -9504,7 +9662,8 @@
     },
     "_id": "badesachen_noun",
     "audio": "substantiv_badesachen.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "sonnencreme_noun": {
     "word": "Sonnencreme",
@@ -9565,7 +9724,8 @@
     },
     "_id": "sonnencreme_noun",
     "audio": "substantiv_sonnencreme.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "flughafen_noun": {
     "word": "Flughafen",
@@ -9626,7 +9786,8 @@
     },
     "_id": "flughafen_noun",
     "audio": "substantiv_flughafen.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "sommerkleidung_noun": {
     "word": "Sommerkleidung",
@@ -9687,7 +9848,8 @@
     },
     "_id": "sommerkleidung_noun",
     "audio": "substantiv_sommerkleidung.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "auto_noun": {
     "word": "Auto",
@@ -9748,7 +9910,8 @@
     },
     "_id": "auto_noun",
     "audio": "substantiv_auto.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "berg_noun": {
     "word": "Berg",
@@ -9809,7 +9972,8 @@
     },
     "_id": "berg_noun",
     "audio": "substantiv_berg.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "gebirge_noun": {
     "word": "Gebirge",
@@ -9870,7 +10034,8 @@
     },
     "_id": "gebirge_noun",
     "audio": "substantiv_gebirge.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "see_noun": {
     "word": "See",
@@ -9931,7 +10096,8 @@
     },
     "_id": "see_noun",
     "audio": "substantiv_see.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "seilbahn_noun": {
     "word": "Seilbahn",
@@ -9992,7 +10158,8 @@
     },
     "_id": "seilbahn_noun",
     "audio": "substantiv_seilbahn.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "sonne_noun": {
     "word": "Sonne",
@@ -10053,7 +10220,8 @@
     },
     "_id": "sonne_noun",
     "audio": "substantiv_sonne.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "jahreszeit_noun": {
     "word": "Jahreszeit",
@@ -10114,7 +10282,8 @@
     },
     "_id": "jahreszeit_noun",
     "audio": "substantiv_jahreszeit.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "fruehling_noun": {
     "word": "Frühling",
@@ -10175,7 +10344,8 @@
     },
     "_id": "fruehling_noun",
     "audio": "substantiv_fruehling.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "sommer_noun": {
     "word": "Sommer",
@@ -10236,7 +10406,8 @@
     },
     "_id": "sommer_noun",
     "audio": "substantiv_sommer.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "herbst_noun": {
     "word": "Herbst",
@@ -10297,7 +10468,8 @@
     },
     "_id": "herbst_noun",
     "audio": "substantiv_herbst.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "winter_noun": {
     "word": "Winter",
@@ -10358,7 +10530,8 @@
     },
     "_id": "winter_noun",
     "audio": "substantiv_winter.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "monat_noun": {
     "word": "Monat",
@@ -10419,7 +10592,8 @@
     },
     "_id": "monat_noun",
     "audio": "substantiv_monat.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "reiseziel_noun": {
     "word": "Reiseziel",
@@ -10480,7 +10654,8 @@
     },
     "_id": "reiseziel_noun",
     "audio": "substantiv_reiseziel.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "schwimmbad_noun": {
     "word": "Schwimmbad",
@@ -10541,7 +10716,8 @@
     },
     "_id": "schwimmbad_noun",
     "audio": "substantiv_schwimmbad.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "fahrradtour_noun": {
     "word": "Fahrradtour",
@@ -10602,7 +10778,8 @@
     },
     "_id": "fahrradtour_noun",
     "audio": "substantiv_fahrradtour.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "highlight_noun": {
     "word": "Highlight",
@@ -10663,7 +10840,8 @@
     },
     "_id": "highlight_noun",
     "audio": "substantiv_highlight.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "geburtstagskind_noun": {
     "word": "Geburtstagskind",
@@ -10724,7 +10902,8 @@
     },
     "_id": "geburtstagskind_noun",
     "audio": "substantiv_geburtstagskind.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "geburtstagstorte_noun": {
     "word": "Geburtstagstorte",
@@ -10785,7 +10964,8 @@
     },
     "_id": "geburtstagstorte_noun",
     "audio": "substantiv_geburtstagstorte.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "schueler_noun": {
     "word": "Schüler",
@@ -10846,7 +11026,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "kompliment_noun": {
     "word": "Kompliment",
@@ -10907,7 +11088,8 @@
     },
     "_id": "kompliment_noun",
     "audio": "substantiv_kompliment.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "party_noun": {
     "word": "Party",
@@ -10968,7 +11150,8 @@
     },
     "_id": "party_noun",
     "audio": "substantiv_party.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "mitschueler_noun": {
     "word": "Mitschüler",
@@ -11029,7 +11212,8 @@
     },
     "_id": "mitschueler_noun",
     "audio": "substantiv_mitschueler.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "mitschuelerin_noun": {
     "word": "Mitschülerin",
@@ -11090,7 +11274,8 @@
     },
     "_id": "mitschuelerin_noun",
     "audio": "substantiv_mitschuelerin.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "morgenroutine_noun": {
     "word": "Morgenroutine",
@@ -11151,7 +11336,8 @@
     },
     "_id": "morgenroutine_noun",
     "audio": "substantiv_morgenroutine.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "morgen_noun": {
     "word": "Morgen",
@@ -11212,7 +11398,8 @@
     },
     "_id": "morgen_noun",
     "audio": "substantiv_morgen.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "spiegel_noun": {
     "word": "Spiegel",
@@ -11273,7 +11460,8 @@
     },
     "_id": "spiegel_noun",
     "audio": "substantiv_spiegel.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "broetchen_noun": {
     "word": "Brötchen",
@@ -11334,7 +11522,8 @@
     },
     "_id": "broetchen_noun",
     "audio": "substantiv_broetchen.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "marmelade_noun": {
     "word": "Marmelade",
@@ -11395,7 +11584,8 @@
     },
     "_id": "marmelade_noun",
     "audio": "substantiv_marmelade.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "muesli_noun": {
     "word": "Müsli",
@@ -11456,7 +11646,8 @@
     },
     "_id": "muesli_noun",
     "audio": "substantiv_muesli.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "joghurt_noun": {
     "word": "Joghurt",
@@ -11517,7 +11708,8 @@
     },
     "_id": "joghurt_noun",
     "audio": "substantiv_joghurt.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "zahn_noun": {
     "word": "Zahn",
@@ -11578,7 +11770,8 @@
     },
     "_id": "zahn_noun",
     "audio": "substantiv_zahn.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "gefuehl_noun": {
     "word": "Gefühl",
@@ -11639,7 +11832,8 @@
     },
     "_id": "gefuehl_noun",
     "audio": "substantiv_gefuehl.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "projekt_noun": {
     "word": "Projekt",
@@ -11700,7 +11894,8 @@
     },
     "_id": "projekt_noun",
     "audio": "substantiv_projekt.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "ferien_noun": {
     "word": "Ferien",
@@ -11749,7 +11944,8 @@
     },
     "_id": "ferien_noun",
     "audio": "substantiv_ferien.mp3",
-    "declension_type": "plural-only"
+    "declension_type": "plural-only",
+    "translations": {}
   },
   "test_noun": {
     "word": "Test",
@@ -11810,7 +12006,8 @@
     },
     "_id": "test_noun",
     "audio": "substantiv_test.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "pruefung_noun": {
     "word": "Prüfung",
@@ -11871,7 +12068,8 @@
     },
     "_id": "pruefung_noun",
     "audio": "substantiv_pruefung.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "strand_noun": {
     "word": "Strand",
@@ -11932,7 +12130,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "geschenk_noun": {
     "word": "Geschenk",
@@ -11993,7 +12192,8 @@
     },
     "_id": "geschenk_noun",
     "audio": "substantiv_geschenk.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "geburtstag_noun": {
     "word": "Geburtstag",
@@ -12054,7 +12254,8 @@
     },
     "_id": "geburtstag_noun",
     "audio": "substantiv_geburtstag.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "fest_noun": {
     "word": "Fest",
@@ -12115,7 +12316,8 @@
     },
     "_id": "fest_noun",
     "audio": "substantiv_fest.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "weihnachten_noun": {
     "word": "Weihnachten",
@@ -12164,7 +12366,8 @@
     "plural": null,
     "_id": "weihnachten_noun",
     "audio": "substantiv_weihnachten.mp3",
-    "declension_type": "uncountable"
+    "declension_type": "uncountable",
+    "translations": {}
   },
   "ostern_noun": {
     "word": "Ostern",
@@ -12213,7 +12416,8 @@
     "plural": null,
     "_id": "ostern_noun",
     "audio": "substantiv_ostern.mp3",
-    "declension_type": "uncountable"
+    "declension_type": "uncountable",
+    "translations": {}
   },
   "karneval_noun": {
     "word": "Karneval",
@@ -12262,7 +12466,8 @@
     "plural": null,
     "_id": "karneval_noun",
     "audio": "substantiv_karneval.mp3",
-    "declension_type": "uncountable"
+    "declension_type": "uncountable",
+    "translations": {}
   },
   "halloween_noun": {
     "word": "Halloween",
@@ -12311,7 +12516,8 @@
     "plural": null,
     "_id": "halloween_noun",
     "audio": "substantiv_halloween.mp3",
-    "declension_type": "uncountable"
+    "declension_type": "uncountable",
+    "translations": {}
   },
   "schokoladenei_noun": {
     "word": "Schokoladenei",
@@ -12372,7 +12578,8 @@
     },
     "_id": "schokoladenei_noun",
     "audio": "substantiv_schokoladenei.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "tradition_noun": {
     "word": "Tradition",
@@ -12433,7 +12640,8 @@
     },
     "_id": "tradition_noun",
     "audio": "substantiv_tradition.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "brauch_noun": {
     "word": "Brauch",
@@ -12494,7 +12702,8 @@
     },
     "_id": "brauch_noun",
     "audio": "substantiv_brauch.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "geheimnis_noun": {
     "word": "Geheimnis",
@@ -12555,7 +12764,8 @@
     },
     "_id": "geheimnis_noun",
     "audio": "substantiv_geheimnis.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "getraenk_noun": {
     "word": "Getränk",
@@ -12616,7 +12826,8 @@
     },
     "_id": "getraenk_noun",
     "audio": "substantiv_getraenk.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "adresse_noun": {
     "word": "Adresse",
@@ -12677,7 +12888,8 @@
     },
     "_id": "adresse_noun",
     "audio": "substantiv_adresse.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "freundschaft_noun": {
     "word": "Freundschaft",
@@ -12738,7 +12950,8 @@
     },
     "_id": "freundschaft_noun",
     "audio": "substantiv_freundschaft.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "grundschule_noun": {
     "word": "Grundschule",
@@ -12799,7 +13012,8 @@
     },
     "_id": "grundschule_noun",
     "audio": "substantiv_grundschule.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "interview_noun": {
     "word": "Interview",
@@ -12860,7 +13074,8 @@
     },
     "_id": "interview_noun",
     "audio": "substantiv_interview.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "problem_noun": {
     "word": "Problem",
@@ -12921,7 +13136,8 @@
     },
     "_id": "problem_noun",
     "audio": "substantiv_problem.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "bett_noun": {
     "word": "Bett",
@@ -12982,7 +13198,8 @@
     },
     "_id": "bett_noun",
     "audio": "substantiv_bett.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "fruehstueck_noun": {
     "word": "Frühstück",
@@ -13043,7 +13260,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "haus_noun": {
     "word": "Haus",
@@ -13104,7 +13322,8 @@
     },
     "_id": "haus_noun",
     "audio": "substantiv_haus.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "minute_noun": {
     "word": "Minute",
@@ -13165,7 +13384,8 @@
     },
     "_id": "minute_noun",
     "audio": "substantiv_minute.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "frau_noun": {
     "word": "Frau",
@@ -13226,7 +13446,8 @@
     },
     "_id": "frau_noun",
     "audio": "substantiv_frau.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "buch_noun": {
     "word": "Buch",
@@ -13287,7 +13508,8 @@
     },
     "_id": "buch_noun",
     "audio": "substantiv_buch.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "woche_noun": {
     "word": "Woche",
@@ -13348,7 +13570,8 @@
     },
     "_id": "woche_noun",
     "audio": "substantiv_woche.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "bus_noun": {
     "word": "Bus",
@@ -13409,7 +13632,8 @@
     },
     "_id": "bus_noun",
     "audio": "substantiv_bus.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "wohnzimmer_noun": {
     "word": "Wohnzimmer",
@@ -13470,7 +13694,8 @@
     },
     "_id": "wohnzimmer_noun",
     "audio": "substantiv_wohnzimmer.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "saft_noun": {
     "word": "Saft",
@@ -13531,7 +13756,8 @@
     },
     "_id": "saft_noun",
     "audio": "substantiv_saft.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "rucksack_noun": {
     "word": "Rucksack",
@@ -13592,7 +13818,8 @@
     },
     "_id": "rucksack_noun",
     "audio": "substantiv_rucksack.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "zimmer_noun": {
     "word": "Zimmer",
@@ -13653,7 +13880,8 @@
     },
     "_id": "zimmer_noun",
     "audio": "substantiv_zimmer.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "hochsprung_noun": {
     "word": "Hochsprung",
@@ -13713,7 +13941,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "wind_noun": {
     "word": "Wind",
@@ -13773,7 +14002,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "lieblingssport_noun": {
     "word": "Lieblingssport",
@@ -13833,7 +14063,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "weitsprung_noun": {
     "word": "Weitsprung",
@@ -13893,7 +14124,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "meter_noun": {
     "word": "Meter",
@@ -13953,7 +14185,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "sekunde_noun": {
     "word": "Sekunde",
@@ -14013,7 +14246,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "aufgabe_noun": {
     "word": "Aufgabe",
@@ -14074,7 +14308,8 @@
     },
     "_id": "aufgabe_noun",
     "audio": "substantiv_aufgabe.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "matheaufgabe_noun": {
     "word": "Matheaufgabe",
@@ -14135,7 +14370,8 @@
     },
     "_id": "matheaufgabe_noun",
     "audio": "substantiv_matheaufgabe.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "wahrheit_noun": {
     "word": "Wahrheit",
@@ -14196,7 +14432,8 @@
     },
     "_id": "wahrheit_noun",
     "audio": "substantiv_wahrheit.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "stress_noun": {
     "word": "Stress",
@@ -14245,7 +14482,8 @@
     },
     "_id": "stress_noun",
     "audio": "substantiv_stress.mp3",
-    "declension_type": "uncountable"
+    "declension_type": "uncountable",
+    "translations": {}
   },
   "lerngruppe_noun": {
     "word": "Lerngruppe",
@@ -14306,7 +14544,8 @@
     },
     "_id": "lerngruppe_noun",
     "audio": "substantiv_lerngruppe.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "notiz_noun": {
     "word": "Notiz",
@@ -14367,7 +14606,8 @@
     },
     "_id": "notiz_noun",
     "audio": "substantiv_notiz.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "biologiebuch_noun": {
     "word": "Biologiebuch",
@@ -14428,7 +14668,8 @@
     },
     "_id": "biologiebuch_noun",
     "audio": "substantiv_biologiebuch.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "geschichtshausaufgabe_noun": {
     "word": "Geschichtshausaufgabe",
@@ -14489,7 +14730,8 @@
     },
     "_id": "geschichtshausaufgabe_noun",
     "audio": "substantiv_geschichtshausaufgabe.mp3",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   },
   "tennis_noun": {
     "word": "Tennis",
@@ -14538,7 +14780,8 @@
     },
     "_id": "tennis_noun",
     "audio": "substantiv_tennis.mp3",
-    "declension_type": "uncountable"
+    "declension_type": "uncountable",
+    "translations": {}
   },
   "sohn_noun": {
     "word": "Sohn",
@@ -14598,7 +14841,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "tochter_noun": {
     "word": "Tochter",
@@ -14658,7 +14902,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "onkel_noun": {
     "word": "Onkel",
@@ -14718,7 +14963,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "tante_noun": {
     "word": "Tante",
@@ -14778,7 +15024,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "cousin_noun": {
     "word": "Cousin",
@@ -14838,7 +15085,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "cousine_noun": {
     "word": "Cousine",
@@ -14898,7 +15146,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "grossvater_noun": {
     "word": "Großvater",
@@ -14958,7 +15207,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "grossmutter_noun": {
     "word": "Großmutter",
@@ -15018,7 +15268,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "kind_noun": {
     "word": "Kind",
@@ -15078,7 +15329,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "ehemann_noun": {
     "word": "Ehemann",
@@ -15138,7 +15390,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "ehefrau_noun": {
     "word": "Ehefrau",
@@ -15198,7 +15451,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "tee_noun": {
     "word": "Tee",
@@ -15258,7 +15512,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "kaffee_noun": {
     "word": "Kaffee",
@@ -15318,7 +15573,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "kartoffel_noun": {
     "word": "Kartoffel",
@@ -15378,7 +15634,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "orange_noun": {
     "word": "Orange",
@@ -15438,7 +15695,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "birne_noun": {
     "word": "Birne",
@@ -15498,7 +15756,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "suppe_noun": {
     "word": "Suppe",
@@ -15558,7 +15817,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "reis_noun": {
     "word": "Reis",
@@ -15618,7 +15878,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "regen_noun": {
     "word": "Regen",
@@ -15678,7 +15939,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "schnee_noun": {
     "word": "Schnee",
@@ -15738,7 +16000,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "wolke_noun": {
     "word": "Wolke",
@@ -15798,7 +16061,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "himmel_noun": {
     "word": "Himmel",
@@ -15858,7 +16122,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "gewitter_noun": {
     "word": "Gewitter",
@@ -15918,7 +16183,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "nebel_noun": {
     "word": "Nebel",
@@ -15978,7 +16244,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "temperatur_noun": {
     "word": "Temperatur",
@@ -16038,7 +16305,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "grad_noun": {
     "word": "Grad",
@@ -16098,7 +16366,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "mittag_noun": {
     "word": "Mittag",
@@ -16158,7 +16427,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "nacht_noun": {
     "word": "Nacht",
@@ -16218,7 +16488,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "klassenkamerad_noun": {
     "word": "Klassenkamerad",
@@ -16279,7 +16550,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "mathe_noun": {
     "word": "Mathe",
@@ -16327,7 +16599,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "mathehausaufgabe_noun": {
     "word": "Mathehausaufgabe",
@@ -16387,7 +16660,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "musikunterricht_noun": {
     "word": "Musikunterricht",
@@ -16435,7 +16709,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "realschule_noun": {
     "word": "Realschule",
@@ -16495,7 +16770,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "schuelerin_noun": {
     "word": "Schülerin",
@@ -16555,7 +16831,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "schuljahr_noun": {
     "word": "Schuljahr",
@@ -16615,7 +16892,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "sportunterricht_noun": {
     "word": "Sportunterricht",
@@ -16663,7 +16941,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "ball_noun": {
     "word": "Ball",
@@ -16723,7 +17002,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "spass_noun": {
     "word": "Spaß",
@@ -16783,11 +17063,12 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "leute_noun": {
     "word": "Leute",
-    "type": "substantiv (kun flertall)",
+    "type": "noun",
     "plural": null,
     "audio": "ord_leute.mp3",
     "_id": "leute_noun",
@@ -16831,7 +17112,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "das_haustier_noun": {
     "word": "Haustier",
@@ -16891,7 +17173,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "januar_noun": {
     "word": "Januar",
@@ -16939,7 +17222,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "februar_noun": {
     "word": "Februar",
@@ -16987,7 +17271,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "maerz_noun": {
     "word": "März",
@@ -17035,7 +17320,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "april_noun": {
     "word": "April",
@@ -17083,7 +17369,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "mai_noun": {
     "word": "Mai",
@@ -17131,7 +17418,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "juni_noun": {
     "word": "Juni",
@@ -17179,7 +17467,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "juli_noun": {
     "word": "Juli",
@@ -17227,7 +17516,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "august_noun": {
     "word": "August",
@@ -17275,7 +17565,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "september_noun": {
     "word": "September",
@@ -17323,7 +17614,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "oktober_noun": {
     "word": "Oktober",
@@ -17371,7 +17663,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "november_noun": {
     "word": "November",
@@ -17419,7 +17712,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "dezember_noun": {
     "word": "Dezember",
@@ -17467,7 +17761,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "morgenmensch_noun": {
     "word": "Morgenmensch",
@@ -17528,7 +17823,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "pferd_noun": {
     "word": "Pferd",
@@ -17589,7 +17885,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "kuh_noun": {
     "word": "Kuh",
@@ -17650,7 +17947,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "schwein_noun": {
     "word": "Schwein",
@@ -17711,7 +18009,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "huhn_noun": {
     "word": "Huhn",
@@ -17772,7 +18071,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "schaf_noun": {
     "word": "Schaf",
@@ -17833,7 +18133,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "ente_noun": {
     "word": "Ente",
@@ -17894,7 +18195,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "hase_noun": {
     "word": "Hase",
@@ -17956,7 +18258,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "wolf_noun": {
     "word": "Wolf",
@@ -18017,7 +18320,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "fuchs_noun": {
     "word": "Fuchs",
@@ -18078,7 +18382,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "schlange_noun": {
     "word": "Schlange",
@@ -18139,7 +18444,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "schildkroete_noun": {
     "word": "Schildkröte",
@@ -18200,7 +18506,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "wecker_noun": {
     "word": "Wecker",
@@ -18261,7 +18568,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "dusche_noun": {
     "word": "Dusche",
@@ -18322,7 +18630,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "badezimmer_noun": {
     "word": "Badezimmer",
@@ -18383,7 +18692,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "mittagessen_noun": {
     "word": "Mittagessen",
@@ -18444,7 +18754,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "zahnbuerste_noun": {
     "word": "Zahnbürste",
@@ -18505,7 +18816,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "neffe_noun": {
     "word": "Neffe",
@@ -18567,7 +18879,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "nichte_noun": {
     "word": "Nichte",
@@ -18628,7 +18941,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "enkel_noun": {
     "word": "Enkel",
@@ -18689,7 +19003,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "enkelin_noun": {
     "word": "Enkelin",
@@ -18750,7 +19065,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "baby_noun": {
     "word": "Baby",
@@ -18811,7 +19127,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "nachbar_noun": {
     "word": "Nachbar",
@@ -18873,7 +19190,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "bleistift_noun": {
     "word": "Bleistift",
@@ -18934,7 +19252,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "kugelschreiber_noun": {
     "word": "Kugelschreiber",
@@ -18995,7 +19314,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "heft_noun": {
     "word": "Heft",
@@ -19056,7 +19376,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "tafel_noun": {
     "word": "Tafel",
@@ -19117,7 +19438,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "klassenzimmer_noun": {
     "word": "Klassenzimmer",
@@ -19178,7 +19500,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "stundenplan_noun": {
     "word": "Stundenplan",
@@ -19239,7 +19562,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "basketball_noun": {
     "word": "Basketball",
@@ -19300,7 +19624,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "klavier_noun": {
     "word": "Klavier",
@@ -19361,7 +19686,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "fahrrad_noun": {
     "word": "Fahrrad",
@@ -19422,7 +19748,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "spiel_noun": {
     "word": "Spiel",
@@ -19483,7 +19810,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "konzert_noun": {
     "word": "Konzert",
@@ -19544,7 +19872,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "theater_noun": {
     "word": "Theater",
@@ -19605,7 +19934,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "ueberraschungsparty_noun": {
     "word": "Überraschungsparty",
@@ -19666,7 +19996,8 @@
         },
         "feature": "grammar_genitiv"
       }
-    }
+    },
+    "translations": {}
   },
   "tshirt_noun": {
     "word": "T-Shirt",
@@ -19727,6 +20058,7 @@
       }
     },
     "_id": "tshirt_noun",
-    "declension_type": "strong"
+    "declension_type": "strong",
+    "translations": {}
   }
 }

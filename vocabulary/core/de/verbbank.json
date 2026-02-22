@@ -3,7 +3,8 @@
     "source": "verbbank.json",
     "targetLanguage": "german",
     "generatedAt": "2026-01-16T17:26:35.871Z",
-    "description": "Core verb data for german"
+    "description": "Core verb data for german",
+    "translations": {}
   },
   "sein_verb": {
     "word": "sein",
@@ -46,11 +47,12 @@
       }
     },
     "_id": "sein_verb",
-    "audio": "verb_sein.mp3"
+    "audio": "verb_sein.mp3",
+    "translations": {}
   },
   "heissen_verb": {
     "word": "heißen",
-    "type": "vanlig",
+    "type": "weak",
     "audio": "verb_heissen.mp3",
     "conjugations": {
       "presens": {
@@ -89,11 +91,12 @@
         "feature": "grammar_perfektum"
       }
     },
-    "_id": "heissen_verb"
+    "_id": "heissen_verb",
+    "translations": {}
   },
   "kommen_verb": {
     "word": "kommen",
-    "type": "vanlig",
+    "type": "weak",
     "conjugations": {
       "presens": {
         "former": {
@@ -132,11 +135,12 @@
       }
     },
     "_id": "kommen_verb",
-    "audio": "verb_kommen.mp3"
+    "audio": "verb_kommen.mp3",
+    "translations": {}
   },
   "wohnen_verb": {
     "word": "wohnen",
-    "type": "vanlig",
+    "type": "weak",
     "conjugations": {
       "presens": {
         "former": {
@@ -176,11 +180,12 @@
     },
     "_id": "wohnen_verb",
     "audio": "verb_wohnen.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "schauen_verb": {
     "word": "schauen",
-    "type": "vanlig",
+    "type": "weak",
     "conjugations": {
       "presens": {
         "former": {
@@ -220,7 +225,8 @@
     },
     "_id": "schauen_verb",
     "audio": "verb_schauen.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "spielen_verb": {
     "word": "spielen",
@@ -263,11 +269,12 @@
     },
     "_id": "spielen_verb",
     "audio": "verb_spielen.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "interessieren_verb": {
     "word": "interessieren",
-    "type": "refleksiv",
+    "type": "reflexive",
     "conjugations": {
       "presens": {
         "former": {
@@ -307,11 +314,12 @@
     },
     "_id": "interessieren_verb",
     "audio": "verb_interessieren.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "shoppen_verb": {
     "word": "shoppen",
-    "type": "vanlig",
+    "type": "weak",
     "conjugations": {
       "presens": {
         "former": {
@@ -351,11 +359,12 @@
     },
     "_id": "shoppen_verb",
     "audio": "verb_shoppen.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "entspannen_verb": {
     "word": "entspannen",
-    "type": "refleksiv",
+    "type": "reflexive",
     "inseparable": true,
     "conjugations": {
       "presens": {
@@ -396,11 +405,12 @@
     },
     "_id": "entspannen_verb",
     "audio": "verb_entspannen.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "lernen_verb": {
     "word": "lernen",
-    "type": "vanlig",
+    "type": "weak",
     "conjugations": {
       "presens": {
         "former": {
@@ -440,7 +450,8 @@
     },
     "_id": "lernen_verb",
     "audio": "verb_lernen.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "finden_verb": {
     "word": "finden",
@@ -482,7 +493,8 @@
       }
     },
     "_id": "finden_verb",
-    "audio": "verb_finden.mp3"
+    "audio": "verb_finden.mp3",
+    "translations": {}
   },
   "moegen_verb": {
     "word": "mögen",
@@ -528,7 +540,8 @@
     "modal": true,
     "_id": "moegen_verb",
     "audio": "verb_moegen.mp3",
-    "verb_type": "modal"
+    "verb_type": "modal",
+    "translations": {}
   },
   "klingeln_verb": {
     "word": "klingeln",
@@ -571,7 +584,8 @@
     },
     "_id": "klingeln_verb",
     "audio": "verb_klingeln.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "beginnen_verb": {
     "word": "beginnen",
@@ -617,7 +631,8 @@
       }
     },
     "_id": "beginnen_verb",
-    "audio": "verb_beginnen.mp3"
+    "audio": "verb_beginnen.mp3",
+    "translations": {}
   },
   "koennen_verb": {
     "word": "können",
@@ -663,7 +678,8 @@
     "modal": true,
     "_id": "koennen_verb",
     "audio": "verb_koennen.mp3",
-    "verb_type": "modal"
+    "verb_type": "modal",
+    "translations": {}
   },
   "lesen_verb": {
     "word": "lesen",
@@ -706,7 +722,8 @@
       }
     },
     "_id": "lesen_verb",
-    "audio": "verb_lesen.mp3"
+    "audio": "verb_lesen.mp3",
+    "translations": {}
   },
   "schwimmen_verb": {
     "word": "schwimmen",
@@ -753,7 +770,8 @@
       }
     },
     "_id": "schwimmen_verb",
-    "audio": "verb_schwimmen.mp3"
+    "audio": "verb_schwimmen.mp3",
+    "translations": {}
   },
   "singen_verb": {
     "word": "singen",
@@ -795,7 +813,8 @@
       }
     },
     "_id": "singen_verb",
-    "audio": "verb_singen.mp3"
+    "audio": "verb_singen.mp3",
+    "translations": {}
   },
   "tanzen_verb": {
     "word": "tanzen",
@@ -838,7 +857,8 @@
     },
     "_id": "tanzen_verb",
     "audio": "verb_tanzen.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "kochen_verb": {
     "word": "kochen",
@@ -881,7 +901,8 @@
     },
     "_id": "kochen_verb",
     "audio": "verb_kochen.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "malen_verb": {
     "word": "malen",
@@ -924,7 +945,8 @@
     },
     "_id": "malen_verb",
     "audio": "verb_malen.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "machen_verb": {
     "word": "machen",
@@ -967,7 +989,8 @@
     },
     "_id": "machen_verb",
     "audio": "verb_machen.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "gehen_verb": {
     "word": "gehen",
@@ -1009,7 +1032,8 @@
       }
     },
     "_id": "gehen_verb",
-    "audio": "verb_gehen.mp3"
+    "audio": "verb_gehen.mp3",
+    "translations": {}
   },
   "besuchen_verb": {
     "word": "besuchen",
@@ -1053,7 +1077,8 @@
     },
     "_id": "besuchen_verb",
     "audio": "verb_besuchen.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "kaufen_verb": {
     "word": "kaufen",
@@ -1096,7 +1121,8 @@
     },
     "_id": "kaufen_verb",
     "audio": "verb_kaufen.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "brauchen_verb": {
     "word": "brauchen",
@@ -1139,7 +1165,8 @@
     },
     "_id": "brauchen_verb",
     "audio": "verb_brauchen.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "essen_verb": {
     "word": "essen",
@@ -1182,7 +1209,8 @@
       }
     },
     "_id": "essen_verb",
-    "audio": "verb_essen.mp3"
+    "audio": "verb_essen.mp3",
+    "translations": {}
   },
   "nehmen_verb": {
     "word": "nehmen",
@@ -1225,7 +1253,8 @@
       }
     },
     "_id": "nehmen_verb",
-    "audio": "verb_nehmen.mp3"
+    "audio": "verb_nehmen.mp3",
+    "translations": {}
   },
   "trinken_verb": {
     "word": "trinken",
@@ -1267,7 +1296,8 @@
       }
     },
     "_id": "trinken_verb",
-    "audio": "verb_trinken.mp3"
+    "audio": "verb_trinken.mp3",
+    "translations": {}
   },
   "hoeren_verb": {
     "word": "hören",
@@ -1310,7 +1340,8 @@
     },
     "_id": "hoeren_verb",
     "audio": "verb_hoeren.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "hoffen_verb": {
     "word": "hoffen",
@@ -1353,7 +1384,8 @@
     },
     "_id": "hoffen_verb",
     "audio": "verb_hoffen.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "haben_verb": {
     "word": "haben",
@@ -1396,7 +1428,8 @@
       }
     },
     "_id": "haben_verb",
-    "audio": "verb_haben.mp3"
+    "audio": "verb_haben.mp3",
+    "translations": {}
   },
   "fuettern_verb": {
     "word": "füttern",
@@ -1439,7 +1472,8 @@
     },
     "_id": "fuettern_verb",
     "audio": "verb_fuettern.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "streicheln_verb": {
     "word": "streicheln",
@@ -1482,7 +1516,8 @@
     },
     "_id": "streicheln_verb",
     "audio": "verb_streicheln.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "fressen_verb": {
     "word": "fressen",
@@ -1525,7 +1560,8 @@
       }
     },
     "_id": "fressen_verb",
-    "audio": "verb_fressen.mp3"
+    "audio": "verb_fressen.mp3",
+    "translations": {}
   },
   "leben_verb": {
     "word": "leben",
@@ -1568,7 +1604,8 @@
     },
     "_id": "leben_verb",
     "audio": "verb_leben.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "oeffnen_verb": {
     "word": "öffnen",
@@ -1611,7 +1648,8 @@
     },
     "_id": "oeffnen_verb",
     "audio": "verb_oeffnen.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "jagen_verb": {
     "word": "jagen",
@@ -1654,7 +1692,8 @@
     },
     "_id": "jagen_verb",
     "audio": "verb_jagen.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "tragen_verb": {
     "word": "tragen",
@@ -1697,7 +1736,8 @@
       }
     },
     "_id": "tragen_verb",
-    "audio": "verb_tragen.mp3"
+    "audio": "verb_tragen.mp3",
+    "translations": {}
   },
   "sehen_verb": {
     "word": "sehen",
@@ -1740,7 +1780,8 @@
       }
     },
     "_id": "sehen_verb",
-    "audio": "verb_sehen.mp3"
+    "audio": "verb_sehen.mp3",
+    "translations": {}
   },
   "treffen_verb": {
     "word": "treffen",
@@ -1783,7 +1824,8 @@
       }
     },
     "_id": "treffen_verb",
-    "audio": "verb_treffen.mp3"
+    "audio": "verb_treffen.mp3",
+    "translations": {}
   },
   "muessen_verb": {
     "word": "müssen",
@@ -1829,7 +1871,8 @@
     "modal": true,
     "_id": "muessen_verb",
     "audio": "verb_muessen.mp3",
-    "verb_type": "modal"
+    "verb_type": "modal",
+    "translations": {}
   },
   "wollen_verb": {
     "word": "wollen",
@@ -1875,7 +1918,8 @@
     "modal": true,
     "_id": "wollen_verb",
     "audio": "verb_wollen.mp3",
-    "verb_type": "modal"
+    "verb_type": "modal",
+    "translations": {}
   },
   "fahren_verb": {
     "word": "fahren",
@@ -1923,7 +1967,8 @@
       }
     },
     "_id": "fahren_verb",
-    "audio": "verb_fahren.mp3"
+    "audio": "verb_fahren.mp3",
+    "translations": {}
   },
   "wandern_verb": {
     "word": "wandern",
@@ -1966,7 +2011,8 @@
     },
     "_id": "wandern_verb",
     "audio": "verb_wandern.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "traeumen_verb": {
     "word": "träumen",
@@ -2009,7 +2055,8 @@
     },
     "_id": "traeumen_verb",
     "audio": "verb_traeumen.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "sagen_verb": {
     "word": "sagen",
@@ -2052,7 +2099,8 @@
     },
     "_id": "sagen_verb",
     "audio": "verb_sagen.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "schreiben_verb": {
     "word": "schreiben",
@@ -2095,7 +2143,8 @@
       }
     },
     "_id": "schreiben_verb",
-    "audio": "verb_schreiben.mp3"
+    "audio": "verb_schreiben.mp3",
+    "translations": {}
   },
   "fliegen_verb": {
     "word": "fliegen",
@@ -2142,7 +2191,8 @@
       }
     },
     "_id": "fliegen_verb",
-    "audio": "verb_fliegen.mp3"
+    "audio": "verb_fliegen.mp3",
+    "translations": {}
   },
   "mitnehmen_verb": {
     "word": "mitnehmen",
@@ -2186,7 +2236,8 @@
       }
     },
     "_id": "mitnehmen_verb",
-    "audio": "verb_mitnehmen.mp3"
+    "audio": "verb_mitnehmen.mp3",
+    "translations": {}
   },
   "packen_verb": {
     "word": "packen",
@@ -2229,7 +2280,8 @@
     },
     "_id": "packen_verb",
     "audio": "verb_packen.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "einpacken_verb": {
     "word": "einpacken",
@@ -2273,7 +2325,8 @@
     },
     "_id": "einpacken_verb",
     "audio": "verb_einpacken.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "duerfen_verb": {
     "word": "dürfen",
@@ -2319,7 +2372,8 @@
     "modal": true,
     "_id": "duerfen_verb",
     "audio": "verb_duerfen.mp3",
-    "verb_type": "modal"
+    "verb_type": "modal",
+    "translations": {}
   },
   "scheinen_verb": {
     "word": "scheinen",
@@ -2361,7 +2415,8 @@
       }
     },
     "_id": "scheinen_verb",
-    "audio": "verb_scheinen.mp3"
+    "audio": "verb_scheinen.mp3",
+    "translations": {}
   },
   "lieben_verb": {
     "word": "lieben",
@@ -2404,7 +2459,8 @@
     },
     "_id": "lieben_verb",
     "audio": "verb_lieben.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "stimmen_verb": {
     "word": "stimmen",
@@ -2447,7 +2503,8 @@
     },
     "_id": "stimmen_verb",
     "audio": "verb_stimmen.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "dekorieren_verb": {
     "word": "dekorieren",
@@ -2490,7 +2547,8 @@
     },
     "_id": "dekorieren_verb",
     "audio": "verb_dekorieren.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "sprechen_verb": {
     "word": "sprechen",
@@ -2533,7 +2591,8 @@
       }
     },
     "_id": "sprechen_verb",
-    "audio": "verb_sprechen.mp3"
+    "audio": "verb_sprechen.mp3",
+    "translations": {}
   },
   "werden_verb": {
     "word": "werden",
@@ -2576,7 +2635,8 @@
       }
     },
     "_id": "werden_verb",
-    "audio": "verb_werden.mp3"
+    "audio": "verb_werden.mp3",
+    "translations": {}
   },
   "dauern_verb": {
     "word": "dauern",
@@ -2619,7 +2679,8 @@
     },
     "_id": "dauern_verb",
     "audio": "verb_dauern.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "bleiben_verb": {
     "word": "bleiben",
@@ -2661,7 +2722,8 @@
       }
     },
     "_id": "bleiben_verb",
-    "audio": "verb_bleiben.mp3"
+    "audio": "verb_bleiben.mp3",
+    "translations": {}
   },
   "schlafen_verb": {
     "word": "schlafen",
@@ -2704,11 +2766,12 @@
       }
     },
     "_id": "schlafen_verb",
-    "audio": "verb_schlafen.mp3"
+    "audio": "verb_schlafen.mp3",
+    "translations": {}
   },
   "feiern_verb": {
     "word": "feiern",
-    "type": "vanlig",
+    "type": "weak",
     "conjugations": {
       "presens": {
         "former": {
@@ -2748,7 +2811,8 @@
     },
     "_id": "feiern_verb",
     "audio": "verb_feiern.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "kennen_verb": {
     "word": "kennen",
@@ -2791,7 +2855,8 @@
     },
     "_id": "kennen_verb",
     "audio": "verb_kennen.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "sich_treffen_verb": {
     "word": "sich treffen",
@@ -2834,7 +2899,8 @@
       }
     },
     "_id": "sich_treffen_verb",
-    "audio": "verb_sich_treffen.mp3"
+    "audio": "verb_sich_treffen.mp3",
+    "translations": {}
   },
   "anrufen_verb": {
     "word": "anrufen",
@@ -2877,11 +2943,12 @@
       }
     },
     "_id": "anrufen_verb",
-    "audio": "verb_anrufen.mp3"
+    "audio": "verb_anrufen.mp3",
+    "translations": {}
   },
   "anfangen_verb": {
     "word": "anfangen",
-    "type": "sterkt",
+    "type": "strong",
     "separable": true,
     "synonyms": [
       "beginnen_verb"
@@ -2924,11 +2991,12 @@
       }
     },
     "_id": "anfangen_verb",
-    "audio": "verb_anfangen.mp3"
+    "audio": "verb_anfangen.mp3",
+    "translations": {}
   },
   "einladen_verb": {
     "word": "einladen",
-    "type": "vanlig",
+    "type": "weak",
     "separable": true,
     "conjugations": {
       "presens": {
@@ -2968,11 +3036,12 @@
       }
     },
     "_id": "einladen_verb",
-    "audio": "verb_einladen.mp3"
+    "audio": "verb_einladen.mp3",
+    "translations": {}
   },
   "einkaufen_verb": {
     "word": "einkaufen",
-    "type": "vanlig",
+    "type": "weak",
     "separable": true,
     "conjugations": {
       "presens": {
@@ -3013,7 +3082,8 @@
     },
     "_id": "einkaufen_verb",
     "audio": "verb_einkaufen.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "sich_freuen_auf_verb": {
     "word": "sich freuen auf",
@@ -3056,7 +3126,8 @@
     },
     "_id": "sich_freuen_auf_verb",
     "audio": "verb_sich_freuen_auf.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "sich_waschen_verb": {
     "word": "sich waschen",
@@ -3099,7 +3170,8 @@
       }
     },
     "_id": "sich_waschen_verb",
-    "audio": "verb_sich_waschen.mp3"
+    "audio": "verb_sich_waschen.mp3",
+    "translations": {}
   },
   "sich_duschen_verb": {
     "word": "sich duschen",
@@ -3142,7 +3214,8 @@
     },
     "_id": "sich_duschen_verb",
     "audio": "verb_sich_duschen.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "sich_anziehen_verb": {
     "word": "sich anziehen",
@@ -3185,7 +3258,8 @@
       }
     },
     "_id": "sich_anziehen_verb",
-    "audio": "verb_sich_anziehen.mp3"
+    "audio": "verb_sich_anziehen.mp3",
+    "translations": {}
   },
   "sich_kaemmen_verb": {
     "word": "sich kämmen",
@@ -3228,7 +3302,8 @@
     },
     "_id": "sich_kaemmen_verb",
     "audio": "verb_sich_kaemmen.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "sich_schminken_verb": {
     "word": "sich schminken",
@@ -3271,7 +3346,8 @@
     },
     "_id": "sich_schminken_verb",
     "audio": "verb_sich_schminken.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "sich_rasieren_verb": {
     "word": "sich rasieren",
@@ -3314,7 +3390,8 @@
     },
     "_id": "sich_rasieren_verb",
     "audio": "verb_sich_rasieren.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "sich_freuen_verb": {
     "word": "sich freuen",
@@ -3357,7 +3434,8 @@
     },
     "_id": "sich_freuen_verb",
     "audio": "verb_sich_freuen.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "aufwachen_verb": {
     "word": "aufwachen",
@@ -3400,7 +3478,8 @@
       }
     },
     "_id": "aufwachen_verb",
-    "audio": "verb_aufwachen.mp3"
+    "audio": "verb_aufwachen.mp3",
+    "translations": {}
   },
   "aufstehen_verb": {
     "word": "aufstehen",
@@ -3443,7 +3522,8 @@
       }
     },
     "_id": "aufstehen_verb",
-    "audio": "verb_aufstehen.mp3"
+    "audio": "verb_aufstehen.mp3",
+    "translations": {}
   },
   "fruehstuecken_verb": {
     "word": "frühstücken",
@@ -3486,7 +3566,8 @@
     },
     "_id": "fruehstuecken_verb",
     "audio": "verb_fruehstuecken.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "sich_fuehlen_verb": {
     "word": "sich fühlen",
@@ -3529,7 +3610,8 @@
     },
     "_id": "sich_fuehlen_verb",
     "audio": "verb_sich_fuehlen.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "sich_freuen_ueber_verb": {
     "word": "sich freuen über",
@@ -3572,7 +3654,8 @@
     },
     "_id": "sich_freuen_ueber_verb",
     "audio": "verb_sich_freuen_ueber.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "sich_aergern_verb": {
     "word": "sich ärgern",
@@ -3615,7 +3698,8 @@
     },
     "_id": "sich_aergern_verb",
     "audio": "verb_sich_aergern.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "sich_interessieren_verb": {
     "word": "sich interessieren",
@@ -3658,7 +3742,8 @@
     },
     "_id": "sich_interessieren_verb",
     "audio": "verb_sich_interessieren.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "sich_langweilen_verb": {
     "word": "sich langweilen",
@@ -3701,7 +3786,8 @@
     },
     "_id": "sich_langweilen_verb",
     "audio": "verb_sich_langweilen.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "sich_konzentrieren_verb": {
     "word": "sich konzentrieren",
@@ -3744,7 +3830,8 @@
     },
     "_id": "sich_konzentrieren_verb",
     "audio": "verb_sich_konzentrieren.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "sich_entschuldigen_verb": {
     "word": "sich entschuldigen",
@@ -3788,7 +3875,8 @@
     },
     "_id": "sich_entschuldigen_verb",
     "audio": "verb_sich_entschuldigen.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "sich_verspaeten_verb": {
     "word": "sich verspäten",
@@ -3832,7 +3920,8 @@
     },
     "_id": "sich_verspaeten_verb",
     "audio": "verb_sich_verspaeten.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "sich_entspannen_verb": {
     "word": "sich entspannen",
@@ -3876,7 +3965,8 @@
     },
     "_id": "sich_entspannen_verb",
     "audio": "verb_sich_entspannen.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "sich_aufregen_verb": {
     "word": "sich aufregen",
@@ -3919,7 +4009,8 @@
       }
     },
     "_id": "sich_aufregen_verb",
-    "audio": "verb_sich_aufregen.mp3"
+    "audio": "verb_sich_aufregen.mp3",
+    "translations": {}
   },
   "sich_ausruhen_verb": {
     "word": "sich ausruhen",
@@ -3962,7 +4053,8 @@
       }
     },
     "_id": "sich_ausruhen_verb",
-    "audio": "verb_sich_ausruhen.mp3"
+    "audio": "verb_sich_ausruhen.mp3",
+    "translations": {}
   },
   "sich_erholen_verb": {
     "word": "sich erholen",
@@ -4006,7 +4098,8 @@
     },
     "_id": "sich_erholen_verb",
     "audio": "verb_sich_erholen.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "sich_vorbereiten_verb": {
     "word": "sich vorbereiten",
@@ -4050,7 +4143,8 @@
     },
     "_id": "sich_vorbereiten_verb",
     "audio": "verb_sich_vorbereiten.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "sich_setzen_verb": {
     "word": "sich setzen",
@@ -4093,7 +4187,8 @@
     },
     "_id": "sich_setzen_verb",
     "audio": "verb_sich_setzen.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "sich_unterhalten_verb": {
     "word": "sich unterhalten",
@@ -4136,7 +4231,8 @@
       }
     },
     "_id": "sich_unterhalten_verb",
-    "audio": "verb_sich_unterhalten.mp3"
+    "audio": "verb_sich_unterhalten.mp3",
+    "translations": {}
   },
   "sich_bewegen_verb": {
     "word": "sich bewegen",
@@ -4180,7 +4276,8 @@
     },
     "_id": "sich_bewegen_verb",
     "audio": "verb_sich_bewegen.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "sollen_verb": {
     "word": "sollen",
@@ -4226,11 +4323,12 @@
     "modal": true,
     "_id": "sollen_verb",
     "audio": "verb_sollen.mp3",
-    "verb_type": "modal"
+    "verb_type": "modal",
+    "translations": {}
   },
   "mitbringen_verb": {
     "word": "mitbringen",
-    "type": "vanlig",
+    "type": "weak",
     "separable": true,
     "conjugations": {
       "presens": {
@@ -4270,11 +4368,12 @@
       }
     },
     "_id": "mitbringen_verb",
-    "audio": "verb_mitbringen.mp3"
+    "audio": "verb_mitbringen.mp3",
+    "translations": {}
   },
   "grillen_verb": {
     "word": "grillen",
-    "type": "vanlig",
+    "type": "weak",
     "conjugations": {
       "presens": {
         "former": {
@@ -4314,11 +4413,12 @@
     },
     "_id": "grillen_verb",
     "audio": "verb_grillen.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "planen_verb": {
     "word": "planen",
-    "type": "vanlig",
+    "type": "weak",
     "conjugations": {
       "presens": {
         "former": {
@@ -4358,7 +4458,8 @@
     },
     "_id": "planen_verb",
     "audio": "verb_planen.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "sitzen_verb": {
     "word": "sitzen",
@@ -4401,11 +4502,12 @@
       }
     },
     "_id": "sitzen_verb",
-    "audio": "verb_sitzen.mp3"
+    "audio": "verb_sitzen.mp3",
+    "translations": {}
   },
   "lachen_verb": {
     "word": "lachen",
-    "type": "vanlig",
+    "type": "weak",
     "conjugations": {
       "presens": {
         "former": {
@@ -4445,11 +4547,12 @@
     },
     "_id": "lachen_verb",
     "audio": "verb_lachen.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "fragen_verb": {
     "word": "fragen",
-    "type": "vanlig",
+    "type": "weak",
     "conjugations": {
       "presens": {
         "former": {
@@ -4489,7 +4592,8 @@
     },
     "_id": "fragen_verb",
     "audio": "verb_fragen.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "verstehen_verb": {
     "word": "verstehen",
@@ -4533,7 +4637,8 @@
       }
     },
     "_id": "verstehen_verb",
-    "audio": "verb_verstehen.mp3"
+    "audio": "verb_verstehen.mp3",
+    "translations": {}
   },
   "helfen_verb": {
     "word": "helfen",
@@ -4576,11 +4681,12 @@
       }
     },
     "_id": "helfen_verb",
-    "audio": "verb_helfen.mp3"
+    "audio": "verb_helfen.mp3",
+    "translations": {}
   },
   "laecheln_verb": {
     "word": "lächeln",
-    "type": "vanlig",
+    "type": "weak",
     "conjugations": {
       "presens": {
         "former": {
@@ -4620,11 +4726,12 @@
     },
     "_id": "laecheln_verb",
     "audio": "verb_laecheln.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "wecken_verb": {
     "word": "wecken",
-    "type": "vanlig",
+    "type": "weak",
     "conjugations": {
       "presens": {
         "former": {
@@ -4664,7 +4771,8 @@
     },
     "_id": "wecken_verb",
     "audio": "verb_wecken.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "liegen_verb": {
     "word": "liegen",
@@ -4707,11 +4815,12 @@
       }
     },
     "_id": "liegen_verb",
-    "audio": "verb_liegen.mp3"
+    "audio": "verb_liegen.mp3",
+    "translations": {}
   },
   "putzen_verb": {
     "word": "putzen",
-    "type": "vanlig",
+    "type": "weak",
     "conjugations": {
       "presens": {
         "former": {
@@ -4751,11 +4860,12 @@
     },
     "_id": "putzen_verb",
     "audio": "verb_putzen.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "arbeiten_verb": {
     "word": "arbeiten",
-    "type": "vanlig",
+    "type": "weak",
     "conjugations": {
       "presens": {
         "former": {
@@ -4795,7 +4905,8 @@
     },
     "_id": "arbeiten_verb",
     "audio": "verb_arbeiten.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "wissen_verb": {
     "word": "wissen",
@@ -4838,7 +4949,8 @@
       }
     },
     "_id": "wissen_verb",
-    "audio": "verb_wissen.mp3"
+    "audio": "verb_wissen.mp3",
+    "translations": {}
   },
   "geben_verb": {
     "word": "geben",
@@ -4881,7 +4993,8 @@
       }
     },
     "_id": "geben_verb",
-    "audio": "verb_geben.mp3"
+    "audio": "verb_geben.mp3",
+    "translations": {}
   },
   "vergessen_verb": {
     "word": "vergessen",
@@ -4925,7 +5038,8 @@
       }
     },
     "_id": "vergessen_verb",
-    "audio": "verb_vergessen.mp3"
+    "audio": "verb_vergessen.mp3",
+    "translations": {}
   },
   "klingen_verb": {
     "word": "klingen",
@@ -4968,11 +5082,12 @@
       }
     },
     "_id": "klingen_verb",
-    "audio": "verb_klingen.mp3"
+    "audio": "verb_klingen.mp3",
+    "translations": {}
   },
   "haengen_verb": {
     "word": "hängen",
-    "type": "vanlig",
+    "type": "weak",
     "conjugations": {
       "presens": {
         "former": {
@@ -5011,7 +5126,8 @@
       }
     },
     "_id": "haengen_verb",
-    "audio": "verb_haengen.mp3"
+    "audio": "verb_haengen.mp3",
+    "translations": {}
   },
   "stehen_verb": {
     "word": "stehen",
@@ -5054,11 +5170,12 @@
       }
     },
     "_id": "stehen_verb",
-    "audio": "verb_stehen.mp3"
+    "audio": "verb_stehen.mp3",
+    "translations": {}
   },
   "warten_verb": {
     "word": "warten",
-    "type": "vanlig",
+    "type": "weak",
     "conjugations": {
       "presens": {
         "former": {
@@ -5098,11 +5215,12 @@
     },
     "_id": "warten_verb",
     "audio": "verb_warten.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "laufen_verb": {
     "word": "laufen",
-    "type": "sterkt",
+    "type": "strong",
     "conjugations": {
       "presens": {
         "former": {
@@ -5145,11 +5263,12 @@
       }
     },
     "_id": "laufen_verb",
-    "audio": "verb_laufen.mp3"
+    "audio": "verb_laufen.mp3",
+    "translations": {}
   },
   "springen_verb": {
     "word": "springen",
-    "type": "sterkt",
+    "type": "strong",
     "conjugations": {
       "presens": {
         "former": {
@@ -5187,11 +5306,12 @@
       }
     },
     "_id": "springen_verb",
-    "audio": "verb_springen.mp3"
+    "audio": "verb_springen.mp3",
+    "translations": {}
   },
   "glauben_verb": {
     "word": "glauben",
-    "type": "svakt",
+    "type": "weak",
     "conjugations": {
       "presens": {
         "former": {
@@ -5230,11 +5350,12 @@
     },
     "_id": "glauben_verb",
     "audio": "verb_glauben.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "gewinnen_verb": {
     "word": "gewinnen",
-    "type": "sterkt",
+    "type": "strong",
     "conjugations": {
       "presens": {
         "former": {
@@ -5272,11 +5393,12 @@
       }
     },
     "_id": "gewinnen_verb",
-    "audio": "verb_gewinnen.mp3"
+    "audio": "verb_gewinnen.mp3",
+    "translations": {}
   },
   "verlieren_verb": {
     "word": "verlieren",
-    "type": "sterkt",
+    "type": "strong",
     "inseparable": true,
     "conjugations": {
       "presens": {
@@ -5315,7 +5437,8 @@
       }
     },
     "_id": "verlieren_verb",
-    "audio": "verb_verlieren.mp3"
+    "audio": "verb_verlieren.mp3",
+    "translations": {}
   },
   "danken_verb": {
     "word": "danken",
@@ -5358,7 +5481,8 @@
     },
     "_id": "danken_verb",
     "audio": "verb_danken.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "antworten_verb": {
     "word": "antworten",
@@ -5401,7 +5525,8 @@
     },
     "_id": "antworten_verb",
     "audio": "verb_antworten.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "vertrauen_verb": {
     "word": "vertrauen",
@@ -5445,7 +5570,8 @@
     },
     "_id": "vertrauen_verb",
     "audio": "verb_vertrauen.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "versprechen_verb": {
     "word": "versprechen",
@@ -5489,7 +5615,8 @@
       }
     },
     "_id": "versprechen_verb",
-    "audio": "verb_versprechen.mp3"
+    "audio": "verb_versprechen.mp3",
+    "translations": {}
   },
   "erklaeren_verb": {
     "word": "erklären",
@@ -5533,7 +5660,8 @@
     },
     "_id": "erklaeren_verb",
     "audio": "verb_erklaeren.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "zeigen_verb": {
     "word": "zeigen",
@@ -5576,7 +5704,8 @@
     },
     "_id": "zeigen_verb",
     "audio": "verb_zeigen.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "bringen_verb": {
     "word": "bringen",
@@ -5618,7 +5747,8 @@
       }
     },
     "_id": "bringen_verb",
-    "audio": "verb_bringen.mp3"
+    "audio": "verb_bringen.mp3",
+    "translations": {}
   },
   "erzaehlen_verb": {
     "word": "erzählen",
@@ -5662,7 +5792,8 @@
     },
     "_id": "erzaehlen_verb",
     "audio": "verb_erzaehlen.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "aufraeumen_verb": {
     "word": "aufräumen",
@@ -5706,7 +5837,8 @@
     },
     "_id": "aufraeumen_verb",
     "audio": "verb_aufraeumen.mp3",
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "reisen_verb": {
     "word": "reisen",
@@ -5738,7 +5870,8 @@
         "feature": "grammar_perfektum"
       }
     },
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "fernsehen_verb": {
     "word": "fernsehen",
@@ -5770,7 +5903,8 @@
         },
         "feature": "grammar_perfektum"
       }
-    }
+    },
+    "translations": {}
   },
   "rad_fahren_verbphrase": {
     "word": "Rad fahren",
@@ -5789,7 +5923,8 @@
         },
         "feature": "grammar_preteritum"
       }
-    }
+    },
+    "translations": {}
   },
   "musik_hoeren_verbphrase": {
     "word": "Musik hören",
@@ -5809,7 +5944,8 @@
         "feature": "grammar_preteritum"
       }
     },
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "moechten_modal": {
     "word": "möchten",
@@ -5856,11 +5992,12 @@
     "_id": "moechten_modal",
     "audio": "verb_moechten.mp3",
     "verb_type": "modal",
-    "preteritum_note": "möchten has no independent preteritum; wollte forms used as functional equivalent"
+    "preteritum_note": "möchten has no independent preteritum; wollte forms used as functional equivalent",
+    "translations": {}
   },
   "bekommen_verb": {
     "word": "bekommen",
-    "type": "verb",
+    "type": "weak",
     "inseparable": true,
     "audio": "ord_bekommen.mp3",
     "_id": "bekommen_verb",
@@ -5889,7 +6026,8 @@
         },
         "feature": "grammar_perfektum"
       }
-    }
+    },
+    "translations": {}
   },
   "gassi_gehen_verbphrase": {
     "word": "Gassi gehen",
@@ -5908,11 +6046,12 @@
         },
         "feature": "grammar_preteritum"
       }
-    }
+    },
+    "translations": {}
   },
   "klettern_verb": {
     "word": "klettern",
-    "type": "verb",
+    "type": "weak",
     "audio": "ord_klettern.mp3",
     "_id": "klettern_verb",
     "conjugations": {
@@ -5941,11 +6080,12 @@
         "feature": "grammar_perfektum"
       }
     },
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "wegfahren_verb": {
     "word": "wegfahren",
-    "type": "verb",
+    "type": "weak",
     "separable": true,
     "audio": "ord_wegfahren.mp3",
     "_id": "wegfahren_verb",
@@ -5979,11 +6119,12 @@
         },
         "feature": "grammar_perfektum"
       }
-    }
+    },
+    "translations": {}
   },
   "liegen_bleiben_verb": {
     "word": "liegen bleiben",
-    "type": "verb",
+    "type": "weak",
     "audio": "ord_liegen_bleiben.mp3",
     "_id": "liegen_bleiben_verb",
     "conjugations": {
@@ -6011,11 +6152,12 @@
         },
         "feature": "grammar_perfektum"
       }
-    }
+    },
+    "translations": {}
   },
   "sich_aergern_ueber_verb": {
     "word": "sich ärgern über",
-    "type": "verb",
+    "type": "weak",
     "audio": "ord_sich_aergern_ueber.mp3",
     "_id": "sich_aergern_ueber_verb",
     "conjugations": {
@@ -6044,11 +6186,12 @@
         "feature": "grammar_perfektum"
       }
     },
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "mitkommen_verb": {
     "word": "mitkommen",
-    "type": "verb",
+    "type": "weak",
     "separable": true,
     "audio": "ord_mitkommen.mp3",
     "_id": "mitkommen_verb",
@@ -6077,11 +6220,12 @@
         },
         "feature": "grammar_perfektum"
       }
-    }
+    },
+    "translations": {}
   },
   "spazieren_gehen_verb": {
     "word": "spazieren gehen",
-    "type": "verb",
+    "type": "weak",
     "audio": "ord_spazieren_gehen.mp3",
     "_id": "spazieren_gehen_verb",
     "conjugations": {
@@ -6109,7 +6253,8 @@
         },
         "feature": "grammar_perfektum"
       }
-    }
+    },
+    "translations": {}
   },
   "fertig_werden_verbphrase": {
     "word": "fertig werden",
@@ -6128,11 +6273,12 @@
         },
         "feature": "grammar_preteritum"
       }
-    }
+    },
+    "translations": {}
   },
   "zaehneputzen_verb": {
     "word": "Zähne putzen",
-    "type": "verb",
+    "type": "weak",
     "_id": "zaehneputzen_verb",
     "audio": "verb_zaehne_putzen.mp3",
     "conjugations": {
@@ -6161,11 +6307,12 @@
         "feature": "grammar_perfektum"
       }
     },
-    "preteritum_rare": true
+    "preteritum_rare": true,
+    "translations": {}
   },
   "ausziehen_verb": {
     "word": "ausziehen",
-    "type": "verb",
+    "type": "weak",
     "separable": true,
     "_id": "ausziehen_verb",
     "audio": "verb_ausziehen.mp3",
@@ -6199,11 +6346,12 @@
         },
         "feature": "grammar_perfektum"
       }
-    }
+    },
+    "translations": {}
   },
   "einschlafen_verb": {
     "word": "einschlafen",
-    "type": "verb",
+    "type": "weak",
     "separable": true,
     "_id": "einschlafen_verb",
     "audio": "verb_einschlafen.mp3",
@@ -6232,6 +6380,7 @@
         },
         "feature": "grammar_perfektum"
       }
-    }
+    },
+    "translations": {}
   }
 }
