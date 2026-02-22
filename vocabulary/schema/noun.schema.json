@@ -68,6 +68,10 @@
         },
         "cases": {
           "$ref": "#/$defs/cases"
+        },
+        "weak_masculine": {
+          "type": "boolean",
+          "description": "True for n-Deklination masculine nouns that take -(e)n in all non-nominative singular cases"
         }
       },
       "required": ["translations"]
@@ -116,13 +120,47 @@
           "type": "string",
           "description": "Grammar feature flag"
         },
+        "bestemt": {
+          "type": "string",
+          "description": "Legacy flat definite form (pre-migration, directly on caseEntry)"
+        },
+        "ubestemt": {
+          "type": "string",
+          "description": "Legacy flat indefinite form (pre-migration, directly on caseEntry)"
+        },
         "forms": {
           "type": "object",
           "properties": {
             "bestemt": { "type": "string" },
             "ubestemt": { "type": "string" },
             "definite": { "type": "string" },
-            "indefinite": { "type": "string" }
+            "indefinite": { "type": "string" },
+            "singular": {
+              "description": "Singular forms (null for plural-only nouns like Eltern)",
+              "oneOf": [
+                { "type": "null" },
+                {
+                  "type": "object",
+                  "properties": {
+                    "definite": { "type": "string" },
+                    "indefinite": { "type": "string" }
+                  }
+                }
+              ]
+            },
+            "plural": {
+              "description": "Plural forms (null for uncountable nouns)",
+              "oneOf": [
+                { "type": "null" },
+                {
+                  "type": "object",
+                  "properties": {
+                    "definite": { "type": "string" },
+                    "indefinite": { "type": "string" }
+                  }
+                }
+              ]
+            }
           }
         }
       }
