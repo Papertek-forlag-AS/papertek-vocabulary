@@ -66,7 +66,11 @@
   3. All 144 non-verbphrase verbs have presens conjugation objects with all 6 pronoun forms
   4. Core manifest counts (generalbank, nounbank, verbbank) match actual entry counts in each bank
   5. The 2 nouns with declension-based plurals have their top-level `plural` field populated, and `leute_noun` has a `genus` field (or an explicitly documented null)
-**Plans**: TBD
+**Plans**: 3 plans
+Plans:
+- [ ] 16-01-PLAN.md — Noun field fixes (genus, plural, plural-only genus)
+- [ ] 16-02-PLAN.md — Verb type classification + presens conjugations
+- [ ] 16-03-PLAN.md — Manifest count corrections
 
 ### Phase 17: API Fixes
 **Goal**: The v2 API handler exposes complete, consistently-named grammar features and all entry-level fields
@@ -106,6 +110,6 @@
 | 13. Perfektum Data | v1.2 | 1/1 | Complete | 2026-02-22 |
 | 14. Noun Declension Data | v1.2 | 2/2 | Complete | 2026-02-22 |
 | 15. Sync & Integration | v1.2 | 3/3 | Complete | 2026-02-22 |
-| 16. Data Fixes | v1.3 | 0/TBD | Not started | - |
+| 16. Data Fixes | v1.3 | 0/3 | Not started | - |
 | 17. API Fixes | v1.3 | 0/TBD | Not started | - |
 | 18. Tooling Fixes | v1.3 | 0/TBD | Not started | - |
