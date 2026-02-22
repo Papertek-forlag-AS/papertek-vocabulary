@@ -47,7 +47,7 @@ Requirements for milestone v1.2 — German Perfektum & Noun Declension. Each map
 - [x] **SYNC-02**: Noun declension data synced to dictionary nounbank for all 331 nouns
 - [ ] **SYNC-03**: Search index rebuilt with `pp` field for verb entries enabling past-participle lookup
 - [x] **SYNC-04**: v2 lookup handler emits `grammar_noun_declension` and `grammar_genitiv` feature flags
-- [ ] **SYNC-05**: Schema validation passing for both core and dictionary banks (verbs and nouns)
+- [x] **SYNC-05**: Schema validation passing for both core and dictionary banks (verbs and nouns)
 
 ## Future Requirements
 
@@ -103,7 +103,7 @@ Which phases cover which requirements. Updated during roadmap creation.
 | SYNC-02 | Phase 15 | Complete |
 | SYNC-03 | Phase 15 | Pending |
 | SYNC-04 | Phase 15 | Complete |
-| SYNC-05 | Phase 15 | Pending |
+| SYNC-05 | Phase 15 | Complete |
 
 **Coverage:**
 - v1.2 requirements: 27 total

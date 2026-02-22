@@ -52,6 +52,10 @@ Recent decisions affecting v1.2:
 - [Phase 14-noun-declension-data]: Pre-existing 356-error AJV baseline confirmed; Phase 14 Plan 01 introduces zero new errors
 - [Phase 14]: Plan NDECL-07 spot-check compared full article+noun strings (den Autos vs die Autos) — always differ by article; corrected to compare noun stems; data was always correct
 - [Phase 14]: Uncountable noun set is 28 (not 22 estimated): months 12 + holidays 4 + musikunterricht/sportunterricht + 6 substance/abstract — matched nounbank null-plural entries
+- [Phase 15-01-validation-baseline]: core-word.schema.json translations minProperties:1 removed — empty stubs {} are valid placeholders for entries without translations yet
+- [Phase 15-01-validation-baseline]: verb.schema.json enum extended with verbphrase — 4 existing verbphrase entries were valid data, schema was missing the type
+- [Phase 15-01-validation-baseline]: validate-nouns/verbs accept NOUN_BANK/VERB_BANK env var — enables dict bank validation without duplicating scripts
+- [Phase 15-01-validation-baseline]: Dict bank _metadata.type field removed — _metadata is metadata not a word entry; type:dictionary was never valid per noun/verb schemas
 - [Phase 15-sync-integration]: koennen_modal does not exist in core verbbank — only moechten_modal exists as modal; spot-check adjusted accordingly, moechten_modal has modal_note and was synced correctly
 - [Phase 15-sync-integration]: Sync scripts (sync-perfektum.js, sync-nouns.js) follow sync-preteritum.js canonical ESM pattern; scripts serve as permanent audit trail for data provenance
 
@@ -67,5 +71,5 @@ Recent decisions affecting v1.2:
 ## Session Continuity
 
 Last session: 2026-02-22
-Stopped at: Phase 15 Plan 02 complete — sync perfektum/noun declension to dict banks and v2 handler update (5 files, 2 task commits)
+Stopped at: Phase 15 Plan 01 complete — AJV zero-error validation baseline for all 4 banks (core+dict nouns+verbs); 547 core errors + dict errors eliminated (11 files, 2 task commits)
 Resume file: N/A — v1.2 milestone COMPLETE; all SYNC requirements fulfilled
