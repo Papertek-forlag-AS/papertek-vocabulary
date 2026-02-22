@@ -8,7 +8,7 @@
   },
   "sein_verb": {
     "word": "sein",
-    "type": "strong",
+    "type": "irregular",
     "conjugations": {
       "presens": {
         "former": {
@@ -61,7 +61,7 @@
   },
   "heissen_verb": {
     "word": "heißen",
-    "type": "weak",
+    "type": "regular",
     "audio": "verb_heissen.mp3",
     "conjugations": {
       "presens": {
@@ -114,7 +114,7 @@
   },
   "kommen_verb": {
     "word": "kommen",
-    "type": "weak",
+    "type": "regular",
     "conjugations": {
       "presens": {
         "former": {
@@ -167,7 +167,7 @@
   },
   "wohnen_verb": {
     "word": "wohnen",
-    "type": "weak",
+    "type": "regular",
     "conjugations": {
       "presens": {
         "former": {
@@ -214,7 +214,7 @@
   },
   "schauen_verb": {
     "word": "schauen",
-    "type": "weak",
+    "type": "regular",
     "conjugations": {
       "presens": {
         "former": {
@@ -303,11 +303,12 @@
     "curriculum": true,
     "cefr": "A1",
     "frequency": 456,
-    "translations": {}
+    "translations": {},
+    "type": "regular"
   },
   "interessieren_verb": {
     "word": "interessieren",
-    "type": "reflexive",
+    "type": "regular",
     "conjugations": {
       "presens": {
         "former": {
@@ -354,7 +355,7 @@
   },
   "shoppen_verb": {
     "word": "shoppen",
-    "type": "weak",
+    "type": "regular",
     "conjugations": {
       "presens": {
         "former": {
@@ -401,7 +402,7 @@
   },
   "entspannen_verb": {
     "word": "entspannen",
-    "type": "reflexive",
+    "type": "regular",
     "conjugations": {
       "presens": {
         "former": {
@@ -449,7 +450,7 @@
   },
   "lernen_verb": {
     "word": "lernen",
-    "type": "weak",
+    "type": "regular",
     "conjugations": {
       "presens": {
         "former": {
@@ -544,7 +545,8 @@
       "preteritum": "strong",
       "perfektum": "strong"
     },
-    "translations": {}
+    "translations": {},
+    "type": "irregular"
   },
   "moegen_verb": {
     "word": "mögen",
@@ -642,7 +644,8 @@
     "curriculum": true,
     "cefr": "A1",
     "frequency": 4772,
-    "translations": {}
+    "translations": {},
+    "type": "regular"
   },
   "beginnen_verb": {
     "word": "beginnen",
@@ -698,7 +701,8 @@
       "perfektum": "strong"
     },
     "inseparable": true,
-    "translations": {}
+    "translations": {},
+    "type": "irregular"
   },
   "koennen_verb": {
     "word": "können",
@@ -754,7 +758,7 @@
   },
   "lesen_verb": {
     "word": "lesen",
-    "type": "strong",
+    "type": "irregular",
     "conjugations": {
       "presens": {
         "former": {
@@ -860,7 +864,8 @@
       "preteritum": "strong",
       "perfektum": "strong"
     },
-    "translations": {}
+    "translations": {},
+    "type": "irregular"
   },
   "singen_verb": {
     "word": "singen",
@@ -912,7 +917,8 @@
       "preteritum": "strong",
       "perfektum": "strong"
     },
-    "translations": {}
+    "translations": {},
+    "type": "irregular"
   },
   "tanzen_verb": {
     "word": "tanzen",
@@ -958,7 +964,8 @@
     "curriculum": true,
     "cefr": "A1",
     "frequency": 1043,
-    "translations": {}
+    "translations": {},
+    "type": "regular"
   },
   "kochen_verb": {
     "word": "kochen",
@@ -1004,7 +1011,8 @@
     "curriculum": true,
     "cefr": "A1",
     "frequency": 2035,
-    "translations": {}
+    "translations": {},
+    "type": "regular"
   },
   "malen_verb": {
     "word": "malen",
@@ -1050,7 +1058,8 @@
     "curriculum": true,
     "cefr": "A1",
     "frequency": 4299,
-    "translations": {}
+    "translations": {},
+    "type": "regular"
   },
   "machen_verb": {
     "word": "machen",
@@ -1096,7 +1105,8 @@
     "curriculum": true,
     "cefr": "A1",
     "frequency": 97,
-    "translations": {}
+    "translations": {},
+    "type": "regular"
   },
   "gehen_verb": {
     "word": "gehen",
@@ -1148,7 +1158,8 @@
       "preteritum": "strong",
       "perfektum": "strong"
     },
-    "translations": {}
+    "translations": {},
+    "type": "irregular"
   },
   "besuchen_verb": {
     "word": "besuchen",
@@ -1195,7 +1206,8 @@
     "cefr": "A1",
     "frequency": 1330,
     "inseparable": true,
-    "translations": {}
+    "translations": {},
+    "type": "regular"
   },
   "kaufen_verb": {
     "word": "kaufen",
@@ -1241,7 +1253,8 @@
     "curriculum": true,
     "cefr": "A1",
     "frequency": 754,
-    "translations": {}
+    "translations": {},
+    "type": "regular"
   },
   "brauchen_verb": {
     "word": "brauchen",
@@ -1287,11 +1300,12 @@
     "curriculum": true,
     "cefr": "A1",
     "frequency": 289,
-    "translations": {}
+    "translations": {},
+    "type": "regular"
   },
   "essen_verb": {
     "word": "essen",
-    "type": "strong",
+    "type": "irregular",
     "conjugations": {
       "presens": {
         "former": {
@@ -1344,7 +1358,7 @@
   },
   "nehmen_verb": {
     "word": "nehmen",
-    "type": "strong",
+    "type": "irregular",
     "conjugations": {
       "presens": {
         "former": {
@@ -1445,7 +1459,8 @@
       "preteritum": "strong",
       "perfektum": "strong"
     },
-    "translations": {}
+    "translations": {},
+    "type": "irregular"
   },
   "hoeren_verb": {
     "word": "hören",
@@ -1491,7 +1506,8 @@
     "curriculum": true,
     "cefr": "A1",
     "frequency": 242,
-    "translations": {}
+    "translations": {},
+    "type": "regular"
   },
   "hoffen_verb": {
     "word": "hoffen",
@@ -1537,11 +1553,12 @@
     "curriculum": true,
     "cefr": "A1",
     "frequency": 1746,
-    "translations": {}
+    "translations": {},
+    "type": "regular"
   },
   "haben_verb": {
     "word": "haben",
-    "type": "strong",
+    "type": "irregular",
     "conjugations": {
       "presens": {
         "former": {
@@ -1636,7 +1653,8 @@
     "curriculum": true,
     "cefr": "A1",
     "frequency": 4876,
-    "translations": {}
+    "translations": {},
+    "type": "regular"
   },
   "streicheln_verb": {
     "word": "streicheln",
@@ -1682,11 +1700,12 @@
     "curriculum": true,
     "cefr": "A1",
     "frequency": 11153,
-    "translations": {}
+    "translations": {},
+    "type": "regular"
   },
   "fressen_verb": {
     "word": "fressen",
-    "type": "strong",
+    "type": "irregular",
     "conjugations": {
       "presens": {
         "former": {
@@ -1781,7 +1800,8 @@
     "curriculum": true,
     "cefr": "A1",
     "frequency": 135,
-    "translations": {}
+    "translations": {},
+    "type": "regular"
   },
   "oeffnen_verb": {
     "word": "öffnen",
@@ -1827,7 +1847,8 @@
     "curriculum": true,
     "cefr": "A1",
     "frequency": 1154,
-    "translations": {}
+    "translations": {},
+    "type": "regular"
   },
   "jagen_verb": {
     "word": "jagen",
@@ -1873,11 +1894,12 @@
     "curriculum": true,
     "cefr": "A1",
     "frequency": 1771,
-    "translations": {}
+    "translations": {},
+    "type": "regular"
   },
   "tragen_verb": {
     "word": "tragen",
-    "type": "strong",
+    "type": "irregular",
     "conjugations": {
       "presens": {
         "former": {
@@ -1930,7 +1952,7 @@
   },
   "sehen_verb": {
     "word": "sehen",
-    "type": "strong",
+    "type": "irregular",
     "conjugations": {
       "presens": {
         "former": {
@@ -1983,7 +2005,7 @@
   },
   "treffen_verb": {
     "word": "treffen",
-    "type": "strong",
+    "type": "irregular",
     "conjugations": {
       "presens": {
         "former": {
@@ -2140,7 +2162,7 @@
   },
   "fahren_verb": {
     "word": "fahren",
-    "type": "strong",
+    "type": "irregular",
     "conjugations": {
       "presens": {
         "former": {
@@ -2240,7 +2262,8 @@
     "curriculum": true,
     "cefr": "A1",
     "frequency": 6215,
-    "translations": {}
+    "translations": {},
+    "type": "regular"
   },
   "traeumen_verb": {
     "word": "träumen",
@@ -2286,7 +2309,8 @@
     "curriculum": true,
     "cefr": "A1",
     "frequency": 2467,
-    "translations": {}
+    "translations": {},
+    "type": "regular"
   },
   "sagen_verb": {
     "word": "sagen",
@@ -2332,11 +2356,12 @@
     "curriculum": true,
     "cefr": "A1",
     "frequency": 96,
-    "translations": {}
+    "translations": {},
+    "type": "regular"
   },
   "schreiben_verb": {
     "word": "schreiben",
-    "type": "strong",
+    "type": "irregular",
     "conjugations": {
       "presens": {
         "former": {
@@ -2442,11 +2467,12 @@
       "preteritum": "strong",
       "perfektum": "strong"
     },
-    "translations": {}
+    "translations": {},
+    "type": "irregular"
   },
   "mitnehmen_verb": {
     "word": "mitnehmen",
-    "type": "strong",
+    "type": "separable",
     "separable": true,
     "conjugations": {
       "presens": {
@@ -2498,7 +2524,10 @@
       "separable": "mit"
     },
     "separablePrefix": "mit",
-    "translations": {}
+    "translations": {},
+    "tags": [
+      "irregular"
+    ]
   },
   "packen_verb": {
     "word": "packen",
@@ -2544,7 +2573,8 @@
     "curriculum": true,
     "cefr": "A1",
     "frequency": 2335,
-    "translations": {}
+    "translations": {},
+    "type": "regular"
   },
   "einpacken_verb": {
     "word": "einpacken",
@@ -2596,7 +2626,8 @@
       "separable": "ein"
     },
     "separablePrefix": "ein",
-    "translations": {}
+    "translations": {},
+    "type": "separable"
   },
   "duerfen_verb": {
     "word": "dürfen",
@@ -2700,7 +2731,8 @@
       "preteritum": "strong",
       "perfektum": "strong"
     },
-    "translations": {}
+    "translations": {},
+    "type": "irregular"
   },
   "lieben_verb": {
     "word": "lieben",
@@ -2746,7 +2778,8 @@
     "curriculum": true,
     "cefr": "A1",
     "frequency": 658,
-    "translations": {}
+    "translations": {},
+    "type": "regular"
   },
   "stimmen_verb": {
     "word": "stimmen",
@@ -2792,7 +2825,8 @@
     "curriculum": true,
     "cefr": "A1",
     "frequency": 1488,
-    "translations": {}
+    "translations": {},
+    "type": "regular"
   },
   "dekorieren_verb": {
     "word": "dekorieren",
@@ -2838,11 +2872,12 @@
     "curriculum": true,
     "cefr": "A1",
     "frequency": 21613,
-    "translations": {}
+    "translations": {},
+    "type": "regular"
   },
   "sprechen_verb": {
     "word": "sprechen",
-    "type": "strong",
+    "type": "irregular",
     "conjugations": {
       "presens": {
         "former": {
@@ -2895,7 +2930,7 @@
   },
   "werden_verb": {
     "word": "werden",
-    "type": "strong",
+    "type": "irregular",
     "conjugations": {
       "presens": {
         "former": {
@@ -2990,7 +3025,8 @@
     "curriculum": true,
     "cefr": "A1",
     "frequency": 1528,
-    "translations": {}
+    "translations": {},
+    "type": "regular"
   },
   "bleiben_verb": {
     "word": "bleiben",
@@ -3042,11 +3078,12 @@
       "preteritum": "strong",
       "perfektum": "strong"
     },
-    "translations": {}
+    "translations": {},
+    "type": "irregular"
   },
   "schlafen_verb": {
     "word": "schlafen",
-    "type": "strong",
+    "type": "irregular",
     "conjugations": {
       "presens": {
         "former": {
@@ -3099,7 +3136,7 @@
   },
   "feiern_verb": {
     "word": "feiern",
-    "type": "weak",
+    "type": "regular",
     "conjugations": {
       "presens": {
         "former": {
@@ -3194,11 +3231,12 @@
       "preteritum": "mixed",
       "perfektum": "mixed"
     },
-    "translations": {}
+    "translations": {},
+    "type": "irregular"
   },
   "sich_treffen_verb": {
     "word": "sich treffen",
-    "type": "strong",
+    "type": "reflexive",
     "conjugations": {
       "presens": {
         "former": {
@@ -3247,7 +3285,10 @@
       "preteritum": "strong",
       "perfektum": "strong"
     },
-    "translations": {}
+    "translations": {},
+    "tags": [
+      "irregular"
+    ]
   },
   "anrufen_verb": {
     "word": "anrufen",
@@ -3302,11 +3343,15 @@
       "separable": "an"
     },
     "separablePrefix": "an",
-    "translations": {}
+    "translations": {},
+    "type": "separable",
+    "tags": [
+      "irregular"
+    ]
   },
   "anfangen_verb": {
     "word": "anfangen",
-    "type": "strong",
+    "type": "separable",
     "separable": true,
     "synonyms": [
       "beginnen_verb"
@@ -3361,11 +3406,14 @@
       "separable": "an"
     },
     "separablePrefix": "an",
-    "translations": {}
+    "translations": {},
+    "tags": [
+      "irregular"
+    ]
   },
   "einladen_verb": {
     "word": "einladen",
-    "type": "weak",
+    "type": "separable",
     "separable": true,
     "conjugations": {
       "presens": {
@@ -3417,11 +3465,14 @@
       "separable": "ein"
     },
     "separablePrefix": "ein",
-    "translations": {}
+    "translations": {},
+    "tags": [
+      "irregular"
+    ]
   },
   "einkaufen_verb": {
     "word": "einkaufen",
-    "type": "weak",
+    "type": "separable",
     "separable": true,
     "conjugations": {
       "presens": {
@@ -3516,11 +3567,12 @@
     "curriculum": true,
     "cefr": "A1",
     "frequency": 1641,
-    "translations": {}
+    "translations": {},
+    "type": "reflexive"
   },
   "sich_waschen_verb": {
     "word": "sich waschen",
-    "type": "strong",
+    "type": "reflexive",
     "conjugations": {
       "presens": {
         "former": {
@@ -3569,7 +3621,10 @@
       "preteritum": "strong",
       "perfektum": "strong"
     },
-    "translations": {}
+    "translations": {},
+    "tags": [
+      "irregular"
+    ]
   },
   "sich_duschen_verb": {
     "word": "sich duschen",
@@ -3615,7 +3670,8 @@
     "curriculum": true,
     "cefr": "A1",
     "frequency": 3902,
-    "translations": {}
+    "translations": {},
+    "type": "reflexive"
   },
   "sich_anziehen_verb": {
     "word": "sich anziehen",
@@ -3670,7 +3726,12 @@
       "separable": "an"
     },
     "separablePrefix": "an",
-    "translations": {}
+    "translations": {},
+    "type": "reflexive",
+    "tags": [
+      "separable",
+      "irregular"
+    ]
   },
   "sich_kaemmen_verb": {
     "word": "sich kämmen",
@@ -3716,7 +3777,8 @@
     "curriculum": true,
     "cefr": "A1",
     "frequency": 24059,
-    "translations": {}
+    "translations": {},
+    "type": "reflexive"
   },
   "sich_schminken_verb": {
     "word": "sich schminken",
@@ -3762,7 +3824,8 @@
     "curriculum": true,
     "cefr": "A1",
     "frequency": 19779,
-    "translations": {}
+    "translations": {},
+    "type": "reflexive"
   },
   "sich_rasieren_verb": {
     "word": "sich rasieren",
@@ -3808,7 +3871,8 @@
     "curriculum": true,
     "cefr": "A1",
     "frequency": 7416,
-    "translations": {}
+    "translations": {},
+    "type": "reflexive"
   },
   "sich_freuen_verb": {
     "word": "sich freuen",
@@ -3854,7 +3918,8 @@
     "curriculum": true,
     "cefr": "A1",
     "frequency": 1641,
-    "translations": {}
+    "translations": {},
+    "type": "reflexive"
   },
   "aufwachen_verb": {
     "word": "aufwachen",
@@ -3906,7 +3971,8 @@
       "separable": "auf"
     },
     "separablePrefix": "auf",
-    "translations": {}
+    "translations": {},
+    "type": "separable"
   },
   "aufstehen_verb": {
     "word": "aufstehen",
@@ -3961,7 +4027,11 @@
       "separable": "auf"
     },
     "separablePrefix": "auf",
-    "translations": {}
+    "translations": {},
+    "type": "separable",
+    "tags": [
+      "irregular"
+    ]
   },
   "fruehstuecken_verb": {
     "word": "frühstücken",
@@ -4007,7 +4077,8 @@
     "curriculum": true,
     "cefr": "A1",
     "frequency": 6411,
-    "translations": {}
+    "translations": {},
+    "type": "regular"
   },
   "sich_fuehlen_verb": {
     "word": "sich fühlen",
@@ -4053,7 +4124,8 @@
     "curriculum": true,
     "cefr": "A1",
     "frequency": 844,
-    "translations": {}
+    "translations": {},
+    "type": "reflexive"
   },
   "sich_freuen_ueber_verb": {
     "word": "sich freuen über",
@@ -4099,7 +4171,8 @@
     "curriculum": true,
     "cefr": "A1",
     "frequency": 1641,
-    "translations": {}
+    "translations": {},
+    "type": "reflexive"
   },
   "sich_aergern_verb": {
     "word": "sich ärgern",
@@ -4145,7 +4218,8 @@
     "curriculum": true,
     "cefr": "A1",
     "frequency": 5528,
-    "translations": {}
+    "translations": {},
+    "type": "reflexive"
   },
   "sich_interessieren_verb": {
     "word": "sich interessieren",
@@ -4191,7 +4265,8 @@
     "curriculum": true,
     "cefr": "A1",
     "frequency": 2422,
-    "translations": {}
+    "translations": {},
+    "type": "reflexive"
   },
   "sich_langweilen_verb": {
     "word": "sich langweilen",
@@ -4237,7 +4312,8 @@
     "curriculum": true,
     "cefr": "A1",
     "frequency": 7540,
-    "translations": {}
+    "translations": {},
+    "type": "reflexive"
   },
   "sich_konzentrieren_verb": {
     "word": "sich konzentrieren",
@@ -4283,7 +4359,8 @@
     "curriculum": true,
     "cefr": "A1",
     "frequency": 2184,
-    "translations": {}
+    "translations": {},
+    "type": "reflexive"
   },
   "sich_entschuldigen_verb": {
     "word": "sich entschuldigen",
@@ -4330,7 +4407,8 @@
     "cefr": "A1",
     "frequency": 550,
     "inseparable": true,
-    "translations": {}
+    "translations": {},
+    "type": "reflexive"
   },
   "sich_verspaeten_verb": {
     "word": "sich verspäten",
@@ -4377,7 +4455,8 @@
     "cefr": "A1",
     "frequency": 15991,
     "inseparable": true,
-    "translations": {}
+    "translations": {},
+    "type": "reflexive"
   },
   "sich_entspannen_verb": {
     "word": "sich entspannen",
@@ -4424,7 +4503,8 @@
     "cefr": "A1",
     "frequency": 2751,
     "inseparable": true,
-    "translations": {}
+    "translations": {},
+    "type": "reflexive"
   },
   "sich_aufregen_verb": {
     "word": "sich aufregen",
@@ -4476,7 +4556,11 @@
       "separable": "auf"
     },
     "separablePrefix": "auf",
-    "translations": {}
+    "translations": {},
+    "type": "reflexive",
+    "tags": [
+      "separable"
+    ]
   },
   "sich_ausruhen_verb": {
     "word": "sich ausruhen",
@@ -4528,7 +4612,11 @@
       "separable": "aus"
     },
     "separablePrefix": "aus",
-    "translations": {}
+    "translations": {},
+    "type": "reflexive",
+    "tags": [
+      "separable"
+    ]
   },
   "sich_erholen_verb": {
     "word": "sich erholen",
@@ -4575,7 +4663,8 @@
     "cefr": "A1",
     "frequency": 5998,
     "inseparable": true,
-    "translations": {}
+    "translations": {},
+    "type": "reflexive"
   },
   "sich_vorbereiten_verb": {
     "word": "sich vorbereiten",
@@ -4627,7 +4716,11 @@
       "separable": "vor"
     },
     "separablePrefix": "vor",
-    "translations": {}
+    "translations": {},
+    "type": "reflexive",
+    "tags": [
+      "separable"
+    ]
   },
   "sich_setzen_verb": {
     "word": "sich setzen",
@@ -4673,7 +4766,8 @@
     "curriculum": true,
     "cefr": "A1",
     "frequency": 627,
-    "translations": {}
+    "translations": {},
+    "type": "reflexive"
   },
   "sich_unterhalten_verb": {
     "word": "sich unterhalten",
@@ -4726,7 +4820,11 @@
       "perfektum": "strong"
     },
     "inseparable": true,
-    "translations": {}
+    "translations": {},
+    "type": "reflexive",
+    "tags": [
+      "irregular"
+    ]
   },
   "sich_bewegen_verb": {
     "word": "sich bewegen",
@@ -4773,7 +4871,8 @@
     "cefr": "A1",
     "frequency": 1278,
     "inseparable": true,
-    "translations": {}
+    "translations": {},
+    "type": "reflexive"
   },
   "sollen_verb": {
     "word": "sollen",
@@ -4829,7 +4928,7 @@
   },
   "mitbringen_verb": {
     "word": "mitbringen",
-    "type": "weak",
+    "type": "separable",
     "separable": true,
     "conjugations": {
       "presens": {
@@ -4881,11 +4980,14 @@
       "separable": "mit"
     },
     "separablePrefix": "mit",
-    "translations": {}
+    "translations": {},
+    "tags": [
+      "irregular"
+    ]
   },
   "grillen_verb": {
     "word": "grillen",
-    "type": "weak",
+    "type": "regular",
     "conjugations": {
       "presens": {
         "former": {
@@ -4932,7 +5034,7 @@
   },
   "planen_verb": {
     "word": "planen",
-    "type": "weak",
+    "type": "regular",
     "conjugations": {
       "presens": {
         "former": {
@@ -4979,7 +5081,7 @@
   },
   "sitzen_verb": {
     "word": "sitzen",
-    "type": "strong",
+    "type": "irregular",
     "conjugations": {
       "presens": {
         "former": {
@@ -5032,7 +5134,7 @@
   },
   "lachen_verb": {
     "word": "lachen",
-    "type": "weak",
+    "type": "regular",
     "conjugations": {
       "presens": {
         "former": {
@@ -5079,7 +5181,7 @@
   },
   "fragen_verb": {
     "word": "fragen",
-    "type": "weak",
+    "type": "regular",
     "conjugations": {
       "presens": {
         "former": {
@@ -5126,7 +5228,7 @@
   },
   "verstehen_verb": {
     "word": "verstehen",
-    "type": "strong",
+    "type": "irregular",
     "conjugations": {
       "presens": {
         "former": {
@@ -5180,7 +5282,7 @@
   },
   "helfen_verb": {
     "word": "helfen",
-    "type": "strong",
+    "type": "irregular",
     "conjugations": {
       "presens": {
         "former": {
@@ -5233,7 +5335,7 @@
   },
   "laecheln_verb": {
     "word": "lächeln",
-    "type": "weak",
+    "type": "regular",
     "conjugations": {
       "presens": {
         "former": {
@@ -5280,7 +5382,7 @@
   },
   "wecken_verb": {
     "word": "wecken",
-    "type": "weak",
+    "type": "regular",
     "conjugations": {
       "presens": {
         "former": {
@@ -5327,7 +5429,7 @@
   },
   "liegen_verb": {
     "word": "liegen",
-    "type": "strong",
+    "type": "irregular",
     "conjugations": {
       "presens": {
         "former": {
@@ -5380,7 +5482,7 @@
   },
   "putzen_verb": {
     "word": "putzen",
-    "type": "weak",
+    "type": "regular",
     "conjugations": {
       "presens": {
         "former": {
@@ -5427,7 +5529,7 @@
   },
   "arbeiten_verb": {
     "word": "arbeiten",
-    "type": "weak",
+    "type": "regular",
     "conjugations": {
       "presens": {
         "former": {
@@ -5474,7 +5576,7 @@
   },
   "wissen_verb": {
     "word": "wissen",
-    "type": "strong",
+    "type": "irregular",
     "conjugations": {
       "presens": {
         "former": {
@@ -5527,7 +5629,7 @@
   },
   "geben_verb": {
     "word": "geben",
-    "type": "strong",
+    "type": "irregular",
     "conjugations": {
       "presens": {
         "former": {
@@ -5580,7 +5682,7 @@
   },
   "vergessen_verb": {
     "word": "vergessen",
-    "type": "strong",
+    "type": "irregular",
     "conjugations": {
       "presens": {
         "former": {
@@ -5634,7 +5736,7 @@
   },
   "klingen_verb": {
     "word": "klingen",
-    "type": "strong",
+    "type": "irregular",
     "conjugations": {
       "presens": {
         "former": {
@@ -5687,7 +5789,7 @@
   },
   "haengen_verb": {
     "word": "hängen",
-    "type": "weak",
+    "type": "regular",
     "conjugations": {
       "presens": {
         "former": {
@@ -5734,7 +5836,7 @@
   },
   "stehen_verb": {
     "word": "stehen",
-    "type": "strong",
+    "type": "irregular",
     "conjugations": {
       "presens": {
         "former": {
@@ -5787,7 +5889,7 @@
   },
   "warten_verb": {
     "word": "warten",
-    "type": "weak",
+    "type": "regular",
     "conjugations": {
       "presens": {
         "former": {
@@ -5834,7 +5936,7 @@
   },
   "laufen_verb": {
     "word": "laufen",
-    "type": "strong",
+    "type": "irregular",
     "conjugations": {
       "presens": {
         "former": {
@@ -5891,7 +5993,7 @@
   },
   "springen_verb": {
     "word": "springen",
-    "type": "strong",
+    "type": "irregular",
     "conjugations": {
       "presens": {
         "former": {
@@ -5943,7 +6045,7 @@
   },
   "glauben_verb": {
     "word": "glauben",
-    "type": "weak",
+    "type": "regular",
     "conjugations": {
       "presens": {
         "former": {
@@ -5989,7 +6091,7 @@
   },
   "gewinnen_verb": {
     "word": "gewinnen",
-    "type": "strong",
+    "type": "irregular",
     "conjugations": {
       "presens": {
         "former": {
@@ -6041,7 +6143,7 @@
   },
   "verlieren_verb": {
     "word": "verlieren",
-    "type": "strong",
+    "type": "irregular",
     "conjugations": {
       "presens": {
         "former": {
@@ -6136,7 +6238,8 @@
     "curriculum": true,
     "cefr": "A1",
     "frequency": 1481,
-    "translations": {}
+    "translations": {},
+    "type": "regular"
   },
   "antworten_verb": {
     "word": "antworten",
@@ -6182,7 +6285,8 @@
     "curriculum": true,
     "cefr": "A1",
     "frequency": 1280,
-    "translations": {}
+    "translations": {},
+    "type": "regular"
   },
   "vertrauen_verb": {
     "word": "vertrauen",
@@ -6229,11 +6333,12 @@
     "cefr": "A1",
     "frequency": 747,
     "inseparable": true,
-    "translations": {}
+    "translations": {},
+    "type": "regular"
   },
   "versprechen_verb": {
     "word": "versprechen",
-    "type": "strong",
+    "type": "irregular",
     "conjugations": {
       "presens": {
         "former": {
@@ -6330,7 +6435,8 @@
     "cefr": "A1",
     "frequency": 744,
     "inseparable": true,
-    "translations": {}
+    "translations": {},
+    "type": "regular"
   },
   "zeigen_verb": {
     "word": "zeigen",
@@ -6376,7 +6482,8 @@
     "curriculum": true,
     "cefr": "A1",
     "frequency": 523,
-    "translations": {}
+    "translations": {},
+    "type": "regular"
   },
   "bringen_verb": {
     "word": "bringen",
@@ -6428,7 +6535,8 @@
       "preteritum": "mixed",
       "perfektum": "mixed"
     },
-    "translations": {}
+    "translations": {},
+    "type": "irregular"
   },
   "erzaehlen_verb": {
     "word": "erzählen",
@@ -6475,7 +6583,8 @@
     "cefr": "A1",
     "frequency": 547,
     "inseparable": true,
-    "translations": {}
+    "translations": {},
+    "type": "regular"
   },
   "aufraeumen_verb": {
     "word": "aufräumen",
@@ -6527,7 +6636,8 @@
       "separable": "auf"
     },
     "separablePrefix": "auf",
-    "translations": {}
+    "translations": {},
+    "type": "separable"
   },
   "reisen_verb": {
     "word": "reisen",
@@ -6537,6 +6647,17 @@
     "cefr": "A1",
     "frequency": 1934,
     "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "reise",
+          "du": "reist",
+          "er/sie/es": "reist",
+          "wir": "reisen",
+          "ihr": "reist",
+          "sie/Sie": "reisen"
+        },
+        "feature": "grammar_presens"
+      },
       "preteritum": {
         "former": {
           "ich": "reiste",
@@ -6562,7 +6683,8 @@
         "feature": "grammar_perfektum"
       }
     },
-    "translations": {}
+    "translations": {},
+    "type": "regular"
   },
   "fernsehen_verb": {
     "word": "fernsehen",
@@ -6581,6 +6703,17 @@
     },
     "separablePrefix": "fern",
     "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "sehe fern",
+          "du": "siehst fern",
+          "er/sie/es": "sieht fern",
+          "wir": "sehen fern",
+          "ihr": "seht fern",
+          "sie/Sie": "sehen fern"
+        },
+        "feature": "grammar_presens"
+      },
       "preteritum": {
         "former": {
           "ich": "sah fern",
@@ -6606,7 +6739,11 @@
         "feature": "grammar_perfektum"
       }
     },
-    "translations": {}
+    "translations": {},
+    "type": "separable",
+    "tags": [
+      "irregular"
+    ]
   },
   "rad_fahren_verbphrase": {
     "word": "Rad fahren",
@@ -6708,13 +6845,24 @@
   },
   "bekommen_verb": {
     "word": "bekommen",
-    "type": "weak",
+    "type": "irregular",
     "audio": "ord_bekommen.mp3",
     "_id": "bekommen_verb",
     "curriculum": true,
     "cefr": "A1",
     "frequency": 374,
     "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "bekomme",
+          "du": "bekommst",
+          "er/sie/es": "bekommt",
+          "wir": "bekommen",
+          "ihr": "bekommt",
+          "sie/Sie": "bekommen"
+        },
+        "feature": "grammar_presens"
+      },
       "preteritum": {
         "former": {
           "ich": "bekam",
@@ -6768,13 +6916,24 @@
   },
   "klettern_verb": {
     "word": "klettern",
-    "type": "weak",
+    "type": "regular",
     "audio": "ord_klettern.mp3",
     "_id": "klettern_verb",
     "curriculum": true,
     "cefr": "A1",
     "frequency": 6387,
     "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "klettere",
+          "du": "kletterst",
+          "er/sie/es": "klettert",
+          "wir": "klettern",
+          "ihr": "klettert",
+          "sie/Sie": "klettern"
+        },
+        "feature": "grammar_presens"
+      },
       "preteritum": {
         "former": {
           "ich": "kletterte",
@@ -6804,7 +6963,7 @@
   },
   "wegfahren_verb": {
     "word": "wegfahren",
-    "type": "weak",
+    "type": "separable",
     "separable": true,
     "audio": "ord_wegfahren.mp3",
     "_id": "wegfahren_verb",
@@ -6820,6 +6979,17 @@
     },
     "separablePrefix": "weg",
     "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "fahre weg",
+          "du": "fährst weg",
+          "er/sie/es": "fährt weg",
+          "wir": "fahren weg",
+          "ihr": "fahrt weg",
+          "sie/Sie": "fahren weg"
+        },
+        "feature": "grammar_presens"
+      },
       "preteritum": {
         "former": {
           "ich": "fuhr weg",
@@ -6850,17 +7020,31 @@
         "feature": "grammar_perfektum"
       }
     },
-    "translations": {}
+    "translations": {},
+    "tags": [
+      "irregular"
+    ]
   },
   "liegen_bleiben_verb": {
     "word": "liegen bleiben",
-    "type": "weak",
+    "type": "separable",
     "audio": "ord_liegen_bleiben.mp3",
     "_id": "liegen_bleiben_verb",
     "curriculum": true,
     "cefr": "A1",
     "frequency": 930,
     "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "bleibe liegen",
+          "du": "bleibst liegen",
+          "er/sie/es": "bleibt liegen",
+          "wir": "bleiben liegen",
+          "ihr": "bleibt liegen",
+          "sie/Sie": "bleiben liegen"
+        },
+        "feature": "grammar_presens"
+      },
       "preteritum": {
         "former": {
           "ich": "blieb liegen",
@@ -6886,17 +7070,31 @@
         "feature": "grammar_perfektum"
       }
     },
-    "translations": {}
+    "translations": {},
+    "tags": [
+      "irregular"
+    ]
   },
   "sich_aergern_ueber_verb": {
     "word": "sich ärgern über",
-    "type": "weak",
+    "type": "reflexive",
     "audio": "ord_sich_aergern_ueber.mp3",
     "_id": "sich_aergern_ueber_verb",
     "curriculum": true,
     "cefr": "A1",
     "frequency": 5528,
     "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "ärgere mich über",
+          "du": "ärgerst dich über",
+          "er/sie/es": "ärgert sich über",
+          "wir": "ärgern uns über",
+          "ihr": "ärgert euch über",
+          "sie/Sie": "ärgern sich über"
+        },
+        "feature": "grammar_presens"
+      },
       "preteritum": {
         "former": {
           "ich": "ärgerte mich über",
@@ -6926,7 +7124,7 @@
   },
   "mitkommen_verb": {
     "word": "mitkommen",
-    "type": "weak",
+    "type": "separable",
     "separable": true,
     "audio": "ord_mitkommen.mp3",
     "_id": "mitkommen_verb",
@@ -6942,6 +7140,17 @@
     },
     "separablePrefix": "mit",
     "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "komme mit",
+          "du": "kommst mit",
+          "er/sie/es": "kommt mit",
+          "wir": "kommen mit",
+          "ihr": "kommt mit",
+          "sie/Sie": "kommen mit"
+        },
+        "feature": "grammar_presens"
+      },
       "preteritum": {
         "former": {
           "ich": "kam mit",
@@ -6967,17 +7176,31 @@
         "feature": "grammar_perfektum"
       }
     },
-    "translations": {}
+    "translations": {},
+    "tags": [
+      "irregular"
+    ]
   },
   "spazieren_gehen_verb": {
     "word": "spazieren gehen",
-    "type": "weak",
+    "type": "separable",
     "audio": "ord_spazieren_gehen.mp3",
     "_id": "spazieren_gehen_verb",
     "curriculum": true,
     "cefr": "A1",
     "frequency": 2702,
     "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "gehe spazieren",
+          "du": "gehst spazieren",
+          "er/sie/es": "geht spazieren",
+          "wir": "gehen spazieren",
+          "ihr": "geht spazieren",
+          "sie/Sie": "gehen spazieren"
+        },
+        "feature": "grammar_presens"
+      },
       "preteritum": {
         "former": {
           "ich": "ging spazieren",
@@ -7003,7 +7226,10 @@
         "feature": "grammar_perfektum"
       }
     },
-    "translations": {}
+    "translations": {},
+    "tags": [
+      "irregular"
+    ]
   },
   "fertig_werden_verbphrase": {
     "word": "fertig werden",
@@ -7030,13 +7256,24 @@
   },
   "zaehneputzen_verb": {
     "word": "Zähne putzen",
-    "type": "weak",
+    "type": "separable",
     "_id": "zaehneputzen_verb",
     "audio": "verb_zaehne_putzen.mp3",
     "curriculum": true,
     "cefr": "A1",
     "frequency": 2156,
     "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "putze Zähne",
+          "du": "putzt Zähne",
+          "er/sie/es": "putzt Zähne",
+          "wir": "putzen Zähne",
+          "ihr": "putzt Zähne",
+          "sie/Sie": "putzen Zähne"
+        },
+        "feature": "grammar_presens"
+      },
       "preteritum": {
         "former": {
           "ich": "putzte Zähne",
@@ -7066,7 +7303,7 @@
   },
   "ausziehen_verb": {
     "word": "ausziehen",
-    "type": "weak",
+    "type": "separable",
     "separable": true,
     "_id": "ausziehen_verb",
     "audio": "verb_ausziehen.mp3",
@@ -7082,6 +7319,17 @@
     },
     "separablePrefix": "aus",
     "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "ziehe aus",
+          "du": "ziehst aus",
+          "er/sie/es": "zieht aus",
+          "wir": "ziehen aus",
+          "ihr": "zieht aus",
+          "sie/Sie": "ziehen aus"
+        },
+        "feature": "grammar_presens"
+      },
       "preteritum": {
         "former": {
           "ich": "zog aus",
@@ -7112,11 +7360,14 @@
         "feature": "grammar_perfektum"
       }
     },
-    "translations": {}
+    "translations": {},
+    "tags": [
+      "irregular"
+    ]
   },
   "einschlafen_verb": {
     "word": "einschlafen",
-    "type": "weak",
+    "type": "separable",
     "separable": true,
     "_id": "einschlafen_verb",
     "audio": "verb_einschlafen.mp3",
@@ -7132,6 +7383,17 @@
     },
     "separablePrefix": "ein",
     "conjugations": {
+      "presens": {
+        "former": {
+          "ich": "schlafe ein",
+          "du": "schläfst ein",
+          "er/sie/es": "schläft ein",
+          "wir": "schlafen ein",
+          "ihr": "schlaft ein",
+          "sie/Sie": "schlafen ein"
+        },
+        "feature": "grammar_presens"
+      },
       "preteritum": {
         "former": {
           "ich": "schlief ein",
@@ -7157,7 +7419,10 @@
         "feature": "grammar_perfektum"
       }
     },
-    "translations": {}
+    "translations": {},
+    "tags": [
+      "irregular"
+    ]
   },
   "abfahren_verb": {
     "word": "abfahren",
