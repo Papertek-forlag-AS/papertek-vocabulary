@@ -56,7 +56,9 @@
   3. `noun.schema.json` accepts `singular`/`plural` sub-objects on caseEntry alongside existing flat `bestemt`/`ubestemt` (additive, no migration)
   4. `noun.schema.json` accepts entry-level `weak_masculine: true` without breaking existing entries
   5. `grammar-features.json` contains `grammar_noun_declension` and `grammar_genitiv` feature entries
-**Plans**: TBD
+**Plans:** 1 plan
+Plans:
+- [ ] 11-01-PLAN.md — Extend verb/noun schemas and register grammar features
 
 ### Phase 12: Pre-Entry Audit
 **Goal**: All 20 inseparable prefix verbs and 11 n-Deklination nouns are flagged; preteritum dictionary bank debt is resolved
@@ -118,7 +120,7 @@
 | 8. Declension Tables | v1.1 | 1/1 | Complete | 2026-02-21 |
 | 9. Translations | v1.1 | 1/1 | Complete | 2026-02-21 |
 | 10. Integration | v1.1 | 1/1 | Complete | 2026-02-21 |
-| 11. Schema Extensions | v1.2 | 0/? | Not started | - |
+| 11. Schema Extensions | v1.2 | 0/1 | Planned | - |
 | 12. Pre-Entry Audit | v1.2 | 0/? | Not started | - |
 | 13. Perfektum Data | v1.2 | 0/? | Not started | - |
 | 14. Noun Declension Data | v1.2 | 0/? | Not started | - |
