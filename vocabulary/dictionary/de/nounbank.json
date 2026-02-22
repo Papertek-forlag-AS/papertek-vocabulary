@@ -155,6 +155,7 @@
       }
     },
     "genus": "f",
+    "plural": "Zusammenfassungen",
     "_id": "zusammenfassung_noun",
     "audio": "substantiv_zusammenfassung.mp3",
     "curriculum": true,
@@ -236,6 +237,7 @@
       }
     },
     "genus": "f",
+    "plural": "Hilfen",
     "_id": "hilfe_noun",
     "audio": "substantiv_hilfe.mp3",
     "curriculum": true,
@@ -17894,6 +17896,7 @@
   },
   "leute_noun": {
     "word": "Leute",
+    "genus": "pl",
     "type": "noun",
     "audio": "ord_leute.mp3",
     "_id": "leute_noun",
@@ -18620,6 +18623,7 @@
   },
   "morgenmensch_noun": {
     "word": "Morgenmensch",
+    "genus": "m",
     "type": "noun",
     "audio": "ord_morgenmensch.mp3",
     "_id": "morgenmensch_noun",
