@@ -10,9 +10,9 @@ See: .planning/PROJECT.md (updated 2026-02-22)
 ## Current Position
 
 Phase: 16 — Data Fixes
-Plan: 01 of TBD complete
+Plan: 02 of 3 complete
 Status: In progress
-Last activity: 2026-02-22 — Phase 16 Plan 01 complete (noun field fixes)
+Last activity: 2026-02-22 — Phase 16 Plan 02 complete (verb type classification + presens + dict sync)
 
 Progress: [░░░░░░░░░░░░░░░░░░░░] 0/3 phases complete
 
@@ -36,6 +36,9 @@ Decisions logged in PROJECT.md Key Decisions table (15 decisions, all ✓ Good o
 **Phase 16 decisions:**
 - Use `genus:"pl"` for leute_noun (plural-only noun) — schema enum only allows string values; "pl" matches eltern_noun/ferien_noun convention and passes AJV validation
 - Plural fields store bare noun without article (e.g. "Zusammenfassungen" not "die Zusammenfassungen") — matches existing nounbank convention
+- Verb type priority order: reflexive > separable > modal > irregular > regular
+- Tags array only for secondary traits — never empty arrays on single-trait verbs
+- strong → irregular, weak → regular throughout verbbank (enum preserves old values for backward compat)
 
 ### Blockers/Concerns
 
@@ -48,5 +51,5 @@ Decisions logged in PROJECT.md Key Decisions table (15 decisions, all ✓ Good o
 ## Session Continuity
 
 Last session: 2026-02-22
-Stopped at: Completed 16-01-PLAN.md (noun field fixes — DATA-01, DATA-05, DATA-06)
+Stopped at: Completed 16-02-PLAN.md (verb type classification + presens + dict sync — DATA-02, DATA-03)
 Resume with: Next plan in Phase 16
