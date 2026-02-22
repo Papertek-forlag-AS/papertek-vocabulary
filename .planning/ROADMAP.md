@@ -80,7 +80,9 @@ Plans:
   1. A v2 API response for a verb entry uses the ID `grammar_presens` (not `grammar_present`) in its feature flags
   2. A v2 API response for an adjective entry emits the `grammar_adjective_genitive` feature flag when Genitiv data is present
   3. A v2 API response for `teuer_adj` includes the `declension_alternatives` field
-**Plans**: TBD
+**Plans**: 1 plan
+Plans:
+- [ ] 17-01-PLAN.md — Fix grammar presens ID, add adjective genitive flag, surface declension_alternatives
 
 ### Phase 18: Tooling Fixes
 **Goal**: All project scripts are discoverable and runnable via npm, and a single `validate:all` command covers the full validation suite
@@ -111,5 +113,5 @@ Plans:
 | 14. Noun Declension Data | v1.2 | 2/2 | Complete | 2026-02-22 |
 | 15. Sync & Integration | v1.2 | 3/3 | Complete | 2026-02-22 |
 | 16. Data Fixes | 3/3 | Complete    | 2026-02-22 | - |
-| 17. API Fixes | v1.3 | 0/TBD | Not started | - |
+| 17. API Fixes | v1.3 | 0/1 | Not started | - |
 | 18. Tooling Fixes | v1.3 | 0/TBD | Not started | - |
