@@ -23,6 +23,14 @@
           "description": "Verb classification",
           "enum": ["strong", "weak", "modal", "reflexive", "separable", "auxiliary", "regular", "irregular", "verbphrase"]
         },
+        "tags": {
+          "type": "array",
+          "description": "Secondary verb traits not captured by primary type (e.g., type: separable, tags: [irregular])",
+          "items": {
+            "type": "string",
+            "enum": ["regular", "irregular", "modal", "separable", "reflexive", "inseparable"]
+          }
+        },
         "intro": {
           "type": "string",
           "pattern": "^[0-9]+\\.[0-9]+$"
