@@ -39,7 +39,7 @@
 **Milestone Goal:** Add Perfektum conjugations for all 148 German verbs and full 4-case declension for all 331 German nouns, both schema-validated and indexed for inflection search.
 
 - [x] **Phase 11: Schema Extensions** — Extend verb and noun schemas; register grammar features (completed 2026-02-22)
-- [ ] **Phase 12: Pre-Entry Audit** — Flag inseparable verbs, n-Deklination nouns; backfill preteritum to dictionary bank
+- [x] **Phase 12: Pre-Entry Audit** — Flag inseparable verbs, n-Deklination nouns; backfill preteritum to dictionary bank (completed 2026-02-22)
 - [ ] **Phase 13: Perfektum Data** — Add Perfektum conjugations for all 148 verbs in the core verbbank
 - [ ] **Phase 14: Noun Declension Data** — Add 4-case declension for all 331 nouns in the core nounbank
 - [ ] **Phase 15: Sync & Integration** — Mirror to dictionary banks, rebuild search index, update v2 handler, validate all
@@ -68,7 +68,7 @@ Plans:
   1. All 20 inseparable prefix verbs (be-, ver-, er-, ent-, ge- prefixed) have `inseparable: true` in the core verbbank and pass schema validation
   2. All 11 n-Deklination nouns have `weak_masculine: true` in the core nounbank and pass schema validation
   3. Preteritum conjugations are present for all 148 verbs in `vocabulary/dictionary/de/verbbank.json` (pre-existing sync gap resolved)
-**Plans:** 1 plan
+**Plans:** 1/1 plans complete
 Plans:
 - [ ] 12-01-PLAN.md — Flag inseparable verbs, n-Deklination nouns, and sync preteritum to dictionary bank
 
@@ -123,7 +123,7 @@ Plans:
 | 9. Translations | v1.1 | 1/1 | Complete | 2026-02-21 |
 | 10. Integration | v1.1 | 1/1 | Complete | 2026-02-21 |
 | 11. Schema Extensions | 1/1 | Complete    | 2026-02-22 | - |
-| 12. Pre-Entry Audit | v1.2 | 0/1 | Planned | - |
+| 12. Pre-Entry Audit | 1/1 | Complete   | 2026-02-22 | - |
 | 13. Perfektum Data | v1.2 | 0/? | Not started | - |
 | 14. Noun Declension Data | v1.2 | 0/? | Not started | - |
 | 15. Sync & Integration | v1.2 | 0/? | Not started | - |

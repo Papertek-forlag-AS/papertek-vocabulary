@@ -5,16 +5,16 @@
 See: .planning/PROJECT.md (updated 2026-02-22)
 
 **Core value:** Complete, correct vocabulary data so Leksihjelp's inflection search can find any German word form and return the base entry.
-**Current focus:** Phase 11 — Schema Extensions (v1.2 starts here)
+**Current focus:** Phase 12 — Pre-Entry Audit (inseparable verb flags, n-Deklination noun flags, preteritum sync)
 
 ## Current Position
 
-Phase: 11 of 15 in v1.2 (Schema Extensions)
+Phase: 12 of 15 in v1.2 (Pre-Entry Audit)
 Plan: 1 of 1 complete
-Status: Phase 11 complete — ready for Phase 12 (Audit Flags)
-Last activity: 2026-02-22 — Phase 11 Plan 01 executed (schema extensions)
+Status: Phase 12 complete — ready for Phase 13 (Perfektum)
+Last activity: 2026-02-22 — Phase 12 Plan 01 executed (audit flags + preteritum sync)
 
-Progress: [██░░░░░░░░] 20% (v1.2)
+Progress: [████░░░░░░] 40% (v1.2)
 
 ## Performance Metrics
 
@@ -38,6 +38,10 @@ Recent decisions affecting v1.2:
 - Explicit storage for all participles and noun case forms — no rule engines (mirrors adjective declension precedent)
 - Phase 11 (2026-02-22): All schema extensions additive-only; pre-existing AJV errors (356 noun, ~130 verb) are data quality debt not introduced by schema changes
 - Phase 11 (2026-02-22): grammar_noun_declension positioned as parent before grammar_genitiv, mirroring grammar_adjective_declension/grammar_adjective_genitive pattern
+- Phase 12 (2026-02-22): 17 confirmed inseparable prefix verbs (not 20 as estimated in roadmap); geben/gehen/gewinnen excluded — ge- is part of the stem, not a prefix
+- Phase 12 (2026-02-22): sync-preteritum.js uses ESM import/export (project convention from package.json type:module); plan mentioned CommonJS but ESM is correct
+- Phase 12 (2026-02-22): inseparable flag synced to dict verbbank in AUDIT-03 same pass as preteritum — efficient housekeeping aligned with dual-bank sync principle
+- Phase 12 (2026-02-22): weak_masculine NOT synced to dict nounbank in phase 12; deferred to Phase 15 (Sync & Integration) as scoped
 
 ### Blockers/Concerns
 
@@ -51,5 +55,5 @@ Recent decisions affecting v1.2:
 ## Session Continuity
 
 Last session: 2026-02-22
-Stopped at: Phase 11 Plan 01 complete — schema extensions executed (3 files, 3 commits)
-Resume file: N/A — start with `/gsd:plan-phase 12` for Audit Flags phase
+Stopped at: Phase 12 Plan 01 complete — audit flags and preteritum sync executed (4 files, 2 commits)
+Resume file: N/A — start with `/gsd:plan-phase 13` for Perfektum phase

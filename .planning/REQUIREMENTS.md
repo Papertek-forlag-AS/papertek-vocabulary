@@ -17,9 +17,9 @@ Requirements for milestone v1.2 — German Perfektum & Noun Declension. Each map
 
 ### Audit
 
-- [ ] **AUDIT-01**: All 20 inseparable prefix verbs flagged with `inseparable: true`
-- [ ] **AUDIT-02**: All 11 n-Deklination nouns flagged with `weak_masculine: true`
-- [ ] **AUDIT-03**: Preteritum data backfilled to dictionary verbbank for all 148 verbs
+- [x] **AUDIT-01**: All 20 inseparable prefix verbs flagged with `inseparable: true`
+- [x] **AUDIT-02**: All 11 n-Deklination nouns flagged with `weak_masculine: true`
+- [x] **AUDIT-03**: Preteritum data backfilled to dictionary verbbank for all 148 verbs
 
 ### Perfektum
 
@@ -82,9 +82,9 @@ Which phases cover which requirements. Updated during roadmap creation.
 | SCHEMA-03 | Phase 11 | Complete |
 | SCHEMA-04 | Phase 11 | Complete |
 | SCHEMA-05 | Phase 11 | Complete |
-| AUDIT-01 | Phase 12 | Pending |
-| AUDIT-02 | Phase 12 | Pending |
-| AUDIT-03 | Phase 12 | Pending |
+| AUDIT-01 | Phase 12 | Complete |
+| AUDIT-02 | Phase 12 | Complete |
+| AUDIT-03 | Phase 12 | Complete |
 | PERF-01 | Phase 13 | Pending |
 | PERF-02 | Phase 13 | Pending |
 | PERF-03 | Phase 13 | Pending |
