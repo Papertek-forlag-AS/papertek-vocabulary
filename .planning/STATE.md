@@ -5,16 +5,16 @@
 See: .planning/PROJECT.md (updated 2026-02-22)
 
 **Core value:** Complete, correct vocabulary data so Leksihjelp's inflection search can find any German word form and return the base entry.
-**Current focus:** Phase 12 — Pre-Entry Audit (inseparable verb flags, n-Deklination noun flags, preteritum sync)
+**Current focus:** Phase 13 — Perfektum Data (144 verb Perfektum conjugation blocks complete)
 
 ## Current Position
 
-Phase: 12 of 15 in v1.2 (Pre-Entry Audit)
+Phase: 13 of 15 in v1.2 (Perfektum Data)
 Plan: 1 of 1 complete
-Status: Phase 12 complete — ready for Phase 13 (Perfektum)
-Last activity: 2026-02-22 — Phase 12 Plan 01 executed (audit flags + preteritum sync)
+Status: Phase 13 complete — ready for Phase 14 (Noun Declension Data)
+Last activity: 2026-02-22 — Phase 13 Plan 01 executed (Perfektum data for all 144 verbs)
 
-Progress: [████░░░░░░] 40% (v1.2)
+Progress: [█████░░░░░] 60% (v1.2)
 
 ## Performance Metrics
 
@@ -25,6 +25,7 @@ Progress: [████░░░░░░] 40% (v1.2)
 | v1.0 | 2 | 1 (+1 pre-GSD) | 2026-02-20 |
 | v1.1 | 8 | 8 | 2026-02-20 → 2026-02-22 (3 days) |
 | v1.2 | 5 | TBD | In progress |
+| Phase 13 Plan 01 | 3 min | 2 tasks | 2 files |
 
 ## Accumulated Context
 
@@ -42,6 +43,8 @@ Recent decisions affecting v1.2:
 - Phase 12 (2026-02-22): sync-preteritum.js uses ESM import/export (project convention from package.json type:module); plan mentioned CommonJS but ESM is correct
 - Phase 12 (2026-02-22): inseparable flag synced to dict verbbank in AUDIT-03 same pass as preteritum — efficient housekeeping aligned with dual-bank sync principle
 - Phase 12 (2026-02-22): weak_masculine NOT synced to dict nounbank in phase 12; deferred to Phase 15 (Sync & Integration) as scoped
+- [Phase 13-perfektum-data]: sich_vorbereiten participle: 'vorbereitet' (not 'vorgebereitet') — exception to separable ge-insertion rule; bereiten-base behaves like a root verb in Partizip II
+- [Phase 13-perfektum-data]: moechten_modal participle: 'gemocht' from underlying mögen with modal_note — defective verb has no true Perfektum, mirrors preteritum treatment
 
 ### Blockers/Concerns
 
@@ -55,5 +58,5 @@ Recent decisions affecting v1.2:
 ## Session Continuity
 
 Last session: 2026-02-22
-Stopped at: Phase 12 Plan 01 complete — audit flags and preteritum sync executed (4 files, 2 commits)
-Resume file: N/A — start with `/gsd:plan-phase 13` for Perfektum phase
+Stopped at: Phase 13 Plan 01 complete — Perfektum data injected for all 144 verbs (2 files, 1 task commit)
+Resume file: N/A — start with `/gsd:plan-phase 14` for Noun Declension Data phase

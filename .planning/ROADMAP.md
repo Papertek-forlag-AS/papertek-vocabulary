@@ -40,7 +40,7 @@
 
 - [x] **Phase 11: Schema Extensions** — Extend verb and noun schemas; register grammar features (completed 2026-02-22)
 - [x] **Phase 12: Pre-Entry Audit** — Flag inseparable verbs, n-Deklination nouns; backfill preteritum to dictionary bank (completed 2026-02-22)
-- [ ] **Phase 13: Perfektum Data** — Add Perfektum conjugations for all 148 verbs in the core verbbank
+- [x] **Phase 13: Perfektum Data** — Add Perfektum conjugations for all 148 verbs in the core verbbank (completed 2026-02-22)
 - [ ] **Phase 14: Noun Declension Data** — Add 4-case declension for all 331 nouns in the core nounbank
 - [ ] **Phase 15: Sync & Integration** — Mirror to dictionary banks, rebuild search index, update v2 handler, validate all
 
@@ -82,7 +82,7 @@ Plans:
   3. All 7 modal verbs have appropriate Perfektum forms with `modal_note` documenting Ersatzinfinitiv behavior
   4. All 19 separable verbs have ge- positioned between prefix and stem (e.g., aufgestanden, mitgenommen, eingekauft)
   5. All 20 inseparable prefix verbs have no ge- prefix in the past participle (e.g., besucht, vergessen, bekommen)
-**Plans:** 1 plan
+**Plans:** 1/1 plans complete
 Plans:
 - [ ] 13-01-PLAN.md — Add Perfektum conjugations for all 144 verbs via scripted data injection
 
@@ -126,6 +126,6 @@ Plans:
 | 10. Integration | v1.1 | 1/1 | Complete | 2026-02-21 |
 | 11. Schema Extensions | 1/1 | Complete    | 2026-02-22 | - |
 | 12. Pre-Entry Audit | 1/1 | Complete    | 2026-02-22 | - |
-| 13. Perfektum Data | v1.2 | 0/1 | Planned | - |
+| 13. Perfektum Data | 1/1 | Complete   | 2026-02-22 | - |
 | 14. Noun Declension Data | v1.2 | 0/? | Not started | - |
 | 15. Sync & Integration | v1.2 | 0/? | Not started | - |

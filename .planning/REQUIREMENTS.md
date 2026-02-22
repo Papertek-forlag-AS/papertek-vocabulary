@@ -23,13 +23,13 @@ Requirements for milestone v1.2 — German Perfektum & Noun Declension. Each map
 
 ### Perfektum
 
-- [ ] **PERF-01**: All 148 German verbs have past participle in `conjugations.perfektum.participle`
-- [ ] **PERF-02**: All 148 German verbs have auxiliary selection (haben/sein/both) in `conjugations.perfektum.auxiliary`
-- [ ] **PERF-03**: All 148 German verbs have full 6-pronoun Perfektum conjugation in `conjugations.perfektum.former`
-- [ ] **PERF-04**: Dual-auxiliary verbs (~6) have `dual_auxiliary: true` and `auxiliary_note` explaining when each auxiliary applies
-- [ ] **PERF-05**: Modal verbs have appropriate Perfektum forms with `modal_note` documenting Ersatzinfinitiv
-- [ ] **PERF-06**: Separable verbs have correct ge- position (between prefix and stem: aufgestanden)
-- [ ] **PERF-07**: Inseparable prefix verbs correctly omit ge- in past participle (besucht, not *gebesucht)
+- [x] **PERF-01**: All 148 German verbs have past participle in `conjugations.perfektum.participle`
+- [x] **PERF-02**: All 148 German verbs have auxiliary selection (haben/sein/both) in `conjugations.perfektum.auxiliary`
+- [x] **PERF-03**: All 148 German verbs have full 6-pronoun Perfektum conjugation in `conjugations.perfektum.former`
+- [x] **PERF-04**: Dual-auxiliary verbs (~6) have `dual_auxiliary: true` and `auxiliary_note` explaining when each auxiliary applies
+- [x] **PERF-05**: Modal verbs have appropriate Perfektum forms with `modal_note` documenting Ersatzinfinitiv
+- [x] **PERF-06**: Separable verbs have correct ge- position (between prefix and stem: aufgestanden)
+- [x] **PERF-07**: Inseparable prefix verbs correctly omit ge- in past participle (besucht, not *gebesucht)
 
 ### Noun Declension
 
@@ -85,13 +85,13 @@ Which phases cover which requirements. Updated during roadmap creation.
 | AUDIT-01 | Phase 12 | Complete |
 | AUDIT-02 | Phase 12 | Complete |
 | AUDIT-03 | Phase 12 | Complete |
-| PERF-01 | Phase 13 | Pending |
-| PERF-02 | Phase 13 | Pending |
-| PERF-03 | Phase 13 | Pending |
-| PERF-04 | Phase 13 | Pending |
-| PERF-05 | Phase 13 | Pending |
-| PERF-06 | Phase 13 | Pending |
-| PERF-07 | Phase 13 | Pending |
+| PERF-01 | Phase 13 | Complete |
+| PERF-02 | Phase 13 | Complete |
+| PERF-03 | Phase 13 | Complete |
+| PERF-04 | Phase 13 | Complete |
+| PERF-05 | Phase 13 | Complete |
+| PERF-06 | Phase 13 | Complete |
+| PERF-07 | Phase 13 | Complete |
 | NDECL-01 | Phase 14 | Pending |
 | NDECL-02 | Phase 14 | Pending |
 | NDECL-03 | Phase 14 | Pending |
