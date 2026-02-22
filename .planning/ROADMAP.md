@@ -111,7 +111,11 @@ Plans:
   3. `vocabulary/dictionary/de/search-index.json` has a `pp` (past participle) field on all 148 verb entries, enabling past-participle inflection lookup
   4. The v2 lookup handler emits `grammar_noun_declension` and `grammar_genitiv` feature flags when a noun with declension data is requested
   5. Schema validation (`npm run validate:verbs` and `npm run validate:nouns`) passes on both core and dictionary banks with zero errors
-**Plans**: TBD
+**Plans:** 3 plans
+Plans:
+- [ ] 15-01-PLAN.md — Validation cleanup: fix 547 pre-existing errors to 0, create validate:verbs
+- [ ] 15-02-PLAN.md — Data sync and handler: sync perfektum/nouns to dict banks, update v2 feature flags
+- [ ] 15-03-PLAN.md — Search index rebuild with pp field and permanent verify:integration script
 
 ## Progress
 
@@ -131,4 +135,4 @@ Plans:
 | 12. Pre-Entry Audit | 1/1 | Complete    | 2026-02-22 | - |
 | 13. Perfektum Data | 1/1 | Complete    | 2026-02-22 | - |
 | 14. Noun Declension Data | 2/2 | Complete    | 2026-02-22 | - |
-| 15. Sync & Integration | v1.2 | 0/? | Not started | - |
+| 15. Sync & Integration | v1.2 | 0/3 | Not started | - |
