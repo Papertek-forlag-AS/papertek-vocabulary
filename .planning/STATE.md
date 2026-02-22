@@ -5,16 +5,16 @@
 See: .planning/PROJECT.md (updated 2026-02-22)
 
 **Core value:** Complete, correct vocabulary data so Leksihjelp's inflection search can find any German word form and return the base entry.
-**Current focus:** Phase 13 — Perfektum Data (144 verb Perfektum conjugation blocks complete)
+**Current focus:** Phase 14 — Noun Declension Data (schema foundation and validation tooling complete)
 
 ## Current Position
 
-Phase: 13 of 15 in v1.2 (Perfektum Data)
-Plan: 1 of 1 complete
-Status: Phase 13 complete — ready for Phase 14 (Noun Declension Data)
-Last activity: 2026-02-22 — Phase 13 Plan 01 executed (Perfektum data for all 144 verbs)
+Phase: 14 of 15 in v1.2 (Noun Declension Data)
+Plan: 1 of TBD complete
+Status: Phase 14 Plan 01 complete — schema foundation done; ready for Plan 02 (data injection)
+Last activity: 2026-02-22 — Phase 14 Plan 01 executed (noun schema + validate:nouns tooling)
 
-Progress: [█████░░░░░] 60% (v1.2)
+Progress: [██████░░░░] 65% (v1.2)
 
 ## Performance Metrics
 
@@ -26,6 +26,7 @@ Progress: [█████░░░░░] 60% (v1.2)
 | v1.1 | 8 | 8 | 2026-02-20 → 2026-02-22 (3 days) |
 | v1.2 | 5 | TBD | In progress |
 | Phase 13 Plan 01 | 3 min | 2 tasks | 2 files |
+| Phase 14 Plan 01 | 1 min | 1 task | 3 files |
 
 ## Accumulated Context
 
@@ -45,6 +46,8 @@ Recent decisions affecting v1.2:
 - Phase 12 (2026-02-22): weak_masculine NOT synced to dict nounbank in phase 12; deferred to Phase 15 (Sync & Integration) as scoped
 - [Phase 13-perfektum-data]: sich_vorbereiten participle: 'vorbereitet' (not 'vorgebereitet') — exception to separable ge-insertion rule; bereiten-base behaves like a root verb in Partizip II
 - [Phase 13-perfektum-data]: moechten_modal participle: 'gemocht' from underlying mögen with modal_note — defective verb has no true Perfektum, mirrors preteritum treatment
+- [Phase 14-noun-declension-data]: declension_type is optional (not in required array) — entries without it remain valid until Plan 02 injects data
+- [Phase 14-noun-declension-data]: Pre-existing 356-error AJV baseline confirmed; Phase 14 Plan 01 introduces zero new errors
 
 ### Blockers/Concerns
 
@@ -58,5 +61,5 @@ Recent decisions affecting v1.2:
 ## Session Continuity
 
 Last session: 2026-02-22
-Stopped at: Phase 13 Plan 01 complete — Perfektum data injected for all 144 verbs (2 files, 1 task commit)
-Resume file: N/A — start with `/gsd:plan-phase 14` for Noun Declension Data phase
+Stopped at: Phase 14 Plan 01 complete — noun schema + validate:nouns tooling (3 files, 1 task commit)
+Resume file: N/A — continue with Phase 14 Plan 02 (noun declension data injection for all 331 nouns)

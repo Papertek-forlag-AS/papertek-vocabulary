@@ -33,13 +33,13 @@ Requirements for milestone v1.2 — German Perfektum & Noun Declension. Each map
 
 ### Noun Declension
 
-- [ ] **NDECL-01**: All 331 German nouns have Nominativ with singular/plural forms and definite/indefinite articles
-- [ ] **NDECL-02**: All 331 German nouns have Akkusativ with singular/plural forms and definite/indefinite articles
-- [ ] **NDECL-03**: All 331 German nouns have Dativ with singular/plural forms and definite/indefinite articles
-- [ ] **NDECL-04**: All 331 German nouns have Genitiv with singular/plural forms and definite/indefinite articles
-- [ ] **NDECL-05**: N-Deklination nouns (11) use -(e)n endings in all non-nominative singular cases
-- [ ] **NDECL-06**: Plural-only and uncountable nouns handled correctly (appropriate singular-only or plural-only forms)
-- [ ] **NDECL-07**: Dative plural -n rule applied correctly, with exception for -s plurals (26 nouns)
+- [x] **NDECL-01**: All 331 German nouns have Nominativ with singular/plural forms and definite/indefinite articles
+- [x] **NDECL-02**: All 331 German nouns have Akkusativ with singular/plural forms and definite/indefinite articles
+- [x] **NDECL-03**: All 331 German nouns have Dativ with singular/plural forms and definite/indefinite articles
+- [x] **NDECL-04**: All 331 German nouns have Genitiv with singular/plural forms and definite/indefinite articles
+- [x] **NDECL-05**: N-Deklination nouns (11) use -(e)n endings in all non-nominative singular cases
+- [x] **NDECL-06**: Plural-only and uncountable nouns handled correctly (appropriate singular-only or plural-only forms)
+- [x] **NDECL-07**: Dative plural -n rule applied correctly, with exception for -s plurals (26 nouns)
 
 ### Sync & Integration
 
@@ -92,13 +92,13 @@ Which phases cover which requirements. Updated during roadmap creation.
 | PERF-05 | Phase 13 | Complete |
 | PERF-06 | Phase 13 | Complete |
 | PERF-07 | Phase 13 | Complete |
-| NDECL-01 | Phase 14 | Pending |
-| NDECL-02 | Phase 14 | Pending |
-| NDECL-03 | Phase 14 | Pending |
-| NDECL-04 | Phase 14 | Pending |
-| NDECL-05 | Phase 14 | Pending |
-| NDECL-06 | Phase 14 | Pending |
-| NDECL-07 | Phase 14 | Pending |
+| NDECL-01 | Phase 14 | Complete |
+| NDECL-02 | Phase 14 | Complete |
+| NDECL-03 | Phase 14 | Complete |
+| NDECL-04 | Phase 14 | Complete |
+| NDECL-05 | Phase 14 | Complete |
+| NDECL-06 | Phase 14 | Complete |
+| NDECL-07 | Phase 14 | Complete |
 | SYNC-01 | Phase 15 | Pending |
 | SYNC-02 | Phase 15 | Pending |
 | SYNC-03 | Phase 15 | Pending |
