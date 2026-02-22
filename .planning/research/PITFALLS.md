@@ -1,268 +1,433 @@
 # Pitfalls Research
 
-**Domain:** Adding German adjective declension to an existing vocabulary API
-**Researched:** 2026-02-20
-**Confidence:** HIGH — based on direct codebase analysis + German grammar expertise
+**Domain:** Adding German Perfektum conjugations and full noun declension to an existing vocabulary API
+**Researched:** 2026-02-22
+**Confidence:** HIGH — based on direct codebase inspection + German grammar expertise
 
 ---
 
 ## Critical Pitfalls
 
-### Pitfall 1: Treating "hoch" Like a Normal Adjective
+### Pitfall 1: Haben/Sein Assignment Error for Dual-Auxiliary Verbs
 
 **What goes wrong:**
-"hoch" changes its stem to "hoh-" before any inflectional ending. The positive base form is "hoch" (predicative only), but every attributed form drops the final -ch: "hoher", "hohe", "hohes", "hohem", "hohen". Scripts that build declension by appending endings to the base form will generate "hochem", "hochen", "hochem" — all wrong.
+Six verbs in the bank can take either haben or sein depending on usage context:
+
+- `ausziehen` — sein when "to move out" (ich bin ausgezogen), haben when "to take off / undress" (ich habe mich ausgezogen)
+- `fahren` — sein for intransitive travel (ich bin gefahren), haben if transitive object is present (ich habe das Auto gefahren)
+- `fliegen` — sein as passenger/intransitive (ich bin geflogen), haben when piloting (ich habe das Flugzeug geflogen)
+- `schwimmen` — sein for directed motion (ich bin geschwommen — regional, especially South German), haben for activity (ich habe geschwommen — North German standard)
+- `laufen` — sein for directed movement (ich bin gelaufen), haben for activity/sport (ich habe gelaufen — less standard but attested)
+- `wegfahren` — sein as intransitive departure (ich bin weggefahren)
+
+Additionally, two verbs show regional variation:
+- `sitzen` — haben (standard North German), sein (South German/Austrian)
+- `stehen` — haben (standard), sein (South German/Austrian)
+
+Assigning a single auxiliary to any of these verbs and then conjugating all six pronoun forms with that auxiliary will produce correct forms for one reading and wrong forms for another.
 
 **Why it happens:**
-Automated declension generation appends endings to the stored `word` field. "hoch" → "hoch" + "em" = "hochem" (wrong). Nothing in the current schema flags stem changes. Leksihjelp searches for "hohem" and finds nothing; students get no result.
+The preteritum milestone stored one set of conjugated forms per verb (correct, since preteritum uses no auxiliary). For Perfektum, the assumption that "each verb has exactly one auxiliary" carries over from the preteritum pattern. The data structure `conjugations.perfektum.former` with six pronoun forms implicitly assumes a single auxiliary.
 
 **How to avoid:**
-Store the attributive stem separately from the base form. For "hoch": base `word: "hoch"`, attributive stem `"attributiv_stem": "hoh"`. All declined forms are built from the attributive stem, not the base. This is the same architectural decision that was made correctly for separable verbs (storing "stand auf" not "aufstand") — apply the same principle here.
+Introduce a `auxiliary` field at the Perfektum level. For dual-auxiliary verbs, store both auxiliaries with a `dual_auxiliary: true` flag and a brief explanation (`auxiliary_note`) of when each is used. For the six standard dual verbs: store the primary/most-common auxiliary as the default (e.g., sein for ausziehen when "moving out"), and document the alternate reading in the note. Do not attempt to store two full conjugation tables per verb — the inflected forms are trivially derived from knowing whether the auxiliary is haben or sein; the participle is the same either way.
+
+Structure example:
+```json
+"perfektum": {
+  "particip": "ausgezogen",
+  "auxiliary": "sein",
+  "dual_auxiliary": true,
+  "auxiliary_note": "sein when 'to move out'; haben when 'to take off/undress'",
+  "former": {
+    "ich": "bin ausgezogen",
+    "du": "bist ausgezogen",
+    "er/sie/es": "ist ausgezogen",
+    "wir": "sind ausgezogen",
+    "ihr": "seid ausgezogen",
+    "sie/Sie": "sind ausgezogen"
+  },
+  "feature": "grammar_perfektum"
+}
+```
 
 **Warning signs:**
-- Any verification script that checks "does declined form contain the base form as substring" will pass for "hoher/hohe/hohes" but silently fail the Leksihjelp search
-- Spot-check: search for "hohem" in computed forms — if result is "hochem" the stem-change was missed
+- `schwimmen_verb` perfektum shows only "ich habe geschwommen" without noting "ich bin geschwommen" — data is incomplete
+- `ausziehen_verb` perfektum shows only the "move out" reading without noting the "undress" reading
+- Any conjugated form file containing "ich habe weggefahren" — this is wrong (wegfahren takes sein)
 
 **Phase to address:**
-Schema definition phase — before any data entry. "hoch" must be the first test case for any declension generation approach.
+Schema definition phase — establish the `dual_auxiliary` flag, `auxiliary_note` field, and `auxiliary` field in the verb schema before data entry. This decision cannot be revisited mid-entry without migrating all verb entries.
 
 ---
 
-### Pitfall 2: Indeclinable Adjectives Given Declension Endings
+### Pitfall 2: Separable Prefix Verbs Given Wrong Past Participle (ge- Position Error)
 
 **What goes wrong:**
-"lila", "rosa", "orange", and "cool" are already in the adjective bank and are indeclinable — they never take endings regardless of gender, case, or number. "ein lila Auto", "eine lila Blume", "einem lila Kleid" — the form is always "lila". Adding a declension table that generates "lilas", "lilem", "lilen" creates wrong forms that Leksihjelp would incorrectly index as search targets.
+19 verbs in the bank are separable (have `separable: true`). Their past participles insert `ge-` between the prefix and the stem, not before the prefix:
+
+- aufstehen → aufgestanden (NOT *geaufgestanden, NOT *geaufstanden)
+- mitnehmen → mitgenommen (NOT *gemitgenommen)
+- einladen → eingeladen (NOT *geeingeladen)
+- anrufen → angerufen (NOT *geangerufen)
+- aufwachen → aufgewacht
+- einschlafen → eingeschlafen
+- sich anziehen → sich angezogen
+- aufräumen → aufgeräumt
+- fernsehen → ferngesehen
+- wegfahren → weggefahren
+- mitkommen → mitgekommen
+- ausziehen → ausgezogen
+- einkaufen → eingekauft
+- einpacken → eingepackt
+- anfangen → angefangen
+- mitbringen → mitgebracht
+- sich aufregen → sich aufgeregt
+- sich ausruhen → sich ausgeruht
+- sich vorbereiten → sich vorbereitet
+
+A generation script that naively prepends `ge-` to the infinitive will produce "geaufgestanden", "gemitgenommen" — all grammatically impossible forms that will pollute the search index.
 
 **Why it happens:**
-All four words exist in the bank with no flags. A script iterating over all 108 adjectives to add declension will treat them identically unless they are explicitly flagged. There is currently no `indeclinable: true` or equivalent field in the schema.
+The preteritum data for separable verbs was entered correctly (the preteritum also uses the split pattern: "stand auf", "nahm mit"). But the past participle is a single word (not split), and the ge- insertion rule is non-obvious. A script parsing the `separable: true` flag and the presens conjugation to extract the prefix could correctly reconstruct the form — but it must know the rule is "ge- goes after the prefix, before the stem", not "ge- prepends to the infinitive".
 
 **How to avoid:**
-Add an `indeclinable: true` boolean to the adjective schema and to these four entries before running any declension generation. The declension generation script must skip entries with this flag. Verify by checking that none of "lilas", "lila", "lilem" etc. are generated as indexed forms.
+Store the past participle explicitly for every separable verb rather than computing it. Add a `particip` field at the Perfektum level holding the full unsplit form ("aufgestanden", "mitgenommen"). This mirrors the decision to store explicit strong verb preteritum forms rather than computing them algorithmically. The `particip` field is then used as the base for conjugating `conjugations.perfektum.former`.
 
 **Warning signs:**
-- Any declined search form ending in "-s", "-m", "-n", "-r" matching "lila", "rosa", "orange" or "cool" is a sign indeclinable handling is broken
-- Leksihjelp returning "lila" for searches on "lilas" (grammatically impossible form) would be a false result
+- Any participle form beginning with "ge" for a separable verb with a two-syllable prefix — these are all wrong ("geeingeschlafen", "gemitgenommen")
+- Spot check: `mitbringen_verb` participle should be "mitgebracht" — if the script produces "gemitgebracht", the ge- position rule is wrong
 
 **Phase to address:**
-Schema extension phase — add `indeclinable` flag to schema and mark these 4 entries before data population.
+Data entry phase — all 19 separable verbs must be individually looked up and the participle stored explicitly. The separable verb list is already in the bank (filter by `separable: true`).
 
 ---
 
-### Pitfall 3: Suppletive Comparatives Computed from Base Stem
+### Pitfall 3: Inseparable Prefix Verbs Given Spurious ge- Prefix
 
 **What goes wrong:**
-Three adjectives in the bank have irregular (suppletive) comparatives that share no stem with the positive form:
-- gut → **besser** → best- (not *guter, *gutst-)
-- viel → **mehr** → meist- (not *vieler, *vielst-)
-- gern → **lieber** → liebst- (not *gerner, *gernst-)
+20 verbs in the bank have inseparable prefixes (be-, er-, ver-, ent-, unter-, ge- as prefix). Their past participles do NOT take ge-:
 
-Any algorithmic approach to comparative formation (base + "-er", base + "-st") produces wrong forms for these three. Students searching "besser" find nothing, or "mehr" incorrectly maps to a wrong base.
+- besuchen → besucht (NOT *gebesucht)
+- erklären → erklärt (NOT *geerklärt)
+- erzählen → erzählt (NOT *geerzählt)
+- beginnen → begonnen (NOT *gebegonnen)
+- verstehen → verstanden (NOT *geverstanden)
+- vergessen → vergessen (NOT *gevergessen)
+- verlieren → verloren (NOT *geverloren)
+- versprechen → versprochen (NOT *geversprochen)
+- vertrauen → vertraut (NOT *gevertraut)
+- bekommen → bekommen (NOT *gebekommen)
+- gewinnen → gewonnen (NOT *gegewonnen)
+- sich entschuldigen → sich entschuldigt
+- sich erholen → sich erholt
+- sich unterhalten → sich unterhalten
+- sich bewegen → sich bewegt
+- sich verspäten → sich verspätet
+- entspannen → entspannt
+
+Note: `gehen` and `geben` start with "g" but are NOT inseparable-prefix verbs — they are base verbs and do take ge-: gegangen, gegeben.
 
 **Why it happens:**
-The v1.0 preteritum milestone successfully avoided this by looking up each verb individually. The same discipline is needed here. But for adjectives it's tempting to apply the simple "+er"/"+st" formula since it works for 95+ of 108 adjectives, and the three exceptions might be overlooked.
+A generation script that mechanically prepends ge- to all verbs not flagged as separable will produce wrong forms for inseparable-prefix verbs. There is currently no `inseparable: true` flag in the verb schema — the only flag is `separable: true`. Inseparable verbs look like regular verbs to the schema.
 
 **How to avoid:**
-The same strategy that worked for preteritum: process irregular adjectives first, verify suppletive forms individually. Maintain a required spot-check list that includes gut/besser, viel/mehr, and gern/lieber as mandatory validation cases (analogous to the v1.0 spot-check table for sein/war, gehen/ging).
+Add an `inseparable: true` flag to the verb schema. Set it on the 17+ inseparable-prefix verbs in the bank before running any participle generation script. The generation script must skip ge- prepending for any verb with `inseparable: true`. Alternatively — and safer given the small verb count — store the participle explicitly for every verb rather than computing it algorithmically for any category.
 
 **Warning signs:**
-- Verification script shows "guter", "gutest" as comparative/superlative of "gut" — immediate fail
-- "mehr" not resolving to "viel" in inflection search
-- Structural check passes but linguistic spot-check fails for these three words
+- `besuchen_verb` participle shows "gebesucht" — immediate fail
+- `vergessen_verb` participle shows "gevergessen" — immediate fail
+- The strong verb `bekommen` — participle is "bekommen" (identical to infinitive, no ge- and irregular strong ablaut is already "come")
 
 **Phase to address:**
-Data entry phase — list gut, viel, and gern as "handle first, verify individually" before processing regular adjectives.
+Schema definition phase — add `inseparable: true` flag. Data entry phase — explicitly mark all 17+ inseparable-prefix verbs and store participles individually.
 
 ---
 
-### Pitfall 4: Confusing Positive Masculine Strong with the Comparative Base
+### Pitfall 4: Modal Verbs Given Standard Perfektum Structure
 
 **What goes wrong:**
-For regular adjectives, the comparative base form (uninflected) is identical to the positive Nominativ Masculine Strong form:
-- klein: positive NomM strong = "kleiner", comparative base = "kleiner"
-- schön: positive NomM strong = "schöner", comparative base = "schöner"
+The 7 modal verbs (mögen, können, müssen, wollen, dürfen, sollen, möchten) behave differently in Perfektum depending on whether they appear alone or with a dependent infinitive:
 
-If Leksihjelp indexes all surface forms, a search for "kleiner" becomes ambiguous — it could mean "klein (Nom Masc)" or "kleiner (comparative base)". Both are correct German, but the system may return only one.
+- Alone: ich habe gemocht, ich habe gekonnt, ich habe gemusst — modal participle used
+- With dependent infinitive: ich habe kommen müssen, ich habe schwimmen können — double infinitive construction (participle of modal is NOT used; instead the infinitive form replaces it)
+
+A vocabulary API that stores Perfektum forms for modals will store the modal-alone version (gemocht, gekonnt, gemusst, etc.), which is correct for the standalone usage but incomplete for the far more common dependent-infinitive usage. Worse, `möchten` has no participle — it uses `gemocht` (from mögen) even in Perfektum.
 
 **Why it happens:**
-German grammar intentionally creates this overlap. It is not a data error — both readings are valid. The problem is that the data storage format doesn't preserve which reading was intended, and Leksihjelp (which indexes surface forms to base entries) will have a collision.
+Modals are a special-case grammatical category. The v1.1 milestone correctly flagged modals as `type: modal`. But the Perfektum milestone will likely attempt to apply the same conjugation structure to modals as to regular verbs, since the data shape is the same.
 
 **How to avoid:**
-Store the comparative as a stem (e.g., `"komparativ": "kleiner"` meaning the stem, not the full inflected form). In the data, the comparative stem "kleiner" maps to the base "klein". The positive NomM strong form "kleiner" also maps to base "klein". The disambiguation is that both return the same base entry, so the collision is harmless — the user still gets "klein". Document this explicitly so future maintainers don't try to "fix" it.
+Add a `modal_note` field to the Perfektum block for modal verbs. Store the standalone Perfektum (ich habe gekonnt) as `former` data, and document the double-infinitive construction in the note. For `möchten` specifically: it has no standalone Perfektum in practice — document this explicitly and do not store a participle form "gemöcht" (not standard). The `möchten_modal` entry should have a note explaining that its Perfektum uses `gemocht` (from mögen).
 
 **Warning signs:**
-- Attempting to store comparative inflected forms that are identical to positive forms and then flagging collisions as errors
-- Misidentifying "kleiner" as "only comparative" when it is also positive NomM strong
+- `möchten_modal` entry showing "gemöcht" as participle — wrong
+- Any modal entry missing a note about the double-infinitive construction
+- Modals stored with identical structure to regular verbs with no special flags
 
 **Phase to address:**
-Schema design phase — define whether comparative is stored as stem or as inflected form, and document the overlap explicitly.
+Schema definition phase — plan the modal handling before data entry begins. Data entry phase — process modals as a separate group, verify each individually.
 
 ---
 
-### Pitfall 5: Extracting False Adjectives from the "Other" Bucket
+### Pitfall 5: Reflexive Verb Perfektum Shows Wrong Reflexive Pronoun Agreement
 
 **What goes wrong:**
-The Goethe "other" bucket (1,191 entries) contains many word types mixed together: prepositions (an, auf, aus), conjunctions (aber, auch, dann), pronouns (er, es, euer), pure adverbs (manchmal, einmal, hoffentlich, bald, hier, geradeaus), phrases ("Alles Gute!", "Auf Wiedersehen."), prefixes/suffixes (all-, ein-, -her), and parser artifacts ("deindenn", "gern(e)", "(Kredit)-Karte, -n"). Incorrectly classifying any of these as adjectives would add wrong entries to the adjective bank.
+26 verbs in the bank are reflexive (contain "sich" in the word field). Their Perfektum conjugations must track the reflexive pronoun through all 6 person/number forms:
+
+- ich habe mich gewaschen (not "ich habe sich gewaschen")
+- du hast dich gewaschen
+- er/sie/es hat sich gewaschen
+- wir haben uns gewaschen
+- ihr habt euch gewaschen
+- sie/Sie haben sich gewaschen
+
+A generation script that stores the infinitive form "sich waschen" and then conjugates the auxiliary without updating the reflexive pronoun will produce "ich habe sich gewaschen" for every person — which is grammatically wrong for all but the third person singular.
 
 **Why it happens:**
-Many true adjectives share endings with adverbs and particles. German adjectives like "schnell", "langsam", "gut" can function as both adjectives and adverbs — but "manchmal", "einmal", "geradeaus", "bald" are adverbs-only and would be wrong to add as adjectives. Automated extraction by suffix matching alone would catch false positives.
+The preteritum data for reflexive verbs was entered correctly (e.g., sich waschen: "ich wusch mich", "du wuschst dich", etc.). But the Perfektum data involves two moving parts: the auxiliary conjugation AND the reflexive pronoun. A script that takes the preteritum `former` structure and adapts it for Perfektum by prepending the auxiliary might forget that the reflexive pronoun also changes by person.
 
 **How to avoid:**
-Human classification with a defined criterion: a word belongs in the adjective bank only if it can be used attributively (before a noun with agreement). Test: "ein ___er Mann" or "eine ___e Frau". Words that fail this test (allein, manchmal, einmal, geradeaus, bald) are not adjectives. Additionally, filter out entries with spaces, punctuation, trailing periods, and parentheses before classification. Words ending in "-" are prefixes, not adjectives.
+For all 26 reflexive verbs, store all 6 Perfektum conjugated forms explicitly with the correct reflexive pronoun for each person. The preteritum data in `conjugations.preteritum.former` already demonstrates the correct pronoun-agreement pattern — use it as the verification template. Spot-check: verify that "ich", "du", "er/sie/es", "wir", "ihr", "sie/Sie" each have a different reflexive pronoun where required.
 
 **Warning signs:**
-- The extracted adjective count exceeds ~80-100 genuinely new adjectives (the bucket contains ~150-200 likely real adjectives, not 400+)
-- Entries like "manchmal", "immer", "bald", "auch", "aber" appearing in the adjective bank
-- Any word with parentheses, spaces, or punctuation in the adjective bank
+- Any reflexive verb Perfektum form showing "sich" for the "ich" or "du" person ("ich habe sich angezogen" is wrong)
+- All 6 pronoun forms showing the same reflexive pronoun (a sign the pronoun was not varied)
 
 **Phase to address:**
-Adjective extraction phase — apply the "ein ___er Mann" test for every candidate, with a manual review of all extracted entries before they are added to adjectivebank.json.
+Data entry phase — reflexive verbs are a named category. Process them as a group, verify at least 3 sample verbs (ich/du/wir) for correct reflexive pronoun assignment before generating all 26.
 
 ---
 
-### Pitfall 6: "-el" and "-er" Adjectives with Incorrect Stem Elision
+### Pitfall 6: Verb Phrase Entries Treated as Regular Verbs in Perfektum
 
 **What goes wrong:**
-Five adjectives in the existing bank end in "-el" or "-er" and must drop the stem-final "-e" before adding inflectional endings:
-- teuer → teure (not *teuere); teures (not *teueres); teurer (comparative, different from positive NomM)
-- sauber → saubere, sauberes, sauberem... (actually regular — sauber doesn't elide)
-- lecker → leckere, leckeres... (regular)
-- sicher → sichere, sicheres... (regular)
-- viel → (special case, see suppletive pitfall above)
+4 entries in the bank are verb phrases (contain spaces and are multi-word):
+- `rad_fahren_verbphrase` ("Rad fahren") — sein auxiliary; participle is "Rad gefahren" (prefix-of-sort behavior)
+- `musik_hoeren_verbphrase` ("Musik hören") — haben auxiliary; participle is "Musik gehört"
+- `gassi_gehen_verbphrase` ("Gassi gehen") — sein auxiliary; participle is "Gassi gegangen"
+- `fertig_werden_verbphrase` ("fertig werden") — sein auxiliary; participle is "fertig geworden"
 
-The specific rule: adjectives ending in "-er" with the "-e" as part of a syllable (like "teuer" /teu-er/) drop that "-e" when an ending is added. "teuer" + "-e" → "teure" (not "teuere"). But "lecker", "sauber", "sicher" keep their vowel because the "-er" suffix is not the same pattern — they decline regularly.
+These entries pose two risks:
+1. The past participle of "Rad fahren" is "Rad gefahren" — with ge- correctly placed on the verb stem "fahren", not on the full phrase
+2. Leksihjelp's inflection search cannot meaningfully index a past participle phrase like "Rad gefahren" as a single token — it would need to decompose it
 
 **Why it happens:**
-The rule applies only to adjectives where the syllable preceding "-er" has a diphthong or the "-e" is a schwa that would create an awkward cluster. "teuer" (diphthong eu + er) → drops the e. "sauber", "lecker", "sicher" decline regularly. Without knowing which "-er" adjectives elide and which don't, a script gets some wrong.
+Verb phrase entries were added to the bank for pedagogical reasons (students learn these phrases as units). But their Perfektum structure does not map cleanly onto the single-word participle model used for regular verbs.
 
 **How to avoid:**
-Mark "teuer" with `"stem_elision": true` in the data. The declension for teuer must store "teure" (not "teuere") as the Nominativ Feminine Strong form. Verify by spot-checking: "ein teure_ Laptop" → "teurer" (NomM), "eine teure Uhr" (NomF), "ein teures Auto" (NomN) — the "-e-" elision is visible in comparison. For comparative: "teurer" (base comparative) — same form as NomM positive, which is intentional overlap (see Pitfall 4).
+Process verb phrase entries separately from the 144 single-word verbs. For each phrase, confirm: (a) which component verb carries the ge- prefix, (b) which auxiliary is used. Store the complete Perfektum forms explicitly. Document in a `perfektum_note` that inflection search for verb phrases is not supported — searching for "Rad gefahren" will not resolve to the base entry in Leksihjelp.
 
 **Warning signs:**
-- "teuere" appearing as any declined form of teuer
-- Checking the NomF form of teuer: should be "teure", not "teuere"
+- "Rad gefahren" appearing as an indexed form in the search index — Leksihjelp cannot parse this correctly
+- Phrase entries receiving the same automated treatment as single-word verbs
 
 **Phase to address:**
-Data entry phase — teuer must be included in the irregular/special-case group processed before regular adjectives.
+Data entry phase — identify all 4 verbphrase entries (filter by `_id` ending in `_verbphrase`) and process them manually outside the main generation loop.
 
 ---
 
-### Pitfall 7: Participial Adjectives Given Comparative Forms They Lack
+### Pitfall 7: N-Deklination Nouns Declined as Strong Masculine
 
 **What goes wrong:**
-Eight past-participial adjectives exist in the bank: überrascht, gespannt, erschöpft, gestresst, entspannt, aufgeregt, bewölkt, anstrengend (present participle). If the data entry adds a comparative/superlative to all 108 adjectives without exception, it will generate "überraschter" and "am überraschsten" — forms that exist marginally if at all in standard German, and that Leksihjelp might then incorrectly index as search targets.
+At least 11 nouns in the bank are weak masculine (n-Deklination), meaning their Genitiv, Dativ, and Akkusativ singular forms all end in -(e)n — unlike strong masculine nouns which take -(e)s in the Genitiv. Treating these as strong masculine will produce wrong Genitiv/Dativ/Akkusativ forms:
+
+Known n-Deklination nouns in the bank:
+- Affe → des Affen, dem Affen, den Affen (NOT *des Affes)
+- Hase → des Hasen, dem Hasen, den Hasen (NOT *des Hases)
+- Löwe → des Löwen, dem Löwen, den Löwen
+- Neffe → des Neffen, dem Neffen, den Neffen
+- Bär → des Bären, dem Bären, den Bären (NOT *des Bärs)
+- Elefant → des Elefanten, dem Elefanten, den Elefanten (NOT *des Elefants)
+- Mensch → des Menschen, dem Menschen, den Menschen (NOT *des Mensches)
+- Morgenmensch → des Morgenmenschen (inherits from Mensch)
+- Klassenkamerad → des Klassenkameraden
+- Superheld → des Superhelden
+- Nachbar → des Nachbarn, dem Nachbarn, den Nachbarn
+
+False positives to watch for — masculine nouns ending in -e or -ee that are NOT n-Deklination:
+- Käse → des Käses (strong! NOT *des Käsen)
+- See → des Sees (strong! NOT *des Seen)
 
 **Why it happens:**
-A blanket "add comparative/superlative to every adjective" approach ignores the grammatical category. Past participles used as adjectives typically do not form comparatives (you cannot be "more surprised" in German using "überraschter" in standard written German — you use "stärker überrascht"). The present participle "anstrengend" is different — it can form comparatives (anstrengender, am anstrengendsten).
+An automated declension generator for masculine nouns would apply the standard strong pattern: Nominativ der X, Genitiv des X(e)s, Dativ dem X, Akkusativ den X. This is correct for most masculine nouns but wrong for n-Deklination. There is currently no field in the noun schema to flag n-Deklination membership. The generator has no signal to treat these differently.
 
 **How to avoid:**
-Add a `nicht_komparierbar: true` flag for adjectives where comparison is not standard. Apply to: überrascht, gespannt, bewölkt. Leave erschöpft, entspannt, aufgeregt, gestresst, anstrengend without the flag — their comparatives are accepted in modern German. The declension table for nicht_komparierbar entries covers positive degree only.
+Add a `noun_class` field (or a `weak_masculine: true` flag) to the noun schema before data entry begins. Apply it to all 11 identified n-Deklination nouns. The declension generation script must produce the -(e)n endings for all non-Nominativ cases when this flag is present. Verify by spot-checking Bär (des Bären not *des Bärs) and Elefant (des Elefanten not *des Elefants) before generating all 331 nouns.
 
 **Warning signs:**
-- "überraschter" or "am gespannsten" appearing as indexed forms
-- Verification accepting the positive-comparative-superlative structure for all 108 without checking the nicht_komparierbar flag
+- `baer_noun` Genitiv showing "des Bärs" — immediate fail
+- `elefant_noun` Dativ showing "dem Elefant" — should be "dem Elefanten"
+- Checking Käse: if Genitiv shows "des Käsen" — false positive applied
 
 **Phase to address:**
-Schema design phase — add `nicht_komparierbar` flag. Data entry phase — apply it to the 3 unambiguous cases before running the main comparative generation.
+Schema definition phase — add weak masculine flag before any data entry. Pre-data-entry audit — identify all n-Deklination nouns in the 331-noun bank before generating any forms.
 
 ---
 
-### Pitfall 8: "beste" as a Separate Entry Colliding with gut's Superlative
+### Pitfall 8: Noun Declension Schema Conflict with Existing `cases` Data
 
 **What goes wrong:**
-"beste" (the superlative of "gut") is stored as a separate entry in adjectivebank.json with `_id: "beste_adj"`. When declension data is added to "gut", its superlative stem is "best-", generating forms: beste, bester, bestes, bestem, besten. These forms will now appear twice in any index that Leksihjelp builds: once under "gut" (from its superlative), and once as a direct match to "beste_adj".
+223 nouns in the core bank already have partial case data in a `cases` field with this structure:
+```json
+"cases": {
+  "nominativ": { "intro": "9.1", "bestemt": "der Freund", "ubestemt": "ein Freund" },
+  "akkusativ": { "intro": "9.1", "bestemt": "den Freund", "ubestemt": "einen Freund" }
+}
+```
+
+This structure stores only singular forms (no plural dimension), and only Nominativ/Akkusativ (no Dativ/Genitiv). The v1.2 milestone needs all 4 cases × singular/plural × definite/indefinite = 16 data points per noun.
+
+If the new data is added by extending the existing `cases` key with new sub-keys, the existing structure `cases.nominativ.bestemt` (a string) will conflict with a new structure `cases.nominativ.singular.bestemt` (an object). Both cannot coexist under `cases.nominativ` without a breaking schema change.
+
+Additionally, 2 nouns have a `declension` key using Norwegian terminology (entall/flertall with bestemt/ubestemt), which is a third incompatible structure.
+
+The v2 lookup API already reads both `cases` and `declension` fields and returns them separately. Grammar-features.json has `dataPath: "cases.akkusativ.ubestemt"` for the accusative feature — if the structure of `cases` changes, this path breaks.
 
 **Why it happens:**
-"beste" was likely added as a standalone vocabulary entry ("best", as in "das Beste" = the best thing) before the adjective declension system was designed. At that time, there was no `comparison` field to express "gut's superlative is best-". Now that "gut" will have a full comparison field, the "beste_adj" entry is an orphan.
+The existing `cases` data was added incrementally in v1.0 for pedagogical progressive disclosure (teaching nominative and accusative separately). It was not designed as the foundation for a full 4-case declension system. The v1.2 milestone is the first time all 4 cases and both numbers are needed simultaneously.
 
 **How to avoid:**
-Before adding declension data to "gut", decide whether "beste_adj" stays as a separate entry or is removed. If it stays, it needs a clear semantic justification (it may be referenced in curriculum manifests). Run a curriculum manifest check first: grep all curriculum JSON files for "beste_adj" — if it appears in lessons, it stays and the disambiguation is documented. If it doesn't appear, remove it to avoid search index duplication.
+Decide the structural approach BEFORE writing any data. Three options with trade-offs:
+
+Option A (Recommended): Use a new top-level key `full_declension` for the complete 4×2×2 table, keep existing `cases` data untouched for backward compatibility. Grammar-features.json `dataPath` references continue to work. The v2 API may need a new response field. Downside: two sources for Nominativ/Akkusativ singular data.
+
+Option B: Extend `cases` with a parallel sub-structure that adds the `plural` dimension without breaking the existing singular paths — not cleanly achievable in JSON without nesting changes.
+
+Option C: Migrate the 223 existing `cases` entries to the new structure and update all `dataPath` references in grammar-features.json. Clean, but requires migrating 223 entries before any new data entry.
+
+Document the decision in PROJECT.md before Phase 1 of v1.2 begins.
 
 **Warning signs:**
-- "beste_adj" appearing in curriculum JSON files (check before removing)
-- Leksihjelp returning two different base entries for the word "beste"
+- Any script that appends `cases.dativ` or `cases.genitiv` alongside the existing `cases.nominativ` using the existing flat structure — Dativ singular of "der Freund" is "dem Freund" but Dativ plural is "den Freunden"; the existing structure cannot express both without a new nesting level
+- The grammar-features.json path `cases.akkusativ.ubestemt` breaking after any structural migration
 
 **Phase to address:**
-Pre-data-entry cleanup phase — audit "beste_adj" and curriculum references before writing any comparison data.
+Schema definition phase — the structural decision must be made and written into the schema before any noun data entry begins. This is the single highest-risk decision for the noun declension work.
 
 ---
 
-### Pitfall 9: Schema Validation Mismatch — "translations" Required but Missing on All 108 Entries
+### Pitfall 9: Dative Plural -n Rule Applied to -s Plural Nouns
 
 **What goes wrong:**
-The adjective schema declares `"required": ["translations"]`, but all 108 existing adjective entries have no "translations" field. Schema validation would fail for every existing entry if it were actually enforced. Adding the new `declension` or `comparison` field while running schema validation would surface 108 errors immediately, blocking any automated pipeline that validates against the schema.
+German Dative plural requires -n to be added to the plural form for all nouns — EXCEPT nouns whose plural already ends in -s or -n. 26 nouns in the bank have -s plurals (foreign/borrowed words):
+- die Fotos, die Hobbys, die Kinos, die Omas, die Opas, die Cafés, die Restaurants, die Parks, die Zoos, die Blogs, die Autos, die Partys, die Tests, die T-Shirts, die Joghurts, die Cousins, die Tees, die Kaffees, die Babys, die Highlights, die Müslis, die Interviews, die Überraschungspartys, die Sonnencremes, die Reis, die Eis
+
+The Dative plural of these nouns stays the same as the Nominativ plural: "den Fotos" (not "den Fotosn"). A rule-engine that mechanically adds -n to every plural form will produce "den Fotosn", "den Hobbysen", "den Restaurantsn" — all wrong.
 
 **Why it happens:**
-The schema was defined aspirationally (what adjective entries should have), but the actual data was loaded before translations were populated. This gap has existed since before v1.0. It was not a blocker for v1.0 because noun/verb schemas were the focus. Now that adjective data is being actively extended, any CI/schema-validation step will fail on existing data.
+The -n rule is a standard German grammar rule that is almost always taught without the -s exception. Scripts applying it will miss the exception unless specifically coded to check for it.
 
 **How to avoid:**
-Either (a) remove `"translations"` from the schema's required array (making it optional), (b) add `"translations": {}` to all 108 entries as placeholder before validation runs, or (c) skip schema validation for the adjective bank until translations are populated. Decide the approach before writing a verification script that calls `ajv` or similar on adjectivebank.json. Do not let schema validation failures block data entry progress.
+Before writing the declension generation script, identify all nouns with -s plural endings (query the bank for `plural` values ending in "s"). Add a check in the generation script: if `plural.endsWith("s")`, Dative plural = Nominativ plural (no -n added). Alternatively, since plurals are already stored, compute Dative plural from the stored plural string rather than from a rule.
 
 **Warning signs:**
-- Any automated verification script using JSON Schema validation that flags 108 errors on adjective entries with no other issues
-- Interpreting "schema validation fails" as "data is corrupt" when the schema is aspirational
+- Any Dative plural form for Foto/Kino/Auto/Restaurant ending in "-n" — immediately wrong
+- Spot check: `auto_noun` Dative plural should be "den Autos", not "den Autosn"
 
 **Phase to address:**
-Schema definition phase — update the schema to match reality (translations as optional) before writing any verification scripts.
+Data generation phase — include the -s plural exception as an explicit rule in the generation script. Add a verification check: count nouns with -s plural endings; all must show Dative plural = Nominativ plural (no suffix change).
 
 ---
 
-### Pitfall 10: Goethe "Other" Bucket Duplicates Adding Already-Present Adjectives
+### Pitfall 10: Plural-Only and Uncountable Nouns Given Full Singular/Plural Declension
 
 **What goes wrong:**
-262 of the 1,191 "other" bucket entries appear across multiple CEFR levels (e.g., "alt" appears in A1, A2, and B1). Several adjectives already in the bank also appear in the "other" bucket: "alt", "groß", "gut", "schnell", "langsam", "warm", "kalt", "jung", "stark", and others. Extracting adjectives from the bucket without checking against the existing bank will attempt to add duplicate entries, causing either a collision (duplicate _id) or a silent overwrite.
+Two categories of nouns require special handling:
+
+**Plural-only (genus = "pl"):** Eltern and Ferien have no singular forms. A declension generator that creates singular Nominativ, Genitiv, Dativ, Akkusativ forms for these nouns will produce "der Elter", "dem Elter" — forms that do not exist in German. These nouns decline only in plural forms.
+
+**Uncountable (plural = null):** 25 nouns have no plural, including Mathematik, Deutsch, Biologie, Musik, Unterricht, Wetter, Hunger. A declension generator that creates plural forms for these will produce "die Mathematiken", "die Weibläufe" — all wrong.
+
+Additionally, several nouns use informal markers instead of proper plural forms: "Hunger" has `plural: "(ingen flertall)"`, "Stress" has `plural: "(usually uncountable)"`, "Milch" has `plural: " (ingen flertall) "`. These are legacy data quality issues — these entries have non-null plural values that are not actual German plural forms.
 
 **Why it happens:**
-The extraction script treats the 1,191 entries as a fresh source without cross-referencing the 108 entries already in the bank. The Goethe wordlists were parsed without deduplication, so "alt" appears three times in the combined other bucket.
+The generation script iterates all 331 nouns without filtering. The `genus = "pl"` and `plural = null` signals exist in the data but must be explicitly checked in the generator.
 
 **How to avoid:**
-The extraction script must first build a set of all existing adjective bank word values (case-insensitive), then filter every candidate: only add it if the lowercased word is NOT already in the bank. Also deduplicate within the extracted candidates themselves (262 duplicates cross-CEFR). This is a straightforward pre-filter but it must be explicit in the plan.
+The generation script must check three conditions before generating any form:
+1. If `genus === "pl"`: generate plural forms only, mark singular forms as null or omit them
+2. If `plural === null`: generate singular forms only, mark plural forms as null or omit them
+3. If `plural` contains parenthetical text (starts with "(" or contains "ingen flertall"): treat as uncountable, generate singular only
+
+Before running generation, clean the legacy entries: normalize "(ingen flertall)" to `plural: null` for Hunger, Milch, Aussehen, Wetter. Fix "Stress" similarly.
 
 **Warning signs:**
-- Extracted candidate count exceeds ~100 unique words (the bucket has duplicates)
-- "alt", "gut", "warm" appearing in the list of "new" adjectives to add
+- "der Elter" or "dem Eltern" (wrong singular of Eltern) appearing in any output
+- "die Mathematiken" as a plural form
+- Any generated form for a noun whose `plural` value contains parentheses
 
 **Phase to address:**
-Adjective extraction phase — deduplication is step 1 before any classification.
+Pre-data-entry cleanup phase — normalize plural markers to `null` for uncountable nouns. Schema definition phase — document how plural-only and singular-only nouns are represented in the full declension block.
 
 ---
 
-### Pitfall 11: "gern" Cannot Be Declined Attributively — But Is in the Adjective Bank
+### Pitfall 11: Verb Preteritum Sync Discrepancy — Dictionary Bank Does Not Have Preteritum
 
 **What goes wrong:**
-"gern" (gladly/willingly) is stored in the adjective bank but is primarily an adverb. It cannot be used attributively: "ein gernes Buch" is ungrammatical. If the data entry adds a declension table to "gern", it will generate "ein gernes Buch", "einem gernen Kind" — all wrong. The suppletive comparative "lieber" and superlative "am liebsten" are adverbial forms only ("ich esse lieber Reis" not "*ein lieberes Essen").
+A critical pre-existing sync failure will compound for Perfektum data: the `vocabulary/dictionary/de/verbbank.json` contains 0 of the 148 verbs' preteritum conjugations, even though `vocabulary/core/de/verbbank.json` has all 148. Direct inspection confirms: `sein_verb` in the dictionary bank has only `conjugations.presens` — the `preteritum` conjugation block is absent. This is true for all 148 verbs.
+
+If the Perfektum milestone follows the same incomplete sync pattern, Perfektum data will be in the core bank but absent from the dictionary bank, making the v2 lookup API unable to return Perfektum data even after the feature is built.
 
 **Why it happens:**
-"gern" behaves like an adjective in the sense that it can appear predicatively ("das ist mir gern") and has suppletive comparison forms. It was classified as an adjective in the bank, which is defensible for pedagogical purposes. But adding a full declension table crosses into grammatically wrong territory.
+The v1.0 preteritum milestone appears to have written data to the core bank (which serves Leksihjelp via the v1 API) but did not propagate the conjugation data to the dictionary bank. The dual-bank sync requirement was either forgotten or deferred. Since v1.0 shipped and Leksihjelp works (it reads the v1/core API), the discrepancy went unnoticed.
 
 **How to avoid:**
-Mark "gern" with `indeclinable: true` (same flag as lila/rosa/orange) — this is the most conservative approach. Alternatively, give it only a comparison field (gern → lieber → liebst-) with a note that declension is not applicable. Do not generate any declined forms for "gern".
+Before writing any Perfektum data, decide whether to also backfill the preteritum data to the dictionary bank — or explicitly document why the dictionary bank does not carry conjugation data. Then ensure the Perfektum milestone writes data to BOTH banks from the start. Add a verification step to the Perfektum integration phase: confirm that `dictionary/de/verbbank.json` contains `conjugations.perfektum` for at least one verb before marking the phase complete.
 
 **Warning signs:**
-- "gernem", "gerner", "gernes" appearing as indexed forms of "gern"
-- Declension table generation script including "gern" in the full-table category
+- The v2 lookup API response for any verb not containing `conjugations.preteritum` — signals the dictionary sync was never done
+- Any phase plan that writes only to `core/de/verbbank.json` without a matching write to `dictionary/de/verbbank.json`
 
 **Phase to address:**
-Schema design phase — flag gern alongside lila/rosa/orange before any declension generation.
+Integration phase (first step) — audit the dictionary verbbank and decide on the backfill strategy. Perfektum data entry phase — write to both banks simultaneously.
 
 ---
 
-### Pitfall 12: "Lieblings-" Is a Prefix, Not an Adjective
+### Pitfall 12: Perfektum Conjugation of "sein" Uses Wrong Form ("hat gewesen" vs. "ist gewesen")
 
 **What goes wrong:**
-"Lieblings-" (favorite-) is stored in adjectivebank.json but is a nominal prefix used to form compounds ("Lieblingsessen", "Lieblingsfarbe") — it is not an adjective. It cannot appear standalone, cannot be declined, and has no comparative or superlative. Adding any grammar data to it is wrong. Including it in declension generation produces meaningless forms.
+`sein` (to be) takes sein as its auxiliary in Perfektum: "ich bin gewesen", not "ich habe gewesen". This is correct and well-known. However, the past participle "gewesen" is irregular — it has the ge- prefix on a suppletive stem (not from the infinitive "sein" via any rule). A script computing the participle from the infinitive stem will produce "geseint" or similar nonsense.
+
+Similarly, `werden` in its standard Perfektum uses: "ich bin geworden" — again a suppletive participle. And `haben` itself: "ich habe gehabt" (regular, but must be verified).
+
+These three auxiliary-capable verbs are all in the bank and all need individual treatment.
 
 **Why it happens:**
-It was filed under adjectives pedagogically (it conveys a quality-like concept), but grammatically it is a derivational prefix, not an adjective. The adjectivebank.json currently holds it without a flag.
+The same pattern that caused problems for strong verb preteritum (which v1.0 correctly solved by individual lookup) applies here. Sein, werden, and haben are the most irregular German verbs and must be processed first, individually, as the test cases for any generation approach.
 
 **How to avoid:**
-The declension generation script must explicitly exclude "lieblings-_adj" by _id. Consider adding a `"type": "prefix"` field to this entry so future scripts can filter by type. Do not generate any comparison or declension data for it.
+Maintain a "process first" list for Perfektum as was done for preteritum. Mandatory first entries to enter and verify: sein (bin gewesen), haben (habe gehabt), werden (bin geworden). After these three are confirmed correct, the regular verb generation can proceed.
 
 **Warning signs:**
-- "Lieblings-er", "Lieblings-em" appearing in any generated form list
-- Verification script treating _id "lieblings-_adj" as a normal adjective entry
+- Any generated form "geseint", "gewerdet", "gehabet" — all wrong
+- `sein_verb` participle showing anything other than "gewesen"
+- `werden_verb` participle showing anything other than "geworden"
 
 **Phase to address:**
-Pre-data-entry cleanup phase — identify non-adjective entries in the adjective bank and exclude them from all grammar data generation.
+Data entry phase — list sein, haben, werden as the mandatory first three Perfektum entries, verified before processing any other verb.
+
+---
+
+### Pitfall 13: Search Index Bloat from Indexing All Declined Noun Forms as Separate Entries
+
+**What goes wrong:**
+The current search index has 3,454 entries and is 420 KB. If all 4 cases × 2 numbers × 2 article-definiteness variants × 331 nouns = ~5,296 noun forms are added as separate search index entries, the index would grow by ~12x for nouns alone (from ~1,641 noun entries to ~6,937+ noun entries). At 420 KB currently, this would push the search index well past 1 MB, increasing cold-start parse time on Vercel serverless functions and slowing all search requests.
+
+The current search index approach stores only base forms (1 entry per word). Inflection search works through the v2 lookup API reading the bank data directly, not through index entries for each inflected form.
+
+**Why it happens:**
+The v1.1 milestone's ARCHITECTURE.md explicitly warned against adding declension cells to the search index. But for noun declension it is tempting to add declined forms as search entries so users can type "dem Freund" and find "Freund" in the results.
+
+**How to avoid:**
+Do NOT add declined noun forms as separate search index entries. The search index continues to hold 1 entry per base noun form. The v2 lookup API, which reads the full noun bank data, handles declension-aware lookup. Document this decision in the noun declension phase plan so future developers do not reopen the question.
+
+**Warning signs:**
+- Search index entry count approaching 10,000+ entries (current: 3,454)
+- Any search index entry where the `w` field is a declined form ("dem Freund", "den Hunden") rather than the base noun
+
+**Phase to address:**
+Integration phase — explicitly state in the phase plan that the search index receives only one new entry per noun (the base form), and that declined forms are resolved through the bank data directly.
 
 ---
 
@@ -272,11 +437,12 @@ Shortcuts that seem reasonable but create long-term problems.
 
 | Shortcut | Immediate Benefit | Long-term Cost | When Acceptable |
 |----------|-------------------|----------------|-----------------|
-| Store only comparative/superlative stems, not full 144-cell table | Much less data to write (3 fields vs 144 per adjective) | Leksihjelp must implement declension algorithm client-side; if algorithm has bugs, all forms are wrong | Only if Leksihjelp team explicitly confirms they can compute forms from stems |
-| Apply -er/-st endings algorithmically to all adjectives | Fast data entry | Wrong for gut/viel/gern/hoch; wrong for teuer (elision); wrong for indeclinable adjectives | Never as the sole approach — algorithmic results must always be verified against irregular list |
-| Skip adjective extraction from "other" bucket and only add grammar data to existing 108 | Simpler milestone scope | Students still can't find B1 adjectives like "nützlich", "vorsichtig", "ärgerlich" | Acceptable as a phased approach if extraction is deferred to v1.2 |
-| Add placeholder `"comparison": {}` to all 108 without real data | Schema validation passes | Leksihjelp indexes nothing useful; worse than no comparison field at all | Never — either add real data or don't add the field |
-| Use the same CEFR level for all newly extracted adjectives | Simpler | Loses the A1/A2/B1 granularity that Leksihjelp might use for level-appropriate search results | Acceptable if intro level is stored from the source bucket metadata instead |
+| Skip dual-bank sync for Perfektum (write to core only) | Saves time; Leksihjelp v1 works immediately | v2 lookup API cannot serve Perfektum data; mirrors existing preteritum debt in dictionary bank | Never — each milestone should write to both banks |
+| Assign a single auxiliary to all dual-auxiliary verbs (pick the "most common" one) | Simpler data entry; no need for `dual_auxiliary` flag | Students who encounter the alternate auxiliary usage get no explanation; schwimmen/fahren are genuinely ambiguous | Only acceptable if the `auxiliary_note` field is added to document the alternate usage |
+| Store only the past participle, not full Perfektum conjugations for all 6 pronouns | Much less data (1 field vs 6 per verb) | Leksihjelp cannot display a full Perfektum conjugation table; inflection search for "ist gegangen" requires the full forms to be indexed | Acceptable if Leksihjelp only needs the participle for its search (confirm before deciding) |
+| Use a single flat `cases` structure for full noun declension (extend existing `cases` key) | No new key needed; schema change is additive | Breaks existing `dataPath` references in grammar-features.json; breaks Leksihjelp clients reading `cases.akkusativ.bestemt` as a string | Never — the structural conflict is real and must be resolved with a new key or a migration |
+| Generate noun declension algorithmically without marking n-Deklination nouns | Fast; works for 320/331 nouns | 11 n-Deklination nouns get wrong Genitiv/Dativ/Akkusativ forms indexed; students cannot find "des Löwen" | Never — the exceptions are known and small enough to handle explicitly |
+| Skip backfilling preteritum to dictionary bank while adding Perfektum | Reduces scope of v1.2 | The dictionary verbbank stays inconsistent (has presens but not preteritum or Perfektum); v2 API users always see incomplete conjugation data | Acceptable if backfill is explicitly deferred to v1.3 and documented in PROJECT.md |
 
 ---
 
@@ -286,10 +452,11 @@ Common mistakes when connecting to external services.
 
 | Integration | Common Mistake | Correct Approach |
 |-------------|----------------|------------------|
-| Leksihjelp inflection search | Assuming Leksihjelp will automatically index the new `comparison` field without code changes | Verify with the Leksihjelp codebase what fields it actually indexes — v1.0 confirmed "conjugations" and "plural" are indexed; adjective `comparison` or `declension` fields may need Leksihjelp-side changes |
-| Vercel auto-deploy | Committing large adjectivebank.json with 15,000+ cells and assuming CDN cache clears | CDN cache-control is set to 24 hours (s-maxage=86400); purge Vercel CDN after pushing or wait 24h before testing Leksihjelp with new data |
-| API response format | Adding a `declension` top-level field to adjectivebank.json entries and assuming it appears in `/api/vocab/v1/core/german` | The API handler reads `adjectivebank.json` and merges it into combined response — no code change needed; verify by calling the API after deploy |
-| Schema validation CI | Running strict JSON Schema validation against adjective entries | Current schema requires `translations` which no existing entry has; schema must be updated before validation runs, not after |
+| Vercel CDN cache | Deploying Perfektum data and immediately testing via Leksihjelp, seeing no change | CDN `s-maxage=86400` means up to 24h until clients see new data; purge the Vercel CDN after deploying or wait before testing end-to-end |
+| v2 lookup API (`[wordId].js`) | Assuming Perfektum data appears in the response automatically once added to verbbank | The lookup handler at line 218 passes `entry.conjugations` through directly; Perfektum will appear automatically — but only if data was written to `vocabulary/dictionary/de/verbbank.json` (not just core bank) |
+| Grammar-features.json | Adding a new Perfektum grammar feature without registering it | The feature `grammar_perfektum` is already registered in grammar-features.json with `dataPath: "conjugations.perfektum"` — no change needed. For noun full-declension, a new `grammar_noun_declension` feature ID may be needed if the data path changes from the existing `cases.dativ` |
+| v2 lookup API — noun `cases` vs `full_declension` | Assuming the new full declension key automatically appears in v2 response | The v2 lookup handler at line 213-214 explicitly names `cases` and `declension` as the fields it passes through. A new `full_declension` key will NOT appear unless the handler is updated to include it |
+| Search index rebuild | Rebuilding the search index and forgetting to deploy `search-index.pretty.json` alongside `search-index.json` | Both files exist in `dictionary/de/` — the rebuild script must update both, or the pretty-print version goes stale |
 
 ---
 
@@ -299,8 +466,9 @@ Patterns that work at small scale but fail as usage grows.
 
 | Trap | Symptoms | Prevention | When It Breaks |
 |------|----------|------------|----------------|
-| Storing 144 cells × (108 + N new adjectives) inline in adjectivebank.json | File size grows from ~551 lines to 15,000+ lines; slow JSON parse on Vercel cold start | Evaluate whether Leksihjelp needs full cell table or just stems before committing to full-table approach | At current scale (~200 adjectives) this is tolerable; at 500+ adjectives it becomes problematic |
-| No deduplication in the extracted adjective list | Script runs fine but adds 262 duplicate records when processing all three CEFR level files | Deduplicate by word string before insertion, then by existing bank word strings | Breaks immediately on first extraction run if not addressed |
+| Adding 16 declined forms per noun to the search index | Search index grows from 420 KB to 2+ MB; Vercel cold-start parse time increases; search latency degrades | Keep search index at 1 entry per base noun; inflection lookup stays in bank data | Immediately if all 331 nouns × 16 forms are indexed |
+| Adding full Perfektum conjugation tables to the search index (indexing "bin gegangen", "bist gegangen", etc. as separate entries) | Search index balloons from 679 verb entries to 679 × 6 = 4,074+ entries just for verbs | Index only the base participle form as a synonym entry if inflection search is needed; do not create 6 pronoun-form entries per verb | At 148 verbs × 6 forms × 2 tenses (preteritum + Perfektum) = 1,776 extra entries — significant but not catastrophic |
+| Loading the full nounbank.json on every v2 lookup request | Nounbank is currently ~200 KB; with full declension data per noun it may reach 500-800 KB; cold-start parse time increases | Module-level cache (already in place in the v2 lookup handler via `indexCache`) prevents repeated disk reads; the bank parse overhead is a one-time cost per warm instance | Not a problem at current Vercel usage levels; would matter at high-traffic scale |
 
 ---
 
@@ -308,15 +476,20 @@ Patterns that work at small scale but fail as usage grows.
 
 Things that appear complete but are missing critical pieces.
 
-- [ ] **Declension data added:** Verify that indeclinable adjectives (lila, rosa, orange, cool, gern, Lieblings-) have `indeclinable: true` or equivalent and are NOT in any generated declension table
-- [ ] **Suppletive comparatives correct:** Verify gut=besser/best, viel=mehr/meist, gern=lieber/liebst are individually confirmed — not just that all 108 entries have a comparison field
-- [ ] **hoch stem change correct:** Verify "hoher", "hohe", "hohes", "hohem", "hohen" appear as indexed forms — NOT "hochem", "hochen", "hoches", "hochem"
-- [ ] **teuer elision correct:** Verify "teure" (NOT "teuere") appears as the NomF form of teuer
-- [ ] **Extracted adjectives are truly adjectives:** Verify no adverbs (manchmal, einmal, bald, geradeaus), prepositions, conjunctions, or parse artifacts appear in extracted list
-- [ ] **Duplicates removed:** Verify extracted list contains no words already in the 108-entry bank (alt, warm, kalt, schnell, etc.)
-- [ ] **"beste_adj" resolved:** Verify curriculum manifests have been checked and a decision made on whether "beste_adj" stays or is removed before gut's superlative generates "beste" as an indexed form
-- [ ] **Schema validation passes:** Verify the adjective schema has been updated so existing entries without translations don't fail validation
-- [ ] **Leksihjelp field name confirmed:** Verify the field name chosen for adjective grammar data ("comparison" vs "declension" vs other) matches what Leksihjelp actually looks for when building its search index
+- [ ] **Perfektum data written to BOTH banks:** Verify `vocabulary/dictionary/de/verbbank.json` contains `conjugations.perfektum` for at least 5 verbs across different categories (strong, weak, separable, inseparable, reflexive) before marking the data entry phase complete
+- [ ] **Dual-auxiliary verbs flagged:** Verify that ausziehen, fahren, fliegen, schwimmen, laufen have `dual_auxiliary: true` and `auxiliary_note` fields
+- [ ] **Separable verb participles correct:** Spot-check: aufstehen=aufgestanden, mitnehmen=mitgenommen, einladen=eingeladen — ge- must be between prefix and stem
+- [ ] **Inseparable verb participles correct:** Spot-check: besuchen=besucht, vergessen=vergessen, bekommen=bekommen — no ge- prefix
+- [ ] **N-Deklination nouns have weak forms:** Verify Bär Genitiv="des Bären" (not "des Bärs"), Elefant Dativ="dem Elefanten", Affe Akkusativ="den Affen"
+- [ ] **False positives avoided:** Verify Käse Genitiv="des Käses" (strong! not "des Käsen"), See Genitiv="des Sees" (strong)
+- [ ] **Dative plural of -s plural nouns:** Verify Auto Dative plural="den Autos" (not "den Autosn"), Restaurant Dative plural="den Restaurants"
+- [ ] **Eltern has no singular forms:** Verify declension for Eltern contains only plural data
+- [ ] **Uncountable nouns have no plural forms:** Verify Mathematik, Deutsch, Musik have no generated plural declension forms
+- [ ] **Sein/haben/werden Perfektum correct:** sein=gewesen (sein), haben=gehabt (haben), werden=geworden (sein)
+- [ ] **Modal Perfektum documented:** möchten entry has a note that it uses gemocht from mögen; all modals have `modal_note` in Perfektum block
+- [ ] **Noun schema structure decided:** PROJECT.md documents the chosen structural approach (new key vs. migration) before any noun declension data is written
+- [ ] **v2 API handler updated for new noun key:** If `full_declension` key is chosen, verify the v2 lookup handler at line 213 is updated to pass it through
+- [ ] **Grammar-features.json updated for noun declension:** New feature IDs for Dativ and Genitiv noun cases registered if data path changes
 
 ---
 
@@ -326,14 +499,15 @@ When pitfalls occur despite prevention, how to recover.
 
 | Pitfall | Recovery Cost | Recovery Steps |
 |---------|---------------|----------------|
-| hoch/trocken/teuer stem wrong | LOW | Fix 3 entries in adjectivebank.json, re-verify, push; no structural change |
-| Indeclinable adj got declension table | LOW | Remove declension field from lila/rosa/orange/cool entries; re-push |
-| Suppletive comparative wrong (gut got "guter") | LOW | Fix 3 entries, re-run spot-check script, push |
-| Adverb-only words extracted as adjectives | MEDIUM | Audit all extracted entries against "ein ___er Mann" test; remove wrong ones; push; Leksihjelp search index rebuilds on next sync |
-| Duplicate entries added (collision on _id) | MEDIUM | Identify duplicate _ids, remove the collision entries, verify curriculum manifests still reference correct _ids |
-| Schema validation blocks the CI pipeline | LOW | Update schema required fields from `["translations"]` to `[]`; re-run validation |
-| "beste_adj" creates duplicate index entries | LOW | Remove beste_adj if not in any curriculum manifest; if in curricula, document the intentional duplication |
-| Leksihjelp doesn't index the new comparison field | HIGH | Requires Leksihjelp code change (out of scope for this repo); coordinate with Leksihjelp team before writing data in a format they don't yet consume |
+| Wrong auxiliary for a batch of verbs | LOW | Fix auxiliary field and conjugated forms in verbbank entries; re-deploy; no structural change |
+| Separable verb ge- position wrong (geaufgestanden) | LOW | Fix participle in affected entries; re-generate conjugated forms; spot-check before re-deploy |
+| Inseparable verb given spurious ge- (gebesucht) | LOW | Fix participle; verify all inseparable verbs; re-deploy |
+| N-Deklination noun given strong endings | MEDIUM | Identify all 11 n-Deklination nouns; fix Genitiv/Dativ/Akkusativ forms in all cases; re-deploy; search index may need rebuild if declined forms were indexed |
+| Dative plural -n added to -s plural nouns | MEDIUM | Identify all 26 -s plural nouns; fix Dative plural forms; re-deploy |
+| Noun schema structural conflict (cases key collision) | HIGH | Requires migrating existing 223 `cases` entries to new structure; updating grammar-features.json dataPath references; updating v2 API handler; re-deploy; test all noun lookups |
+| Perfektum data missing from dictionary bank | MEDIUM | Write Perfektum data to dictionary/de/verbbank.json for all 148 verbs; re-deploy; test v2 API verb lookup |
+| Search index bloated with declined forms | MEDIUM | Remove declined form entries from search-index.json; rebuild index; re-deploy; 24h CDN cache before clients see corrected index |
+| Reflexive verb wrong pronoun in Perfektum | LOW | Fix pronoun agreement in affected entries; spot-check all 26 reflexive verbs; re-deploy |
 
 ---
 
@@ -343,32 +517,36 @@ How roadmap phases should address these pitfalls.
 
 | Pitfall | Prevention Phase | Verification |
 |---------|------------------|--------------|
-| hoch stem change | Schema design — store attributive stem separately | Spot-check: "hohem" must resolve to "hoch"; "hochem" must not appear |
-| Indeclinable adjectives get wrong forms | Schema design — add `indeclinable` flag before generation | Verify lila/rosa/orange/cool/gern have flag; verify no -s/-m/-n/-r forms generated for them |
-| Suppletive comparatives wrong | Data entry — irregulars first, individually verified | Mandatory spot-check: gut=besser/best, viel=mehr/meist, gern=lieber/liebst |
-| Positive NomM = comparative base collision | Schema design — document intentional overlap | No verification needed — both return same base entry (expected behavior) |
-| False adjective extraction from "other" bucket | Extraction phase — apply "ein ___er Mann" test | Manual review of all extracted candidates; count should be ~80-130, not 200+ |
-| -el/-er elision (teuer) | Data entry — include teuer in special-case group | Spot-check: teuer NomF = "teure" (not "teuere") |
-| Participials without comparatives | Schema design — add `nicht_komparierbar` flag | Verify überrascht/gespannt/bewölkt have flag; no comparative forms generated |
-| "beste_adj" collision with gut's superlative | Pre-data-entry cleanup | Check all curricula for "beste_adj" before touching gut's comparison field |
-| Schema translations required but missing | Schema extension phase — fix schema before any validation | `ajv validate adjectivebank.json` passes with 0 errors |
-| Goethe bucket duplicates | Extraction phase — deduplicate by word string first | Extracted list count after dedup is less than before dedup |
-| "gern" treated as declinable | Schema design — flag gern alongside indeclinable colors | No "gernem", "gernes", "gerner" in generated forms |
-| "Lieblings-" treated as adjective | Pre-data-entry cleanup | Explicitly excluded from all generation by _id check |
-| Leksihjelp not indexing comparison field | Leksihjelp coordination before data design | Confirm field name and format with Leksihjelp before committing to schema shape |
+| Haben/sein assignment for dual-auxiliary verbs | Schema definition — add `dual_auxiliary` flag and `auxiliary_note` field | Spot-check: ausziehen and schwimmen have `dual_auxiliary: true`; all conjugated forms use the primary auxiliary |
+| Separable verb ge- position error | Data entry — separable verbs processed as named group, participles stored explicitly | Spot-check: mitgenommen (NOT gemitgenommen), aufgestanden (NOT geaufgestanden) |
+| Inseparable prefix verbs given ge- | Schema definition — add `inseparable: true` flag; data entry — explicit participles | Spot-check: besucht (NOT gebesucht), vergessen (NOT gevergessen) |
+| Modal verbs treated as regular verbs | Data entry — modals processed separately with modal_note | All 7 modals have `auxiliary_note` or `modal_note`; möchten has no standalone participle |
+| Reflexive pronoun agreement in Perfektum | Data entry — reflexive verbs verified across all 6 persons | Check ich/du/wir forms for 3 reflexive verbs: no "sich" for ich or du forms |
+| Verb phrase entries treated as regular verbs | Data entry — 4 verbphrase entries processed outside main loop | All 4 verbphrase IDs have manually verified Perfektum forms |
+| N-Deklination nouns declined as strong | Schema definition — `weak_masculine: true` flag; pre-entry audit | Spot-check: Bär Genitiv=Bären, Elefant Dativ=Elefanten |
+| Noun `cases` schema conflict | Schema definition phase — structural decision made, documented in PROJECT.md | `ajv validate nounbank.json` passes with zero errors after schema change |
+| Dative plural -n on -s plural nouns | Data generation — explicit -s plural check in generation script | All 26 -s plural nouns have Dative plural = Nominativ plural |
+| Plural-only and uncountable nouns given wrong forms | Pre-entry cleanup — normalize plural markers; schema handling | Eltern has no singular declension; Mathematik has no plural declension |
+| Verb preteritum sync discrepancy in dictionary bank | Integration phase — audit dictionary verbbank before writing Perfektum | `dictionary/de/verbbank.json` contains `conjugations.perfektum` for sein_verb after phase |
+| Sein/haben/werden Perfektum irregular | Data entry — these 3 processed first as mandatory test cases | sein participle=gewesen, werden participle=geworden, haben participle=gehabt |
+| Search index bloat from declined forms | Integration phase — explicit rule: no declined forms in search index | Search index entry count for nouns does not exceed current 1,641 |
+| v2 API missing new noun declension key | Integration phase — v2 handler updated if new key used | v2 GET /api/vocab/v2/lookup/german/freund_noun response contains full declension data |
 
 ---
 
 ## Sources
 
-- `vocabulary/core/de/adjectivebank.json` — direct inspection of all 108 existing entries
-- `vocabulary/schema/adjective.schema.json` — current schema (translations required but not present)
-- `vocabulary/dictionary/sources/goethe-a1-words.json`, `goethe-a2-words.json`, `goethe-b1-words.json` — direct analysis of the 1,191 "other" bucket entries
-- `vocabulary/curricula/vocab-manifest-tysk1-vg1.json` — curriculum cross-reference for _id integrity
-- `api/vocab/v1/core/[language].js` — API handler (no code change needed for data additions)
-- `.planning/milestones/v1.0-phases/02-add-german-preteritum-conjugations/02-VERIFICATION.md` — v1.0 verification approach (spot-check pattern)
-- German grammar knowledge: Duden-level rules for hoch/hoh-, suppletive gut/besser/best-, indeclinable color adjectives, -er elision in teuer/dunkl-
+- `vocabulary/core/de/verbbank.json` — direct inspection: 148 entries, 7 modals, 19 separable, 26 reflexive, 20 inseparable-prefix verbs identified
+- `vocabulary/dictionary/de/verbbank.json` — direct inspection: confirmed preteritum absent for all 148 shared verbs (existing sync debt)
+- `vocabulary/core/de/nounbank.json` — direct inspection: 331 entries, 223 with partial `cases` data (nominativ/akkusativ only), 2 with `declension` key, 25 uncountable, 2 plural-only, 26 with -s plural
+- `vocabulary/schema/verb.schema.json` — confirmed no `inseparable`, `dual_auxiliary`, or `particip` fields present
+- `vocabulary/schema/noun.schema.json` — confirmed `cases` key structure; identified structural conflict for full 4-case declension
+- `vocabulary/grammar-features.json` — confirmed `grammar_perfektum` feature already registered; `cases.akkusativ.ubestemt` dataPath confirmed
+- `api/vocab/v2/lookup/[language]/[wordId].js` — direct inspection: lines 213-220 show which noun/verb fields are passed through; `declension` already handled for adjective's `declension.positiv` check at line 252
+- `vocabulary/dictionary/de/search-index.json` — 3,454 entries, 420 KB; no declined forms currently indexed; 1,641 noun base forms, 679 verb base forms
+- `.planning/research/PITFALLS.md` (v1.1 research) — precedents: explicit form storage decision, dual-bank sync requirement, preteritum spot-check pattern
+- German grammar knowledge: n-Deklination paradigm (Duden Grammatik §4); dative plural -n rule and -s exception; Perfektum auxiliary selection rules (Hammer's German Grammar); inseparable prefix list; modal Perfektum double-infinitive construction
 
 ---
-*Pitfalls research for: Adding German adjective declension to Papertek Vocabulary API (v1.1 milestone)*
-*Researched: 2026-02-20*
+*Pitfalls research for: Adding German Perfektum conjugations and noun declension to Papertek Vocabulary API (v1.2 milestone)*
+*Researched: 2026-02-22*
