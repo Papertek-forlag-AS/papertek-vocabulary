@@ -219,6 +219,11 @@ export default async function handler(req, res) {
     if (entry.verbClass) response.verbClass = entry.verbClass;
     if (entry.separable) response.separable = true;
     if (entry.separablePrefix) response.separablePrefix = entry.separablePrefix;
+    if (entry.inseparable) response.inseparable = true;
+
+    // Noun declension fields (synced from core nounbank in Phase 15)
+    if (entry.weak_masculine) response.weakMasculine = true;
+    if (entry.declension_type) response.declensionType = entry.declension_type;
 
     // Adjective-specific fields
     if (entry.comparison) response.comparison = entry.comparison;
@@ -246,6 +251,12 @@ export default async function handler(req, res) {
       grammarFeatures.push('grammar_accusative_definite');
     }
     if (entry.cases?.dativ) grammarFeatures.push('grammar_dative');
+    if (entry.cases?.nominativ?.feature === 'grammar_noun_declension') {
+      grammarFeatures.push('grammar_noun_declension');
+    }
+    if (entry.cases?.genitiv?.feature === 'grammar_genitiv') {
+      grammarFeatures.push('grammar_genitiv');
+    }
     if (entry.comparison?.komparativ) grammarFeatures.push('grammar_comparative');
     if (entry.comparison?.superlativ) grammarFeatures.push('grammar_superlative');
     // Adjective declension — positiv key is unique to adjective declension blocks
