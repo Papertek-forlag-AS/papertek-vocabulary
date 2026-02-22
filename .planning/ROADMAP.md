@@ -126,6 +126,6 @@ Plans:
 | 10. Integration | v1.1 | 1/1 | Complete | 2026-02-21 |
 | 11. Schema Extensions | 1/1 | Complete    | 2026-02-22 | - |
 | 12. Pre-Entry Audit | 1/1 | Complete    | 2026-02-22 | - |
-| 13. Perfektum Data | 1/1 | Complete   | 2026-02-22 | - |
+| 13. Perfektum Data | 1/1 | Complete    | 2026-02-22 | - |
 | 14. Noun Declension Data | v1.2 | 0/? | Not started | - |
 | 15. Sync & Integration | v1.2 | 0/? | Not started | - |
