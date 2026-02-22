@@ -23,10 +23,31 @@
           "type": "string",
           "description": "Word type/part of speech",
           "enum": [
-            "noun", "verb", "adj", "adv", "prep", "conj", "interj",
-            "pron", "art", "num", "phrase", "interr", "propn", "contr", "expr",
-            "dem_pron", "poss_pron", "dobj_pron", "iobj_pron", "refl_pron",
-            "strong", "weak", "modal", "reflexive", "separable"
+            "noun",
+            "verb",
+            "adj",
+            "adv",
+            "prep",
+            "conj",
+            "interj",
+            "pron",
+            "art",
+            "num",
+            "phrase",
+            "interr",
+            "propn",
+            "contr",
+            "expr",
+            "dem_pron",
+            "poss_pron",
+            "dobj_pron",
+            "iobj_pron",
+            "refl_pron",
+            "strong",
+            "weak",
+            "modal",
+            "reflexive",
+            "separable"
           ]
         },
         "intro": {
@@ -39,7 +60,9 @@
         },
         "synonyms": {
           "type": "array",
-          "items": { "type": "string" },
+          "items": {
+            "type": "string"
+          },
           "description": "Synonyms in target language"
         },
         "translation_synonyms": {
@@ -49,7 +72,9 @@
           "$ref": "#/$defs/explanations"
         }
       },
-      "required": ["translations"]
+      "required": [
+        "translations"
+      ]
     },
     "translations": {
       "type": "object",
@@ -59,8 +84,7 @@
       },
       "additionalProperties": {
         "type": "string"
-      },
-      "minProperties": 1
+      }
     },
     "translationSynonyms": {
       "type": "object",
@@ -70,7 +94,9 @@
       },
       "additionalProperties": {
         "type": "array",
-        "items": { "type": "string" }
+        "items": {
+          "type": "string"
+        }
       }
     },
     "explanations": {
