@@ -68,7 +68,7 @@ Each task was committed atomically:
 1. **Task 1: Fix grammar_present to grammar_presens and add adjective genitive feature flag** - `f474b7d` (fix)
 2. **Task 2: Surface declension_alternatives as declensionAlternatives** - `126918b` (feat)
 
-**Plan metadata:** `[pending]` (docs: complete plan)
+**Plan metadata:** `7f4a962` (docs: complete plan)
 
 ## Files Created/Modified
 - `api/vocab/v2/lookup/[language]/[wordId].js` - Fixed grammar_presens ID, added grammar_adjective_genitive check, added declensionAlternatives field
