@@ -1602,6 +1602,7 @@
   "superheld_noun": {
     "word": "Superheld",
     "genus": "m",
+    "weak_masculine": true,
     "plural": "die Superhelden",
     "cases": {
       "nominativ": {
@@ -2303,6 +2304,7 @@
   "mensch_noun": {
     "word": "Mensch",
     "genus": "m",
+    "weak_masculine": true,
     "plural": "die Menschen",
     "cases": {
       "nominativ": {
@@ -2341,6 +2343,7 @@
   "elefant_noun": {
     "word": "Elefant",
     "genus": "m",
+    "weak_masculine": true,
     "plural": "die Elefanten",
     "cases": {
       "nominativ": {
@@ -2379,6 +2382,7 @@
   "loewe_noun": {
     "word": "Löwe",
     "genus": "m",
+    "weak_masculine": true,
     "plural": "die Löwen",
     "cases": {
       "nominativ": {
@@ -2398,6 +2402,7 @@
   "affe_noun": {
     "word": "Affe",
     "genus": "m",
+    "weak_masculine": true,
     "plural": "die Affen",
     "cases": {
       "nominativ": {
@@ -2417,6 +2422,7 @@
   "baer_noun": {
     "word": "Bär",
     "genus": "m",
+    "weak_masculine": true,
     "plural": "die Bären",
     "cases": {
       "nominativ": {
@@ -2475,7 +2481,9 @@
     "word": "Obst",
     "genus": "n",
     "plural": "(ikke i bruk)",
-    "synonyms": ["Frucht"],
+    "synonyms": [
+      "Frucht"
+    ],
     "cases": {
       "nominativ": {
         "intro": "6.3",
@@ -4404,6 +4412,7 @@
   "klassenkamerad_noun": {
     "word": "Klassenkamerad",
     "genus": "m",
+    "weak_masculine": true,
     "plural": "Klassenkameraden",
     "_id": "klassenkamerad_noun",
     "audio": "substantiv_klassenkamerad.mp3"
@@ -4572,6 +4581,7 @@
   "morgenmensch_noun": {
     "word": "Morgenmensch",
     "genus": "m",
+    "weak_masculine": true,
     "plural": "Morgenmenschen",
     "audio": "ord_morgenmensch.mp3",
     "_id": "morgenmensch_noun"
@@ -4628,6 +4638,7 @@
     "word": "Hase",
     "type": "noun",
     "genus": "m",
+    "weak_masculine": true,
     "plural": "die Hasen",
     "_id": "hase_noun",
     "audio": "substantiv_hase.mp3"
@@ -4708,6 +4719,7 @@
     "word": "Neffe",
     "type": "noun",
     "genus": "m",
+    "weak_masculine": true,
     "plural": "die Neffen",
     "_id": "neffe_noun",
     "audio": "substantiv_neffe.mp3"
@@ -4748,6 +4760,7 @@
     "word": "Nachbar",
     "type": "noun",
     "genus": "m",
+    "weak_masculine": true,
     "plural": "die Nachbarn",
     "_id": "nachbar_noun",
     "audio": "substantiv_nachbar.mp3"
