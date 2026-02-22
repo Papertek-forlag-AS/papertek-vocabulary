@@ -68,7 +68,9 @@ Plans:
   1. All 20 inseparable prefix verbs (be-, ver-, er-, ent-, ge- prefixed) have `inseparable: true` in the core verbbank and pass schema validation
   2. All 11 n-Deklination nouns have `weak_masculine: true` in the core nounbank and pass schema validation
   3. Preteritum conjugations are present for all 148 verbs in `vocabulary/dictionary/de/verbbank.json` (pre-existing sync gap resolved)
-**Plans**: TBD
+**Plans:** 1 plan
+Plans:
+- [ ] 12-01-PLAN.md — Flag inseparable verbs, n-Deklination nouns, and sync preteritum to dictionary bank
 
 ### Phase 13: Perfektum Data
 **Goal**: Every German verb has a complete, linguistically correct Perfektum block in the core verbbank
@@ -121,7 +123,7 @@ Plans:
 | 9. Translations | v1.1 | 1/1 | Complete | 2026-02-21 |
 | 10. Integration | v1.1 | 1/1 | Complete | 2026-02-21 |
 | 11. Schema Extensions | 1/1 | Complete    | 2026-02-22 | - |
-| 12. Pre-Entry Audit | v1.2 | 0/? | Not started | - |
+| 12. Pre-Entry Audit | v1.2 | 0/1 | Planned | - |
 | 13. Perfektum Data | v1.2 | 0/? | Not started | - |
 | 14. Noun Declension Data | v1.2 | 0/? | Not started | - |
 | 15. Sync & Integration | v1.2 | 0/? | Not started | - |
