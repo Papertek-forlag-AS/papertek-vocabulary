@@ -10,11 +10,11 @@ See: .planning/PROJECT.md (updated 2026-02-22)
 ## Current Position
 
 Phase: 16 — Data Fixes
-Plan: 02 of 3 complete
-Status: In progress
-Last activity: 2026-02-22 — Phase 16 Plan 02 complete (verb type classification + presens + dict sync)
+Plan: 03 of 3 complete
+Status: Phase complete
+Last activity: 2026-02-22 — Phase 16 Plan 03 complete (manifest count fixes — DATA-04)
 
-Progress: [░░░░░░░░░░░░░░░░░░░░] 0/3 phases complete
+Progress: [██████░░░░░░░░░░░░░░] 1/3 phases complete
 
 ## Performance Metrics
 
@@ -39,6 +39,7 @@ Decisions logged in PROJECT.md Key Decisions table (15 decisions, all ✓ Good o
 - Verb type priority order: reflexive > separable > modal > irregular > regular
 - Tags array only for secondary traits — never empty arrays on single-trait verbs
 - strong → irregular, weak → regular throughout verbbank (enum preserves old values for backward compat)
+- scripts/fix-manifest-counts.js counts entries dynamically (no hardcoded values) — safe to re-run as health check; curriculumWords confirmed 867 by direct count
 
 ### Blockers/Concerns
 
@@ -51,5 +52,5 @@ Decisions logged in PROJECT.md Key Decisions table (15 decisions, all ✓ Good o
 ## Session Continuity
 
 Last session: 2026-02-22
-Stopped at: Completed 16-02-PLAN.md (verb type classification + presens + dict sync — DATA-02, DATA-03)
-Resume with: Next plan in Phase 16
+Stopped at: Completed 16-03-PLAN.md (manifest count fixes — DATA-04)
+Resume with: Phase 16 complete — next milestone phase
