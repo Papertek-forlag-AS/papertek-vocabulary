@@ -42,6 +42,10 @@
         },
         "conjugations": {
           "$ref": "#/$defs/conjugations"
+        },
+        "inseparable": {
+          "type": "boolean",
+          "description": "True for verbs with inseparable prefixes (be-, er-, ge-, ent-, emp-, miss-, ver-, zer-) that never add ge- in participle"
         }
       },
       "required": ["translations"]
@@ -71,6 +75,28 @@
           "additionalProperties": {
             "type": "string"
           }
+        },
+        "auxiliary": {
+          "type": "string",
+          "description": "Auxiliary verb for Perfektum: haben, sein, or both",
+          "enum": ["haben", "sein", "both"]
+        },
+        "participle": {
+          "type": "string",
+          "description": "Past participle form (e.g., gemacht, gegangen)"
+        },
+        "auxiliary_note": {
+          "type": "object",
+          "description": "Object keyed by auxiliary explaining when each is used (dual-auxiliary verbs only)",
+          "additionalProperties": { "type": "string" }
+        },
+        "dual_auxiliary": {
+          "type": "boolean",
+          "description": "True for verbs that use both haben and sein depending on usage"
+        },
+        "modal_note": {
+          "type": "string",
+          "description": "Explains Ersatzinfinitiv behavior (modal verbs only)"
         }
       },
       "required": ["former"]
