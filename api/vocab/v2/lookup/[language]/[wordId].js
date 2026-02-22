@@ -227,6 +227,7 @@ export default async function handler(req, res) {
 
     // Adjective-specific fields
     if (entry.comparison) response.comparison = entry.comparison;
+    if (entry.declension_alternatives) response.declensionAlternatives = entry.declension_alternatives;
 
     // Intro field (curriculum)
     if (entry.intro) response.intro = entry.intro;
