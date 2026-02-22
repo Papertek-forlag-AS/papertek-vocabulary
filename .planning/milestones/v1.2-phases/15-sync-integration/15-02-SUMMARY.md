@@ -78,7 +78,7 @@ Each task was committed atomically:
 1. **Task 1: Create and run sync-perfektum.js and sync-nouns.js** - `90c7524` (feat)
 2. **Task 2: Update v2 lookup handler with new feature flags and response fields** - `bb78f39` (feat)
 
-**Plan metadata:** (docs commit follows)
+**Plan metadata:** `3966366` (docs: complete sync-integration plan 02)
 
 ## Files Created/Modified
 
@@ -112,6 +112,15 @@ None - no external service configuration required.
 - Dict banks are now fully bridged to core banks: Perfektum, noun declension, preteritum (Phase 12) all synced
 - v2 handler exposes all new grammar features and response fields
 - Ready for deploy to Vercel; note CDN cache (s-maxage=86400) means up to 24h before new data reaches Leksihjelp end users unless CDN is purged manually
+
+## Self-Check: PASSED
+
+All created files exist and all commits verified:
+- FOUND: scripts/sync-perfektum.js
+- FOUND: scripts/sync-nouns.js
+- FOUND: .planning/phases/15-sync-integration/15-02-SUMMARY.md
+- FOUND: commit 90c7524 (Task 1)
+- FOUND: commit bb78f39 (Task 2)
 
 ---
 *Phase: 15-sync-integration*

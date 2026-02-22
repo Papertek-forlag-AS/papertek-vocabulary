@@ -55,3 +55,42 @@
 
 ---
 
+
+## v1.2 — German Perfektum & Noun Declension (Shipped: 2026-02-22)
+
+**Phases:** 5 (11-15) | **Plans:** 8 | **Commits:** 40
+**Git range:** feat(11-01) → docs(phase-15)
+**Net change:** +95,504 / -7,125 across 54 files
+**Vocabulary data:** 308,989 lines JSON (total across core + dict banks)
+**Timeline:** 8 days (2026-02-14 → 2026-02-22)
+
+**Key accomplishments:**
+- Extended verb and noun JSON schemas with Perfektum and declension fields (additive, zero breakage on existing data)
+- Flagged 17 inseparable prefix verbs and 11 n-Deklination nouns; resolved preteritum dict bank sync gap (148 verbs)
+- Added Perfektum conjugations for all 144 non-verbphrase verbs (past participle, auxiliary selection, 6-pronoun forms, dual-auxiliary + modal annotations)
+- Added complete 4-case declension for all 331 nouns (Nominativ/Akkusativ/Dativ/Genitiv x singular/plural x definite/indefinite articles)
+- Synced all v1.2 data to dictionary banks, updated v2 handler with grammar_noun_declension and grammar_genitiv feature flags
+- Rebuilt search index with pp (past participle) field on all 144 verb entries for inflection lookup
+- Achieved 0-error AJV validation across all 4 banks (fixed 547 pre-existing errors); created permanent verify:integration script (28 checks)
+
+**Requirements:** 27/27 satisfied (SCHEMA-01..05, AUDIT-01..03, PERF-01..07, NDECL-01..07, SYNC-01..05)
+
+**Known tech debt (11 items, all non-critical):**
+- AUDIT-01 verb count discrepancy (20 vs 17 confirmed) — documentation only
+- morgenmensch_noun missing genus in dict nounbank — pre-existing
+- 72/148 core verbbank entries missing `type` field — pre-existing
+- grammar_present vs grammar_presens ID mismatch — pre-existing
+- 12 non-verbphrase verbs lack presens conjugation — pre-existing
+- CONTEXT.md format deviation for noun declension (combined strings) — intentional, documented
+- Human linguistic spot-check recommended for case forms — advisory
+- build-search-index.js not registered as npm script — discoverability
+- validate:all doesn't include new validation scripts — discoverability
+- grammar_adjective_genitive not emitted by v2 handler — pre-existing (v1.1)
+- PERF/AUDIT verb count ambiguity in REQUIREMENTS.md (148 vs 144) — documentation only
+
+**Archive:** `.planning/milestones/v1.2-ROADMAP.md`, `.planning/milestones/v1.2-REQUIREMENTS.md`, `.planning/milestones/v1.2-MILESTONE-AUDIT.md`
+
+**Last phase number:** 15
+
+---
+
