@@ -31,6 +31,19 @@
           "sie/Sie": "waren"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gewesen",
+        "auxiliary": "sein",
+        "former": {
+          "ich": "bin gewesen",
+          "du": "bist gewesen",
+          "er/sie/es": "ist gewesen",
+          "wir": "sind gewesen",
+          "ihr": "seid gewesen",
+          "sie/Sie": "sind gewesen"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "sein_verb",
@@ -71,6 +84,19 @@
           "sie/Sie": "hießen"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "geheißen",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe geheißen",
+          "du": "hast geheißen",
+          "er/sie/es": "hat geheißen",
+          "wir": "haben geheißen",
+          "ihr": "habt geheißen",
+          "sie/Sie": "haben geheißen"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "heissen_verb",
@@ -109,6 +135,19 @@
           "sie/Sie": "kamen"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gekommen",
+        "auxiliary": "sein",
+        "former": {
+          "ich": "bin gekommen",
+          "du": "bist gekommen",
+          "er/sie/es": "ist gekommen",
+          "wir": "sind gekommen",
+          "ihr": "seid gekommen",
+          "sie/Sie": "sind gekommen"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "kommen_verb",
@@ -148,6 +187,19 @@
           "sie/Sie": "wohnten"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gewohnt",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe gewohnt",
+          "du": "hast gewohnt",
+          "er/sie/es": "hat gewohnt",
+          "wir": "haben gewohnt",
+          "ihr": "habt gewohnt",
+          "sie/Sie": "haben gewohnt"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "wohnen_verb",
@@ -181,6 +233,19 @@
           "sie/Sie": "schauten"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "geschaut",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe geschaut",
+          "du": "hast geschaut",
+          "er/sie/es": "hat geschaut",
+          "wir": "haben geschaut",
+          "ihr": "habt geschaut",
+          "sie/Sie": "haben geschaut"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "schauen_verb",
@@ -213,6 +278,19 @@
           "sie/Sie": "spielten"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gespielt",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe gespielt",
+          "du": "hast gespielt",
+          "er/sie/es": "hat gespielt",
+          "wir": "haben gespielt",
+          "ihr": "habt gespielt",
+          "sie/Sie": "haben gespielt"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "spielen_verb",
@@ -246,6 +324,19 @@
           "sie/Sie": "interessierten"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "interessiert",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe interessiert",
+          "du": "hast interessiert",
+          "er/sie/es": "hat interessiert",
+          "wir": "haben interessiert",
+          "ihr": "habt interessiert",
+          "sie/Sie": "haben interessiert"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "interessieren_verb",
@@ -279,6 +370,19 @@
           "sie/Sie": "shoppten"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "geshopped",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe geshopped",
+          "du": "hast geshopped",
+          "er/sie/es": "hat geshopped",
+          "wir": "haben geshopped",
+          "ihr": "habt geshopped",
+          "sie/Sie": "haben geshopped"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "shoppen_verb",
@@ -312,6 +416,19 @@
           "sie/Sie": "entspannten"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "entspannt",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe entspannt",
+          "du": "hast entspannt",
+          "er/sie/es": "hat entspannt",
+          "wir": "haben entspannt",
+          "ihr": "habt entspannt",
+          "sie/Sie": "haben entspannt"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "entspannen_verb",
@@ -346,6 +463,19 @@
           "sie/Sie": "lernten"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gelernt",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe gelernt",
+          "du": "hast gelernt",
+          "er/sie/es": "hat gelernt",
+          "wir": "haben gelernt",
+          "ihr": "habt gelernt",
+          "sie/Sie": "haben gelernt"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "lernen_verb",
@@ -378,6 +508,19 @@
           "sie/Sie": "fanden"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gefunden",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe gefunden",
+          "du": "hast gefunden",
+          "er/sie/es": "hat gefunden",
+          "wir": "haben gefunden",
+          "ihr": "habt gefunden",
+          "sie/Sie": "haben gefunden"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "finden_verb",
@@ -417,6 +560,20 @@
           "sie/Sie": "mochten"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gemocht",
+        "auxiliary": "haben",
+        "modal_note": "Ersatzinfinitiv: Mit abhängigem Infinitiv wird der Infinitiv verwendet, nicht das Partizip. Z.B. \"Er hat singen mögen.\" Ohne Infinitiv (alleinstehend): \"Er hat es gemocht.\"",
+        "former": {
+          "ich": "habe gemocht",
+          "du": "hast gemocht",
+          "er/sie/es": "hat gemocht",
+          "wir": "haben gemocht",
+          "ihr": "habt gemocht",
+          "sie/Sie": "haben gemocht"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "modal": true,
@@ -453,6 +610,19 @@
           "sie/Sie": "klingelten"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "geklingelt",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe geklingelt",
+          "du": "hast geklingelt",
+          "er/sie/es": "hat geklingelt",
+          "wir": "haben geklingelt",
+          "ihr": "habt geklingelt",
+          "sie/Sie": "haben geklingelt"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "klingeln_verb",
@@ -488,6 +658,19 @@
           "sie/Sie": "begannen"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "begonnen",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe begonnen",
+          "du": "hast begonnen",
+          "er/sie/es": "hat begonnen",
+          "wir": "haben begonnen",
+          "ihr": "habt begonnen",
+          "sie/Sie": "haben begonnen"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "beginnen_verb",
@@ -528,6 +711,20 @@
           "sie/Sie": "konnten"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gekonnt",
+        "auxiliary": "haben",
+        "modal_note": "Ersatzinfinitiv: Mit abhängigem Infinitiv wird der Infinitiv verwendet, nicht das Partizip. Z.B. \"Er hat singen können.\" Ohne Infinitiv (alleinstehend): \"Er hat es gekonnt.\"",
+        "former": {
+          "ich": "habe gekonnt",
+          "du": "hast gekonnt",
+          "er/sie/es": "hat gekonnt",
+          "wir": "haben gekonnt",
+          "ihr": "habt gekonnt",
+          "sie/Sie": "haben gekonnt"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "modal": true,
@@ -565,6 +762,19 @@
           "sie/Sie": "lasen"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gelesen",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe gelesen",
+          "du": "hast gelesen",
+          "er/sie/es": "hat gelesen",
+          "wir": "haben gelesen",
+          "ihr": "habt gelesen",
+          "sie/Sie": "haben gelesen"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "lesen_verb",
@@ -603,6 +813,24 @@
           "sie/Sie": "schwammen"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "geschwommen",
+        "auxiliary": "both",
+        "dual_auxiliary": true,
+        "auxiliary_note": {
+          "sein": "Gerichtete Bewegung: Ich bin über den See geschwommen.",
+          "haben": "Aktivität ohne Richtung: Ich habe eine Stunde geschwommen."
+        },
+        "former": {
+          "ich": "bin/habe geschwommen",
+          "du": "bist/hast geschwommen",
+          "er/sie/es": "ist/hat geschwommen",
+          "wir": "sind/haben geschwommen",
+          "ihr": "seid/habt geschwommen",
+          "sie/Sie": "sind/haben geschwommen"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "schwimmen_verb",
@@ -641,6 +869,19 @@
           "sie/Sie": "sangen"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gesungen",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe gesungen",
+          "du": "hast gesungen",
+          "er/sie/es": "hat gesungen",
+          "wir": "haben gesungen",
+          "ihr": "habt gesungen",
+          "sie/Sie": "haben gesungen"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "singen_verb",
@@ -679,6 +920,19 @@
           "sie/Sie": "tanzten"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "getanzt",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe getanzt",
+          "du": "hast getanzt",
+          "er/sie/es": "hat getanzt",
+          "wir": "haben getanzt",
+          "ihr": "habt getanzt",
+          "sie/Sie": "haben getanzt"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "tanzen_verb",
@@ -711,6 +965,19 @@
           "sie/Sie": "kochten"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gekocht",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe gekocht",
+          "du": "hast gekocht",
+          "er/sie/es": "hat gekocht",
+          "wir": "haben gekocht",
+          "ihr": "habt gekocht",
+          "sie/Sie": "haben gekocht"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "kochen_verb",
@@ -743,6 +1010,19 @@
           "sie/Sie": "malten"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gemalt",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe gemalt",
+          "du": "hast gemalt",
+          "er/sie/es": "hat gemalt",
+          "wir": "haben gemalt",
+          "ihr": "habt gemalt",
+          "sie/Sie": "haben gemalt"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "malen_verb",
@@ -775,6 +1055,19 @@
           "sie/Sie": "machten"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gemacht",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe gemacht",
+          "du": "hast gemacht",
+          "er/sie/es": "hat gemacht",
+          "wir": "haben gemacht",
+          "ihr": "habt gemacht",
+          "sie/Sie": "haben gemacht"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "machen_verb",
@@ -807,6 +1100,19 @@
           "sie/Sie": "gingen"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gegangen",
+        "auxiliary": "sein",
+        "former": {
+          "ich": "bin gegangen",
+          "du": "bist gegangen",
+          "er/sie/es": "ist gegangen",
+          "wir": "sind gegangen",
+          "ihr": "seid gegangen",
+          "sie/Sie": "sind gegangen"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "gehen_verb",
@@ -845,6 +1151,19 @@
           "sie/Sie": "besuchten"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "besucht",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe besucht",
+          "du": "hast besucht",
+          "er/sie/es": "hat besucht",
+          "wir": "haben besucht",
+          "ihr": "habt besucht",
+          "sie/Sie": "haben besucht"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "besuchen_verb",
@@ -878,6 +1197,19 @@
           "sie/Sie": "kauften"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gekauft",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe gekauft",
+          "du": "hast gekauft",
+          "er/sie/es": "hat gekauft",
+          "wir": "haben gekauft",
+          "ihr": "habt gekauft",
+          "sie/Sie": "haben gekauft"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "kaufen_verb",
@@ -910,6 +1242,19 @@
           "sie/Sie": "brauchten"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gebraucht",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe gebraucht",
+          "du": "hast gebraucht",
+          "er/sie/es": "hat gebraucht",
+          "wir": "haben gebraucht",
+          "ihr": "habt gebraucht",
+          "sie/Sie": "haben gebraucht"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "brauchen_verb",
@@ -943,6 +1288,19 @@
           "sie/Sie": "aßen"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gegessen",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe gegessen",
+          "du": "hast gegessen",
+          "er/sie/es": "hat gegessen",
+          "wir": "haben gegessen",
+          "ihr": "habt gegessen",
+          "sie/Sie": "haben gegessen"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "essen_verb",
@@ -982,6 +1340,19 @@
           "sie/Sie": "nahmen"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "genommen",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe genommen",
+          "du": "hast genommen",
+          "er/sie/es": "hat genommen",
+          "wir": "haben genommen",
+          "ihr": "habt genommen",
+          "sie/Sie": "haben genommen"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "nehmen_verb",
@@ -1020,6 +1391,19 @@
           "sie/Sie": "tranken"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "getrunken",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe getrunken",
+          "du": "hast getrunken",
+          "er/sie/es": "hat getrunken",
+          "wir": "haben getrunken",
+          "ihr": "habt getrunken",
+          "sie/Sie": "haben getrunken"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "trinken_verb",
@@ -1058,6 +1442,19 @@
           "sie/Sie": "hörten"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gehört",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe gehört",
+          "du": "hast gehört",
+          "er/sie/es": "hat gehört",
+          "wir": "haben gehört",
+          "ihr": "habt gehört",
+          "sie/Sie": "haben gehört"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "hoeren_verb",
@@ -1090,6 +1487,19 @@
           "sie/Sie": "hofften"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gehofft",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe gehofft",
+          "du": "hast gehofft",
+          "er/sie/es": "hat gehofft",
+          "wir": "haben gehofft",
+          "ihr": "habt gehofft",
+          "sie/Sie": "haben gehofft"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "hoffen_verb",
@@ -1123,6 +1533,19 @@
           "sie/Sie": "hatten"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gehabt",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe gehabt",
+          "du": "hast gehabt",
+          "er/sie/es": "hat gehabt",
+          "wir": "haben gehabt",
+          "ihr": "habt gehabt",
+          "sie/Sie": "haben gehabt"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "haben_verb",
@@ -1161,6 +1584,19 @@
           "sie/Sie": "fütterten"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gefüttert",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe gefüttert",
+          "du": "hast gefüttert",
+          "er/sie/es": "hat gefüttert",
+          "wir": "haben gefüttert",
+          "ihr": "habt gefüttert",
+          "sie/Sie": "haben gefüttert"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "fuettern_verb",
@@ -1193,6 +1629,19 @@
           "sie/Sie": "streichelten"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gestreichelt",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe gestreichelt",
+          "du": "hast gestreichelt",
+          "er/sie/es": "hat gestreichelt",
+          "wir": "haben gestreichelt",
+          "ihr": "habt gestreichelt",
+          "sie/Sie": "haben gestreichelt"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "streicheln_verb",
@@ -1226,6 +1675,19 @@
           "sie/Sie": "fraßen"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gefressen",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe gefressen",
+          "du": "hast gefressen",
+          "er/sie/es": "hat gefressen",
+          "wir": "haben gefressen",
+          "ihr": "habt gefressen",
+          "sie/Sie": "haben gefressen"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "fressen_verb",
@@ -1264,6 +1726,19 @@
           "sie/Sie": "lebten"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gelebt",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe gelebt",
+          "du": "hast gelebt",
+          "er/sie/es": "hat gelebt",
+          "wir": "haben gelebt",
+          "ihr": "habt gelebt",
+          "sie/Sie": "haben gelebt"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "leben_verb",
@@ -1296,6 +1771,19 @@
           "sie/Sie": "öffneten"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "geöffnet",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe geöffnet",
+          "du": "hast geöffnet",
+          "er/sie/es": "hat geöffnet",
+          "wir": "haben geöffnet",
+          "ihr": "habt geöffnet",
+          "sie/Sie": "haben geöffnet"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "oeffnen_verb",
@@ -1328,6 +1816,19 @@
           "sie/Sie": "jagten"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gejagt",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe gejagt",
+          "du": "hast gejagt",
+          "er/sie/es": "hat gejagt",
+          "wir": "haben gejagt",
+          "ihr": "habt gejagt",
+          "sie/Sie": "haben gejagt"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "jagen_verb",
@@ -1361,6 +1862,19 @@
           "sie/Sie": "trugen"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "getragen",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe getragen",
+          "du": "hast getragen",
+          "er/sie/es": "hat getragen",
+          "wir": "haben getragen",
+          "ihr": "habt getragen",
+          "sie/Sie": "haben getragen"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "tragen_verb",
@@ -1400,6 +1914,19 @@
           "sie/Sie": "sahen"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gesehen",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe gesehen",
+          "du": "hast gesehen",
+          "er/sie/es": "hat gesehen",
+          "wir": "haben gesehen",
+          "ihr": "habt gesehen",
+          "sie/Sie": "haben gesehen"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "sehen_verb",
@@ -1439,6 +1966,19 @@
           "sie/Sie": "trafen"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "getroffen",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe getroffen",
+          "du": "hast getroffen",
+          "er/sie/es": "hat getroffen",
+          "wir": "haben getroffen",
+          "ihr": "habt getroffen",
+          "sie/Sie": "haben getroffen"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "treffen_verb",
@@ -1478,6 +2018,20 @@
           "sie/Sie": "mussten"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gemusst",
+        "auxiliary": "haben",
+        "modal_note": "Ersatzinfinitiv: Mit abhängigem Infinitiv wird der Infinitiv verwendet, nicht das Partizip. Z.B. \"Er hat kommen müssen.\" Ohne Infinitiv (alleinstehend): \"Er hat es gemusst.\"",
+        "former": {
+          "ich": "habe gemusst",
+          "du": "hast gemusst",
+          "er/sie/es": "hat gemusst",
+          "wir": "haben gemusst",
+          "ihr": "habt gemusst",
+          "sie/Sie": "haben gemusst"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "modal": true,
@@ -1515,6 +2069,20 @@
           "sie/Sie": "wollten"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gewollt",
+        "auxiliary": "haben",
+        "modal_note": "Ersatzinfinitiv: Mit abhängigem Infinitiv wird der Infinitiv verwendet, nicht das Partizip. Z.B. \"Er hat gehen wollen.\" Ohne Infinitiv (alleinstehend): \"Er hat es gewollt.\"",
+        "former": {
+          "ich": "habe gewollt",
+          "du": "hast gewollt",
+          "er/sie/es": "hat gewollt",
+          "wir": "haben gewollt",
+          "ihr": "habt gewollt",
+          "sie/Sie": "haben gewollt"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "modal": true,
@@ -1552,6 +2120,24 @@
           "sie/Sie": "fuhren"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gefahren",
+        "auxiliary": "both",
+        "dual_auxiliary": true,
+        "auxiliary_note": {
+          "sein": "Gerichtete Bewegung: Ich bin nach Berlin gefahren.",
+          "haben": "Mit Objekt (transitiv): Ich habe das Auto gefahren."
+        },
+        "former": {
+          "ich": "bin/habe gefahren",
+          "du": "bist/hast gefahren",
+          "er/sie/es": "ist/hat gefahren",
+          "wir": "sind/haben gefahren",
+          "ihr": "seid/habt gefahren",
+          "sie/Sie": "sind/haben gefahren"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "fahren_verb",
@@ -1590,6 +2176,19 @@
           "sie/Sie": "wanderten"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gewandert",
+        "auxiliary": "sein",
+        "former": {
+          "ich": "bin gewandert",
+          "du": "bist gewandert",
+          "er/sie/es": "ist gewandert",
+          "wir": "sind gewandert",
+          "ihr": "seid gewandert",
+          "sie/Sie": "sind gewandert"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "wandern_verb",
@@ -1622,6 +2221,19 @@
           "sie/Sie": "träumten"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "geträumt",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe geträumt",
+          "du": "hast geträumt",
+          "er/sie/es": "hat geträumt",
+          "wir": "haben geträumt",
+          "ihr": "habt geträumt",
+          "sie/Sie": "haben geträumt"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "traeumen_verb",
@@ -1654,6 +2266,19 @@
           "sie/Sie": "sagten"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gesagt",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe gesagt",
+          "du": "hast gesagt",
+          "er/sie/es": "hat gesagt",
+          "wir": "haben gesagt",
+          "ihr": "habt gesagt",
+          "sie/Sie": "haben gesagt"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "sagen_verb",
@@ -1687,6 +2312,19 @@
           "sie/Sie": "schrieben"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "geschrieben",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe geschrieben",
+          "du": "hast geschrieben",
+          "er/sie/es": "hat geschrieben",
+          "wir": "haben geschrieben",
+          "ihr": "habt geschrieben",
+          "sie/Sie": "haben geschrieben"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "schreiben_verb",
@@ -1725,6 +2363,24 @@
           "sie/Sie": "flogen"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "geflogen",
+        "auxiliary": "both",
+        "dual_auxiliary": true,
+        "auxiliary_note": {
+          "sein": "Gerichtete Fortbewegung: Ich bin nach Paris geflogen.",
+          "haben": "Mit Objekt (transitiv): Ich habe das Flugzeug geflogen."
+        },
+        "former": {
+          "ich": "bin/habe geflogen",
+          "du": "bist/hast geflogen",
+          "er/sie/es": "ist/hat geflogen",
+          "wir": "sind/haben geflogen",
+          "ihr": "seid/habt geflogen",
+          "sie/Sie": "sind/haben geflogen"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "fliegen_verb",
@@ -1765,6 +2421,19 @@
           "sie/Sie": "nahmen mit"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "mitgenommen",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe mitgenommen",
+          "du": "hast mitgenommen",
+          "er/sie/es": "hat mitgenommen",
+          "wir": "haben mitgenommen",
+          "ihr": "habt mitgenommen",
+          "sie/Sie": "haben mitgenommen"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "mitnehmen_verb",
@@ -1805,6 +2474,19 @@
           "sie/Sie": "packten"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gepackt",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe gepackt",
+          "du": "hast gepackt",
+          "er/sie/es": "hat gepackt",
+          "wir": "haben gepackt",
+          "ihr": "habt gepackt",
+          "sie/Sie": "haben gepackt"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "packen_verb",
@@ -1838,6 +2520,19 @@
           "sie/Sie": "packten ein"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "eingepackt",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe eingepackt",
+          "du": "hast eingepackt",
+          "er/sie/es": "hat eingepackt",
+          "wir": "haben eingepackt",
+          "ihr": "habt eingepackt",
+          "sie/Sie": "haben eingepackt"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "einpacken_verb",
@@ -1876,6 +2571,20 @@
           "sie/Sie": "durften"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gedurft",
+        "auxiliary": "haben",
+        "modal_note": "Ersatzinfinitiv: Mit abhängigem Infinitiv wird der Infinitiv verwendet, nicht das Partizip. Z.B. \"Er hat gehen dürfen.\" Ohne Infinitiv (alleinstehend): \"Er hat es gedurft.\"",
+        "former": {
+          "ich": "habe gedurft",
+          "du": "hast gedurft",
+          "er/sie/es": "hat gedurft",
+          "wir": "haben gedurft",
+          "ihr": "habt gedurft",
+          "sie/Sie": "haben gedurft"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "modal": true,
@@ -1912,6 +2621,19 @@
           "sie/Sie": "schienen"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "geschienen",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe geschienen",
+          "du": "hast geschienen",
+          "er/sie/es": "hat geschienen",
+          "wir": "haben geschienen",
+          "ihr": "habt geschienen",
+          "sie/Sie": "haben geschienen"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "scheinen_verb",
@@ -1950,6 +2672,19 @@
           "sie/Sie": "liebten"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "geliebt",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe geliebt",
+          "du": "hast geliebt",
+          "er/sie/es": "hat geliebt",
+          "wir": "haben geliebt",
+          "ihr": "habt geliebt",
+          "sie/Sie": "haben geliebt"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "lieben_verb",
@@ -1982,6 +2717,19 @@
           "sie/Sie": "stimmten"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gestimmt",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe gestimmt",
+          "du": "hast gestimmt",
+          "er/sie/es": "hat gestimmt",
+          "wir": "haben gestimmt",
+          "ihr": "habt gestimmt",
+          "sie/Sie": "haben gestimmt"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "stimmen_verb",
@@ -2014,6 +2762,19 @@
           "sie/Sie": "dekorierten"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "dekoriert",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe dekoriert",
+          "du": "hast dekoriert",
+          "er/sie/es": "hat dekoriert",
+          "wir": "haben dekoriert",
+          "ihr": "habt dekoriert",
+          "sie/Sie": "haben dekoriert"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "dekorieren_verb",
@@ -2047,6 +2808,19 @@
           "sie/Sie": "sprachen"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gesprochen",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe gesprochen",
+          "du": "hast gesprochen",
+          "er/sie/es": "hat gesprochen",
+          "wir": "haben gesprochen",
+          "ihr": "habt gesprochen",
+          "sie/Sie": "haben gesprochen"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "sprechen_verb",
@@ -2086,6 +2860,19 @@
           "sie/Sie": "wurden"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "geworden",
+        "auxiliary": "sein",
+        "former": {
+          "ich": "bin geworden",
+          "du": "bist geworden",
+          "er/sie/es": "ist geworden",
+          "wir": "sind geworden",
+          "ihr": "seid geworden",
+          "sie/Sie": "sind geworden"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "werden_verb",
@@ -2124,6 +2911,19 @@
           "sie/Sie": "dauerten"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gedauert",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe gedauert",
+          "du": "hast gedauert",
+          "er/sie/es": "hat gedauert",
+          "wir": "haben gedauert",
+          "ihr": "habt gedauert",
+          "sie/Sie": "haben gedauert"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "dauern_verb",
@@ -2156,6 +2956,19 @@
           "sie/Sie": "blieben"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "geblieben",
+        "auxiliary": "sein",
+        "former": {
+          "ich": "bin geblieben",
+          "du": "bist geblieben",
+          "er/sie/es": "ist geblieben",
+          "wir": "sind geblieben",
+          "ihr": "seid geblieben",
+          "sie/Sie": "sind geblieben"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "bleiben_verb",
@@ -2195,6 +3008,19 @@
           "sie/Sie": "schliefen"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "geschlafen",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe geschlafen",
+          "du": "hast geschlafen",
+          "er/sie/es": "hat geschlafen",
+          "wir": "haben geschlafen",
+          "ihr": "habt geschlafen",
+          "sie/Sie": "haben geschlafen"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "schlafen_verb",
@@ -2234,6 +3060,19 @@
           "sie/Sie": "feierten"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gefeiert",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe gefeiert",
+          "du": "hast gefeiert",
+          "er/sie/es": "hat gefeiert",
+          "wir": "haben gefeiert",
+          "ihr": "habt gefeiert",
+          "sie/Sie": "haben gefeiert"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "feiern_verb",
@@ -2266,6 +3105,19 @@
           "sie/Sie": "kannten"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gekannt",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe gekannt",
+          "du": "hast gekannt",
+          "er/sie/es": "hat gekannt",
+          "wir": "haben gekannt",
+          "ihr": "habt gekannt",
+          "sie/Sie": "haben gekannt"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "kennen_verb",
@@ -2305,6 +3157,19 @@
           "sie/Sie": "trafen sich"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "getroffen",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe mich getroffen",
+          "du": "hast dich getroffen",
+          "er/sie/es": "hat sich getroffen",
+          "wir": "haben uns getroffen",
+          "ihr": "habt euch getroffen",
+          "sie/Sie": "haben sich getroffen"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "sich_treffen_verb",
@@ -2344,6 +3209,19 @@
           "sie/Sie": "riefen an"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "angerufen",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe angerufen",
+          "du": "hast angerufen",
+          "er/sie/es": "hat angerufen",
+          "wir": "haben angerufen",
+          "ihr": "habt angerufen",
+          "sie/Sie": "haben angerufen"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "anrufen_verb",
@@ -2389,6 +3267,19 @@
           "sie/Sie": "fingen an"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "angefangen",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe angefangen",
+          "du": "hast angefangen",
+          "er/sie/es": "hat angefangen",
+          "wir": "haben angefangen",
+          "ihr": "habt angefangen",
+          "sie/Sie": "haben angefangen"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "anfangen_verb",
@@ -2431,6 +3322,19 @@
           "sie/Sie": "luden ein"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "eingeladen",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe eingeladen",
+          "du": "hast eingeladen",
+          "er/sie/es": "hat eingeladen",
+          "wir": "haben eingeladen",
+          "ihr": "habt eingeladen",
+          "sie/Sie": "haben eingeladen"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "einladen_verb",
@@ -2473,6 +3377,19 @@
           "sie/Sie": "kauften ein"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "eingekauft",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe eingekauft",
+          "du": "hast eingekauft",
+          "er/sie/es": "hat eingekauft",
+          "wir": "haben eingekauft",
+          "ihr": "habt eingekauft",
+          "sie/Sie": "haben eingekauft"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "einkaufen_verb",
@@ -2510,6 +3427,19 @@
           "sie/Sie": "freuten sich auf"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gefreut",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe mich gefreut",
+          "du": "hast dich gefreut",
+          "er/sie/es": "hat sich gefreut",
+          "wir": "haben uns gefreut",
+          "ihr": "habt euch gefreut",
+          "sie/Sie": "haben sich gefreut"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "sich_freuen_auf_verb",
@@ -2543,6 +3473,19 @@
           "sie/Sie": "wuschen sich"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gewaschen",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe mich gewaschen",
+          "du": "hast dich gewaschen",
+          "er/sie/es": "hat sich gewaschen",
+          "wir": "haben uns gewaschen",
+          "ihr": "habt euch gewaschen",
+          "sie/Sie": "haben sich gewaschen"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "sich_waschen_verb",
@@ -2581,6 +3524,19 @@
           "sie/Sie": "duschten sich"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "geduscht",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe mich geduscht",
+          "du": "hast dich geduscht",
+          "er/sie/es": "hat sich geduscht",
+          "wir": "haben uns geduscht",
+          "ihr": "habt euch geduscht",
+          "sie/Sie": "haben sich geduscht"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "sich_duschen_verb",
@@ -2614,6 +3570,19 @@
           "sie/Sie": "zogen sich an"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "angezogen",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe mich angezogen",
+          "du": "hast dich angezogen",
+          "er/sie/es": "hat sich angezogen",
+          "wir": "haben uns angezogen",
+          "ihr": "habt euch angezogen",
+          "sie/Sie": "haben sich angezogen"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "sich_anziehen_verb",
@@ -2654,6 +3623,19 @@
           "sie/Sie": "kämmten sich"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gekämmt",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe mich gekämmt",
+          "du": "hast dich gekämmt",
+          "er/sie/es": "hat sich gekämmt",
+          "wir": "haben uns gekämmt",
+          "ihr": "habt euch gekämmt",
+          "sie/Sie": "haben sich gekämmt"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "sich_kaemmen_verb",
@@ -2686,6 +3668,19 @@
           "sie/Sie": "schminkten sich"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "geschminkt",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe mich geschminkt",
+          "du": "hast dich geschminkt",
+          "er/sie/es": "hat sich geschminkt",
+          "wir": "haben uns geschminkt",
+          "ihr": "habt euch geschminkt",
+          "sie/Sie": "haben sich geschminkt"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "sich_schminken_verb",
@@ -2718,6 +3713,19 @@
           "sie/Sie": "rasierten sich"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "rasiert",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe mich rasiert",
+          "du": "hast dich rasiert",
+          "er/sie/es": "hat sich rasiert",
+          "wir": "haben uns rasiert",
+          "ihr": "habt euch rasiert",
+          "sie/Sie": "haben sich rasiert"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "sich_rasieren_verb",
@@ -2750,6 +3758,19 @@
           "sie/Sie": "freuten sich"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gefreut",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe mich gefreut",
+          "du": "hast dich gefreut",
+          "er/sie/es": "hat sich gefreut",
+          "wir": "haben uns gefreut",
+          "ihr": "habt euch gefreut",
+          "sie/Sie": "haben sich gefreut"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "sich_freuen_verb",
@@ -2783,6 +3804,19 @@
           "sie/Sie": "wachten auf"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "aufgewacht",
+        "auxiliary": "sein",
+        "former": {
+          "ich": "bin aufgewacht",
+          "du": "bist aufgewacht",
+          "er/sie/es": "ist aufgewacht",
+          "wir": "sind aufgewacht",
+          "ihr": "seid aufgewacht",
+          "sie/Sie": "sind aufgewacht"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "aufwachen_verb",
@@ -2821,6 +3855,19 @@
           "sie/Sie": "standen auf"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "aufgestanden",
+        "auxiliary": "sein",
+        "former": {
+          "ich": "bin aufgestanden",
+          "du": "bist aufgestanden",
+          "er/sie/es": "ist aufgestanden",
+          "wir": "sind aufgestanden",
+          "ihr": "seid aufgestanden",
+          "sie/Sie": "sind aufgestanden"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "aufstehen_verb",
@@ -2861,6 +3908,19 @@
           "sie/Sie": "frühstückten"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gefrühstückt",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe gefrühstückt",
+          "du": "hast gefrühstückt",
+          "er/sie/es": "hat gefrühstückt",
+          "wir": "haben gefrühstückt",
+          "ihr": "habt gefrühstückt",
+          "sie/Sie": "haben gefrühstückt"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "fruehstuecken_verb",
@@ -2893,6 +3953,19 @@
           "sie/Sie": "fühlten sich"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gefühlt",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe mich gefühlt",
+          "du": "hast dich gefühlt",
+          "er/sie/es": "hat sich gefühlt",
+          "wir": "haben uns gefühlt",
+          "ihr": "habt euch gefühlt",
+          "sie/Sie": "haben sich gefühlt"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "sich_fuehlen_verb",
@@ -2925,6 +3998,19 @@
           "sie/Sie": "freuten sich über"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gefreut",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe mich gefreut",
+          "du": "hast dich gefreut",
+          "er/sie/es": "hat sich gefreut",
+          "wir": "haben uns gefreut",
+          "ihr": "habt euch gefreut",
+          "sie/Sie": "haben sich gefreut"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "sich_freuen_ueber_verb",
@@ -2957,6 +4043,19 @@
           "sie/Sie": "ärgerten sich"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "geärgert",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe mich geärgert",
+          "du": "hast dich geärgert",
+          "er/sie/es": "hat sich geärgert",
+          "wir": "haben uns geärgert",
+          "ihr": "habt euch geärgert",
+          "sie/Sie": "haben sich geärgert"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "sich_aergern_verb",
@@ -2989,6 +4088,19 @@
           "sie/Sie": "interessierten sich"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "interessiert",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe mich interessiert",
+          "du": "hast dich interessiert",
+          "er/sie/es": "hat sich interessiert",
+          "wir": "haben uns interessiert",
+          "ihr": "habt euch interessiert",
+          "sie/Sie": "haben sich interessiert"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "sich_interessieren_verb",
@@ -3021,6 +4133,19 @@
           "sie/Sie": "langweilten sich"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gelangweilt",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe mich gelangweilt",
+          "du": "hast dich gelangweilt",
+          "er/sie/es": "hat sich gelangweilt",
+          "wir": "haben uns gelangweilt",
+          "ihr": "habt euch gelangweilt",
+          "sie/Sie": "haben sich gelangweilt"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "sich_langweilen_verb",
@@ -3053,6 +4178,19 @@
           "sie/Sie": "konzentrierten sich"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "konzentriert",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe mich konzentriert",
+          "du": "hast dich konzentriert",
+          "er/sie/es": "hat sich konzentriert",
+          "wir": "haben uns konzentriert",
+          "ihr": "habt euch konzentriert",
+          "sie/Sie": "haben sich konzentriert"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "sich_konzentrieren_verb",
@@ -3085,6 +4223,19 @@
           "sie/Sie": "entschuldigten sich"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "entschuldigt",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe mich entschuldigt",
+          "du": "hast dich entschuldigt",
+          "er/sie/es": "hat sich entschuldigt",
+          "wir": "haben uns entschuldigt",
+          "ihr": "habt euch entschuldigt",
+          "sie/Sie": "haben sich entschuldigt"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "sich_entschuldigen_verb",
@@ -3118,6 +4269,19 @@
           "sie/Sie": "verspäteten sich"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "verspätet",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe mich verspätet",
+          "du": "hast dich verspätet",
+          "er/sie/es": "hat sich verspätet",
+          "wir": "haben uns verspätet",
+          "ihr": "habt euch verspätet",
+          "sie/Sie": "haben sich verspätet"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "sich_verspaeten_verb",
@@ -3151,6 +4315,19 @@
           "sie/Sie": "entspannten sich"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "entspannt",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe mich entspannt",
+          "du": "hast dich entspannt",
+          "er/sie/es": "hat sich entspannt",
+          "wir": "haben uns entspannt",
+          "ihr": "habt euch entspannt",
+          "sie/Sie": "haben sich entspannt"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "sich_entspannen_verb",
@@ -3185,6 +4362,19 @@
           "sie/Sie": "regten sich auf"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "aufgeregt",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe mich aufgeregt",
+          "du": "hast dich aufgeregt",
+          "er/sie/es": "hat sich aufgeregt",
+          "wir": "haben uns aufgeregt",
+          "ihr": "habt euch aufgeregt",
+          "sie/Sie": "haben sich aufgeregt"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "sich_aufregen_verb",
@@ -3223,6 +4413,19 @@
           "sie/Sie": "ruhten sich aus"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "ausgeruht",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe mich ausgeruht",
+          "du": "hast dich ausgeruht",
+          "er/sie/es": "hat sich ausgeruht",
+          "wir": "haben uns ausgeruht",
+          "ihr": "habt euch ausgeruht",
+          "sie/Sie": "haben sich ausgeruht"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "sich_ausruhen_verb",
@@ -3260,6 +4463,19 @@
           "sie/Sie": "erholten sich"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "erholt",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe mich erholt",
+          "du": "hast dich erholt",
+          "er/sie/es": "hat sich erholt",
+          "wir": "haben uns erholt",
+          "ihr": "habt euch erholt",
+          "sie/Sie": "haben sich erholt"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "sich_erholen_verb",
@@ -3294,6 +4510,19 @@
           "sie/Sie": "bereiteten sich vor"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "vorbereitet",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe mich vorbereitet",
+          "du": "hast dich vorbereitet",
+          "er/sie/es": "hat sich vorbereitet",
+          "wir": "haben uns vorbereitet",
+          "ihr": "habt euch vorbereitet",
+          "sie/Sie": "haben sich vorbereitet"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "sich_vorbereiten_verb",
@@ -3331,6 +4560,19 @@
           "sie/Sie": "setzten sich"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gesetzt",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe mich gesetzt",
+          "du": "hast dich gesetzt",
+          "er/sie/es": "hat sich gesetzt",
+          "wir": "haben uns gesetzt",
+          "ihr": "habt euch gesetzt",
+          "sie/Sie": "haben sich gesetzt"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "sich_setzen_verb",
@@ -3363,6 +4605,19 @@
           "sie/Sie": "unterhielten sich"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "unterhalten",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe mich unterhalten",
+          "du": "hast dich unterhalten",
+          "er/sie/es": "hat sich unterhalten",
+          "wir": "haben uns unterhalten",
+          "ihr": "habt euch unterhalten",
+          "sie/Sie": "haben sich unterhalten"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "sich_unterhalten_verb",
@@ -3402,6 +4657,19 @@
           "sie/Sie": "bewegten sich"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "bewegt",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe mich bewegt",
+          "du": "hast dich bewegt",
+          "er/sie/es": "hat sich bewegt",
+          "wir": "haben uns bewegt",
+          "ihr": "habt euch bewegt",
+          "sie/Sie": "haben sich bewegt"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "sich_bewegen_verb",
@@ -3436,6 +4704,20 @@
           "sie/Sie": "sollten"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gesollt",
+        "auxiliary": "haben",
+        "modal_note": "Ersatzinfinitiv: Mit abhängigem Infinitiv wird der Infinitiv verwendet, nicht das Partizip. Z.B. \"Er hat kommen sollen.\" Ohne Infinitiv (alleinstehend): \"Er hat es gesollt.\"",
+        "former": {
+          "ich": "habe gesollt",
+          "du": "hast gesollt",
+          "er/sie/es": "hat gesollt",
+          "wir": "haben gesollt",
+          "ihr": "habt gesollt",
+          "sie/Sie": "haben gesollt"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "modal": true,
@@ -3474,6 +4756,19 @@
           "sie/Sie": "brachten mit"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "mitgebracht",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe mitgebracht",
+          "du": "hast mitgebracht",
+          "er/sie/es": "hat mitgebracht",
+          "wir": "haben mitgebracht",
+          "ihr": "habt mitgebracht",
+          "sie/Sie": "haben mitgebracht"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "mitbringen_verb",
@@ -3515,6 +4810,19 @@
           "sie/Sie": "grillten"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gegrillt",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe gegrillt",
+          "du": "hast gegrillt",
+          "er/sie/es": "hat gegrillt",
+          "wir": "haben gegrillt",
+          "ihr": "habt gegrillt",
+          "sie/Sie": "haben gegrillt"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "grillen_verb",
@@ -3548,6 +4856,19 @@
           "sie/Sie": "planten"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "geplant",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe geplant",
+          "du": "hast geplant",
+          "er/sie/es": "hat geplant",
+          "wir": "haben geplant",
+          "ihr": "habt geplant",
+          "sie/Sie": "haben geplant"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "planen_verb",
@@ -3581,6 +4902,19 @@
           "sie/Sie": "saßen"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gesessen",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe gesessen",
+          "du": "hast gesessen",
+          "er/sie/es": "hat gesessen",
+          "wir": "haben gesessen",
+          "ihr": "habt gesessen",
+          "sie/Sie": "haben gesessen"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "sitzen_verb",
@@ -3620,6 +4954,19 @@
           "sie/Sie": "lachten"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gelacht",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe gelacht",
+          "du": "hast gelacht",
+          "er/sie/es": "hat gelacht",
+          "wir": "haben gelacht",
+          "ihr": "habt gelacht",
+          "sie/Sie": "haben gelacht"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "lachen_verb",
@@ -3653,6 +5000,19 @@
           "sie/Sie": "fragten"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gefragt",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe gefragt",
+          "du": "hast gefragt",
+          "er/sie/es": "hat gefragt",
+          "wir": "haben gefragt",
+          "ihr": "habt gefragt",
+          "sie/Sie": "haben gefragt"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "fragen_verb",
@@ -3686,6 +5046,19 @@
           "sie/Sie": "verstanden"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "verstanden",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe verstanden",
+          "du": "hast verstanden",
+          "er/sie/es": "hat verstanden",
+          "wir": "haben verstanden",
+          "ihr": "habt verstanden",
+          "sie/Sie": "haben verstanden"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "verstehen_verb",
@@ -3726,6 +5099,19 @@
           "sie/Sie": "halfen"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "geholfen",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe geholfen",
+          "du": "hast geholfen",
+          "er/sie/es": "hat geholfen",
+          "wir": "haben geholfen",
+          "ihr": "habt geholfen",
+          "sie/Sie": "haben geholfen"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "helfen_verb",
@@ -3765,6 +5151,19 @@
           "sie/Sie": "lächelten"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gelächelt",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe gelächelt",
+          "du": "hast gelächelt",
+          "er/sie/es": "hat gelächelt",
+          "wir": "haben gelächelt",
+          "ihr": "habt gelächelt",
+          "sie/Sie": "haben gelächelt"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "laecheln_verb",
@@ -3798,6 +5197,19 @@
           "sie/Sie": "weckten"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "geweckt",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe geweckt",
+          "du": "hast geweckt",
+          "er/sie/es": "hat geweckt",
+          "wir": "haben geweckt",
+          "ihr": "habt geweckt",
+          "sie/Sie": "haben geweckt"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "wecken_verb",
@@ -3831,6 +5243,19 @@
           "sie/Sie": "lagen"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gelegen",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe gelegen",
+          "du": "hast gelegen",
+          "er/sie/es": "hat gelegen",
+          "wir": "haben gelegen",
+          "ihr": "habt gelegen",
+          "sie/Sie": "haben gelegen"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "liegen_verb",
@@ -3870,6 +5295,19 @@
           "sie/Sie": "putzten"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "geputzt",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe geputzt",
+          "du": "hast geputzt",
+          "er/sie/es": "hat geputzt",
+          "wir": "haben geputzt",
+          "ihr": "habt geputzt",
+          "sie/Sie": "haben geputzt"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "putzen_verb",
@@ -3903,6 +5341,19 @@
           "sie/Sie": "arbeiteten"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gearbeitet",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe gearbeitet",
+          "du": "hast gearbeitet",
+          "er/sie/es": "hat gearbeitet",
+          "wir": "haben gearbeitet",
+          "ihr": "habt gearbeitet",
+          "sie/Sie": "haben gearbeitet"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "arbeiten_verb",
@@ -3936,6 +5387,19 @@
           "sie/Sie": "wussten"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gewusst",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe gewusst",
+          "du": "hast gewusst",
+          "er/sie/es": "hat gewusst",
+          "wir": "haben gewusst",
+          "ihr": "habt gewusst",
+          "sie/Sie": "haben gewusst"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "wissen_verb",
@@ -3975,6 +5439,19 @@
           "sie/Sie": "gaben"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gegeben",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe gegeben",
+          "du": "hast gegeben",
+          "er/sie/es": "hat gegeben",
+          "wir": "haben gegeben",
+          "ihr": "habt gegeben",
+          "sie/Sie": "haben gegeben"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "geben_verb",
@@ -4014,6 +5491,19 @@
           "sie/Sie": "vergaßen"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "vergessen",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe vergessen",
+          "du": "hast vergessen",
+          "er/sie/es": "hat vergessen",
+          "wir": "haben vergessen",
+          "ihr": "habt vergessen",
+          "sie/Sie": "haben vergessen"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "vergessen_verb",
@@ -4054,6 +5544,19 @@
           "sie/Sie": "klangen"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "geklungen",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe geklungen",
+          "du": "hast geklungen",
+          "er/sie/es": "hat geklungen",
+          "wir": "haben geklungen",
+          "ihr": "habt geklungen",
+          "sie/Sie": "haben geklungen"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "klingen_verb",
@@ -4093,6 +5596,19 @@
           "sie/Sie": "hingen"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gehangen",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe gehangen",
+          "du": "hast gehangen",
+          "er/sie/es": "hat gehangen",
+          "wir": "haben gehangen",
+          "ihr": "habt gehangen",
+          "sie/Sie": "haben gehangen"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "haengen_verb",
@@ -4126,6 +5642,19 @@
           "sie/Sie": "standen"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gestanden",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe gestanden",
+          "du": "hast gestanden",
+          "er/sie/es": "hat gestanden",
+          "wir": "haben gestanden",
+          "ihr": "habt gestanden",
+          "sie/Sie": "haben gestanden"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "stehen_verb",
@@ -4165,6 +5694,19 @@
           "sie/Sie": "warteten"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gewartet",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe gewartet",
+          "du": "hast gewartet",
+          "er/sie/es": "hat gewartet",
+          "wir": "haben gewartet",
+          "ihr": "habt gewartet",
+          "sie/Sie": "haben gewartet"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "warten_verb",
@@ -4197,6 +5739,24 @@
           "sie/Sie": "liefen"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gelaufen",
+        "auxiliary": "both",
+        "dual_auxiliary": true,
+        "auxiliary_note": {
+          "sein": "Gerichtete Bewegung: Ich bin nach Hause gelaufen.",
+          "haben": "Aktivität / Sport: Ich habe 10 km gelaufen."
+        },
+        "former": {
+          "ich": "bin/habe gelaufen",
+          "du": "bist/hast gelaufen",
+          "er/sie/es": "ist/hat gelaufen",
+          "wir": "sind/haben gelaufen",
+          "ihr": "seid/habt gelaufen",
+          "sie/Sie": "sind/haben gelaufen"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "laufen_verb",
@@ -4235,6 +5795,19 @@
           "sie/Sie": "sprangen"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gesprungen",
+        "auxiliary": "sein",
+        "former": {
+          "ich": "bin gesprungen",
+          "du": "bist gesprungen",
+          "er/sie/es": "ist gesprungen",
+          "wir": "sind gesprungen",
+          "ihr": "seid gesprungen",
+          "sie/Sie": "sind gesprungen"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "springen_verb",
@@ -4273,6 +5846,19 @@
           "sie/Sie": "glaubten"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "geglaubt",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe geglaubt",
+          "du": "hast geglaubt",
+          "er/sie/es": "hat geglaubt",
+          "wir": "haben geglaubt",
+          "ihr": "habt geglaubt",
+          "sie/Sie": "haben geglaubt"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "glauben_verb",
@@ -4305,6 +5891,19 @@
           "sie/Sie": "gewannen"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gewonnen",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe gewonnen",
+          "du": "hast gewonnen",
+          "er/sie/es": "hat gewonnen",
+          "wir": "haben gewonnen",
+          "ihr": "habt gewonnen",
+          "sie/Sie": "haben gewonnen"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "gewinnen_verb",
@@ -4343,6 +5942,19 @@
           "sie/Sie": "verloren"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "verloren",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe verloren",
+          "du": "hast verloren",
+          "er/sie/es": "hat verloren",
+          "wir": "haben verloren",
+          "ihr": "habt verloren",
+          "sie/Sie": "haben verloren"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "verlieren_verb",
@@ -4382,6 +5994,19 @@
           "sie/Sie": "dankten"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gedankt",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe gedankt",
+          "du": "hast gedankt",
+          "er/sie/es": "hat gedankt",
+          "wir": "haben gedankt",
+          "ihr": "habt gedankt",
+          "sie/Sie": "haben gedankt"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "danken_verb",
@@ -4414,6 +6039,19 @@
           "sie/Sie": "antworteten"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "geantwortet",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe geantwortet",
+          "du": "hast geantwortet",
+          "er/sie/es": "hat geantwortet",
+          "wir": "haben geantwortet",
+          "ihr": "habt geantwortet",
+          "sie/Sie": "haben geantwortet"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "antworten_verb",
@@ -4446,6 +6084,19 @@
           "sie/Sie": "vertrauten"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "vertraut",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe vertraut",
+          "du": "hast vertraut",
+          "er/sie/es": "hat vertraut",
+          "wir": "haben vertraut",
+          "ihr": "habt vertraut",
+          "sie/Sie": "haben vertraut"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "vertrauen_verb",
@@ -4480,6 +6131,19 @@
           "sie/Sie": "versprachen"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "versprochen",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe versprochen",
+          "du": "hast versprochen",
+          "er/sie/es": "hat versprochen",
+          "wir": "haben versprochen",
+          "ihr": "habt versprochen",
+          "sie/Sie": "haben versprochen"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "versprechen_verb",
@@ -4519,6 +6183,19 @@
           "sie/Sie": "erklärten"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "erklärt",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe erklärt",
+          "du": "hast erklärt",
+          "er/sie/es": "hat erklärt",
+          "wir": "haben erklärt",
+          "ihr": "habt erklärt",
+          "sie/Sie": "haben erklärt"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "erklaeren_verb",
@@ -4552,6 +6229,19 @@
           "sie/Sie": "zeigten"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gezeigt",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe gezeigt",
+          "du": "hast gezeigt",
+          "er/sie/es": "hat gezeigt",
+          "wir": "haben gezeigt",
+          "ihr": "habt gezeigt",
+          "sie/Sie": "haben gezeigt"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "zeigen_verb",
@@ -4584,6 +6274,19 @@
           "sie/Sie": "brachten"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gebracht",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe gebracht",
+          "du": "hast gebracht",
+          "er/sie/es": "hat gebracht",
+          "wir": "haben gebracht",
+          "ihr": "habt gebracht",
+          "sie/Sie": "haben gebracht"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "bringen_verb",
@@ -4622,6 +6325,19 @@
           "sie/Sie": "erzählten"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "erzählt",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe erzählt",
+          "du": "hast erzählt",
+          "er/sie/es": "hat erzählt",
+          "wir": "haben erzählt",
+          "ihr": "habt erzählt",
+          "sie/Sie": "haben erzählt"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "erzaehlen_verb",
@@ -4656,6 +6372,19 @@
           "sie/Sie": "räumten auf"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "aufgeräumt",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe aufgeräumt",
+          "du": "hast aufgeräumt",
+          "er/sie/es": "hat aufgeräumt",
+          "wir": "haben aufgeräumt",
+          "ihr": "habt aufgeräumt",
+          "sie/Sie": "haben aufgeräumt"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "_id": "aufraeumen_verb",
@@ -4687,6 +6416,19 @@
           "sie/Sie": "reisten"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gereist",
+        "auxiliary": "sein",
+        "former": {
+          "ich": "bin gereist",
+          "du": "bist gereist",
+          "er/sie/es": "ist gereist",
+          "wir": "sind gereist",
+          "ihr": "seid gereist",
+          "sie/Sie": "sind gereist"
+        },
+        "feature": "grammar_perfektum"
       }
     }
   },
@@ -4717,6 +6459,19 @@
           "sie/Sie": "sahen fern"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "ferngesehen",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe ferngesehen",
+          "du": "hast ferngesehen",
+          "er/sie/es": "hat ferngesehen",
+          "wir": "haben ferngesehen",
+          "ihr": "habt ferngesehen",
+          "sie/Sie": "haben ferngesehen"
+        },
+        "feature": "grammar_perfektum"
       }
     }
   },
@@ -4789,6 +6544,20 @@
           "sie/Sie": "wollten"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "gemocht",
+        "auxiliary": "haben",
+        "modal_note": "möchten hat kein eigenes Perfektum. Als Konjunktiv II von mögen wird gemocht als Partizip II verwendet. In der Praxis wird \"hat gewollt\" oder \"hat mögen\" benutzt.",
+        "former": {
+          "ich": "habe gemocht",
+          "du": "hast gemocht",
+          "er/sie/es": "hat gemocht",
+          "wir": "haben gemocht",
+          "ihr": "habt gemocht",
+          "sie/Sie": "haben gemocht"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "modal": true,
@@ -4820,6 +6589,19 @@
           "sie/Sie": "bekamen"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "bekommen",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe bekommen",
+          "du": "hast bekommen",
+          "er/sie/es": "hat bekommen",
+          "wir": "haben bekommen",
+          "ihr": "habt bekommen",
+          "sie/Sie": "haben bekommen"
+        },
+        "feature": "grammar_perfektum"
       }
     },
     "inseparable": true
@@ -4865,6 +6647,19 @@
           "sie/Sie": "kletterten"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "geklettert",
+        "auxiliary": "sein",
+        "former": {
+          "ich": "bin geklettert",
+          "du": "bist geklettert",
+          "er/sie/es": "ist geklettert",
+          "wir": "sind geklettert",
+          "ihr": "seid geklettert",
+          "sie/Sie": "sind geklettert"
+        },
+        "feature": "grammar_perfektum"
       }
     }
   },
@@ -4896,6 +6691,24 @@
           "sie/Sie": "fuhren weg"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "weggefahren",
+        "auxiliary": "both",
+        "dual_auxiliary": true,
+        "auxiliary_note": {
+          "sein": "Abfahrt / Fortbewegung: Ich bin weggefahren.",
+          "haben": "Transitiv (selten): Ich habe das Auto weggefahren."
+        },
+        "former": {
+          "ich": "bin/habe weggefahren",
+          "du": "bist/hast weggefahren",
+          "er/sie/es": "ist/hat weggefahren",
+          "wir": "sind/haben weggefahren",
+          "ihr": "seid/habt weggefahren",
+          "sie/Sie": "sind/haben weggefahren"
+        },
+        "feature": "grammar_perfektum"
       }
     }
   },
@@ -4918,6 +6731,19 @@
           "sie/Sie": "blieben liegen"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "liegen geblieben",
+        "auxiliary": "sein",
+        "former": {
+          "ich": "bin liegen geblieben",
+          "du": "bist liegen geblieben",
+          "er/sie/es": "ist liegen geblieben",
+          "wir": "sind liegen geblieben",
+          "ihr": "seid liegen geblieben",
+          "sie/Sie": "sind liegen geblieben"
+        },
+        "feature": "grammar_perfektum"
       }
     }
   },
@@ -4940,6 +6766,19 @@
           "sie/Sie": "ärgerten sich über"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "geärgert",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe mich geärgert",
+          "du": "hast dich geärgert",
+          "er/sie/es": "hat sich geärgert",
+          "wir": "haben uns geärgert",
+          "ihr": "habt euch geärgert",
+          "sie/Sie": "haben sich geärgert"
+        },
+        "feature": "grammar_perfektum"
       }
     }
   },
@@ -4971,6 +6810,19 @@
           "sie/Sie": "kamen mit"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "mitgekommen",
+        "auxiliary": "sein",
+        "former": {
+          "ich": "bin mitgekommen",
+          "du": "bist mitgekommen",
+          "er/sie/es": "ist mitgekommen",
+          "wir": "sind mitgekommen",
+          "ihr": "seid mitgekommen",
+          "sie/Sie": "sind mitgekommen"
+        },
+        "feature": "grammar_perfektum"
       }
     }
   },
@@ -4993,6 +6845,19 @@
           "sie/Sie": "gingen spazieren"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "spazieren gegangen",
+        "auxiliary": "sein",
+        "former": {
+          "ich": "bin spazieren gegangen",
+          "du": "bist spazieren gegangen",
+          "er/sie/es": "ist spazieren gegangen",
+          "wir": "sind spazieren gegangen",
+          "ihr": "seid spazieren gegangen",
+          "sie/Sie": "sind spazieren gegangen"
+        },
+        "feature": "grammar_perfektum"
       }
     }
   },
@@ -5037,6 +6902,19 @@
           "sie/Sie": "putzten Zähne"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "Zähne geputzt",
+        "auxiliary": "haben",
+        "former": {
+          "ich": "habe Zähne geputzt",
+          "du": "hast Zähne geputzt",
+          "er/sie/es": "hat Zähne geputzt",
+          "wir": "haben Zähne geputzt",
+          "ihr": "habt Zähne geputzt",
+          "sie/Sie": "haben Zähne geputzt"
+        },
+        "feature": "grammar_perfektum"
       }
     }
   },
@@ -5068,6 +6946,24 @@
           "sie/Sie": "zogen aus"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "ausgezogen",
+        "auxiliary": "both",
+        "dual_auxiliary": true,
+        "auxiliary_note": {
+          "sein": "Umzug / Auszug: Ich bin aus der Wohnung ausgezogen.",
+          "haben": "Ausziehen (Kleidung): Ich habe den Mantel ausgezogen."
+        },
+        "former": {
+          "ich": "bin/habe ausgezogen",
+          "du": "bist/hast ausgezogen",
+          "er/sie/es": "ist/hat ausgezogen",
+          "wir": "sind/haben ausgezogen",
+          "ihr": "seid/habt ausgezogen",
+          "sie/Sie": "sind/haben ausgezogen"
+        },
+        "feature": "grammar_perfektum"
       }
     }
   },
@@ -5099,6 +6995,19 @@
           "sie/Sie": "schliefen ein"
         },
         "feature": "grammar_preteritum"
+      },
+      "perfektum": {
+        "participle": "eingeschlafen",
+        "auxiliary": "sein",
+        "former": {
+          "ich": "bin eingeschlafen",
+          "du": "bist eingeschlafen",
+          "er/sie/es": "ist eingeschlafen",
+          "wir": "sind eingeschlafen",
+          "ihr": "seid eingeschlafen",
+          "sie/Sie": "sind eingeschlafen"
+        },
+        "feature": "grammar_perfektum"
       }
     }
   },
