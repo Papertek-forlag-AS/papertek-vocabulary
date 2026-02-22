@@ -234,7 +234,7 @@ export default async function handler(req, res) {
     // Grammar features metadata — tells clients which grammar concepts apply to this word
     // Enables progressive disclosure in smart dictionaries (Chrome extension etc.)
     const grammarFeatures = [];
-    if (entry.conjugations?.presens) grammarFeatures.push('grammar_present');
+    if (entry.conjugations?.presens) grammarFeatures.push('grammar_presens');
     if (entry.conjugations?.preteritum) grammarFeatures.push('grammar_preteritum');
     if (entry.conjugations?.perfektum) grammarFeatures.push('grammar_perfektum');
     if (entry.conjugations?.presens?.former) {
@@ -262,6 +262,12 @@ export default async function handler(req, res) {
     // Adjective declension — positiv key is unique to adjective declension blocks
     if (entry.declension?.positiv) {
       grammarFeatures.push('grammar_adjective_declension');
+    }
+    // Adjective genitive declension — check if genitiv key exists in any declension type
+    if (entry.declension?.positiv?.stark?.genitiv ||
+        entry.declension?.positiv?.schwach?.genitiv ||
+        entry.declension?.positiv?.gemischt?.genitiv) {
+      grammarFeatures.push('grammar_adjective_genitive');
     }
     // Check explanation text for case references (contractions, prepositions)
     const explanationText = (translationEntry?.explanation?._description || '').toLowerCase();
