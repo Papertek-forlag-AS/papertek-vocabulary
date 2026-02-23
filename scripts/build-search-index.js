@@ -8,10 +8,8 @@
  *   verbbank, nounbank, adjectivebank, generalbank,
  *   articlesbank, numbersbank, phrasesbank, pronounsbank
  *
- * Translation lookup (curriculum first, dict as fallback):
- *   de-nb / de-en (curriculum)
- *   de-nb-dict / de-en-dict (dict-only, noun/verb/general)
- *   Note: Phase 21 will consolidate translations into vocabulary/banks/.
+ * Translation lookup (single directory per language pair):
+ *   de-nb / de-en (merged translations — Phase 21 consolidated all translations here)
  *
  * Verb entry fields: id, w, t, f, c, cur, vc, sep, pp, tr.nb, tr.en
  * Noun entry fields: id, w, t, f, c, cur, g, tr.nb, tr.en
@@ -39,8 +37,8 @@ const phrasesBank  = JSON.parse(readFileSync(`${BASE}/phrasesbank.json`,    'utf
 const pronounsBank = JSON.parse(readFileSync(`${BASE}/pronounsbank.json`,   'utf8'));
 
 // ── Load translation files ─────────────────────────────────────────────────
-// Curriculum translations
-const currNb = {
+// Single translation directory per language pair (Phase 21 consolidated all translations)
+const nb = {
   verb:        JSON.parse(readFileSync(`${TRANS_BASE}/de-nb/verbbank.json`,        'utf8')),
   noun:        JSON.parse(readFileSync(`${TRANS_BASE}/de-nb/nounbank.json`,        'utf8')),
   adj:         JSON.parse(readFileSync(`${TRANS_BASE}/de-nb/adjectivebank.json`,   'utf8')),
@@ -50,7 +48,7 @@ const currNb = {
   phrases:     JSON.parse(readFileSync(`${TRANS_BASE}/de-nb/phrasesbank.json`,     'utf8')),
   pronouns:    JSON.parse(readFileSync(`${TRANS_BASE}/de-nb/pronounsbank.json`,    'utf8')),
 };
-const currEn = {
+const en = {
   verb:        JSON.parse(readFileSync(`${TRANS_BASE}/de-en/verbbank.json`,        'utf8')),
   noun:        JSON.parse(readFileSync(`${TRANS_BASE}/de-en/nounbank.json`,        'utf8')),
   adj:         JSON.parse(readFileSync(`${TRANS_BASE}/de-en/adjectivebank.json`,   'utf8')),
@@ -58,35 +56,20 @@ const currEn = {
   articles:    JSON.parse(readFileSync(`${TRANS_BASE}/de-en/articlesbank.json`,    'utf8')),
   numbers:     JSON.parse(readFileSync(`${TRANS_BASE}/de-en/numbersbank.json`,     'utf8')),
   phrases:     JSON.parse(readFileSync(`${TRANS_BASE}/de-en/phrasesbank.json`,     'utf8')),
-  pronouns:    JSON.parse(readFileSync(`${TRANS_BASE}/de-nb/pronounsbank.json`,    'utf8')),
-};
-// Dict-only translations (noun, verb, general)
-const dictNb = {
-  verb:    JSON.parse(readFileSync(`${TRANS_BASE}/de-nb-dict/verbbank.json`,    'utf8')),
-  noun:    JSON.parse(readFileSync(`${TRANS_BASE}/de-nb-dict/nounbank.json`,    'utf8')),
-  general: JSON.parse(readFileSync(`${TRANS_BASE}/de-nb-dict/generalbank.json`, 'utf8')),
-};
-const dictEn = {
-  verb:    JSON.parse(readFileSync(`${TRANS_BASE}/de-en-dict/verbbank.json`,    'utf8')),
-  noun:    JSON.parse(readFileSync(`${TRANS_BASE}/de-en-dict/nounbank.json`,    'utf8')),
-  general: JSON.parse(readFileSync(`${TRANS_BASE}/de-en-dict/generalbank.json`, 'utf8')),
+  pronouns:    JSON.parse(readFileSync(`${TRANS_BASE}/de-en/pronounsbank.json`,    'utf8')),
 };
 
 /**
- * Look up translation for an entry id from a set of translation maps.
- * Curriculum (curr) takes priority; dict-only (dict) is the fallback.
+ * Look up translation for an entry id from a translation map.
  *
  * @param {string} id - entry key (e.g. "anfangen_verb")
  * @param {string} bankType - which group to look in: 'verb'|'noun'|'adj'|'general'|'articles'|...
- * @param {object} currMap - curriculum language map (object with translation files)
- * @param {object} dictMap - dict-only language map (only verb/noun/general)
+ * @param {object} transMap - language translation map (object with translation files)
  * @returns {string|undefined}
  */
-function getTranslation(id, bankType, currMap, dictMap) {
-  const currSource = currMap[bankType];
-  if (currSource && currSource[id]?.translation) return currSource[id].translation;
-  const dictSource = dictMap[bankType];
-  if (dictSource && dictSource[id]?.translation) return dictSource[id].translation;
+function getTranslation(id, bankType, transMap) {
+  const source = transMap[bankType];
+  if (source && source[id]?.translation) return source[id].translation;
   return undefined;
 }
 
@@ -120,8 +103,8 @@ function buildEntry(id, entry, bankType) {
     t = bankTypeMap[bankType];
   }
 
-  const nb = getTranslation(id, bankType, currNb, dictNb);
-  const en = getTranslation(id, bankType, currEn, dictEn);
+  const nbTr = getTranslation(id, bankType, nb);
+  const enTr = getTranslation(id, bankType, en);
 
   const indexEntry = {
     id,
@@ -155,8 +138,8 @@ function buildEntry(id, entry, bankType) {
 
   // Translation
   const tr = {};
-  if (nb) tr.nb = nb;
-  if (en) tr.en = en;
+  if (nbTr) tr.nb = nbTr;
+  if (enTr) tr.en = enTr;
   if (Object.keys(tr).length > 0) {
     indexEntry.tr = tr;
   }
