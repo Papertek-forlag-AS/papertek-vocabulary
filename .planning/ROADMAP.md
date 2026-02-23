@@ -5,7 +5,7 @@
 - ✅ **v1.0 German Data Completeness** — Phases 1-2 (shipped 2026-02-20)
 - ✅ **v1.1 German Adjective Declension** — Phases 3-10 (shipped 2026-02-22)
 - ✅ **v1.2 German Perfektum & Noun Declension** — Phases 11-15 (shipped 2026-02-22)
-- **v1.3 Tech Debt Cleanup** — Phases 16-18 (in progress)
+- **v1.3 Tech Debt Cleanup** — Phases 16-19 (in progress)
 
 ## Phases
 
@@ -48,11 +48,12 @@
 
 </details>
 
-**v1.3 Tech Debt Cleanup (Phases 16-18)**
+**v1.3 Tech Debt Cleanup (Phases 16-19)**
 
 - [x] **Phase 16: Data Fixes** - Correct missing/wrong fields across noun and verb data banks (completed 2026-02-22)
 - [x] **Phase 17: API Fixes** - Fix v2 handler grammar ID, missing feature flags, and hidden fields (completed 2026-02-22)
 - [ ] **Phase 18: Tooling Fixes** - Register all scripts in package.json and unify validate:all
+- [ ] **Phase 19: Curriculum Manifest Fix** - Update stale grammar_present IDs in curriculum manifest and fix README
 
 ## Phase Details
 
@@ -93,6 +94,16 @@ Plans:
   2. Running `npm run validate:all` executes nouns, verbs, dict variants, and integration checks — all passing — in a single command
 **Plans**: TBD
 
+### Phase 19: Curriculum Manifest Fix
+**Goal**: All grammar feature IDs in curriculum manifests match grammar-features.json, and API documentation reflects current naming
+**Depends on**: Phase 17
+**Requirements**: INTEG-01, INTEG-02
+**Gap Closure:** Closes integration gap and broken flow from v1.3 audit
+**Success Criteria** (what must be TRUE):
+  1. `vocab-manifest-tysk1-vg1.json` contains zero instances of `grammar_present` in German lesson feature arrays (all replaced with `grammar_presens`)
+  2. `api/vocab/README.md` German grammar features example uses `grammar_presens` (not `grammar_present`)
+**Plans**: TBD
+
 ## Progress
 
 | Phase | Milestone | Plans Complete | Status | Completed |
@@ -115,3 +126,4 @@ Plans:
 | 16. Data Fixes | 3/3 | Complete    | 2026-02-22 | - |
 | 17. API Fixes | 1/1 | Complete    | 2026-02-22 | - |
 | 18. Tooling Fixes | v1.3 | 0/TBD | Not started | - |
+| 19. Curriculum Manifest Fix | v1.3 | 0/TBD | Not started | - |

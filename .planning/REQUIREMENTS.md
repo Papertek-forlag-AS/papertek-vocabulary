@@ -27,6 +27,11 @@ Requirements for tech debt cleanup. Each maps to roadmap phases.
 - [ ] **TOOL-01**: `build-search-index.js` registered as npm script (`npm run build:search-index`)
 - [ ] **TOOL-02**: `validate:all` npm script includes all validation scripts (nouns, verbs, dict variants, integration)
 
+### Integration (Gap Closure)
+
+- [ ] **INTEG-01**: Curriculum manifest `vocab-manifest-tysk1-vg1.json` uses `grammar_presens` (not `grammar_present`) in German lesson feature arrays
+- [ ] **INTEG-02**: `api/vocab/README.md` grammar features example uses `grammar_presens` for German
+
 ## Future Requirements
 
 Deferred to future milestones. Tracked but not in current roadmap.
@@ -69,12 +74,14 @@ Which phases cover which requirements. Updated during roadmap creation.
 | API-03 | Phase 17 | Complete |
 | TOOL-01 | Phase 18 | Pending |
 | TOOL-02 | Phase 18 | Pending |
+| INTEG-01 | Phase 19 | Pending |
+| INTEG-02 | Phase 19 | Pending |
 
 **Coverage:**
-- v1.3 requirements: 11 total
-- Mapped to phases: 11
+- v1.3 requirements: 13 total
+- Mapped to phases: 13
 - Unmapped: 0 ✓
 
 ---
 *Requirements defined: 2026-02-22*
-*Last updated: 2026-02-22 after v1.3 roadmap created*
+*Last updated: 2026-02-23 after v1.3 gap closure phases added*
