@@ -110,7 +110,10 @@ Plans:
   3. The v2 lookup handler returns the full entry from the single bank for any queried ID
   4. The v2 search handler resolves lookups against the rebuilt search index
   5. Translation resolution in v2 reads from a single translation directory per language pair (no fallback to -dict/ path)
-**Plans**: TBD
+**Plans**: 2 plans
+Plans:
+- [ ] 22-01-PLAN.md — Migrate v1 + v2 API handlers to read from vocabulary/banks/
+- [ ] 22-02-PLAN.md — Delete old directories, migration scripts; update validators
 
 ### Phase 23: Validation & Cleanup
 **Goal**: The new architecture is verified correct against the pre-migration baseline and all old dual-bank directories are removed
@@ -150,5 +153,5 @@ Plans:
 | 19. Curriculum Manifest Fix | v1.3 | 1/1 | Complete | 2026-02-23 |
 | 20. Bank & Manifest Consolidation | 2/2 | Complete    | 2026-02-23 | - |
 | 21. Translation Consolidation | 2/2 | Complete    | 2026-02-23 | - |
-| 22. API Updates | v2.0 | 0/TBD | Not started | - |
+| 22. API Updates | v2.0 | 0/2 | Not started | - |
 | 23. Validation & Cleanup | v2.0 | 0/TBD | Not started | - |
