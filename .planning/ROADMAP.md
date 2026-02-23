@@ -145,7 +145,7 @@ Plans:
 | 17. API Fixes | v1.3 | 1/1 | Complete | 2026-02-22 |
 | 18. Tooling Fixes | v1.3 | 1/1 | Complete | 2026-02-23 |
 | 19. Curriculum Manifest Fix | v1.3 | 1/1 | Complete | 2026-02-23 |
-| 20. Bank & Manifest Consolidation | 2/2 | Complete   | 2026-02-23 | - |
+| 20. Bank & Manifest Consolidation | 2/2 | Complete    | 2026-02-23 | - |
 | 21. Translation Consolidation | v2.0 | 0/TBD | Not started | - |
 | 22. API Updates | v2.0 | 0/TBD | Not started | - |
 | 23. Validation & Cleanup | v2.0 | 0/TBD | Not started | - |
