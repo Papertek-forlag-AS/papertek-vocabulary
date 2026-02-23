@@ -1,16 +1,17 @@
 /**
  * build-search-index.js
  *
- * Phase 15 SYNC-03: Full rebuild of vocabulary/dictionary/de/search-index.json
- * from all dict banks + translation files + core verbbank (for pp field).
+ * Phase 20 BANK-05: Full rebuild of vocabulary/banks/de/search-index.json
+ * from all merged banks under vocabulary/banks/de/.
  *
- * All 8 dict banks are read:
+ * All 8 merged banks are read:
  *   verbbank, nounbank, adjectivebank, generalbank,
  *   articlesbank, numbersbank, phrasesbank, pronounsbank
  *
  * Translation lookup (curriculum first, dict as fallback):
  *   de-nb / de-en (curriculum)
  *   de-nb-dict / de-en-dict (dict-only, noun/verb/general)
+ *   Note: Phase 21 will consolidate translations into vocabulary/banks/.
  *
  * Verb entry fields: id, w, t, f, c, cur, vc, sep, pp, tr.nb, tr.en
  * Noun entry fields: id, w, t, f, c, cur, g, tr.nb, tr.en
@@ -24,10 +25,10 @@
 
 import { readFileSync, writeFileSync } from 'fs';
 
-const BASE = 'vocabulary/dictionary/de';
+const BASE = 'vocabulary/banks/de';
 const TRANS_BASE = 'vocabulary/translations';
 
-// ── Load all 8 dict banks ──────────────────────────────────────────────────
+// ── Load all 8 merged banks ────────────────────────────────────────────────
 const verbBank     = JSON.parse(readFileSync(`${BASE}/verbbank.json`,       'utf8'));
 const nounBank     = JSON.parse(readFileSync(`${BASE}/nounbank.json`,       'utf8'));
 const adjBank      = JSON.parse(readFileSync(`${BASE}/adjectivebank.json`,  'utf8'));
@@ -36,15 +37,6 @@ const articlesBank = JSON.parse(readFileSync(`${BASE}/articlesbank.json`,   'utf
 const numbersBank  = JSON.parse(readFileSync(`${BASE}/numbersbank.json`,    'utf8'));
 const phrasesBank  = JSON.parse(readFileSync(`${BASE}/phrasesbank.json`,    'utf8'));
 const pronounsBank = JSON.parse(readFileSync(`${BASE}/pronounsbank.json`,   'utf8'));
-
-// ── Load core verbbank for pp field lookup ─────────────────────────────────
-const coreVerbBank = JSON.parse(readFileSync('vocabulary/core/de/verbbank.json', 'utf8'));
-const ppMap = {};  // { verb_id: participle_string }
-for (const [key, entry] of Object.entries(coreVerbBank)) {
-  if (key === '_metadata') continue;
-  const participle = entry?.conjugations?.perfektum?.participle;
-  if (participle) ppMap[key] = participle;
-}
 
 // ── Load translation files ─────────────────────────────────────────────────
 // Curriculum translations
@@ -150,10 +142,9 @@ function buildEntry(id, entry, bankType) {
     if (entry.verbClass?.separable) {
       indexEntry.sep = entry.verbClass.separable;
     }
-    // pp: bare participle from core verbbank
-    if (ppMap[id]) {
-      indexEntry.pp = ppMap[id];
-    }
+    // pp: bare participle from merged bank's conjugations.perfektum.participle
+    const participle = entry?.conjugations?.perfektum?.participle;
+    if (participle) indexEntry.pp = participle;
   } else if (t === 'noun') {
     // g: genus (gender) — no case hints per user decision
     if (entry.genus) {
