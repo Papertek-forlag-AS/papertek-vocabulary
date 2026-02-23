@@ -3,161 +3,91 @@
     "source": "generalbank.json",
     "targetLanguage": "german",
     "nativeLanguage": "en",
-    "generatedAt": "2026-01-16T17:26:35.866Z",
-    "description": "EN translations for german general"
+    "generatedAt": "2026-02-23T21:28:41.252Z",
+    "description": "EN translations for german general",
+    "totalWords": 674,
+    "mergedFrom": [
+      "de-en/generalbank.json",
+      "de-en-dict/generalbank.json"
+    ]
   },
-  "hallo_interj": {
-    "translation": "Hello!"
-  },
-  "wie_heisst_du_phrase": {
-    "translation": "What is your name?"
-  },
-  "und_conj": {
-    "translation": "and"
-  },
-  "jahre_alt_phrase": {
-    "translation": "years old"
-  },
-  "woher_kommst_du_phrase": {
-    "translation": "Where are you from?"
-  },
-  "aus_prep": {
-    "translation": "from"
-  },
-  "auch_adv": {
-    "translation": "also"
-  },
-  "super_interj": {
-    "translation": "Great!"
-  },
-  "tschuess_interj": {
-    "translation": "Bye!"
-  },
-  "danke_interj": {
-    "translation": "thanks"
-  },
-  "bitte_interj": {
-    "translation": "you're welcome"
-  },
-  "wer_ist_das_phrase": {
-    "translation": "Who is it?"
-  },
-  "das_ist_phrase": {
-    "translation": "It is..."
-  },
-  "von_prep": {
-    "translation": "of/from"
-  },
-  "ja_interj": {
-    "translation": "yes"
-  },
-  "nein_interj": {
-    "translation": "no"
-  },
-  "jetzt_adv": {
-    "translation": "now"
+  "ab_general": {
+    "translation": "from; off"
   },
   "aber_conj": {
     "translation": "but"
   },
-  "hier_adv": {
-    "translation": "here"
+  "abhaengig_general": {
+    "translation": "dependent"
   },
-  "nur_adv": {
-    "translation": "only"
+  "absolut_general": {
+    "translation": "absolute"
   },
-  "willkommen_interj": {
-    "translation": "welcome"
+  "abwaerts_general": {
+    "translation": "downward"
   },
-  "in_prep": {
-    "translation": "in/on"
+  "abwesend_general": {
+    "translation": "absent"
   },
-  "in_der_schule_phrase": {
-    "translation": "at school"
+  "achtung_general": {
+    "translation": "attention; caution"
   },
-  "spass_machen_phrase": {
-    "translation": "to be fun"
+  "aehnlich_general": {
+    "translation": "similar"
   },
-  "ein_bisschen_phrase": {
-    "translation": "a little"
+  "aengstlich_general": {
+    "translation": "anxious"
   },
-  "schnell_adv": {
-    "translation": "fast/quickly"
+  "aergerlich_general": {
+    "translation": "annoying; irritated"
   },
-  "los_geht_s_phrase": {
-    "translation": "let's get started"
+  "aeusserlich_general": {
+    "translation": "external"
   },
-  "da_adv": {
-    "translation": "there/then"
+  "afrika_propn": {
+    "translation": "Africa"
   },
-  "sehr_adv": {
-    "translation": "very / much"
+  "aktuell_general": {
+    "translation": "current"
   },
-  "fuer_prep": {
-    "translation": "for"
+  "all_general": {
+    "translation": "all"
   },
-  "heute_adv": {
-    "translation": "today"
+  "allein_adv": {
+    "translation": "alone"
   },
-  "manchmal_adv": {
-    "translation": "sometimes"
+  "alleine_general": {
+    "translation": "alone"
   },
-  "gern_adv": {
-    "translation": "gladly"
+  "aller_general": {
+    "translation": "all; every"
   },
-  "lieber_adv": {
-    "translation": "rather"
+  "allerdings_general": {
+    "translation": "however; admittedly"
   },
-  "nicht_adv": {
-    "translation": "not"
+  "allgemein_general": {
+    "translation": "general"
   },
-  "zusammen_adv": {
-    "translation": "together"
+  "als_conj": {
+    "translation": "than"
   },
-  "vielleicht_adv": {
-    "translation": "maybe"
+  "als_garantie_general": {
+    "translation": "as a guarantee"
   },
-  "leider_adv": {
-    "translation": "unfortunately"
+  "als_ob_general": {
+    "translation": "as if"
   },
-  "ein_anderes_mal_phrase": {
-    "translation": "another time"
+  "also_adv": {
+    "translation": "so / well"
   },
-  "endlich_adv": {
-    "translation": "finally"
+  "alternativ_general": {
+    "translation": "alternative"
   },
-  "bis_dann_phrase": {
-    "translation": "Talk to you later!"
+  "am_abend_phrase": {
+    "translation": "in the evening"
   },
-  "was_interr": {
-    "translation": "what"
-  },
-  "wer_interr": {
-    "translation": "who"
-  },
-  "wo_interr": {
-    "translation": "Where?"
-  },
-  "woher_interr": {
-    "translation": "From where"
-  },
-  "wie_interr": {
-    "translation": "How / What"
-  },
-  "wann_interr": {
-    "translation": "when"
-  },
-  "warum_interr": {
-    "translation": "why"
-  },
-  "um_prep": {
-    "translation": "at... (before time)"
-  },
-  "mit_prep": {
-    "translation": "with"
-  },
-  "am_wochenende_phrase": {
-    "translation": "on the weekend"
+  "am_freitag_phrase": {
+    "translation": "on Friday"
   },
   "am_montag_phrase": {
     "translation": "on Monday"
@@ -165,65 +95,1664 @@
   "am_nachmittag_phrase": {
     "translation": "in the afternoon"
   },
-  "wie_spaet_ist_es_phrase": {
-    "translation": "What time is it?"
+  "am_samstag_phrase": {
+    "translation": "on Saturday"
   },
-  "welcher_interr": {
-    "translation": "which"
+  "am_sonntag_phrase": {
+    "translation": "on Sunday"
+  },
+  "am_wochenende_phrase": {
+    "translation": "on the weekend"
+  },
+  "an_prep": {
+    "translation": "at / on (vertical)"
+  },
+  "an_sein_general": {
+    "translation": "to be on"
+  },
+  "ander_general": {
+    "translation": "other"
+  },
+  "anders_general": {
+    "translation": "differently"
+  },
+  "anfangs_general": {
+    "translation": "initially"
+  },
+  "angenehm_general": {
+    "translation": "pleasant"
+  },
+  "anwesend_general": {
+    "translation": "present"
+  },
+  "arbeitslos_general": {
+    "translation": "unemployed"
+  },
+  "arbeitslos_sind_general": {
+    "translation": "are unemployed"
+  },
+  "asien_propn": {
+    "translation": "Asia"
+  },
+  "auch_adv": {
+    "translation": "also"
   },
   "auf_prep": {
     "translation": "on"
   },
+  "auf_sein_general": {
+    "translation": "to be open"
+  },
+  "aufmerksam_general": {
+    "translation": "attentive"
+  },
+  "aufregend_general": {
+    "translation": "exciting"
+  },
+  "aufwaerts_general": {
+    "translation": "upward"
+  },
+  "aus_frankreich_phrase": {
+    "translation": "from France"
+  },
+  "aus_prep": {
+    "translation": "from"
+  },
+  "aus_sein_general": {
+    "translation": "to be off; to be over"
+  },
+  "auseinander_general": {
+    "translation": "apart"
+  },
+  "auslaendisch_general": {
+    "translation": "foreign"
+  },
+  "ausreichend_general": {
+    "translation": "sufficient"
+  },
+  "ausschliesslich_general": {
+    "translation": "exclusively"
+  },
+  "ausser_general": {
+    "translation": "except; besides"
+  },
+  "ausserdem_general": {
+    "translation": "besides; moreover"
+  },
+  "ausserhalb_general": {
+    "translation": "outside of"
+  },
+  "automatisch_general": {
+    "translation": "automatic"
+  },
+  "bald_adv": {
+    "translation": "soon"
+  },
+  "bar_general": {
+    "translation": "cash; in cash"
+  },
+  "befriedigend_general": {
+    "translation": "satisfactory"
+  },
+  "bei_mir_phrase": {
+    "translation": "at my place / for me"
+  },
+  "bei_prep": {
+    "translation": "at / by"
+  },
+  "beid_general": {
+    "translation": "both"
+  },
+  "beides_adv": {
+    "translation": "both"
+  },
+  "beinahe_general": {
+    "translation": "almost"
+  },
+  "bekannt_general": {
+    "translation": "well-known"
+  },
+  "beliebt_general": {
+    "translation": "popular"
+  },
+  "bequem_general": {
+    "translation": "comfortable"
+  },
+  "bereit_general": {
+    "translation": "ready"
+  },
+  "bereits_general": {
+    "translation": "already"
+  },
+  "beruehmt_general": {
+    "translation": "famous"
+  },
+  "beruflich_general": {
+    "translation": "professional"
+  },
+  "berufstaetig_general": {
+    "translation": "employed; working"
+  },
+  "besetzt_general": {
+    "translation": "occupied; busy"
+  },
+  "besonder_general": {
+    "translation": "special"
+  },
+  "besonders_adv": {
+    "translation": "especially"
+  },
+  "besser_general": {
+    "translation": "better"
+  },
+  "bestimmt_adv": {
+    "translation": "certainly / definitely"
+  },
+  "bevor_general": {
+    "translation": "before"
+  },
+  "billig_general": {
+    "translation": "cheap"
+  },
+  "bis_dann_phrase": {
+    "translation": "Talk to you later!"
+  },
+  "bis_general": {
+    "translation": "until; to"
+  },
+  "bisher_general": {
+    "translation": "so far; until now"
+  },
+  "bitte_interj": {
+    "translation": "you're welcome"
+  },
+  "bitter_general": {
+    "translation": "bitter"
+  },
+  "blass_general": {
+    "translation": "pale"
+  },
+  "blind_general": {
+    "translation": "blind"
+  },
+  "bloss_general": {
+    "translation": "merely; just"
+  },
+  "breit_general": {
+    "translation": "wide; broad"
+  },
+  "da_adv": {
+    "translation": "there/then"
+  },
+  "dabei_adv": {
+    "translation": "with it / by it"
+  },
+  "dafuer_general": {
+    "translation": "for it; in favour of"
+  },
+  "daher_general": {
+    "translation": "therefore; from there"
+  },
+  "dahin_general": {
+    "translation": "there; to there"
+  },
+  "damals_general": {
+    "translation": "at that time; back then"
+  },
+  "damit_general": {
+    "translation": "so that; with it"
+  },
   "danach_adv": {
     "translation": "afterwards / then"
   },
-  "noch_adv": {
-    "translation": "still / yet"
+  "dankbar_general": {
+    "translation": "grateful"
   },
-  "immer_adv": {
-    "translation": "always"
-  },
-  "getrennt_adv": {
-    "translation": "separately"
-  },
-  "spaeter_adv": {
-    "translation": "later"
-  },
-  "zu_hause_phrase": {
-    "translation": "at home"
-  },
-  "passt_es_phrase": {
-    "translation": "does it suit you? / is it convenient?"
-  },
-  "deutschland_propn": {
-    "translation": "Germany"
-  },
-  "norwegisch_propn": {
-    "translation": "Norwegian"
-  },
-  "genau_adv": {
-    "translation": "exactly / precisely"
-  },
-  "oder_conj": {
-    "translation": "or"
-  },
-  "frueh_adv": {
-    "translation": "early"
-  },
-  "spaet_adv": {
-    "translation": "late"
-  },
-  "jeden_tag_phrase": {
-    "translation": "every day"
-  },
-  "zuerst_adv": {
-    "translation": "first"
+  "danke_interj": {
+    "translation": "thanks"
   },
   "dann_adv": {
     "translation": "so"
   },
+  "dann_links_general": {
+    "translation": "then left"
+  },
+  "darauf_adv": {
+    "translation": "on it / to it"
+  },
+  "das_ist_phrase": {
+    "translation": "It is..."
+  },
+  "das_klingt_gut_phrase": {
+    "translation": "that sounds good"
+  },
+  "dass_conj": {
+    "translation": "that"
+  },
+  "dasselbe_general": {
+    "translation": "the same"
+  },
+  "dauernd_general": {
+    "translation": "constantly"
+  },
+  "dauert_laenger_phrase": {
+    "translation": "takes longer"
+  },
+  "deinem_lieblingssaenger_general": {
+    "translation": "your favourite singer"
+  },
+  "dem_urlaub_general": {
+    "translation": "the holiday"
+  },
+  "den_anrufbeantworter_general": {
+    "translation": "the answering machine"
+  },
+  "den_elefanten_phrase": {
+    "translation": "the elephant (object)"
+  },
+  "den_ganzen_tag_phrase": {
+    "translation": "all day"
+  },
+  "den_loewen_phrase": {
+    "translation": "the lion (object)"
+  },
+  "denn_conj": {
+    "translation": "for / because"
+  },
+  "deshalb_general": {
+    "translation": "therefore"
+  },
+  "deutlich_general": {
+    "translation": "clear; distinct"
+  },
+  "deutschland_propn": {
+    "translation": "Germany"
+  },
+  "dicht_general": {
+    "translation": "dense; tight"
+  },
+  "dick_general": {
+    "translation": "thick; fat"
+  },
+  "die_schweiz_propn": {
+    "translation": "Switzerland"
+  },
+  "dies_general": {
+    "translation": "this"
+  },
+  "digital_general": {
+    "translation": "digital"
+  },
+  "direkt_general": {
+    "translation": "direct"
+  },
+  "doch_general": {
+    "translation": "but; however; yes (contradicting)"
+  },
+  "doppelt_general": {
+    "translation": "double"
+  },
+  "dort_adv": {
+    "translation": "there"
+  },
+  "dort_drueben_phrase": {
+    "translation": "over there"
+  },
+  "dorthin_general": {
+    "translation": "to there"
+  },
+  "draussen_adv": {
+    "translation": "outside"
+  },
+  "dringend_general": {
+    "translation": "urgent"
+  },
+  "dritten_reihe_general": {
+    "translation": "third row"
+  },
+  "duenn_general": {
+    "translation": "thin"
+  },
+  "dumm_general": {
+    "translation": "stupid"
+  },
+  "dunkel_general": {
+    "translation": "dark"
+  },
+  "durch_prep": {
+    "translation": "through"
+  },
+  "durcheinander_general": {
+    "translation": "in a mess; confused"
+  },
+  "durchschnittlich_general": {
+    "translation": "average; on average"
+  },
+  "durstig_general": {
+    "translation": "thirsty"
+  },
+  "ebenfalls_general": {
+    "translation": "likewise; also"
+  },
+  "ebenso_general": {
+    "translation": "equally; just as"
+  },
+  "echt_general": {
+    "translation": "real; genuine"
+  },
+  "eckig_general": {
+    "translation": "angular; square"
+  },
+  "egal_adv": {
+    "translation": "whatever / indifferent"
+  },
+  "eher_adv": {
+    "translation": "rather"
+  },
+  "eigen_general": {
+    "translation": "own"
+  },
+  "eilig_general": {
+    "translation": "urgent; in a hurry"
+  },
+  "ein_anderes_mal_phrase": {
+    "translation": "another time"
+  },
+  "ein_bisschen_phrase": {
+    "translation": "a little"
+  },
+  "ein_general": {
+    "translation": "a; an; one"
+  },
+  "ein_paar_general": {
+    "translation": "a few"
+  },
+  "ein_stipendium_general": {
+    "translation": "a scholarship"
+  },
+  "eindeutig_general": {
+    "translation": "clear; unambiguous"
+  },
+  "einen_elefanten_phrase": {
+    "translation": "an elephant (object)"
+  },
+  "einerseits_general": {
+    "translation": "on the one hand"
+  },
+  "einheitlich_general": {
+    "translation": "uniform; standardised"
+  },
+  "einig_general": {
+    "translation": "some; agreed"
+  },
+  "einmal_general": {
+    "translation": "once"
+  },
+  "einsam_general": {
+    "translation": "lonely"
+  },
+  "einschliesslich_general": {
+    "translation": "including"
+  },
+  "einzel_general": {
+    "translation": "single; individual"
+  },
+  "einzig_general": {
+    "translation": "only; sole"
+  },
+  "elegant_general": {
+    "translation": "elegant"
+  },
+  "elektrisch_general": {
+    "translation": "electric"
+  },
+  "elektronisch_general": {
+    "translation": "electronic"
+  },
+  "endlich_adv": {
+    "translation": "finally"
+  },
+  "eng_general": {
+    "translation": "narrow; tight"
+  },
+  "entlang_general": {
+    "translation": "along"
+  },
+  "entspannend_general": {
+    "translation": "relaxing"
+  },
+  "erfolgreich_general": {
+    "translation": "successful"
+  },
+  "erforderlich_general": {
+    "translation": "required; necessary"
+  },
+  "ernsthaft_general": {
+    "translation": "serious"
+  },
+  "erst_general": {
+    "translation": "first; only"
+  },
+  "es_gibt_phrase": {
+    "translation": "there is/are"
+  },
+  "etwa_general": {
+    "translation": "about; approximately"
+  },
+  "etwas_general": {
+    "translation": "something; a little"
+  },
+  "eventuell_general": {
+    "translation": "possibly; perhaps"
+  },
+  "ewig_general": {
+    "translation": "eternal; forever"
+  },
+  "extra_general": {
+    "translation": "extra"
+  },
+  "extrem_general": {
+    "translation": "extreme"
+  },
+  "faellig_general": {
+    "translation": "due"
+  },
+  "fair_general": {
+    "translation": "fair"
+  },
+  "falls_general": {
+    "translation": "if; in case"
+  },
+  "falsch_general": {
+    "translation": "wrong; false"
+  },
+  "fantastisch_general": {
+    "translation": "fantastic"
+  },
+  "farbig_general": {
+    "translation": "colourful"
+  },
+  "fast_general": {
+    "translation": "almost"
+  },
+  "fett_general": {
+    "translation": "fat; greasy"
+  },
+  "feucht_general": {
+    "translation": "damp; moist"
+  },
+  "finanziell_general": {
+    "translation": "financial"
+  },
+  "flach_general": {
+    "translation": "flat"
+  },
+  "fleissig_general": {
+    "translation": "hard-working; diligent"
+  },
+  "flexibel_general": {
+    "translation": "flexible"
+  },
+  "frankreich_land": {
+    "translation": "France"
+  },
+  "frei_general": {
+    "translation": "free"
+  },
+  "freiwillig_general": {
+    "translation": "voluntary"
+  },
+  "fremd_general": {
+    "translation": "foreign; strange"
+  },
+  "freunde_sind_wichtig_phrase": {
+    "translation": "Friends are important"
+  },
+  "froh_general": {
+    "translation": "happy; glad"
+  },
+  "frueh_adv": {
+    "translation": "early"
+  },
+  "frueher_general": {
+    "translation": "earlier; in the past"
+  },
+  "fuehlt_hat_gefuehlt_general": {
+    "translation": "feels, has felt"
+  },
+  "fuer_prep": {
+    "translation": "for"
+  },
+  "fuer_sie_general": {
+    "translation": "for you (formal); for them"
+  },
+  "furchtbar_general": {
+    "translation": "terrible; awful"
+  },
+  "ganz_general": {
+    "translation": "whole; quite"
+  },
+  "gar_general": {
+    "translation": "at all; cooked"
+  },
+  "geehrt_general": {
+    "translation": "honoured; dear"
+  },
+  "gegen_prep": {
+    "translation": "against"
+  },
+  "gegenueber_general": {
+    "translation": "opposite; across from"
+  },
+  "gehaengt_general": {
+    "translation": "hung"
+  },
+  "gekuendigt_general": {
+    "translation": "dismissed; terminated"
+  },
+  "gemeinsam_general": {
+    "translation": "together; joint"
+  },
+  "genau_adv": {
+    "translation": "exactly / precisely"
+  },
+  "genauso_general": {
+    "translation": "just as; equally"
+  },
+  "genug_general": {
+    "translation": "enough"
+  },
+  "geoeffnet_general": {
+    "translation": "open"
+  },
+  "gerade_adv": {
+    "translation": "right now"
+  },
+  "geradeaus_general": {
+    "translation": "straight ahead"
+  },
+  "gering_general": {
+    "translation": "small; slight"
+  },
+  "gern_adv": {
+    "translation": "gladly"
+  },
+  "gerne_adv": {
+    "translation": "gladly"
+  },
+  "gespannt_sein_phrase": {
+    "translation": "to be excited"
+  },
+  "getrennt_adv": {
+    "translation": "separately"
+  },
+  "gewoehnlich_general": {
+    "translation": "usually; ordinary"
+  },
+  "giftig_general": {
+    "translation": "poisonous; toxic"
+  },
+  "glatt_general": {
+    "translation": "smooth; slippery"
+  },
+  "gleich_adv": {
+    "translation": "immediately"
+  },
+  "gleichberechtigt_general": {
+    "translation": "equal; with equal rights"
+  },
+  "gleichfalls_general": {
+    "translation": "likewise"
+  },
+  "gleichzeitig_general": {
+    "translation": "at the same time; simultaneous"
+  },
+  "gratis_general": {
+    "translation": "free; free of charge"
+  },
+  "gruendlich_general": {
+    "translation": "thorough"
+  },
+  "gueltig_general": {
+    "translation": "valid"
+  },
+  "guenstig_general": {
+    "translation": "favourable; cheap"
+  },
+  "haesslich_general": {
+    "translation": "ugly"
+  },
+  "haeufig_general": {
+    "translation": "frequent; often"
+  },
+  "halb_adv": {
+    "translation": "half (past)"
+  },
+  "halbtags_general": {
+    "translation": "part-time; half-day"
+  },
+  "hallo_general": {
+    "translation": "hello"
+  },
+  "hallo_interj": {
+    "translation": "Hello!"
+  },
+  "haltbar_general": {
+    "translation": "durable; long-lasting"
+  },
+  "hast_du_gehoert_expr": {
+    "translation": "have you heard"
+  },
+  "hast_du_lust_auf_phrase": {
+    "translation": "Do you want...?"
+  },
+  "hast_general": {
+    "translation": "have (informal)"
+  },
+  "hatte_hat_gehabt_general": {
+    "translation": "had, has had"
+  },
+  "heim_general": {
+    "translation": "home"
+  },
+  "heimlich_general": {
+    "translation": "secret; secretly"
+  },
+  "hell_general": {
+    "translation": "bright; light"
+  },
+  "herzlich_general": {
+    "translation": "heartfelt; warm"
+  },
+  "herzlichen_glueckwunsch_phrase": {
+    "translation": "congratulations"
+  },
+  "heute_adv": {
+    "translation": "today"
+  },
+  "heutig_general": {
+    "translation": "today's; current"
+  },
+  "hier_adv": {
+    "translation": "here"
+  },
+  "hierher_general": {
+    "translation": "here; to here"
+  },
+  "hinten_links_general": {
+    "translation": "back left"
+  },
+  "hinter_prep": {
+    "translation": "behind"
+  },
+  "hinterher_general": {
+    "translation": "afterwards; behind"
+  },
+  "historisch_general": {
+    "translation": "historical"
+  },
+  "hoechstens_general": {
+    "translation": "at most"
+  },
+  "hoeflich_general": {
+    "translation": "polite"
+  },
+  "hoffentlich_general": {
+    "translation": "hopefully"
+  },
+  "huebsch_general": {
+    "translation": "pretty"
+  },
+  "hungrig_general": {
+    "translation": "hungry"
+  },
+  "ich_freue_mich_phrase": {
+    "translation": "I'm looking forward to it"
+  },
+  "ideal_general": {
+    "translation": "ideal"
+  },
+  "ihn_alex_general": {
+    "translation": "him Alex"
+  },
+  "ihnen_erlaubt_general": {
+    "translation": "allowed for them"
+  },
+  "illegal_general": {
+    "translation": "illegal"
+  },
+  "im_voraus_phrase": {
+    "translation": "in advance"
+  },
+  "im_zoo_phrase": {
+    "translation": "at the zoo"
+  },
+  "immer_adv": {
+    "translation": "always"
+  },
+  "in_den_alpen_phrase": {
+    "translation": "in the Alps"
+  },
+  "in_der_schule_phrase": {
+    "translation": "at school"
+  },
+  "in_ordnung_general": {
+    "translation": "all right; OK"
+  },
+  "in_prep": {
+    "translation": "in/on"
+  },
+  "indem_general": {
+    "translation": "by; in that"
+  },
+  "individuell_general": {
+    "translation": "individual"
+  },
+  "inklusive_general": {
+    "translation": "inclusive; including"
+  },
+  "inner_general": {
+    "translation": "inner"
+  },
+  "ins_cafe_phrase": {
+    "translation": "at the café"
+  },
+  "ins_gebirge_expr": {
+    "translation": "to the mountains"
+  },
+  "ins_kino_gehen_phrase": {
+    "translation": "to go to the cinema"
+  },
+  "ins_prep": {
+    "translation": "in / into"
+  },
+  "intensiv_general": {
+    "translation": "intensive"
+  },
+  "interessiert_general": {
+    "translation": "interested"
+  },
+  "interkulturell_general": {
+    "translation": "intercultural"
+  },
+  "international_general": {
+    "translation": "international"
+  },
+  "irgendirgendein_general": {
+    "translation": "some; any"
+  },
+  "irgendwann_general": {
+    "translation": "sometime; someday"
+  },
+  "italien_propn": {
+    "translation": "Italy"
+  },
+  "ja_interj": {
+    "translation": "yes"
+  },
+  "jahre_alt_phrase": {
+    "translation": "years old"
+  },
+  "je_general": {
+    "translation": "ever; each"
+  },
+  "jeden_tag_phrase": {
+    "translation": "every day"
+  },
+  "jeder_e_s_general": {
+    "translation": "each; every"
+  },
+  "jedoch_general": {
+    "translation": "however"
+  },
+  "jemals_general": {
+    "translation": "ever"
+  },
+  "jemand_general": {
+    "translation": "someone"
+  },
+  "jetzt_ab_general": {
+    "translation": "from now on"
+  },
+  "jetzt_adv": {
+    "translation": "now"
+  },
+  "jeweils_general": {
+    "translation": "each; in each case"
+  },
+  "kaputt_general": {
+    "translation": "broken"
+  },
+  "kaum_general": {
+    "translation": "hardly; barely"
+  },
+  "kein_e_general": {
+    "translation": "no; not any"
+  },
+  "kein_general": {
+    "translation": "no; not a"
+  },
+  "keine_lust_general": {
+    "translation": "no desire; don't feel like it"
+  },
+  "keine_zeit_general": {
+    "translation": "no time"
+  },
+  "keinen_fall_general": {
+    "translation": "no way; under no circumstances"
+  },
+  "klappt_general": {
+    "translation": "it works; it's going well"
+  },
+  "klar_interj": {
+    "translation": "sure / of course"
+  },
+  "klug_general": {
+    "translation": "clever; smart"
+  },
+  "knapp_general": {
+    "translation": "tight; scarce; just under"
+  },
+  "koerperlich_general": {
+    "translation": "physical; bodily"
+  },
+  "komisch_aus_general": {
+    "translation": "looks strange"
+  },
+  "komisch_general": {
+    "translation": "funny; strange"
+  },
+  "komme_gleich_general": {
+    "translation": "coming right away"
+  },
+  "komplett_general": {
+    "translation": "complete"
+  },
+  "kompliziert_general": {
+    "translation": "complicated"
+  },
+  "korrekt_general": {
+    "translation": "correct"
+  },
+  "kostenlos_general": {
+    "translation": "free of charge"
+  },
+  "krank_general": {
+    "translation": "sick; ill"
+  },
+  "kritisch_general": {
+    "translation": "critical"
+  },
+  "kuenstlich_general": {
+    "translation": "artificial"
+  },
+  "kuerzlich_general": {
+    "translation": "recently"
+  },
+  "kulturell_general": {
+    "translation": "cultural"
+  },
+  "laengst_general": {
+    "translation": "long ago; for a long time"
+  },
+  "lange_adv": {
+    "translation": "for a long time"
+  },
+  "laut_general": {
+    "translation": "loud"
+  },
+  "ledig_general": {
+    "translation": "single; unmarried"
+  },
+  "leer_general": {
+    "translation": "empty"
+  },
+  "leicht_general": {
+    "translation": "light; easy"
+  },
+  "leider_adv": {
+    "translation": "unfortunately"
+  },
+  "leise_general": {
+    "translation": "quiet; soft"
+  },
+  "letzt_general": {
+    "translation": "last"
+  },
+  "lieb_general": {
+    "translation": "dear; nice"
+  },
+  "lieber_adv": {
+    "translation": "rather"
+  },
+  "lieblings-_expr": {
+    "translation": "favorite"
+  },
+  "linken_seite_general": {
+    "translation": "left side"
+  },
+  "links_general": {
+    "translation": "left"
+  },
+  "locker_general": {
+    "translation": "loose; relaxed"
+  },
+  "los_geht_s_phrase": {
+    "translation": "let's get started"
+  },
+  "maennlich_general": {
+    "translation": "male; masculine"
+  },
+  "mager_general": {
+    "translation": "lean; thin"
+  },
+  "mal_adv": {
+    "translation": "once"
+  },
+  "manch_general": {
+    "translation": "some; many a"
+  },
+  "manchmal_adv": {
+    "translation": "sometimes"
+  },
+  "maximal_general": {
+    "translation": "maximum"
+  },
+  "mehr_adv": {
+    "translation": "more"
+  },
+  "meiner_firma_general": {
+    "translation": "my company"
+  },
+  "meist_general": {
+    "translation": "most; mostly"
+  },
+  "meistens_adv": {
+    "translation": "mostly / usually"
+  },
+  "menschlich_general": {
+    "translation": "human"
+  },
+  "merkwuerdig_general": {
+    "translation": "strange; peculiar"
+  },
+  "mild_general": {
+    "translation": "mild"
+  },
+  "mindestens_general": {
+    "translation": "at least"
+  },
+  "minimal_general": {
+    "translation": "minimal"
+  },
+  "miss_general": {
+    "translation": "mis-; wrong"
+  },
+  "mit_dem_auto_phrase": {
+    "translation": "by car"
+  },
+  "mit_der_schweiz_phrase": {
+    "translation": "with Switzerland"
+  },
+  "mit_freundlichen_gruessen_general": {
+    "translation": "yours sincerely"
+  },
+  "mit_meinen_freunden_phrase": {
+    "translation": "with my friends"
+  },
   "mit_meiner_mutter_phrase": {
     "translation": "with my mother"
+  },
+  "mit_prep": {
+    "translation": "with"
+  },
+  "miteinander_general": {
+    "translation": "with each other; together"
+  },
+  "mittler_general": {
+    "translation": "middle; medium"
+  },
+  "mittlerweile_general": {
+    "translation": "meanwhile; by now"
+  },
+  "moeglich_general": {
+    "translation": "possible"
+  },
+  "morgen_adv": {
+    "translation": "tomorrow"
+  },
+  "muendlich_general": {
+    "translation": "oral; verbal"
+  },
+  "musste_general": {
+    "translation": "had to"
+  },
+  "mutig_general": {
+    "translation": "brave; courageous"
+  },
+  "nach_der_schule_phrase": {
+    "translation": "after school"
+  },
+  "nach_hause_phrase": {
+    "translation": "home"
+  },
+  "nach_links_general": {
+    "translation": "to the left"
+  },
+  "nach_prep": {
+    "translation": "to (with places)"
+  },
+  "nachdem_general": {
+    "translation": "after"
+  },
+  "nachher_general": {
+    "translation": "afterwards"
+  },
+  "naechst_general": {
+    "translation": "next"
+  },
+  "naemlich_general": {
+    "translation": "namely; that is"
+  },
+  "natuerlich_adv": {
+    "translation": "of course"
+  },
+  "neben_prep": {
+    "translation": "next to"
+  },
+  "nebenan_general": {
+    "translation": "next door"
+  },
+  "nebenbei_general": {
+    "translation": "on the side; incidentally"
+  },
+  "nee_interj": {
+    "translation": "no (informal)"
+  },
+  "negativ_general": {
+    "translation": "negative"
+  },
+  "nein_interj": {
+    "translation": "no"
+  },
+  "neugierig_general": {
+    "translation": "curious"
+  },
+  "neulich_general": {
+    "translation": "recently"
+  },
+  "nicht_adv": {
+    "translation": "not"
+  },
+  "nicht_notwendig_general": {
+    "translation": "not necessary"
+  },
+  "nicht_schon_wieder_phrase": {
+    "translation": "not again"
+  },
+  "nichts_general": {
+    "translation": "nothing"
+  },
+  "nie_adv": {
+    "translation": "never"
+  },
+  "niedrig_general": {
+    "translation": "low"
+  },
+  "niemals_adv": {
+    "translation": "never"
+  },
+  "niemand_general": {
+    "translation": "nobody"
+  },
+  "nirgends_general": {
+    "translation": "nowhere"
+  },
+  "nirgendwo_general": {
+    "translation": "nowhere"
+  },
+  "noch_adv": {
+    "translation": "still / yet"
+  },
+  "noch_nicht_phrase": {
+    "translation": "not yet"
+  },
+  "nochmals_general": {
+    "translation": "once more; again"
+  },
+  "noetig_general": {
+    "translation": "necessary"
+  },
+  "normal_general": {
+    "translation": "normal"
+  },
+  "normalerweise_adv": {
+    "translation": "normally / usually"
+  },
+  "norwegisch_propn": {
+    "translation": "Norwegian"
+  },
+  "notwendig_general": {
+    "translation": "necessary"
+  },
+  "nuetzlich_general": {
+    "translation": "useful"
+  },
+  "nun_general": {
+    "translation": "now"
+  },
+  "nur_adv": {
+    "translation": "only"
+  },
+  "ob_general": {
+    "translation": "whether; if"
+  },
+  "ober_general": {
+    "translation": "upper"
+  },
+  "obwohl_general": {
+    "translation": "although"
+  },
+  "oder_conj": {
+    "translation": "or"
+  },
+  "oeffentlich_general": {
+    "translation": "public"
+  },
+  "oesterreich_propn": {
+    "translation": "Austria"
+  },
+  "offenbar_general": {
+    "translation": "apparently; obviously"
+  },
+  "offiziell_general": {
+    "translation": "official"
+  },
+  "oft_adv": {
+    "translation": "often"
+  },
+  "ohne_prep": {
+    "translation": "without"
+  },
+  "online_general": {
+    "translation": "online"
+  },
+  "optimistisch_general": {
+    "translation": "optimistic"
+  },
+  "ordentlich_general": {
+    "translation": "tidy; proper"
+  },
+  "parallel_general": {
+    "translation": "parallel"
+  },
+  "passiv_general": {
+    "translation": "passive"
+  },
+  "passt_es_phrase": {
+    "translation": "does it suit you? / is it convenient?"
+  },
+  "pauschal_general": {
+    "translation": "flat-rate; all-inclusive"
+  },
+  "peinlich_general": {
+    "translation": "embarrassing"
+  },
+  "per_general": {
+    "translation": "by; per"
+  },
+  "ploetzlich_general": {
+    "translation": "suddenly"
+  },
+  "positiv_general": {
+    "translation": "positive"
+  },
+  "praktisch_general": {
+    "translation": "practical"
+  },
+  "preiswert_general": {
+    "translation": "good value; inexpensive"
+  },
+  "prima_general": {
+    "translation": "great; excellent"
+  },
+  "privat_general": {
+    "translation": "private"
+  },
+  "private_handynummer_general": {
+    "translation": "private mobile number"
+  },
+  "pro_general": {
+    "translation": "per; pro"
+  },
+  "puenktlich_general": {
+    "translation": "punctual; on time"
+  },
+  "quer_general": {
+    "translation": "across; diagonal"
+  },
+  "raus_adv": {
+    "translation": "out / outside"
+  },
+  "realistisch_general": {
+    "translation": "realistic"
+  },
+  "recht_general": {
+    "translation": "right; quite"
+  },
+  "rechtlich_general": {
+    "translation": "legal"
+  },
+  "rechts_general": {
+    "translation": "right"
+  },
+  "rechtzeitig_general": {
+    "translation": "on time; in time"
+  },
+  "regelmaessig_general": {
+    "translation": "regular"
+  },
+  "regional_general": {
+    "translation": "regional"
+  },
+  "reich_general": {
+    "translation": "rich"
+  },
+  "reif_general": {
+    "translation": "ripe; mature"
+  },
+  "rein_adv": {
+    "translation": "in"
+  },
+  "relativ_general": {
+    "translation": "relatively"
+  },
+  "roh_general": {
+    "translation": "raw"
+  },
+  "romantisch_general": {
+    "translation": "romantic"
+  },
+  "rueckwaerts_general": {
+    "translation": "backward"
+  },
+  "rund_general": {
+    "translation": "round; approximately"
+  },
+  "saemtliche_general": {
+    "translation": "all; entire"
+  },
+  "salzig_general": {
+    "translation": "salty"
+  },
+  "satt_general": {
+    "translation": "full (not hungry)"
+  },
+  "sauer_general": {
+    "translation": "sour; angry"
+  },
+  "schaedlich_general": {
+    "translation": "harmful"
+  },
+  "scharf_general": {
+    "translation": "sharp; spicy"
+  },
+  "schief_general": {
+    "translation": "crooked; wrong"
+  },
+  "schlank_general": {
+    "translation": "slim"
+  },
+  "schlecht_general": {
+    "translation": "bad"
+  },
+  "schliesslich_general": {
+    "translation": "finally; after all"
+  },
+  "schmal_general": {
+    "translation": "narrow"
+  },
+  "schmutzig_general": {
+    "translation": "dirty"
+  },
+  "schnell_adv": {
+    "translation": "fast/quickly"
+  },
+  "schon_adv": {
+    "translation": "already"
+  },
+  "schrecklich_general": {
+    "translation": "terrible; dreadful"
+  },
+  "schriftlich_general": {
+    "translation": "written; in writing"
+  },
+  "schuldig_general": {
+    "translation": "guilty"
+  },
+  "schwach_general": {
+    "translation": "weak"
+  },
+  "schwanger_general": {
+    "translation": "pregnant"
+  },
+  "schwer_general": {
+    "translation": "heavy; difficult"
+  },
+  "sehr_adv": {
+    "translation": "very / much"
+  },
+  "seit_prep": {
+    "translation": "since"
+  },
+  "seitdem_general": {
+    "translation": "since then"
+  },
+  "selb_general": {
+    "translation": "same"
+  },
+  "selber_general": {
+    "translation": "oneself"
+  },
+  "selbst_general": {
+    "translation": "self; oneself"
+  },
+  "selbststaendig_general": {
+    "translation": "self-employed; independent"
+  },
+  "selbstverstaendlich_general": {
+    "translation": "of course; naturally"
+  },
+  "seltsam_general": {
+    "translation": "strange; odd"
+  },
+  "senkrecht_general": {
+    "translation": "vertical; perpendicular"
+  },
+  "setzt_hat_gesetzt_general": {
+    "translation": "sits, has sat"
+  },
+  "sich_warm_anziehen_phrase": {
+    "translation": "to dress warmly"
+  },
+  "sichtbar_general": {
+    "translation": "visible"
+  },
+  "sinnlos_general": {
+    "translation": "senseless; pointless"
+  },
+  "sinnvoll_general": {
+    "translation": "sensible; meaningful"
+  },
+  "so_adv": {
+    "translation": "so / like this"
+  },
+  "so_schoen_general": {
+    "translation": "so beautiful"
+  },
+  "so_wie_phrase": {
+    "translation": "as ... as"
+  },
+  "sobald_general": {
+    "translation": "as soon as"
+  },
+  "sodass_general": {
+    "translation": "so that"
+  },
+  "sofort_adv": {
+    "translation": "immediately"
+  },
+  "sogar_general": {
+    "translation": "even"
+  },
+  "sogenannt_general": {
+    "translation": "so-called"
+  },
+  "solange_general": {
+    "translation": "as long as"
+  },
+  "solch_general": {
+    "translation": "such"
+  },
+  "sollte_general": {
+    "translation": "should"
+  },
+  "sonst_general": {
+    "translation": "otherwise; else"
+  },
+  "soviel_general": {
+    "translation": "so much"
+  },
+  "sowieso_general": {
+    "translation": "anyway"
+  },
+  "sozial_general": {
+    "translation": "social"
+  },
+  "spaet_adv": {
+    "translation": "late"
+  },
+  "spaeter_adv": {
+    "translation": "later"
+  },
+  "spaetestens_general": {
+    "translation": "at the latest"
+  },
+  "spass_machen_phrase": {
+    "translation": "to be fun"
+  },
+  "speziell_general": {
+    "translation": "special; specific"
+  },
+  "spitz_general": {
+    "translation": "pointed; sharp"
+  },
+  "staedtisch_general": {
+    "translation": "urban; municipal"
+  },
+  "staendig_general": {
+    "translation": "constantly"
+  },
+  "statistisch_general": {
+    "translation": "statistical"
+  },
+  "statt_general": {
+    "translation": "instead of"
+  },
+  "steil_general": {
+    "translation": "steep"
+  },
+  "stilistisch_general": {
+    "translation": "stylistic"
+  },
+  "still_general": {
+    "translation": "quiet; still"
+  },
+  "stimmt_interj": {
+    "translation": "that's right"
+  },
+  "stolz_general": {
+    "translation": "proud"
+  },
+  "strafbar_general": {
+    "translation": "punishable"
+  },
+  "stumm_general": {
+    "translation": "mute; silent"
+  },
+  "super_adv": {
+    "translation": "great / super"
+  },
+  "super_interj": {
+    "translation": "Great!"
+  },
+  "tagsueber_adv": {
+    "translation": "during the day"
+  },
+  "taub_general": {
+    "translation": "deaf"
+  },
+  "theoretisch_general": {
+    "translation": "theoretical"
+  },
+  "tief_general": {
+    "translation": "deep; low"
+  },
+  "toedlich_general": {
+    "translation": "deadly; fatal"
+  },
+  "tolerant_general": {
+    "translation": "tolerant"
+  },
+  "tot_general": {
+    "translation": "dead"
+  },
+  "total_general": {
+    "translation": "total; complete"
+  },
+  "traditionell_general": {
+    "translation": "traditional"
+  },
+  "trotz_general": {
+    "translation": "despite; in spite of"
+  },
+  "trotzdem_general": {
+    "translation": "nevertheless"
+  },
+  "tschues_general": {
+    "translation": "bye"
+  },
+  "tschuess_general": {
+    "translation": "bye"
+  },
+  "tschuess_interj": {
+    "translation": "Bye!"
+  },
+  "tun_general": {
+    "translation": "to do"
+  },
+  "typisch_general": {
+    "translation": "typical"
+  },
+  "ueber_prep": {
+    "translation": "over / above"
+  },
+  "ueberall_adv": {
+    "translation": "everywhere"
+  },
+  "ueberhaupt_general": {
+    "translation": "at all; in general"
+  },
+  "ueblich_general": {
+    "translation": "usual; common"
+  },
+  "uebrig_general": {
+    "translation": "remaining; left over"
+  },
+  "uebrigens_general": {
+    "translation": "by the way"
+  },
+  "um_prep": {
+    "translation": "at... (before time)"
+  },
+  "umso_general": {
+    "translation": "all the more"
+  },
+  "umsonst_general": {
+    "translation": "for free; in vain"
+  },
+  "un_general": {
+    "translation": "un-; not"
+  },
+  "unbedingt_adv": {
+    "translation": "absolutely / necessarily"
+  },
+  "und_conj": {
+    "translation": "and"
+  },
+  "und_jugendliche_general": {
+    "translation": "and young people"
+  },
+  "und_stuttgart_general": {
+    "translation": "and Stuttgart"
+  },
+  "ungefaehr_general": {
+    "translation": "approximately"
+  },
+  "ungewoehnlich_general": {
+    "translation": "unusual"
+  },
+  "unglaublich_general": {
+    "translation": "incredible; unbelievable"
+  },
+  "unheimlich_general": {
+    "translation": "uncanny; incredibly"
+  },
+  "unserer_stadt_general": {
+    "translation": "our city"
+  },
+  "unter_general": {
+    "translation": "under; below"
+  },
+  "unter_prep": {
+    "translation": "under / below"
+  },
+  "untersagt_general": {
+    "translation": "prohibited; forbidden"
+  },
+  "unterschiedlich_general": {
+    "translation": "different; varying"
+  },
+  "unterwegs_general": {
+    "translation": "on the way"
+  },
+  "urlaub_auf_balkonien_phrase": {
+    "translation": "staycation"
+  },
+  "urspruenglich_general": {
+    "translation": "originally; original"
+  },
+  "vegetarisch_general": {
+    "translation": "vegetarian"
+  },
+  "verantwortlich_general": {
+    "translation": "responsible"
+  },
+  "verboten_sein_general": {
+    "translation": "to be forbidden"
+  },
+  "vergeblich_general": {
+    "translation": "in vain; futile"
+  },
+  "verheiratet_general": {
+    "translation": "married"
+  },
+  "vermutlich_general": {
+    "translation": "presumably; probably"
+  },
+  "vernuenftig_general": {
+    "translation": "reasonable; sensible"
+  },
+  "verrueckt_general": {
+    "translation": "crazy"
+  },
+  "verstaendlich_general": {
+    "translation": "understandable"
+  },
+  "verwandt_general": {
+    "translation": "related"
+  },
+  "viel_adv": {
+    "translation": "much / very"
+  },
+  "viel_e_general": {
+    "translation": "much; many"
+  },
+  "viel_spass_phrase": {
+    "translation": "have fun"
+  },
+  "vielleicht_adv": {
+    "translation": "maybe"
   },
   "viertel_nach_phrase": {
     "translation": "quarter past"
@@ -231,340 +1760,277 @@
   "viertel_vor_phrase": {
     "translation": "quarter to"
   },
-  "halb_adv": {
-    "translation": "half (past)"
+  "virtuell_general": {
+    "translation": "virtual"
   },
-  "zu_frueh_phrase": {
-    "translation": "too early"
+  "voellig_general": {
+    "translation": "completely"
   },
-  "ich_freue_mich_phrase": {
-    "translation": "I'm looking forward to it"
+  "voll_general": {
+    "translation": "full"
   },
-  "hast_du_lust_auf_phrase": {
-    "translation": "Do you want...?"
+  "von_prep": {
+    "translation": "of/from"
   },
-  "nicht_schon_wieder_phrase": {
-    "translation": "not again"
+  "voneinander_general": {
+    "translation": "from each other"
   },
-  "beides_adv": {
-    "translation": "both"
-  },
-  "also_adv": {
-    "translation": "so / well"
-  },
-  "nee_interj": {
-    "translation": "no (informal)"
-  },
-  "schon_adv": {
-    "translation": "already"
-  },
-  "raus_adv": {
-    "translation": "out / outside"
-  },
-  "lange_adv": {
-    "translation": "for a long time"
-  },
-  "tagsueber_adv": {
-    "translation": "during the day"
-  },
-  "ueberall_adv": {
-    "translation": "everywhere"
-  },
-  "niemals_adv": {
-    "translation": "never"
-  },
-  "denn_conj": {
-    "translation": "for / because"
-  },
-  "als_conj": {
-    "translation": "than"
-  },
-  "viel_adv": {
-    "translation": "much / very"
-  },
-  "wenig_adv": {
-    "translation": "little / few"
-  },
-  "zu_adv": {
-    "translation": "too, as in \"too late\""
-  },
-  "mit_meinen_freunden_phrase": {
-    "translation": "with my friends"
-  },
-  "im_zoo_phrase": {
-    "translation": "at the zoo"
-  },
-  "den_ganzen_tag_phrase": {
-    "translation": "all day"
-  },
-  "einen_elefanten_phrase": {
-    "translation": "an elephant (object)"
-  },
-  "den_elefanten_phrase": {
-    "translation": "the elephant (object)"
-  },
-  "den_loewen_phrase": {
-    "translation": "the lion (object)"
-  },
-  "asien_propn": {
-    "translation": "Asia"
-  },
-  "afrika_propn": {
-    "translation": "Africa"
-  },
-  "es_gibt_phrase": {
-    "translation": "there is/are"
-  },
-  "wieder_adv": {
-    "translation": "again"
-  },
-  "egal_adv": {
-    "translation": "whatever / indifferent"
-  },
-  "bald_adv": {
-    "translation": "soon"
-  },
-  "super_adv": {
-    "translation": "great / super"
-  },
-  "unbedingt_adv": {
-    "translation": "absolutely / necessarily"
-  },
-  "mal_adv": {
-    "translation": "once"
-  },
-  "dort_adv": {
-    "translation": "there"
-  },
-  "nach_prep": {
-    "translation": "to (with places)"
-  },
-  "wohin_interr": {
-    "translation": "where to / there"
-  },
-  "oesterreich_propn": {
-    "translation": "Austria"
-  },
-  "die_schweiz_propn": {
-    "translation": "Switzerland"
-  },
-  "in_den_alpen_phrase": {
-    "translation": "in the Alps"
-  },
-  "mit_der_schweiz_phrase": {
-    "translation": "with Switzerland"
-  },
-  "hast_du_gehoert_expr": {
-    "translation": "have you heard"
-  },
-  "ohne_prep": {
-    "translation": "without"
-  },
-  "mehr_adv": {
-    "translation": "more"
-  },
-  "stimmt_interj": {
-    "translation": "that's right"
-  },
-  "natuerlich_adv": {
-    "translation": "of course"
-  },
-  "italien_propn": {
-    "translation": "Italy"
-  },
-  "zum_prep": {
-    "translation": "to (with places)"
-  },
-  "klar_interj": {
-    "translation": "sure / of course"
-  },
-  "mit_dem_auto_phrase": {
-    "translation": "by car"
-  },
-  "allein_adv": {
-    "translation": "alone"
-  },
-  "gespannt_sein_phrase": {
-    "translation": "to be excited"
-  },
-  "ins_gebirge_expr": {
-    "translation": "to the mountains"
-  },
-  "besonders_adv": {
-    "translation": "especially"
-  },
-  "gerade_adv": {
-    "translation": "right now"
-  },
-  "bestimmt_adv": {
-    "translation": "certainly / definitely"
-  },
-  "urlaub_auf_balkonien_phrase": {
-    "translation": "staycation"
-  },
-  "ins_prep": {
-    "translation": "in / into"
-  },
-  "zum_geburtstag_viel_glueck_phrase": {
-    "translation": "Happy Birthday (song)"
-  },
-  "noch_nicht_phrase": {
-    "translation": "not yet"
-  },
-  "dort_drueben_phrase": {
-    "translation": "over there"
-  },
-  "neben_prep": {
-    "translation": "next to"
-  },
-  "freunde_sind_wichtig_phrase": {
-    "translation": "Friends are important"
-  },
-  "wirklich_adv": {
-    "translation": "really / actually"
-  },
-  "am_samstag_phrase": {
-    "translation": "on Saturday"
-  },
-  "am_sonntag_phrase": {
-    "translation": "on Sunday"
-  },
-  "am_freitag_phrase": {
-    "translation": "on Friday"
-  },
-  "morgen_adv": {
-    "translation": "tomorrow"
-  },
-  "herzlichen_glueckwunsch_phrase": {
-    "translation": "congratulations"
-  },
-  "im_voraus_phrase": {
-    "translation": "in advance"
-  },
-  "gleich_adv": {
-    "translation": "immediately"
-  },
-  "aus_frankreich_phrase": {
-    "translation": "from France"
-  },
-  "frankreich_land": {
-    "translation": "France"
-  },
-  "oft_adv": {
-    "translation": "often"
-  },
-  "meistens_adv": {
-    "translation": "mostly / usually"
-  },
-  "normalerweise_adv": {
-    "translation": "normally / usually"
-  },
-  "sofort_adv": {
-    "translation": "immediately"
-  },
-  "am_abend_phrase": {
-    "translation": "in the evening"
-  },
-  "dauert_laenger_phrase": {
-    "translation": "takes longer"
-  },
-  "eher_adv": {
-    "translation": "rather"
-  },
-  "bei_mir_phrase": {
-    "translation": "at my place / for me"
-  },
-  "darauf_adv": {
-    "translation": "on it / to it"
-  },
-  "dabei_adv": {
-    "translation": "with it / by it"
-  },
-  "nach_der_schule_phrase": {
-    "translation": "after school"
-  },
-  "wie_fuehlst_du_dich_phrase": {
-    "translation": "How do you feel?"
-  },
-  "gerne_adv": {
-    "translation": "gladly"
-  },
-  "bei_prep": {
-    "translation": "at / by"
-  },
-  "so_adv": {
-    "translation": "so / like this"
-  },
-  "sich_warm_anziehen_phrase": {
-    "translation": "to dress warmly"
-  },
-  "das_klingt_gut_phrase": {
-    "translation": "that sounds good"
-  },
-  "viel_spass_phrase": {
-    "translation": "have fun"
-  },
-  "ins_kino_gehen_phrase": {
-    "translation": "to go to the cinema"
-  },
-  "ins_cafe_phrase": {
-    "translation": "at the café"
-  },
-  "zu_viel_phrase": {
-    "translation": "too much"
-  },
-  "rein_adv": {
-    "translation": "in"
-  },
-  "draussen_adv": {
-    "translation": "outside"
-  },
-  "dass_conj": {
-    "translation": "that"
-  },
-  "so_wie_phrase": {
-    "translation": "as ... as"
-  },
-  "nie_adv": {
-    "translation": "never"
-  },
-  "nach_hause_phrase": {
-    "translation": "home"
-  },
-  "zuhause_adv": {
-    "translation": "at home"
-  },
-  "durch_prep": {
-    "translation": "through"
-  },
-  "gegen_prep": {
-    "translation": "against"
-  },
-  "seit_prep": {
-    "translation": "since"
-  },
-  "zu_prep": {
-    "translation": "to"
-  },
-  "an_prep": {
-    "translation": "at / on (vertical)"
-  },
-  "hinter_prep": {
-    "translation": "behind"
-  },
-  "ueber_prep": {
-    "translation": "over / above"
-  },
-  "unter_prep": {
-    "translation": "under / below"
+  "vor_allem_general": {
+    "translation": "above all; especially"
   },
   "vor_prep": {
     "translation": "in front of / before"
   },
+  "voraus_general": {
+    "translation": "ahead; in advance"
+  },
+  "voraussichtlich_general": {
+    "translation": "probably; expected"
+  },
+  "vorbei_general": {
+    "translation": "past; over"
+  },
+  "vorder_general": {
+    "translation": "front"
+  },
+  "vorher_general": {
+    "translation": "before; beforehand"
+  },
+  "vorhin_general": {
+    "translation": "just now; a moment ago"
+  },
+  "vorlaeufig_general": {
+    "translation": "temporary; provisional"
+  },
+  "vorsichtig_general": {
+    "translation": "careful; cautious"
+  },
+  "vorwaerts_general": {
+    "translation": "forward"
+  },
+  "waehrend_general": {
+    "translation": "during; while"
+  },
+  "wahnsinnig_general": {
+    "translation": "crazy; insane"
+  },
+  "wahr_general": {
+    "translation": "true"
+  },
+  "wahrscheinlich_general": {
+    "translation": "probably; likely"
+  },
+  "wann_interr": {
+    "translation": "when"
+  },
+  "warum_interr": {
+    "translation": "why"
+  },
+  "was_fuer_ein_general": {
+    "translation": "what kind of"
+  },
+  "was_interr": {
+    "translation": "what"
+  },
+  "weg_sein_general": {
+    "translation": "to be gone"
+  },
+  "weh_tun_general": {
+    "translation": "to hurt"
+  },
+  "weiblich_general": {
+    "translation": "female; feminine"
+  },
+  "weil_general": {
+    "translation": "because"
+  },
+  "weiter_general": {
+    "translation": "further; continue"
+  },
+  "welchdie_welt_general": {
+    "translation": "which the world"
+  },
+  "welcher_interr": {
+    "translation": "which"
+  },
+  "wenig_adv": {
+    "translation": "little / few"
+  },
+  "wenigstens_general": {
+    "translation": "at least"
+  },
+  "wenn_general": {
+    "translation": "when; if"
+  },
+  "wer_interr": {
+    "translation": "who"
+  },
+  "wer_ist_das_phrase": {
+    "translation": "Who is it?"
+  },
+  "wert_general": {
+    "translation": "worth; value"
+  },
+  "wertlos_general": {
+    "translation": "worthless"
+  },
+  "wertvoll_general": {
+    "translation": "valuable"
+  },
+  "weshalb_general": {
+    "translation": "why; for what reason"
+  },
+  "wie_fuehlst_du_dich_phrase": {
+    "translation": "How do you feel?"
+  },
+  "wie_heisst_du_phrase": {
+    "translation": "What is your name?"
+  },
+  "wie_interr": {
+    "translation": "How / What"
+  },
+  "wie_spaet_ist_es_phrase": {
+    "translation": "What time is it?"
+  },
+  "wie_viel_general": {
+    "translation": "how much; how many"
+  },
+  "wieder_adv": {
+    "translation": "again"
+  },
+  "wieso_general": {
+    "translation": "why; how come"
+  },
+  "willkommen_interj": {
+    "translation": "welcome"
+  },
+  "wirklich_adv": {
+    "translation": "really / actually"
+  },
+  "witzig_general": {
+    "translation": "funny; witty"
+  },
+  "wo_general": {
+    "translation": "where"
+  },
+  "wo_interr": {
+    "translation": "Where?"
+  },
+  "woher_interr": {
+    "translation": "From where"
+  },
+  "woher_kommst_du_phrase": {
+    "translation": "Where are you from?"
+  },
+  "wohin_interr": {
+    "translation": "where to / there"
+  },
+  "wohl_general": {
+    "translation": "probably; well"
+  },
+  "worueber_general": {
+    "translation": "about what"
+  },
+  "worum_general": {
+    "translation": "about what; what about"
+  },
+  "wuetend_general": {
+    "translation": "angry; furious"
+  },
+  "wunderbar_general": {
+    "translation": "wonderful"
+  },
+  "zahlreich_general": {
+    "translation": "numerous"
+  },
+  "zentral_general": {
+    "translation": "central"
+  },
+  "ziemlich_general": {
+    "translation": "quite; fairly"
+  },
+  "zu_adv": {
+    "translation": "too, as in \"too late\""
+  },
+  "zu_frueh_phrase": {
+    "translation": "too early"
+  },
+  "zu_fuss_general": {
+    "translation": "on foot"
+  },
+  "zu_hause_phrase": {
+    "translation": "at home"
+  },
+  "zu_prep": {
+    "translation": "to"
+  },
+  "zu_sein_general": {
+    "translation": "to be closed"
+  },
+  "zu_viel_phrase": {
+    "translation": "too much"
+  },
+  "zuerst_adv": {
+    "translation": "first"
+  },
+  "zugaenglich_general": {
+    "translation": "accessible"
+  },
+  "zuhause_adv": {
+    "translation": "at home"
+  },
+  "zukuenftig_general": {
+    "translation": "future"
+  },
+  "zuletzt_general": {
+    "translation": "lastly; finally"
+  },
+  "zum_beispiel_general": {
+    "translation": "for example"
+  },
+  "zum_doktor_general": {
+    "translation": "to the doctor"
+  },
+  "zum_geburtstag_viel_glueck_phrase": {
+    "translation": "Happy Birthday (song)"
+  },
+  "zum_prep": {
+    "translation": "to (with places)"
+  },
+  "zum_zahnarzt_general": {
+    "translation": "to the dentist"
+  },
+  "zumindest_general": {
+    "translation": "at least"
+  },
+  "zunaechst_general": {
+    "translation": "first; initially"
+  },
+  "zur_bank_general": {
+    "translation": "to the bank"
+  },
+  "zurueck_general": {
+    "translation": "back"
+  },
+  "zurzeit_general": {
+    "translation": "at the moment; currently"
+  },
+  "zusaetzlich_general": {
+    "translation": "additional"
+  },
+  "zusammen_adv": {
+    "translation": "together"
+  },
+  "zustaendig_general": {
+    "translation": "responsible; in charge"
+  },
+  "zuverlaessig_general": {
+    "translation": "reliable"
+  },
+  "zwar_general": {
+    "translation": "indeed; admittedly"
+  },
   "zwischen_prep": {
     "translation": "between"
-  },
-  "lieblings-_expr": {
-    "translation": "favorite"
   }
 }

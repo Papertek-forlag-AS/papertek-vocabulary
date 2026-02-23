@@ -3,33 +3,171 @@
     "source": "generalbank.json",
     "targetLanguage": "german",
     "nativeLanguage": "nb",
-    "generatedAt": "2026-01-16T17:26:35.866Z",
-    "description": "NB translations for german general"
+    "generatedAt": "2026-02-23T21:28:41.238Z",
+    "description": "NB translations for german general",
+    "totalWords": 673,
+    "mergedFrom": [
+      "de-nb/generalbank.json",
+      "de-nb-dict/generalbank.json"
+    ]
   },
-  "hallo_interj": {
-    "translation": "Hallo!",
+  "ab_general": {
+    "translation": "av, fra"
+  },
+  "aber_conj": {
+    "translation": "men"
+  },
+  "abhaengig_general": {
+    "translation": "avhengig"
+  },
+  "absolut_general": {
+    "translation": "absolutt"
+  },
+  "abwaerts_general": {
+    "translation": "nedover"
+  },
+  "abwesend_general": {
+    "translation": "fraværende"
+  },
+  "achtung_general": {
+    "translation": "oppmerksomhet"
+  },
+  "aehnlich_general": {
+    "translation": "lignende"
+  },
+  "aengstlich_general": {
+    "translation": "engstelig"
+  },
+  "aergerlich_general": {
+    "translation": "irriterende"
+  },
+  "aeusserlich_general": {
+    "translation": "ytre"
+  },
+  "afrika_propn": {
+    "translation": "Afrika"
+  },
+  "aktuell_general": {
+    "translation": "aktuell"
+  },
+  "all_general": {
+    "translation": "all"
+  },
+  "allein_adv": {
+    "translation": "alene"
+  },
+  "alleine_general": {
+    "translation": "alene"
+  },
+  "aller_general": {
+    "translation": "aller-"
+  },
+  "allerdings_general": {
+    "translation": "riktignok"
+  },
+  "allgemein_general": {
+    "translation": "generell"
+  },
+  "als_conj": {
+    "translation": "enn"
+  },
+  "als_garantie_general": {
+    "translation": "som garanti"
+  },
+  "als_ob_general": {
+    "translation": "som om"
+  },
+  "also_adv": {
+    "translation": "altså / vel",
     "synonyms": [
-      "Hei",
-      "Heisann",
-      "Hei på deg"
+      "vel",
+      "nå",
+      "altså"
     ],
     "explanation": {
-      "Moin": "uformell hilsen fra Nord-Tyskland",
-      "Servus": "hilsen fra Sør-Tyskland/Østerrike",
-      "Guten Tag": "formell hilsen"
+      "Also": "brukes ofte i begynnelsen av setninger for å starte en diskusjon eller konkludere"
     }
   },
-  "wie_heisst_du_phrase": {
-    "translation": "Hva heter du?"
+  "alternativ_general": {
+    "translation": "alternativ"
   },
-  "und_conj": {
-    "translation": "og"
+  "am_abend_phrase": {
+    "translation": "om kvelden"
   },
-  "jahre_alt_phrase": {
-    "translation": "år gammel"
+  "am_freitag_phrase": {
+    "translation": "på fredag"
   },
-  "woher_kommst_du_phrase": {
-    "translation": "Hvor kommer du fra?"
+  "am_montag_phrase": {
+    "translation": "på mandag"
+  },
+  "am_nachmittag_phrase": {
+    "translation": "om ettermiddagen"
+  },
+  "am_samstag_phrase": {
+    "translation": "på lørdag"
+  },
+  "am_sonntag_phrase": {
+    "translation": "på søndag"
+  },
+  "am_wochenende_phrase": {
+    "translation": "i helgen"
+  },
+  "an_prep": {
+    "translation": "ved / på (vertikal)",
+    "explanation": {
+      "_description": "Wechselpräposition: Akkusativ ved bevegelse (wohin?), dativ ved posisjon (wo?). Brukes for kontakt med vertikale flater."
+    }
+  },
+  "an_sein_general": {
+    "translation": "å være på"
+  },
+  "ander_general": {
+    "translation": "annen"
+  },
+  "anders_general": {
+    "translation": "annerledes"
+  },
+  "anfangs_general": {
+    "translation": "i begynnelsen"
+  },
+  "angenehm_general": {
+    "translation": "behagelig"
+  },
+  "anwesend_general": {
+    "translation": "til stede"
+  },
+  "arbeitslos_general": {
+    "translation": "arbeidsledig"
+  },
+  "arbeitslos_sind_general": {
+    "translation": "er arbeidsledige"
+  },
+  "asien_propn": {
+    "translation": "Asia"
+  },
+  "auch_adv": {
+    "translation": "også"
+  },
+  "auf_prep": {
+    "translation": "på",
+    "explanation": {
+      "_description": "Wechselpräposition: Akkusativ ved bevegelse (wohin?), dativ ved posisjon (wo?). Brukes for horisontale flater."
+    }
+  },
+  "auf_sein_general": {
+    "translation": "å være åpen"
+  },
+  "aufmerksam_general": {
+    "translation": "oppmerksom"
+  },
+  "aufregend_general": {
+    "translation": "spennende"
+  },
+  "aufwaerts_general": {
+    "translation": "oppover"
+  },
+  "aus_frankreich_phrase": {
+    "translation": "fra Frankrike"
   },
   "aus_prep": {
     "translation": "fra",
@@ -37,46 +175,113 @@
       "_description": "Preposisjon som alltid krever dativ. Brukes om opprinnelse eller bevegelse ut av noe."
     }
   },
-  "auch_adv": {
-    "translation": "også"
+  "aus_sein_general": {
+    "translation": "å være av"
   },
-  "super_interj": {
-    "translation": "Supert!",
-    "synonyms": [
-      "Kjempebra!",
-      "Strålende!",
-      "Topp!",
-      "Fantastisk!"
-    ],
+  "auseinander_general": {
+    "translation": "fra hverandre"
+  },
+  "auslaendisch_general": {
+    "translation": "utenlandsk"
+  },
+  "ausreichend_general": {
+    "translation": "tilstrekkelig"
+  },
+  "ausschliesslich_general": {
+    "translation": "utelukkende"
+  },
+  "ausser_general": {
+    "translation": "bortsett fra"
+  },
+  "ausserdem_general": {
+    "translation": "dessuten"
+  },
+  "ausserhalb_general": {
+    "translation": "utenfor"
+  },
+  "automatisch_general": {
+    "translation": "automatisk"
+  },
+  "bald_adv": {
+    "translation": "snart"
+  },
+  "bar_general": {
+    "translation": "kontant"
+  },
+  "befriedigend_general": {
+    "translation": "tilfredsstillende"
+  },
+  "bei_mir_phrase": {
+    "translation": "hos meg / for meg"
+  },
+  "bei_prep": {
+    "translation": "hos / ved",
     "explanation": {
-      "Klasse!": "uformelt uttrykk",
-      "Spitze!": "betyr egentlig \"topp/spiss\""
+      "_description": "Preposisjon som alltid krever dativ. Brukes for å uttrykke nærhet, hos noen, eller under en aktivitet."
     }
   },
-  "tschuess_interj": {
-    "translation": "Ha det!",
-    "synonyms": [
-      "Ha det bra!",
-      "Vi sees!",
-      "Hade!"
-    ],
-    "explanation": {
-      "Auf Wiedersehen!": "formell avskjed",
-      "Bis bald!": "vi sees snart",
-      "Ciao!": "uformelt, fra italiensk"
-    }
+  "beid_general": {
+    "translation": "begge"
   },
-  "danke_interj": {
-    "translation": "Takk",
-    "synonyms": [
-      "Tusen takk",
-      "Takk skal du ha",
-      "Mange takk"
-    ],
-    "explanation": {
-      "Danke schön": "høfligere versjon",
-      "Vielen Dank": "mange takk"
-    }
+  "beides_adv": {
+    "translation": "begge deler"
+  },
+  "beinahe_general": {
+    "translation": "nesten"
+  },
+  "bekannt_general": {
+    "translation": "kjent"
+  },
+  "beliebt_general": {
+    "translation": "populær"
+  },
+  "bequem_general": {
+    "translation": "behagelig"
+  },
+  "bereit_general": {
+    "translation": "klar"
+  },
+  "bereits_general": {
+    "translation": "allerede"
+  },
+  "beruehmt_general": {
+    "translation": "berømt"
+  },
+  "beruflich_general": {
+    "translation": "yrkesmessig"
+  },
+  "berufstaetig_general": {
+    "translation": "yrkesaktiv"
+  },
+  "besetzt_general": {
+    "translation": "opptatt"
+  },
+  "besonder_general": {
+    "translation": "spesiell"
+  },
+  "besonders_adv": {
+    "translation": "spesielt / særlig"
+  },
+  "besser_general": {
+    "translation": "bedre"
+  },
+  "bestimmt_adv": {
+    "translation": "sikkert / garantert"
+  },
+  "bevor_general": {
+    "translation": "før"
+  },
+  "billig_general": {
+    "translation": "billig"
+  },
+  "bis_dann_phrase": {
+    "translation": "Vi snakkes!"
+  },
+  "bis_general": {
+    "translation": "til, inntil"
+  },
+  "bisher_general": {
+    "translation": "hittil"
   },
   "bitte_interj": {
     "translation": "Vær så god",
@@ -91,50 +296,222 @@
       "_note": "\"bitte\" kan også bety \"vær så snill\" når man ber om noe"
     }
   },
-  "wer_ist_das_phrase": {
-    "translation": "Hvem er det?"
+  "bitter_general": {
+    "translation": "bitter"
+  },
+  "blass_general": {
+    "translation": "blek"
+  },
+  "blind_general": {
+    "translation": "blind"
+  },
+  "bloss_general": {
+    "translation": "bare"
+  },
+  "breit_general": {
+    "translation": "bred"
+  },
+  "da_adv": {
+    "translation": "der/da"
+  },
+  "dabei_adv": {
+    "translation": "med det / ved det"
+  },
+  "dafuer_general": {
+    "translation": "for det"
+  },
+  "daher_general": {
+    "translation": "derfor"
+  },
+  "dahin_general": {
+    "translation": "dit"
+  },
+  "damals_general": {
+    "translation": "den gang"
+  },
+  "damit_general": {
+    "translation": "slik at"
+  },
+  "danach_adv": {
+    "translation": "etterpå / deretter"
+  },
+  "dankbar_general": {
+    "translation": "takknemlig"
+  },
+  "danke_interj": {
+    "translation": "Takk",
+    "synonyms": [
+      "Tusen takk",
+      "Takk skal du ha",
+      "Mange takk"
+    ],
+    "explanation": {
+      "Danke schön": "høfligere versjon",
+      "Vielen Dank": "mange takk"
+    }
+  },
+  "dann_adv": {
+    "translation": "så"
+  },
+  "dann_links_general": {
+    "translation": "så til venstre"
+  },
+  "darauf_adv": {
+    "translation": "på det / til det"
   },
   "das_ist_phrase": {
     "translation": "Det er..."
   },
-  "von_prep": {
-    "translation": "av/fra",
+  "das_klingt_gut_phrase": {
+    "translation": "det høres bra ut"
+  },
+  "dass_conj": {
+    "translation": "at"
+  },
+  "dasselbe_general": {
+    "translation": "det samme"
+  },
+  "dauernd_general": {
+    "translation": "stadig"
+  },
+  "dauert_laenger_phrase": {
+    "translation": "tar lengre tid"
+  },
+  "deinem_lieblingssaenger_general": {
+    "translation": "din favorittartist"
+  },
+  "dem_urlaub_general": {
+    "translation": "ferien"
+  },
+  "den_anrufbeantworter_general": {
+    "translation": "telefonsvareren"
+  },
+  "den_elefanten_phrase": {
+    "translation": "elefanten (objekt)"
+  },
+  "den_ganzen_tag_phrase": {
+    "translation": "hele dagen"
+  },
+  "den_loewen_phrase": {
+    "translation": "løven (objekt)"
+  },
+  "denn_conj": {
+    "translation": "for / fordi",
+    "synonyms": [
+      "fordi",
+      "siden",
+      "ettersom"
+    ],
     "explanation": {
-      "_description": "Preposisjon som alltid krever dativ. Brukes for å uttrykke opprinnelse, eierskap eller forfatter."
+      "weil": "fordi (endrer ordstillingen)",
+      "da": "siden/ettersom"
     }
   },
-  "ja_interj": {
-    "translation": "ja"
+  "deshalb_general": {
+    "translation": "derfor"
   },
-  "nein_interj": {
-    "translation": "nei"
+  "deutlich_general": {
+    "translation": "tydelig"
   },
-  "jetzt_adv": {
-    "translation": "nå"
+  "deutschland_propn": {
+    "translation": "Tyskland"
   },
-  "aber_conj": {
-    "translation": "men"
+  "dicht_general": {
+    "translation": "tett"
   },
-  "hier_adv": {
-    "translation": "her"
+  "dick_general": {
+    "translation": "tykk"
   },
-  "nur_adv": {
-    "translation": "bare"
+  "die_schweiz_propn": {
+    "translation": "Sveits"
   },
-  "willkommen_interj": {
-    "translation": "Velkommen"
+  "dies_general": {
+    "translation": "denne"
   },
-  "in_prep": {
-    "translation": "i/på",
+  "digital_general": {
+    "translation": "digital"
+  },
+  "direkt_general": {
+    "translation": "direkte"
+  },
+  "doch_general": {
+    "translation": "likevel"
+  },
+  "doppelt_general": {
+    "translation": "dobbelt"
+  },
+  "dort_adv": {
+    "translation": "der"
+  },
+  "dort_drueben_phrase": {
+    "translation": "der borte"
+  },
+  "dorthin_general": {
+    "translation": "dit"
+  },
+  "draussen_adv": {
+    "translation": "ute"
+  },
+  "dringend_general": {
+    "translation": "presserende"
+  },
+  "dritten_reihe_general": {
+    "translation": "tredje rad"
+  },
+  "duenn_general": {
+    "translation": "tynn"
+  },
+  "dumm_general": {
+    "translation": "dum"
+  },
+  "dunkel_general": {
+    "translation": "mørk"
+  },
+  "durch_prep": {
+    "translation": "gjennom",
     "explanation": {
-      "_description": "Wechselpräposition: Akkusativ ved bevegelse (wohin?), dativ ved posisjon (wo?). Eksempel: «Ich gehe in die Schule» (akkusativ) vs «Ich bin in der Schule» (dativ)."
+      "_description": "Preposisjon som alltid krever akkusativ. Brukes for å uttrykke bevegelse gjennom noe."
     }
   },
-  "in_der_schule_phrase": {
-    "translation": "på skolen"
+  "durcheinander_general": {
+    "translation": "forvirret"
   },
-  "spass_machen_phrase": {
-    "translation": "å være gøy"
+  "durchschnittlich_general": {
+    "translation": "gjennomsnittlig"
+  },
+  "durstig_general": {
+    "translation": "tørst"
+  },
+  "ebenfalls_general": {
+    "translation": "likeledes"
+  },
+  "ebenso_general": {
+    "translation": "like mye"
+  },
+  "echt_general": {
+    "translation": "ekte"
+  },
+  "eckig_general": {
+    "translation": "kantet"
+  },
+  "egal_adv": {
+    "translation": "samme det / likegyldig"
+  },
+  "eher_adv": {
+    "translation": "heller / snarere"
+  },
+  "eigen_general": {
+    "translation": "egen"
+  },
+  "eilig_general": {
+    "translation": "hastverk"
+  },
+  "ein_anderes_mal_phrase": {
+    "translation": "en annen gang",
+    "synonyms": [
+      "neste gang",
+      "ved en annen anledning"
+    ]
   },
   "ein_bisschen_phrase": {
     "translation": "litt",
@@ -146,6 +523,1064 @@
       "etwas": "noe/litt",
       "ein wenig": "en smule"
     }
+  },
+  "ein_general": {
+    "translation": "en"
+  },
+  "ein_paar_general": {
+    "translation": "noen få"
+  },
+  "ein_stipendium_general": {
+    "translation": "et stipend"
+  },
+  "eindeutig_general": {
+    "translation": "entydig"
+  },
+  "einen_elefanten_phrase": {
+    "translation": "en elefant (objekt)"
+  },
+  "einerseits_general": {
+    "translation": "på den ene siden"
+  },
+  "einheitlich_general": {
+    "translation": "ensartet"
+  },
+  "einig_general": {
+    "translation": "enig"
+  },
+  "einmal_general": {
+    "translation": "en gang"
+  },
+  "einsam_general": {
+    "translation": "ensom"
+  },
+  "einschliesslich_general": {
+    "translation": "inkludert"
+  },
+  "einzel_general": {
+    "translation": "enkelt-"
+  },
+  "einzig_general": {
+    "translation": "eneste"
+  },
+  "elegant_general": {
+    "translation": "elegant"
+  },
+  "elektrisch_general": {
+    "translation": "elektrisk"
+  },
+  "elektronisch_general": {
+    "translation": "elektronisk"
+  },
+  "endlich_adv": {
+    "translation": "endelig",
+    "synonyms": [
+      "til slutt",
+      "omsider"
+    ],
+    "explanation": {
+      "schließlich": "til slutt/endelig",
+      "letztendlich": "til syvende og sist"
+    }
+  },
+  "eng_general": {
+    "translation": "trang"
+  },
+  "entlang_general": {
+    "translation": "langs"
+  },
+  "entspannend_general": {
+    "translation": "avslappende"
+  },
+  "erfolgreich_general": {
+    "translation": "vellykket"
+  },
+  "erforderlich_general": {
+    "translation": "nødvendig"
+  },
+  "ernsthaft_general": {
+    "translation": "alvorlig"
+  },
+  "erst_general": {
+    "translation": "først"
+  },
+  "es_gibt_phrase": {
+    "translation": "det finnes"
+  },
+  "etwa_general": {
+    "translation": "omtrent"
+  },
+  "etwas_general": {
+    "translation": "noe"
+  },
+  "eventuell_general": {
+    "translation": "eventuelt"
+  },
+  "ewig_general": {
+    "translation": "evig"
+  },
+  "extra_general": {
+    "translation": "ekstra"
+  },
+  "extrem_general": {
+    "translation": "ekstrem"
+  },
+  "faellig_general": {
+    "translation": "forfalt"
+  },
+  "fair_general": {
+    "translation": "rettferdig"
+  },
+  "falls_general": {
+    "translation": "i tilfelle"
+  },
+  "falsch_general": {
+    "translation": "feil"
+  },
+  "fantastisch_general": {
+    "translation": "fantastisk"
+  },
+  "farbig_general": {
+    "translation": "fargerik"
+  },
+  "fast_general": {
+    "translation": "nesten"
+  },
+  "fett_general": {
+    "translation": "feit"
+  },
+  "feucht_general": {
+    "translation": "fuktig"
+  },
+  "finanziell_general": {
+    "translation": "finansiell"
+  },
+  "flach_general": {
+    "translation": "flat"
+  },
+  "fleissig_general": {
+    "translation": "flittig"
+  },
+  "flexibel_general": {
+    "translation": "fleksibel"
+  },
+  "frankreich_land": {
+    "translation": "Frankrike"
+  },
+  "frei_general": {
+    "translation": "fri"
+  },
+  "freiwillig_general": {
+    "translation": "frivillig"
+  },
+  "fremd_general": {
+    "translation": "fremmed"
+  },
+  "freunde_sind_wichtig_phrase": {
+    "translation": "Venner er viktige"
+  },
+  "froh_general": {
+    "translation": "glad"
+  },
+  "frueh_adv": {
+    "translation": "tidlig",
+    "synonyms": [
+      "tidsnok",
+      "i god tid"
+    ]
+  },
+  "frueher_general": {
+    "translation": "tidligere"
+  },
+  "fuehlt_hat_gefuehlt_general": {
+    "translation": "føler, har følt"
+  },
+  "fuer_prep": {
+    "translation": "for",
+    "explanation": {
+      "_description": "Preposisjon som alltid krever akkusativ. Brukes for å uttrykke formål, mottaker eller varighet."
+    }
+  },
+  "fuer_sie_general": {
+    "translation": "for Dem"
+  },
+  "furchtbar_general": {
+    "translation": "fryktelig"
+  },
+  "ganz_general": {
+    "translation": "helt"
+  },
+  "gar_general": {
+    "translation": "i det hele tatt"
+  },
+  "geehrt_general": {
+    "translation": "ærede"
+  },
+  "gegen_prep": {
+    "translation": "mot",
+    "explanation": {
+      "_description": "Preposisjon som alltid krever akkusativ. Brukes for motstand, retning mot, eller omtrentlig tid."
+    }
+  },
+  "gegenueber_general": {
+    "translation": "overfor"
+  },
+  "gehaengt_general": {
+    "translation": "hengt"
+  },
+  "gekuendigt_general": {
+    "translation": "oppsagt"
+  },
+  "gemeinsam_general": {
+    "translation": "felles"
+  },
+  "genau_adv": {
+    "translation": "nøyaktig / akkurat"
+  },
+  "genauso_general": {
+    "translation": "akkurat like"
+  },
+  "genug_general": {
+    "translation": "nok"
+  },
+  "geoeffnet_general": {
+    "translation": "åpen"
+  },
+  "gerade_adv": {
+    "translation": "akkurat nå"
+  },
+  "geradeaus_general": {
+    "translation": "rett frem"
+  },
+  "gering_general": {
+    "translation": "liten"
+  },
+  "gern_adv": {
+    "translation": "gjerne",
+    "synonyms": [
+      "med glede"
+    ],
+    "explanation": {
+      "gerne": "alternativ stavemåte",
+      "mit Vergnügen": "med fornøyelse (mer formelt)"
+    }
+  },
+  "gerne_adv": {
+    "translation": "gjerne"
+  },
+  "gespannt_sein_phrase": {
+    "translation": "å være spent"
+  },
+  "getrennt_adv": {
+    "translation": "hver for seg",
+    "synonyms": [
+      "separat"
+    ]
+  },
+  "gewoehnlich_general": {
+    "translation": "vanlig"
+  },
+  "giftig_general": {
+    "translation": "giftig"
+  },
+  "glatt_general": {
+    "translation": "glatt"
+  },
+  "gleich_adv": {
+    "translation": "straks / med en gang"
+  },
+  "gleichberechtigt_general": {
+    "translation": "likestilt"
+  },
+  "gleichfalls_general": {
+    "translation": "i like måte"
+  },
+  "gleichzeitig_general": {
+    "translation": "samtidig"
+  },
+  "gratis_general": {
+    "translation": "gratis"
+  },
+  "gruendlich_general": {
+    "translation": "grundig"
+  },
+  "gueltig_general": {
+    "translation": "gyldig"
+  },
+  "guenstig_general": {
+    "translation": "gunstig"
+  },
+  "haesslich_general": {
+    "translation": "stygg"
+  },
+  "haeufig_general": {
+    "translation": "ofte"
+  },
+  "halb_adv": {
+    "translation": "halv (til neste time)"
+  },
+  "halbtags_general": {
+    "translation": "halvdag"
+  },
+  "hallo_general": {
+    "translation": "hallo"
+  },
+  "hallo_interj": {
+    "translation": "Hallo!",
+    "synonyms": [
+      "Hei",
+      "Heisann",
+      "Hei på deg"
+    ],
+    "explanation": {
+      "Moin": "uformell hilsen fra Nord-Tyskland",
+      "Servus": "hilsen fra Sør-Tyskland/Østerrike",
+      "Guten Tag": "formell hilsen"
+    }
+  },
+  "haltbar_general": {
+    "translation": "holdbar"
+  },
+  "hast_du_gehoert_expr": {
+    "translation": "har du hørt"
+  },
+  "hast_du_lust_auf_phrase": {
+    "translation": "Har du lyst på...?"
+  },
+  "hast_general": {
+    "translation": "har"
+  },
+  "hatte_hat_gehabt_general": {
+    "translation": "hadde, har hatt"
+  },
+  "heim_general": {
+    "translation": "hjem"
+  },
+  "heimlich_general": {
+    "translation": "hemmelig"
+  },
+  "hell_general": {
+    "translation": "lys"
+  },
+  "herzlich_general": {
+    "translation": "hjertelig"
+  },
+  "herzlichen_glueckwunsch_phrase": {
+    "translation": "Gratulerer"
+  },
+  "heute_adv": {
+    "translation": "i dag"
+  },
+  "heutig_general": {
+    "translation": "nåværende"
+  },
+  "hier_adv": {
+    "translation": "her"
+  },
+  "hierher_general": {
+    "translation": "hit"
+  },
+  "hinten_links_general": {
+    "translation": "bak til venstre"
+  },
+  "hinter_prep": {
+    "translation": "bak",
+    "explanation": {
+      "_description": "Wechselpräposition: Akkusativ ved bevegelse (wohin?), dativ ved posisjon (wo?)."
+    }
+  },
+  "hinterher_general": {
+    "translation": "etterpå"
+  },
+  "historisch_general": {
+    "translation": "historisk"
+  },
+  "hoechstens_general": {
+    "translation": "høyst"
+  },
+  "hoeflich_general": {
+    "translation": "høflig"
+  },
+  "hoffentlich_general": {
+    "translation": "forhåpentligvis"
+  },
+  "huebsch_general": {
+    "translation": "pen"
+  },
+  "hungrig_general": {
+    "translation": "sulten"
+  },
+  "ich_freue_mich_phrase": {
+    "translation": "Jeg gleder meg"
+  },
+  "ideal_general": {
+    "translation": "ideell"
+  },
+  "ihn_alex_general": {
+    "translation": "ham Alex"
+  },
+  "ihnen_erlaubt_general": {
+    "translation": "tillatt for dem"
+  },
+  "illegal_general": {
+    "translation": "ulovlig"
+  },
+  "im_voraus_phrase": {
+    "translation": "på forhånd"
+  },
+  "im_zoo_phrase": {
+    "translation": "i dyrehagen"
+  },
+  "immer_adv": {
+    "translation": "alltid"
+  },
+  "in_den_alpen_phrase": {
+    "translation": "i Alpene"
+  },
+  "in_der_schule_phrase": {
+    "translation": "på skolen"
+  },
+  "in_ordnung_general": {
+    "translation": "i orden"
+  },
+  "in_prep": {
+    "translation": "i/på",
+    "explanation": {
+      "_description": "Wechselpräposition: Akkusativ ved bevegelse (wohin?), dativ ved posisjon (wo?). Eksempel: «Ich gehe in die Schule» (akkusativ) vs «Ich bin in der Schule» (dativ)."
+    }
+  },
+  "indem_general": {
+    "translation": "ved at"
+  },
+  "individuell_general": {
+    "translation": "individuell"
+  },
+  "inklusive_general": {
+    "translation": "inkludert"
+  },
+  "inner_general": {
+    "translation": "indre"
+  },
+  "ins_cafe_phrase": {
+    "translation": "i kaféen / på kafé"
+  },
+  "ins_gebirge_expr": {
+    "translation": "til fjells"
+  },
+  "ins_kino_gehen_phrase": {
+    "translation": "å gå på kino"
+  },
+  "ins_prep": {
+    "translation": "i / inn i"
+  },
+  "intensiv_general": {
+    "translation": "intensiv"
+  },
+  "interessiert_general": {
+    "translation": "interessert"
+  },
+  "interkulturell_general": {
+    "translation": "interkulturell"
+  },
+  "international_general": {
+    "translation": "internasjonal"
+  },
+  "irgendirgendein_general": {
+    "translation": "en eller annen"
+  },
+  "irgendwann_general": {
+    "translation": "en gang"
+  },
+  "italien_propn": {
+    "translation": "Italia"
+  },
+  "ja_interj": {
+    "translation": "ja"
+  },
+  "jahre_alt_phrase": {
+    "translation": "år gammel"
+  },
+  "je_general": {
+    "translation": "noensinne"
+  },
+  "jeden_tag_phrase": {
+    "translation": "hver dag"
+  },
+  "jeder_e_s_general": {
+    "translation": "hver"
+  },
+  "jedoch_general": {
+    "translation": "likevel"
+  },
+  "jemals_general": {
+    "translation": "noensinne"
+  },
+  "jemand_general": {
+    "translation": "noen"
+  },
+  "jetzt_ab_general": {
+    "translation": "nå av"
+  },
+  "jetzt_adv": {
+    "translation": "nå"
+  },
+  "jeweils_general": {
+    "translation": "henholdsvis"
+  },
+  "kaputt_general": {
+    "translation": "ødelagt"
+  },
+  "kaum_general": {
+    "translation": "knapt"
+  },
+  "kein_e_general": {
+    "translation": "ingen"
+  },
+  "kein_general": {
+    "translation": "ingen"
+  },
+  "keine_lust_general": {
+    "translation": "ingen lyst"
+  },
+  "keine_zeit_general": {
+    "translation": "ingen tid"
+  },
+  "keinen_fall_general": {
+    "translation": "ingen omstendigheter"
+  },
+  "klappt_general": {
+    "translation": "fungerer"
+  },
+  "klar_interj": {
+    "translation": "klar / selvfølgelig"
+  },
+  "klug_general": {
+    "translation": "klok"
+  },
+  "knapp_general": {
+    "translation": "knapp"
+  },
+  "koerperlich_general": {
+    "translation": "kroppslig"
+  },
+  "komisch_aus_general": {
+    "translation": "rart ut"
+  },
+  "komisch_general": {
+    "translation": "morsom"
+  },
+  "komme_gleich_general": {
+    "translation": "kommer straks"
+  },
+  "komplett_general": {
+    "translation": "komplett"
+  },
+  "kompliziert_general": {
+    "translation": "komplisert"
+  },
+  "korrekt_general": {
+    "translation": "korrekt"
+  },
+  "kostenlos_general": {
+    "translation": "gratis"
+  },
+  "krank_general": {
+    "translation": "syk"
+  },
+  "kritisch_general": {
+    "translation": "kritisk"
+  },
+  "kuenstlich_general": {
+    "translation": "kunstig"
+  },
+  "kuerzlich_general": {
+    "translation": "nylig"
+  },
+  "kulturell_general": {
+    "translation": "kulturell"
+  },
+  "laengst_general": {
+    "translation": "for lenge siden"
+  },
+  "lange_adv": {
+    "translation": "lenge"
+  },
+  "laut_general": {
+    "translation": "høy (lyd)"
+  },
+  "ledig_general": {
+    "translation": "ugift"
+  },
+  "leer_general": {
+    "translation": "tom"
+  },
+  "leicht_general": {
+    "translation": "lett"
+  },
+  "leider_adv": {
+    "translation": "dessverre",
+    "synonyms": [
+      "beklageligvis",
+      "uheldigvis"
+    ]
+  },
+  "leise_general": {
+    "translation": "stille"
+  },
+  "letzt_general": {
+    "translation": "sist"
+  },
+  "lieb_general": {
+    "translation": "kjær"
+  },
+  "lieber_adv": {
+    "translation": "heller",
+    "synonyms": [
+      "helst",
+      "fortrinnsvis"
+    ]
+  },
+  "lieblings-_expr": {
+    "translation": "favoritt-",
+    "explanation": {
+      "_description": "Prefiks som betyr favoritt. F.eks. Lieblingsfarbe (favorittfarge)."
+    }
+  },
+  "linken_seite_general": {
+    "translation": "venstre side"
+  },
+  "links_general": {
+    "translation": "til venstre"
+  },
+  "locker_general": {
+    "translation": "avslappet"
+  },
+  "los_geht_s_phrase": {
+    "translation": "nå setter vi i gang",
+    "synonyms": [
+      "los gehts"
+    ]
+  },
+  "maennlich_general": {
+    "translation": "mannlig"
+  },
+  "mager_general": {
+    "translation": "mager"
+  },
+  "mal_adv": {
+    "translation": "en gang"
+  },
+  "manch_general": {
+    "translation": "mangt"
+  },
+  "manchmal_adv": {
+    "translation": "noen ganger",
+    "synonyms": [
+      "av og til",
+      "iblant"
+    ]
+  },
+  "maximal_general": {
+    "translation": "maksimal"
+  },
+  "mehr_adv": {
+    "translation": "mer"
+  },
+  "meiner_firma_general": {
+    "translation": "firmaet mitt"
+  },
+  "meist_general": {
+    "translation": "mest"
+  },
+  "meistens_adv": {
+    "translation": "for det meste / vanligvis"
+  },
+  "menschlich_general": {
+    "translation": "menneskelig"
+  },
+  "merkwuerdig_general": {
+    "translation": "merkverdig"
+  },
+  "mild_general": {
+    "translation": "mild"
+  },
+  "mindestens_general": {
+    "translation": "minst"
+  },
+  "minimal_general": {
+    "translation": "minimal"
+  },
+  "miss_general": {
+    "translation": "mis-"
+  },
+  "mit_dem_auto_phrase": {
+    "translation": "med bilen"
+  },
+  "mit_der_schweiz_phrase": {
+    "translation": "med Sveits"
+  },
+  "mit_freundlichen_gruessen_general": {
+    "translation": "med vennlig hilsen"
+  },
+  "mit_meinen_freunden_phrase": {
+    "translation": "med mine venner"
+  },
+  "mit_meiner_mutter_phrase": {
+    "translation": "med moren min"
+  },
+  "mit_prep": {
+    "translation": "med",
+    "explanation": {
+      "_description": "Preposisjon som alltid krever dativ. Brukes for å uttrykke følge, middel eller instrument."
+    }
+  },
+  "miteinander_general": {
+    "translation": "med hverandre"
+  },
+  "mittler_general": {
+    "translation": "midterst"
+  },
+  "mittlerweile_general": {
+    "translation": "i mellomtiden"
+  },
+  "moeglich_general": {
+    "translation": "mulig"
+  },
+  "morgen_adv": {
+    "translation": "i morgen"
+  },
+  "muendlich_general": {
+    "translation": "muntlig"
+  },
+  "musste_general": {
+    "translation": "måtte"
+  },
+  "mutig_general": {
+    "translation": "modig"
+  },
+  "nach_der_schule_phrase": {
+    "translation": "etter skolen"
+  },
+  "nach_hause_phrase": {
+    "translation": "hjem",
+    "explanation": {
+      "_description": "Uttrykk som betyr 'hjem' når man beveger seg dit."
+    }
+  },
+  "nach_links_general": {
+    "translation": "til venstre"
+  },
+  "nach_prep": {
+    "translation": "til (med steder)",
+    "synonyms": [
+      "etter"
+    ],
+    "explanation": {
+      "_description": "Preposisjon som alltid krever dativ. Brukes for retning til steder (uten artikkel) og for «etter» i tid."
+    }
+  },
+  "nachdem_general": {
+    "translation": "etter at"
+  },
+  "nachher_general": {
+    "translation": "etterpå"
+  },
+  "naechst_general": {
+    "translation": "neste"
+  },
+  "naemlich_general": {
+    "translation": "nemlig"
+  },
+  "natuerlich_adv": {
+    "translation": "selvfølgelig"
+  },
+  "neben_prep": {
+    "translation": "ved siden av",
+    "explanation": {
+      "_description": "Wechselpräposition: Akkusativ ved bevegelse (wohin?), dativ ved posisjon (wo?)."
+    }
+  },
+  "nebenan_general": {
+    "translation": "ved siden av"
+  },
+  "nebenbei_general": {
+    "translation": "ved siden av"
+  },
+  "nee_interj": {
+    "translation": "nei (uformelt)",
+    "synonyms": [
+      "nei",
+      "neida"
+    ]
+  },
+  "negativ_general": {
+    "translation": "negativ"
+  },
+  "nein_interj": {
+    "translation": "nei"
+  },
+  "neugierig_general": {
+    "translation": "nysgjerrig"
+  },
+  "neulich_general": {
+    "translation": "nylig"
+  },
+  "nicht_adv": {
+    "translation": "ikke"
+  },
+  "nicht_notwendig_general": {
+    "translation": "ikke nødvendig"
+  },
+  "nicht_schon_wieder_phrase": {
+    "translation": "ikke nå igjen"
+  },
+  "nichts_general": {
+    "translation": "ingenting"
+  },
+  "nie_adv": {
+    "translation": "aldri",
+    "explanation": {
+      "_description": "Brukes for å uttrykke at noe ikke skjer."
+    }
+  },
+  "niedrig_general": {
+    "translation": "lav"
+  },
+  "niemals_adv": {
+    "translation": "aldri",
+    "synonyms": [
+      "aldri",
+      "ikke noensinne"
+    ],
+    "explanation": {
+      "nie": "aldri (kortere form)",
+      "niemals": "aldri (mer emfatisk)"
+    }
+  },
+  "niemand_general": {
+    "translation": "ingen"
+  },
+  "nirgends_general": {
+    "translation": "ingen steder"
+  },
+  "nirgendwo_general": {
+    "translation": "ingen steder"
+  },
+  "noch_adv": {
+    "translation": "ennå / fortsatt"
+  },
+  "noch_nicht_phrase": {
+    "translation": "enda ikke"
+  },
+  "nochmals_general": {
+    "translation": "enda en gang"
+  },
+  "noetig_general": {
+    "translation": "nødvendig"
+  },
+  "normal_general": {
+    "translation": "normal"
+  },
+  "normalerweise_adv": {
+    "translation": "normalt / vanligvis"
+  },
+  "norwegisch_propn": {
+    "translation": "norsk"
+  },
+  "notwendig_general": {
+    "translation": "nødvendig"
+  },
+  "nuetzlich_general": {
+    "translation": "nyttig"
+  },
+  "nun_general": {
+    "translation": "nå"
+  },
+  "nur_adv": {
+    "translation": "bare"
+  },
+  "ob_general": {
+    "translation": "om"
+  },
+  "ober_general": {
+    "translation": "øvre"
+  },
+  "obwohl_general": {
+    "translation": "selv om"
+  },
+  "oder_conj": {
+    "translation": "eller"
+  },
+  "oeffentlich_general": {
+    "translation": "offentlig"
+  },
+  "oesterreich_propn": {
+    "translation": "Østerrike"
+  },
+  "offenbar_general": {
+    "translation": "åpenbart"
+  },
+  "offiziell_general": {
+    "translation": "offisiell"
+  },
+  "oft_adv": {
+    "translation": "ofte"
+  },
+  "ohne_prep": {
+    "translation": "uten",
+    "explanation": {
+      "_description": "Preposisjon som alltid krever akkusativ. Brukes for å uttrykke fravær av noe."
+    }
+  },
+  "online_general": {
+    "translation": "på nett"
+  },
+  "optimistisch_general": {
+    "translation": "optimistisk"
+  },
+  "ordentlich_general": {
+    "translation": "ordentlig"
+  },
+  "parallel_general": {
+    "translation": "parallell"
+  },
+  "passiv_general": {
+    "translation": "passiv"
+  },
+  "passt_es_phrase": {
+    "translation": "passer det?"
+  },
+  "pauschal_general": {
+    "translation": "pauschal"
+  },
+  "peinlich_general": {
+    "translation": "pinlig"
+  },
+  "per_general": {
+    "translation": "per"
+  },
+  "ploetzlich_general": {
+    "translation": "plutselig"
+  },
+  "positiv_general": {
+    "translation": "positiv"
+  },
+  "praktisch_general": {
+    "translation": "praktisk"
+  },
+  "preiswert_general": {
+    "translation": "rimelig"
+  },
+  "prima_general": {
+    "translation": "utmerket"
+  },
+  "privat_general": {
+    "translation": "privat"
+  },
+  "private_handynummer_general": {
+    "translation": "privat mobilnummer"
+  },
+  "pro_general": {
+    "translation": "per"
+  },
+  "puenktlich_general": {
+    "translation": "punktlig"
+  },
+  "quer_general": {
+    "translation": "på tvers"
+  },
+  "raus_adv": {
+    "translation": "ut / ute",
+    "synonyms": [
+      "ut",
+      "ute",
+      "utenfor"
+    ],
+    "explanation": {
+      "raus": "kortform av \"heraus\" eller \"hinaus\"",
+      "draußen": "ute/utenfor (posisjon)"
+    }
+  },
+  "realistisch_general": {
+    "translation": "realistisk"
+  },
+  "recht_general": {
+    "translation": "rett"
+  },
+  "rechtlich_general": {
+    "translation": "rettslig"
+  },
+  "rechts_general": {
+    "translation": "til høyre"
+  },
+  "rechtzeitig_general": {
+    "translation": "i tide"
+  },
+  "regelmaessig_general": {
+    "translation": "regelmessig"
+  },
+  "regional_general": {
+    "translation": "regional"
+  },
+  "reich_general": {
+    "translation": "rik"
+  },
+  "reif_general": {
+    "translation": "moden"
+  },
+  "rein_adv": {
+    "translation": "inn"
+  },
+  "relativ_general": {
+    "translation": "relativ"
+  },
+  "roh_general": {
+    "translation": "rå"
+  },
+  "romantisch_general": {
+    "translation": "romantisk"
+  },
+  "rueckwaerts_general": {
+    "translation": "bakover"
+  },
+  "rund_general": {
+    "translation": "rund"
+  },
+  "saemtliche_general": {
+    "translation": "samtlige"
+  },
+  "salzig_general": {
+    "translation": "salt"
+  },
+  "satt_general": {
+    "translation": "mett"
+  },
+  "sauer_general": {
+    "translation": "sur"
+  },
+  "schaedlich_general": {
+    "translation": "skadelig"
+  },
+  "scharf_general": {
+    "translation": "skarp"
+  },
+  "schief_general": {
+    "translation": "skjevt"
+  },
+  "schlank_general": {
+    "translation": "slank"
+  },
+  "schlecht_general": {
+    "translation": "dårlig"
+  },
+  "schliesslich_general": {
+    "translation": "til slutt"
+  },
+  "schmal_general": {
+    "translation": "smal"
+  },
+  "schmutzig_general": {
+    "translation": "skitten"
   },
   "schnell_adv": {
     "translation": "raskt",
@@ -160,265 +1595,6 @@
       "zügig": "i godt tempo"
     }
   },
-  "los_geht_s_phrase": {
-    "translation": "nå setter vi i gang",
-    "synonyms": ["los gehts"]
-  },
-  "da_adv": {
-    "translation": "der/da"
-  },
-  "sehr_adv": {
-    "translation": "veldig / mye"
-  },
-  "fuer_prep": {
-    "translation": "for",
-    "explanation": {
-      "_description": "Preposisjon som alltid krever akkusativ. Brukes for å uttrykke formål, mottaker eller varighet."
-    }
-  },
-  "heute_adv": {
-    "translation": "i dag"
-  },
-  "manchmal_adv": {
-    "translation": "noen ganger",
-    "synonyms": [
-      "av og til",
-      "iblant"
-    ]
-  },
-  "gern_adv": {
-    "translation": "gjerne",
-    "synonyms": [
-      "med glede"
-    ],
-    "explanation": {
-      "gerne": "alternativ stavemåte",
-      "mit Vergnügen": "med fornøyelse (mer formelt)"
-    }
-  },
-  "lieber_adv": {
-    "translation": "heller",
-    "synonyms": [
-      "helst",
-      "fortrinnsvis"
-    ]
-  },
-  "nicht_adv": {
-    "translation": "ikke"
-  },
-  "zusammen_adv": {
-    "translation": "sammen",
-    "synonyms": [
-      "i fellesskap",
-      "med hverandre"
-    ],
-    "explanation": {
-      "gemeinsam": "felles/sammen",
-      "miteinander": "med hverandre"
-    }
-  },
-  "vielleicht_adv": {
-    "translation": "kanskje",
-    "synonyms": [
-      "muligens",
-      "kan hende"
-    ],
-    "explanation": {
-      "möglicherweise": "muligvis (mer formelt)"
-    }
-  },
-  "leider_adv": {
-    "translation": "dessverre",
-    "synonyms": [
-      "beklageligvis",
-      "uheldigvis"
-    ]
-  },
-  "ein_anderes_mal_phrase": {
-    "translation": "en annen gang",
-    "synonyms": [
-      "neste gang",
-      "ved en annen anledning"
-    ]
-  },
-  "endlich_adv": {
-    "translation": "endelig",
-    "synonyms": [
-      "til slutt",
-      "omsider"
-    ],
-    "explanation": {
-      "schließlich": "til slutt/endelig",
-      "letztendlich": "til syvende og sist"
-    }
-  },
-  "bis_dann_phrase": {
-    "translation": "Vi snakkes!"
-  },
-  "was_interr": {
-    "translation": "Hva"
-  },
-  "wer_interr": {
-    "translation": "Hvem"
-  },
-  "wo_interr": {
-    "translation": "Hvor?"
-  },
-  "woher_interr": {
-    "translation": "Hvor fra"
-  },
-  "wie_interr": {
-    "translation": "Hvordan / Hva"
-  },
-  "wann_interr": {
-    "translation": "Når"
-  },
-  "warum_interr": {
-    "translation": "Hvorfor"
-  },
-  "um_prep": {
-    "translation": "klokka... (foran klokkeslett)",
-    "explanation": {
-      "_description": "Preposisjon som alltid krever akkusativ. Brukes foran klokkeslett (um 8 Uhr) og for å uttrykke «rundt» eller «omkring»."
-    }
-  },
-  "mit_prep": {
-    "translation": "med",
-    "explanation": {
-      "_description": "Preposisjon som alltid krever dativ. Brukes for å uttrykke følge, middel eller instrument."
-    }
-  },
-  "am_wochenende_phrase": {
-    "translation": "i helgen"
-  },
-  "am_montag_phrase": {
-    "translation": "på mandag"
-  },
-  "am_nachmittag_phrase": {
-    "translation": "om ettermiddagen"
-  },
-  "wie_spaet_ist_es_phrase": {
-    "translation": "Hva er klokka?",
-    "synonyms": [
-      "Hvor mye er klokka?"
-    ],
-    "explanation": {
-      "Wie viel Uhr ist es?": "Alternativ måte å spørre om klokkeslettet - begge er like korrekte"
-    }
-  },
-  "welcher_interr": {
-    "translation": "hvilken"
-  },
-  "auf_prep": {
-    "translation": "på",
-    "explanation": {
-      "_description": "Wechselpräposition: Akkusativ ved bevegelse (wohin?), dativ ved posisjon (wo?). Brukes for horisontale flater."
-    }
-  },
-  "danach_adv": {
-    "translation": "etterpå / deretter"
-  },
-  "noch_adv": {
-    "translation": "ennå / fortsatt"
-  },
-  "immer_adv": {
-    "translation": "alltid"
-  },
-  "getrennt_adv": {
-    "translation": "hver for seg",
-    "synonyms": [
-      "separat"
-    ]
-  },
-  "spaeter_adv": {
-    "translation": "senere"
-  },
-  "zu_hause_phrase": {
-    "translation": "hjemme"
-  },
-  "passt_es_phrase": {
-    "translation": "passer det?"
-  },
-  "deutschland_propn": {
-    "translation": "Tyskland"
-  },
-  "norwegisch_propn": {
-    "translation": "norsk"
-  },
-  "genau_adv": {
-    "translation": "nøyaktig / akkurat"
-  },
-  "oder_conj": {
-    "translation": "eller"
-  },
-  "frueh_adv": {
-    "translation": "tidlig",
-    "synonyms": [
-      "tidsnok",
-      "i god tid"
-    ]
-  },
-  "spaet_adv": {
-    "translation": "sent",
-    "synonyms": [
-      "seint",
-      "for sent"
-    ]
-  },
-  "jeden_tag_phrase": {
-    "translation": "hver dag"
-  },
-  "zuerst_adv": {
-    "translation": "først"
-  },
-  "dann_adv": {
-    "translation": "så"
-  },
-  "mit_meiner_mutter_phrase": {
-    "translation": "med moren min"
-  },
-  "viertel_nach_phrase": {
-    "translation": "kvart over"
-  },
-  "viertel_vor_phrase": {
-    "translation": "kvart på"
-  },
-  "halb_adv": {
-    "translation": "halv (til neste time)"
-  },
-  "zu_frueh_phrase": {
-    "translation": "for tidlig"
-  },
-  "ich_freue_mich_phrase": {
-    "translation": "Jeg gleder meg"
-  },
-  "hast_du_lust_auf_phrase": {
-    "translation": "Har du lyst på...?"
-  },
-  "nicht_schon_wieder_phrase": {
-    "translation": "ikke nå igjen"
-  },
-  "beides_adv": {
-    "translation": "begge deler"
-  },
-  "also_adv": {
-    "translation": "altså / vel",
-    "synonyms": [
-      "vel",
-      "nå",
-      "altså"
-    ],
-    "explanation": {
-      "Also": "brukes ofte i begynnelsen av setninger for å starte en diskusjon eller konkludere"
-    }
-  },
-  "nee_interj": {
-    "translation": "nei (uformelt)",
-    "synonyms": [
-      "nei",
-      "neida"
-    ]
-  },
   "schon_adv": {
     "translation": "allerede",
     "synonyms": [
@@ -428,23 +1604,251 @@
       "bereits": "allerede (mer formelt)"
     }
   },
-  "raus_adv": {
-    "translation": "ut / ute",
-    "synonyms": [
-      "ut",
-      "ute",
-      "utenfor"
-    ],
+  "schrecklich_general": {
+    "translation": "fryktelig"
+  },
+  "schriftlich_general": {
+    "translation": "skriftlig"
+  },
+  "schuldig_general": {
+    "translation": "skyldig"
+  },
+  "schwach_general": {
+    "translation": "svak"
+  },
+  "schwanger_general": {
+    "translation": "gravid"
+  },
+  "schwer_general": {
+    "translation": "tung"
+  },
+  "sehr_adv": {
+    "translation": "veldig / mye"
+  },
+  "seit_prep": {
+    "translation": "siden",
     "explanation": {
-      "raus": "kortform av \"heraus\" eller \"hinaus\"",
-      "draußen": "ute/utenfor (posisjon)"
+      "_description": "Preposisjon som alltid krever dativ. Brukes for å uttrykke varighet fra et tidspunkt."
     }
   },
-  "lange_adv": {
-    "translation": "lenge"
+  "seitdem_general": {
+    "translation": "siden"
+  },
+  "selb_general": {
+    "translation": "selv"
+  },
+  "selber_general": {
+    "translation": "selv"
+  },
+  "selbst_general": {
+    "translation": "selv"
+  },
+  "selbststaendig_general": {
+    "translation": "selvstendig"
+  },
+  "selbstverstaendlich_general": {
+    "translation": "selvfølgelig"
+  },
+  "seltsam_general": {
+    "translation": "merkelig"
+  },
+  "senkrecht_general": {
+    "translation": "loddrett"
+  },
+  "setzt_hat_gesetzt_general": {
+    "translation": "setter, har satt"
+  },
+  "sich_warm_anziehen_phrase": {
+    "translation": "å kle seg varmt"
+  },
+  "sichtbar_general": {
+    "translation": "synlig"
+  },
+  "sinnlos_general": {
+    "translation": "meningsløs"
+  },
+  "sinnvoll_general": {
+    "translation": "meningsfull"
+  },
+  "so_adv": {
+    "translation": "så / slik"
+  },
+  "so_schoen_general": {
+    "translation": "så pent"
+  },
+  "so_wie_phrase": {
+    "translation": "like ... som"
+  },
+  "sobald_general": {
+    "translation": "så snart"
+  },
+  "sodass_general": {
+    "translation": "slik at"
+  },
+  "sofort_adv": {
+    "translation": "med en gang / straks"
+  },
+  "sogar_general": {
+    "translation": "til og med"
+  },
+  "sogenannt_general": {
+    "translation": "såkalt"
+  },
+  "solange_general": {
+    "translation": "så lenge"
+  },
+  "solch_general": {
+    "translation": "slik"
+  },
+  "sollte_general": {
+    "translation": "burde"
+  },
+  "sonst_general": {
+    "translation": "ellers"
+  },
+  "soviel_general": {
+    "translation": "så mye"
+  },
+  "sowieso_general": {
+    "translation": "uansett"
+  },
+  "sozial_general": {
+    "translation": "sosial"
+  },
+  "spaet_adv": {
+    "translation": "sent",
+    "synonyms": [
+      "seint",
+      "for sent"
+    ]
+  },
+  "spaeter_adv": {
+    "translation": "senere"
+  },
+  "spaetestens_general": {
+    "translation": "senest"
+  },
+  "spass_machen_phrase": {
+    "translation": "å være gøy"
+  },
+  "speziell_general": {
+    "translation": "spesiell"
+  },
+  "spitz_general": {
+    "translation": "spiss"
+  },
+  "staedtisch_general": {
+    "translation": "bymessig"
+  },
+  "staendig_general": {
+    "translation": "stadig"
+  },
+  "statistisch_general": {
+    "translation": "statistisk"
+  },
+  "statt_general": {
+    "translation": "istedenfor"
+  },
+  "steil_general": {
+    "translation": "bratt"
+  },
+  "stilistisch_general": {
+    "translation": "stilistisk"
+  },
+  "still_general": {
+    "translation": "stille"
+  },
+  "stimmt_interj": {
+    "translation": "stemmer / det er riktig"
+  },
+  "stolz_general": {
+    "translation": "stolt"
+  },
+  "strafbar_general": {
+    "translation": "straffbar"
+  },
+  "stumm_general": {
+    "translation": "stum"
+  },
+  "super_adv": {
+    "translation": "kjempebra / super"
+  },
+  "super_interj": {
+    "translation": "Supert!",
+    "synonyms": [
+      "Kjempebra!",
+      "Strålende!",
+      "Topp!",
+      "Fantastisk!"
+    ],
+    "explanation": {
+      "Klasse!": "uformelt uttrykk",
+      "Spitze!": "betyr egentlig \"topp/spiss\""
+    }
   },
   "tagsueber_adv": {
     "translation": "om dagen / på dagtid"
+  },
+  "taub_general": {
+    "translation": "døv"
+  },
+  "theoretisch_general": {
+    "translation": "teoretisk"
+  },
+  "tief_general": {
+    "translation": "dyp"
+  },
+  "toedlich_general": {
+    "translation": "dødelig"
+  },
+  "tolerant_general": {
+    "translation": "tolerant"
+  },
+  "tot_general": {
+    "translation": "død"
+  },
+  "total_general": {
+    "translation": "total"
+  },
+  "traditionell_general": {
+    "translation": "tradisjonell"
+  },
+  "trotz_general": {
+    "translation": "til tross for"
+  },
+  "trotzdem_general": {
+    "translation": "likevel"
+  },
+  "tschues_general": {
+    "translation": "ha det"
+  },
+  "tschuess_general": {
+    "translation": "ha det"
+  },
+  "tschuess_interj": {
+    "translation": "Ha det!",
+    "synonyms": [
+      "Ha det bra!",
+      "Vi sees!",
+      "Hade!"
+    ],
+    "explanation": {
+      "Auf Wiedersehen!": "formell avskjed",
+      "Bis bald!": "vi sees snart",
+      "Ciao!": "uformelt, fra italiensk"
+    }
+  },
+  "tun_general": {
+    "translation": "å gjøre"
+  },
+  "typisch_general": {
+    "translation": "typisk"
+  },
+  "ueber_prep": {
+    "translation": "over",
+    "explanation": {
+      "_description": "Wechselpräposition: Akkusativ ved bevegelse (wohin?), dativ ved posisjon (wo?). Kan også bety «om» (tema)."
+    }
   },
   "ueberall_adv": {
     "translation": "overalt",
@@ -453,31 +1857,113 @@
       "over alt"
     ]
   },
-  "niemals_adv": {
-    "translation": "aldri",
-    "synonyms": [
-      "aldri",
-      "ikke noensinne"
-    ],
+  "ueberhaupt_general": {
+    "translation": "i det hele tatt"
+  },
+  "ueblich_general": {
+    "translation": "vanlig"
+  },
+  "uebrig_general": {
+    "translation": "øvrig"
+  },
+  "uebrigens_general": {
+    "translation": "for øvrig"
+  },
+  "um_prep": {
+    "translation": "klokka... (foran klokkeslett)",
     "explanation": {
-      "nie": "aldri (kortere form)",
-      "niemals": "aldri (mer emfatisk)"
+      "_description": "Preposisjon som alltid krever akkusativ. Brukes foran klokkeslett (um 8 Uhr) og for å uttrykke «rundt» eller «omkring»."
     }
   },
-  "denn_conj": {
-    "translation": "for / fordi",
-    "synonyms": [
-      "fordi",
-      "siden",
-      "ettersom"
-    ],
+  "umso_general": {
+    "translation": "desto"
+  },
+  "umsonst_general": {
+    "translation": "gratis"
+  },
+  "un_general": {
+    "translation": "u-"
+  },
+  "unbedingt_adv": {
+    "translation": "absolutt / nødvendigvis"
+  },
+  "und_conj": {
+    "translation": "og"
+  },
+  "und_jugendliche_general": {
+    "translation": "og ungdommer"
+  },
+  "und_stuttgart_general": {
+    "translation": "og Stuttgart"
+  },
+  "ungefaehr_general": {
+    "translation": "omtrent"
+  },
+  "ungewoehnlich_general": {
+    "translation": "uvanlig"
+  },
+  "unglaublich_general": {
+    "translation": "utrolig"
+  },
+  "unheimlich_general": {
+    "translation": "uhyggelig"
+  },
+  "unserer_stadt_general": {
+    "translation": "byen vår"
+  },
+  "unter_general": {
+    "translation": "under"
+  },
+  "unter_prep": {
+    "translation": "under",
     "explanation": {
-      "weil": "fordi (endrer ordstillingen)",
-      "da": "siden/ettersom"
+      "_description": "Wechselpräposition: Akkusativ ved bevegelse (wohin?), dativ ved posisjon (wo?)."
     }
   },
-  "als_conj": {
-    "translation": "enn"
+  "untersagt_general": {
+    "translation": "forbudt"
+  },
+  "unterschiedlich_general": {
+    "translation": "forskjellig"
+  },
+  "unterwegs_general": {
+    "translation": "på veien"
+  },
+  "urlaub_auf_balkonien_phrase": {
+    "translation": "ferie hjemme (\"på balkongen\")"
+  },
+  "urspruenglich_general": {
+    "translation": "opprinnelig"
+  },
+  "vegetarisch_general": {
+    "translation": "vegetarisk"
+  },
+  "verantwortlich_general": {
+    "translation": "ansvarlig"
+  },
+  "verboten_sein_general": {
+    "translation": "være forbudt"
+  },
+  "vergeblich_general": {
+    "translation": "forgjeves"
+  },
+  "verheiratet_general": {
+    "translation": "gift"
+  },
+  "vermutlich_general": {
+    "translation": "sannsynligvis"
+  },
+  "vernuenftig_general": {
+    "translation": "fornuftig"
+  },
+  "verrueckt_general": {
+    "translation": "gal"
+  },
+  "verstaendlich_general": {
+    "translation": "forståelig"
+  },
+  "verwandt_general": {
+    "translation": "beslektet"
   },
   "viel_adv": {
     "translation": "mye / veldig",
@@ -490,6 +1976,127 @@
       "viel": "kan bety \"mye\" eller brukes for å forsterke komparativer (viel größer = mye større)"
     }
   },
+  "viel_e_general": {
+    "translation": "mye, mange"
+  },
+  "viel_spass_phrase": {
+    "translation": "god fornøyelse"
+  },
+  "vielleicht_adv": {
+    "translation": "kanskje",
+    "synonyms": [
+      "muligens",
+      "kan hende"
+    ],
+    "explanation": {
+      "möglicherweise": "muligvis (mer formelt)"
+    }
+  },
+  "viertel_nach_phrase": {
+    "translation": "kvart over"
+  },
+  "viertel_vor_phrase": {
+    "translation": "kvart på"
+  },
+  "virtuell_general": {
+    "translation": "virtuell"
+  },
+  "voellig_general": {
+    "translation": "fullstendig"
+  },
+  "voll_general": {
+    "translation": "full"
+  },
+  "von_prep": {
+    "translation": "av/fra",
+    "explanation": {
+      "_description": "Preposisjon som alltid krever dativ. Brukes for å uttrykke opprinnelse, eierskap eller forfatter."
+    }
+  },
+  "voneinander_general": {
+    "translation": "fra hverandre"
+  },
+  "vor_allem_general": {
+    "translation": "fremfor alt"
+  },
+  "vor_prep": {
+    "translation": "foran / før",
+    "explanation": {
+      "_description": "Wechselpräposition: Akkusativ ved bevegelse (wohin?), dativ ved posisjon (wo?). Brukes også om tid (før)."
+    }
+  },
+  "voraus_general": {
+    "translation": "i forveien"
+  },
+  "voraussichtlich_general": {
+    "translation": "sannsynligvis"
+  },
+  "vorbei_general": {
+    "translation": "forbi"
+  },
+  "vorder_general": {
+    "translation": "fremre"
+  },
+  "vorher_general": {
+    "translation": "på forhånd"
+  },
+  "vorhin_general": {
+    "translation": "nylig"
+  },
+  "vorlaeufig_general": {
+    "translation": "foreløpig"
+  },
+  "vorsichtig_general": {
+    "translation": "forsiktig"
+  },
+  "vorwaerts_general": {
+    "translation": "fremover"
+  },
+  "waehrend_general": {
+    "translation": "mens"
+  },
+  "wahnsinnig_general": {
+    "translation": "gal"
+  },
+  "wahr_general": {
+    "translation": "sann"
+  },
+  "wahrscheinlich_general": {
+    "translation": "sannsynlig"
+  },
+  "wann_interr": {
+    "translation": "Når"
+  },
+  "warum_interr": {
+    "translation": "Hvorfor"
+  },
+  "was_fuer_ein_general": {
+    "translation": "for en"
+  },
+  "was_interr": {
+    "translation": "Hva"
+  },
+  "weg_sein_general": {
+    "translation": "å være borte"
+  },
+  "weh_tun_general": {
+    "translation": "å gjøre vondt"
+  },
+  "weiblich_general": {
+    "translation": "kvinnelig"
+  },
+  "weil_general": {
+    "translation": "fordi"
+  },
+  "weiter_general": {
+    "translation": "videre"
+  },
+  "welchdie_welt_general": {
+    "translation": "hvilken verden"
+  },
+  "welcher_interr": {
+    "translation": "hvilken"
+  },
   "wenig_adv": {
     "translation": "lite / få",
     "synonyms": [
@@ -499,6 +2106,105 @@
     "explanation": {
       "wenig": "motsetning av \"viel\""
     }
+  },
+  "wenigstens_general": {
+    "translation": "i det minste"
+  },
+  "wenn_general": {
+    "translation": "når, hvis"
+  },
+  "wer_interr": {
+    "translation": "Hvem"
+  },
+  "wer_ist_das_phrase": {
+    "translation": "Hvem er det?"
+  },
+  "wert_general": {
+    "translation": "verdt"
+  },
+  "wertlos_general": {
+    "translation": "verdiløs"
+  },
+  "wertvoll_general": {
+    "translation": "verdifull"
+  },
+  "weshalb_general": {
+    "translation": "hvorfor"
+  },
+  "wie_fuehlst_du_dich_phrase": {
+    "translation": "Hvordan føler du deg?"
+  },
+  "wie_heisst_du_phrase": {
+    "translation": "Hva heter du?"
+  },
+  "wie_interr": {
+    "translation": "Hvordan / Hva"
+  },
+  "wie_spaet_ist_es_phrase": {
+    "translation": "Hva er klokka?",
+    "synonyms": [
+      "Hvor mye er klokka?"
+    ],
+    "explanation": {
+      "Wie viel Uhr ist es?": "Alternativ måte å spørre om klokkeslettet - begge er like korrekte"
+    }
+  },
+  "wie_viel_general": {
+    "translation": "hvor mye"
+  },
+  "wieder_adv": {
+    "translation": "igjen"
+  },
+  "wieso_general": {
+    "translation": "hvorfor"
+  },
+  "willkommen_interj": {
+    "translation": "Velkommen"
+  },
+  "wirklich_adv": {
+    "translation": "virkelig / egentlig"
+  },
+  "witzig_general": {
+    "translation": "morsom"
+  },
+  "wo_general": {
+    "translation": "hvor"
+  },
+  "wo_interr": {
+    "translation": "Hvor?"
+  },
+  "woher_interr": {
+    "translation": "Hvor fra"
+  },
+  "woher_kommst_du_phrase": {
+    "translation": "Hvor kommer du fra?"
+  },
+  "wohin_interr": {
+    "translation": "hvor hen / dit"
+  },
+  "wohl_general": {
+    "translation": "vel"
+  },
+  "worueber_general": {
+    "translation": "om hva"
+  },
+  "worum_general": {
+    "translation": "om hva"
+  },
+  "wuetend_general": {
+    "translation": "rasende"
+  },
+  "wunderbar_general": {
+    "translation": "vidunderlig"
+  },
+  "zahlreich_general": {
+    "translation": "tallrik"
+  },
+  "zentral_general": {
+    "translation": "sentral"
+  },
+  "ziemlich_general": {
+    "translation": "ganske"
   },
   "zu_adv": {
     "translation": "for, som i \"for sent\"",
@@ -516,288 +2222,14 @@
       "übermäßig": "overdrevent/for mye"
     }
   },
-  "mit_meinen_freunden_phrase": {
-    "translation": "med mine venner"
+  "zu_frueh_phrase": {
+    "translation": "for tidlig"
   },
-  "im_zoo_phrase": {
-    "translation": "i dyrehagen"
+  "zu_fuss_general": {
+    "translation": "til fots"
   },
-  "den_ganzen_tag_phrase": {
-    "translation": "hele dagen"
-  },
-  "einen_elefanten_phrase": {
-    "translation": "en elefant (objekt)"
-  },
-  "den_elefanten_phrase": {
-    "translation": "elefanten (objekt)"
-  },
-  "den_loewen_phrase": {
-    "translation": "løven (objekt)"
-  },
-  "asien_propn": {
-    "translation": "Asia"
-  },
-  "afrika_propn": {
-    "translation": "Afrika"
-  },
-  "es_gibt_phrase": {
-    "translation": "det finnes"
-  },
-  "wieder_adv": {
-    "translation": "igjen"
-  },
-  "egal_adv": {
-    "translation": "samme det / likegyldig"
-  },
-  "bald_adv": {
-    "translation": "snart"
-  },
-  "super_adv": {
-    "translation": "kjempebra / super"
-  },
-  "unbedingt_adv": {
-    "translation": "absolutt / nødvendigvis"
-  },
-  "mal_adv": {
-    "translation": "en gang"
-  },
-  "dort_adv": {
-    "translation": "der"
-  },
-  "nach_prep": {
-    "translation": "til (med steder)",
-    "synonyms": ["etter"],
-    "explanation": {
-      "_description": "Preposisjon som alltid krever dativ. Brukes for retning til steder (uten artikkel) og for «etter» i tid."
-    }
-  },
-  "wohin_interr": {
-    "translation": "hvor hen / dit"
-  },
-  "oesterreich_propn": {
-    "translation": "Østerrike"
-  },
-  "die_schweiz_propn": {
-    "translation": "Sveits"
-  },
-  "in_den_alpen_phrase": {
-    "translation": "i Alpene"
-  },
-  "mit_der_schweiz_phrase": {
-    "translation": "med Sveits"
-  },
-  "hast_du_gehoert_expr": {
-    "translation": "har du hørt"
-  },
-  "ohne_prep": {
-    "translation": "uten",
-    "explanation": {
-      "_description": "Preposisjon som alltid krever akkusativ. Brukes for å uttrykke fravær av noe."
-    }
-  },
-  "mehr_adv": {
-    "translation": "mer"
-  },
-  "stimmt_interj": {
-    "translation": "stemmer / det er riktig"
-  },
-  "natuerlich_adv": {
-    "translation": "selvfølgelig"
-  },
-  "italien_propn": {
-    "translation": "Italia"
-  },
-  "klar_interj": {
-    "translation": "klar / selvfølgelig"
-  },
-  "mit_dem_auto_phrase": {
-    "translation": "med bilen"
-  },
-  "allein_adv": {
-    "translation": "alene"
-  },
-  "gespannt_sein_phrase": {
-    "translation": "å være spent"
-  },
-  "ins_gebirge_expr": {
-    "translation": "til fjells"
-  },
-  "besonders_adv": {
-    "translation": "spesielt / særlig"
-  },
-  "gerade_adv": {
-    "translation": "akkurat nå"
-  },
-  "bestimmt_adv": {
-    "translation": "sikkert / garantert"
-  },
-  "urlaub_auf_balkonien_phrase": {
-    "translation": "ferie hjemme (\"på balkongen\")"
-  },
-  "ins_prep": {
-    "translation": "i / inn i"
-  },
-  "zum_geburtstag_viel_glueck_phrase": {
-    "translation": "Gratulerer med dagen (sang)"
-  },
-  "noch_nicht_phrase": {
-    "translation": "enda ikke"
-  },
-  "dort_drueben_phrase": {
-    "translation": "der borte"
-  },
-  "neben_prep": {
-    "translation": "ved siden av",
-    "explanation": {
-      "_description": "Wechselpräposition: Akkusativ ved bevegelse (wohin?), dativ ved posisjon (wo?)."
-    }
-  },
-  "freunde_sind_wichtig_phrase": {
-    "translation": "Venner er viktige"
-  },
-  "wirklich_adv": {
-    "translation": "virkelig / egentlig"
-  },
-  "am_samstag_phrase": {
-    "translation": "på lørdag"
-  },
-  "am_sonntag_phrase": {
-    "translation": "på søndag"
-  },
-  "am_freitag_phrase": {
-    "translation": "på fredag"
-  },
-  "morgen_adv": {
-    "translation": "i morgen"
-  },
-  "herzlichen_glueckwunsch_phrase": {
-    "translation": "Gratulerer"
-  },
-  "im_voraus_phrase": {
-    "translation": "på forhånd"
-  },
-  "gleich_adv": {
-    "translation": "straks / med en gang"
-  },
-  "aus_frankreich_phrase": {
-    "translation": "fra Frankrike"
-  },
-  "frankreich_land": {
-    "translation": "Frankrike"
-  },
-  "oft_adv": {
-    "translation": "ofte"
-  },
-  "meistens_adv": {
-    "translation": "for det meste / vanligvis"
-  },
-  "normalerweise_adv": {
-    "translation": "normalt / vanligvis"
-  },
-  "sofort_adv": {
-    "translation": "med en gang / straks"
-  },
-  "am_abend_phrase": {
-    "translation": "om kvelden"
-  },
-  "dauert_laenger_phrase": {
-    "translation": "tar lengre tid"
-  },
-  "eher_adv": {
-    "translation": "heller / snarere"
-  },
-  "bei_mir_phrase": {
-    "translation": "hos meg / for meg"
-  },
-  "darauf_adv": {
-    "translation": "på det / til det"
-  },
-  "dabei_adv": {
-    "translation": "med det / ved det"
-  },
-  "nach_der_schule_phrase": {
-    "translation": "etter skolen"
-  },
-  "wie_fuehlst_du_dich_phrase": {
-    "translation": "Hvordan føler du deg?"
-  },
-  "gerne_adv": {
-    "translation": "gjerne"
-  },
-  "bei_prep": {
-    "translation": "hos / ved",
-    "explanation": {
-      "_description": "Preposisjon som alltid krever dativ. Brukes for å uttrykke nærhet, hos noen, eller under en aktivitet."
-    }
-  },
-  "so_adv": {
-    "translation": "så / slik"
-  },
-  "sich_warm_anziehen_phrase": {
-    "translation": "å kle seg varmt"
-  },
-  "das_klingt_gut_phrase": {
-    "translation": "det høres bra ut"
-  },
-  "viel_spass_phrase": {
-    "translation": "god fornøyelse"
-  },
-  "ins_kino_gehen_phrase": {
-    "translation": "å gå på kino"
-  },
-  "ins_cafe_phrase": {
-    "translation": "i kaféen / på kafé"
-  },
-  "zu_viel_phrase": {
-    "translation": "for mye"
-  },
-  "rein_adv": {
-    "translation": "inn"
-  },
-  "draussen_adv": {
-    "translation": "ute"
-  },
-  "dass_conj": {
-    "translation": "at"
-  },
-  "so_wie_phrase": {
-    "translation": "like ... som"
-  },
-  "nie_adv": {
-    "translation": "aldri",
-    "explanation": {
-      "_description": "Brukes for å uttrykke at noe ikke skjer."
-    }
-  },
-  "nach_hause_phrase": {
-    "translation": "hjem",
-    "explanation": {
-      "_description": "Uttrykk som betyr 'hjem' når man beveger seg dit."
-    }
-  },
-  "zuhause_adv": {
-    "translation": "hjemme",
-    "explanation": {
-      "_description": "Uttrykk som betyr 'hjemme' når man er der."
-    }
-  },
-  "durch_prep": {
-    "translation": "gjennom",
-    "explanation": {
-      "_description": "Preposisjon som alltid krever akkusativ. Brukes for å uttrykke bevegelse gjennom noe."
-    }
-  },
-  "gegen_prep": {
-    "translation": "mot",
-    "explanation": {
-      "_description": "Preposisjon som alltid krever akkusativ. Brukes for motstand, retning mot, eller omtrentlig tid."
-    }
-  },
-  "seit_prep": {
-    "translation": "siden",
-    "explanation": {
-      "_description": "Preposisjon som alltid krever dativ. Brukes for å uttrykke varighet fra et tidspunkt."
-    }
+  "zu_hause_phrase": {
+    "translation": "hjemme"
   },
   "zu_prep": {
     "translation": "til",
@@ -805,46 +2237,84 @@
       "_description": "Preposisjon som alltid krever dativ. Brukes for retning til et sted eller person. Sammentrekninger: zum (zu + dem), zur (zu + der)."
     }
   },
-  "an_prep": {
-    "translation": "ved / på (vertikal)",
+  "zu_sein_general": {
+    "translation": "å være lukket"
+  },
+  "zu_viel_phrase": {
+    "translation": "for mye"
+  },
+  "zuerst_adv": {
+    "translation": "først"
+  },
+  "zugaenglich_general": {
+    "translation": "tilgjengelig"
+  },
+  "zuhause_adv": {
+    "translation": "hjemme",
     "explanation": {
-      "_description": "Wechselpräposition: Akkusativ ved bevegelse (wohin?), dativ ved posisjon (wo?). Brukes for kontakt med vertikale flater."
+      "_description": "Uttrykk som betyr 'hjemme' når man er der."
     }
   },
-  "hinter_prep": {
-    "translation": "bak",
+  "zukuenftig_general": {
+    "translation": "fremtidig"
+  },
+  "zuletzt_general": {
+    "translation": "til slutt"
+  },
+  "zum_beispiel_general": {
+    "translation": "for eksempel"
+  },
+  "zum_doktor_general": {
+    "translation": "til legen"
+  },
+  "zum_geburtstag_viel_glueck_phrase": {
+    "translation": "Gratulerer med dagen (sang)"
+  },
+  "zum_zahnarzt_general": {
+    "translation": "til tannlegen"
+  },
+  "zumindest_general": {
+    "translation": "i det minste"
+  },
+  "zunaechst_general": {
+    "translation": "først"
+  },
+  "zur_bank_general": {
+    "translation": "til banken"
+  },
+  "zurueck_general": {
+    "translation": "tilbake"
+  },
+  "zurzeit_general": {
+    "translation": "for tiden"
+  },
+  "zusaetzlich_general": {
+    "translation": "i tillegg"
+  },
+  "zusammen_adv": {
+    "translation": "sammen",
+    "synonyms": [
+      "i fellesskap",
+      "med hverandre"
+    ],
     "explanation": {
-      "_description": "Wechselpräposition: Akkusativ ved bevegelse (wohin?), dativ ved posisjon (wo?)."
+      "gemeinsam": "felles/sammen",
+      "miteinander": "med hverandre"
     }
   },
-  "ueber_prep": {
-    "translation": "over",
-    "explanation": {
-      "_description": "Wechselpräposition: Akkusativ ved bevegelse (wohin?), dativ ved posisjon (wo?). Kan også bety «om» (tema)."
-    }
+  "zustaendig_general": {
+    "translation": "ansvarlig"
   },
-  "unter_prep": {
-    "translation": "under",
-    "explanation": {
-      "_description": "Wechselpräposition: Akkusativ ved bevegelse (wohin?), dativ ved posisjon (wo?)."
-    }
+  "zuverlaessig_general": {
+    "translation": "pålitelig"
   },
-  "vor_prep": {
-    "translation": "foran / før",
-    "explanation": {
-      "_description": "Wechselpräposition: Akkusativ ved bevegelse (wohin?), dativ ved posisjon (wo?). Brukes også om tid (før)."
-    }
+  "zwar_general": {
+    "translation": "riktignok"
   },
   "zwischen_prep": {
     "translation": "mellom",
     "explanation": {
       "_description": "Wechselpräposition: Akkusativ ved bevegelse (wohin?), dativ ved posisjon (wo?)."
-    }
-  },
-  "lieblings-_expr": {
-    "translation": "favoritt-",
-    "explanation": {
-      "_description": "Prefiks som betyr favoritt. F.eks. Lieblingsfarbe (favorittfarge)."
     }
   }
 }
