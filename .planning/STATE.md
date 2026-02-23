@@ -10,9 +10,9 @@ See: .planning/PROJECT.md (updated 2026-02-23)
 ## Current Position
 
 Phase: 20 of 23 (Bank & Manifest Consolidation)
-Plan: 0 of TBD in current phase
-Status: Ready to plan
-Last activity: 2026-02-23 — v2.0 roadmap created (phases 20-23)
+Plan: 1 of 2 in current phase (20-01 complete)
+Status: In progress
+Last activity: 2026-02-23 — 20-01 merged all 8 German banks + generated core manifest
 
 Progress: [████████████████████░░░░░░░░░░] 65% (19/23 phases complete across all milestones)
 
@@ -37,6 +37,8 @@ Key decisions relevant to v2.0:
 - Dual-bank storage (v1.3) was the resolved pattern — v2.0 eliminates it
 - Core manifest replaces implicit "in core bank = curriculum" pattern
 - External API contracts (Leksihjelp) must not break — v1 response shape frozen
+- Dict bank is the authoritative merge base (superset); core-exclusive fields are additive-only (20-01)
+- adjectivebank has 106 curriculum entries, not 365 — dict bank already had 259 adjectives with curriculum:false (20-01)
 
 ### Pending Todos
 
@@ -50,5 +52,5 @@ Key decisions relevant to v2.0:
 ## Session Continuity
 
 Last session: 2026-02-23
-Stopped at: v2.0 roadmap created, Phase 20 ready to plan
-Resume with: `/gsd:plan-phase 20`
+Stopped at: 20-01 complete — 8 merged banks + manifest generated in vocabulary/banks/de/
+Resume with: `/gsd:execute-phase 20` (continue with 20-02)

@@ -9,17 +9,17 @@ Requirements for the Single-Bank Architecture milestone. Eliminates the dual-ban
 
 ### Bank Consolidation
 
-- [ ] **BANK-01**: All 8 German core + dictionary bank pairs merged into single bank files under one directory
-- [ ] **BANK-02**: Each merged entry contains all fields (grammar data + lexical metadata: curriculum, cefr, frequency, tags)
-- [ ] **BANK-03**: Core-only entries that lack dictionary counterparts get default lexical metadata fields
-- [ ] **BANK-04**: Dictionary-only entries retain their existing data unchanged
+- [x] **BANK-01**: All 8 German core + dictionary bank pairs merged into single bank files under one directory
+- [x] **BANK-02**: Each merged entry contains all fields (grammar data + lexical metadata: curriculum, cefr, frequency, tags)
+- [x] **BANK-03**: Core-only entries that lack dictionary counterparts get default lexical metadata fields
+- [x] **BANK-04**: Dictionary-only entries retain their existing data unchanged
 - [ ] **BANK-05**: Search index rebuilt from merged banks
 - [ ] **BANK-06**: Old separate core/ and dictionary/ bank directories removed after migration
 
 ### Manifest
 
-- [ ] **MNFST-01**: Core manifest file lists entry IDs that are curriculum (replaces implicit "in core bank = curriculum")
-- [ ] **MNFST-02**: Manifest includes word count summaries (total, curriculum, dictionary-only) per bank type
+- [x] **MNFST-01**: Core manifest file lists entry IDs that are curriculum (replaces implicit "in core bank = curriculum")
+- [x] **MNFST-02**: Manifest includes word count summaries (total, curriculum, dictionary-only) per bank type
 
 ### Translation Consolidation
 
@@ -70,14 +70,14 @@ Which phases cover which requirements. Updated during roadmap creation.
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| BANK-01 | Phase 20 | Pending |
-| BANK-02 | Phase 20 | Pending |
-| BANK-03 | Phase 20 | Pending |
-| BANK-04 | Phase 20 | Pending |
+| BANK-01 | Phase 20 | Complete |
+| BANK-02 | Phase 20 | Complete |
+| BANK-03 | Phase 20 | Complete |
+| BANK-04 | Phase 20 | Complete |
 | BANK-05 | Phase 20 | Pending |
 | BANK-06 | Phase 23 | Pending |
-| MNFST-01 | Phase 20 | Pending |
-| MNFST-02 | Phase 20 | Pending |
+| MNFST-01 | Phase 20 | Complete |
+| MNFST-02 | Phase 20 | Complete |
 | TRANS-01 | Phase 21 | Pending |
 | TRANS-02 | Phase 21 | Pending |
 | TRANS-03 | Phase 21 | Pending |
