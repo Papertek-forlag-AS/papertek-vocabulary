@@ -5,16 +5,14 @@
 See: .planning/PROJECT.md (updated 2026-02-23)
 
 **Core value:** Complete, correct vocabulary data so Leksihjelp's inflection search can find any German word form and return the base entry.
-**Current focus:** Planning next milestone
+**Current focus:** v2.0 Single-Bank Architecture
 
 ## Current Position
 
-Phase: None — between milestones
-Plan: N/A
-Status: v1.3 shipped
-Last activity: 2026-02-23 — v1.3 Tech Debt Cleanup milestone completed
-
-Progress: All milestones through v1.3 shipped
+Phase: Not started (defining requirements)
+Plan: —
+Status: Defining requirements
+Last activity: 2026-02-23 — Milestone v2.0 started
 
 ## Performance Metrics
 
@@ -44,5 +42,5 @@ Decisions logged in PROJECT.md Key Decisions table (20 decisions).
 ## Session Continuity
 
 Last session: 2026-02-23
-Stopped at: v1.3 milestone completed and archived
-Resume with: `/gsd:new-milestone` to start next milestone
+Stopped at: v2.0 milestone started, defining requirements
+Resume with: Continue requirements definition and roadmap creation

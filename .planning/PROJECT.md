@@ -8,6 +8,17 @@ A vocabulary data repository and REST API serving German, Spanish, and French wo
 
 Complete, correct vocabulary data so Leksihjelp's inflection search can find any German word form (conjugated verb, declined noun, or declined adjective) and return the base entry.
 
+## Current Milestone: v2.0 Single-Bank Architecture
+
+**Goal:** Eliminate the dual-bank pattern by merging core and dictionary banks into a single bank per word class, with a core manifest to filter curriculum entries.
+
+**Target features:**
+- Review current API handlers and data flow
+- Merge core + dictionary bank files (nouns, verbs, adjectives) into single banks with all fields
+- Create core manifest listing curriculum entry IDs
+- Update API handlers (v1 filters by manifest, v2 reads full bank)
+- Validation passes on new structure
+
 ## Current State
 
 v1.3 shipped. All tech debt from v1.0-v1.2 resolved. Data, API, tooling, and documentation are consistent.
@@ -56,7 +67,11 @@ v1.3 shipped. All tech debt from v1.0-v1.2 resolved. Data, API, tooling, and doc
 
 ### Active
 
-(No active requirements — next milestone not yet planned)
+- [ ] Merge core + dictionary banks into single bank per word class
+- [ ] Create core manifest for curriculum entry filtering
+- [ ] Update v1 API handler to read single bank + manifest filter
+- [ ] Update v2 API handler to read single bank (all entries)
+- [ ] Validation passes on new single-bank structure
 
 ### Out of Scope
 
@@ -107,4 +122,4 @@ v1.3 shipped. All tech debt from v1.0-v1.2 resolved. Data, API, tooling, and doc
 | validate:all fail-fast with && chaining | Stop on first error; core banks before dict variants before integration | ✓ Good — v1.3 |
 
 ---
-*Last updated: 2026-02-23 after v1.3 milestone completed*
+*Last updated: 2026-02-23 after v2.0 milestone started*
