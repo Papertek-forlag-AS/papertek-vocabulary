@@ -5,14 +5,14 @@
 See: .planning/PROJECT.md (updated 2026-02-23)
 
 **Core value:** Complete, correct vocabulary data so Leksihjelp's inflection search can find any German word form and return the base entry.
-**Current focus:** Phase 20 — Bank & Manifest Consolidation
+**Current focus:** Phase 21 — Translation Consolidation
 
 ## Current Position
 
-Phase: 20 of 23 (Bank & Manifest Consolidation)
-Plan: 2 of 2 in current phase (20-02 complete)
+Phase: 21 of 23 (Translation Consolidation)
+Plan: 1 of 2 in current phase (21-01 complete)
 Status: In progress
-Last activity: 2026-02-23 — 20-02 rebuilt search index from merged banks (3454 entries, 144 verbs with pp)
+Last activity: 2026-02-23 — 21-01 merged de-nb-dict/ and de-en-dict/ translations into core dirs (1641/679/673 nb, 1641/679/674 en)
 
 Progress: [████████████████████░░░░░░░░░░] 65% (19/23 phases complete across all milestones)
 
@@ -41,6 +41,8 @@ Key decisions relevant to v2.0:
 - adjectivebank has 106 curriculum entries, not 365 — dict bank already had 259 adjectives with curriculum:false (20-01)
 - pp field read from merged verbbank's conjugations.perfektum.participle directly — no separate core verbbank load needed (20-02)
 - Search index canonical location is vocabulary/banks/de/search-index.json (20-02)
+- [Phase 21-translation-consolidation]: Phase 21-01: Translation merge uses simple union (zero overlaps confirmed across all 6 bank/pair combos); core version wins defensively on any overlap
+- [Phase 21-translation-consolidation]: Phase 21-01: build-search-index.js simplified to single-map translation lookup — no more curr vs dict distinction
 
 ### Pending Todos
 
@@ -54,5 +56,5 @@ Key decisions relevant to v2.0:
 ## Session Continuity
 
 Last session: 2026-02-23
-Stopped at: 20-02 complete — search index rebuilt at vocabulary/banks/de/search-index.json
-Resume with: `/gsd:execute-phase 20` (continue with 20-03 if it exists, or next phase)
+Stopped at: 21-01 complete — merged translation dirs consolidated; codebase references updated
+Resume with: `/gsd:execute-phase 21` (continue with 21-02)
