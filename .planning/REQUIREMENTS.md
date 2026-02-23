@@ -25,7 +25,7 @@ Requirements for the Single-Bank Architecture milestone. Eliminates the dual-ban
 
 - [x] **TRANS-01**: de-nb/ and de-nb-dict/ translation files merged into single de-nb/ per bank
 - [x] **TRANS-02**: de-en/ and de-en-dict/ translation files merged into single de-en/ per bank
-- [ ] **TRANS-03**: Old -dict/ translation directories removed
+- [x] **TRANS-03**: Old -dict/ translation directories removed
 
 ### API
 
@@ -80,7 +80,7 @@ Which phases cover which requirements. Updated during roadmap creation.
 | MNFST-02 | Phase 20 | Complete |
 | TRANS-01 | Phase 21 | Complete |
 | TRANS-02 | Phase 21 | Complete |
-| TRANS-03 | Phase 21 | Pending |
+| TRANS-03 | Phase 21 | Complete |
 | API-01 | Phase 22 | Pending |
 | API-02 | Phase 22 | Pending |
 | API-03 | Phase 22 | Pending |
