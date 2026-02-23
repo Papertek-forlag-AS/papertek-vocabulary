@@ -127,5 +127,5 @@ Plans:
 | 15. Sync & Integration | v1.2 | 3/3 | Complete | 2026-02-22 |
 | 16. Data Fixes | 3/3 | Complete    | 2026-02-22 | - |
 | 17. API Fixes | 1/1 | Complete    | 2026-02-22 | - |
-| 18. Tooling Fixes | v1.3 | 1/1 | Complete | 2026-02-23 |
+| 18. Tooling Fixes | v1.3 | Complete    | 2026-02-23 | 2026-02-23 |
 | 19. Curriculum Manifest Fix | v1.3 | 0/TBD | Not started | - |
