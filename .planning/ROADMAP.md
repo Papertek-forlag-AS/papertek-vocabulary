@@ -53,7 +53,7 @@
 - [x] **Phase 16: Data Fixes** - Correct missing/wrong fields across noun and verb data banks (completed 2026-02-22)
 - [x] **Phase 17: API Fixes** - Fix v2 handler grammar ID, missing feature flags, and hidden fields (completed 2026-02-22)
 - [x] **Phase 18: Tooling Fixes** - Register all scripts in package.json and unify validate:all (completed 2026-02-23)
-- [ ] **Phase 19: Curriculum Manifest Fix** - Update stale grammar_present IDs in curriculum manifest and fix README
+- [x] **Phase 19: Curriculum Manifest Fix** - Update stale grammar_present IDs in curriculum manifest and fix README (completed 2026-02-23)
 
 ## Phase Details
 
@@ -130,4 +130,4 @@ Plans:
 | 16. Data Fixes | 3/3 | Complete    | 2026-02-22 | - |
 | 17. API Fixes | 1/1 | Complete    | 2026-02-22 | - |
 | 18. Tooling Fixes | v1.3 | Complete    | 2026-02-23 | 2026-02-23 |
-| 19. Curriculum Manifest Fix | v1.3 | 0/TBD | Not started | - |
+| 19. Curriculum Manifest Fix | 1/1 | Complete   | 2026-02-23 | - |

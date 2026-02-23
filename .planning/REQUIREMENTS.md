@@ -29,8 +29,8 @@ Requirements for tech debt cleanup. Each maps to roadmap phases.
 
 ### Integration (Gap Closure)
 
-- [ ] **INTEG-01**: Curriculum manifest `vocab-manifest-tysk1-vg1.json` uses `grammar_presens` (not `grammar_present`) in German lesson feature arrays
-- [ ] **INTEG-02**: `api/vocab/README.md` grammar features example uses `grammar_presens` for German
+- [x] **INTEG-01**: Curriculum manifest `vocab-manifest-tysk1-vg1.json` uses `grammar_presens` (not `grammar_present`) in German lesson feature arrays
+- [x] **INTEG-02**: `api/vocab/README.md` grammar features example uses `grammar_presens` for German
 
 ## Future Requirements
 
@@ -74,8 +74,8 @@ Which phases cover which requirements. Updated during roadmap creation.
 | API-03 | Phase 17 | Complete |
 | TOOL-01 | Phase 18 | Complete |
 | TOOL-02 | Phase 18 | Complete |
-| INTEG-01 | Phase 19 | Pending |
-| INTEG-02 | Phase 19 | Pending |
+| INTEG-01 | Phase 19 | Complete |
+| INTEG-02 | Phase 19 | Complete |
 
 **Coverage:**
 - v1.3 requirements: 13 total

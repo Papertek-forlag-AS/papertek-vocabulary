@@ -5,16 +5,16 @@
 See: .planning/PROJECT.md (updated 2026-02-22)
 
 **Core value:** Complete, correct vocabulary data so Leksihjelp's inflection search can find any German word form and return the base entry.
-**Current focus:** v1.3 Tech Debt Cleanup — Phase 18: Tooling Fixes
+**Current focus:** v1.3 Tech Debt Cleanup — Phase 19: Curriculum Manifest Fix
 
 ## Current Position
 
-Phase: 18 — Tooling Fixes
+Phase: 19 — Curriculum Manifest Fix
 Plan: 01 of 1 complete
 Status: Phase complete
-Last activity: 2026-02-23 — Phase 18 Plan 01 complete (npm scripts cleanup — TOOL-01, TOOL-02)
+Last activity: 2026-02-23 — Phase 19 Plan 01 complete (curriculum manifest grammar_presens fix — INTEG-01, INTEG-02)
 
-Progress: [████████████████░░░░] 3/3 phases complete
+Progress: [████████████████████] 4/4 phases complete
 
 ## Performance Metrics
 
@@ -26,6 +26,7 @@ Progress: [████████████████░░░░] 3/3 pha
 | v1.1 | 8 | 8 | 2026-02-20 → 2026-02-22 (3 days) |
 | v1.2 | 5 | 8 | 2026-02-14 → 2026-02-22 (8 days) |
 | v1.3 | 3 | TBD | 2026-02-22 → TBD |
+| Phase 19 P01 | 1 | 2 tasks | 2 files |
 
 ## Accumulated Context
 
@@ -51,6 +52,9 @@ Decisions logged in PROJECT.md Key Decisions table (15 decisions, all ✓ Good o
 - Use && chaining in validate:all for fail-fast behavior — stop on first error, no point running dict or integration if core banks fail
 - Remove three phantom scripts (validate.js, check-ids.js, check-audio.js) — clean scripts section preferred over stubs
 
+**Phase 19 decisions:**
+- All 32 grammar_present occurrences replaced (plan stated 31, actual count was 32 — all replaced for full consistency)
+
 ### Blockers/Concerns
 
 - CDN cache: Vercel s-maxage=86400 — after deploy, up to 24h before new data reaches Leksihjelp end users unless CDN is purged manually.
@@ -62,5 +66,5 @@ Decisions logged in PROJECT.md Key Decisions table (15 decisions, all ✓ Good o
 ## Session Continuity
 
 Last session: 2026-02-23
-Stopped at: Completed 18-01-PLAN.md (npm scripts cleanup — TOOL-01, TOOL-02)
-Resume with: Phase 18 complete — v1.3 Tech Debt Cleanup milestone done
+Stopped at: Completed 19-01-PLAN.md (curriculum manifest grammar_presens fix — INTEG-01, INTEG-02)
+Resume with: Phase 19 complete — all grammar_present IDs replaced with grammar_presens in manifest and README
