@@ -167,7 +167,7 @@ curl https://www.papertek.no/api/vocab/v1/grammarfeatures?language=german
   "language": "German",
   "features": [
     {
-      "id": "grammar_present",
+      "id": "grammar_presens",
       "name": "Presens",
       "nameEn": "Present Tense",
       "description": "Nåtid - bøyning av verb i presens",
