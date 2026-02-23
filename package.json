@@ -13,6 +13,7 @@
     "validate:verbs:dict": "VERB_BANK=vocabulary/dictionary/de/verbbank.json node scripts/validate-verbs.js",
     "validate:adjectives": "node scripts/validate-adjectives.js",
     "validate:all": "npm run validate:nouns && npm run validate:verbs && npm run validate:adjectives && npm run validate:nouns:dict && npm run validate:verbs:dict && npm run verify:integration",
+    "merge:banks": "node scripts/merge-banks.js",
     "verify:integration": "node scripts/verify-integration.js"
   },
   "engines": {
