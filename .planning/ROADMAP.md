@@ -104,7 +104,9 @@ Plans:
 **Success Criteria** (what must be TRUE):
   1. `vocab-manifest-tysk1-vg1.json` contains zero instances of `grammar_present` in German lesson feature arrays (all replaced with `grammar_presens`)
   2. `api/vocab/README.md` German grammar features example uses `grammar_presens` (not `grammar_present`)
-**Plans**: TBD
+**Plans**: 1 plan
+Plans:
+- [ ] 19-01-PLAN.md — Replace stale grammar_present IDs with grammar_presens in curriculum manifest and API README
 
 ## Progress
 
