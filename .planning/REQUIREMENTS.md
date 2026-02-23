@@ -13,7 +13,7 @@ Requirements for the Single-Bank Architecture milestone. Eliminates the dual-ban
 - [x] **BANK-02**: Each merged entry contains all fields (grammar data + lexical metadata: curriculum, cefr, frequency, tags)
 - [x] **BANK-03**: Core-only entries that lack dictionary counterparts get default lexical metadata fields
 - [x] **BANK-04**: Dictionary-only entries retain their existing data unchanged
-- [ ] **BANK-05**: Search index rebuilt from merged banks
+- [x] **BANK-05**: Search index rebuilt from merged banks
 - [ ] **BANK-06**: Old separate core/ and dictionary/ bank directories removed after migration
 
 ### Manifest
@@ -74,7 +74,7 @@ Which phases cover which requirements. Updated during roadmap creation.
 | BANK-02 | Phase 20 | Complete |
 | BANK-03 | Phase 20 | Complete |
 | BANK-04 | Phase 20 | Complete |
-| BANK-05 | Phase 20 | Pending |
+| BANK-05 | Phase 20 | Complete |
 | BANK-06 | Phase 23 | Pending |
 | MNFST-01 | Phase 20 | Complete |
 | MNFST-02 | Phase 20 | Complete |

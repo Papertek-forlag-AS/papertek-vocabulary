@@ -65,7 +65,7 @@
 
 **Milestone Goal:** Eliminate the dual-bank pattern by merging core and dictionary banks into single banks per word class, with a core manifest for curriculum filtering. External API contracts remain unchanged.
 
-- [ ] **Phase 20: Bank & Manifest Consolidation** - Merge all 8 German bank pairs into single banks and create the core manifest
+- [x] **Phase 20: Bank & Manifest Consolidation** - Merge all 8 German bank pairs into single banks and create the core manifest (completed 2026-02-23)
 - [ ] **Phase 21: Translation Consolidation** - Merge de-nb + de-en translation directories and remove old -dict/ directories
 - [ ] **Phase 22: API Updates** - Update v1 and v2 handlers to read from the new single-bank structure
 - [ ] **Phase 23: Validation & Cleanup** - Verify data and API correctness, remove old bank directories
@@ -145,7 +145,7 @@ Plans:
 | 17. API Fixes | v1.3 | 1/1 | Complete | 2026-02-22 |
 | 18. Tooling Fixes | v1.3 | 1/1 | Complete | 2026-02-23 |
 | 19. Curriculum Manifest Fix | v1.3 | 1/1 | Complete | 2026-02-23 |
-| 20. Bank & Manifest Consolidation | 1/2 | In Progress|  | - |
+| 20. Bank & Manifest Consolidation | 2/2 | Complete   | 2026-02-23 | - |
 | 21. Translation Consolidation | v2.0 | 0/TBD | Not started | - |
 | 22. API Updates | v2.0 | 0/TBD | Not started | - |
 | 23. Validation & Cleanup | v2.0 | 0/TBD | Not started | - |
