@@ -82,7 +82,10 @@
   3. Core-only entries that had no dictionary counterpart have default values for lexical metadata fields
   4. The core manifest file lists the IDs of all curriculum entries with per-bank count summaries
   5. The search index is rebuilt from the merged banks and covers all entries
-**Plans**: TBD
+**Plans**: 2 plans
+Plans:
+- [ ] 20-01-PLAN.md — Merge 8 bank pairs into single banks + create core manifest
+- [ ] 20-02-PLAN.md — Rebuild search index from merged banks
 
 ### Phase 21: Translation Consolidation
 **Goal**: Translation data for each word class lives in a single directory per language pair, with no duplicate -dict/ directories remaining
@@ -142,7 +145,7 @@
 | 17. API Fixes | v1.3 | 1/1 | Complete | 2026-02-22 |
 | 18. Tooling Fixes | v1.3 | 1/1 | Complete | 2026-02-23 |
 | 19. Curriculum Manifest Fix | v1.3 | 1/1 | Complete | 2026-02-23 |
-| 20. Bank & Manifest Consolidation | v2.0 | 0/TBD | Not started | - |
+| 20. Bank & Manifest Consolidation | v2.0 | 0/2 | Planned | - |
 | 21. Translation Consolidation | v2.0 | 0/TBD | Not started | - |
 | 22. API Updates | v2.0 | 0/TBD | Not started | - |
 | 23. Validation & Cleanup | v2.0 | 0/TBD | Not started | - |
