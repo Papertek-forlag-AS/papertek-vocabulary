@@ -24,8 +24,8 @@ Requirements for tech debt cleanup. Each maps to roadmap phases.
 
 ### Tooling
 
-- [ ] **TOOL-01**: `build-search-index.js` registered as npm script (`npm run build:search-index`)
-- [ ] **TOOL-02**: `validate:all` npm script includes all validation scripts (nouns, verbs, dict variants, integration)
+- [x] **TOOL-01**: `build-search-index.js` registered as npm script (`npm run build:search-index`)
+- [x] **TOOL-02**: `validate:all` npm script includes all validation scripts (nouns, verbs, dict variants, integration)
 
 ### Integration (Gap Closure)
 
@@ -72,8 +72,8 @@ Which phases cover which requirements. Updated during roadmap creation.
 | API-01 | Phase 17 | Complete |
 | API-02 | Phase 17 | Complete |
 | API-03 | Phase 17 | Complete |
-| TOOL-01 | Phase 18 | Pending |
-| TOOL-02 | Phase 18 | Pending |
+| TOOL-01 | Phase 18 | Complete |
+| TOOL-02 | Phase 18 | Complete |
 | INTEG-01 | Phase 19 | Pending |
 | INTEG-02 | Phase 19 | Pending |
 

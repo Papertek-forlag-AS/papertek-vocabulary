@@ -52,7 +52,7 @@
 
 - [x] **Phase 16: Data Fixes** - Correct missing/wrong fields across noun and verb data banks (completed 2026-02-22)
 - [x] **Phase 17: API Fixes** - Fix v2 handler grammar ID, missing feature flags, and hidden fields (completed 2026-02-22)
-- [ ] **Phase 18: Tooling Fixes** - Register all scripts in package.json and unify validate:all
+- [x] **Phase 18: Tooling Fixes** - Register all scripts in package.json and unify validate:all (completed 2026-02-23)
 - [ ] **Phase 19: Curriculum Manifest Fix** - Update stale grammar_present IDs in curriculum manifest and fix README
 
 ## Phase Details
@@ -94,7 +94,7 @@ Plans:
   2. Running `npm run validate:all` executes nouns, verbs, dict variants, and integration checks — all passing — in a single command
 **Plans**: 1 plan
 Plans:
-- [ ] 18-01-PLAN.md — Register build:search-index, clean up phantom scripts, unify validate:all
+- [x] 18-01-PLAN.md — Register build:search-index, clean up phantom scripts, unify validate:all
 
 ### Phase 19: Curriculum Manifest Fix
 **Goal**: All grammar feature IDs in curriculum manifests match grammar-features.json, and API documentation reflects current naming
@@ -127,5 +127,5 @@ Plans:
 | 15. Sync & Integration | v1.2 | 3/3 | Complete | 2026-02-22 |
 | 16. Data Fixes | 3/3 | Complete    | 2026-02-22 | - |
 | 17. API Fixes | 1/1 | Complete    | 2026-02-22 | - |
-| 18. Tooling Fixes | v1.3 | 0/1 | Not started | - |
+| 18. Tooling Fixes | v1.3 | 1/1 | Complete | 2026-02-23 |
 | 19. Curriculum Manifest Fix | v1.3 | 0/TBD | Not started | - |

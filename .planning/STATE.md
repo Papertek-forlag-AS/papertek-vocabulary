@@ -5,16 +5,16 @@
 See: .planning/PROJECT.md (updated 2026-02-22)
 
 **Core value:** Complete, correct vocabulary data so Leksihjelp's inflection search can find any German word form and return the base entry.
-**Current focus:** v1.3 Tech Debt Cleanup — Phase 17: API Fixes
+**Current focus:** v1.3 Tech Debt Cleanup — Phase 18: Tooling Fixes
 
 ## Current Position
 
-Phase: 17 — API Fixes
+Phase: 18 — Tooling Fixes
 Plan: 01 of 1 complete
 Status: Phase complete
-Last activity: 2026-02-22 — Phase 17 Plan 01 complete (v2 lookup API fixes — API-01, API-02, API-03)
+Last activity: 2026-02-23 — Phase 18 Plan 01 complete (npm scripts cleanup — TOOL-01, TOOL-02)
 
-Progress: [████████████░░░░░░░░] 2/3 phases complete
+Progress: [████████████████░░░░] 3/3 phases complete
 
 ## Performance Metrics
 
@@ -46,6 +46,11 @@ Decisions logged in PROJECT.md Key Decisions table (15 decisions, all ✓ Good o
 - Spanish and French retain `grammar_present` — their languages use generic present tense terminology
 - Adjective genitive check covers stark/schwach/gemischt — defensive check ensures any adjective with genitiv in any declension type gets the feature flag
 
+**Phase 18 decisions:**
+- validate:all order: core banks (nouns, verbs, adjectives) first, dict variants (nouns:dict, verbs:dict) second, integration last — integration depends on all banks being valid
+- Use && chaining in validate:all for fail-fast behavior — stop on first error, no point running dict or integration if core banks fail
+- Remove three phantom scripts (validate.js, check-ids.js, check-audio.js) — clean scripts section preferred over stubs
+
 ### Blockers/Concerns
 
 - CDN cache: Vercel s-maxage=86400 — after deploy, up to 24h before new data reaches Leksihjelp end users unless CDN is purged manually.
@@ -56,6 +61,6 @@ Decisions logged in PROJECT.md Key Decisions table (15 decisions, all ✓ Good o
 
 ## Session Continuity
 
-Last session: 2026-02-22
-Stopped at: Completed 17-01-PLAN.md (v2 lookup API fixes — API-01, API-02, API-03)
-Resume with: Phase 17 complete — all API requirements met
+Last session: 2026-02-23
+Stopped at: Completed 18-01-PLAN.md (npm scripts cleanup — TOOL-01, TOOL-02)
+Resume with: Phase 18 complete — v1.3 Tech Debt Cleanup milestone done
