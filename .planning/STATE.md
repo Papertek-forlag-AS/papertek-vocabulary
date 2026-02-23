@@ -5,14 +5,16 @@
 See: .planning/PROJECT.md (updated 2026-02-23)
 
 **Core value:** Complete, correct vocabulary data so Leksihjelp's inflection search can find any German word form and return the base entry.
-**Current focus:** v2.0 Single-Bank Architecture
+**Current focus:** Phase 20 — Bank & Manifest Consolidation
 
 ## Current Position
 
-Phase: Not started (defining requirements)
-Plan: —
-Status: Defining requirements
-Last activity: 2026-02-23 — Milestone v2.0 started
+Phase: 20 of 23 (Bank & Manifest Consolidation)
+Plan: 0 of TBD in current phase
+Status: Ready to plan
+Last activity: 2026-02-23 — v2.0 roadmap created (phases 20-23)
+
+Progress: [████████████████████░░░░░░░░░░] 65% (19/23 phases complete across all milestones)
 
 ## Performance Metrics
 
@@ -24,23 +26,29 @@ Last activity: 2026-02-23 — Milestone v2.0 started
 | v1.1 | 8 | 8 | 2026-02-20 → 2026-02-22 (3 days) |
 | v1.2 | 5 | 8 | 2026-02-14 → 2026-02-22 (8 days) |
 | v1.3 | 4 | 6 | 2026-02-22 → 2026-02-23 (2 days) |
+| v2.0 | 4 (planned) | TBD | Started 2026-02-23 |
 
 ## Accumulated Context
 
 ### Decisions
 
 Decisions logged in PROJECT.md Key Decisions table (20 decisions).
-
-### Blockers/Concerns
-
-- CDN cache: Vercel s-maxage=86400 — after deploy, up to 24h before new data reaches Leksihjelp end users unless CDN is purged manually.
+Key decisions relevant to v2.0:
+- Dual-bank storage (v1.3) was the resolved pattern — v2.0 eliminates it
+- Core manifest replaces implicit "in core bank = curriculum" pattern
+- External API contracts (Leksihjelp) must not break — v1 response shape frozen
 
 ### Pending Todos
 
 - (none)
 
+### Blockers/Concerns
+
+- CDN cache: Vercel s-maxage=86400 — after deploy, up to 24h before new data reaches Leksihjelp end users.
+- Pre-migration snapshot needed: capture v1 and v2 API responses before migration starts (enables VALID-02 and VALID-03 verification in Phase 23).
+
 ## Session Continuity
 
 Last session: 2026-02-23
-Stopped at: v2.0 milestone started, defining requirements
-Resume with: Continue requirements definition and roadmap creation
+Stopped at: v2.0 roadmap created, Phase 20 ready to plan
+Resume with: `/gsd:plan-phase 20`

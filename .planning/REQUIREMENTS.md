@@ -70,31 +70,31 @@ Which phases cover which requirements. Updated during roadmap creation.
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| BANK-01 | — | Pending |
-| BANK-02 | — | Pending |
-| BANK-03 | — | Pending |
-| BANK-04 | — | Pending |
-| BANK-05 | — | Pending |
-| BANK-06 | — | Pending |
-| MNFST-01 | — | Pending |
-| MNFST-02 | — | Pending |
-| TRANS-01 | — | Pending |
-| TRANS-02 | — | Pending |
-| TRANS-03 | — | Pending |
-| API-01 | — | Pending |
-| API-02 | — | Pending |
-| API-03 | — | Pending |
-| API-04 | — | Pending |
-| API-05 | — | Pending |
-| VALID-01 | — | Pending |
-| VALID-02 | — | Pending |
-| VALID-03 | — | Pending |
+| BANK-01 | Phase 20 | Pending |
+| BANK-02 | Phase 20 | Pending |
+| BANK-03 | Phase 20 | Pending |
+| BANK-04 | Phase 20 | Pending |
+| BANK-05 | Phase 20 | Pending |
+| BANK-06 | Phase 23 | Pending |
+| MNFST-01 | Phase 20 | Pending |
+| MNFST-02 | Phase 20 | Pending |
+| TRANS-01 | Phase 21 | Pending |
+| TRANS-02 | Phase 21 | Pending |
+| TRANS-03 | Phase 21 | Pending |
+| API-01 | Phase 22 | Pending |
+| API-02 | Phase 22 | Pending |
+| API-03 | Phase 22 | Pending |
+| API-04 | Phase 22 | Pending |
+| API-05 | Phase 22 | Pending |
+| VALID-01 | Phase 23 | Pending |
+| VALID-02 | Phase 23 | Pending |
+| VALID-03 | Phase 23 | Pending |
 
 **Coverage:**
 - v2.0 requirements: 19 total
-- Mapped to phases: 0
-- Unmapped: 19 ⚠️
+- Mapped to phases: 19
+- Unmapped: 0 ✓
 
 ---
 *Requirements defined: 2026-02-23*
-*Last updated: 2026-02-23 after initial definition*
+*Last updated: 2026-02-23 after roadmap creation (phases 20-23)*
