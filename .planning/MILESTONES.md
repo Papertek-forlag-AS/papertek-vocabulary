@@ -94,3 +94,33 @@
 
 ---
 
+
+## v1.3 — Tech Debt Cleanup (Shipped: 2026-02-23)
+
+**Phases:** 4 (16-19) | **Plans:** 6 | **Commits:** 17
+**Git range:** feat(16-01) → docs(19-01)
+**Lines changed:** +3,279 / -395 across 30 files
+**Timeline:** 2 days (2026-02-22 → 2026-02-23)
+
+**Key accomplishments:**
+- Fixed missing genus, plural, and type fields across German noun and verb data banks (DATA-01 through DATA-06)
+- Classified all 148 verbs by type (regular/irregular/modal/separable/reflexive) and added 12 missing presens conjugations
+- Corrected manifest counts to match actual bank entry counts in core + dict
+- Fixed v2 API grammar ID (grammar_presens), added grammar_adjective_genitive flag, surfaced declensionAlternatives
+- Registered all scripts in package.json and unified validate:all (6 validators, fail-fast chaining)
+- Updated curriculum manifest (32 occurrences) and API README to consistent grammar_presens IDs
+
+**Requirements:** 13/13 satisfied (DATA-01..06, API-01..03, TOOL-01..02, INTEG-01..02)
+
+**Known tech debt (4 items, all non-critical):**
+- v2 handler hardcodes grammar feature ID strings (can drift from grammar-features.json)
+- vocabulary/PROMOTE-WORD-TO-CURRICULUM.md has stale grammar_present in developer guide example
+- No manifest count validator in validate:all chain
+- 531 dict-only verbbank entries remain untyped (pre-existing, out of scope)
+
+**Archive:** `.planning/milestones/v1.3-ROADMAP.md`, `.planning/milestones/v1.3-REQUIREMENTS.md`, `.planning/milestones/v1.3-MILESTONE-AUDIT.md`
+
+**Last phase number:** 19
+
+---
+

@@ -2,7 +2,7 @@
 
 ## What This Is
 
-A vocabulary data repository and REST API serving German, Spanish, and French word data with Norwegian and English translations. Consumed primarily by Leksihjelp, a Chrome extension for Norwegian students learning foreign languages. The API exposes core vocabulary banks (nouns, verbs, adjectives, phrases), grammar features, translation packs, and audio files. German data includes full verb conjugations (presens, preteritum, Perfektum), adjective declension tables, and noun 4-case declension — enabling inflection search for any German word form.
+A vocabulary data repository and REST API serving German, Spanish, and French word data with Norwegian and English translations. Consumed primarily by Leksihjelp, a Chrome extension for Norwegian students learning foreign languages. The API exposes core vocabulary banks (nouns, verbs, adjectives, phrases), grammar features, translation packs, and audio files. German data includes full verb conjugations (presens, preteritum, Perfektum), adjective declension tables, and noun 4-case declension — enabling inflection search for any German word form. All data fields, grammar feature IDs, and tooling are consistent and validated.
 
 ## Core Value
 
@@ -10,16 +10,16 @@ Complete, correct vocabulary data so Leksihjelp's inflection search can find any
 
 ## Current State
 
-v1.2 shipped. German noun, verb, and adjective data complete for inflection search across all major grammatical forms.
+v1.3 shipped. All tech debt from v1.0-v1.2 resolved. Data, API, tooling, and documentation are consistent.
 
-- **Data:** 331 German nouns (4-case declension + plural/genus), 148 German verbs (presens + preteritum + Perfektum), 365 German adjectives (full declension + comparison data)
-- **Verb Perfektum:** 144 non-verbphrase verbs with past participle, auxiliary selection (haben/sein/both), 6-pronoun conjugation, dual-auxiliary annotations, modal Ersatzinfinitiv notes
+- **Data:** 331 German nouns (4-case declension + plural/genus), 148 German verbs (presens + preteritum + Perfektum, all typed), 365 German adjectives (full declension + comparison data)
+- **Verb types:** All 148 verbs classified (53 regular, 40 irregular, 26 reflexive, 18 separable, 7 modal, 4 verbphrase)
 - **Noun declension:** 331 nouns with Nominativ/Akkusativ/Dativ/Genitiv x singular/plural x definite/indefinite articles; n-Deklination, plural-only, and uncountable nouns handled
 - **Adjective data:** 158,712 lines JSON across 4 adjective bank files; ~39,800 declension cells covering 360 declinable adjectives
-- **Translations:** Norwegian and English translations for all 365 adjectives
 - **Search index:** 3,454+ entries with pp (past participle) field on verb entries
-- **Validation:** 0 AJV errors across all 4 banks (core + dict, nouns + verbs); permanent verify:integration script (28 checks)
-- **API:** v1 (`GET /api/vocab/v1/core/german`) + v2 lookup with declension, Perfektum, grammar_noun_declension, grammar_genitiv, grammar_adjective_declension features
+- **Validation:** `npm run validate:all` chains 6 validators (nouns, verbs, adjectives, dict nouns, dict verbs, integration) — all 0-error; `npm run build:search-index` registered
+- **API:** v1 (`GET /api/vocab/v1/core/german`) + v2 lookup with grammar_presens, grammar_preteritum, grammar_perfektum, grammar_noun_declension, grammar_genitiv, grammar_adjective_declension, grammar_adjective_genitive, declensionAlternatives
+- **Grammar IDs:** Consistent `grammar_presens` across handler, grammar-features.json, curriculum manifest, and API README
 - **Deployment:** Vercel, auto-deploys on push to `main`
 
 ## Requirements
@@ -49,17 +49,14 @@ v1.2 shipped. German noun, verb, and adjective data complete for inflection sear
 - ✓ Search index rebuilt with pp field for past-participle inflection lookup — v1.2
 - ✓ v2 handler emits grammar_noun_declension and grammar_genitiv feature flags — v1.2
 - ✓ Schema validation 0 errors across all 4 banks (547 pre-existing errors fixed) — v1.2
+- ✓ All noun/verb data fields complete (genus, plural, type, presens conjugations, manifest counts) — v1.3
+- ✓ v2 API uses consistent grammar_presens ID, emits grammar_adjective_genitive, surfaces declensionAlternatives — v1.3
+- ✓ All scripts registered in package.json, validate:all covers full validation suite — v1.3
+- ✓ Curriculum manifest and API README use consistent grammar_presens IDs — v1.3
 
 ### Active
 
-**Current Milestone: v1.3 Tech Debt Cleanup**
-
-**Goal:** Fix accumulated data gaps, API inconsistencies, and tooling gaps across v1.0–v1.2.
-
-**Target features:**
-- Fix missing data fields (genus, type, presens conjugations, plural, manifest counts)
-- Fix v2 API inconsistencies (grammar ID mismatch, missing feature flags, declension_alternatives)
-- Register all scripts in package.json and unify validation tooling
+(No active requirements — next milestone not yet planned)
 
 ### Out of Scope
 
@@ -76,7 +73,7 @@ v1.2 shipped. German noun, verb, and adjective data complete for inflection sear
 - **Data format:** German conjugations use object keys (`{ "ich": "war", "du": "warst", ... }`). Adjective declension uses nested structure: `declension.positiv.stark.nominativ.maskulin`. Noun declension uses `cases.nominativ.forms.singular.definite`. Spanish/French use arrays.
 - **Dual-bank pattern:** Data stored in both core bank (v1 API / Leksihjelp) and dictionary bank (v2 API) — identical content, different metadata wrappers.
 - **Deployment:** Vercel, auto-deploys on push to `main`. CDN s-maxage=86400 means up to 24h cache lag.
-- **Validation tooling:** validate:nouns, validate:verbs (+ :dict variants), verify:integration — all 0-error baselines established.
+- **Validation tooling:** `npm run validate:all` chains 6 validators with fail-fast (&&). `npm run build:search-index` registered. `scripts/fix-manifest-counts.js` available as health check.
 
 ## Constraints
 
@@ -104,6 +101,10 @@ v1.2 shipped. German noun, verb, and adjective data complete for inflection sear
 | 17 inseparable verbs (not 20 as estimated) | geben/gehen/gewinnen have ge- as stem, not prefix — linguistically correct | ✓ Good — v1.2 |
 | sich_vorbereiten participle: "vorbereitet" | Exception to separable ge-insertion; bereiten-base behaves as root in Partizip II | ✓ Good — v1.2 |
 | Explicit Perfektum storage (no rule engine) | Mirrors preteritum and adjective declension precedent — 144 verbs fully stored | ✓ Good — v1.2 |
+| `genus:"pl"` for leute_noun (plural-only) | Schema enum only allows string values; matches eltern_noun/ferien_noun convention | ✓ Good — v1.3 |
+| Verb type priority: reflexive > separable > modal > irregular > regular | Single primary type, secondary traits in tags array | ✓ Good — v1.3 |
+| German grammar_presens (not grammar_present) | Aligns with German-native naming (grammar_preteritum, grammar_perfektum) | ✓ Good — v1.3 |
+| validate:all fail-fast with && chaining | Stop on first error; core banks before dict variants before integration | ✓ Good — v1.3 |
 
 ---
-*Last updated: 2026-02-22 after v1.3 milestone started*
+*Last updated: 2026-02-23 after v1.3 milestone completed*
