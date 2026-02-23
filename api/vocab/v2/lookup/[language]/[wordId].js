@@ -157,21 +157,14 @@ export default async function handler(req, res) {
       });
     }
 
-    // Load translation data — try curriculum translations first, then dictionary translations
+    // Load translation data from merged translation directory (Phase 21 consolidated all translations)
     const translationPair = `${langCode}-${translationLang}`;
     const translationBankPath = path.join(vocabBase, 'translations', translationPair, `${bankName}.json`);
-    const dictTranslationBankPath = path.join(vocabBase, 'translations', `${translationPair}-dict`, `${bankName}.json`);
 
     let translationEntry = null;
-    // 1. Try curriculum translations (highest priority)
     if (fs.existsSync(translationBankPath)) {
       const transData = JSON.parse(fs.readFileSync(translationBankPath, 'utf-8'));
       translationEntry = transData[wordId] || null;
-    }
-    // 2. Fallback to dictionary-only translations
-    if (!translationEntry && fs.existsSync(dictTranslationBankPath)) {
-      const dictTransData = JSON.parse(fs.readFileSync(dictTranslationBankPath, 'utf-8'));
-      translationEntry = dictTransData[wordId] || null;
     }
 
     // Build merged response

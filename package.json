@@ -8,11 +8,9 @@
     "dev": "vercel dev",
     "build:search-index": "node scripts/build-search-index.js",
     "validate:nouns": "node scripts/validate-nouns.js",
-    "validate:nouns:dict": "NOUN_BANK=vocabulary/dictionary/de/nounbank.json node scripts/validate-nouns.js",
     "validate:verbs": "node scripts/validate-verbs.js",
-    "validate:verbs:dict": "VERB_BANK=vocabulary/dictionary/de/verbbank.json node scripts/validate-verbs.js",
     "validate:adjectives": "node scripts/validate-adjectives.js",
-    "validate:all": "npm run validate:nouns && npm run validate:verbs && npm run validate:adjectives && npm run validate:nouns:dict && npm run validate:verbs:dict && npm run verify:integration",
+    "validate:all": "npm run validate:nouns && npm run validate:verbs && npm run validate:adjectives && npm run verify:integration",
     "merge:banks": "node scripts/merge-banks.js",
     "merge:translations": "node scripts/merge-translations.js",
     "verify:integration": "node scripts/verify-integration.js"
