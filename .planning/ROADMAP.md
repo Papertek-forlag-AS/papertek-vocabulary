@@ -95,7 +95,10 @@ Plans:
   1. Each bank's Norwegian translations exist only under de-nb/ (no de-nb-dict/ directory)
   2. Each bank's English translations exist only under de-en/ (no de-en-dict/ directory)
   3. Every entry that had a translation in either the core or dict directory has its translation present in the merged directory
-**Plans**: TBD
+**Plans**: 2 plans
+Plans:
+- [ ] 21-01-PLAN.md — Merge translations + update codebase references
+- [ ] 21-02-PLAN.md — Verify merge + delete old directories
 
 ### Phase 22: API Updates
 **Goal**: Both API versions read exclusively from the new single-bank structure and translation directories, with identical external response shapes
@@ -146,6 +149,6 @@ Plans:
 | 18. Tooling Fixes | v1.3 | 1/1 | Complete | 2026-02-23 |
 | 19. Curriculum Manifest Fix | v1.3 | 1/1 | Complete | 2026-02-23 |
 | 20. Bank & Manifest Consolidation | 2/2 | Complete    | 2026-02-23 | - |
-| 21. Translation Consolidation | v2.0 | 0/TBD | Not started | - |
+| 21. Translation Consolidation | v2.0 | 0/2 | Not started | - |
 | 22. API Updates | v2.0 | 0/TBD | Not started | - |
 | 23. Validation & Cleanup | v2.0 | 0/TBD | Not started | - |
