@@ -124,7 +124,9 @@ Plans:
   2. v1 API response for every curriculum entry is identical to its pre-migration snapshot
   3. v2 API response for every entry is identical to its pre-migration snapshot
   4. The old core/ and dictionary/ bank directories no longer exist in the repository
-**Plans**: TBD
+**Plans**: 1 plan
+Plans:
+- [ ] 23-01-PLAN.md — Validate all 8 banks against schemas, compare pre/post migration data, confirm old directories removed
 
 ## Progress
 
