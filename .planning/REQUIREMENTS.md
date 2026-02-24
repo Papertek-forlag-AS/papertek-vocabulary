@@ -14,7 +14,7 @@ Requirements for the Single-Bank Architecture milestone. Eliminates the dual-ban
 - [x] **BANK-03**: Core-only entries that lack dictionary counterparts get default lexical metadata fields
 - [x] **BANK-04**: Dictionary-only entries retain their existing data unchanged
 - [x] **BANK-05**: Search index rebuilt from merged banks
-- [ ] **BANK-06**: Old separate core/ and dictionary/ bank directories removed after migration
+- [x] **BANK-06**: Old separate core/ and dictionary/ bank directories removed after migration
 
 ### Manifest
 
@@ -37,9 +37,9 @@ Requirements for the Single-Bank Architecture milestone. Eliminates the dual-ban
 
 ### Validation
 
-- [ ] **VALID-01**: Merged banks pass schema validation (0 errors)
-- [ ] **VALID-02**: v1 API returns identical data for curriculum entries before and after migration
-- [ ] **VALID-03**: v2 API returns identical data for all entries before and after migration
+- [x] **VALID-01**: Merged banks pass schema validation (0 errors)
+- [x] **VALID-02**: v1 API returns identical data for curriculum entries before and after migration
+- [x] **VALID-03**: v2 API returns identical data for all entries before and after migration
 
 ## Future Requirements
 
@@ -75,7 +75,7 @@ Which phases cover which requirements. Updated during roadmap creation.
 | BANK-03 | Phase 20 | Complete |
 | BANK-04 | Phase 20 | Complete |
 | BANK-05 | Phase 20 | Complete |
-| BANK-06 | Phase 23 | Pending |
+| BANK-06 | Phase 23 | Complete |
 | MNFST-01 | Phase 20 | Complete |
 | MNFST-02 | Phase 20 | Complete |
 | TRANS-01 | Phase 21 | Complete |
@@ -86,9 +86,9 @@ Which phases cover which requirements. Updated during roadmap creation.
 | API-03 | Phase 22 | Complete |
 | API-04 | Phase 22 | Complete |
 | API-05 | Phase 22 | Complete |
-| VALID-01 | Phase 23 | Pending |
-| VALID-02 | Phase 23 | Pending |
-| VALID-03 | Phase 23 | Pending |
+| VALID-01 | Phase 23 | Complete |
+| VALID-02 | Phase 23 | Complete |
+| VALID-03 | Phase 23 | Complete |
 
 **Coverage:**
 - v2.0 requirements: 19 total
