@@ -78,13 +78,13 @@ function wordIdToBank(wordId) {
  * Search all banks for a word ID (fallback when suffix mapping fails)
  */
 function findWordInAllBanks(vocabBase, langCode, wordId) {
-  const dictPath = path.join(vocabBase, 'dictionary', langCode);
-  if (!fs.existsSync(dictPath)) return null;
+  const banksPath = path.join(vocabBase, 'banks', langCode);
+  if (!fs.existsSync(banksPath)) return null;
 
-  const files = fs.readdirSync(dictPath).filter(f => f.endsWith('bank.json'));
+  const files = fs.readdirSync(banksPath).filter(f => f.endsWith('bank.json'));
 
   for (const file of files) {
-    const data = JSON.parse(fs.readFileSync(path.join(dictPath, file), 'utf-8'));
+    const data = JSON.parse(fs.readFileSync(path.join(banksPath, file), 'utf-8'));
     if (data[wordId]) {
       return { entry: data[wordId], bankName: file.replace('.json', '') };
     }
@@ -129,7 +129,7 @@ export default async function handler(req, res) {
     // Try direct bank lookup first
     const guessedBank = wordIdToBank(wordId);
     if (guessedBank) {
-      const bankPath = path.join(vocabBase, 'dictionary', langCode, `${guessedBank}.json`);
+      const bankPath = path.join(vocabBase, 'banks', langCode, `${guessedBank}.json`);
       if (fs.existsSync(bankPath)) {
         const bankData = JSON.parse(fs.readFileSync(bankPath, 'utf-8'));
         if (bankData[wordId]) {
@@ -179,7 +179,7 @@ export default async function handler(req, res) {
       word: entry.word,
       type: entry.type || null,
       audio: entry.audio || null,
-      audioUrl: entry.audio ? `/shared/vocabulary/core/${langCode}/audio/${entry.audio}` : null,
+      audioUrl: entry.audio ? `/shared/vocabulary/banks/${langCode}/audio/${entry.audio}` : null,
 
       // Translation fields
       translation: translationEntry?.translation || null,

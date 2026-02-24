@@ -29,7 +29,7 @@ function loadSearchIndex(vocabBase, langCode) {
   const cacheKey = langCode;
   if (indexCache[cacheKey]) return indexCache[cacheKey];
 
-  const indexPath = path.join(vocabBase, 'dictionary', langCode, 'search-index.json');
+  const indexPath = path.join(vocabBase, 'banks', langCode, 'search-index.json');
   if (!fs.existsSync(indexPath)) return null;
 
   const data = JSON.parse(fs.readFileSync(indexPath, 'utf-8'));
