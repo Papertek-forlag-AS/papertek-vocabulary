@@ -67,7 +67,7 @@
 
 - [x] **Phase 20: Bank & Manifest Consolidation** - Merge all 8 German bank pairs into single banks and create the core manifest (completed 2026-02-23)
 - [x] **Phase 21: Translation Consolidation** - Merge de-nb + de-en translation directories and remove old -dict/ directories (completed 2026-02-23)
-- [ ] **Phase 22: API Updates** - Update v1 and v2 handlers to read from the new single-bank structure
+- [x] **Phase 22: API Updates** - Update v1 and v2 handlers to read from the new single-bank structure (completed 2026-02-24)
 - [ ] **Phase 23: Validation & Cleanup** - Verify data and API correctness, remove old bank directories
 
 ## Phase Details
@@ -153,5 +153,5 @@ Plans:
 | 19. Curriculum Manifest Fix | v1.3 | 1/1 | Complete | 2026-02-23 |
 | 20. Bank & Manifest Consolidation | 2/2 | Complete    | 2026-02-23 | - |
 | 21. Translation Consolidation | 2/2 | Complete    | 2026-02-23 | - |
-| 22. API Updates | 1/2 | In Progress|  | - |
+| 22. API Updates | 2/2 | Complete   | 2026-02-24 | - |
 | 23. Validation & Cleanup | v2.0 | 0/TBD | Not started | - |

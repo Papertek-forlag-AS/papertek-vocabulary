@@ -10,9 +10,9 @@ See: .planning/PROJECT.md (updated 2026-02-23)
 ## Current Position
 
 Phase: 22 of 23 (API Updates)
-Plan: 1 of 2 in current phase (22-01 complete)
-Status: In progress
-Last activity: 2026-02-24 — 22-01 migrated all 4 API handlers to vocabulary/banks/; v1 core now filters by manifest curriculum IDs
+Plan: 2 of 2 in current phase (22-02 complete — Phase 22 DONE)
+Status: Phase 22 complete, ready for Phase 23
+Last activity: 2026-02-24 — 22-02 deleted vocabulary/core/de/, moved 3567 audio files to banks/de/audio/, updated all validators to read from vocabulary/banks/de/
 
 Progress: [█████████████████████░░░░░░░░░] 68% (20/23 phases complete across all milestones)
 
@@ -47,6 +47,8 @@ Key decisions relevant to v2.0:
 - [Phase 22-api-updates]: Phase 22-01: v1 manifest totalWords reports curriculumWords (867) not total bank count (3454) — accurate for curriculum-only endpoint
 - [Phase 22-api-updates]: Phase 22-01: Audio URL updated proactively to /shared/vocabulary/banks/{lang}/audio ahead of Plan 22-02 core/ deletion
 - [Phase 22-api-updates]: Phase 22-01: v1 core uses Set-based curriculum filtering from manifest.banks[bank].ids for O(1) per-entry lookup
+- [Phase 22-api-updates]: Strip _metadata from bank before AJV validation — merged banks have different _metadata structure without translations field
+- [Phase 22-api-updates]: verify-integration.js restructured for single-bank: reads merged banks/de/ instead of comparing core vs dict; SYNC-01/02 verify coverage within merged bank
 
 ### Pending Todos
 
@@ -60,5 +62,5 @@ Key decisions relevant to v2.0:
 ## Session Continuity
 
 Last session: 2026-02-24
-Stopped at: 22-01 complete — all 4 API handlers migrated to vocabulary/banks/; v1 core filters curriculum entries via manifest
-Resume with: `/gsd:execute-phase 22` (Plan 22-02: delete vocabulary/core/de/)
+Stopped at: 22-02 complete — Phase 22 fully done. vocabulary/core/de/ deleted, audio at banks/de/audio/, all validators pass against banks/de/
+Resume with: `/gsd:execute-phase 23` (Phase 23: deployment verification)
