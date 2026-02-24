@@ -9,6 +9,13 @@ const corsHeaders = {
   'Cache-Control': 'public, max-age=3600, s-maxage=86400', // 1hr browser, 24hr CDN
 };
 
+// Map ISO language codes to human-readable names
+const LANGUAGE_NAMES = {
+  de: 'German',
+  es: 'Spanish',
+  fr: 'French',
+};
+
 export default async function handler(req, res) {
   // Handle CORS preflight
   if (req.method === 'OPTIONS') {
@@ -22,39 +29,43 @@ export default async function handler(req, res) {
   try {
     const vocabPath = path.join(process.cwd(), 'vocabulary');
 
-    // Read core languages
-    const corePath = path.join(vocabPath, 'core');
-    const coreLanguages = fs.readdirSync(corePath)
-      .filter(f => fs.statSync(path.join(corePath, f)).isDirectory());
+    // Read core languages from banks/
+    const banksPath = path.join(vocabPath, 'banks');
+    const coreLanguages = fs.readdirSync(banksPath)
+      .filter(f => fs.statSync(path.join(banksPath, f)).isDirectory());
 
     // Read translation packs
     const translationsPath = path.join(vocabPath, 'translations');
     const translationPacks = fs.readdirSync(translationsPath)
       .filter(f => fs.statSync(path.join(translationsPath, f)).isDirectory());
 
-    // Build core manifests
+    // Build core manifests from banks/ structure
     const core = {};
     for (const lang of coreLanguages) {
-      const manifestPath = path.join(corePath, lang, 'manifest.json');
+      const manifestPath = path.join(banksPath, lang, 'manifest.json');
       if (fs.existsSync(manifestPath)) {
         const manifest = JSON.parse(fs.readFileSync(manifestPath, 'utf-8'));
 
         // Check for audio folder
-        const audioPath = path.join(corePath, lang, 'audio');
+        const audioPath = path.join(banksPath, lang, 'audio');
         const hasAudio = fs.existsSync(audioPath);
         const audioCount = hasAudio
           ? fs.readdirSync(audioPath).filter(f => f.endsWith('.mp3')).length
           : 0;
 
+        // New manifest structure: manifest.banks keys = bank file names
+        // manifest.summary.curriculumWords = total curriculum words (v1 returns curriculum only)
+        const bankFiles = Object.keys(manifest.banks || {});
+
         core[lang] = {
-          language: manifest._metadata.targetLanguageName,
-          version: manifest._metadata.version,
-          totalWords: manifest._metadata.totalWords,
-          files: Object.keys(manifest._metadata.files),
+          language: LANGUAGE_NAMES[lang] || lang,
+          version: manifest._metadata.generatedAt,
+          totalWords: manifest.summary?.curriculumWords || 0,
+          files: bankFiles,
           updatedAt: manifest._metadata.generatedAt,
           endpoint: `/api/vocab/v1/core/${lang}`,
           audio: hasAudio ? {
-            baseUrl: `/shared/vocabulary/core/${lang}/audio`,
+            baseUrl: `/shared/vocabulary/banks/${lang}/audio`,
             fileCount: audioCount,
             format: 'mp3'
           } : null
@@ -111,27 +122,20 @@ export default async function handler(req, res) {
       }
     }
 
-    // Build dictionary info (v2 endpoints)
+    // Build dictionary info (v2 endpoints) from banks/ manifests
     const dictionary = {};
-    const dictPath = path.join(vocabPath, 'dictionary');
-    if (fs.existsSync(dictPath)) {
-      const dictLanguages = fs.readdirSync(dictPath)
-        .filter(f => fs.statSync(path.join(dictPath, f)).isDirectory());
-
-      for (const lang of dictLanguages) {
-        const dictManifestPath = path.join(dictPath, lang, 'manifest.json');
-        if (fs.existsSync(dictManifestPath)) {
-          const dictManifest = JSON.parse(fs.readFileSync(dictManifestPath, 'utf-8'));
-          dictionary[lang] = {
-            version: dictManifest._metadata.version,
-            totalWords: dictManifest.totalWords || dictManifest._metadata.totalWords,
-            curriculumWords: dictManifest.curriculumWords || dictManifest._metadata.curriculumWords,
-            dictionaryOnlyWords: dictManifest.dictionaryOnlyWords || dictManifest._metadata.dictionaryOnlyWords,
-            sources: dictManifest.sources || [],
-            searchEndpoint: `/api/vocab/v2/search/${lang}`,
-            lookupEndpoint: `/api/vocab/v2/lookup/${lang}/{wordId}`,
-          };
-        }
+    for (const lang of coreLanguages) {
+      const bankManifestPath = path.join(banksPath, lang, 'manifest.json');
+      if (fs.existsSync(bankManifestPath)) {
+        const bankManifest = JSON.parse(fs.readFileSync(bankManifestPath, 'utf-8'));
+        dictionary[lang] = {
+          version: bankManifest._metadata.generatedAt,
+          totalWords: bankManifest.summary?.totalWords || 0,
+          curriculumWords: bankManifest.summary?.curriculumWords || 0,
+          dictionaryOnlyWords: bankManifest.summary?.dictionaryOnlyWords || 0,
+          searchEndpoint: `/api/vocab/v2/search/${lang}`,
+          lookupEndpoint: `/api/vocab/v2/lookup/${lang}/{wordId}`,
+        };
       }
     }
 
