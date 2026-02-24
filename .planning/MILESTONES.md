@@ -124,3 +124,35 @@
 
 ---
 
+
+## v2.0 — Single-Bank Architecture (Shipped: 2026-02-24)
+
+**Phases:** 4 (20-23) | **Plans:** 7 | **Commits:** 13
+**Git range:** feat(20-01) → docs(v2.0)
+**Lines changed:** +59,178 / -195,518 across 3,635 files (net reduction — consolidation eliminated duplicate data)
+**Timeline:** 2 days (2026-02-23 → 2026-02-24)
+
+**Key accomplishments:**
+- Merged 8 dual-bank pairs into single banks under vocabulary/banks/de/ (3,454 entries total), eliminating the core/dictionary duplication pattern
+- Created core manifest (manifest.json) listing all 867 curriculum entry IDs with per-bank and summary counts
+- Consolidated translation directories — merged de-nb-dict/ and de-en-dict/ into single de-nb/ and de-en/ dirs
+- Migrated all 4 API handlers — v1 core uses manifest-based Set filtering (O(1) per entry), v2 reads from single banks with no fallback paths
+- Validated migration integrity — 342-line script confirms 3,454 dict + 1,126 core entries match pre-migration baseline with 0 mismatches
+- Deleted vocabulary/core/de/ (3,567 audio files moved) and vocabulary/dictionary/de/ — clean single-bank architecture
+
+**Requirements:** 19/19 satisfied (BANK-01..06, MNFST-01..02, TRANS-01..03, API-01..05, VALID-01..03)
+
+**Known tech debt (6 items, all non-critical):**
+- Pre-existing: v1 manifest translations.*.to is undefined (ISO-code directory name split bug)
+- Stale audio URL examples in api/vocab/README.md
+- validate-adjectives.js doesn't strip _metadata before AJV (cosmetic inconsistency)
+- schokoladenei_noun frequency:null (pre-existing data quality)
+- 12+ stale utility scripts reference deleted paths (not in package.json, no runtime risk)
+- BANK-03 vacuously satisfied (no core-only entries exist currently)
+
+**Archive:** `.planning/milestones/v2.0-ROADMAP.md`, `.planning/milestones/v2.0-REQUIREMENTS.md`, `.planning/milestones/v2.0-MILESTONE-AUDIT.md`
+
+**Last phase number:** 23
+
+---
+

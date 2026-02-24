@@ -137,3 +137,14 @@ None - no external service configuration required.
 ---
 *Phase: 21-translation-consolidation*
 *Completed: 2026-02-23*
+
+## Self-Check: PASSED
+
+- scripts/merge-translations.js: FOUND
+- vocabulary/translations/de-nb/nounbank.json: FOUND (1641 entries)
+- vocabulary/translations/de-en/nounbank.json: FOUND (1641 entries)
+- .planning/phases/21-translation-consolidation/21-01-SUMMARY.md: FOUND
+- commit 79d0e42 (Task 1): FOUND
+- commit 27b3d81 (Task 2): FOUND
+- No -dict/ references in build-search-index.js or api/: VERIFIED
+- Search index rebuild: 3454 entries, 144 verbs with pp (UNCHANGED)
