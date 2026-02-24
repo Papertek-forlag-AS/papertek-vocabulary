@@ -55,11 +55,11 @@ export default async function handler(req, res) {
 
   try {
     const vocabBase = getVocabBasePath();
-    const langPath = path.join(vocabBase, 'core', normalizedLang);
+    const langPath = path.join(vocabBase, 'banks', normalizedLang);
 
     // Debug mode - show paths being checked
     if (debug === 'true') {
-      const corePath = path.join(vocabBase, 'core');
+      const banksPath = path.join(vocabBase, 'banks');
       Object.entries(corsHeaders).forEach(([key, value]) => res.setHeader(key, value));
       return res.status(200).json({
         debug: true,
@@ -70,7 +70,7 @@ export default async function handler(req, res) {
         langPathExists: fs.existsSync(langPath),
         cwdContents: fs.existsSync(process.cwd()) ? fs.readdirSync(process.cwd()) : [],
         vocabBaseContents: fs.existsSync(vocabBase) ? fs.readdirSync(vocabBase) : [],
-        coreContents: fs.existsSync(corePath) ? fs.readdirSync(corePath) : [],
+        banksContents: fs.existsSync(banksPath) ? fs.readdirSync(banksPath) : [],
       });
     }
 
@@ -82,6 +82,16 @@ export default async function handler(req, res) {
         path: langPath,
         vocabBaseExists: fs.existsSync(vocabBase)
       });
+    }
+
+    // Load manifest to get curriculum IDs for filtering
+    const manifestPath = path.join(langPath, 'manifest.json');
+    const manifest = JSON.parse(fs.readFileSync(manifestPath, 'utf-8'));
+
+    // Build a Set of curriculum IDs per bank from manifest.banks[bankName].ids
+    const curriculumIdsByBank = {};
+    for (const [bankName, bankInfo] of Object.entries(manifest.banks)) {
+      curriculumIdsByBank[bankName] = new Set(bankInfo.ids);
     }
 
     // Optional: get specific bank via query param ?bank=verbbank
@@ -96,14 +106,32 @@ export default async function handler(req, res) {
         Object.entries(corsHeaders).forEach(([key, value]) => res.setHeader(key, value));
         return res.status(404).json({
           error: 'Bank not found',
-          available: fs.readdirSync(langPath).filter(f => f.endsWith('.json') && f !== 'manifest.json')
+          available: fs.readdirSync(langPath).filter(f => f.endsWith('.json') && f !== 'manifest.json' && !f.endsWith('search-index.json'))
         });
       }
 
       const data = JSON.parse(fs.readFileSync(bankPath, 'utf-8'));
+      const bankName = bank.replace('.json', '');
+      const curriculumIds = curriculumIdsByBank[bankName];
+
+      // Filter to only curriculum entries (plus _metadata if present)
+      let filtered;
+      if (curriculumIds) {
+        const { _metadata, ...words } = data;
+        const curriculumWords = {};
+        for (const [wordId, wordData] of Object.entries(words)) {
+          if (curriculumIds.has(wordId)) {
+            curriculumWords[wordId] = wordData;
+          }
+        }
+        filtered = _metadata ? { _metadata, ...curriculumWords } : curriculumWords;
+      } else {
+        filtered = data;
+      }
+
       Object.entries(corsHeaders).forEach(([key, value]) => res.setHeader(key, value));
       res.setHeader('Content-Type', 'application/json');
-      return res.status(200).json(data);
+      return res.status(200).json(filtered);
     }
 
     // Return all banks combined
@@ -118,13 +146,25 @@ export default async function handler(req, res) {
 
     for (const file of files) {
       if (file === 'manifest.json') continue;
+      if (file === 'search-index.json') continue;
 
       const bankName = file.replace('.json', '');
       const data = JSON.parse(fs.readFileSync(path.join(langPath, file), 'utf-8'));
 
-      // Remove internal metadata from each bank, add to combined
+      // Remove internal metadata from each bank, filter to curriculum entries only
       const { _metadata, ...words } = data;
-      combined[bankName] = words;
+      const curriculumIds = curriculumIdsByBank[bankName];
+      if (curriculumIds) {
+        const curriculumWords = {};
+        for (const [wordId, wordData] of Object.entries(words)) {
+          if (curriculumIds.has(wordId)) {
+            curriculumWords[wordId] = wordData;
+          }
+        }
+        combined[bankName] = curriculumWords;
+      } else {
+        combined[bankName] = words;
+      }
       combined._metadata.banks.push(bankName);
     }
 
