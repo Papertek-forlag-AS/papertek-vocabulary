@@ -11,7 +11,8 @@
     "validate:verbs": "node scripts/validate-verbs.js",
     "validate:adjectives": "node scripts/validate-adjectives.js",
     "validate:all": "npm run validate:nouns && npm run validate:verbs && npm run validate:adjectives && npm run verify:integration",
-    "verify:integration": "node scripts/verify-integration.js"
+    "verify:integration": "node scripts/verify-integration.js",
+    "validate:migration": "node scripts/validate-migration.js"
   },
   "engines": {
     "node": ">=18.0.0"
