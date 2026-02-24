@@ -1,16 +1,16 @@
 /**
  * verify-integration.js
  *
- * Permanent end-to-end health check for v1.2 Sync & Integration milestone.
- * Verifies all 5 SYNC requirements across core and dictionary banks.
+ * End-to-end health check for the consolidated single-bank vocabulary structure.
+ * Verifies all 5 SYNC requirements against vocabulary/banks/de/ (merged banks).
  *
- * SYNC-01: Perfektum conjugations synced from core verbbank to dict verbbank
- * SYNC-02: Noun declension (4 cases, declension_type, weak_masculine) synced
+ * SYNC-01: Perfektum conjugations present on 144 verb entries in merged verbbank
+ * SYNC-02: Noun declension (4 cases, declension_type, weak_masculine) on 331 noun entries
  * SYNC-03: search-index.json has pp field on all verb entries with perfektum
  * SYNC-04: v2 lookup handler emits grammar_noun_declension, grammar_genitiv,
  *           grammar_perfektum feature flags and exposes inseparable,
  *           weakMasculine, declensionType response fields
- * SYNC-05: AJV schema validation passes on all 4 banks (0 errors)
+ * SYNC-05: AJV schema validation passes on merged noun and verb banks
  *
  * Usage:  node scripts/verify-integration.js
  * Script: npm run verify:integration
@@ -33,70 +33,57 @@ function check(name, condition) {
 }
 
 // ── Load data ─────────────────────────────────────────────────────────────
-const coreVerbBank  = JSON.parse(readFileSync('vocabulary/core/de/verbbank.json',       'utf8'));
-const dictVerbBank  = JSON.parse(readFileSync('vocabulary/dictionary/de/verbbank.json', 'utf8'));
-const coreNounBank  = JSON.parse(readFileSync('vocabulary/core/de/nounbank.json',       'utf8'));
-const dictNounBank  = JSON.parse(readFileSync('vocabulary/dictionary/de/nounbank.json', 'utf8'));
-const searchIndex   = JSON.parse(readFileSync('vocabulary/dictionary/de/search-index.json', 'utf8'));
+const verbBank    = JSON.parse(readFileSync('vocabulary/banks/de/verbbank.json',    'utf8'));
+const nounBank    = JSON.parse(readFileSync('vocabulary/banks/de/nounbank.json',    'utf8'));
+const searchIndex = JSON.parse(readFileSync('vocabulary/banks/de/search-index.json', 'utf8'));
 const handlerSource = readFileSync('api/vocab/v2/lookup/[language]/[wordId].js', 'utf8');
 
-const coreVerbKeys = Object.keys(coreVerbBank).filter(k => k !== '_metadata');
-const dictVerbKeys = Object.keys(dictVerbBank).filter(k => k !== '_metadata');
-const coreNounKeys = Object.keys(coreNounBank).filter(k => k !== '_metadata');
+const verbKeys = Object.keys(verbBank).filter(k => k !== '_metadata');
+const nounKeys = Object.keys(nounBank).filter(k => k !== '_metadata');
+
+// Strip _metadata for schema validation
+const { _metadata: _vm, ...verbEntries } = verbBank;
+const { _metadata: _nm, ...nounEntries } = nounBank;
 
 // ─────────────────────────────────────────────────────────────────────────
-// SYNC-01: Perfektum synced from core verbbank to dict verbbank
+// SYNC-01: Perfektum conjugations in merged verbbank
 // ─────────────────────────────────────────────────────────────────────────
 console.log('\n── SYNC-01: Perfektum conjugations ──');
 
-const coreWithPerfektum = coreVerbKeys.filter(k => coreVerbBank[k]?.conjugations?.perfektum?.participle);
-check('SYNC-01: Core verbbank has 144 verbs with perfektum.participle', coreWithPerfektum.length === 144);
-
-// Every core verb with perfektum must have matching participle in dict
-const sync01Mismatches = coreWithPerfektum.filter(k => {
-  const coreParticiple = coreVerbBank[k]?.conjugations?.perfektum?.participle;
-  const dictParticiple = dictVerbBank[k]?.conjugations?.perfektum?.participle;
-  return coreParticiple !== dictParticiple;
-});
-check('SYNC-01: All 144 core perfektum participles match dict verbbank', sync01Mismatches.length === 0);
+const verbsWithPerfektum = verbKeys.filter(k => verbBank[k]?.conjugations?.perfektum?.participle);
+check('SYNC-01: Merged verbbank has 144 verbs with perfektum.participle', verbsWithPerfektum.length === 144);
 
 // Spot-checks
 check('SYNC-01: anfangen_verb pp === "angefangen"',
-  dictVerbBank['anfangen_verb']?.conjugations?.perfektum?.participle === 'angefangen');
+  verbBank['anfangen_verb']?.conjugations?.perfektum?.participle === 'angefangen');
 check('SYNC-01: besuchen_verb pp === "besucht"',
-  dictVerbBank['besuchen_verb']?.conjugations?.perfektum?.participle === 'besucht');
-check('SYNC-01: moechten_modal pp === "gemocht" (modal with modal_note)',
-  dictVerbBank['moechten_modal']?.conjugations?.perfektum?.participle === 'gemocht');
+  verbBank['besuchen_verb']?.conjugations?.perfektum?.participle === 'besucht');
+check('SYNC-01: moechten_modal pp === "gemocht"',
+  verbBank['moechten_modal']?.conjugations?.perfektum?.participle === 'gemocht');
 
 // ─────────────────────────────────────────────────────────────────────────
-// SYNC-02: Noun declension synced from core nounbank to dict nounbank
+// SYNC-02: Noun declension data in merged nounbank
 // ─────────────────────────────────────────────────────────────────────────
 console.log('\n── SYNC-02: Noun declension data ──');
 
-const coreWithNominativ = coreNounKeys.filter(k => coreNounBank[k]?.cases?.nominativ);
-check('SYNC-02: Core nounbank has 331 nouns with cases.nominativ', coreWithNominativ.length === 331);
+const nounsWithNominativ = nounKeys.filter(k => nounBank[k]?.cases?.nominativ);
+check('SYNC-02: Merged nounbank has 331 nouns with cases.nominativ', nounsWithNominativ.length === 331);
 
-// Every core noun with nominativ must also have it in dict
-const sync02MissingNominativ = coreWithNominativ.filter(k => !dictNounBank[k]?.cases?.nominativ);
-check('SYNC-02: All 331 core nouns with cases.nominativ are synced to dict', sync02MissingNominativ.length === 0);
-
-// declension_type must match between core and dict
-const sync02DeclTypeMismatches = coreNounKeys.filter(k => {
-  if (!coreNounBank[k]?.declension_type) return false;
-  return coreNounBank[k].declension_type !== dictNounBank[k]?.declension_type;
+// Every noun with nominativ must have all 4 cases
+const missingCases = nounsWithNominativ.filter(k => {
+  return !['nominativ','akkusativ','dativ','genitiv'].every(c => nounBank[k]?.cases?.[c]);
 });
-check('SYNC-02: declension_type matches between core and dict for all nouns', sync02DeclTypeMismatches.length === 0);
+check('SYNC-02: All 331 nouns with nominativ have all 4 cases', missingCases.length === 0);
 
-// weak_masculine must be synced for n-Deklination nouns
-const coreWeakMasc = coreNounKeys.filter(k => coreNounBank[k]?.weak_masculine === true);
-const sync02WeakMascMismatches = coreWeakMasc.filter(k => dictNounBank[k]?.weak_masculine !== true);
-check('SYNC-02: weak_masculine synced for all n-Deklination nouns', sync02WeakMascMismatches.length === 0);
+// weak_masculine nouns present
+const weakMascNouns = nounKeys.filter(k => nounBank[k]?.weak_masculine === true);
+check('SYNC-02: Merged nounbank has at least 1 weak_masculine noun', weakMascNouns.length > 0);
 
 // Spot-checks
-check('SYNC-02: hund_noun has 4 cases in dict nounbank',
-  ['nominativ','akkusativ','dativ','genitiv'].every(c => dictNounBank['hund_noun']?.cases?.[c]));
-check('SYNC-02: baer_noun has weak_masculine in dict nounbank',
-  dictNounBank['baer_noun']?.weak_masculine === true);
+check('SYNC-02: hund_noun has 4 cases in merged nounbank',
+  ['nominativ','akkusativ','dativ','genitiv'].every(c => nounBank['hund_noun']?.cases?.[c]));
+check('SYNC-02: baer_noun has weak_masculine in merged nounbank',
+  nounBank['baer_noun']?.weak_masculine === true);
 
 // ─────────────────────────────────────────────────────────────────────────
 // SYNC-03: search-index.json has pp field on verb entries with perfektum
@@ -110,7 +97,7 @@ const indexVerbsWithPP = indexVerbs.filter(e => e.pp);
 check('SYNC-03: search-index.json total entries >= 3400', indexEntries.length >= 3400);
 check('SYNC-03: search-index.json has 144 verb entries with pp field', indexVerbsWithPP.length === 144);
 
-// pp values must match core verbbank participles (spot-check 5 known entries)
+// pp values spot-check
 const ppSpotChecks = [
   ['anfangen_verb', 'angefangen'],
   ['sein_verb',     'gewesen'],
@@ -146,7 +133,7 @@ check('SYNC-04: handler exposes response.declensionType field',
   handlerSource.includes('response.declensionType'));
 
 // ─────────────────────────────────────────────────────────────────────────
-// SYNC-05: AJV schema validation passes on all 4 banks
+// SYNC-05: AJV schema validation passes on merged banks
 // ─────────────────────────────────────────────────────────────────────────
 console.log('\n── SYNC-05: AJV schema validation ──');
 
@@ -154,7 +141,7 @@ const coreSchema = JSON.parse(readFileSync('vocabulary/schema/core-word.schema.j
 const nounSchema = JSON.parse(readFileSync('vocabulary/schema/noun.schema.json',      'utf8'));
 const verbSchema = JSON.parse(readFileSync('vocabulary/schema/verb.schema.json',      'utf8'));
 
-function validateBank(bank, schema, schemaId, bankLabel) {
+function validateBank(entries, schema, schemaId, bankLabel) {
   const ajv = new Ajv2020({ strict: false, allErrors: true });
   ajv.addSchema(coreSchema, 'core-word.schema.json');
   ajv.addSchema(schema);
@@ -163,8 +150,8 @@ function validateBank(bank, schema, schemaId, bankLabel) {
     check(`SYNC-05: ${bankLabel} — schema not found`, false);
     return;
   }
-  const valid = validate(bank);
-  const count = Object.keys(bank).filter(k => k !== '_metadata').length;
+  const valid = validate(entries);
+  const count = Object.keys(entries).length;
   check(
     `SYNC-05: ${bankLabel} (${count} entries) passes AJV validation`,
     valid
@@ -172,31 +159,17 @@ function validateBank(bank, schema, schemaId, bankLabel) {
 }
 
 validateBank(
-  coreNounBank,
+  nounEntries,
   nounSchema,
   'https://papertek.no/schemas/vocabulary/noun.schema.json',
-  'Core nounbank'
+  'Merged nounbank'
 );
 
 validateBank(
-  JSON.parse(readFileSync('vocabulary/dictionary/de/nounbank.json', 'utf8')),
-  nounSchema,
-  'https://papertek.no/schemas/vocabulary/noun.schema.json',
-  'Dict nounbank'
-);
-
-validateBank(
-  coreVerbBank,
+  verbEntries,
   verbSchema,
   'https://papertek.no/schemas/vocabulary/verb.schema.json',
-  'Core verbbank'
-);
-
-validateBank(
-  dictVerbBank,
-  verbSchema,
-  'https://papertek.no/schemas/vocabulary/verb.schema.json',
-  'Dict verbbank'
+  'Merged verbbank'
 );
 
 // ─────────────────────────────────────────────────────────────────────────
@@ -204,7 +177,7 @@ validateBank(
 // ─────────────────────────────────────────────────────────────────────────
 console.log('\n──────────────────────────────────────');
 if (failures === 0) {
-  console.log(`ALL CHECKS PASSED — v1.2 Sync & Integration requirements met`);
+  console.log(`ALL CHECKS PASSED — vocabulary/banks/de/ single-bank structure verified`);
 } else {
   console.error(`${failures} check(s) FAILED — see FAIL lines above`);
 }

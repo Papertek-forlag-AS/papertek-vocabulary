@@ -3,7 +3,7 @@ import { readFileSync } from 'fs';
 
 const coreSchema = JSON.parse(readFileSync('vocabulary/schema/core-word.schema.json', 'utf8'));
 const adjSchema = JSON.parse(readFileSync('vocabulary/schema/adjective.schema.json', 'utf8'));
-const adjBank = JSON.parse(readFileSync('vocabulary/core/de/adjectivebank.json', 'utf8'));
+const adjBank = JSON.parse(readFileSync('vocabulary/banks/de/adjectivebank.json', 'utf8'));
 
 const ajv = new Ajv2020({ strict: false, allErrors: true });
 ajv.addSchema(coreSchema, 'core-word.schema.json');
