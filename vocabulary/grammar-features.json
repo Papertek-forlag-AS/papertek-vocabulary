@@ -96,7 +96,7 @@
         "descriptionEn": "Accusative case with indefinite article",
         "category": "nouns",
         "appliesTo": ["noun"],
-        "dataPath": "cases.akkusativ.ubestemt"
+        "dataPath": "cases.akkusativ.forms.singular.indefinite"
       },
       {
         "id": "grammar_accusative_definite",
@@ -106,7 +106,7 @@
         "descriptionEn": "Accusative case with definite article",
         "category": "nouns",
         "appliesTo": ["noun"],
-        "dataPath": "cases.akkusativ.bestemt"
+        "dataPath": "cases.akkusativ.forms.singular.definite"
       },
       {
         "id": "grammar_dative",
