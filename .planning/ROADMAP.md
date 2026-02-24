@@ -153,5 +153,5 @@ Plans:
 | 19. Curriculum Manifest Fix | v1.3 | 1/1 | Complete | 2026-02-23 |
 | 20. Bank & Manifest Consolidation | 2/2 | Complete    | 2026-02-23 | - |
 | 21. Translation Consolidation | 2/2 | Complete    | 2026-02-23 | - |
-| 22. API Updates | v2.0 | 0/2 | Not started | - |
+| 22. API Updates | 1/2 | In Progress|  | - |
 | 23. Validation & Cleanup | v2.0 | 0/TBD | Not started | - |

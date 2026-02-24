@@ -29,11 +29,11 @@ Requirements for the Single-Bank Architecture milestone. Eliminates the dual-ban
 
 ### API
 
-- [ ] **API-01**: v1 core handler reads from single bank, filtered by core manifest
-- [ ] **API-02**: v1 returns identical response shape (no breaking change for Leksihjelp)
-- [ ] **API-03**: v2 search handler reads from rebuilt search index
-- [ ] **API-04**: v2 lookup handler reads from single bank
-- [ ] **API-05**: v2 lookup translation fallback simplified (single translation dir per pair)
+- [x] **API-01**: v1 core handler reads from single bank, filtered by core manifest
+- [x] **API-02**: v1 returns identical response shape (no breaking change for Leksihjelp)
+- [x] **API-03**: v2 search handler reads from rebuilt search index
+- [x] **API-04**: v2 lookup handler reads from single bank
+- [x] **API-05**: v2 lookup translation fallback simplified (single translation dir per pair)
 
 ### Validation
 
@@ -81,11 +81,11 @@ Which phases cover which requirements. Updated during roadmap creation.
 | TRANS-01 | Phase 21 | Complete |
 | TRANS-02 | Phase 21 | Complete |
 | TRANS-03 | Phase 21 | Complete |
-| API-01 | Phase 22 | Pending |
-| API-02 | Phase 22 | Pending |
-| API-03 | Phase 22 | Pending |
-| API-04 | Phase 22 | Pending |
-| API-05 | Phase 22 | Pending |
+| API-01 | Phase 22 | Complete |
+| API-02 | Phase 22 | Complete |
+| API-03 | Phase 22 | Complete |
+| API-04 | Phase 22 | Complete |
+| API-05 | Phase 22 | Complete |
 | VALID-01 | Phase 23 | Pending |
 | VALID-02 | Phase 23 | Pending |
 | VALID-03 | Phase 23 | Pending |

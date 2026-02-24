@@ -5,16 +5,16 @@
 See: .planning/PROJECT.md (updated 2026-02-23)
 
 **Core value:** Complete, correct vocabulary data so Leksihjelp's inflection search can find any German word form and return the base entry.
-**Current focus:** Phase 21 — Translation Consolidation
+**Current focus:** Phase 22 — API Updates
 
 ## Current Position
 
-Phase: 21 of 23 (Translation Consolidation)
-Plan: 2 of 2 in current phase (21-02 complete — phase done)
+Phase: 22 of 23 (API Updates)
+Plan: 1 of 2 in current phase (22-01 complete)
 Status: In progress
-Last activity: 2026-02-23 — 21-02 deleted de-nb-dict/, de-en-dict/, vocabulary/dictionary/de/; 17 files removed, search index unchanged at 3454 entries
+Last activity: 2026-02-24 — 22-01 migrated all 4 API handlers to vocabulary/banks/; v1 core now filters by manifest curriculum IDs
 
-Progress: [████████████████████░░░░░░░░░░] 65% (19/23 phases complete across all milestones)
+Progress: [█████████████████████░░░░░░░░░] 68% (20/23 phases complete across all milestones)
 
 ## Performance Metrics
 
@@ -44,6 +44,9 @@ Key decisions relevant to v2.0:
 - [Phase 21-translation-consolidation]: Phase 21-01: Translation merge uses simple union (zero overlaps confirmed across all 6 bank/pair combos); core version wins defensively on any overlap
 - [Phase 21-translation-consolidation]: Phase 21-01: build-search-index.js simplified to single-map translation lookup — no more curr vs dict distinction
 - [Phase 21-translation-consolidation]: Phase 21-02: Delete proceeded only after 6/6 merge verification checks passed (0 missing, 0 mismatches); translation directories now clean (de-nb, de-en, es-en, es-nb, fr-nb only)
+- [Phase 22-api-updates]: Phase 22-01: v1 manifest totalWords reports curriculumWords (867) not total bank count (3454) — accurate for curriculum-only endpoint
+- [Phase 22-api-updates]: Phase 22-01: Audio URL updated proactively to /shared/vocabulary/banks/{lang}/audio ahead of Plan 22-02 core/ deletion
+- [Phase 22-api-updates]: Phase 22-01: v1 core uses Set-based curriculum filtering from manifest.banks[bank].ids for O(1) per-entry lookup
 
 ### Pending Todos
 
@@ -56,6 +59,6 @@ Key decisions relevant to v2.0:
 
 ## Session Continuity
 
-Last session: 2026-02-23
-Stopped at: 21-02 complete — Phase 21 fully done; all -dict/ dirs and vocabulary/dictionary/de/ deleted
-Resume with: `/gsd:execute-phase 22` (API migration)
+Last session: 2026-02-24
+Stopped at: 22-01 complete — all 4 API handlers migrated to vocabulary/banks/; v1 core filters curriculum entries via manifest
+Resume with: `/gsd:execute-phase 22` (Plan 22-02: delete vocabulary/core/de/)
