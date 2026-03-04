@@ -53,3 +53,7 @@ npx vercel dev
 ## Deployment
 
 Deployed automatically via Vercel on push to `main`.
+
+## License
+
+MIT - see [LICENSE](LICENSE) for details.

@@ -5,7 +5,7 @@ A free, open API providing vocabulary data for language learning applications.
 ## Base URL
 
 ```
-https://www.papertek.no/api/vocab/v1
+https://vocab.papertek.no/api/vocab/v1
 ```
 
 ## Endpoints
@@ -16,7 +16,7 @@ Returns available languages and translation packs.
 
 **Example:**
 ```bash
-curl https://www.papertek.no/api/vocab/v1/manifest
+curl https://vocab.papertek.no/api/vocab/v1/manifest
 ```
 
 **Response:**
@@ -60,10 +60,10 @@ Returns core vocabulary for a language (words, conjugations, declensions).
 **Examples:**
 ```bash
 # Get all German vocabulary
-curl https://www.papertek.no/api/vocab/v1/core/german
+curl https://vocab.papertek.no/api/vocab/v1/core/german
 
 # Get only German verbs
-curl https://www.papertek.no/api/vocab/v1/core/german?bank=verbbank
+curl https://vocab.papertek.no/api/vocab/v1/core/german?bank=verbbank
 ```
 
 **Response (full):**
@@ -117,10 +117,10 @@ Returns translations for a language pair.
 **Examples:**
 ```bash
 # Get all German-to-English translations
-curl https://www.papertek.no/api/vocab/v1/translations/german-to-english
+curl https://vocab.papertek.no/api/vocab/v1/translations/german-to-english
 
 # Get only verb translations
-curl https://www.papertek.no/api/vocab/v1/translations/german-to-english?bank=verbbank
+curl https://vocab.papertek.no/api/vocab/v1/translations/german-to-english?bank=verbbank
 ```
 
 **Response:**
@@ -155,10 +155,10 @@ Returns available grammar features for progressive disclosure. Each language has
 **Examples:**
 ```bash
 # Get all languages' features
-curl https://www.papertek.no/api/vocab/v1/grammarfeatures
+curl https://vocab.papertek.no/api/vocab/v1/grammarfeatures
 
 # Get German grammar features only
-curl https://www.papertek.no/api/vocab/v1/grammarfeatures?language=german
+curl https://vocab.papertek.no/api/vocab/v1/grammarfeatures?language=german
 ```
 
 **Response (for German):**
@@ -211,7 +211,7 @@ curl https://www.papertek.no/api/vocab/v1/grammarfeatures?language=german
 
 ```javascript
 // Fetch German vocabulary
-const response = await fetch('https://www.papertek.no/api/vocab/v1/core/german');
+const response = await fetch('https://vocab.papertek.no/api/vocab/v1/core/german');
 const germanVocab = await response.json();
 
 // Access verbs
@@ -225,8 +225,8 @@ console.log(verbs.sein_verb.conjugations.presens.former.ich); // "bin"
 import requests
 
 # Get Spanish vocabulary with Norwegian translations
-core = requests.get('https://www.papertek.no/api/vocab/v1/core/spanish').json()
-trans = requests.get('https://www.papertek.no/api/vocab/v1/translations/spanish-to-norwegian').json()
+core = requests.get('https://vocab.papertek.no/api/vocab/v1/core/spanish').json()
+trans = requests.get('https://vocab.papertek.no/api/vocab/v1/translations/spanish-to-norwegian').json()
 
 # Merge core + translations for a word
 word_id = 'ser_verb'
@@ -236,7 +236,7 @@ word = {**core['verbbank'][word_id], **trans['verbbank'][word_id]}
 ### Swift (iOS)
 
 ```swift
-let url = URL(string: "https://www.papertek.no/api/vocab/v1/core/german")!
+let url = URL(string: "https://vocab.papertek.no/api/vocab/v1/core/german")!
 let (data, _) = try await URLSession.shared.data(from: url)
 let vocab = try JSONDecoder().decode(VocabularyResponse.self, from: data)
 ```
@@ -265,7 +265,7 @@ Each vocabulary entry includes an `audio` property with the filename for pronunc
 ```javascript
 const word = vocab.nounbank.garten_noun;
 if (word.audio) {
-  const audioUrl = `https://www.papertek.no/shared/vocabulary/core/de/audio/${word.audio}`;
+  const audioUrl = `https://vocab.papertek.no/vocabulary/core/de/audio/${word.audio}`;
   const audio = new Audio(audioUrl);
   audio.play();
 }
@@ -279,13 +279,13 @@ Download all audio files for a language as a single ZIP:
 
 ```bash
 # German audio (7.3 MB, 1062 files)
-curl -O https://staging-tysk.vercel.app/shared/vocabulary/downloads/audio-de.zip
+curl -O https://vocab.papertek.no/vocabulary/downloads/audio-de.zip
 
 # Spanish audio (9.3 MB, 993 files)
-curl -O https://staging-tysk.vercel.app/shared/vocabulary/downloads/audio-es.zip
+curl -O https://vocab.papertek.no/vocabulary/downloads/audio-es.zip
 
 # French audio (14.2 MB, 1457 files)
-curl -O https://staging-tysk.vercel.app/shared/vocabulary/downloads/audio-fr.zip
+curl -O https://vocab.papertek.no/vocabulary/downloads/audio-fr.zip
 ```
 
 The manifest endpoint includes download URLs and file sizes.
@@ -295,13 +295,13 @@ The manifest endpoint includes download URLs and file sizes.
 For single files, access directly:
 
 ```
-https://staging-tysk.vercel.app/shared/vocabulary/core/{lang}/audio/{filename}.mp3
+https://vocab.papertek.no/vocabulary/core/{lang}/audio/{filename}.mp3
 ```
 
 **Examples:**
 ```bash
 # German adjective "alt" (old)
-curl https://staging-tysk.vercel.app/shared/vocabulary/core/de/audio/adjektiv_alt.mp3
+curl https://vocab.papertek.no/vocabulary/core/de/audio/adjektiv_alt.mp3
 ```
 
 **Naming convention:** `{wordtype}_{word}.mp3`
@@ -324,20 +324,9 @@ Currently no rate limits. Be respectful - cache responses rather than fetching o
 
 ---
 
-## Future: API Keys
+## License
 
-API keys are optional but recommended for:
-- Usage analytics (know when we update data)
-- Priority support
-- Higher rate limits (if needed)
-
-To request an API key: api@papertek.no
-
----
-
-## Data License
-
-Vocabulary data is provided for educational use. Contact us for commercial licensing.
+This project is licensed under the [MIT License](../LICENSE).
 
 ---
 

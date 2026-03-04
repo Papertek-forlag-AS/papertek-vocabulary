@@ -40,7 +40,7 @@ export default async function handler(req, res) {
     return res.status(405).json({ error: 'Method not allowed' });
   }
 
-  const { language, debug } = req.query;
+  const { language } = req.query;
 
   // Normalize language input
   const normalizedLang = language ? LANGUAGE_MAP[language.toLowerCase()] : null;
@@ -57,30 +57,11 @@ export default async function handler(req, res) {
     const vocabBase = getVocabBasePath();
     const langPath = path.join(vocabBase, 'banks', normalizedLang);
 
-    // Debug mode - show paths being checked
-    if (debug === 'true') {
-      const banksPath = path.join(vocabBase, 'banks');
-      Object.entries(corsHeaders).forEach(([key, value]) => res.setHeader(key, value));
-      return res.status(200).json({
-        debug: true,
-        cwd: process.cwd(),
-        vocabBase,
-        langPath,
-        vocabBaseExists: fs.existsSync(vocabBase),
-        langPathExists: fs.existsSync(langPath),
-        cwdContents: fs.existsSync(process.cwd()) ? fs.readdirSync(process.cwd()) : [],
-        vocabBaseContents: fs.existsSync(vocabBase) ? fs.readdirSync(vocabBase) : [],
-        banksContents: fs.existsSync(banksPath) ? fs.readdirSync(banksPath) : [],
-      });
-    }
-
     // Check if language folder exists
     if (!fs.existsSync(langPath)) {
       Object.entries(corsHeaders).forEach(([key, value]) => res.setHeader(key, value));
       return res.status(404).json({
-        error: 'Language not found',
-        path: langPath,
-        vocabBaseExists: fs.existsSync(vocabBase)
+        error: 'Language not found'
       });
     }
 
@@ -98,8 +79,9 @@ export default async function handler(req, res) {
     const { bank } = req.query;
 
     if (bank) {
-      // Return single bank file
-      const bankFile = bank.endsWith('.json') ? bank : `${bank}.json`;
+      // Return single bank file (sanitize to prevent path traversal)
+      const safeBankName = path.basename(bank.replace('.json', ''));
+      const bankFile = `${safeBankName}.json`;
       const bankPath = path.join(langPath, bankFile);
 
       if (!fs.existsSync(bankPath)) {

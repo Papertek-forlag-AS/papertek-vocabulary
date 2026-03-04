@@ -65,8 +65,9 @@ export default async function handler(req, res) {
     const { bank } = req.query;
 
     if (bank) {
-      // Return single bank file
-      const bankFile = bank.endsWith('.json') ? bank : `${bank}.json`;
+      // Return single bank file (sanitize to prevent path traversal)
+      const safeBankName = path.basename(bank.replace('.json', ''));
+      const bankFile = `${safeBankName}.json`;
       const bankPath = path.join(pairPath, bankFile);
 
       if (!fs.existsSync(bankPath)) {

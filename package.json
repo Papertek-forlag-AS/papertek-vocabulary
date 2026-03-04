@@ -2,8 +2,27 @@
   "name": "papertek-vocabulary",
   "version": "1.0.0",
   "description": "Papertek Vocabulary API — vocabulary data and API for language learning apps",
+  "license": "MIT",
   "private": true,
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/geirjr/papertek-vocabulary"
+  },
+  "homepage": "https://vocab.papertek.no",
+  "bugs": {
+    "url": "https://github.com/geirjr/papertek-vocabulary/issues"
+  },
+  "keywords": [
+    "vocabulary",
+    "language-learning",
+    "german",
+    "spanish",
+    "french",
+    "norwegian",
+    "api",
+    "education"
+  ],
   "scripts": {
     "dev": "vercel dev",
     "build:search-index": "node scripts/build-search-index.js",
