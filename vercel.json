@@ -5,7 +5,7 @@
   "functions": {
     "api/vocab/**/*.js": {
       "includeFiles": "vocabulary/**/*.json"
-    },
+    }
   },
   "headers": [
     {
