@@ -329,11 +329,7 @@
 
     <div class="base-url">
       <span class="label">Base URL</span>
-      <code>https://papertek-vocabulary.vercel.app/api/vocab</code>
-    </div>
-
-    <div class="note">
-      Using an AI assistant to integrate this API? Point it to <a href="/skill.md" style="color: var(--accent)">/skill.md</a> — a machine-readable reference with all endpoints, parameters, and examples.
+      <code>https://vocab.papertek.no/api/vocab</code>
     </div>
 
     <div class="stats">
@@ -663,15 +659,15 @@
     <div class="section">
       <h2>Quick start</h2>
 <pre><span style="color: var(--muted)">// Fetch German core vocabulary</span>
-const res = await fetch('https://papertek-vocabulary.vercel.app/api/vocab/v1/core/de');
+const res = await fetch('https://vocab.papertek.no/api/vocab/v1/core/de');
 const data = await res.json();
 
 <span style="color: var(--muted)">// Search for a word</span>
-const search = await fetch('https://papertek-vocabulary.vercel.app/api/vocab/v2/search/de?q=haus');
+const search = await fetch('https://vocab.papertek.no/api/vocab/v2/search/de?q=haus');
 const results = await search.json();
 
 <span style="color: var(--muted)">// Look up a specific word with full detail</span>
-const word = await fetch('https://papertek-vocabulary.vercel.app/api/vocab/v2/lookup/de/haus_noun');
+const word = await fetch('https://vocab.papertek.no/api/vocab/v2/lookup/de/haus_noun');
 const detail = await word.json();</pre>
     </div>
 
