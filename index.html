@@ -318,6 +318,229 @@
 
     footer a { color: var(--accent); text-decoration: none; }
     footer a:hover { text-decoration: underline; }
+
+    /* Search demo */
+    .search-box {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 1.5rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .search-controls {
+      display: flex;
+      gap: 0.75rem;
+      margin-bottom: 1rem;
+    }
+
+    .search-input {
+      flex: 1;
+      background: var(--code-bg);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 0.6rem 1rem;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      font-size: 0.95rem;
+      color: var(--text);
+      outline: none;
+      transition: border-color 0.2s;
+    }
+
+    .search-input:focus {
+      border-color: var(--accent);
+    }
+
+    .search-input::placeholder {
+      color: var(--muted);
+      opacity: 0.6;
+    }
+
+    .search-select {
+      background: var(--code-bg);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 0.6rem 0.75rem;
+      font-size: 0.9rem;
+      color: var(--text);
+      outline: none;
+      cursor: pointer;
+      -webkit-appearance: none;
+      appearance: none;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%238b8fa7' d='M3 5l3 3 3-3'/%3E%3C/svg%3E");
+      background-repeat: no-repeat;
+      background-position: right 0.6rem center;
+      padding-right: 2rem;
+    }
+
+    .search-select:focus {
+      border-color: var(--accent);
+    }
+
+    .search-hint {
+      font-size: 0.8rem;
+      color: var(--muted);
+      opacity: 0.7;
+    }
+
+    .search-results {
+      display: none;
+    }
+
+    .search-results.visible {
+      display: block;
+    }
+
+    .search-status {
+      font-size: 0.8rem;
+      color: var(--muted);
+      margin-bottom: 0.75rem;
+    }
+
+    .result-card {
+      background: var(--code-bg);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 0.85rem 1rem;
+      margin-bottom: 0.5rem;
+      cursor: pointer;
+      transition: border-color 0.15s, background 0.15s;
+    }
+
+    .result-card:hover {
+      border-color: var(--accent-dim);
+      background: rgba(108, 138, 255, 0.04);
+    }
+
+    .result-card.expanded {
+      border-color: var(--accent);
+    }
+
+    .result-top {
+      display: flex;
+      align-items: baseline;
+      gap: 0.75rem;
+    }
+
+    .result-word {
+      font-size: 1.05rem;
+      font-weight: 600;
+    }
+
+    .result-translation {
+      color: var(--muted);
+      font-size: 0.9rem;
+    }
+
+    .result-tags {
+      margin-left: auto;
+      display: flex;
+      gap: 0.4rem;
+      flex-shrink: 0;
+    }
+
+    .result-tag {
+      font-size: 0.65rem;
+      font-weight: 600;
+      padding: 0.1rem 0.4rem;
+      border-radius: 3px;
+      text-transform: uppercase;
+      letter-spacing: 0.03em;
+    }
+
+    .result-tag.type {
+      background: rgba(108, 138, 255, 0.15);
+      color: var(--accent);
+    }
+
+    .result-tag.cefr {
+      background: rgba(74, 222, 128, 0.15);
+      color: var(--green);
+    }
+
+    .result-tag.genus-m {
+      background: rgba(96, 165, 250, 0.15);
+      color: #60a5fa;
+    }
+
+    .result-tag.genus-f {
+      background: rgba(244, 114, 182, 0.15);
+      color: #f472b6;
+    }
+
+    .result-tag.genus-n {
+      background: rgba(251, 191, 36, 0.15);
+      color: var(--orange);
+    }
+
+    .result-detail {
+      display: none;
+      margin-top: 0.75rem;
+      padding-top: 0.75rem;
+      border-top: 1px solid var(--border);
+      font-size: 0.85rem;
+      color: var(--muted);
+      line-height: 1.8;
+    }
+
+    .result-card.expanded .result-detail {
+      display: block;
+    }
+
+    .detail-row {
+      display: flex;
+      gap: 0.5rem;
+    }
+
+    .detail-label {
+      color: var(--muted);
+      opacity: 0.7;
+      min-width: 90px;
+      flex-shrink: 0;
+    }
+
+    .detail-value {
+      color: var(--text);
+    }
+
+    .detail-value code {
+      font-family: "SF Mono", "Fira Code", monospace;
+      font-size: 0.8rem;
+      background: var(--surface);
+      padding: 0.1rem 0.35rem;
+      border-radius: 3px;
+      color: var(--accent);
+    }
+
+    .search-empty {
+      text-align: center;
+      padding: 1.5rem;
+      color: var(--muted);
+      font-size: 0.9rem;
+      opacity: 0.7;
+    }
+
+    .search-loading {
+      text-align: center;
+      padding: 1rem;
+      color: var(--muted);
+      font-size: 0.85rem;
+    }
+
+    .audio-btn {
+      background: none;
+      border: none;
+      cursor: pointer;
+      color: var(--accent);
+      font-size: 0.9rem;
+      padding: 0.1rem 0.3rem;
+      border-radius: 3px;
+      vertical-align: middle;
+    }
+
+    .audio-btn:hover {
+      background: rgba(108, 138, 255, 0.1);
+    }
   </style>
 </head>
 <body>
@@ -656,6 +879,27 @@
       </p>
     </div>
 
+    <!-- Try it -->
+    <div class="section">
+      <h2>Try it</h2>
+      <div class="search-box">
+        <div class="search-controls">
+          <input type="text" class="search-input" id="searchInput" placeholder="Search for a word..." autocomplete="off" spellcheck="false">
+          <select class="search-select" id="searchLang">
+            <option value="de">German</option>
+            <option value="es">Spanish</option>
+            <option value="fr">French</option>
+          </select>
+          <select class="search-select" id="searchTransLang">
+            <option value="nb">Norwegian</option>
+            <option value="en">English</option>
+          </select>
+        </div>
+        <div class="search-hint">Type at least 2 characters to search. Click a result to see full details.</div>
+      </div>
+      <div class="search-results" id="searchResults"></div>
+    </div>
+
     <!-- Quick Start -->
     <div class="section">
       <h2>Quick start</h2>
@@ -677,5 +921,209 @@ const detail = await word.json();</pre>
       <p>Built by <a href="https://www.papertek.no">Papertek</a></p>
     </footer>
   </div>
+  <script>
+  (() => {
+    const input = document.getElementById('searchInput');
+    const langSelect = document.getElementById('searchLang');
+    const transSelect = document.getElementById('searchTransLang');
+    const resultsDiv = document.getElementById('searchResults');
+    const API = '/api/vocab/v2';
+    let debounceTimer = null;
+    let currentAudio = null;
+
+    function debounce(fn, ms) {
+      return (...args) => {
+        clearTimeout(debounceTimer);
+        debounceTimer = setTimeout(() => fn(...args), ms);
+      };
+    }
+
+    function genusLabel(g) {
+      if (g === 'm') return 'der';
+      if (g === 'f') return 'die';
+      if (g === 'n') return 'das';
+      return g;
+    }
+
+    function genusClass(g) {
+      if (g === 'm') return 'genus-m';
+      if (g === 'f') return 'genus-f';
+      if (g === 'n') return 'genus-n';
+      return '';
+    }
+
+    function renderResults(data) {
+      if (!data.results || data.results.length === 0) {
+        resultsDiv.innerHTML = '<div class="search-empty">No results found</div>';
+        resultsDiv.classList.add('visible');
+        return;
+      }
+
+      const status = `<div class="search-status">${data._meta.totalMatches} match${data._meta.totalMatches !== 1 ? 'es' : ''}, showing ${data._meta.returned}</div>`;
+
+      const cards = data.results.map((r, i) => {
+        const tags = [];
+        if (r.type) tags.push(`<span class="result-tag type">${r.type}</span>`);
+        if (r.genus) tags.push(`<span class="result-tag ${genusClass(r.genus)}">${genusLabel(r.genus)}</span>`);
+        if (r.cefr) tags.push(`<span class="result-tag cefr">${r.cefr}</span>`);
+
+        return `<div class="result-card" data-word-id="${r.wordId}" data-lang="${langSelect.value}" data-index="${i}">
+          <div class="result-top">
+            <span class="result-word">${escHtml(r.word)}</span>
+            <span class="result-translation">${r.translation ? escHtml(r.translation) : ''}</span>
+            <span class="result-tags">${tags.join('')}</span>
+          </div>
+          <div class="result-detail" id="detail-${i}"></div>
+        </div>`;
+      }).join('');
+
+      resultsDiv.innerHTML = status + cards;
+      resultsDiv.classList.add('visible');
+    }
+
+    function escHtml(s) {
+      const d = document.createElement('div');
+      d.textContent = s;
+      return d.innerHTML;
+    }
+
+    async function doSearch() {
+      const q = input.value.trim();
+      if (q.length < 2) {
+        resultsDiv.classList.remove('visible');
+        resultsDiv.innerHTML = '';
+        return;
+      }
+
+      resultsDiv.innerHTML = '<div class="search-loading">Searching...</div>';
+      resultsDiv.classList.add('visible');
+
+      try {
+        const lang = langSelect.value;
+        const transLang = transSelect.value;
+        const url = `${API}/search/${lang}?q=${encodeURIComponent(q)}&lang=${transLang}&limit=15`;
+        const res = await fetch(url);
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const data = await res.json();
+        renderResults(data);
+      } catch (err) {
+        resultsDiv.innerHTML = `<div class="search-empty">Error: ${escHtml(err.message)}</div>`;
+      }
+    }
+
+    async function loadDetail(card) {
+      const wordId = card.dataset.wordId;
+      const lang = card.dataset.lang;
+      const idx = card.dataset.index;
+      const detailDiv = document.getElementById(`detail-${idx}`);
+
+      if (card.classList.contains('expanded')) {
+        card.classList.remove('expanded');
+        return;
+      }
+
+      // Collapse others
+      document.querySelectorAll('.result-card.expanded').forEach(c => c.classList.remove('expanded'));
+
+      if (detailDiv.dataset.loaded) {
+        card.classList.add('expanded');
+        return;
+      }
+
+      detailDiv.innerHTML = '<span style="opacity:0.5">Loading...</span>';
+      card.classList.add('expanded');
+
+      try {
+        const transLang = transSelect.value;
+        const res = await fetch(`${API}/lookup/${lang}/${wordId}?lang=${transLang}`);
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const w = await res.json();
+
+        const rows = [];
+
+        // Word + audio
+        let wordLine = `<strong>${escHtml(w.word)}</strong>`;
+        if (w.audioUrl) {
+          wordLine += ` <button class="audio-btn" onclick="event.stopPropagation(); playAudio('${escHtml(w.audioUrl)}')" title="Play audio">&#9654;</button>`;
+        }
+        rows.push(row('Word', wordLine));
+
+        if (w.translation) rows.push(row('Translation', escHtml(w.translation)));
+        if (w.synonyms && w.synonyms.length) rows.push(row('Synonyms', w.synonyms.map(escHtml).join(', ')));
+        if (w.translationSynonyms && w.translationSynonyms.length) rows.push(row('Alt. translations', w.translationSynonyms.map(escHtml).join(', ')));
+        if (w.genus) rows.push(row('Genus', genusLabel(w.genus) + ' (' + w.genus + ')'));
+        if (w.plural) rows.push(row('Plural', escHtml(w.plural)));
+        if (w.explanation) rows.push(row('Explanation', escHtml(w.explanation)));
+        if (w.cefr) rows.push(row('CEFR', w.cefr));
+        if (w.frequency) rows.push(row('Frequency', '#' + w.frequency));
+
+        // Conjugations
+        if (w.conjugations) {
+          for (const [tense, data] of Object.entries(w.conjugations)) {
+            if (data && data.former) {
+              const forms = Object.entries(data.former).map(([pron, form]) => `${pron}: ${form}`).join(', ');
+              rows.push(row(tense.charAt(0).toUpperCase() + tense.slice(1), escHtml(forms)));
+            }
+          }
+        }
+
+        // Cases
+        if (w.cases) {
+          for (const [caseName, caseData] of Object.entries(w.cases)) {
+            if (caseData && typeof caseData === 'object') {
+              const parts = Object.entries(caseData)
+                .filter(([k]) => k !== 'feature')
+                .map(([k, v]) => `${k}: ${v}`).join(', ');
+              if (parts) rows.push(row(caseName.charAt(0).toUpperCase() + caseName.slice(1), escHtml(parts)));
+            }
+          }
+        }
+
+        // Examples
+        if (w.examples && w.examples.length) {
+          const exList = w.examples.slice(0, 3).map(ex => {
+            if (typeof ex === 'string') return escHtml(ex);
+            return `${escHtml(ex.de || ex.sentence || '')} &mdash; ${escHtml(ex.nb || ex.translation || '')}`;
+          }).join('<br>');
+          rows.push(row('Examples', exList));
+        }
+
+        // Grammar features
+        if (w.grammarFeatures && w.grammarFeatures.length) {
+          rows.push(row('Grammar', w.grammarFeatures.map(f => `<code>${f}</code>`).join(' ')));
+        }
+
+        // Word ID
+        rows.push(row('ID', `<code>${escHtml(wordId)}</code>`));
+
+        detailDiv.innerHTML = rows.join('');
+        detailDiv.dataset.loaded = '1';
+      } catch (err) {
+        detailDiv.innerHTML = `<span style="color:#f87171">Failed to load: ${escHtml(err.message)}</span>`;
+      }
+    }
+
+    function row(label, value) {
+      return `<div class="detail-row"><span class="detail-label">${label}</span><span class="detail-value">${value}</span></div>`;
+    }
+
+    // Audio playback
+    window.playAudio = function(url) {
+      if (currentAudio) { currentAudio.pause(); currentAudio = null; }
+      currentAudio = new Audio(url);
+      currentAudio.play().catch(() => {});
+    };
+
+    // Event listeners
+    input.addEventListener('input', debounce(doSearch, 300));
+    langSelect.addEventListener('change', () => { if (input.value.trim().length >= 2) doSearch(); });
+    transSelect.addEventListener('change', () => { if (input.value.trim().length >= 2) doSearch(); });
+
+    resultsDiv.addEventListener('click', (e) => {
+      const card = e.target.closest('.result-card');
+      if (card) loadDetail(card);
+    });
+  })();
+  </script>
 </body>
 </html>
