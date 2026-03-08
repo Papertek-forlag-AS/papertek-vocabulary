@@ -22,6 +22,17 @@ function getVocabBasePath() {
   return path.join(process.cwd(), 'vocabulary');
 }
 
+// Resolve the language data directory — checks banks/ first, then core/
+function resolveLangPath(vocabBase, langCode) {
+  const banksPath = path.join(vocabBase, 'banks', langCode);
+  if (fs.existsSync(banksPath)) return banksPath;
+
+  const corePath = path.join(vocabBase, 'core', langCode);
+  if (fs.existsSync(corePath)) return corePath;
+
+  return null;
+}
+
 // Module-level cache for search indices (survives across warm invocations)
 const indexCache = {};
 
@@ -29,7 +40,10 @@ function loadSearchIndex(vocabBase, langCode) {
   const cacheKey = langCode;
   if (indexCache[cacheKey]) return indexCache[cacheKey];
 
-  const indexPath = path.join(vocabBase, 'banks', langCode, 'search-index.json');
+  const langPath = resolveLangPath(vocabBase, langCode);
+  if (!langPath) return null;
+
+  const indexPath = path.join(langPath, 'search-index.json');
   if (!fs.existsSync(indexPath)) return null;
 
   const data = JSON.parse(fs.readFileSync(indexPath, 'utf-8'));

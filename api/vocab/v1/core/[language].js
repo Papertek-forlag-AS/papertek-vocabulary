@@ -23,9 +23,20 @@ const LANGUAGE_MAP = {
   'francais': 'fr'
 };
 
-// Get the vocabulary base path - try multiple locations
+// Get the vocabulary base path
 function getVocabBasePath() {
   return path.join(process.cwd(), 'vocabulary');
+}
+
+// Resolve the language data directory — checks banks/ first, then core/
+function resolveLangPath(vocabBase, langCode) {
+  const banksPath = path.join(vocabBase, 'banks', langCode);
+  if (fs.existsSync(banksPath)) return banksPath;
+
+  const corePath = path.join(vocabBase, 'core', langCode);
+  if (fs.existsSync(corePath)) return corePath;
+
+  return null;
 }
 
 export default async function handler(req, res) {
@@ -55,24 +66,14 @@ export default async function handler(req, res) {
 
   try {
     const vocabBase = getVocabBasePath();
-    const langPath = path.join(vocabBase, 'banks', normalizedLang);
+    const langPath = resolveLangPath(vocabBase, normalizedLang);
 
     // Check if language folder exists
-    if (!fs.existsSync(langPath)) {
+    if (!langPath) {
       Object.entries(corsHeaders).forEach(([key, value]) => res.setHeader(key, value));
       return res.status(404).json({
         error: 'Language not found'
       });
-    }
-
-    // Load manifest to get curriculum IDs for filtering
-    const manifestPath = path.join(langPath, 'manifest.json');
-    const manifest = JSON.parse(fs.readFileSync(manifestPath, 'utf-8'));
-
-    // Build a Set of curriculum IDs per bank from manifest.banks[bankName].ids
-    const curriculumIdsByBank = {};
-    for (const [bankName, bankInfo] of Object.entries(manifest.banks)) {
-      curriculumIdsByBank[bankName] = new Set(bankInfo.ids);
     }
 
     // Optional: get specific bank via query param ?bank=verbbank
@@ -93,27 +94,9 @@ export default async function handler(req, res) {
       }
 
       const data = JSON.parse(fs.readFileSync(bankPath, 'utf-8'));
-      const bankName = bank.replace('.json', '');
-      const curriculumIds = curriculumIdsByBank[bankName];
-
-      // Filter to only curriculum entries (plus _metadata if present)
-      let filtered;
-      if (curriculumIds) {
-        const { _metadata, ...words } = data;
-        const curriculumWords = {};
-        for (const [wordId, wordData] of Object.entries(words)) {
-          if (curriculumIds.has(wordId)) {
-            curriculumWords[wordId] = wordData;
-          }
-        }
-        filtered = _metadata ? { _metadata, ...curriculumWords } : curriculumWords;
-      } else {
-        filtered = data;
-      }
-
       Object.entries(corsHeaders).forEach(([key, value]) => res.setHeader(key, value));
       res.setHeader('Content-Type', 'application/json');
-      return res.status(200).json(filtered);
+      return res.status(200).json(data);
     }
 
     // Return all banks combined
@@ -132,21 +115,8 @@ export default async function handler(req, res) {
 
       const bankName = file.replace('.json', '');
       const data = JSON.parse(fs.readFileSync(path.join(langPath, file), 'utf-8'));
-
-      // Remove internal metadata from each bank, filter to curriculum entries only
       const { _metadata, ...words } = data;
-      const curriculumIds = curriculumIdsByBank[bankName];
-      if (curriculumIds) {
-        const curriculumWords = {};
-        for (const [wordId, wordData] of Object.entries(words)) {
-          if (curriculumIds.has(wordId)) {
-            curriculumWords[wordId] = wordData;
-          }
-        }
-        combined[bankName] = curriculumWords;
-      } else {
-        combined[bankName] = words;
-      }
+      combined[bankName] = words;
       combined._metadata.banks.push(bankName);
     }
 

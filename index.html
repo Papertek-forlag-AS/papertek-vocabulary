@@ -338,12 +338,8 @@
         <div class="label">Languages</div>
       </div>
       <div class="stat">
-        <div class="value">870+</div>
-        <div class="label">Core words</div>
-      </div>
-      <div class="stat">
-        <div class="value">3 196</div>
-        <div class="label">Dictionary (DE)</div>
+        <div class="value">5 448</div>
+        <div class="label">Total words</div>
       </div>
       <div class="stat">
         <div class="value">6 000+</div>
@@ -366,23 +362,24 @@
         <div class="lang-card">
           <h3>German (de)</h3>
           <div class="meta">
-            870 core words<br>
-            3 196 dictionary words<br>
+            3 454 words<br>
             3 567 audio files<br>
-            CEFR A1&ndash;B1 coverage
+            CEFR A1&ndash;B1 coverage<br>
+            8 curricula
           </div>
         </div>
         <div class="lang-card">
           <h3>Spanish (es)</h3>
           <div class="meta">
-            870 core words<br>
-            993 audio files
+            1 017 words<br>
+            993 audio files<br>
+            1 curriculum
           </div>
         </div>
         <div class="lang-card">
           <h3>French (fr)</h3>
           <div class="meta">
-            870 core words<br>
+            977 words<br>
             1 457 audio files
           </div>
         </div>
@@ -440,6 +437,8 @@
             </tr>
           </table>
           <a class="try-link" href="/api/vocab/v1/core/de" target="_blank">/api/vocab/v1/core/de</a><br>
+          <a class="try-link" href="/api/vocab/v1/core/es" target="_blank">/api/vocab/v1/core/es</a><br>
+          <a class="try-link" href="/api/vocab/v1/core/fr" target="_blank">/api/vocab/v1/core/fr</a><br>
           <a class="try-link" href="/api/vocab/v1/core/de?bank=verbbank" target="_blank">/api/vocab/v1/core/de?bank=verbbank</a>
         </div>
       </div>
@@ -590,7 +589,8 @@
             </tr>
           </table>
           <a class="try-link" href="/api/vocab/v2/search/de?q=haus" target="_blank">/api/vocab/v2/search/de?q=haus</a><br>
-          <a class="try-link" href="/api/vocab/v2/search/de?q=sein&type=verb" target="_blank">/api/vocab/v2/search/de?q=sein&amp;type=verb</a>
+          <a class="try-link" href="/api/vocab/v2/search/es?q=casa" target="_blank">/api/vocab/v2/search/es?q=casa</a><br>
+          <a class="try-link" href="/api/vocab/v2/search/fr?q=maison" target="_blank">/api/vocab/v2/search/fr?q=maison</a>
         </div>
       </div>
 
@@ -639,7 +639,8 @@
   "grammarFeatures": ["grammar_articles", "grammar_plural", "grammar_accusative_definite", "grammar_dative"]
 }</pre>
           <a class="try-link" href="/api/vocab/v2/lookup/de/haus_noun" target="_blank">/api/vocab/v2/lookup/de/haus_noun</a><br>
-          <a class="try-link" href="/api/vocab/v2/lookup/de/sein_verb" target="_blank">/api/vocab/v2/lookup/de/sein_verb</a>
+          <a class="try-link" href="/api/vocab/v2/lookup/es/casa_noun" target="_blank">/api/vocab/v2/lookup/es/casa_noun</a><br>
+          <a class="try-link" href="/api/vocab/v2/lookup/fr/maison_noun" target="_blank">/api/vocab/v2/lookup/fr/maison_noun</a>
         </div>
       </div>
     </div>
@@ -658,16 +659,17 @@
     <!-- Quick Start -->
     <div class="section">
       <h2>Quick start</h2>
-<pre><span style="color: var(--muted)">// Fetch German core vocabulary</span>
-const res = await fetch('https://vocab.papertek.no/api/vocab/v1/core/de');
-const data = await res.json();
+<pre><span style="color: var(--muted)">// Fetch all vocabulary for a language</span>
+const de = await fetch('https://vocab.papertek.no/api/vocab/v1/core/de');
+const es = await fetch('https://vocab.papertek.no/api/vocab/v1/core/es');
+const fr = await fetch('https://vocab.papertek.no/api/vocab/v1/core/fr');
 
-<span style="color: var(--muted)">// Search for a word</span>
-const search = await fetch('https://vocab.papertek.no/api/vocab/v2/search/de?q=haus');
+<span style="color: var(--muted)">// Search across any language</span>
+const search = await fetch('https://vocab.papertek.no/api/vocab/v2/search/es?q=casa');
 const results = await search.json();
 
 <span style="color: var(--muted)">// Look up a specific word with full detail</span>
-const word = await fetch('https://vocab.papertek.no/api/vocab/v2/lookup/de/haus_noun');
+const word = await fetch('https://vocab.papertek.no/api/vocab/v2/lookup/fr/maison_noun');
 const detail = await word.json();</pre>
     </div>
 

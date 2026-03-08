@@ -47,6 +47,17 @@ function getVocabBasePath() {
   return path.join(process.cwd(), 'vocabulary');
 }
 
+// Resolve the language data directory — checks banks/ first, then core/
+function resolveLangPath(vocabBase, langCode) {
+  const banksPath = path.join(vocabBase, 'banks', langCode);
+  if (fs.existsSync(banksPath)) return banksPath;
+
+  const corePath = path.join(vocabBase, 'core', langCode);
+  if (fs.existsSync(corePath)) return corePath;
+
+  return null;
+}
+
 /**
  * Determine which bank file a word ID belongs to.
  * Tries suffix matching: "familie_noun" -> "noun" -> nounbank
@@ -78,8 +89,8 @@ function wordIdToBank(wordId) {
  * Search all banks for a word ID (fallback when suffix mapping fails)
  */
 function findWordInAllBanks(vocabBase, langCode, wordId) {
-  const banksPath = path.join(vocabBase, 'banks', langCode);
-  if (!fs.existsSync(banksPath)) return null;
+  const banksPath = resolveLangPath(vocabBase, langCode);
+  if (!banksPath) return null;
 
   const files = fs.readdirSync(banksPath).filter(f => f.endsWith('bank.json'));
 
@@ -127,9 +138,10 @@ export default async function handler(req, res) {
     let bankName = null;
 
     // Try direct bank lookup first
+    const langPath = resolveLangPath(vocabBase, langCode);
     const guessedBank = wordIdToBank(wordId);
-    if (guessedBank) {
-      const bankPath = path.join(vocabBase, 'banks', langCode, `${guessedBank}.json`);
+    if (guessedBank && langPath) {
+      const bankPath = path.join(langPath, `${guessedBank}.json`);
       if (fs.existsSync(bankPath)) {
         const bankData = JSON.parse(fs.readFileSync(bankPath, 'utf-8'));
         if (bankData[wordId]) {
@@ -179,7 +191,7 @@ export default async function handler(req, res) {
       word: entry.word,
       type: entry.type || null,
       audio: entry.audio || null,
-      audioUrl: entry.audio ? `/shared/vocabulary/banks/${langCode}/audio/${entry.audio}` : null,
+      audioUrl: entry.audio ? `/vocabulary/${langPath.includes('/banks/') ? 'banks' : 'core'}/${langCode}/audio/${entry.audio}` : null,
 
       // Translation fields
       translation: translationEntry?.translation || null,

@@ -29,32 +29,58 @@ export default async function handler(req, res) {
   try {
     const vocabPath = path.join(process.cwd(), 'vocabulary');
 
-    // Read core languages from banks/
+    // Discover all languages from both banks/ and core/ directories
     const banksPath = path.join(vocabPath, 'banks');
-    const coreLanguages = fs.readdirSync(banksPath)
-      .filter(f => fs.statSync(path.join(banksPath, f)).isDirectory());
+    const corePath = path.join(vocabPath, 'core');
+    const langDirs = new Set();
+
+    if (fs.existsSync(banksPath)) {
+      fs.readdirSync(banksPath)
+        .filter(f => fs.statSync(path.join(banksPath, f)).isDirectory())
+        .forEach(f => langDirs.add(f));
+    }
+    if (fs.existsSync(corePath)) {
+      fs.readdirSync(corePath)
+        .filter(f => fs.statSync(path.join(corePath, f)).isDirectory())
+        .forEach(f => langDirs.add(f));
+    }
+    const coreLanguages = [...langDirs];
+
+    // Helper to resolve language data path (banks/ preferred over core/)
+    function resolveLangPath(lang) {
+      const bp = path.join(banksPath, lang);
+      if (fs.existsSync(bp)) return bp;
+      const cp = path.join(corePath, lang);
+      if (fs.existsSync(cp)) return cp;
+      return null;
+    }
 
     // Read translation packs
     const translationsPath = path.join(vocabPath, 'translations');
     const translationPacks = fs.readdirSync(translationsPath)
       .filter(f => fs.statSync(path.join(translationsPath, f)).isDirectory());
 
-    // Build core manifests from banks/ structure
+    // Build core manifests from banks/ and core/ structures
     const core = {};
     for (const lang of coreLanguages) {
-      const manifestPath = path.join(banksPath, lang, 'manifest.json');
-      if (fs.existsSync(manifestPath)) {
+      const langPath = resolveLangPath(lang);
+      if (!langPath) continue;
+
+      const manifestPath = path.join(langPath, 'manifest.json');
+      const hasManifest = fs.existsSync(manifestPath);
+
+      // Check for audio folder
+      const audioPath = path.join(langPath, 'audio');
+      const hasAudio = fs.existsSync(audioPath);
+      const audioCount = hasAudio
+        ? fs.readdirSync(audioPath).filter(f => f.endsWith('.mp3')).length
+        : 0;
+
+      // Determine the relative path for audio URLs
+      const relativeDir = langPath.includes('/banks/') ? 'banks' : 'core';
+
+      if (hasManifest) {
         const manifest = JSON.parse(fs.readFileSync(manifestPath, 'utf-8'));
-
-        // Check for audio folder
-        const audioPath = path.join(banksPath, lang, 'audio');
-        const hasAudio = fs.existsSync(audioPath);
-        const audioCount = hasAudio
-          ? fs.readdirSync(audioPath).filter(f => f.endsWith('.mp3')).length
-          : 0;
-
-        // New manifest structure: manifest.banks keys = bank file names
-        // manifest.summary.curriculumWords = total curriculum words (v1 returns curriculum only)
         const bankFiles = Object.keys(manifest.banks || {});
 
         core[lang] = {
@@ -65,7 +91,32 @@ export default async function handler(req, res) {
           updatedAt: manifest._metadata.generatedAt,
           endpoint: `/api/vocab/v1/core/${lang}`,
           audio: hasAudio ? {
-            baseUrl: `/shared/vocabulary/banks/${lang}/audio`,
+            baseUrl: `/vocabulary/${relativeDir}/${lang}/audio`,
+            fileCount: audioCount,
+            format: 'mp3'
+          } : null
+        };
+      } else {
+        // No manifest — count words from bank files directly
+        const bankFiles = fs.readdirSync(langPath)
+          .filter(f => f.endsWith('bank.json'))
+          .map(f => f.replace('.json', ''));
+        let totalWords = 0;
+        for (const file of bankFiles) {
+          const data = JSON.parse(fs.readFileSync(path.join(langPath, `${file}.json`), 'utf-8'));
+          const { _metadata, ...words } = data;
+          totalWords += Object.keys(words).length;
+        }
+
+        core[lang] = {
+          language: LANGUAGE_NAMES[lang] || lang,
+          version: null,
+          totalWords,
+          files: bankFiles,
+          updatedAt: null,
+          endpoint: `/api/vocab/v1/core/${lang}`,
+          audio: hasAudio ? {
+            baseUrl: `/vocabulary/${relativeDir}/${lang}/audio`,
             fileCount: audioCount,
             format: 'mp3'
           } : null
@@ -122,10 +173,13 @@ export default async function handler(req, res) {
       }
     }
 
-    // Build dictionary info (v2 endpoints) from banks/ manifests
+    // Build dictionary info (v2 endpoints) from available languages
     const dictionary = {};
     for (const lang of coreLanguages) {
-      const bankManifestPath = path.join(banksPath, lang, 'manifest.json');
+      const langPath = resolveLangPath(lang);
+      if (!langPath) continue;
+
+      const bankManifestPath = path.join(langPath, 'manifest.json');
       if (fs.existsSync(bankManifestPath)) {
         const bankManifest = JSON.parse(fs.readFileSync(bankManifestPath, 'utf-8'));
         dictionary[lang] = {
@@ -133,6 +187,23 @@ export default async function handler(req, res) {
           totalWords: bankManifest.summary?.totalWords || 0,
           curriculumWords: bankManifest.summary?.curriculumWords || 0,
           dictionaryOnlyWords: bankManifest.summary?.dictionaryOnlyWords || 0,
+          searchEndpoint: `/api/vocab/v2/search/${lang}`,
+          lookupEndpoint: `/api/vocab/v2/lookup/${lang}/{wordId}`,
+        };
+      } else {
+        // No manifest — count from files
+        const bankFiles = fs.readdirSync(langPath).filter(f => f.endsWith('bank.json'));
+        let totalWords = 0;
+        for (const file of bankFiles) {
+          const data = JSON.parse(fs.readFileSync(path.join(langPath, file), 'utf-8'));
+          const { _metadata, ...words } = data;
+          totalWords += Object.keys(words).length;
+        }
+        dictionary[lang] = {
+          version: null,
+          totalWords,
+          curriculumWords: 0,
+          dictionaryOnlyWords: totalWords,
           searchEndpoint: `/api/vocab/v2/search/${lang}`,
           lookupEndpoint: `/api/vocab/v2/lookup/${lang}/{wordId}`,
         };

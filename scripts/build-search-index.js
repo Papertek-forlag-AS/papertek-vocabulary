@@ -1,190 +1,259 @@
 /**
  * build-search-index.js
  *
- * Phase 20 BANK-05: Full rebuild of vocabulary/banks/de/search-index.json
- * from all merged banks under vocabulary/banks/de/.
+ * Builds search-index.json for any supported language (de, es, fr).
+ * Reads all bank files from the language's data directory and produces
+ * a compact search index sorted alphabetically by id.
  *
- * All 8 merged banks are read:
- *   verbbank, nounbank, adjectivebank, generalbank,
- *   articlesbank, numbersbank, phrasesbank, pronounsbank
+ * Usage:
+ *   node scripts/build-search-index.js de
+ *   node scripts/build-search-index.js es
+ *   node scripts/build-search-index.js fr
+ *   node scripts/build-search-index.js all   (builds all three)
  *
- * Translation lookup (single directory per language pair):
- *   de-nb / de-en (merged translations — Phase 21 consolidated all translations here)
- *
- * Verb entry fields: id, w, t, f, c, cur, vc, sep, pp, tr.nb, tr.en
- * Noun entry fields: id, w, t, f, c, cur, g, tr.nb, tr.en
- * Other entry fields: id, w, t, f, c, cur, tr.nb, tr.en
- *
- * Phase 10 decision: entries sorted alphabetically by id.
- * User decision: NO case hints on noun entries in the search index.
- * User decision: pp = bare participle (e.g. "angefangen", not "hat angefangen").
- * User decision: Full rebuild (not partial) to guarantee no stale data.
+ * Translation sources:
+ *   - German (de): separate translation files in vocabulary/translations/de-{nb,en}/
+ *   - Spanish/French: inline translations in bank entries (.translations.nb, .translations.en)
+ *   - Falls back to separate translation files if inline translations are missing
  */
 
-import { readFileSync, writeFileSync } from 'fs';
+import { readFileSync, writeFileSync, existsSync, readdirSync } from 'fs';
+import { join } from 'path';
 
-const BASE = 'vocabulary/banks/de';
-const TRANS_BASE = 'vocabulary/translations';
+const VOCAB_BASE = 'vocabulary';
+const TRANS_BASE = join(VOCAB_BASE, 'translations');
 
-// ── Load all 8 merged banks ────────────────────────────────────────────────
-const verbBank     = JSON.parse(readFileSync(`${BASE}/verbbank.json`,       'utf8'));
-const nounBank     = JSON.parse(readFileSync(`${BASE}/nounbank.json`,       'utf8'));
-const adjBank      = JSON.parse(readFileSync(`${BASE}/adjectivebank.json`,  'utf8'));
-const generalBank  = JSON.parse(readFileSync(`${BASE}/generalbank.json`,    'utf8'));
-const articlesBank = JSON.parse(readFileSync(`${BASE}/articlesbank.json`,   'utf8'));
-const numbersBank  = JSON.parse(readFileSync(`${BASE}/numbersbank.json`,    'utf8'));
-const phrasesBank  = JSON.parse(readFileSync(`${BASE}/phrasesbank.json`,    'utf8'));
-const pronounsBank = JSON.parse(readFileSync(`${BASE}/pronounsbank.json`,   'utf8'));
-
-// ── Load translation files ─────────────────────────────────────────────────
-// Single translation directory per language pair (Phase 21 consolidated all translations)
-const nb = {
-  verb:        JSON.parse(readFileSync(`${TRANS_BASE}/de-nb/verbbank.json`,        'utf8')),
-  noun:        JSON.parse(readFileSync(`${TRANS_BASE}/de-nb/nounbank.json`,        'utf8')),
-  adj:         JSON.parse(readFileSync(`${TRANS_BASE}/de-nb/adjectivebank.json`,   'utf8')),
-  general:     JSON.parse(readFileSync(`${TRANS_BASE}/de-nb/generalbank.json`,     'utf8')),
-  articles:    JSON.parse(readFileSync(`${TRANS_BASE}/de-nb/articlesbank.json`,    'utf8')),
-  numbers:     JSON.parse(readFileSync(`${TRANS_BASE}/de-nb/numbersbank.json`,     'utf8')),
-  phrases:     JSON.parse(readFileSync(`${TRANS_BASE}/de-nb/phrasesbank.json`,     'utf8')),
-  pronouns:    JSON.parse(readFileSync(`${TRANS_BASE}/de-nb/pronounsbank.json`,    'utf8')),
-};
-const en = {
-  verb:        JSON.parse(readFileSync(`${TRANS_BASE}/de-en/verbbank.json`,        'utf8')),
-  noun:        JSON.parse(readFileSync(`${TRANS_BASE}/de-en/nounbank.json`,        'utf8')),
-  adj:         JSON.parse(readFileSync(`${TRANS_BASE}/de-en/adjectivebank.json`,   'utf8')),
-  general:     JSON.parse(readFileSync(`${TRANS_BASE}/de-en/generalbank.json`,     'utf8')),
-  articles:    JSON.parse(readFileSync(`${TRANS_BASE}/de-en/articlesbank.json`,    'utf8')),
-  numbers:     JSON.parse(readFileSync(`${TRANS_BASE}/de-en/numbersbank.json`,     'utf8')),
-  phrases:     JSON.parse(readFileSync(`${TRANS_BASE}/de-en/phrasesbank.json`,     'utf8')),
-  pronouns:    JSON.parse(readFileSync(`${TRANS_BASE}/de-en/pronounsbank.json`,    'utf8')),
+// Bank file name → internal type key
+const BANK_TYPE_MAP = {
+  verbbank:      'verb',
+  nounbank:      'noun',
+  adjectivebank: 'adj',
+  generalbank:   'general',
+  articlesbank:  'articles',
+  numbersbank:   'numbers',
+  phrasesbank:   'phrases',
+  pronounsbank:  'pronouns',
 };
 
 /**
- * Look up translation for an entry id from a translation map.
- *
- * @param {string} id - entry key (e.g. "anfangen_verb")
- * @param {string} bankType - which group to look in: 'verb'|'noun'|'adj'|'general'|'articles'|...
- * @param {object} transMap - language translation map (object with translation files)
- * @returns {string|undefined}
+ * Resolve the data directory for a language (banks/ or core/)
  */
-function getTranslation(id, bankType, transMap) {
-  const source = transMap[bankType];
-  if (source && source[id]?.translation) return source[id].translation;
+function resolveLangPath(langCode) {
+  const banksPath = join(VOCAB_BASE, 'banks', langCode);
+  if (existsSync(banksPath)) return banksPath;
+
+  const corePath = join(VOCAB_BASE, 'core', langCode);
+  if (existsSync(corePath)) return corePath;
+
+  return null;
+}
+
+/**
+ * Load translation files for a language pair (e.g. de-nb).
+ * Returns an object keyed by bank type, or null if the pair doesn't exist.
+ */
+function loadTranslationPair(langCode, transLang) {
+  const pairDir = join(TRANS_BASE, `${langCode}-${transLang}`);
+  if (!existsSync(pairDir)) return null;
+
+  const translations = {};
+  for (const [fileName, bankType] of Object.entries(BANK_TYPE_MAP)) {
+    const filePath = join(pairDir, `${fileName}.json`);
+    if (existsSync(filePath)) {
+      translations[bankType] = JSON.parse(readFileSync(filePath, 'utf8'));
+    }
+  }
+  return translations;
+}
+
+/**
+ * Get translation for a word from either inline entry data or separate translation files.
+ */
+function getTranslation(entry, id, bankType, transLang, translationFiles) {
+  // Try inline translations first (fr/es store translations in the entry)
+  if (entry.translations?.[transLang]) {
+    return entry.translations[transLang];
+  }
+
+  // Fall back to separate translation files (de uses this)
+  if (translationFiles) {
+    const source = translationFiles[bankType];
+    if (source?.[id]?.translation) return source[id].translation;
+  }
+
   return undefined;
 }
 
 /**
- * Build a compact search index entry from a bank entry.
- *
- * @param {string} id - entry key
- * @param {object} entry - raw bank entry
- * @param {string} bankType - 'verb'|'noun'|'adj'|'general'|'articles'|'numbers'|'phrases'|'pronouns'
- * @returns {object} compact index entry
+ * Determine the search index type for an entry.
  */
-function buildEntry(id, entry, bankType) {
-  // Determine the search index type
-  // For generalbank: entries have a .type field (interj, phrase, adv, etc.)
-  //   entries WITHOUT a .type field use 'general'
-  // For all other banks: fixed types
-  const bankTypeMap = {
-    verb:      'verb',
-    noun:      'noun',
-    adj:       'adj',
-    articles:  entry.type || 'art',   // articlesbank entries have type (art, contr)
-    numbers:   'num',
-    phrases:   'phrase',
-    pronouns:  'pron',
+function resolveType(entry, bankType) {
+  const fixedTypes = {
+    verb:     'verb',
+    noun:     'noun',
+    adj:      'adj',
+    numbers:  'num',
+    phrases:  'phrase',
+    pronouns: 'pron',
   };
 
-  let t;
   if (bankType === 'general') {
-    t = entry.type || 'general';
-  } else {
-    t = bankTypeMap[bankType];
+    return entry.type || 'general';
   }
 
-  const nbTr = getTranslation(id, bankType, nb);
-  const enTr = getTranslation(id, bankType, en);
+  if (bankType === 'articles') {
+    // Normalize language-specific article types
+    const entryType = entry.type || '';
+    if (entryType === 'article' || entryType === 'articulo') return 'art';
+    if (entryType === 'contraction') return 'contr';
+    return entry.type || 'art';
+  }
+
+  // For verbs, normalize language-specific type names
+  if (bankType === 'verb') {
+    return 'verb'; // normalise 'verbe' (fr) → 'verb'
+  }
+
+  return fixedTypes[bankType] || bankType;
+}
+
+/**
+ * Build a compact search index entry.
+ */
+function buildEntry(id, entry, bankType, transLangs, translationFilesByLang) {
+  const t = resolveType(entry, bankType);
 
   const indexEntry = {
     id,
     w:   entry.word,
     t,
-    f:   entry.frequency,
-    c:   entry.cefr,
+    f:   entry.frequency || undefined,
+    c:   entry.cefr || undefined,
     cur: entry.curriculum || false,
   };
 
-  // Type-specific fields
-  if (t === 'verb') {
-    // vc: verbClass.default (only if verbClass exists)
-    if (entry.verbClass?.default) {
-      indexEntry.vc = entry.verbClass.default;
-    }
-    // sep: verbClass.separable (the prefix, e.g. "an") — only if set
-    if (entry.verbClass?.separable) {
-      indexEntry.sep = entry.verbClass.separable;
-    }
-    // pp: bare participle from merged bank's conjugations.perfektum.participle
-    const participle = entry?.conjugations?.perfektum?.participle;
-    if (participle) indexEntry.pp = participle;
-  } else if (t === 'noun') {
-    // g: genus (gender) — no case hints per user decision
-    if (entry.genus) {
-      indexEntry.g = entry.genus;
-    }
+  // Noun: include genus
+  if (bankType === 'noun' && entry.genus) {
+    indexEntry.g = entry.genus;
   }
-  // adj and all other types: no extra fields beyond base
 
-  // Translation
-  const tr = {};
-  if (nbTr) tr.nb = nbTr;
-  if (enTr) tr.en = enTr;
-  if (Object.keys(tr).length > 0) {
-    indexEntry.tr = tr;
+  // Verb: include verb class, separable prefix, past participle
+  if (bankType === 'verb') {
+    if (entry.verbClass?.default) indexEntry.vc = entry.verbClass.default;
+    if (entry.verbClass?.separable) indexEntry.sep = entry.verbClass.separable;
+    if (entry.verbType) indexEntry.vc = entry.verbType; // es uses verbType
+    if (entry.group) indexEntry.vc = `group${entry.group}`; // fr uses group number
+    const participle = entry.conjugations?.perfektum?.participle;
+    if (participle) indexEntry.pp = participle;
   }
+
+  // Translations
+  const tr = {};
+  for (const lang of transLangs) {
+    const translation = getTranslation(entry, id, bankType, lang, translationFilesByLang[lang]);
+    if (translation) tr[lang] = translation;
+  }
+  if (Object.keys(tr).length > 0) indexEntry.tr = tr;
+
+  // Clean up undefined fields
+  if (indexEntry.f === undefined) delete indexEntry.f;
+  if (indexEntry.c === undefined) delete indexEntry.c;
 
   return indexEntry;
 }
 
-// ── Build entries from all banks ───────────────────────────────────────────
-const entries = [];
-
-const banks = [
-  { data: verbBank,     type: 'verb' },
-  { data: nounBank,     type: 'noun' },
-  { data: adjBank,      type: 'adj' },
-  { data: generalBank,  type: 'general' },
-  { data: articlesBank, type: 'articles' },
-  { data: numbersBank,  type: 'numbers' },
-  { data: phrasesBank,  type: 'phrases' },
-  { data: pronounsBank, type: 'pronouns' },
-];
-
-for (const { data, type } of banks) {
-  for (const [key, entry] of Object.entries(data)) {
-    if (key === '_metadata') continue;
-    entries.push(buildEntry(key, entry, type));
+/**
+ * Build the search index for a language.
+ */
+function buildSearchIndex(langCode) {
+  const langPath = resolveLangPath(langCode);
+  if (!langPath) {
+    console.error(`No data directory found for language: ${langCode}`);
+    process.exit(1);
   }
+
+  console.log(`\nBuilding search index for ${langCode} (${langPath})`);
+
+  // Determine available translation languages
+  const transLangs = [];
+  const translationFilesByLang = {};
+
+  for (const tl of ['nb', 'en']) {
+    const pairDir = join(TRANS_BASE, `${langCode}-${tl}`);
+    if (existsSync(pairDir)) {
+      transLangs.push(tl);
+      translationFilesByLang[tl] = loadTranslationPair(langCode, tl);
+    } else {
+      // Even without separate files, inline translations may exist
+      transLangs.push(tl);
+      translationFilesByLang[tl] = null;
+    }
+  }
+
+  // Load all bank files
+  const bankFiles = readdirSync(langPath).filter(f => f.endsWith('bank.json'));
+  const entries = [];
+
+  for (const file of bankFiles) {
+    const bankName = file.replace('.json', '');
+    const bankType = BANK_TYPE_MAP[bankName];
+    if (!bankType) {
+      console.warn(`  Skipping unknown bank file: ${file}`);
+      continue;
+    }
+
+    const data = JSON.parse(readFileSync(join(langPath, file), 'utf8'));
+    let bankCount = 0;
+
+    for (const [key, entry] of Object.entries(data)) {
+      if (key === '_metadata') continue;
+      entries.push(buildEntry(key, entry, bankType, transLangs, translationFilesByLang));
+      bankCount++;
+    }
+
+    console.log(`  ${bankName}: ${bankCount} entries`);
+  }
+
+  // Sort alphabetically by id
+  entries.sort((a, b) => a.id.localeCompare(b.id));
+
+  // Determine which translation languages actually have data
+  const activeLangs = transLangs.filter(lang =>
+    entries.some(e => e.tr?.[lang])
+  );
+
+  const output = {
+    _meta: {
+      language:             langCode,
+      totalEntries:         entries.length,
+      generatedAt:          new Date().toISOString(),
+      version:              '1.0.0',
+      translationLanguages: activeLangs,
+    },
+    entries,
+  };
+
+  writeFileSync(join(langPath, 'search-index.json'), JSON.stringify(output, null, 2));
+  console.log(`  Total: ${entries.length} entries → ${langPath}/search-index.json`);
+
+  // Stats
+  const verbs = entries.filter(e => e.t === 'verb');
+  const nouns = entries.filter(e => e.g);
+  const withTr = entries.filter(e => e.tr);
+  console.log(`  Verbs: ${verbs.length}, Nouns: ${nouns.length}, With translations: ${withTr.length}`);
 }
 
-// ── Sort alphabetically by id (Phase 10 decision) ─────────────────────────
-entries.sort((a, b) => a.id.localeCompare(b.id));
+// ── CLI ──────────────────────────────────────────────────────────────────────
+const lang = process.argv[2];
+if (!lang) {
+  console.error('Usage: node scripts/build-search-index.js <de|es|fr|all>');
+  process.exit(1);
+}
 
-// ── Write output ───────────────────────────────────────────────────────────
-const output = {
-  _meta: {
-    language:           'de',
-    totalEntries:       entries.length,
-    generatedAt:        new Date().toISOString(),
-    version:            '1.0.0',
-    translationLanguages: ['nb', 'en'],
-  },
-  entries,
-};
-
-writeFileSync(`${BASE}/search-index.json`, JSON.stringify(output, null, 2));
-console.log(`Total entries: ${entries.length}`);
-const verbEntries = entries.filter(e => e.t === 'verb');
-const withPP = verbEntries.filter(e => e.pp);
-console.log(`Verbs: ${verbEntries.length}, verbs with pp: ${withPP.length}`);
+if (lang === 'all') {
+  for (const l of ['de', 'es', 'fr']) {
+    buildSearchIndex(l);
+  }
+} else {
+  buildSearchIndex(lang);
+}
