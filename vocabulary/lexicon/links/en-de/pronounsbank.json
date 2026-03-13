@@ -1,0 +1,158 @@
+{
+  "_metadata": {
+    "from": "en",
+    "to": "de",
+    "bank": "pronounsbank",
+    "generatedAt": "2026-03-13T12:51:46.947Z",
+    "totalLinks": 40
+  },
+  "all_pron": {
+    "primary": "alle_pron"
+  },
+  "both_pron": {
+    "primary": "beide_pron"
+  },
+  "each_other_pron": {
+    "primary": "einander_pron"
+  },
+  "each_pron": {
+    "primary": "jedes_pron"
+  },
+  "everyone_pron": {
+    "primary": "alle_pron"
+  },
+  "everything_pron": {
+    "primary": "alles_pron"
+  },
+  "he_pron": {
+    "primary": "er_pron"
+  },
+  "her_fem_pron": {
+    "primary": "ihre_possessiv"
+  },
+  "her_masc_pron": {
+    "primary": "ihr_poss_possessiv"
+  },
+  "her_pron": {
+    "primary": "ihr_dat_pron"
+  },
+  "him_pron": {
+    "primary": "ihm_pron",
+    "alternatives": [
+      "ihn_pron"
+    ]
+  },
+  "his_fem_pron": {
+    "primary": "seine_possessiv"
+  },
+  "his_masc_pron": {
+    "primary": "sein_possessiv"
+  },
+  "i_pron": {
+    "primary": "ich_pron"
+  },
+  "it_pron": {
+    "primary": "es_pron",
+    "alternatives": [
+      "ihn_pron"
+    ]
+  },
+  "me_pron": {
+    "primary": "mich_pron",
+    "alternatives": [
+      "mir_pron"
+    ]
+  },
+  "my_fem_pron": {
+    "primary": "meine_possessiv"
+  },
+  "my_masc_pron": {
+    "primary": "mein_possessiv"
+  },
+  "myself_pron": {
+    "primary": "mich_pron"
+  },
+  "neut_pron": {
+    "primary": "dein_possessiv",
+    "alternatives": [
+      "euer_possessiv",
+      "ihr_poss_possessiv",
+      "mein_possessiv",
+      "sein_possessiv",
+      "unser_possessiv"
+    ]
+  },
+  "one_pron": {
+    "primary": "man_pron"
+  },
+  "oneself_pron": {
+    "primary": "sich_pron"
+  },
+  "our_fem_pron": {
+    "primary": "unsere_possessiv"
+  },
+  "our_masc_pron": {
+    "primary": "unser_possessiv"
+  },
+  "ourselves_pron": {
+    "primary": "uns_pron"
+  },
+  "plural_pron": {
+    "primary": "deine_possessiv",
+    "alternatives": [
+      "eure_possessiv",
+      "ihre_possessiv",
+      "meine_possessiv",
+      "seine_possessiv",
+      "unsere_possessiv"
+    ]
+  },
+  "she_pron": {
+    "primary": "sie_pron"
+  },
+  "their_fem_pron": {
+    "primary": "eure_possessiv"
+  },
+  "their_masc_pron": {
+    "primary": "euer_possessiv"
+  },
+  "them_pron": {
+    "primary": "ihnen_pron"
+  },
+  "they_pron": {
+    "primary": "sie_pron"
+  },
+  "us_pron": {
+    "primary": "uns_pron"
+  },
+  "we_pron": {
+    "primary": "wir_pron"
+  },
+  "who_pron": {
+    "primary": "wer_pron"
+  },
+  "whom_pron": {
+    "primary": "wen_pron"
+  },
+  "you_pron": {
+    "primary": "dich_pron",
+    "alternatives": [
+      "dir_pron",
+      "du_pron",
+      "euch_pron",
+      "ihr_pron"
+    ]
+  },
+  "your_fem_pron": {
+    "primary": "deine_possessiv"
+  },
+  "your_masc_pron": {
+    "primary": "dein_possessiv"
+  },
+  "yourself_pron": {
+    "primary": "dich_pron"
+  },
+  "yourselves_pron": {
+    "primary": "euch_pron"
+  }
+}

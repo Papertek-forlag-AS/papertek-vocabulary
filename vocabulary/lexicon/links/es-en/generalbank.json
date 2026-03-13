@@ -1,0 +1,887 @@
+{
+  "_metadata": {
+    "from": "es",
+    "to": "en",
+    "bank": "generalbank",
+    "generatedAt": "2026-03-13T12:51:46.964Z",
+    "totalLinks": 254
+  },
+  "a_casa_expr": {
+    "primary": "home_expr"
+  },
+  "a_lo_mejor_expr": {
+    "primary": "maybe_expr"
+  },
+  "a_menudo_adv": {
+    "primary": "often_adv"
+  },
+  "a_mi_me_parece_phrase": {
+    "primary": "it_seems_to_me_that_phrase"
+  },
+  "a_pie_expr": {
+    "primary": "on_foot_expr"
+  },
+  "a_prep": {
+    "primary": "to_prep",
+    "alternatives": [
+      "at_prep"
+    ]
+  },
+  "a_veces_adv": {
+    "primary": "sometimes_adv"
+  },
+  "abajo_adv": {
+    "primary": "down_adv",
+    "alternatives": [
+      "below_adv"
+    ]
+  },
+  "adelante_adv": {
+    "primary": "forward_adv"
+  },
+  "ademas_phrase": {
+    "primary": "besides_phrase",
+    "alternatives": [
+      "furthermore_phrase"
+    ]
+  },
+  "adentro_adv": {
+    "primary": "inside_adv"
+  },
+  "adios_interj": {
+    "primary": "goodbye_interj"
+  },
+  "adonde_interr": {
+    "primary": "where_to_interr"
+  },
+  "afortunadamente_adv": {
+    "primary": "fortunately_adv"
+  },
+  "afuera_adv": {
+    "primary": "outside_adv"
+  },
+  "ahi_adv": {
+    "primary": "there_adv"
+  },
+  "ahora_adv": {
+    "primary": "now_adv"
+  },
+  "al_final_phrase": {
+    "primary": "in_the_end_phrase"
+  },
+  "al_lado_de_prep": {
+    "primary": "next_to_prep"
+  },
+  "al_principio_expr": {
+    "primary": "at_the_beginning_expr"
+  },
+  "alli_adv": {
+    "primary": "over_there_adv"
+  },
+  "alrededor_de_prep": {
+    "primary": "around_prep"
+  },
+  "america_latina_propn": {
+    "primary": "latin_america_propn"
+  },
+  "ante_prep": {
+    "primary": "before_prep",
+    "alternatives": [
+      "in_front_of_prep"
+    ]
+  },
+  "antes_adv": {
+    "primary": "before_adv"
+  },
+  "aproximadamente_adv": {
+    "primary": "approximately_adv"
+  },
+  "aqui_adv": {
+    "primary": "here_adv"
+  },
+  "argentina_propn": {
+    "primary": "argentina_propn"
+  },
+  "arriba_adv": {
+    "primary": "up_adv",
+    "alternatives": [
+      "above_adv"
+    ]
+  },
+  "asi_adv": {
+    "primary": "like_this_adv",
+    "alternatives": [
+      "so_adv"
+    ]
+  },
+  "atras_adv": {
+    "primary": "back_adv",
+    "alternatives": [
+      "behind_adv"
+    ]
+  },
+  "aun_adv": {
+    "primary": "still_adv",
+    "alternatives": [
+      "even_adv"
+    ]
+  },
+  "aunque_conj": {
+    "primary": "although_conj"
+  },
+  "ayer_adv": {
+    "primary": "yesterday_adv"
+  },
+  "bajo_prep": {
+    "primary": "under_prep"
+  },
+  "barcelona_propn": {
+    "primary": "barcelona_propn"
+  },
+  "bastante_adv": {
+    "primary": "quite_adv",
+    "alternatives": [
+      "enough_adv"
+    ]
+  },
+  "bien_adv": {
+    "primary": "well_adv"
+  },
+  "bienvenido_interj": {
+    "primary": "welcome_interj"
+  },
+  "buen_provecho_phrase": {
+    "primary": "enjoy_your_meal_phrase"
+  },
+  "buena_suerte_phrase": {
+    "primary": "good_luck_phrase"
+  },
+  "buenas_noches_phrase": {
+    "primary": "good_evening_phrase",
+    "alternatives": [
+      "good_night_phrase"
+    ]
+  },
+  "buenas_tardes_phrase": {
+    "primary": "good_afternoon_phrase"
+  },
+  "buenos_dias_phrase": {
+    "primary": "good_morning_phrase"
+  },
+  "cada_dia_expr": {
+    "primary": "every_day_expr"
+  },
+  "casi_adv": {
+    "primary": "almost_adv"
+  },
+  "cerca_de_prep": {
+    "primary": "near_prep",
+    "alternatives": [
+      "close_to_prep"
+    ]
+  },
+  "chile_propn": {
+    "primary": "chile_propn"
+  },
+  "claramente_adv": {
+    "primary": "clearly_adv"
+  },
+  "claro_interj": {
+    "primary": "of_course_interj",
+    "alternatives": [
+      "sure_interj"
+    ]
+  },
+  "colombia_propn": {
+    "primary": "colombia_propn"
+  },
+  "como_conj": {
+    "primary": "as_conj",
+    "alternatives": [
+      "since_conj"
+    ]
+  },
+  "como_estas_phrase": {
+    "primary": "how_are_you_phrase"
+  },
+  "como_interr": {
+    "primary": "how_interr"
+  },
+  "como_se_dice_phrase": {
+    "primary": "how_do_you_say_phrase"
+  },
+  "como_te_llamas_phrase": {
+    "primary": "what_is_your_name_phrase"
+  },
+  "completamente_adv": {
+    "primary": "completely_adv"
+  },
+  "con_mucho_gusto_expr": {
+    "primary": "with_great_pleasure_expr"
+  },
+  "con_prep": {
+    "primary": "with_prep"
+  },
+  "contra_prep": {
+    "primary": "against_prep"
+  },
+  "creo_que_phrase": {
+    "primary": "i_think_that_phrase"
+  },
+  "cual_interr": {
+    "primary": "which_interr"
+  },
+  "cuando_conj": {
+    "primary": "when_conj"
+  },
+  "cuando_interr": {
+    "primary": "when_interr"
+  },
+  "cuanto_interr": {
+    "primary": "how_much_interr"
+  },
+  "cuantos_anos_tienes_phrase": {
+    "primary": "how_old_are_you_phrase"
+  },
+  "cuantos_interr": {
+    "primary": "how_many_interr"
+  },
+  "cuba_propn": {
+    "primary": "cuba_propn"
+  },
+  "dar_un_paseo_phrase": {
+    "primary": "take_a_walk_phrase"
+  },
+  "de_acuerdo_expr": {
+    "primary": "agreed_expr",
+    "alternatives": [
+      "okay_expr"
+    ]
+  },
+  "de_donde_eres_phrase": {
+    "primary": "where_are_you_from_phrase"
+  },
+  "de_nada_phrase": {
+    "primary": "youre_welcome_phrase"
+  },
+  "de_prep": {
+    "primary": "of_prep",
+    "alternatives": [
+      "from_prep"
+    ]
+  },
+  "de_repente_expr": {
+    "primary": "suddenly_expr"
+  },
+  "de_verdad_expr": {
+    "primary": "really_expr"
+  },
+  "de_vez_en_cuando_expr": {
+    "primary": "from_time_to_time_expr"
+  },
+  "debajo_de_prep": {
+    "primary": "under_prep"
+  },
+  "delante_de_prep": {
+    "primary": "in_front_of_prep"
+  },
+  "demasiado_adv": {
+    "primary": "too_much_adv"
+  },
+  "dentro_de_prep": {
+    "primary": "inside_prep",
+    "alternatives": [
+      "within_prep"
+    ]
+  },
+  "desafortunadamente_adv": {
+    "primary": "unfortunately_adv"
+  },
+  "desde_prep": {
+    "primary": "from_prep",
+    "alternatives": [
+      "since_prep"
+    ]
+  },
+  "despacio_adv": {
+    "primary": "slowly_adv"
+  },
+  "despues_adv": {
+    "primary": "after_adv",
+    "alternatives": [
+      "afterwards_adv"
+    ]
+  },
+  "detras_de_prep": {
+    "primary": "behind_prep"
+  },
+  "donde_interr": {
+    "primary": "where_interr"
+  },
+  "durante_prep": {
+    "primary": "during_prep"
+  },
+  "echar_de_menos_phrase": {
+    "primary": "miss_phrase"
+  },
+  "el_ano_pasado_expr": {
+    "primary": "last_year_expr"
+  },
+  "el_fin_de_semana_expr": {
+    "primary": "the_weekend_expr"
+  },
+  "el_proximo_ano_expr": {
+    "primary": "next_year_expr"
+  },
+  "en_autobus_expr": {
+    "primary": "by_bus_expr"
+  },
+  "en_avion_expr": {
+    "primary": "by_plane_expr"
+  },
+  "en_cambio_phrase": {
+    "primary": "on_the_other_hand_phrase"
+  },
+  "en_casa_expr": {
+    "primary": "at_home_expr"
+  },
+  "en_coche_expr": {
+    "primary": "by_car_expr"
+  },
+  "en_conclusion_phrase": {
+    "primary": "in_conclusion_phrase"
+  },
+  "en_general_expr": {
+    "primary": "in_general_expr"
+  },
+  "en_mi_opinion_phrase": {
+    "primary": "in_my_opinion_phrase"
+  },
+  "en_prep": {
+    "primary": "in_prep",
+    "alternatives": [
+      "on_prep"
+    ]
+  },
+  "en_primer_lugar_phrase": {
+    "primary": "firstly_phrase"
+  },
+  "en_realidad_expr": {
+    "primary": "actually_expr",
+    "alternatives": [
+      "in_reality_expr"
+    ]
+  },
+  "en_seguida_expr": {
+    "primary": "right_away_expr"
+  },
+  "en_serio_expr": {
+    "primary": "seriously_expr"
+  },
+  "en_tren_expr": {
+    "primary": "by_train_expr"
+  },
+  "encima_de_prep": {
+    "primary": "on_top_of_prep"
+  },
+  "enfrente_de_prep": {
+    "primary": "opposite_prep"
+  },
+  "enhorabuena_interj": {
+    "primary": "congratulations_interj"
+  },
+  "enseguida_adv": {
+    "primary": "immediately_adv"
+  },
+  "entre_prep": {
+    "primary": "between_prep"
+  },
+  "es_decir_phrase": {
+    "primary": "that_is_to_say_phrase"
+  },
+  "es_la_una_phrase": {
+    "primary": "its_one_oclock_phrase"
+  },
+  "espana_propn": {
+    "primary": "spain_propn"
+  },
+  "especialmente_adv": {
+    "primary": "especially_adv"
+  },
+  "estados_unidos_propn": {
+    "primary": "united_states_propn"
+  },
+  "europa_propn": {
+    "primary": "europe_propn"
+  },
+  "exactamente_adv": {
+    "primary": "exactly_adv"
+  },
+  "feliz_ano_nuevo_phrase": {
+    "primary": "happy_new_year_phrase"
+  },
+  "feliz_cumpleanos_phrase": {
+    "primary": "happy_birthday_phrase"
+  },
+  "feliz_navidad_phrase": {
+    "primary": "merry_christmas_phrase"
+  },
+  "finalmente_adv": {
+    "primary": "finally_adv"
+  },
+  "fuera_de_prep": {
+    "primary": "outside_of_prep"
+  },
+  "generalmente_adv": {
+    "primary": "generally_adv"
+  },
+  "genial_interj": {
+    "primary": "great_interj"
+  },
+  "gracias_interj": {
+    "primary": "thank_you_interj"
+  },
+  "hace_buen_tiempo_phrase": {
+    "primary": "the_weather_is_good_phrase"
+  },
+  "hace_calor_phrase": {
+    "primary": "its_hot_phrase"
+  },
+  "hace_falta_phrase": {
+    "primary": "its_needed_phrase"
+  },
+  "hace_frio_phrase": {
+    "primary": "its_cold_phrase"
+  },
+  "hace_mal_tiempo_phrase": {
+    "primary": "the_weather_is_bad_phrase"
+  },
+  "hace_sol_phrase": {
+    "primary": "its_sunny_phrase"
+  },
+  "hacia_prep": {
+    "primary": "towards_prep"
+  },
+  "hasta_luego_phrase": {
+    "primary": "see_you_later_phrase"
+  },
+  "hasta_manana_phrase": {
+    "primary": "see_you_tomorrow_phrase"
+  },
+  "hasta_prep": {
+    "primary": "until_prep",
+    "alternatives": [
+      "up_to_prep"
+    ]
+  },
+  "hasta_pronto_phrase": {
+    "primary": "see_you_soon_phrase"
+  },
+  "hay_phrase": {
+    "primary": "there_is_phrase",
+    "alternatives": [
+      "there_are_phrase"
+    ]
+  },
+  "hola_interj": {
+    "primary": "hello_interj"
+  },
+  "hoy_adv": {
+    "primary": "today_adv"
+  },
+  "inmediatamente_adv": {
+    "primary": "immediately_adv"
+  },
+  "ir_de_compras_phrase": {
+    "primary": "go_shopping_phrase"
+  },
+  "juntos_adv": {
+    "primary": "together_adv"
+  },
+  "la_semana_que_viene_expr": {
+    "primary": "next_week_expr"
+  },
+  "lejos_de_prep": {
+    "primary": "far_from_prep"
+  },
+  "llevarse_bien_phrase": {
+    "primary": "get_along_well_phrase"
+  },
+  "llueve_phrase": {
+    "primary": "its_raining_phrase"
+  },
+  "lo_siento_interj": {
+    "primary": "im_sorry_interj"
+  },
+  "luego_adv": {
+    "primary": "then_adv",
+    "alternatives": [
+      "later_adv"
+    ]
+  },
+  "madrid_propn": {
+    "primary": "madrid_propn"
+  },
+  "mal_adv": {
+    "primary": "badly_adv"
+  },
+  "manana_adv": {
+    "primary": "tomorrow_adv"
+  },
+  "mas_adv": {
+    "primary": "more_adv"
+  },
+  "mas_despacio_phrase": {
+    "primary": "more_slowly_please_phrase"
+  },
+  "mas_o_menos_phrase": {
+    "primary": "soso_phrase"
+  },
+  "me_encanta_phrase": {
+    "primary": "i_love_it_phrase"
+  },
+  "me_gusta_phrase": {
+    "primary": "i_like_phrase"
+  },
+  "me_llamo_phrase": {
+    "primary": "my_name_is_phrase"
+  },
+  "menos_adv": {
+    "primary": "less_adv"
+  },
+  "menos_cuarto_phrase": {
+    "primary": "quarter_to_phrase"
+  },
+  "mexico_propn": {
+    "primary": "mexico_propn"
+  },
+  "mientras_conj": {
+    "primary": "while_conj"
+  },
+  "mucho_adv": {
+    "primary": "much_adv",
+    "alternatives": [
+      "a_lot_adv"
+    ]
+  },
+  "mucho_gusto_phrase": {
+    "primary": "nice_to_meet_you_phrase"
+  },
+  "muy_adv": {
+    "primary": "very_adv"
+  },
+  "muy_bien_phrase": {
+    "primary": "very_well_phrase"
+  },
+  "ni_conj": {
+    "primary": "neither_conj",
+    "alternatives": [
+      "nor_conj"
+    ]
+  },
+  "nieva_phrase": {
+    "primary": "its_snowing_phrase"
+  },
+  "no_entiendo_phrase": {
+    "primary": "i_dont_understand_phrase"
+  },
+  "no_hay_phrase": {
+    "primary": "there_isnt_phrase",
+    "alternatives": [
+      "there_arent_phrase"
+    ]
+  },
+  "no_interj": {
+    "primary": "no_interj"
+  },
+  "no_me_gusta_phrase": {
+    "primary": "i_dont_like_phrase"
+  },
+  "normalmente_adv": {
+    "primary": "normally_adv"
+  },
+  "noruega_propn": {
+    "primary": "norway_propn"
+  },
+  "nunca_adv": {
+    "primary": "never_adv"
+  },
+  "o_conj": {
+    "primary": "or_conj"
+  },
+  "para_prep": {
+    "primary": "for_prep",
+    "alternatives": [
+      "to_prep"
+    ]
+  },
+  "pasarlo_bien_phrase": {
+    "primary": "have_a_good_time_phrase"
+  },
+  "perdon_interj": {
+    "primary": "sorry_interj",
+    "alternatives": [
+      "excuse_me_interj"
+    ]
+  },
+  "pero_conj": {
+    "primary": "but_conj"
+  },
+  "peru_propn": {
+    "primary": "peru_propn"
+  },
+  "pienso_que_phrase": {
+    "primary": "i_think_that_phrase"
+  },
+  "poco_adv": {
+    "primary": "little_adv"
+  },
+  "por_ejemplo_phrase": {
+    "primary": "for_example_phrase"
+  },
+  "por_eso_phrase": {
+    "primary": "thats_why_phrase"
+  },
+  "por_favor_interj": {
+    "primary": "please_interj"
+  },
+  "por_fin_expr": {
+    "primary": "finally_expr"
+  },
+  "por_la_manana_expr": {
+    "primary": "in_the_morning_expr"
+  },
+  "por_la_noche_expr": {
+    "primary": "in_the_evening_expr",
+    "alternatives": [
+      "at_night_expr"
+    ]
+  },
+  "por_la_tarde_expr": {
+    "primary": "in_the_afternoon_expr"
+  },
+  "por_otro_lado_phrase": {
+    "primary": "on_the_other_hand_phrase"
+  },
+  "por_prep": {
+    "primary": "for_prep",
+    "alternatives": [
+      "through_prep",
+      "because_of_prep"
+    ]
+  },
+  "por_que_interr": {
+    "primary": "why_interr"
+  },
+  "por_supuesto_expr": {
+    "primary": "of_course_expr"
+  },
+  "por_un_lado_phrase": {
+    "primary": "on_one_hand_phrase"
+  },
+  "porque_conj": {
+    "primary": "because_conj"
+  },
+  "primero_adv": {
+    "primary": "first_adv"
+  },
+  "pronto_adv": {
+    "primary": "soon_adv"
+  },
+  "puede_repetir_phrase": {
+    "primary": "can_you_repeat_phrase"
+  },
+  "pues_conj": {
+    "primary": "well_conj",
+    "alternatives": [
+      "so_conj"
+    ]
+  },
+  "que_conj": {
+    "primary": "that_conj"
+  },
+  "que_duermas_bien_phrase": {
+    "primary": "sleep_well_phrase"
+  },
+  "que_hay_phrase": {
+    "primary": "whats_up_phrase"
+  },
+  "que_hora_es_phrase": {
+    "primary": "what_time_is_it_phrase"
+  },
+  "que_interr": {
+    "primary": "what_interr"
+  },
+  "que_significa_phrase": {
+    "primary": "what_does__mean_phrase"
+  },
+  "que_tal_phrase": {
+    "primary": "hows_it_going_phrase"
+  },
+  "que_tengas_un_buen_dia_phrase": {
+    "primary": "have_a_good_day_phrase"
+  },
+  "quien_interr": {
+    "primary": "who_interr"
+  },
+  "quiza_adv": {
+    "primary": "maybe_adv"
+  },
+  "rapido_adv": {
+    "primary": "fast_adv",
+    "alternatives": [
+      "quickly_adv"
+    ]
+  },
+  "realmente_adv": {
+    "primary": "really_adv"
+  },
+  "salud_interj": {
+    "primary": "cheers_interj",
+    "alternatives": [
+      "bless_you_interj"
+    ]
+  },
+  "segun_prep": {
+    "primary": "according_to_prep"
+  },
+  "seguramente_adv": {
+    "primary": "surely_adv"
+  },
+  "si_conj": {
+    "primary": "if_conj"
+  },
+  "si_interj": {
+    "primary": "yes_interj"
+  },
+  "siempre_adv": {
+    "primary": "always_adv"
+  },
+  "simplemente_adv": {
+    "primary": "simply_adv"
+  },
+  "sin_duda_expr": {
+    "primary": "without_doubt_expr"
+  },
+  "sin_embargo_phrase": {
+    "primary": "however_phrase"
+  },
+  "sin_prep": {
+    "primary": "without_prep"
+  },
+  "sino_conj": {
+    "primary": "but_rather_conj"
+  },
+  "sobre_prep": {
+    "primary": "on_prep",
+    "alternatives": [
+      "about_prep",
+      "over_prep"
+    ]
+  },
+  "solamente_adv": {
+    "primary": "only_adv"
+  },
+  "solo_adv": {
+    "primary": "only_adv"
+  },
+  "son_las_dos_phrase": {
+    "primary": "its_two_oclock_phrase"
+  },
+  "soy_de_phrase": {
+    "primary": "i_am_from_phrase"
+  },
+  "tal_vez_adv": {
+    "primary": "perhaps_adv"
+  },
+  "tambien_adv": {
+    "primary": "also_adv"
+  },
+  "tampoco_adv": {
+    "primary": "neither_adv",
+    "alternatives": [
+      "either_adv"
+    ]
+  },
+  "tan_adv": {
+    "primary": "so_adv"
+  },
+  "tanto_como_conj": {
+    "primary": "both__and_conj"
+  },
+  "tarde_adv": {
+    "primary": "late_adv"
+  },
+  "temprano_adv": {
+    "primary": "early_adv"
+  },
+  "tener_ganas_de_phrase": {
+    "primary": "feel_like_phrase"
+  },
+  "tengo_anos_phrase": {
+    "primary": "i_am__years_old_phrase"
+  },
+  "tengo_calor_phrase": {
+    "primary": "im_hot_phrase"
+  },
+  "tengo_frio_phrase": {
+    "primary": "im_cold_phrase"
+  },
+  "tengo_hambre_phrase": {
+    "primary": "im_hungry_phrase"
+  },
+  "tengo_miedo_phrase": {
+    "primary": "im_afraid_phrase"
+  },
+  "tengo_prisa_phrase": {
+    "primary": "im_in_a_hurry_phrase"
+  },
+  "tengo_razon_phrase": {
+    "primary": "im_right_phrase"
+  },
+  "tengo_sed_phrase": {
+    "primary": "im_thirsty_phrase"
+  },
+  "tengo_sueno_phrase": {
+    "primary": "im_sleepy_phrase"
+  },
+  "tengo_una_pregunta_phrase": {
+    "primary": "i_have_a_question_phrase"
+  },
+  "todavia_adv": {
+    "primary": "still_adv",
+    "alternatives": [
+      "yet_adv"
+    ]
+  },
+  "todos_los_dias_expr": {
+    "primary": "every_day_expr"
+  },
+  "tomar_el_sol_phrase": {
+    "primary": "sunbathe_phrase"
+  },
+  "tras_prep": {
+    "primary": "after_prep",
+    "alternatives": [
+      "behind_prep"
+    ]
+  },
+  "vale_interj": {
+    "primary": "ok_interj",
+    "alternatives": [
+      "alright_interj"
+    ]
+  },
+  "y_conj": {
+    "primary": "and_conj"
+  },
+  "y_cuarto_phrase": {
+    "primary": "quarter_past_phrase"
+  },
+  "y_media_phrase": {
+    "primary": "half_past_phrase"
+  },
+  "ya_adv": {
+    "primary": "already_adv"
+  }
+}

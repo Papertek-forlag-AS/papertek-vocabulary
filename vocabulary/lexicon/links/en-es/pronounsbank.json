@@ -1,0 +1,189 @@
+{
+  "_metadata": {
+    "from": "en",
+    "to": "es",
+    "bank": "pronounsbank",
+    "generatedAt": "2026-03-13T12:51:46.969Z",
+    "totalLinks": 46
+  },
+  "he_pron": {
+    "primary": "el_pron"
+  },
+  "her_pron": {
+    "primary": "la_dirobj_pron",
+    "alternatives": [
+      "le_indobj_pron",
+      "su_possess_pron"
+    ]
+  },
+  "herself_pron": {
+    "primary": "se_reflex_pron"
+  },
+  "him_pron": {
+    "primary": "le_indobj_pron",
+    "alternatives": [
+      "lo_dirobj_pron"
+    ]
+  },
+  "himself_pron": {
+    "primary": "se_reflex_pron"
+  },
+  "his_pron": {
+    "primary": "su_possess_pron"
+  },
+  "how_much_pron": {
+    "primary": "cuanto_interr_pron"
+  },
+  "how_pron": {
+    "primary": "como_interr_pron"
+  },
+  "i_pron": {
+    "primary": "yo_pron"
+  },
+  "it_pron": {
+    "primary": "la_dirobj_pron",
+    "alternatives": [
+      "lo_dirobj_pron"
+    ]
+  },
+  "itself_pron": {
+    "primary": "se_reflex_pron"
+  },
+  "latin_america_pron": {
+    "primary": "ustedes_pron"
+  },
+  "many_pron": {
+    "primary": "cuanto_interr_pron"
+  },
+  "me_pron": {
+    "primary": "me_dirobj_pron",
+    "alternatives": [
+      "me_indobj_pron"
+    ]
+  },
+  "mixed_pron": {
+    "primary": "ellos_pron",
+    "alternatives": [
+      "nosotros_pron"
+    ]
+  },
+  "mixed_spain_pron": {
+    "primary": "vosotros_pron"
+  },
+  "my_pron": {
+    "primary": "mi_possess_pron"
+  },
+  "myself_pron": {
+    "primary": "me_reflex_pron"
+  },
+  "our_pron": {
+    "primary": "nuestro_possess_pron"
+  },
+  "ourselves_pron": {
+    "primary": "nos_reflex_pron"
+  },
+  "she_pron": {
+    "primary": "ella_pron"
+  },
+  "that_pron": {
+    "primary": "aquel_demon_pron",
+    "alternatives": [
+      "ese_demon_pron"
+    ]
+  },
+  "their_pron": {
+    "primary": "su_possess_pron"
+  },
+  "them_pron": {
+    "primary": "las_dirobj_pron",
+    "alternatives": [
+      "les_indobj_pron",
+      "los_dirobj_pron"
+    ]
+  },
+  "themselves_pron": {
+    "primary": "se_reflex_pron"
+  },
+  "these_pron": {
+    "primary": "este_demon_pron"
+  },
+  "they_masculine_pron": {
+    "primary": "ellos_pron"
+  },
+  "they_pron": {
+    "primary": "ellas_pron"
+  },
+  "this_pron": {
+    "primary": "este_demon_pron"
+  },
+  "those_pron": {
+    "primary": "aquel_demon_pron",
+    "alternatives": [
+      "ese_demon_pron"
+    ]
+  },
+  "us_pron": {
+    "primary": "nos_dirobj_pron",
+    "alternatives": [
+      "nos_indobj_pron"
+    ]
+  },
+  "we_masculine_pron": {
+    "primary": "nosotros_pron"
+  },
+  "we_pron": {
+    "primary": "nosotras_pron"
+  },
+  "what_pron": {
+    "primary": "que_interr_pron"
+  },
+  "when_pron": {
+    "primary": "cuando_interr_pron"
+  },
+  "where_pron": {
+    "primary": "donde_interr_pron"
+  },
+  "which_pron": {
+    "primary": "cual_interr_pron"
+  },
+  "who_pron": {
+    "primary": "quien_interr_pron"
+  },
+  "why_pron": {
+    "primary": "por_que_interr_pron"
+  },
+  "you_all_formal_pron": {
+    "primary": "ustedes_pron"
+  },
+  "you_all_masculine_pron": {
+    "primary": "vosotros_pron"
+  },
+  "you_all_pron": {
+    "primary": "os_dirobj_pron",
+    "alternatives": [
+      "os_indobj_pron",
+      "vosotras_pron"
+    ]
+  },
+  "you_pron": {
+    "primary": "te_dirobj_pron",
+    "alternatives": [
+      "te_indobj_pron",
+      "tu_pron",
+      "usted_pron"
+    ]
+  },
+  "your_pron": {
+    "primary": "su_possess_pron",
+    "alternatives": [
+      "tu_possess_pron",
+      "vuestro_possess_pron"
+    ]
+  },
+  "yourself_pron": {
+    "primary": "te_reflex_pron"
+  },
+  "yourselves_pron": {
+    "primary": "os_reflex_pron"
+  }
+}

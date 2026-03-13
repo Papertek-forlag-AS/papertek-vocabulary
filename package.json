@@ -39,7 +39,9 @@
     "build:lexicon": "npm run generate:lexicon && npm run enrich:nb",
     "generate:source-lexicon": "node scripts/generate-source-lexicon.js",
     "build:lexicon-search-index": "node scripts/build-lexicon-search-index.js",
-    "build:lexicon-all": "npm run build:lexicon && npm run generate:source-lexicon && npm run build:lexicon-search-index"
+    "generate:en-lexicon": "node scripts/generate-en-lexicon.js",
+    "generate:en-links": "node scripts/generate-en-links.js",
+    "build:lexicon-all": "npm run build:lexicon && npm run generate:en-lexicon && npm run generate:en-links && npm run generate:source-lexicon && npm run build:lexicon-search-index"
   },
   "engines": {
     "node": ">=18.0.0"
