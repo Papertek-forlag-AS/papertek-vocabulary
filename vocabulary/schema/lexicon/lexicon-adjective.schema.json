@@ -1,0 +1,75 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://papertek.no/schemas/vocabulary/lexicon/lexicon-adjective.schema.json",
+  "title": "Lexicon Adjective Schema",
+  "description": "Adjective-specific fields for lexicon entries. Norwegian adjectives inflect by gender (m/f, n), number (entall/flertall), and definiteness (ubestemt/bestemt). They also have comparison forms (positiv, komparativ, superlativ).",
+  "type": "object",
+  "additionalProperties": {
+    "$ref": "#/$defs/adjectiveEntry"
+  },
+  "$defs": {
+    "adjectiveEntry": {
+      "type": "object",
+      "allOf": [
+        { "$ref": "lexicon-entry.schema.json#/$defs/lexiconEntry" }
+      ],
+      "properties": {
+        "comparison": {
+          "type": "object",
+          "description": "Comparison / grading forms",
+          "properties": {
+            "positiv": { "type": "string", "description": "Base form (stor)" },
+            "komparativ": { "type": "string", "description": "Comparative form (større)" },
+            "superlativ": { "type": "string", "description": "Superlative form (størst)" }
+          }
+        },
+        "declension": {
+          "type": "object",
+          "description": "Adjective declension by comparison level. Each level has forms for maskulin/feminin, nøytrum, flertall, and bestemt form.",
+          "properties": {
+            "positiv": { "$ref": "#/$defs/adjectiveDeclension" },
+            "komparativ": { "$ref": "#/$defs/adjectiveDeclensionSimple" },
+            "superlativ": { "$ref": "#/$defs/adjectiveDeclensionSuperlativ" }
+          }
+        },
+        "undeclinable": {
+          "type": "boolean",
+          "description": "Whether this adjective does not inflect (e.g. loanwords like 'beige')",
+          "default": false
+        },
+        "ikke_komparerbar": {
+          "type": "boolean",
+          "description": "Whether this adjective cannot be compared (e.g. 'død' = dead)",
+          "default": false
+        }
+      },
+      "required": ["word", "type"]
+    },
+    "adjectiveDeclension": {
+      "type": "object",
+      "description": "Positiv declension forms",
+      "properties": {
+        "maskulin": { "type": "string", "description": "Masculine/feminine singular indefinite (stor)" },
+        "feminin": { "type": "string", "description": "Feminine singular indefinite (stor) — same as maskulin in bokmål for most adjectives" },
+        "noytrum": { "type": "string", "description": "Neuter singular indefinite (stort)" },
+        "flertall": { "type": "string", "description": "Plural indefinite (store)" },
+        "bestemt": { "type": "string", "description": "Definite form, all genders (store)" }
+      }
+    },
+    "adjectiveDeclensionSimple": {
+      "type": "object",
+      "description": "Komparativ — same form for all genders/numbers",
+      "properties": {
+        "alle": { "type": "string", "description": "Same form for all contexts (større)" }
+      }
+    },
+    "adjectiveDeclensionSuperlativ": {
+      "type": "object",
+      "description": "Superlativ forms",
+      "properties": {
+        "ubestemt": { "type": "string", "description": "Indefinite superlative (størst)" },
+        "bestemt": { "type": "string", "description": "Definite superlative (største)" }
+      }
+    }
+  }
+}

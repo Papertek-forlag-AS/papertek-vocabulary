@@ -1,0 +1,2297 @@
+{
+  "_metadata": {
+    "from": "de",
+    "to": "nb",
+    "bank": "generalbank",
+    "generatedAt": "2026-03-13T12:15:37.550Z",
+    "totalLinks": 673
+  },
+  "ab_general": {
+    "primary": "av_fra_adv"
+  },
+  "aber_conj": {
+    "primary": "men_conj"
+  },
+  "abhaengig_general": {
+    "primary": "avhengig_adv"
+  },
+  "absolut_general": {
+    "primary": "absolutt_adv"
+  },
+  "abwaerts_general": {
+    "primary": "nedover_adv"
+  },
+  "abwesend_general": {
+    "primary": "fraværende_adv"
+  },
+  "achtung_general": {
+    "primary": "oppmerksomhet_adv"
+  },
+  "aehnlich_general": {
+    "primary": "lignende_adv"
+  },
+  "aengstlich_general": {
+    "primary": "engstelig_adv"
+  },
+  "aergerlich_general": {
+    "primary": "irriterende_adv"
+  },
+  "aeusserlich_general": {
+    "primary": "ytre_adv"
+  },
+  "afrika_propn": {
+    "primary": "afrika_propn"
+  },
+  "aktuell_general": {
+    "primary": "aktuell_adv"
+  },
+  "all_general": {
+    "primary": "all_adv"
+  },
+  "allein_adv": {
+    "primary": "alene_adv"
+  },
+  "alleine_general": {
+    "primary": "alene_adv"
+  },
+  "aller_general": {
+    "primary": "aller_adv"
+  },
+  "allerdings_general": {
+    "primary": "riktignok_adv"
+  },
+  "allgemein_general": {
+    "primary": "generell_adv"
+  },
+  "als_conj": {
+    "primary": "enn_conj"
+  },
+  "als_garantie_general": {
+    "primary": "som_garanti_adv"
+  },
+  "als_ob_general": {
+    "primary": "som_om_adv"
+  },
+  "also_adv": {
+    "primary": "altså_adv",
+    "alternatives": [
+      "vel_adv"
+    ],
+    "synonyms": [
+      "vel",
+      "nå",
+      "altså"
+    ]
+  },
+  "alternativ_general": {
+    "primary": "alternativ_adv"
+  },
+  "am_abend_phrase": {
+    "primary": "om_kvelden_phrase"
+  },
+  "am_freitag_phrase": {
+    "primary": "på_fredag_phrase"
+  },
+  "am_montag_phrase": {
+    "primary": "på_mandag_phrase"
+  },
+  "am_nachmittag_phrase": {
+    "primary": "om_ettermiddagen_phrase"
+  },
+  "am_samstag_phrase": {
+    "primary": "på_lørdag_phrase"
+  },
+  "am_sonntag_phrase": {
+    "primary": "på_søndag_phrase"
+  },
+  "am_wochenende_phrase": {
+    "primary": "i_helgen_phrase"
+  },
+  "an_prep": {
+    "primary": "ved_prep",
+    "alternatives": [
+      "på_prep"
+    ],
+    "explanation": "Wechselpräposition: Akkusativ ved bevegelse (wohin?), dativ ved posisjon (wo?). Brukes for kontakt med vertikale flater."
+  },
+  "an_sein_general": {
+    "primary": "være_på_adv"
+  },
+  "ander_general": {
+    "primary": "annen_adv"
+  },
+  "anders_general": {
+    "primary": "annerledes_adv"
+  },
+  "anfangs_general": {
+    "primary": "i_begynnelsen_adv"
+  },
+  "angenehm_general": {
+    "primary": "behagelig_adv"
+  },
+  "anwesend_general": {
+    "primary": "til_stede_adv"
+  },
+  "arbeitslos_general": {
+    "primary": "arbeidsledig_adv"
+  },
+  "arbeitslos_sind_general": {
+    "primary": "er_arbeidsledige_adv"
+  },
+  "asien_propn": {
+    "primary": "asia_propn"
+  },
+  "auch_adv": {
+    "primary": "også_adv"
+  },
+  "auf_prep": {
+    "primary": "på_prep",
+    "explanation": "Wechselpräposition: Akkusativ ved bevegelse (wohin?), dativ ved posisjon (wo?). Brukes for horisontale flater."
+  },
+  "auf_sein_general": {
+    "primary": "være_åpen_adv"
+  },
+  "aufmerksam_general": {
+    "primary": "oppmerksom_adv"
+  },
+  "aufregend_general": {
+    "primary": "spennende_adv"
+  },
+  "aufwaerts_general": {
+    "primary": "oppover_adv"
+  },
+  "aus_frankreich_phrase": {
+    "primary": "fra_frankrike_phrase"
+  },
+  "aus_prep": {
+    "primary": "fra_prep",
+    "explanation": "Preposisjon som alltid krever dativ. Brukes om opprinnelse eller bevegelse ut av noe."
+  },
+  "aus_sein_general": {
+    "primary": "være_av_adv"
+  },
+  "auseinander_general": {
+    "primary": "fra_hverandre_adv"
+  },
+  "auslaendisch_general": {
+    "primary": "utenlandsk_adv"
+  },
+  "ausreichend_general": {
+    "primary": "tilstrekkelig_adv"
+  },
+  "ausschliesslich_general": {
+    "primary": "utelukkende_adv"
+  },
+  "ausser_general": {
+    "primary": "bortsett_fra_adv"
+  },
+  "ausserdem_general": {
+    "primary": "dessuten_adv"
+  },
+  "ausserhalb_general": {
+    "primary": "utenfor_adv"
+  },
+  "automatisch_general": {
+    "primary": "automatisk_adv"
+  },
+  "bald_adv": {
+    "primary": "snart_adv"
+  },
+  "bar_general": {
+    "primary": "kontant_adv"
+  },
+  "befriedigend_general": {
+    "primary": "tilfredsstillende_adv"
+  },
+  "bei_mir_phrase": {
+    "primary": "hos_meg_phrase",
+    "alternatives": [
+      "for_meg_phrase"
+    ]
+  },
+  "bei_prep": {
+    "primary": "hos_prep",
+    "alternatives": [
+      "ved_prep"
+    ],
+    "explanation": "Preposisjon som alltid krever dativ. Brukes for å uttrykke nærhet, hos noen, eller under en aktivitet."
+  },
+  "beid_general": {
+    "primary": "begge_adv"
+  },
+  "beides_adv": {
+    "primary": "begge_deler_adv"
+  },
+  "beinahe_general": {
+    "primary": "nesten_adv"
+  },
+  "bekannt_general": {
+    "primary": "kjent_adv"
+  },
+  "beliebt_general": {
+    "primary": "populær_adv"
+  },
+  "bequem_general": {
+    "primary": "behagelig_adv"
+  },
+  "bereit_general": {
+    "primary": "klar_adv"
+  },
+  "bereits_general": {
+    "primary": "allerede_adv"
+  },
+  "beruehmt_general": {
+    "primary": "berømt_adv"
+  },
+  "beruflich_general": {
+    "primary": "yrkesmessig_adv"
+  },
+  "berufstaetig_general": {
+    "primary": "yrkesaktiv_adv"
+  },
+  "besetzt_general": {
+    "primary": "opptatt_adv"
+  },
+  "besonder_general": {
+    "primary": "spesiell_adv"
+  },
+  "besonders_adv": {
+    "primary": "spesielt_adv",
+    "alternatives": [
+      "særlig_adv"
+    ]
+  },
+  "besser_general": {
+    "primary": "bedre_adv"
+  },
+  "bestimmt_adv": {
+    "primary": "sikkert_adv",
+    "alternatives": [
+      "garantert_adv"
+    ]
+  },
+  "bevor_general": {
+    "primary": "før_adv"
+  },
+  "billig_general": {
+    "primary": "billig_adv"
+  },
+  "bis_dann_phrase": {
+    "primary": "vi_snakkes_phrase"
+  },
+  "bis_general": {
+    "primary": "til_inntil_adv"
+  },
+  "bisher_general": {
+    "primary": "hittil_adv"
+  },
+  "bitte_interj": {
+    "primary": "vær_så_god_interj",
+    "synonyms": [
+      "vær så snill",
+      "Bare hyggelig",
+      "Ingen årsak",
+      "Det var så lite"
+    ]
+  },
+  "bitter_general": {
+    "primary": "bitter_adv"
+  },
+  "blass_general": {
+    "primary": "blek_adv"
+  },
+  "blind_general": {
+    "primary": "blind_adv"
+  },
+  "bloss_general": {
+    "primary": "bare_adv"
+  },
+  "breit_general": {
+    "primary": "bred_adv"
+  },
+  "da_adv": {
+    "primary": "der_adv",
+    "alternatives": [
+      "da_adv"
+    ]
+  },
+  "dabei_adv": {
+    "primary": "med_det_adv",
+    "alternatives": [
+      "ved_det_adv"
+    ]
+  },
+  "dafuer_general": {
+    "primary": "for_det_adv"
+  },
+  "daher_general": {
+    "primary": "derfor_adv"
+  },
+  "dahin_general": {
+    "primary": "dit_adv"
+  },
+  "damals_general": {
+    "primary": "den_gang_adv"
+  },
+  "damit_general": {
+    "primary": "slik_at_adv"
+  },
+  "danach_adv": {
+    "primary": "etterpå_adv",
+    "alternatives": [
+      "deretter_adv"
+    ]
+  },
+  "dankbar_general": {
+    "primary": "takknemlig_adv"
+  },
+  "danke_interj": {
+    "primary": "takk_interj",
+    "synonyms": [
+      "Tusen takk",
+      "Takk skal du ha",
+      "Mange takk"
+    ]
+  },
+  "dann_adv": {
+    "primary": "så_adv"
+  },
+  "dann_links_general": {
+    "primary": "så_til_venstre_adv"
+  },
+  "darauf_adv": {
+    "primary": "på_det_adv",
+    "alternatives": [
+      "til_det_adv"
+    ]
+  },
+  "das_ist_phrase": {
+    "primary": "det_er_phrase"
+  },
+  "das_klingt_gut_phrase": {
+    "primary": "det_høres_bra_ut_phrase"
+  },
+  "dass_conj": {
+    "primary": "at_conj"
+  },
+  "dasselbe_general": {
+    "primary": "det_samme_adv"
+  },
+  "dauernd_general": {
+    "primary": "stadig_adv"
+  },
+  "dauert_laenger_phrase": {
+    "primary": "tar_lengre_tid_phrase"
+  },
+  "deinem_lieblingssaenger_general": {
+    "primary": "din_favorittartist_adv"
+  },
+  "dem_urlaub_general": {
+    "primary": "ferien_adv"
+  },
+  "den_anrufbeantworter_general": {
+    "primary": "telefonsvareren_adv"
+  },
+  "den_elefanten_phrase": {
+    "primary": "elefanten_phrase"
+  },
+  "den_ganzen_tag_phrase": {
+    "primary": "hele_dagen_phrase"
+  },
+  "den_loewen_phrase": {
+    "primary": "løven_phrase"
+  },
+  "denn_conj": {
+    "primary": "for_conj",
+    "alternatives": [
+      "fordi_conj"
+    ],
+    "synonyms": [
+      "fordi",
+      "siden",
+      "ettersom"
+    ]
+  },
+  "deshalb_general": {
+    "primary": "derfor_adv"
+  },
+  "deutlich_general": {
+    "primary": "tydelig_adv"
+  },
+  "deutschland_propn": {
+    "primary": "tyskland_propn"
+  },
+  "dicht_general": {
+    "primary": "tett_adv"
+  },
+  "dick_general": {
+    "primary": "tykk_adv"
+  },
+  "die_schweiz_propn": {
+    "primary": "sveits_propn"
+  },
+  "dies_general": {
+    "primary": "denne_adv"
+  },
+  "digital_general": {
+    "primary": "digital_adv"
+  },
+  "direkt_general": {
+    "primary": "direkte_adv"
+  },
+  "doch_general": {
+    "primary": "likevel_adv"
+  },
+  "doppelt_general": {
+    "primary": "dobbelt_adv"
+  },
+  "dort_adv": {
+    "primary": "der_adv"
+  },
+  "dort_drueben_phrase": {
+    "primary": "der_borte_phrase"
+  },
+  "dorthin_general": {
+    "primary": "dit_adv"
+  },
+  "draussen_adv": {
+    "primary": "ute_adv"
+  },
+  "dringend_general": {
+    "primary": "presserende_adv"
+  },
+  "dritten_reihe_general": {
+    "primary": "tredje_rad_adv"
+  },
+  "duenn_general": {
+    "primary": "tynn_adv"
+  },
+  "dumm_general": {
+    "primary": "dum_adv"
+  },
+  "dunkel_general": {
+    "primary": "mørk_adv"
+  },
+  "durch_prep": {
+    "primary": "gjennom_prep",
+    "explanation": "Preposisjon som alltid krever akkusativ. Brukes for å uttrykke bevegelse gjennom noe."
+  },
+  "durcheinander_general": {
+    "primary": "forvirret_adv"
+  },
+  "durchschnittlich_general": {
+    "primary": "gjennomsnittlig_adv"
+  },
+  "durstig_general": {
+    "primary": "tørst_adv"
+  },
+  "ebenfalls_general": {
+    "primary": "likeledes_adv"
+  },
+  "ebenso_general": {
+    "primary": "like_mye_adv"
+  },
+  "echt_general": {
+    "primary": "ekte_adv"
+  },
+  "eckig_general": {
+    "primary": "kantet_adv"
+  },
+  "egal_adv": {
+    "primary": "samme_det_adv",
+    "alternatives": [
+      "likegyldig_adv"
+    ]
+  },
+  "eher_adv": {
+    "primary": "heller_adv",
+    "alternatives": [
+      "snarere_adv"
+    ]
+  },
+  "eigen_general": {
+    "primary": "egen_adv"
+  },
+  "eilig_general": {
+    "primary": "hastverk_adv"
+  },
+  "ein_anderes_mal_phrase": {
+    "primary": "en_annen_gang_phrase",
+    "synonyms": [
+      "neste gang",
+      "ved en annen anledning"
+    ]
+  },
+  "ein_bisschen_phrase": {
+    "primary": "litt_phrase",
+    "synonyms": [
+      "litt grann",
+      "bittelitt"
+    ]
+  },
+  "ein_general": {
+    "primary": "en_adv"
+  },
+  "ein_paar_general": {
+    "primary": "noen_få_adv"
+  },
+  "ein_stipendium_general": {
+    "primary": "et_stipend_adv"
+  },
+  "eindeutig_general": {
+    "primary": "entydig_adv"
+  },
+  "einen_elefanten_phrase": {
+    "primary": "en_elefant_phrase"
+  },
+  "einerseits_general": {
+    "primary": "på_den_ene_siden_adv"
+  },
+  "einheitlich_general": {
+    "primary": "ensartet_adv"
+  },
+  "einig_general": {
+    "primary": "enig_adv"
+  },
+  "einmal_general": {
+    "primary": "en_gang_adv"
+  },
+  "einsam_general": {
+    "primary": "ensom_adv"
+  },
+  "einschliesslich_general": {
+    "primary": "inkludert_adv"
+  },
+  "einzel_general": {
+    "primary": "enkelt_adv"
+  },
+  "einzig_general": {
+    "primary": "eneste_adv"
+  },
+  "elegant_general": {
+    "primary": "elegant_adv"
+  },
+  "elektrisch_general": {
+    "primary": "elektrisk_adv"
+  },
+  "elektronisch_general": {
+    "primary": "elektronisk_adv"
+  },
+  "endlich_adv": {
+    "primary": "endelig_adv",
+    "synonyms": [
+      "til slutt",
+      "omsider"
+    ]
+  },
+  "eng_general": {
+    "primary": "trang_adv"
+  },
+  "entlang_general": {
+    "primary": "langs_adv"
+  },
+  "entspannend_general": {
+    "primary": "avslappende_adv"
+  },
+  "erfolgreich_general": {
+    "primary": "vellykket_adv"
+  },
+  "erforderlich_general": {
+    "primary": "nødvendig_adv"
+  },
+  "ernsthaft_general": {
+    "primary": "alvorlig_adv"
+  },
+  "erst_general": {
+    "primary": "først_adv"
+  },
+  "es_gibt_phrase": {
+    "primary": "det_finnes_phrase"
+  },
+  "etwa_general": {
+    "primary": "omtrent_adv"
+  },
+  "etwas_general": {
+    "primary": "noe_adv"
+  },
+  "eventuell_general": {
+    "primary": "eventuelt_adv"
+  },
+  "ewig_general": {
+    "primary": "evig_adv"
+  },
+  "extra_general": {
+    "primary": "ekstra_adv"
+  },
+  "extrem_general": {
+    "primary": "ekstrem_adv"
+  },
+  "faellig_general": {
+    "primary": "forfalt_adv"
+  },
+  "fair_general": {
+    "primary": "rettferdig_adv"
+  },
+  "falls_general": {
+    "primary": "i_tilfelle_adv"
+  },
+  "falsch_general": {
+    "primary": "feil_adv"
+  },
+  "fantastisch_general": {
+    "primary": "fantastisk_adv"
+  },
+  "farbig_general": {
+    "primary": "fargerik_adv"
+  },
+  "fast_general": {
+    "primary": "nesten_adv"
+  },
+  "fett_general": {
+    "primary": "feit_adv"
+  },
+  "feucht_general": {
+    "primary": "fuktig_adv"
+  },
+  "finanziell_general": {
+    "primary": "finansiell_adv"
+  },
+  "flach_general": {
+    "primary": "flat_adv"
+  },
+  "fleissig_general": {
+    "primary": "flittig_adv"
+  },
+  "flexibel_general": {
+    "primary": "fleksibel_adv"
+  },
+  "frankreich_land": {
+    "primary": "frankrike_propn"
+  },
+  "frei_general": {
+    "primary": "fri_adv"
+  },
+  "freiwillig_general": {
+    "primary": "frivillig_adv"
+  },
+  "fremd_general": {
+    "primary": "fremmed_adv"
+  },
+  "freunde_sind_wichtig_phrase": {
+    "primary": "venner_er_viktige_phrase"
+  },
+  "froh_general": {
+    "primary": "glad_adv"
+  },
+  "frueh_adv": {
+    "primary": "tidlig_adv",
+    "synonyms": [
+      "tidsnok",
+      "i god tid"
+    ]
+  },
+  "frueher_general": {
+    "primary": "tidligere_adv"
+  },
+  "fuehlt_hat_gefuehlt_general": {
+    "primary": "føler_har_følt_adv"
+  },
+  "fuer_prep": {
+    "primary": "for_prep",
+    "explanation": "Preposisjon som alltid krever akkusativ. Brukes for å uttrykke formål, mottaker eller varighet."
+  },
+  "fuer_sie_general": {
+    "primary": "for_dem_adv"
+  },
+  "furchtbar_general": {
+    "primary": "fryktelig_adv"
+  },
+  "ganz_general": {
+    "primary": "helt_adv"
+  },
+  "gar_general": {
+    "primary": "i_det_hele_tatt_adv"
+  },
+  "geehrt_general": {
+    "primary": "ærede_adv"
+  },
+  "gegen_prep": {
+    "primary": "mot_prep",
+    "explanation": "Preposisjon som alltid krever akkusativ. Brukes for motstand, retning mot, eller omtrentlig tid."
+  },
+  "gegenueber_general": {
+    "primary": "overfor_adv"
+  },
+  "gehaengt_general": {
+    "primary": "hengt_adv"
+  },
+  "gekuendigt_general": {
+    "primary": "oppsagt_adv"
+  },
+  "gemeinsam_general": {
+    "primary": "felles_adv"
+  },
+  "genau_adv": {
+    "primary": "nøyaktig_adv",
+    "alternatives": [
+      "akkurat_adv"
+    ]
+  },
+  "genauso_general": {
+    "primary": "akkurat_like_adv"
+  },
+  "genug_general": {
+    "primary": "nok_adv"
+  },
+  "geoeffnet_general": {
+    "primary": "åpen_adv"
+  },
+  "gerade_adv": {
+    "primary": "akkurat_nå_adv"
+  },
+  "geradeaus_general": {
+    "primary": "rett_frem_adv"
+  },
+  "gering_general": {
+    "primary": "liten_adv"
+  },
+  "gern_adv": {
+    "primary": "gjerne_adv",
+    "synonyms": [
+      "med glede"
+    ]
+  },
+  "gerne_adv": {
+    "primary": "gjerne_adv"
+  },
+  "gespannt_sein_phrase": {
+    "primary": "være_spent_phrase"
+  },
+  "getrennt_adv": {
+    "primary": "hver_for_seg_adv",
+    "synonyms": [
+      "separat"
+    ]
+  },
+  "gewoehnlich_general": {
+    "primary": "vanlig_adv"
+  },
+  "giftig_general": {
+    "primary": "giftig_adv"
+  },
+  "glatt_general": {
+    "primary": "glatt_adv"
+  },
+  "gleich_adv": {
+    "primary": "straks_adv",
+    "alternatives": [
+      "med_en_gang_adv"
+    ]
+  },
+  "gleichberechtigt_general": {
+    "primary": "likestilt_adv"
+  },
+  "gleichfalls_general": {
+    "primary": "i_like_måte_adv"
+  },
+  "gleichzeitig_general": {
+    "primary": "samtidig_adv"
+  },
+  "gratis_general": {
+    "primary": "gratis_adv"
+  },
+  "gruendlich_general": {
+    "primary": "grundig_adv"
+  },
+  "gueltig_general": {
+    "primary": "gyldig_adv"
+  },
+  "guenstig_general": {
+    "primary": "gunstig_adv"
+  },
+  "haesslich_general": {
+    "primary": "stygg_adv"
+  },
+  "haeufig_general": {
+    "primary": "ofte_adv"
+  },
+  "halb_adv": {
+    "primary": "halv_adv"
+  },
+  "halbtags_general": {
+    "primary": "halvdag_adv"
+  },
+  "hallo_general": {
+    "primary": "hallo_adv"
+  },
+  "hallo_interj": {
+    "primary": "hallo_interj",
+    "synonyms": [
+      "Hei",
+      "Heisann",
+      "Hei på deg"
+    ]
+  },
+  "haltbar_general": {
+    "primary": "holdbar_adv"
+  },
+  "hast_du_gehoert_expr": {
+    "primary": "har_du_hørt_expr"
+  },
+  "hast_du_lust_auf_phrase": {
+    "primary": "har_du_lyst_på_phrase"
+  },
+  "hast_general": {
+    "primary": "har_adv"
+  },
+  "hatte_hat_gehabt_general": {
+    "primary": "hadde_har_hatt_adv"
+  },
+  "heim_general": {
+    "primary": "hjem_adv"
+  },
+  "heimlich_general": {
+    "primary": "hemmelig_adv"
+  },
+  "hell_general": {
+    "primary": "lys_adv"
+  },
+  "herzlich_general": {
+    "primary": "hjertelig_adv"
+  },
+  "herzlichen_glueckwunsch_phrase": {
+    "primary": "gratulerer_phrase"
+  },
+  "heute_adv": {
+    "primary": "i_dag_adv"
+  },
+  "heutig_general": {
+    "primary": "nåværende_adv"
+  },
+  "hier_adv": {
+    "primary": "her_adv"
+  },
+  "hierher_general": {
+    "primary": "hit_adv"
+  },
+  "hinten_links_general": {
+    "primary": "bak_til_venstre_adv"
+  },
+  "hinter_prep": {
+    "primary": "bak_prep",
+    "explanation": "Wechselpräposition: Akkusativ ved bevegelse (wohin?), dativ ved posisjon (wo?)."
+  },
+  "hinterher_general": {
+    "primary": "etterpå_adv"
+  },
+  "historisch_general": {
+    "primary": "historisk_adv"
+  },
+  "hoechstens_general": {
+    "primary": "høyst_adv"
+  },
+  "hoeflich_general": {
+    "primary": "høflig_adv"
+  },
+  "hoffentlich_general": {
+    "primary": "forhåpentligvis_adv"
+  },
+  "huebsch_general": {
+    "primary": "pen_adv"
+  },
+  "hungrig_general": {
+    "primary": "sulten_adv"
+  },
+  "ich_freue_mich_phrase": {
+    "primary": "jeg_gleder_meg_phrase"
+  },
+  "ideal_general": {
+    "primary": "ideell_adv"
+  },
+  "ihn_alex_general": {
+    "primary": "ham_alex_adv"
+  },
+  "ihnen_erlaubt_general": {
+    "primary": "tillatt_for_dem_adv"
+  },
+  "illegal_general": {
+    "primary": "ulovlig_adv"
+  },
+  "im_voraus_phrase": {
+    "primary": "på_forhånd_phrase"
+  },
+  "im_zoo_phrase": {
+    "primary": "i_dyrehagen_phrase"
+  },
+  "immer_adv": {
+    "primary": "alltid_adv"
+  },
+  "in_den_alpen_phrase": {
+    "primary": "i_alpene_phrase"
+  },
+  "in_der_schule_phrase": {
+    "primary": "på_skolen_phrase"
+  },
+  "in_ordnung_general": {
+    "primary": "i_orden_adv"
+  },
+  "in_prep": {
+    "primary": "i_prep",
+    "alternatives": [
+      "på_prep"
+    ],
+    "explanation": "Wechselpräposition: Akkusativ ved bevegelse (wohin?), dativ ved posisjon (wo?). Eksempel: «Ich gehe in die Schule» (akkusativ) vs «Ich bin in der Schule» (dativ)."
+  },
+  "indem_general": {
+    "primary": "ved_at_adv"
+  },
+  "individuell_general": {
+    "primary": "individuell_adv"
+  },
+  "inklusive_general": {
+    "primary": "inkludert_adv"
+  },
+  "inner_general": {
+    "primary": "indre_adv"
+  },
+  "ins_cafe_phrase": {
+    "primary": "i_kafen_phrase",
+    "alternatives": [
+      "på_kaf_phrase"
+    ]
+  },
+  "ins_gebirge_expr": {
+    "primary": "til_fjells_expr"
+  },
+  "ins_kino_gehen_phrase": {
+    "primary": "gå_på_kino_phrase"
+  },
+  "ins_prep": {
+    "primary": "i_prep",
+    "alternatives": [
+      "inn_i_prep"
+    ]
+  },
+  "intensiv_general": {
+    "primary": "intensiv_adv"
+  },
+  "interessiert_general": {
+    "primary": "interessert_adv"
+  },
+  "interkulturell_general": {
+    "primary": "interkulturell_adv"
+  },
+  "international_general": {
+    "primary": "internasjonal_adv"
+  },
+  "irgendirgendein_general": {
+    "primary": "en_eller_annen_adv"
+  },
+  "irgendwann_general": {
+    "primary": "en_gang_adv"
+  },
+  "italien_propn": {
+    "primary": "italia_propn"
+  },
+  "ja_interj": {
+    "primary": "ja_interj"
+  },
+  "jahre_alt_phrase": {
+    "primary": "år_gammel_phrase"
+  },
+  "je_general": {
+    "primary": "noensinne_adv"
+  },
+  "jeden_tag_phrase": {
+    "primary": "hver_dag_phrase"
+  },
+  "jeder_e_s_general": {
+    "primary": "hver_adv"
+  },
+  "jedoch_general": {
+    "primary": "likevel_adv"
+  },
+  "jemals_general": {
+    "primary": "noensinne_adv"
+  },
+  "jemand_general": {
+    "primary": "noen_adv"
+  },
+  "jetzt_ab_general": {
+    "primary": "nå_av_adv"
+  },
+  "jetzt_adv": {
+    "primary": "nå_adv"
+  },
+  "jeweils_general": {
+    "primary": "henholdsvis_adv"
+  },
+  "kaputt_general": {
+    "primary": "ødelagt_adv"
+  },
+  "kaum_general": {
+    "primary": "knapt_adv"
+  },
+  "kein_e_general": {
+    "primary": "ingen_adv"
+  },
+  "kein_general": {
+    "primary": "ingen_adv"
+  },
+  "keine_lust_general": {
+    "primary": "ingen_lyst_adv"
+  },
+  "keine_zeit_general": {
+    "primary": "ingen_tid_adv"
+  },
+  "keinen_fall_general": {
+    "primary": "ingen_omstendigheter_adv"
+  },
+  "klappt_general": {
+    "primary": "fungerer_adv"
+  },
+  "klar_interj": {
+    "primary": "klar_interj",
+    "alternatives": [
+      "selvfølgelig_interj"
+    ]
+  },
+  "klug_general": {
+    "primary": "klok_adv"
+  },
+  "knapp_general": {
+    "primary": "knapp_adv"
+  },
+  "koerperlich_general": {
+    "primary": "kroppslig_adv"
+  },
+  "komisch_aus_general": {
+    "primary": "rart_ut_adv"
+  },
+  "komisch_general": {
+    "primary": "morsom_adv"
+  },
+  "komme_gleich_general": {
+    "primary": "kommer_straks_adv"
+  },
+  "komplett_general": {
+    "primary": "komplett_adv"
+  },
+  "kompliziert_general": {
+    "primary": "komplisert_adv"
+  },
+  "korrekt_general": {
+    "primary": "korrekt_adv"
+  },
+  "kostenlos_general": {
+    "primary": "gratis_adv"
+  },
+  "krank_general": {
+    "primary": "syk_adv"
+  },
+  "kritisch_general": {
+    "primary": "kritisk_adv"
+  },
+  "kuenstlich_general": {
+    "primary": "kunstig_adv"
+  },
+  "kuerzlich_general": {
+    "primary": "nylig_adv"
+  },
+  "kulturell_general": {
+    "primary": "kulturell_adv"
+  },
+  "laengst_general": {
+    "primary": "for_lenge_siden_adv"
+  },
+  "lange_adv": {
+    "primary": "lenge_adv"
+  },
+  "laut_general": {
+    "primary": "høy_adv"
+  },
+  "ledig_general": {
+    "primary": "ugift_adv"
+  },
+  "leer_general": {
+    "primary": "tom_adv"
+  },
+  "leicht_general": {
+    "primary": "lett_adv"
+  },
+  "leider_adv": {
+    "primary": "dessverre_adv",
+    "synonyms": [
+      "beklageligvis",
+      "uheldigvis"
+    ]
+  },
+  "leise_general": {
+    "primary": "stille_adv"
+  },
+  "letzt_general": {
+    "primary": "sist_adv"
+  },
+  "lieb_general": {
+    "primary": "kjær_adv"
+  },
+  "lieber_adv": {
+    "primary": "heller_adv",
+    "synonyms": [
+      "helst",
+      "fortrinnsvis"
+    ]
+  },
+  "lieblings-_expr": {
+    "primary": "favoritt_expr",
+    "explanation": "Prefiks som betyr favoritt. F.eks. Lieblingsfarbe (favorittfarge)."
+  },
+  "linken_seite_general": {
+    "primary": "venstre_side_adv"
+  },
+  "links_general": {
+    "primary": "til_venstre_adv"
+  },
+  "locker_general": {
+    "primary": "avslappet_adv"
+  },
+  "los_geht_s_phrase": {
+    "primary": "nå_setter_vi_i_gang_phrase",
+    "synonyms": [
+      "los gehts"
+    ]
+  },
+  "maennlich_general": {
+    "primary": "mannlig_adv"
+  },
+  "mager_general": {
+    "primary": "mager_adv"
+  },
+  "mal_adv": {
+    "primary": "en_gang_adv"
+  },
+  "manch_general": {
+    "primary": "mangt_adv"
+  },
+  "manchmal_adv": {
+    "primary": "noen_ganger_adv",
+    "synonyms": [
+      "av og til",
+      "iblant"
+    ]
+  },
+  "maximal_general": {
+    "primary": "maksimal_adv"
+  },
+  "mehr_adv": {
+    "primary": "mer_adv"
+  },
+  "meiner_firma_general": {
+    "primary": "firmaet_mitt_adv"
+  },
+  "meist_general": {
+    "primary": "mest_adv"
+  },
+  "meistens_adv": {
+    "primary": "for_det_meste_adv",
+    "alternatives": [
+      "vanligvis_adv"
+    ]
+  },
+  "menschlich_general": {
+    "primary": "menneskelig_adv"
+  },
+  "merkwuerdig_general": {
+    "primary": "merkverdig_adv"
+  },
+  "mild_general": {
+    "primary": "mild_adv"
+  },
+  "mindestens_general": {
+    "primary": "minst_adv"
+  },
+  "minimal_general": {
+    "primary": "minimal_adv"
+  },
+  "miss_general": {
+    "primary": "mis_adv"
+  },
+  "mit_dem_auto_phrase": {
+    "primary": "med_bilen_phrase"
+  },
+  "mit_der_schweiz_phrase": {
+    "primary": "med_sveits_phrase"
+  },
+  "mit_freundlichen_gruessen_general": {
+    "primary": "med_vennlig_hilsen_adv"
+  },
+  "mit_meinen_freunden_phrase": {
+    "primary": "med_mine_venner_phrase"
+  },
+  "mit_meiner_mutter_phrase": {
+    "primary": "med_moren_min_phrase"
+  },
+  "mit_prep": {
+    "primary": "med_prep",
+    "explanation": "Preposisjon som alltid krever dativ. Brukes for å uttrykke følge, middel eller instrument."
+  },
+  "miteinander_general": {
+    "primary": "med_hverandre_adv"
+  },
+  "mittler_general": {
+    "primary": "midterst_adv"
+  },
+  "mittlerweile_general": {
+    "primary": "i_mellomtiden_adv"
+  },
+  "moeglich_general": {
+    "primary": "mulig_adv"
+  },
+  "morgen_adv": {
+    "primary": "i_morgen_adv"
+  },
+  "muendlich_general": {
+    "primary": "muntlig_adv"
+  },
+  "musste_general": {
+    "primary": "måtte_adv"
+  },
+  "mutig_general": {
+    "primary": "modig_adv"
+  },
+  "nach_der_schule_phrase": {
+    "primary": "etter_skolen_phrase"
+  },
+  "nach_hause_phrase": {
+    "primary": "hjem_phrase",
+    "explanation": "Uttrykk som betyr 'hjem' når man beveger seg dit."
+  },
+  "nach_links_general": {
+    "primary": "til_venstre_adv"
+  },
+  "nach_prep": {
+    "primary": "til_prep",
+    "explanation": "Preposisjon som alltid krever dativ. Brukes for retning til steder (uten artikkel) og for «etter» i tid.",
+    "synonyms": [
+      "etter"
+    ]
+  },
+  "nachdem_general": {
+    "primary": "etter_at_adv"
+  },
+  "nachher_general": {
+    "primary": "etterpå_adv"
+  },
+  "naechst_general": {
+    "primary": "neste_adv"
+  },
+  "naemlich_general": {
+    "primary": "nemlig_adv"
+  },
+  "natuerlich_adv": {
+    "primary": "selvfølgelig_adv"
+  },
+  "neben_prep": {
+    "primary": "ved_siden_av_prep",
+    "explanation": "Wechselpräposition: Akkusativ ved bevegelse (wohin?), dativ ved posisjon (wo?)."
+  },
+  "nebenan_general": {
+    "primary": "ved_siden_av_adv"
+  },
+  "nebenbei_general": {
+    "primary": "ved_siden_av_adv"
+  },
+  "nee_interj": {
+    "primary": "nei_interj",
+    "synonyms": [
+      "nei",
+      "neida"
+    ]
+  },
+  "negativ_general": {
+    "primary": "negativ_adv"
+  },
+  "nein_interj": {
+    "primary": "nei_interj"
+  },
+  "neugierig_general": {
+    "primary": "nysgjerrig_adv"
+  },
+  "neulich_general": {
+    "primary": "nylig_adv"
+  },
+  "nicht_adv": {
+    "primary": "ikke_adv"
+  },
+  "nicht_notwendig_general": {
+    "primary": "ikke_nødvendig_adv"
+  },
+  "nicht_schon_wieder_phrase": {
+    "primary": "ikke_nå_igjen_phrase"
+  },
+  "nichts_general": {
+    "primary": "ingenting_adv"
+  },
+  "nie_adv": {
+    "primary": "aldri_adv",
+    "explanation": "Brukes for å uttrykke at noe ikke skjer."
+  },
+  "niedrig_general": {
+    "primary": "lav_adv"
+  },
+  "niemals_adv": {
+    "primary": "aldri_adv",
+    "synonyms": [
+      "aldri",
+      "ikke noensinne"
+    ]
+  },
+  "niemand_general": {
+    "primary": "ingen_adv"
+  },
+  "nirgends_general": {
+    "primary": "ingen_steder_adv"
+  },
+  "nirgendwo_general": {
+    "primary": "ingen_steder_adv"
+  },
+  "noch_adv": {
+    "primary": "ennå_adv",
+    "alternatives": [
+      "fortsatt_adv"
+    ]
+  },
+  "noch_nicht_phrase": {
+    "primary": "enda_ikke_phrase"
+  },
+  "nochmals_general": {
+    "primary": "enda_en_gang_adv"
+  },
+  "noetig_general": {
+    "primary": "nødvendig_adv"
+  },
+  "normal_general": {
+    "primary": "normal_adv"
+  },
+  "normalerweise_adv": {
+    "primary": "normalt_adv",
+    "alternatives": [
+      "vanligvis_adv"
+    ]
+  },
+  "norwegisch_propn": {
+    "primary": "norsk_propn"
+  },
+  "notwendig_general": {
+    "primary": "nødvendig_adv"
+  },
+  "nuetzlich_general": {
+    "primary": "nyttig_adv"
+  },
+  "nun_general": {
+    "primary": "nå_adv"
+  },
+  "nur_adv": {
+    "primary": "bare_adv"
+  },
+  "ob_general": {
+    "primary": "om_adv"
+  },
+  "ober_general": {
+    "primary": "øvre_adv"
+  },
+  "obwohl_general": {
+    "primary": "selv_om_adv"
+  },
+  "oder_conj": {
+    "primary": "eller_conj"
+  },
+  "oeffentlich_general": {
+    "primary": "offentlig_adv"
+  },
+  "oesterreich_propn": {
+    "primary": "østerrike_propn"
+  },
+  "offenbar_general": {
+    "primary": "åpenbart_adv"
+  },
+  "offiziell_general": {
+    "primary": "offisiell_adv"
+  },
+  "oft_adv": {
+    "primary": "ofte_adv"
+  },
+  "ohne_prep": {
+    "primary": "uten_prep",
+    "explanation": "Preposisjon som alltid krever akkusativ. Brukes for å uttrykke fravær av noe."
+  },
+  "online_general": {
+    "primary": "på_nett_adv"
+  },
+  "optimistisch_general": {
+    "primary": "optimistisk_adv"
+  },
+  "ordentlich_general": {
+    "primary": "ordentlig_adv"
+  },
+  "parallel_general": {
+    "primary": "parallell_adv"
+  },
+  "passiv_general": {
+    "primary": "passiv_adv"
+  },
+  "passt_es_phrase": {
+    "primary": "passer_det_phrase"
+  },
+  "pauschal_general": {
+    "primary": "pauschal_adv"
+  },
+  "peinlich_general": {
+    "primary": "pinlig_adv"
+  },
+  "per_general": {
+    "primary": "per_adv"
+  },
+  "ploetzlich_general": {
+    "primary": "plutselig_adv"
+  },
+  "positiv_general": {
+    "primary": "positiv_adv"
+  },
+  "praktisch_general": {
+    "primary": "praktisk_adv"
+  },
+  "preiswert_general": {
+    "primary": "rimelig_adv"
+  },
+  "prima_general": {
+    "primary": "utmerket_adv"
+  },
+  "privat_general": {
+    "primary": "privat_adv"
+  },
+  "private_handynummer_general": {
+    "primary": "privat_mobilnummer_adv"
+  },
+  "pro_general": {
+    "primary": "per_adv"
+  },
+  "puenktlich_general": {
+    "primary": "punktlig_adv"
+  },
+  "quer_general": {
+    "primary": "på_tvers_adv"
+  },
+  "raus_adv": {
+    "primary": "ut_adv",
+    "alternatives": [
+      "ute_adv"
+    ],
+    "synonyms": [
+      "ut",
+      "ute",
+      "utenfor"
+    ]
+  },
+  "realistisch_general": {
+    "primary": "realistisk_adv"
+  },
+  "recht_general": {
+    "primary": "rett_adv"
+  },
+  "rechtlich_general": {
+    "primary": "rettslig_adv"
+  },
+  "rechts_general": {
+    "primary": "til_høyre_adv"
+  },
+  "rechtzeitig_general": {
+    "primary": "i_tide_adv"
+  },
+  "regelmaessig_general": {
+    "primary": "regelmessig_adv"
+  },
+  "regional_general": {
+    "primary": "regional_adv"
+  },
+  "reich_general": {
+    "primary": "rik_adv"
+  },
+  "reif_general": {
+    "primary": "moden_adv"
+  },
+  "rein_adv": {
+    "primary": "inn_adv"
+  },
+  "relativ_general": {
+    "primary": "relativ_adv"
+  },
+  "roh_general": {
+    "primary": "rå_adv"
+  },
+  "romantisch_general": {
+    "primary": "romantisk_adv"
+  },
+  "rueckwaerts_general": {
+    "primary": "bakover_adv"
+  },
+  "rund_general": {
+    "primary": "rund_adv"
+  },
+  "saemtliche_general": {
+    "primary": "samtlige_adv"
+  },
+  "salzig_general": {
+    "primary": "salt_adv"
+  },
+  "satt_general": {
+    "primary": "mett_adv"
+  },
+  "sauer_general": {
+    "primary": "sur_adv"
+  },
+  "schaedlich_general": {
+    "primary": "skadelig_adv"
+  },
+  "scharf_general": {
+    "primary": "skarp_adv"
+  },
+  "schief_general": {
+    "primary": "skjevt_adv"
+  },
+  "schlank_general": {
+    "primary": "slank_adv"
+  },
+  "schlecht_general": {
+    "primary": "dårlig_adv"
+  },
+  "schliesslich_general": {
+    "primary": "til_slutt_adv"
+  },
+  "schmal_general": {
+    "primary": "smal_adv"
+  },
+  "schmutzig_general": {
+    "primary": "skitten_adv"
+  },
+  "schnell_adv": {
+    "primary": "raskt_adv",
+    "synonyms": [
+      "fort",
+      "kjapt",
+      "hurtig"
+    ]
+  },
+  "schon_adv": {
+    "primary": "allerede_adv",
+    "synonyms": [
+      "alt"
+    ]
+  },
+  "schrecklich_general": {
+    "primary": "fryktelig_adv"
+  },
+  "schriftlich_general": {
+    "primary": "skriftlig_adv"
+  },
+  "schuldig_general": {
+    "primary": "skyldig_adv"
+  },
+  "schwach_general": {
+    "primary": "svak_adv"
+  },
+  "schwanger_general": {
+    "primary": "gravid_adv"
+  },
+  "schwer_general": {
+    "primary": "tung_adv"
+  },
+  "sehr_adv": {
+    "primary": "veldig_adv",
+    "alternatives": [
+      "mye_adv"
+    ]
+  },
+  "seit_prep": {
+    "primary": "siden_prep",
+    "explanation": "Preposisjon som alltid krever dativ. Brukes for å uttrykke varighet fra et tidspunkt."
+  },
+  "seitdem_general": {
+    "primary": "siden_adv"
+  },
+  "selb_general": {
+    "primary": "selv_adv"
+  },
+  "selber_general": {
+    "primary": "selv_adv"
+  },
+  "selbst_general": {
+    "primary": "selv_adv"
+  },
+  "selbststaendig_general": {
+    "primary": "selvstendig_adv"
+  },
+  "selbstverstaendlich_general": {
+    "primary": "selvfølgelig_adv"
+  },
+  "seltsam_general": {
+    "primary": "merkelig_adv"
+  },
+  "senkrecht_general": {
+    "primary": "loddrett_adv"
+  },
+  "setzt_hat_gesetzt_general": {
+    "primary": "setter_har_satt_adv"
+  },
+  "sich_warm_anziehen_phrase": {
+    "primary": "kle_seg_varmt_phrase"
+  },
+  "sichtbar_general": {
+    "primary": "synlig_adv"
+  },
+  "sinnlos_general": {
+    "primary": "meningsløs_adv"
+  },
+  "sinnvoll_general": {
+    "primary": "meningsfull_adv"
+  },
+  "so_adv": {
+    "primary": "så_adv",
+    "alternatives": [
+      "slik_adv"
+    ]
+  },
+  "so_schoen_general": {
+    "primary": "så_pent_adv"
+  },
+  "so_wie_phrase": {
+    "primary": "like__som_phrase"
+  },
+  "sobald_general": {
+    "primary": "så_snart_adv"
+  },
+  "sodass_general": {
+    "primary": "slik_at_adv"
+  },
+  "sofort_adv": {
+    "primary": "med_en_gang_adv",
+    "alternatives": [
+      "straks_adv"
+    ]
+  },
+  "sogar_general": {
+    "primary": "til_og_med_adv"
+  },
+  "sogenannt_general": {
+    "primary": "såkalt_adv"
+  },
+  "solange_general": {
+    "primary": "så_lenge_adv"
+  },
+  "solch_general": {
+    "primary": "slik_adv"
+  },
+  "sollte_general": {
+    "primary": "burde_adv"
+  },
+  "sonst_general": {
+    "primary": "ellers_adv"
+  },
+  "soviel_general": {
+    "primary": "så_mye_adv"
+  },
+  "sowieso_general": {
+    "primary": "uansett_adv"
+  },
+  "sozial_general": {
+    "primary": "sosial_adv"
+  },
+  "spaet_adv": {
+    "primary": "sent_adv",
+    "synonyms": [
+      "seint",
+      "for sent"
+    ]
+  },
+  "spaeter_adv": {
+    "primary": "senere_adv"
+  },
+  "spaetestens_general": {
+    "primary": "senest_adv"
+  },
+  "spass_machen_phrase": {
+    "primary": "være_gøy_phrase"
+  },
+  "speziell_general": {
+    "primary": "spesiell_adv"
+  },
+  "spitz_general": {
+    "primary": "spiss_adv"
+  },
+  "staedtisch_general": {
+    "primary": "bymessig_adv"
+  },
+  "staendig_general": {
+    "primary": "stadig_adv"
+  },
+  "statistisch_general": {
+    "primary": "statistisk_adv"
+  },
+  "statt_general": {
+    "primary": "istedenfor_adv"
+  },
+  "steil_general": {
+    "primary": "bratt_adv"
+  },
+  "stilistisch_general": {
+    "primary": "stilistisk_adv"
+  },
+  "still_general": {
+    "primary": "stille_adv"
+  },
+  "stimmt_interj": {
+    "primary": "stemmer_interj",
+    "alternatives": [
+      "det_er_riktig_interj"
+    ]
+  },
+  "stolz_general": {
+    "primary": "stolt_adv"
+  },
+  "strafbar_general": {
+    "primary": "straffbar_adv"
+  },
+  "stumm_general": {
+    "primary": "stum_adv"
+  },
+  "super_adv": {
+    "primary": "kjempebra_adv",
+    "alternatives": [
+      "super_adv"
+    ]
+  },
+  "super_interj": {
+    "primary": "supert_interj",
+    "synonyms": [
+      "Kjempebra!",
+      "Strålende!",
+      "Topp!",
+      "Fantastisk!"
+    ]
+  },
+  "tagsueber_adv": {
+    "primary": "om_dagen_adv",
+    "alternatives": [
+      "på_dagtid_adv"
+    ]
+  },
+  "taub_general": {
+    "primary": "døv_adv"
+  },
+  "theoretisch_general": {
+    "primary": "teoretisk_adv"
+  },
+  "tief_general": {
+    "primary": "dyp_adv"
+  },
+  "toedlich_general": {
+    "primary": "dødelig_adv"
+  },
+  "tolerant_general": {
+    "primary": "tolerant_adv"
+  },
+  "tot_general": {
+    "primary": "død_adv"
+  },
+  "total_general": {
+    "primary": "total_adv"
+  },
+  "traditionell_general": {
+    "primary": "tradisjonell_adv"
+  },
+  "trotz_general": {
+    "primary": "til_tross_for_adv"
+  },
+  "trotzdem_general": {
+    "primary": "likevel_adv"
+  },
+  "tschues_general": {
+    "primary": "ha_det_adv"
+  },
+  "tschuess_general": {
+    "primary": "ha_det_adv"
+  },
+  "tschuess_interj": {
+    "primary": "ha_det_interj",
+    "synonyms": [
+      "Ha det bra!",
+      "Vi sees!",
+      "Hade!"
+    ]
+  },
+  "tun_general": {
+    "primary": "gjøre_adv"
+  },
+  "typisch_general": {
+    "primary": "typisk_adv"
+  },
+  "ueber_prep": {
+    "primary": "over_prep",
+    "explanation": "Wechselpräposition: Akkusativ ved bevegelse (wohin?), dativ ved posisjon (wo?). Kan også bety «om» (tema)."
+  },
+  "ueberall_adv": {
+    "primary": "overalt_adv",
+    "synonyms": [
+      "alle steder",
+      "over alt"
+    ]
+  },
+  "ueberhaupt_general": {
+    "primary": "i_det_hele_tatt_adv"
+  },
+  "ueblich_general": {
+    "primary": "vanlig_adv"
+  },
+  "uebrig_general": {
+    "primary": "øvrig_adv"
+  },
+  "uebrigens_general": {
+    "primary": "for_øvrig_adv"
+  },
+  "um_prep": {
+    "primary": "klokka_prep",
+    "explanation": "Preposisjon som alltid krever akkusativ. Brukes foran klokkeslett (um 8 Uhr) og for å uttrykke «rundt» eller «omkring»."
+  },
+  "umso_general": {
+    "primary": "desto_adv"
+  },
+  "umsonst_general": {
+    "primary": "gratis_adv"
+  },
+  "un_general": {
+    "primary": "u_adv"
+  },
+  "unbedingt_adv": {
+    "primary": "absolutt_adv",
+    "alternatives": [
+      "nødvendigvis_adv"
+    ]
+  },
+  "und_conj": {
+    "primary": "og_conj"
+  },
+  "und_jugendliche_general": {
+    "primary": "og_ungdommer_adv"
+  },
+  "und_stuttgart_general": {
+    "primary": "og_stuttgart_adv"
+  },
+  "ungefaehr_general": {
+    "primary": "omtrent_adv"
+  },
+  "ungewoehnlich_general": {
+    "primary": "uvanlig_adv"
+  },
+  "unglaublich_general": {
+    "primary": "utrolig_adv"
+  },
+  "unheimlich_general": {
+    "primary": "uhyggelig_adv"
+  },
+  "unserer_stadt_general": {
+    "primary": "byen_vår_adv"
+  },
+  "unter_general": {
+    "primary": "under_adv"
+  },
+  "unter_prep": {
+    "primary": "under_prep",
+    "explanation": "Wechselpräposition: Akkusativ ved bevegelse (wohin?), dativ ved posisjon (wo?)."
+  },
+  "untersagt_general": {
+    "primary": "forbudt_adv"
+  },
+  "unterschiedlich_general": {
+    "primary": "forskjellig_adv"
+  },
+  "unterwegs_general": {
+    "primary": "på_veien_adv"
+  },
+  "urlaub_auf_balkonien_phrase": {
+    "primary": "ferie_hjemme_phrase"
+  },
+  "urspruenglich_general": {
+    "primary": "opprinnelig_adv"
+  },
+  "vegetarisch_general": {
+    "primary": "vegetarisk_adv"
+  },
+  "verantwortlich_general": {
+    "primary": "ansvarlig_adv"
+  },
+  "verboten_sein_general": {
+    "primary": "være_forbudt_adv"
+  },
+  "vergeblich_general": {
+    "primary": "forgjeves_adv"
+  },
+  "verheiratet_general": {
+    "primary": "gift_adv"
+  },
+  "vermutlich_general": {
+    "primary": "sannsynligvis_adv"
+  },
+  "vernuenftig_general": {
+    "primary": "fornuftig_adv"
+  },
+  "verrueckt_general": {
+    "primary": "gal_adv"
+  },
+  "verstaendlich_general": {
+    "primary": "forståelig_adv"
+  },
+  "verwandt_general": {
+    "primary": "beslektet_adv"
+  },
+  "viel_adv": {
+    "primary": "mye_adv",
+    "alternatives": [
+      "veldig_adv"
+    ],
+    "synonyms": [
+      "svært",
+      "sterkt",
+      "mange"
+    ]
+  },
+  "viel_e_general": {
+    "primary": "mye_mange_adv"
+  },
+  "viel_spass_phrase": {
+    "primary": "god_fornøyelse_phrase"
+  },
+  "vielleicht_adv": {
+    "primary": "kanskje_adv",
+    "synonyms": [
+      "muligens",
+      "kan hende"
+    ]
+  },
+  "viertel_nach_phrase": {
+    "primary": "kvart_over_phrase"
+  },
+  "viertel_vor_phrase": {
+    "primary": "kvart_på_phrase"
+  },
+  "virtuell_general": {
+    "primary": "virtuell_adv"
+  },
+  "voellig_general": {
+    "primary": "fullstendig_adv"
+  },
+  "voll_general": {
+    "primary": "full_adv"
+  },
+  "von_prep": {
+    "primary": "av_prep",
+    "alternatives": [
+      "fra_prep"
+    ],
+    "explanation": "Preposisjon som alltid krever dativ. Brukes for å uttrykke opprinnelse, eierskap eller forfatter."
+  },
+  "voneinander_general": {
+    "primary": "fra_hverandre_adv"
+  },
+  "vor_allem_general": {
+    "primary": "fremfor_alt_adv"
+  },
+  "vor_prep": {
+    "primary": "foran_prep",
+    "alternatives": [
+      "før_prep"
+    ],
+    "explanation": "Wechselpräposition: Akkusativ ved bevegelse (wohin?), dativ ved posisjon (wo?). Brukes også om tid (før)."
+  },
+  "voraus_general": {
+    "primary": "i_forveien_adv"
+  },
+  "voraussichtlich_general": {
+    "primary": "sannsynligvis_adv"
+  },
+  "vorbei_general": {
+    "primary": "forbi_adv"
+  },
+  "vorder_general": {
+    "primary": "fremre_adv"
+  },
+  "vorher_general": {
+    "primary": "på_forhånd_adv"
+  },
+  "vorhin_general": {
+    "primary": "nylig_adv"
+  },
+  "vorlaeufig_general": {
+    "primary": "foreløpig_adv"
+  },
+  "vorsichtig_general": {
+    "primary": "forsiktig_adv"
+  },
+  "vorwaerts_general": {
+    "primary": "fremover_adv"
+  },
+  "waehrend_general": {
+    "primary": "mens_adv"
+  },
+  "wahnsinnig_general": {
+    "primary": "gal_adv"
+  },
+  "wahr_general": {
+    "primary": "sann_adv"
+  },
+  "wahrscheinlich_general": {
+    "primary": "sannsynlig_adv"
+  },
+  "wann_interr": {
+    "primary": "når_interr"
+  },
+  "warum_interr": {
+    "primary": "hvorfor_interr"
+  },
+  "was_fuer_ein_general": {
+    "primary": "for_en_adv"
+  },
+  "was_interr": {
+    "primary": "hva_interr"
+  },
+  "weg_sein_general": {
+    "primary": "være_borte_adv"
+  },
+  "weh_tun_general": {
+    "primary": "gjøre_vondt_adv"
+  },
+  "weiblich_general": {
+    "primary": "kvinnelig_adv"
+  },
+  "weil_general": {
+    "primary": "fordi_adv"
+  },
+  "weiter_general": {
+    "primary": "videre_adv"
+  },
+  "welchdie_welt_general": {
+    "primary": "hvilken_verden_adv"
+  },
+  "welcher_interr": {
+    "primary": "hvilken_interr"
+  },
+  "wenig_adv": {
+    "primary": "lite_adv",
+    "alternatives": [
+      "få_adv"
+    ],
+    "synonyms": [
+      "knapt",
+      "ikke mye"
+    ]
+  },
+  "wenigstens_general": {
+    "primary": "i_det_minste_adv"
+  },
+  "wenn_general": {
+    "primary": "når_hvis_adv"
+  },
+  "wer_interr": {
+    "primary": "hvem_interr"
+  },
+  "wer_ist_das_phrase": {
+    "primary": "hvem_er_det_phrase"
+  },
+  "wert_general": {
+    "primary": "verdt_adv"
+  },
+  "wertlos_general": {
+    "primary": "verdiløs_adv"
+  },
+  "wertvoll_general": {
+    "primary": "verdifull_adv"
+  },
+  "weshalb_general": {
+    "primary": "hvorfor_adv"
+  },
+  "wie_fuehlst_du_dich_phrase": {
+    "primary": "hvordan_føler_du_deg_phrase"
+  },
+  "wie_heisst_du_phrase": {
+    "primary": "hva_heter_du_phrase"
+  },
+  "wie_interr": {
+    "primary": "hvordan_interr",
+    "alternatives": [
+      "hva_interr"
+    ]
+  },
+  "wie_spaet_ist_es_phrase": {
+    "primary": "hva_er_klokka_phrase",
+    "synonyms": [
+      "Hvor mye er klokka?"
+    ]
+  },
+  "wie_viel_general": {
+    "primary": "hvor_mye_adv"
+  },
+  "wieder_adv": {
+    "primary": "igjen_adv"
+  },
+  "wieso_general": {
+    "primary": "hvorfor_adv"
+  },
+  "willkommen_interj": {
+    "primary": "velkommen_interj"
+  },
+  "wirklich_adv": {
+    "primary": "virkelig_adv",
+    "alternatives": [
+      "egentlig_adv"
+    ]
+  },
+  "witzig_general": {
+    "primary": "morsom_adv"
+  },
+  "wo_general": {
+    "primary": "hvor_adv"
+  },
+  "wo_interr": {
+    "primary": "hvor_interr"
+  },
+  "woher_interr": {
+    "primary": "hvor_fra_interr"
+  },
+  "woher_kommst_du_phrase": {
+    "primary": "hvor_kommer_du_fra_phrase"
+  },
+  "wohin_interr": {
+    "primary": "hvor_hen_interr",
+    "alternatives": [
+      "dit_interr"
+    ]
+  },
+  "wohl_general": {
+    "primary": "vel_adv"
+  },
+  "worueber_general": {
+    "primary": "om_hva_adv"
+  },
+  "worum_general": {
+    "primary": "om_hva_adv"
+  },
+  "wuetend_general": {
+    "primary": "rasende_adv"
+  },
+  "wunderbar_general": {
+    "primary": "vidunderlig_adv"
+  },
+  "zahlreich_general": {
+    "primary": "tallrik_adv"
+  },
+  "zentral_general": {
+    "primary": "sentral_adv"
+  },
+  "ziemlich_general": {
+    "primary": "ganske_adv"
+  },
+  "zu_adv": {
+    "primary": "for_som_i_for_sent_adv",
+    "synonyms": [
+      "for",
+      "til (preposisjon)",
+      "å (infinitivmerker)",
+      "altfor",
+      "overdrevent"
+    ]
+  },
+  "zu_frueh_phrase": {
+    "primary": "for_tidlig_phrase"
+  },
+  "zu_fuss_general": {
+    "primary": "til_fots_adv"
+  },
+  "zu_hause_phrase": {
+    "primary": "hjemme_phrase"
+  },
+  "zu_prep": {
+    "primary": "til_prep",
+    "explanation": "Preposisjon som alltid krever dativ. Brukes for retning til et sted eller person. Sammentrekninger: zum (zu + dem), zur (zu + der)."
+  },
+  "zu_sein_general": {
+    "primary": "være_lukket_adv"
+  },
+  "zu_viel_phrase": {
+    "primary": "for_mye_phrase"
+  },
+  "zuerst_adv": {
+    "primary": "først_adv"
+  },
+  "zugaenglich_general": {
+    "primary": "tilgjengelig_adv"
+  },
+  "zuhause_adv": {
+    "primary": "hjemme_adv",
+    "explanation": "Uttrykk som betyr 'hjemme' når man er der."
+  },
+  "zukuenftig_general": {
+    "primary": "fremtidig_adv"
+  },
+  "zuletzt_general": {
+    "primary": "til_slutt_adv"
+  },
+  "zum_beispiel_general": {
+    "primary": "for_eksempel_adv"
+  },
+  "zum_doktor_general": {
+    "primary": "til_legen_adv"
+  },
+  "zum_geburtstag_viel_glueck_phrase": {
+    "primary": "gratulerer_med_dagen_phrase"
+  },
+  "zum_zahnarzt_general": {
+    "primary": "til_tannlegen_adv"
+  },
+  "zumindest_general": {
+    "primary": "i_det_minste_adv"
+  },
+  "zunaechst_general": {
+    "primary": "først_adv"
+  },
+  "zur_bank_general": {
+    "primary": "til_banken_adv"
+  },
+  "zurueck_general": {
+    "primary": "tilbake_adv"
+  },
+  "zurzeit_general": {
+    "primary": "for_tiden_adv"
+  },
+  "zusaetzlich_general": {
+    "primary": "i_tillegg_adv"
+  },
+  "zusammen_adv": {
+    "primary": "sammen_adv",
+    "synonyms": [
+      "i fellesskap",
+      "med hverandre"
+    ]
+  },
+  "zustaendig_general": {
+    "primary": "ansvarlig_adv"
+  },
+  "zuverlaessig_general": {
+    "primary": "pålitelig_adv"
+  },
+  "zwar_general": {
+    "primary": "riktignok_adv"
+  },
+  "zwischen_prep": {
+    "primary": "mellom_prep",
+    "explanation": "Wechselpräposition: Akkusativ ved bevegelse (wohin?), dativ ved posisjon (wo?)."
+  }
+}

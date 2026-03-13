@@ -1,0 +1,86 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://papertek.no/schemas/vocabulary/lexicon/lexicon-entry.schema.json",
+  "title": "Lexicon Entry Schema",
+  "description": "Base schema for language-agnostic lexicon entries in the two-way dictionary. Every word in every language is a first-class entry with this minimal set of fields. Language-specific schemas (noun, verb, adjective) extend this with grammar data.",
+  "type": "object",
+  "additionalProperties": {
+    "$ref": "#/$defs/lexiconEntry"
+  },
+  "$defs": {
+    "lexiconEntry": {
+      "type": "object",
+      "properties": {
+        "word": {
+          "type": "string",
+          "description": "The word in its canonical form"
+        },
+        "type": {
+          "type": "string",
+          "description": "Word type / part of speech",
+          "enum": [
+            "noun", "verb", "adj", "adv", "prep", "conj",
+            "interj", "pron", "art", "num", "phrase",
+            "interr", "propn", "contr", "expr",
+            "dem_pron", "poss_pron", "dobj_pron", "iobj_pron",
+            "refl_pron", "possessiv"
+          ]
+        },
+        "audio": {
+          "type": "string",
+          "description": "Audio filename for pronunciation (MP3)"
+        },
+        "cefr": {
+          "type": "string",
+          "description": "CEFR proficiency level",
+          "enum": ["A1", "A2", "B1", "B2", "C1", "C2"]
+        },
+        "frequency": {
+          "type": ["integer", "null"],
+          "description": "Frequency rank (1 = most common). Based on corpus frequency lists.",
+          "minimum": 1
+        },
+        "tags": {
+          "type": "array",
+          "description": "Topical/thematic tags for categorization",
+          "items": { "type": "string" }
+        },
+        "register": {
+          "type": "string",
+          "description": "Language register / formality level",
+          "enum": ["formal", "informal", "colloquial", "slang", "literary", "technical", "neutral"]
+        },
+        "etymology": {
+          "type": "string",
+          "description": "Brief etymology note"
+        },
+        "usageNotes": {
+          "type": "string",
+          "description": "Usage notes or contextual information"
+        },
+        "typos": {
+          "type": "array",
+          "description": "Common misspellings and writing errors students make for this word. Used by Leksihjelp for word prediction — if a student types a known typo, the app can suggest the correct word.",
+          "items": { "type": "string" },
+          "examples": [["kjøken", "sjøkken"], ["Strasse", "straße"]]
+        },
+        "acceptedForms": {
+          "type": "array",
+          "description": "Alternative spellings or simplified forms that should be accepted as correct answers in glossary tests and exercises. Includes informal spellings, missing apostrophes, case variations, etc.",
+          "items": { "type": "string" },
+          "examples": [["los gehts", "Los gehts"], ["Strasse"]]
+        },
+        "_generatedFrom": {
+          "type": "string",
+          "description": "Source of this entry for generated/derived entries (e.g. 'de-nb/nounbank:abend_noun'). Absent for manually curated entries."
+        },
+        "_enriched": {
+          "type": "boolean",
+          "description": "true if this entry has been enriched with full grammar data. false or absent for skeleton entries.",
+          "default": false
+        }
+      },
+      "required": ["word", "type"]
+    }
+  }
+}

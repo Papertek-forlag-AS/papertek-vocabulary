@@ -31,7 +31,18 @@
     "validate:adjectives": "node scripts/validate-adjectives.js",
     "validate:all": "npm run validate:nouns && npm run validate:verbs && npm run validate:adjectives && npm run verify:integration",
     "verify:integration": "node scripts/verify-integration.js",
-    "validate:migration": "node scripts/validate-migration.js"
+    "validate:migration": "node scripts/validate-migration.js",
+    "generate:nb-lexicon": "node scripts/generate-nb-lexicon.js",
+    "generate:links": "node scripts/generate-links.js",
+    "generate:lexicon": "npm run generate:nb-lexicon && npm run generate:links",
+    "enrich:nb": "node scripts/enrich-nb-lexicon.js",
+    "build:lexicon": "npm run generate:lexicon && npm run enrich:nb",
+    "generate:source-lexicon": "node scripts/generate-source-lexicon.js",
+    "build:lexicon-search-index": "node scripts/build-lexicon-search-index.js",
+    "generate:en-lexicon": "node scripts/generate-en-lexicon.js",
+    "generate:en-links": "node scripts/generate-en-links.js",
+    "validate:lexicon": "node scripts/validate-lexicon.js",
+    "build:lexicon-all": "npm run build:lexicon && npm run generate:en-lexicon && npm run generate:en-links && npm run generate:source-lexicon && npm run build:lexicon-search-index"
   },
   "engines": {
     "node": ">=18.0.0"

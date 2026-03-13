@@ -1,0 +1,48 @@
+{
+  "_metadata": {
+    "from": "es",
+    "to": "nb",
+    "bank": "articlesbank",
+    "generatedAt": "2026-03-13T12:15:37.584Z",
+    "totalLinks": 10
+  },
+  "al_contr": {
+    "primary": "til_contr"
+  },
+  "del_contr": {
+    "primary": "fra_contr",
+    "alternatives": [
+      "av_contr"
+    ]
+  },
+  "el_articulo": {
+    "primary": "den_adv",
+    "alternatives": [
+      "det_adv"
+    ]
+  },
+  "la_articulo": {
+    "primary": "den_adv",
+    "alternatives": [
+      "det_adv"
+    ]
+  },
+  "las_articulo": {
+    "primary": "de_adv"
+  },
+  "los_articulo": {
+    "primary": "de_adv"
+  },
+  "un_articulo": {
+    "primary": "en_adv"
+  },
+  "una_articulo": {
+    "primary": "en_adv"
+  },
+  "unas_articulo": {
+    "primary": "noen_adv"
+  },
+  "unos_articulo": {
+    "primary": "noen_adv"
+  }
+}

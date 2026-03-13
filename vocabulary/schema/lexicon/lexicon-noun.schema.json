@@ -1,0 +1,60 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://papertek.no/schemas/vocabulary/lexicon/lexicon-noun.schema.json",
+  "title": "Lexicon Noun Schema",
+  "description": "Noun-specific fields for lexicon entries. Designed for Norwegian (NB/NN) nouns but language-agnostic where possible. Norwegian nouns inflect by number (entall/flertall) and definiteness (ubestemt/bestemt), yielding 4 core forms.",
+  "type": "object",
+  "additionalProperties": {
+    "$ref": "#/$defs/nounEntry"
+  },
+  "$defs": {
+    "nounEntry": {
+      "type": "object",
+      "allOf": [
+        { "$ref": "lexicon-entry.schema.json#/$defs/lexiconEntry" }
+      ],
+      "properties": {
+        "genus": {
+          "type": "string",
+          "description": "Grammatical gender. Norwegian: m (maskulin), f (feminin), n (nøytrum). German: m, f, n. Can also be 'c' (common) or 'pl' (plurale tantum).",
+          "enum": ["m", "f", "n", "c", "pl"]
+        },
+        "plural": {
+          "type": "string",
+          "description": "Plural form (ubestemt flertall)"
+        },
+        "forms": {
+          "type": "object",
+          "description": "All inflected forms of the noun. For Norwegian: ubestemt/bestemt x entall/flertall = 4 forms.",
+          "properties": {
+            "ubestemt": {
+              "type": "object",
+              "properties": {
+                "entall": { "type": "string", "description": "Indefinite singular (en hage)" },
+                "flertall": { "type": "string", "description": "Indefinite plural (hager)" }
+              }
+            },
+            "bestemt": {
+              "type": "object",
+              "properties": {
+                "entall": { "type": "string", "description": "Definite singular (hagen)" },
+                "flertall": { "type": "string", "description": "Definite plural (hagene)" }
+              }
+            }
+          }
+        },
+        "countable": {
+          "type": "boolean",
+          "description": "Whether the noun is countable. Uncountable nouns may lack plural forms.",
+          "default": true
+        },
+        "irregularPlural": {
+          "type": "boolean",
+          "description": "Flag for irregular plural formation",
+          "default": false
+        }
+      },
+      "required": ["word", "type", "genus"]
+    }
+  }
+}
