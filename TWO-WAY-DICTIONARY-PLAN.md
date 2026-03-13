@@ -421,126 +421,109 @@ New `nb` section in `vocabulary/lexicon/grammar-features.json`:
 
 ## Phased Implementation
 
-### Phase 1: Schemas & NB Lexicon Foundation (current)
+### Phase 1: Schemas & NB Lexicon Foundation — DONE ✅
 
-**Goal:** Define the lexicon data model and generate initial Norwegian word entries from existing translation data.
+**Completed.** Lexicon data model defined, Norwegian word entries generated from translation data.
 
-**Step 1.1 — Lexicon Schemas**
-Create JSON Schema files for validation:
-- `vocabulary/schema/lexicon/lexicon-entry.schema.json` — base entry (word, type, cefr, frequency)
-- `vocabulary/schema/lexicon/lexicon-noun.schema.json` — NB noun: genus, forms (ubestemt/bestemt x entall/flertall)
-- `vocabulary/schema/lexicon/lexicon-verb.schema.json` — NB verb: conjugation forms, verbClass, auxiliary
-- `vocabulary/schema/lexicon/lexicon-adjective.schema.json` — NB adj: comparison, declension by gender/number/definiteness
-- `vocabulary/schema/lexicon/lexicon-link.schema.json` — link: primary, alternatives, examples, explanation
+**What was built:**
+- 5 JSON Schema files in `vocabulary/schema/lexicon/` (entry, noun, verb, adjective, link)
+- `scripts/generate-nb-lexicon.js` — extracts 3,649 unique NB words from de-nb and es-nb translations
+- `scripts/validate-lexicon.js` — validates entries (schema, ID uniqueness, orphan detection, link integrity)
+- `vocabulary/lexicon/grammar-features.json` — 12 Norwegian grammar features for progressive disclosure
+- NB lexicon: 1,596 nouns, 663 verbs, 401 adjectives, 989 general words
 
-**Step 1.2 — Norwegian Lexicon Generator Script**
-`scripts/generate-nb-lexicon.js`:
-1. Read all `translations/de-nb/*.json` and `translations/es-nb/*.json`
-2. Extract unique Norwegian words (deduplicate across sources)
-3. Split slash-separated translations (`"middag / kveldsmat"` → two entries)
-4. Infer word type from source word type (German noun → Norwegian noun)
-5. Extract existing definite forms from translation data (284 nouns already have `definite` field)
-6. Generate word IDs using `word_type` convention (normalize: lowercase, strip `å `, replace special chars)
-7. Output `vocabulary/lexicon/nb/nounbank.json`, `verbbank.json`, `adjectivebank.json`, `generalbank.json`
-8. Generate `vocabulary/lexicon/nb/manifest.json` with counts
+### Phase 2: Link Structure — DONE ✅
 
-**Step 1.3 — Grammar Features**
-Create `vocabulary/lexicon/grammar-features.json` with the `nb` grammar features section (see above).
+**Completed.** Bidirectional links between all language pairs.
 
-**Step 1.4 — Validation Script**
-`scripts/validate-lexicon.js`:
-- Validate all lexicon entries against schemas
-- Check for ID uniqueness
-- Check for orphaned entries (words with no links)
+**What was built:**
+- `scripts/generate-links.js` — forward links (de-nb, es-nb) + auto-generated reverse links (nb-de, nb-es)
+- 4,471 forward links + 4,295 reverse links, 0 orphans
+- Slash alternatives split correctly, many-to-one collapsed in reverse direction
 
-**Data scope for Phase 1:**
-- ~2,800 unique Norwegian words extracted from de-nb (3,454 entries minus duplicates)
-- ~800 additional from es-nb (1,017 entries minus overlap with de-nb)
-- Most will start as **skeleton entries** (word + type only) — grammar data is populated in enrichment phases
-- ~284 nouns already have definite form data from existing translations
+### Phase 3: Norwegian Grammar Enrichment — DONE ✅
 
-### Phase 2: Link Structure
+**Completed.** Rule-based morphology engine populates NB entries with full grammar data.
 
-**Goal:** Create bidirectional links between German/Spanish and Norwegian lexicon entries.
+**What was built:**
+- `scripts/enrich-nb-lexicon.js` — Norwegian morphology engine with:
+  - 30+ irregular nouns (barn→barnet/barna, mann→menn, bok→bøker, etc.)
+  - 45+ irregular/strong verbs (gå→går/gikk/gått, være→er/var/vært, etc.)
+  - 12 irregular adjective comparisons (stor→større/størst, god→bedre/best, etc.)
+  - Rule-based generation for regular words (noun gender heuristics, verb class detection, adjective declension)
+- Result: 2,589/3,649 words enriched (1,596 nouns, 592 verbs, 401 adjectives)
 
-**Step 2.1 — Forward Links**
-`scripts/generate-links.js`:
-1. Read `translations/de-nb/*.json`
-2. For each translation entry, create a link from German word ID → Norwegian word ID
-3. Carry over `examples`, `explanation`, `synonyms` from translation data
-4. Handle slash-alternatives: `"middag / kveldsmat"` → primary: `middag_noun`, alternative: `kveldsmat_noun`
-5. Output `vocabulary/lexicon/links/de-nb/*.json` (one file per bank)
-6. Repeat for `es-nb`
+### Phase 4: Source Language Lexicon Views — DONE ✅
 
-**Step 2.2 — Reverse Links**
-`scripts/generate-reverse-links.js`:
-1. Read `lexicon/links/de-nb/*.json`
-2. Invert: for each German → Norwegian link, create Norwegian → German entry
-3. Handle many-to-one: if 3 German words link to `omraade_noun`, the reverse has `omraade_noun` → 3 German alternatives
-4. Output `vocabulary/lexicon/links/nb-de/*.json`
-5. Repeat for `nb-es`
+**Completed.** DE/ES/FR entries transformed into unified lexicon format.
 
-### Phase 3: Norwegian Grammar Enrichment
+**What was built:**
+- `scripts/generate-source-lexicon.js` — reads banks/core data, outputs unified lexicon entries
+- DE: 3,454 entries, ES: 989 entries, FR: 977 entries
+- All existing grammar data preserved (German cases, conjugations, etc.)
+- Cross-bank deduplication (e.g., ES phrases appearing in both generalbank and phrasesbank)
 
-**Goal:** Populate the skeleton NB entries with full grammar data.
+### Phase 5: English Lexicon — DONE ✅ (NN deferred)
 
-This is the **content-heavy phase** — Norwegian grammar can't be auto-generated from German translations.
+**Completed for English.** Nynorsk deferred to a future phase.
 
-**Strategy:**
-1. Build a grammar enrichment script that reads an external source or manual CSV
-2. Start with the most common words (by frequency or curriculum overlap)
-3. Noun enrichment: genus, plural, 4-form declension table
-4. Verb enrichment: tense forms (infinitive, presens, preteritum, perfektum partisipp, imperativ), verb class, auxiliary
-5. Adjective enrichment: comparison forms, gender/number/definiteness declension
+**What was built:**
+- `scripts/generate-en-lexicon.js` — 3,795 unique EN words from de-en and es-en translations
+- `scripts/generate-en-links.js` — 4,472 forward + 4,394 reverse EN links
+- EN lexicon: 1,685 nouns, 672 verbs, 414 adjectives, 1,024 general words
 
-**Potential data sources:**
-- Ordbok API (ordbok.uib.no) — if available
-- Manual curation in spreadsheet → import script
-- Norwegian frequency lists for prioritization
+**Still TODO — Nynorsk (NN):**
+- Generate NN lexicon, potentially using NB→NN transformation rules
+- Generate links: de-nn, nn-de, nb-nn, nn-nb
+- NN grammar features in grammar-features.json
 
-### Phase 4: German Lexicon View
+### Phase 6: API v3 — DONE ✅
 
-**Goal:** Generate standardized lexicon entries for German from existing banks.
+**Completed.** All five v3 endpoints deployed.
 
-`scripts/generate-de-lexicon.js`:
-- Read `banks/de/*.json` → output `lexicon/de/*.json` in unified lexicon format
-- Same for `banks/es/` and `core/fr/`
-- These are generated views, not manually maintained
-
-### Phase 5: English & Nynorsk Lexicon
-
-**Goal:** Add EN and NN as first-class lexicon languages.
-
-- EN: Extract from `translations/de-en/` and `translations/es-en/`, same approach as NB
-- NN: Can potentially be partially generated from NB entries using known NB→NN transformation rules, then manually corrected
-- Generate links: `de-en`, `en-de`, `de-nn`, `nn-de`, `nb-nn`, `nn-nb`
-
-### Phase 6: API v3
-
-**Goal:** New API endpoints that expose the two-way dictionary.
-
-Endpoints:
-- `GET /api/vocab/v3/lookup/{language}/{wordId}` — full word entry from any language
-- `GET /api/vocab/v3/search/{language}?q=...` — search within any language's lexicon
-- `GET /api/vocab/v3/links/{from}-{to}/{wordId}` — get linked words across languages
-- `GET /api/vocab/v3/translate/{from}/{to}?q=...` — convenience: search + follow link
-- `GET /api/vocab/v3/manifest` — manifest with lexicon metadata for all languages
+**What was built:**
+- `GET /api/vocab/v3/manifest` — discovers all lexicon languages, link pairs, grammar features
+- `GET /api/vocab/v3/lookup/{language}/{wordId}` — full word entry with linked words and grammar features
+- `GET /api/vocab/v3/search/{language}?q=...` — scored search with typo/acceptedForm fuzzy matching
+- `GET /api/vocab/v3/links/{pair}/{wordId}` — bidirectional link lookup with optional `?resolve=true`
+- `GET /api/vocab/v3/translate/{from}/{to}?q=...` — convenience: search + follow link in one call
 
 v1 and v2 endpoints are **completely untouched**.
 
-### Phase 7: Search Index
+### Phase 7: Search Index — DONE ✅
 
-**Goal:** Build search indices for all lexicon languages.
+**Completed.** Compact search indices for all lexicon languages.
 
-- Extend `scripts/build-search-index.js` to work with lexicon entries
-- Generate `lexicon/nb/search-index.json`, `lexicon/en/search-index.json`, etc.
+**What was built:**
+- `scripts/build-lexicon-search-index.js` — generates search indices with typos/acceptedForms fields
+- NB: 3,649 entries (190 KB), DE: 3,454 entries (255 KB), EN: 3,795 entries (190 KB)
+- ES: 989 entries (49 KB), FR: 977 entries (48 KB)
 
-### Phase 8: App Migration & Sunset
+### Phase 8: Nynorsk Lexicon — TODO
+
+**Goal:** Add Nynorsk (NN) as a first-class lexicon language.
+
+- Generate NN lexicon entries (can partially derive from NB using known NB→NN rules)
+- Manual corrections for NN-specific forms
+- Generate links: de-nn, nn-de, es-nn, nn-es, nb-nn, nn-nb
+- Add NN grammar features to grammar-features.json
+- Build NN search index
+
+### Phase 9: Typos & Accepted Forms Population — TODO
+
+**Goal:** Populate the `typos` and `acceptedForms` fields with real data.
+
+- Schema fields are ready in `lexicon-entry.schema.json`
+- Search API already supports typo/acceptedForm matching
+- Needs manual curation or semi-automated extraction from student error patterns
+- Priority: high-frequency words and words commonly misspelled by Norwegian students
+
+### Phase 10: App Migration & Sunset — TODO
 
 **Goal:** Migrate consuming apps to v3, then remove old structure.
 
 1. Update webapps to use v3 endpoints
-2. Update Leksihjelp to use v3 endpoints
+2. Update Leksihjelp to use v3 endpoints (integrate typos/acceptedForms)
 3. Verify all apps work with v3
 4. Remove `vocabulary/translations/`, `api/vocab/v1/`, `api/vocab/v2/`
 5. `vocabulary/lexicon/` becomes the sole data store
@@ -549,8 +532,8 @@ v1 and v2 endpoints are **completely untouched**.
 
 ## Backward Compatibility Guarantee
 
-| Component | During phases 1-7 | After migration (phase 8) |
-|-----------|-------------------|---------------------------|
+| Component | During phases 1-7 (DONE) | After migration (phase 10) |
+|-----------|--------------------------|----------------------------|
 | `api/vocab/v1/*` | Unchanged, working | Removed |
 | `api/vocab/v2/*` | Unchanged, working | Removed |
 | `api/vocab/v3/*` | New, available | Primary API |
@@ -558,7 +541,7 @@ v1 and v2 endpoints are **completely untouched**.
 | `vocabulary/translations/` | Unchanged | Removed |
 | `vocabulary/lexicon/` | New, growing | Primary data store |
 
-Existing webapps and Leksihjelp **never break** during phases 1-7. Migration happens on your schedule.
+Existing webapps and Leksihjelp **never break** during phases 1-9. Migration happens on your schedule.
 
 ---
 
@@ -571,16 +554,24 @@ Existing webapps and Leksihjelp **never break** during phases 1-7. Migration hap
 
 ---
 
-## Current Data Inventory
+## Current Lexicon Inventory
 
-| Source | Entries | Enriched | Norwegian words with definite form |
-|--------|---------|----------|-----------------------------------|
-| `de-nb/nounbank` | 1,641 | 18% (examples/explanations) | 284 have `definite` field |
-| `de-nb/verbbank` | 679 | 22% | — |
-| `de-nb/adjectivebank` | 365 | 100% (all have examples + explanations) | — |
-| `de-nb/generalbank` | 673 | 9% | — |
-| `de-nb/other` | 96 | varies | — |
-| `es-nb/total` | 1,017 | ~6% | — |
-| `fr-nb/total` | 0 | empty placeholders | — |
-| **Total Norwegian translations** | **~4,471** | | |
-| **Estimated unique NB words** | **~3,000-3,500** | | |
+| Language | Entries | Enriched | Links (forward) | Links (reverse) |
+|----------|---------|----------|-----------------|-----------------|
+| NB | 3,649 | 2,589 (71%) | — | nb-de: 3,240 / nb-es: 1,055 |
+| DE | 3,454 | 3,454 (100%) | de-nb: 3,454 / de-en: 3,455 | — |
+| EN | 3,795 | 0 (skeleton) | — | en-de: 3,321 / en-es: 1,073 |
+| ES | 989 | 989 (100%) | es-nb: 1,017 / es-en: 1,017 | — |
+| FR | 977 | 977 (100%) | — (no translations yet) | — |
+| NN | — | — | — | — |
+
+**Build commands:**
+- `npm run build:lexicon-all` — regenerate everything
+- `npm run validate:lexicon` — validate all entries and links
+- `npm run build:lexicon` — NB lexicon + links + enrichment only
+
+## Copyright Note
+
+All lexicon data is derived from our own existing translation files in `vocabulary/`.
+The Norwegian morphology engine applies standard grammar rules (linguistic facts, not
+copyrightable content). No external dictionaries, APIs, or copyrighted word lists are used.
