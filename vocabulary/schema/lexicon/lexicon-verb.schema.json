@@ -1,0 +1,75 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://papertek.no/schemas/vocabulary/lexicon/lexicon-verb.schema.json",
+  "title": "Lexicon Verb Schema",
+  "description": "Verb-specific fields for lexicon entries. Norwegian verbs do not conjugate by person — they have one form per tense. Core forms: infinitiv, presens, preteritum, perfektum partisipp, imperativ, presens partisipp.",
+  "type": "object",
+  "additionalProperties": {
+    "$ref": "#/$defs/verbEntry"
+  },
+  "$defs": {
+    "verbEntry": {
+      "type": "object",
+      "allOf": [
+        { "$ref": "lexicon-entry.schema.json#/$defs/lexiconEntry" }
+      ],
+      "properties": {
+        "verbClass": {
+          "type": "string",
+          "description": "Norwegian verb class: svak (weak, regular), sterk (strong, vowel change), uregelmessig (irregular)",
+          "enum": ["svak", "sterk", "uregelmessig"]
+        },
+        "conjugations": {
+          "type": "object",
+          "description": "Verb conjugation data, organized by tense/aspect. Norwegian verbs use the same form for all persons.",
+          "properties": {
+            "presens": {
+              "$ref": "#/$defs/verbConjugation"
+            }
+          }
+        },
+        "reflexive": {
+          "type": "boolean",
+          "description": "Whether this is a reflexive verb (e.g. 'å sette seg')",
+          "default": false
+        },
+        "transitive": {
+          "type": "boolean",
+          "description": "Whether this verb takes a direct object"
+        },
+        "auxiliary": {
+          "type": "string",
+          "description": "Auxiliary verb used in perfect tenses",
+          "enum": ["har", "er", "har/er"]
+        }
+      },
+      "required": ["word", "type"]
+    },
+    "verbConjugation": {
+      "type": "object",
+      "properties": {
+        "former": {
+          "type": "object",
+          "description": "The verb forms for this tense",
+          "properties": {
+            "infinitiv": { "type": "string", "description": "Infinitive (å hente)" },
+            "presens": { "type": "string", "description": "Present tense (henter)" },
+            "preteritum": { "type": "string", "description": "Past tense (hentet)" },
+            "perfektum_partisipp": { "type": "string", "description": "Past participle (hentet)" },
+            "imperativ": { "type": "string", "description": "Imperative (hent)" },
+            "presens_partisipp": { "type": "string", "description": "Present participle (hentende)" }
+          }
+        },
+        "auxiliary": {
+          "type": "string",
+          "description": "Auxiliary verb for perfect tenses (har/er)",
+          "enum": ["har", "er", "har/er"]
+        },
+        "feature": {
+          "type": "string",
+          "description": "Grammar feature ID for progressive disclosure"
+        }
+      }
+    }
+  }
+}

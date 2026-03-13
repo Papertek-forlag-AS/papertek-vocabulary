@@ -1,0 +1,78 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://papertek.no/schemas/vocabulary/lexicon/lexicon-link.schema.json",
+  "title": "Lexicon Link Schema",
+  "description": "Schema for bidirectional word links between languages. Links connect word IDs across lexicons with translation context, examples, and explanations. Each file covers one language pair and one word bank.",
+  "type": "object",
+  "properties": {
+    "_metadata": {
+      "type": "object",
+      "properties": {
+        "from": {
+          "type": "string",
+          "description": "Source language code (ISO 639-1)",
+          "pattern": "^[a-z]{2}$"
+        },
+        "to": {
+          "type": "string",
+          "description": "Target language code (ISO 639-1)",
+          "pattern": "^[a-z]{2}$"
+        },
+        "bank": {
+          "type": "string",
+          "description": "Word bank name (e.g. 'nounbank', 'verbbank')"
+        },
+        "generatedAt": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "totalLinks": {
+          "type": "integer",
+          "minimum": 0
+        }
+      },
+      "required": ["from", "to", "bank"]
+    }
+  },
+  "additionalProperties": {
+    "$ref": "#/$defs/linkEntry"
+  },
+  "$defs": {
+    "linkEntry": {
+      "type": "object",
+      "properties": {
+        "primary": {
+          "type": "string",
+          "description": "Primary target word ID (e.g. 'hage_noun'). This is the best/most common translation."
+        },
+        "alternatives": {
+          "type": "array",
+          "description": "Alternative target word IDs for less common translations or contextual variants",
+          "items": { "type": "string" }
+        },
+        "examples": {
+          "type": "array",
+          "description": "Example sentences showing the word pair in context",
+          "items": {
+            "type": "object",
+            "properties": {
+              "source": { "type": "string", "description": "Sentence in the source language" },
+              "target": { "type": "string", "description": "Sentence in the target language" }
+            },
+            "required": ["source", "target"]
+          }
+        },
+        "explanation": {
+          "type": "string",
+          "description": "Contextual explanation of this translation relationship"
+        },
+        "synonyms": {
+          "type": "array",
+          "description": "Synonyms in the target language (as plain strings, not word IDs)",
+          "items": { "type": "string" }
+        }
+      },
+      "required": ["primary"]
+    }
+  }
+}
