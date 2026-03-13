@@ -34,7 +34,9 @@
     "validate:migration": "node scripts/validate-migration.js",
     "generate:nb-lexicon": "node scripts/generate-nb-lexicon.js",
     "generate:links": "node scripts/generate-links.js",
-    "generate:lexicon": "npm run generate:nb-lexicon && npm run generate:links"
+    "generate:lexicon": "npm run generate:nb-lexicon && npm run generate:links",
+    "enrich:nb": "node scripts/enrich-nb-lexicon.js",
+    "build:lexicon": "npm run generate:lexicon && npm run enrich:nb"
   },
   "engines": {
     "node": ">=18.0.0"
