@@ -58,6 +58,18 @@
           "type": "string",
           "description": "Usage notes or contextual information"
         },
+        "typos": {
+          "type": "array",
+          "description": "Common misspellings and writing errors students make for this word. Used by Leksihjelp for word prediction — if a student types a known typo, the app can suggest the correct word.",
+          "items": { "type": "string" },
+          "examples": [["kjøken", "sjøkken"], ["Strasse", "straße"]]
+        },
+        "acceptedForms": {
+          "type": "array",
+          "description": "Alternative spellings or simplified forms that should be accepted as correct answers in glossary tests and exercises. Includes informal spellings, missing apostrophes, case variations, etc.",
+          "items": { "type": "string" },
+          "examples": [["los gehts", "Los gehts"], ["Strasse"]]
+        },
         "_generatedFrom": {
           "type": "string",
           "description": "Source of this entry for generated/derived entries (e.g. 'de-nb/nounbank:abend_noun'). Absent for manually curated entries."

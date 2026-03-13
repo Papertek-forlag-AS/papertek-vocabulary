@@ -1,0 +1,962 @@
+{
+  "_metadata": {
+    "language": "es",
+    "bank": "adjectivebank",
+    "generatedAt": "2026-03-13T12:29:02.285Z",
+    "description": "ES lexicon view — generated from core",
+    "totalEntries": 152,
+    "source": "vocabulary/core/es"
+  },
+  "abierto_adj": {
+    "word": "abierto",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "aburrido_adj": {
+    "word": "aburrido",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "agradable_adj": {
+    "word": "agradable",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "alto_adj": {
+    "word": "alto",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "amable_adj": {
+    "word": "amable",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "amargo_adj": {
+    "word": "amargo",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "amarillo_adj": {
+    "word": "amarillo",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "ancho_adj": {
+    "word": "ancho",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "anterior_adj": {
+    "word": "anterior",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "antiguo_adj": {
+    "word": "antiguo",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "antipatico_adj": {
+    "word": "antipático",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "artificial_adj": {
+    "word": "artificial",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "azul_adj": {
+    "word": "azul",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "bajo_adj": {
+    "word": "bajo",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "barato_adj": {
+    "word": "barato",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "blanco_adj": {
+    "word": "blanco",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "blando_adj": {
+    "word": "blando",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "bonito_adj": {
+    "word": "bonito",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "brillante_adj": {
+    "word": "brillante",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "bueno_adj": {
+    "word": "bueno",
+    "type": "adj",
+    "comparison": {
+      "positiv": "bueno",
+      "komparativ": {
+        "form": "mejor",
+        "irregular": true
+      },
+      "superlativ": {
+        "form": "el mejor",
+        "irregular": true
+      }
+    },
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "caliente_adj": {
+    "word": "caliente",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "calvo_adj": {
+    "word": "calvo",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "cansado_adj": {
+    "word": "cansado",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "caro_adj": {
+    "word": "caro",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "celoso_adj": {
+    "word": "celoso",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "cerrado_adj": {
+    "word": "cerrado",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "claro_adj": {
+    "word": "claro",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "clasico_adj": {
+    "word": "clásico",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "cobarde_adj": {
+    "word": "cobarde",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "comodo_adj": {
+    "word": "cómodo",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "contento_adj": {
+    "word": "contento",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "correcto_adj": {
+    "word": "correcto",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "corto_adj": {
+    "word": "corto",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "crudo_adj": {
+    "word": "crudo",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "curioso_adj": {
+    "word": "curioso",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "debil_adj": {
+    "word": "débil",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "delgado_adj": {
+    "word": "delgado",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "delicioso_adj": {
+    "word": "delicioso",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "desagradable_adj": {
+    "word": "desagradable",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "diferente_adj": {
+    "word": "diferente",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "dificil_adj": {
+    "word": "difícil",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "divertido_adj": {
+    "word": "divertido",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "dulce_adj": {
+    "word": "dulce",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "duro_adj": {
+    "word": "duro",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "educado_adj": {
+    "word": "educado",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "enfermo_adj": {
+    "word": "enfermo",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "especial_adj": {
+    "word": "especial",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "estrecho_adj": {
+    "word": "estrecho",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "facil_adj": {
+    "word": "fácil",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "falso_adj": {
+    "word": "falso",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "famoso_adj": {
+    "word": "famoso",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "favorito_adj": {
+    "word": "favorito",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "feliz_adj": {
+    "word": "feliz",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "feo_adj": {
+    "word": "feo",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "fresco_adj": {
+    "word": "fresco",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "frio_adj": {
+    "word": "frío",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "fuerte_adj": {
+    "word": "fuerte",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "generoso_adj": {
+    "word": "generoso",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "gordo_adj": {
+    "word": "gordo",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "gracioso_adj": {
+    "word": "gracioso",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "grande_adj": {
+    "word": "grande",
+    "type": "adj",
+    "comparison": {
+      "positiv": "grande",
+      "komparativ": {
+        "form": "mayor/más grande"
+      },
+      "superlativ": {
+        "form": "el mayor/el más grande"
+      }
+    },
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "gris_adj": {
+    "word": "gris",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "guapo_adj": {
+    "word": "guapo",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "horrible_adj": {
+    "word": "horrible",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "humedo_adj": {
+    "word": "húmedo",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "igual_adj": {
+    "word": "igual",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "importante_adj": {
+    "word": "importante",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "imposible_adj": {
+    "word": "imposible",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "incomodo_adj": {
+    "word": "incómodo",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "incorrecto_adj": {
+    "word": "incorrecto",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "increible_adj": {
+    "word": "increíble",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "interesante_adj": {
+    "word": "interesante",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "internacional_adj": {
+    "word": "internacional",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "inutil_adj": {
+    "word": "inútil",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "joven_adj": {
+    "word": "joven",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "largo_adj": {
+    "word": "largo",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "lento_adj": {
+    "word": "lento",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "libre_adj": {
+    "word": "libre",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "ligero_adj": {
+    "word": "ligero",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "limpio_adj": {
+    "word": "limpio",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "listo_adj": {
+    "word": "listo",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "lleno_adj": {
+    "word": "lleno",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "lluvioso_adj": {
+    "word": "lluvioso",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "local_adj": {
+    "word": "local",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "maduro_adj": {
+    "word": "maduro",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "maleducado_adj": {
+    "word": "maleducado",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "malo_adj": {
+    "word": "malo",
+    "type": "adj",
+    "comparison": {
+      "positiv": "malo",
+      "komparativ": {
+        "form": "peor",
+        "irregular": true
+      },
+      "superlativ": {
+        "form": "el peor",
+        "irregular": true
+      }
+    },
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "marron_adj": {
+    "word": "marrón",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "mismo_adj": {
+    "word": "mismo",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "moderno_adj": {
+    "word": "moderno",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "moreno_adj": {
+    "word": "moreno",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "nacional_adj": {
+    "word": "nacional",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "natural_adj": {
+    "word": "natural",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "necesario_adj": {
+    "word": "necesario",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "negro_adj": {
+    "word": "negro",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "nervioso_adj": {
+    "word": "nervioso",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "normal_adj": {
+    "word": "normal",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "nublado_adj": {
+    "word": "nublado",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "nuevo_adj": {
+    "word": "nuevo",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "ocupado_adj": {
+    "word": "ocupado",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "orgulloso_adj": {
+    "word": "orgulloso",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "oscuro_adj": {
+    "word": "oscuro",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "otro_adj": {
+    "word": "otro",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "peligroso_adj": {
+    "word": "peligroso",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "pelirrojo_adj": {
+    "word": "pelirrojo",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "pequeno_adj": {
+    "word": "pequeño",
+    "type": "adj",
+    "comparison": {
+      "positiv": "pequeño",
+      "komparativ": {
+        "form": "menor/más pequeño"
+      },
+      "superlativ": {
+        "form": "el menor/el más pequeño"
+      }
+    },
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "perezoso_adj": {
+    "word": "perezoso",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "perfecto_adj": {
+    "word": "perfecto",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "pesado_adj": {
+    "word": "pesado",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "picante_adj": {
+    "word": "picante",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "pobre_adj": {
+    "word": "pobre",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "popular_adj": {
+    "word": "popular",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "posible_adj": {
+    "word": "posible",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "preparado_adj": {
+    "word": "preparado",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "primero_adj": {
+    "word": "primero",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "privado_adj": {
+    "word": "privado",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "profesional_adj": {
+    "word": "profesional",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "profundo_adj": {
+    "word": "profundo",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "proximo_adj": {
+    "word": "próximo",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "publico_adj": {
+    "word": "público",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "rapido_adj": {
+    "word": "rápido",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "real_adj": {
+    "word": "real",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "rico_adj": {
+    "word": "rico",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "rojo_adj": {
+    "word": "rojo",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "rubio_adj": {
+    "word": "rubio",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "salado_adj": {
+    "word": "salado",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "sano_adj": {
+    "word": "sano",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "seco_adj": {
+    "word": "seco",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "seguro_adj": {
+    "word": "seguro",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "serio_adj": {
+    "word": "serio",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "simpatico_adj": {
+    "word": "simpático",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "soleado_adj": {
+    "word": "soleado",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "solo_adj": {
+    "word": "solo",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "sucio_adj": {
+    "word": "sucio",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "tacano_adj": {
+    "word": "tacaño",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "terrible_adj": {
+    "word": "terrible",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "timido_adj": {
+    "word": "tímido",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "tipico_adj": {
+    "word": "típico",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "tonto_adj": {
+    "word": "tonto",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "trabajador_adj": {
+    "word": "trabajador",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "tradicional_adj": {
+    "word": "tradicional",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "tranquilo_adj": {
+    "word": "tranquilo",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "triste_adj": {
+    "word": "triste",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "ultimo_adj": {
+    "word": "último",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "unico_adj": {
+    "word": "único",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "util_adj": {
+    "word": "útil",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "vacio_adj": {
+    "word": "vacío",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "valiente_adj": {
+    "word": "valiente",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "ventoso_adj": {
+    "word": "ventoso",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "verdadero_adj": {
+    "word": "verdadero",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "verde_adj": {
+    "word": "verde",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  },
+  "viejo_adj": {
+    "word": "viejo",
+    "type": "adj",
+    "_generatedFrom": "es/banks",
+    "_enriched": true
+  }
+}

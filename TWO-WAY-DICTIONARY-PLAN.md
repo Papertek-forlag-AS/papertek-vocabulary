@@ -26,6 +26,51 @@ A true **two-way dictionary** means both languages are first-class citizens with
 | Duplicate translations | **One NB entry, multiple links** — e.g. single `omraade_noun` linked from `bereich_noun`, `gebiet_noun`, `gegend_noun` |
 | Slash alternatives | **Split into separate entries** — `"middag / kveldsmat"` becomes two entries: `middag_noun` and `kveldsmat_noun` |
 | Target languages | **NB, EN, NN** — all three will be first-class lexicon languages (NB first, EN and NN in later phases) |
+| Typos & accepted forms | Every word can have `typos` (common misspellings for word prediction in Leksihjelp) and `acceptedForms` (alternative spellings accepted in glossary tests) |
+
+---
+
+## Leksihjelp Integration Features
+
+### Common Writing Errors (`typos`)
+
+Every lexicon entry can include typical student errors. Leksihjelp uses these
+for word prediction — when a student types a known misspelling, the app can
+suggest the correct word:
+
+```json
+"kjøkken_noun": {
+  "word": "kjøkken",
+  "typos": ["kjøken", "sjøkken", "kjøkken", "kjøken"],
+  ...
+}
+```
+
+German example for foreign language learners:
+```json
+"strasse_noun": {
+  "word": "Straße",
+  "typos": ["Strase", "Strasse", "strase"],
+  ...
+}
+```
+
+### Accepted Answer Variants (`acceptedForms`)
+
+For glossary tests — alternative spellings, informal forms, or common
+simplifications that should count as correct:
+
+```json
+"los_gehts_phrase": {
+  "word": "Los geht's",
+  "acceptedForms": ["los gehts", "los geht's", "Los gehts"],
+  ...
+}
+```
+
+Both fields are defined in `lexicon-entry.schema.json` and apply to
+entries in all languages. Data population happens through manual curation
+and can be done incrementally.
 
 ---
 

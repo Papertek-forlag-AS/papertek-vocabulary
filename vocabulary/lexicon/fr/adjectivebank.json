@@ -1,0 +1,938 @@
+{
+  "_metadata": {
+    "language": "fr",
+    "bank": "adjectivebank",
+    "generatedAt": "2026-03-13T12:29:02.299Z",
+    "description": "FR lexicon view — generated from core",
+    "totalEntries": 151,
+    "source": "vocabulary/core/fr"
+  },
+  "agreable_adj": {
+    "word": "agreable",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "amer_adj": {
+    "word": "amer",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "amusant_adj": {
+    "word": "amusant",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "ancien_adj": {
+    "word": "ancien",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "antipathique_adj": {
+    "word": "antipathique",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "artificiel_adj": {
+    "word": "artificiel",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "autre_adj": {
+    "word": "autre",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "bas_adj": {
+    "word": "bas",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "beau_adj": {
+    "word": "beau",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "blanc_adj": {
+    "word": "blanc",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "bleu_adj": {
+    "word": "bleu",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "blond_adj": {
+    "word": "blond",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "bon_adj": {
+    "word": "bon",
+    "type": "adj",
+    "comparison": {
+      "positiv": "bon",
+      "komparativ": {
+        "form": "meilleur",
+        "irregular": true
+      },
+      "superlativ": {
+        "form": "le meilleur",
+        "irregular": true
+      }
+    },
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "bon_marche_adj": {
+    "word": "bon marche",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "brillant_adj": {
+    "word": "brillant",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "brun_adj": {
+    "word": "brun",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "calme_adj": {
+    "word": "calme",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "celebre_adj": {
+    "word": "celebre",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "chaud_adj": {
+    "word": "chaud",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "chauve_adj": {
+    "word": "chauve",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "cher_adj": {
+    "word": "cher",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "clair_adj": {
+    "word": "clair",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "classique_adj": {
+    "word": "classique",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "confortable_adj": {
+    "word": "confortable",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "content_adj": {
+    "word": "content",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "correct_adj": {
+    "word": "correct",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "courageux_adj": {
+    "word": "courageux",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "court_adj": {
+    "word": "court",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "cru_adj": {
+    "word": "cru",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "curieux_adj": {
+    "word": "curieux",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "dangereux_adj": {
+    "word": "dangereux",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "delicieux_adj": {
+    "word": "delicieux",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "dernier_adj": {
+    "word": "dernier",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "desagreable_adj": {
+    "word": "desagreable",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "different_adj": {
+    "word": "different",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "difficile_adj": {
+    "word": "difficile",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "doux_adj": {
+    "word": "doux",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "drole_adj": {
+    "word": "drole",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "dur_adj": {
+    "word": "dur",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "egal_adj": {
+    "word": "egal",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "ennuyeux_adj": {
+    "word": "ennuyeux",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "ensoleille_adj": {
+    "word": "ensoleille",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "epice_adj": {
+    "word": "epice",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "etroit_adj": {
+    "word": "etroit",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "facile_adj": {
+    "word": "facile",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "faible_adj": {
+    "word": "faible",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "fatigue_adj": {
+    "word": "fatigue",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "faux_adj": {
+    "word": "faux",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "favori_adj": {
+    "word": "favori",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "ferme_adj": {
+    "word": "ferme",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "fier_adj": {
+    "word": "fier",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "fort_adj": {
+    "word": "fort",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "frais_adj": {
+    "word": "frais",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "froid_adj": {
+    "word": "froid",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "genereux_adj": {
+    "word": "genereux",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "gentil_adj": {
+    "word": "gentil",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "grand_adj": {
+    "word": "grand",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "gris_adj": {
+    "word": "gris",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "gros_adj": {
+    "word": "gros",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "haut_adj": {
+    "word": "haut",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "heureux_adj": {
+    "word": "heureux",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "horrible_adj": {
+    "word": "horrible",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "humide_adj": {
+    "word": "humide",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "impoli_adj": {
+    "word": "impoli",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "important_adj": {
+    "word": "important",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "impossible_adj": {
+    "word": "impossible",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "incorrect_adj": {
+    "word": "incorrect",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "incroyable_adj": {
+    "word": "incroyable",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "intelligent_adj": {
+    "word": "intelligent",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "interessant_adj": {
+    "word": "interessant",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "international_adj": {
+    "word": "international",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "inutile_adj": {
+    "word": "inutile",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "jaloux_adj": {
+    "word": "jaloux",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "jaune_adj": {
+    "word": "jaune",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "jeune_adj": {
+    "word": "jeune",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "joli_adj": {
+    "word": "joli",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "large_adj": {
+    "word": "large",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "leger_adj": {
+    "word": "leger",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "lent_adj": {
+    "word": "lent",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "libre_adj": {
+    "word": "libre",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "local_adj": {
+    "word": "local",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "long_adj": {
+    "word": "long",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "lourd_adj": {
+    "word": "lourd",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "malade_adj": {
+    "word": "malade",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "marron_adj": {
+    "word": "marron",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "mauvais_adj": {
+    "word": "mauvais",
+    "type": "adj",
+    "comparison": {
+      "positiv": "mauvais",
+      "komparativ": {
+        "form": "pire",
+        "irregular": true
+      },
+      "superlativ": {
+        "form": "le pire",
+        "irregular": true
+      }
+    },
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "mechant_adj": {
+    "word": "mechant",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "meme_adj": {
+    "word": "meme",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "mince_adj": {
+    "word": "mince",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "moderne_adj": {
+    "word": "moderne",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "mou_adj": {
+    "word": "mou",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "mur_adj": {
+    "word": "mur",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "national_adj": {
+    "word": "national",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "naturel_adj": {
+    "word": "naturel",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "necessaire_adj": {
+    "word": "necessaire",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "nerveux_adj": {
+    "word": "nerveux",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "noir_adj": {
+    "word": "noir",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "normal_adj": {
+    "word": "normal",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "nouveau_adj": {
+    "word": "nouveau",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "nuageux_adj": {
+    "word": "nuageux",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "occupe_adj": {
+    "word": "occupe",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "orange_adj": {
+    "word": "orange",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "ouvert_adj": {
+    "word": "ouvert",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "paresseux_adj": {
+    "word": "paresseux",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "parfait_adj": {
+    "word": "parfait",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "pauvre_adj": {
+    "word": "pauvre",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "petit_adj": {
+    "word": "petit",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "plein_adj": {
+    "word": "plein",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "pluvieux_adj": {
+    "word": "pluvieux",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "poli_adj": {
+    "word": "poli",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "populaire_adj": {
+    "word": "populaire",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "possible_adj": {
+    "word": "possible",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "precedent_adj": {
+    "word": "precedent",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "premier_adj": {
+    "word": "premier",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "pret_adj": {
+    "word": "pret",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "prive_adj": {
+    "word": "prive",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "prochain_adj": {
+    "word": "prochain",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "professionnel_adj": {
+    "word": "professionnel",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "profond_adj": {
+    "word": "profond",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "propre_adj": {
+    "word": "propre",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "public_adj": {
+    "word": "public",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "rapide_adj": {
+    "word": "rapide",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "reel_adj": {
+    "word": "reel",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "riche_adj": {
+    "word": "riche",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "rose_adj": {
+    "word": "rose",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "rouge_adj": {
+    "word": "rouge",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "roux_adj": {
+    "word": "roux",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "sale_adj": {
+    "word": "sale",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "sale_taste_adj": {
+    "word": "sale (gout)",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "sec_adj": {
+    "word": "sec",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "serieux_adj": {
+    "word": "serieux",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "seul_adj": {
+    "word": "seul",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "sombre_adj": {
+    "word": "sombre",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "special_adj": {
+    "word": "special",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "stupide_adj": {
+    "word": "stupide",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "sur_adj": {
+    "word": "sur",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "sympathique_adj": {
+    "word": "sympathique",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "terrible_adj": {
+    "word": "terrible",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "timide_adj": {
+    "word": "timide",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "traditionnel_adj": {
+    "word": "traditionnel",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "travailleur_adj": {
+    "word": "travailleur",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "triste_adj": {
+    "word": "triste",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "typique_adj": {
+    "word": "typique",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "unique_adj": {
+    "word": "unique",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "utile_adj": {
+    "word": "utile",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "venteux_adj": {
+    "word": "venteux",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "vert_adj": {
+    "word": "vert",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "vide_adj": {
+    "word": "vide",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "vieux_adj": {
+    "word": "vieux",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "violet_adj": {
+    "word": "violet",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  },
+  "vrai_adj": {
+    "word": "vrai",
+    "type": "adj",
+    "_generatedFrom": "fr/banks",
+    "_enriched": true
+  }
+}
