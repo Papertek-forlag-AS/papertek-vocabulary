@@ -1,0 +1,5981 @@
+{
+  "_metadata": {
+    "language": "nb",
+    "languageName": "Norsk bokmål",
+    "bank": "generalbank",
+    "generatedAt": "2026-03-13T12:14:05.185Z",
+    "description": "Norwegian Bokmål generalbank — generated from translation packs",
+    "totalEntries": 989,
+    "enrichedEntries": 0,
+    "skeletonEntries": 989
+  },
+  "absolutt_adv": {
+    "word": "absolutt",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:absolut_general, de-nb/generalbank.json:unbedingt_adv",
+    "_enriched": false
+  },
+  "afrika_propn": {
+    "word": "Afrika",
+    "type": "propn",
+    "_generatedFrom": "de-nb/generalbank.json:afrika_propn",
+    "_enriched": false
+  },
+  "akkurat_adv": {
+    "word": "akkurat",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:genau_adv, es-nb/generalbank.json:exactamente_adv",
+    "_enriched": false
+  },
+  "akkurat_like_adv": {
+    "word": "akkurat like",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:genauso_general",
+    "_enriched": false
+  },
+  "akkurat_nå_adv": {
+    "word": "akkurat nå",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:gerade_adv",
+    "_enriched": false
+  },
+  "aktuell_adv": {
+    "word": "aktuell",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:aktuell_general",
+    "_enriched": false
+  },
+  "aldri_adv": {
+    "word": "aldri",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:nie_adv, de-nb/generalbank.json:niemals_adv, es-nb/generalbank.json:nunca_adv",
+    "_enriched": false
+  },
+  "alene_adv": {
+    "word": "alene",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:allein_adv, de-nb/generalbank.json:alleine_general",
+    "_enriched": false
+  },
+  "all_adv": {
+    "word": "all",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:all_general",
+    "_enriched": false
+  },
+  "alle_pron": {
+    "word": "alle",
+    "type": "pron",
+    "_generatedFrom": "de-nb/pronounsbank.json:alle_pron",
+    "_enriched": false
+  },
+  "aller_adv": {
+    "word": "aller-",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:aller_general",
+    "_enriched": false
+  },
+  "allerede_adv": {
+    "word": "allerede",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:bereits_general, de-nb/generalbank.json:schon_adv, es-nb/generalbank.json:ya_adv",
+    "_enriched": false
+  },
+  "alltid_adv": {
+    "word": "alltid",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:immer_adv, es-nb/generalbank.json:siempre_adv",
+    "_enriched": false
+  },
+  "alt_pron": {
+    "word": "alt",
+    "type": "pron",
+    "_generatedFrom": "de-nb/pronounsbank.json:alles_pron",
+    "_enriched": false
+  },
+  "alternativ_adv": {
+    "word": "alternativ",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:alternativ_general",
+    "_enriched": false
+  },
+  "altså_adv": {
+    "word": "altså",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:also_adv",
+    "_enriched": false
+  },
+  "altså_conj": {
+    "word": "altså",
+    "type": "conj",
+    "_generatedFrom": "es-nb/generalbank.json:pues_conj",
+    "_enriched": false
+  },
+  "alvorlig_adv": {
+    "word": "alvorlig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:ernsthaft_general",
+    "_enriched": false
+  },
+  "annen_adv": {
+    "word": "annen",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:ander_general",
+    "_enriched": false
+  },
+  "annerledes_adv": {
+    "word": "annerledes",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:anders_general",
+    "_enriched": false
+  },
+  "ansvarlig_adv": {
+    "word": "ansvarlig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:verantwortlich_general, de-nb/generalbank.json:zustaendig_general",
+    "_enriched": false
+  },
+  "arbeidsledig_adv": {
+    "word": "arbeidsledig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:arbeitslos_general",
+    "_enriched": false
+  },
+  "argentina_propn": {
+    "word": "Argentina",
+    "type": "propn",
+    "_generatedFrom": "es-nb/generalbank.json:argentina_propn",
+    "_enriched": false
+  },
+  "asia_propn": {
+    "word": "Asia",
+    "type": "propn",
+    "_generatedFrom": "de-nb/generalbank.json:asien_propn",
+    "_enriched": false
+  },
+  "at_conj": {
+    "word": "at",
+    "type": "conj",
+    "_generatedFrom": "de-nb/generalbank.json:dass_conj, es-nb/generalbank.json:que_conj",
+    "_enriched": false
+  },
+  "atten_num": {
+    "word": "atten",
+    "type": "num",
+    "_generatedFrom": "de-nb/numbersbank.json:achtzehn_num",
+    "_enriched": false
+  },
+  "automatisk_adv": {
+    "word": "automatisk",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:automatisch_general",
+    "_enriched": false
+  },
+  "av_contr": {
+    "word": "av",
+    "type": "contr",
+    "usageNotes": "de + el",
+    "_generatedFrom": "es-nb/articlesbank.json:del_contr",
+    "_enriched": false
+  },
+  "av_fra_adv": {
+    "word": "av, fra",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:ab_general",
+    "_enriched": false
+  },
+  "av_og_til_expr": {
+    "word": "av og til",
+    "type": "expr",
+    "_generatedFrom": "es-nb/generalbank.json:de_vez_en_cuando_expr",
+    "_enriched": false
+  },
+  "av_prep": {
+    "word": "av",
+    "type": "prep",
+    "_generatedFrom": "de-nb/generalbank.json:von_prep, es-nb/generalbank.json:de_prep",
+    "_enriched": false
+  },
+  "avhengig_adv": {
+    "word": "avhengig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:abhaengig_general",
+    "_enriched": false
+  },
+  "avslappende_adv": {
+    "word": "avslappende",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:entspannend_general",
+    "_enriched": false
+  },
+  "avslappet_adv": {
+    "word": "avslappet",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:locker_general",
+    "_enriched": false
+  },
+  "bak_prep": {
+    "word": "bak",
+    "type": "prep",
+    "_generatedFrom": "de-nb/generalbank.json:hinter_prep, es-nb/generalbank.json:tras_prep, es-nb/generalbank.json:detras_de_prep",
+    "_enriched": false
+  },
+  "bak_til_venstre_adv": {
+    "word": "bak til venstre",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:hinten_links_general",
+    "_enriched": false
+  },
+  "bakover_adv": {
+    "word": "bakover",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:rueckwaerts_general, es-nb/generalbank.json:atras_adv",
+    "_enriched": false
+  },
+  "barcelona_propn": {
+    "word": "Barcelona",
+    "type": "propn",
+    "_generatedFrom": "es-nb/generalbank.json:barcelona_propn",
+    "_enriched": false
+  },
+  "bare_adv": {
+    "word": "bare",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:bloss_general, de-nb/generalbank.json:nur_adv, es-nb/generalbank.json:solo_adv, es-nb/generalbank.json:solamente_adv",
+    "_enriched": false
+  },
+  "bare_hyggelig_ingen_årsak_phrase": {
+    "word": "bare hyggelig, ingen årsak",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/phrasesbank.json:de_nada_phrase",
+    "_enriched": false
+  },
+  "bare_hyggelig_phrase": {
+    "word": "Bare hyggelig",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:de_nada_phrase",
+    "_enriched": false
+  },
+  "bedre_adv": {
+    "word": "bedre",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:besser_general",
+    "_enriched": false
+  },
+  "begge_adv": {
+    "word": "begge",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:beid_general",
+    "_enriched": false
+  },
+  "begge_deler_adv": {
+    "word": "begge deler",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:beides_adv",
+    "_enriched": false
+  },
+  "begge_pron": {
+    "word": "begge",
+    "type": "pron",
+    "_generatedFrom": "de-nb/pronounsbank.json:beide_pron",
+    "_enriched": false
+  },
+  "behagelig_adv": {
+    "word": "behagelig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:angenehm_general, de-nb/generalbank.json:bequem_general",
+    "_enriched": false
+  },
+  "beklager_interj": {
+    "word": "Beklager",
+    "type": "interj",
+    "_generatedFrom": "es-nb/generalbank.json:lo_siento_interj",
+    "_enriched": false
+  },
+  "beklager_jeg_er_lei_meg_phrase": {
+    "word": "beklager, jeg er lei meg",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/phrasesbank.json:lo_siento_phrase",
+    "_enriched": false
+  },
+  "berømt_adv": {
+    "word": "berømt",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:beruehmt_general",
+    "_enriched": false
+  },
+  "beslektet_adv": {
+    "word": "beslektet",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:verwandt_general",
+    "_enriched": false
+  },
+  "billig_adv": {
+    "word": "billig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:billig_general",
+    "_enriched": false
+  },
+  "bitter_adv": {
+    "word": "bitter",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:bitter_general",
+    "_enriched": false
+  },
+  "blandet_pron": {
+    "word": "blandet)",
+    "type": "pron",
+    "_generatedFrom": "es-nb/pronounsbank.json:nosotros_pron, es-nb/pronounsbank.json:vosotros_pron, es-nb/pronounsbank.json:ellos_pron",
+    "_enriched": false
+  },
+  "blek_adv": {
+    "word": "blek",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:blass_general",
+    "_enriched": false
+  },
+  "bli_ferdig_phrase": {
+    "word": "å bli ferdig",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/verbbank.json:fertig_werden_verbphrase",
+    "_enriched": false
+  },
+  "blind_adv": {
+    "word": "blind",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:blind_general",
+    "_enriched": false
+  },
+  "bortsett_fra_adv": {
+    "word": "bortsett fra",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:ausser_general",
+    "_enriched": false
+  },
+  "bra_adv": {
+    "word": "bra",
+    "type": "adv",
+    "_generatedFrom": "es-nb/generalbank.json:bien_adv",
+    "_enriched": false
+  },
+  "bra_takk_phrase": {
+    "word": "bra, takk",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/phrasesbank.json:bien_gracias_phrase",
+    "_enriched": false
+  },
+  "bratt_adv": {
+    "word": "bratt",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:steil_general",
+    "_enriched": false
+  },
+  "bred_adv": {
+    "word": "bred",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:breit_general",
+    "_enriched": false
+  },
+  "burde_adv": {
+    "word": "burde",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:sollte_general",
+    "_enriched": false
+  },
+  "byen_vår_adv": {
+    "word": "byen vår",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:unserer_stadt_general",
+    "_enriched": false
+  },
+  "bymessig_adv": {
+    "word": "bymessig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:staedtisch_general",
+    "_enriched": false
+  },
+  "både__og_conj": {
+    "word": "både ... og",
+    "type": "conj",
+    "_generatedFrom": "es-nb/generalbank.json:tanto_como_conj",
+    "_enriched": false
+  },
+  "chile_propn": {
+    "word": "Chile",
+    "type": "propn",
+    "_generatedFrom": "es-nb/generalbank.json:chile_propn",
+    "_enriched": false
+  },
+  "colombia_propn": {
+    "word": "Colombia",
+    "type": "propn",
+    "_generatedFrom": "es-nb/generalbank.json:colombia_propn",
+    "_enriched": false
+  },
+  "cuba_propn": {
+    "word": "Cuba",
+    "type": "propn",
+    "_generatedFrom": "es-nb/generalbank.json:cuba_propn",
+    "_enriched": false
+  },
+  "da_adv": {
+    "word": "da",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:da_adv",
+    "_enriched": false
+  },
+  "dag_phrase": {
+    "word": "dag",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/phrasesbank.json:buenos_dias_phrase",
+    "_enriched": false
+  },
+  "dativ_pron": {
+    "word": "dativ)",
+    "type": "pron",
+    "_generatedFrom": "de-nb/pronounsbank.json:euch_pron",
+    "_enriched": false
+  },
+  "de_adv": {
+    "word": "de",
+    "type": "adv",
+    "usageNotes": "hankjønn flertall",
+    "_generatedFrom": "es-nb/articlesbank.json:los_articulo, es-nb/articlesbank.json:las_articulo",
+    "_enriched": false
+  },
+  "de_hankjønn_pron": {
+    "word": "de (hankjønn",
+    "type": "pron",
+    "_generatedFrom": "es-nb/pronounsbank.json:ellos_pron",
+    "_enriched": false
+  },
+  "de_pron": {
+    "word": "de",
+    "type": "pron",
+    "_generatedFrom": "de-nb/pronounsbank.json:sie_pron, es-nb/pronounsbank.json:usted_pron, es-nb/pronounsbank.json:ellas_pron, es-nb/pronounsbank.json:ese_demon_pron, es-nb/pronounsbank.json:aquel_demon_pron",
+    "_enriched": false
+  },
+  "deg_pron": {
+    "word": "deg",
+    "type": "pron",
+    "_generatedFrom": "de-nb/pronounsbank.json:dich_pron, de-nb/pronounsbank.json:dir_pron, es-nb/pronounsbank.json:te_dirobj_pron, es-nb/pronounsbank.json:te_indobj_pron, es-nb/pronounsbank.json:te_reflex_pron",
+    "_enriched": false
+  },
+  "deg_selv_pron": {
+    "word": "deg selv",
+    "type": "pron",
+    "_generatedFrom": "de-nb/pronounsbank.json:dich_pron",
+    "_enriched": false
+  },
+  "dem_pron": {
+    "word": "dem",
+    "type": "pron",
+    "usageNotes": "dativ flertall",
+    "_generatedFrom": "de-nb/pronounsbank.json:ihnen_pron, es-nb/pronounsbank.json:los_dirobj_pron, es-nb/pronounsbank.json:las_dirobj_pron, es-nb/pronounsbank.json:les_indobj_pron",
+    "_enriched": false
+  },
+  "den_adv": {
+    "word": "den",
+    "type": "adv",
+    "_generatedFrom": "es-nb/articlesbank.json:el_articulo, es-nb/articlesbank.json:la_articulo",
+    "_enriched": false
+  },
+  "den_art": {
+    "word": "den",
+    "type": "art",
+    "usageNotes": "hankjønn",
+    "_generatedFrom": "de-nb/articlesbank.json:der_art, de-nb/articlesbank.json:die_art, de-nb/articlesbank.json:den_art",
+    "_enriched": false
+  },
+  "den_gang_adv": {
+    "word": "den gang",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:damals_general",
+    "_enriched": false
+  },
+  "den_pron": {
+    "word": "den",
+    "type": "pron",
+    "_generatedFrom": "de-nb/pronounsbank.json:es_pron, de-nb/pronounsbank.json:ihn_pron, es-nb/pronounsbank.json:lo_dirobj_pron, es-nb/pronounsbank.json:la_dirobj_pron, es-nb/pronounsbank.json:ese_demon_pron, es-nb/pronounsbank.json:aquel_demon_pron",
+    "_enriched": false
+  },
+  "denne_adv": {
+    "word": "denne",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:dies_general",
+    "_enriched": false
+  },
+  "denne_pron": {
+    "word": "denne",
+    "type": "pron",
+    "_generatedFrom": "es-nb/pronounsbank.json:este_demon_pron",
+    "_enriched": false
+  },
+  "der_adv": {
+    "word": "der",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:da_adv, de-nb/generalbank.json:dort_adv, es-nb/generalbank.json:ahi_adv",
+    "_enriched": false
+  },
+  "der_borte_adv": {
+    "word": "der borte",
+    "type": "adv",
+    "_generatedFrom": "es-nb/generalbank.json:alli_adv",
+    "_enriched": false
+  },
+  "der_borte_phrase": {
+    "word": "der borte",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/generalbank.json:dort_drueben_phrase",
+    "_enriched": false
+  },
+  "dere_hankjønn_pron": {
+    "word": "dere (hankjønn",
+    "type": "pron",
+    "_generatedFrom": "es-nb/pronounsbank.json:vosotros_pron",
+    "_enriched": false
+  },
+  "dere_høflig_pron": {
+    "word": "Dere (høflig",
+    "type": "pron",
+    "_generatedFrom": "es-nb/pronounsbank.json:ustedes_pron",
+    "_enriched": false
+  },
+  "dere_pron": {
+    "word": "dere",
+    "type": "pron",
+    "_generatedFrom": "de-nb/pronounsbank.json:ihr_pron, de-nb/pronounsbank.json:euch_pron, es-nb/pronounsbank.json:vosotras_pron, es-nb/pronounsbank.json:os_dirobj_pron, es-nb/pronounsbank.json:os_indobj_pron, es-nb/pronounsbank.json:os_reflex_pron",
+    "_enriched": false
+  },
+  "dere_selv_akkusativ_pron": {
+    "word": "dere selv (akkusativ",
+    "type": "pron",
+    "_generatedFrom": "de-nb/pronounsbank.json:euch_pron",
+    "_enriched": false
+  },
+  "deres_hankjønn_pron": {
+    "word": "deres (hankjønn",
+    "type": "pron",
+    "_generatedFrom": "de-nb/pronounsbank.json:euer_possessiv",
+    "_enriched": false
+  },
+  "deres_hunkjønn_pron": {
+    "word": "deres (hunkjønn",
+    "type": "pron",
+    "_generatedFrom": "de-nb/pronounsbank.json:eure_possessiv",
+    "_enriched": false
+  },
+  "deres_pron": {
+    "word": "deres",
+    "type": "pron",
+    "_generatedFrom": "es-nb/pronounsbank.json:su_possess_pron, es-nb/pronounsbank.json:vuestro_possess_pron",
+    "_enriched": false
+  },
+  "deretter_adv": {
+    "word": "deretter",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:danach_adv",
+    "_enriched": false
+  },
+  "derfor_adv": {
+    "word": "derfor",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:daher_general, de-nb/generalbank.json:deshalb_general",
+    "_enriched": false
+  },
+  "derfor_phrase": {
+    "word": "Derfor",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:por_eso_phrase",
+    "_enriched": false
+  },
+  "derimot_phrase": {
+    "word": "Derimot",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:en_cambio_phrase",
+    "_enriched": false
+  },
+  "dessuten_adv": {
+    "word": "dessuten",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:ausserdem_general",
+    "_enriched": false
+  },
+  "dessuten_phrase": {
+    "word": "Dessuten",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:ademas_phrase",
+    "_enriched": false
+  },
+  "dessverre_adv": {
+    "word": "dessverre",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:leider_adv, es-nb/generalbank.json:desafortunadamente_adv",
+    "_enriched": false
+  },
+  "desto_adv": {
+    "word": "desto",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:umso_general",
+    "_enriched": false
+  },
+  "det_adv": {
+    "word": "det",
+    "type": "adv",
+    "usageNotes": "hankjønn entall",
+    "_generatedFrom": "es-nb/articlesbank.json:el_articulo, es-nb/articlesbank.json:la_articulo",
+    "_enriched": false
+  },
+  "det_art": {
+    "word": "det",
+    "type": "art",
+    "usageNotes": "intetkjønn",
+    "_generatedFrom": "de-nb/articlesbank.json:das_art",
+    "_enriched": false
+  },
+  "det_er_dårlig_vær_phrase": {
+    "word": "Det er dårlig vær",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:hace_mal_tiempo_phrase",
+    "_enriched": false
+  },
+  "det_er_fint_vær_phrase": {
+    "word": "Det er fint vær",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:hace_buen_tiempo_phrase",
+    "_enriched": false
+  },
+  "det_er_kaldt_phrase": {
+    "word": "Det er kaldt",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:hace_frio_phrase",
+    "_enriched": false
+  },
+  "det_er_phrase": {
+    "word": "Det er...",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/generalbank.json:das_ist_phrase, es-nb/generalbank.json:hay_phrase",
+    "_enriched": false
+  },
+  "det_er_riktig_interj": {
+    "word": "det er riktig",
+    "type": "interj",
+    "_generatedFrom": "de-nb/generalbank.json:stimmt_interj",
+    "_enriched": false
+  },
+  "det_er_varmt_phrase": {
+    "word": "Det er varmt",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:hace_calor_phrase",
+    "_enriched": false
+  },
+  "det_finnes_ikke_phrase": {
+    "word": "Det finnes ikke",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:no_hay_phrase",
+    "_enriched": false
+  },
+  "det_finnes_phrase": {
+    "word": "det finnes",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/generalbank.json:es_gibt_phrase, es-nb/generalbank.json:hay_phrase",
+    "_enriched": false
+  },
+  "det_går_bra_med_meg_phrase": {
+    "word": "Det går bra med meg",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/phrasesbank.json:mir_gehts_gut_phrase",
+    "_enriched": false
+  },
+  "det_hunkjønn_art": {
+    "word": "det (hunkjønn",
+    "type": "art",
+    "_generatedFrom": "de-nb/articlesbank.json:die_art",
+    "_enriched": false
+  },
+  "det_høres_bra_ut_phrase": {
+    "word": "det høres bra ut",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/generalbank.json:das_klingt_gut_phrase",
+    "_enriched": false
+  },
+  "det_pron": {
+    "word": "det",
+    "type": "pron",
+    "_generatedFrom": "de-nb/pronounsbank.json:es_pron, es-nb/pronounsbank.json:lo_dirobj_pron, es-nb/pronounsbank.json:ese_demon_pron, es-nb/pronounsbank.json:aquel_demon_pron",
+    "_enriched": false
+  },
+  "det_regner_phrase": {
+    "word": "Det regner",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:llueve_phrase",
+    "_enriched": false
+  },
+  "det_samme_adv": {
+    "word": "det samme",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:dasselbe_general",
+    "_enriched": false
+  },
+  "det_snør_phrase": {
+    "word": "Det snør",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:nieva_phrase",
+    "_enriched": false
+  },
+  "det_trengs_phrase": {
+    "word": "Det trengs",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:hace_falta_phrase",
+    "_enriched": false
+  },
+  "det_vil_si_phrase": {
+    "word": "Det vil si",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:es_decir_phrase",
+    "_enriched": false
+  },
+  "det_virker_for_meg_som_phrase": {
+    "word": "Det virker for meg som...",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:a_mi_me_parece_phrase",
+    "_enriched": false
+  },
+  "dette_pron": {
+    "word": "dette",
+    "type": "pron",
+    "_generatedFrom": "es-nb/pronounsbank.json:este_demon_pron",
+    "_enriched": false
+  },
+  "di_hunkjønn_pron": {
+    "word": "di (hunkjønn",
+    "type": "pron",
+    "_generatedFrom": "de-nb/pronounsbank.json:deine_possessiv",
+    "_enriched": false
+  },
+  "digital_adv": {
+    "word": "digital",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:digital_general",
+    "_enriched": false
+  },
+  "din_favorittartist_adv": {
+    "word": "din favorittartist",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:deinem_lieblingssaenger_general",
+    "_enriched": false
+  },
+  "din_hankjønn_pron": {
+    "word": "din (hankjønn",
+    "type": "pron",
+    "_generatedFrom": "de-nb/pronounsbank.json:dein_possessiv",
+    "_enriched": false
+  },
+  "din_pron": {
+    "word": "din",
+    "type": "pron",
+    "_generatedFrom": "de-nb/pronounsbank.json:deine_possessiv, es-nb/pronounsbank.json:tu_possess_pron",
+    "_enriched": false
+  },
+  "dine_pron": {
+    "word": "dine",
+    "type": "pron",
+    "_generatedFrom": "es-nb/pronounsbank.json:tu_possess_pron",
+    "_enriched": false
+  },
+  "direkte_adv": {
+    "word": "direkte",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:direkt_general",
+    "_enriched": false
+  },
+  "disse_pron": {
+    "word": "disse",
+    "type": "pron",
+    "usageNotes": "nær",
+    "_generatedFrom": "es-nb/pronounsbank.json:este_demon_pron",
+    "_enriched": false
+  },
+  "dit_adv": {
+    "word": "dit",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:dahin_general, de-nb/generalbank.json:dorthin_general",
+    "_enriched": false
+  },
+  "dit_interr": {
+    "word": "dit",
+    "type": "interr",
+    "_generatedFrom": "de-nb/generalbank.json:wohin_interr",
+    "_enriched": false
+  },
+  "dobbelt_adv": {
+    "word": "dobbelt",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:doppelt_general",
+    "_enriched": false
+  },
+  "du_pron": {
+    "word": "du",
+    "type": "pron",
+    "_generatedFrom": "de-nb/pronounsbank.json:du_pron, es-nb/pronounsbank.json:tu_pron",
+    "_enriched": false
+  },
+  "dum_adv": {
+    "word": "dum",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:dumm_general",
+    "_enriched": false
+  },
+  "dyp_adv": {
+    "word": "dyp",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:tief_general",
+    "_enriched": false
+  },
+  "dårlig_adv": {
+    "word": "dårlig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:schlecht_general, es-nb/generalbank.json:mal_adv",
+    "_enriched": false
+  },
+  "død_adv": {
+    "word": "død",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:tot_general",
+    "_enriched": false
+  },
+  "dødelig_adv": {
+    "word": "dødelig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:toedlich_general",
+    "_enriched": false
+  },
+  "døv_adv": {
+    "word": "døv",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:taub_general",
+    "_enriched": false
+  },
+  "egen_adv": {
+    "word": "egen",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:eigen_general",
+    "_enriched": false
+  },
+  "egentlig_adv": {
+    "word": "egentlig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:wirklich_adv",
+    "_enriched": false
+  },
+  "egentlig_expr": {
+    "word": "egentlig",
+    "type": "expr",
+    "_generatedFrom": "es-nb/generalbank.json:en_realidad_expr",
+    "_enriched": false
+  },
+  "ei_art": {
+    "word": "ei",
+    "type": "art",
+    "usageNotes": "hunkjønn",
+    "_generatedFrom": "de-nb/articlesbank.json:eine_art",
+    "_enriched": false
+  },
+  "ekstra_adv": {
+    "word": "ekstra",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:extra_general",
+    "_enriched": false
+  },
+  "ekstrem_adv": {
+    "word": "ekstrem",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:extrem_general",
+    "_enriched": false
+  },
+  "ekte_adv": {
+    "word": "ekte",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:echt_general",
+    "_enriched": false
+  },
+  "elefanten_phrase": {
+    "word": "elefanten",
+    "type": "phrase",
+    "usageNotes": "objekt",
+    "_generatedFrom": "de-nb/generalbank.json:den_elefanten_phrase",
+    "_enriched": false
+  },
+  "elegant_adv": {
+    "word": "elegant",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:elegant_general",
+    "_enriched": false
+  },
+  "elektrisk_adv": {
+    "word": "elektrisk",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:elektrisch_general",
+    "_enriched": false
+  },
+  "elektronisk_adv": {
+    "word": "elektronisk",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:elektronisch_general",
+    "_enriched": false
+  },
+  "eller_conj": {
+    "word": "eller",
+    "type": "conj",
+    "_generatedFrom": "de-nb/generalbank.json:oder_conj, es-nb/generalbank.json:o_conj",
+    "_enriched": false
+  },
+  "ellers_adv": {
+    "word": "ellers",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:sonst_general",
+    "_enriched": false
+  },
+  "elleve_num": {
+    "word": "elleve",
+    "type": "num",
+    "_generatedFrom": "de-nb/numbersbank.json:elf_num, es-nb/numbersbank.json:once_num",
+    "_enriched": false
+  },
+  "en_adv": {
+    "word": "en",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:ein_general, es-nb/articlesbank.json:un_articulo, es-nb/articlesbank.json:una_articulo",
+    "_enriched": false
+  },
+  "en_annen_gang_phrase": {
+    "word": "en annen gang",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/generalbank.json:ein_anderes_mal_phrase",
+    "_enriched": false
+  },
+  "en_art": {
+    "word": "en",
+    "type": "art",
+    "_generatedFrom": "de-nb/articlesbank.json:ein_art, de-nb/articlesbank.json:eine_art, de-nb/articlesbank.json:einen_art",
+    "_enriched": false
+  },
+  "en_elefant_phrase": {
+    "word": "en elefant",
+    "type": "phrase",
+    "usageNotes": "objekt",
+    "_generatedFrom": "de-nb/generalbank.json:einen_elefanten_phrase",
+    "_enriched": false
+  },
+  "en_eller_annen_adv": {
+    "word": "en eller annen",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:irgendirgendein_general",
+    "_enriched": false
+  },
+  "en_gang_adv": {
+    "word": "en gang",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:einmal_general, de-nb/generalbank.json:irgendwann_general, de-nb/generalbank.json:mal_adv",
+    "_enriched": false
+  },
+  "en_num": {
+    "word": "en",
+    "type": "num",
+    "_generatedFrom": "de-nb/numbersbank.json:eins_num, es-nb/numbersbank.json:uno_num",
+    "_enriched": false
+  },
+  "en_pron": {
+    "word": "en",
+    "type": "pron",
+    "_generatedFrom": "de-nb/pronounsbank.json:man_pron",
+    "_enriched": false
+  },
+  "enda_en_gang_adv": {
+    "word": "enda en gang",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:nochmals_general",
+    "_enriched": false
+  },
+  "enda_ikke_phrase": {
+    "word": "enda ikke",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/generalbank.json:noch_nicht_phrase",
+    "_enriched": false
+  },
+  "endelig_adv": {
+    "word": "endelig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:endlich_adv, es-nb/generalbank.json:finalmente_adv",
+    "_enriched": false
+  },
+  "endelig_expr": {
+    "word": "endelig",
+    "type": "expr",
+    "_generatedFrom": "es-nb/generalbank.json:por_fin_expr",
+    "_enriched": false
+  },
+  "eneste_adv": {
+    "word": "eneste",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:einzig_general",
+    "_enriched": false
+  },
+  "engstelig_adv": {
+    "word": "engstelig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:aengstlich_general",
+    "_enriched": false
+  },
+  "enig_adv": {
+    "word": "enig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:einig_general",
+    "_enriched": false
+  },
+  "enig_expr": {
+    "word": "enig",
+    "type": "expr",
+    "_generatedFrom": "es-nb/generalbank.json:de_acuerdo_expr",
+    "_enriched": false
+  },
+  "enig_ok_phrase": {
+    "word": "enig, ok",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/phrasesbank.json:de_acuerdo_phrase",
+    "_enriched": false
+  },
+  "enkelt_adv": {
+    "word": "enkelt-",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:einzel_general",
+    "_enriched": false
+  },
+  "enn_conj": {
+    "word": "enn",
+    "type": "conj",
+    "_generatedFrom": "de-nb/generalbank.json:als_conj",
+    "_enriched": false
+  },
+  "ennå_adv": {
+    "word": "ennå",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:noch_adv, es-nb/generalbank.json:todavia_adv, es-nb/generalbank.json:aun_adv",
+    "_enriched": false
+  },
+  "ensartet_adv": {
+    "word": "ensartet",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:einheitlich_general",
+    "_enriched": false
+  },
+  "ensom_adv": {
+    "word": "ensom",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:einsam_general",
+    "_enriched": false
+  },
+  "entydig_adv": {
+    "word": "entydig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:eindeutig_general",
+    "_enriched": false
+  },
+  "er_arbeidsledige_adv": {
+    "word": "er arbeidsledige",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:arbeitslos_sind_general",
+    "_enriched": false
+  },
+  "et_art": {
+    "word": "et",
+    "type": "art",
+    "usageNotes": "akkusativ hankjønn",
+    "_generatedFrom": "de-nb/articlesbank.json:einen_art",
+    "_enriched": false
+  },
+  "et_hankjønn_art": {
+    "word": "et (hankjønn",
+    "type": "art",
+    "_generatedFrom": "de-nb/articlesbank.json:ein_art",
+    "_enriched": false
+  },
+  "et_stipend_adv": {
+    "word": "et stipend",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:ein_stipendium_general",
+    "_enriched": false
+  },
+  "etter_at_adv": {
+    "word": "etter at",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:nachdem_general",
+    "_enriched": false
+  },
+  "etter_min_mening_phrase": {
+    "word": "Etter min mening",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:en_mi_opinion_phrase",
+    "_enriched": false
+  },
+  "etter_phrase": {
+    "word": "etter",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/phrasesbank.json:nach_dem_phrase",
+    "_enriched": false
+  },
+  "etter_prep": {
+    "word": "etter",
+    "type": "prep",
+    "_generatedFrom": "es-nb/generalbank.json:tras_prep",
+    "_enriched": false
+  },
+  "etter_skolen_phrase": {
+    "word": "etter skolen",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/generalbank.json:nach_der_schule_phrase",
+    "_enriched": false
+  },
+  "etterpå_adv": {
+    "word": "etterpå",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:danach_adv, de-nb/generalbank.json:hinterher_general, de-nb/generalbank.json:nachher_general, es-nb/generalbank.json:luego_adv, es-nb/generalbank.json:despues_adv",
+    "_enriched": false
+  },
+  "europa_propn": {
+    "word": "Europa",
+    "type": "propn",
+    "_generatedFrom": "es-nb/generalbank.json:europa_propn",
+    "_enriched": false
+  },
+  "eventuelt_adv": {
+    "word": "eventuelt",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:eventuell_general",
+    "_enriched": false
+  },
+  "evig_adv": {
+    "word": "evig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:ewig_general",
+    "_enriched": false
+  },
+  "fantastisk_adv": {
+    "word": "fantastisk",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:fantastisch_general",
+    "_enriched": false
+  },
+  "fantastisk_interj": {
+    "word": "Fantastisk!",
+    "type": "interj",
+    "_generatedFrom": "es-nb/generalbank.json:genial_interj",
+    "_enriched": false
+  },
+  "fargerik_adv": {
+    "word": "fargerik",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:farbig_general",
+    "_enriched": false
+  },
+  "favoritt_expr": {
+    "word": "favoritt-",
+    "type": "expr",
+    "_generatedFrom": "de-nb/generalbank.json:lieblings-_expr",
+    "_enriched": false
+  },
+  "feil_adv": {
+    "word": "feil",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:falsch_general",
+    "_enriched": false
+  },
+  "feit_adv": {
+    "word": "feit",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:fett_general",
+    "_enriched": false
+  },
+  "felles_adv": {
+    "word": "felles",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:gemeinsam_general",
+    "_enriched": false
+  },
+  "fem_num": {
+    "word": "fem",
+    "type": "num",
+    "_generatedFrom": "de-nb/numbersbank.json:fuenf_num, es-nb/numbersbank.json:cinco_num",
+    "_enriched": false
+  },
+  "femten_num": {
+    "word": "femten",
+    "type": "num",
+    "_generatedFrom": "de-nb/numbersbank.json:fuenfzehn_num, es-nb/numbersbank.json:quince_num",
+    "_enriched": false
+  },
+  "femti_num": {
+    "word": "femti",
+    "type": "num",
+    "_generatedFrom": "de-nb/numbersbank.json:fuenfzig_num",
+    "_enriched": false
+  },
+  "ferie_hjemme_phrase": {
+    "word": "ferie hjemme",
+    "type": "phrase",
+    "usageNotes": "\"på balkongen\"",
+    "_generatedFrom": "de-nb/generalbank.json:urlaub_auf_balkonien_phrase",
+    "_enriched": false
+  },
+  "ferien_adv": {
+    "word": "ferien",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:dem_urlaub_general",
+    "_enriched": false
+  },
+  "finansiell_adv": {
+    "word": "finansiell",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:finanziell_general",
+    "_enriched": false
+  },
+  "fire_num": {
+    "word": "fire",
+    "type": "num",
+    "_generatedFrom": "de-nb/numbersbank.json:vier_num, es-nb/numbersbank.json:cuatro_num",
+    "_enriched": false
+  },
+  "firmaet_mitt_adv": {
+    "word": "firmaet mitt",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:meiner_firma_general",
+    "_enriched": false
+  },
+  "fjorten_num": {
+    "word": "fjorten",
+    "type": "num",
+    "_generatedFrom": "de-nb/numbersbank.json:vierzehn_num, es-nb/numbersbank.json:catorce_num",
+    "_enriched": false
+  },
+  "flat_adv": {
+    "word": "flat",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:flach_general",
+    "_enriched": false
+  },
+  "fleksibel_adv": {
+    "word": "fleksibel",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:flexibel_general",
+    "_enriched": false
+  },
+  "flertall_art": {
+    "word": "flertall)",
+    "type": "art",
+    "_generatedFrom": "de-nb/articlesbank.json:die_art, de-nb/articlesbank.json:keine_art",
+    "_enriched": false
+  },
+  "flertall_pron": {
+    "word": "flertall)",
+    "type": "pron",
+    "_generatedFrom": "de-nb/pronounsbank.json:meine_possessiv, de-nb/pronounsbank.json:deine_possessiv, de-nb/pronounsbank.json:seine_possessiv, de-nb/pronounsbank.json:ihre_possessiv, de-nb/pronounsbank.json:unsere_possessiv, de-nb/pronounsbank.json:eure_possessiv",
+    "_enriched": false
+  },
+  "flittig_adv": {
+    "word": "flittig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:fleissig_general",
+    "_enriched": false
+  },
+  "for_conj": {
+    "word": "for",
+    "type": "conj",
+    "_generatedFrom": "de-nb/generalbank.json:denn_conj",
+    "_enriched": false
+  },
+  "for_dem_adv": {
+    "word": "for Dem",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:fuer_sie_general",
+    "_enriched": false
+  },
+  "for_det_adv": {
+    "word": "for det",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:dafuer_general",
+    "_enriched": false
+  },
+  "for_det_første_phrase": {
+    "word": "For det første",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:en_primer_lugar_phrase",
+    "_enriched": false
+  },
+  "for_det_meste_adv": {
+    "word": "for det meste",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:meistens_adv",
+    "_enriched": false
+  },
+  "for_eksempel_adv": {
+    "word": "for eksempel",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:zum_beispiel_general",
+    "_enriched": false
+  },
+  "for_eksempel_phrase": {
+    "word": "For eksempel",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:por_ejemplo_phrase",
+    "_enriched": false
+  },
+  "for_en_adv": {
+    "word": "for en",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:was_fuer_ein_general",
+    "_enriched": false
+  },
+  "for_lenge_siden_adv": {
+    "word": "for lenge siden",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:laengst_general",
+    "_enriched": false
+  },
+  "for_meg_phrase": {
+    "word": "for meg",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/generalbank.json:bei_mir_phrase",
+    "_enriched": false
+  },
+  "for_mye_adv": {
+    "word": "for mye",
+    "type": "adv",
+    "_generatedFrom": "es-nb/generalbank.json:demasiado_adv",
+    "_enriched": false
+  },
+  "for_mye_phrase": {
+    "word": "for mye",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/generalbank.json:zu_viel_phrase",
+    "_enriched": false
+  },
+  "for_prep": {
+    "word": "for",
+    "type": "prep",
+    "_generatedFrom": "de-nb/generalbank.json:fuer_prep, es-nb/generalbank.json:para_prep, es-nb/generalbank.json:por_prep",
+    "_enriched": false
+  },
+  "for_som_i_for_sent_adv": {
+    "word": "for, som i \"for sent\"",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:zu_adv",
+    "_enriched": false
+  },
+  "for_tiden_adv": {
+    "word": "for tiden",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:zurzeit_general",
+    "_enriched": false
+  },
+  "for_tidlig_phrase": {
+    "word": "for tidlig",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/generalbank.json:zu_frueh_phrase",
+    "_enriched": false
+  },
+  "for_øvrig_adv": {
+    "word": "for øvrig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:uebrigens_general",
+    "_enriched": false
+  },
+  "foran_phrase": {
+    "word": "foran",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/phrasesbank.json:vor_dem_phrase",
+    "_enriched": false
+  },
+  "foran_prep": {
+    "word": "foran",
+    "type": "prep",
+    "_generatedFrom": "de-nb/generalbank.json:vor_prep, es-nb/generalbank.json:ante_prep, es-nb/generalbank.json:delante_de_prep",
+    "_enriched": false
+  },
+  "forbi_adv": {
+    "word": "forbi",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:vorbei_general",
+    "_enriched": false
+  },
+  "forbudt_adv": {
+    "word": "forbudt",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:untersagt_general",
+    "_enriched": false
+  },
+  "fordi_adv": {
+    "word": "fordi",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:weil_general",
+    "_enriched": false
+  },
+  "fordi_conj": {
+    "word": "fordi",
+    "type": "conj",
+    "_generatedFrom": "de-nb/generalbank.json:denn_conj, es-nb/generalbank.json:porque_conj",
+    "_enriched": false
+  },
+  "foreløpig_adv": {
+    "word": "foreløpig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:vorlaeufig_general",
+    "_enriched": false
+  },
+  "forfalt_adv": {
+    "word": "forfalt",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:faellig_general",
+    "_enriched": false
+  },
+  "forgjeves_adv": {
+    "word": "forgjeves",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:vergeblich_general",
+    "_enriched": false
+  },
+  "forhåpentligvis_adv": {
+    "word": "forhåpentligvis",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:hoffentlich_general",
+    "_enriched": false
+  },
+  "fornuftig_adv": {
+    "word": "fornuftig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:vernuenftig_general",
+    "_enriched": false
+  },
+  "forsiktig_adv": {
+    "word": "forsiktig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:vorsichtig_general",
+    "_enriched": false
+  },
+  "forskjellig_adv": {
+    "word": "forskjellig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:unterschiedlich_general",
+    "_enriched": false
+  },
+  "forståelig_adv": {
+    "word": "forståelig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:verstaendlich_general",
+    "_enriched": false
+  },
+  "fortsatt_adv": {
+    "word": "fortsatt",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:noch_adv, es-nb/generalbank.json:todavia_adv",
+    "_enriched": false
+  },
+  "forvirret_adv": {
+    "word": "forvirret",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:durcheinander_general",
+    "_enriched": false
+  },
+  "fra_contr": {
+    "word": "fra",
+    "type": "contr",
+    "usageNotes": "von + dem",
+    "_generatedFrom": "de-nb/articlesbank.json:vom_contr, es-nb/articlesbank.json:del_contr",
+    "_enriched": false
+  },
+  "fra_frankrike_phrase": {
+    "word": "fra Frankrike",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/generalbank.json:aus_frankreich_phrase",
+    "_enriched": false
+  },
+  "fra_hverandre_adv": {
+    "word": "fra hverandre",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:auseinander_general, de-nb/generalbank.json:voneinander_general",
+    "_enriched": false
+  },
+  "fra_phrase": {
+    "word": "fra",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/phrasesbank.json:aus_dem_phrase",
+    "_enriched": false
+  },
+  "fra_prep": {
+    "word": "fra",
+    "type": "prep",
+    "_generatedFrom": "de-nb/generalbank.json:aus_prep, de-nb/generalbank.json:von_prep, es-nb/generalbank.json:de_prep, es-nb/generalbank.json:desde_prep",
+    "_enriched": false
+  },
+  "fra_tiden_på_phrase": {
+    "word": "fra tiden på",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/phrasesbank.json:seit_der_phrase",
+    "_enriched": false
+  },
+  "frankrike_propn": {
+    "word": "Frankrike",
+    "type": "propn",
+    "_generatedFrom": "de-nb/generalbank.json:frankreich_land",
+    "_enriched": false
+  },
+  "fraværende_adv": {
+    "word": "fraværende",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:abwesend_general",
+    "_enriched": false
+  },
+  "fremfor_alt_adv": {
+    "word": "fremfor alt",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:vor_allem_general",
+    "_enriched": false
+  },
+  "fremmed_adv": {
+    "word": "fremmed",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:fremd_general",
+    "_enriched": false
+  },
+  "fremover_adv": {
+    "word": "fremover",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:vorwaerts_general, es-nb/generalbank.json:adelante_adv",
+    "_enriched": false
+  },
+  "fremre_adv": {
+    "word": "fremre",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:vorder_general",
+    "_enriched": false
+  },
+  "fremtidig_adv": {
+    "word": "fremtidig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:zukuenftig_general",
+    "_enriched": false
+  },
+  "fri_adv": {
+    "word": "fri",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:frei_general",
+    "_enriched": false
+  },
+  "frivillig_adv": {
+    "word": "frivillig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:freiwillig_general",
+    "_enriched": false
+  },
+  "fryktelig_adv": {
+    "word": "fryktelig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:furchtbar_general, de-nb/generalbank.json:schrecklich_general",
+    "_enriched": false
+  },
+  "fuktig_adv": {
+    "word": "fuktig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:feucht_general",
+    "_enriched": false
+  },
+  "full_adv": {
+    "word": "full",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:voll_general",
+    "_enriched": false
+  },
+  "fullstendig_adv": {
+    "word": "fullstendig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:voellig_general, es-nb/generalbank.json:completamente_adv",
+    "_enriched": false
+  },
+  "fungerer_adv": {
+    "word": "fungerer",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:klappt_general",
+    "_enriched": false
+  },
+  "få_adv": {
+    "word": "få",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:wenig_adv",
+    "_enriched": false
+  },
+  "føler_har_følt_adv": {
+    "word": "føler, har følt",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:fuehlt_hat_gefuehlt_general",
+    "_enriched": false
+  },
+  "før_adv": {
+    "word": "før",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:bevor_general, es-nb/generalbank.json:antes_adv",
+    "_enriched": false
+  },
+  "før_phrase": {
+    "word": "før",
+    "type": "phrase",
+    "usageNotes": "med intetkjønnsord",
+    "_generatedFrom": "de-nb/phrasesbank.json:vor_dem_phrase",
+    "_enriched": false
+  },
+  "før_prep": {
+    "word": "før",
+    "type": "prep",
+    "_generatedFrom": "de-nb/generalbank.json:vor_prep",
+    "_enriched": false
+  },
+  "først_adv": {
+    "word": "først",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:erst_general, de-nb/generalbank.json:zuerst_adv, de-nb/generalbank.json:zunaechst_general, es-nb/generalbank.json:primero_adv",
+    "_enriched": false
+  },
+  "første_num": {
+    "word": "første",
+    "type": "num",
+    "_generatedFrom": "de-nb/numbersbank.json:erste_num",
+    "_enriched": false
+  },
+  "førti_num": {
+    "word": "førti",
+    "type": "num",
+    "_generatedFrom": "de-nb/numbersbank.json:vierzig_num",
+    "_enriched": false
+  },
+  "gal_adv": {
+    "word": "gal",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:verrueckt_general, de-nb/generalbank.json:wahnsinnig_general",
+    "_enriched": false
+  },
+  "ganske_adv": {
+    "word": "ganske",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:ziemlich_general, es-nb/generalbank.json:bastante_adv",
+    "_enriched": false
+  },
+  "garantert_adv": {
+    "word": "garantert",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:bestimmt_adv",
+    "_enriched": false
+  },
+  "generell_adv": {
+    "word": "generell",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:allgemein_general",
+    "_enriched": false
+  },
+  "generelt_adv": {
+    "word": "generelt",
+    "type": "adv",
+    "_generatedFrom": "es-nb/generalbank.json:generalmente_adv",
+    "_enriched": false
+  },
+  "generelt_expr": {
+    "word": "generelt",
+    "type": "expr",
+    "_generatedFrom": "es-nb/generalbank.json:en_general_expr",
+    "_enriched": false
+  },
+  "gift_adv": {
+    "word": "gift",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:verheiratet_general",
+    "_enriched": false
+  },
+  "giftig_adv": {
+    "word": "giftig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:giftig_general",
+    "_enriched": false
+  },
+  "gjennom_prep": {
+    "word": "gjennom",
+    "type": "prep",
+    "_generatedFrom": "de-nb/generalbank.json:durch_prep, es-nb/generalbank.json:por_prep",
+    "_enriched": false
+  },
+  "gjennomsnittlig_adv": {
+    "word": "gjennomsnittlig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:durchschnittlich_general",
+    "_enriched": false
+  },
+  "gjerne_adv": {
+    "word": "gjerne",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:gern_adv, de-nb/generalbank.json:gerne_adv",
+    "_enriched": false
+  },
+  "gjøre_adv": {
+    "word": "å gjøre",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:tun_general",
+    "_enriched": false
+  },
+  "gjøre_vondt_adv": {
+    "word": "å gjøre vondt",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:weh_tun_general",
+    "_enriched": false
+  },
+  "glad_adv": {
+    "word": "glad",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:froh_general",
+    "_enriched": false
+  },
+  "glatt_adv": {
+    "word": "glatt",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:glatt_general",
+    "_enriched": false
+  },
+  "god_appetitt_phrase": {
+    "word": "god appetitt",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/phrasesbank.json:que_aproveche_phrase",
+    "_enriched": false
+  },
+  "god_ettermiddag_phrase": {
+    "word": "God ettermiddag",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:buenas_tardes_phrase, es-nb/phrasesbank.json:buenas_tardes_phrase",
+    "_enriched": false
+  },
+  "god_fornøyelse_phrase": {
+    "word": "god fornøyelse",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/generalbank.json:viel_spass_phrase",
+    "_enriched": false
+  },
+  "god_jul_phrase": {
+    "word": "God jul!",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:feliz_navidad_phrase",
+    "_enriched": false
+  },
+  "god_kveld_phrase": {
+    "word": "God kveld",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:buenas_noches_phrase, es-nb/phrasesbank.json:buenas_noches_phrase",
+    "_enriched": false
+  },
+  "god_morgen_phrase": {
+    "word": "God morgen",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:buenos_dias_phrase, es-nb/phrasesbank.json:buenos_dias_phrase",
+    "_enriched": false
+  },
+  "god_natt_phrase": {
+    "word": "God natt",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:buenas_noches_phrase",
+    "_enriched": false
+  },
+  "godt_adv": {
+    "word": "godt",
+    "type": "adv",
+    "_generatedFrom": "es-nb/generalbank.json:bien_adv",
+    "_enriched": false
+  },
+  "godt_nytt_år_phrase": {
+    "word": "Godt nytt år!",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:feliz_ano_nuevo_phrase",
+    "_enriched": false
+  },
+  "gratis_adv": {
+    "word": "gratis",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:gratis_general, de-nb/generalbank.json:kostenlos_general, de-nb/generalbank.json:umsonst_general",
+    "_enriched": false
+  },
+  "gratulerer_interj": {
+    "word": "Gratulerer!",
+    "type": "interj",
+    "_generatedFrom": "es-nb/generalbank.json:enhorabuena_interj",
+    "_enriched": false
+  },
+  "gratulerer_med_dagen_phrase": {
+    "word": "Gratulerer med dagen",
+    "type": "phrase",
+    "usageNotes": "sang",
+    "_generatedFrom": "de-nb/generalbank.json:zum_geburtstag_viel_glueck_phrase, es-nb/generalbank.json:feliz_cumpleanos_phrase, es-nb/phrasesbank.json:feliz_cumpleanos_phrase",
+    "_enriched": false
+  },
+  "gratulerer_phrase": {
+    "word": "Gratulerer",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/generalbank.json:herzlichen_glueckwunsch_phrase, es-nb/phrasesbank.json:felicidades_phrase",
+    "_enriched": false
+  },
+  "gravid_adv": {
+    "word": "gravid",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:schwanger_general",
+    "_enriched": false
+  },
+  "greit_expr": {
+    "word": "greit",
+    "type": "expr",
+    "_generatedFrom": "es-nb/generalbank.json:de_acuerdo_expr",
+    "_enriched": false
+  },
+  "greit_interj": {
+    "word": "Greit",
+    "type": "interj",
+    "_generatedFrom": "es-nb/generalbank.json:vale_interj",
+    "_enriched": false
+  },
+  "grundig_adv": {
+    "word": "grundig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:gruendlich_general",
+    "_enriched": false
+  },
+  "gunstig_adv": {
+    "word": "gunstig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:guenstig_general",
+    "_enriched": false
+  },
+  "gyldig_adv": {
+    "word": "gyldig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:gueltig_general",
+    "_enriched": false
+  },
+  "gå_en_tur_phrase": {
+    "word": "Å gå en tur",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:dar_un_paseo_phrase",
+    "_enriched": false
+  },
+  "gå_og_handle_phrase": {
+    "word": "Å gå og handle",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:ir_de_compras_phrase",
+    "_enriched": false
+  },
+  "gå_på_kino_phrase": {
+    "word": "å gå på kino",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/generalbank.json:ins_kino_gehen_phrase",
+    "_enriched": false
+  },
+  "gå_tur_med_hunden_phrase": {
+    "word": "å gå tur med hunden",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/verbbank.json:gassi_gehen_verbphrase",
+    "_enriched": false
+  },
+  "ha_det_adv": {
+    "word": "ha det",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:tschues_general, de-nb/generalbank.json:tschuess_general",
+    "_enriched": false
+  },
+  "ha_det_gøy_phrase": {
+    "word": "Å ha det gøy",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:pasarlo_bien_phrase",
+    "_enriched": false
+  },
+  "ha_det_interj": {
+    "word": "Ha det!",
+    "type": "interj",
+    "_generatedFrom": "de-nb/generalbank.json:tschuess_interj, es-nb/generalbank.json:adios_interj",
+    "_enriched": false
+  },
+  "ha_det_phrase": {
+    "word": "ha det",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/phrasesbank.json:adios_phrase",
+    "_enriched": false
+  },
+  "ha_en_fin_dag_phrase": {
+    "word": "Ha en fin dag!",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:que_tengas_un_buen_dia_phrase, es-nb/phrasesbank.json:que_tengas_buen_dia_phrase",
+    "_enriched": false
+  },
+  "ha_lyst_til_phrase": {
+    "word": "Å ha lyst til",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:tener_ganas_de_phrase",
+    "_enriched": false
+  },
+  "hadde_har_hatt_adv": {
+    "word": "hadde, har hatt",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:hatte_hat_gehabt_general",
+    "_enriched": false
+  },
+  "hallo_adv": {
+    "word": "hallo",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:hallo_general",
+    "_enriched": false
+  },
+  "hallo_interj": {
+    "word": "Hallo!",
+    "type": "interj",
+    "_generatedFrom": "de-nb/generalbank.json:hallo_interj",
+    "_enriched": false
+  },
+  "halv_adv": {
+    "word": "halv",
+    "type": "adv",
+    "usageNotes": "til neste time",
+    "_generatedFrom": "de-nb/generalbank.json:halb_adv",
+    "_enriched": false
+  },
+  "halv_phrase": {
+    "word": "halv",
+    "type": "phrase",
+    "usageNotes": "30 minutter over",
+    "_generatedFrom": "es-nb/generalbank.json:y_media_phrase",
+    "_enriched": false
+  },
+  "halvdag_adv": {
+    "word": "halvdag",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:halbtags_general",
+    "_enriched": false
+  },
+  "ham_alex_adv": {
+    "word": "ham Alex",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:ihn_alex_general",
+    "_enriched": false
+  },
+  "ham_pron": {
+    "word": "ham",
+    "type": "pron",
+    "_generatedFrom": "de-nb/pronounsbank.json:ihn_pron, de-nb/pronounsbank.json:ihm_pron, es-nb/pronounsbank.json:lo_dirobj_pron, es-nb/pronounsbank.json:le_indobj_pron",
+    "_enriched": false
+  },
+  "han_pron": {
+    "word": "han",
+    "type": "pron",
+    "_generatedFrom": "de-nb/pronounsbank.json:er_pron, es-nb/pronounsbank.json:el_pron",
+    "_enriched": false
+  },
+  "hans_hankjønn_pron": {
+    "word": "hans (hankjønn",
+    "type": "pron",
+    "_generatedFrom": "de-nb/pronounsbank.json:sein_possessiv",
+    "_enriched": false
+  },
+  "hans_hunkjønn_pron": {
+    "word": "hans (hunkjønn",
+    "type": "pron",
+    "_generatedFrom": "de-nb/pronounsbank.json:seine_possessiv",
+    "_enriched": false
+  },
+  "hans_pron": {
+    "word": "hans",
+    "type": "pron",
+    "_generatedFrom": "es-nb/pronounsbank.json:su_possess_pron",
+    "_enriched": false
+  },
+  "har_adv": {
+    "word": "har",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:hast_general",
+    "_enriched": false
+  },
+  "har_du_hørt_expr": {
+    "word": "har du hørt",
+    "type": "expr",
+    "_generatedFrom": "de-nb/generalbank.json:hast_du_gehoert_expr",
+    "_enriched": false
+  },
+  "har_du_lyst_på_phrase": {
+    "word": "Har du lyst på...?",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/generalbank.json:hast_du_lust_auf_phrase",
+    "_enriched": false
+  },
+  "hastverk_adv": {
+    "word": "hastverk",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:eilig_general",
+    "_enriched": false
+  },
+  "hei_interj": {
+    "word": "Hei!",
+    "type": "interj",
+    "_generatedFrom": "es-nb/generalbank.json:hola_interj",
+    "_enriched": false
+  },
+  "hei_phrase": {
+    "word": "hei",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/phrasesbank.json:hola_phrase",
+    "_enriched": false
+  },
+  "heldigvis_adv": {
+    "word": "heldigvis",
+    "type": "adv",
+    "_generatedFrom": "es-nb/generalbank.json:afortunadamente_adv",
+    "_enriched": false
+  },
+  "hele_dagen_phrase": {
+    "word": "hele dagen",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/generalbank.json:den_ganzen_tag_phrase",
+    "_enriched": false
+  },
+  "helgen_expr": {
+    "word": "helgen",
+    "type": "expr",
+    "_generatedFrom": "es-nb/generalbank.json:el_fin_de_semana_expr",
+    "_enriched": false
+  },
+  "heller_adv": {
+    "word": "heller",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:eher_adv, de-nb/generalbank.json:lieber_adv",
+    "_enriched": false
+  },
+  "heller_ikke_adv": {
+    "word": "heller ikke",
+    "type": "adv",
+    "_generatedFrom": "es-nb/generalbank.json:tampoco_adv",
+    "_enriched": false
+  },
+  "heller_ikke_conj": {
+    "word": "heller ikke",
+    "type": "conj",
+    "_generatedFrom": "es-nb/generalbank.json:ni_conj",
+    "_enriched": false
+  },
+  "helt_adv": {
+    "word": "helt",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:ganz_general, es-nb/generalbank.json:completamente_adv",
+    "_enriched": false
+  },
+  "hemmelig_adv": {
+    "word": "hemmelig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:heimlich_general",
+    "_enriched": false
+  },
+  "hengt_adv": {
+    "word": "hengt",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:gehaengt_general",
+    "_enriched": false
+  },
+  "henholdsvis_adv": {
+    "word": "henholdsvis",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:jeweils_general",
+    "_enriched": false
+  },
+  "henne_pron": {
+    "word": "henne",
+    "type": "pron",
+    "usageNotes": "dativ",
+    "_generatedFrom": "de-nb/pronounsbank.json:ihr_dat_pron, es-nb/pronounsbank.json:la_dirobj_pron, es-nb/pronounsbank.json:le_indobj_pron",
+    "_enriched": false
+  },
+  "hennes_hankjønn_pron": {
+    "word": "hennes (hankjønn",
+    "type": "pron",
+    "_generatedFrom": "de-nb/pronounsbank.json:ihr_poss_possessiv",
+    "_enriched": false
+  },
+  "hennes_hunkjønn_pron": {
+    "word": "hennes (hunkjønn",
+    "type": "pron",
+    "_generatedFrom": "de-nb/pronounsbank.json:ihre_possessiv",
+    "_enriched": false
+  },
+  "hennes_pron": {
+    "word": "hennes",
+    "type": "pron",
+    "_generatedFrom": "es-nb/pronounsbank.json:su_possess_pron",
+    "_enriched": false
+  },
+  "her_adv": {
+    "word": "her",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:hier_adv, es-nb/generalbank.json:aqui_adv",
+    "_enriched": false
+  },
+  "historisk_adv": {
+    "word": "historisk",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:historisch_general",
+    "_enriched": false
+  },
+  "hit_adv": {
+    "word": "hit",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:hierher_general",
+    "_enriched": false
+  },
+  "hittil_adv": {
+    "word": "hittil",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:bisher_general",
+    "_enriched": false
+  },
+  "hjem_adv": {
+    "word": "hjem",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:heim_general",
+    "_enriched": false
+  },
+  "hjem_expr": {
+    "word": "hjem",
+    "type": "expr",
+    "usageNotes": "bevegelse",
+    "_generatedFrom": "es-nb/generalbank.json:a_casa_expr",
+    "_enriched": false
+  },
+  "hjem_phrase": {
+    "word": "hjem",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/generalbank.json:nach_hause_phrase",
+    "_enriched": false
+  },
+  "hjemme_adv": {
+    "word": "hjemme",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:zuhause_adv",
+    "_enriched": false
+  },
+  "hjemme_expr": {
+    "word": "hjemme",
+    "type": "expr",
+    "_generatedFrom": "es-nb/generalbank.json:en_casa_expr",
+    "_enriched": false
+  },
+  "hjemme_phrase": {
+    "word": "hjemme",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/generalbank.json:zu_hause_phrase",
+    "_enriched": false
+  },
+  "hjertelig_adv": {
+    "word": "hjertelig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:herzlich_general",
+    "_enriched": false
+  },
+  "holdbar_adv": {
+    "word": "holdbar",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:haltbar_general",
+    "_enriched": false
+  },
+  "hos_meg_phrase": {
+    "word": "hos meg",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/generalbank.json:bei_mir_phrase",
+    "_enriched": false
+  },
+  "hos_prep": {
+    "word": "hos",
+    "type": "prep",
+    "_generatedFrom": "de-nb/generalbank.json:bei_prep",
+    "_enriched": false
+  },
+  "hun_pron": {
+    "word": "hun",
+    "type": "pron",
+    "_generatedFrom": "de-nb/pronounsbank.json:sie_pron, es-nb/pronounsbank.json:ella_pron",
+    "_enriched": false
+  },
+  "hundre_num": {
+    "word": "hundre",
+    "type": "num",
+    "_generatedFrom": "de-nb/numbersbank.json:hundert_num, es-nb/numbersbank.json:cien_num",
+    "_enriched": false
+  },
+  "hva_betyr_phrase": {
+    "word": "Hva betyr...?",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:que_significa_phrase, es-nb/phrasesbank.json:que_significa_phrase",
+    "_enriched": false
+  },
+  "hva_er_det_phrase": {
+    "word": "Hva er det?",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:que_hay_phrase",
+    "_enriched": false
+  },
+  "hva_er_klokka_phrase": {
+    "word": "Hva er klokka?",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/generalbank.json:wie_spaet_ist_es_phrase, es-nb/generalbank.json:que_hora_es_phrase, es-nb/phrasesbank.json:que_hora_es_phrase",
+    "_enriched": false
+  },
+  "hva_heter_du_phrase": {
+    "word": "Hva heter du?",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/generalbank.json:wie_heisst_du_phrase, es-nb/generalbank.json:como_te_llamas_phrase, es-nb/phrasesbank.json:como_te_llamas_phrase",
+    "_enriched": false
+  },
+  "hva_interr": {
+    "word": "Hva",
+    "type": "interr",
+    "_generatedFrom": "de-nb/generalbank.json:was_interr, de-nb/generalbank.json:wie_interr, es-nb/generalbank.json:que_interr",
+    "_enriched": false
+  },
+  "hva_pron": {
+    "word": "hva?",
+    "type": "pron",
+    "_generatedFrom": "es-nb/pronounsbank.json:que_interr_pron",
+    "_enriched": false
+  },
+  "hva_skjer_phrase": {
+    "word": "Hva skjer?",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:que_hay_phrase",
+    "_enriched": false
+  },
+  "hvem_er_det_phrase": {
+    "word": "Hvem er det?",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/generalbank.json:wer_ist_das_phrase",
+    "_enriched": false
+  },
+  "hvem_interr": {
+    "word": "Hvem",
+    "type": "interr",
+    "_generatedFrom": "de-nb/generalbank.json:wer_interr, es-nb/generalbank.json:quien_interr",
+    "_enriched": false
+  },
+  "hvem_pron": {
+    "word": "hvem",
+    "type": "pron",
+    "usageNotes": "nominativ",
+    "_generatedFrom": "de-nb/pronounsbank.json:wer_pron, de-nb/pronounsbank.json:wen_pron, es-nb/pronounsbank.json:quien_interr_pron",
+    "_enriched": false
+  },
+  "hver_adv": {
+    "word": "hver",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:jeder_e_s_general",
+    "_enriched": false
+  },
+  "hver_dag_expr": {
+    "word": "hver dag",
+    "type": "expr",
+    "_generatedFrom": "es-nb/generalbank.json:cada_dia_expr, es-nb/generalbank.json:todos_los_dias_expr",
+    "_enriched": false
+  },
+  "hver_dag_phrase": {
+    "word": "hver dag",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/generalbank.json:jeden_tag_phrase",
+    "_enriched": false
+  },
+  "hver_for_seg_adv": {
+    "word": "hver for seg",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:getrennt_adv",
+    "_enriched": false
+  },
+  "hver_pron": {
+    "word": "hver",
+    "type": "pron",
+    "_generatedFrom": "de-nb/pronounsbank.json:jedes_pron",
+    "_enriched": false
+  },
+  "hverandre_pron": {
+    "word": "hverandre",
+    "type": "pron",
+    "_generatedFrom": "de-nb/pronounsbank.json:einander_pron",
+    "_enriched": false
+  },
+  "hvert_pron": {
+    "word": "hvert",
+    "type": "pron",
+    "usageNotes": "intetkjønn",
+    "_generatedFrom": "de-nb/pronounsbank.json:jedes_pron",
+    "_enriched": false
+  },
+  "hvilke_pron": {
+    "word": "hvilke?",
+    "type": "pron",
+    "_generatedFrom": "es-nb/pronounsbank.json:cual_interr_pron",
+    "_enriched": false
+  },
+  "hvilken_interr": {
+    "word": "hvilken",
+    "type": "interr",
+    "_generatedFrom": "de-nb/generalbank.json:welcher_interr, es-nb/generalbank.json:cual_interr",
+    "_enriched": false
+  },
+  "hvilken_pron": {
+    "word": "hvilken",
+    "type": "pron",
+    "_generatedFrom": "es-nb/pronounsbank.json:cual_interr_pron",
+    "_enriched": false
+  },
+  "hvilken_verden_adv": {
+    "word": "hvilken verden",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:welchdie_welt_general",
+    "_enriched": false
+  },
+  "hvis_conj": {
+    "word": "hvis",
+    "type": "conj",
+    "_generatedFrom": "es-nb/generalbank.json:si_conj",
+    "_enriched": false
+  },
+  "hvor_adv": {
+    "word": "hvor",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:wo_general",
+    "_enriched": false
+  },
+  "hvor_bor_du_phrase": {
+    "word": "hvor bor du?",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/phrasesbank.json:donde_vives_phrase",
+    "_enriched": false
+  },
+  "hvor_er_du_fra_phrase": {
+    "word": "hvor er du fra?",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/phrasesbank.json:de_donde_eres_phrase",
+    "_enriched": false
+  },
+  "hvor_fra_interr": {
+    "word": "Hvor fra",
+    "type": "interr",
+    "_generatedFrom": "de-nb/generalbank.json:woher_interr",
+    "_enriched": false
+  },
+  "hvor_gammel_er_du_phrase": {
+    "word": "Hvor gammel er du?",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:cuantos_anos_tienes_phrase, es-nb/phrasesbank.json:cuantos_anos_tienes_phrase",
+    "_enriched": false
+  },
+  "hvor_hen_interr": {
+    "word": "hvor hen",
+    "type": "interr",
+    "_generatedFrom": "de-nb/generalbank.json:wohin_interr, es-nb/generalbank.json:adonde_interr",
+    "_enriched": false
+  },
+  "hvor_interr": {
+    "word": "Hvor?",
+    "type": "interr",
+    "_generatedFrom": "de-nb/generalbank.json:wo_interr, es-nb/generalbank.json:donde_interr",
+    "_enriched": false
+  },
+  "hvor_kommer_du_fra_phrase": {
+    "word": "Hvor kommer du fra?",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/generalbank.json:woher_kommst_du_phrase, es-nb/generalbank.json:de_donde_eres_phrase",
+    "_enriched": false
+  },
+  "hvor_mange_interr": {
+    "word": "Hvor mange",
+    "type": "interr",
+    "_generatedFrom": "es-nb/generalbank.json:cuantos_interr",
+    "_enriched": false
+  },
+  "hvor_mye_adv": {
+    "word": "hvor mye",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:wie_viel_general",
+    "_enriched": false
+  },
+  "hvor_mye_interr": {
+    "word": "Hvor mye",
+    "type": "interr",
+    "_generatedFrom": "es-nb/generalbank.json:cuanto_interr",
+    "_enriched": false
+  },
+  "hvor_mye_pron": {
+    "word": "hvor mye",
+    "type": "pron",
+    "_generatedFrom": "es-nb/pronounsbank.json:cuanto_interr_pron",
+    "_enriched": false
+  },
+  "hvor_pron": {
+    "word": "hvor?",
+    "type": "pron",
+    "_generatedFrom": "es-nb/pronounsbank.json:donde_interr_pron",
+    "_enriched": false
+  },
+  "hvordan_føler_du_deg_phrase": {
+    "word": "Hvordan føler du deg?",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/generalbank.json:wie_fuehlst_du_dich_phrase",
+    "_enriched": false
+  },
+  "hvordan_går_det_phrase": {
+    "word": "Hvordan går det?",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/phrasesbank.json:wie_gehts_phrase, es-nb/generalbank.json:que_tal_phrase, es-nb/phrasesbank.json:que_tal_phrase",
+    "_enriched": false
+  },
+  "hvordan_har_du_det_phrase": {
+    "word": "Hvordan har du det?",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:como_estas_phrase, es-nb/phrasesbank.json:como_estas_phrase",
+    "_enriched": false
+  },
+  "hvordan_interr": {
+    "word": "Hvordan",
+    "type": "interr",
+    "_generatedFrom": "de-nb/generalbank.json:wie_interr, es-nb/generalbank.json:como_interr",
+    "_enriched": false
+  },
+  "hvordan_pron": {
+    "word": "hvordan?",
+    "type": "pron",
+    "_generatedFrom": "es-nb/pronounsbank.json:como_interr_pron",
+    "_enriched": false
+  },
+  "hvordan_sier_man_phrase": {
+    "word": "Hvordan sier man...?",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:como_se_dice_phrase, es-nb/phrasesbank.json:como_se_dice_phrase",
+    "_enriched": false
+  },
+  "hvorfor_adv": {
+    "word": "hvorfor",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:weshalb_general, de-nb/generalbank.json:wieso_general",
+    "_enriched": false
+  },
+  "hvorfor_interr": {
+    "word": "Hvorfor",
+    "type": "interr",
+    "_generatedFrom": "de-nb/generalbank.json:warum_interr, es-nb/generalbank.json:por_que_interr",
+    "_enriched": false
+  },
+  "hvorfor_pron": {
+    "word": "hvorfor?",
+    "type": "pron",
+    "_generatedFrom": "es-nb/pronounsbank.json:por_que_interr_pron",
+    "_enriched": false
+  },
+  "hyggelig_å_møte_deg_phrase": {
+    "word": "Hyggelig å møte deg",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:mucho_gusto_phrase, es-nb/phrasesbank.json:mucho_gusto_phrase",
+    "_enriched": false
+  },
+  "hyggelig_å_treffe_deg_phrase": {
+    "word": "hyggelig å treffe deg",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/phrasesbank.json:encantado_phrase",
+    "_enriched": false
+  },
+  "høflig_adv": {
+    "word": "høflig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:hoeflich_general",
+    "_enriched": false
+  },
+  "høre_på_musikk_phrase": {
+    "word": "å høre på musikk",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/verbbank.json:musik_hoeren_verbphrase",
+    "_enriched": false
+  },
+  "høy_adv": {
+    "word": "høy",
+    "type": "adv",
+    "usageNotes": "lyd",
+    "_generatedFrom": "de-nb/generalbank.json:laut_general",
+    "_enriched": false
+  },
+  "høyst_adv": {
+    "word": "høyst",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:hoechstens_general",
+    "_enriched": false
+  },
+  "i_alpene_phrase": {
+    "word": "i Alpene",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/generalbank.json:in_den_alpen_phrase",
+    "_enriched": false
+  },
+  "i_begynnelsen_adv": {
+    "word": "i begynnelsen",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:anfangs_general",
+    "_enriched": false
+  },
+  "i_begynnelsen_expr": {
+    "word": "i begynnelsen",
+    "type": "expr",
+    "_generatedFrom": "es-nb/generalbank.json:al_principio_expr",
+    "_enriched": false
+  },
+  "i_contr": {
+    "word": "i",
+    "type": "contr",
+    "usageNotes": "an + dem",
+    "_generatedFrom": "de-nb/articlesbank.json:am_contr, de-nb/articlesbank.json:im_contr",
+    "_enriched": false
+  },
+  "i_dag_adv": {
+    "word": "i dag",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:heute_adv, es-nb/generalbank.json:hoy_adv",
+    "_enriched": false
+  },
+  "i_det_hele_tatt_adv": {
+    "word": "i det hele tatt",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:gar_general, de-nb/generalbank.json:ueberhaupt_general",
+    "_enriched": false
+  },
+  "i_det_minste_adv": {
+    "word": "i det minste",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:wenigstens_general, de-nb/generalbank.json:zumindest_general",
+    "_enriched": false
+  },
+  "i_dyrehagen_phrase": {
+    "word": "i dyrehagen",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/generalbank.json:im_zoo_phrase",
+    "_enriched": false
+  },
+  "i_fjor_expr": {
+    "word": "i fjor",
+    "type": "expr",
+    "_generatedFrom": "es-nb/generalbank.json:el_ano_pasado_expr",
+    "_enriched": false
+  },
+  "i_forveien_adv": {
+    "word": "i forveien",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:voraus_general",
+    "_enriched": false
+  },
+  "i_går_adv": {
+    "word": "i går",
+    "type": "adv",
+    "_generatedFrom": "es-nb/generalbank.json:ayer_adv",
+    "_enriched": false
+  },
+  "i_helgen_phrase": {
+    "word": "i helgen",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/generalbank.json:am_wochenende_phrase",
+    "_enriched": false
+  },
+  "i_kafen_phrase": {
+    "word": "i kaféen",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/generalbank.json:ins_cafe_phrase",
+    "_enriched": false
+  },
+  "i_like_måte_adv": {
+    "word": "i like måte",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:gleichfalls_general",
+    "_enriched": false
+  },
+  "i_like_måte_phrase": {
+    "word": "i like måte",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/phrasesbank.json:igualmente_phrase",
+    "_enriched": false
+  },
+  "i_løpet_av_prep": {
+    "word": "i løpet av",
+    "type": "prep",
+    "_generatedFrom": "es-nb/generalbank.json:durante_prep",
+    "_enriched": false
+  },
+  "i_mellomtiden_adv": {
+    "word": "i mellomtiden",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:mittlerweile_general",
+    "_enriched": false
+  },
+  "i_morgen_adv": {
+    "word": "i morgen",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:morgen_adv, es-nb/generalbank.json:manana_adv",
+    "_enriched": false
+  },
+  "i_nærheten_av_prep": {
+    "word": "i nærheten av",
+    "type": "prep",
+    "_generatedFrom": "es-nb/generalbank.json:cerca_de_prep",
+    "_enriched": false
+  },
+  "i_orden_adv": {
+    "word": "i orden",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:in_ordnung_general",
+    "_enriched": false
+  },
+  "i_prep": {
+    "word": "i",
+    "type": "prep",
+    "_generatedFrom": "de-nb/generalbank.json:in_prep, de-nb/generalbank.json:ins_prep, es-nb/generalbank.json:en_prep",
+    "_enriched": false
+  },
+  "i_tide_adv": {
+    "word": "i tide",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:rechtzeitig_general",
+    "_enriched": false
+  },
+  "i_tilfelle_adv": {
+    "word": "i tilfelle",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:falls_general",
+    "_enriched": false
+  },
+  "i_tillegg_adv": {
+    "word": "i tillegg",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:zusaetzlich_general",
+    "_enriched": false
+  },
+  "i_virkeligheten_expr": {
+    "word": "i virkeligheten",
+    "type": "expr",
+    "_generatedFrom": "es-nb/generalbank.json:en_realidad_expr",
+    "_enriched": false
+  },
+  "ideell_adv": {
+    "word": "ideell",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:ideal_general",
+    "_enriched": false
+  },
+  "ifølge_prep": {
+    "word": "ifølge",
+    "type": "prep",
+    "_generatedFrom": "es-nb/generalbank.json:segun_prep",
+    "_enriched": false
+  },
+  "igjen_adv": {
+    "word": "igjen",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:wieder_adv",
+    "_enriched": false
+  },
+  "ikke_adv": {
+    "word": "ikke",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:nicht_adv",
+    "_enriched": false
+  },
+  "ikke_nå_igjen_phrase": {
+    "word": "ikke nå igjen",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/generalbank.json:nicht_schon_wieder_phrase",
+    "_enriched": false
+  },
+  "ikke_nødvendig_adv": {
+    "word": "ikke nødvendig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:nicht_notwendig_general",
+    "_enriched": false
+  },
+  "imot_prep": {
+    "word": "imot",
+    "type": "prep",
+    "_generatedFrom": "es-nb/generalbank.json:contra_prep",
+    "_enriched": false
+  },
+  "individuell_adv": {
+    "word": "individuell",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:individuell_general",
+    "_enriched": false
+  },
+  "indre_adv": {
+    "word": "indre",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:inner_general",
+    "_enriched": false
+  },
+  "ingen_adv": {
+    "word": "ingen",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:kein_e_general, de-nb/generalbank.json:kein_general, de-nb/generalbank.json:niemand_general",
+    "_enriched": false
+  },
+  "ingen_art": {
+    "word": "ingen",
+    "type": "art",
+    "usageNotes": "akkusativ hankjønn",
+    "_generatedFrom": "de-nb/articlesbank.json:keinen_art",
+    "_enriched": false
+  },
+  "ingen_hankjønn_art": {
+    "word": "ingen (hankjønn",
+    "type": "art",
+    "_generatedFrom": "de-nb/articlesbank.json:kein_art",
+    "_enriched": false
+  },
+  "ingen_hunkjønn_art": {
+    "word": "ingen (hunkjønn",
+    "type": "art",
+    "_generatedFrom": "de-nb/articlesbank.json:keine_art",
+    "_enriched": false
+  },
+  "ingen_lyst_adv": {
+    "word": "ingen lyst",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:keine_lust_general",
+    "_enriched": false
+  },
+  "ingen_omstendigheter_adv": {
+    "word": "ingen omstendigheter",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:keinen_fall_general",
+    "_enriched": false
+  },
+  "ingen_steder_adv": {
+    "word": "ingen steder",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:nirgends_general, de-nb/generalbank.json:nirgendwo_general",
+    "_enriched": false
+  },
+  "ingen_tid_adv": {
+    "word": "ingen tid",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:keine_zeit_general",
+    "_enriched": false
+  },
+  "ingen_årsak_phrase": {
+    "word": "Ingen årsak",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:de_nada_phrase",
+    "_enriched": false
+  },
+  "ingenting_adv": {
+    "word": "ingenting",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:nichts_general",
+    "_enriched": false
+  },
+  "inkludert_adv": {
+    "word": "inkludert",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:einschliesslich_general, de-nb/generalbank.json:inklusive_general",
+    "_enriched": false
+  },
+  "inn_adv": {
+    "word": "inn",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:rein_adv",
+    "_enriched": false
+  },
+  "inn_i_contr": {
+    "word": "inn i",
+    "type": "contr",
+    "usageNotes": "in + das",
+    "_generatedFrom": "de-nb/articlesbank.json:ins_contr",
+    "_enriched": false
+  },
+  "inn_i_prep": {
+    "word": "inn i",
+    "type": "prep",
+    "_generatedFrom": "de-nb/generalbank.json:ins_prep",
+    "_enriched": false
+  },
+  "inne_adv": {
+    "word": "inne",
+    "type": "adv",
+    "_generatedFrom": "es-nb/generalbank.json:adentro_adv",
+    "_enriched": false
+  },
+  "inni_prep": {
+    "word": "inni",
+    "type": "prep",
+    "_generatedFrom": "es-nb/generalbank.json:dentro_de_prep",
+    "_enriched": false
+  },
+  "inntil_prep": {
+    "word": "inntil",
+    "type": "prep",
+    "_generatedFrom": "es-nb/generalbank.json:hasta_prep",
+    "_enriched": false
+  },
+  "intensiv_adv": {
+    "word": "intensiv",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:intensiv_general",
+    "_enriched": false
+  },
+  "interessert_adv": {
+    "word": "interessert",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:interessiert_general",
+    "_enriched": false
+  },
+  "interkulturell_adv": {
+    "word": "interkulturell",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:interkulturell_general",
+    "_enriched": false
+  },
+  "internasjonal_adv": {
+    "word": "internasjonal",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:international_general",
+    "_enriched": false
+  },
+  "intetkjønn_art": {
+    "word": "intetkjønn)",
+    "type": "art",
+    "_generatedFrom": "de-nb/articlesbank.json:ein_art, de-nb/articlesbank.json:kein_art",
+    "_enriched": false
+  },
+  "intetkjønn_pron": {
+    "word": "intetkjønn)",
+    "type": "pron",
+    "_generatedFrom": "de-nb/pronounsbank.json:mein_possessiv, de-nb/pronounsbank.json:dein_possessiv, de-nb/pronounsbank.json:sein_possessiv, de-nb/pronounsbank.json:ihr_poss_possessiv, de-nb/pronounsbank.json:unser_possessiv, de-nb/pronounsbank.json:euer_possessiv",
+    "_enriched": false
+  },
+  "irriterende_adv": {
+    "word": "irriterende",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:aergerlich_general",
+    "_enriched": false
+  },
+  "istedenfor_adv": {
+    "word": "istedenfor",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:statt_general",
+    "_enriched": false
+  },
+  "italia_propn": {
+    "word": "Italia",
+    "type": "propn",
+    "_generatedFrom": "de-nb/generalbank.json:italien_propn",
+    "_enriched": false
+  },
+  "ja_interj": {
+    "word": "ja",
+    "type": "interj",
+    "_generatedFrom": "de-nb/generalbank.json:ja_interj, es-nb/generalbank.json:si_interj",
+    "_enriched": false
+  },
+  "jeg_bor_i_phrase": {
+    "word": "jeg bor i...",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/phrasesbank.json:vivo_en_phrase",
+    "_enriched": false
+  },
+  "jeg_elsker_det_phrase": {
+    "word": "Jeg elsker det",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:me_encanta_phrase",
+    "_enriched": false
+  },
+  "jeg_er__år_phrase": {
+    "word": "Jeg er ... år",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:tengo_anos_phrase, es-nb/phrasesbank.json:tengo_anos_phrase",
+    "_enriched": false
+  },
+  "jeg_er_fra_phrase": {
+    "word": "Jeg er fra...",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:soy_de_phrase, es-nb/phrasesbank.json:soy_de_phrase",
+    "_enriched": false
+  },
+  "jeg_er_redd_phrase": {
+    "word": "Jeg er redd",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:tengo_miedo_phrase",
+    "_enriched": false
+  },
+  "jeg_er_sulten_phrase": {
+    "word": "Jeg er sulten",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:tengo_hambre_phrase",
+    "_enriched": false
+  },
+  "jeg_er_søvnig_phrase": {
+    "word": "Jeg er søvnig",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:tengo_sueno_phrase",
+    "_enriched": false
+  },
+  "jeg_er_tørst_phrase": {
+    "word": "Jeg er tørst",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:tengo_sed_phrase",
+    "_enriched": false
+  },
+  "jeg_er_varm_phrase": {
+    "word": "Jeg er varm",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:tengo_calor_phrase",
+    "_enriched": false
+  },
+  "jeg_forstår_ikke_phrase": {
+    "word": "Jeg forstår ikke",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:no_entiendo_phrase, es-nb/phrasesbank.json:no_entiendo_phrase",
+    "_enriched": false
+  },
+  "jeg_fryser_phrase": {
+    "word": "Jeg fryser",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:tengo_frio_phrase",
+    "_enriched": false
+  },
+  "jeg_gleder_meg_phrase": {
+    "word": "Jeg gleder meg",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/generalbank.json:ich_freue_mich_phrase",
+    "_enriched": false
+  },
+  "jeg_har_det_travelt_phrase": {
+    "word": "Jeg har det travelt",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:tengo_prisa_phrase",
+    "_enriched": false
+  },
+  "jeg_har_et_spørsmål_phrase": {
+    "word": "Jeg har et spørsmål",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:tengo_una_pregunta_phrase, es-nb/phrasesbank.json:tengo_una_pregunta_phrase",
+    "_enriched": false
+  },
+  "jeg_har_rett_phrase": {
+    "word": "Jeg har rett",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:tengo_razon_phrase",
+    "_enriched": false
+  },
+  "jeg_heter_phrase": {
+    "word": "Jeg heter...",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:me_llamo_phrase, es-nb/phrasesbank.json:me_llamo_phrase",
+    "_enriched": false
+  },
+  "jeg_liker_ikke_phrase": {
+    "word": "Jeg liker ikke",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:no_me_gusta_phrase",
+    "_enriched": false
+  },
+  "jeg_liker_phrase": {
+    "word": "Jeg liker",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:me_gusta_phrase",
+    "_enriched": false
+  },
+  "jeg_mener_at_phrase": {
+    "word": "Jeg mener at...",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:pienso_que_phrase",
+    "_enriched": false
+  },
+  "jeg_pron": {
+    "word": "jeg",
+    "type": "pron",
+    "_generatedFrom": "de-nb/pronounsbank.json:ich_pron, es-nb/pronounsbank.json:yo_pron",
+    "_enriched": false
+  },
+  "jeg_tror_at_phrase": {
+    "word": "Jeg tror at...",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:creo_que_phrase",
+    "_enriched": false
+  },
+  "jeg_tror_det_phrase": {
+    "word": "jeg tror det",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/phrasesbank.json:creo_que_si_phrase",
+    "_enriched": false
+  },
+  "jeg_tror_ikke_det_phrase": {
+    "word": "jeg tror ikke det",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/phrasesbank.json:creo_que_no_phrase",
+    "_enriched": false
+  },
+  "jeg_vet_ikke_phrase": {
+    "word": "jeg vet ikke",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/phrasesbank.json:no_se_phrase",
+    "_enriched": false
+  },
+  "kan_du_gjenta_phrase": {
+    "word": "Kan du gjenta?",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:puede_repetir_phrase, es-nb/phrasesbank.json:puede_repetir_phrase",
+    "_enriched": false
+  },
+  "kanskje_adv": {
+    "word": "kanskje",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:vielleicht_adv, es-nb/generalbank.json:quiza_adv, es-nb/generalbank.json:tal_vez_adv",
+    "_enriched": false
+  },
+  "kanskje_expr": {
+    "word": "kanskje",
+    "type": "expr",
+    "_generatedFrom": "es-nb/generalbank.json:a_lo_mejor_expr",
+    "_enriched": false
+  },
+  "kantet_adv": {
+    "word": "kantet",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:eckig_general",
+    "_enriched": false
+  },
+  "kjempebra_adv": {
+    "word": "kjempebra",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:super_adv",
+    "_enriched": false
+  },
+  "kjent_adv": {
+    "word": "kjent",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:bekannt_general",
+    "_enriched": false
+  },
+  "kjær_adv": {
+    "word": "kjær",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:lieb_general",
+    "_enriched": false
+  },
+  "klar_adv": {
+    "word": "klar",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:bereit_general",
+    "_enriched": false
+  },
+  "klar_interj": {
+    "word": "klar",
+    "type": "interj",
+    "_generatedFrom": "de-nb/generalbank.json:klar_interj",
+    "_enriched": false
+  },
+  "klart_interj": {
+    "word": "Klart",
+    "type": "interj",
+    "_generatedFrom": "es-nb/generalbank.json:claro_interj",
+    "_enriched": false
+  },
+  "kle_seg_varmt_phrase": {
+    "word": "å kle seg varmt",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/generalbank.json:sich_warm_anziehen_phrase",
+    "_enriched": false
+  },
+  "klok_adv": {
+    "word": "klok",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:klug_general",
+    "_enriched": false
+  },
+  "klokka_er_ett_phrase": {
+    "word": "Klokka er ett",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:es_la_una_phrase",
+    "_enriched": false
+  },
+  "klokka_er_to_phrase": {
+    "word": "Klokka er to",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:son_las_dos_phrase",
+    "_enriched": false
+  },
+  "klokka_prep": {
+    "word": "klokka...",
+    "type": "prep",
+    "usageNotes": "foran klokkeslett",
+    "_generatedFrom": "de-nb/generalbank.json:um_prep",
+    "_enriched": false
+  },
+  "knapp_adv": {
+    "word": "knapp",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:knapp_general",
+    "_enriched": false
+  },
+  "knapt_adv": {
+    "word": "knapt",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:kaum_general",
+    "_enriched": false
+  },
+  "komme_godt_overens_phrase": {
+    "word": "Å komme godt overens",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:llevarse_bien_phrase",
+    "_enriched": false
+  },
+  "kommer_straks_adv": {
+    "word": "kommer straks",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:komme_gleich_general",
+    "_enriched": false
+  },
+  "komplett_adv": {
+    "word": "komplett",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:komplett_general",
+    "_enriched": false
+  },
+  "komplisert_adv": {
+    "word": "komplisert",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:kompliziert_general",
+    "_enriched": false
+  },
+  "kontant_adv": {
+    "word": "kontant",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:bar_general",
+    "_enriched": false
+  },
+  "korrekt_adv": {
+    "word": "korrekt",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:korrekt_general",
+    "_enriched": false
+  },
+  "kritisk_adv": {
+    "word": "kritisk",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:kritisch_general",
+    "_enriched": false
+  },
+  "kroppslig_adv": {
+    "word": "kroppslig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:koerperlich_general",
+    "_enriched": false
+  },
+  "kulturell_adv": {
+    "word": "kulturell",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:kulturell_general",
+    "_enriched": false
+  },
+  "kun_adv": {
+    "word": "kun",
+    "type": "adv",
+    "_generatedFrom": "es-nb/generalbank.json:solo_adv, es-nb/generalbank.json:solamente_adv",
+    "_enriched": false
+  },
+  "kunstig_adv": {
+    "word": "kunstig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:kuenstlich_general",
+    "_enriched": false
+  },
+  "kvart_over_phrase": {
+    "word": "kvart over",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/generalbank.json:viertel_nach_phrase, es-nb/generalbank.json:y_cuarto_phrase",
+    "_enriched": false
+  },
+  "kvart_på_phrase": {
+    "word": "kvart på",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/generalbank.json:viertel_vor_phrase, es-nb/generalbank.json:menos_cuarto_phrase",
+    "_enriched": false
+  },
+  "kvinnelig_adv": {
+    "word": "kvinnelig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:weiblich_general",
+    "_enriched": false
+  },
+  "langs_adv": {
+    "word": "langs",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:entlang_general",
+    "_enriched": false
+  },
+  "langsommere_vær_så_snill_phrase": {
+    "word": "Langsommere, vær så snill",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:mas_despacio_phrase",
+    "_enriched": false
+  },
+  "langt_fra_prep": {
+    "word": "langt fra",
+    "type": "prep",
+    "_generatedFrom": "es-nb/generalbank.json:lejos_de_prep",
+    "_enriched": false
+  },
+  "latinamerika_pron": {
+    "word": "Latin-Amerika)",
+    "type": "pron",
+    "_generatedFrom": "es-nb/pronounsbank.json:ustedes_pron",
+    "_enriched": false
+  },
+  "latinamerika_propn": {
+    "word": "Latin-Amerika",
+    "type": "propn",
+    "_generatedFrom": "es-nb/generalbank.json:america_latina_propn",
+    "_enriched": false
+  },
+  "lav_adv": {
+    "word": "lav",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:niedrig_general",
+    "_enriched": false
+  },
+  "lenge_adv": {
+    "word": "lenge",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:lange_adv",
+    "_enriched": false
+  },
+  "lett_adv": {
+    "word": "lett",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:leicht_general",
+    "_enriched": false
+  },
+  "lignende_adv": {
+    "word": "lignende",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:aehnlich_general",
+    "_enriched": false
+  },
+  "like__som_phrase": {
+    "word": "like ... som",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/generalbank.json:so_wie_phrase",
+    "_enriched": false
+  },
+  "like_mye_adv": {
+    "word": "like mye",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:ebenso_general",
+    "_enriched": false
+  },
+  "likegyldig_adv": {
+    "word": "likegyldig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:egal_adv",
+    "_enriched": false
+  },
+  "likeledes_adv": {
+    "word": "likeledes",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:ebenfalls_general",
+    "_enriched": false
+  },
+  "likestilt_adv": {
+    "word": "likestilt",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:gleichberechtigt_general",
+    "_enriched": false
+  },
+  "likevel_adv": {
+    "word": "likevel",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:doch_general, de-nb/generalbank.json:jedoch_general, de-nb/generalbank.json:trotzdem_general",
+    "_enriched": false
+  },
+  "likevel_phrase": {
+    "word": "Likevel",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:sin_embargo_phrase",
+    "_enriched": false
+  },
+  "lite_adv": {
+    "word": "lite",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:wenig_adv, es-nb/generalbank.json:poco_adv",
+    "_enriched": false
+  },
+  "liten_adv": {
+    "word": "liten",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:gering_general",
+    "_enriched": false
+  },
+  "litt_phrase": {
+    "word": "litt",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/generalbank.json:ein_bisschen_phrase",
+    "_enriched": false
+  },
+  "loddrett_adv": {
+    "word": "loddrett",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:senkrecht_general",
+    "_enriched": false
+  },
+  "lykke_til_phrase": {
+    "word": "Lykke til!",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:buena_suerte_phrase, es-nb/phrasesbank.json:buena_suerte_phrase",
+    "_enriched": false
+  },
+  "lys_adv": {
+    "word": "lys",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:hell_general",
+    "_enriched": false
+  },
+  "løven_phrase": {
+    "word": "løven",
+    "type": "phrase",
+    "usageNotes": "objekt",
+    "_generatedFrom": "de-nb/generalbank.json:den_loewen_phrase",
+    "_enriched": false
+  },
+  "madrid_propn": {
+    "word": "Madrid",
+    "type": "propn",
+    "_generatedFrom": "es-nb/generalbank.json:madrid_propn",
+    "_enriched": false
+  },
+  "mager_adv": {
+    "word": "mager",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:mager_general",
+    "_enriched": false
+  },
+  "maksimal_adv": {
+    "word": "maksimal",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:maximal_general",
+    "_enriched": false
+  },
+  "man_pron": {
+    "word": "man",
+    "type": "pron",
+    "_generatedFrom": "de-nb/pronounsbank.json:man_pron",
+    "_enriched": false
+  },
+  "mange_pron": {
+    "word": "mange?",
+    "type": "pron",
+    "_generatedFrom": "es-nb/pronounsbank.json:cuanto_interr_pron",
+    "_enriched": false
+  },
+  "mangt_adv": {
+    "word": "mangt",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:manch_general",
+    "_enriched": false
+  },
+  "mannlig_adv": {
+    "word": "mannlig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:maennlich_general",
+    "_enriched": false
+  },
+  "med_bil_expr": {
+    "word": "med bil",
+    "type": "expr",
+    "_generatedFrom": "es-nb/generalbank.json:en_coche_expr",
+    "_enriched": false
+  },
+  "med_bilen_phrase": {
+    "word": "med bilen",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/generalbank.json:mit_dem_auto_phrase",
+    "_enriched": false
+  },
+  "med_buss_expr": {
+    "word": "med buss",
+    "type": "expr",
+    "_generatedFrom": "es-nb/generalbank.json:en_autobus_expr",
+    "_enriched": false
+  },
+  "med_det_adv": {
+    "word": "med det",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:dabei_adv",
+    "_enriched": false
+  },
+  "med_en_gang_adv": {
+    "word": "med en gang",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:gleich_adv, de-nb/generalbank.json:sofort_adv, es-nb/generalbank.json:enseguida_adv",
+    "_enriched": false
+  },
+  "med_fly_expr": {
+    "word": "med fly",
+    "type": "expr",
+    "_generatedFrom": "es-nb/generalbank.json:en_avion_expr",
+    "_enriched": false
+  },
+  "med_hverandre_adv": {
+    "word": "med hverandre",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:miteinander_general",
+    "_enriched": false
+  },
+  "med_mine_venner_phrase": {
+    "word": "med mine venner",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/generalbank.json:mit_meinen_freunden_phrase",
+    "_enriched": false
+  },
+  "med_moren_min_phrase": {
+    "word": "med moren min",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/generalbank.json:mit_meiner_mutter_phrase",
+    "_enriched": false
+  },
+  "med_prep": {
+    "word": "med",
+    "type": "prep",
+    "_generatedFrom": "de-nb/generalbank.json:mit_prep, es-nb/generalbank.json:con_prep",
+    "_enriched": false
+  },
+  "med_stor_glede_expr": {
+    "word": "med stor glede",
+    "type": "expr",
+    "_generatedFrom": "es-nb/generalbank.json:con_mucho_gusto_expr",
+    "_enriched": false
+  },
+  "med_sveits_phrase": {
+    "word": "med Sveits",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/generalbank.json:mit_der_schweiz_phrase",
+    "_enriched": false
+  },
+  "med_tog_expr": {
+    "word": "med tog",
+    "type": "expr",
+    "_generatedFrom": "es-nb/generalbank.json:en_tren_expr",
+    "_enriched": false
+  },
+  "med_vennlig_hilsen_adv": {
+    "word": "med vennlig hilsen",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:mit_freundlichen_gruessen_general",
+    "_enriched": false
+  },
+  "meg_pron": {
+    "word": "meg",
+    "type": "pron",
+    "_generatedFrom": "de-nb/pronounsbank.json:mich_pron, de-nb/pronounsbank.json:mir_pron, es-nb/pronounsbank.json:me_dirobj_pron, es-nb/pronounsbank.json:me_indobj_pron, es-nb/pronounsbank.json:me_reflex_pron",
+    "_enriched": false
+  },
+  "meg_selv_pron": {
+    "word": "meg selv",
+    "type": "pron",
+    "_generatedFrom": "de-nb/pronounsbank.json:mich_pron",
+    "_enriched": false
+  },
+  "mellom_prep": {
+    "word": "mellom",
+    "type": "prep",
+    "_generatedFrom": "de-nb/generalbank.json:zwischen_prep, es-nb/generalbank.json:entre_prep",
+    "_enriched": false
+  },
+  "men_conj": {
+    "word": "men",
+    "type": "conj",
+    "_generatedFrom": "de-nb/generalbank.json:aber_conj, es-nb/generalbank.json:pero_conj, es-nb/generalbank.json:sino_conj",
+    "_enriched": false
+  },
+  "meningsfull_adv": {
+    "word": "meningsfull",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:sinnvoll_general",
+    "_enriched": false
+  },
+  "meningsløs_adv": {
+    "word": "meningsløs",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:sinnlos_general",
+    "_enriched": false
+  },
+  "menneskelig_adv": {
+    "word": "menneskelig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:menschlich_general",
+    "_enriched": false
+  },
+  "mens_adv": {
+    "word": "mens",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:waehrend_general",
+    "_enriched": false
+  },
+  "mens_conj": {
+    "word": "mens",
+    "type": "conj",
+    "_generatedFrom": "es-nb/generalbank.json:mientras_conj",
+    "_enriched": false
+  },
+  "mer_adv": {
+    "word": "mer",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:mehr_adv, es-nb/generalbank.json:mas_adv",
+    "_enriched": false
+  },
+  "merkelig_adv": {
+    "word": "merkelig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:seltsam_general",
+    "_enriched": false
+  },
+  "merkverdig_adv": {
+    "word": "merkverdig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:merkwuerdig_general",
+    "_enriched": false
+  },
+  "mest_adv": {
+    "word": "mest",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:meist_general",
+    "_enriched": false
+  },
+  "mest_phrase": {
+    "word": "mest",
+    "type": "phrase",
+    "usageNotes": "superlativ av viel",
+    "_generatedFrom": "de-nb/phrasesbank.json:am_meisten_phrase",
+    "_enriched": false
+  },
+  "mett_adv": {
+    "word": "mett",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:satt_general",
+    "_enriched": false
+  },
+  "mexico_propn": {
+    "word": "Mexico",
+    "type": "propn",
+    "_generatedFrom": "es-nb/generalbank.json:mexico_propn",
+    "_enriched": false
+  },
+  "mi_hunkjønn_pron": {
+    "word": "mi (hunkjønn",
+    "type": "pron",
+    "_generatedFrom": "de-nb/pronounsbank.json:meine_possessiv",
+    "_enriched": false
+  },
+  "midterst_adv": {
+    "word": "midterst",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:mittler_general",
+    "_enriched": false
+  },
+  "mild_adv": {
+    "word": "mild",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:mild_general",
+    "_enriched": false
+  },
+  "min_hankjønn_pron": {
+    "word": "min (hankjønn",
+    "type": "pron",
+    "_generatedFrom": "de-nb/pronounsbank.json:mein_possessiv",
+    "_enriched": false
+  },
+  "min_pron": {
+    "word": "min",
+    "type": "pron",
+    "_generatedFrom": "de-nb/pronounsbank.json:meine_possessiv, es-nb/pronounsbank.json:mi_possess_pron",
+    "_enriched": false
+  },
+  "mindre_adv": {
+    "word": "mindre",
+    "type": "adv",
+    "_generatedFrom": "es-nb/generalbank.json:menos_adv",
+    "_enriched": false
+  },
+  "mine_pron": {
+    "word": "mine",
+    "type": "pron",
+    "_generatedFrom": "es-nb/pronounsbank.json:mi_possess_pron",
+    "_enriched": false
+  },
+  "minimal_adv": {
+    "word": "minimal",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:minimal_general",
+    "_enriched": false
+  },
+  "minst_adv": {
+    "word": "minst",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:mindestens_general",
+    "_enriched": false
+  },
+  "mis_adv": {
+    "word": "mis-",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:miss_general",
+    "_enriched": false
+  },
+  "moden_adv": {
+    "word": "moden",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:reif_general",
+    "_enriched": false
+  },
+  "modig_adv": {
+    "word": "modig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:mutig_general",
+    "_enriched": false
+  },
+  "morsom_adv": {
+    "word": "morsom",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:komisch_general, de-nb/generalbank.json:witzig_general",
+    "_enriched": false
+  },
+  "mot_prep": {
+    "word": "mot",
+    "type": "prep",
+    "_generatedFrom": "de-nb/generalbank.json:gegen_prep, es-nb/generalbank.json:hacia_prep, es-nb/generalbank.json:contra_prep",
+    "_enriched": false
+  },
+  "mulig_adv": {
+    "word": "mulig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:moeglich_general",
+    "_enriched": false
+  },
+  "muntlig_adv": {
+    "word": "muntlig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:muendlich_general",
+    "_enriched": false
+  },
+  "mye_adv": {
+    "word": "mye",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:sehr_adv, de-nb/generalbank.json:viel_adv, es-nb/generalbank.json:mucho_adv",
+    "_enriched": false
+  },
+  "mye_mange_adv": {
+    "word": "mye, mange",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:viel_e_general",
+    "_enriched": false
+  },
+  "måtte_adv": {
+    "word": "måtte",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:musste_general",
+    "_enriched": false
+  },
+  "mørk_adv": {
+    "word": "mørk",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:dunkel_general",
+    "_enriched": false
+  },
+  "natt_phrase": {
+    "word": "natt",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/phrasesbank.json:buenas_noches_phrase",
+    "_enriched": false
+  },
+  "ned_adv": {
+    "word": "ned",
+    "type": "adv",
+    "_generatedFrom": "es-nb/generalbank.json:abajo_adv",
+    "_enriched": false
+  },
+  "nede_adv": {
+    "word": "nede",
+    "type": "adv",
+    "_generatedFrom": "es-nb/generalbank.json:abajo_adv",
+    "_enriched": false
+  },
+  "nedover_adv": {
+    "word": "nedover",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:abwaerts_general",
+    "_enriched": false
+  },
+  "negativ_adv": {
+    "word": "negativ",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:negativ_general",
+    "_enriched": false
+  },
+  "nei_interj": {
+    "word": "nei",
+    "type": "interj",
+    "usageNotes": "uformelt",
+    "_generatedFrom": "de-nb/generalbank.json:nee_interj, de-nb/generalbank.json:nein_interj, es-nb/generalbank.json:no_interj",
+    "_enriched": false
+  },
+  "nemlig_adv": {
+    "word": "nemlig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:naemlich_general",
+    "_enriched": false
+  },
+  "neste_adv": {
+    "word": "neste",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:naechst_general",
+    "_enriched": false
+  },
+  "neste_uke_expr": {
+    "word": "neste uke",
+    "type": "expr",
+    "_generatedFrom": "es-nb/generalbank.json:la_semana_que_viene_expr",
+    "_enriched": false
+  },
+  "neste_år_expr": {
+    "word": "neste år",
+    "type": "expr",
+    "_generatedFrom": "es-nb/generalbank.json:el_proximo_ano_expr",
+    "_enriched": false
+  },
+  "nesten_adv": {
+    "word": "nesten",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:beinahe_general, de-nb/generalbank.json:fast_general, es-nb/generalbank.json:casi_adv",
+    "_enriched": false
+  },
+  "ni_num": {
+    "word": "ni",
+    "type": "num",
+    "_generatedFrom": "de-nb/numbersbank.json:neun_num, es-nb/numbersbank.json:nueve_num",
+    "_enriched": false
+  },
+  "nitten_num": {
+    "word": "nitten",
+    "type": "num",
+    "_generatedFrom": "de-nb/numbersbank.json:neunzehn_num",
+    "_enriched": false
+  },
+  "nitti_num": {
+    "word": "nitti",
+    "type": "num",
+    "_generatedFrom": "de-nb/numbersbank.json:neunzig_num",
+    "_enriched": false
+  },
+  "noe_adv": {
+    "word": "noe",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:etwas_general",
+    "_enriched": false
+  },
+  "noen_adv": {
+    "word": "noen",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:jemand_general, es-nb/articlesbank.json:unos_articulo, es-nb/articlesbank.json:unas_articulo",
+    "_enriched": false
+  },
+  "noen_få_adv": {
+    "word": "noen få",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:ein_paar_general",
+    "_enriched": false
+  },
+  "noen_ganger_adv": {
+    "word": "noen ganger",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:manchmal_adv, es-nb/generalbank.json:a_veces_adv",
+    "_enriched": false
+  },
+  "noensinne_adv": {
+    "word": "noensinne",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:je_general, de-nb/generalbank.json:jemals_general",
+    "_enriched": false
+  },
+  "nok_adv": {
+    "word": "nok",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:genug_general, es-nb/generalbank.json:bastante_adv",
+    "_enriched": false
+  },
+  "norge_propn": {
+    "word": "Norge",
+    "type": "propn",
+    "_generatedFrom": "es-nb/generalbank.json:noruega_propn",
+    "_enriched": false
+  },
+  "normal_adv": {
+    "word": "normal",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:normal_general",
+    "_enriched": false
+  },
+  "normalt_adv": {
+    "word": "normalt",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:normalerweise_adv",
+    "_enriched": false
+  },
+  "norsk_propn": {
+    "word": "norsk",
+    "type": "propn",
+    "_generatedFrom": "de-nb/generalbank.json:norwegisch_propn",
+    "_enriched": false
+  },
+  "null_num": {
+    "word": "null",
+    "type": "num",
+    "_generatedFrom": "es-nb/numbersbank.json:cero_num",
+    "_enriched": false
+  },
+  "nylig_adv": {
+    "word": "nylig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:kuerzlich_general, de-nb/generalbank.json:neulich_general, de-nb/generalbank.json:vorhin_general",
+    "_enriched": false
+  },
+  "nysgjerrig_adv": {
+    "word": "nysgjerrig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:neugierig_general",
+    "_enriched": false
+  },
+  "nyttig_adv": {
+    "word": "nyttig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:nuetzlich_general",
+    "_enriched": false
+  },
+  "nå_adv": {
+    "word": "nå",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:jetzt_adv, de-nb/generalbank.json:nun_general, es-nb/generalbank.json:ahora_adv",
+    "_enriched": false
+  },
+  "nå_av_adv": {
+    "word": "nå av",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:jetzt_ab_general",
+    "_enriched": false
+  },
+  "nå_setter_vi_i_gang_phrase": {
+    "word": "nå setter vi i gang",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/generalbank.json:los_geht_s_phrase",
+    "_enriched": false
+  },
+  "når_conj": {
+    "word": "når",
+    "type": "conj",
+    "_generatedFrom": "es-nb/generalbank.json:cuando_conj",
+    "_enriched": false
+  },
+  "når_hvis_adv": {
+    "word": "når, hvis",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:wenn_general",
+    "_enriched": false
+  },
+  "når_interr": {
+    "word": "Når",
+    "type": "interr",
+    "_generatedFrom": "de-nb/generalbank.json:wann_interr, es-nb/generalbank.json:cuando_interr",
+    "_enriched": false
+  },
+  "når_pron": {
+    "word": "når?",
+    "type": "pron",
+    "_generatedFrom": "es-nb/pronounsbank.json:cuando_interr_pron",
+    "_enriched": false
+  },
+  "nåværende_adv": {
+    "word": "nåværende",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:heutig_general",
+    "_enriched": false
+  },
+  "nær_prep": {
+    "word": "nær",
+    "type": "prep",
+    "_generatedFrom": "es-nb/generalbank.json:cerca_de_prep",
+    "_enriched": false
+  },
+  "nødvendig_adv": {
+    "word": "nødvendig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:erforderlich_general, de-nb/generalbank.json:noetig_general, de-nb/generalbank.json:notwendig_general",
+    "_enriched": false
+  },
+  "nødvendigvis_adv": {
+    "word": "nødvendigvis",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:unbedingt_adv",
+    "_enriched": false
+  },
+  "nøyaktig_adv": {
+    "word": "nøyaktig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:genau_adv, es-nb/generalbank.json:exactamente_adv",
+    "_enriched": false
+  },
+  "offentlig_adv": {
+    "word": "offentlig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:oeffentlich_general",
+    "_enriched": false
+  },
+  "offisiell_adv": {
+    "word": "offisiell",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:offiziell_general",
+    "_enriched": false
+  },
+  "ofte_adv": {
+    "word": "ofte",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:haeufig_general, de-nb/generalbank.json:oft_adv, es-nb/generalbank.json:a_menudo_adv",
+    "_enriched": false
+  },
+  "oftest_phrase": {
+    "word": "oftest",
+    "type": "phrase",
+    "usageNotes": "superlativ av oft",
+    "_generatedFrom": "de-nb/phrasesbank.json:am_haufigsten_phrase",
+    "_enriched": false
+  },
+  "og_conj": {
+    "word": "og",
+    "type": "conj",
+    "_generatedFrom": "de-nb/generalbank.json:und_conj, es-nb/generalbank.json:y_conj",
+    "_enriched": false
+  },
+  "og_du_phrase": {
+    "word": "og du?",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/phrasesbank.json:y_tu_phrase",
+    "_enriched": false
+  },
+  "og_stuttgart_adv": {
+    "word": "og Stuttgart",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:und_stuttgart_general",
+    "_enriched": false
+  },
+  "og_ungdommer_adv": {
+    "word": "og ungdommer",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:und_jugendliche_general",
+    "_enriched": false
+  },
+  "også_adv": {
+    "word": "også",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:auch_adv, es-nb/generalbank.json:tambien_adv",
+    "_enriched": false
+  },
+  "ok_greit_phrase": {
+    "word": "ok, greit",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/phrasesbank.json:vale_phrase",
+    "_enriched": false
+  },
+  "ok_interj": {
+    "word": "OK",
+    "type": "interj",
+    "_generatedFrom": "es-nb/generalbank.json:vale_interj",
+    "_enriched": false
+  },
+  "om_adv": {
+    "word": "om",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:ob_general",
+    "_enriched": false
+  },
+  "om_conj": {
+    "word": "om",
+    "type": "conj",
+    "_generatedFrom": "es-nb/generalbank.json:si_conj",
+    "_enriched": false
+  },
+  "om_dagen_adv": {
+    "word": "om dagen",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:tagsueber_adv",
+    "_enriched": false
+  },
+  "om_ettermiddagen_expr": {
+    "word": "om ettermiddagen",
+    "type": "expr",
+    "_generatedFrom": "es-nb/generalbank.json:por_la_tarde_expr",
+    "_enriched": false
+  },
+  "om_ettermiddagen_phrase": {
+    "word": "om ettermiddagen",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/generalbank.json:am_nachmittag_phrase",
+    "_enriched": false
+  },
+  "om_hva_adv": {
+    "word": "om hva",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:worueber_general, de-nb/generalbank.json:worum_general",
+    "_enriched": false
+  },
+  "om_kvelden_expr": {
+    "word": "om kvelden",
+    "type": "expr",
+    "_generatedFrom": "es-nb/generalbank.json:por_la_noche_expr",
+    "_enriched": false
+  },
+  "om_kvelden_phrase": {
+    "word": "om kvelden",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/generalbank.json:am_abend_phrase",
+    "_enriched": false
+  },
+  "om_morgenen_expr": {
+    "word": "om morgenen",
+    "type": "expr",
+    "_generatedFrom": "es-nb/generalbank.json:por_la_manana_expr",
+    "_enriched": false
+  },
+  "om_prep": {
+    "word": "om",
+    "type": "prep",
+    "_generatedFrom": "es-nb/generalbank.json:sobre_prep, es-nb/generalbank.json:dentro_de_prep",
+    "_enriched": false
+  },
+  "omtrent_adv": {
+    "word": "omtrent",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:etwa_general, de-nb/generalbank.json:ungefaehr_general, es-nb/generalbank.json:aproximadamente_adv",
+    "_enriched": false
+  },
+  "opp_adv": {
+    "word": "opp",
+    "type": "adv",
+    "_generatedFrom": "es-nb/generalbank.json:arriba_adv",
+    "_enriched": false
+  },
+  "oppe_adv": {
+    "word": "oppe",
+    "type": "adv",
+    "_generatedFrom": "es-nb/generalbank.json:arriba_adv",
+    "_enriched": false
+  },
+  "oppmerksom_adv": {
+    "word": "oppmerksom",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:aufmerksam_general",
+    "_enriched": false
+  },
+  "oppmerksomhet_adv": {
+    "word": "oppmerksomhet",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:achtung_general",
+    "_enriched": false
+  },
+  "oppover_adv": {
+    "word": "oppover",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:aufwaerts_general",
+    "_enriched": false
+  },
+  "opprinnelig_adv": {
+    "word": "opprinnelig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:urspruenglich_general",
+    "_enriched": false
+  },
+  "oppsagt_adv": {
+    "word": "oppsagt",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:gekuendigt_general",
+    "_enriched": false
+  },
+  "opptatt_adv": {
+    "word": "opptatt",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:besetzt_general",
+    "_enriched": false
+  },
+  "oppå_prep": {
+    "word": "oppå",
+    "type": "prep",
+    "_generatedFrom": "es-nb/generalbank.json:encima_de_prep",
+    "_enriched": false
+  },
+  "optimistisk_adv": {
+    "word": "optimistisk",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:optimistisch_general",
+    "_enriched": false
+  },
+  "ordentlig_adv": {
+    "word": "ordentlig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:ordentlich_general",
+    "_enriched": false
+  },
+  "oss_pron": {
+    "word": "oss",
+    "type": "pron",
+    "_generatedFrom": "de-nb/pronounsbank.json:uns_pron, es-nb/pronounsbank.json:nos_dirobj_pron, es-nb/pronounsbank.json:nos_indobj_pron, es-nb/pronounsbank.json:nos_reflex_pron",
+    "_enriched": false
+  },
+  "oss_selv_pron": {
+    "word": "oss selv",
+    "type": "pron",
+    "_generatedFrom": "de-nb/pronounsbank.json:uns_pron",
+    "_enriched": false
+  },
+  "over_prep": {
+    "word": "over",
+    "type": "prep",
+    "_generatedFrom": "de-nb/generalbank.json:ueber_prep, es-nb/generalbank.json:sobre_prep",
+    "_enriched": false
+  },
+  "overalt_adv": {
+    "word": "overalt",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:ueberall_adv",
+    "_enriched": false
+  },
+  "overfor_adv": {
+    "word": "overfor",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:gegenueber_general",
+    "_enriched": false
+  },
+  "overfor_prep": {
+    "word": "overfor",
+    "type": "prep",
+    "_generatedFrom": "es-nb/generalbank.json:ante_prep, es-nb/generalbank.json:enfrente_de_prep",
+    "_enriched": false
+  },
+  "parallell_adv": {
+    "word": "parallell",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:parallel_general",
+    "_enriched": false
+  },
+  "passer_det_phrase": {
+    "word": "passer det?",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/generalbank.json:passt_es_phrase",
+    "_enriched": false
+  },
+  "passiv_adv": {
+    "word": "passiv",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:passiv_general",
+    "_enriched": false
+  },
+  "pauschal_adv": {
+    "word": "pauschal",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:pauschal_general",
+    "_enriched": false
+  },
+  "pen_adv": {
+    "word": "pen",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:huebsch_general",
+    "_enriched": false
+  },
+  "per_adv": {
+    "word": "per",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:per_general, de-nb/generalbank.json:pro_general",
+    "_enriched": false
+  },
+  "peru_propn": {
+    "word": "Peru",
+    "type": "propn",
+    "_generatedFrom": "es-nb/generalbank.json:peru_propn",
+    "_enriched": false
+  },
+  "pinlig_adv": {
+    "word": "pinlig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:peinlich_general",
+    "_enriched": false
+  },
+  "plutselig_adv": {
+    "word": "plutselig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:ploetzlich_general",
+    "_enriched": false
+  },
+  "plutselig_expr": {
+    "word": "plutselig",
+    "type": "expr",
+    "_generatedFrom": "es-nb/generalbank.json:de_repente_expr",
+    "_enriched": false
+  },
+  "populær_adv": {
+    "word": "populær",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:beliebt_general",
+    "_enriched": false
+  },
+  "positiv_adv": {
+    "word": "positiv",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:positiv_general",
+    "_enriched": false
+  },
+  "praktisk_adv": {
+    "word": "praktisk",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:praktisch_general",
+    "_enriched": false
+  },
+  "presserende_adv": {
+    "word": "presserende",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:dringend_general",
+    "_enriched": false
+  },
+  "privat_adv": {
+    "word": "privat",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:privat_general",
+    "_enriched": false
+  },
+  "privat_mobilnummer_adv": {
+    "word": "privat mobilnummer",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:private_handynummer_general",
+    "_enriched": false
+  },
+  "prosit_interj": {
+    "word": "Prosit!",
+    "type": "interj",
+    "_generatedFrom": "es-nb/generalbank.json:salud_interj",
+    "_enriched": false
+  },
+  "prosit_phrase": {
+    "word": "prosit!",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/phrasesbank.json:salud_phrase",
+    "_enriched": false
+  },
+  "punktlig_adv": {
+    "word": "punktlig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:puenktlich_general",
+    "_enriched": false
+  },
+  "på_alvor_expr": {
+    "word": "på alvor",
+    "type": "expr",
+    "_generatedFrom": "es-nb/generalbank.json:en_serio_expr",
+    "_enriched": false
+  },
+  "på_contr": {
+    "word": "på",
+    "type": "contr",
+    "_generatedFrom": "de-nb/articlesbank.json:am_contr",
+    "_enriched": false
+  },
+  "på_dagtid_adv": {
+    "word": "på dagtid",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:tagsueber_adv",
+    "_enriched": false
+  },
+  "på_den_andre_siden_phrase": {
+    "word": "På den andre siden",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:por_otro_lado_phrase",
+    "_enriched": false
+  },
+  "på_den_ene_siden_adv": {
+    "word": "på den ene siden",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:einerseits_general",
+    "_enriched": false
+  },
+  "på_den_ene_siden_phrase": {
+    "word": "På den ene siden",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:por_un_lado_phrase",
+    "_enriched": false
+  },
+  "på_det_adv": {
+    "word": "på det",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:darauf_adv",
+    "_enriched": false
+  },
+  "på_forhånd_adv": {
+    "word": "på forhånd",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:vorher_general",
+    "_enriched": false
+  },
+  "på_forhånd_phrase": {
+    "word": "på forhånd",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/generalbank.json:im_voraus_phrase",
+    "_enriched": false
+  },
+  "på_fredag_phrase": {
+    "word": "på fredag",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/generalbank.json:am_freitag_phrase",
+    "_enriched": false
+  },
+  "på_grunn_av_prep": {
+    "word": "på grunn av",
+    "type": "prep",
+    "_generatedFrom": "es-nb/generalbank.json:por_prep",
+    "_enriched": false
+  },
+  "på_kaf_phrase": {
+    "word": "på kafé",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/generalbank.json:ins_cafe_phrase",
+    "_enriched": false
+  },
+  "på_lørdag_phrase": {
+    "word": "på lørdag",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/generalbank.json:am_samstag_phrase",
+    "_enriched": false
+  },
+  "på_mandag_phrase": {
+    "word": "på mandag",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/generalbank.json:am_montag_phrase",
+    "_enriched": false
+  },
+  "på_nett_adv": {
+    "word": "på nett",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:online_general",
+    "_enriched": false
+  },
+  "på_prep": {
+    "word": "på",
+    "type": "prep",
+    "usageNotes": "vertikal",
+    "_generatedFrom": "de-nb/generalbank.json:an_prep, de-nb/generalbank.json:auf_prep, de-nb/generalbank.json:in_prep, es-nb/generalbank.json:a_prep, es-nb/generalbank.json:en_prep, es-nb/generalbank.json:sobre_prep",
+    "_enriched": false
+  },
+  "på_skolen_phrase": {
+    "word": "på skolen",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/generalbank.json:in_der_schule_phrase",
+    "_enriched": false
+  },
+  "på_søndag_phrase": {
+    "word": "på søndag",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/generalbank.json:am_sonntag_phrase",
+    "_enriched": false
+  },
+  "på_tvers_adv": {
+    "word": "på tvers",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:quer_general",
+    "_enriched": false
+  },
+  "på_veien_adv": {
+    "word": "på veien",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:unterwegs_general",
+    "_enriched": false
+  },
+  "pålitelig_adv": {
+    "word": "pålitelig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:zuverlaessig_general",
+    "_enriched": false
+  },
+  "rart_ut_adv": {
+    "word": "rart ut",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:komisch_aus_general",
+    "_enriched": false
+  },
+  "rasende_adv": {
+    "word": "rasende",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:wuetend_general",
+    "_enriched": false
+  },
+  "raskt_adv": {
+    "word": "raskt",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:schnell_adv, es-nb/generalbank.json:rapido_adv",
+    "_enriched": false
+  },
+  "realistisk_adv": {
+    "word": "realistisk",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:realistisch_general",
+    "_enriched": false
+  },
+  "regelmessig_adv": {
+    "word": "regelmessig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:regelmaessig_general",
+    "_enriched": false
+  },
+  "regional_adv": {
+    "word": "regional",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:regional_general",
+    "_enriched": false
+  },
+  "relativ_adv": {
+    "word": "relativ",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:relativ_general",
+    "_enriched": false
+  },
+  "rett_adv": {
+    "word": "rett",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:recht_general",
+    "_enriched": false
+  },
+  "rett_frem_adv": {
+    "word": "rett frem",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:geradeaus_general",
+    "_enriched": false
+  },
+  "rett_og_slett_adv": {
+    "word": "rett og slett",
+    "type": "adv",
+    "_generatedFrom": "es-nb/generalbank.json:simplemente_adv",
+    "_enriched": false
+  },
+  "rettferdig_adv": {
+    "word": "rettferdig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:fair_general",
+    "_enriched": false
+  },
+  "rettslig_adv": {
+    "word": "rettslig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:rechtlich_general",
+    "_enriched": false
+  },
+  "rik_adv": {
+    "word": "rik",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:reich_general",
+    "_enriched": false
+  },
+  "riktignok_adv": {
+    "word": "riktignok",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:allerdings_general, de-nb/generalbank.json:zwar_general",
+    "_enriched": false
+  },
+  "rimelig_adv": {
+    "word": "rimelig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:preiswert_general",
+    "_enriched": false
+  },
+  "romantisk_adv": {
+    "word": "romantisk",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:romantisch_general",
+    "_enriched": false
+  },
+  "rund_adv": {
+    "word": "rund",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:rund_general",
+    "_enriched": false
+  },
+  "rundt_prep": {
+    "word": "rundt",
+    "type": "prep",
+    "_generatedFrom": "es-nb/generalbank.json:alrededor_de_prep",
+    "_enriched": false
+  },
+  "rå_adv": {
+    "word": "rå",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:roh_general",
+    "_enriched": false
+  },
+  "sakte_adv": {
+    "word": "sakte",
+    "type": "adv",
+    "_generatedFrom": "es-nb/generalbank.json:despacio_adv",
+    "_enriched": false
+  },
+  "saktere_takk_phrase": {
+    "word": "saktere, takk",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/phrasesbank.json:mas_despacio_phrase",
+    "_enriched": false
+  },
+  "salt_adv": {
+    "word": "salt",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:salzig_general",
+    "_enriched": false
+  },
+  "samme_det_adv": {
+    "word": "samme det",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:egal_adv",
+    "_enriched": false
+  },
+  "sammen_adv": {
+    "word": "sammen",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:zusammen_adv, es-nb/generalbank.json:juntos_adv",
+    "_enriched": false
+  },
+  "samtidig_adv": {
+    "word": "samtidig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:gleichzeitig_general",
+    "_enriched": false
+  },
+  "samtlige_adv": {
+    "word": "samtlige",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:saemtliche_general",
+    "_enriched": false
+  },
+  "sann_adv": {
+    "word": "sann",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:wahr_general",
+    "_enriched": false
+  },
+  "sannsynlig_adv": {
+    "word": "sannsynlig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:wahrscheinlich_general",
+    "_enriched": false
+  },
+  "sannsynligvis_adv": {
+    "word": "sannsynligvis",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:vermutlich_general, de-nb/generalbank.json:voraussichtlich_general",
+    "_enriched": false
+  },
+  "savne_phrase": {
+    "word": "Å savne",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:echar_de_menos_phrase",
+    "_enriched": false
+  },
+  "seg_pron": {
+    "word": "seg",
+    "type": "pron",
+    "_generatedFrom": "de-nb/pronounsbank.json:sich_pron, es-nb/pronounsbank.json:se_reflex_pron",
+    "_enriched": false
+  },
+  "seg_selv_pron": {
+    "word": "seg selv",
+    "type": "pron",
+    "_generatedFrom": "de-nb/pronounsbank.json:sich_pron",
+    "_enriched": false
+  },
+  "seks_num": {
+    "word": "seks",
+    "type": "num",
+    "_generatedFrom": "de-nb/numbersbank.json:sechs_num, es-nb/numbersbank.json:seis_num",
+    "_enriched": false
+  },
+  "seksten_num": {
+    "word": "seksten",
+    "type": "num",
+    "_generatedFrom": "de-nb/numbersbank.json:sechszehn_num, es-nb/numbersbank.json:dieciseis_num",
+    "_enriched": false
+  },
+  "seksti_num": {
+    "word": "seksti",
+    "type": "num",
+    "_generatedFrom": "de-nb/numbersbank.json:sechzig_num",
+    "_enriched": false
+  },
+  "selv_adv": {
+    "word": "selv",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:selb_general, de-nb/generalbank.json:selber_general, de-nb/generalbank.json:selbst_general, es-nb/generalbank.json:aun_adv",
+    "_enriched": false
+  },
+  "selv_om_adv": {
+    "word": "selv om",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:obwohl_general",
+    "_enriched": false
+  },
+  "selv_om_conj": {
+    "word": "selv om",
+    "type": "conj",
+    "_generatedFrom": "es-nb/generalbank.json:aunque_conj",
+    "_enriched": false
+  },
+  "selvfølgelig_adv": {
+    "word": "selvfølgelig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:natuerlich_adv, de-nb/generalbank.json:selbstverstaendlich_general",
+    "_enriched": false
+  },
+  "selvfølgelig_expr": {
+    "word": "selvfølgelig",
+    "type": "expr",
+    "_generatedFrom": "es-nb/generalbank.json:por_supuesto_expr",
+    "_enriched": false
+  },
+  "selvfølgelig_interj": {
+    "word": "selvfølgelig",
+    "type": "interj",
+    "_generatedFrom": "de-nb/generalbank.json:klar_interj, es-nb/generalbank.json:claro_interj",
+    "_enriched": false
+  },
+  "selvfølgelig_klart_phrase": {
+    "word": "selvfølgelig, klart",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/phrasesbank.json:claro_phrase",
+    "_enriched": false
+  },
+  "selvfølgelig_phrase": {
+    "word": "selvfølgelig",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/phrasesbank.json:por_supuesto_phrase",
+    "_enriched": false
+  },
+  "selvstendig_adv": {
+    "word": "selvstendig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:selbststaendig_general",
+    "_enriched": false
+  },
+  "senere_adv": {
+    "word": "senere",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:spaeter_adv",
+    "_enriched": false
+  },
+  "senest_adv": {
+    "word": "senest",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:spaetestens_general",
+    "_enriched": false
+  },
+  "sent_adv": {
+    "word": "sent",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:spaet_adv, es-nb/generalbank.json:tarde_adv",
+    "_enriched": false
+  },
+  "sentral_adv": {
+    "word": "sentral",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:zentral_general",
+    "_enriched": false
+  },
+  "setter_har_satt_adv": {
+    "word": "setter, har satt",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:setzt_hat_gesetzt_general",
+    "_enriched": false
+  },
+  "siden_adv": {
+    "word": "siden",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:seitdem_general, es-nb/generalbank.json:despues_adv",
+    "_enriched": false
+  },
+  "siden_conj": {
+    "word": "siden",
+    "type": "conj",
+    "_generatedFrom": "es-nb/generalbank.json:como_conj",
+    "_enriched": false
+  },
+  "siden_phrase": {
+    "word": "siden",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/phrasesbank.json:seit_der_phrase",
+    "_enriched": false
+  },
+  "siden_prep": {
+    "word": "siden",
+    "type": "prep",
+    "_generatedFrom": "de-nb/generalbank.json:seit_prep, es-nb/generalbank.json:desde_prep",
+    "_enriched": false
+  },
+  "sikkert_adv": {
+    "word": "sikkert",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:bestimmt_adv, es-nb/generalbank.json:seguramente_adv",
+    "_enriched": false
+  },
+  "sin_pron": {
+    "word": "sin",
+    "type": "pron",
+    "_generatedFrom": "es-nb/pronounsbank.json:su_possess_pron",
+    "_enriched": false
+  },
+  "sist_adv": {
+    "word": "sist",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:letzt_general",
+    "_enriched": false
+  },
+  "sju_num": {
+    "word": "sju",
+    "type": "num",
+    "_generatedFrom": "de-nb/numbersbank.json:sieben_num, es-nb/numbersbank.json:siete_num",
+    "_enriched": false
+  },
+  "sjuende_num": {
+    "word": "sjuende",
+    "type": "num",
+    "_generatedFrom": "de-nb/numbersbank.json:siebte_num",
+    "_enriched": false
+  },
+  "skadelig_adv": {
+    "word": "skadelig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:schaedlich_general",
+    "_enriched": false
+  },
+  "skarp_adv": {
+    "word": "skarp",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:scharf_general",
+    "_enriched": false
+  },
+  "skitten_adv": {
+    "word": "skitten",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:schmutzig_general",
+    "_enriched": false
+  },
+  "skjevt_adv": {
+    "word": "skjevt",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:schief_general",
+    "_enriched": false
+  },
+  "skriftlig_adv": {
+    "word": "skriftlig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:schriftlich_general",
+    "_enriched": false
+  },
+  "skyldig_adv": {
+    "word": "skyldig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:schuldig_general",
+    "_enriched": false
+  },
+  "skål_interj": {
+    "word": "Skål!",
+    "type": "interj",
+    "_generatedFrom": "es-nb/generalbank.json:salud_interj",
+    "_enriched": false
+  },
+  "skål_phrase": {
+    "word": "skål!",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/phrasesbank.json:salud_phrase",
+    "_enriched": false
+  },
+  "slank_adv": {
+    "word": "slank",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:schlank_general",
+    "_enriched": false
+  },
+  "slik_adv": {
+    "word": "slik",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:so_adv, de-nb/generalbank.json:solch_general, es-nb/generalbank.json:asi_adv",
+    "_enriched": false
+  },
+  "slik_at_adv": {
+    "word": "slik at",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:damit_general, de-nb/generalbank.json:sodass_general",
+    "_enriched": false
+  },
+  "smal_adv": {
+    "word": "smal",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:schmal_general",
+    "_enriched": false
+  },
+  "snarere_adv": {
+    "word": "snarere",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:eher_adv",
+    "_enriched": false
+  },
+  "snart_adv": {
+    "word": "snart",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:bald_adv, es-nb/generalbank.json:pronto_adv",
+    "_enriched": false
+  },
+  "sole_seg_phrase": {
+    "word": "Å sole seg",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:tomar_el_sol_phrase",
+    "_enriched": false
+  },
+  "solen_skinner_phrase": {
+    "word": "Solen skinner",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:hace_sol_phrase",
+    "_enriched": false
+  },
+  "som_conj": {
+    "word": "som",
+    "type": "conj",
+    "_generatedFrom": "es-nb/generalbank.json:como_conj",
+    "_enriched": false
+  },
+  "som_garanti_adv": {
+    "word": "som garanti",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:als_garantie_general",
+    "_enriched": false
+  },
+  "som_konklusjon_phrase": {
+    "word": "Som konklusjon",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:en_conclusion_phrase",
+    "_enriched": false
+  },
+  "som_om_adv": {
+    "word": "som om",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:als_ob_general",
+    "_enriched": false
+  },
+  "sosial_adv": {
+    "word": "sosial",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:sozial_general",
+    "_enriched": false
+  },
+  "sov_godt_phrase": {
+    "word": "Sov godt!",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:que_duermas_bien_phrase",
+    "_enriched": false
+  },
+  "spania_propn": {
+    "word": "Spania",
+    "type": "propn",
+    "_generatedFrom": "es-nb/generalbank.json:espana_propn",
+    "_enriched": false
+  },
+  "spennende_adv": {
+    "word": "spennende",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:aufregend_general",
+    "_enriched": false
+  },
+  "spesiell_adv": {
+    "word": "spesiell",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:besonder_general, de-nb/generalbank.json:speziell_general",
+    "_enriched": false
+  },
+  "spesielt_adv": {
+    "word": "spesielt",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:besonders_adv, es-nb/generalbank.json:especialmente_adv",
+    "_enriched": false
+  },
+  "spiss_adv": {
+    "word": "spiss",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:spitz_general",
+    "_enriched": false
+  },
+  "stadig_adv": {
+    "word": "stadig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:dauernd_general, de-nb/generalbank.json:staendig_general",
+    "_enriched": false
+  },
+  "statistisk_adv": {
+    "word": "statistisk",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:statistisch_general",
+    "_enriched": false
+  },
+  "stemmer_interj": {
+    "word": "stemmer",
+    "type": "interj",
+    "_generatedFrom": "de-nb/generalbank.json:stimmt_interj",
+    "_enriched": false
+  },
+  "stilistisk_adv": {
+    "word": "stilistisk",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:stilistisch_general",
+    "_enriched": false
+  },
+  "stille_adv": {
+    "word": "stille",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:leise_general, de-nb/generalbank.json:still_general",
+    "_enriched": false
+  },
+  "stolt_adv": {
+    "word": "stolt",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:stolz_general",
+    "_enriched": false
+  },
+  "straffbar_adv": {
+    "word": "straffbar",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:strafbar_general",
+    "_enriched": false
+  },
+  "straks_adv": {
+    "word": "straks",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:gleich_adv, de-nb/generalbank.json:sofort_adv, es-nb/generalbank.json:enseguida_adv",
+    "_enriched": false
+  },
+  "straks_expr": {
+    "word": "straks",
+    "type": "expr",
+    "_generatedFrom": "es-nb/generalbank.json:en_seguida_expr",
+    "_enriched": false
+  },
+  "stum_adv": {
+    "word": "stum",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:stumm_general",
+    "_enriched": false
+  },
+  "stygg_adv": {
+    "word": "stygg",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:haesslich_general",
+    "_enriched": false
+  },
+  "sulten_adv": {
+    "word": "sulten",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:hungrig_general",
+    "_enriched": false
+  },
+  "super_adv": {
+    "word": "super",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:super_adv",
+    "_enriched": false
+  },
+  "supert_interj": {
+    "word": "Supert!",
+    "type": "interj",
+    "_generatedFrom": "de-nb/generalbank.json:super_interj",
+    "_enriched": false
+  },
+  "sur_adv": {
+    "word": "sur",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:sauer_general",
+    "_enriched": false
+  },
+  "svak_adv": {
+    "word": "svak",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:schwach_general",
+    "_enriched": false
+  },
+  "sveits_propn": {
+    "word": "Sveits",
+    "type": "propn",
+    "_generatedFrom": "de-nb/generalbank.json:die_schweiz_propn",
+    "_enriched": false
+  },
+  "syk_adv": {
+    "word": "syk",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:krank_general",
+    "_enriched": false
+  },
+  "sykle_phrase": {
+    "word": "å sykle",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/verbbank.json:rad_fahren_verbphrase",
+    "_enriched": false
+  },
+  "synlig_adv": {
+    "word": "synlig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:sichtbar_general",
+    "_enriched": false
+  },
+  "sytten_num": {
+    "word": "sytten",
+    "type": "num",
+    "_generatedFrom": "de-nb/numbersbank.json:siebzehn_num",
+    "_enriched": false
+  },
+  "sytti_num": {
+    "word": "sytti",
+    "type": "num",
+    "_generatedFrom": "de-nb/numbersbank.json:siebzig_num",
+    "_enriched": false
+  },
+  "så_adv": {
+    "word": "så",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:dann_adv, de-nb/generalbank.json:so_adv, es-nb/generalbank.json:luego_adv, es-nb/generalbank.json:tan_adv",
+    "_enriched": false
+  },
+  "så_lenge_adv": {
+    "word": "så lenge",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:solange_general",
+    "_enriched": false
+  },
+  "så_mye_adv": {
+    "word": "så mye",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:soviel_general",
+    "_enriched": false
+  },
+  "så_pent_adv": {
+    "word": "så pent",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:so_schoen_general",
+    "_enriched": false
+  },
+  "så_snart_adv": {
+    "word": "så snart",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:sobald_general",
+    "_enriched": false
+  },
+  "så_til_venstre_adv": {
+    "word": "så til venstre",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:dann_links_general",
+    "_enriched": false
+  },
+  "såkalt_adv": {
+    "word": "såkalt",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:sogenannt_general",
+    "_enriched": false
+  },
+  "sånn_adv": {
+    "word": "sånn",
+    "type": "adv",
+    "_generatedFrom": "es-nb/generalbank.json:asi_adv",
+    "_enriched": false
+  },
+  "sånn_passe_phrase": {
+    "word": "Sånn passe",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:mas_o_menos_phrase, es-nb/phrasesbank.json:mas_o_menos_phrase",
+    "_enriched": false
+  },
+  "særlig_adv": {
+    "word": "særlig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:besonders_adv",
+    "_enriched": false
+  },
+  "takk_interj": {
+    "word": "Takk",
+    "type": "interj",
+    "_generatedFrom": "de-nb/generalbank.json:danke_interj, es-nb/generalbank.json:gracias_interj",
+    "_enriched": false
+  },
+  "takk_phrase": {
+    "word": "takk",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/phrasesbank.json:gracias_phrase",
+    "_enriched": false
+  },
+  "takknemlig_adv": {
+    "word": "takknemlig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:dankbar_general",
+    "_enriched": false
+  },
+  "tallrik_adv": {
+    "word": "tallrik",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:zahlreich_general",
+    "_enriched": false
+  },
+  "tar_lengre_tid_phrase": {
+    "word": "tar lengre tid",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/generalbank.json:dauert_laenger_phrase",
+    "_enriched": false
+  },
+  "telefonsvareren_adv": {
+    "word": "telefonsvareren",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:den_anrufbeantworter_general",
+    "_enriched": false
+  },
+  "teoretisk_adv": {
+    "word": "teoretisk",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:theoretisch_general",
+    "_enriched": false
+  },
+  "tett_adv": {
+    "word": "tett",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:dicht_general",
+    "_enriched": false
+  },
+  "ti_num": {
+    "word": "ti",
+    "type": "num",
+    "_generatedFrom": "de-nb/numbersbank.json:zehn_num, es-nb/numbersbank.json:diez_num",
+    "_enriched": false
+  },
+  "tidlig_adv": {
+    "word": "tidlig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:frueh_adv, es-nb/generalbank.json:temprano_adv",
+    "_enriched": false
+  },
+  "tidligere_adv": {
+    "word": "tidligere",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:frueher_general",
+    "_enriched": false
+  },
+  "til_banken_adv": {
+    "word": "til banken",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:zur_bank_general",
+    "_enriched": false
+  },
+  "til_contr": {
+    "word": "til",
+    "type": "contr",
+    "_generatedFrom": "de-nb/articlesbank.json:ins_contr, de-nb/articlesbank.json:zum_contr, de-nb/articlesbank.json:zur_contr, es-nb/articlesbank.json:al_contr",
+    "_enriched": false
+  },
+  "til_det_adv": {
+    "word": "til det",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:darauf_adv",
+    "_enriched": false
+  },
+  "til_fjells_expr": {
+    "word": "til fjells",
+    "type": "expr",
+    "_generatedFrom": "de-nb/generalbank.json:ins_gebirge_expr",
+    "_enriched": false
+  },
+  "til_fots_adv": {
+    "word": "til fots",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:zu_fuss_general",
+    "_enriched": false
+  },
+  "til_fots_expr": {
+    "word": "til fots",
+    "type": "expr",
+    "_generatedFrom": "es-nb/generalbank.json:a_pie_expr",
+    "_enriched": false
+  },
+  "til_høyre_adv": {
+    "word": "til høyre",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:rechts_general",
+    "_enriched": false
+  },
+  "til_inntil_adv": {
+    "word": "til, inntil",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:bis_general",
+    "_enriched": false
+  },
+  "til_legen_adv": {
+    "word": "til legen",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:zum_doktor_general",
+    "_enriched": false
+  },
+  "til_og_med_adv": {
+    "word": "til og med",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:sogar_general",
+    "_enriched": false
+  },
+  "til_prep": {
+    "word": "til",
+    "type": "prep",
+    "usageNotes": "med steder",
+    "_generatedFrom": "de-nb/generalbank.json:nach_prep, de-nb/generalbank.json:zu_prep, es-nb/generalbank.json:a_prep, es-nb/generalbank.json:para_prep, es-nb/generalbank.json:hasta_prep",
+    "_enriched": false
+  },
+  "til_slutt_adv": {
+    "word": "til slutt",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:schliesslich_general, de-nb/generalbank.json:zuletzt_general, es-nb/generalbank.json:finalmente_adv",
+    "_enriched": false
+  },
+  "til_slutt_phrase": {
+    "word": "Til slutt",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:al_final_phrase",
+    "_enriched": false
+  },
+  "til_stede_adv": {
+    "word": "til stede",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:anwesend_general",
+    "_enriched": false
+  },
+  "til_tannlegen_adv": {
+    "word": "til tannlegen",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:zum_zahnarzt_general",
+    "_enriched": false
+  },
+  "til_tross_for_adv": {
+    "word": "til tross for",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:trotz_general",
+    "_enriched": false
+  },
+  "til_venstre_adv": {
+    "word": "til venstre",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:links_general, de-nb/generalbank.json:nach_links_general",
+    "_enriched": false
+  },
+  "tilbake_adv": {
+    "word": "tilbake",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:zurueck_general",
+    "_enriched": false
+  },
+  "tilfredsstillende_adv": {
+    "word": "tilfredsstillende",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:befriedigend_general",
+    "_enriched": false
+  },
+  "tilgjengelig_adv": {
+    "word": "tilgjengelig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:zugaenglich_general",
+    "_enriched": false
+  },
+  "tillatt_for_dem_adv": {
+    "word": "tillatt for dem",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:ihnen_erlaubt_general",
+    "_enriched": false
+  },
+  "tilstrekkelig_adv": {
+    "word": "tilstrekkelig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:ausreichend_general",
+    "_enriched": false
+  },
+  "tjue_num": {
+    "word": "tjue",
+    "type": "num",
+    "_generatedFrom": "de-nb/numbersbank.json:zwanzig_num, es-nb/numbersbank.json:veinte_num",
+    "_enriched": false
+  },
+  "tjuefjerde_num": {
+    "word": "tjuefjerde",
+    "type": "num",
+    "usageNotes": "dativ",
+    "_generatedFrom": "de-nb/numbersbank.json:vierundzwanzigsten_num",
+    "_enriched": false
+  },
+  "to_num": {
+    "word": "to",
+    "type": "num",
+    "_generatedFrom": "de-nb/numbersbank.json:zwei_num, es-nb/numbersbank.json:dos_num",
+    "_enriched": false
+  },
+  "tolerant_adv": {
+    "word": "tolerant",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:tolerant_general",
+    "_enriched": false
+  },
+  "tolv_num": {
+    "word": "tolv",
+    "type": "num",
+    "_generatedFrom": "de-nb/numbersbank.json:zwoelf_num, es-nb/numbersbank.json:doce_num",
+    "_enriched": false
+  },
+  "tom_adv": {
+    "word": "tom",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:leer_general",
+    "_enriched": false
+  },
+  "total_adv": {
+    "word": "total",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:total_general",
+    "_enriched": false
+  },
+  "tradisjonell_adv": {
+    "word": "tradisjonell",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:traditionell_general",
+    "_enriched": false
+  },
+  "trang_adv": {
+    "word": "trang",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:eng_general",
+    "_enriched": false
+  },
+  "tre_num": {
+    "word": "tre",
+    "type": "num",
+    "_generatedFrom": "de-nb/numbersbank.json:drei_num, es-nb/numbersbank.json:tres_num",
+    "_enriched": false
+  },
+  "tredje_num": {
+    "word": "tredje",
+    "type": "num",
+    "_generatedFrom": "de-nb/numbersbank.json:dritte_num",
+    "_enriched": false
+  },
+  "tredje_rad_adv": {
+    "word": "tredje rad",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:dritten_reihe_general",
+    "_enriched": false
+  },
+  "tretten_num": {
+    "word": "tretten",
+    "type": "num",
+    "_generatedFrom": "de-nb/numbersbank.json:dreizehn_num, es-nb/numbersbank.json:trece_num",
+    "_enriched": false
+  },
+  "trettende_num": {
+    "word": "trettende",
+    "type": "num",
+    "usageNotes": "dativ",
+    "_generatedFrom": "de-nb/numbersbank.json:dreizehnten_num",
+    "_enriched": false
+  },
+  "tretti_num": {
+    "word": "tretti",
+    "type": "num",
+    "_generatedFrom": "de-nb/numbersbank.json:dreissig_num, es-nb/numbersbank.json:treinta_num",
+    "_enriched": false
+  },
+  "trettiførste_num": {
+    "word": "trettiførste",
+    "type": "num",
+    "usageNotes": "dativ",
+    "_generatedFrom": "de-nb/numbersbank.json:einunddreissigsten_num",
+    "_enriched": false
+  },
+  "tung_adv": {
+    "word": "tung",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:schwer_general",
+    "_enriched": false
+  },
+  "tusen_takk_phrase": {
+    "word": "tusen takk",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/phrasesbank.json:muchas_gracias_phrase",
+    "_enriched": false
+  },
+  "tydelig_adv": {
+    "word": "tydelig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:deutlich_general, es-nb/generalbank.json:claramente_adv",
+    "_enriched": false
+  },
+  "tykk_adv": {
+    "word": "tykk",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:dick_general",
+    "_enriched": false
+  },
+  "tynn_adv": {
+    "word": "tynn",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:duenn_general",
+    "_enriched": false
+  },
+  "typisk_adv": {
+    "word": "typisk",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:typisch_general",
+    "_enriched": false
+  },
+  "tyskland_propn": {
+    "word": "Tyskland",
+    "type": "propn",
+    "_generatedFrom": "de-nb/generalbank.json:deutschland_propn",
+    "_enriched": false
+  },
+  "tørst_adv": {
+    "word": "tørst",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:durstig_general",
+    "_enriched": false
+  },
+  "u_adv": {
+    "word": "u-",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:un_general",
+    "_enriched": false
+  },
+  "uansett_adv": {
+    "word": "uansett",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:sowieso_general",
+    "_enriched": false
+  },
+  "ugift_adv": {
+    "word": "ugift",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:ledig_general",
+    "_enriched": false
+  },
+  "uhyggelig_adv": {
+    "word": "uhyggelig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:unheimlich_general",
+    "_enriched": false
+  },
+  "ulovlig_adv": {
+    "word": "ulovlig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:illegal_general",
+    "_enriched": false
+  },
+  "umiddelbart_adv": {
+    "word": "umiddelbart",
+    "type": "adv",
+    "_generatedFrom": "es-nb/generalbank.json:inmediatamente_adv",
+    "_enriched": false
+  },
+  "under_adv": {
+    "word": "under",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:unter_general",
+    "_enriched": false
+  },
+  "under_prep": {
+    "word": "under",
+    "type": "prep",
+    "_generatedFrom": "de-nb/generalbank.json:unter_prep, es-nb/generalbank.json:bajo_prep, es-nb/generalbank.json:durante_prep, es-nb/generalbank.json:debajo_de_prep",
+    "_enriched": false
+  },
+  "unnskyld_får_jeg_komme_forbi_phrase": {
+    "word": "unnskyld, får jeg komme forbi",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/phrasesbank.json:con_permiso_phrase",
+    "_enriched": false
+  },
+  "unnskyld_interj": {
+    "word": "Unnskyld",
+    "type": "interj",
+    "_generatedFrom": "es-nb/generalbank.json:perdon_interj, es-nb/generalbank.json:lo_siento_interj",
+    "_enriched": false
+  },
+  "unnskyld_phrase": {
+    "word": "unnskyld",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/phrasesbank.json:perdon_phrase, es-nb/phrasesbank.json:disculpe_phrase",
+    "_enriched": false
+  },
+  "usa_propn": {
+    "word": "USA",
+    "type": "propn",
+    "_generatedFrom": "es-nb/generalbank.json:estados_unidos_propn",
+    "_enriched": false
+  },
+  "ut_adv": {
+    "word": "ut",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:raus_adv",
+    "_enriched": false
+  },
+  "ut_av_phrase": {
+    "word": "ut av",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/phrasesbank.json:aus_dem_phrase",
+    "_enriched": false
+  },
+  "ute_adv": {
+    "word": "ute",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:draussen_adv, de-nb/generalbank.json:raus_adv, es-nb/generalbank.json:afuera_adv",
+    "_enriched": false
+  },
+  "utelukkende_adv": {
+    "word": "utelukkende",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:ausschliesslich_general",
+    "_enriched": false
+  },
+  "uten_prep": {
+    "word": "uten",
+    "type": "prep",
+    "_generatedFrom": "de-nb/generalbank.json:ohne_prep, es-nb/generalbank.json:sin_prep",
+    "_enriched": false
+  },
+  "uten_tvil_expr": {
+    "word": "uten tvil",
+    "type": "expr",
+    "_generatedFrom": "es-nb/generalbank.json:sin_duda_expr",
+    "_enriched": false
+  },
+  "utenfor_adv": {
+    "word": "utenfor",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:ausserhalb_general",
+    "_enriched": false
+  },
+  "utenfor_prep": {
+    "word": "utenfor",
+    "type": "prep",
+    "_generatedFrom": "es-nb/generalbank.json:fuera_de_prep",
+    "_enriched": false
+  },
+  "utenlandsk_adv": {
+    "word": "utenlandsk",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:auslaendisch_general",
+    "_enriched": false
+  },
+  "utmerket_adv": {
+    "word": "utmerket",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:prima_general",
+    "_enriched": false
+  },
+  "utrolig_adv": {
+    "word": "utrolig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:unglaublich_general",
+    "_enriched": false
+  },
+  "uvanlig_adv": {
+    "word": "uvanlig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:ungewoehnlich_general",
+    "_enriched": false
+  },
+  "vanlig_adv": {
+    "word": "vanlig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:gewoehnlich_general, de-nb/generalbank.json:ueblich_general",
+    "_enriched": false
+  },
+  "vanligvis_adv": {
+    "word": "vanligvis",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:meistens_adv, de-nb/generalbank.json:normalerweise_adv, es-nb/generalbank.json:normalmente_adv",
+    "_enriched": false
+  },
+  "ved_at_adv": {
+    "word": "ved at",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:indem_general",
+    "_enriched": false
+  },
+  "ved_det_adv": {
+    "word": "ved det",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:dabei_adv",
+    "_enriched": false
+  },
+  "ved_prep": {
+    "word": "ved",
+    "type": "prep",
+    "_generatedFrom": "de-nb/generalbank.json:an_prep, de-nb/generalbank.json:bei_prep",
+    "_enriched": false
+  },
+  "ved_siden_av_adv": {
+    "word": "ved siden av",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:nebenan_general, de-nb/generalbank.json:nebenbei_general",
+    "_enriched": false
+  },
+  "ved_siden_av_prep": {
+    "word": "ved siden av",
+    "type": "prep",
+    "_generatedFrom": "de-nb/generalbank.json:neben_prep, es-nb/generalbank.json:al_lado_de_prep",
+    "_enriched": false
+  },
+  "vegetarisk_adv": {
+    "word": "vegetarisk",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:vegetarisch_general",
+    "_enriched": false
+  },
+  "vel_adv": {
+    "word": "vel",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:also_adv, de-nb/generalbank.json:wohl_general",
+    "_enriched": false
+  },
+  "vel_bekomme_phrase": {
+    "word": "Vel bekomme!",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:buen_provecho_phrase, es-nb/phrasesbank.json:buen_provecho_phrase",
+    "_enriched": false
+  },
+  "vel_conj": {
+    "word": "vel",
+    "type": "conj",
+    "_generatedFrom": "es-nb/generalbank.json:pues_conj",
+    "_enriched": false
+  },
+  "veldig_adv": {
+    "word": "veldig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:sehr_adv, de-nb/generalbank.json:viel_adv, es-nb/generalbank.json:muy_adv",
+    "_enriched": false
+  },
+  "veldig_bra_phrase": {
+    "word": "Veldig bra",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:muy_bien_phrase, es-nb/phrasesbank.json:muy_bien_phrase",
+    "_enriched": false
+  },
+  "velkommen_interj": {
+    "word": "Velkommen",
+    "type": "interj",
+    "_generatedFrom": "de-nb/generalbank.json:willkommen_interj, es-nb/generalbank.json:bienvenido_interj",
+    "_enriched": false
+  },
+  "vellykket_adv": {
+    "word": "vellykket",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:erfolgreich_general",
+    "_enriched": false
+  },
+  "venner_er_viktige_phrase": {
+    "word": "Venner er viktige",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/generalbank.json:freunde_sind_wichtig_phrase",
+    "_enriched": false
+  },
+  "venstre_side_adv": {
+    "word": "venstre side",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:linken_seite_general",
+    "_enriched": false
+  },
+  "verdifull_adv": {
+    "word": "verdifull",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:wertvoll_general",
+    "_enriched": false
+  },
+  "verdiløs_adv": {
+    "word": "verdiløs",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:wertlos_general",
+    "_enriched": false
+  },
+  "verdt_adv": {
+    "word": "verdt",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:wert_general",
+    "_enriched": false
+  },
+  "verken_conj": {
+    "word": "verken",
+    "type": "conj",
+    "_generatedFrom": "es-nb/generalbank.json:ni_conj",
+    "_enriched": false
+  },
+  "vi_hankjønn_pron": {
+    "word": "vi (hankjønn",
+    "type": "pron",
+    "_generatedFrom": "es-nb/pronounsbank.json:nosotros_pron",
+    "_enriched": false
+  },
+  "vi_pron": {
+    "word": "vi",
+    "type": "pron",
+    "_generatedFrom": "de-nb/pronounsbank.json:wir_pron, es-nb/pronounsbank.json:nosotras_pron",
+    "_enriched": false
+  },
+  "vi_sees_i_morgen_phrase": {
+    "word": "Vi sees i morgen",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:hasta_manana_phrase",
+    "_enriched": false
+  },
+  "vi_sees_senere_phrase": {
+    "word": "Vi sees senere",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:hasta_luego_phrase",
+    "_enriched": false
+  },
+  "vi_sees_snart_phrase": {
+    "word": "Vi sees snart",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/generalbank.json:hasta_pronto_phrase, es-nb/phrasesbank.json:hasta_pronto_phrase",
+    "_enriched": false
+  },
+  "vi_ses_i_morgen_phrase": {
+    "word": "vi ses i morgen",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/phrasesbank.json:hasta_manana_phrase",
+    "_enriched": false
+  },
+  "vi_ses_senere_phrase": {
+    "word": "vi ses senere",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/phrasesbank.json:hasta_luego_phrase",
+    "_enriched": false
+  },
+  "vi_snakkes_phrase": {
+    "word": "Vi snakkes!",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/generalbank.json:bis_dann_phrase",
+    "_enriched": false
+  },
+  "videre_adv": {
+    "word": "videre",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:weiter_general",
+    "_enriched": false
+  },
+  "vidunderlig_adv": {
+    "word": "vidunderlig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:wunderbar_general",
+    "_enriched": false
+  },
+  "virkelig_adv": {
+    "word": "virkelig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:wirklich_adv, es-nb/generalbank.json:realmente_adv",
+    "_enriched": false
+  },
+  "virkelig_expr": {
+    "word": "virkelig",
+    "type": "expr",
+    "_generatedFrom": "es-nb/generalbank.json:de_verdad_expr",
+    "_enriched": false
+  },
+  "virtuell_adv": {
+    "word": "virtuell",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:virtuell_general",
+    "_enriched": false
+  },
+  "vår_hankjønn_pron": {
+    "word": "vår (hankjønn",
+    "type": "pron",
+    "_generatedFrom": "de-nb/pronounsbank.json:unser_possessiv",
+    "_enriched": false
+  },
+  "vår_hunkjønn_pron": {
+    "word": "vår (hunkjønn",
+    "type": "pron",
+    "_generatedFrom": "de-nb/pronounsbank.json:unsere_possessiv",
+    "_enriched": false
+  },
+  "vår_pron": {
+    "word": "vår",
+    "type": "pron",
+    "_generatedFrom": "es-nb/pronounsbank.json:nuestro_possess_pron",
+    "_enriched": false
+  },
+  "våre_pron": {
+    "word": "våre",
+    "type": "pron",
+    "_generatedFrom": "es-nb/pronounsbank.json:nuestro_possess_pron",
+    "_enriched": false
+  },
+  "vær_så_god_interj": {
+    "word": "Vær så god",
+    "type": "interj",
+    "_generatedFrom": "de-nb/generalbank.json:bitte_interj",
+    "_enriched": false
+  },
+  "vær_så_snill_interj": {
+    "word": "Vær så snill",
+    "type": "interj",
+    "_generatedFrom": "es-nb/generalbank.json:por_favor_interj",
+    "_enriched": false
+  },
+  "vær_så_snill_phrase": {
+    "word": "vær så snill",
+    "type": "phrase",
+    "_generatedFrom": "es-nb/phrasesbank.json:por_favor_phrase",
+    "_enriched": false
+  },
+  "være_av_adv": {
+    "word": "å være av",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:aus_sein_general",
+    "_enriched": false
+  },
+  "være_borte_adv": {
+    "word": "å være borte",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:weg_sein_general",
+    "_enriched": false
+  },
+  "være_forbudt_adv": {
+    "word": "være forbudt",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:verboten_sein_general",
+    "_enriched": false
+  },
+  "være_gøy_phrase": {
+    "word": "å være gøy",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/generalbank.json:spass_machen_phrase",
+    "_enriched": false
+  },
+  "være_lukket_adv": {
+    "word": "å være lukket",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:zu_sein_general",
+    "_enriched": false
+  },
+  "være_på_adv": {
+    "word": "å være på",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:an_sein_general",
+    "_enriched": false
+  },
+  "være_spent_phrase": {
+    "word": "å være spent",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/generalbank.json:gespannt_sein_phrase",
+    "_enriched": false
+  },
+  "være_åpen_adv": {
+    "word": "å være åpen",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:auf_sein_general",
+    "_enriched": false
+  },
+  "yrkesaktiv_adv": {
+    "word": "yrkesaktiv",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:berufstaetig_general",
+    "_enriched": false
+  },
+  "yrkesmessig_adv": {
+    "word": "yrkesmessig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:beruflich_general",
+    "_enriched": false
+  },
+  "ytre_adv": {
+    "word": "ytre",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:aeusserlich_general",
+    "_enriched": false
+  },
+  "åpen_adv": {
+    "word": "åpen",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:geoeffnet_general",
+    "_enriched": false
+  },
+  "åpenbart_adv": {
+    "word": "åpenbart",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:offenbar_general",
+    "_enriched": false
+  },
+  "år_gammel_phrase": {
+    "word": "år gammel",
+    "type": "phrase",
+    "_generatedFrom": "de-nb/generalbank.json:jahre_alt_phrase",
+    "_enriched": false
+  },
+  "åtte_num": {
+    "word": "åtte",
+    "type": "num",
+    "_generatedFrom": "de-nb/numbersbank.json:acht_num, es-nb/numbersbank.json:ocho_num",
+    "_enriched": false
+  },
+  "åtti_num": {
+    "word": "åtti",
+    "type": "num",
+    "_generatedFrom": "de-nb/numbersbank.json:achtzig_num",
+    "_enriched": false
+  },
+  "ærede_adv": {
+    "word": "ærede",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:geehrt_general",
+    "_enriched": false
+  },
+  "ødelagt_adv": {
+    "word": "ødelagt",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:kaputt_general",
+    "_enriched": false
+  },
+  "østerrike_propn": {
+    "word": "Østerrike",
+    "type": "propn",
+    "_generatedFrom": "de-nb/generalbank.json:oesterreich_propn",
+    "_enriched": false
+  },
+  "øvre_adv": {
+    "word": "øvre",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:ober_general",
+    "_enriched": false
+  },
+  "øvrig_adv": {
+    "word": "øvrig",
+    "type": "adv",
+    "_generatedFrom": "de-nb/generalbank.json:uebrig_general",
+    "_enriched": false
+  }
+}

@@ -31,7 +31,10 @@
     "validate:adjectives": "node scripts/validate-adjectives.js",
     "validate:all": "npm run validate:nouns && npm run validate:verbs && npm run validate:adjectives && npm run verify:integration",
     "verify:integration": "node scripts/verify-integration.js",
-    "validate:migration": "node scripts/validate-migration.js"
+    "validate:migration": "node scripts/validate-migration.js",
+    "generate:nb-lexicon": "node scripts/generate-nb-lexicon.js",
+    "generate:links": "node scripts/generate-links.js",
+    "generate:lexicon": "npm run generate:nb-lexicon && npm run generate:links"
   },
   "engines": {
     "node": ">=18.0.0"
