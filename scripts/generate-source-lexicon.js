@@ -117,6 +117,7 @@ for (const langCode of targetLangs) {
 
   let totalEntries = 0;
   const bankCounts = {};
+  const allIds = new Set(); // Track all IDs to prevent cross-bank duplicates
 
   for (const bankFile of BANK_FILES) {
     const bankPath = join(sourcePath, bankFile);
@@ -131,6 +132,8 @@ for (const langCode of targetLangs) {
     const lexEntries = {};
 
     for (const [id, entry] of Object.entries(entries)) {
+      if (allIds.has(id)) continue; // Skip duplicates across banks
+      allIds.add(id);
       lexEntries[id] = transformEntry(id, entry, langCode);
     }
 

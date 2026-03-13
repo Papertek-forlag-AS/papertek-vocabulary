@@ -10,7 +10,7 @@
  *   node scripts/build-lexicon-search-index.js de nb es   (multiple)
  */
 
-import { readFileSync, writeFileSync, existsSync, readdirSync } from 'fs';
+import { readFileSync, writeFileSync, existsSync, readdirSync, statSync } from 'fs';
 import { join } from 'path';
 
 const LEXICON_BASE = join('vocabulary', 'lexicon');
@@ -26,7 +26,7 @@ if (args.length > 0 && args[0] !== 'all') {
     .filter(f => {
       const p = join(LEXICON_BASE, f);
       return f !== 'links' && f !== 'grammar-features.json' &&
-        existsSync(p) && require('fs').statSync(p).isDirectory();
+        existsSync(p) && statSync(p).isDirectory();
     });
 }
 

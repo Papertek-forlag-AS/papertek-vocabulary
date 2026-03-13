@@ -2,9 +2,9 @@
   "_metadata": {
     "language": "es",
     "bank": "phrasesbank",
-    "generatedAt": "2026-03-13T12:29:02.290Z",
+    "generatedAt": "2026-03-13T13:00:52.977Z",
     "description": "ES lexicon view — generated from core",
-    "totalEntries": 54,
+    "totalEntries": 26,
     "source": "vocabulary/core/es"
   },
   "adios_phrase": {
@@ -19,56 +19,8 @@
     "_generatedFrom": "es/banks",
     "_enriched": true
   },
-  "buen_provecho_phrase": {
-    "word": "buen provecho",
-    "type": "phrase",
-    "_generatedFrom": "es/banks",
-    "_enriched": true
-  },
-  "buena_suerte_phrase": {
-    "word": "buena suerte",
-    "type": "phrase",
-    "_generatedFrom": "es/banks",
-    "_enriched": true
-  },
-  "buenas_noches_phrase": {
-    "word": "buenas noches",
-    "type": "phrase",
-    "_generatedFrom": "es/banks",
-    "_enriched": true
-  },
-  "buenas_tardes_phrase": {
-    "word": "buenas tardes",
-    "type": "phrase",
-    "_generatedFrom": "es/banks",
-    "_enriched": true
-  },
-  "buenos_dias_phrase": {
-    "word": "buenos días",
-    "type": "phrase",
-    "_generatedFrom": "es/banks",
-    "_enriched": true
-  },
   "claro_phrase": {
     "word": "claro",
-    "type": "phrase",
-    "_generatedFrom": "es/banks",
-    "_enriched": true
-  },
-  "como_estas_phrase": {
-    "word": "¿cómo estás?",
-    "type": "phrase",
-    "_generatedFrom": "es/banks",
-    "_enriched": true
-  },
-  "como_se_dice_phrase": {
-    "word": "¿cómo se dice...?",
-    "type": "phrase",
-    "_generatedFrom": "es/banks",
-    "_enriched": true
-  },
-  "como_te_llamas_phrase": {
-    "word": "¿cómo te llamas?",
     "type": "phrase",
     "_generatedFrom": "es/banks",
     "_enriched": true
@@ -91,26 +43,8 @@
     "_generatedFrom": "es/banks",
     "_enriched": true
   },
-  "cuantos_anos_tienes_phrase": {
-    "word": "¿cuántos años tienes?",
-    "type": "phrase",
-    "_generatedFrom": "es/banks",
-    "_enriched": true
-  },
   "de_acuerdo_phrase": {
     "word": "de acuerdo",
-    "type": "phrase",
-    "_generatedFrom": "es/banks",
-    "_enriched": true
-  },
-  "de_donde_eres_phrase": {
-    "word": "¿de dónde eres?",
-    "type": "phrase",
-    "_generatedFrom": "es/banks",
-    "_enriched": true
-  },
-  "de_nada_phrase": {
-    "word": "de nada",
     "type": "phrase",
     "_generatedFrom": "es/banks",
     "_enriched": true
@@ -139,32 +73,8 @@
     "_generatedFrom": "es/banks",
     "_enriched": true
   },
-  "feliz_cumpleanos_phrase": {
-    "word": "¡feliz cumpleaños!",
-    "type": "phrase",
-    "_generatedFrom": "es/banks",
-    "_enriched": true
-  },
   "gracias_phrase": {
     "word": "gracias",
-    "type": "phrase",
-    "_generatedFrom": "es/banks",
-    "_enriched": true
-  },
-  "hasta_luego_phrase": {
-    "word": "hasta luego",
-    "type": "phrase",
-    "_generatedFrom": "es/banks",
-    "_enriched": true
-  },
-  "hasta_manana_phrase": {
-    "word": "hasta mañana",
-    "type": "phrase",
-    "_generatedFrom": "es/banks",
-    "_enriched": true
-  },
-  "hasta_pronto_phrase": {
-    "word": "hasta pronto",
     "type": "phrase",
     "_generatedFrom": "es/banks",
     "_enriched": true
@@ -187,44 +97,8 @@
     "_generatedFrom": "es/banks",
     "_enriched": true
   },
-  "mas_despacio_phrase": {
-    "word": "más despacio, por favor",
-    "type": "phrase",
-    "_generatedFrom": "es/banks",
-    "_enriched": true
-  },
-  "mas_o_menos_phrase": {
-    "word": "más o menos",
-    "type": "phrase",
-    "_generatedFrom": "es/banks",
-    "_enriched": true
-  },
-  "me_llamo_phrase": {
-    "word": "me llamo...",
-    "type": "phrase",
-    "_generatedFrom": "es/banks",
-    "_enriched": true
-  },
   "muchas_gracias_phrase": {
     "word": "muchas gracias",
-    "type": "phrase",
-    "_generatedFrom": "es/banks",
-    "_enriched": true
-  },
-  "mucho_gusto_phrase": {
-    "word": "mucho gusto",
-    "type": "phrase",
-    "_generatedFrom": "es/banks",
-    "_enriched": true
-  },
-  "muy_bien_phrase": {
-    "word": "muy bien",
-    "type": "phrase",
-    "_generatedFrom": "es/banks",
-    "_enriched": true
-  },
-  "no_entiendo_phrase": {
-    "word": "no entiendo",
     "type": "phrase",
     "_generatedFrom": "es/banks",
     "_enriched": true
@@ -253,32 +127,8 @@
     "_generatedFrom": "es/banks",
     "_enriched": true
   },
-  "puede_repetir_phrase": {
-    "word": "¿puede repetir?",
-    "type": "phrase",
-    "_generatedFrom": "es/banks",
-    "_enriched": true
-  },
   "que_aproveche_phrase": {
     "word": "¡que aproveche!",
-    "type": "phrase",
-    "_generatedFrom": "es/banks",
-    "_enriched": true
-  },
-  "que_hora_es_phrase": {
-    "word": "¿qué hora es?",
-    "type": "phrase",
-    "_generatedFrom": "es/banks",
-    "_enriched": true
-  },
-  "que_significa_phrase": {
-    "word": "¿qué significa...?",
-    "type": "phrase",
-    "_generatedFrom": "es/banks",
-    "_enriched": true
-  },
-  "que_tal_phrase": {
-    "word": "¿qué tal?",
     "type": "phrase",
     "_generatedFrom": "es/banks",
     "_enriched": true
@@ -291,24 +141,6 @@
   },
   "salud_phrase": {
     "word": "¡salud!",
-    "type": "phrase",
-    "_generatedFrom": "es/banks",
-    "_enriched": true
-  },
-  "soy_de_phrase": {
-    "word": "soy de...",
-    "type": "phrase",
-    "_generatedFrom": "es/banks",
-    "_enriched": true
-  },
-  "tengo_anos_phrase": {
-    "word": "tengo ... años",
-    "type": "phrase",
-    "_generatedFrom": "es/banks",
-    "_enriched": true
-  },
-  "tengo_una_pregunta_phrase": {
-    "word": "tengo una pregunta",
     "type": "phrase",
     "_generatedFrom": "es/banks",
     "_enriched": true
