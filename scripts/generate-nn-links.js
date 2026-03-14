@@ -154,7 +154,7 @@ for (const [bankName, links] of Object.entries(nbNnByBank)) {
 // 3. Generate es-nn and nn-es links (via es-nb → nb→nn)
 // ═══════════════════════════════════════════════════════════════════════════
 
-const sourcePairs = ['de', 'es'];
+const sourcePairs = ['de', 'es', 'fr'];
 
 for (const sourceLang of sourcePairs) {
   const nbPairDir = join(LINKS_BASE, `${sourceLang}-nb`);
@@ -296,5 +296,5 @@ for (const sourceLang of sourcePairs) {
 // Summary
 console.log('\n=== Summary ===');
 console.log(`  Total links generated: ${totalLinks}`);
-console.log(`  Link pairs: nb-nn, nn-nb, de-nn, nn-de, es-nn, nn-es`);
+console.log(`  Link pairs: nb-nn, nn-nb, de-nn, nn-de, es-nn, nn-es, fr-nn, nn-fr`);
 console.log(`\n  Output: ${LINKS_BASE}/`);

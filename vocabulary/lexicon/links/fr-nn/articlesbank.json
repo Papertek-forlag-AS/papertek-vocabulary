@@ -1,0 +1,51 @@
+{
+  "_metadata": {
+    "from": "fr",
+    "to": "nn",
+    "bank": "articlesbank",
+    "generatedAt": "2026-03-14T15:15:55.456Z",
+    "totalLinks": 9
+  },
+  "au_contr": {
+    "primary": "til_contr"
+  },
+  "aux_contr": {
+    "primary": "til_contr"
+  },
+  "des_contr": {
+    "primary": "frå_contr",
+    "alternatives": [
+      "av_contr"
+    ]
+  },
+  "du_contr": {
+    "primary": "frå_contr",
+    "alternatives": [
+      "av_contr"
+    ]
+  },
+  "l_article": {
+    "primary": "den_art",
+    "alternatives": [
+      "det_art"
+    ]
+  },
+  "la_article": {
+    "primary": "den_art",
+    "alternatives": [
+      "det_art"
+    ]
+  },
+  "le_article": {
+    "primary": "den_art",
+    "alternatives": [
+      "det_art"
+    ]
+  },
+  "un_article": {
+    "primary": "ein_art"
+  },
+  "une_article": {
+    "primary": "ein_art"
+  }
+}

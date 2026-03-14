@@ -1,0 +1,237 @@
+{
+  "_metadata": {
+    "from": "fr",
+    "to": "en",
+    "bank": "verbbank",
+    "generatedAt": "2026-03-14T15:15:49.994Z",
+    "totalLinks": 70
+  },
+  "acheter_verbe": {
+    "primary": "buy_verb"
+  },
+  "aider_verbe": {
+    "primary": "help_verb"
+  },
+  "aimer_verbe": {
+    "primary": "like_verb",
+    "alternatives": [
+      "love_verb"
+    ]
+  },
+  "aller_verbe": {
+    "primary": "go_verb"
+  },
+  "appeler_verbe": {
+    "primary": "call_verb"
+  },
+  "arriver_verbe": {
+    "primary": "arrive_verb",
+    "alternatives": [
+      "happen_verb"
+    ]
+  },
+  "attendre_verbe": {
+    "primary": "wait_verb"
+  },
+  "avoir_verbe": {
+    "primary": "have_verb"
+  },
+  "boire_verbe": {
+    "primary": "drink_verb"
+  },
+  "chanter_verbe": {
+    "primary": "sing_verb"
+  },
+  "commencer_verbe": {
+    "primary": "begin_verb"
+  },
+  "connaitre_verbe": {
+    "primary": "know_verb"
+  },
+  "croire_verbe": {
+    "primary": "believe_verb"
+  },
+  "cuisiner_verbe": {
+    "primary": "cook_verb"
+  },
+  "danser_verbe": {
+    "primary": "dance_verb"
+  },
+  "demander_verbe": {
+    "primary": "ask_verb"
+  },
+  "detester_verbe": {
+    "primary": "hate_verb"
+  },
+  "dire_verbe": {
+    "primary": "say_verb",
+    "alternatives": [
+      "tell_verb"
+    ]
+  },
+  "donner_verbe": {
+    "primary": "give_verb"
+  },
+  "dormir_verbe": {
+    "primary": "sleep_verb"
+  },
+  "ecouter_verbe": {
+    "primary": "listen_verb"
+  },
+  "ecrire_verbe": {
+    "primary": "write_verb"
+  },
+  "entendre_verbe": {
+    "primary": "hear_verb"
+  },
+  "etre_verbe": {
+    "primary": "be_verb"
+  },
+  "etudier_verbe": {
+    "primary": "study_verb"
+  },
+  "expliquer_verbe": {
+    "primary": "explain_verb"
+  },
+  "faire_verbe": {
+    "primary": "do_verb",
+    "alternatives": [
+      "make_verb"
+    ]
+  },
+  "fermer_verbe": {
+    "primary": "close_verb"
+  },
+  "grandir_verbe": {
+    "primary": "grow_verb"
+  },
+  "habiter_verbe": {
+    "primary": "live_verb"
+  },
+  "inviter_verbe": {
+    "primary": "invite_verb"
+  },
+  "jouer_verbe": {
+    "primary": "play_verb"
+  },
+  "lire_verbe": {
+    "primary": "read_verb"
+  },
+  "manger_verbe": {
+    "primary": "eat_verb"
+  },
+  "marcher_verbe": {
+    "primary": "walk_verb",
+    "alternatives": [
+      "work_verb"
+    ]
+  },
+  "montrer_verbe": {
+    "primary": "show_verb"
+  },
+  "nager_verbe": {
+    "primary": "swim_verb"
+  },
+  "offrir_verbe": {
+    "primary": "offer_verb",
+    "alternatives": [
+      "give_verb"
+    ]
+  },
+  "oublier_verbe": {
+    "primary": "forget_verb"
+  },
+  "ouvrir_verbe": {
+    "primary": "open_verb"
+  },
+  "payer_verbe": {
+    "primary": "pay_verb"
+  },
+  "penser_verbe": {
+    "primary": "think_verb"
+  },
+  "perdre_verbe": {
+    "primary": "lose_verb"
+  },
+  "pouvoir_verbe": {
+    "primary": "be_able_to_verb"
+  },
+  "preferer_verbe": {
+    "primary": "prefer_verb"
+  },
+  "prendre_verbe": {
+    "primary": "take_verb"
+  },
+  "raconter_verbe": {
+    "primary": "tell_verb"
+  },
+  "reflechir_verbe": {
+    "primary": "think_verb"
+  },
+  "repondre_verbe": {
+    "primary": "answer_verb"
+  },
+  "rester_verbe": {
+    "primary": "stay_verb"
+  },
+  "reussir_verbe": {
+    "primary": "succeed_verb"
+  },
+  "savoir_verbe": {
+    "primary": "know_verb"
+  },
+  "se_appeler_verbe": {
+    "primary": "be_called_verb"
+  },
+  "se_coucher_verbe": {
+    "primary": "go_to_bed_verb"
+  },
+  "se_habiller_verbe": {
+    "primary": "get_dressed_verb"
+  },
+  "se_laver_verbe": {
+    "primary": "wash_oneself_verb"
+  },
+  "se_lever_verbe": {
+    "primary": "get_up_verb"
+  },
+  "se_promener_verbe": {
+    "primary": "take_a_walk_verb"
+  },
+  "se_reposer_verbe": {
+    "primary": "rest_verb"
+  },
+  "se_reveiller_verbe": {
+    "primary": "wake_up_verb"
+  },
+  "sortir_verbe": {
+    "primary": "go_out_verb"
+  },
+  "terminer_verbe": {
+    "primary": "end_verb"
+  },
+  "tomber_verbe": {
+    "primary": "fall_verb"
+  },
+  "travailler_verbe": {
+    "primary": "work_verb"
+  },
+  "trouver_verbe": {
+    "primary": "find_verb"
+  },
+  "venir_verbe": {
+    "primary": "come_verb"
+  },
+  "visiter_verbe": {
+    "primary": "visit_verb"
+  },
+  "voir_verbe": {
+    "primary": "see_verb"
+  },
+  "vouloir_verbe": {
+    "primary": "want_verb"
+  },
+  "voyager_verbe": {
+    "primary": "travel_verb"
+  }
+}

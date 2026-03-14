@@ -1,0 +1,365 @@
+{
+  "_metadata": {
+    "from": "nn",
+    "to": "fr",
+    "bank": "generalbank",
+    "generatedAt": "2026-03-14T15:15:55.463Z",
+    "totalLinks": 106
+  },
+  "aldri_adv": {
+    "primary": "jamais_adv"
+  },
+  "allereie_adv": {
+    "primary": "deja_adv"
+  },
+  "alltid_adv": {
+    "primary": "toujours_adv"
+  },
+  "at_conj": {
+    "primary": "que_conj"
+  },
+  "av_og_til_expr": {
+    "primary": "de_temps_en_temps_expr"
+  },
+  "av_prep": {
+    "primary": "de_prep"
+  },
+  "bak_prep": {
+    "primary": "derriere_prep"
+  },
+  "berre_adv": {
+    "primary": "seulement_adv",
+    "alternatives": [
+      "seulement_adv"
+    ]
+  },
+  "bra_adv": {
+    "primary": "bien_adv"
+  },
+  "brått_expr": {
+    "primary": "tout_a_coup_expr"
+  },
+  "der_adv": {
+    "primary": "la_adv"
+  },
+  "der_borte_adv": {
+    "primary": "la_bas_adv"
+  },
+  "dessverre_adv": {
+    "primary": "malheureusement_adv"
+  },
+  "eller_conj": {
+    "primary": "ou_conj"
+  },
+  "endeleg_adv": {
+    "primary": "enfin_adv"
+  },
+  "etter_prep": {
+    "primary": "apres_prep"
+  },
+  "etterpå_adv": {
+    "primary": "ensuite_adv"
+  },
+  "europa_propn": {
+    "primary": "europe_propn"
+  },
+  "fantastisk_interj": {
+    "primary": "formidable_interj",
+    "alternatives": [
+      "genial_interj"
+    ]
+  },
+  "for_conj": {
+    "primary": "car_conj"
+  },
+  "for_prep": {
+    "primary": "avant_prep",
+    "alternatives": [
+      "pour_prep"
+    ]
+  },
+  "foran_prep": {
+    "primary": "devant_prep"
+  },
+  "fordi_conj": {
+    "primary": "parce_que_conj"
+  },
+  "fortsatt_adv": {
+    "primary": "toujours_adv"
+  },
+  "frankrike_propn": {
+    "primary": "france_propn"
+  },
+  "fremfor_alt_adv": {
+    "primary": "surtout_adv"
+  },
+  "frå_prep": {
+    "primary": "de_prep",
+    "alternatives": [
+      "depuis_prep"
+    ]
+  },
+  "ganske_adv": {
+    "primary": "assez_adv"
+  },
+  "generelt_adv": {
+    "primary": "generalement_adv"
+  },
+  "generelt_expr": {
+    "primary": "en_general_expr"
+  },
+  "gjennom_prep": {
+    "primary": "par_prep"
+  },
+  "godt_adv": {
+    "primary": "bien_adv"
+  },
+  "heldigvis_adv": {
+    "primary": "heureusement_adv"
+  },
+  "heller_adv": {
+    "primary": "plutot_adv"
+  },
+  "helt_adv": {
+    "primary": "completement_adv"
+  },
+  "her_adv": {
+    "primary": "ici_adv"
+  },
+  "i_begynnelsen_expr": {
+    "primary": "au_debut_expr"
+  },
+  "i_dag_adv": {
+    "primary": "aujourdhui_adv"
+  },
+  "i_fjor_expr": {
+    "primary": "lannee_derniere_expr"
+  },
+  "i_morgon_adv": {
+    "primary": "demain_adv"
+  },
+  "i_prep": {
+    "primary": "a_prep",
+    "alternatives": [
+      "dans_prep"
+    ]
+  },
+  "ingen_stader_adv": {
+    "primary": "nulle_part_adv"
+  },
+  "inni_prep": {
+    "primary": "dans_prep"
+  },
+  "inntil_prep": {
+    "primary": "jusqua_prep"
+  },
+  "ja_interj": {
+    "primary": "oui_interj"
+  },
+  "kanskje_adv": {
+    "primary": "peut_etre_adv"
+  },
+  "kvar_dag_expr": {
+    "primary": "chaque_jour_expr",
+    "alternatives": [
+      "tous_les_jours_expr"
+    ]
+  },
+  "langt_frå_prep": {
+    "primary": "loin_de_prep"
+  },
+  "lite_adv": {
+    "primary": "peu_adv"
+  },
+  "med_bil_expr": {
+    "primary": "en_voiture_expr"
+  },
+  "med_buss_expr": {
+    "primary": "en_bus_expr"
+  },
+  "med_fly_expr": {
+    "primary": "en_avion_expr"
+  },
+  "med_prep": {
+    "primary": "avec_prep"
+  },
+  "med_tog_expr": {
+    "primary": "en_train_expr"
+  },
+  "mellom_prep": {
+    "primary": "entre_prep"
+  },
+  "men_conj": {
+    "primary": "mais_conj",
+    "alternatives": [
+      "or_conj"
+    ]
+  },
+  "mens_conj": {
+    "primary": "pendant_que_conj"
+  },
+  "mer_adv": {
+    "primary": "plus_adv"
+  },
+  "mindre_adv": {
+    "primary": "moins_adv"
+  },
+  "mot_prep": {
+    "primary": "vers_prep"
+  },
+  "mykje_adv": {
+    "primary": "beaucoup_adv"
+  },
+  "nede_adv": {
+    "primary": "en_bas_adv"
+  },
+  "nei_interj": {
+    "primary": "non_interj"
+  },
+  "neste_veke_expr": {
+    "primary": "la_semaine_prochaine_expr"
+  },
+  "nesten_adv": {
+    "primary": "presque_adv"
+  },
+  "nok_adv": {
+    "primary": "assez_adv"
+  },
+  "nokon_gonger_adv": {
+    "primary": "parfois_adv",
+    "alternatives": [
+      "quelquefois_adv"
+    ]
+  },
+  "norge_propn": {
+    "primary": "norvege_propn"
+  },
+  "ofte_adv": {
+    "primary": "souvent_adv"
+  },
+  "og_conj": {
+    "primary": "et_conj"
+  },
+  "om_conj": {
+    "primary": "si_conj"
+  },
+  "om_ettermiddagen_expr": {
+    "primary": "lapres_midi_expr"
+  },
+  "om_kvelden_expr": {
+    "primary": "le_soir_expr"
+  },
+  "om_morgonen_expr": {
+    "primary": "le_matin_expr"
+  },
+  "oppe_adv": {
+    "primary": "en_haut_adv"
+  },
+  "over_prep": {
+    "primary": "au_dessus_de_prep"
+  },
+  "overalt_adv": {
+    "primary": "partout_adv"
+  },
+  "overfor_prep": {
+    "primary": "en_face_de_prep"
+  },
+  "raskt_adv": {
+    "primary": "vite_adv"
+  },
+  "rundt_prep": {
+    "primary": "autour_de_prep",
+    "alternatives": [
+      "vers_prep"
+    ]
+  },
+  "sakte_adv": {
+    "primary": "lentement_adv"
+  },
+  "saman_adv": {
+    "primary": "ensemble_adv"
+  },
+  "sent_adv": {
+    "primary": "tard_adv"
+  },
+  "siden_conj": {
+    "primary": "comme_conj"
+  },
+  "siden_prep": {
+    "primary": "depuis_prep"
+  },
+  "sikkert_adv": {
+    "primary": "surement_adv"
+  },
+  "sjølv_om_conj": {
+    "primary": "bien_que_conj"
+  },
+  "snart_adv": {
+    "primary": "bientot_adv"
+  },
+  "som_conj": {
+    "primary": "comme_conj"
+  },
+  "spesielt_adv": {
+    "primary": "surtout_adv"
+  },
+  "sveits_propn": {
+    "primary": "suisse_propn"
+  },
+  "tidleg_adv": {
+    "primary": "tot_adv"
+  },
+  "til_fots_expr": {
+    "primary": "a_pied_expr"
+  },
+  "til_prep": {
+    "primary": "a_prep",
+    "alternatives": [
+      "jusqua_prep",
+      "pour_prep"
+    ]
+  },
+  "til_slutt_adv": {
+    "primary": "enfin_adv",
+    "alternatives": [
+      "finalement_adv"
+    ]
+  },
+  "under_prep": {
+    "primary": "au_dessous_de_prep",
+    "alternatives": [
+      "pendant_prep",
+      "sous_prep"
+    ]
+  },
+  "utan_prep": {
+    "primary": "sans_prep"
+  },
+  "ute_adv": {
+    "primary": "dehors_adv"
+  },
+  "vanlegvis_adv": {
+    "primary": "normalement_adv"
+  },
+  "ved_prep": {
+    "primary": "par_prep"
+  },
+  "ved_siden_av_prep": {
+    "primary": "a_cote_de_prep"
+  },
+  "veldig_adv": {
+    "primary": "tres_adv"
+  },
+  "velkommen_interj": {
+    "primary": "bienvenue_interj"
+  },
+  "verkeleg_adv": {
+    "primary": "vraiment_adv"
+  },
+  "verken_conj": {
+    "primary": "ni_conj"
+  },
+  "viss_conj": {
+    "primary": "si_conj"
+  }
+}

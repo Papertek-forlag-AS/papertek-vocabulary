@@ -2,7 +2,7 @@
   "_metadata": {
     "description": "Grammar features for progressive disclosure in lexicon-based vocabulary apps",
     "usage": "Add new features here. Both the API and the app read from this file.",
-    "updatedAt": "2026-03-13"
+    "updatedAt": "2026-03-14"
   },
   "nb": {
     "language": "Norwegian",
@@ -264,6 +264,239 @@
       { "id": "verbs", "name": "Verb", "nameEn": "Verbs" },
       { "id": "nouns", "name": "Substantiv", "nameEn": "Nouns" },
       { "id": "adjectives", "name": "Adjektiv", "nameEn": "Adjectives" }
+    ]
+  },
+  "de": {
+    "language": "German",
+    "languageNative": "Deutsch",
+    "features": [
+      {
+        "id": "grammar_de_presens",
+        "name": "Presens",
+        "nameEn": "Present Tense",
+        "description": "Nåtid — bøyning av verb i presens",
+        "descriptionEn": "Present tense verb conjugations",
+        "category": "verbs",
+        "appliesTo": ["verb"],
+        "dataPath": "conjugations.presens"
+      },
+      {
+        "id": "grammar_de_preteritum",
+        "name": "Preteritum",
+        "nameEn": "Simple Past",
+        "description": "Fortid — bøyning av verb i preteritum",
+        "descriptionEn": "Simple past tense verb conjugations",
+        "category": "verbs",
+        "appliesTo": ["verb"],
+        "dataPath": "conjugations.preteritum"
+      },
+      {
+        "id": "grammar_de_perfektum",
+        "name": "Perfektum",
+        "nameEn": "Present Perfect",
+        "description": "Sammensatt fortid med haben/sein + partisipp",
+        "descriptionEn": "Present perfect tense with haben/sein + past participle",
+        "category": "verbs",
+        "appliesTo": ["verb"],
+        "dataPath": "conjugations.perfektum"
+      },
+      {
+        "id": "grammar_de_verb_class",
+        "name": "Verbklasse",
+        "nameEn": "Verb Class",
+        "description": "Svak, sterk eller uregelmessig",
+        "descriptionEn": "Weak, strong, or irregular",
+        "category": "verbs",
+        "appliesTo": ["verb"],
+        "dataPath": "verbClass"
+      },
+      {
+        "id": "grammar_de_genus",
+        "name": "Artikler",
+        "nameEn": "Articles/Gender",
+        "description": "Grammatisk kjønn med bestemte (der/die/das) og ubestemte (ein/eine) artikler",
+        "descriptionEn": "Grammatical gender with definite (der/die/das) and indefinite (ein/eine) articles",
+        "category": "nouns",
+        "appliesTo": ["noun"],
+        "dataPath": "genus"
+      },
+      {
+        "id": "grammar_de_plural",
+        "name": "Flertall",
+        "nameEn": "Plural",
+        "description": "Flertallsformer av substantiv",
+        "descriptionEn": "Plural forms of nouns",
+        "category": "nouns",
+        "appliesTo": ["noun"],
+        "dataPath": "plural"
+      },
+      {
+        "id": "grammar_de_cases",
+        "name": "Kasusbøyning",
+        "nameEn": "Noun Declension",
+        "description": "Kasusbøyning av substantiv (nominativ, akkusativ, dativ, genitiv)",
+        "descriptionEn": "Noun case declension (nominative, accusative, dative, genitive)",
+        "category": "nouns",
+        "appliesTo": ["noun"],
+        "dataPath": "cases"
+      },
+      {
+        "id": "grammar_de_akkusativ",
+        "name": "Akkusativ",
+        "nameEn": "Accusative Case",
+        "description": "Akkusativ kasus (den/die/das, einen/eine/ein)",
+        "descriptionEn": "Accusative case forms",
+        "category": "nouns",
+        "appliesTo": ["noun"],
+        "dataPath": "cases.akkusativ"
+      },
+      {
+        "id": "grammar_de_dativ",
+        "name": "Dativ",
+        "nameEn": "Dative Case",
+        "description": "Dativ kasus (dem/der/dem, einem/einer/einem)",
+        "descriptionEn": "Dative case forms",
+        "category": "nouns",
+        "appliesTo": ["noun"],
+        "dataPath": "cases.dativ"
+      },
+      {
+        "id": "grammar_de_genitiv",
+        "name": "Genitiv",
+        "nameEn": "Genitive Case",
+        "description": "Genitiv kasus (des/der/des)",
+        "descriptionEn": "Genitive case forms",
+        "category": "nouns",
+        "appliesTo": ["noun"],
+        "dataPath": "cases.genitiv"
+      },
+      {
+        "id": "grammar_de_komparativ",
+        "name": "Komparativ",
+        "nameEn": "Comparative",
+        "description": "Gradbøyning komparativ (größer, besser)",
+        "descriptionEn": "Comparative adjective forms (bigger, better)",
+        "category": "adjectives",
+        "appliesTo": ["adj"],
+        "dataPath": "comparison.komparativ"
+      },
+      {
+        "id": "grammar_de_superlativ",
+        "name": "Superlativ",
+        "nameEn": "Superlative",
+        "description": "Gradbøyning superlativ (am größten, am besten)",
+        "descriptionEn": "Superlative adjective forms (biggest, best)",
+        "category": "adjectives",
+        "appliesTo": ["adj"],
+        "dataPath": "comparison.superlativ"
+      },
+      {
+        "id": "grammar_de_adj_declension",
+        "name": "Adjektivbøyning",
+        "nameEn": "Adjective Declension",
+        "description": "Adjektivendelser etter artikkel og kasus",
+        "descriptionEn": "Adjective endings based on article and case",
+        "category": "adjectives",
+        "appliesTo": ["adj"],
+        "dataPath": "declension"
+      }
+    ],
+    "categories": [
+      { "id": "verbs", "name": "Verb", "nameEn": "Verbs" },
+      { "id": "nouns", "name": "Substantiv", "nameEn": "Nouns" },
+      { "id": "adjectives", "name": "Adjektiv", "nameEn": "Adjectives" }
+    ]
+  },
+  "es": {
+    "language": "Spanish",
+    "languageNative": "Español",
+    "features": [
+      {
+        "id": "grammar_es_presens",
+        "name": "Presente",
+        "nameEn": "Present Tense",
+        "description": "Nåtid — bøyning av verb i presens",
+        "descriptionEn": "Present tense verb conjugations",
+        "category": "verbs",
+        "appliesTo": ["verb"],
+        "dataPath": "conjugations.presens"
+      },
+      {
+        "id": "grammar_es_genus",
+        "name": "Artículos",
+        "nameEn": "Articles/Gender",
+        "description": "Grammatisk kjønn med bestemte (el/la/los/las) og ubestemte (un/una) artikler",
+        "descriptionEn": "Grammatical gender with definite and indefinite articles",
+        "category": "nouns",
+        "appliesTo": ["noun"],
+        "dataPath": "genus"
+      },
+      {
+        "id": "grammar_es_plural",
+        "name": "Plural",
+        "nameEn": "Plural",
+        "description": "Flertallsformer",
+        "descriptionEn": "Plural forms",
+        "category": "nouns",
+        "appliesTo": ["noun"],
+        "dataPath": "plural"
+      }
+    ],
+    "categories": [
+      { "id": "verbs", "name": "Verbos", "nameEn": "Verbs" },
+      { "id": "nouns", "name": "Sustantivos", "nameEn": "Nouns" },
+      { "id": "adjectives", "name": "Adjetivos", "nameEn": "Adjectives" }
+    ]
+  },
+  "fr": {
+    "language": "French",
+    "languageNative": "Français",
+    "features": [
+      {
+        "id": "grammar_fr_presens",
+        "name": "Présent",
+        "nameEn": "Present Tense",
+        "description": "Nåtid — bøyning av verb i presens",
+        "descriptionEn": "Present tense verb conjugations",
+        "category": "verbs",
+        "appliesTo": ["verb"],
+        "dataPath": "conjugations.presens"
+      },
+      {
+        "id": "grammar_fr_genus",
+        "name": "Articles",
+        "nameEn": "Articles/Gender",
+        "description": "Grammatisk kjønn med bestemte (le/la/les) og ubestemte (un/une) artikler",
+        "descriptionEn": "Grammatical gender with definite and indefinite articles",
+        "category": "nouns",
+        "appliesTo": ["noun"],
+        "dataPath": "genus"
+      },
+      {
+        "id": "grammar_fr_plural",
+        "name": "Pluriel",
+        "nameEn": "Plural",
+        "description": "Flertallsformer",
+        "descriptionEn": "Plural forms",
+        "category": "nouns",
+        "appliesTo": ["noun"],
+        "dataPath": "plural"
+      }
+    ],
+    "categories": [
+      { "id": "verbs", "name": "Verbes", "nameEn": "Verbs" },
+      { "id": "nouns", "name": "Noms", "nameEn": "Nouns" },
+      { "id": "adjectives", "name": "Adjectifs", "nameEn": "Adjectives" }
+    ]
+  },
+  "en": {
+    "language": "English",
+    "languageNative": "English",
+    "features": [],
+    "categories": [
+      { "id": "verbs", "name": "Verbs", "nameEn": "Verbs" },
+      { "id": "nouns", "name": "Nouns", "nameEn": "Nouns" },
+      { "id": "adjectives", "name": "Adjectives", "nameEn": "Adjectives" }
     ]
   }
 }

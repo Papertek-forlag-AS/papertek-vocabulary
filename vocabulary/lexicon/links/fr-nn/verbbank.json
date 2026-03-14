@@ -1,0 +1,273 @@
+{
+  "_metadata": {
+    "from": "fr",
+    "to": "nn",
+    "bank": "verbbank",
+    "generatedAt": "2026-03-14T15:15:55.467Z",
+    "totalLinks": 76
+  },
+  "acheter_verbe": {
+    "primary": "kjøpe_verb"
+  },
+  "adorer_verbe": {
+    "primary": "elska_verb"
+  },
+  "aider_verbe": {
+    "primary": "hjelpa_verb"
+  },
+  "aimer_verbe": {
+    "primary": "lika_verb",
+    "alternatives": [
+      "elska_verb"
+    ]
+  },
+  "aller_verbe": {
+    "primary": "gå_verb",
+    "alternatives": [
+      "dra_verb"
+    ]
+  },
+  "appeler_verbe": {
+    "primary": "ringa_verb"
+  },
+  "arriver_verbe": {
+    "primary": "ankomma_verb",
+    "alternatives": [
+      "skje_verb"
+    ]
+  },
+  "attendre_verbe": {
+    "primary": "venta_verb"
+  },
+  "avoir_verbe": {
+    "primary": "ha_verb"
+  },
+  "boire_verbe": {
+    "primary": "drikka_verb"
+  },
+  "chanter_verbe": {
+    "primary": "syngja_verb"
+  },
+  "choisir_verbe": {
+    "primary": "velge_verb"
+  },
+  "commencer_verbe": {
+    "primary": "begynna_verb"
+  },
+  "connaitre_verbe": {
+    "primary": "kjenna_verb"
+  },
+  "croire_verbe": {
+    "primary": "tro_verb"
+  },
+  "cuisiner_verbe": {
+    "primary": "laga_mat_verb"
+  },
+  "danser_verbe": {
+    "primary": "danse_verb"
+  },
+  "demander_verbe": {
+    "primary": "spørja_verb",
+    "alternatives": [
+      "be_om_verb"
+    ]
+  },
+  "detester_verbe": {
+    "primary": "hate_verb"
+  },
+  "devoir_verbe": {
+    "primary": "måtta_verb"
+  },
+  "dire_verbe": {
+    "primary": "si_verb"
+  },
+  "donner_verbe": {
+    "primary": "gi_verb"
+  },
+  "dormir_verbe": {
+    "primary": "sova_verb"
+  },
+  "ecrire_verbe": {
+    "primary": "skriva_verb"
+  },
+  "entendre_verbe": {
+    "primary": "høyra_verb"
+  },
+  "etre_verbe": {
+    "primary": "vera_verb"
+  },
+  "etudier_verbe": {
+    "primary": "studere_verb"
+  },
+  "expliquer_verbe": {
+    "primary": "forklare_verb"
+  },
+  "faire_verbe": {
+    "primary": "gjera_verb",
+    "alternatives": [
+      "laga_verb"
+    ]
+  },
+  "fermer_verbe": {
+    "primary": "lukka_verb"
+  },
+  "grandir_verbe": {
+    "primary": "veksa_verb"
+  },
+  "habiter_verbe": {
+    "primary": "bo_verb"
+  },
+  "inviter_verbe": {
+    "primary": "invitere_verb"
+  },
+  "jouer_verbe": {
+    "primary": "spilla_verb"
+  },
+  "lire_verbe": {
+    "primary": "lesa_verb"
+  },
+  "manger_verbe": {
+    "primary": "eta_verb"
+  },
+  "marcher_verbe": {
+    "primary": "gå_verb",
+    "alternatives": [
+      "virka_verb"
+    ]
+  },
+  "montrer_verbe": {
+    "primary": "vise_verb"
+  },
+  "nager_verbe": {
+    "primary": "svømma_verb"
+  },
+  "offrir_verbe": {
+    "primary": "tilby_verb",
+    "alternatives": [
+      "gi_verb"
+    ]
+  },
+  "oublier_verbe": {
+    "primary": "glemma_verb"
+  },
+  "ouvrir_verbe": {
+    "primary": "åpne_verb"
+  },
+  "parler_verbe": {
+    "primary": "snakka_verb"
+  },
+  "partir_verbe": {
+    "primary": "dra_verb",
+    "alternatives": [
+      "reise_verb"
+    ]
+  },
+  "payer_verbe": {
+    "primary": "betale_verb"
+  },
+  "penser_verbe": {
+    "primary": "tenka_verb"
+  },
+  "perdre_verbe": {
+    "primary": "mista_verb",
+    "alternatives": [
+      "tape_verb"
+    ]
+  },
+  "porter_verbe": {
+    "primary": "bera_verb",
+    "alternatives": [
+      "ha_på_seg_verb"
+    ]
+  },
+  "pouvoir_verbe": {
+    "primary": "kunna_verb"
+  },
+  "preferer_verbe": {
+    "primary": "foretrekka_verb"
+  },
+  "prendre_verbe": {
+    "primary": "ta_verb"
+  },
+  "quitter_verbe": {
+    "primary": "forlate_verb"
+  },
+  "raconter_verbe": {
+    "primary": "fortelja_verb"
+  },
+  "reflechir_verbe": {
+    "primary": "tenka_verb"
+  },
+  "regarder_verbe": {
+    "primary": "se_på_verb"
+  },
+  "repondre_verbe": {
+    "primary": "svare_verb"
+  },
+  "rester_verbe": {
+    "primary": "bli_verb",
+    "alternatives": [
+      "forbli_verb"
+    ]
+  },
+  "reussir_verbe": {
+    "primary": "lykkes_verb"
+  },
+  "savoir_verbe": {
+    "primary": "vita_verb",
+    "alternatives": [
+      "kunna_verb"
+    ]
+  },
+  "se_appeler_verbe": {
+    "primary": "heita_verb"
+  },
+  "se_coucher_verbe": {
+    "primary": "leggja_seg_verb"
+  },
+  "se_laver_verbe": {
+    "primary": "vaska_seg_verb"
+  },
+  "se_lever_verbe": {
+    "primary": "stå_opp_verb"
+  },
+  "se_promener_verbe": {
+    "primary": "gå_tur_verb"
+  },
+  "se_reposer_verbe": {
+    "primary": "kvile_verb"
+  },
+  "se_reveiller_verbe": {
+    "primary": "våkne_verb"
+  },
+  "sortir_verbe": {
+    "primary": "gå_ut_verb"
+  },
+  "terminer_verbe": {
+    "primary": "avslutta_verb"
+  },
+  "tomber_verbe": {
+    "primary": "falla_verb"
+  },
+  "travailler_verbe": {
+    "primary": "jobba_verb"
+  },
+  "trouver_verbe": {
+    "primary": "finna_verb"
+  },
+  "venir_verbe": {
+    "primary": "koma_verb"
+  },
+  "visiter_verbe": {
+    "primary": "besøke_verb"
+  },
+  "voir_verbe": {
+    "primary": "se_verb"
+  },
+  "vouloir_verbe": {
+    "primary": "vilja_verb"
+  },
+  "voyager_verbe": {
+    "primary": "reise_verb"
+  }
+}

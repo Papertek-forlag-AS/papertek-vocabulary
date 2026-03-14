@@ -35,6 +35,7 @@ export default async function handler(req, res) {
           banks: manifest.banks || {},
           lookupEndpoint: `/api/vocab/v3/lookup/${lang}/{wordId}`,
           searchEndpoint: `/api/vocab/v3/search/${lang}`,
+          listEndpoint: `/api/vocab/v3/list/${lang}`,
         };
       }
     }

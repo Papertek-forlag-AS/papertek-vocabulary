@@ -1,0 +1,47 @@
+{
+  "_metadata": {
+    "from": "nb",
+    "to": "fr",
+    "bank": "articlesbank",
+    "generatedAt": "2026-03-14T15:15:50.000Z",
+    "totalLinks": 6
+  },
+  "av_contr": {
+    "primary": "du_contr",
+    "alternatives": [
+      "des_contr"
+    ]
+  },
+  "den_art": {
+    "primary": "le_article",
+    "alternatives": [
+      "la_article",
+      "l_article"
+    ]
+  },
+  "det_art": {
+    "primary": "le_article",
+    "alternatives": [
+      "la_article",
+      "l_article"
+    ]
+  },
+  "en_art": {
+    "primary": "un_article",
+    "alternatives": [
+      "une_article"
+    ]
+  },
+  "fra_contr": {
+    "primary": "du_contr",
+    "alternatives": [
+      "des_contr"
+    ]
+  },
+  "til_contr": {
+    "primary": "au_contr",
+    "alternatives": [
+      "aux_contr"
+    ]
+  }
+}

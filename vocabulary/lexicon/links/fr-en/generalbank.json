@@ -1,0 +1,412 @@
+{
+  "_metadata": {
+    "from": "fr",
+    "to": "en",
+    "bank": "generalbank",
+    "generatedAt": "2026-03-14T15:15:49.999Z",
+    "totalLinks": 118
+  },
+  "a_cote_de_prep": {
+    "primary": "next_to_prep"
+  },
+  "a_pied_expr": {
+    "primary": "on_foot_expr"
+  },
+  "a_prep": {
+    "primary": "to_prep",
+    "alternatives": [
+      "at_prep",
+      "in_prep"
+    ]
+  },
+  "apres_prep": {
+    "primary": "after_prep"
+  },
+  "assez_adv": {
+    "primary": "quite_adv",
+    "alternatives": [
+      "enough_adv"
+    ]
+  },
+  "au_debut_expr": {
+    "primary": "at_the_beginning_expr"
+  },
+  "au_dessous_de_prep": {
+    "primary": "below_prep"
+  },
+  "au_dessus_de_prep": {
+    "primary": "above_prep"
+  },
+  "aujourdhui_adv": {
+    "primary": "today_adv"
+  },
+  "aussi_adv": {
+    "primary": "also_adv"
+  },
+  "autour_de_prep": {
+    "primary": "around_prep"
+  },
+  "avant_prep": {
+    "primary": "before_prep"
+  },
+  "avec_prep": {
+    "primary": "with_prep"
+  },
+  "beaucoup_adv": {
+    "primary": "much_adv"
+  },
+  "bien_adv": {
+    "primary": "well_adv"
+  },
+  "bien_que_conj": {
+    "primary": "although_conj"
+  },
+  "bientot_adv": {
+    "primary": "soon_adv"
+  },
+  "bienvenue_interj": {
+    "primary": "welcome_interj"
+  },
+  "car_conj": {
+    "primary": "for_conj",
+    "alternatives": [
+      "because_conj"
+    ]
+  },
+  "chaque_jour_expr": {
+    "primary": "every_day_expr"
+  },
+  "comme_conj": {
+    "primary": "as_conj",
+    "alternatives": [
+      "since_conj"
+    ]
+  },
+  "completement_adv": {
+    "primary": "completely_adv"
+  },
+  "dabord_adv": {
+    "primary": "first_adv"
+  },
+  "dans_prep": {
+    "primary": "in_prep",
+    "alternatives": [
+      "inside_prep"
+    ]
+  },
+  "de_prep": {
+    "primary": "of_prep",
+    "alternatives": [
+      "from_prep"
+    ]
+  },
+  "de_temps_en_temps_expr": {
+    "primary": "from_time_to_time_expr"
+  },
+  "dedans_adv": {
+    "primary": "inside_adv"
+  },
+  "dehors_adv": {
+    "primary": "outside_adv"
+  },
+  "deja_adv": {
+    "primary": "already_adv"
+  },
+  "demain_adv": {
+    "primary": "tomorrow_adv"
+  },
+  "depuis_prep": {
+    "primary": "since_prep",
+    "alternatives": [
+      "from_prep"
+    ]
+  },
+  "derriere_prep": {
+    "primary": "behind_prep"
+  },
+  "devant_prep": {
+    "primary": "in_front_of_prep"
+  },
+  "donc_conj": {
+    "primary": "so_conj"
+  },
+  "en_avion_expr": {
+    "primary": "by_plane_expr"
+  },
+  "en_bus_expr": {
+    "primary": "by_bus_expr"
+  },
+  "en_face_de_prep": {
+    "primary": "opposite_prep"
+  },
+  "en_fait_expr": {
+    "primary": "actually_expr"
+  },
+  "en_general_expr": {
+    "primary": "in_general_expr"
+  },
+  "en_train_expr": {
+    "primary": "by_train_expr"
+  },
+  "en_voiture_expr": {
+    "primary": "by_car_expr"
+  },
+  "encore_adv": {
+    "primary": "still_adv",
+    "alternatives": [
+      "again_adv"
+    ]
+  },
+  "enfin_adv": {
+    "primary": "finally_adv"
+  },
+  "ensemble_adv": {
+    "primary": "together_adv"
+  },
+  "ensuite_adv": {
+    "primary": "then_adv",
+    "alternatives": [
+      "next_adv"
+    ]
+  },
+  "entre_prep": {
+    "primary": "between_prep"
+  },
+  "et_conj": {
+    "primary": "and_conj"
+  },
+  "europe_propn": {
+    "primary": "europe_propn"
+  },
+  "finalement_adv": {
+    "primary": "finally_adv"
+  },
+  "france_propn": {
+    "primary": "france_propn"
+  },
+  "generalement_adv": {
+    "primary": "generally_adv"
+  },
+  "genial_interj": {
+    "primary": "great_interj"
+  },
+  "heureusement_adv": {
+    "primary": "fortunately_adv"
+  },
+  "hier_adv": {
+    "primary": "yesterday_adv"
+  },
+  "ici_adv": {
+    "primary": "here_adv"
+  },
+  "jamais_adv": {
+    "primary": "never_adv"
+  },
+  "jusqua_prep": {
+    "primary": "until_prep",
+    "alternatives": [
+      "up_to_prep"
+    ]
+  },
+  "la_adv": {
+    "primary": "there_adv"
+  },
+  "la_bas_adv": {
+    "primary": "over_there_adv"
+  },
+  "la_nuit_expr": {
+    "primary": "at_night_expr"
+  },
+  "la_semaine_prochaine_expr": {
+    "primary": "next_week_expr"
+  },
+  "lannee_derniere_expr": {
+    "primary": "last_year_expr"
+  },
+  "lannee_prochaine_expr": {
+    "primary": "next_year_expr"
+  },
+  "lapres_midi_expr": {
+    "primary": "in_the_afternoon_expr"
+  },
+  "le_matin_expr": {
+    "primary": "in_the_morning_expr"
+  },
+  "le_soir_expr": {
+    "primary": "in_the_evening_expr"
+  },
+  "lentement_adv": {
+    "primary": "slowly_adv"
+  },
+  "loin_de_prep": {
+    "primary": "far_from_prep"
+  },
+  "maintenant_adv": {
+    "primary": "now_adv"
+  },
+  "mais_conj": {
+    "primary": "but_conj"
+  },
+  "mal_adv": {
+    "primary": "badly_adv"
+  },
+  "malheureusement_adv": {
+    "primary": "unfortunately_adv"
+  },
+  "moins_adv": {
+    "primary": "less_adv"
+  },
+  "ni_conj": {
+    "primary": "neither_conj",
+    "alternatives": [
+      "nor_conj"
+    ]
+  },
+  "non_interj": {
+    "primary": "no_interj"
+  },
+  "normalement_adv": {
+    "primary": "normally_adv"
+  },
+  "norvege_propn": {
+    "primary": "norway_propn"
+  },
+  "nulle_part_adv": {
+    "primary": "nowhere_adv"
+  },
+  "ou_conj": {
+    "primary": "or_conj"
+  },
+  "oui_interj": {
+    "primary": "yes_interj"
+  },
+  "par_prep": {
+    "primary": "by_prep",
+    "alternatives": [
+      "through_prep"
+    ]
+  },
+  "parce_que_conj": {
+    "primary": "because_conj"
+  },
+  "parfois_adv": {
+    "primary": "sometimes_adv"
+  },
+  "partout_adv": {
+    "primary": "everywhere_adv"
+  },
+  "pendant_prep": {
+    "primary": "during_prep"
+  },
+  "pendant_que_conj": {
+    "primary": "while_conj"
+  },
+  "peu_adv": {
+    "primary": "little_adv"
+  },
+  "peut_etre_adv": {
+    "primary": "maybe_adv"
+  },
+  "plus_adv": {
+    "primary": "more_adv"
+  },
+  "plutot_adv": {
+    "primary": "rather_adv"
+  },
+  "pour_prep": {
+    "primary": "for_prep",
+    "alternatives": [
+      "to_prep"
+    ]
+  },
+  "pres_de_prep": {
+    "primary": "near_prep"
+  },
+  "presque_adv": {
+    "primary": "almost_adv"
+  },
+  "puis_adv": {
+    "primary": "then_adv"
+  },
+  "puisque_conj": {
+    "primary": "since_conj",
+    "alternatives": [
+      "as_conj"
+    ]
+  },
+  "quand_conj": {
+    "primary": "when_conj"
+  },
+  "que_conj": {
+    "primary": "that_conj"
+  },
+  "quelquefois_adv": {
+    "primary": "sometimes_adv"
+  },
+  "sans_prep": {
+    "primary": "without_prep"
+  },
+  "seulement_adv": {
+    "primary": "only_adv"
+  },
+  "si_conj": {
+    "primary": "if_conj"
+  },
+  "si_interj": {
+    "primary": "yes_interj"
+  },
+  "sous_prep": {
+    "primary": "under_prep"
+  },
+  "souvent_adv": {
+    "primary": "often_adv"
+  },
+  "suisse_propn": {
+    "primary": "switzerland_propn"
+  },
+  "super_interj": {
+    "primary": "great_interj"
+  },
+  "sur_prep": {
+    "primary": "on_prep"
+  },
+  "surement_adv": {
+    "primary": "surely_adv"
+  },
+  "surtout_adv": {
+    "primary": "especially_adv"
+  },
+  "tard_adv": {
+    "primary": "late_adv"
+  },
+  "tot_adv": {
+    "primary": "early_adv"
+  },
+  "toujours_adv": {
+    "primary": "always_adv",
+    "alternatives": [
+      "still_adv"
+    ]
+  },
+  "tous_les_jours_expr": {
+    "primary": "every_day_expr"
+  },
+  "tout_a_coup_expr": {
+    "primary": "suddenly_expr"
+  },
+  "tres_adv": {
+    "primary": "very_adv"
+  },
+  "vers_prep": {
+    "primary": "towards_prep",
+    "alternatives": [
+      "around_prep"
+    ]
+  },
+  "vite_adv": {
+    "primary": "quickly_adv"
+  },
+  "vraiment_adv": {
+    "primary": "really_adv"
+  }
+}
