@@ -3,11 +3,11 @@
     "language": "nn",
     "languageName": "Norsk nynorsk",
     "bank": "verbbank",
-    "generatedAt": "2026-03-14T08:03:48.781Z",
+    "generatedAt": "2026-03-14T08:59:45.179Z",
     "description": "Norwegian Nynorsk verbbank — generated from Bokmål via NB→NN transformation",
     "totalEntries": 663,
-    "enrichedEntries": 648,
-    "skeletonEntries": 15
+    "enrichedEntries": 580,
+    "skeletonEntries": 83
   },
   "advare_verb": {
     "word": "advare",
@@ -58,22 +58,7 @@
   "allereie_gå_verb": {
     "word": "allereie gå",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å allereie gå",
-          "presens": "allereier gå",
-          "preteritum": "allereite gå",
-          "perfektum_partisipp": "allereit",
-          "imperativ": "allerei gå"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "allerede_gå_verb",
     "_generatedFrom": "de-nb/verbbank.json:schon_laufen_verb"
@@ -203,8 +188,8 @@
         "former": {
           "infinitiv": "å anmelde",
           "presens": "anmelder",
-          "preteritum": "anmeldde",
-          "perfektum_partisipp": "anmeldd",
+          "preteritum": "anmelde",
+          "perfektum_partisipp": "anmeldt",
           "imperativ": "anmeld"
         },
         "auxiliary": "har",
@@ -472,22 +457,7 @@
   "avslutte_å_fullføre_verb": {
     "word": "avslutte, å fullføre",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å avslutte, å fullføre",
-          "presens": "avslutte,r å fullføre",
-          "preteritum": "avslutte,dde å fullføre",
-          "perfektum_partisipp": "avslutte,dd",
-          "imperativ": "avslutte, å fullføre"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "avslutte_å_fullføre_verb",
     "_generatedFrom": "es-nb/verbbank.json:terminar_verb"
@@ -570,9 +540,9 @@
       "presens": {
         "former": {
           "infinitiv": "å bade",
-          "presens": "bader",
-          "preteritum": "badde",
-          "perfektum_partisipp": "badd",
+          "presens": "badar",
+          "preteritum": "bada",
+          "perfektum_partisipp": "bada",
           "imperativ": "bad"
         },
         "auxiliary": "har",
@@ -587,22 +557,7 @@
   "bak_verb": {
     "word": "bak",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å bak",
-          "presens": "bakr",
-          "preteritum": "bakdde",
-          "perfektum_partisipp": "bakdd",
-          "imperativ": "bak"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "bak_verb",
     "_generatedFrom": "de-nb/verbbank.json:hinten_verb"
@@ -1009,22 +964,7 @@
   "best_verb": {
     "word": "best",
     "type": "verb",
-    "verbClass": "uregelmessig",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å best",
-          "presens": "best",
-          "preteritum": "betest",
-          "perfektum_partisipp": "best",
-          "imperativ": "-"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "best_verb",
     "_generatedFrom": "de-nb/verbbank.json:am_besten_verb"
@@ -1538,22 +1478,7 @@
   "bo_å_leve_verb": {
     "word": "bo, å leve",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å bo, å leve",
-          "presens": "bo,r å leve",
-          "preteritum": "bo,dde å leve",
-          "perfektum_partisipp": "bo,dd",
-          "imperativ": "bo, å leve"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "bo_å_leve_verb",
     "_generatedFrom": "es-nb/verbbank.json:vivir_verb"
@@ -1785,22 +1710,7 @@
   "bør_verb": {
     "word": "bør",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å bør",
-          "presens": "børr",
-          "preteritum": "børdde",
-          "perfektum_partisipp": "børdd",
-          "imperativ": "bør"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "bør_verb",
     "_generatedFrom": "de-nb/verbbank.json:sollen_verb"
@@ -1854,22 +1764,7 @@
   "dei_fleste_mennesker_verb": {
     "word": "dei fleste mennesker",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å dei fleste mennesker",
-          "presens": "deir fleste mennesker",
-          "preteritum": "deidde fleste mennesker",
-          "perfektum_partisipp": "deidd",
-          "imperativ": "dei fleste mennesker"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "de_fleste_mennesker_verb",
     "_generatedFrom": "de-nb/verbbank.json:meistder_mensch_verb"
@@ -1954,22 +1849,7 @@
   "der_borte_verb": {
     "word": "der borte",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å der borte",
-          "presens": "derr borte",
-          "preteritum": "derdde borte",
-          "perfektum_partisipp": "derdd",
-          "imperativ": "der borte"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "der_borte_verb",
     "_generatedFrom": "de-nb/verbbank.json:drueben_verb"
@@ -1977,22 +1857,7 @@
   "derimot_verb": {
     "word": "derimot",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å derimot",
-          "presens": "derimotr",
-          "preteritum": "derimotdde",
-          "perfektum_partisipp": "derimotdd",
-          "imperativ": "derimot"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "derimot_verb",
     "_generatedFrom": "de-nb/verbbank.json:dagegen_verb"
@@ -2069,22 +1934,7 @@
   "dra_å_gå_verb": {
     "word": "dra, å gå",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å dra, å gå",
-          "presens": "dra,r å gå",
-          "preteritum": "dra,dde å gå",
-          "perfektum_partisipp": "dra,dd",
-          "imperativ": "dra, å gå"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "dra_å_gå_verb",
     "_generatedFrom": "es-nb/verbbank.json:irse_verb"
@@ -2167,9 +2017,9 @@
       "presens": {
         "former": {
           "infinitiv": "å dusje",
-          "presens": "dusjer",
-          "preteritum": "dusjte",
-          "perfektum_partisipp": "dusjt",
+          "presens": "dusjar",
+          "preteritum": "dusja",
+          "perfektum_partisipp": "dusja",
           "imperativ": "dusj"
         },
         "auxiliary": "har",
@@ -2207,22 +2057,7 @@
   "død_verb": {
     "word": "død",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å død",
-          "presens": "dødr",
-          "preteritum": "døddde",
-          "perfektum_partisipp": "døddd",
-          "imperativ": "død"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "død_verb",
     "_generatedFrom": "de-nb/verbbank.json:gestorben_verb"
@@ -2230,22 +2065,7 @@
   "døde_i_går_verb": {
     "word": "døde i går",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å døde i går",
-          "presens": "døder i går",
-          "preteritum": "dødde i går",
-          "perfektum_partisipp": "dødd",
-          "imperativ": "død i går"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "døde_i_går_verb",
     "_generatedFrom": "de-nb/verbbank.json:gestern_gestorben_verb"
@@ -2376,22 +2196,7 @@
   "enig_verb": {
     "word": "enig",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å enig",
-          "presens": "enigr",
-          "preteritum": "enigdde",
-          "perfektum_partisipp": "enigdd",
-          "imperativ": "enig"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "enig_verb",
     "_generatedFrom": "de-nb/verbbank.json:einverstanden_verb"
@@ -2399,22 +2204,7 @@
   "enkeltvis_verb": {
     "word": "enkeltvis",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å enkeltvis",
-          "presens": "enkeltvisr",
-          "preteritum": "enkeltvisdde",
-          "perfektum_partisipp": "enkeltvisdd",
-          "imperativ": "enkeltvis"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "enkeltvis_verb",
     "_generatedFrom": "de-nb/verbbank.json:einzeln_verb"
@@ -2422,22 +2212,7 @@
   "er_enig_verb": {
     "word": "er enig",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å er enig",
-          "presens": "err enig",
-          "preteritum": "erdde enig",
-          "perfektum_partisipp": "erdd",
-          "imperativ": "er enig"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "er_enig_verb",
     "_generatedFrom": "de-nb/verbbank.json:bin_einverstanden_verb"
@@ -2721,22 +2496,7 @@
   "fem_oppgaver_verb": {
     "word": "fem oppgaver",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å fem oppgaver",
-          "presens": "femr oppgaver",
-          "preteritum": "femdde oppgaver",
-          "perfektum_partisipp": "femdd",
-          "imperativ": "fem oppgaver"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "fem_oppgaver_verb",
     "_generatedFrom": "de-nb/verbbank.json:fuenf_aufgaben_verb"
@@ -2836,22 +2596,7 @@
   "finne_å_møte_verb": {
     "word": "finne, å møte",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å finne, å møte",
-          "presens": "finne,r å møte",
-          "preteritum": "finne,dde å møte",
-          "perfektum_partisipp": "finne,dd",
-          "imperativ": "finne, å møte"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "finne_å_møte_verb",
     "_generatedFrom": "es-nb/verbbank.json:encontrar_verb"
@@ -3052,7 +2797,7 @@
           "infinitiv": "å forbli",
           "presens": "forblir",
           "preteritum": "forblei",
-          "perfektum_partisipp": "forblidd",
+          "perfektum_partisipp": "forblitt",
           "imperativ": "forbli"
         },
         "auxiliary": "er",
@@ -3063,29 +2808,6 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "forbli_verb",
     "_generatedFrom": "de-nb/verbbank.json:bleiben_verb"
-  },
-  "forbode_verb": {
-    "word": "forbode",
-    "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å forbode",
-          "presens": "forboder",
-          "preteritum": "forbodde",
-          "perfektum_partisipp": "forbodd",
-          "imperativ": "forbod"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "forbudt_verb",
-    "_generatedFrom": "de-nb/verbbank.json:verboten_verb"
   },
   "forbruke_verb": {
     "word": "forbruke",
@@ -3109,6 +2831,29 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "forbruke_verb",
     "_generatedFrom": "de-nb/verbbank.json:konsumieren_verb, de-nb/verbbank.json:verbrauchen_verb"
+  },
+  "forby_verb": {
+    "word": "forby",
+    "type": "verb",
+    "verbClass": "sterk",
+    "auxiliary": "har",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å forby",
+          "presens": "forbyr",
+          "preteritum": "forbaud",
+          "perfektum_partisipp": "forbode",
+          "imperativ": "forby"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "_enriched": true,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "forbudt_verb",
+    "_generatedFrom": "de-nb/verbbank.json:verboten_verb"
   },
   "fordele_verb": {
     "word": "fordele",
@@ -3366,22 +3111,7 @@
   "fornøyd_med_det_verb": {
     "word": "fornøyd med det",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å fornøyd med det",
-          "presens": "fornøydr med det",
-          "preteritum": "fornøyddde med det",
-          "perfektum_partisipp": "fornøyddd",
-          "imperativ": "fornøyd med det"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "fornøyd_med_det_verb",
     "_generatedFrom": "de-nb/verbbank.json:damit_zufrieden_verb"
@@ -3435,22 +3165,7 @@
   "forskjelleg_verb": {
     "word": "forskjelleg",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å forskjelleg",
-          "presens": "forskjellegr",
-          "preteritum": "forskjellegdde",
-          "perfektum_partisipp": "forskjellegdd",
-          "imperativ": "forskjelleg"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "forskjellig_verb",
     "_generatedFrom": "de-nb/verbbank.json:verschieden_verb"
@@ -3918,22 +3633,7 @@
   "født_verb": {
     "word": "født",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å født",
-          "presens": "fødtr",
-          "preteritum": "fødtdde",
-          "perfektum_partisipp": "fødtdd",
-          "imperativ": "født"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "født_verb",
     "_generatedFrom": "de-nb/verbbank.json:geboren_verb"
@@ -4010,22 +3710,7 @@
   "følge_å_fortsette_verb": {
     "word": "følge, å fortsette",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å følge, å fortsette",
-          "presens": "følge,r å fortsette",
-          "preteritum": "følge,dde å fortsette",
-          "perfektum_partisipp": "følge,dd",
-          "imperativ": "følge, å fortsette"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "følge_å_fortsette_verb",
     "_generatedFrom": "es-nb/verbbank.json:seguir_verb"
@@ -4340,22 +4025,7 @@
   "gjera_å_lage_verb": {
     "word": "gjera, å lage",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å gjera, å lage",
-          "presens": "gjera,r å lage",
-          "preteritum": "gjera,dde å lage",
-          "perfektum_partisipp": "gjera,dd",
-          "imperativ": "gjera, å lage"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "gjøre_å_lage_verb",
     "_generatedFrom": "es-nb/verbbank.json:hacer_verb"
@@ -4893,22 +4563,7 @@
   "gå_å_dra_verb": {
     "word": "gå, å dra",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å gå, å dra",
-          "presens": "gå,r å dra",
-          "preteritum": "gå,dde å dra",
-          "perfektum_partisipp": "gå,dd",
-          "imperativ": "gå, å dra"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "gå_å_dra_verb",
     "_generatedFrom": "es-nb/verbbank.json:ir_verb"
@@ -4916,22 +4571,7 @@
   "gå_å_spasere_verb": {
     "word": "gå, å spasere",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å gå, å spasere",
-          "presens": "gå,r å spasere",
-          "preteritum": "gå,dde å spasere",
-          "perfektum_partisipp": "gå,dd",
-          "imperativ": "gå, å spasere"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "gå_å_spasere_verb",
     "_generatedFrom": "es-nb/verbbank.json:caminar_verb"
@@ -5146,22 +4786,7 @@
   "helst_verb": {
     "word": "helst",
     "type": "verb",
-    "verbClass": "uregelmessig",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å helst",
-          "presens": "helst",
-          "preteritum": "heltest",
-          "perfektum_partisipp": "helst",
-          "imperativ": "-"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "helst_verb",
     "_generatedFrom": "de-nb/verbbank.json:am_liebsten_verb"
@@ -5192,22 +4817,7 @@
   "hengt_verb": {
     "word": "hengt",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å hengt",
-          "presens": "hengtr",
-          "preteritum": "hengtdde",
-          "perfektum_partisipp": "hengtdd",
-          "imperativ": "hengt"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "hengt_verb",
     "_generatedFrom": "de-nb/verbbank.json:gehangen_verb"
@@ -5476,22 +5086,7 @@
   "i_forgårs_verb": {
     "word": "i forgårs",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å i forgårs",
-          "presens": "ir forgårs",
-          "preteritum": "idde forgårs",
-          "perfektum_partisipp": "idd",
-          "imperativ": "i forgårs"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "i_forgårs_verb",
     "_generatedFrom": "de-nb/verbbank.json:vorgestern_verb"
@@ -5499,22 +5094,7 @@
   "i_går_verb": {
     "word": "i går",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å i går",
-          "presens": "ir går",
-          "preteritum": "idde går",
-          "perfektum_partisipp": "idd",
-          "imperativ": "i går"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "i_går_verb",
     "_generatedFrom": "de-nb/verbbank.json:gestern_verb"
@@ -5522,22 +5102,7 @@
   "i_mellomtiden_verb": {
     "word": "i mellomtiden",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å i mellomtiden",
-          "presens": "ir mellomtiden",
-          "preteritum": "idde mellomtiden",
-          "perfektum_partisipp": "idd",
-          "imperativ": "i mellomtiden"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "i_mellomtiden_verb",
     "_generatedFrom": "de-nb/verbbank.json:inzwischen_verb"
@@ -5545,22 +5110,7 @@
   "i_overmorgon_verb": {
     "word": "i overmorgon",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å i overmorgon",
-          "presens": "ir overmorgon",
-          "preteritum": "idde overmorgon",
-          "perfektum_partisipp": "idd",
-          "imperativ": "i overmorgon"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "i_overmorgen_verb",
     "_generatedFrom": "de-nb/verbbank.json:uebermorgen_verb"
@@ -5568,22 +5118,7 @@
   "i_sør_verb": {
     "word": "i sør",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å i sør",
-          "presens": "ir sør",
-          "preteritum": "idde sør",
-          "perfektum_partisipp": "idd",
-          "imperativ": "i sør"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "i_sør_verb",
     "_generatedFrom": "de-nb/verbbank.json:im_sueden_verb"
@@ -6012,9 +5547,9 @@
       "presens": {
         "former": {
           "infinitiv": "å kjenna",
-          "presens": "kjennar",
-          "preteritum": "kjenna",
-          "perfektum_partisipp": "kjenna",
+          "presens": "kjenner",
+          "preteritum": "kjende",
+          "perfektum_partisipp": "kjent",
           "imperativ": "kjenn"
         },
         "auxiliary": "har",
@@ -6336,22 +5871,7 @@
   "knuse_å_brekke_verb": {
     "word": "knuse, å brekke",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å knuse, å brekke",
-          "presens": "knuse,r å brekke",
-          "preteritum": "knuse,dde å brekke",
-          "perfektum_partisipp": "knuse,dd",
-          "imperativ": "knuse, å brekke"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "knuse_å_brekke_verb",
     "_generatedFrom": "es-nb/verbbank.json:romper_verb"
@@ -6917,9 +6437,9 @@
       "presens": {
         "former": {
           "infinitiv": "å lade opp",
-          "presens": "lader opp",
-          "preteritum": "ladde opp",
-          "perfektum_partisipp": "ladd",
+          "presens": "ladar opp",
+          "preteritum": "lada opp",
+          "perfektum_partisipp": "lada",
           "imperativ": "lad opp"
         },
         "auxiliary": "har",
@@ -7257,22 +6777,7 @@
   "lest_verb": {
     "word": "lest",
     "type": "verb",
-    "verbClass": "uregelmessig",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å lest",
-          "presens": "lest",
-          "preteritum": "letest",
-          "perfektum_partisipp": "lest",
-          "imperativ": "-"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "lest_verb",
     "_generatedFrom": "de-nb/verbbank.json:gelesen_verb"
@@ -7518,22 +7023,7 @@
   "litt_verb": {
     "word": "litt",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å litt",
-          "presens": "littr",
-          "preteritum": "littdde",
-          "perfektum_partisipp": "littdd",
-          "imperativ": "litt"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "litt_verb",
     "_generatedFrom": "de-nb/verbbank.json:bisschen_verb"
@@ -8024,22 +7514,7 @@
   "men_verb": {
     "word": "men",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å men",
-          "presens": "menr",
-          "preteritum": "mendde",
-          "perfektum_partisipp": "mendd",
-          "imperativ": "men"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "men_verb",
     "_generatedFrom": "de-nb/verbbank.json:sondern_verb"
@@ -8053,10 +7528,10 @@
       "presens": {
         "former": {
           "infinitiv": "å mene",
-          "presens": "mener",
-          "preteritum": "mena",
-          "perfektum_partisipp": "mena",
-          "imperativ": "men"
+          "presens": "meiner",
+          "preteritum": "meinte",
+          "perfektum_partisipp": "meint",
+          "imperativ": "mein"
         },
         "auxiliary": "har",
         "feature": "grammar_nn_presens"
@@ -8093,22 +7568,7 @@
   "midt_i_verb": {
     "word": "midt i",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å midt i",
-          "presens": "midtr i",
-          "preteritum": "midtdde i",
-          "perfektum_partisipp": "midtdd",
-          "imperativ": "midt i"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "midt_i_verb",
     "_generatedFrom": "de-nb/verbbank.json:mitten_verb"
@@ -8162,22 +7622,7 @@
   "miste_å_tape_verb": {
     "word": "miste, å tape",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å miste, å tape",
-          "presens": "miste,r å tape",
-          "preteritum": "miste,dde å tape",
-          "perfektum_partisipp": "miste,dd",
-          "imperativ": "miste, å tape"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "miste_å_tape_verb",
     "_generatedFrom": "es-nb/verbbank.json:perder_verb"
@@ -8323,22 +7768,7 @@
   "måtte_å_skylde_verb": {
     "word": "måtte, å skylde",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å måtte, å skylde",
-          "presens": "måtte,r å skylde",
-          "preteritum": "måtte,dde å skylde",
-          "perfektum_partisipp": "måtte,dd",
-          "imperativ": "måtte, å skylde"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "måtte_å_skylde_verb",
     "_generatedFrom": "es-nb/verbbank.json:deber_verb"
@@ -8392,22 +7822,7 @@
   "nede_verb": {
     "word": "nede",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å nede",
-          "presens": "neder",
-          "preteritum": "nedde",
-          "perfektum_partisipp": "nedd",
-          "imperativ": "ned"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "nede_verb",
     "_generatedFrom": "de-nb/verbbank.json:unten_verb"
@@ -8438,22 +7853,7 @@
   "nettopp_verb": {
     "word": "nettopp",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å nettopp",
-          "presens": "nettoppr",
-          "preteritum": "nettoppdde",
-          "perfektum_partisipp": "nettoppdd",
-          "imperativ": "nettopp"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "nettopp_verb",
     "_generatedFrom": "de-nb/verbbank.json:eben_verb"
@@ -8484,22 +7884,7 @@
   "no_verb": {
     "word": "no",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å no",
-          "presens": "nor",
-          "preteritum": "nodde",
-          "perfektum_partisipp": "nodd",
-          "imperativ": "no"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "nå_verb",
     "_generatedFrom": "de-nb/verbbank.json:erreichen_verb"
@@ -8599,22 +7984,7 @@
   "og_eldre_verb": {
     "word": "og eldre",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å og eldre",
-          "presens": "ogr eldre",
-          "preteritum": "ogdde eldre",
-          "perfektum_partisipp": "ogdd",
-          "imperativ": "og eldre"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "og_eldre_verb",
     "_generatedFrom": "de-nb/verbbank.json:und_senioren_verb"
@@ -8622,22 +7992,7 @@
   "og_poteter_verb": {
     "word": "og poteter",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å og poteter",
-          "presens": "ogr poteter",
-          "preteritum": "ogdde poteter",
-          "perfektum_partisipp": "ogdd",
-          "imperativ": "og poteter"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "og_poteter_verb",
     "_generatedFrom": "de-nb/verbbank.json:und_kartoffeln_verb"
@@ -9428,22 +8783,7 @@
   "passere_å_skje_verb": {
     "word": "passere, å skje",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å passere, å skje",
-          "presens": "passere,r å skje",
-          "preteritum": "passere,dde å skje",
-          "perfektum_partisipp": "passere,dd",
-          "imperativ": "passere, å skje"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "passere_å_skje_verb",
     "_generatedFrom": "es-nb/verbbank.json:pasar_verb"
@@ -9758,22 +9098,7 @@
   "på_grunn_av_verb": {
     "word": "på grunn av",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å på grunn av",
-          "presens": "pår grunn av",
-          "preteritum": "pådde grunn av",
-          "perfektum_partisipp": "pådd",
-          "imperativ": "på grunn av"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "på_grunn_av_verb",
     "_generatedFrom": "de-nb/verbbank.json:wegen_verb"
@@ -9781,22 +9106,7 @@
   "påkledd_verb": {
     "word": "påkledd",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å påkledd",
-          "presens": "påkleddr",
-          "preteritum": "påkledddde",
-          "perfektum_partisipp": "påkledddd",
-          "imperativ": "påkledd"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "påkledd_verb",
     "_generatedFrom": "de-nb/verbbank.json:angezogen_verb"
@@ -9873,22 +9183,7 @@
   "raskest_verb": {
     "word": "raskest",
     "type": "verb",
-    "verbClass": "uregelmessig",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å raskest",
-          "presens": "raskest",
-          "preteritum": "rasketest",
-          "perfektum_partisipp": "raskest",
-          "imperativ": "-"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "raskest_verb",
     "_generatedFrom": "de-nb/verbbank.json:schnellsten_verb"
@@ -10356,22 +9651,7 @@
   "ringe_å_kalle_verb": {
     "word": "ringe, å kalle",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å ringe, å kalle",
-          "presens": "ringe,r å kalle",
-          "preteritum": "ringe,dde å kalle",
-          "perfektum_partisipp": "ringe,dd",
-          "imperativ": "ringe, å kalle"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "ringe_å_kalle_verb",
     "_generatedFrom": "es-nb/verbbank.json:llamar_verb"
@@ -10770,22 +10050,7 @@
   "sette_å_legge_verb": {
     "word": "sette, å legge",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å sette, å legge",
-          "presens": "sette,r å legge",
-          "preteritum": "sette,dde å legge",
-          "perfektum_partisipp": "sette,dd",
-          "imperativ": "sette, å legge"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "sette_å_legge_verb",
     "_generatedFrom": "es-nb/verbbank.json:poner_verb"
@@ -10931,22 +10196,7 @@
   "sjelden_verb": {
     "word": "sjelden",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å sjelden",
-          "presens": "sjeldenr",
-          "preteritum": "sjeldendde",
-          "perfektum_partisipp": "sjeldendd",
-          "imperativ": "sjelden"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "sjelden_verb",
     "_generatedFrom": "de-nb/verbbank.json:selten_verb"
@@ -10960,9 +10210,9 @@
       "presens": {
         "former": {
           "infinitiv": "å skade",
-          "presens": "skader",
-          "preteritum": "skadde",
-          "perfektum_partisipp": "skadd",
+          "presens": "skadar",
+          "preteritum": "skada",
+          "perfektum_partisipp": "skada",
           "imperativ": "skad"
         },
         "auxiliary": "har",
@@ -11000,22 +10250,7 @@
   "skal_verb": {
     "word": "skal",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å skal",
-          "presens": "skalr",
-          "preteritum": "skaldde",
-          "perfektum_partisipp": "skaldd",
-          "imperativ": "skal"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "skal_verb",
     "_generatedFrom": "de-nb/verbbank.json:sollen_verb"
@@ -11874,22 +11109,7 @@
   "spille_å_leke_verb": {
     "word": "spille, å leke",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å spille, å leke",
-          "presens": "spille,r å leke",
-          "preteritum": "spille,dde å leke",
-          "perfektum_partisipp": "spille,dd",
-          "imperativ": "spille, å leke"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "spille_å_leke_verb",
     "_generatedFrom": "es-nb/verbbank.json:jugar_verb"
@@ -11995,9 +11215,9 @@
       "presens": {
         "former": {
           "infinitiv": "å stave",
-          "presens": "staver",
-          "preteritum": "stavde",
-          "perfektum_partisipp": "stavd",
+          "presens": "stavar",
+          "preteritum": "stava",
+          "perfektum_partisipp": "stava",
           "imperativ": "stav"
         },
         "auxiliary": "har",
@@ -12081,22 +11301,7 @@
   "stengt_verb": {
     "word": "stengt",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å stengt",
-          "presens": "stengtr",
-          "preteritum": "stengtdde",
-          "perfektum_partisipp": "stengtdd",
-          "imperativ": "stengt"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "stengt_verb",
     "_generatedFrom": "de-nb/verbbank.json:geschlossen_verb"
@@ -12942,22 +12147,7 @@
   "ta_å_drikke_verb": {
     "word": "ta, å drikke",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å ta, å drikke",
-          "presens": "ta,r å drikke",
-          "preteritum": "ta,dde å drikke",
-          "perfektum_partisipp": "ta,dd",
-          "imperativ": "ta, å drikke"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "ta_å_drikke_verb",
     "_generatedFrom": "es-nb/verbbank.json:tomar_verb"
@@ -12965,22 +12155,7 @@
   "ta_å_gripe_verb": {
     "word": "ta, å gripe",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å ta, å gripe",
-          "presens": "ta,r å gripe",
-          "preteritum": "ta,dde å gripe",
-          "perfektum_partisipp": "ta,dd",
-          "imperativ": "ta, å gripe"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "ta_å_gripe_verb",
     "_generatedFrom": "es-nb/verbbank.json:coger_verb"
@@ -13356,22 +12531,7 @@
   "to_timer_verb": {
     "word": "to timer",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å to timer",
-          "presens": "tor timer",
-          "preteritum": "todde timer",
-          "perfektum_partisipp": "todd",
-          "imperativ": "to timer"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "to_timer_verb",
     "_generatedFrom": "de-nb/verbbank.json:zwei_stunden_verb"
@@ -13724,16 +12884,16 @@
   "underholde_seg_verb": {
     "word": "underholde seg",
     "type": "verb",
-    "verbClass": "svak",
+    "verbClass": "sterk",
     "auxiliary": "har",
     "conjugations": {
       "presens": {
         "former": {
           "infinitiv": "å underholde seg",
-          "presens": "underholder seg",
-          "preteritum": "underholdde seg",
-          "perfektum_partisipp": "underholdd",
-          "imperativ": "underhold seg"
+          "presens": "underheld seg",
+          "preteritum": "underheldt seg",
+          "perfektum_partisipp": "underhalde",
+          "imperativ": "underhald seg"
         },
         "auxiliary": "har",
         "feature": "grammar_nn_presens"
@@ -13839,22 +12999,7 @@
   "undervise_å_vise_verb": {
     "word": "undervise, å vise",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å undervise, å vise",
-          "presens": "undervise,r å vise",
-          "preteritum": "undervise,dde å vise",
-          "perfektum_partisipp": "undervise,dd",
-          "imperativ": "undervise, å vise"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "undervise_å_vise_verb",
     "_generatedFrom": "es-nb/verbbank.json:ensenar_verb"
@@ -13954,22 +13099,7 @@
   "ute_verb": {
     "word": "ute",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å ute",
-          "presens": "uter",
-          "preteritum": "uta",
-          "perfektum_partisipp": "uta",
-          "imperativ": "ut"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "ute_verb",
     "_generatedFrom": "de-nb/verbbank.json:aussen_verb"
@@ -14161,22 +13291,7 @@
   "ved_siden_av_verb": {
     "word": "ved siden av",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å ved siden av",
-          "presens": "vedr siden av",
-          "preteritum": "veddde siden av",
-          "perfektum_partisipp": "veddd",
-          "imperativ": "ved siden av"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "ved_siden_av_verb",
     "_generatedFrom": "de-nb/verbbank.json:daneben_verb"
@@ -14391,22 +13506,7 @@
   "vente_å_håpe_verb": {
     "word": "vente, å håpe",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å vente, å håpe",
-          "presens": "vente,r å håpe",
-          "preteritum": "vente,dde å håpe",
-          "perfektum_partisipp": "vente,dd",
-          "imperativ": "vente, å håpe"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "vente_å_håpe_verb",
     "_generatedFrom": "es-nb/verbbank.json:esperar_verb"
@@ -14629,22 +13729,7 @@
   "vinne_å_tjene_verb": {
     "word": "vinne, å tjene",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å vinne, å tjene",
-          "presens": "vinne,r å tjene",
-          "preteritum": "vinne,dde å tjene",
-          "perfektum_partisipp": "vinne,dd",
-          "imperativ": "vinne, å tjene"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "vinne_å_tjene_verb",
     "_generatedFrom": "es-nb/verbbank.json:ganar_verb"
@@ -14675,22 +13760,7 @@
   "virke_å_synast_verb": {
     "word": "virke, å synast",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å virke, å synast",
-          "presens": "virke,r å synast",
-          "preteritum": "virke,dde å synast",
-          "perfektum_partisipp": "virke,dd",
-          "imperativ": "virke, å synast"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "virke_å_synes_verb",
     "_generatedFrom": "es-nb/verbbank.json:parecer_verb"
@@ -14744,22 +13814,7 @@
   "vite_å_kunne_verb": {
     "word": "vite, å kunne",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å vite, å kunne",
-          "presens": "vite,r å kunne",
-          "preteritum": "vite,dde å kunne",
-          "perfektum_partisipp": "vite,dd",
-          "imperativ": "vite, å kunne"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "vite_å_kunne_verb",
     "_generatedFrom": "es-nb/verbbank.json:saber_verb"
@@ -14767,22 +13822,7 @@
   "voksen_verb": {
     "word": "voksen",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å voksen",
-          "presens": "voksenr",
-          "preteritum": "voksendde",
-          "perfektum_partisipp": "voksendd",
-          "imperativ": "voksen"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "voksen_verb",
     "_generatedFrom": "de-nb/verbbank.json:erwachsen_verb"
@@ -14813,22 +13853,7 @@
   "vært_imot_verb": {
     "word": "vært imot",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å vært imot",
-          "presens": "værtr imot",
-          "preteritum": "værtdde imot",
-          "perfektum_partisipp": "værtdd",
-          "imperativ": "vært imot"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "vært_imot_verb",
     "_generatedFrom": "de-nb/verbbank.json:dagegen_gewesen_verb"
@@ -14836,22 +13861,7 @@
   "vært_verb": {
     "word": "vært",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å vært",
-          "presens": "værtr",
-          "preteritum": "værtdde",
-          "perfektum_partisipp": "værtdd",
-          "imperativ": "vært"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "vært_verb",
     "_generatedFrom": "de-nb/verbbank.json:gewesen_verb"
@@ -14882,22 +13892,7 @@
   "åpen_verb": {
     "word": "åpen",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å åpen",
-          "presens": "åpenr",
-          "preteritum": "åpendde",
-          "perfektum_partisipp": "åpendd",
-          "imperativ": "åpen"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "åpen_verb",
     "_generatedFrom": "de-nb/verbbank.json:offen_verb"
@@ -15020,22 +14015,7 @@
   "øve_å_praktisere_verb": {
     "word": "øve, å praktisere",
     "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å øve, å praktisere",
-          "presens": "øve,r å praktisere",
-          "preteritum": "øve,dde å praktisere",
-          "perfektum_partisipp": "øve,dd",
-          "imperativ": "øve, å praktisere"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
+    "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "øve_å_praktisere_verb",
     "_generatedFrom": "es-nb/verbbank.json:practicar_verb"

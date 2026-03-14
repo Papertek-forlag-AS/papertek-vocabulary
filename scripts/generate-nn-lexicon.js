@@ -846,6 +846,19 @@ const IRREGULAR_VERBS_NN = {
   'lide': { cls: 'sterk', presens: 'lid', preteritum: 'leid', partisipp: 'lide', imperativ: 'lid', aux: 'har' },
   'følgje': { cls: 'svak', presens: 'følgjer', preteritum: 'følgde', partisipp: 'følgd', imperativ: 'følg', aux: 'har' },
   'følge': { cls: 'svak', presens: 'følgjer', preteritum: 'følgde', partisipp: 'følgd', imperativ: 'følg', aux: 'har' },
+  'dusje': { cls: 'svak', presens: 'dusjar', preteritum: 'dusja', partisipp: 'dusja', imperativ: 'dusj', aux: 'har' },
+  'bade': { cls: 'svak', presens: 'badar', preteritum: 'bada', partisipp: 'bada', imperativ: 'bad', aux: 'har' },
+  'skade': { cls: 'svak', presens: 'skadar', preteritum: 'skada', partisipp: 'skada', imperativ: 'skad', aux: 'har' },
+  'stave': { cls: 'svak', presens: 'stavar', preteritum: 'stava', partisipp: 'stava', imperativ: 'stav', aux: 'har' },
+  'lade': { cls: 'svak', presens: 'ladar', preteritum: 'lada', partisipp: 'lada', imperativ: 'lad', aux: 'har' },
+  'meine': { cls: 'svak', presens: 'meiner', preteritum: 'meinte', partisipp: 'meint', imperativ: 'mein', aux: 'har' },
+  'mene': { cls: 'svak', presens: 'meiner', preteritum: 'meinte', partisipp: 'meint', imperativ: 'mein', aux: 'har' },
+  'kjenna': { cls: 'svak', presens: 'kjenner', preteritum: 'kjende', partisipp: 'kjent', imperativ: 'kjenn', aux: 'har' },
+  'kjenne': { cls: 'svak', presens: 'kjenner', preteritum: 'kjende', partisipp: 'kjent', imperativ: 'kjenn', aux: 'har' },
+  'forby': { cls: 'sterk', presens: 'forbyr', preteritum: 'forbaud', partisipp: 'forbode', imperativ: 'forby', aux: 'har' },
+  'anmelde': { cls: 'svak', presens: 'anmelder', preteritum: 'anmelde', partisipp: 'anmeldt', imperativ: 'anmeld', aux: 'har' },
+  'underhalda': { cls: 'sterk', presens: 'underheld', preteritum: 'underheldt', partisipp: 'underhalde', imperativ: 'underhald', aux: 'har' },
+  'underholde': { cls: 'sterk', presens: 'underheld', preteritum: 'underheldt', partisipp: 'underhalde', imperativ: 'underhald', aux: 'har' },
   'gjelde': { cls: 'sterk', presens: 'gjeld', preteritum: 'gjaldt', partisipp: 'golde', imperativ: 'gjeld', aux: 'har' },
   'lede': { cls: 'svak', presens: 'leier', preteritum: 'leidde', partisipp: 'leidd', imperativ: 'lei', aux: 'har' },
   'dreie': { cls: 'svak', presens: 'dreier', preteritum: 'dreidde', partisipp: 'dreidd', imperativ: 'drei', aux: 'har' },
@@ -882,7 +895,7 @@ const IRREGULAR_VERBS_NN = {
   'inntreffe': { cls: 'sterk', presens: 'inntreff', preteritum: 'inntraff', partisipp: 'inntruffe', imperativ: 'inntreff', aux: 'har' },
   'unngå': { cls: 'sterk', presens: 'unngår', preteritum: 'unngjekk', partisipp: 'unngått', imperativ: 'unngå', aux: 'har' },
   'oppgi': { cls: 'sterk', presens: 'oppgjev', preteritum: 'oppgav', partisipp: 'oppgjeve', imperativ: 'oppgje', aux: 'har' },
-  'forbli': { cls: 'sterk', presens: 'forblir', preteritum: 'forblei', partisipp: 'forblidd', imperativ: 'forbli', aux: 'er' },
+  'forbli': { cls: 'sterk', presens: 'forblir', preteritum: 'forblei', partisipp: 'forblitt', imperativ: 'forbli', aux: 'er' },
   'innta': { cls: 'sterk', presens: 'inntek', preteritum: 'inntok', partisipp: 'innteke', imperativ: 'innta', aux: 'har' },
   'påstå': { cls: 'sterk', presens: 'påstår', preteritum: 'påstod', partisipp: 'påstått', imperativ: 'påstå', aux: 'har' },
 };
@@ -937,6 +950,7 @@ const VERB_NB_TO_NN = {
   'skyve': 'skyva',
   'stinke': 'stinka',
   'gråte': 'gråta',
+  'forbudt': 'forby',
   'lage': 'laga',
   'klargjøre': 'klargjera',
   'kunngjøre': 'kunngjera',
@@ -1435,7 +1449,11 @@ for (const bankName of bankNames) {
         }
       }
     } else if (type === 'verb') {
-      if (nnWord.includes(' ') && nnWord.split(' ').length > 3) {
+      // Skip entries that aren't actually verbs (inherited from NB source data)
+      const isNotVerb = nnWord.includes(',') || // comma-separated synonyms
+        (!nnWord.includes(' ') && nnWord.match(/^(bak|best|bør|død|enig|enkeltvis|forbudt|forbode|født|forskjelleg|hengt|helst|lest|litt|men|nettopp|no|påkledd|raskest|sjelden|skal|stengt|ute|voksen|vært|åpen|nede)$/)) ||
+        nnWord.match(/^(der borte|derimot|i forgårs|i går|i mellomtiden|i overmorgon|i sør|på grunn av|ved siden av|midt i|to timer|fem oppgaver|dei fleste mennesker|og eldre|og poteter|er enig|fornøyd med det|døde i går|vært imot|allereie gå)$/);
+      if (isNotVerb || (nnWord.includes(' ') && nnWord.split(' ').length > 3)) {
         stats.skipped++;
       } else {
         try {
