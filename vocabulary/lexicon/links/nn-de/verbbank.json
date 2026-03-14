@@ -3,7 +3,7 @@
     "from": "nn",
     "to": "de",
     "bank": "verbbank",
-    "generatedAt": "2026-03-14T00:51:17.200Z",
+    "generatedAt": "2026-03-14T00:54:10.321Z",
     "totalLinks": 621
   },
   "advare_verb": {
@@ -564,7 +564,7 @@
   "dømma_verb": {
     "primary": "verurteilen_verb"
   },
-  "egne_seg_verb": {
+  "eigne_seg_verb": {
     "primary": "sich_eignen_verb"
   },
   "elska_verb": {
@@ -683,7 +683,7 @@
   "finna_opp_verb": {
     "primary": "erfinden_verb"
   },
-  "finna_sted_verb": {
+  "finna_stad_verb": {
     "primary": "stattfinden_verb"
   },
   "finna_verb": {
@@ -692,7 +692,7 @@
   "fjerne_verb": {
     "primary": "entfernen_verb"
   },
-  "flyga_av_sted_verb": {
+  "flyga_av_stad_verb": {
     "primary": "abfliegen_verb"
   },
   "flyga_verb": {
@@ -723,29 +723,6 @@
   },
   "forbedre_seg_verb": {
     "primary": "sich_verbessern_verb"
-  },
-  "forberede_seg_på_det_verb": {
-    "primary": "dafuer_vorbereiten_verb"
-  },
-  "forberede_seg_verb": {
-    "primary": "sich_vorbereiten_verb",
-    "examples": [
-      {
-        "source": "Jeg forbereder meg til prøven.",
-        "target": "Ich bereite mich auf die Prüfung vor."
-      },
-      {
-        "source": "Forbereder du deg?",
-        "target": "Bereitest du dich vor?"
-      },
-      {
-        "source": "Vi forbereder oss til reisen.",
-        "target": "Wir bereiten uns auf die Reise vor."
-      }
-    ]
-  },
-  "forberede_verb": {
-    "primary": "vorbereiten_verb"
   },
   "forbli_verb": {
     "primary": "bleiben_verb"
@@ -966,6 +943,29 @@
   "føre_inn_verb": {
     "primary": "eintragen_verb"
   },
+  "førebu_seg_på_det_verb": {
+    "primary": "dafuer_vorbereiten_verb"
+  },
+  "førebu_seg_verb": {
+    "primary": "sich_vorbereiten_verb",
+    "examples": [
+      {
+        "source": "Jeg forbereder meg til prøven.",
+        "target": "Ich bereite mich auf die Prüfung vor."
+      },
+      {
+        "source": "Forbereder du deg?",
+        "target": "Bereitest du dich vor?"
+      },
+      {
+        "source": "Vi forbereder oss til reisen.",
+        "target": "Wir bereiten uns auf die Reise vor."
+      }
+    ]
+  },
+  "førebu_verb": {
+    "primary": "vorbereiten_verb"
+  },
   "garantere_verb": {
     "primary": "garantieren_verb"
   },
@@ -1030,7 +1030,7 @@
   "gjetta_verb": {
     "primary": "raten_verb"
   },
-  "glede_seg_over_verb": {
+  "gleda_seg_over_verb": {
     "primary": "sich_freuen_ueber_verb",
     "examples": [
       {
@@ -1047,7 +1047,7 @@
       }
     ]
   },
-  "glede_seg_til_verb": {
+  "gleda_seg_til_verb": {
     "primary": "sich_freuen_auf_verb",
     "examples": [
       {
@@ -1064,7 +1064,7 @@
       }
     ]
   },
-  "glede_seg_verb": {
+  "gleda_seg_verb": {
     "primary": "freuen_verb",
     "alternatives": [
       "sich_freuen_verb"
@@ -1691,13 +1691,13 @@
   "klappa_verb": {
     "primary": "streicheln_verb"
   },
-  "klare_seg_verb": {
+  "klara_seg_verb": {
     "primary": "zurechtkommen_verb"
   },
-  "klare_verb": {
+  "klara_verb": {
     "primary": "schaffen_verb"
   },
-  "klargjøre_verb": {
+  "klargjera_verb": {
     "primary": "klaeren_verb"
   },
   "klatre_verb": {
@@ -1850,7 +1850,7 @@
       }
     ]
   },
-  "kunngjøre_verb": {
+  "kunngjera_verb": {
     "primary": "ankuendigen_verb"
   },
   "kvile_seg_verb": {
@@ -1873,7 +1873,7 @@
   "kyssa_verb": {
     "primary": "kuessen_verb"
   },
-  "køyra_av_sted_verb": {
+  "køyra_av_stad_verb": {
     "primary": "losfahren_verb"
   },
   "køyra_forbi_verb": {
@@ -1891,7 +1891,7 @@
   "lade_opp_verb": {
     "primary": "aufladen_verb"
   },
-  "lage_mat_verb": {
+  "laga_mat_verb": {
     "primary": "kochen_verb",
     "examples": [
       {
@@ -1908,7 +1908,7 @@
       }
     ]
   },
-  "lage_verb": {
+  "laga_verb": {
     "primary": "basteln_verb",
     "alternatives": [
       "machen_verb"
@@ -2164,10 +2164,10 @@
   "meddele_verb": {
     "primary": "mitteilen_verb"
   },
-  "melde_seg_på_verb": {
+  "melda_seg_på_verb": {
     "primary": "anmelden_verb"
   },
-  "melde_verb": {
+  "melda_verb": {
     "primary": "melden_verb"
   },
   "men_verb": {
@@ -2533,7 +2533,10 @@
   "regulere_verb": {
     "primary": "regeln_verb"
   },
-  "reise_av_sted_verb": {
+  "reingjera_verb": {
+    "primary": "putzen_verb"
+  },
+  "reise_av_stad_verb": {
     "primary": "abfahren_verb"
   },
   "reise_bort_verb": {
@@ -2581,9 +2584,6 @@
         "target": "Wir erholen uns am Strand."
       }
     ]
-  },
-  "rengjøre_verb": {
-    "primary": "putzen_verb"
   },
   "renovere_verb": {
     "primary": "renovieren_verb"
@@ -3085,7 +3085,7 @@
       }
     ]
   },
-  "stamma_fra_verb": {
+  "stamma_frå_verb": {
     "primary": "stammen_verb"
   },
   "starte_verb": {
@@ -3568,7 +3568,7 @@
   "undervise_verb": {
     "primary": "unterrichten_verb"
   },
-  "undre_seg_verb": {
+  "undra_seg_verb": {
     "primary": "sich_wundern_verb"
   },
   "unngå_verb": {

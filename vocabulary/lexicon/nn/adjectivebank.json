@@ -3,7 +3,7 @@
     "language": "nn",
     "languageName": "Norsk nynorsk",
     "bank": "adjectivebank",
-    "generatedAt": "2026-03-14T00:51:16.990Z",
+    "generatedAt": "2026-03-14T00:54:10.045Z",
     "description": "Norwegian Nynorsk adjectivebank — generated from Bokmål via NB→NN transformation",
     "totalEntries": 401,
     "enrichedEntries": 401,
@@ -5867,28 +5867,28 @@
     "_nbEquivalent": "modig_adj",
     "_generatedFrom": "de-nb/adjectivebank.json:mutig_adj, es-nb/adjectivebank.json:valiente_adj"
   },
-  "morsom_adj": {
-    "word": "morsom",
+  "morosam_adj": {
+    "word": "morosam",
     "type": "adj",
     "comparison": {
-      "positiv": "morsom",
-      "komparativ": "morsomare",
-      "superlativ": "morsomast"
+      "positiv": "morosam",
+      "komparativ": "meir morosam",
+      "superlativ": "mest morosam"
     },
     "declension": {
       "positiv": {
-        "maskulin": "morsom",
-        "feminin": "morsom",
-        "noytrum": "morsomt",
-        "flertall": "morsome",
-        "bestemt": "morsome"
+        "maskulin": "morosam",
+        "feminin": "morosam",
+        "noytrum": "morosamt",
+        "flertall": "morosame",
+        "bestemt": "morosame"
       },
       "komparativ": {
-        "alle": "morsomare"
+        "alle": "meir morosam"
       },
       "superlativ": {
-        "ubestemt": "morsomast",
-        "bestemt": "morsomaste"
+        "ubestemt": "mest morosam",
+        "bestemt": "mest morosame"
       }
     },
     "_enriched": true,
@@ -5896,28 +5896,28 @@
     "_nbEquivalent": "morsom_adj",
     "_generatedFrom": "de-nb/adjectivebank.json:lustig_adj, de-nb/adjectivebank.json:witzig_adj, es-nb/adjectivebank.json:gracioso_adj"
   },
-  "morsom_gøy_adj": {
-    "word": "morsom, gøy",
+  "morosam_gøy_adj": {
+    "word": "morosam, gøy",
     "type": "adj",
     "comparison": {
-      "positiv": "morsom, gøy",
-      "komparativ": "meir morsom, gøy",
-      "superlativ": "mest morsom, gøy"
+      "positiv": "morosam, gøy",
+      "komparativ": "meir morosam, gøy",
+      "superlativ": "mest morosam, gøy"
     },
     "declension": {
       "positiv": {
-        "maskulin": "morsom, gøy",
-        "feminin": "morsom, gøy",
-        "noytrum": "morsom, gøyt",
-        "flertall": "morsom, gøye",
-        "bestemt": "morsom, gøye"
+        "maskulin": "morosam, gøy",
+        "feminin": "morosam, gøy",
+        "noytrum": "morosam, gøyt",
+        "flertall": "morosam, gøye",
+        "bestemt": "morosam, gøye"
       },
       "komparativ": {
-        "alle": "meir morsom, gøy"
+        "alle": "meir morosam, gøy"
       },
       "superlativ": {
-        "ubestemt": "mest morsom, gøy",
-        "bestemt": "mest morsom, gøye"
+        "ubestemt": "mest morosam, gøy",
+        "bestemt": "mest morosam, gøye"
       }
     },
     "_enriched": true,
@@ -8187,6 +8187,35 @@
     "_nbEquivalent": "sjenerøs_adj",
     "_generatedFrom": "es-nb/adjectivebank.json:generoso_adj"
   },
+  "sjuk_adj": {
+    "word": "sjuk",
+    "type": "adj",
+    "comparison": {
+      "positiv": "sjuk",
+      "komparativ": "sjukare",
+      "superlativ": "sjukast"
+    },
+    "declension": {
+      "positiv": {
+        "maskulin": "sjuk",
+        "feminin": "sjuk",
+        "noytrum": "sjukt",
+        "flertall": "sjuke",
+        "bestemt": "sjuke"
+      },
+      "komparativ": {
+        "alle": "sjukare"
+      },
+      "superlativ": {
+        "ubestemt": "sjukast",
+        "bestemt": "sjukaste"
+      }
+    },
+    "_enriched": true,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "syk_adj",
+    "_generatedFrom": "de-nb/adjectivebank.json:krank_adj, es-nb/adjectivebank.json:enfermo_adj"
+  },
   "sjølvsagt_adj": {
     "word": "sjølvsagt",
     "type": "adj",
@@ -9260,35 +9289,6 @@
     "_nbEquivalent": "stygg_adj",
     "_generatedFrom": "de-nb/adjectivebank.json:haesslich_adj, es-nb/adjectivebank.json:feo_adj"
   },
-  "sulten_adj": {
-    "word": "sulten",
-    "type": "adj",
-    "comparison": {
-      "positiv": "sulten",
-      "komparativ": "sultenare",
-      "superlativ": "sultenast"
-    },
-    "declension": {
-      "positiv": {
-        "maskulin": "sulten",
-        "feminin": "sulten",
-        "noytrum": "sultent",
-        "flertall": "sultene",
-        "bestemt": "sultene"
-      },
-      "komparativ": {
-        "alle": "sultenare"
-      },
-      "superlativ": {
-        "ubestemt": "sultenast",
-        "bestemt": "sultenaste"
-      }
-    },
-    "_enriched": true,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "sulten_adj",
-    "_generatedFrom": "de-nb/adjectivebank.json:hungrig_adj"
-  },
   "sunn_adj": {
     "word": "sunn",
     "type": "adj",
@@ -9434,34 +9434,34 @@
     "_nbEquivalent": "svart_adj",
     "_generatedFrom": "de-nb/adjectivebank.json:schwarz_adj, es-nb/adjectivebank.json:negro_adj"
   },
-  "syk_adj": {
-    "word": "syk",
+  "svolten_adj": {
+    "word": "svolten",
     "type": "adj",
     "comparison": {
-      "positiv": "syk",
-      "komparativ": "sykare",
-      "superlativ": "sykast"
+      "positiv": "svolten",
+      "komparativ": "svoltenare",
+      "superlativ": "svoltenast"
     },
     "declension": {
       "positiv": {
-        "maskulin": "syk",
-        "feminin": "syk",
-        "noytrum": "sykt",
-        "flertall": "syke",
-        "bestemt": "syke"
+        "maskulin": "svolten",
+        "feminin": "svolten",
+        "noytrum": "svoltent",
+        "flertall": "svoltene",
+        "bestemt": "svoltene"
       },
       "komparativ": {
-        "alle": "sykare"
+        "alle": "svoltenare"
       },
       "superlativ": {
-        "ubestemt": "sykast",
-        "bestemt": "sykaste"
+        "ubestemt": "svoltenast",
+        "bestemt": "svoltenaste"
       }
     },
     "_enriched": true,
     "_nnSource": "auto-nb",
-    "_nbEquivalent": "syk_adj",
-    "_generatedFrom": "de-nb/adjectivebank.json:krank_adj, es-nb/adjectivebank.json:enfermo_adj"
+    "_nbEquivalent": "sulten_adj",
+    "_generatedFrom": "de-nb/adjectivebank.json:hungrig_adj"
   },
   "sympatisk_adj": {
     "word": "sympatisk",

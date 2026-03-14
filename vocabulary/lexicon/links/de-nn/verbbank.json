@@ -3,17 +3,17 @@
     "from": "de",
     "to": "nn",
     "bank": "verbbank",
-    "generatedAt": "2026-03-14T00:51:17.196Z",
+    "generatedAt": "2026-03-14T00:54:10.319Z",
     "totalLinks": 679
   },
   "abbiegen_verb": {
     "primary": "svinga_verb"
   },
   "abfahren_verb": {
-    "primary": "reise_av_sted_verb"
+    "primary": "reise_av_stad_verb"
   },
   "abfliegen_verb": {
-    "primary": "flyga_av_sted_verb"
+    "primary": "flyga_av_stad_verb"
   },
   "abgeben_verb": {
     "primary": "levere_verb"
@@ -118,13 +118,13 @@
     "primary": "kryssa_av_verb"
   },
   "ankuendigen_verb": {
-    "primary": "kunngjøre_verb"
+    "primary": "kunngjera_verb"
   },
   "anmachen_verb": {
     "primary": "slå_på_verb"
   },
   "anmelden_verb": {
-    "primary": "melde_seg_på_verb"
+    "primary": "melda_seg_på_verb"
   },
   "annehmen_verb": {
     "primary": "anta_verb"
@@ -373,7 +373,7 @@
     "primary": "bade_verb"
   },
   "basteln_verb": {
-    "primary": "lage_verb"
+    "primary": "laga_verb"
   },
   "bauen_verb": {
     "primary": "bygga_verb"
@@ -622,7 +622,7 @@
     "primary": "chatta_verb"
   },
   "dafuer_vorbereiten_verb": {
-    "primary": "forberede_seg_på_det_verb"
+    "primary": "førebu_seg_på_det_verb"
   },
   "dagegen_gewesen_verb": {
     "primary": "vært_imot_verb"
@@ -1207,7 +1207,7 @@
     "explanation": "Betyr å spise, men brukes KUN for dyr. For mennesker bruker vi \"essen\". Eksempel: \"Der Hund frisst Fleisch\" (hunden spiser kjøtt), men \"Ich esse Pizza\" (jeg spiser pizza)."
   },
   "freuen_verb": {
-    "primary": "glede_seg_verb"
+    "primary": "gleda_seg_verb"
   },
   "frieren_verb": {
     "primary": "frysa_verb"
@@ -1683,7 +1683,7 @@
     "primary": "bli_kjent_med_verb"
   },
   "klaeren_verb": {
-    "primary": "klargjøre_verb"
+    "primary": "klargjera_verb"
   },
   "klagen_verb": {
     "primary": "klage_verb"
@@ -1759,7 +1759,7 @@
     "primary": "banka_verb"
   },
   "kochen_verb": {
-    "primary": "lage_mat_verb",
+    "primary": "laga_mat_verb",
     "examples": [
       {
         "source": "Ich koche gern.",
@@ -2029,7 +2029,7 @@
     "primary": "løse_verb"
   },
   "losfahren_verb": {
-    "primary": "køyra_av_sted_verb"
+    "primary": "køyra_av_stad_verb"
   },
   "luegen_verb": {
     "primary": "lyve_verb"
@@ -2037,7 +2037,7 @@
   "machen_verb": {
     "primary": "gjera_verb",
     "alternatives": [
-      "lage_verb"
+      "laga_verb"
     ],
     "examples": [
       {
@@ -2086,7 +2086,7 @@
     "primary": "dei_fleste_mennesker_verb"
   },
   "melden_verb": {
-    "primary": "melde_verb"
+    "primary": "melda_verb"
   },
   "merken_verb": {
     "primary": "merka_verb"
@@ -2381,7 +2381,7 @@
   "putzen_verb": {
     "primary": "pussa_verb",
     "alternatives": [
-      "rengjøre_verb"
+      "reingjera_verb"
     ],
     "examples": [
       {
@@ -2514,7 +2514,7 @@
     "primary": "anslå_verb"
   },
   "schaffen_verb": {
-    "primary": "klare_verb"
+    "primary": "klara_verb"
   },
   "schauen_verb": {
     "primary": "se_verb",
@@ -2873,7 +2873,7 @@
     ]
   },
   "sich_eignen_verb": {
-    "primary": "egne_seg_verb"
+    "primary": "eigne_seg_verb"
   },
   "sich_einigen_verb": {
     "primary": "bli_enige_verb"
@@ -2942,7 +2942,7 @@
     "primary": "forhøre_seg_verb"
   },
   "sich_freuen_auf_verb": {
-    "primary": "glede_seg_til_verb",
+    "primary": "gleda_seg_til_verb",
     "examples": [
       {
         "source": "Ich freue mich auf die Ferien.",
@@ -2959,7 +2959,7 @@
     ]
   },
   "sich_freuen_ueber_verb": {
-    "primary": "glede_seg_over_verb",
+    "primary": "gleda_seg_over_verb",
     "examples": [
       {
         "source": "Ich freue mich über das Geschenk.",
@@ -2976,7 +2976,7 @@
     ]
   },
   "sich_freuen_verb": {
-    "primary": "glede_seg_verb",
+    "primary": "gleda_seg_verb",
     "examples": [
       {
         "source": "Ich freue mich sehr.",
@@ -3258,7 +3258,7 @@
     "primary": "gjemma_seg_verb"
   },
   "sich_vorbereiten_verb": {
-    "primary": "forberede_seg_verb",
+    "primary": "førebu_seg_verb",
     "examples": [
       {
         "source": "Ich bereite mich auf die Prüfung vor.",
@@ -3295,7 +3295,7 @@
     "primary": "nekta_verb"
   },
   "sich_wundern_verb": {
-    "primary": "undre_seg_verb"
+    "primary": "undra_seg_verb"
   },
   "sich_zwingen_verb": {
     "primary": "tvinga_seg_verb"
@@ -3452,13 +3452,13 @@
     "primary": "føle_verb"
   },
   "stammen_verb": {
-    "primary": "stamma_fra_verb"
+    "primary": "stamma_frå_verb"
   },
   "starten_verb": {
     "primary": "starte_verb"
   },
   "stattfinden_verb": {
-    "primary": "finna_sted_verb"
+    "primary": "finna_stad_verb"
   },
   "staubsaugen_verb": {
     "primary": "støvsuge_verb"
@@ -3981,7 +3981,7 @@
     "primary": "stå_mykje_verb"
   },
   "vorbereiten_verb": {
-    "primary": "forberede_verb"
+    "primary": "førebu_verb"
   },
   "vorgestern_verb": {
     "primary": "i_forgårs_verb"
@@ -4259,7 +4259,7 @@
     "primary": "øke_verb"
   },
   "zurechtkommen_verb": {
-    "primary": "klare_seg_verb"
+    "primary": "klara_seg_verb"
   },
   "zusagen_verb": {
     "primary": "si_ja_verb"

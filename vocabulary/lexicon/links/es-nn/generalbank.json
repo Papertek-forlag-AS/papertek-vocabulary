@@ -3,7 +3,7 @@
     "from": "es",
     "to": "nn",
     "bank": "generalbank",
-    "generatedAt": "2026-03-14T00:51:17.206Z",
+    "generatedAt": "2026-03-14T00:54:10.329Z",
     "totalLinks": 254
   },
   "a_casa_expr": {
@@ -16,7 +16,7 @@
     "primary": "ofte_adv"
   },
   "a_mi_me_parece_phrase": {
-    "primary": "det_virker_for_meg_som_phrase"
+    "primary": "det_verkar_for_meg_som_phrase"
   },
   "a_pie_expr": {
     "primary": "til_fots_expr"
@@ -38,7 +38,7 @@
     ]
   },
   "adelante_adv": {
-    "primary": "fremover_adv"
+    "primary": "framover_adv"
   },
   "ademas_phrase": {
     "primary": "dessutan_phrase"
@@ -217,7 +217,7 @@
     "primary": "korleis_sier_man_phrase"
   },
   "como_te_llamas_phrase": {
-    "primary": "kva_heter_du_phrase"
+    "primary": "kva_heiter_du_phrase"
   },
   "completamente_adv": {
     "primary": "helt_adv",
@@ -238,7 +238,7 @@
     ]
   },
   "creo_que_phrase": {
-    "primary": "jeg_tror_at_phrase"
+    "primary": "eg_tror_at_phrase"
   },
   "cual_interr": {
     "primary": "kva_for_ein_interr"
@@ -262,7 +262,7 @@
     "primary": "cuba_propn"
   },
   "dar_un_paseo_phrase": {
-    "primary": "gå_en_tur_phrase"
+    "primary": "gå_ein_tur_phrase"
   },
   "de_acuerdo_expr": {
     "primary": "enig_expr",
@@ -271,7 +271,7 @@
     ]
   },
   "de_donde_eres_phrase": {
-    "primary": "kvar_kommer_du_fra_phrase"
+    "primary": "kvar_kjem_du_frå_phrase"
   },
   "de_nada_phrase": {
     "primary": "berre_hyggeleg_phrase",
@@ -282,7 +282,7 @@
   "de_prep": {
     "primary": "av_prep",
     "alternatives": [
-      "fra_prep"
+      "frå_prep"
     ]
   },
   "de_repente_expr": {
@@ -313,7 +313,7 @@
     "primary": "dessverre_adv"
   },
   "desde_prep": {
-    "primary": "fra_prep",
+    "primary": "frå_prep",
     "alternatives": [
       "siden_prep"
     ]
@@ -411,7 +411,7 @@
   "enseguida_adv": {
     "primary": "straks_adv",
     "alternatives": [
-      "med_en_gang_adv"
+      "med_ein_gang_adv"
     ]
   },
   "entre_prep": {
@@ -477,7 +477,7 @@
     ]
   },
   "hace_buen_tiempo_phrase": {
-    "primary": "det_er_fint_vær_phrase"
+    "primary": "det_er_fint_ver_phrase"
   },
   "hace_calor_phrase": {
     "primary": "det_er_varmt_phrase"
@@ -489,7 +489,7 @@
     "primary": "det_er_kaldt_phrase"
   },
   "hace_mal_tiempo_phrase": {
-    "primary": "det_er_dårleg_vær_phrase"
+    "primary": "det_er_dårleg_ver_phrase"
   },
   "hace_sol_phrase": {
     "primary": "solen_skinner_phrase"
@@ -513,7 +513,7 @@
     "primary": "vi_sees_snart_phrase"
   },
   "hay_phrase": {
-    "primary": "det_finnes_phrase",
+    "primary": "det_finst_phrase",
     "alternatives": [
       "det_er_phrase"
     ]
@@ -541,7 +541,7 @@
     "primary": "neste_veke_expr"
   },
   "lejos_de_prep": {
-    "primary": "langt_fra_prep"
+    "primary": "langt_frå_prep"
   },
   "llevarse_bien_phrase": {
     "primary": "komme_godt_overens_phrase"
@@ -550,9 +550,9 @@
     "primary": "det_regner_phrase"
   },
   "lo_siento_interj": {
-    "primary": "beklager_interj",
+    "primary": "beklagar_interj",
     "alternatives": [
-      "unnskyld_interj"
+      "orsak_interj"
     ]
   },
   "luego_adv": {
@@ -574,19 +574,19 @@
     "primary": "mer_adv"
   },
   "mas_despacio_phrase": {
-    "primary": "langsommere_vær_så_snill_phrase"
+    "primary": "saktare_ver_så_snill_phrase"
   },
   "mas_o_menos_phrase": {
     "primary": "sånn_passe_phrase"
   },
   "me_encanta_phrase": {
-    "primary": "jeg_elsker_det_phrase"
+    "primary": "eg_elsker_det_phrase"
   },
   "me_gusta_phrase": {
-    "primary": "jeg_liker_phrase"
+    "primary": "eg_liker_phrase"
   },
   "me_llamo_phrase": {
-    "primary": "jeg_heter_phrase"
+    "primary": "eg_heiter_phrase"
   },
   "menos_adv": {
     "primary": "mindre_adv"
@@ -622,16 +622,16 @@
     "primary": "det_snør_phrase"
   },
   "no_entiendo_phrase": {
-    "primary": "jeg_forstår_ikkje_phrase"
+    "primary": "eg_forstår_ikkje_phrase"
   },
   "no_hay_phrase": {
-    "primary": "det_finnes_ikkje_phrase"
+    "primary": "det_finst_ikkje_phrase"
   },
   "no_interj": {
     "primary": "nei_interj"
   },
   "no_me_gusta_phrase": {
-    "primary": "jeg_liker_ikkje_phrase"
+    "primary": "eg_liker_ikkje_phrase"
   },
   "normalmente_adv": {
     "primary": "vanligvis_adv"
@@ -657,7 +657,7 @@
     "primary": "ha_det_gøy_phrase"
   },
   "perdon_interj": {
-    "primary": "unnskyld_interj",
+    "primary": "orsak_interj",
     "synonyms": [
       "Beklager",
       "Unnskyld meg"
@@ -670,7 +670,7 @@
     "primary": "peru_propn"
   },
   "pienso_que_phrase": {
-    "primary": "jeg_mener_at_phrase"
+    "primary": "eg_mener_at_phrase"
   },
   "poco_adv": {
     "primary": "lite_adv"
@@ -682,7 +682,7 @@
     "primary": "derfor_phrase"
   },
   "por_favor_interj": {
-    "primary": "vær_så_snill_interj"
+    "primary": "ver_så_snill_interj"
   },
   "por_fin_expr": {
     "primary": "endeleg_expr"
@@ -759,7 +759,7 @@
     "primary": "korleis_går_det_phrase"
   },
   "que_tengas_un_buen_dia_phrase": {
-    "primary": "ha_en_fin_dag_phrase"
+    "primary": "ha_ein_fin_dag_phrase"
   },
   "quien_interr": {
     "primary": "kven_interr"
@@ -805,13 +805,13 @@
     "primary": "rett_og_slett_adv"
   },
   "sin_duda_expr": {
-    "primary": "uten_tvil_expr"
+    "primary": "utan_tvil_expr"
   },
   "sin_embargo_phrase": {
     "primary": "likevel_phrase"
   },
   "sin_prep": {
-    "primary": "uten_prep"
+    "primary": "utan_prep"
   },
   "sino_conj": {
     "primary": "men_conj",
@@ -840,7 +840,7 @@
     "primary": "klokka_er_to_phrase"
   },
   "soy_de_phrase": {
-    "primary": "jeg_er_fra_phrase"
+    "primary": "eg_er_frå_phrase"
   },
   "tal_vez_adv": {
     "primary": "kanskje_adv"
@@ -867,34 +867,34 @@
     "primary": "ha_lyst_til_phrase"
   },
   "tengo_anos_phrase": {
-    "primary": "jeg_er__år_phrase"
+    "primary": "eg_er__år_phrase"
   },
   "tengo_calor_phrase": {
-    "primary": "jeg_er_varm_phrase"
+    "primary": "eg_er_varm_phrase"
   },
   "tengo_frio_phrase": {
-    "primary": "jeg_fryser_phrase"
+    "primary": "eg_fryser_phrase"
   },
   "tengo_hambre_phrase": {
-    "primary": "jeg_er_sulten_phrase"
+    "primary": "eg_er_svolten_phrase"
   },
   "tengo_miedo_phrase": {
-    "primary": "jeg_er_redd_phrase"
+    "primary": "eg_er_redd_phrase"
   },
   "tengo_prisa_phrase": {
-    "primary": "jeg_har_det_travelt_phrase"
+    "primary": "eg_har_det_travelt_phrase"
   },
   "tengo_razon_phrase": {
-    "primary": "jeg_har_rett_phrase"
+    "primary": "eg_har_rett_phrase"
   },
   "tengo_sed_phrase": {
-    "primary": "jeg_er_tørst_phrase"
+    "primary": "eg_er_tørst_phrase"
   },
   "tengo_sueno_phrase": {
-    "primary": "jeg_er_søvnig_phrase"
+    "primary": "eg_er_søvnig_phrase"
   },
   "tengo_una_pregunta_phrase": {
-    "primary": "jeg_har_et_spørsmål_phrase"
+    "primary": "eg_har_eit_spørsmål_phrase"
   },
   "todavia_adv": {
     "primary": "enno_adv",

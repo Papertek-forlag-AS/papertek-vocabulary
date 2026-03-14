@@ -3,7 +3,7 @@
     "language": "nn",
     "languageName": "Norsk nynorsk",
     "bank": "generalbank",
-    "generatedAt": "2026-03-14T00:51:17.004Z",
+    "generatedAt": "2026-03-14T00:54:10.062Z",
     "description": "Norwegian Nynorsk generalbank — generated from Bokmål via NB→NN transformation",
     "totalEntries": 985,
     "enrichedEntries": 0,
@@ -234,8 +234,8 @@
     "usageNotes": "de + el",
     "_generatedFrom": "es-nb/articlesbank.json:del_contr"
   },
-  "av_fra_adv": {
-    "word": "av, fra",
+  "av_frå_adv": {
+    "word": "av, frå",
     "type": "adv",
     "_enriched": false,
     "_nnSource": "auto-nb",
@@ -354,21 +354,21 @@
     "_nbEquivalent": "behagelig_adv",
     "_generatedFrom": "de-nb/generalbank.json:angenehm_general, de-nb/generalbank.json:bequem_general"
   },
-  "beklager_interj": {
-    "word": "beklager",
-    "type": "interj",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "beklager_interj",
-    "_generatedFrom": "es-nb/generalbank.json:lo_siento_interj"
-  },
-  "beklager_jeg_er_lei_meg_phrase": {
-    "word": "beklager, jeg er lei meg",
+  "beklagar_eg_er_lei_meg_phrase": {
+    "word": "beklagar, eg er lei meg",
     "type": "phrase",
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "beklager_jeg_er_lei_meg_phrase",
     "_generatedFrom": "es-nb/phrasesbank.json:lo_siento_phrase"
+  },
+  "beklagar_interj": {
+    "word": "beklagar",
+    "type": "interj",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "beklager_interj",
+    "_generatedFrom": "es-nb/generalbank.json:lo_siento_interj"
   },
   "berre_adv": {
     "word": "berre",
@@ -458,8 +458,8 @@
     "_nbEquivalent": "blind_adv",
     "_generatedFrom": "de-nb/generalbank.json:blind_general"
   },
-  "bortsett_fra_adv": {
-    "word": "bortsett fra",
+  "bortsett_frå_adv": {
+    "word": "bortsett frå",
     "type": "adv",
     "_enriched": false,
     "_nnSource": "auto-nb",
@@ -847,16 +847,16 @@
     "usageNotes": "intetkjønn",
     "_generatedFrom": "de-nb/articlesbank.json:das_art"
   },
-  "det_er_dårleg_vær_phrase": {
-    "word": "det er dårleg vær",
+  "det_er_dårleg_ver_phrase": {
+    "word": "det er dårleg ver",
     "type": "phrase",
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "det_er_dårlig_vær_phrase",
     "_generatedFrom": "es-nb/generalbank.json:hace_mal_tiempo_phrase"
   },
-  "det_er_fint_vær_phrase": {
-    "word": "det er fint vær",
+  "det_er_fint_ver_phrase": {
+    "word": "det er fint ver",
     "type": "phrase",
     "_enriched": false,
     "_nnSource": "auto-nb",
@@ -895,16 +895,16 @@
     "_nbEquivalent": "det_er_varmt_phrase",
     "_generatedFrom": "es-nb/generalbank.json:hace_calor_phrase"
   },
-  "det_finnes_ikkje_phrase": {
-    "word": "det finnes ikkje",
+  "det_finst_ikkje_phrase": {
+    "word": "det finst ikkje",
     "type": "phrase",
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "det_finnes_ikke_phrase",
     "_generatedFrom": "es-nb/generalbank.json:no_hay_phrase"
   },
-  "det_finnes_phrase": {
-    "word": "det finnes",
+  "det_finst_phrase": {
+    "word": "det finst",
     "type": "phrase",
     "_enriched": false,
     "_nnSource": "auto-nb",
@@ -975,6 +975,14 @@
     "_nbEquivalent": "det_trengs_phrase",
     "_generatedFrom": "es-nb/generalbank.json:hace_falta_phrase"
   },
+  "det_verkar_for_meg_som_phrase": {
+    "word": "det verkar for meg som...",
+    "type": "phrase",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "det_virker_for_meg_som_phrase",
+    "_generatedFrom": "es-nb/generalbank.json:a_mi_me_parece_phrase"
+  },
   "det_vil_si_phrase": {
     "word": "det vil si",
     "type": "phrase",
@@ -982,14 +990,6 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "det_vil_si_phrase",
     "_generatedFrom": "es-nb/generalbank.json:es_decir_phrase"
-  },
-  "det_virker_for_meg_som_phrase": {
-    "word": "det virker for meg som...",
-    "type": "phrase",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "det_virker_for_meg_som_phrase",
-    "_generatedFrom": "es-nb/generalbank.json:a_mi_me_parece_phrase"
   },
   "dette_pron": {
     "word": "dette",
@@ -1144,13 +1144,197 @@
     "_nbEquivalent": "døv_adv",
     "_generatedFrom": "de-nb/generalbank.json:taub_general"
   },
-  "egen_adv": {
-    "word": "egen",
-    "type": "adv",
+  "eg_bur_i_phrase": {
+    "word": "eg bur i...",
+    "type": "phrase",
     "_enriched": false,
     "_nnSource": "auto-nb",
-    "_nbEquivalent": "egen_adv",
-    "_generatedFrom": "de-nb/generalbank.json:eigen_general"
+    "_nbEquivalent": "jeg_bor_i_phrase",
+    "_generatedFrom": "es-nb/phrasesbank.json:vivo_en_phrase"
+  },
+  "eg_elsker_det_phrase": {
+    "word": "eg elsker det",
+    "type": "phrase",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "jeg_elsker_det_phrase",
+    "_generatedFrom": "es-nb/generalbank.json:me_encanta_phrase"
+  },
+  "eg_er__år_phrase": {
+    "word": "eg er ... år",
+    "type": "phrase",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "jeg_er__år_phrase",
+    "_generatedFrom": "es-nb/generalbank.json:tengo_anos_phrase, es-nb/phrasesbank.json:tengo_anos_phrase"
+  },
+  "eg_er_frå_phrase": {
+    "word": "eg er frå...",
+    "type": "phrase",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "jeg_er_fra_phrase",
+    "_generatedFrom": "es-nb/generalbank.json:soy_de_phrase, es-nb/phrasesbank.json:soy_de_phrase"
+  },
+  "eg_er_redd_phrase": {
+    "word": "eg er redd",
+    "type": "phrase",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "jeg_er_redd_phrase",
+    "_generatedFrom": "es-nb/generalbank.json:tengo_miedo_phrase"
+  },
+  "eg_er_svolten_phrase": {
+    "word": "eg er svolten",
+    "type": "phrase",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "jeg_er_sulten_phrase",
+    "_generatedFrom": "es-nb/generalbank.json:tengo_hambre_phrase"
+  },
+  "eg_er_søvnig_phrase": {
+    "word": "eg er søvnig",
+    "type": "phrase",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "jeg_er_søvnig_phrase",
+    "_generatedFrom": "es-nb/generalbank.json:tengo_sueno_phrase"
+  },
+  "eg_er_tørst_phrase": {
+    "word": "eg er tørst",
+    "type": "phrase",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "jeg_er_tørst_phrase",
+    "_generatedFrom": "es-nb/generalbank.json:tengo_sed_phrase"
+  },
+  "eg_er_varm_phrase": {
+    "word": "eg er varm",
+    "type": "phrase",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "jeg_er_varm_phrase",
+    "_generatedFrom": "es-nb/generalbank.json:tengo_calor_phrase"
+  },
+  "eg_forstår_ikkje_phrase": {
+    "word": "eg forstår ikkje",
+    "type": "phrase",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "jeg_forstår_ikke_phrase",
+    "_generatedFrom": "es-nb/generalbank.json:no_entiendo_phrase, es-nb/phrasesbank.json:no_entiendo_phrase"
+  },
+  "eg_fryser_phrase": {
+    "word": "eg fryser",
+    "type": "phrase",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "jeg_fryser_phrase",
+    "_generatedFrom": "es-nb/generalbank.json:tengo_frio_phrase"
+  },
+  "eg_gleder_meg_phrase": {
+    "word": "eg gleder meg",
+    "type": "phrase",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "jeg_gleder_meg_phrase",
+    "_generatedFrom": "de-nb/generalbank.json:ich_freue_mich_phrase"
+  },
+  "eg_har_det_travelt_phrase": {
+    "word": "eg har det travelt",
+    "type": "phrase",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "jeg_har_det_travelt_phrase",
+    "_generatedFrom": "es-nb/generalbank.json:tengo_prisa_phrase"
+  },
+  "eg_har_eit_spørsmål_phrase": {
+    "word": "eg har eit spørsmål",
+    "type": "phrase",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "jeg_har_et_spørsmål_phrase",
+    "_generatedFrom": "es-nb/generalbank.json:tengo_una_pregunta_phrase, es-nb/phrasesbank.json:tengo_una_pregunta_phrase"
+  },
+  "eg_har_rett_phrase": {
+    "word": "eg har rett",
+    "type": "phrase",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "jeg_har_rett_phrase",
+    "_generatedFrom": "es-nb/generalbank.json:tengo_razon_phrase"
+  },
+  "eg_heiter_phrase": {
+    "word": "eg heiter...",
+    "type": "phrase",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "jeg_heter_phrase",
+    "_generatedFrom": "es-nb/generalbank.json:me_llamo_phrase, es-nb/phrasesbank.json:me_llamo_phrase"
+  },
+  "eg_liker_ikkje_phrase": {
+    "word": "eg liker ikkje",
+    "type": "phrase",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "jeg_liker_ikke_phrase",
+    "_generatedFrom": "es-nb/generalbank.json:no_me_gusta_phrase"
+  },
+  "eg_liker_phrase": {
+    "word": "eg liker",
+    "type": "phrase",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "jeg_liker_phrase",
+    "_generatedFrom": "es-nb/generalbank.json:me_gusta_phrase"
+  },
+  "eg_mener_at_phrase": {
+    "word": "eg mener at...",
+    "type": "phrase",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "jeg_mener_at_phrase",
+    "_generatedFrom": "es-nb/generalbank.json:pienso_que_phrase"
+  },
+  "eg_pron": {
+    "word": "eg",
+    "type": "pron",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "jeg_pron",
+    "_generatedFrom": "de-nb/pronounsbank.json:ich_pron, es-nb/pronounsbank.json:yo_pron"
+  },
+  "eg_tror_at_phrase": {
+    "word": "eg tror at...",
+    "type": "phrase",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "jeg_tror_at_phrase",
+    "_generatedFrom": "es-nb/generalbank.json:creo_que_phrase"
+  },
+  "eg_tror_det_phrase": {
+    "word": "eg tror det",
+    "type": "phrase",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "jeg_tror_det_phrase",
+    "_generatedFrom": "es-nb/phrasesbank.json:creo_que_si_phrase"
+  },
+  "eg_tror_ikkje_det_phrase": {
+    "word": "eg tror ikkje det",
+    "type": "phrase",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "jeg_tror_ikke_det_phrase",
+    "_generatedFrom": "es-nb/phrasesbank.json:creo_que_no_phrase"
+  },
+  "eg_vet_ikkje_phrase": {
+    "word": "eg vet ikkje",
+    "type": "phrase",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "jeg_vet_ikke_phrase",
+    "_generatedFrom": "es-nb/phrasesbank.json:no_se_phrase"
   },
   "egentleg_adv": {
     "word": "egentleg",
@@ -1176,6 +1360,104 @@
     "_nbEquivalent": "ei_art",
     "usageNotes": "hunkjønn",
     "_generatedFrom": "de-nb/articlesbank.json:eine_art"
+  },
+  "eigen_adv": {
+    "word": "eigen",
+    "type": "adv",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "egen_adv",
+    "_generatedFrom": "de-nb/generalbank.json:eigen_general"
+  },
+  "ein_adv": {
+    "word": "ein",
+    "type": "adv",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "en_adv",
+    "_generatedFrom": "de-nb/generalbank.json:ein_general, es-nb/articlesbank.json:un_articulo, es-nb/articlesbank.json:una_articulo"
+  },
+  "ein_annan_gang_phrase": {
+    "word": "ein annan gang",
+    "type": "phrase",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "en_annen_gang_phrase",
+    "_generatedFrom": "de-nb/generalbank.json:ein_anderes_mal_phrase"
+  },
+  "ein_art": {
+    "word": "ein",
+    "type": "art",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "en_art",
+    "_generatedFrom": "de-nb/articlesbank.json:ein_art, de-nb/articlesbank.json:eine_art, de-nb/articlesbank.json:einen_art"
+  },
+  "ein_elefant_phrase": {
+    "word": "ein elefant",
+    "type": "phrase",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "en_elefant_phrase",
+    "usageNotes": "objekt",
+    "_generatedFrom": "de-nb/generalbank.json:einen_elefanten_phrase"
+  },
+  "ein_eller_annan_adv": {
+    "word": "ein eller annan",
+    "type": "adv",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "en_eller_annen_adv",
+    "_generatedFrom": "de-nb/generalbank.json:irgendirgendein_general"
+  },
+  "ein_gang_adv": {
+    "word": "ein gang",
+    "type": "adv",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "en_gang_adv",
+    "_generatedFrom": "de-nb/generalbank.json:einmal_general, de-nb/generalbank.json:irgendwann_general, de-nb/generalbank.json:mal_adv"
+  },
+  "ein_num": {
+    "word": "ein",
+    "type": "num",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "en_num",
+    "_generatedFrom": "de-nb/numbersbank.json:eins_num, es-nb/numbersbank.json:uno_num"
+  },
+  "ein_pron": {
+    "word": "ein",
+    "type": "pron",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "en_pron",
+    "_generatedFrom": "de-nb/pronounsbank.json:man_pron"
+  },
+  "eit_art": {
+    "word": "eit",
+    "type": "art",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "et_art",
+    "usageNotes": "akkusativ hankjønn",
+    "_generatedFrom": "de-nb/articlesbank.json:einen_art"
+  },
+  "eit_hankjønn_art": {
+    "word": "eit (hankjønn",
+    "type": "art",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "et_hankjønn_art",
+    "_generatedFrom": "de-nb/articlesbank.json:ein_art"
+  },
+  "eit_stipend_adv": {
+    "word": "eit stipend",
+    "type": "adv",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "et_stipend_adv",
+    "_generatedFrom": "de-nb/generalbank.json:ein_stipendium_general"
   },
   "ekstra_adv": {
     "word": "ekstra",
@@ -1258,71 +1540,6 @@
     "_nbEquivalent": "elleve_num",
     "_generatedFrom": "de-nb/numbersbank.json:elf_num, es-nb/numbersbank.json:once_num"
   },
-  "en_adv": {
-    "word": "en",
-    "type": "adv",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "en_adv",
-    "_generatedFrom": "de-nb/generalbank.json:ein_general, es-nb/articlesbank.json:un_articulo, es-nb/articlesbank.json:una_articulo"
-  },
-  "en_annan_gang_phrase": {
-    "word": "en annan gang",
-    "type": "phrase",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "en_annen_gang_phrase",
-    "_generatedFrom": "de-nb/generalbank.json:ein_anderes_mal_phrase"
-  },
-  "en_art": {
-    "word": "en",
-    "type": "art",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "en_art",
-    "_generatedFrom": "de-nb/articlesbank.json:ein_art, de-nb/articlesbank.json:eine_art, de-nb/articlesbank.json:einen_art"
-  },
-  "en_elefant_phrase": {
-    "word": "en elefant",
-    "type": "phrase",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "en_elefant_phrase",
-    "usageNotes": "objekt",
-    "_generatedFrom": "de-nb/generalbank.json:einen_elefanten_phrase"
-  },
-  "en_eller_annan_adv": {
-    "word": "en eller annan",
-    "type": "adv",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "en_eller_annen_adv",
-    "_generatedFrom": "de-nb/generalbank.json:irgendirgendein_general"
-  },
-  "en_gang_adv": {
-    "word": "en gang",
-    "type": "adv",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "en_gang_adv",
-    "_generatedFrom": "de-nb/generalbank.json:einmal_general, de-nb/generalbank.json:irgendwann_general, de-nb/generalbank.json:mal_adv"
-  },
-  "en_num": {
-    "word": "en",
-    "type": "num",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "en_num",
-    "_generatedFrom": "de-nb/numbersbank.json:eins_num, es-nb/numbersbank.json:uno_num"
-  },
-  "en_pron": {
-    "word": "en",
-    "type": "pron",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "en_pron",
-    "_generatedFrom": "de-nb/pronounsbank.json:man_pron"
-  },
   "endeleg_adv": {
     "word": "endeleg",
     "type": "adv",
@@ -1339,8 +1556,8 @@
     "_nbEquivalent": "endelig_expr",
     "_generatedFrom": "es-nb/generalbank.json:por_fin_expr"
   },
-  "endå_en_gang_adv": {
-    "word": "endå en gang",
+  "endå_ein_gang_adv": {
+    "word": "endå ein gang",
     "type": "adv",
     "_enriched": false,
     "_nnSource": "auto-nb",
@@ -1450,31 +1667,6 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "er_arbeidsledige_adv",
     "_generatedFrom": "de-nb/generalbank.json:arbeitslos_sind_general"
-  },
-  "et_art": {
-    "word": "et",
-    "type": "art",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "et_art",
-    "usageNotes": "akkusativ hankjønn",
-    "_generatedFrom": "de-nb/articlesbank.json:einen_art"
-  },
-  "et_hankjønn_art": {
-    "word": "et (hankjønn",
-    "type": "art",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "et_hankjønn_art",
-    "_generatedFrom": "de-nb/articlesbank.json:ein_art"
-  },
-  "et_stipend_adv": {
-    "word": "et stipend",
-    "type": "adv",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "et_stipend_adv",
-    "_generatedFrom": "de-nb/generalbank.json:ein_stipendium_general"
   },
   "etter_at_adv": {
     "word": "etter at",
@@ -1757,6 +1949,14 @@
     "_nbEquivalent": "for_det_meste_adv",
     "_generatedFrom": "de-nb/generalbank.json:meistens_adv"
   },
+  "for_ein_adv": {
+    "word": "for ein",
+    "type": "adv",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "for_en_adv",
+    "_generatedFrom": "de-nb/generalbank.json:was_fuer_ein_general"
+  },
   "for_eksempel_adv": {
     "word": "for eksempel",
     "type": "adv",
@@ -1772,14 +1972,6 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "for_eksempel_phrase",
     "_generatedFrom": "es-nb/generalbank.json:por_ejemplo_phrase"
-  },
-  "for_en_adv": {
-    "word": "for en",
-    "type": "adv",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "for_en_adv",
-    "_generatedFrom": "de-nb/generalbank.json:was_fuer_ein_general"
   },
   "for_lenge_siden_adv": {
     "word": "for lenge siden",
@@ -1981,54 +2173,13 @@
     "_nbEquivalent": "forvirret_adv",
     "_generatedFrom": "de-nb/generalbank.json:durcheinander_general"
   },
-  "fra_contr": {
-    "word": "fra",
-    "type": "contr",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "fra_contr",
-    "usageNotes": "von + dem",
-    "_generatedFrom": "de-nb/articlesbank.json:vom_contr, es-nb/articlesbank.json:del_contr"
-  },
-  "fra_frankrike_phrase": {
-    "word": "fra frankrike",
-    "type": "phrase",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "fra_frankrike_phrase",
-    "_generatedFrom": "de-nb/generalbank.json:aus_frankreich_phrase"
-  },
-  "fra_kvarandre_adv": {
-    "word": "fra kvarandre",
+  "framover_adv": {
+    "word": "framover",
     "type": "adv",
     "_enriched": false,
     "_nnSource": "auto-nb",
-    "_nbEquivalent": "fra_hverandre_adv",
-    "_generatedFrom": "de-nb/generalbank.json:auseinander_general, de-nb/generalbank.json:voneinander_general"
-  },
-  "fra_phrase": {
-    "word": "fra",
-    "type": "phrase",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "fra_phrase",
-    "_generatedFrom": "de-nb/phrasesbank.json:aus_dem_phrase"
-  },
-  "fra_prep": {
-    "word": "fra",
-    "type": "prep",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "fra_prep",
-    "_generatedFrom": "de-nb/generalbank.json:aus_prep, de-nb/generalbank.json:von_prep, es-nb/generalbank.json:de_prep, es-nb/generalbank.json:desde_prep"
-  },
-  "fra_tiden_på_phrase": {
-    "word": "fra tiden på",
-    "type": "phrase",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "fra_tiden_på_phrase",
-    "_generatedFrom": "de-nb/phrasesbank.json:seit_der_phrase"
+    "_nbEquivalent": "fremover_adv",
+    "_generatedFrom": "de-nb/generalbank.json:vorwaerts_general, es-nb/generalbank.json:adelante_adv"
   },
   "frankrike_propn": {
     "word": "frankrike",
@@ -2061,14 +2212,6 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "fremmed_adv",
     "_generatedFrom": "de-nb/generalbank.json:fremd_general"
-  },
-  "fremover_adv": {
-    "word": "fremover",
-    "type": "adv",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "fremover_adv",
-    "_generatedFrom": "de-nb/generalbank.json:vorwaerts_general, es-nb/generalbank.json:adelante_adv"
   },
   "fremre_adv": {
     "word": "fremre",
@@ -2109,6 +2252,55 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "fryktelig_adv",
     "_generatedFrom": "de-nb/generalbank.json:furchtbar_general, de-nb/generalbank.json:schrecklich_general"
+  },
+  "frå_contr": {
+    "word": "frå",
+    "type": "contr",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "fra_contr",
+    "usageNotes": "von + dem",
+    "_generatedFrom": "de-nb/articlesbank.json:vom_contr, es-nb/articlesbank.json:del_contr"
+  },
+  "frå_frankrike_phrase": {
+    "word": "frå frankrike",
+    "type": "phrase",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "fra_frankrike_phrase",
+    "_generatedFrom": "de-nb/generalbank.json:aus_frankreich_phrase"
+  },
+  "frå_kvarandre_adv": {
+    "word": "frå kvarandre",
+    "type": "adv",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "fra_hverandre_adv",
+    "_generatedFrom": "de-nb/generalbank.json:auseinander_general, de-nb/generalbank.json:voneinander_general"
+  },
+  "frå_phrase": {
+    "word": "frå",
+    "type": "phrase",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "fra_phrase",
+    "_generatedFrom": "de-nb/phrasesbank.json:aus_dem_phrase"
+  },
+  "frå_prep": {
+    "word": "frå",
+    "type": "prep",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "fra_prep",
+    "_generatedFrom": "de-nb/generalbank.json:aus_prep, de-nb/generalbank.json:von_prep, es-nb/generalbank.json:de_prep, es-nb/generalbank.json:desde_prep"
+  },
+  "frå_tiden_på_phrase": {
+    "word": "frå tiden på",
+    "type": "phrase",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "fra_tiden_på_phrase",
+    "_generatedFrom": "de-nb/phrasesbank.json:seit_der_phrase"
   },
   "fuktig_adv": {
     "word": "fuktig",
@@ -2351,8 +2543,8 @@
     "_nbEquivalent": "god_ettermiddag_phrase",
     "_generatedFrom": "es-nb/generalbank.json:buenas_tardes_phrase, es-nb/phrasesbank.json:buenas_tardes_phrase"
   },
-  "god_fornøyelse_phrase": {
-    "word": "god fornøyelse",
+  "god_fornøying_phrase": {
+    "word": "god fornøying",
     "type": "phrase",
     "_enriched": false,
     "_nnSource": "auto-nb",
@@ -2488,8 +2680,8 @@
     "_nbEquivalent": "gyldig_adv",
     "_generatedFrom": "de-nb/generalbank.json:gueltig_general"
   },
-  "gå_en_tur_phrase": {
-    "word": "å gå en tur",
+  "gå_ein_tur_phrase": {
+    "word": "å gå ein tur",
     "type": "phrase",
     "_enriched": false,
     "_nnSource": "auto-nb",
@@ -2552,8 +2744,8 @@
     "_nbEquivalent": "ha_det_phrase",
     "_generatedFrom": "es-nb/phrasesbank.json:adios_phrase"
   },
-  "ha_en_fin_dag_phrase": {
-    "word": "ha en fin dag!",
+  "ha_ein_fin_dag_phrase": {
+    "word": "ha ein fin dag!",
     "type": "phrase",
     "_enriched": false,
     "_nnSource": "auto-nb",
@@ -3488,198 +3680,6 @@
     "_nbEquivalent": "ja_interj",
     "_generatedFrom": "de-nb/generalbank.json:ja_interj, es-nb/generalbank.json:si_interj"
   },
-  "jeg_bor_i_phrase": {
-    "word": "jeg bor i...",
-    "type": "phrase",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "jeg_bor_i_phrase",
-    "_generatedFrom": "es-nb/phrasesbank.json:vivo_en_phrase"
-  },
-  "jeg_elsker_det_phrase": {
-    "word": "jeg elsker det",
-    "type": "phrase",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "jeg_elsker_det_phrase",
-    "_generatedFrom": "es-nb/generalbank.json:me_encanta_phrase"
-  },
-  "jeg_er__år_phrase": {
-    "word": "jeg er ... år",
-    "type": "phrase",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "jeg_er__år_phrase",
-    "_generatedFrom": "es-nb/generalbank.json:tengo_anos_phrase, es-nb/phrasesbank.json:tengo_anos_phrase"
-  },
-  "jeg_er_fra_phrase": {
-    "word": "jeg er fra...",
-    "type": "phrase",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "jeg_er_fra_phrase",
-    "_generatedFrom": "es-nb/generalbank.json:soy_de_phrase, es-nb/phrasesbank.json:soy_de_phrase"
-  },
-  "jeg_er_redd_phrase": {
-    "word": "jeg er redd",
-    "type": "phrase",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "jeg_er_redd_phrase",
-    "_generatedFrom": "es-nb/generalbank.json:tengo_miedo_phrase"
-  },
-  "jeg_er_sulten_phrase": {
-    "word": "jeg er sulten",
-    "type": "phrase",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "jeg_er_sulten_phrase",
-    "_generatedFrom": "es-nb/generalbank.json:tengo_hambre_phrase"
-  },
-  "jeg_er_søvnig_phrase": {
-    "word": "jeg er søvnig",
-    "type": "phrase",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "jeg_er_søvnig_phrase",
-    "_generatedFrom": "es-nb/generalbank.json:tengo_sueno_phrase"
-  },
-  "jeg_er_tørst_phrase": {
-    "word": "jeg er tørst",
-    "type": "phrase",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "jeg_er_tørst_phrase",
-    "_generatedFrom": "es-nb/generalbank.json:tengo_sed_phrase"
-  },
-  "jeg_er_varm_phrase": {
-    "word": "jeg er varm",
-    "type": "phrase",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "jeg_er_varm_phrase",
-    "_generatedFrom": "es-nb/generalbank.json:tengo_calor_phrase"
-  },
-  "jeg_forstår_ikkje_phrase": {
-    "word": "jeg forstår ikkje",
-    "type": "phrase",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "jeg_forstår_ikke_phrase",
-    "_generatedFrom": "es-nb/generalbank.json:no_entiendo_phrase, es-nb/phrasesbank.json:no_entiendo_phrase"
-  },
-  "jeg_fryser_phrase": {
-    "word": "jeg fryser",
-    "type": "phrase",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "jeg_fryser_phrase",
-    "_generatedFrom": "es-nb/generalbank.json:tengo_frio_phrase"
-  },
-  "jeg_gleder_meg_phrase": {
-    "word": "jeg gleder meg",
-    "type": "phrase",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "jeg_gleder_meg_phrase",
-    "_generatedFrom": "de-nb/generalbank.json:ich_freue_mich_phrase"
-  },
-  "jeg_har_det_travelt_phrase": {
-    "word": "jeg har det travelt",
-    "type": "phrase",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "jeg_har_det_travelt_phrase",
-    "_generatedFrom": "es-nb/generalbank.json:tengo_prisa_phrase"
-  },
-  "jeg_har_et_spørsmål_phrase": {
-    "word": "jeg har et spørsmål",
-    "type": "phrase",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "jeg_har_et_spørsmål_phrase",
-    "_generatedFrom": "es-nb/generalbank.json:tengo_una_pregunta_phrase, es-nb/phrasesbank.json:tengo_una_pregunta_phrase"
-  },
-  "jeg_har_rett_phrase": {
-    "word": "jeg har rett",
-    "type": "phrase",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "jeg_har_rett_phrase",
-    "_generatedFrom": "es-nb/generalbank.json:tengo_razon_phrase"
-  },
-  "jeg_heter_phrase": {
-    "word": "jeg heter...",
-    "type": "phrase",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "jeg_heter_phrase",
-    "_generatedFrom": "es-nb/generalbank.json:me_llamo_phrase, es-nb/phrasesbank.json:me_llamo_phrase"
-  },
-  "jeg_liker_ikkje_phrase": {
-    "word": "jeg liker ikkje",
-    "type": "phrase",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "jeg_liker_ikke_phrase",
-    "_generatedFrom": "es-nb/generalbank.json:no_me_gusta_phrase"
-  },
-  "jeg_liker_phrase": {
-    "word": "jeg liker",
-    "type": "phrase",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "jeg_liker_phrase",
-    "_generatedFrom": "es-nb/generalbank.json:me_gusta_phrase"
-  },
-  "jeg_mener_at_phrase": {
-    "word": "jeg mener at...",
-    "type": "phrase",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "jeg_mener_at_phrase",
-    "_generatedFrom": "es-nb/generalbank.json:pienso_que_phrase"
-  },
-  "jeg_pron": {
-    "word": "jeg",
-    "type": "pron",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "jeg_pron",
-    "_generatedFrom": "de-nb/pronounsbank.json:ich_pron, es-nb/pronounsbank.json:yo_pron"
-  },
-  "jeg_tror_at_phrase": {
-    "word": "jeg tror at...",
-    "type": "phrase",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "jeg_tror_at_phrase",
-    "_generatedFrom": "es-nb/generalbank.json:creo_que_phrase"
-  },
-  "jeg_tror_det_phrase": {
-    "word": "jeg tror det",
-    "type": "phrase",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "jeg_tror_det_phrase",
-    "_generatedFrom": "es-nb/phrasesbank.json:creo_que_si_phrase"
-  },
-  "jeg_tror_ikkje_det_phrase": {
-    "word": "jeg tror ikkje det",
-    "type": "phrase",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "jeg_tror_ikke_det_phrase",
-    "_generatedFrom": "es-nb/phrasesbank.json:creo_que_no_phrase"
-  },
-  "jeg_vet_ikkje_phrase": {
-    "word": "jeg vet ikkje",
-    "type": "phrase",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "jeg_vet_ikke_phrase",
-    "_generatedFrom": "es-nb/phrasesbank.json:no_se_phrase"
-  },
   "kan_du_gjenta_phrase": {
     "word": "kan du gjenta?",
     "type": "phrase",
@@ -3711,6 +3711,14 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "kantet_adv",
     "_generatedFrom": "de-nb/generalbank.json:eckig_general"
+  },
+  "kjem_straks_adv": {
+    "word": "kjem straks",
+    "type": "adv",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "kommer_straks_adv",
+    "_generatedFrom": "de-nb/generalbank.json:komme_gleich_general"
   },
   "kjempebra_adv": {
     "word": "kjempebra",
@@ -3824,14 +3832,6 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "komme_godt_overens_phrase",
     "_generatedFrom": "es-nb/generalbank.json:llevarse_bien_phrase"
-  },
-  "kommer_straks_adv": {
-    "word": "kommer straks",
-    "type": "adv",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "kommer_straks_adv",
-    "_generatedFrom": "de-nb/generalbank.json:komme_gleich_general"
   },
   "komplett_adv": {
     "word": "komplett",
@@ -4001,8 +4001,8 @@
     "_nbEquivalent": "hvilke_pron",
     "_generatedFrom": "es-nb/pronounsbank.json:cual_interr_pron"
   },
-  "kva_heter_du_phrase": {
-    "word": "kva heter du?",
+  "kva_heiter_du_phrase": {
+    "word": "kva heiter du?",
     "type": "phrase",
     "_enriched": false,
     "_nnSource": "auto-nb",
@@ -4041,8 +4041,8 @@
     "_nbEquivalent": "hvor_adv",
     "_generatedFrom": "de-nb/generalbank.json:wo_general"
   },
-  "kvar_bor_du_phrase": {
-    "word": "kvar bor du?",
+  "kvar_bur_du_phrase": {
+    "word": "kvar bur du?",
     "type": "phrase",
     "_enriched": false,
     "_nnSource": "auto-nb",
@@ -4065,8 +4065,8 @@
     "_nbEquivalent": "hver_dag_phrase",
     "_generatedFrom": "de-nb/generalbank.json:jeden_tag_phrase"
   },
-  "kvar_er_du_fra_phrase": {
-    "word": "kvar er du fra?",
+  "kvar_er_du_frå_phrase": {
+    "word": "kvar er du frå?",
     "type": "phrase",
     "_enriched": false,
     "_nnSource": "auto-nb",
@@ -4081,8 +4081,8 @@
     "_nbEquivalent": "hver_for_seg_adv",
     "_generatedFrom": "de-nb/generalbank.json:getrennt_adv"
   },
-  "kvar_fra_interr": {
-    "word": "kvar fra",
+  "kvar_frå_interr": {
+    "word": "kvar frå",
     "type": "interr",
     "_enriched": false,
     "_nnSource": "auto-nb",
@@ -4113,8 +4113,8 @@
     "_nbEquivalent": "hvor_interr",
     "_generatedFrom": "de-nb/generalbank.json:wo_interr, es-nb/generalbank.json:donde_interr"
   },
-  "kvar_kommer_du_fra_phrase": {
-    "word": "kvar kommer du fra?",
+  "kvar_kjem_du_frå_phrase": {
+    "word": "kvar kjem du frå?",
     "type": "phrase",
     "_enriched": false,
     "_nnSource": "auto-nb",
@@ -4259,16 +4259,8 @@
     "_nbEquivalent": "langs_adv",
     "_generatedFrom": "de-nb/generalbank.json:entlang_general"
   },
-  "langsommere_vær_så_snill_phrase": {
-    "word": "langsommere, vær så snill",
-    "type": "phrase",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "langsommere_vær_så_snill_phrase",
-    "_generatedFrom": "es-nb/generalbank.json:mas_despacio_phrase"
-  },
-  "langt_fra_prep": {
-    "word": "langt fra",
+  "langt_frå_prep": {
+    "word": "langt frå",
     "type": "prep",
     "_enriched": false,
     "_nnSource": "auto-nb",
@@ -4524,8 +4516,8 @@
     "_nbEquivalent": "med_det_adv",
     "_generatedFrom": "de-nb/generalbank.json:dabei_adv"
   },
-  "med_en_gang_adv": {
-    "word": "med en gang",
+  "med_ein_gang_adv": {
+    "word": "med ein gang",
     "type": "adv",
     "_enriched": false,
     "_nnSource": "auto-nb",
@@ -4548,8 +4540,8 @@
     "_nbEquivalent": "med_hverandre_adv",
     "_generatedFrom": "de-nb/generalbank.json:miteinander_general"
   },
-  "med_mine_venner_phrase": {
-    "word": "med mine venner",
+  "med_mine_vener_phrase": {
+    "word": "med mine vener",
     "type": "phrase",
     "_enriched": false,
     "_nnSource": "auto-nb",
@@ -4829,8 +4821,8 @@
     "_nbEquivalent": "modig_adv",
     "_generatedFrom": "de-nb/generalbank.json:mutig_general"
   },
-  "morsom_adv": {
-    "word": "morsom",
+  "morosam_adv": {
+    "word": "morosam",
     "type": "adv",
     "_enriched": false,
     "_nnSource": "auto-nb",
@@ -5038,14 +5030,6 @@
     "_nbEquivalent": "nå_setter_vi_i_gang_phrase",
     "_generatedFrom": "de-nb/generalbank.json:los_geht_s_phrase"
   },
-  "noensinne_adv": {
-    "word": "noensinne",
-    "type": "adv",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "noensinne_adv",
-    "_generatedFrom": "de-nb/generalbank.json:je_general, de-nb/generalbank.json:jemals_general"
-  },
   "nok_adv": {
     "word": "nok",
     "type": "adv",
@@ -5085,6 +5069,14 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "noen_ganger_adv",
     "_generatedFrom": "de-nb/generalbank.json:manchmal_adv, es-nb/generalbank.json:a_veces_adv"
+  },
+  "nokosinne_adv": {
+    "word": "nokosinne",
+    "type": "adv",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "noensinne_adv",
+    "_generatedFrom": "de-nb/generalbank.json:je_general, de-nb/generalbank.json:jemals_general"
   },
   "norge_propn": {
     "word": "norge",
@@ -5470,6 +5462,30 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "ordentlig_adv",
     "_generatedFrom": "de-nb/generalbank.json:ordentlich_general"
+  },
+  "orsak_får_eg_komme_forbi_phrase": {
+    "word": "orsak, får eg komme forbi",
+    "type": "phrase",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "unnskyld_får_jeg_komme_forbi_phrase",
+    "_generatedFrom": "es-nb/phrasesbank.json:con_permiso_phrase"
+  },
+  "orsak_interj": {
+    "word": "orsak",
+    "type": "interj",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "unnskyld_interj",
+    "_generatedFrom": "es-nb/generalbank.json:perdon_interj, es-nb/generalbank.json:lo_siento_interj"
+  },
+  "orsak_phrase": {
+    "word": "orsak",
+    "type": "phrase",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "unnskyld_phrase",
+    "_generatedFrom": "es-nb/phrasesbank.json:perdon_phrase, es-nb/phrasesbank.json:disculpe_phrase"
   },
   "oss_pron": {
     "word": "oss",
@@ -5888,8 +5904,8 @@
     "_nbEquivalent": "rett_adv",
     "_generatedFrom": "de-nb/generalbank.json:recht_general"
   },
-  "rett_frem_adv": {
-    "word": "rett frem",
+  "rett_fram_adv": {
+    "word": "rett fram",
     "type": "adv",
     "_enriched": false,
     "_nnSource": "auto-nb",
@@ -5975,6 +5991,14 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "rå_adv",
     "_generatedFrom": "de-nb/generalbank.json:roh_general"
+  },
+  "saktare_ver_så_snill_phrase": {
+    "word": "saktare, ver så snill",
+    "type": "phrase",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "langsommere_vær_så_snill_phrase",
+    "_generatedFrom": "es-nb/generalbank.json:mas_despacio_phrase"
   },
   "sakte_adv": {
     "word": "sakte",
@@ -6215,6 +6239,14 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "sjuende_num",
     "_generatedFrom": "de-nb/numbersbank.json:siebte_num"
+  },
+  "sjuk_adv": {
+    "word": "sjuk",
+    "type": "adv",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "syk_adv",
+    "_generatedFrom": "de-nb/generalbank.json:krank_general"
   },
   "sjølv_adv": {
     "word": "sjølv",
@@ -6592,14 +6624,6 @@
     "_nbEquivalent": "stygg_adv",
     "_generatedFrom": "de-nb/generalbank.json:haesslich_general"
   },
-  "sulten_adv": {
-    "word": "sulten",
-    "type": "adv",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "sulten_adv",
-    "_generatedFrom": "de-nb/generalbank.json:hungrig_general"
-  },
   "super_adv": {
     "word": "super",
     "type": "adv",
@@ -6640,13 +6664,13 @@
     "_nbEquivalent": "sveits_propn",
     "_generatedFrom": "de-nb/generalbank.json:die_schweiz_propn"
   },
-  "syk_adv": {
-    "word": "syk",
+  "svolten_adv": {
+    "word": "svolten",
     "type": "adv",
     "_enriched": false,
     "_nnSource": "auto-nb",
-    "_nbEquivalent": "syk_adv",
-    "_generatedFrom": "de-nb/generalbank.json:krank_general"
+    "_nbEquivalent": "sulten_adv",
+    "_generatedFrom": "de-nb/generalbank.json:hungrig_general"
   },
   "sykle_phrase": {
     "word": "å sykle",
@@ -7284,30 +7308,6 @@
     "_nbEquivalent": "under_prep",
     "_generatedFrom": "de-nb/generalbank.json:unter_prep, es-nb/generalbank.json:bajo_prep, es-nb/generalbank.json:durante_prep, es-nb/generalbank.json:debajo_de_prep"
   },
-  "unnskyld_får_jeg_komme_forbi_phrase": {
-    "word": "unnskyld, får jeg komme forbi",
-    "type": "phrase",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "unnskyld_får_jeg_komme_forbi_phrase",
-    "_generatedFrom": "es-nb/phrasesbank.json:con_permiso_phrase"
-  },
-  "unnskyld_interj": {
-    "word": "unnskyld",
-    "type": "interj",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "unnskyld_interj",
-    "_generatedFrom": "es-nb/generalbank.json:perdon_interj, es-nb/generalbank.json:lo_siento_interj"
-  },
-  "unnskyld_phrase": {
-    "word": "unnskyld",
-    "type": "phrase",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "unnskyld_phrase",
-    "_generatedFrom": "es-nb/phrasesbank.json:perdon_phrase, es-nb/phrasesbank.json:disculpe_phrase"
-  },
   "usa_propn": {
     "word": "usa",
     "type": "propn",
@@ -7331,6 +7331,22 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "ut_av_phrase",
     "_generatedFrom": "de-nb/phrasesbank.json:aus_dem_phrase"
+  },
+  "utan_prep": {
+    "word": "utan",
+    "type": "prep",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "uten_prep",
+    "_generatedFrom": "de-nb/generalbank.json:ohne_prep, es-nb/generalbank.json:sin_prep"
+  },
+  "utan_tvil_expr": {
+    "word": "utan tvil",
+    "type": "expr",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "uten_tvil_expr",
+    "_generatedFrom": "es-nb/generalbank.json:sin_duda_expr"
   },
   "utanfor_adv": {
     "word": "utanfor",
@@ -7363,22 +7379,6 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "utelukkende_adv",
     "_generatedFrom": "de-nb/generalbank.json:ausschliesslich_general"
-  },
-  "uten_prep": {
-    "word": "uten",
-    "type": "prep",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "uten_prep",
-    "_generatedFrom": "de-nb/generalbank.json:ohne_prep, es-nb/generalbank.json:sin_prep"
-  },
-  "uten_tvil_expr": {
-    "word": "uten tvil",
-    "type": "expr",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "uten_tvil_expr",
-    "_generatedFrom": "es-nb/generalbank.json:sin_duda_expr"
   },
   "utenlandsk_adv": {
     "word": "utenlandsk",
@@ -7532,8 +7532,8 @@
     "_nbEquivalent": "vellykket_adv",
     "_generatedFrom": "de-nb/generalbank.json:erfolgreich_general"
   },
-  "venner_er_viktige_phrase": {
-    "word": "venner er viktige",
+  "vener_er_viktige_phrase": {
+    "word": "vener er viktige",
     "type": "phrase",
     "_enriched": false,
     "_nnSource": "auto-nb",
@@ -7547,6 +7547,30 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "venstre_side_adv",
     "_generatedFrom": "de-nb/generalbank.json:linken_seite_general"
+  },
+  "ver_så_god_interj": {
+    "word": "ver så god",
+    "type": "interj",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "vær_så_god_interj",
+    "_generatedFrom": "de-nb/generalbank.json:bitte_interj"
+  },
+  "ver_så_snill_interj": {
+    "word": "ver så snill",
+    "type": "interj",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "vær_så_snill_interj",
+    "_generatedFrom": "es-nb/generalbank.json:por_favor_interj"
+  },
+  "ver_så_snill_phrase": {
+    "word": "ver så snill",
+    "type": "phrase",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "vær_så_snill_phrase",
+    "_generatedFrom": "es-nb/phrasesbank.json:por_favor_phrase"
   },
   "verdifull_adv": {
     "word": "verdifull",
@@ -7723,30 +7747,6 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "våre_pron",
     "_generatedFrom": "es-nb/pronounsbank.json:nuestro_possess_pron"
-  },
-  "vær_så_god_interj": {
-    "word": "vær så god",
-    "type": "interj",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "vær_så_god_interj",
-    "_generatedFrom": "de-nb/generalbank.json:bitte_interj"
-  },
-  "vær_så_snill_interj": {
-    "word": "vær så snill",
-    "type": "interj",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "vær_så_snill_interj",
-    "_generatedFrom": "es-nb/generalbank.json:por_favor_interj"
-  },
-  "vær_så_snill_phrase": {
-    "word": "vær så snill",
-    "type": "phrase",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "vær_så_snill_phrase",
-    "_generatedFrom": "es-nb/phrasesbank.json:por_favor_phrase"
   },
   "være_av_adv": {
     "word": "å være av",

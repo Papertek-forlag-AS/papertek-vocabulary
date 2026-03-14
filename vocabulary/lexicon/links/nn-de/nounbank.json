@@ -3,7 +3,7 @@
     "from": "nn",
     "to": "de",
     "bank": "nounbank",
-    "generatedAt": "2026-03-14T00:51:17.186Z",
+    "generatedAt": "2026-03-14T00:54:10.311Z",
     "totalLinks": 1530
   },
   "abonnement_noun": {
@@ -174,6 +174,23 @@
   "asyl_noun": {
     "primary": "asyl_noun"
   },
+  "auge_noun": {
+    "primary": "auge_noun",
+    "examples": [
+      {
+        "source": "Jeg har blå øyne.",
+        "target": "Ich habe blaue Augen."
+      },
+      {
+        "source": "Øyet gjør vondt.",
+        "target": "Das Auge tut weh."
+      },
+      {
+        "source": "Hun har fine øyne.",
+        "target": "Sie hat schöne Augen."
+      }
+    ]
+  },
   "augeblink_noun": {
     "primary": "augenblick_noun",
     "alternatives": [
@@ -198,7 +215,7 @@
   "avgangseksamen_noun": {
     "primary": "matura_a_noun"
   },
-  "avgjørelse_noun": {
+  "avgjerd_noun": {
     "primary": "entscheidung_noun"
   },
   "avhengighet_noun": {
@@ -337,7 +354,7 @@
   "barnehage_noun": {
     "primary": "kindergarten_noun"
   },
-  "barneskole_noun": {
+  "barneskule_noun": {
     "primary": "grundschule_noun"
   },
   "barnevakt_noun": {
@@ -369,12 +386,6 @@
   },
   "begrunnelse_noun": {
     "primary": "begruendung_noun"
-  },
-  "begynnelse_noun": {
-    "primary": "anfang_noun",
-    "alternatives": [
-      "beginn_noun"
-    ]
   },
   "behov_noun": {
     "primary": "bedarf_noun"
@@ -415,9 +426,6 @@
   "beskjeftigelse_noun": {
     "primary": "beschaeftigung_noun"
   },
-  "beskrivelse_noun": {
-    "primary": "beschreibung_noun"
-  },
   "bestefar_noun": {
     "primary": "grossvater_noun",
     "alternatives": [
@@ -444,9 +452,6 @@
   },
   "betydning_noun": {
     "primary": "bedeutung_noun"
-  },
-  "bevegelse_noun": {
-    "primary": "bewegung_noun"
   },
   "bevis_noun": {
     "primary": "beweis_noun"
@@ -566,12 +571,6 @@
   },
   "borger_noun": {
     "primary": "buerger_noun"
-  },
-  "bosted_noun": {
-    "primary": "wohnort_noun",
-    "alternatives": [
-      "wohnsitz_noun"
-    ]
   },
   "bot_noun": {
     "primary": "strafzettel_noun"
@@ -718,6 +717,12 @@
       }
     ]
   },
+  "bustad_noun": {
+    "primary": "wohnort_noun",
+    "alternatives": [
+      "wohnsitz_noun"
+    ]
+  },
   "butikk_noun": {
     "primary": "laden_noun"
   },
@@ -749,6 +754,12 @@
   },
   "bykart_noun": {
     "primary": "stadtplan_noun"
+  },
+  "byrjing_noun": {
+    "primary": "anfang_noun",
+    "alternatives": [
+      "beginn_noun"
+    ]
   },
   "bytte_noun": {
     "primary": "umtausch_noun"
@@ -808,9 +819,6 @@
   },
   "dato_noun": {
     "primary": "datum_noun"
-  },
-  "datter_noun": {
-    "primary": "tochter_noun"
   },
   "dekk_noun": {
     "primary": "reifen_noun"
@@ -899,6 +907,9 @@
   },
   "donau_noun": {
     "primary": "donau_noun"
+  },
+  "dotter_noun": {
+    "primary": "tochter_noun"
   },
   "dress_noun": {
     "primary": "anzug_noun"
@@ -1102,7 +1113,7 @@
   "ettermiddag_noun": {
     "primary": "nachmittag_noun"
   },
-  "etternavn_noun": {
+  "etternamn_noun": {
     "primary": "familienname_noun"
   },
   "etterspørsel_noun": {
@@ -1377,12 +1388,6 @@
   "folk_noun": {
     "primary": "leute_noun"
   },
-  "forberedelse_noun": {
-    "primary": "vorbereitung_noun"
-  },
-  "forbindelse_noun": {
-    "primary": "verbindung_noun"
-  },
   "forbruk_noun": {
     "primary": "konsum_noun"
   },
@@ -1439,7 +1444,7 @@
       "verhaeltnis_noun"
     ]
   },
-  "forkjølelse_noun": {
+  "forkjøling_noun": {
     "primary": "erkaeltung_noun"
   },
   "forkjørsrett_noun": {
@@ -1463,10 +1468,10 @@
   "formål_noun": {
     "primary": "zweck_noun"
   },
-  "fornavn_noun": {
+  "fornamn_noun": {
     "primary": "vorname_noun"
   },
-  "fornøyelse_noun": {
+  "fornøying_noun": {
     "primary": "vergnuegen_noun"
   },
   "forretning_noun": {
@@ -1474,6 +1479,9 @@
   },
   "forsamling_noun": {
     "primary": "versammlung_noun"
+  },
+  "forseinking_noun": {
+    "primary": "verspaetung_noun"
   },
   "forsikring_noun": {
     "primary": "versicherung_noun"
@@ -1483,9 +1491,6 @@
   },
   "forsiktighet_noun": {
     "primary": "vorsicht_noun"
-  },
-  "forsinkelse_noun": {
-    "primary": "verspaetung_noun"
   },
   "forskning_noun": {
     "primary": "forschung_noun"
@@ -1516,9 +1521,6 @@
   },
   "fortid_noun": {
     "primary": "vergangenheit_noun"
-  },
-  "fortsettelse_noun": {
-    "primary": "fortsetzung_noun"
   },
   "forum_noun": {
     "primary": "forum_noun"
@@ -1563,6 +1565,9 @@
   },
   "fottur_noun": {
     "primary": "wanderung_noun"
+  },
+  "framhald_noun": {
+    "primary": "fortsetzung_noun"
   },
   "fred_noun": {
     "primary": "friede_noun"
@@ -1656,7 +1661,7 @@
       "zuendholz_noun"
     ]
   },
-  "fødested_noun": {
+  "fødestad_noun": {
     "primary": "geburtsort_noun"
   },
   "fødsel_noun": {
@@ -1665,11 +1670,11 @@
   "fødselsår_noun": {
     "primary": "geburtsjahr_noun"
   },
-  "følelse_noun": {
-    "primary": "gefuehl_noun"
-  },
   "følge_noun": {
     "primary": "folge_noun"
+  },
+  "førebuing_noun": {
+    "primary": "vorbereitung_noun"
   },
   "førerkort_noun": {
     "primary": "fuehrerausweis_noun",
@@ -1822,7 +1827,7 @@
   "gryte_noun": {
     "primary": "topf_noun"
   },
-  "grønnsaker_noun": {
+  "grønsaker_noun": {
     "primary": "gemuese_noun"
   },
   "gud_noun": {
@@ -1840,7 +1845,7 @@
   "gulv_noun": {
     "primary": "boden_noun"
   },
-  "gutt_noun": {
+  "gut_noun": {
     "primary": "bub_noun",
     "alternatives": [
       "junge_noun"
@@ -1901,6 +1906,9 @@
   },
   "hamster_noun": {
     "primary": "hamster_noun"
+  },
+  "hand_noun": {
+    "primary": "hand_noun"
   },
   "handel_noun": {
     "primary": "handel_noun"
@@ -1976,7 +1984,7 @@
   "hemmelighet_noun": {
     "primary": "geheimnis_noun"
   },
-  "hendelse_noun": {
+  "hending_noun": {
     "primary": "ereignis_noun"
   },
   "hensikt_noun": {
@@ -2148,9 +2156,6 @@
   },
   "hytte_noun": {
     "primary": "huette_noun"
-  },
-  "hånd_noun": {
-    "primary": "hand_noun"
   },
   "håndkle_noun": {
     "primary": "handtuch_noun"
@@ -2619,6 +2624,9 @@
   },
   "kjensgjerning_noun": {
     "primary": "tatsache_noun"
+  },
+  "kjensle_noun": {
+    "primary": "gefuehl_noun"
   },
   "kjole_noun": {
     "primary": "kleid_noun"
@@ -3351,6 +3359,9 @@
   "løve_noun": {
     "primary": "loewe_noun"
   },
+  "løyve_noun": {
+    "primary": "erlaubnis_noun"
+  },
   "magasin_noun": {
     "primary": "magazin_noun"
   },
@@ -3747,6 +3758,9 @@
   "nabokvinn_noun": {
     "primary": "nachbarin_noun"
   },
+  "namn_noun": {
+    "primary": "name_noun"
+  },
   "narkotika_noun": {
     "primary": "droge_noun"
   },
@@ -3783,9 +3797,6 @@
         "target": "Wir sind in der Natur."
       }
     ]
-  },
-  "navn_noun": {
-    "primary": "name_noun"
   },
   "nerve_noun": {
     "primary": "nerv_noun"
@@ -3869,6 +3880,9 @@
       "gegend_noun"
     ]
   },
+  "omsetjing_noun": {
+    "primary": "uebersetzung_noun"
+  },
   "omsorg_noun": {
     "primary": "betreuung_noun"
   },
@@ -3902,13 +3916,13 @@
   "oppførsel_noun": {
     "primary": "verhalten_noun"
   },
-  "oppgave_noun": {
+  "oppgåve_noun": {
     "primary": "aufgabe_noun"
   },
   "opphold_noun": {
     "primary": "aufenthalt_noun"
   },
-  "opplevelse_noun": {
+  "oppleving_noun": {
     "primary": "erlebnis_noun"
   },
   "opplysning_noun": {
@@ -3920,7 +3934,7 @@
   "opprinnelse_noun": {
     "primary": "herkunft_noun"
   },
-  "oppsigelse_noun": {
+  "oppseiing_noun": {
     "primary": "entlassung_noun",
     "alternatives": [
       "kuendigung_noun"
@@ -3985,14 +3999,11 @@
       "unterkunft_noun"
     ]
   },
-  "overraskelse_noun": {
-    "primary": "ueberraschung_noun"
-  },
   "overraskelsesfest_noun": {
     "primary": "ueberraschungsparty_noun"
   },
-  "oversettelse_noun": {
-    "primary": "uebersetzung_noun"
+  "overrasking_noun": {
+    "primary": "ueberraschung_noun"
   },
   "oversetter_noun": {
     "primary": "uebersetzer_noun"
@@ -4059,7 +4070,7 @@
   "pels_noun": {
     "primary": "fell_noun"
   },
-  "penger_noun": {
+  "pengar_noun": {
     "primary": "geld_noun"
   },
   "penn_noun": {
@@ -4529,6 +4540,9 @@
   "rådhus_noun": {
     "primary": "rathaus_noun"
   },
+  "rørsle_noun": {
+    "primary": "bewegung_noun"
+  },
   "røyndom_noun": {
     "primary": "realitaet_noun"
   },
@@ -4558,6 +4572,9 @@
   },
   "samarbeid_noun": {
     "primary": "zusammenarbeit_noun"
+  },
+  "samband_noun": {
+    "primary": "verbindung_noun"
   },
   "samfunn_noun": {
     "primary": "gesellschaft_noun"
@@ -4738,6 +4755,21 @@
   "sjokoladeegg_noun": {
     "primary": "schokoladenei_noun"
   },
+  "sjuk_person_noun": {
+    "primary": "kranke_noun"
+  },
+  "sjukdom_noun": {
+    "primary": "krankheit_noun"
+  },
+  "sjukehus_noun": {
+    "primary": "krankenhaus_noun"
+  },
+  "sjukepleiar_noun": {
+    "primary": "krankenpfleger_noun",
+    "alternatives": [
+      "krankenschwester_noun"
+    ]
+  },
   "sjåfør_noun": {
     "primary": "fahrer_noun"
   },
@@ -4758,6 +4790,9 @@
   },
   "skikk_noun": {
     "primary": "brauch_noun"
+  },
+  "skildring_noun": {
+    "primary": "beschreibung_noun"
   },
   "skilnad_noun": {
     "primary": "unterschied_noun"
@@ -4816,23 +4851,6 @@
   "skog_noun": {
     "primary": "wald_noun"
   },
-  "skole_noun": {
-    "primary": "schule_noun",
-    "examples": [
-      {
-        "source": "Jeg går på skolen.",
-        "target": "Ich gehe in die Schule."
-      },
-      {
-        "source": "Skolen begynner klokken 8.",
-        "target": "Die Schule beginnt um 8 Uhr."
-      },
-      {
-        "source": "Hvordan er skolen din?",
-        "target": "Wie ist deine Schule?"
-      }
-    ]
-  },
   "skolesekk_noun": {
     "primary": "schultasche_noun"
   },
@@ -4862,6 +4880,23 @@
   },
   "skulder_noun": {
     "primary": "schulter_noun"
+  },
+  "skule_noun": {
+    "primary": "schule_noun",
+    "examples": [
+      {
+        "source": "Jeg går på skolen.",
+        "target": "Ich gehe in die Schule."
+      },
+      {
+        "source": "Skolen begynner klokken 8.",
+        "target": "Die Schule beginnt um 8 Uhr."
+      },
+      {
+        "source": "Hvordan er skolen din?",
+        "target": "Wie ist deine Schule?"
+      }
+    ]
   },
   "sky_noun": {
     "primary": "wolke_noun"
@@ -5090,6 +5125,9 @@
       }
     ]
   },
+  "stad_noun": {
+    "primary": "ort_noun"
+  },
   "stadion_noun": {
     "primary": "stadion_noun"
   },
@@ -5110,9 +5148,6 @@
   },
   "stearinlys_noun": {
     "primary": "kerze_noun"
-  },
-  "sted_noun": {
-    "primary": "ort_noun"
   },
   "stein_noun": {
     "primary": "stein_noun"
@@ -5286,23 +5321,8 @@
   "svømmebasseng_noun": {
     "primary": "schwimmbad_noun"
   },
-  "syk_person_noun": {
-    "primary": "kranke_noun"
-  },
-  "sykdom_noun": {
-    "primary": "krankheit_noun"
-  },
-  "sykehus_noun": {
-    "primary": "krankenhaus_noun"
-  },
   "sykekasse_noun": {
     "primary": "krankenkasse_noun"
-  },
-  "sykepleier_noun": {
-    "primary": "krankenpfleger_noun",
-    "alternatives": [
-      "krankenschwester_noun"
-    ]
   },
   "sykkel_noun": {
     "primary": "fahrrad_noun",
@@ -5596,9 +5616,6 @@
   "tilkobling_noun": {
     "primary": "anschluss_noun"
   },
-  "tillatelse_noun": {
-    "primary": "erlaubnis_noun"
-  },
   "tillegg_noun": {
     "primary": "zuschlag_noun"
   },
@@ -5799,7 +5816,7 @@
   "underskrift_noun": {
     "primary": "unterschrift_noun"
   },
-  "undersøkelse_noun": {
+  "undersøking_noun": {
     "primary": "recherche_noun",
     "alternatives": [
       "untersuchung_noun"
@@ -5817,7 +5834,7 @@
   "ungdomsherberge_noun": {
     "primary": "jugendherberge_noun"
   },
-  "ungdomsskole_noun": {
+  "ungdomsskule_noun": {
     "primary": "realschule_noun"
   },
   "uniform_noun": {
@@ -5901,23 +5918,6 @@
   "vane_noun": {
     "primary": "gewohnheit_noun"
   },
-  "vann_noun": {
-    "primary": "wasser_noun",
-    "examples": [
-      {
-        "source": "Jeg drikker vann.",
-        "target": "Ich trinke Wasser."
-      },
-      {
-        "source": "Kan jeg få et glass vann?",
-        "target": "Kann ich ein Glas Wasser haben?"
-      },
-      {
-        "source": "Vannet er kaldt.",
-        "target": "Das Wasser ist kalt."
-      }
-    ]
-  },
   "vanskelighet_noun": {
     "primary": "schwierigkeit_noun"
   },
@@ -5935,6 +5935,23 @@
   },
   "vaskemiddel_noun": {
     "primary": "waschmittel_noun"
+  },
+  "vatn_noun": {
+    "primary": "wasser_noun",
+    "examples": [
+      {
+        "source": "Jeg drikker vann.",
+        "target": "Ich trinke Wasser."
+      },
+      {
+        "source": "Kan jeg få et glass vann?",
+        "target": "Kann ich ein Glas Wasser haben?"
+      },
+      {
+        "source": "Vannet er kaldt.",
+        "target": "Das Wasser ist kalt."
+      }
+    ]
   },
   "vegg_noun": {
     "primary": "wand_noun"
@@ -6011,13 +6028,30 @@
   "vennskap_noun": {
     "primary": "freundschaft_noun"
   },
+  "ver_noun": {
+    "primary": "wetter_noun",
+    "examples": [
+      {
+        "source": "Været er fint.",
+        "target": "Das Wetter ist schön."
+      },
+      {
+        "source": "Hvordan er været?",
+        "target": "Wie ist das Wetter?"
+      },
+      {
+        "source": "Været blir bedre.",
+        "target": "Das Wetter wird besser."
+      }
+    ]
+  },
   "verden_noun": {
     "primary": "welt_noun"
   },
   "verk_noun": {
     "primary": "werk_noun"
   },
-  "verksted_noun": {
+  "verkstad_noun": {
     "primary": "werkstatt_noun",
     "alternatives": [
       "workshop_noun"
@@ -6138,23 +6172,6 @@
       }
     ]
   },
-  "vær_noun": {
-    "primary": "wetter_noun",
-    "examples": [
-      {
-        "source": "Været er fint.",
-        "target": "Das Wetter ist schön."
-      },
-      {
-        "source": "Hvordan er været?",
-        "target": "Wie ist das Wetter?"
-      },
-      {
-        "source": "Været blir bedre.",
-        "target": "Das Wetter wird besser."
-      }
-    ]
-  },
   "værmelding_noun": {
     "primary": "wetterbericht_noun"
   },
@@ -6205,22 +6222,5 @@
   },
   "øy_noun": {
     "primary": "insel_noun"
-  },
-  "øye_noun": {
-    "primary": "auge_noun",
-    "examples": [
-      {
-        "source": "Jeg har blå øyne.",
-        "target": "Ich habe blaue Augen."
-      },
-      {
-        "source": "Øyet gjør vondt.",
-        "target": "Das Auge tut weh."
-      },
-      {
-        "source": "Hun har fine øyne.",
-        "target": "Sie hat schöne Augen."
-      }
-    ]
   }
 }

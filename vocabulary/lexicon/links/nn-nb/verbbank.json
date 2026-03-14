@@ -3,7 +3,7 @@
     "from": "nn",
     "to": "nb",
     "bank": "verbbank",
-    "generatedAt": "2026-03-14T00:51:17.148Z",
+    "generatedAt": "2026-03-14T00:54:10.252Z",
     "totalLinks": 663
   },
   "advare_verb": {
@@ -309,7 +309,7 @@
   "dømma_verb": {
     "primary": "dømme_verb"
   },
-  "egne_seg_verb": {
+  "eigne_seg_verb": {
     "primary": "egne_seg_verb"
   },
   "eksistere_verb": {
@@ -378,7 +378,7 @@
   "finna_opp_verb": {
     "primary": "finne_opp_verb"
   },
-  "finna_sted_verb": {
+  "finna_stad_verb": {
     "primary": "finne_sted_verb"
   },
   "finna_verb": {
@@ -387,13 +387,13 @@
   "finne_å_møte_verb": {
     "primary": "finne_å_møte_verb"
   },
-  "finnes_verb": {
+  "finst_verb": {
     "primary": "finnes_verb"
   },
   "fjerne_verb": {
     "primary": "fjerne_verb"
   },
-  "flyga_av_sted_verb": {
+  "flyga_av_stad_verb": {
     "primary": "fly_av_sted_verb"
   },
   "flyga_verb": {
@@ -410,15 +410,6 @@
   },
   "forbedre_seg_verb": {
     "primary": "forbedre_seg_verb"
-  },
-  "forberede_seg_på_det_verb": {
-    "primary": "forberede_seg_på_det_verb"
-  },
-  "forberede_seg_verb": {
-    "primary": "forberede_seg_verb"
-  },
-  "forberede_verb": {
-    "primary": "forberede_verb"
   },
   "forbli_verb": {
     "primary": "forbli_verb"
@@ -552,6 +543,15 @@
   "føre_inn_verb": {
     "primary": "føre_inn_verb"
   },
+  "førebu_seg_på_det_verb": {
+    "primary": "forberede_seg_på_det_verb"
+  },
+  "førebu_seg_verb": {
+    "primary": "forberede_seg_verb"
+  },
+  "førebu_verb": {
+    "primary": "forberede_verb"
+  },
   "garantere_verb": {
     "primary": "garantere_verb"
   },
@@ -588,13 +588,13 @@
   "gjøre_å_lage_verb": {
     "primary": "gjøre_å_lage_verb"
   },
-  "glede_seg_over_verb": {
+  "gleda_seg_over_verb": {
     "primary": "glede_seg_over_verb"
   },
-  "glede_seg_til_verb": {
+  "gleda_seg_til_verb": {
     "primary": "glede_seg_til_verb"
   },
-  "glede_seg_verb": {
+  "gleda_seg_verb": {
     "primary": "glede_seg_verb"
   },
   "glemma_verb": {
@@ -828,13 +828,13 @@
   "klappa_verb": {
     "primary": "klappe_verb"
   },
-  "klare_seg_verb": {
+  "klara_seg_verb": {
     "primary": "klare_seg_verb"
   },
-  "klare_verb": {
+  "klara_verb": {
     "primary": "klare_verb"
   },
-  "klargjøre_verb": {
+  "klargjera_verb": {
     "primary": "klargjøre_verb"
   },
   "klatre_verb": {
@@ -900,7 +900,7 @@
   "kunna_verb": {
     "primary": "kunne_verb"
   },
-  "kunngjøre_verb": {
+  "kunngjera_verb": {
     "primary": "kunngjøre_verb"
   },
   "kvile_seg_verb": {
@@ -912,7 +912,7 @@
   "kyssa_verb": {
     "primary": "kysse_verb"
   },
-  "køyra_av_sted_verb": {
+  "køyra_av_stad_verb": {
     "primary": "kjøre_av_sted_verb"
   },
   "køyra_forbi_verb": {
@@ -930,10 +930,10 @@
   "lade_opp_verb": {
     "primary": "lade_opp_verb"
   },
-  "lage_mat_verb": {
+  "laga_mat_verb": {
     "primary": "lage_mat_verb"
   },
-  "lage_verb": {
+  "laga_verb": {
     "primary": "lage_verb"
   },
   "lagre_verb": {
@@ -1068,10 +1068,10 @@
   "meddele_verb": {
     "primary": "meddele_verb"
   },
-  "melde_seg_på_verb": {
+  "melda_seg_på_verb": {
     "primary": "melde_seg_på_verb"
   },
-  "melde_verb": {
+  "melda_verb": {
     "primary": "melde_verb"
   },
   "men_verb": {
@@ -1338,7 +1338,10 @@
   "regulere_verb": {
     "primary": "regulere_verb"
   },
-  "reise_av_sted_verb": {
+  "reingjera_verb": {
+    "primary": "rengjøre_verb"
+  },
+  "reise_av_stad_verb": {
     "primary": "reise_av_sted_verb"
   },
   "reise_bort_verb": {
@@ -1352,9 +1355,6 @@
   },
   "rekreere_seg_verb": {
     "primary": "rekreere_seg_verb"
-  },
-  "rengjøre_verb": {
-    "primary": "rengjøre_verb"
   },
   "renovere_verb": {
     "primary": "renovere_verb"
@@ -1587,7 +1587,7 @@
   "spørja_verb": {
     "primary": "spørre_verb"
   },
-  "stamma_fra_verb": {
+  "stamma_frå_verb": {
     "primary": "stamme_fra_verb"
   },
   "starte_verb": {
@@ -1839,7 +1839,7 @@
   "undervise_å_vise_verb": {
     "primary": "undervise_å_vise_verb"
   },
-  "undre_seg_verb": {
+  "undra_seg_verb": {
     "primary": "undre_seg_verb"
   },
   "unngå_verb": {

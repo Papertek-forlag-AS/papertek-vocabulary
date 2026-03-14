@@ -3,7 +3,7 @@
     "from": "nn",
     "to": "de",
     "bank": "adjectivebank",
-    "generatedAt": "2026-03-14T00:51:17.169Z",
+    "generatedAt": "2026-03-14T00:54:10.284Z",
     "totalLinks": 345
   },
   "absolutt_adj": {
@@ -2372,7 +2372,7 @@
       }
     ]
   },
-  "morsom_adj": {
+  "morosam_adj": {
     "primary": "lustig_adj",
     "alternatives": [
       "witzig_adj"
@@ -3268,6 +3268,19 @@
       }
     ]
   },
+  "sjuk_adj": {
+    "primary": "krank_adj",
+    "examples": [
+      {
+        "source": "Jeg er syk.",
+        "target": "Ich bin krank."
+      },
+      {
+        "source": "Hun er syk og blir hjemme.",
+        "target": "Sie ist krank und bleibt zu Hause."
+      }
+    ]
+  },
   "sjølvsagt_adj": {
     "primary": "selbstverstaendlich_adj",
     "examples": [
@@ -3705,19 +3718,6 @@
       }
     ]
   },
-  "sulten_adj": {
-    "primary": "hungrig_adj",
-    "examples": [
-      {
-        "source": "Jeg er sulten.",
-        "target": "Ich bin hungrig."
-      },
-      {
-        "source": "Er du sulten?",
-        "target": "Bist du hungrig?"
-      }
-    ]
-  },
   "sunn_adj": {
     "primary": "gesund_adj",
     "examples": [
@@ -3787,16 +3787,16 @@
       }
     ]
   },
-  "syk_adj": {
-    "primary": "krank_adj",
+  "svolten_adj": {
+    "primary": "hungrig_adj",
     "examples": [
       {
-        "source": "Jeg er syk.",
-        "target": "Ich bin krank."
+        "source": "Jeg er sulten.",
+        "target": "Ich bin hungrig."
       },
       {
-        "source": "Hun er syk og blir hjemme.",
-        "target": "Sie ist krank und bleibt zu Hause."
+        "source": "Er du sulten?",
+        "target": "Bist du hungrig?"
       }
     ]
   },

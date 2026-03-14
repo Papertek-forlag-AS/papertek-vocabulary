@@ -3,7 +3,7 @@
     "from": "nn",
     "to": "es",
     "bank": "pronounsbank",
-    "generatedAt": "2026-03-14T00:51:17.212Z",
+    "generatedAt": "2026-03-14T00:54:10.336Z",
     "totalLinks": 44
   },
   "blandet_pron": {
@@ -87,6 +87,9 @@
   "du_pron": {
     "primary": "tu_pron"
   },
+  "eg_pron": {
+    "primary": "yo_pron"
+  },
   "ham_pron": {
     "primary": "le_indobj_pron",
     "alternatives": [
@@ -110,9 +113,6 @@
   },
   "hun_pron": {
     "primary": "ella_pron"
-  },
-  "jeg_pron": {
-    "primary": "yo_pron"
   },
   "korleis_pron": {
     "primary": "como_interr_pron"

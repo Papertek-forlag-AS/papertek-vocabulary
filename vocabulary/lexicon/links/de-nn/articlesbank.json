@@ -3,7 +3,7 @@
     "from": "de",
     "to": "nn",
     "bank": "articlesbank",
-    "generatedAt": "2026-03-14T00:51:17.171Z",
+    "generatedAt": "2026-03-14T00:54:10.287Z",
     "totalLinks": 16
   },
   "am_contr": {
@@ -34,24 +34,24 @@
     "explanation": "Bestemt artikkel for hunkjønnsord (femininum) eller flertall. Eksempel: \"die Mutter\" (mora), \"die Eltern\" (foreldrene)."
   },
   "ein_art": {
-    "primary": "en_art",
+    "primary": "ein_art",
     "alternatives": [
-      "et_hankjønn_art",
+      "eit_hankjønn_art",
       "intetkjønn_art"
     ],
     "explanation": "Ubestemt artikkel for hankjønn eller intetkjønn i nominativ. Eksempel: \"ein Bruder\" (en bror), \"ein Foto\" (et bilde)."
   },
   "eine_art": {
-    "primary": "en_art",
+    "primary": "ein_art",
     "alternatives": [
       "ei_art"
     ],
     "explanation": "Ubestemt artikkel for hunkjønnsord. Eksempel: \"eine Schwester\" (en søster), \"eine Familie\" (en familie)."
   },
   "einen_art": {
-    "primary": "en_art",
+    "primary": "ein_art",
     "alternatives": [
-      "et_art"
+      "eit_art"
     ],
     "explanation": "Ubestemt artikkel for hankjønnsord i akkusativ (objekt). Eksempel: \"Ich sehe einen Film\" (jeg ser en film)."
   },
@@ -85,7 +85,7 @@
     "explanation": "Negativ artikkel for hankjønn i akkusativ. Eksempel: \"Ich habe keinen Bruder\" (jeg har ingen bror)."
   },
   "vom_contr": {
-    "primary": "fra_contr",
+    "primary": "frå_contr",
     "explanation": "Sammentrekning av \"von dem\" (dativ). Brukes for å angi utgangspunkt eller opprinnelse: \"vom ersten März\" (fra første mars), \"vom Bahnhof\" (fra togstasjonen)."
   },
   "zum_contr": {

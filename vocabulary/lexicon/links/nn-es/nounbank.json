@@ -3,7 +3,7 @@
     "from": "nn",
     "to": "es",
     "bank": "nounbank",
-    "generatedAt": "2026-03-14T00:51:17.209Z",
+    "generatedAt": "2026-03-14T00:54:10.332Z",
     "totalLinks": 388
   },
   "advokat_noun": {
@@ -36,6 +36,9 @@
   "arm_noun": {
     "primary": "brazo_noun"
   },
+  "auge_noun": {
+    "primary": "ojo_noun"
+  },
   "avis_noun": {
     "primary": "periodico_noun"
   },
@@ -62,9 +65,6 @@
   },
   "barn_noun": {
     "primary": "nino_noun"
-  },
-  "begynnelse_noun": {
-    "primary": "principio_noun"
   },
   "bein_noun": {
     "primary": "pierna_noun"
@@ -153,6 +153,9 @@
   "by_noun": {
     "primary": "ciudad_noun"
   },
+  "byrjing_noun": {
+    "primary": "principio_noun"
+  },
   "bølge_noun": {
     "primary": "ola_noun"
   },
@@ -162,14 +165,14 @@
   "datamaskin_noun": {
     "primary": "ordenador_noun"
   },
-  "datter_noun": {
-    "primary": "hija_noun"
-  },
   "del_noun": {
     "primary": "parte_noun"
   },
   "delfin_noun": {
     "primary": "delfin_noun"
+  },
+  "dotter_noun": {
+    "primary": "hija_noun"
   },
   "drue_noun": {
     "primary": "uva_noun"
@@ -324,9 +327,6 @@
   "fugl_noun": {
     "primary": "pajaro_noun"
   },
-  "følelse_noun": {
-    "primary": "sentimiento_noun"
-  },
   "gaffel_noun": {
     "primary": "tenedor_noun"
   },
@@ -366,7 +366,7 @@
   "gruppe_noun": {
     "primary": "grupo_noun"
   },
-  "grønnsak_noun": {
+  "grønsak_noun": {
     "primary": "verdura_noun"
   },
   "gulrot_noun": {
@@ -375,7 +375,7 @@
   "gulv_noun": {
     "primary": "suelo_noun"
   },
-  "gutt_noun": {
+  "gut_noun": {
     "primary": "nino_noun"
   },
   "hage_noun": {
@@ -389,6 +389,9 @@
   },
   "halskjede_noun": {
     "primary": "collar_noun"
+  },
+  "hand_noun": {
+    "primary": "mano_noun"
   },
   "hanske_noun": {
     "primary": "guante_noun"
@@ -437,9 +440,6 @@
   },
   "hus_noun": {
     "primary": "casa_noun"
-  },
-  "hånd_noun": {
-    "primary": "mano_noun"
   },
   "hår_noun": {
     "primary": "pelo_noun"
@@ -521,6 +521,9 @@
   },
   "kjeks_noun": {
     "primary": "galleta_noun"
+  },
+  "kjensle_noun": {
+    "primary": "sentimiento_noun"
   },
   "kjole_noun": {
     "primary": "vestido_noun"
@@ -720,14 +723,14 @@
   "nakke_noun": {
     "primary": "cuello_noun"
   },
+  "namn_noun": {
+    "primary": "nombre_noun"
+  },
   "natt_noun": {
     "primary": "noche_noun"
   },
   "naturfag_noun": {
     "primary": "ciencias_noun"
-  },
-  "navn_noun": {
-    "primary": "nombre_noun"
   },
   "nese_noun": {
     "primary": "nariz_noun"
@@ -765,7 +768,7 @@
   "pasta_noun": {
     "primary": "pasta_noun"
   },
-  "penger_noun": {
+  "pengar_noun": {
     "primary": "dinero_noun"
   },
   "penn_noun": {
@@ -885,6 +888,15 @@
   "sjokolade_noun": {
     "primary": "chocolate_noun"
   },
+  "sjukehus_noun": {
+    "primary": "hospital_noun"
+  },
+  "sjukepleiar_noun": {
+    "primary": "enfermera_noun",
+    "alternatives": [
+      "enfermero_noun"
+    ]
+  },
   "sjåfør_noun": {
     "primary": "conductor_noun"
   },
@@ -915,9 +927,6 @@
   "skog_noun": {
     "primary": "bosque_noun"
   },
-  "skole_noun": {
-    "primary": "escuela_noun"
-  },
   "skritt_noun": {
     "primary": "paso_noun"
   },
@@ -929,6 +938,9 @@
   },
   "skulder_noun": {
     "primary": "hombro_noun"
+  },
+  "skule_noun": {
+    "primary": "escuela_noun"
   },
   "sky_noun": {
     "primary": "nube_noun"
@@ -984,14 +996,14 @@
   "spørsmål_noun": {
     "primary": "pregunta_noun"
   },
+  "stad_noun": {
+    "primary": "lugar_noun"
+  },
   "stadion_noun": {
     "primary": "estadio_noun"
   },
   "stasjon_noun": {
     "primary": "estacion_noun"
-  },
-  "sted_noun": {
-    "primary": "lugar_noun"
   },
   "steg_noun": {
     "primary": "paso_noun"
@@ -1028,15 +1040,6 @@
   },
   "svømmebasseng_noun": {
     "primary": "piscina_noun"
-  },
-  "sykehus_noun": {
-    "primary": "hospital_noun"
-  },
-  "sykepleier_noun": {
-    "primary": "enfermera_noun",
-    "alternatives": [
-      "enfermero_noun"
-    ]
   },
   "sykkel_noun": {
     "primary": "bicicleta_noun"
@@ -1152,14 +1155,14 @@
   "utstyr_noun": {
     "primary": "equipo_noun"
   },
-  "vann_noun": {
-    "primary": "agua_noun"
-  },
   "vannmelon_noun": {
     "primary": "sandia_noun"
   },
   "vaskemaskin_noun": {
     "primary": "lavadora_noun"
+  },
+  "vatn_noun": {
+    "primary": "agua_noun"
   },
   "vegg_noun": {
     "primary": "pared_noun"
@@ -1176,6 +1179,9 @@
   "venninne_noun": {
     "primary": "amiga_noun"
   },
+  "ver_noun": {
+    "primary": "tiempo_noun"
+  },
   "verden_noun": {
     "primary": "mundo_noun"
   },
@@ -1188,9 +1194,6 @@
   "vindu_noun": {
     "primary": "ventana_noun"
   },
-  "vær_noun": {
-    "primary": "tiempo_noun"
-  },
   "åker_noun": {
     "primary": "campo_noun"
   },
@@ -1202,8 +1205,5 @@
   },
   "øy_noun": {
     "primary": "isla_noun"
-  },
-  "øye_noun": {
-    "primary": "ojo_noun"
   }
 }

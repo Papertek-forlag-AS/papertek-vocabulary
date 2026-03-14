@@ -3,7 +3,7 @@
     "language": "nn",
     "languageName": "Norsk nynorsk",
     "bank": "nounbank",
-    "generatedAt": "2026-03-14T00:51:16.765Z",
+    "generatedAt": "2026-03-14T00:54:10.002Z",
     "description": "Norwegian Nynorsk nounbank — generated from Bokmål via NB→NN transformation",
     "totalEntries": 1596,
     "enrichedEntries": 1596,
@@ -949,6 +949,26 @@
     "_nbEquivalent": "asyl_noun",
     "_generatedFrom": "de-nb/nounbank.json:asyl_noun"
   },
+  "auge_noun": {
+    "word": "auge",
+    "type": "noun",
+    "genus": "n",
+    "plural": "auge",
+    "forms": {
+      "ubestemt": {
+        "entall": "auge",
+        "flertall": "auge"
+      },
+      "bestemt": {
+        "entall": "auget",
+        "flertall": "auga"
+      }
+    },
+    "_enriched": true,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "øye_noun",
+    "_generatedFrom": "de-nb/nounbank.json:auge_noun, es-nb/nounbank.json:ojo_noun"
+  },
   "augeblink_noun": {
     "word": "augeblink",
     "type": "noun",
@@ -1090,19 +1110,19 @@
     "_nbEquivalent": "avgangseksamen_noun",
     "_generatedFrom": "de-nb/nounbank.json:matura_a_noun"
   },
-  "avgjørelse_noun": {
-    "word": "avgjørelse",
+  "avgjerd_noun": {
+    "word": "avgjerd",
     "type": "noun",
     "genus": "f",
-    "plural": "avgjørelser",
+    "plural": "avgjerder",
     "forms": {
       "ubestemt": {
-        "entall": "avgjørelse",
-        "flertall": "avgjørelser"
+        "entall": "avgjerd",
+        "flertall": "avgjerder"
       },
       "bestemt": {
-        "entall": "avgjørelsa",
-        "flertall": "avgjørelsene"
+        "entall": "avgjerda",
+        "flertall": "avgjerdene"
       }
     },
     "_enriched": true,
@@ -1771,19 +1791,19 @@
     "_nbEquivalent": "barnehage_noun",
     "_generatedFrom": "de-nb/nounbank.json:kindergarten_noun"
   },
-  "barneskole_noun": {
-    "word": "barneskole",
+  "barneskule_noun": {
+    "word": "barneskule",
     "type": "noun",
     "genus": "m",
-    "plural": "barneskolar",
+    "plural": "barneskular",
     "forms": {
       "ubestemt": {
-        "entall": "barneskole",
-        "flertall": "barneskolar"
+        "entall": "barneskule",
+        "flertall": "barneskular"
       },
       "bestemt": {
-        "entall": "barneskolen",
-        "flertall": "barneskolane"
+        "entall": "barneskulen",
+        "flertall": "barneskulane"
       }
     },
     "_enriched": true,
@@ -1990,26 +2010,6 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "begrunnelse_noun",
     "_generatedFrom": "de-nb/nounbank.json:begruendung_noun"
-  },
-  "begynnelse_noun": {
-    "word": "begynnelse",
-    "type": "noun",
-    "genus": "f",
-    "plural": "begynnelser",
-    "forms": {
-      "ubestemt": {
-        "entall": "begynnelse",
-        "flertall": "begynnelser"
-      },
-      "bestemt": {
-        "entall": "begynnelsa",
-        "flertall": "begynnelsene"
-      }
-    },
-    "_enriched": true,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "begynnelse_noun",
-    "_generatedFrom": "de-nb/nounbank.json:anfang_noun, de-nb/nounbank.json:beginn_noun, es-nb/nounbank.json:principio_noun"
   },
   "behov_noun": {
     "word": "behov",
@@ -2251,26 +2251,6 @@
     "_nbEquivalent": "beskjeftigelse_noun",
     "_generatedFrom": "de-nb/nounbank.json:beschaeftigung_noun"
   },
-  "beskrivelse_noun": {
-    "word": "beskrivelse",
-    "type": "noun",
-    "genus": "f",
-    "plural": "beskrivelser",
-    "forms": {
-      "ubestemt": {
-        "entall": "beskrivelse",
-        "flertall": "beskrivelser"
-      },
-      "bestemt": {
-        "entall": "beskrivelsa",
-        "flertall": "beskrivelsene"
-      }
-    },
-    "_enriched": true,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "beskrivelse_noun",
-    "_generatedFrom": "de-nb/nounbank.json:beschreibung_noun"
-  },
   "bestefar_noun": {
     "word": "bestefar",
     "type": "noun",
@@ -2410,26 +2390,6 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "betydning_noun",
     "_generatedFrom": "de-nb/nounbank.json:bedeutung_noun"
-  },
-  "bevegelse_noun": {
-    "word": "bevegelse",
-    "type": "noun",
-    "genus": "f",
-    "plural": "bevegelser",
-    "forms": {
-      "ubestemt": {
-        "entall": "bevegelse",
-        "flertall": "bevegelser"
-      },
-      "bestemt": {
-        "entall": "bevegelsa",
-        "flertall": "bevegelsene"
-      }
-    },
-    "_enriched": true,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "bevegelse_noun",
-    "_generatedFrom": "de-nb/nounbank.json:bewegung_noun"
   },
   "bevis_noun": {
     "word": "bevis",
@@ -2971,26 +2931,6 @@
     "_nbEquivalent": "borger_noun",
     "_generatedFrom": "de-nb/nounbank.json:buerger_noun"
   },
-  "bosted_noun": {
-    "word": "bosted",
-    "type": "noun",
-    "genus": "n",
-    "plural": "bosted",
-    "forms": {
-      "ubestemt": {
-        "entall": "bosted",
-        "flertall": "bosted"
-      },
-      "bestemt": {
-        "entall": "bostedet",
-        "flertall": "bosteda"
-      }
-    },
-    "_enriched": true,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "bosted_noun",
-    "_generatedFrom": "de-nb/nounbank.json:wohnort_noun, de-nb/nounbank.json:wohnsitz_noun"
-  },
   "bot_noun": {
     "word": "bot",
     "type": "noun",
@@ -3511,6 +3451,26 @@
     "_nbEquivalent": "buss_noun",
     "_generatedFrom": "de-nb/nounbank.json:bus_noun, es-nb/nounbank.json:autobus_noun"
   },
+  "bustad_noun": {
+    "word": "bustad",
+    "type": "noun",
+    "genus": "n",
+    "plural": "bustad",
+    "forms": {
+      "ubestemt": {
+        "entall": "bustad",
+        "flertall": "bustad"
+      },
+      "bestemt": {
+        "entall": "bustadet",
+        "flertall": "bustada"
+      }
+    },
+    "_enriched": true,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "bosted_noun",
+    "_generatedFrom": "de-nb/nounbank.json:wohnort_noun, de-nb/nounbank.json:wohnsitz_noun"
+  },
   "butikk_noun": {
     "word": "butikk",
     "type": "noun",
@@ -3630,6 +3590,26 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "bykart_noun",
     "_generatedFrom": "de-nb/nounbank.json:stadtplan_noun"
+  },
+  "byrjing_noun": {
+    "word": "byrjing",
+    "type": "noun",
+    "genus": "n",
+    "plural": "byrjing",
+    "forms": {
+      "ubestemt": {
+        "entall": "byrjing",
+        "flertall": "byrjing"
+      },
+      "bestemt": {
+        "entall": "byrjinget",
+        "flertall": "byrjinga"
+      }
+    },
+    "_enriched": true,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "begynnelse_noun",
+    "_generatedFrom": "de-nb/nounbank.json:anfang_noun, de-nb/nounbank.json:beginn_noun, es-nb/nounbank.json:principio_noun"
   },
   "bytte_noun": {
     "word": "bytte",
@@ -3950,26 +3930,6 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "dato_noun",
     "_generatedFrom": "de-nb/nounbank.json:datum_noun"
-  },
-  "datter_noun": {
-    "word": "datter",
-    "type": "noun",
-    "genus": "f",
-    "plural": "døtrer",
-    "forms": {
-      "ubestemt": {
-        "entall": "datter",
-        "flertall": "døtrer"
-      },
-      "bestemt": {
-        "entall": "dottera",
-        "flertall": "døtrene"
-      }
-    },
-    "_enriched": true,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "datter_noun",
-    "_generatedFrom": "de-nb/nounbank.json:tochter_noun, es-nb/nounbank.json:hija_noun"
   },
   "dekk_noun": {
     "word": "dekk",
@@ -4470,6 +4430,26 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "donau_noun",
     "_generatedFrom": "de-nb/nounbank.json:donau_noun"
+  },
+  "dotter_noun": {
+    "word": "dotter",
+    "type": "noun",
+    "genus": "f",
+    "plural": "døtrer",
+    "forms": {
+      "ubestemt": {
+        "entall": "dotter",
+        "flertall": "døtrer"
+      },
+      "bestemt": {
+        "entall": "dottera",
+        "flertall": "døtrene"
+      }
+    },
+    "_enriched": true,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "datter_noun",
+    "_generatedFrom": "de-nb/nounbank.json:tochter_noun, es-nb/nounbank.json:hija_noun"
   },
   "dress_noun": {
     "word": "dress",
@@ -5471,19 +5451,19 @@
     "_nbEquivalent": "ettermiddag_noun",
     "_generatedFrom": "de-nb/nounbank.json:nachmittag_noun, es-nb/nounbank.json:tarde_noun"
   },
-  "etternavn_noun": {
-    "word": "etternavn",
+  "etternamn_noun": {
+    "word": "etternamn",
     "type": "noun",
-    "genus": "n",
-    "plural": "etternavn",
+    "genus": "m",
+    "plural": "etternamnar",
     "forms": {
       "ubestemt": {
-        "entall": "etternavn",
-        "flertall": "etternavn"
+        "entall": "etternamn",
+        "flertall": "etternamnar"
       },
       "bestemt": {
-        "entall": "etternavnet",
-        "flertall": "etternavna"
+        "entall": "etternamnen",
+        "flertall": "etternamnane"
       }
     },
     "_enriched": true,
@@ -6671,46 +6651,6 @@
     "_nbEquivalent": "folk_noun",
     "_generatedFrom": "de-nb/nounbank.json:leute_noun"
   },
-  "forberedelse_noun": {
-    "word": "forberedelse",
-    "type": "noun",
-    "genus": "f",
-    "plural": "forberedelser",
-    "forms": {
-      "ubestemt": {
-        "entall": "forberedelse",
-        "flertall": "forberedelser"
-      },
-      "bestemt": {
-        "entall": "forberedelsa",
-        "flertall": "forberedelsene"
-      }
-    },
-    "_enriched": true,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "forberedelse_noun",
-    "_generatedFrom": "de-nb/nounbank.json:vorbereitung_noun"
-  },
-  "forbindelse_noun": {
-    "word": "forbindelse",
-    "type": "noun",
-    "genus": "f",
-    "plural": "forbindelser",
-    "forms": {
-      "ubestemt": {
-        "entall": "forbindelse",
-        "flertall": "forbindelser"
-      },
-      "bestemt": {
-        "entall": "forbindelsa",
-        "flertall": "forbindelsene"
-      }
-    },
-    "_enriched": true,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "forbindelse_noun",
-    "_generatedFrom": "de-nb/nounbank.json:verbindung_noun"
-  },
   "forbruk_noun": {
     "word": "forbruk",
     "type": "noun",
@@ -6931,19 +6871,19 @@
     "_nbEquivalent": "forhold_noun",
     "_generatedFrom": "de-nb/nounbank.json:beziehung_noun, de-nb/nounbank.json:verhaeltnis_noun"
   },
-  "forkjølelse_noun": {
-    "word": "forkjølelse",
+  "forkjøling_noun": {
+    "word": "forkjøling",
     "type": "noun",
     "genus": "f",
-    "plural": "forkjølelser",
+    "plural": "forkjølingar",
     "forms": {
       "ubestemt": {
-        "entall": "forkjølelse",
-        "flertall": "forkjølelser"
+        "entall": "forkjøling",
+        "flertall": "forkjølingar"
       },
       "bestemt": {
-        "entall": "forkjølelsa",
-        "flertall": "forkjølelsene"
+        "entall": "forkjølinga",
+        "flertall": "forkjølingane"
       }
     },
     "_enriched": true,
@@ -7091,19 +7031,19 @@
     "_nbEquivalent": "formål_noun",
     "_generatedFrom": "de-nb/nounbank.json:zweck_noun"
   },
-  "fornavn_noun": {
-    "word": "fornavn",
+  "fornamn_noun": {
+    "word": "fornamn",
     "type": "noun",
-    "genus": "n",
-    "plural": "fornavn",
+    "genus": "m",
+    "plural": "fornamnar",
     "forms": {
       "ubestemt": {
-        "entall": "fornavn",
-        "flertall": "fornavn"
+        "entall": "fornamn",
+        "flertall": "fornamnar"
       },
       "bestemt": {
-        "entall": "fornavnet",
-        "flertall": "fornavna"
+        "entall": "fornamnen",
+        "flertall": "fornamnane"
       }
     },
     "_enriched": true,
@@ -7131,19 +7071,19 @@
     "_nbEquivalent": "fornuft_noun",
     "_generatedFrom": "es-nb/nounbank.json:razon_noun"
   },
-  "fornøyelse_noun": {
-    "word": "fornøyelse",
+  "fornøying_noun": {
+    "word": "fornøying",
     "type": "noun",
     "genus": "f",
-    "plural": "fornøyelser",
+    "plural": "fornøyingar",
     "forms": {
       "ubestemt": {
-        "entall": "fornøyelse",
-        "flertall": "fornøyelser"
+        "entall": "fornøying",
+        "flertall": "fornøyingar"
       },
       "bestemt": {
-        "entall": "fornøyelsa",
-        "flertall": "fornøyelsene"
+        "entall": "fornøyinga",
+        "flertall": "fornøyingane"
       }
     },
     "_enriched": true,
@@ -7190,6 +7130,26 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "forsamling_noun",
     "_generatedFrom": "de-nb/nounbank.json:versammlung_noun"
+  },
+  "forseinking_noun": {
+    "word": "forseinking",
+    "type": "noun",
+    "genus": "f",
+    "plural": "forseinkingar",
+    "forms": {
+      "ubestemt": {
+        "entall": "forseinking",
+        "flertall": "forseinkingar"
+      },
+      "bestemt": {
+        "entall": "forseinkinga",
+        "flertall": "forseinkingane"
+      }
+    },
+    "_enriched": true,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "forsinkelse_noun",
+    "_generatedFrom": "de-nb/nounbank.json:verspaetung_noun"
   },
   "forsikring_noun": {
     "word": "forsikring",
@@ -7250,26 +7210,6 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "forsiktighet_noun",
     "_generatedFrom": "de-nb/nounbank.json:vorsicht_noun"
-  },
-  "forsinkelse_noun": {
-    "word": "forsinkelse",
-    "type": "noun",
-    "genus": "f",
-    "plural": "forsinkelser",
-    "forms": {
-      "ubestemt": {
-        "entall": "forsinkelse",
-        "flertall": "forsinkelser"
-      },
-      "bestemt": {
-        "entall": "forsinkelsa",
-        "flertall": "forsinkelsene"
-      }
-    },
-    "_enriched": true,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "forsinkelse_noun",
-    "_generatedFrom": "de-nb/nounbank.json:verspaetung_noun"
   },
   "forskning_noun": {
     "word": "forskning",
@@ -7470,26 +7410,6 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "fortid_noun",
     "_generatedFrom": "de-nb/nounbank.json:vergangenheit_noun"
-  },
-  "fortsettelse_noun": {
-    "word": "fortsettelse",
-    "type": "noun",
-    "genus": "f",
-    "plural": "fortsettelser",
-    "forms": {
-      "ubestemt": {
-        "entall": "fortsettelse",
-        "flertall": "fortsettelser"
-      },
-      "bestemt": {
-        "entall": "fortsettelsa",
-        "flertall": "fortsettelsene"
-      }
-    },
-    "_enriched": true,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "fortsettelse_noun",
-    "_generatedFrom": "de-nb/nounbank.json:fortsetzung_noun"
   },
   "forum_noun": {
     "word": "forum",
@@ -7750,6 +7670,26 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "frakk_noun",
     "_generatedFrom": "es-nb/nounbank.json:abrigo_noun"
+  },
+  "framhald_noun": {
+    "word": "framhald",
+    "type": "noun",
+    "genus": "f",
+    "plural": "framhalder",
+    "forms": {
+      "ubestemt": {
+        "entall": "framhald",
+        "flertall": "framhalder"
+      },
+      "bestemt": {
+        "entall": "framhalda",
+        "flertall": "framhaldene"
+      }
+    },
+    "_enriched": true,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "fortsettelse_noun",
+    "_generatedFrom": "de-nb/nounbank.json:fortsetzung_noun"
   },
   "fred_noun": {
     "word": "fred",
@@ -8131,19 +8071,19 @@
     "_nbEquivalent": "fyrstikk_noun",
     "_generatedFrom": "de-nb/nounbank.json:streichholz_noun, de-nb/nounbank.json:zuendholz_noun"
   },
-  "fødested_noun": {
-    "word": "fødested",
+  "fødestad_noun": {
+    "word": "fødestad",
     "type": "noun",
     "genus": "n",
-    "plural": "fødested",
+    "plural": "fødestad",
     "forms": {
       "ubestemt": {
-        "entall": "fødested",
-        "flertall": "fødested"
+        "entall": "fødestad",
+        "flertall": "fødestad"
       },
       "bestemt": {
-        "entall": "fødestedet",
-        "flertall": "fødesteda"
+        "entall": "fødestadet",
+        "flertall": "fødestada"
       }
     },
     "_enriched": true,
@@ -8191,26 +8131,6 @@
     "_nbEquivalent": "fødselsår_noun",
     "_generatedFrom": "de-nb/nounbank.json:geburtsjahr_noun"
   },
-  "følelse_noun": {
-    "word": "følelse",
-    "type": "noun",
-    "genus": "f",
-    "plural": "følelser",
-    "forms": {
-      "ubestemt": {
-        "entall": "følelse",
-        "flertall": "følelser"
-      },
-      "bestemt": {
-        "entall": "følelsa",
-        "flertall": "følelsene"
-      }
-    },
-    "_enriched": true,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "følelse_noun",
-    "_generatedFrom": "de-nb/nounbank.json:gefuehl_noun, es-nb/nounbank.json:sentimiento_noun"
-  },
   "følge_noun": {
     "word": "følge",
     "type": "noun",
@@ -8230,6 +8150,26 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "følge_noun",
     "_generatedFrom": "de-nb/nounbank.json:folge_noun"
+  },
+  "førebuing_noun": {
+    "word": "førebuing",
+    "type": "noun",
+    "genus": "f",
+    "plural": "førebuingar",
+    "forms": {
+      "ubestemt": {
+        "entall": "førebuing",
+        "flertall": "førebuingar"
+      },
+      "bestemt": {
+        "entall": "førebuinga",
+        "flertall": "førebuingane"
+      }
+    },
+    "_enriched": true,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "forberedelse_noun",
+    "_generatedFrom": "de-nb/nounbank.json:vorbereitung_noun"
   },
   "førerkort_noun": {
     "word": "førerkort",
@@ -9011,19 +8951,19 @@
     "_nbEquivalent": "gryte_noun",
     "_generatedFrom": "de-nb/nounbank.json:topf_noun"
   },
-  "grønnsak_noun": {
-    "word": "grønnsak",
+  "grønsak_noun": {
+    "word": "grønsak",
     "type": "noun",
     "genus": "m",
-    "plural": "grønnsakar",
+    "plural": "grønsakar",
     "forms": {
       "ubestemt": {
-        "entall": "grønnsak",
-        "flertall": "grønnsakar"
+        "entall": "grønsak",
+        "flertall": "grønsakar"
       },
       "bestemt": {
-        "entall": "grønnsaken",
-        "flertall": "grønnsakane"
+        "entall": "grønsaken",
+        "flertall": "grønsakane"
       }
     },
     "_enriched": true,
@@ -9031,19 +8971,19 @@
     "_nbEquivalent": "grønnsak_noun",
     "_generatedFrom": "es-nb/nounbank.json:verdura_noun"
   },
-  "grønnsaker_noun": {
-    "word": "grønnsaker",
+  "grønsaker_noun": {
+    "word": "grønsaker",
     "type": "noun",
     "genus": "m",
-    "plural": "grønnsakerar",
+    "plural": "grønsakerar",
     "forms": {
       "ubestemt": {
-        "entall": "grønnsaker",
-        "flertall": "grønnsakerar"
+        "entall": "grønsaker",
+        "flertall": "grønsakerar"
       },
       "bestemt": {
-        "entall": "grønnsakeren",
-        "flertall": "grønnsakerane"
+        "entall": "grønsakeren",
+        "flertall": "grønsakerane"
       }
     },
     "_enriched": true,
@@ -9151,19 +9091,19 @@
     "_nbEquivalent": "gulv_noun",
     "_generatedFrom": "de-nb/nounbank.json:boden_noun, es-nb/nounbank.json:suelo_noun"
   },
-  "gutt_noun": {
-    "word": "gutt",
+  "gut_noun": {
+    "word": "gut",
     "type": "noun",
     "genus": "m",
-    "plural": "guttar",
+    "plural": "gutar",
     "forms": {
       "ubestemt": {
-        "entall": "gutt",
-        "flertall": "guttar"
+        "entall": "gut",
+        "flertall": "gutar"
       },
       "bestemt": {
-        "entall": "gutten",
-        "flertall": "guttane"
+        "entall": "guten",
+        "flertall": "gutane"
       }
     },
     "_enriched": true,
@@ -9490,6 +9430,26 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "hamster_noun",
     "_generatedFrom": "de-nb/nounbank.json:hamster_noun"
+  },
+  "hand_noun": {
+    "word": "hand",
+    "type": "noun",
+    "genus": "f",
+    "plural": "hender",
+    "forms": {
+      "ubestemt": {
+        "entall": "hand",
+        "flertall": "hender"
+      },
+      "bestemt": {
+        "entall": "handa",
+        "flertall": "hendene"
+      }
+    },
+    "_enriched": true,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "hånd_noun",
+    "_generatedFrom": "de-nb/nounbank.json:hand_noun, es-nb/nounbank.json:mano_noun"
   },
   "handel_noun": {
     "word": "handel",
@@ -9891,19 +9851,19 @@
     "_nbEquivalent": "hemmelighet_noun",
     "_generatedFrom": "de-nb/nounbank.json:geheimnis_noun, es-nb/nounbank.json:secreto_noun"
   },
-  "hendelse_noun": {
-    "word": "hendelse",
+  "hending_noun": {
+    "word": "hending",
     "type": "noun",
     "genus": "f",
-    "plural": "hendelser",
+    "plural": "hendingar",
     "forms": {
       "ubestemt": {
-        "entall": "hendelse",
-        "flertall": "hendelser"
+        "entall": "hending",
+        "flertall": "hendingar"
       },
       "bestemt": {
-        "entall": "hendelsa",
-        "flertall": "hendelsene"
+        "entall": "hendinga",
+        "flertall": "hendingane"
       }
     },
     "_enriched": true,
@@ -10650,26 +10610,6 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "hytte_noun",
     "_generatedFrom": "de-nb/nounbank.json:huette_noun"
-  },
-  "hånd_noun": {
-    "word": "hånd",
-    "type": "noun",
-    "genus": "f",
-    "plural": "hender",
-    "forms": {
-      "ubestemt": {
-        "entall": "hånd",
-        "flertall": "hender"
-      },
-      "bestemt": {
-        "entall": "handa",
-        "flertall": "hendene"
-      }
-    },
-    "_enriched": true,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "hånd_noun",
-    "_generatedFrom": "de-nb/nounbank.json:hand_noun, es-nb/nounbank.json:mano_noun"
   },
   "håndkle_noun": {
     "word": "håndkle",
@@ -12870,6 +12810,26 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "kjensgjerning_noun",
     "_generatedFrom": "de-nb/nounbank.json:tatsache_noun"
+  },
+  "kjensle_noun": {
+    "word": "kjensle",
+    "type": "noun",
+    "genus": "m",
+    "plural": "kjenslar",
+    "forms": {
+      "ubestemt": {
+        "entall": "kjensle",
+        "flertall": "kjenslar"
+      },
+      "bestemt": {
+        "entall": "kjenslen",
+        "flertall": "kjenslane"
+      }
+    },
+    "_enriched": true,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "følelse_noun",
+    "_generatedFrom": "de-nb/nounbank.json:gefuehl_noun, es-nb/nounbank.json:sentimiento_noun"
   },
   "kjole_noun": {
     "word": "kjole",
@@ -16833,6 +16793,26 @@
     "_nbEquivalent": "løve_noun",
     "_generatedFrom": "de-nb/nounbank.json:loewe_noun, es-nb/nounbank.json:leon_noun"
   },
+  "løyve_noun": {
+    "word": "løyve",
+    "type": "noun",
+    "genus": "f",
+    "plural": "løyver",
+    "forms": {
+      "ubestemt": {
+        "entall": "løyve",
+        "flertall": "løyver"
+      },
+      "bestemt": {
+        "entall": "løyva",
+        "flertall": "løyvene"
+      }
+    },
+    "_enriched": true,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "tillatelse_noun",
+    "_generatedFrom": "de-nb/nounbank.json:erlaubnis_noun"
+  },
   "magasin_noun": {
     "word": "magasin",
     "type": "noun",
@@ -18854,6 +18834,26 @@
     "_nbEquivalent": "nakke_noun",
     "_generatedFrom": "es-nb/nounbank.json:cuello_noun"
   },
+  "namn_noun": {
+    "word": "namn",
+    "type": "noun",
+    "genus": "m",
+    "plural": "namnar",
+    "forms": {
+      "ubestemt": {
+        "entall": "namn",
+        "flertall": "namnar"
+      },
+      "bestemt": {
+        "entall": "namnen",
+        "flertall": "namnane"
+      }
+    },
+    "_enriched": true,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "navn_noun",
+    "_generatedFrom": "de-nb/nounbank.json:name_noun, es-nb/nounbank.json:nombre_noun"
+  },
   "narkotika_noun": {
     "word": "narkotika",
     "type": "noun",
@@ -18933,26 +18933,6 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "naturfag_noun",
     "_generatedFrom": "es-nb/nounbank.json:ciencias_noun"
-  },
-  "navn_noun": {
-    "word": "navn",
-    "type": "noun",
-    "genus": "n",
-    "plural": "navn",
-    "forms": {
-      "ubestemt": {
-        "entall": "navn",
-        "flertall": "navn"
-      },
-      "bestemt": {
-        "entall": "navnet",
-        "flertall": "navna"
-      }
-    },
-    "_enriched": true,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "navn_noun",
-    "_generatedFrom": "de-nb/nounbank.json:name_noun, es-nb/nounbank.json:nombre_noun"
   },
   "nerve_noun": {
     "word": "nerve",
@@ -19494,6 +19474,26 @@
     "_nbEquivalent": "område_noun",
     "_generatedFrom": "de-nb/nounbank.json:bereich_noun, de-nb/nounbank.json:gebiet_noun, de-nb/nounbank.json:gegend_noun"
   },
+  "omsetjing_noun": {
+    "word": "omsetjing",
+    "type": "noun",
+    "genus": "f",
+    "plural": "omsetjingar",
+    "forms": {
+      "ubestemt": {
+        "entall": "omsetjing",
+        "flertall": "omsetjingar"
+      },
+      "bestemt": {
+        "entall": "omsetjinga",
+        "flertall": "omsetjingane"
+      }
+    },
+    "_enriched": true,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "oversettelse_noun",
+    "_generatedFrom": "de-nb/nounbank.json:uebersetzung_noun"
+  },
   "omsorg_noun": {
     "word": "omsorg",
     "type": "noun",
@@ -19714,19 +19714,19 @@
     "_nbEquivalent": "oppførsel_noun",
     "_generatedFrom": "de-nb/nounbank.json:verhalten_noun"
   },
-  "oppgave_noun": {
-    "word": "oppgave",
+  "oppgåve_noun": {
+    "word": "oppgåve",
     "type": "noun",
-    "genus": "f",
-    "plural": "oppgaver",
+    "genus": "m",
+    "plural": "oppgåvar",
     "forms": {
       "ubestemt": {
-        "entall": "oppgave",
-        "flertall": "oppgaver"
+        "entall": "oppgåve",
+        "flertall": "oppgåvar"
       },
       "bestemt": {
-        "entall": "oppgava",
-        "flertall": "oppgavene"
+        "entall": "oppgåven",
+        "flertall": "oppgåvane"
       }
     },
     "_enriched": true,
@@ -19754,19 +19754,19 @@
     "_nbEquivalent": "opphold_noun",
     "_generatedFrom": "de-nb/nounbank.json:aufenthalt_noun"
   },
-  "opplevelse_noun": {
-    "word": "opplevelse",
+  "oppleving_noun": {
+    "word": "oppleving",
     "type": "noun",
     "genus": "f",
-    "plural": "opplevelser",
+    "plural": "opplevingar",
     "forms": {
       "ubestemt": {
-        "entall": "opplevelse",
-        "flertall": "opplevelser"
+        "entall": "oppleving",
+        "flertall": "opplevingar"
       },
       "bestemt": {
-        "entall": "opplevelsa",
-        "flertall": "opplevelsene"
+        "entall": "opplevinga",
+        "flertall": "opplevingane"
       }
     },
     "_enriched": true,
@@ -19814,19 +19814,19 @@
     "_nbEquivalent": "opprinnelse_noun",
     "_generatedFrom": "de-nb/nounbank.json:herkunft_noun"
   },
-  "oppsigelse_noun": {
-    "word": "oppsigelse",
+  "oppseiing_noun": {
+    "word": "oppseiing",
     "type": "noun",
     "genus": "f",
-    "plural": "oppsigelser",
+    "plural": "oppseiingar",
     "forms": {
       "ubestemt": {
-        "entall": "oppsigelse",
-        "flertall": "oppsigelser"
+        "entall": "oppseiing",
+        "flertall": "oppseiingar"
       },
       "bestemt": {
-        "entall": "oppsigelsa",
-        "flertall": "oppsigelsene"
+        "entall": "oppseiinga",
+        "flertall": "oppseiingane"
       }
     },
     "_enriched": true,
@@ -20114,26 +20114,6 @@
     "_nbEquivalent": "overnatting_noun",
     "_generatedFrom": "de-nb/nounbank.json:uebernachtung_noun, de-nb/nounbank.json:unterkunft_noun"
   },
-  "overraskelse_noun": {
-    "word": "overraskelse",
-    "type": "noun",
-    "genus": "f",
-    "plural": "overraskelser",
-    "forms": {
-      "ubestemt": {
-        "entall": "overraskelse",
-        "flertall": "overraskelser"
-      },
-      "bestemt": {
-        "entall": "overraskelsa",
-        "flertall": "overraskelsene"
-      }
-    },
-    "_enriched": true,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "overraskelse_noun",
-    "_generatedFrom": "de-nb/nounbank.json:ueberraschung_noun"
-  },
   "overraskelsesfest_noun": {
     "word": "overraskelsesfest",
     "type": "noun",
@@ -20154,25 +20134,25 @@
     "_nbEquivalent": "overraskelsesfest_noun",
     "_generatedFrom": "de-nb/nounbank.json:ueberraschungsparty_noun"
   },
-  "oversettelse_noun": {
-    "word": "oversettelse",
+  "overrasking_noun": {
+    "word": "overrasking",
     "type": "noun",
     "genus": "f",
-    "plural": "oversettelser",
+    "plural": "overraskingar",
     "forms": {
       "ubestemt": {
-        "entall": "oversettelse",
-        "flertall": "oversettelser"
+        "entall": "overrasking",
+        "flertall": "overraskingar"
       },
       "bestemt": {
-        "entall": "oversettelsa",
-        "flertall": "oversettelsene"
+        "entall": "overraskinga",
+        "flertall": "overraskingane"
       }
     },
     "_enriched": true,
     "_nnSource": "auto-nb",
-    "_nbEquivalent": "oversettelse_noun",
-    "_generatedFrom": "de-nb/nounbank.json:uebersetzung_noun"
+    "_nbEquivalent": "overraskelse_noun",
+    "_generatedFrom": "de-nb/nounbank.json:ueberraschung_noun"
   },
   "oversetter_noun": {
     "word": "oversetter",
@@ -20554,19 +20534,19 @@
     "_nbEquivalent": "pels_noun",
     "_generatedFrom": "de-nb/nounbank.json:fell_noun"
   },
-  "penger_noun": {
-    "word": "penger",
+  "pengar_noun": {
+    "word": "pengar",
     "type": "noun",
     "genus": "m",
-    "plural": "pengerar",
+    "plural": "pengarar",
     "forms": {
       "ubestemt": {
-        "entall": "penger",
-        "flertall": "pengerar"
+        "entall": "pengar",
+        "flertall": "pengarar"
       },
       "bestemt": {
-        "entall": "pengeren",
-        "flertall": "pengerane"
+        "entall": "pengaren",
+        "flertall": "pengarane"
       }
     },
     "_enriched": true,
@@ -23174,6 +23154,26 @@
     "_nbEquivalent": "rådhus_noun",
     "_generatedFrom": "de-nb/nounbank.json:rathaus_noun"
   },
+  "rørsle_noun": {
+    "word": "rørsle",
+    "type": "noun",
+    "genus": "n",
+    "plural": "rørsle",
+    "forms": {
+      "ubestemt": {
+        "entall": "rørsle",
+        "flertall": "rørsle"
+      },
+      "bestemt": {
+        "entall": "rørslet",
+        "flertall": "rørsla"
+      }
+    },
+    "_enriched": true,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "bevegelse_noun",
+    "_generatedFrom": "de-nb/nounbank.json:bewegung_noun"
+  },
   "røyndom_noun": {
     "word": "røyndom",
     "type": "noun",
@@ -23373,6 +23373,26 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "samarbeid_noun",
     "_generatedFrom": "de-nb/nounbank.json:zusammenarbeit_noun"
+  },
+  "samband_noun": {
+    "word": "samband",
+    "type": "noun",
+    "genus": "f",
+    "plural": "sambander",
+    "forms": {
+      "ubestemt": {
+        "entall": "samband",
+        "flertall": "sambander"
+      },
+      "bestemt": {
+        "entall": "sambanda",
+        "flertall": "sambandene"
+      }
+    },
+    "_enriched": true,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "forbindelse_noun",
+    "_generatedFrom": "de-nb/nounbank.json:verbindung_noun"
   },
   "samfunn_noun": {
     "word": "samfunn",
@@ -24415,6 +24435,86 @@
     "_nbEquivalent": "sjokoladeegg_noun",
     "_generatedFrom": "de-nb/nounbank.json:schokoladenei_noun"
   },
+  "sjuk_person_noun": {
+    "word": "sjuk person",
+    "type": "noun",
+    "genus": "m",
+    "plural": "sjuk personar",
+    "forms": {
+      "ubestemt": {
+        "entall": "sjuk person",
+        "flertall": "sjuk personar"
+      },
+      "bestemt": {
+        "entall": "sjuk personen",
+        "flertall": "sjuk personane"
+      }
+    },
+    "_enriched": true,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "syk_person_noun",
+    "_generatedFrom": "de-nb/nounbank.json:kranke_noun"
+  },
+  "sjukdom_noun": {
+    "word": "sjukdom",
+    "type": "noun",
+    "genus": "m",
+    "plural": "sjukdomar",
+    "forms": {
+      "ubestemt": {
+        "entall": "sjukdom",
+        "flertall": "sjukdomar"
+      },
+      "bestemt": {
+        "entall": "sjukdomen",
+        "flertall": "sjukdomane"
+      }
+    },
+    "_enriched": true,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "sykdom_noun",
+    "_generatedFrom": "de-nb/nounbank.json:krankheit_noun"
+  },
+  "sjukehus_noun": {
+    "word": "sjukehus",
+    "type": "noun",
+    "genus": "n",
+    "plural": "sjukehus",
+    "forms": {
+      "ubestemt": {
+        "entall": "sjukehus",
+        "flertall": "sjukehus"
+      },
+      "bestemt": {
+        "entall": "sjukehuset",
+        "flertall": "sjukehusa"
+      }
+    },
+    "_enriched": true,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "sykehus_noun",
+    "_generatedFrom": "de-nb/nounbank.json:krankenhaus_noun, es-nb/nounbank.json:hospital_noun"
+  },
+  "sjukepleiar_noun": {
+    "word": "sjukepleiar",
+    "type": "noun",
+    "genus": "m",
+    "plural": "sjukepleiarar",
+    "forms": {
+      "ubestemt": {
+        "entall": "sjukepleiar",
+        "flertall": "sjukepleiarar"
+      },
+      "bestemt": {
+        "entall": "sjukepleiaren",
+        "flertall": "sjukepleiarane"
+      }
+    },
+    "_enriched": true,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "sykepleier_noun",
+    "_generatedFrom": "de-nb/nounbank.json:krankenpfleger_noun, de-nb/nounbank.json:krankenschwester_noun, es-nb/nounbank.json:enfermero_noun, es-nb/nounbank.json:enfermera_noun"
+  },
   "sjåfør_noun": {
     "word": "sjåfør",
     "type": "noun",
@@ -24534,6 +24634,26 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "skikk_noun",
     "_generatedFrom": "de-nb/nounbank.json:brauch_noun"
+  },
+  "skildring_noun": {
+    "word": "skildring",
+    "type": "noun",
+    "genus": "n",
+    "plural": "skildring",
+    "forms": {
+      "ubestemt": {
+        "entall": "skildring",
+        "flertall": "skildring"
+      },
+      "bestemt": {
+        "entall": "skildringet",
+        "flertall": "skildringa"
+      }
+    },
+    "_enriched": true,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "beskrivelse_noun",
+    "_generatedFrom": "de-nb/nounbank.json:beschreibung_noun"
   },
   "skilnad_noun": {
     "word": "skilnad",
@@ -24875,26 +24995,6 @@
     "_nbEquivalent": "skog_noun",
     "_generatedFrom": "de-nb/nounbank.json:wald_noun, es-nb/nounbank.json:bosque_noun"
   },
-  "skole_noun": {
-    "word": "skole",
-    "type": "noun",
-    "genus": "m",
-    "plural": "skolar",
-    "forms": {
-      "ubestemt": {
-        "entall": "skole",
-        "flertall": "skolar"
-      },
-      "bestemt": {
-        "entall": "skolen",
-        "flertall": "skolane"
-      }
-    },
-    "_enriched": true,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "skole_noun",
-    "_generatedFrom": "de-nb/nounbank.json:schule_noun, es-nb/nounbank.json:escuela_noun"
-  },
   "skolesekk_noun": {
     "word": "skolesekk",
     "type": "noun",
@@ -25094,6 +25194,26 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "skulder_noun",
     "_generatedFrom": "de-nb/nounbank.json:schulter_noun, es-nb/nounbank.json:hombro_noun"
+  },
+  "skule_noun": {
+    "word": "skule",
+    "type": "noun",
+    "genus": "m",
+    "plural": "skular",
+    "forms": {
+      "ubestemt": {
+        "entall": "skule",
+        "flertall": "skular"
+      },
+      "bestemt": {
+        "entall": "skulen",
+        "flertall": "skulane"
+      }
+    },
+    "_enriched": true,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "skole_noun",
+    "_generatedFrom": "de-nb/nounbank.json:schule_noun, es-nb/nounbank.json:escuela_noun"
   },
   "sky_noun": {
     "word": "sky",
@@ -25935,6 +26055,26 @@
     "_nbEquivalent": "spørsmål_noun",
     "_generatedFrom": "de-nb/nounbank.json:frage_noun, es-nb/nounbank.json:pregunta_noun"
   },
+  "stad_noun": {
+    "word": "stad",
+    "type": "noun",
+    "genus": "m",
+    "plural": "stader",
+    "forms": {
+      "ubestemt": {
+        "entall": "stad",
+        "flertall": "stader"
+      },
+      "bestemt": {
+        "entall": "staden",
+        "flertall": "stadene"
+      }
+    },
+    "_enriched": true,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "sted_noun",
+    "_generatedFrom": "de-nb/nounbank.json:ort_noun, es-nb/nounbank.json:lugar_noun"
+  },
   "stadion_noun": {
     "word": "stadion",
     "type": "noun",
@@ -26055,26 +26195,6 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "stearinlys_noun",
     "_generatedFrom": "de-nb/nounbank.json:kerze_noun"
-  },
-  "sted_noun": {
-    "word": "sted",
-    "type": "noun",
-    "genus": "m",
-    "plural": "stader",
-    "forms": {
-      "ubestemt": {
-        "entall": "sted",
-        "flertall": "stader"
-      },
-      "bestemt": {
-        "entall": "staden",
-        "flertall": "stadene"
-      }
-    },
-    "_enriched": true,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "sted_noun",
-    "_generatedFrom": "de-nb/nounbank.json:ort_noun, es-nb/nounbank.json:lugar_noun"
   },
   "steg_noun": {
     "word": "steg",
@@ -27016,66 +27136,6 @@
     "_nbEquivalent": "svømmebasseng_noun",
     "_generatedFrom": "de-nb/nounbank.json:schwimmbad_noun, es-nb/nounbank.json:piscina_noun"
   },
-  "syk_person_noun": {
-    "word": "syk person",
-    "type": "noun",
-    "genus": "m",
-    "plural": "syk personar",
-    "forms": {
-      "ubestemt": {
-        "entall": "syk person",
-        "flertall": "syk personar"
-      },
-      "bestemt": {
-        "entall": "syk personen",
-        "flertall": "syk personane"
-      }
-    },
-    "_enriched": true,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "syk_person_noun",
-    "_generatedFrom": "de-nb/nounbank.json:kranke_noun"
-  },
-  "sykdom_noun": {
-    "word": "sykdom",
-    "type": "noun",
-    "genus": "m",
-    "plural": "sykdomar",
-    "forms": {
-      "ubestemt": {
-        "entall": "sykdom",
-        "flertall": "sykdomar"
-      },
-      "bestemt": {
-        "entall": "sykdomen",
-        "flertall": "sykdomane"
-      }
-    },
-    "_enriched": true,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "sykdom_noun",
-    "_generatedFrom": "de-nb/nounbank.json:krankheit_noun"
-  },
-  "sykehus_noun": {
-    "word": "sykehus",
-    "type": "noun",
-    "genus": "n",
-    "plural": "sykehus",
-    "forms": {
-      "ubestemt": {
-        "entall": "sykehus",
-        "flertall": "sykehus"
-      },
-      "bestemt": {
-        "entall": "sykehuset",
-        "flertall": "sykehusa"
-      }
-    },
-    "_enriched": true,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "sykehus_noun",
-    "_generatedFrom": "de-nb/nounbank.json:krankenhaus_noun, es-nb/nounbank.json:hospital_noun"
-  },
   "sykekasse_noun": {
     "word": "sykekasse",
     "type": "noun",
@@ -27095,26 +27155,6 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "sykekasse_noun",
     "_generatedFrom": "de-nb/nounbank.json:krankenkasse_noun"
-  },
-  "sykepleier_noun": {
-    "word": "sykepleier",
-    "type": "noun",
-    "genus": "m",
-    "plural": "sykepleierar",
-    "forms": {
-      "ubestemt": {
-        "entall": "sykepleier",
-        "flertall": "sykepleierar"
-      },
-      "bestemt": {
-        "entall": "sykepleieren",
-        "flertall": "sykepleierane"
-      }
-    },
-    "_enriched": true,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "sykepleier_noun",
-    "_generatedFrom": "de-nb/nounbank.json:krankenpfleger_noun, de-nb/nounbank.json:krankenschwester_noun, es-nb/nounbank.json:enfermero_noun, es-nb/nounbank.json:enfermera_noun"
   },
   "sykkel_noun": {
     "word": "sykkel",
@@ -28576,26 +28616,6 @@
     "_nbEquivalent": "tilkobling_noun",
     "_generatedFrom": "de-nb/nounbank.json:anschluss_noun"
   },
-  "tillatelse_noun": {
-    "word": "tillatelse",
-    "type": "noun",
-    "genus": "f",
-    "plural": "tillatelser",
-    "forms": {
-      "ubestemt": {
-        "entall": "tillatelse",
-        "flertall": "tillatelser"
-      },
-      "bestemt": {
-        "entall": "tillatelsa",
-        "flertall": "tillatelsene"
-      }
-    },
-    "_enriched": true,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "tillatelse_noun",
-    "_generatedFrom": "de-nb/nounbank.json:erlaubnis_noun"
-  },
   "tillegg_noun": {
     "word": "tillegg",
     "type": "noun",
@@ -29877,19 +29897,19 @@
     "_nbEquivalent": "underskrift_noun",
     "_generatedFrom": "de-nb/nounbank.json:unterschrift_noun"
   },
-  "undersøkelse_noun": {
-    "word": "undersøkelse",
+  "undersøking_noun": {
+    "word": "undersøking",
     "type": "noun",
     "genus": "f",
-    "plural": "undersøkelser",
+    "plural": "undersøkingar",
     "forms": {
       "ubestemt": {
-        "entall": "undersøkelse",
-        "flertall": "undersøkelser"
+        "entall": "undersøking",
+        "flertall": "undersøkingar"
       },
       "bestemt": {
-        "entall": "undersøkelsa",
-        "flertall": "undersøkelsene"
+        "entall": "undersøkinga",
+        "flertall": "undersøkingane"
       }
     },
     "_enriched": true,
@@ -29957,19 +29977,19 @@
     "_nbEquivalent": "ungdomsherberge_noun",
     "_generatedFrom": "de-nb/nounbank.json:jugendherberge_noun"
   },
-  "ungdomsskole_noun": {
-    "word": "ungdomsskole",
+  "ungdomsskule_noun": {
+    "word": "ungdomsskule",
     "type": "noun",
     "genus": "m",
-    "plural": "ungdomsskolar",
+    "plural": "ungdomsskular",
     "forms": {
       "ubestemt": {
-        "entall": "ungdomsskole",
-        "flertall": "ungdomsskolar"
+        "entall": "ungdomsskule",
+        "flertall": "ungdomsskular"
       },
       "bestemt": {
-        "entall": "ungdomsskolen",
-        "flertall": "ungdomsskolane"
+        "entall": "ungdomsskulen",
+        "flertall": "ungdomsskulane"
       }
     },
     "_enriched": true,
@@ -30518,26 +30538,6 @@
     "_nbEquivalent": "vane_noun",
     "_generatedFrom": "de-nb/nounbank.json:gewohnheit_noun"
   },
-  "vann_noun": {
-    "word": "vann",
-    "type": "noun",
-    "genus": "n",
-    "plural": "vatn",
-    "forms": {
-      "ubestemt": {
-        "entall": "vann",
-        "flertall": "vatn"
-      },
-      "bestemt": {
-        "entall": "vatnet",
-        "flertall": "vatna"
-      }
-    },
-    "_enriched": true,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "vann_noun",
-    "_generatedFrom": "de-nb/nounbank.json:wasser_noun, es-nb/nounbank.json:agua_noun"
-  },
   "vannmelon_noun": {
     "word": "vannmelon",
     "type": "noun",
@@ -30697,6 +30697,26 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "vaskemiddel_noun",
     "_generatedFrom": "de-nb/nounbank.json:waschmittel_noun"
+  },
+  "vatn_noun": {
+    "word": "vatn",
+    "type": "noun",
+    "genus": "n",
+    "plural": "vatn",
+    "forms": {
+      "ubestemt": {
+        "entall": "vatn",
+        "flertall": "vatn"
+      },
+      "bestemt": {
+        "entall": "vatnet",
+        "flertall": "vatna"
+      }
+    },
+    "_enriched": true,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "vann_noun",
+    "_generatedFrom": "de-nb/nounbank.json:wasser_noun, es-nb/nounbank.json:agua_noun"
   },
   "vegg_noun": {
     "word": "vegg",
@@ -30918,6 +30938,26 @@
     "_nbEquivalent": "vennskap_noun",
     "_generatedFrom": "de-nb/nounbank.json:freundschaft_noun"
   },
+  "ver_noun": {
+    "word": "ver",
+    "type": "noun",
+    "genus": "n",
+    "plural": "ver",
+    "forms": {
+      "ubestemt": {
+        "entall": "ver",
+        "flertall": "ver"
+      },
+      "bestemt": {
+        "entall": "veret",
+        "flertall": "vera"
+      }
+    },
+    "_enriched": true,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "vær_noun",
+    "_generatedFrom": "de-nb/nounbank.json:wetter_noun, es-nb/nounbank.json:tiempo_noun"
+  },
   "verden_noun": {
     "word": "verden",
     "type": "noun",
@@ -30958,19 +30998,19 @@
     "_nbEquivalent": "verk_noun",
     "_generatedFrom": "de-nb/nounbank.json:werk_noun"
   },
-  "verksted_noun": {
-    "word": "verksted",
+  "verkstad_noun": {
+    "word": "verkstad",
     "type": "noun",
     "genus": "n",
-    "plural": "verksted",
+    "plural": "verkstad",
     "forms": {
       "ubestemt": {
-        "entall": "verksted",
-        "flertall": "verksted"
+        "entall": "verkstad",
+        "flertall": "verkstad"
       },
       "bestemt": {
-        "entall": "verkstedet",
-        "flertall": "verksteda"
+        "entall": "verkstadet",
+        "flertall": "verkstada"
       }
     },
     "_enriched": true,
@@ -31538,26 +31578,6 @@
     "_nbEquivalent": "vår_noun",
     "_generatedFrom": "de-nb/nounbank.json:fruehling_noun"
   },
-  "vær_noun": {
-    "word": "vær",
-    "type": "noun",
-    "genus": "n",
-    "plural": "vær",
-    "forms": {
-      "ubestemt": {
-        "entall": "vær",
-        "flertall": "vær"
-      },
-      "bestemt": {
-        "entall": "været",
-        "flertall": "væra"
-      }
-    },
-    "_enriched": true,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "vær_noun",
-    "_generatedFrom": "de-nb/nounbank.json:wetter_noun, es-nb/nounbank.json:tiempo_noun"
-  },
   "værmelding_noun": {
     "word": "værmelding",
     "type": "noun",
@@ -31917,25 +31937,5 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "øy_noun",
     "_generatedFrom": "de-nb/nounbank.json:insel_noun, es-nb/nounbank.json:isla_noun"
-  },
-  "øye_noun": {
-    "word": "øye",
-    "type": "noun",
-    "genus": "n",
-    "plural": "auge",
-    "forms": {
-      "ubestemt": {
-        "entall": "øye",
-        "flertall": "auge"
-      },
-      "bestemt": {
-        "entall": "auget",
-        "flertall": "auga"
-      }
-    },
-    "_enriched": true,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "øye_noun",
-    "_generatedFrom": "de-nb/nounbank.json:auge_noun, es-nb/nounbank.json:ojo_noun"
   }
 }

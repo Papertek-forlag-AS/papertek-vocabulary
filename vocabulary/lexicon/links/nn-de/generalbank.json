@@ -3,7 +3,7 @@
     "from": "nn",
     "to": "de",
     "bank": "generalbank",
-    "generatedAt": "2026-03-14T00:51:17.178Z",
+    "generatedAt": "2026-03-14T00:54:10.301Z",
     "totalLinks": 634
   },
   "absolutt_adv": {
@@ -84,7 +84,7 @@
   "automatisk_adv": {
     "primary": "automatisch_general"
   },
-  "av_fra_adv": {
+  "av_frå_adv": {
     "primary": "ab_general"
   },
   "av_prep": {
@@ -147,7 +147,7 @@
   "blind_adv": {
     "primary": "blind_general"
   },
-  "bortsett_fra_adv": {
+  "bortsett_frå_adv": {
     "primary": "ausser_general"
   },
   "bratt_adv": {
@@ -210,7 +210,7 @@
   "det_er_riktig_interj": {
     "primary": "stimmt_interj"
   },
-  "det_finnes_phrase": {
+  "det_finst_phrase": {
     "primary": "es_gibt_phrase"
   },
   "det_høres_bra_ut_phrase": {
@@ -258,11 +258,36 @@
   "døv_adv": {
     "primary": "taub_general"
   },
-  "egen_adv": {
-    "primary": "eigen_general"
+  "eg_gleder_meg_phrase": {
+    "primary": "ich_freue_mich_phrase"
   },
   "egentleg_adv": {
     "primary": "wirklich_adv"
+  },
+  "eigen_adv": {
+    "primary": "eigen_general"
+  },
+  "ein_adv": {
+    "primary": "ein_general"
+  },
+  "ein_annan_gang_phrase": {
+    "primary": "ein_anderes_mal_phrase"
+  },
+  "ein_elefant_phrase": {
+    "primary": "einen_elefanten_phrase"
+  },
+  "ein_eller_annan_adv": {
+    "primary": "irgendirgendein_general"
+  },
+  "ein_gang_adv": {
+    "primary": "einmal_general",
+    "alternatives": [
+      "irgendwann_general",
+      "mal_adv"
+    ]
+  },
+  "eit_stipend_adv": {
+    "primary": "ein_stipendium_general"
   },
   "ekstra_adv": {
     "primary": "extra_general"
@@ -291,29 +316,10 @@
   "ellers_adv": {
     "primary": "sonst_general"
   },
-  "en_adv": {
-    "primary": "ein_general"
-  },
-  "en_annan_gang_phrase": {
-    "primary": "ein_anderes_mal_phrase"
-  },
-  "en_elefant_phrase": {
-    "primary": "einen_elefanten_phrase"
-  },
-  "en_eller_annan_adv": {
-    "primary": "irgendirgendein_general"
-  },
-  "en_gang_adv": {
-    "primary": "einmal_general",
-    "alternatives": [
-      "irgendwann_general",
-      "mal_adv"
-    ]
-  },
   "endeleg_adv": {
     "primary": "endlich_adv"
   },
-  "endå_en_gang_adv": {
+  "endå_ein_gang_adv": {
     "primary": "nochmals_general"
   },
   "endå_ikkje_phrase": {
@@ -348,9 +354,6 @@
   },
   "er_arbeidsledige_adv": {
     "primary": "arbeitslos_sind_general"
-  },
-  "et_stipend_adv": {
-    "primary": "ein_stipendium_general"
   },
   "etter_at_adv": {
     "primary": "nachdem_general"
@@ -422,11 +425,11 @@
   "for_det_meste_adv": {
     "primary": "meistens_adv"
   },
+  "for_ein_adv": {
+    "primary": "was_fuer_ein_general"
+  },
   "for_eksempel_adv": {
     "primary": "zum_beispiel_general"
-  },
-  "for_en_adv": {
-    "primary": "was_fuer_ein_general"
   },
   "for_lenge_siden_adv": {
     "primary": "laengst_general"
@@ -497,20 +500,8 @@
   "forvirret_adv": {
     "primary": "durcheinander_general"
   },
-  "fra_frankrike_phrase": {
-    "primary": "aus_frankreich_phrase"
-  },
-  "fra_kvarandre_adv": {
-    "primary": "auseinander_general",
-    "alternatives": [
-      "voneinander_general"
-    ]
-  },
-  "fra_prep": {
-    "primary": "aus_prep",
-    "alternatives": [
-      "von_prep"
-    ]
+  "framover_adv": {
+    "primary": "vorwaerts_general"
   },
   "frankrike_propn": {
     "primary": "frankreich_land"
@@ -523,9 +514,6 @@
   },
   "fremmed_adv": {
     "primary": "fremd_general"
-  },
-  "fremover_adv": {
-    "primary": "vorwaerts_general"
   },
   "fremre_adv": {
     "primary": "vorder_general"
@@ -543,6 +531,21 @@
     "primary": "furchtbar_general",
     "alternatives": [
       "schrecklich_general"
+    ]
+  },
+  "frå_frankrike_phrase": {
+    "primary": "aus_frankreich_phrase"
+  },
+  "frå_kvarandre_adv": {
+    "primary": "auseinander_general",
+    "alternatives": [
+      "voneinander_general"
+    ]
+  },
+  "frå_prep": {
+    "primary": "aus_prep",
+    "alternatives": [
+      "von_prep"
     ]
   },
   "fuktig_adv": {
@@ -624,7 +627,7 @@
   "glatt_adv": {
     "primary": "glatt_general"
   },
-  "god_fornøyelse_phrase": {
+  "god_fornøying_phrase": {
     "primary": "viel_spass_phrase"
   },
   "gratis_adv": {
@@ -899,14 +902,14 @@
   "ja_interj": {
     "primary": "ja_interj"
   },
-  "jeg_gleder_meg_phrase": {
-    "primary": "ich_freue_mich_phrase"
-  },
   "kanskje_adv": {
     "primary": "vielleicht_adv"
   },
   "kantet_adv": {
     "primary": "eckig_general"
+  },
+  "kjem_straks_adv": {
+    "primary": "komme_gleich_general"
   },
   "kjempebra_adv": {
     "primary": "super_adv"
@@ -937,9 +940,6 @@
   },
   "knapt_adv": {
     "primary": "kaum_general"
-  },
-  "kommer_straks_adv": {
-    "primary": "komme_gleich_general"
   },
   "komplett_adv": {
     "primary": "komplett_general"
@@ -980,7 +980,7 @@
   "kva_for_ein_verden_adv": {
     "primary": "welchdie_welt_general"
   },
-  "kva_heter_du_phrase": {
+  "kva_heiter_du_phrase": {
     "primary": "wie_heisst_du_phrase"
   },
   "kva_interr": {
@@ -1001,7 +1001,7 @@
   "kvar_for_seg_adv": {
     "primary": "getrennt_adv"
   },
-  "kvar_fra_interr": {
+  "kvar_frå_interr": {
     "primary": "woher_interr"
   },
   "kvar_hen_interr": {
@@ -1010,7 +1010,7 @@
   "kvar_interr": {
     "primary": "wo_interr"
   },
-  "kvar_kommer_du_fra_phrase": {
+  "kvar_kjem_du_frå_phrase": {
     "primary": "woher_kommst_du_phrase"
   },
   "kvar_mykje_adv": {
@@ -1113,7 +1113,7 @@
   "med_det_adv": {
     "primary": "dabei_adv"
   },
-  "med_en_gang_adv": {
+  "med_ein_gang_adv": {
     "primary": "gleich_adv",
     "alternatives": [
       "sofort_adv"
@@ -1122,7 +1122,7 @@
   "med_kvarandre_adv": {
     "primary": "miteinander_general"
   },
-  "med_mine_venner_phrase": {
+  "med_mine_vener_phrase": {
     "primary": "mit_meinen_freunden_phrase"
   },
   "med_moren_min_phrase": {
@@ -1191,7 +1191,7 @@
   "modig_adv": {
     "primary": "mutig_general"
   },
-  "morsom_adv": {
+  "morosam_adv": {
     "primary": "komisch_general",
     "alternatives": [
       "witzig_general"
@@ -1264,12 +1264,6 @@
   "no_setter_vi_i_gang_phrase": {
     "primary": "los_geht_s_phrase"
   },
-  "noensinne_adv": {
-    "primary": "je_general",
-    "alternatives": [
-      "jemals_general"
-    ]
-  },
   "nok_adv": {
     "primary": "genug_general"
   },
@@ -1284,6 +1278,12 @@
   },
   "nokon_ganger_adv": {
     "primary": "manchmal_adv"
+  },
+  "nokosinne_adv": {
+    "primary": "je_general",
+    "alternatives": [
+      "jemals_general"
+    ]
   },
   "normal_adv": {
     "primary": "normal_general"
@@ -1521,7 +1521,7 @@
   "rett_adv": {
     "primary": "recht_general"
   },
-  "rett_frem_adv": {
+  "rett_fram_adv": {
     "primary": "geradeaus_general"
   },
   "rettferdig_adv": {
@@ -1604,6 +1604,9 @@
   },
   "sist_adv": {
     "primary": "letzt_general"
+  },
+  "sjuk_adv": {
+    "primary": "krank_general"
   },
   "sjølv_adv": {
     "primary": "selb_general",
@@ -1732,9 +1735,6 @@
   "stygg_adv": {
     "primary": "haesslich_general"
   },
-  "sulten_adv": {
-    "primary": "hungrig_general"
-  },
   "super_adv": {
     "primary": "super_adv"
   },
@@ -1750,8 +1750,8 @@
   "sveits_propn": {
     "primary": "die_schweiz_propn"
   },
-  "syk_adv": {
-    "primary": "krank_general"
+  "svolten_adv": {
+    "primary": "hungrig_general"
   },
   "synleg_adv": {
     "primary": "sichtbar_general"
@@ -1939,6 +1939,9 @@
   "ut_adv": {
     "primary": "raus_adv"
   },
+  "utan_prep": {
+    "primary": "ohne_prep"
+  },
   "utanfor_adv": {
     "primary": "ausserhalb_general"
   },
@@ -1950,9 +1953,6 @@
   },
   "utelukkende_adv": {
     "primary": "ausschliesslich_general"
-  },
-  "uten_prep": {
-    "primary": "ohne_prep"
   },
   "utenlandsk_adv": {
     "primary": "auslaendisch_general"
@@ -2020,11 +2020,14 @@
   "vellykket_adv": {
     "primary": "erfolgreich_general"
   },
-  "venner_er_viktige_phrase": {
+  "vener_er_viktige_phrase": {
     "primary": "freunde_sind_wichtig_phrase"
   },
   "venstre_side_adv": {
     "primary": "linken_seite_general"
+  },
+  "ver_så_god_interj": {
+    "primary": "bitte_interj"
   },
   "verdifull_adv": {
     "primary": "wertvoll_general"
@@ -2049,9 +2052,6 @@
   },
   "virtuell_adv": {
     "primary": "virtuell_general"
-  },
-  "vær_så_god_interj": {
-    "primary": "bitte_interj"
   },
   "være_av_adv": {
     "primary": "aus_sein_general"

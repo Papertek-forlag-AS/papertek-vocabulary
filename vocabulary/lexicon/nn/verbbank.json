@@ -3,7 +3,7 @@
     "language": "nn",
     "languageName": "Norsk nynorsk",
     "bank": "verbbank",
-    "generatedAt": "2026-03-14T00:51:16.969Z",
+    "generatedAt": "2026-03-14T00:54:10.031Z",
     "description": "Norwegian Nynorsk verbbank — generated from Bokmål via NB→NN transformation",
     "totalEntries": 663,
     "enrichedEntries": 648,
@@ -2273,19 +2273,19 @@
     "_nbEquivalent": "dømme_verb",
     "_generatedFrom": "de-nb/verbbank.json:verurteilen_verb"
   },
-  "egne_seg_verb": {
-    "word": "egne seg",
+  "eigne_seg_verb": {
+    "word": "eigne seg",
     "type": "verb",
     "verbClass": "svak",
     "auxiliary": "har",
     "conjugations": {
       "presens": {
         "former": {
-          "infinitiv": "å egne seg",
-          "presens": "egner seg",
-          "preteritum": "egna seg",
-          "perfektum_partisipp": "egna",
-          "imperativ": "egn seg"
+          "infinitiv": "å eigne seg",
+          "presens": "eigner seg",
+          "preteritum": "eigna seg",
+          "perfektum_partisipp": "eigna",
+          "imperativ": "eign seg"
         },
         "auxiliary": "har",
         "feature": "grammar_nn_presens"
@@ -2787,19 +2787,19 @@
     "_nbEquivalent": "finne_opp_verb",
     "_generatedFrom": "de-nb/verbbank.json:erfinden_verb"
   },
-  "finna_sted_verb": {
-    "word": "finna sted",
+  "finna_stad_verb": {
+    "word": "finna stad",
     "type": "verb",
     "verbClass": "sterk",
     "auxiliary": "har",
     "conjugations": {
       "presens": {
         "former": {
-          "infinitiv": "å finna sted",
-          "presens": "finn sted",
-          "preteritum": "fann sted",
+          "infinitiv": "å finna stad",
+          "presens": "finn stad",
+          "preteritum": "fann stad",
           "perfektum_partisipp": "funne",
-          "imperativ": "finn sted"
+          "imperativ": "finn stad"
         },
         "auxiliary": "har",
         "feature": "grammar_nn_presens"
@@ -2856,19 +2856,19 @@
     "_nbEquivalent": "finne_å_møte_verb",
     "_generatedFrom": "es-nb/verbbank.json:encontrar_verb"
   },
-  "finnes_verb": {
-    "word": "finnes",
+  "finst_verb": {
+    "word": "finst",
     "type": "verb",
-    "verbClass": "svak",
+    "verbClass": "uregelmessig",
     "auxiliary": "har",
     "conjugations": {
       "presens": {
         "former": {
-          "infinitiv": "å finnes",
-          "presens": "finnesr",
-          "preteritum": "finnesdde",
-          "perfektum_partisipp": "finnesdd",
-          "imperativ": "finnes"
+          "infinitiv": "å finst",
+          "presens": "finst",
+          "preteritum": "fintest",
+          "perfektum_partisipp": "finst",
+          "imperativ": "-"
         },
         "auxiliary": "har",
         "feature": "grammar_nn_presens"
@@ -2903,19 +2903,19 @@
     "_nbEquivalent": "fjerne_verb",
     "_generatedFrom": "de-nb/verbbank.json:entfernen_verb"
   },
-  "flyga_av_sted_verb": {
-    "word": "flyga av sted",
+  "flyga_av_stad_verb": {
+    "word": "flyga av stad",
     "type": "verb",
     "verbClass": "sterk",
     "auxiliary": "har",
     "conjugations": {
       "presens": {
         "former": {
-          "infinitiv": "å flyga av sted",
-          "presens": "flyg av sted",
-          "preteritum": "flaug av sted",
+          "infinitiv": "å flyga av stad",
+          "presens": "flyg av stad",
+          "preteritum": "flaug av stad",
           "perfektum_partisipp": "floge",
-          "imperativ": "flyg av sted"
+          "imperativ": "flyg av stad"
         },
         "auxiliary": "har",
         "feature": "grammar_nn_presens"
@@ -3040,60 +3040,6 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "forbedre_seg_verb",
     "_generatedFrom": "de-nb/verbbank.json:sich_verbessern_verb"
-  },
-  "forberede_seg_på_det_verb": {
-    "word": "forberede seg på det",
-    "type": "verb",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "forberede_seg_på_det_verb",
-    "_generatedFrom": "de-nb/verbbank.json:dafuer_vorbereiten_verb"
-  },
-  "forberede_seg_verb": {
-    "word": "forberede seg",
-    "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å forberede seg",
-          "presens": "forbereder seg",
-          "preteritum": "forberedte seg",
-          "perfektum_partisipp": "forberedt",
-          "imperativ": "forbered seg"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "forberede_seg_verb",
-    "_generatedFrom": "de-nb/verbbank.json:sich_vorbereiten_verb"
-  },
-  "forberede_verb": {
-    "word": "forberede",
-    "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å forberede",
-          "presens": "forbereder",
-          "preteritum": "forberedte",
-          "perfektum_partisipp": "forberedt",
-          "imperativ": "forbered"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "forberede_verb",
-    "_generatedFrom": "de-nb/verbbank.json:vorbereiten_verb, es-nb/verbbank.json:preparar_verb"
   },
   "forbli_verb": {
     "word": "forbli",
@@ -4107,6 +4053,60 @@
     "_nbEquivalent": "føre_inn_verb",
     "_generatedFrom": "de-nb/verbbank.json:eintragen_verb"
   },
+  "førebu_seg_på_det_verb": {
+    "word": "førebu seg på det",
+    "type": "verb",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "forberede_seg_på_det_verb",
+    "_generatedFrom": "de-nb/verbbank.json:dafuer_vorbereiten_verb"
+  },
+  "førebu_seg_verb": {
+    "word": "førebu seg",
+    "type": "verb",
+    "verbClass": "svak",
+    "auxiliary": "har",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å førebu seg",
+          "presens": "førebur seg",
+          "preteritum": "førebudde seg",
+          "perfektum_partisipp": "førebudd",
+          "imperativ": "førebu seg"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "_enriched": true,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "forberede_seg_verb",
+    "_generatedFrom": "de-nb/verbbank.json:sich_vorbereiten_verb"
+  },
+  "førebu_verb": {
+    "word": "førebu",
+    "type": "verb",
+    "verbClass": "svak",
+    "auxiliary": "har",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å førebu",
+          "presens": "førebur",
+          "preteritum": "førebudde",
+          "perfektum_partisipp": "førebudd",
+          "imperativ": "førebu"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "_enriched": true,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "forberede_verb",
+    "_generatedFrom": "de-nb/verbbank.json:vorbereiten_verb, es-nb/verbbank.json:preparar_verb"
+  },
   "garantere_verb": {
     "word": "garantere",
     "type": "verb",
@@ -4383,18 +4383,18 @@
     "_nbEquivalent": "gjøre_å_lage_verb",
     "_generatedFrom": "es-nb/verbbank.json:hacer_verb"
   },
-  "glede_seg_over_verb": {
-    "word": "glede seg over",
+  "gleda_seg_over_verb": {
+    "word": "gleda seg over",
     "type": "verb",
     "verbClass": "svak",
     "auxiliary": "har",
     "conjugations": {
       "presens": {
         "former": {
-          "infinitiv": "å glede seg over",
-          "presens": "gleder seg over",
-          "preteritum": "gledte seg over",
-          "perfektum_partisipp": "gledt",
+          "infinitiv": "å gleda seg over",
+          "presens": "gledar seg over",
+          "preteritum": "gleda seg over",
+          "perfektum_partisipp": "gleda",
           "imperativ": "gled seg over"
         },
         "auxiliary": "har",
@@ -4406,18 +4406,18 @@
     "_nbEquivalent": "glede_seg_over_verb",
     "_generatedFrom": "de-nb/verbbank.json:sich_freuen_ueber_verb"
   },
-  "glede_seg_til_verb": {
-    "word": "glede seg til",
+  "gleda_seg_til_verb": {
+    "word": "gleda seg til",
     "type": "verb",
     "verbClass": "svak",
     "auxiliary": "har",
     "conjugations": {
       "presens": {
         "former": {
-          "infinitiv": "å glede seg til",
-          "presens": "gleder seg til",
-          "preteritum": "gledte seg til",
-          "perfektum_partisipp": "gledt",
+          "infinitiv": "å gleda seg til",
+          "presens": "gledar seg til",
+          "preteritum": "gleda seg til",
+          "perfektum_partisipp": "gleda",
           "imperativ": "gled seg til"
         },
         "auxiliary": "har",
@@ -4429,18 +4429,18 @@
     "_nbEquivalent": "glede_seg_til_verb",
     "_generatedFrom": "de-nb/verbbank.json:sich_freuen_auf_verb"
   },
-  "glede_seg_verb": {
-    "word": "glede seg",
+  "gleda_seg_verb": {
+    "word": "gleda seg",
     "type": "verb",
     "verbClass": "svak",
     "auxiliary": "har",
     "conjugations": {
       "presens": {
         "former": {
-          "infinitiv": "å glede seg",
-          "presens": "gleder seg",
-          "preteritum": "gledte seg",
-          "perfektum_partisipp": "gledt",
+          "infinitiv": "å gleda seg",
+          "presens": "gledar seg",
+          "preteritum": "gleda seg",
+          "perfektum_partisipp": "gleda",
           "imperativ": "gled seg"
         },
         "auxiliary": "har",
@@ -6149,16 +6149,16 @@
     "_nbEquivalent": "klappe_verb",
     "_generatedFrom": "de-nb/verbbank.json:streicheln_verb"
   },
-  "klare_seg_verb": {
-    "word": "klare seg",
+  "klara_seg_verb": {
+    "word": "klara seg",
     "type": "verb",
     "verbClass": "svak",
     "auxiliary": "har",
     "conjugations": {
       "presens": {
         "former": {
-          "infinitiv": "å klare seg",
-          "presens": "klarer seg",
+          "infinitiv": "å klara seg",
+          "presens": "klarar seg",
           "preteritum": "klara seg",
           "perfektum_partisipp": "klara",
           "imperativ": "klar seg"
@@ -6172,16 +6172,16 @@
     "_nbEquivalent": "klare_seg_verb",
     "_generatedFrom": "de-nb/verbbank.json:zurechtkommen_verb"
   },
-  "klare_verb": {
-    "word": "klare",
+  "klara_verb": {
+    "word": "klara",
     "type": "verb",
     "verbClass": "svak",
     "auxiliary": "har",
     "conjugations": {
       "presens": {
         "former": {
-          "infinitiv": "å klare",
-          "presens": "klarer",
+          "infinitiv": "å klara",
+          "presens": "klarar",
           "preteritum": "klara",
           "perfektum_partisipp": "klara",
           "imperativ": "klar"
@@ -6195,19 +6195,19 @@
     "_nbEquivalent": "klare_verb",
     "_generatedFrom": "de-nb/verbbank.json:schaffen_verb"
   },
-  "klargjøre_verb": {
-    "word": "klargjøre",
+  "klargjera_verb": {
+    "word": "klargjera",
     "type": "verb",
     "verbClass": "svak",
     "auxiliary": "har",
     "conjugations": {
       "presens": {
         "former": {
-          "infinitiv": "å klargjøre",
-          "presens": "klargjører",
-          "preteritum": "klargjøra",
-          "perfektum_partisipp": "klargjøra",
-          "imperativ": "klargjør"
+          "infinitiv": "å klargjera",
+          "presens": "klargjerer",
+          "preteritum": "klargjerte",
+          "perfektum_partisipp": "klargjert",
+          "imperativ": "klargjerr"
         },
         "auxiliary": "har",
         "feature": "grammar_nn_presens"
@@ -6701,19 +6701,19 @@
     "_nbEquivalent": "kunne_verb",
     "_generatedFrom": "de-nb/verbbank.json:koennen_verb, es-nb/verbbank.json:poder_verb"
   },
-  "kunngjøre_verb": {
-    "word": "kunngjøre",
+  "kunngjera_verb": {
+    "word": "kunngjera",
     "type": "verb",
     "verbClass": "svak",
     "auxiliary": "har",
     "conjugations": {
       "presens": {
         "former": {
-          "infinitiv": "å kunngjøre",
-          "presens": "kunngjører",
-          "preteritum": "kunngjøra",
-          "perfektum_partisipp": "kunngjøra",
-          "imperativ": "kunngjør"
+          "infinitiv": "å kunngjera",
+          "presens": "kunngjerer",
+          "preteritum": "kunngjerte",
+          "perfektum_partisipp": "kunngjert",
+          "imperativ": "kunngjerr"
         },
         "auxiliary": "har",
         "feature": "grammar_nn_presens"
@@ -6793,19 +6793,19 @@
     "_nbEquivalent": "kysse_verb",
     "_generatedFrom": "de-nb/verbbank.json:kuessen_verb"
   },
-  "køyra_av_sted_verb": {
-    "word": "køyra av sted",
+  "køyra_av_stad_verb": {
+    "word": "køyra av stad",
     "type": "verb",
     "verbClass": "svak",
     "auxiliary": "har",
     "conjugations": {
       "presens": {
         "former": {
-          "infinitiv": "å køyra av sted",
-          "presens": "køyrer av sted",
-          "preteritum": "køyrde av sted",
+          "infinitiv": "å køyra av stad",
+          "presens": "køyrer av stad",
+          "preteritum": "køyrde av stad",
           "perfektum_partisipp": "køyrt",
-          "imperativ": "køyr av sted"
+          "imperativ": "køyr av stad"
         },
         "auxiliary": "har",
         "feature": "grammar_nn_presens"
@@ -6931,18 +6931,18 @@
     "_nbEquivalent": "lade_opp_verb",
     "_generatedFrom": "de-nb/verbbank.json:aufladen_verb"
   },
-  "lage_mat_verb": {
-    "word": "lage mat",
+  "laga_mat_verb": {
+    "word": "laga mat",
     "type": "verb",
     "verbClass": "svak",
     "auxiliary": "har",
     "conjugations": {
       "presens": {
         "former": {
-          "infinitiv": "å lage mat",
-          "presens": "lager mat",
-          "preteritum": "lagte mat",
-          "perfektum_partisipp": "lagt",
+          "infinitiv": "å laga mat",
+          "presens": "lagar mat",
+          "preteritum": "laga mat",
+          "perfektum_partisipp": "laga",
           "imperativ": "lag mat"
         },
         "auxiliary": "har",
@@ -6954,18 +6954,18 @@
     "_nbEquivalent": "lage_mat_verb",
     "_generatedFrom": "de-nb/verbbank.json:kochen_verb, es-nb/verbbank.json:cocinar_verb"
   },
-  "lage_verb": {
-    "word": "lage",
+  "laga_verb": {
+    "word": "laga",
     "type": "verb",
     "verbClass": "svak",
     "auxiliary": "har",
     "conjugations": {
       "presens": {
         "former": {
-          "infinitiv": "å lage",
-          "presens": "lager",
-          "preteritum": "lagte",
-          "perfektum_partisipp": "lagt",
+          "infinitiv": "å laga",
+          "presens": "lagar",
+          "preteritum": "laga",
+          "perfektum_partisipp": "laga",
           "imperativ": "lag"
         },
         "auxiliary": "har",
@@ -7975,18 +7975,18 @@
     "_nbEquivalent": "meddele_verb",
     "_generatedFrom": "de-nb/verbbank.json:mitteilen_verb"
   },
-  "melde_seg_på_verb": {
-    "word": "melde seg på",
+  "melda_seg_på_verb": {
+    "word": "melda seg på",
     "type": "verb",
     "verbClass": "svak",
     "auxiliary": "har",
     "conjugations": {
       "presens": {
         "former": {
-          "infinitiv": "å melde seg på",
-          "presens": "melder seg på",
-          "preteritum": "meldte seg på",
-          "perfektum_partisipp": "meldt",
+          "infinitiv": "å melda seg på",
+          "presens": "meldar seg på",
+          "preteritum": "melda seg på",
+          "perfektum_partisipp": "melda",
           "imperativ": "meld seg på"
         },
         "auxiliary": "har",
@@ -7998,18 +7998,18 @@
     "_nbEquivalent": "melde_seg_på_verb",
     "_generatedFrom": "de-nb/verbbank.json:anmelden_verb"
   },
-  "melde_verb": {
-    "word": "melde",
+  "melda_verb": {
+    "word": "melda",
     "type": "verb",
     "verbClass": "svak",
     "auxiliary": "har",
     "conjugations": {
       "presens": {
         "former": {
-          "infinitiv": "å melde",
-          "presens": "melder",
-          "preteritum": "meldte",
-          "perfektum_partisipp": "meldt",
+          "infinitiv": "å melda",
+          "presens": "meldar",
+          "preteritum": "melda",
+          "perfektum_partisipp": "melda",
           "imperativ": "meld"
         },
         "auxiliary": "har",
@@ -10031,19 +10031,42 @@
     "_nbEquivalent": "regulere_verb",
     "_generatedFrom": "de-nb/verbbank.json:regeln_verb"
   },
-  "reise_av_sted_verb": {
-    "word": "reise av sted",
+  "reingjera_verb": {
+    "word": "reingjera",
     "type": "verb",
     "verbClass": "svak",
     "auxiliary": "har",
     "conjugations": {
       "presens": {
         "former": {
-          "infinitiv": "å reise av sted",
-          "presens": "reiser av sted",
-          "preteritum": "reiste av sted",
+          "infinitiv": "å reingjera",
+          "presens": "reingjerer",
+          "preteritum": "reingjerte",
+          "perfektum_partisipp": "reingjert",
+          "imperativ": "reingjerr"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "_enriched": true,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "rengjøre_verb",
+    "_generatedFrom": "de-nb/verbbank.json:putzen_verb"
+  },
+  "reise_av_stad_verb": {
+    "word": "reise av stad",
+    "type": "verb",
+    "verbClass": "svak",
+    "auxiliary": "har",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å reise av stad",
+          "presens": "reiser av stad",
+          "preteritum": "reiste av stad",
           "perfektum_partisipp": "reist",
-          "imperativ": "reis av sted"
+          "imperativ": "reis av stad"
         },
         "auxiliary": "har",
         "feature": "grammar_nn_presens"
@@ -10145,29 +10168,6 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "rekreere_seg_verb",
     "_generatedFrom": "de-nb/verbbank.json:sich_erholen_verb"
-  },
-  "rengjøre_verb": {
-    "word": "rengjøre",
-    "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å rengjøre",
-          "presens": "rengjører",
-          "preteritum": "rengjøra",
-          "perfektum_partisipp": "rengjøra",
-          "imperativ": "rengjør"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "rengjøre_verb",
-    "_generatedFrom": "de-nb/verbbank.json:putzen_verb"
   },
   "renovere_verb": {
     "word": "renovere",
@@ -11940,19 +11940,19 @@
     "_nbEquivalent": "spørre_verb",
     "_generatedFrom": "de-nb/verbbank.json:fragen_verb, es-nb/verbbank.json:preguntar_verb"
   },
-  "stamma_fra_verb": {
-    "word": "stamma fra",
+  "stamma_frå_verb": {
+    "word": "stamma frå",
     "type": "verb",
     "verbClass": "svak",
     "auxiliary": "har",
     "conjugations": {
       "presens": {
         "former": {
-          "infinitiv": "å stamma fra",
-          "presens": "stammar fra",
-          "preteritum": "stamma fra",
+          "infinitiv": "å stamma frå",
+          "presens": "stammar frå",
+          "preteritum": "stamma frå",
           "perfektum_partisipp": "stamma",
-          "imperativ": "stamm fra"
+          "imperativ": "stamm frå"
         },
         "auxiliary": "har",
         "feature": "grammar_nn_presens"
@@ -13859,19 +13859,19 @@
     "_nbEquivalent": "undervise_å_vise_verb",
     "_generatedFrom": "es-nb/verbbank.json:ensenar_verb"
   },
-  "undre_seg_verb": {
-    "word": "undre seg",
+  "undra_seg_verb": {
+    "word": "undra seg",
     "type": "verb",
-    "verbClass": "svak",
+    "verbClass": "sterk",
     "auxiliary": "har",
     "conjugations": {
       "presens": {
         "former": {
-          "infinitiv": "å undre seg",
-          "presens": "undrer seg",
-          "preteritum": "undra seg",
-          "perfektum_partisipp": "undra",
-          "imperativ": "undr seg"
+          "infinitiv": "å undra seg",
+          "presens": "undreg seg",
+          "preteritum": "undrog seg",
+          "perfektum_partisipp": "undrege",
+          "imperativ": "undra seg"
         },
         "auxiliary": "har",
         "feature": "grammar_nn_presens"
