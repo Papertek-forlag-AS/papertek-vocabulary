@@ -68,7 +68,10 @@
     "word": "aldri",
     "type": "adv",
     "_generatedFrom": "de-nb/generalbank.json:nie_adv, de-nb/generalbank.json:niemals_adv, es-nb/generalbank.json:nunca_adv",
-    "_enriched": false
+    "_enriched": false,
+    "explanation": {
+      "_description": "Brukes for å uttrykke at noe ikke skjer."
+    }
   },
   "alene_adv": {
     "word": "alene",
@@ -92,7 +95,10 @@
     "_enriched": false,
     "typos": [
       "ale"
-    ]
+    ],
+    "explanation": {
+      "_description": "Pronomen/determiner: \"alle\". Brukes for å referere til \"alle\" personer eller ting. Eksempel: \"Wir können alle zusammen spielen\" (vi kan alle spille sammen)."
+    }
   },
   "aller_adv": {
     "word": "aller-",
@@ -126,7 +132,10 @@
     "word": "alt",
     "type": "pron",
     "_generatedFrom": "de-nb/pronounsbank.json:alles_pron",
-    "_enriched": false
+    "_enriched": false,
+    "explanation": {
+      "_description": "Indefinitt pronomen: \"alt\" (intetkjønn). Brukes for å referere til \"alt\" eller \"alle ting\". Eksempel: \"Alles ist gut\" (alt er bra), \"Ich mag alles\" (jeg liker alt)."
+    }
   },
   "alternativ_adv": {
     "word": "alternativ",
@@ -250,7 +259,10 @@
     "word": "av",
     "type": "prep",
     "_generatedFrom": "de-nb/generalbank.json:von_prep, es-nb/generalbank.json:de_prep",
-    "_enriched": false
+    "_enriched": false,
+    "explanation": {
+      "_description": "Preposisjon som alltid krever dativ. Brukes for å uttrykke opprinnelse, eierskap eller forfatter."
+    }
   },
   "avhengig_adv": {
     "word": "avhengig",
@@ -283,7 +295,10 @@
     "word": "bak",
     "type": "prep",
     "_generatedFrom": "de-nb/generalbank.json:hinter_prep, es-nb/generalbank.json:tras_prep, es-nb/generalbank.json:detras_de_prep",
-    "_enriched": false
+    "_enriched": false,
+    "explanation": {
+      "_description": "Wechselpräposition: Akkusativ ved bevegelse (wohin?), dativ ved posisjon (wo?)."
+    }
   },
   "bak_til_venstre_adv": {
     "word": "bak til venstre",
@@ -365,7 +380,10 @@
     "_enriched": false,
     "typos": [
       "bege"
-    ]
+    ],
+    "explanation": {
+      "_description": "Pronomen: \"begge\". Brukes for å referere til to personer eller ting sammen. Eksempel: \"Wir sind beide hier\" (vi er begge her), \"beide Freunde\" (begge vennene)."
+    }
   },
   "behagelig_adv": {
     "word": "behagelig",
@@ -443,6 +461,20 @@
     ],
     "acceptedForms": [
       "aa bli ferdig"
+    ],
+    "examples": [
+      {
+        "sentence": "Jeg blir snart ferdig.",
+        "translation": "Ich werde bald fertig."
+      },
+      {
+        "sentence": "Når blir du ferdig?",
+        "translation": "Wann wirst du fertig?"
+      },
+      {
+        "sentence": "Vi blir ferdige i tide.",
+        "translation": "Wir werden rechtzeitig fertig."
+      }
     ]
   },
   "blind_adv": {
@@ -569,7 +601,10 @@
     "word": "dativ)",
     "type": "pron",
     "_generatedFrom": "de-nb/pronounsbank.json:euch_pron",
-    "_enriched": false
+    "_enriched": false,
+    "explanation": {
+      "_description": "Refleksivt pronomen / objektform av \"ihr\": \"dere\" eller \"dere selv\". Eksempel: \"Ich sehe euch\" (jeg ser dere), \"Freut ihr euch?\" (gleder dere dere?)."
+    }
   },
   "de_adv": {
     "word": "de",
@@ -597,26 +632,38 @@
     "word": "de",
     "type": "pron",
     "_generatedFrom": "de-nb/pronounsbank.json:sie_pron, es-nb/pronounsbank.json:usted_pron, es-nb/pronounsbank.json:ellas_pron, es-nb/pronounsbank.json:ese_demon_pron, es-nb/pronounsbank.json:aquel_demon_pron",
-    "_enriched": false
+    "_enriched": false,
+    "explanation": {
+      "_description": "Personlig pronomen: \"hun\" (3. person entall, hunkjønn) eller \"de\" (3. person flertall). Eksempel: \"Sie ist meine Schwester\" (hun er min søster), \"Sie sind meine Eltern\" (de er mine foreldre). Obs: \"Sie\" med stor S betyr også \"De\" (høflig form)."
+    }
   },
   "deg_pron": {
     "word": "deg",
     "type": "pron",
     "_generatedFrom": "de-nb/pronounsbank.json:dich_pron, de-nb/pronounsbank.json:dir_pron, es-nb/pronounsbank.json:te_dirobj_pron, es-nb/pronounsbank.json:te_indobj_pron, es-nb/pronounsbank.json:te_reflex_pron",
-    "_enriched": false
+    "_enriched": false,
+    "explanation": {
+      "_description": "Refleksivt pronomen / objektform av \"du\": \"deg\" eller \"deg selv\". Eksempel: \"Ich sehe dich\" (jeg ser deg), \"Du freust dich\" (du gleder deg)."
+    }
   },
   "deg_selv_pron": {
     "word": "deg selv",
     "type": "pron",
     "_generatedFrom": "de-nb/pronounsbank.json:dich_pron",
-    "_enriched": false
+    "_enriched": false,
+    "explanation": {
+      "_description": "Refleksivt pronomen / objektform av \"du\": \"deg\" eller \"deg selv\". Eksempel: \"Ich sehe dich\" (jeg ser deg), \"Du freust dich\" (du gleder deg)."
+    }
   },
   "dem_pron": {
     "word": "dem",
     "type": "pron",
     "usageNotes": "dativ flertall",
     "_generatedFrom": "de-nb/pronounsbank.json:ihnen_pron, es-nb/pronounsbank.json:los_dirobj_pron, es-nb/pronounsbank.json:las_dirobj_pron, es-nb/pronounsbank.json:les_indobj_pron",
-    "_enriched": false
+    "_enriched": false,
+    "explanation": {
+      "_description": "Dativ-form av \"sie\" (de): \"dem\". Brukes med dativ-verb. Eksempel: \"Ich helfe ihnen\" (jeg hjelper dem), \"Ich gebe ihnen die Bücher\" (jeg gir dem bøkene)."
+    }
   },
   "den_adv": {
     "word": "den",
@@ -629,7 +676,10 @@
     "type": "art",
     "usageNotes": "hankjønn",
     "_generatedFrom": "de-nb/articlesbank.json:der_art, de-nb/articlesbank.json:die_art, de-nb/articlesbank.json:den_art",
-    "_enriched": false
+    "_enriched": false,
+    "explanation": {
+      "_description": "Bestemt artikkel for hankjønnsord i akkusativ. Eksempel: \"Ich sehe den Film\" (jeg ser filmen)."
+    }
   },
   "den_gang_adv": {
     "word": "den gang",
@@ -644,7 +694,10 @@
     "word": "den",
     "type": "pron",
     "_generatedFrom": "de-nb/pronounsbank.json:es_pron, de-nb/pronounsbank.json:ihn_pron, es-nb/pronounsbank.json:lo_dirobj_pron, es-nb/pronounsbank.json:la_dirobj_pron, es-nb/pronounsbank.json:ese_demon_pron, es-nb/pronounsbank.json:aquel_demon_pron",
-    "_enriched": false
+    "_enriched": false,
+    "explanation": {
+      "_description": "Personlig pronomen: \"det/den\" (3. person entall, intetkjønn). Brukes om ting som er intetkjønn. Eksempel: \"Es ist mein Foto\" (det er mitt bilde)."
+    }
   },
   "denne_adv": {
     "word": "denne",
@@ -713,7 +766,10 @@
     "word": "dere",
     "type": "pron",
     "_generatedFrom": "de-nb/pronounsbank.json:ihr_pron, de-nb/pronounsbank.json:euch_pron, es-nb/pronounsbank.json:vosotras_pron, es-nb/pronounsbank.json:os_dirobj_pron, es-nb/pronounsbank.json:os_indobj_pron, es-nb/pronounsbank.json:os_reflex_pron",
-    "_enriched": false
+    "_enriched": false,
+    "explanation": {
+      "_description": "Refleksivt pronomen / objektform av \"ihr\": \"dere\" eller \"dere selv\". Eksempel: \"Ich sehe euch\" (jeg ser dere), \"Freut ihr euch?\" (gleder dere dere?)."
+    }
   },
   "dere_selv_akkusativ_pron": {
     "word": "dere selv (akkusativ",
@@ -722,7 +778,10 @@
     "_enriched": false,
     "typos": [
       "dere selv (akusativ"
-    ]
+    ],
+    "explanation": {
+      "_description": "Refleksivt pronomen / objektform av \"ihr\": \"dere\" eller \"dere selv\". Eksempel: \"Ich sehe euch\" (jeg ser dere), \"Freut ihr euch?\" (gleder dere dere?)."
+    }
   },
   "deres_hankjønn_pron": {
     "word": "deres (hankjønn",
@@ -737,7 +796,10 @@
     ],
     "acceptedForms": [
       "deres (hankjoenn"
-    ]
+    ],
+    "explanation": {
+      "_description": "Eiendomspronomen: \"deres\" (2. person flertall). Eksempel: \"euer Haus\" (deres hus), \"euer Vater\" (deres far)."
+    }
   },
   "deres_hunkjønn_pron": {
     "word": "deres (hunkjønn",
@@ -752,7 +814,10 @@
     ],
     "acceptedForms": [
       "deres (hunkjoenn"
-    ]
+    ],
+    "explanation": {
+      "_description": "Eiendomspronomen: \"deres\" for hunkjønn eller flertall. Eksempel: \"eure Mutter\" (deres mor), \"eure Freunde\" (deres venner)."
+    }
   },
   "deres_pron": {
     "word": "deres",
@@ -832,7 +897,10 @@
     "type": "art",
     "usageNotes": "intetkjønn",
     "_generatedFrom": "de-nb/articlesbank.json:das_art",
-    "_enriched": false
+    "_enriched": false,
+    "explanation": {
+      "_description": "Bestemt artikkel for intetkjønnsord (neutrum) eller brukt som demonstrativ pronomen \"det/den\". Eksempel: \"das Foto\" (bildet), \"Das ist...\" (Det er...)."
+    }
   },
   "det_er_dårlig_vær_phrase": {
     "word": "Det er dårlig vær",
@@ -915,7 +983,10 @@
     ],
     "acceptedForms": [
       "Det gaar bra med meg"
-    ]
+    ],
+    "explanation": {
+      "_description": "Fast uttrykk for \"det går bra med meg\". \"Mir\" er dativ av \"ich\", \"geht's\" er \"geht es\" (går det). Bokstavelig: \"til meg går det godt\". Vanlig svar på \"Wie geht's?\""
+    }
   },
   "det_hunkjønn_art": {
     "word": "det (hunkjønn",
@@ -930,7 +1001,10 @@
     ],
     "acceptedForms": [
       "det (hunkjoenn"
-    ]
+    ],
+    "explanation": {
+      "_description": "Bestemt artikkel for hunkjønnsord (femininum) eller flertall. Eksempel: \"die Mutter\" (mora), \"die Eltern\" (foreldrene)."
+    }
   },
   "det_høres_bra_ut_phrase": {
     "word": "det høres bra ut",
@@ -948,7 +1022,10 @@
     "word": "det",
     "type": "pron",
     "_generatedFrom": "de-nb/pronounsbank.json:es_pron, es-nb/pronounsbank.json:lo_dirobj_pron, es-nb/pronounsbank.json:ese_demon_pron, es-nb/pronounsbank.json:aquel_demon_pron",
-    "_enriched": false
+    "_enriched": false,
+    "explanation": {
+      "_description": "Personlig pronomen: \"det/den\" (3. person entall, intetkjønn). Brukes om ting som er intetkjønn. Eksempel: \"Es ist mein Foto\" (det er mitt bilde)."
+    }
   },
   "det_regner_phrase": {
     "word": "Det regner",
@@ -1020,7 +1097,10 @@
     ],
     "acceptedForms": [
       "di (hunkjoenn"
-    ]
+    ],
+    "explanation": {
+      "_description": "Eiendomspronomen: \"din/di/dine\" (2. person entall). Eksempel: \"deine Schwester\" (din søster), \"deine Eltern\" (dine foreldre)."
+    }
   },
   "digital_adv": {
     "word": "digital",
@@ -1050,13 +1130,19 @@
     ],
     "acceptedForms": [
       "din (hankjoenn"
-    ]
+    ],
+    "explanation": {
+      "_description": "Eiendomspronomen: \"din/ditt\" (2. person entall). Eksempel: \"dein Bruder\" (din bror), \"dein Foto\" (ditt bilde)."
+    }
   },
   "din_pron": {
     "word": "din",
     "type": "pron",
     "_generatedFrom": "de-nb/pronounsbank.json:deine_possessiv, es-nb/pronounsbank.json:tu_possess_pron",
-    "_enriched": false
+    "_enriched": false,
+    "explanation": {
+      "_description": "Eiendomspronomen: \"din/di/dine\" (2. person entall). Eksempel: \"deine Schwester\" (din søster), \"deine Eltern\" (dine foreldre)."
+    }
   },
   "dine_pron": {
     "word": "dine",
@@ -1105,7 +1191,10 @@
     "word": "du",
     "type": "pron",
     "_generatedFrom": "de-nb/pronounsbank.json:du_pron, es-nb/pronounsbank.json:tu_pron",
-    "_enriched": false
+    "_enriched": false,
+    "explanation": {
+      "_description": "Personlig pronomen: \"du\" (2. person entall, uformelt). Brukes når man snakker til én person man kjenner godt. Eksempel: \"Wie heißt du?\" (hva heter du?)."
+    }
   },
   "dum_adv": {
     "word": "dum",
@@ -1190,7 +1279,10 @@
     "type": "art",
     "usageNotes": "hunkjønn",
     "_generatedFrom": "de-nb/articlesbank.json:eine_art",
-    "_enriched": false
+    "_enriched": false,
+    "explanation": {
+      "_description": "Ubestemt artikkel for hunkjønnsord. Eksempel: \"eine Schwester\" (en søster), \"eine Familie\" (en familie)."
+    }
   },
   "ekstra_adv": {
     "word": "ekstra",
@@ -1282,7 +1374,10 @@
     "word": "en",
     "type": "art",
     "_generatedFrom": "de-nb/articlesbank.json:ein_art, de-nb/articlesbank.json:eine_art, de-nb/articlesbank.json:einen_art",
-    "_enriched": false
+    "_enriched": false,
+    "explanation": {
+      "_description": "Ubestemt artikkel for hankjønn eller intetkjønn i nominativ. Eksempel: \"ein Bruder\" (en bror), \"ein Foto\" (et bilde)."
+    }
   },
   "en_elefant_phrase": {
     "word": "en elefant",
@@ -1319,7 +1414,10 @@
     "word": "en",
     "type": "pron",
     "_generatedFrom": "de-nb/pronounsbank.json:man_pron",
-    "_enriched": false
+    "_enriched": false,
+    "explanation": {
+      "_description": "Upersonlig pronomen: \"man\" eller \"en\". Brukes for å snakke generelt om folk. Eksempel: \"Man kann hier schwimmen\" (man kan svømme her)."
+    }
   },
   "enda_en_gang_adv": {
     "word": "enda en gang",
@@ -1441,7 +1539,10 @@
     "type": "art",
     "usageNotes": "akkusativ hankjønn",
     "_generatedFrom": "de-nb/articlesbank.json:einen_art",
-    "_enriched": false
+    "_enriched": false,
+    "explanation": {
+      "_description": "Ubestemt artikkel for hankjønnsord i akkusativ (objekt). Eksempel: \"Ich sehe einen Film\" (jeg ser en film)."
+    }
   },
   "et_hankjønn_art": {
     "word": "et (hankjønn",
@@ -1456,7 +1557,10 @@
     ],
     "acceptedForms": [
       "et (hankjoenn"
-    ]
+    ],
+    "explanation": {
+      "_description": "Ubestemt artikkel for hankjønn eller intetkjønn i nominativ. Eksempel: \"ein Bruder\" (en bror), \"ein Foto\" (et bilde)."
+    }
   },
   "et_stipend_adv": {
     "word": "et stipend",
@@ -1493,7 +1597,10 @@
     "_enriched": false,
     "typos": [
       "eter"
-    ]
+    ],
+    "explanation": {
+      "_description": "Betyr \"etter\". Preposisjonen \"nach\" styrer dativ. Derfor blir det \"nach dem Frühstück\" (etter frokosten)."
+    }
   },
   "etter_prep": {
     "word": "etter",
@@ -1569,7 +1676,10 @@
     "_enriched": false,
     "typos": [
       "favorit-"
-    ]
+    ],
+    "explanation": {
+      "_description": "Prefiks som betyr favoritt. F.eks. Lieblingsfarbe (favorittfarge)."
+    }
   },
   "feil_adv": {
     "word": "feil",
@@ -1675,7 +1785,10 @@
     "_enriched": false,
     "typos": [
       "flertal)"
-    ]
+    ],
+    "explanation": {
+      "_description": "Bestemt artikkel for hunkjønnsord (femininum) eller flertall. Eksempel: \"die Mutter\" (mora), \"die Eltern\" (foreldrene)."
+    }
   },
   "flertall_pron": {
     "word": "flertall)",
@@ -1684,7 +1797,10 @@
     "_enriched": false,
     "typos": [
       "flertal)"
-    ]
+    ],
+    "explanation": {
+      "_description": "Eiendomspronomen: \"din/di/dine\" (2. person entall). Eksempel: \"deine Schwester\" (din søster), \"deine Eltern\" (dine foreldre)."
+    }
   },
   "flittig_adv": {
     "word": "flittig",
@@ -1777,7 +1893,10 @@
     "word": "for",
     "type": "prep",
     "_generatedFrom": "de-nb/generalbank.json:fuer_prep, es-nb/generalbank.json:para_prep, es-nb/generalbank.json:por_prep",
-    "_enriched": false
+    "_enriched": false,
+    "explanation": {
+      "_description": "Preposisjon som alltid krever akkusativ. Brukes for å uttrykke formål, mottaker eller varighet."
+    }
   },
   "for_som_i_for_sent_adv": {
     "word": "for, som i \"for sent\"",
@@ -1813,13 +1932,19 @@
     "word": "foran",
     "type": "phrase",
     "_generatedFrom": "de-nb/phrasesbank.json:vor_dem_phrase",
-    "_enriched": false
+    "_enriched": false,
+    "explanation": {
+      "_description": "Preposisjonen \"vor\" + bestemt artikkel \"dem\" (dativ, intetkjønnsord). Betyr \"foran\" eller \"før\". Eksempel: \"vor dem Kino\" (foran kinoen), \"vor dem Essen\" (før maten). Dette er et eksempel på hvordan preposisjoner og artikler smeltes sammen i tysk."
+    }
   },
   "foran_prep": {
     "word": "foran",
     "type": "prep",
     "_generatedFrom": "de-nb/generalbank.json:vor_prep, es-nb/generalbank.json:ante_prep, es-nb/generalbank.json:delante_de_prep",
-    "_enriched": false
+    "_enriched": false,
+    "explanation": {
+      "_description": "Wechselpräposition: Akkusativ ved bevegelse (wohin?), dativ ved posisjon (wo?). Brukes også om tid (før)."
+    }
   },
   "forbi_adv": {
     "word": "forbi",
@@ -1941,7 +2066,10 @@
     "type": "contr",
     "usageNotes": "von + dem",
     "_generatedFrom": "de-nb/articlesbank.json:vom_contr, es-nb/articlesbank.json:del_contr",
-    "_enriched": false
+    "_enriched": false,
+    "explanation": {
+      "_description": "Sammentrekning av \"von dem\" (dativ). Brukes for å angi utgangspunkt eller opprinnelse: \"vom ersten März\" (fra første mars), \"vom Bahnhof\" (fra togstasjonen)."
+    }
   },
   "fra_frankrike_phrase": {
     "word": "fra Frankrike",
@@ -1959,13 +2087,19 @@
     "word": "fra",
     "type": "phrase",
     "_generatedFrom": "de-nb/phrasesbank.json:aus_dem_phrase",
-    "_enriched": false
+    "_enriched": false,
+    "explanation": {
+      "_description": "Betyr \"ut av\" eller \"fra\" foran et hankjønnsord eller et intetkjønnsord. Preposisjonen \"aus\" + bestemt artikkel \"dem\". Eksempel: \"aus dem Haus gehen\" (å gå ut av huset), \"aus dem Bett\" (ut av sengen)."
+    }
   },
   "fra_prep": {
     "word": "fra",
     "type": "prep",
     "_generatedFrom": "de-nb/generalbank.json:aus_prep, de-nb/generalbank.json:von_prep, es-nb/generalbank.json:de_prep, es-nb/generalbank.json:desde_prep",
-    "_enriched": false
+    "_enriched": false,
+    "explanation": {
+      "_description": "Preposisjon som alltid krever dativ. Brukes om opprinnelse eller bevegelse ut av noe."
+    }
   },
   "fra_tiden_på_phrase": {
     "word": "fra tiden på",
@@ -1977,7 +2111,10 @@
     ],
     "acceptedForms": [
       "fra tiden paa"
-    ]
+    ],
+    "explanation": {
+      "_description": "Her brukt for å si \"siden barneskolen\". \"Seit\" betyr siden. Du trenger ikke lære dette som en egen glose ennå, men det er nyttig å forstå i sammenhengen."
+    }
   },
   "frankrike_propn": {
     "word": "Frankrike",
@@ -2129,7 +2266,10 @@
     ],
     "acceptedForms": [
       "foer"
-    ]
+    ],
+    "explanation": {
+      "_description": "Preposisjonen \"vor\" + bestemt artikkel \"dem\" (dativ, intetkjønnsord). Betyr \"foran\" eller \"før\". Eksempel: \"vor dem Kino\" (foran kinoen), \"vor dem Essen\" (før maten). Dette er et eksempel på hvordan preposisjoner og artikler smeltes sammen i tysk."
+    }
   },
   "før_prep": {
     "word": "før",
@@ -2141,7 +2281,10 @@
     ],
     "acceptedForms": [
       "foer"
-    ]
+    ],
+    "explanation": {
+      "_description": "Wechselpräposition: Akkusativ ved bevegelse (wohin?), dativ ved posisjon (wo?). Brukes også om tid (før)."
+    }
   },
   "først_adv": {
     "word": "først",
@@ -2237,7 +2380,10 @@
     "_enriched": false,
     "typos": [
       "gjenom"
-    ]
+    ],
+    "explanation": {
+      "_description": "Preposisjon som alltid krever akkusativ. Brukes for å uttrykke bevegelse gjennom noe."
+    }
   },
   "gjennomsnittlig_adv": {
     "word": "gjennomsnittlig",
@@ -2493,6 +2639,20 @@
     ],
     "acceptedForms": [
       "aa gaa tur med hunden"
+    ],
+    "examples": [
+      {
+        "sentence": "Jeg går tur med hunden.",
+        "translation": "Ich gehe mit dem Hund Gassi."
+      },
+      {
+        "sentence": "Går du tur med hunden i dag?",
+        "translation": "Gehst du heute Gassi?"
+      },
+      {
+        "sentence": "Vi går tur med hunden hver dag.",
+        "translation": "Wir gehen jeden Tag Gassi."
+      }
     ]
   },
   "ha_det_adv": {
@@ -2594,13 +2754,19 @@
     "word": "ham",
     "type": "pron",
     "_generatedFrom": "de-nb/pronounsbank.json:ihn_pron, de-nb/pronounsbank.json:ihm_pron, es-nb/pronounsbank.json:lo_dirobj_pron, es-nb/pronounsbank.json:le_indobj_pron",
-    "_enriched": false
+    "_enriched": false,
+    "explanation": {
+      "_description": "Dativ-form av \"er\": \"ham\". Brukes med dativ-verb. Eksempel: \"Ich helfe ihm\" (jeg hjelper ham), \"Ich gebe ihm das Buch\" (jeg gir ham boken)."
+    }
   },
   "han_pron": {
     "word": "han",
     "type": "pron",
     "_generatedFrom": "de-nb/pronounsbank.json:er_pron, es-nb/pronounsbank.json:el_pron",
-    "_enriched": false
+    "_enriched": false,
+    "explanation": {
+      "_description": "Personlig pronomen: \"han\" (3. person entall, hankjønn). Brukes om personer eller ting som er hankjønn. Eksempel: \"Er ist mein Bruder\" (han er min bror)."
+    }
   },
   "hans_hankjønn_pron": {
     "word": "hans (hankjønn",
@@ -2615,7 +2781,10 @@
     ],
     "acceptedForms": [
       "hans (hankjoenn"
-    ]
+    ],
+    "explanation": {
+      "_description": "Eiendomspronomen: \"hans\" (3. person entall hankjønn). Eksempel: \"sein Vater\" (hans far), \"sein Buch\" (hans bok)."
+    }
   },
   "hans_hunkjønn_pron": {
     "word": "hans (hunkjønn",
@@ -2630,7 +2799,10 @@
     ],
     "acceptedForms": [
       "hans (hunkjoenn"
-    ]
+    ],
+    "explanation": {
+      "_description": "Eiendomspronomen: \"hans\" for hunkjønn eller flertall. Eksempel: \"seine Mutter\" (hans mor), \"seine Freunde\" (hans venner)."
+    }
   },
   "hans_pron": {
     "word": "hans",
@@ -2769,7 +2941,10 @@
     "_enriched": false,
     "typos": [
       "hene"
-    ]
+    ],
+    "explanation": {
+      "_description": "Dativ-form av \"sie\" (hun): \"henne\". Brukes med dativ-verb. Eksempel: \"Ich helfe ihr\" (jeg hjelper henne), \"Ich gebe ihr das Buch\" (jeg gir henne boken). OBS: Ikke forveksle med \"ihr\" (dere)."
+    }
   },
   "hennes_hankjønn_pron": {
     "word": "hennes (hankjønn",
@@ -2784,7 +2959,10 @@
     ],
     "acceptedForms": [
       "hennes (hankjoenn"
-    ]
+    ],
+    "explanation": {
+      "_description": "Eiendomspronomen: \"hennes\" (3. person entall hunkjønn). Eksempel: \"ihr Vater\" (hennes far), \"ihr Buch\" (hennes bok). Obs: Samme form som pronomen \"dere\" (ihr)."
+    }
   },
   "hennes_hunkjønn_pron": {
     "word": "hennes (hunkjønn",
@@ -2799,7 +2977,10 @@
     ],
     "acceptedForms": [
       "hennes (hunkjoenn"
-    ]
+    ],
+    "explanation": {
+      "_description": "Eiendomspronomen: \"hennes\" for hunkjønn eller flertall. Eksempel: \"ihre Mutter\" (hennes mor), \"ihre Freunde\" (hennes venner)."
+    }
   },
   "hennes_pron": {
     "word": "hennes",
@@ -2863,7 +3044,10 @@
     "_enriched": false,
     "typos": [
       "jem"
-    ]
+    ],
+    "explanation": {
+      "_description": "Uttrykk som betyr 'hjem' når man beveger seg dit."
+    }
   },
   "hjemme_adv": {
     "word": "hjemme",
@@ -2873,7 +3057,10 @@
     "typos": [
       "hjeme",
       "jemme"
-    ]
+    ],
+    "explanation": {
+      "_description": "Uttrykk som betyr 'hjemme' når man er der."
+    }
   },
   "hjemme_expr": {
     "word": "hjemme",
@@ -2920,13 +3107,19 @@
     "word": "hos",
     "type": "prep",
     "_generatedFrom": "de-nb/generalbank.json:bei_prep",
-    "_enriched": false
+    "_enriched": false,
+    "explanation": {
+      "_description": "Preposisjon som alltid krever dativ. Brukes for å uttrykke nærhet, hos noen, eller under en aktivitet."
+    }
   },
   "hun_pron": {
     "word": "hun",
     "type": "pron",
     "_generatedFrom": "de-nb/pronounsbank.json:sie_pron, es-nb/pronounsbank.json:ella_pron",
-    "_enriched": false
+    "_enriched": false,
+    "explanation": {
+      "_description": "Personlig pronomen: \"hun\" (3. person entall, hunkjønn) eller \"de\" (3. person flertall). Eksempel: \"Sie ist meine Schwester\" (hun er min søster), \"Sie sind meine Eltern\" (de er mine foreldre). Obs: \"Sie\" med stor S betyr også \"De\" (høflig form)."
+    }
   },
   "hundre_num": {
     "word": "hundre",
@@ -2999,7 +3192,10 @@
     "type": "pron",
     "usageNotes": "nominativ",
     "_generatedFrom": "de-nb/pronounsbank.json:wer_pron, de-nb/pronounsbank.json:wen_pron, es-nb/pronounsbank.json:quien_interr_pron",
-    "_enriched": false
+    "_enriched": false,
+    "explanation": {
+      "_description": "Spørrende pronomen: \"hvem\" (akkusativ/objekt). Brukes når \"hvem\" er objekt i setningen. Eksempel: \"Wen magst du in der Klasse?\" (hvem liker du i klassen?), \"Wen rufst du an?\" (hvem ringer du til?)."
+    }
   },
   "hver_adv": {
     "word": "hver",
@@ -3029,7 +3225,10 @@
     "word": "hver",
     "type": "pron",
     "_generatedFrom": "de-nb/pronounsbank.json:jedes_pron",
-    "_enriched": false
+    "_enriched": false,
+    "explanation": {
+      "_description": "Determiner-pronomen: \"hver\" eller \"hvert\" (nøytralt). Brukes om intetkjønnsord. Eksempel: \"jedes Tier\" (hvert dyr), \"jedes Kind\" (hvert barn). Tilsvarende: \"jeder\" (m), \"jede\" (f)."
+    }
   },
   "hverandre_pron": {
     "word": "hverandre",
@@ -3042,7 +3241,10 @@
     "type": "pron",
     "usageNotes": "intetkjønn",
     "_generatedFrom": "de-nb/pronounsbank.json:jedes_pron",
-    "_enriched": false
+    "_enriched": false,
+    "explanation": {
+      "_description": "Determiner-pronomen: \"hver\" eller \"hvert\" (nøytralt). Brukes om intetkjønnsord. Eksempel: \"jedes Tier\" (hvert dyr), \"jedes Kind\" (hvert barn). Tilsvarende: \"jeder\" (m), \"jede\" (f)."
+    }
   },
   "hvilke_pron": {
     "word": "hvilke?",
@@ -3180,7 +3382,10 @@
     ],
     "acceptedForms": [
       "Hvordan gaar det?"
-    ]
+    ],
+    "explanation": {
+      "_description": "Forkortelse av \"Wie geht es?\". Betyr \"hvordan går det?\" eller \"hvordan har du det?\". Veldig vanlig hilsen blant venner."
+    }
   },
   "hvordan_har_du_det_phrase": {
     "word": "Hvordan har du det?",
@@ -3277,6 +3482,20 @@
     "acceptedForms": [
       "å hoere på musikk",
       "aa høre paa musikk"
+    ],
+    "examples": [
+      {
+        "sentence": "Jeg liker å høre på musikk.",
+        "translation": "Ich höre gern Musik."
+      },
+      {
+        "sentence": "Hvilken musikk hører du på?",
+        "translation": "Welche Musik hörst du?"
+      },
+      {
+        "sentence": "Vi hører på musikk sammen.",
+        "translation": "Wir hören zusammen Musik."
+      }
     ]
   },
   "høy_adv": {
@@ -3333,7 +3552,10 @@
     "type": "contr",
     "usageNotes": "an + dem",
     "_generatedFrom": "de-nb/articlesbank.json:am_contr, de-nb/articlesbank.json:im_contr",
-    "_enriched": false
+    "_enriched": false,
+    "explanation": {
+      "_description": "Sammentrekning av \"an dem\" (dativ). Brukes for tidspunkt: \"am Montag\" (på mandag), \"am Wochenende\" (i helgen), \"am Nachmittag\" (om ettermiddagen)."
+    }
   },
   "i_dag_adv": {
     "word": "i dag",
@@ -3471,7 +3693,10 @@
     "word": "i",
     "type": "prep",
     "_generatedFrom": "de-nb/generalbank.json:in_prep, de-nb/generalbank.json:ins_prep, es-nb/generalbank.json:en_prep",
-    "_enriched": false
+    "_enriched": false,
+    "explanation": {
+      "_description": "Wechselpräposition: Akkusativ ved bevegelse (wohin?), dativ ved posisjon (wo?). Eksempel: «Ich gehe in die Schule» (akkusativ) vs «Ich bin in der Schule» (dativ)."
+    }
   },
   "i_tide_adv": {
     "word": "i tide",
@@ -3600,7 +3825,10 @@
     "type": "art",
     "usageNotes": "akkusativ hankjønn",
     "_generatedFrom": "de-nb/articlesbank.json:keinen_art",
-    "_enriched": false
+    "_enriched": false,
+    "explanation": {
+      "_description": "Negativ artikkel for hankjønn i akkusativ. Eksempel: \"Ich habe keinen Bruder\" (jeg har ingen bror)."
+    }
   },
   "ingen_hankjønn_art": {
     "word": "ingen (hankjønn",
@@ -3615,7 +3843,10 @@
     ],
     "acceptedForms": [
       "ingen (hankjoenn"
-    ]
+    ],
+    "explanation": {
+      "_description": "Negativ artikkel for hankjønn eller intetkjønn. Eksempel: \"kein Bruder\" (ingen bror)."
+    }
   },
   "ingen_hunkjønn_art": {
     "word": "ingen (hunkjønn",
@@ -3630,7 +3861,10 @@
     ],
     "acceptedForms": [
       "ingen (hunkjoenn"
-    ]
+    ],
+    "explanation": {
+      "_description": "Negativ artikkel for hunkjønn eller flertall. Brukes for å si \"ingen\". Eksempel: \"keine Schwester\" (ingen søster), \"keine Geschwister\" (ingen søsken)."
+    }
   },
   "ingen_lyst_adv": {
     "word": "ingen lyst",
@@ -3700,7 +3934,10 @@
     "_enriched": false,
     "typos": [
       "in i"
-    ]
+    ],
+    "explanation": {
+      "_description": "Sammentrekning av \"in das\" (akkusativ). Brukes for retning/bevegelse: \"ins Kino\" (til kinoen), \"ins Café\" (til kaféen)."
+    }
   },
   "inn_i_prep": {
     "word": "inn i",
@@ -3781,7 +4018,10 @@
     ],
     "acceptedForms": [
       "intetkjoenn)"
-    ]
+    ],
+    "explanation": {
+      "_description": "Ubestemt artikkel for hankjønn eller intetkjønn i nominativ. Eksempel: \"ein Bruder\" (en bror), \"ein Foto\" (et bilde)."
+    }
   },
   "intetkjønn_pron": {
     "word": "intetkjønn)",
@@ -3796,7 +4036,10 @@
     ],
     "acceptedForms": [
       "intetkjoenn)"
-    ]
+    ],
+    "explanation": {
+      "_description": "Eiendomspronomen: \"din/ditt\" (2. person entall). Eksempel: \"dein Bruder\" (din bror), \"dein Foto\" (ditt bilde)."
+    }
   },
   "irriterende_adv": {
     "word": "irriterende",
@@ -3985,7 +4228,10 @@
     "word": "jeg",
     "type": "pron",
     "_generatedFrom": "de-nb/pronounsbank.json:ich_pron, es-nb/pronounsbank.json:yo_pron",
-    "_enriched": false
+    "_enriched": false,
+    "explanation": {
+      "_description": "Personlig pronomen: \"jeg\" (1. person entall). Eksempel: \"Ich heiße Olivia\" (jeg heter Olivia), \"Ich bin sechzehn\" (jeg er seksten)."
+    }
   },
   "jeg_tror_at_phrase": {
     "word": "Jeg tror at...",
@@ -4143,7 +4389,10 @@
     "_enriched": false,
     "typos": [
       "kloka..."
-    ]
+    ],
+    "explanation": {
+      "_description": "Preposisjon som alltid krever akkusativ. Brukes foran klokkeslett (um 8 Uhr) og for å uttrykke «rundt» eller «omkring»."
+    }
   },
   "knapp_adv": {
     "word": "knapp",
@@ -4469,7 +4718,10 @@
     "word": "man",
     "type": "pron",
     "_generatedFrom": "de-nb/pronounsbank.json:man_pron",
-    "_enriched": false
+    "_enriched": false,
+    "explanation": {
+      "_description": "Upersonlig pronomen: \"man\" eller \"en\". Brukes for å snakke generelt om folk. Eksempel: \"Man kann hier schwimmen\" (man kan svømme her)."
+    }
   },
   "mange_pron": {
     "word": "mange?",
@@ -4562,7 +4814,10 @@
     "word": "med",
     "type": "prep",
     "_generatedFrom": "de-nb/generalbank.json:mit_prep, es-nb/generalbank.json:con_prep",
-    "_enriched": false
+    "_enriched": false,
+    "explanation": {
+      "_description": "Preposisjon som alltid krever dativ. Brukes for å uttrykke følge, middel eller instrument."
+    }
   },
   "med_stor_glede_expr": {
     "word": "med stor glede",
@@ -4595,13 +4850,19 @@
     "word": "meg",
     "type": "pron",
     "_generatedFrom": "de-nb/pronounsbank.json:mich_pron, de-nb/pronounsbank.json:mir_pron, es-nb/pronounsbank.json:me_dirobj_pron, es-nb/pronounsbank.json:me_indobj_pron, es-nb/pronounsbank.json:me_reflex_pron",
-    "_enriched": false
+    "_enriched": false,
+    "explanation": {
+      "_description": "Refleksivt pronomen / objektform av \"ich\": \"meg\" eller \"meg selv\". Brukes med refleksive verb: \"Ich interessiere mich für...\" (jeg interesserer meg for...), eller som objekt: \"Siehst du mich?\" (ser du meg?)."
+    }
   },
   "meg_selv_pron": {
     "word": "meg selv",
     "type": "pron",
     "_generatedFrom": "de-nb/pronounsbank.json:mich_pron",
-    "_enriched": false
+    "_enriched": false,
+    "explanation": {
+      "_description": "Refleksivt pronomen / objektform av \"ich\": \"meg\" eller \"meg selv\". Brukes med refleksive verb: \"Ich interessiere mich für...\" (jeg interesserer meg for...), eller som objekt: \"Siehst du mich?\" (ser du meg?)."
+    }
   },
   "mellom_prep": {
     "word": "mellom",
@@ -4610,7 +4871,10 @@
     "_enriched": false,
     "typos": [
       "melom"
-    ]
+    ],
+    "explanation": {
+      "_description": "Wechselpräposition: Akkusativ ved bevegelse (wohin?), dativ ved posisjon (wo?)."
+    }
   },
   "men_conj": {
     "word": "men",
@@ -4691,7 +4955,10 @@
     "type": "phrase",
     "usageNotes": "superlativ av viel",
     "_generatedFrom": "de-nb/phrasesbank.json:am_meisten_phrase",
-    "_enriched": false
+    "_enriched": false,
+    "explanation": {
+      "_description": "Dette er superlativ-formen av \"viel\" (mye). Viel - mehr - am meisten (mye - mer - mest). Du kjenner kanskje igjen \"mehr\" (mer), dette er neste trinn!"
+    }
   },
   "mett_adv": {
     "word": "mett",
@@ -4721,7 +4988,10 @@
     ],
     "acceptedForms": [
       "mi (hunkjoenn"
-    ]
+    ],
+    "explanation": {
+      "_description": "Eiendomspronomen: \"min/mi/mine\". Brukes for hunkjønn eller flertall. Eksempel: \"meine Mutter\" (min mor), \"meine Eltern\" (mine foreldre)."
+    }
   },
   "midterst_adv": {
     "word": "midterst",
@@ -4751,13 +5021,19 @@
     ],
     "acceptedForms": [
       "min (hankjoenn"
-    ]
+    ],
+    "explanation": {
+      "_description": "Eiendomspronomen: \"min/mitt\". Bøyes som \"ein\". Eksempel: \"mein Vater\" (min far), \"mein Foto\" (mitt bilde)."
+    }
   },
   "min_pron": {
     "word": "min",
     "type": "pron",
     "_generatedFrom": "de-nb/pronounsbank.json:meine_possessiv, es-nb/pronounsbank.json:mi_possess_pron",
-    "_enriched": false
+    "_enriched": false,
+    "explanation": {
+      "_description": "Eiendomspronomen: \"min/mi/mine\". Brukes for hunkjønn eller flertall. Eksempel: \"meine Mutter\" (min mor), \"meine Eltern\" (mine foreldre)."
+    }
   },
   "mindre_adv": {
     "word": "mindre",
@@ -4811,7 +5087,10 @@
     "word": "mot",
     "type": "prep",
     "_generatedFrom": "de-nb/generalbank.json:gegen_prep, es-nb/generalbank.json:hacia_prep, es-nb/generalbank.json:contra_prep",
-    "_enriched": false
+    "_enriched": false,
+    "explanation": {
+      "_description": "Preposisjon som alltid krever akkusativ. Brukes for motstand, retning mot, eller omtrentlig tid."
+    }
   },
   "mulig_adv": {
     "word": "mulig",
@@ -5244,7 +5523,10 @@
     "type": "phrase",
     "usageNotes": "superlativ av oft",
     "_generatedFrom": "de-nb/phrasesbank.json:am_haufigsten_phrase",
-    "_enriched": false
+    "_enriched": false,
+    "explanation": {
+      "_description": "Dette er superlativ-formen av \"oft\" (ofte). Oft - öfter - am häufigsten (ofte - oftere - oftest). Vi bruker \"am\" foran superlativ på tysk."
+    }
   },
   "og_conj": {
     "word": "og",
@@ -5477,7 +5759,10 @@
     "_enriched": false,
     "typos": [
       "os"
-    ]
+    ],
+    "explanation": {
+      "_description": "Refleksivt pronomen / objektform av \"wir\": \"oss\" eller \"oss selv\". Eksempel: \"Wir treffen uns\" (vi møtes/treffes), \"Siehst du uns?\" (ser du oss?)."
+    }
   },
   "oss_selv_pron": {
     "word": "oss selv",
@@ -5486,13 +5771,19 @@
     "_enriched": false,
     "typos": [
       "os selv"
-    ]
+    ],
+    "explanation": {
+      "_description": "Refleksivt pronomen / objektform av \"wir\": \"oss\" eller \"oss selv\". Eksempel: \"Wir treffen uns\" (vi møtes/treffes), \"Siehst du uns?\" (ser du oss?)."
+    }
   },
   "over_prep": {
     "word": "over",
     "type": "prep",
     "_generatedFrom": "de-nb/generalbank.json:ueber_prep, es-nb/generalbank.json:sobre_prep",
-    "_enriched": false
+    "_enriched": false,
+    "explanation": {
+      "_description": "Wechselpräposition: Akkusativ ved bevegelse (wohin?), dativ ved posisjon (wo?). Kan også bety «om» (tema)."
+    }
   },
   "overalt_adv": {
     "word": "overalt",
@@ -5669,7 +5960,10 @@
     ],
     "acceptedForms": [
       "paa"
-    ]
+    ],
+    "explanation": {
+      "_description": "Sammentrekning av \"an dem\" (dativ). Brukes for tidspunkt: \"am Montag\" (på mandag), \"am Wochenende\" (i helgen), \"am Nachmittag\" (om ettermiddagen)."
+    }
   },
   "på_dagtid_adv": {
     "word": "på dagtid",
@@ -5845,7 +6139,10 @@
     ],
     "acceptedForms": [
       "paa"
-    ]
+    ],
+    "explanation": {
+      "_description": "Wechselpräposition: Akkusativ ved bevegelse (wohin?), dativ ved posisjon (wo?). Brukes for kontakt med vertikale flater."
+    }
   },
   "på_skolen_phrase": {
     "word": "på skolen",
@@ -6141,13 +6438,19 @@
     "word": "seg",
     "type": "pron",
     "_generatedFrom": "de-nb/pronounsbank.json:sich_pron, es-nb/pronounsbank.json:se_reflex_pron",
-    "_enriched": false
+    "_enriched": false,
+    "explanation": {
+      "_description": "Refleksivt pronomen for 3. person (er/sie/es/sie plural): \"seg\" eller \"seg selv\". Eksempel: \"Er freut sich\" (han gleder seg), \"Sie interessiert sich\" (hun interesserer seg)."
+    }
   },
   "seg_selv_pron": {
     "word": "seg selv",
     "type": "pron",
     "_generatedFrom": "de-nb/pronounsbank.json:sich_pron",
-    "_enriched": false
+    "_enriched": false,
+    "explanation": {
+      "_description": "Refleksivt pronomen for 3. person (er/sie/es/sie plural): \"seg\" eller \"seg selv\". Eksempel: \"Er freut sich\" (han gleder seg), \"Sie interessiert sich\" (hun interesserer seg)."
+    }
   },
   "seks_num": {
     "word": "seks",
@@ -6300,13 +6603,19 @@
     "word": "siden",
     "type": "phrase",
     "_generatedFrom": "de-nb/phrasesbank.json:seit_der_phrase",
-    "_enriched": false
+    "_enriched": false,
+    "explanation": {
+      "_description": "Her brukt for å si \"siden barneskolen\". \"Seit\" betyr siden. Du trenger ikke lære dette som en egen glose ennå, men det er nyttig å forstå i sammenhengen."
+    }
   },
   "siden_prep": {
     "word": "siden",
     "type": "prep",
     "_generatedFrom": "de-nb/generalbank.json:seit_prep, es-nb/generalbank.json:desde_prep",
-    "_enriched": false
+    "_enriched": false,
+    "explanation": {
+      "_description": "Preposisjon som alltid krever dativ. Brukes for å uttrykke varighet fra et tidspunkt."
+    }
   },
   "sikkert_adv": {
     "word": "sikkert",
@@ -6663,6 +6972,20 @@
     ],
     "acceptedForms": [
       "aa sykle"
+    ],
+    "examples": [
+      {
+        "sentence": "Jeg liker å sykle.",
+        "translation": "Ich fahre gern Rad."
+      },
+      {
+        "sentence": "Sykler du ofte?",
+        "translation": "Fährst du oft Rad?"
+      },
+      {
+        "sentence": "Vi sykler til skolen.",
+        "translation": "Wir fahren zur Schule Rad."
+      }
     ]
   },
   "synlig_adv": {
@@ -6906,7 +7229,10 @@
     "word": "til",
     "type": "contr",
     "_generatedFrom": "de-nb/articlesbank.json:ins_contr, de-nb/articlesbank.json:zum_contr, de-nb/articlesbank.json:zur_contr, es-nb/articlesbank.json:al_contr",
-    "_enriched": false
+    "_enriched": false,
+    "explanation": {
+      "_description": "Sammentrekning av \"in das\" (akkusativ). Brukes for retning/bevegelse: \"ins Kino\" (til kinoen), \"ins Café\" (til kaféen)."
+    }
   },
   "til_det_adv": {
     "word": "til det",
@@ -6976,7 +7302,10 @@
     "type": "prep",
     "usageNotes": "med steder",
     "_generatedFrom": "de-nb/generalbank.json:nach_prep, de-nb/generalbank.json:zu_prep, es-nb/generalbank.json:a_prep, es-nb/generalbank.json:para_prep, es-nb/generalbank.json:hasta_prep",
-    "_enriched": false
+    "_enriched": false,
+    "explanation": {
+      "_description": "Preposisjon som alltid krever dativ. Brukes for retning til steder (uten artikkel) og for «etter» i tid."
+    }
   },
   "til_slutt_adv": {
     "word": "til slutt",
@@ -7313,7 +7642,10 @@
     "word": "under",
     "type": "prep",
     "_generatedFrom": "de-nb/generalbank.json:unter_prep, es-nb/generalbank.json:bajo_prep, es-nb/generalbank.json:durante_prep, es-nb/generalbank.json:debajo_de_prep",
-    "_enriched": false
+    "_enriched": false,
+    "explanation": {
+      "_description": "Wechselpräposition: Akkusativ ved bevegelse (wohin?), dativ ved posisjon (wo?)."
+    }
   },
   "unnskyld_får_jeg_komme_forbi_phrase": {
     "word": "unnskyld, får jeg komme forbi",
@@ -7364,7 +7696,10 @@
     "word": "ut av",
     "type": "phrase",
     "_generatedFrom": "de-nb/phrasesbank.json:aus_dem_phrase",
-    "_enriched": false
+    "_enriched": false,
+    "explanation": {
+      "_description": "Betyr \"ut av\" eller \"fra\" foran et hankjønnsord eller et intetkjønnsord. Preposisjonen \"aus\" + bestemt artikkel \"dem\". Eksempel: \"aus dem Haus gehen\" (å gå ut av huset), \"aus dem Bett\" (ut av sengen)."
+    }
   },
   "ute_adv": {
     "word": "ute",
@@ -7385,7 +7720,10 @@
     "word": "uten",
     "type": "prep",
     "_generatedFrom": "de-nb/generalbank.json:ohne_prep, es-nb/generalbank.json:sin_prep",
-    "_enriched": false
+    "_enriched": false,
+    "explanation": {
+      "_description": "Preposisjon som alltid krever akkusativ. Brukes for å uttrykke fravær av noe."
+    }
   },
   "uten_tvil_expr": {
     "word": "uten tvil",
@@ -7457,7 +7795,10 @@
     "word": "ved",
     "type": "prep",
     "_generatedFrom": "de-nb/generalbank.json:an_prep, de-nb/generalbank.json:bei_prep",
-    "_enriched": false
+    "_enriched": false,
+    "explanation": {
+      "_description": "Wechselpräposition: Akkusativ ved bevegelse (wohin?), dativ ved posisjon (wo?). Brukes for kontakt med vertikale flater."
+    }
   },
   "ved_siden_av_adv": {
     "word": "ved siden av",
@@ -7469,7 +7810,10 @@
     "word": "ved siden av",
     "type": "prep",
     "_generatedFrom": "de-nb/generalbank.json:neben_prep, es-nb/generalbank.json:al_lado_de_prep",
-    "_enriched": false
+    "_enriched": false,
+    "explanation": {
+      "_description": "Wechselpräposition: Akkusativ ved bevegelse (wohin?), dativ ved posisjon (wo?)."
+    }
   },
   "vegetarisk_adv": {
     "word": "vegetarisk",
@@ -7598,7 +7942,10 @@
     "word": "vi",
     "type": "pron",
     "_generatedFrom": "de-nb/pronounsbank.json:wir_pron, es-nb/pronounsbank.json:nosotras_pron",
-    "_enriched": false
+    "_enriched": false,
+    "explanation": {
+      "_description": "Personlig pronomen: \"vi\" (1. person flertall). Eksempel: \"Wir wohnen hier\" (vi bor her), \"Wir sind Freunde\" (vi er venner)."
+    }
   },
   "vi_sees_i_morgen_phrase": {
     "word": "Vi sees i morgen",
@@ -7687,7 +8034,10 @@
     "acceptedForms": [
       "vår (hankjoenn",
       "vaar (hankjønn"
-    ]
+    ],
+    "explanation": {
+      "_description": "Eiendomspronomen: \"vår/vårt\" (1. person flertall). Eksempel: \"unser Haus\" (vårt hus), \"unser Vater\" (vår far)."
+    }
   },
   "vår_hunkjønn_pron": {
     "word": "vår (hunkjønn",
@@ -7704,7 +8054,10 @@
     "acceptedForms": [
       "vår (hunkjoenn",
       "vaar (hunkjønn"
-    ]
+    ],
+    "explanation": {
+      "_description": "Eiendomspronomen: \"vår\" for hunkjønn eller flertall. Eksempel: \"unsere Mutter\" (vår mor), \"unsere Freunde\" (våre venner)."
+    }
   },
   "vår_pron": {
     "word": "vår",
