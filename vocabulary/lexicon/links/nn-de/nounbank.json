@@ -1,0 +1,6226 @@
+{
+  "_metadata": {
+    "from": "nn",
+    "to": "de",
+    "bank": "nounbank",
+    "generatedAt": "2026-03-14T00:33:51.585Z",
+    "totalLinks": 1530
+  },
+  "abonnement_noun": {
+    "primary": "abonnement_noun"
+  },
+  "adresse_noun": {
+    "primary": "adresse_noun"
+  },
+  "adskillelse_noun": {
+    "primary": "trennung_noun"
+  },
+  "advokat_noun": {
+    "primary": "anwalt_noun"
+  },
+  "agurk_noun": {
+    "primary": "gurke_noun"
+  },
+  "aksjon_noun": {
+    "primary": "aktion_noun"
+  },
+  "aktivitet_noun": {
+    "primary": "aktivitaet_noun"
+  },
+  "akvarium_noun": {
+    "primary": "aquarium_noun"
+  },
+  "alarm_noun": {
+    "primary": "alarm_noun"
+  },
+  "alder_noun": {
+    "primary": "alter_noun"
+  },
+  "aldershjem_noun": {
+    "primary": "altenheim_noun",
+    "alternatives": [
+      "altersheim_noun"
+    ]
+  },
+  "alfabet_noun": {
+    "primary": "alphabet_noun"
+  },
+  "alkohol_noun": {
+    "primary": "alkohol_noun"
+  },
+  "alternativ_noun": {
+    "primary": "alternative_noun"
+  },
+  "ambassade_noun": {
+    "primary": "botschaft_noun"
+  },
+  "ambulanse_noun": {
+    "primary": "krankenwagen_noun"
+  },
+  "anbefaling_noun": {
+    "primary": "empfehlung_noun"
+  },
+  "and_noun": {
+    "primary": "ente_noun"
+  },
+  "andrespråk_noun": {
+    "primary": "zweitsprache_noun"
+  },
+  "anelse_noun": {
+    "primary": "ahnung_noun"
+  },
+  "angst_noun": {
+    "primary": "angst_noun"
+  },
+  "ankomst_noun": {
+    "primary": "ankunft_noun"
+  },
+  "anledning_noun": {
+    "primary": "gelegenheit_noun"
+  },
+  "anlegg_noun": {
+    "primary": "anlage_noun"
+  },
+  "annonse_noun": {
+    "primary": "annonce_noun",
+    "alternatives": [
+      "anzeige_noun",
+      "inserat_noun"
+    ]
+  },
+  "ansatt_noun": {
+    "primary": "angestellte_noun"
+  },
+  "ansikt_noun": {
+    "primary": "gesicht_noun"
+  },
+  "ansvar_noun": {
+    "primary": "verantwortung_noun"
+  },
+  "antall_noun": {
+    "primary": "anzahl_noun"
+  },
+  "ape_noun": {
+    "primary": "affe_noun"
+  },
+  "apotek_noun": {
+    "primary": "apotheke_noun"
+  },
+  "apparat_noun": {
+    "primary": "apparat_noun",
+    "alternatives": [
+      "geraet_noun"
+    ]
+  },
+  "appelsin_noun": {
+    "primary": "orange_noun"
+  },
+  "appetitt_noun": {
+    "primary": "appetit_noun"
+  },
+  "april_noun": {
+    "primary": "april_noun"
+  },
+  "arbeid_noun": {
+    "primary": "arbeit_noun",
+    "examples": [
+      {
+        "source": "Jeg går på jobb.",
+        "target": "Ich gehe zur Arbeit."
+      },
+      {
+        "source": "Arbeidet er ferdig.",
+        "target": "Die Arbeit ist fertig."
+      },
+      {
+        "source": "Jeg har mye arbeid.",
+        "target": "Ich habe viel Arbeit."
+      }
+    ]
+  },
+  "arbeid_pågår_noun": {
+    "primary": "arbeid_paagar_noun"
+  },
+  "arbeider_noun": {
+    "primary": "arbeiter_noun"
+  },
+  "arbeidsledighet_noun": {
+    "primary": "arbeitslosigkeit_noun"
+  },
+  "arbeidsplass_noun": {
+    "primary": "arbeitsplatz_noun",
+    "alternatives": [
+      "arbeitsstelle_noun"
+    ]
+  },
+  "arbeidstillatelse_noun": {
+    "primary": "arbeitserlaubnis_noun"
+  },
+  "arkitekt_noun": {
+    "primary": "architekt_noun"
+  },
+  "arm_noun": {
+    "primary": "arm_noun"
+  },
+  "arrangement_noun": {
+    "primary": "veranstaltung_noun"
+  },
+  "art_type_noun": {
+    "primary": "art_noun"
+  },
+  "artikkel_noun": {
+    "primary": "artikel_noun"
+  },
+  "asyl_noun": {
+    "primary": "asyl_noun"
+  },
+  "augeblink_noun": {
+    "primary": "augenblick_noun",
+    "alternatives": [
+      "moment_noun"
+    ]
+  },
+  "august_noun": {
+    "primary": "august_noun"
+  },
+  "automat_noun": {
+    "primary": "automat_noun"
+  },
+  "avdeling_noun": {
+    "primary": "abteilung_noun"
+  },
+  "avfall_noun": {
+    "primary": "abfall_noun"
+  },
+  "avgang_noun": {
+    "primary": "abflug_noun"
+  },
+  "avgangseksamen_noun": {
+    "primary": "matura_a_noun"
+  },
+  "avgjørelse_noun": {
+    "primary": "entscheidung_noun"
+  },
+  "avhengighet_noun": {
+    "primary": "sucht_noun"
+  },
+  "avis_noun": {
+    "primary": "zeitung_noun"
+  },
+  "avkom_noun": {
+    "primary": "nachwuchs_noun"
+  },
+  "avreise_noun": {
+    "primary": "abfahrt_noun"
+  },
+  "avsender_noun": {
+    "primary": "absender_noun"
+  },
+  "avskjed_noun": {
+    "primary": "abschied_noun"
+  },
+  "avslutning_noun": {
+    "primary": "abschluss_noun"
+  },
+  "avsnitt_noun": {
+    "primary": "abschnitt_noun"
+  },
+  "avstand_noun": {
+    "primary": "distanz_noun",
+    "alternatives": [
+      "entfernung_noun"
+    ]
+  },
+  "avtale_noun": {
+    "primary": "termin_noun",
+    "alternatives": [
+      "verabredung_noun"
+    ]
+  },
+  "avtalebok_noun": {
+    "primary": "terminkalender_noun"
+  },
+  "baby_noun": {
+    "primary": "baby_noun"
+  },
+  "bad_noun": {
+    "primary": "bad_noun",
+    "alternatives": [
+      "badezimmer_noun"
+    ]
+  },
+  "badekar_noun": {
+    "primary": "badewanne_noun"
+  },
+  "badeland_noun": {
+    "primary": "schwimmbad_noun"
+  },
+  "baderom_noun": {
+    "primary": "badezimmer_noun"
+  },
+  "badetøy_noun": {
+    "primary": "badesachen_noun"
+  },
+  "bagasje_noun": {
+    "primary": "gepaeck_noun"
+  },
+  "bakeri_noun": {
+    "primary": "baeckerei_noun"
+  },
+  "bakverk_noun": {
+    "primary": "gebaeck_noun"
+  },
+  "balkong_noun": {
+    "primary": "balkon_noun"
+  },
+  "ball_noun": {
+    "primary": "ball_noun",
+    "examples": [
+      {
+        "source": "Kast ballen til meg!",
+        "target": "Wirf mir den Ball!"
+      },
+      {
+        "source": "Ballen er rund.",
+        "target": "Der Ball ist rund."
+      },
+      {
+        "source": "Vi leker med ballen.",
+        "target": "Wir spielen mit dem Ball."
+      }
+    ]
+  },
+  "ballett_noun": {
+    "primary": "ballett_noun"
+  },
+  "banan_noun": {
+    "primary": "banane_noun"
+  },
+  "band_noun": {
+    "primary": "band_noun"
+  },
+  "bank_noun": {
+    "primary": "bank_noun"
+  },
+  "bankkort_noun": {
+    "primary": "bankomatkarte_noun"
+  },
+  "bankregistreringsnummer_noun": {
+    "primary": "bankleitzahl_noun"
+  },
+  "barn_noun": {
+    "primary": "kind_noun",
+    "examples": [
+      {
+        "source": "Barnet leker.",
+        "target": "Das Kind spielt."
+      },
+      {
+        "source": "Vi har to barn.",
+        "target": "Wir haben zwei Kinder."
+      },
+      {
+        "source": "Barna er på skolen.",
+        "target": "Die Kinder sind in der Schule."
+      }
+    ]
+  },
+  "barndom_noun": {
+    "primary": "kindheit_noun"
+  },
+  "barnebarn_noun": {
+    "primary": "enkel_noun",
+    "alternatives": [
+      "enkelin_noun"
+    ]
+  },
+  "barnehage_noun": {
+    "primary": "kindergarten_noun"
+  },
+  "barneskole_noun": {
+    "primary": "grundschule_noun"
+  },
+  "barnevakt_noun": {
+    "primary": "babysitter_noun"
+  },
+  "basketball_noun": {
+    "primary": "basketball_noun"
+  },
+  "batteri_noun": {
+    "primary": "batterie_noun"
+  },
+  "beboer_noun": {
+    "primary": "bewohner_noun"
+  },
+  "bebreidelse_noun": {
+    "primary": "vorwurf_noun"
+  },
+  "bedrift_noun": {
+    "primary": "betrieb_noun"
+  },
+  "bedriftseier_noun": {
+    "primary": "unternehmer_noun"
+  },
+  "bedring_noun": {
+    "primary": "besserung_noun"
+  },
+  "befolkning_noun": {
+    "primary": "bevoelkerung_noun"
+  },
+  "begrunnelse_noun": {
+    "primary": "begruendung_noun"
+  },
+  "begynnelse_noun": {
+    "primary": "anfang_noun",
+    "alternatives": [
+      "beginn_noun"
+    ]
+  },
+  "behov_noun": {
+    "primary": "bedarf_noun"
+  },
+  "bein_noun": {
+    "primary": "bein_noun",
+    "alternatives": [
+      "knochen_noun"
+    ]
+  },
+  "bekjent_noun": {
+    "primary": "bekannte_noun"
+  },
+  "bekreftelse_noun": {
+    "primary": "bestaetigung_noun"
+  },
+  "bekymring_noun": {
+    "primary": "sorge_noun"
+  },
+  "beliggenhet_noun": {
+    "primary": "lage_noun"
+  },
+  "beløp_noun": {
+    "primary": "betrag_noun"
+  },
+  "bensin_noun": {
+    "primary": "benzin_noun"
+  },
+  "bensinstasjon_noun": {
+    "primary": "tankstelle_noun"
+  },
+  "beskjed_noun": {
+    "primary": "bescheid_noun",
+    "alternatives": [
+      "nachricht_noun"
+    ]
+  },
+  "beskjeftigelse_noun": {
+    "primary": "beschaeftigung_noun"
+  },
+  "beskrivelse_noun": {
+    "primary": "beschreibung_noun"
+  },
+  "bestefar_noun": {
+    "primary": "grossvater_noun",
+    "alternatives": [
+      "opa_noun"
+    ]
+  },
+  "besteforeldre_noun": {
+    "primary": "grosseltern_noun"
+  },
+  "bestemor_noun": {
+    "primary": "grossmutter_noun",
+    "alternatives": [
+      "oma_noun"
+    ]
+  },
+  "besøk_noun": {
+    "primary": "besuch_noun"
+  },
+  "betaling_noun": {
+    "primary": "zahlung_noun"
+  },
+  "betingelse_noun": {
+    "primary": "bedingung_noun"
+  },
+  "betydning_noun": {
+    "primary": "bedeutung_noun"
+  },
+  "bevegelse_noun": {
+    "primary": "bewegung_noun"
+  },
+  "bevis_noun": {
+    "primary": "beweis_noun"
+  },
+  "bibliotek_noun": {
+    "primary": "bibliothek_noun"
+  },
+  "bidrag_noun": {
+    "primary": "beitrag_noun"
+  },
+  "bil_noun": {
+    "primary": "auto_noun",
+    "examples": [
+      {
+        "source": "Faren min har en bil.",
+        "target": "Mein Vater hat ein Auto."
+      },
+      {
+        "source": "Vi kjører med bil.",
+        "target": "Wir fahren mit dem Auto."
+      },
+      {
+        "source": "Bilen er rød.",
+        "target": "Das Auto ist rot."
+      }
+    ]
+  },
+  "bilde_noun": {
+    "primary": "bild_noun",
+    "alternatives": [
+      "foto_noun"
+    ]
+  },
+  "billett_noun": {
+    "primary": "billett_noun",
+    "alternatives": [
+      "fahrkarte_noun",
+      "ticket_noun"
+    ]
+  },
+  "biologi_noun": {
+    "primary": "biologie_noun"
+  },
+  "biologibok_noun": {
+    "primary": "biologiebuch_noun"
+  },
+  "bjørn_noun": {
+    "primary": "baer_noun"
+  },
+  "blad_noun": {
+    "primary": "blatt_noun"
+  },
+  "blikk_noun": {
+    "primary": "blick_noun"
+  },
+  "blod_noun": {
+    "primary": "blut_noun"
+  },
+  "blogg_noun": {
+    "primary": "blog_noun"
+  },
+  "blomst_noun": {
+    "primary": "blume_noun"
+  },
+  "bluse_noun": {
+    "primary": "bluse_noun"
+  },
+  "blyant_noun": {
+    "primary": "bleistift_noun"
+  },
+  "bok_noun": {
+    "primary": "buch_noun",
+    "examples": [
+      {
+        "source": "Jeg leser en bok.",
+        "target": "Ich lese ein Buch."
+      },
+      {
+        "source": "Boken er interessant.",
+        "target": "Das Buch ist interessant."
+      },
+      {
+        "source": "Jeg kjøper en ny bok.",
+        "target": "Ich kaufe ein neues Buch."
+      }
+    ]
+  },
+  "bokhandel_noun": {
+    "primary": "buchhandlung_noun"
+  },
+  "boks_noun": {
+    "primary": "buechse_noun",
+    "alternatives": [
+      "dose_noun"
+    ]
+  },
+  "bokstav_noun": {
+    "primary": "buchstabe_noun"
+  },
+  "bolle_noun": {
+    "primary": "knoedel_noun",
+    "alternatives": [
+      "schuessel_noun"
+    ]
+  },
+  "bonde_noun": {
+    "primary": "bauer_noun"
+  },
+  "bondegård_noun": {
+    "primary": "bauernhof_noun"
+  },
+  "bord_noun": {
+    "primary": "tisch_noun"
+  },
+  "borg_noun": {
+    "primary": "burg_noun"
+  },
+  "borger_noun": {
+    "primary": "buerger_noun"
+  },
+  "bosted_noun": {
+    "primary": "wohnort_noun",
+    "alternatives": [
+      "wohnsitz_noun"
+    ]
+  },
+  "bot_noun": {
+    "primary": "strafzettel_noun"
+  },
+  "brann_noun": {
+    "primary": "feuer_noun"
+  },
+  "brannvesen_noun": {
+    "primary": "feuerwehr_noun"
+  },
+  "bredd_noun": {
+    "primary": "ufer_noun"
+  },
+  "bredde_noun": {
+    "primary": "breite_noun"
+  },
+  "bremse_noun": {
+    "primary": "bremse_noun"
+  },
+  "brev_noun": {
+    "primary": "brief_noun"
+  },
+  "briller_noun": {
+    "primary": "brille_noun"
+  },
+  "bro_noun": {
+    "primary": "bruecke_noun"
+  },
+  "bror_noun": {
+    "primary": "bruder_noun",
+    "examples": [
+      {
+        "source": "Jeg har en bror.",
+        "target": "Ich habe einen Bruder."
+      },
+      {
+        "source": "Broren min er eldre enn meg.",
+        "target": "Mein Bruder ist älter als ich."
+      },
+      {
+        "source": "Leker du med broren din?",
+        "target": "Spielst du mit deinem Bruder?"
+      }
+    ]
+  },
+  "brosjyre_noun": {
+    "primary": "broschuere_noun"
+  },
+  "bruksanvisning_noun": {
+    "primary": "gebrauchsanweisung_noun"
+  },
+  "brukskonto_noun": {
+    "primary": "girokonto_noun"
+  },
+  "brus_noun": {
+    "primary": "limonade_noun"
+  },
+  "bryllup_noun": {
+    "primary": "hochzeit_noun"
+  },
+  "bryst_noun": {
+    "primary": "brust_noun"
+  },
+  "brød_noun": {
+    "primary": "brot_noun",
+    "examples": [
+      {
+        "source": "Jeg spiser brød til frokost.",
+        "target": "Ich esse Brot zum Frühstück."
+      },
+      {
+        "source": "Brødet er ferskt.",
+        "target": "Das Brot ist frisch."
+      },
+      {
+        "source": "Vi kjøper brød.",
+        "target": "Wir kaufen Brot."
+      }
+    ]
+  },
+  "bue_noun": {
+    "primary": "bogen_noun"
+  },
+  "buffet_noun": {
+    "primary": "buffet_noun"
+  },
+  "bukse_noun": {
+    "primary": "hose_noun",
+    "examples": [
+      {
+        "source": "Buksa er blå.",
+        "target": "Die Hose ist blau."
+      },
+      {
+        "source": "Jeg kjøper en ny bukse.",
+        "target": "Ich kaufe eine neue Hose."
+      },
+      {
+        "source": "Passer buksa?",
+        "target": "Passt die Hose?"
+      }
+    ]
+  },
+  "bur_noun": {
+    "primary": "kaefig_noun"
+  },
+  "bursdag_noun": {
+    "primary": "geburtstag_noun",
+    "examples": [
+      {
+        "source": "Når har du bursdag?",
+        "target": "Wann hast du Geburtstag?"
+      },
+      {
+        "source": "Jeg har bursdag i juli.",
+        "target": "Ich habe im Juli Geburtstag."
+      },
+      {
+        "source": "Gratulerer med dagen!",
+        "target": "Herzlichen Glückwunsch zum Geburtstag!"
+      }
+    ]
+  },
+  "bursdagsbarn_noun": {
+    "primary": "geburtstagskind_noun"
+  },
+  "bursdagskake_noun": {
+    "primary": "geburtstagstorte_noun"
+  },
+  "buss_noun": {
+    "primary": "bus_noun",
+    "examples": [
+      {
+        "source": "Jeg tar bussen.",
+        "target": "Ich fahre mit dem Bus."
+      },
+      {
+        "source": "Bussen kommer.",
+        "target": "Der Bus kommt."
+      },
+      {
+        "source": "Når går bussen?",
+        "target": "Wann fährt der Bus?"
+      }
+    ]
+  },
+  "butikk_noun": {
+    "primary": "laden_noun"
+  },
+  "by_noun": {
+    "primary": "stadt_noun",
+    "examples": [
+      {
+        "source": "Byen er stor.",
+        "target": "Die Stadt ist groß."
+      },
+      {
+        "source": "Jeg bor i byen.",
+        "target": "Ich wohne in der Stadt."
+      },
+      {
+        "source": "Vi går til byen.",
+        "target": "Wir gehen in die Stadt."
+      }
+    ]
+  },
+  "bygg_noun": {
+    "primary": "bau_noun"
+  },
+  "byggeplass_noun": {
+    "primary": "baustelle_noun"
+  },
+  "bygning_noun": {
+    "primary": "gebaeude_noun"
+  },
+  "bykart_noun": {
+    "primary": "stadtplan_noun"
+  },
+  "bytte_noun": {
+    "primary": "umtausch_noun"
+  },
+  "båt_noun": {
+    "primary": "boot_noun"
+  },
+  "bønne_noun": {
+    "primary": "bohne_noun"
+  },
+  "børste_noun": {
+    "primary": "buerste_noun"
+  },
+  "cd_noun": {
+    "primary": "cd_noun"
+  },
+  "chipkort_noun": {
+    "primary": "chipkarte_noun"
+  },
+  "cv_noun": {
+    "primary": "lebenslauf_noun"
+  },
+  "dag_noun": {
+    "primary": "tag_noun",
+    "examples": [
+      {
+        "source": "God dag!",
+        "target": "Guten Tag!"
+      },
+      {
+        "source": "Hvordan var dagen din?",
+        "target": "Wie war dein Tag?"
+      },
+      {
+        "source": "I dag er det en fin dag.",
+        "target": "Heute ist ein schöner Tag."
+      }
+    ]
+  },
+  "dagsrytme_noun": {
+    "primary": "tagesablauf_noun"
+  },
+  "dal_noun": {
+    "primary": "tal_noun"
+  },
+  "dame_noun": {
+    "primary": "dame_noun"
+  },
+  "dans_noun": {
+    "primary": "tanz_noun"
+  },
+  "datamaskin_noun": {
+    "primary": "computer_noun"
+  },
+  "dataspill_noun": {
+    "primary": "computerspiel_noun"
+  },
+  "dato_noun": {
+    "primary": "datum_noun"
+  },
+  "datter_noun": {
+    "primary": "tochter_noun"
+  },
+  "dekk_noun": {
+    "primary": "reifen_noun"
+  },
+  "del_noun": {
+    "primary": "teil_noun"
+  },
+  "deltakelse_noun": {
+    "primary": "teilnahme_noun"
+  },
+  "deltaker_noun": {
+    "primary": "teilnehmer_noun"
+  },
+  "deltid_noun": {
+    "primary": "teilzeit_noun"
+  },
+  "desember_noun": {
+    "primary": "dezember_noun"
+  },
+  "dessert_noun": {
+    "primary": "dessert_noun",
+    "alternatives": [
+      "nachspeise_noun"
+    ]
+  },
+  "det_motsatte_noun": {
+    "primary": "gegenteil_noun"
+  },
+  "detalj_noun": {
+    "primary": "detail_noun",
+    "alternatives": [
+      "einzelheit_noun"
+    ]
+  },
+  "dialekt_noun": {
+    "primary": "dialekt_noun"
+  },
+  "dialog_noun": {
+    "primary": "dialog_noun"
+  },
+  "diett_noun": {
+    "primary": "diaet_noun"
+  },
+  "dikt_noun": {
+    "primary": "gedicht_noun"
+  },
+  "diplom_noun": {
+    "primary": "diplom_noun"
+  },
+  "direktør_noun": {
+    "primary": "direktor_noun"
+  },
+  "diskotek_noun": {
+    "primary": "disco_noun",
+    "alternatives": [
+      "disko_noun",
+      "diskothek_noun"
+    ]
+  },
+  "diskusjon_noun": {
+    "primary": "diskussion_noun"
+  },
+  "dobbeltrom_noun": {
+    "primary": "doppelzimmer_noun"
+  },
+  "doktor_noun": {
+    "primary": "doktor_noun"
+  },
+  "dokument_noun": {
+    "primary": "dokument_noun",
+    "alternatives": [
+      "urkunde_noun"
+    ]
+  },
+  "dokumenter_noun": {
+    "primary": "papiere_noun",
+    "alternatives": [
+      "unterlagen_noun"
+    ]
+  },
+  "dom_noun": {
+    "primary": "urteil_noun"
+  },
+  "dommer_noun": {
+    "primary": "richter_noun"
+  },
+  "donau_noun": {
+    "primary": "donau_noun"
+  },
+  "dress_noun": {
+    "primary": "anzug_noun"
+  },
+  "drikke_noun": {
+    "primary": "getraenk_noun"
+  },
+  "drogeri_noun": {
+    "primary": "drogerie_noun"
+  },
+  "dråpe_noun": {
+    "primary": "tropfen_noun"
+  },
+  "drøm_noun": {
+    "primary": "traum_noun",
+    "examples": [
+      {
+        "source": "Jeg har en drøm.",
+        "target": "Ich habe einen Traum."
+      },
+      {
+        "source": "Det var en fin drøm.",
+        "target": "Das war ein schöner Traum."
+      },
+      {
+        "source": "Drømmen min er å reise.",
+        "target": "Mein Traum ist zu reisen."
+      }
+    ]
+  },
+  "dukke_noun": {
+    "primary": "puppe_noun"
+  },
+  "dusj_noun": {
+    "primary": "dusche_noun"
+  },
+  "dyr_noun": {
+    "primary": "tier_noun",
+    "examples": [
+      {
+        "source": "Jeg liker dyr.",
+        "target": "Ich mag Tiere."
+      },
+      {
+        "source": "Hvilket dyr liker du?",
+        "target": "Welches Tier magst du?"
+      },
+      {
+        "source": "Dyret er søtt.",
+        "target": "Das Tier ist süß."
+      }
+    ]
+  },
+  "dyrefr_noun": {
+    "primary": "futter_noun"
+  },
+  "dyrehage_noun": {
+    "primary": "zoo_noun"
+  },
+  "dyrepark_noun": {
+    "primary": "tierpark_noun"
+  },
+  "dyrepasser_noun": {
+    "primary": "tierpfleger_noun"
+  },
+  "død_noun": {
+    "primary": "tod_noun"
+  },
+  "døde_noun": {
+    "primary": "tote_noun"
+  },
+  "dør_noun": {
+    "primary": "tuer_noun"
+  },
+  "ebok_noun": {
+    "primary": "ebook_noun"
+  },
+  "eddik_noun": {
+    "primary": "essig_noun"
+  },
+  "egg_noun": {
+    "primary": "ei_noun",
+    "examples": [
+      {
+        "source": "Jeg spiser et egg til frokost.",
+        "target": "Ich esse ein Ei zum Frühstück."
+      },
+      {
+        "source": "Vi trenger egg.",
+        "target": "Wir brauchen Eier."
+      },
+      {
+        "source": "Egget er kokt.",
+        "target": "Das Ei ist gekocht."
+      }
+    ]
+  },
+  "ekort_noun": {
+    "primary": "ecard_noun"
+  },
+  "eksempel_noun": {
+    "primary": "beispiel_noun"
+  },
+  "ekspert_noun": {
+    "primary": "experte_noun"
+  },
+  "eksport_noun": {
+    "primary": "export_noun"
+  },
+  "ektefelle_noun": {
+    "primary": "ehepartner_noun"
+  },
+  "ektemann_noun": {
+    "primary": "ehemann_noun"
+  },
+  "ektepar_noun": {
+    "primary": "ehepaar_noun"
+  },
+  "ekteskap_noun": {
+    "primary": "ehe_noun"
+  },
+  "eldre_noun": {
+    "primary": "senioren_noun"
+  },
+  "elefant_noun": {
+    "primary": "elefant_noun"
+  },
+  "elev_noun": {
+    "primary": "lerner_noun",
+    "alternatives": [
+      "schueler_noun",
+      "schuelerin_noun"
+    ]
+  },
+  "elv_noun": {
+    "primary": "fluss_noun"
+  },
+  "embete_noun": {
+    "primary": "amt_noun"
+  },
+  "endring_noun": {
+    "primary": "aenderung_noun"
+  },
+  "energi_noun": {
+    "primary": "energie_noun"
+  },
+  "eng_noun": {
+    "primary": "wiese_noun"
+  },
+  "enkeltrom_noun": {
+    "primary": "einzelzimmer_noun"
+  },
+  "enveiskjøring_noun": {
+    "primary": "einbahnstrasse_noun"
+  },
+  "eple_noun": {
+    "primary": "apfel_noun",
+    "examples": [
+      {
+        "source": "Jeg spiser et eple.",
+        "target": "Ich esse einen Apfel."
+      },
+      {
+        "source": "Eplet er rødt.",
+        "target": "Der Apfel ist rot."
+      },
+      {
+        "source": "Vil du ha et eple?",
+        "target": "Möchtest du einen Apfel?"
+      }
+    ]
+  },
+  "eplejuice_noun": {
+    "primary": "apfelsaft_noun"
+  },
+  "epost_noun": {
+    "primary": "email_noun"
+  },
+  "erfaring_noun": {
+    "primary": "erfahrung_noun"
+  },
+  "ergrelse_noun": {
+    "primary": "aerger_noun"
+  },
+  "ernæring_noun": {
+    "primary": "ernaehrung_noun"
+  },
+  "erstatning_noun": {
+    "primary": "ersatz_noun"
+  },
+  "eske_noun": {
+    "primary": "schachtel_noun"
+  },
+  "etasje_noun": {
+    "primary": "etage_noun",
+    "alternatives": [
+      "stock_noun",
+      "stockwerk_noun"
+    ]
+  },
+  "ettermiddag_noun": {
+    "primary": "nachmittag_noun"
+  },
+  "etternavn_noun": {
+    "primary": "familienname_noun"
+  },
+  "etterspørsel_noun": {
+    "primary": "nachfrage_noun"
+  },
+  "eventyr_noun": {
+    "primary": "abenteuer_noun",
+    "alternatives": [
+      "maerchen_noun"
+    ]
+  },
+  "evne_noun": {
+    "primary": "faehigkeit_noun"
+  },
+  "fabrikk_noun": {
+    "primary": "fabrik_noun"
+  },
+  "fag_noun": {
+    "primary": "fach_noun"
+  },
+  "fagfolk_noun": {
+    "primary": "fachleute_noun"
+  },
+  "fagforening_noun": {
+    "primary": "gewerkschaft_noun"
+  },
+  "fagkvinne_noun": {
+    "primary": "fachfrau_noun"
+  },
+  "fagmann_noun": {
+    "primary": "fachmann_noun"
+  },
+  "faks_noun": {
+    "primary": "fax_noun"
+  },
+  "faktor_noun": {
+    "primary": "faktor_noun"
+  },
+  "familie_noun": {
+    "primary": "familie_noun",
+    "examples": [
+      {
+        "source": "Familien min er stor.",
+        "target": "Meine Familie ist groß."
+      },
+      {
+        "source": "Hvor stor er familien din?",
+        "target": "Wie groß ist deine Familie?"
+      },
+      {
+        "source": "Vi reiser på ferie med familien.",
+        "target": "Wir machen Urlaub mit der Familie."
+      }
+    ]
+  },
+  "fan_noun": {
+    "primary": "fan_noun"
+  },
+  "far_noun": {
+    "primary": "vater_noun",
+    "examples": [
+      {
+        "source": "Faren min jobber mye.",
+        "target": "Mein Vater arbeitet viel."
+      },
+      {
+        "source": "Hvor er faren din?",
+        "target": "Wo ist dein Vater?"
+      },
+      {
+        "source": "Jeg hjelper faren min.",
+        "target": "Ich helfe meinem Vater."
+      }
+    ]
+  },
+  "fare_noun": {
+    "primary": "gefahr_noun"
+  },
+  "farge_noun": {
+    "primary": "farbe_noun",
+    "examples": [
+      {
+        "source": "Hvilken farge liker du?",
+        "target": "Welche Farbe magst du?"
+      },
+      {
+        "source": "Favorittfargen min er blå.",
+        "target": "Meine Lieblingsfarbe ist blau."
+      },
+      {
+        "source": "Fargen er fin.",
+        "target": "Die Farbe ist schön."
+      }
+    ]
+  },
+  "favorittdyr_noun": {
+    "primary": "lieblingstier_noun"
+  },
+  "favorittfag_noun": {
+    "primary": "lieblingsfach_noun"
+  },
+  "favorittsport_noun": {
+    "primary": "lieblingssport_noun"
+  },
+  "feber_noun": {
+    "primary": "fieber_noun"
+  },
+  "februar_noun": {
+    "primary": "februar_noun"
+  },
+  "feil_noun": {
+    "primary": "fehler_noun"
+  },
+  "feiring_noun": {
+    "primary": "feier_noun"
+  },
+  "fellesskap_noun": {
+    "primary": "gemeinschaft_noun"
+  },
+  "felt_noun": {
+    "primary": "feld_noun"
+  },
+  "fengsel_noun": {
+    "primary": "gefaengnis_noun"
+  },
+  "ferge_noun": {
+    "primary": "faehre_noun"
+  },
+  "ferie_noun": {
+    "primary": "ferien_noun",
+    "alternatives": [
+      "urlaub_noun"
+    ],
+    "examples": [
+      {
+        "source": "Endelig er det ferie!",
+        "target": "Endlich sind Ferien!"
+      },
+      {
+        "source": "Hva gjør du i ferien?",
+        "target": "Was machst du in den Ferien?"
+      },
+      {
+        "source": "Ferien var fantastisk.",
+        "target": "Die Ferien waren toll."
+      }
+    ]
+  },
+  "fest_noun": {
+    "primary": "fest_noun",
+    "alternatives": [
+      "party_noun"
+    ]
+  },
+  "festival_noun": {
+    "primary": "festival_noun"
+  },
+  "fetter_noun": {
+    "primary": "cousin_noun"
+  },
+  "figur_noun": {
+    "primary": "figur_noun"
+  },
+  "fil_noun": {
+    "primary": "datei_noun"
+  },
+  "film_noun": {
+    "primary": "film_noun",
+    "examples": [
+      {
+        "source": "Filmen var bra.",
+        "target": "Der Film war gut."
+      },
+      {
+        "source": "Vi ser en film.",
+        "target": "Wir sehen einen Film."
+      },
+      {
+        "source": "Hvilken film liker du?",
+        "target": "Welchen Film magst du?"
+      }
+    ]
+  },
+  "finger_noun": {
+    "primary": "finger_noun"
+  },
+  "firma_noun": {
+    "primary": "firma_noun"
+  },
+  "fisk_noun": {
+    "primary": "fisch_noun"
+  },
+  "fjell_noun": {
+    "primary": "berg_noun",
+    "examples": [
+      {
+        "source": "Vi går tur i fjellene.",
+        "target": "Wir wandern in den Bergen."
+      },
+      {
+        "source": "Fjellet er høyt.",
+        "target": "Der Berg ist hoch."
+      },
+      {
+        "source": "Jeg ser fjellene.",
+        "target": "Ich sehe die Berge."
+      }
+    ]
+  },
+  "fjellkjede_noun": {
+    "primary": "gebirge_noun"
+  },
+  "fjellområde_noun": {
+    "primary": "gebirge_noun"
+  },
+  "fjernkontroll_noun": {
+    "primary": "fernbedienung_noun"
+  },
+  "fjernsyn_noun": {
+    "primary": "fernseher_noun"
+  },
+  "flaske_noun": {
+    "primary": "flasche_noun"
+  },
+  "flate_noun": {
+    "primary": "flaeche_noun"
+  },
+  "flekk_noun": {
+    "primary": "fleck_noun"
+  },
+  "flertall_noun": {
+    "primary": "mehrheit_noun"
+  },
+  "flukt_noun": {
+    "primary": "flucht_noun"
+  },
+  "fly_noun": {
+    "primary": "flugzeug_noun",
+    "examples": [
+      {
+        "source": "Vi flyr med fly.",
+        "target": "Wir fliegen mit dem Flugzeug."
+      },
+      {
+        "source": "Flyet tar av.",
+        "target": "Das Flugzeug startet."
+      },
+      {
+        "source": "Jeg ser et fly.",
+        "target": "Ich sehe ein Flugzeug."
+      }
+    ]
+  },
+  "flyplass_noun": {
+    "primary": "flughafen_noun"
+  },
+  "flytting_noun": {
+    "primary": "umzug_noun"
+  },
+  "flytur_noun": {
+    "primary": "flug_noun"
+  },
+  "flyvert_noun": {
+    "primary": "steward_noun"
+  },
+  "flyvertinne_noun": {
+    "primary": "stewardess_noun"
+  },
+  "fløyte_noun": {
+    "primary": "floete_noun"
+  },
+  "folk_noun": {
+    "primary": "leute_noun"
+  },
+  "forberedelse_noun": {
+    "primary": "vorbereitung_noun"
+  },
+  "forbindelse_noun": {
+    "primary": "verbindung_noun"
+  },
+  "forbruk_noun": {
+    "primary": "konsum_noun"
+  },
+  "forbryter_noun": {
+    "primary": "verbrecher_noun"
+  },
+  "forbud_noun": {
+    "primary": "verbot_noun"
+  },
+  "fordel_noun": {
+    "primary": "vorteil_noun"
+  },
+  "foredrag_noun": {
+    "primary": "referat_noun",
+    "alternatives": [
+      "vortrag_noun"
+    ]
+  },
+  "foreldre_noun": {
+    "primary": "eltern_noun",
+    "examples": [
+      {
+        "source": "Foreldrene mine er snille.",
+        "target": "Meine Eltern sind nett."
+      },
+      {
+        "source": "Jeg bor hos foreldrene mine.",
+        "target": "Ich wohne bei meinen Eltern."
+      },
+      {
+        "source": "Hva gjør foreldrene dine?",
+        "target": "Was machen deine Eltern?"
+      }
+    ]
+  },
+  "forening_noun": {
+    "primary": "verein_noun"
+  },
+  "forestilling_noun": {
+    "primary": "vorstellung_noun"
+  },
+  "forfatter_noun": {
+    "primary": "autor_noun",
+    "alternatives": [
+      "schriftsteller_noun"
+    ]
+  },
+  "forhandler_noun": {
+    "primary": "haendler_noun"
+  },
+  "forhold_noun": {
+    "primary": "beziehung_noun",
+    "alternatives": [
+      "verhaeltnis_noun"
+    ]
+  },
+  "forkjølelse_noun": {
+    "primary": "erkaeltung_noun"
+  },
+  "forkjørsrett_noun": {
+    "primary": "vorfahrt_noun"
+  },
+  "forklaring_noun": {
+    "primary": "erklaerung_noun"
+  },
+  "forlag_noun": {
+    "primary": "verlag_noun"
+  },
+  "form_noun": {
+    "primary": "form_noun"
+  },
+  "formiddag_noun": {
+    "primary": "mittag_noun"
+  },
+  "formidling_noun": {
+    "primary": "vermittlung_noun"
+  },
+  "formål_noun": {
+    "primary": "zweck_noun"
+  },
+  "fornavn_noun": {
+    "primary": "vorname_noun"
+  },
+  "fornøyelse_noun": {
+    "primary": "vergnuegen_noun"
+  },
+  "forretning_noun": {
+    "primary": "geschaeft_noun"
+  },
+  "forsamling_noun": {
+    "primary": "versammlung_noun"
+  },
+  "forsikring_noun": {
+    "primary": "versicherung_noun"
+  },
+  "forsikringskort_noun": {
+    "primary": "versichertenkarte_noun"
+  },
+  "forsiktighet_noun": {
+    "primary": "vorsicht_noun"
+  },
+  "forsinkelse_noun": {
+    "primary": "verspaetung_noun"
+  },
+  "forskning_noun": {
+    "primary": "forschung_noun"
+  },
+  "forskrift_noun": {
+    "primary": "vorschrift_noun"
+  },
+  "forslag_noun": {
+    "primary": "vorschlag_noun"
+  },
+  "forstad_noun": {
+    "primary": "vorort_noun"
+  },
+  "forstyrrelse_noun": {
+    "primary": "stoerung_noun"
+  },
+  "forståelse_noun": {
+    "primary": "verstaendnis_noun"
+  },
+  "forsøk_noun": {
+    "primary": "versuch_noun"
+  },
+  "fortau_noun": {
+    "primary": "gehsteig_d_noun"
+  },
+  "fortelling_noun": {
+    "primary": "erzaehlung_noun"
+  },
+  "fortid_noun": {
+    "primary": "vergangenheit_noun"
+  },
+  "fortsettelse_noun": {
+    "primary": "fortsetzung_noun"
+  },
+  "forum_noun": {
+    "primary": "forum_noun"
+  },
+  "forutsetning_noun": {
+    "primary": "voraussetzung_noun"
+  },
+  "forvaltning_noun": {
+    "primary": "verwaltung_noun"
+  },
+  "fot_noun": {
+    "primary": "fuss_noun"
+  },
+  "fotball_noun": {
+    "primary": "fussball_noun",
+    "examples": [
+      {
+        "source": "Jeg liker å spille fotball.",
+        "target": "Ich spiele gern Fußball."
+      },
+      {
+        "source": "Vi spiller fotball i parken.",
+        "target": "Wir spielen Fußball im Park."
+      },
+      {
+        "source": "Fotball er favorittsporten min.",
+        "target": "Fußball ist mein Lieblingssport."
+      }
+    ]
+  },
+  "fotgjenger_noun": {
+    "primary": "fussgaenger_noun"
+  },
+  "fotoapparat_noun": {
+    "primary": "fotoapparat_noun"
+  },
+  "fotograf_noun": {
+    "primary": "fotograf_noun"
+  },
+  "fotografi_noun": {
+    "primary": "fotografie_noun"
+  },
+  "fottur_noun": {
+    "primary": "wanderung_noun"
+  },
+  "fred_noun": {
+    "primary": "friede_noun"
+  },
+  "fredag_noun": {
+    "primary": "freitag_noun"
+  },
+  "fremmedspråk_noun": {
+    "primary": "fremdsprache_noun"
+  },
+  "fremskritt_noun": {
+    "primary": "fortschritt_noun"
+  },
+  "fremstilling_noun": {
+    "primary": "darstellung_noun"
+  },
+  "fremtid_noun": {
+    "primary": "zukunft_noun"
+  },
+  "frihet_noun": {
+    "primary": "freiheit_noun"
+  },
+  "frimerke_noun": {
+    "primary": "briefmarke_noun"
+  },
+  "frist_noun": {
+    "primary": "frist_noun"
+  },
+  "frisyre_noun": {
+    "primary": "frisur_noun"
+  },
+  "frisør_noun": {
+    "primary": "coiffeur_noun",
+    "alternatives": [
+      "friseur_noun"
+    ]
+  },
+  "fritid_noun": {
+    "primary": "freizeit_noun",
+    "examples": [
+      {
+        "source": "Hva gjør du i fritiden?",
+        "target": "Was machst du in der Freizeit?"
+      },
+      {
+        "source": "Jeg har lite fritid.",
+        "target": "Ich habe wenig Freizeit."
+      },
+      {
+        "source": "I fritiden spiller jeg gitar.",
+        "target": "In meiner Freizeit spiele ich Gitarre."
+      }
+    ]
+  },
+  "frokost_noun": {
+    "primary": "fruehstueck_noun"
+  },
+  "fru_noun": {
+    "primary": "frau_noun"
+  },
+  "frukt_noun": {
+    "primary": "frucht_noun",
+    "alternatives": [
+      "obst_d_noun",
+      "obst_noun"
+    ]
+  },
+  "fugl_noun": {
+    "primary": "vogel_noun",
+    "examples": [
+      {
+        "source": "Fuglen synger.",
+        "target": "Der Vogel singt."
+      },
+      {
+        "source": "Jeg ser en fugl.",
+        "target": "Ich sehe einen Vogel."
+      },
+      {
+        "source": "Fuglene flyr.",
+        "target": "Die Vögel fliegen."
+      }
+    ]
+  },
+  "fyraften_noun": {
+    "primary": "feierabend_noun"
+  },
+  "fyrstikk_noun": {
+    "primary": "streichholz_noun",
+    "alternatives": [
+      "zuendholz_noun"
+    ]
+  },
+  "fødested_noun": {
+    "primary": "geburtsort_noun"
+  },
+  "fødsel_noun": {
+    "primary": "geburt_noun"
+  },
+  "fødselsår_noun": {
+    "primary": "geburtsjahr_noun"
+  },
+  "følelse_noun": {
+    "primary": "gefuehl_noun"
+  },
+  "følge_noun": {
+    "primary": "folge_noun"
+  },
+  "førerkort_noun": {
+    "primary": "fuehrerausweis_noun",
+    "alternatives": [
+      "fuehrerschein_noun"
+    ]
+  },
+  "første_etasje_noun": {
+    "primary": "erdgeschoss_noun"
+  },
+  "gaffel_noun": {
+    "primary": "gabel_noun"
+  },
+  "galleri_noun": {
+    "primary": "galerie_noun"
+  },
+  "gang_noun": {
+    "primary": "flur_noun",
+    "alternatives": [
+      "gang_noun"
+    ]
+  },
+  "garanti_noun": {
+    "primary": "garantie_noun"
+  },
+  "garasje_noun": {
+    "primary": "garage_noun"
+  },
+  "garderobe_noun": {
+    "primary": "garderobe_noun"
+  },
+  "gass_noun": {
+    "primary": "gas_noun"
+  },
+  "gate_noun": {
+    "primary": "strasse_noun"
+  },
+  "gave_noun": {
+    "primary": "geschenk_noun",
+    "examples": [
+      {
+        "source": "Jeg har en gave til deg.",
+        "target": "Ich habe ein Geschenk für dich."
+      },
+      {
+        "source": "Hva slags gave ønsker du?",
+        "target": "Was für ein Geschenk möchtest du?"
+      },
+      {
+        "source": "Gaven er fantastisk!",
+        "target": "Das Geschenk ist toll!"
+      }
+    ]
+  },
+  "gebyr_noun": {
+    "primary": "gebuehr_noun"
+  },
+  "generasjon_noun": {
+    "primary": "generation_noun"
+  },
+  "genser_noun": {
+    "primary": "pullover_noun"
+  },
+  "gevinst_noun": {
+    "primary": "gewinn_noun"
+  },
+  "gift_noun": {
+    "primary": "gift_noun"
+  },
+  "gitar_noun": {
+    "primary": "gitarre_noun",
+    "examples": [
+      {
+        "source": "Jeg spiller gitar.",
+        "target": "Ich spiele Gitarre."
+      },
+      {
+        "source": "Gitaren min er ny.",
+        "target": "Meine Gitarre ist neu."
+      },
+      {
+        "source": "Kan du spille gitar?",
+        "target": "Kannst du Gitarre spielen?"
+      }
+    ]
+  },
+  "gjeld_noun": {
+    "primary": "schulden_noun"
+  },
+  "gjennomsnitt_noun": {
+    "primary": "durchschnitt_noun"
+  },
+  "gjenstand_noun": {
+    "primary": "gegenstand_noun"
+  },
+  "gjensyn_noun": {
+    "primary": "wiedersehen_noun"
+  },
+  "gjentakelse_noun": {
+    "primary": "wiederholung_noun"
+  },
+  "gjerningsmann_noun": {
+    "primary": "taeter_noun"
+  },
+  "gjest_noun": {
+    "primary": "gast_noun"
+  },
+  "gjestgiveri_noun": {
+    "primary": "gasthaus_noun"
+  },
+  "glass_noun": {
+    "primary": "glas_noun"
+  },
+  "glede_noun": {
+    "primary": "freude_noun"
+  },
+  "godteri_noun": {
+    "primary": "suessigkeiten_noun"
+  },
+  "grad_noun": {
+    "primary": "grad_noun"
+  },
+  "grafikk_noun": {
+    "primary": "grafik_noun"
+  },
+  "gratulasjon_noun": {
+    "primary": "glueckwunsch_noun",
+    "alternatives": [
+      "gratulation_noun"
+    ]
+  },
+  "grense_noun": {
+    "primary": "grenze_noun"
+  },
+  "gress_noun": {
+    "primary": "gras_noun"
+  },
+  "grill_noun": {
+    "primary": "grill_noun"
+  },
+  "gris_noun": {
+    "primary": "schwein_noun"
+  },
+  "grunn_noun": {
+    "primary": "grund_noun"
+  },
+  "gruppe_noun": {
+    "primary": "gruppe_noun"
+  },
+  "gryte_noun": {
+    "primary": "topf_noun"
+  },
+  "grønnsaker_noun": {
+    "primary": "gemuese_noun"
+  },
+  "gud_noun": {
+    "primary": "gott_noun"
+  },
+  "gull_noun": {
+    "primary": "gold_noun"
+  },
+  "gullfisk_noun": {
+    "primary": "goldfisch_noun"
+  },
+  "gulrot_noun": {
+    "primary": "karotte_noun"
+  },
+  "gulv_noun": {
+    "primary": "boden_noun"
+  },
+  "gutt_noun": {
+    "primary": "bub_noun",
+    "alternatives": [
+      "junge_noun"
+    ]
+  },
+  "gymnastikk_noun": {
+    "primary": "gymnastik_noun"
+  },
+  "gymtime_noun": {
+    "primary": "sportunterricht_noun"
+  },
+  "gågate_noun": {
+    "primary": "fussgaengerzone_noun"
+  },
+  "gård_noun": {
+    "primary": "hof_noun"
+  },
+  "gåte_noun": {
+    "primary": "raetsel_noun"
+  },
+  "hage_noun": {
+    "primary": "garten_noun",
+    "examples": [
+      {
+        "source": "Vi leker i hagen.",
+        "target": "Wir spielen im Garten."
+      },
+      {
+        "source": "Hagen er stor.",
+        "target": "Der Garten ist groß."
+      },
+      {
+        "source": "Jeg jobber i hagen.",
+        "target": "Ich arbeite im Garten."
+      }
+    ]
+  },
+  "hall_noun": {
+    "primary": "halle_noun"
+  },
+  "halloween_noun": {
+    "primary": "halloween_noun"
+  },
+  "hals_noun": {
+    "primary": "hals_noun"
+  },
+  "halvpart_noun": {
+    "primary": "haelfte_noun"
+  },
+  "halvpensjon_noun": {
+    "primary": "halbpension_noun"
+  },
+  "hamburger_noun": {
+    "primary": "hamburger_noun"
+  },
+  "hammer_noun": {
+    "primary": "hammer_noun"
+  },
+  "hamster_noun": {
+    "primary": "hamster_noun"
+  },
+  "handel_noun": {
+    "primary": "handel_noun"
+  },
+  "handling_noun": {
+    "primary": "tat_noun"
+  },
+  "harddisk_noun": {
+    "primary": "festplatte_noun"
+  },
+  "hare_noun": {
+    "primary": "hase_noun"
+  },
+  "hastighet_noun": {
+    "primary": "geschwindigkeit_noun"
+  },
+  "hatt_noun": {
+    "primary": "hut_noun"
+  },
+  "haug_noun": {
+    "primary": "huegel_noun"
+  },
+  "hav_noun": {
+    "primary": "meer_noun",
+    "alternatives": [
+      "ozean_noun"
+    ]
+  },
+  "havn_noun": {
+    "primary": "hafen_noun"
+  },
+  "hefte_noun": {
+    "primary": "heft_noun"
+  },
+  "heis_noun": {
+    "primary": "aufzug_noun",
+    "alternatives": [
+      "lift_noun"
+    ]
+  },
+  "helg_noun": {
+    "primary": "wochenende_noun",
+    "examples": [
+      {
+        "source": "Hva gjør du i helgen?",
+        "target": "Was machst du am Wochenende?"
+      },
+      {
+        "source": "Helgen var fantastisk.",
+        "target": "Das Wochenende war toll."
+      },
+      {
+        "source": "Jeg gleder meg til helgen.",
+        "target": "Ich freue mich auf das Wochenende."
+      }
+    ]
+  },
+  "helligdag_noun": {
+    "primary": "feiertag_noun"
+  },
+  "helse_noun": {
+    "primary": "gesundheit_noun"
+  },
+  "helt_noun": {
+    "primary": "held_noun"
+  },
+  "heltid_noun": {
+    "primary": "vollzeit_noun"
+  },
+  "heltinne_noun": {
+    "primary": "heldin_noun"
+  },
+  "hemmelighet_noun": {
+    "primary": "geheimnis_noun"
+  },
+  "hendelse_noun": {
+    "primary": "ereignis_noun"
+  },
+  "hensikt_noun": {
+    "primary": "absicht_noun"
+  },
+  "hensyn_noun": {
+    "primary": "ruecksicht_noun"
+  },
+  "henvisninger_noun": {
+    "primary": "hinweise_noun"
+  },
+  "herr_noun": {
+    "primary": "herr_noun"
+  },
+  "hest_noun": {
+    "primary": "pferd_noun"
+  },
+  "hete_noun": {
+    "primary": "hitze_noun"
+  },
+  "hilsen_noun": {
+    "primary": "gruss_noun"
+  },
+  "himmel_noun": {
+    "primary": "himmel_noun"
+  },
+  "historie_noun": {
+    "primary": "geschichte_noun"
+  },
+  "historielekse_noun": {
+    "primary": "geschichtshausaufgabe_noun"
+  },
+  "hittegods_noun": {
+    "primary": "fundbuero_noun",
+    "alternatives": [
+      "fundsachen_noun"
+    ]
+  },
+  "hjelp_noun": {
+    "primary": "hilfe_noun"
+  },
+  "hjemland_noun": {
+    "primary": "heimat_noun"
+  },
+  "hjemlengsel_noun": {
+    "primary": "heimweh_noun"
+  },
+  "hjemmeside_noun": {
+    "primary": "homepage_noun"
+  },
+  "hjemmeværende_mann_noun": {
+    "primary": "hausmann_noun"
+  },
+  "hjerte_noun": {
+    "primary": "herz_noun"
+  },
+  "hjul_noun": {
+    "primary": "rad_noun"
+  },
+  "hjørne_noun": {
+    "primary": "ecke_noun"
+  },
+  "hobby_noun": {
+    "primary": "hobby_noun",
+    "examples": [
+      {
+        "source": "Hva er hobbyen din?",
+        "target": "Was ist dein Hobby?"
+      },
+      {
+        "source": "Hobbyen min er fotball.",
+        "target": "Mein Hobby ist Fußball."
+      },
+      {
+        "source": "Jeg har mange hobbyer.",
+        "target": "Ich habe viele Hobbys."
+      }
+    ]
+  },
+  "hode_noun": {
+    "primary": "kopf_noun",
+    "examples": [
+      {
+        "source": "Hodet mitt gjør vondt.",
+        "target": "Mein Kopf tut weh."
+      },
+      {
+        "source": "Han nikker med hodet.",
+        "target": "Er nickt mit dem Kopf."
+      },
+      {
+        "source": "Jeg har hodepine.",
+        "target": "Ich habe Kopfschmerzen."
+      }
+    ]
+  },
+  "holdeplass_noun": {
+    "primary": "haltestelle_noun"
+  },
+  "honning_noun": {
+    "primary": "honig_noun"
+  },
+  "hotell_noun": {
+    "primary": "hotel_noun"
+  },
+  "hovedjernbanestasjon_noun": {
+    "primary": "hauptbahnhof_noun"
+  },
+  "hovedstad_noun": {
+    "primary": "hauptstadt_noun"
+  },
+  "hud_noun": {
+    "primary": "haut_noun"
+  },
+  "hull_noun": {
+    "primary": "loch_noun"
+  },
+  "humor_noun": {
+    "primary": "humor_noun"
+  },
+  "humør_noun": {
+    "primary": "laune_noun"
+  },
+  "hund_noun": {
+    "primary": "hund_noun",
+    "examples": [
+      {
+        "source": "Jeg har en hund.",
+        "target": "Ich habe einen Hund."
+      },
+      {
+        "source": "Hunden er søt.",
+        "target": "Der Hund ist süß."
+      },
+      {
+        "source": "Jeg går tur med hunden.",
+        "target": "Ich gehe mit dem Hund spazieren."
+      }
+    ]
+  },
+  "hus_noun": {
+    "primary": "haus_noun",
+    "examples": [
+      {
+        "source": "Jeg bor i et hus.",
+        "target": "Ich wohne in einem Haus."
+      },
+      {
+        "source": "Huset er stort.",
+        "target": "Das Haus ist groß."
+      },
+      {
+        "source": "Vi går ut av huset.",
+        "target": "Wir gehen aus dem Haus."
+      }
+    ]
+  },
+  "husholdning_noun": {
+    "primary": "haushalt_noun"
+  },
+  "husleie_noun": {
+    "primary": "miete_noun"
+  },
+  "husmor_noun": {
+    "primary": "hausfrau_noun"
+  },
+  "hylle_noun": {
+    "primary": "regal_noun"
+  },
+  "hytte_noun": {
+    "primary": "huette_noun"
+  },
+  "hånd_noun": {
+    "primary": "hand_noun"
+  },
+  "håndkle_noun": {
+    "primary": "handtuch_noun"
+  },
+  "håndverker_noun": {
+    "primary": "handwerker_noun"
+  },
+  "håp_noun": {
+    "primary": "hoffnung_noun"
+  },
+  "hår_noun": {
+    "primary": "haar_noun",
+    "examples": [
+      {
+        "source": "Hun har langt hår.",
+        "target": "Sie hat lange Haare."
+      },
+      {
+        "source": "Håret mitt er brunt.",
+        "target": "Mein Haar ist braun."
+      },
+      {
+        "source": "Jeg vasker håret.",
+        "target": "Ich wasche mir die Haare."
+      }
+    ]
+  },
+  "høne_noun": {
+    "primary": "huhn_noun"
+  },
+  "høst_noun": {
+    "primary": "herbst_noun",
+    "examples": [
+      {
+        "source": "Om høsten faller bladene.",
+        "target": "Im Herbst fallen die Blätter."
+      },
+      {
+        "source": "Høsten er fargerik.",
+        "target": "Der Herbst ist bunt."
+      },
+      {
+        "source": "Jeg liker høsten.",
+        "target": "Ich mag den Herbst."
+      }
+    ]
+  },
+  "høyde_noun": {
+    "primary": "hoehe_noun"
+  },
+  "høydehopp_noun": {
+    "primary": "hochsprung_noun"
+  },
+  "høydepunkt_noun": {
+    "primary": "highlight_noun"
+  },
+  "høyttaler_noun": {
+    "primary": "lautsprecher_noun"
+  },
+  "id_noun": {
+    "primary": "idee_noun",
+    "examples": [
+      {
+        "source": "Det er en god idé!",
+        "target": "Das ist eine gute Idee!"
+      },
+      {
+        "source": "Jeg har en idé.",
+        "target": "Ich habe eine Idee."
+      },
+      {
+        "source": "Har du en idé?",
+        "target": "Hast du eine Idee?"
+      }
+    ]
+  },
+  "idrettsgren_noun": {
+    "primary": "sportart_noun"
+  },
+  "idrettsplass_noun": {
+    "primary": "sportplatz_noun"
+  },
+  "idrettsutøver_noun": {
+    "primary": "sportler_noun"
+  },
+  "ikkerøyker_noun": {
+    "primary": "nichtraucher_noun"
+  },
+  "illustrasjon_noun": {
+    "primary": "abbildung_noun"
+  },
+  "import_noun": {
+    "primary": "import_noun"
+  },
+  "industri_noun": {
+    "primary": "industrie_noun"
+  },
+  "infeksjon_noun": {
+    "primary": "infektion_noun"
+  },
+  "influensa_noun": {
+    "primary": "grippe_noun"
+  },
+  "informasjon_noun": {
+    "primary": "information_noun"
+  },
+  "ingeniør_noun": {
+    "primary": "ingenieur_noun"
+  },
+  "ingredienser_noun": {
+    "primary": "zutaten_noun"
+  },
+  "innbrudd_noun": {
+    "primary": "einbruch_noun"
+  },
+  "innbruddstyv_noun": {
+    "primary": "einbrecher_noun"
+  },
+  "innbygger_noun": {
+    "primary": "einwohner_noun"
+  },
+  "innendørsbasseng_noun": {
+    "primary": "hallenbad_noun"
+  },
+  "innfall_noun": {
+    "primary": "einfall_noun"
+  },
+  "innflytelse_noun": {
+    "primary": "einfluss_noun"
+  },
+  "innføring_noun": {
+    "primary": "einfuehrung_noun"
+  },
+  "inngang_noun": {
+    "primary": "eingang_noun",
+    "alternatives": [
+      "eintritt_noun"
+    ]
+  },
+  "innhold_noun": {
+    "primary": "inhalt_noun"
+  },
+  "innhøsting_noun": {
+    "primary": "ernte_noun"
+  },
+  "innkjøp_noun": {
+    "primary": "einkauf_noun"
+  },
+  "innkjørsel_noun": {
+    "primary": "einfahrt_noun"
+  },
+  "innredning_noun": {
+    "primary": "einrichtung_noun"
+  },
+  "innsjø_noun": {
+    "primary": "see_noun",
+    "examples": [
+      {
+        "source": "Vi svømmer i innsjøen.",
+        "target": "Wir schwimmen im See."
+      },
+      {
+        "source": "Innsjøen er kald.",
+        "target": "Der See ist kalt."
+      },
+      {
+        "source": "Jeg bor ved innsjøen.",
+        "target": "Ich wohne am See."
+      }
+    ]
+  },
+  "innskudd_noun": {
+    "primary": "einzahlung_noun"
+  },
+  "inntekt_noun": {
+    "primary": "einkommen_noun",
+    "alternatives": [
+      "einnahme_noun"
+    ]
+  },
+  "inntrykk_noun": {
+    "primary": "eindruck_noun"
+  },
+  "innvandrer_noun": {
+    "primary": "migrant_noun"
+  },
+  "innvandring_noun": {
+    "primary": "migration_noun"
+  },
+  "institutt_noun": {
+    "primary": "institut_noun"
+  },
+  "instrument_noun": {
+    "primary": "instrument_noun"
+  },
+  "integrering_noun": {
+    "primary": "integration_noun"
+  },
+  "intelligens_noun": {
+    "primary": "intelligenz_noun"
+  },
+  "intensivkurs_noun": {
+    "primary": "intensivkurs_noun"
+  },
+  "interesse_noun": {
+    "primary": "interesse_noun"
+  },
+  "internett_noun": {
+    "primary": "internet_noun"
+  },
+  "intervju_noun": {
+    "primary": "interview_noun"
+  },
+  "invitasjon_noun": {
+    "primary": "einladung_noun"
+  },
+  "is_noun": {
+    "primary": "eis_d_noun",
+    "alternatives": [
+      "eis_noun"
+    ]
+  },
+  "jakke_noun": {
+    "primary": "jacke_noun",
+    "examples": [
+      {
+        "source": "Jeg tar på meg jakka.",
+        "target": "Ich ziehe meine Jacke an."
+      },
+      {
+        "source": "Jakka er varm.",
+        "target": "Die Jacke ist warm."
+      },
+      {
+        "source": "Hvor er jakka mi?",
+        "target": "Wo ist meine Jacke?"
+      }
+    ]
+  },
+  "januar_noun": {
+    "primary": "januar_noun"
+  },
+  "jeans_noun": {
+    "primary": "jeans_noun"
+  },
+  "jeger_noun": {
+    "primary": "jaeger_noun"
+  },
+  "jegerinne_noun": {
+    "primary": "jaegerin_noun"
+  },
+  "jente_noun": {
+    "primary": "maedchen_noun"
+  },
+  "jernbane_noun": {
+    "primary": "bahn_noun",
+    "alternatives": [
+      "eisenbahn_noun"
+    ]
+  },
+  "jernbanestasjon_noun": {
+    "primary": "bahnhof_noun"
+  },
+  "jobb_noun": {
+    "primary": "job_noun"
+  },
+  "jobbintervju_noun": {
+    "primary": "vorstellungsgespraech_noun"
+  },
+  "jobbsøknad_noun": {
+    "primary": "bewerbung_noun"
+  },
+  "jord_noun": {
+    "primary": "erde_noun"
+  },
+  "journalist_noun": {
+    "primary": "journalist_noun"
+  },
+  "juice_noun": {
+    "primary": "saft_noun"
+  },
+  "jul_noun": {
+    "primary": "weihnachten_noun"
+  },
+  "juli_noun": {
+    "primary": "juli_noun"
+  },
+  "juni_noun": {
+    "primary": "juni_noun"
+  },
+  "kabel_noun": {
+    "primary": "kabel_noun"
+  },
+  "kabine_noun": {
+    "primary": "kabine_noun"
+  },
+  "kaf_noun": {
+    "primary": "cafe_noun"
+  },
+  "kafeteria_noun": {
+    "primary": "cafeteria_noun"
+  },
+  "kaffe_noun": {
+    "primary": "kaffee_noun",
+    "examples": [
+      {
+        "source": "Jeg liker å drikke kaffe.",
+        "target": "Ich trinke gern Kaffee."
+      },
+      {
+        "source": "Vil De ha en kaffe?",
+        "target": "Möchten Sie einen Kaffee?"
+      },
+      {
+        "source": "Kaffen er varm.",
+        "target": "Der Kaffee ist heiß."
+      }
+    ]
+  },
+  "kaffehus_noun": {
+    "primary": "kaffeehaus_noun"
+  },
+  "kakao_noun": {
+    "primary": "kakao_noun"
+  },
+  "kake_noun": {
+    "primary": "kuchen_noun",
+    "alternatives": [
+      "torte_noun"
+    ],
+    "examples": [
+      {
+        "source": "Kaken er deilig.",
+        "target": "Der Kuchen ist lecker."
+      },
+      {
+        "source": "Jeg baker en kake.",
+        "target": "Ich backe einen Kuchen."
+      },
+      {
+        "source": "Vil du ha et stykke kake?",
+        "target": "Möchtest du ein Stück Kuchen?"
+      }
+    ]
+  },
+  "kalender_noun": {
+    "primary": "kalender_noun"
+  },
+  "kalkulator_noun": {
+    "primary": "rechner_noun"
+  },
+  "kamera_noun": {
+    "primary": "kamera_noun"
+  },
+  "kamp_noun": {
+    "primary": "kampf_noun"
+  },
+  "kanal_noun": {
+    "primary": "kanal_noun"
+  },
+  "kandidat_noun": {
+    "primary": "kandidat_noun"
+  },
+  "kanin_noun": {
+    "primary": "kaninchen_noun"
+  },
+  "kanne_noun": {
+    "primary": "kanne_noun"
+  },
+  "kantine_noun": {
+    "primary": "kantine_noun",
+    "alternatives": [
+      "mensa_noun"
+    ]
+  },
+  "kapittel_noun": {
+    "primary": "kapitel_noun"
+  },
+  "karakter_noun": {
+    "primary": "charakter_noun",
+    "alternatives": [
+      "note_noun"
+    ]
+  },
+  "karneval_noun": {
+    "primary": "fasching_noun",
+    "alternatives": [
+      "karneval_noun"
+    ]
+  },
+  "karriere_noun": {
+    "primary": "karriere_noun"
+  },
+  "kasse_noun": {
+    "primary": "kasse_noun",
+    "alternatives": [
+      "kasten_noun"
+    ]
+  },
+  "kassett_noun": {
+    "primary": "kassette_noun"
+  },
+  "katalog_noun": {
+    "primary": "katalog_noun"
+  },
+  "katastrofe_noun": {
+    "primary": "katastrophe_noun"
+  },
+  "katt_noun": {
+    "primary": "katze_noun",
+    "examples": [
+      {
+        "source": "Katten sover.",
+        "target": "Die Katze schläft."
+      },
+      {
+        "source": "Jeg klapper katten.",
+        "target": "Ich streichle die Katze."
+      },
+      {
+        "source": "Katten vår heter Mia.",
+        "target": "Unsere Katze heißt Mia."
+      }
+    ]
+  },
+  "kelner_noun": {
+    "primary": "kellner_noun",
+    "alternatives": [
+      "ober_noun"
+    ]
+  },
+  "kino_noun": {
+    "primary": "kino_noun",
+    "examples": [
+      {
+        "source": "Vi går på kino.",
+        "target": "Wir gehen ins Kino."
+      },
+      {
+        "source": "Hva vises på kinoen?",
+        "target": "Was läuft im Kino?"
+      },
+      {
+        "source": "Kinoen er rundt hjørnet.",
+        "target": "Das Kino ist um die Ecke."
+      }
+    ]
+  },
+  "kiosk_noun": {
+    "primary": "kiosk_noun"
+  },
+  "kiste_noun": {
+    "primary": "kiste_noun"
+  },
+  "kjede_noun": {
+    "primary": "kette_noun"
+  },
+  "kjedsomhet_noun": {
+    "primary": "langeweile_noun"
+  },
+  "kjeller_noun": {
+    "primary": "keller_noun"
+  },
+  "kjennetegn_noun": {
+    "primary": "kennzeichen_noun"
+  },
+  "kjensgjerning_noun": {
+    "primary": "tatsache_noun"
+  },
+  "kjole_noun": {
+    "primary": "kleid_noun"
+  },
+  "kjæledyr_noun": {
+    "primary": "haustier_noun",
+    "examples": [
+      {
+        "source": "Har du et kjæledyr?",
+        "target": "Hast du ein Haustier?"
+      },
+      {
+        "source": "Kjæledyret mitt er en hund.",
+        "target": "Mein Haustier ist ein Hund."
+      },
+      {
+        "source": "Jeg elsker kjæledyret mitt.",
+        "target": "Ich liebe mein Haustier."
+      }
+    ]
+  },
+  "kjæledyret_noun": {
+    "primary": "das_haustier_noun"
+  },
+  "kjøkken_noun": {
+    "primary": "kueche_noun"
+  },
+  "kjøleskap_noun": {
+    "primary": "kuehlschrank_noun"
+  },
+  "kjønn_noun": {
+    "primary": "geschlecht_noun"
+  },
+  "kjøp_noun": {
+    "primary": "kauf_noun"
+  },
+  "kjøper_noun": {
+    "primary": "kaeufer_noun"
+  },
+  "kjøpesenter_noun": {
+    "primary": "einkaufszentrum_noun"
+  },
+  "kjørebane_noun": {
+    "primary": "fahrbahn_noun"
+  },
+  "kjøretøy_noun": {
+    "primary": "fahrzeug_noun"
+  },
+  "kjøtt_noun": {
+    "primary": "fleisch_noun"
+  },
+  "kjøttdeig_noun": {
+    "primary": "hackfleisch_d_noun"
+  },
+  "klasse_noun": {
+    "primary": "klasse_noun",
+    "examples": [
+      {
+        "source": "Jeg går i 10. klasse.",
+        "target": "Ich bin in der 10. Klasse."
+      },
+      {
+        "source": "Klassen min har 25 elever.",
+        "target": "Meine Klasse hat 25 Schüler."
+      },
+      {
+        "source": "Klassen er veldig hyggelig.",
+        "target": "Die Klasse ist sehr nett."
+      }
+    ]
+  },
+  "klassekamerat_noun": {
+    "primary": "klassenkamerad_noun"
+  },
+  "klasseprøve_noun": {
+    "primary": "klassenarbeit_noun"
+  },
+  "klasserom_noun": {
+    "primary": "klassenzimmer_noun"
+  },
+  "klesvask_noun": {
+    "primary": "waesche_noun"
+  },
+  "klikk_noun": {
+    "primary": "klick_noun"
+  },
+  "klima_noun": {
+    "primary": "klima_noun"
+  },
+  "klimaanlegg_noun": {
+    "primary": "klimaanlage_noun"
+  },
+  "klinikk_noun": {
+    "primary": "klinik_noun"
+  },
+  "klokke_noun": {
+    "primary": "glocke_noun",
+    "alternatives": [
+      "uhr_noun"
+    ]
+  },
+  "klokkeslett_noun": {
+    "primary": "uhr_noun",
+    "alternatives": [
+      "uhrzeit_noun"
+    ]
+  },
+  "klubb_noun": {
+    "primary": "club_noun"
+  },
+  "klut_noun": {
+    "primary": "tuch_noun"
+  },
+  "klær_noun": {
+    "primary": "kleidung_noun"
+  },
+  "knapp_noun": {
+    "primary": "knopf_noun"
+  },
+  "kne_noun": {
+    "primary": "knie_noun"
+  },
+  "kniv_noun": {
+    "primary": "messer_noun"
+  },
+  "koffert_noun": {
+    "primary": "koffer_noun"
+  },
+  "kokk_noun": {
+    "primary": "koch_noun"
+  },
+  "kollega_noun": {
+    "primary": "kollege_noun"
+  },
+  "komfyr_noun": {
+    "primary": "herd_noun"
+  },
+  "kommunikasjon_noun": {
+    "primary": "kommunikation_noun"
+  },
+  "kompliment_noun": {
+    "primary": "kompliment_noun"
+  },
+  "kompromiss_noun": {
+    "primary": "kompromiss_noun"
+  },
+  "kone_noun": {
+    "primary": "ehefrau_noun"
+  },
+  "konferanse_noun": {
+    "primary": "konferenz_noun"
+  },
+  "konflikt_noun": {
+    "primary": "konflikt_noun"
+  },
+  "konge_noun": {
+    "primary": "koenig_noun"
+  },
+  "konkurranse_noun": {
+    "primary": "konkurrenz_noun",
+    "alternatives": [
+      "wettbewerb_noun"
+    ]
+  },
+  "konsert_noun": {
+    "primary": "konzert_noun",
+    "examples": [
+      {
+        "source": "Vi går på konsert.",
+        "target": "Wir gehen auf ein Konzert."
+      },
+      {
+        "source": "Konserten var fantastisk.",
+        "target": "Das Konzert war toll."
+      },
+      {
+        "source": "Jeg kjøper billetter til en konsert.",
+        "target": "Ich kaufe Tickets für ein Konzert."
+      }
+    ]
+  },
+  "konsulat_noun": {
+    "primary": "konsulat_noun"
+  },
+  "kontakt_noun": {
+    "primary": "kontakt_noun"
+  },
+  "konto_noun": {
+    "primary": "konto_noun"
+  },
+  "kontor_noun": {
+    "primary": "buero_noun"
+  },
+  "kontortid_noun": {
+    "primary": "sprechstunde_noun"
+  },
+  "kontrakt_noun": {
+    "primary": "vertrag_noun"
+  },
+  "kontroll_noun": {
+    "primary": "kontrolle_noun"
+  },
+  "konvolutt_noun": {
+    "primary": "briefumschlag_noun"
+  },
+  "kopi_noun": {
+    "primary": "kopie_noun"
+  },
+  "kopimaskin_noun": {
+    "primary": "kopierer_noun"
+  },
+  "kopp_noun": {
+    "primary": "tasse_noun"
+  },
+  "korridor_noun": {
+    "primary": "korridor_noun"
+  },
+  "kors_noun": {
+    "primary": "kreuz_noun"
+  },
+  "kort_noun": {
+    "primary": "karte_noun"
+  },
+  "kosmetikk_noun": {
+    "primary": "kosmetik_noun"
+  },
+  "kostyme_noun": {
+    "primary": "kostuem_noun"
+  },
+  "kraft_noun": {
+    "primary": "kraft_noun"
+  },
+  "kraftverk_noun": {
+    "primary": "kraftwerk_noun"
+  },
+  "krangel_noun": {
+    "primary": "streit_noun"
+  },
+  "krav_noun": {
+    "primary": "anspruch_noun",
+    "alternatives": [
+      "forderung_noun"
+    ]
+  },
+  "kreditt_noun": {
+    "primary": "kredit_noun"
+  },
+  "kredittkort_noun": {
+    "primary": "kreditkarte_noun"
+  },
+  "krem_noun": {
+    "primary": "creme_noun"
+  },
+  "krets_noun": {
+    "primary": "kreis_noun"
+  },
+  "krig_noun": {
+    "primary": "krieg_noun"
+  },
+  "krim_noun": {
+    "primary": "krimi_noun"
+  },
+  "krise_noun": {
+    "primary": "krise_noun"
+  },
+  "kritikk_noun": {
+    "primary": "kritik_noun"
+  },
+  "kropp_noun": {
+    "primary": "koerper_noun"
+  },
+  "kroppsdel_noun": {
+    "primary": "koerperteil_noun"
+  },
+  "krydder_noun": {
+    "primary": "gewuerz_noun"
+  },
+  "ku_noun": {
+    "primary": "kuh_noun"
+  },
+  "kulde_noun": {
+    "primary": "kaelte_noun"
+  },
+  "kulepenn_noun": {
+    "primary": "kugelschreiber_noun",
+    "alternatives": [
+      "kuli_noun"
+    ]
+  },
+  "kultur_noun": {
+    "primary": "kultur_noun"
+  },
+  "kunde_noun": {
+    "primary": "kunde_noun"
+  },
+  "kunngjøring_noun": {
+    "primary": "ansage_noun",
+    "alternatives": [
+      "durchsage_noun"
+    ]
+  },
+  "kunnskaper_noun": {
+    "primary": "kenntnisse_noun"
+  },
+  "kunst_noun": {
+    "primary": "kunst_noun"
+  },
+  "kunstner_noun": {
+    "primary": "kuenstler_noun"
+  },
+  "kurs_noun": {
+    "primary": "kurs_noun"
+  },
+  "kursleder_noun": {
+    "primary": "kursleiter_noun"
+  },
+  "kurve_noun": {
+    "primary": "kurve_noun"
+  },
+  "kusine_noun": {
+    "primary": "cousine_noun"
+  },
+  "kvalifikasjon_noun": {
+    "primary": "qualifikation_noun"
+  },
+  "kvalitet_noun": {
+    "primary": "qualitaet_noun"
+  },
+  "kvarter_noun": {
+    "primary": "viertel_noun"
+  },
+  "kveld_noun": {
+    "primary": "abend_noun",
+    "examples": [
+      {
+        "source": "God kveld!",
+        "target": "Guten Abend!"
+      },
+      {
+        "source": "Om kvelden ser jeg på TV.",
+        "target": "Am Abend sehe ich fern."
+      },
+      {
+        "source": "Kvelden var koselig.",
+        "target": "Der Abend war gemütlich."
+      }
+    ]
+  },
+  "kveldsmat_noun": {
+    "primary": "abendessen_noun"
+  },
+  "kverdag_noun": {
+    "primary": "alltag_noun"
+  },
+  "kvinne_noun": {
+    "primary": "frau_noun"
+  },
+  "kvinneleg_advokat_noun": {
+    "primary": "anwaeltin_noun"
+  },
+  "kvinneleg_arkitekt_noun": {
+    "primary": "architektin_noun"
+  },
+  "kvinneleg_direktør_noun": {
+    "primary": "direktorin_noun"
+  },
+  "kvinneleg_doktor_noun": {
+    "primary": "doktorin_noun"
+  },
+  "kvinneleg_forfatter_noun": {
+    "primary": "autorin_noun"
+  },
+  "kvinneleg_frisør_noun": {
+    "primary": "coiffeuse_noun",
+    "alternatives": [
+      "friseurin_noun"
+    ]
+  },
+  "kvinneleg_innvandrer_noun": {
+    "primary": "migrantin_noun"
+  },
+  "kvinneleg_journalist_noun": {
+    "primary": "journalistin_noun"
+  },
+  "kvinneleg_kokk_noun": {
+    "primary": "koechin_noun"
+  },
+  "kvinneleg_kollega_noun": {
+    "primary": "kollegin_noun"
+  },
+  "kvinneleg_kunde_noun": {
+    "primary": "kundin_noun"
+  },
+  "kvinneleg_lege_noun": {
+    "primary": "aerztin_noun"
+  },
+  "kvinneleg_leser_noun": {
+    "primary": "leserin_noun"
+  },
+  "kvinneleg_lytter_noun": {
+    "primary": "hoererin_noun"
+  },
+  "kvinneleg_maler_noun": {
+    "primary": "malerin_noun"
+  },
+  "kvinneleg_partner_noun": {
+    "primary": "partnerin_noun"
+  },
+  "kvinneleg_pasient_noun": {
+    "primary": "patientin_noun"
+  },
+  "kvinneleg_passasjer_noun": {
+    "primary": "passagierin_noun"
+  },
+  "kvinneleg_pensjonist_noun": {
+    "primary": "rentnerin_noun"
+  },
+  "kvinneleg_praktikant_noun": {
+    "primary": "praktikantin_noun"
+  },
+  "kvinneleg_professor_noun": {
+    "primary": "professorin_noun"
+  },
+  "kvinneleg_representant_noun": {
+    "primary": "vertreterin_noun"
+  },
+  "kvinneleg_røyker_noun": {
+    "primary": "raucherin_noun"
+  },
+  "kvinneleg_sekretær_noun": {
+    "primary": "sekretaerin_noun"
+  },
+  "kvinneleg_sjef_noun": {
+    "primary": "chefin_noun"
+  },
+  "kvinneleg_spesialist_noun": {
+    "primary": "spezialistin_noun"
+  },
+  "kvinneleg_spiller_noun": {
+    "primary": "spielerin_noun"
+  },
+  "kvinneleg_student_noun": {
+    "primary": "studentin_noun"
+  },
+  "kvinneleg_tillitsvalgt_noun": {
+    "primary": "betriebsraetin_noun"
+  },
+  "kvinneleg_tjenestemann_noun": {
+    "primary": "beamtin_noun"
+  },
+  "kvinneleg_turist_noun": {
+    "primary": "touristin_noun"
+  },
+  "kvinneleg_utleier_noun": {
+    "primary": "vermieterin_noun"
+  },
+  "kvinneleg_vitne_noun": {
+    "primary": "zeugin_noun"
+  },
+  "kvittering_noun": {
+    "primary": "beleg_noun",
+    "alternatives": [
+      "quittung_noun"
+    ]
+  },
+  "kylling_noun": {
+    "primary": "haehnchen_noun",
+    "alternatives": [
+      "huhn_noun"
+    ]
+  },
+  "kyrkje_noun": {
+    "primary": "kirche_noun"
+  },
+  "kyss_noun": {
+    "primary": "kuss_noun"
+  },
+  "kyst_noun": {
+    "primary": "kueste_noun"
+  },
+  "kåpe_noun": {
+    "primary": "mantel_noun"
+  },
+  "lag_noun": {
+    "primary": "mannschaft_noun",
+    "alternatives": [
+      "team_noun"
+    ]
+  },
+  "lager_noun": {
+    "primary": "lager_noun"
+  },
+  "lampe_noun": {
+    "primary": "lampe_noun"
+  },
+  "land_noun": {
+    "primary": "land_noun"
+  },
+  "landbruk_noun": {
+    "primary": "landwirtschaft_noun"
+  },
+  "landing_noun": {
+    "primary": "landung_noun"
+  },
+  "landsby_noun": {
+    "primary": "dorf_noun"
+  },
+  "landskap_noun": {
+    "primary": "landschaft_noun"
+  },
+  "lapp_noun": {
+    "primary": "zettel_noun"
+  },
+  "lastebil_noun": {
+    "primary": "laster_noun",
+    "alternatives": [
+      "lkw_noun"
+    ]
+  },
+  "ledelse_noun": {
+    "primary": "fuehrung_noun",
+    "alternatives": [
+      "leitung_noun"
+    ]
+  },
+  "leder_noun": {
+    "primary": "leiter_noun"
+  },
+  "lege_noun": {
+    "primary": "arzt_noun"
+  },
+  "legitimasjon_noun": {
+    "primary": "ausweis_noun"
+  },
+  "leietaker_noun": {
+    "primary": "mieter_noun"
+  },
+  "leilighet_noun": {
+    "primary": "apartment_noun",
+    "alternatives": [
+      "wohnung_noun"
+    ]
+  },
+  "lekeplass_noun": {
+    "primary": "spielplatz_noun"
+  },
+  "leketøy_noun": {
+    "primary": "spielzeug_noun"
+  },
+  "lekse_noun": {
+    "primary": "hausaufgabe_noun",
+    "examples": [
+      {
+        "source": "Jeg gjør leksene mine.",
+        "target": "Ich mache meine Hausaufgaben."
+      },
+      {
+        "source": "Har du gjort leksene?",
+        "target": "Hast du die Hausaufgaben gemacht?"
+      },
+      {
+        "source": "Leksa er vanskelig.",
+        "target": "Die Hausaufgabe ist schwer."
+      }
+    ]
+  },
+  "leksikon_noun": {
+    "primary": "lexikon_noun"
+  },
+  "lenestol_noun": {
+    "primary": "fauteuil_noun",
+    "alternatives": [
+      "sessel_noun"
+    ]
+  },
+  "lengde_noun": {
+    "primary": "laenge_noun"
+  },
+  "lengdehopp_noun": {
+    "primary": "weitsprung_noun"
+  },
+  "lenke_noun": {
+    "primary": "link_noun"
+  },
+  "leppe_noun": {
+    "primary": "lippe_noun"
+  },
+  "leser_noun": {
+    "primary": "leser_noun"
+  },
+  "levering_noun": {
+    "primary": "lieferung_noun"
+  },
+  "lighter_noun": {
+    "primary": "feuerzeug_noun"
+  },
+  "linje_noun": {
+    "primary": "linie_noun",
+    "alternatives": [
+      "zeile_noun"
+    ]
+  },
+  "liste_noun": {
+    "primary": "liste_noun"
+  },
+  "litteratur_noun": {
+    "primary": "literatur_noun"
+  },
+  "liv_noun": {
+    "primary": "leben_noun",
+    "examples": [
+      {
+        "source": "Livet er fint.",
+        "target": "Das Leben ist schön."
+      },
+      {
+        "source": "Hvordan er livet ditt?",
+        "target": "Wie ist dein Leben?"
+      },
+      {
+        "source": "Jeg lever et godt liv.",
+        "target": "Ich lebe ein gutes Leben."
+      }
+    ]
+  },
+  "livs_noun": {
+    "primary": "lebens_noun"
+  },
+  "lokale_noun": {
+    "primary": "lokal_noun"
+  },
+  "lokaltog_noun": {
+    "primary": "sbahn_noun"
+  },
+  "lommebok_noun": {
+    "primary": "brieftasche_noun",
+    "alternatives": [
+      "geldboerse_noun"
+    ]
+  },
+  "lommepenger_noun": {
+    "primary": "taschengeld_noun"
+  },
+  "lommetørkle_noun": {
+    "primary": "taschentuch_noun"
+  },
+  "loppemarked_noun": {
+    "primary": "flohmarkt_noun"
+  },
+  "lov_noun": {
+    "primary": "gesetz_noun"
+  },
+  "lue_noun": {
+    "primary": "muetze_noun"
+  },
+  "luft_noun": {
+    "primary": "luft_noun"
+  },
+  "lunsj_noun": {
+    "primary": "mittag_noun",
+    "alternatives": [
+      "mittagessen_noun"
+    ]
+  },
+  "lykke_noun": {
+    "primary": "glueck_noun"
+  },
+  "lyn_noun": {
+    "primary": "blitz_noun"
+  },
+  "lys_noun": {
+    "primary": "licht_noun"
+  },
+  "lyst_noun": {
+    "primary": "lust_noun"
+  },
+  "lytter_noun": {
+    "primary": "hoerer_noun"
+  },
+  "lær_noun": {
+    "primary": "leder_noun"
+  },
+  "lære_noun": {
+    "primary": "lehre_noun"
+  },
+  "lærer_noun": {
+    "primary": "lehrer_noun",
+    "examples": [
+      {
+        "source": "Læreren forklarer grammatikken.",
+        "target": "Der Lehrer erklärt die Grammatik."
+      },
+      {
+        "source": "Læreren vår er hyggelig.",
+        "target": "Unser Lehrer ist nett."
+      },
+      {
+        "source": "Jeg spør læreren.",
+        "target": "Ich frage den Lehrer."
+      }
+    ]
+  },
+  "læringsgruppe_noun": {
+    "primary": "lerngruppe_noun"
+  },
+  "lærling_noun": {
+    "primary": "lehrling_noun"
+  },
+  "lærlingplass_noun": {
+    "primary": "lehrstelle_noun"
+  },
+  "løgn_noun": {
+    "primary": "luege_noun"
+  },
+  "løk_noun": {
+    "primary": "zwiebel_noun"
+  },
+  "lønn_noun": {
+    "primary": "gehalt_noun",
+    "alternatives": [
+      "lohn_noun"
+    ]
+  },
+  "lørdag_noun": {
+    "primary": "samstag_noun"
+  },
+  "løsning_noun": {
+    "primary": "loesung_noun"
+  },
+  "løve_noun": {
+    "primary": "loewe_noun"
+  },
+  "magasin_noun": {
+    "primary": "magazin_noun"
+  },
+  "mage_noun": {
+    "primary": "bauch_noun",
+    "alternatives": [
+      "magen_noun"
+    ]
+  },
+  "mai_noun": {
+    "primary": "mai_noun"
+  },
+  "maler_noun": {
+    "primary": "maler_noun"
+  },
+  "mandag_noun": {
+    "primary": "montag_noun"
+  },
+  "mangel_noun": {
+    "primary": "mangel_noun"
+  },
+  "mann_noun": {
+    "primary": "mann_noun"
+  },
+  "mappe_noun": {
+    "primary": "mappe_noun"
+  },
+  "margarin_noun": {
+    "primary": "margarine_noun"
+  },
+  "marked_noun": {
+    "primary": "markt_noun"
+  },
+  "mars_noun": {
+    "primary": "maerz_noun"
+  },
+  "maskin_noun": {
+    "primary": "maschine_noun"
+  },
+  "mat_noun": {
+    "primary": "essen_noun",
+    "examples": [
+      {
+        "source": "Maten er deilig.",
+        "target": "Das Essen ist lecker."
+      },
+      {
+        "source": "Vi har nok mat.",
+        "target": "Wir haben genug Essen."
+      },
+      {
+        "source": "Maten er klar!",
+        "target": "Das Essen ist fertig!"
+      }
+    ]
+  },
+  "matematikk_noun": {
+    "primary": "mathematik_noun"
+  },
+  "materiale_noun": {
+    "primary": "material_noun"
+  },
+  "matte_noun": {
+    "primary": "mathe_noun"
+  },
+  "mattelekse_noun": {
+    "primary": "mathehausaufgabe_noun"
+  },
+  "matteoppgave_noun": {
+    "primary": "matheaufgabe_noun"
+  },
+  "matvarer_noun": {
+    "primary": "lebensmittel_noun"
+  },
+  "medarbeider_noun": {
+    "primary": "mitarbeiter_noun"
+  },
+  "medelev_noun": {
+    "primary": "mitschueler_noun"
+  },
+  "medeleven_noun": {
+    "primary": "mitschuelerin_noun"
+  },
+  "medier_noun": {
+    "primary": "medien_noun"
+  },
+  "medisin_noun": {
+    "primary": "medikament_noun",
+    "alternatives": [
+      "medizin_noun"
+    ]
+  },
+  "medlem_noun": {
+    "primary": "mitglied_noun"
+  },
+  "mekaniker_noun": {
+    "primary": "mechaniker_noun"
+  },
+  "mel_noun": {
+    "primary": "mehl_noun"
+  },
+  "melding_noun": {
+    "primary": "meldung_noun"
+  },
+  "melk_noun": {
+    "primary": "milch_noun",
+    "examples": [
+      {
+        "source": "Jeg liker å drikke melk.",
+        "target": "Ich trinke gern Milch."
+      },
+      {
+        "source": "Vi trenger melk.",
+        "target": "Wir brauchen Milch."
+      },
+      {
+        "source": "Melken er i kjøleskapet.",
+        "target": "Die Milch ist im Kühlschrank."
+      }
+    ]
+  },
+  "mengde_noun": {
+    "primary": "menge_noun"
+  },
+  "mening_noun": {
+    "primary": "meinung_noun",
+    "alternatives": [
+      "sinn_noun"
+    ]
+  },
+  "menneske_noun": {
+    "primary": "mensch_noun"
+  },
+  "mennesker_noun": {
+    "primary": "leute_noun"
+  },
+  "meny_noun": {
+    "primary": "menue_noun",
+    "alternatives": [
+      "speisekarte_noun"
+    ]
+  },
+  "merke_noun": {
+    "primary": "marke_noun"
+  },
+  "merverdiavgift_noun": {
+    "primary": "mehrwertsteuer_noun"
+  },
+  "messe_noun": {
+    "primary": "messe_noun"
+  },
+  "mester_noun": {
+    "primary": "meister_noun"
+  },
+  "metall_noun": {
+    "primary": "metall_noun"
+  },
+  "meter_noun": {
+    "primary": "meter_noun"
+  },
+  "metode_noun": {
+    "primary": "methode_noun"
+  },
+  "middag_noun": {
+    "primary": "abendessen_noun",
+    "alternatives": [
+      "mittagessen_noun"
+    ]
+  },
+  "middel_noun": {
+    "primary": "mittel_noun"
+  },
+  "midt_noun": {
+    "primary": "mitte_noun"
+  },
+  "miljø_noun": {
+    "primary": "umwelt_noun"
+  },
+  "miljøforurensning_noun": {
+    "primary": "umweltverschmutzung_noun"
+  },
+  "miljøvern_noun": {
+    "primary": "umweltschutz_noun"
+  },
+  "mineralvann_noun": {
+    "primary": "mineralwasser_noun"
+  },
+  "minibank_noun": {
+    "primary": "geldautomat_noun"
+  },
+  "minne_noun": {
+    "primary": "erinnerung_noun"
+  },
+  "minnesmerke_noun": {
+    "primary": "denkmal_noun"
+  },
+  "minoritet_noun": {
+    "primary": "minderheit_noun"
+  },
+  "minutt_noun": {
+    "primary": "minute_noun"
+  },
+  "mistanke_noun": {
+    "primary": "verdacht_noun"
+  },
+  "mobilitet_noun": {
+    "primary": "mobilitaet_noun"
+  },
+  "mobilsvar_noun": {
+    "primary": "mobilbox_noun"
+  },
+  "mobiltelefon_noun": {
+    "primary": "handy_noun",
+    "alternatives": [
+      "mobiltelefon_noun"
+    ]
+  },
+  "modell_noun": {
+    "primary": "modell_noun"
+  },
+  "moglegheit_noun": {
+    "primary": "moeglichkeit_noun"
+  },
+  "mor_noun": {
+    "primary": "mutter_noun",
+    "examples": [
+      {
+        "source": "Moren min lager god mat.",
+        "target": "Meine Mutter kocht gut."
+      },
+      {
+        "source": "Jeg ringer moren min.",
+        "target": "Ich rufe meine Mutter an."
+      },
+      {
+        "source": "Moren min heter Anna.",
+        "target": "Meine Mutter heißt Anna."
+      }
+    ]
+  },
+  "morgen_noun": {
+    "primary": "morgen_noun",
+    "examples": [
+      {
+        "source": "God morgen!",
+        "target": "Guten Morgen!"
+      },
+      {
+        "source": "Om morgenen drikker jeg kaffe.",
+        "target": "Am Morgen trinke ich Kaffee."
+      },
+      {
+        "source": "Morgenen var fin.",
+        "target": "Der Morgen war schön."
+      }
+    ]
+  },
+  "morgenfugl_noun": {
+    "primary": "morgenmensch_noun"
+  },
+  "morgenrutine_noun": {
+    "primary": "morgenroutine_noun"
+  },
+  "moro_noun": {
+    "primary": "spass_noun",
+    "examples": [
+      {
+        "source": "Det er gøy!",
+        "target": "Das macht Spaß!"
+      },
+      {
+        "source": "Vi har det veldig gøy.",
+        "target": "Wir haben viel Spaß."
+      },
+      {
+        "source": "Ha det gøy!",
+        "target": "Viel Spaß!"
+      }
+    ]
+  },
+  "morsmål_noun": {
+    "primary": "muttersprache_noun"
+  },
+  "mot_noun": {
+    "primary": "mut_noun"
+  },
+  "mote_noun": {
+    "primary": "mode_noun"
+  },
+  "motor_noun": {
+    "primary": "motor_noun"
+  },
+  "motorhavari_noun": {
+    "primary": "panne_noun"
+  },
+  "motorkjøretøy_noun": {
+    "primary": "kraftfahrzeug_noun"
+  },
+  "motorsykkel_noun": {
+    "primary": "motorrad_noun"
+  },
+  "motorvei_noun": {
+    "primary": "autobahn_noun"
+  },
+  "motsetning_noun": {
+    "primary": "gegensatz_noun"
+  },
+  "motstander_noun": {
+    "primary": "gegner_noun"
+  },
+  "mottak_noun": {
+    "primary": "empfang_noun"
+  },
+  "mottaker_noun": {
+    "primary": "empfaenger_noun"
+  },
+  "msli_noun": {
+    "primary": "muesli_noun"
+  },
+  "munn_noun": {
+    "primary": "mund_noun"
+  },
+  "mur_noun": {
+    "primary": "mauer_noun"
+  },
+  "mus_noun": {
+    "primary": "maus_noun"
+  },
+  "museum_noun": {
+    "primary": "museum_noun"
+  },
+  "musiker_noun": {
+    "primary": "musiker_noun"
+  },
+  "musikk_noun": {
+    "primary": "musik_noun",
+    "examples": [
+      {
+        "source": "Jeg liker å høre på musikk.",
+        "target": "Ich höre gern Musik."
+      },
+      {
+        "source": "Hvilken musikk liker du?",
+        "target": "Welche Musik magst du?"
+      },
+      {
+        "source": "Musikken er høy.",
+        "target": "Die Musik ist laut."
+      }
+    ]
+  },
+  "musikkundervisning_noun": {
+    "primary": "musikunterricht_noun"
+  },
+  "muskel_noun": {
+    "primary": "muskel_noun"
+  },
+  "myndighet_noun": {
+    "primary": "behoerde_noun"
+  },
+  "mynt_noun": {
+    "primary": "muenze_noun"
+  },
+  "mål_noun": {
+    "primary": "tor_noun",
+    "alternatives": [
+      "ziel_noun"
+    ]
+  },
+  "måltid_noun": {
+    "primary": "mahlzeit_noun"
+  },
+  "måne_noun": {
+    "primary": "mond_noun"
+  },
+  "måned_noun": {
+    "primary": "monat_noun"
+  },
+  "møbler_noun": {
+    "primary": "moebel_noun"
+  },
+  "møte_noun": {
+    "primary": "besprechung_noun"
+  },
+  "møteplass_noun": {
+    "primary": "treffpunkt_noun"
+  },
+  "møye_noun": {
+    "primary": "muehe_noun"
+  },
+  "nabo_noun": {
+    "primary": "nachbar_noun"
+  },
+  "nabokvinn_noun": {
+    "primary": "nachbarin_noun"
+  },
+  "narkotika_noun": {
+    "primary": "droge_noun"
+  },
+  "natt_noun": {
+    "primary": "nacht_noun",
+    "examples": [
+      {
+        "source": "God natt!",
+        "target": "Gute Nacht!"
+      },
+      {
+        "source": "Om natten sover jeg.",
+        "target": "In der Nacht schlafe ich."
+      },
+      {
+        "source": "Natten var lang.",
+        "target": "Die Nacht war lang."
+      }
+    ]
+  },
+  "natur_noun": {
+    "primary": "natur_noun",
+    "examples": [
+      {
+        "source": "Naturen er vakker.",
+        "target": "Die Natur ist schön."
+      },
+      {
+        "source": "Jeg elsker naturen.",
+        "target": "Ich liebe die Natur."
+      },
+      {
+        "source": "Vi er i naturen.",
+        "target": "Wir sind in der Natur."
+      }
+    ]
+  },
+  "navn_noun": {
+    "primary": "name_noun"
+  },
+  "nerve_noun": {
+    "primary": "nerv_noun"
+  },
+  "nese_noun": {
+    "primary": "nase_noun"
+  },
+  "nett_noun": {
+    "primary": "netz_noun"
+  },
+  "nettbrett_noun": {
+    "primary": "tablet_noun"
+  },
+  "nettside_noun": {
+    "primary": "webseite_noun"
+  },
+  "nettverk_noun": {
+    "primary": "netzwerk_noun"
+  },
+  "nevø_noun": {
+    "primary": "neffe_noun"
+  },
+  "niese_noun": {
+    "primary": "nichte_noun"
+  },
+  "notat_noun": {
+    "primary": "notiz_noun"
+  },
+  "november_noun": {
+    "primary": "november_noun"
+  },
+  "nudel_noun": {
+    "primary": "nudel_noun"
+  },
+  "nummer_noun": {
+    "primary": "nummer_noun"
+  },
+  "nyhet_noun": {
+    "primary": "neuigkeit_noun"
+  },
+  "nål_noun": {
+    "primary": "nadel_noun"
+  },
+  "nærhet_noun": {
+    "primary": "naehe_noun"
+  },
+  "næringsmiddel_noun": {
+    "primary": "nahrungsmittel_noun"
+  },
+  "nødanrop_noun": {
+    "primary": "notruf_noun"
+  },
+  "nødstilfelle_noun": {
+    "primary": "notfall_noun"
+  },
+  "nødutgang_noun": {
+    "primary": "notausgang_noun"
+  },
+  "nøkkel_noun": {
+    "primary": "schluessel_noun"
+  },
+  "offer_noun": {
+    "primary": "opfer_noun"
+  },
+  "oktober_noun": {
+    "primary": "oktober_noun"
+  },
+  "olje_noun": {
+    "primary": "oel_noun"
+  },
+  "omgivelser_noun": {
+    "primary": "umgebung_noun"
+  },
+  "omkjøring_noun": {
+    "primary": "umleitung_noun"
+  },
+  "område_noun": {
+    "primary": "bereich_noun",
+    "alternatives": [
+      "gebiet_noun",
+      "gegend_noun"
+    ]
+  },
+  "omsorg_noun": {
+    "primary": "betreuung_noun"
+  },
+  "omvisning_noun": {
+    "primary": "rundgang_noun"
+  },
+  "onkel_noun": {
+    "primary": "onkel_noun"
+  },
+  "onsdag_noun": {
+    "primary": "mittwoch_noun"
+  },
+  "opera_noun": {
+    "primary": "oper_noun"
+  },
+  "operasjon_noun": {
+    "primary": "operation_noun"
+  },
+  "oppdrag_noun": {
+    "primary": "auftrag_noun"
+  },
+  "oppdragelse_noun": {
+    "primary": "erziehung_noun"
+  },
+  "oppfinnelse_noun": {
+    "primary": "erfindung_noun"
+  },
+  "oppfordring_noun": {
+    "primary": "aufforderung_noun"
+  },
+  "oppførsel_noun": {
+    "primary": "verhalten_noun"
+  },
+  "oppgave_noun": {
+    "primary": "aufgabe_noun"
+  },
+  "opphold_noun": {
+    "primary": "aufenthalt_noun"
+  },
+  "opplevelse_noun": {
+    "primary": "erlebnis_noun"
+  },
+  "opplysning_noun": {
+    "primary": "angabe_noun",
+    "alternatives": [
+      "auskunft_noun"
+    ]
+  },
+  "opprinnelse_noun": {
+    "primary": "herkunft_noun"
+  },
+  "oppsigelse_noun": {
+    "primary": "entlassung_noun",
+    "alternatives": [
+      "kuendigung_noun"
+    ]
+  },
+  "oppskrift_noun": {
+    "primary": "rezept_noun"
+  },
+  "opptak_noun": {
+    "primary": "aufnahme_noun"
+  },
+  "opptreden_noun": {
+    "primary": "auftritt_noun"
+  },
+  "oppvarming_noun": {
+    "primary": "heizung_noun"
+  },
+  "ord_noun": {
+    "primary": "wort_noun"
+  },
+  "ordbok_noun": {
+    "primary": "woerterbuch_noun"
+  },
+  "orden_noun": {
+    "primary": "ordnung_noun"
+  },
+  "organisasjon_noun": {
+    "primary": "organisation_noun"
+  },
+  "original_noun": {
+    "primary": "original_noun"
+  },
+  "orkester_noun": {
+    "primary": "orchester_noun"
+  },
+  "ost_noun": {
+    "primary": "kaese_noun",
+    "examples": [
+      {
+        "source": "Jeg liker å spise ost.",
+        "target": "Ich esse gern Käse."
+      },
+      {
+        "source": "Osten er god.",
+        "target": "Der Käse ist lecker."
+      },
+      {
+        "source": "Vi kjøper ost.",
+        "target": "Wir kaufen Käse."
+      }
+    ]
+  },
+  "overbevisning_noun": {
+    "primary": "ueberzeugung_noun"
+  },
+  "overføring_noun": {
+    "primary": "ueberweisung_noun"
+  },
+  "overnatting_noun": {
+    "primary": "uebernachtung_noun",
+    "alternatives": [
+      "unterkunft_noun"
+    ]
+  },
+  "overraskelse_noun": {
+    "primary": "ueberraschung_noun"
+  },
+  "overraskelsesfest_noun": {
+    "primary": "ueberraschungsparty_noun"
+  },
+  "oversettelse_noun": {
+    "primary": "uebersetzung_noun"
+  },
+  "oversetter_noun": {
+    "primary": "uebersetzer_noun"
+  },
+  "overskrift_noun": {
+    "primary": "ueberschrift_noun"
+  },
+  "overtid_noun": {
+    "primary": "ueberstunde_noun"
+  },
+  "pakke_noun": {
+    "primary": "paket_noun"
+  },
+  "papir_noun": {
+    "primary": "papier_noun"
+  },
+  "par_noun": {
+    "primary": "paar_noun"
+  },
+  "paraply_noun": {
+    "primary": "schirm_noun"
+  },
+  "parfyme_noun": {
+    "primary": "parfuem_noun"
+  },
+  "park_noun": {
+    "primary": "park_noun",
+    "examples": [
+      {
+        "source": "Vi går til parken.",
+        "target": "Wir gehen in den Park."
+      },
+      {
+        "source": "Parken er fin.",
+        "target": "Der Park ist schön."
+      },
+      {
+        "source": "Jeg jogger i parken.",
+        "target": "Ich jogge im Park."
+      }
+    ]
+  },
+  "partner_noun": {
+    "primary": "partner_noun"
+  },
+  "pasient_noun": {
+    "primary": "patient_noun"
+  },
+  "pass_noun": {
+    "primary": "pass_noun"
+  },
+  "passasjer_noun": {
+    "primary": "passagier_noun"
+  },
+  "passord_noun": {
+    "primary": "passwort_noun"
+  },
+  "pasta_noun": {
+    "primary": "nudeln_noun"
+  },
+  "pause_noun": {
+    "primary": "pause_noun"
+  },
+  "pels_noun": {
+    "primary": "fell_noun"
+  },
+  "penger_noun": {
+    "primary": "geld_noun"
+  },
+  "penn_noun": {
+    "primary": "stift_noun"
+  },
+  "pensjon_noun": {
+    "primary": "pension_noun",
+    "alternatives": [
+      "rente_noun"
+    ]
+  },
+  "pensjonist_noun": {
+    "primary": "pensionist_noun",
+    "alternatives": [
+      "rentner_noun"
+    ]
+  },
+  "pepper_noun": {
+    "primary": "pfeffer_noun"
+  },
+  "perm_noun": {
+    "primary": "ordner_noun"
+  },
+  "perrong_noun": {
+    "primary": "bahnsteig_noun"
+  },
+  "person_noun": {
+    "primary": "person_noun"
+  },
+  "personale_noun": {
+    "primary": "personal_noun"
+  },
+  "personalia_noun": {
+    "primary": "personalien_noun"
+  },
+  "personlighet_noun": {
+    "primary": "persoenlichkeit_noun"
+  },
+  "piano_noun": {
+    "primary": "klavier_noun",
+    "examples": [
+      {
+        "source": "Jeg spiller piano.",
+        "target": "Ich spiele Klavier."
+      },
+      {
+        "source": "Pianoet er stort.",
+        "target": "Das Klavier ist groß."
+      },
+      {
+        "source": "Hun øver piano hver dag.",
+        "target": "Sie übt jeden Tag Klavier."
+      }
+    ]
+  },
+  "piknik_noun": {
+    "primary": "picknick_noun"
+  },
+  "pille_noun": {
+    "primary": "pille_noun"
+  },
+  "pizza_noun": {
+    "primary": "pizza_noun",
+    "examples": [
+      {
+        "source": "Jeg liker å spise pizza.",
+        "target": "Ich esse gern Pizza."
+      },
+      {
+        "source": "Vi bestiller en pizza.",
+        "target": "Wir bestellen eine Pizza."
+      },
+      {
+        "source": "Pizzaen er deilig.",
+        "target": "Die Pizza ist lecker."
+      }
+    ]
+  },
+  "plakat_noun": {
+    "primary": "plakat_noun",
+    "alternatives": [
+      "poster_noun"
+    ]
+  },
+  "plan_noun": {
+    "primary": "plan_noun"
+  },
+  "planlegging_noun": {
+    "primary": "planung_noun"
+  },
+  "plante_noun": {
+    "primary": "pflanze_noun"
+  },
+  "plass_noun": {
+    "primary": "platz_noun"
+  },
+  "plast_noun": {
+    "primary": "kunststoff_noun",
+    "alternatives": [
+      "plastik_noun"
+    ]
+  },
+  "plaster_noun": {
+    "primary": "pflaster_noun"
+  },
+  "pleier_noun": {
+    "primary": "pfleger_noun"
+  },
+  "plen_noun": {
+    "primary": "rasen_noun"
+  },
+  "plikt_noun": {
+    "primary": "pflicht_noun"
+  },
+  "plomme_noun": {
+    "primary": "pflaume_noun"
+  },
+  "politi_noun": {
+    "primary": "polizei_noun"
+  },
+  "politiker_noun": {
+    "primary": "politiker_noun"
+  },
+  "politikk_noun": {
+    "primary": "politik_noun"
+  },
+  "politikvinne_noun": {
+    "primary": "polizistin_noun"
+  },
+  "politimann_noun": {
+    "primary": "polizist_noun"
+  },
+  "pommes_frites_noun": {
+    "primary": "pommes_noun"
+  },
+  "porsjon_noun": {
+    "primary": "portion_noun"
+  },
+  "pose_noun": {
+    "primary": "tuete_noun"
+  },
+  "post_noun": {
+    "primary": "post_noun"
+  },
+  "postboks_noun": {
+    "primary": "mailbox_noun"
+  },
+  "postbud_noun": {
+    "primary": "brieftraeger_noun"
+  },
+  "postkort_noun": {
+    "primary": "postkarte_noun"
+  },
+  "postnummer_noun": {
+    "primary": "postleitzahl_noun"
+  },
+  "potet_noun": {
+    "primary": "kartoffel_noun"
+  },
+  "praksis_noun": {
+    "primary": "praxis_noun"
+  },
+  "praksisplass_noun": {
+    "primary": "praktikum_noun"
+  },
+  "praktikant_noun": {
+    "primary": "praktikant_noun"
+  },
+  "presentasjon_noun": {
+    "primary": "praesentation_noun"
+  },
+  "presse_noun": {
+    "primary": "presse_noun"
+  },
+  "pris_noun": {
+    "primary": "preis_noun"
+  },
+  "privatundervisning_noun": {
+    "primary": "nachhilfe_noun"
+  },
+  "problem_noun": {
+    "primary": "problem_noun",
+    "examples": [
+      {
+        "source": "Jeg har et problem.",
+        "target": "Ich habe ein Problem."
+      },
+      {
+        "source": "Ikke noe problem!",
+        "target": "Kein Problem!"
+      },
+      {
+        "source": "Hva er problemet?",
+        "target": "Was ist das Problem?"
+      }
+    ]
+  },
+  "produksjon_noun": {
+    "primary": "produktion_noun"
+  },
+  "produkt_noun": {
+    "primary": "produkt_noun"
+  },
+  "produsent_noun": {
+    "primary": "hersteller_noun"
+  },
+  "professor_noun": {
+    "primary": "professor_noun"
+  },
+  "proff_noun": {
+    "primary": "profi_noun"
+  },
+  "proffidrettsutøver_noun": {
+    "primary": "profisportler_noun"
+  },
+  "program_noun": {
+    "primary": "programm_noun"
+  },
+  "prosess_noun": {
+    "primary": "prozess_noun"
+  },
+  "prosjekt_noun": {
+    "primary": "projekt_noun"
+  },
+  "prospekt_noun": {
+    "primary": "prospekt_noun"
+  },
+  "protest_noun": {
+    "primary": "protest_noun"
+  },
+  "prøve_noun": {
+    "primary": "pruefung_noun"
+  },
+  "prøver_noun": {
+    "primary": "pruefungen_noun"
+  },
+  "pub_noun": {
+    "primary": "kneipe_noun"
+  },
+  "publikum_noun": {
+    "primary": "publikum_noun"
+  },
+  "punkt_noun": {
+    "primary": "punkt_noun"
+  },
+  "purring_noun": {
+    "primary": "mahnung_noun"
+  },
+  "pust_noun": {
+    "primary": "atem_noun"
+  },
+  "pute_noun": {
+    "primary": "kissen_noun"
+  },
+  "på_gjenhør_noun": {
+    "primary": "wiederhoeren_noun"
+  },
+  "påmelding_noun": {
+    "primary": "anmeldung_noun"
+  },
+  "pårørende_noun": {
+    "primary": "angehoerige_noun"
+  },
+  "påske_noun": {
+    "primary": "ostern_noun"
+  },
+  "pære_noun": {
+    "primary": "birne_noun"
+  },
+  "pølse_noun": {
+    "primary": "wurst_noun"
+  },
+  "quiz_noun": {
+    "primary": "quiz_noun"
+  },
+  "rabatt_noun": {
+    "primary": "ermaessigung_noun",
+    "alternatives": [
+      "rabatt_noun"
+    ]
+  },
+  "radio_noun": {
+    "primary": "radio_noun"
+  },
+  "rand_noun": {
+    "primary": "rand_noun"
+  },
+  "rapport_noun": {
+    "primary": "bericht_noun"
+  },
+  "reaksjon_noun": {
+    "primary": "reaktion_noun"
+  },
+  "reform_noun": {
+    "primary": "reform_noun"
+  },
+  "regel_noun": {
+    "primary": "regel_noun"
+  },
+  "region_noun": {
+    "primary": "region_noun"
+  },
+  "regn_noun": {
+    "primary": "regen_noun",
+    "examples": [
+      {
+        "source": "Det blir regn.",
+        "target": "Es gibt Regen."
+      },
+      {
+        "source": "Jeg liker ikke regn.",
+        "target": "Ich mag keinen Regen."
+      },
+      {
+        "source": "Regnet stopper.",
+        "target": "Der Regen hört auf."
+      }
+    ]
+  },
+  "regning_noun": {
+    "primary": "rechnung_noun"
+  },
+  "reise_noun": {
+    "primary": "reise_noun"
+  },
+  "reisebyrå_noun": {
+    "primary": "reisebuero_noun"
+  },
+  "reiseguide_noun": {
+    "primary": "reisefuehrer_noun"
+  },
+  "reisemål_noun": {
+    "primary": "reiseziel_noun"
+  },
+  "rekkefølge_noun": {
+    "primary": "reihenfolge_noun"
+  },
+  "rekkje_noun": {
+    "primary": "reihe_noun"
+  },
+  "reklame_noun": {
+    "primary": "reklame_noun",
+    "alternatives": [
+      "werbung_noun"
+    ]
+  },
+  "rekommandert_brev_noun": {
+    "primary": "einschreiben_noun"
+  },
+  "rekord_noun": {
+    "primary": "rekord_noun"
+  },
+  "rekreasjon_noun": {
+    "primary": "erholung_noun"
+  },
+  "religion_noun": {
+    "primary": "religion_noun"
+  },
+  "renseri_noun": {
+    "primary": "reinigung_noun"
+  },
+  "reparasjon_noun": {
+    "primary": "reparatur_noun"
+  },
+  "reportasje_noun": {
+    "primary": "reportage_noun"
+  },
+  "reporter_noun": {
+    "primary": "reporter_noun"
+  },
+  "representant_noun": {
+    "primary": "vertreter_noun"
+  },
+  "representasjon_noun": {
+    "primary": "vertretung_noun"
+  },
+  "resepsjon_noun": {
+    "primary": "rezeption_noun"
+  },
+  "reservasjon_noun": {
+    "primary": "reservierung_noun"
+  },
+  "respekt_noun": {
+    "primary": "respekt_noun"
+  },
+  "rest_noun": {
+    "primary": "rest_noun"
+  },
+  "restaurant_noun": {
+    "primary": "gaststaette_noun",
+    "alternatives": [
+      "restaurant_noun"
+    ]
+  },
+  "resultat_noun": {
+    "primary": "ergebnis_noun"
+  },
+  "retning_noun": {
+    "primary": "richtung_noun"
+  },
+  "retningsnummer_noun": {
+    "primary": "vorwahl_noun"
+  },
+  "rett_noun": {
+    "primary": "gericht_noun"
+  },
+  "rev_noun": {
+    "primary": "fuchs_noun"
+  },
+  "ring_noun": {
+    "primary": "ring_noun"
+  },
+  "ringeklokke_noun": {
+    "primary": "klingel_noun"
+  },
+  "ris_noun": {
+    "primary": "reis_noun"
+  },
+  "risiko_noun": {
+    "primary": "risiko_noun"
+  },
+  "ro_noun": {
+    "primary": "ruhe_noun"
+  },
+  "rolle_noun": {
+    "primary": "rolle_noun"
+  },
+  "rom_noun": {
+    "primary": "raum_noun",
+    "alternatives": [
+      "zimmer_noun"
+    ]
+  },
+  "roman_noun": {
+    "primary": "roman_noun"
+  },
+  "rose_noun": {
+    "primary": "rose_noun"
+  },
+  "runde_noun": {
+    "primary": "runde_noun"
+  },
+  "rundstykke_noun": {
+    "primary": "broetchen_noun"
+  },
+  "rundtur_noun": {
+    "primary": "rundfahrt_noun"
+  },
+  "rusmiddel_noun": {
+    "primary": "suchtmittel_noun"
+  },
+  "rutetabell_noun": {
+    "primary": "fahrplan_noun"
+  },
+  "rygg_noun": {
+    "primary": "ruecken_noun"
+  },
+  "ryggsekk_noun": {
+    "primary": "rucksack_noun"
+  },
+  "råd_noun": {
+    "primary": "rat_noun"
+  },
+  "rådgivning_noun": {
+    "primary": "beratung_noun"
+  },
+  "rådhus_noun": {
+    "primary": "rathaus_noun"
+  },
+  "røyndom_noun": {
+    "primary": "realitaet_noun"
+  },
+  "saft_noun": {
+    "primary": "saft_noun"
+  },
+  "sak_noun": {
+    "primary": "sache_noun"
+  },
+  "saks_noun": {
+    "primary": "schere_noun"
+  },
+  "sal_noun": {
+    "primary": "saal_noun"
+  },
+  "salat_noun": {
+    "primary": "salat_noun"
+  },
+  "salong_noun": {
+    "primary": "salon_noun"
+  },
+  "salt_noun": {
+    "primary": "salz_noun"
+  },
+  "salve_noun": {
+    "primary": "salbe_noun"
+  },
+  "samarbeid_noun": {
+    "primary": "zusammenarbeit_noun"
+  },
+  "samfunn_noun": {
+    "primary": "gesellschaft_noun"
+  },
+  "sammendrag_noun": {
+    "primary": "zusammenfassung_noun"
+  },
+  "sammenheng_noun": {
+    "primary": "zusammenhang_noun"
+  },
+  "sammenligning_noun": {
+    "primary": "vergleich_noun"
+  },
+  "samtale_noun": {
+    "primary": "gespraech_noun"
+  },
+  "samtykke_noun": {
+    "primary": "zustimmung_noun"
+  },
+  "samvittighet_noun": {
+    "primary": "gewissen_noun"
+  },
+  "sand_noun": {
+    "primary": "sand_noun"
+  },
+  "sang_noun": {
+    "primary": "lied_noun"
+  },
+  "sanger_noun": {
+    "primary": "saenger_noun"
+  },
+  "sannhet_noun": {
+    "primary": "wahrheit_noun"
+  },
+  "sau_noun": {
+    "primary": "schaf_noun"
+  },
+  "scene_noun": {
+    "primary": "buehne_noun",
+    "alternatives": [
+      "szene_noun"
+    ]
+  },
+  "schnitzel_noun": {
+    "primary": "schnitzel_noun"
+  },
+  "scooter_noun": {
+    "primary": "motorroller_noun"
+  },
+  "seddel_noun": {
+    "primary": "schein_noun"
+  },
+  "seier_noun": {
+    "primary": "sieg_noun"
+  },
+  "sekk_noun": {
+    "primary": "sack_noun"
+  },
+  "sekretær_noun": {
+    "primary": "sekretaer_noun"
+  },
+  "sekund_noun": {
+    "primary": "sekunde_noun"
+  },
+  "selger_noun": {
+    "primary": "verkaeufer_noun"
+  },
+  "semester_noun": {
+    "primary": "semester_noun"
+  },
+  "seminar_noun": {
+    "primary": "seminar_noun"
+  },
+  "sending_noun": {
+    "primary": "sendung_noun"
+  },
+  "seng_noun": {
+    "primary": "bett_noun",
+    "examples": [
+      {
+        "source": "Jeg legger meg.",
+        "target": "Ich gehe ins Bett."
+      },
+      {
+        "source": "Jeg blir i sengen.",
+        "target": "Ich bleibe im Bett."
+      },
+      {
+        "source": "Sengen er behagelig.",
+        "target": "Das Bett ist bequem."
+      }
+    ]
+  },
+  "sentrum_noun": {
+    "primary": "zentrum_noun"
+  },
+  "september_noun": {
+    "primary": "september_noun"
+  },
+  "serie_noun": {
+    "primary": "serie_noun"
+  },
+  "sertifikat_noun": {
+    "primary": "zertifikat_noun"
+  },
+  "service_noun": {
+    "primary": "service_noun"
+  },
+  "servicemedarbeider_noun": {
+    "primary": "serviceangestellte_noun"
+  },
+  "servise_noun": {
+    "primary": "geschirr_noun"
+  },
+  "sesong_noun": {
+    "primary": "saison_noun"
+  },
+  "sete_noun": {
+    "primary": "sitz_noun"
+  },
+  "setning_noun": {
+    "primary": "satz_noun"
+  },
+  "severdighet_noun": {
+    "primary": "sehenswuerdigkeit_noun"
+  },
+  "side_noun": {
+    "primary": "seite_noun"
+  },
+  "sigarett_noun": {
+    "primary": "zigarette_noun"
+  },
+  "sikkerhet_noun": {
+    "primary": "sicherheit_noun"
+  },
+  "sirkus_noun": {
+    "primary": "zirkus_noun"
+  },
+  "sitron_noun": {
+    "primary": "zitrone_noun"
+  },
+  "situasjon_noun": {
+    "primary": "situation_noun"
+  },
+  "sivilstand_noun": {
+    "primary": "familienstand_d_noun",
+    "alternatives": [
+      "familienstand_noun",
+      "personenstand_noun"
+    ]
+  },
+  "sjanse_noun": {
+    "primary": "chance_noun"
+  },
+  "sjef_noun": {
+    "primary": "chef_noun"
+  },
+  "sjiraff_noun": {
+    "primary": "giraffe_noun"
+  },
+  "sjokolade_noun": {
+    "primary": "schokolade_noun",
+    "examples": [
+      {
+        "source": "Jeg liker å spise sjokolade.",
+        "target": "Ich esse gern Schokolade."
+      },
+      {
+        "source": "Sjokoladen er søt.",
+        "target": "Die Schokolade ist süß."
+      },
+      {
+        "source": "Vil du ha sjokolade?",
+        "target": "Möchtest du Schokolade?"
+      }
+    ]
+  },
+  "sjokoladeegg_noun": {
+    "primary": "schokoladenei_noun"
+  },
+  "sjåfør_noun": {
+    "primary": "fahrer_noun"
+  },
+  "skade_noun": {
+    "primary": "schaden_noun",
+    "alternatives": [
+      "verletzung_noun"
+    ]
+  },
+  "skap_noun": {
+    "primary": "schrank_noun"
+  },
+  "skatt_noun": {
+    "primary": "steuer_noun"
+  },
+  "ski_noun": {
+    "primary": "ski_noun"
+  },
+  "skikk_noun": {
+    "primary": "brauch_noun"
+  },
+  "skilnad_noun": {
+    "primary": "unterschied_noun"
+  },
+  "skilpadde_noun": {
+    "primary": "schildkroete_noun"
+  },
+  "skilsmisse_noun": {
+    "primary": "scheidung_noun"
+  },
+  "skilt_noun": {
+    "primary": "schild_noun"
+  },
+  "skinke_noun": {
+    "primary": "schinken_noun"
+  },
+  "skip_noun": {
+    "primary": "schiff_noun"
+  },
+  "skitt_noun": {
+    "primary": "dreck_noun",
+    "alternatives": [
+      "schmutz_noun"
+    ]
+  },
+  "skive_noun": {
+    "primary": "scheibe_noun"
+  },
+  "skje_noun": {
+    "primary": "loeffel_noun"
+  },
+  "skjegg_noun": {
+    "primary": "bart_noun"
+  },
+  "skjema_noun": {
+    "primary": "formular_noun"
+  },
+  "skjerm_noun": {
+    "primary": "bildschirm_noun",
+    "alternatives": [
+      "monitor_noun"
+    ]
+  },
+  "skjorte_noun": {
+    "primary": "hemd_noun"
+  },
+  "skjørt_noun": {
+    "primary": "rock_noun"
+  },
+  "sko_noun": {
+    "primary": "schuh_noun",
+    "alternatives": [
+      "schuhe_noun"
+    ]
+  },
+  "skog_noun": {
+    "primary": "wald_noun"
+  },
+  "skole_noun": {
+    "primary": "schule_noun",
+    "examples": [
+      {
+        "source": "Jeg går på skolen.",
+        "target": "Ich gehe in die Schule."
+      },
+      {
+        "source": "Skolen begynner klokken 8.",
+        "target": "Die Schule beginnt um 8 Uhr."
+      },
+      {
+        "source": "Hvordan er skolen din?",
+        "target": "Wie ist deine Schule?"
+      }
+    ]
+  },
+  "skolesekk_noun": {
+    "primary": "schultasche_noun"
+  },
+  "skoleår_noun": {
+    "primary": "schuljahr_noun"
+  },
+  "skranke_noun": {
+    "primary": "schalter_noun"
+  },
+  "skrift_noun": {
+    "primary": "schrift_noun"
+  },
+  "skritt_noun": {
+    "primary": "schritt_noun"
+  },
+  "skrivebok_noun": {
+    "primary": "heft_noun"
+  },
+  "skriver_noun": {
+    "primary": "drucker_noun"
+  },
+  "skuespiller_noun": {
+    "primary": "schauspieler_noun"
+  },
+  "skuffelse_noun": {
+    "primary": "enttaeuschung_noun"
+  },
+  "skulder_noun": {
+    "primary": "schulter_noun"
+  },
+  "sky_noun": {
+    "primary": "wolke_noun"
+  },
+  "skygge_noun": {
+    "primary": "schatten_noun"
+  },
+  "skyld_noun": {
+    "primary": "schuld_noun"
+  },
+  "slakter_noun": {
+    "primary": "fleischhauer_noun",
+    "alternatives": [
+      "metzger_noun"
+    ]
+  },
+  "slange_noun": {
+    "primary": "schlange_noun"
+  },
+  "slektning_noun": {
+    "primary": "verwandte_noun"
+  },
+  "slott_noun": {
+    "primary": "schloss_noun"
+  },
+  "slutt_noun": {
+    "primary": "ende_noun",
+    "alternatives": [
+      "schluss_noun"
+    ]
+  },
+  "smak_noun": {
+    "primary": "geschmack_noun"
+  },
+  "smerte_noun": {
+    "primary": "schmerz_noun"
+  },
+  "smertestillende_noun": {
+    "primary": "schmerzmittel_noun"
+  },
+  "smykker_noun": {
+    "primary": "schmuck_noun"
+  },
+  "smør_noun": {
+    "primary": "butter_noun"
+  },
+  "snue_noun": {
+    "primary": "schnupfen_noun"
+  },
+  "snø_noun": {
+    "primary": "schnee_noun",
+    "examples": [
+      {
+        "source": "Det snør! Det kommer snø.",
+        "target": "Es schneit! Es gibt Schnee."
+      },
+      {
+        "source": "Snøen er hvit.",
+        "target": "Der Schnee ist weiß."
+      },
+      {
+        "source": "Vi leker i snøen.",
+        "target": "Wir spielen im Schnee."
+      }
+    ]
+  },
+  "sofa_noun": {
+    "primary": "couch_noun",
+    "alternatives": [
+      "sofa_noun"
+    ]
+  },
+  "sokk_noun": {
+    "primary": "socke_noun"
+  },
+  "sol_noun": {
+    "primary": "sonne_noun",
+    "examples": [
+      {
+        "source": "Sola skinner.",
+        "target": "Die Sonne scheint."
+      },
+      {
+        "source": "Jeg ligger i sola.",
+        "target": "Ich liege in der Sonne."
+      },
+      {
+        "source": "Sola er varm.",
+        "target": "Die Sonne ist warm."
+      }
+    ]
+  },
+  "solkrem_noun": {
+    "primary": "sonnencreme_noun"
+  },
+  "sommer_noun": {
+    "primary": "sommer_noun",
+    "examples": [
+      {
+        "source": "Om sommeren er det varmt.",
+        "target": "Im Sommer ist es warm."
+      },
+      {
+        "source": "Sommeren er min favorittårstid.",
+        "target": "Der Sommer ist meine Lieblingsjahreszeit."
+      },
+      {
+        "source": "Hva gjør du om sommeren?",
+        "target": "Was machst du im Sommer?"
+      }
+    ]
+  },
+  "sommerferie_noun": {
+    "primary": "sommerferien_noun"
+  },
+  "sommerklær_noun": {
+    "primary": "sommerkleidung_noun"
+  },
+  "sone_noun": {
+    "primary": "zone_noun"
+  },
+  "sopp_noun": {
+    "primary": "pilz_noun"
+  },
+  "sosialarbeider_noun": {
+    "primary": "sozialarbeiter_noun"
+  },
+  "soverom_noun": {
+    "primary": "schlafzimmer_noun"
+  },
+  "spasertur_noun": {
+    "primary": "spaziergang_noun"
+  },
+  "speil_noun": {
+    "primary": "spiegel_noun"
+  },
+  "spesialist_noun": {
+    "primary": "spezialist_noun"
+  },
+  "spiker_noun": {
+    "primary": "nagel_noun"
+  },
+  "spill_noun": {
+    "primary": "spiel_noun",
+    "examples": [
+      {
+        "source": "Spillet er spennende.",
+        "target": "Das Spiel ist spannend."
+      },
+      {
+        "source": "Vi spiller et spill.",
+        "target": "Wir spielen ein Spiel."
+      },
+      {
+        "source": "Vant du spillet?",
+        "target": "Hast du das Spiel gewonnen?"
+      }
+    ]
+  },
+  "spiller_noun": {
+    "primary": "spieler_noun"
+  },
+  "spisevogn_noun": {
+    "primary": "speisewagen_noun"
+  },
+  "spor_noun": {
+    "primary": "gleis_noun",
+    "alternatives": [
+      "spur_noun"
+    ]
+  },
+  "sport_noun": {
+    "primary": "sport_noun",
+    "examples": [
+      {
+        "source": "Jeg liker å drive med sport.",
+        "target": "Ich mache gern Sport."
+      },
+      {
+        "source": "Hvilken sport liker du?",
+        "target": "Welchen Sport magst du?"
+      },
+      {
+        "source": "Sport er sunt.",
+        "target": "Sport ist gesund."
+      }
+    ]
+  },
+  "språk_noun": {
+    "primary": "sprache_noun",
+    "examples": [
+      {
+        "source": "Jeg lærer et nytt språk.",
+        "target": "Ich lerne eine neue Sprache."
+      },
+      {
+        "source": "Hvilke språk snakker du?",
+        "target": "Welche Sprachen sprichst du?"
+      },
+      {
+        "source": "Tysk er et fint språk.",
+        "target": "Deutsch ist eine schöne Sprache."
+      }
+    ]
+  },
+  "sprøyte_noun": {
+    "primary": "spritze_noun"
+  },
+  "spørreundersøkelse_noun": {
+    "primary": "umfrage_noun"
+  },
+  "spørsmål_noun": {
+    "primary": "frage_noun",
+    "examples": [
+      {
+        "source": "Jeg har et spørsmål.",
+        "target": "Ich habe eine Frage."
+      },
+      {
+        "source": "Det er et godt spørsmål.",
+        "target": "Das ist eine gute Frage."
+      },
+      {
+        "source": "Har du spørsmål?",
+        "target": "Hast du Fragen?"
+      }
+    ]
+  },
+  "stadion_noun": {
+    "primary": "stadion_noun"
+  },
+  "standpunkt_noun": {
+    "primary": "standpunkt_noun"
+  },
+  "start_noun": {
+    "primary": "start_noun"
+  },
+  "stasjon_noun": {
+    "primary": "laufwerk_noun",
+    "alternatives": [
+      "station_noun"
+    ]
+  },
+  "statistikk_noun": {
+    "primary": "statistik_noun"
+  },
+  "stearinlys_noun": {
+    "primary": "kerze_noun"
+  },
+  "sted_noun": {
+    "primary": "ort_noun"
+  },
+  "stein_noun": {
+    "primary": "stein_noun"
+  },
+  "stemme_noun": {
+    "primary": "stimme_noun"
+  },
+  "stemning_noun": {
+    "primary": "stimmung_noun"
+  },
+  "stempel_noun": {
+    "primary": "stempel_noun"
+  },
+  "stikkontakt_noun": {
+    "primary": "steckdose_noun"
+  },
+  "stil_noun": {
+    "primary": "stil_noun"
+  },
+  "stilling_noun": {
+    "primary": "stelle_noun"
+  },
+  "stipend_noun": {
+    "primary": "stipendium_noun"
+  },
+  "stjerne_noun": {
+    "primary": "star_noun",
+    "alternatives": [
+      "stern_noun"
+    ]
+  },
+  "stoff_noun": {
+    "primary": "stoff_noun"
+  },
+  "stol_noun": {
+    "primary": "stuhl_noun"
+  },
+  "stopp_noun": {
+    "primary": "halt_noun"
+  },
+  "storby_noun": {
+    "primary": "metropole_noun"
+  },
+  "storfe_noun": {
+    "primary": "rind_noun"
+  },
+  "storleik_noun": {
+    "primary": "groesse_noun"
+  },
+  "storm_noun": {
+    "primary": "sturm_noun"
+  },
+  "straff_noun": {
+    "primary": "strafe_noun"
+  },
+  "strand_noun": {
+    "primary": "strand_noun",
+    "examples": [
+      {
+        "source": "Vi går til stranden.",
+        "target": "Wir gehen an den Strand."
+      },
+      {
+        "source": "Stranden er fin.",
+        "target": "Der Strand ist schön."
+      },
+      {
+        "source": "Jeg ligger på stranden.",
+        "target": "Ich liege am Strand."
+      }
+    ]
+  },
+  "streik_noun": {
+    "primary": "streik_noun"
+  },
+  "strekning_noun": {
+    "primary": "strecke_noun"
+  },
+  "stress_noun": {
+    "primary": "stress_noun"
+  },
+  "strøm_noun": {
+    "primary": "strom_noun"
+  },
+  "strømpe_noun": {
+    "primary": "strumpf_noun"
+  },
+  "student_noun": {
+    "primary": "student_noun"
+  },
+  "studerende_noun": {
+    "primary": "studierende_noun"
+  },
+  "studie_noun": {
+    "primary": "studie_noun"
+  },
+  "studio_noun": {
+    "primary": "studio_noun"
+  },
+  "studium_noun": {
+    "primary": "studium_noun"
+  },
+  "stue_noun": {
+    "primary": "wohnzimmer_noun"
+  },
+  "stykke_noun": {
+    "primary": "stueck_noun"
+  },
+  "støpsel_noun": {
+    "primary": "stecker_noun"
+  },
+  "støtte_noun": {
+    "primary": "foerderung_noun",
+    "alternatives": [
+      "unterstuetzung_noun"
+    ]
+  },
+  "støv_noun": {
+    "primary": "staub_noun"
+  },
+  "støvel_noun": {
+    "primary": "stiefel_noun"
+  },
+  "støy_noun": {
+    "primary": "laerm_noun"
+  },
+  "sukker_noun": {
+    "primary": "zucker_noun"
+  },
+  "suksess_noun": {
+    "primary": "erfolg_noun"
+  },
+  "sult_noun": {
+    "primary": "hunger_noun"
+  },
+  "sum_noun": {
+    "primary": "summe_noun"
+  },
+  "superhelt_noun": {
+    "primary": "superheld_noun"
+  },
+  "supermarked_noun": {
+    "primary": "supermarkt_noun",
+    "examples": [
+      {
+        "source": "Jeg går til supermarkedet.",
+        "target": "Ich gehe in den Supermarkt."
+      },
+      {
+        "source": "Supermarkedet er rundt hjørnet.",
+        "target": "Der Supermarkt ist um die Ecke."
+      },
+      {
+        "source": "Vi handler i supermarkedet.",
+        "target": "Wir kaufen im Supermarkt ein."
+      }
+    ]
+  },
+  "suppe_noun": {
+    "primary": "suppe_noun"
+  },
+  "suvenir_noun": {
+    "primary": "souvenir_noun"
+  },
+  "svangerskap_noun": {
+    "primary": "schwangerschaft_noun"
+  },
+  "svar_noun": {
+    "primary": "antwort_noun"
+  },
+  "svømmebasseng_noun": {
+    "primary": "schwimmbad_noun"
+  },
+  "syk_person_noun": {
+    "primary": "kranke_noun"
+  },
+  "sykdom_noun": {
+    "primary": "krankheit_noun"
+  },
+  "sykehus_noun": {
+    "primary": "krankenhaus_noun"
+  },
+  "sykekasse_noun": {
+    "primary": "krankenkasse_noun"
+  },
+  "sykepleier_noun": {
+    "primary": "krankenpfleger_noun",
+    "alternatives": [
+      "krankenschwester_noun"
+    ]
+  },
+  "sykkel_noun": {
+    "primary": "fahrrad_noun",
+    "examples": [
+      {
+        "source": "Jeg sykler.",
+        "target": "Ich fahre mit dem Fahrrad."
+      },
+      {
+        "source": "Sykkelen min er ny.",
+        "target": "Mein Fahrrad ist neu."
+      },
+      {
+        "source": "Har du en sykkel?",
+        "target": "Hast du ein Fahrrad?"
+      }
+    ]
+  },
+  "sykkeltur_noun": {
+    "primary": "fahrradtour_noun"
+  },
+  "syklist_noun": {
+    "primary": "radfahrer_noun"
+  },
+  "syltetøy_noun": {
+    "primary": "konfituere_noun",
+    "alternatives": [
+      "marmelade_noun"
+    ]
+  },
+  "symbol_noun": {
+    "primary": "symbol_noun"
+  },
+  "system_noun": {
+    "primary": "system_noun"
+  },
+  "syster_noun": {
+    "primary": "schwester_noun",
+    "examples": [
+      {
+        "source": "Jeg har en søster.",
+        "target": "Ich habe eine Schwester."
+      },
+      {
+        "source": "Søsteren min går på skolen.",
+        "target": "Meine Schwester geht zur Schule."
+      },
+      {
+        "source": "Har du en søster?",
+        "target": "Hast du eine Schwester?"
+      }
+    ]
+  },
+  "såpe_noun": {
+    "primary": "seife_noun"
+  },
+  "sår_noun": {
+    "primary": "wunde_noun"
+  },
+  "søknad_noun": {
+    "primary": "antrag_noun"
+  },
+  "søndag_noun": {
+    "primary": "sonntag_noun"
+  },
+  "sønn_noun": {
+    "primary": "sohn_noun"
+  },
+  "søppel_noun": {
+    "primary": "muell_noun"
+  },
+  "søppelbøtte_noun": {
+    "primary": "abfalleimer_noun"
+  },
+  "søppeldunk_noun": {
+    "primary": "muelltonne_noun"
+  },
+  "søppeltømming_noun": {
+    "primary": "muellabfuhr_noun"
+  },
+  "søsken_noun": {
+    "primary": "geschwister_noun"
+  },
+  "tabell_noun": {
+    "primary": "tabelle_noun"
+  },
+  "tablett_noun": {
+    "primary": "tablette_noun"
+  },
+  "tak_noun": {
+    "primary": "dach_noun"
+  },
+  "takk_noun": {
+    "primary": "dank_noun"
+  },
+  "tale_noun": {
+    "primary": "rede_noun"
+  },
+  "talent_noun": {
+    "primary": "talent_noun"
+  },
+  "tall_noun": {
+    "primary": "zahl_noun"
+  },
+  "tallerken_noun": {
+    "primary": "teller_noun"
+  },
+  "tang_noun": {
+    "primary": "zange_noun"
+  },
+  "tanke_noun": {
+    "primary": "gedanke_noun"
+  },
+  "tann_noun": {
+    "primary": "zahn_noun"
+  },
+  "tannbørste_noun": {
+    "primary": "zahnbuerste_noun"
+  },
+  "tante_noun": {
+    "primary": "tante_noun"
+  },
+  "tap_noun": {
+    "primary": "verlust_noun"
+  },
+  "taper_noun": {
+    "primary": "verlierer_noun"
+  },
+  "tast_noun": {
+    "primary": "taste_noun"
+  },
+  "tastatur_noun": {
+    "primary": "tastatur_noun"
+  },
+  "taubane_noun": {
+    "primary": "seilbahn_noun"
+  },
+  "tavle_noun": {
+    "primary": "tafel_noun"
+  },
+  "taxi_noun": {
+    "primary": "taxi_noun"
+  },
+  "tbane_noun": {
+    "primary": "ubahn_noun"
+  },
+  "te_noun": {
+    "primary": "tee_noun",
+    "examples": [
+      {
+        "source": "Jeg drikker te.",
+        "target": "Ich trinke Tee."
+      },
+      {
+        "source": "Vil du ha te?",
+        "target": "Möchtest du Tee?"
+      },
+      {
+        "source": "Teen er varm.",
+        "target": "Der Tee ist warm."
+      }
+    ]
+  },
+  "teater_noun": {
+    "primary": "theater_noun",
+    "examples": [
+      {
+        "source": "Vi går på teater.",
+        "target": "Wir gehen ins Theater."
+      },
+      {
+        "source": "Teateret er i byen.",
+        "target": "Das Theater ist in der Stadt."
+      },
+      {
+        "source": "Jeg liker teater.",
+        "target": "Ich mag Theater."
+      }
+    ]
+  },
+  "tegn_noun": {
+    "primary": "zeichen_noun"
+  },
+  "tegning_noun": {
+    "primary": "zeichnung_noun"
+  },
+  "teknikk_noun": {
+    "primary": "technik_noun"
+  },
+  "teknologi_noun": {
+    "primary": "technologie_noun"
+  },
+  "tekst_noun": {
+    "primary": "text_noun"
+  },
+  "telefon_noun": {
+    "primary": "telefon_noun"
+  },
+  "telefonnummer_noun": {
+    "primary": "rufnummer_noun"
+  },
+  "telefonsamtale_noun": {
+    "primary": "anruf_noun"
+  },
+  "telefonsvarer_noun": {
+    "primary": "anrufbeantworter_noun"
+  },
+  "telt_noun": {
+    "primary": "zelt_noun"
+  },
+  "tema_noun": {
+    "primary": "thema_noun"
+  },
+  "temperatur_noun": {
+    "primary": "temperatur_noun"
+  },
+  "tempo_noun": {
+    "primary": "tempo_noun"
+  },
+  "tenner_noun": {
+    "primary": "zuender_noun"
+  },
+  "tennis_noun": {
+    "primary": "tennis_noun"
+  },
+  "teori_noun": {
+    "primary": "theorie_noun"
+  },
+  "teppe_noun": {
+    "primary": "decke_noun",
+    "alternatives": [
+      "teppich_noun"
+    ]
+  },
+  "terapi_noun": {
+    "primary": "therapie_noun"
+  },
+  "terrasse_noun": {
+    "primary": "terrasse_noun"
+  },
+  "test_noun": {
+    "primary": "test_noun"
+  },
+  "tid_noun": {
+    "primary": "zeit_noun",
+    "examples": [
+      {
+        "source": "Jeg har ikke tid.",
+        "target": "Ich habe keine Zeit."
+      },
+      {
+        "source": "Har du tid?",
+        "target": "Hast du Zeit?"
+      },
+      {
+        "source": "Tiden går fort.",
+        "target": "Die Zeit vergeht schnell."
+      }
+    ]
+  },
+  "tidspunkt_noun": {
+    "primary": "zeitpunkt_noun"
+  },
+  "tidsskrift_noun": {
+    "primary": "zeitschrift_noun"
+  },
+  "tiger_noun": {
+    "primary": "tiger_noun"
+  },
+  "tilbakekomst_noun": {
+    "primary": "rueckkehr_noun"
+  },
+  "tilbud_noun": {
+    "primary": "angebot_noun"
+  },
+  "tilbyder_noun": {
+    "primary": "anbieter_noun"
+  },
+  "tilfeldighet_noun": {
+    "primary": "zufall_noun"
+  },
+  "tilfelle_noun": {
+    "primary": "fall_noun"
+  },
+  "tilgang_noun": {
+    "primary": "zugang_noun"
+  },
+  "tilhører_noun": {
+    "primary": "zuhoerer_noun"
+  },
+  "tilkobling_noun": {
+    "primary": "anschluss_noun"
+  },
+  "tillatelse_noun": {
+    "primary": "erlaubnis_noun"
+  },
+  "tillegg_noun": {
+    "primary": "zuschlag_noun"
+  },
+  "tillitsvalgt_noun": {
+    "primary": "betriebsrat_noun"
+  },
+  "tilskuer_noun": {
+    "primary": "zuschauer_noun"
+  },
+  "tilstand_noun": {
+    "primary": "zustand_noun"
+  },
+  "tiltale_noun": {
+    "primary": "anrede_noun"
+  },
+  "time_noun": {
+    "primary": "stunde_noun",
+    "examples": [
+      {
+        "source": "Timen varer 45 minutter.",
+        "target": "Die Stunde dauert 45 Minuten."
+      },
+      {
+        "source": "Om en time er jeg ferdig.",
+        "target": "In einer Stunde bin ich fertig."
+      },
+      {
+        "source": "Vi har tysktime nå.",
+        "target": "Wir haben jetzt Deutschstunde."
+      }
+    ]
+  },
+  "timeplan_noun": {
+    "primary": "stundenplan_noun"
+  },
+  "ting_noun": {
+    "primary": "ding_noun"
+  },
+  "tips_noun": {
+    "primary": "tipp_noun",
+    "alternatives": [
+      "trinkgeld_noun"
+    ]
+  },
+  "tirsdag_noun": {
+    "primary": "dienstag_noun"
+  },
+  "tittel_noun": {
+    "primary": "titel_noun"
+  },
+  "tjenestemann_noun": {
+    "primary": "beamte_noun"
+  },
+  "toalett_noun": {
+    "primary": "toilette_noun"
+  },
+  "tog_noun": {
+    "primary": "zug_noun"
+  },
+  "toll_noun": {
+    "primary": "zoll_noun"
+  },
+  "tomat_noun": {
+    "primary": "tomate_noun"
+  },
+  "tomatsaus_noun": {
+    "primary": "tomatensosse_noun"
+  },
+  "tomt_noun": {
+    "primary": "grundstueck_noun"
+  },
+  "torden_noun": {
+    "primary": "donner_noun"
+  },
+  "tordenvær_noun": {
+    "primary": "gewitter_noun"
+  },
+  "torsdag_noun": {
+    "primary": "donnerstag_noun"
+  },
+  "tradisjon_noun": {
+    "primary": "tradition_noun"
+  },
+  "trafikk_noun": {
+    "primary": "verkehr_noun"
+  },
+  "trafikklys_noun": {
+    "primary": "ampel_noun"
+  },
+  "trafikkork_noun": {
+    "primary": "stau_noun"
+  },
+  "trafikkskilt_noun": {
+    "primary": "verkehrszeichen_noun"
+  },
+  "transport_noun": {
+    "primary": "transport_noun"
+  },
+  "transportmiddel_noun": {
+    "primary": "verkehrsmittel_noun"
+  },
+  "trapp_noun": {
+    "primary": "treppe_noun"
+  },
+  "trappeoppgang_noun": {
+    "primary": "stiegenhaus_noun",
+    "alternatives": [
+      "treppenhaus_noun"
+    ]
+  },
+  "tre_noun": {
+    "primary": "baum_noun",
+    "alternatives": [
+      "holz_noun"
+    ]
+  },
+  "trener_noun": {
+    "primary": "trainer_noun"
+  },
+  "trening_noun": {
+    "primary": "training_noun"
+  },
+  "trikk_noun": {
+    "primary": "strassenbahn_noun",
+    "alternatives": [
+      "tram_noun"
+    ]
+  },
+  "trinn_noun": {
+    "primary": "stufe_noun"
+  },
+  "tskjorte_noun": {
+    "primary": "tshirt_noun"
+  },
+  "tur_noun": {
+    "primary": "tour_noun"
+  },
+  "turisme_noun": {
+    "primary": "tourismus_noun"
+  },
+  "turist_noun": {
+    "primary": "tourist_noun"
+  },
+  "turnering_noun": {
+    "primary": "turnier_noun"
+  },
+  "tvil_noun": {
+    "primary": "zweifel_noun"
+  },
+  "type_noun": {
+    "primary": "typ_noun"
+  },
+  "tysk_noun": {
+    "primary": "deutsch_noun"
+  },
+  "tyv_noun": {
+    "primary": "dieb_noun"
+  },
+  "tåke_noun": {
+    "primary": "nebel_noun"
+  },
+  "tålmodighet_noun": {
+    "primary": "geduld_noun"
+  },
+  "tåre_noun": {
+    "primary": "traene_noun"
+  },
+  "tårn_noun": {
+    "primary": "turm_noun"
+  },
+  "tørst_noun": {
+    "primary": "durst_noun"
+  },
+  "uflaks_noun": {
+    "primary": "pech_noun"
+  },
+  "ulempe_noun": {
+    "primary": "nachteil_noun"
+  },
+  "ull_noun": {
+    "primary": "wolle_noun"
+  },
+  "ulv_noun": {
+    "primary": "wolf_noun"
+  },
+  "ulykke_noun": {
+    "primary": "unfall_noun",
+    "alternatives": [
+      "unglueck_noun"
+    ]
+  },
+  "under_noun": {
+    "primary": "wunder_noun"
+  },
+  "underholdning_noun": {
+    "primary": "unterhaltung_noun"
+  },
+  "underskrift_noun": {
+    "primary": "unterschrift_noun"
+  },
+  "undersøkelse_noun": {
+    "primary": "recherche_noun",
+    "alternatives": [
+      "untersuchung_noun"
+    ]
+  },
+  "undervisning_noun": {
+    "primary": "unterricht_noun"
+  },
+  "ungdom_noun": {
+    "primary": "jugend_noun",
+    "alternatives": [
+      "jugendliche_noun"
+    ]
+  },
+  "ungdomsherberge_noun": {
+    "primary": "jugendherberge_noun"
+  },
+  "ungdomsskole_noun": {
+    "primary": "realschule_noun"
+  },
+  "uniform_noun": {
+    "primary": "uniform_noun"
+  },
+  "universitet_noun": {
+    "primary": "universitaet_noun"
+  },
+  "unnskyldning_noun": {
+    "primary": "entschuldigung_noun"
+  },
+  "unntak_noun": {
+    "primary": "ausnahme_noun"
+  },
+  "utdanning_noun": {
+    "primary": "ausbildung_noun"
+  },
+  "utflukt_noun": {
+    "primary": "ausflug_noun"
+  },
+  "utfordring_noun": {
+    "primary": "herausforderung_noun"
+  },
+  "utgang_noun": {
+    "primary": "ausgang_noun"
+  },
+  "utgave_noun": {
+    "primary": "ausgabe_noun"
+  },
+  "utkjørsel_noun": {
+    "primary": "ausfahrt_noun"
+  },
+  "utland_noun": {
+    "primary": "ausland_noun"
+  },
+  "utleie_noun": {
+    "primary": "vermietung_noun"
+  },
+  "utleier_noun": {
+    "primary": "vermieter_noun"
+  },
+  "utlending_noun": {
+    "primary": "auslaender_noun"
+  },
+  "utsagn_noun": {
+    "primary": "aussage_noun"
+  },
+  "utseende_noun": {
+    "primary": "aussehen_noun"
+  },
+  "utsikt_noun": {
+    "primary": "aussicht_noun"
+  },
+  "utstilling_noun": {
+    "primary": "ausstellung_noun"
+  },
+  "utstillingsvindu_noun": {
+    "primary": "schaufenster_noun"
+  },
+  "uttale_noun": {
+    "primary": "aussprache_noun"
+  },
+  "uttrykk_noun": {
+    "primary": "ausdruck_noun"
+  },
+  "utvalg_noun": {
+    "primary": "auswahl_noun"
+  },
+  "utvikling_noun": {
+    "primary": "entwicklung_noun"
+  },
+  "vaktmester_noun": {
+    "primary": "abwart_noun",
+    "alternatives": [
+      "hausmeister_noun"
+    ]
+  },
+  "valg_noun": {
+    "primary": "wahl_noun"
+  },
+  "vane_noun": {
+    "primary": "gewohnheit_noun"
+  },
+  "vann_noun": {
+    "primary": "wasser_noun",
+    "examples": [
+      {
+        "source": "Jeg drikker vann.",
+        "target": "Ich trinke Wasser."
+      },
+      {
+        "source": "Kan jeg få et glass vann?",
+        "target": "Kann ich ein Glas Wasser haben?"
+      },
+      {
+        "source": "Vannet er kaldt.",
+        "target": "Das Wasser ist kalt."
+      }
+    ]
+  },
+  "vanskelighet_noun": {
+    "primary": "schwierigkeit_noun"
+  },
+  "vare_noun": {
+    "primary": "ware_noun"
+  },
+  "varehus_noun": {
+    "primary": "kaufhaus_noun"
+  },
+  "varme_noun": {
+    "primary": "waerme_noun"
+  },
+  "vase_noun": {
+    "primary": "vase_noun"
+  },
+  "vaskemiddel_noun": {
+    "primary": "waschmittel_noun"
+  },
+  "vegg_noun": {
+    "primary": "wand_noun"
+  },
+  "vei_noun": {
+    "primary": "weg_noun"
+  },
+  "veikryss_noun": {
+    "primary": "kreuzung_noun"
+  },
+  "veileder_noun": {
+    "primary": "betreuer_noun"
+  },
+  "veiledning_noun": {
+    "primary": "anleitung_noun"
+  },
+  "veke_noun": {
+    "primary": "woche_noun",
+    "examples": [
+      {
+        "source": "Denne uken har jeg mye å gjøre.",
+        "target": "Diese Woche habe ich viel zu tun."
+      },
+      {
+        "source": "Uken har sju dager.",
+        "target": "Die Woche hat sieben Tage."
+      },
+      {
+        "source": "Neste uke har jeg ferie.",
+        "target": "Nächste Woche habe ich Urlaub."
+      }
+    ]
+  },
+  "vekkerklokke_noun": {
+    "primary": "wecker_noun"
+  },
+  "vekt_noun": {
+    "primary": "gewicht_noun"
+  },
+  "venn_noun": {
+    "primary": "freund_noun",
+    "examples": [
+      {
+        "source": "Han er min beste venn.",
+        "target": "Er ist mein bester Freund."
+      },
+      {
+        "source": "Jeg møter vennen min.",
+        "target": "Ich treffe meinen Freund."
+      },
+      {
+        "source": "Har du mange venner?",
+        "target": "Hast du viele Freunde?"
+      }
+    ]
+  },
+  "venninne_noun": {
+    "primary": "freundin_noun",
+    "examples": [
+      {
+        "source": "Hun er min beste venninne.",
+        "target": "Sie ist meine beste Freundin."
+      },
+      {
+        "source": "Jeg ringer venninnen min.",
+        "target": "Ich rufe meine Freundin an."
+      },
+      {
+        "source": "Venninnen min bor i Berlin.",
+        "target": "Meine Freundin wohnt in Berlin."
+      }
+    ]
+  },
+  "vennskap_noun": {
+    "primary": "freundschaft_noun"
+  },
+  "verden_noun": {
+    "primary": "welt_noun"
+  },
+  "verk_noun": {
+    "primary": "werk_noun"
+  },
+  "verksted_noun": {
+    "primary": "werkstatt_noun",
+    "alternatives": [
+      "workshop_noun"
+    ]
+  },
+  "verktøy_noun": {
+    "primary": "werkzeug_noun"
+  },
+  "vert_noun": {
+    "primary": "wirt_noun"
+  },
+  "vertinne_noun": {
+    "primary": "wirtin_noun"
+  },
+  "veske_noun": {
+    "primary": "tasche_noun"
+  },
+  "video_noun": {
+    "primary": "video_noun"
+  },
+  "videreutdanning_noun": {
+    "primary": "fortbildung_noun",
+    "alternatives": [
+      "weiterbildung_noun"
+    ]
+  },
+  "vikar_noun": {
+    "primary": "aushilfe_noun"
+  },
+  "vin_noun": {
+    "primary": "wein_noun"
+  },
+  "vind_noun": {
+    "primary": "wind_noun"
+  },
+  "vindu_noun": {
+    "primary": "fenster_noun"
+  },
+  "vinner_noun": {
+    "primary": "sieger_noun"
+  },
+  "vinter_noun": {
+    "primary": "winter_noun",
+    "examples": [
+      {
+        "source": "Om vinteren er det kaldt.",
+        "target": "Im Winter ist es kalt."
+      },
+      {
+        "source": "Jeg står på ski om vinteren.",
+        "target": "Ich fahre im Winter Ski."
+      },
+      {
+        "source": "Vinteren er lang i Norge.",
+        "target": "Der Winter ist lang in Norwegen."
+      }
+    ]
+  },
+  "virkning_noun": {
+    "primary": "wirkung_noun"
+  },
+  "virksomhet_noun": {
+    "primary": "taetigkeit_noun"
+  },
+  "virus_noun": {
+    "primary": "virus_noun"
+  },
+  "visittkort_noun": {
+    "primary": "visitenkarte_noun"
+  },
+  "visum_noun": {
+    "primary": "visum_noun"
+  },
+  "vitamin_noun": {
+    "primary": "vitamin_noun"
+  },
+  "vitenskap_noun": {
+    "primary": "wissenschaft_noun"
+  },
+  "vitenskapsmann_noun": {
+    "primary": "wissenschaftler_noun"
+  },
+  "vitne_noun": {
+    "primary": "zeuge_noun"
+  },
+  "vitnemål_noun": {
+    "primary": "zeugnis_noun"
+  },
+  "vits_noun": {
+    "primary": "witz_noun"
+  },
+  "vogn_noun": {
+    "primary": "wagen_noun"
+  },
+  "voksen_noun": {
+    "primary": "erwachsene_noun"
+  },
+  "vold_noun": {
+    "primary": "gewalt_noun"
+  },
+  "volleyball_noun": {
+    "primary": "volleyball_noun"
+  },
+  "vår_noun": {
+    "primary": "fruehling_noun",
+    "examples": [
+      {
+        "source": "Om våren blomstrer blomstene.",
+        "target": "Im Frühling blühen die Blumen."
+      },
+      {
+        "source": "Våren kommer.",
+        "target": "Der Frühling kommt."
+      },
+      {
+        "source": "Jeg liker våren.",
+        "target": "Ich mag den Frühling."
+      }
+    ]
+  },
+  "vær_noun": {
+    "primary": "wetter_noun",
+    "examples": [
+      {
+        "source": "Været er fint.",
+        "target": "Das Wetter ist schön."
+      },
+      {
+        "source": "Hvordan er været?",
+        "target": "Wie ist das Wetter?"
+      },
+      {
+        "source": "Været blir bedre.",
+        "target": "Das Wetter wird besser."
+      }
+    ]
+  },
+  "værmelding_noun": {
+    "primary": "wetterbericht_noun"
+  },
+  "værvarsel_noun": {
+    "primary": "wettervorhersage_noun"
+  },
+  "væske_noun": {
+    "primary": "fluessigkeit_noun"
+  },
+  "yoghurt_noun": {
+    "primary": "joghurt_noun"
+  },
+  "yrke_noun": {
+    "primary": "beruf_noun"
+  },
+  "ytelse_noun": {
+    "primary": "leistung_noun"
+  },
+  "åpning_noun": {
+    "primary": "eroeffnung_noun"
+  },
+  "år_noun": {
+    "primary": "jahr_noun"
+  },
+  "årsak_noun": {
+    "primary": "ursache_noun"
+  },
+  "årstid_noun": {
+    "primary": "jahreszeit_noun"
+  },
+  "økning_noun": {
+    "primary": "erhoehung_noun"
+  },
+  "økonomi_noun": {
+    "primary": "wirtschaft_noun"
+  },
+  "øl_noun": {
+    "primary": "bier_noun"
+  },
+  "ønske_noun": {
+    "primary": "wunsch_noun"
+  },
+  "øre_noun": {
+    "primary": "ohr_noun"
+  },
+  "øving_noun": {
+    "primary": "uebung_noun"
+  },
+  "øy_noun": {
+    "primary": "insel_noun"
+  },
+  "øye_noun": {
+    "primary": "auge_noun",
+    "examples": [
+      {
+        "source": "Jeg har blå øyne.",
+        "target": "Ich habe blaue Augen."
+      },
+      {
+        "source": "Øyet gjør vondt.",
+        "target": "Das Auge tut weh."
+      },
+      {
+        "source": "Hun har fine øyne.",
+        "target": "Sie hat schöne Augen."
+      }
+    ]
+  }
+}

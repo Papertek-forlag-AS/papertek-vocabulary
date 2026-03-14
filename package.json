@@ -42,7 +42,10 @@
     "generate:en-lexicon": "node scripts/generate-en-lexicon.js",
     "generate:en-links": "node scripts/generate-en-links.js",
     "validate:lexicon": "node scripts/validate-lexicon.js",
-    "build:lexicon-all": "npm run build:lexicon && npm run generate:en-lexicon && npm run generate:en-links && npm run generate:source-lexicon && npm run build:lexicon-search-index"
+    "generate:nn-lexicon": "node scripts/generate-nn-lexicon.js",
+    "generate:nn-links": "node scripts/generate-nn-links.js",
+    "build:nn-lexicon": "npm run generate:nn-lexicon && npm run generate:nn-links",
+    "build:lexicon-all": "npm run build:lexicon && npm run generate:en-lexicon && npm run generate:en-links && npm run generate:source-lexicon && npm run build:nn-lexicon && npm run build:lexicon-search-index"
   },
   "engines": {
     "node": ">=18.0.0"

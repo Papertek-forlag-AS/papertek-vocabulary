@@ -1,0 +1,940 @@
+{
+  "_metadata": {
+    "from": "es",
+    "to": "nn",
+    "bank": "generalbank",
+    "generatedAt": "2026-03-14T00:33:51.629Z",
+    "totalLinks": 254
+  },
+  "a_casa_expr": {
+    "primary": "heim_expr"
+  },
+  "a_lo_mejor_expr": {
+    "primary": "kanskje_expr"
+  },
+  "a_menudo_adv": {
+    "primary": "ofte_adv"
+  },
+  "a_mi_me_parece_phrase": {
+    "primary": "det_virker_for_meg_som_phrase"
+  },
+  "a_pie_expr": {
+    "primary": "til_fots_expr"
+  },
+  "a_prep": {
+    "primary": "til_prep",
+    "alternatives": [
+      "på_prep"
+    ],
+    "explanation": "Brukes ved bevegelse til et sted (voy a la escuela), før personobjekt (veo a mi madre), og med klokkeslett (a las tres)"
+  },
+  "a_veces_adv": {
+    "primary": "nokon_ganger_adv"
+  },
+  "abajo_adv": {
+    "primary": "ned_adv",
+    "alternatives": [
+      "nede_adv"
+    ]
+  },
+  "adelante_adv": {
+    "primary": "fremover_adv"
+  },
+  "ademas_phrase": {
+    "primary": "dessutan_phrase"
+  },
+  "adentro_adv": {
+    "primary": "inne_adv"
+  },
+  "adios_interj": {
+    "primary": "ha_det_interj",
+    "synonyms": [
+      "Ha det bra!",
+      "Vi sees!"
+    ]
+  },
+  "adonde_interr": {
+    "primary": "kvar_hen_interr"
+  },
+  "afortunadamente_adv": {
+    "primary": "heldigvis_adv"
+  },
+  "afuera_adv": {
+    "primary": "ute_adv"
+  },
+  "ahi_adv": {
+    "primary": "der_adv"
+  },
+  "ahora_adv": {
+    "primary": "no_adv"
+  },
+  "al_final_phrase": {
+    "primary": "til_slutt_phrase"
+  },
+  "al_lado_de_prep": {
+    "primary": "ved_siden_av_prep"
+  },
+  "al_principio_expr": {
+    "primary": "i_begynnelsen_expr"
+  },
+  "alli_adv": {
+    "primary": "der_borte_adv"
+  },
+  "alrededor_de_prep": {
+    "primary": "rundt_prep"
+  },
+  "america_latina_propn": {
+    "primary": "latinamerika_propn"
+  },
+  "ante_prep": {
+    "primary": "foran_prep",
+    "alternatives": [
+      "overfor_prep"
+    ]
+  },
+  "antes_adv": {
+    "primary": "før_adv"
+  },
+  "aproximadamente_adv": {
+    "primary": "omtrent_adv"
+  },
+  "aqui_adv": {
+    "primary": "her_adv"
+  },
+  "argentina_propn": {
+    "primary": "argentina_propn"
+  },
+  "arriba_adv": {
+    "primary": "opp_adv",
+    "alternatives": [
+      "oppe_adv"
+    ]
+  },
+  "asi_adv": {
+    "primary": "slik_adv",
+    "alternatives": [
+      "sånn_adv"
+    ]
+  },
+  "atras_adv": {
+    "primary": "bakover_adv"
+  },
+  "aun_adv": {
+    "primary": "enno_adv",
+    "alternatives": [
+      "sjølv_adv"
+    ]
+  },
+  "aunque_conj": {
+    "primary": "sjølv_om_conj"
+  },
+  "ayer_adv": {
+    "primary": "i_går_adv"
+  },
+  "bajo_prep": {
+    "primary": "under_prep"
+  },
+  "barcelona_propn": {
+    "primary": "barcelona_propn"
+  },
+  "bastante_adv": {
+    "primary": "ganske_adv",
+    "alternatives": [
+      "nok_adv"
+    ]
+  },
+  "bien_adv": {
+    "primary": "bra_adv",
+    "alternatives": [
+      "godt_adv"
+    ]
+  },
+  "bienvenido_interj": {
+    "primary": "velkommen_interj"
+  },
+  "buen_provecho_phrase": {
+    "primary": "vel_bekomme_phrase"
+  },
+  "buena_suerte_phrase": {
+    "primary": "lykke_til_phrase"
+  },
+  "buenas_noches_phrase": {
+    "primary": "god_kveld_phrase",
+    "alternatives": [
+      "god_natt_phrase"
+    ]
+  },
+  "buenas_tardes_phrase": {
+    "primary": "god_ettermiddag_phrase"
+  },
+  "buenos_dias_phrase": {
+    "primary": "god_morgen_phrase"
+  },
+  "cada_dia_expr": {
+    "primary": "kvar_dag_expr"
+  },
+  "casi_adv": {
+    "primary": "nesten_adv"
+  },
+  "cerca_de_prep": {
+    "primary": "nær_prep",
+    "alternatives": [
+      "i_nærheten_av_prep"
+    ]
+  },
+  "chile_propn": {
+    "primary": "chile_propn"
+  },
+  "claramente_adv": {
+    "primary": "tydeleg_adv"
+  },
+  "claro_interj": {
+    "primary": "klart_interj",
+    "alternatives": [
+      "sjølvsagt_interj"
+    ],
+    "synonyms": [
+      "Jada",
+      "Absolutt"
+    ]
+  },
+  "colombia_propn": {
+    "primary": "colombia_propn"
+  },
+  "como_conj": {
+    "primary": "som_conj",
+    "alternatives": [
+      "siden_conj"
+    ]
+  },
+  "como_estas_phrase": {
+    "primary": "korleis_har_du_det_phrase"
+  },
+  "como_interr": {
+    "primary": "korleis_interr"
+  },
+  "como_se_dice_phrase": {
+    "primary": "korleis_sier_man_phrase"
+  },
+  "como_te_llamas_phrase": {
+    "primary": "kva_heter_du_phrase"
+  },
+  "completamente_adv": {
+    "primary": "helt_adv",
+    "alternatives": [
+      "fullstendig_adv"
+    ]
+  },
+  "con_mucho_gusto_expr": {
+    "primary": "med_stor_glede_expr"
+  },
+  "con_prep": {
+    "primary": "med_prep"
+  },
+  "contra_prep": {
+    "primary": "mot_prep",
+    "alternatives": [
+      "imot_prep"
+    ]
+  },
+  "creo_que_phrase": {
+    "primary": "jeg_tror_at_phrase"
+  },
+  "cual_interr": {
+    "primary": "kva_for_ein_interr"
+  },
+  "cuando_conj": {
+    "primary": "når_conj"
+  },
+  "cuando_interr": {
+    "primary": "når_interr"
+  },
+  "cuanto_interr": {
+    "primary": "kvar_mykje_interr"
+  },
+  "cuantos_anos_tienes_phrase": {
+    "primary": "kvar_gamal_er_du_phrase"
+  },
+  "cuantos_interr": {
+    "primary": "kvar_mange_interr"
+  },
+  "cuba_propn": {
+    "primary": "cuba_propn"
+  },
+  "dar_un_paseo_phrase": {
+    "primary": "gå_en_tur_phrase"
+  },
+  "de_acuerdo_expr": {
+    "primary": "enig_expr",
+    "alternatives": [
+      "greit_expr"
+    ]
+  },
+  "de_donde_eres_phrase": {
+    "primary": "kvar_kommer_du_fra_phrase"
+  },
+  "de_nada_phrase": {
+    "primary": "berre_hyggeleg_phrase",
+    "alternatives": [
+      "ingen_årsak_phrase"
+    ]
+  },
+  "de_prep": {
+    "primary": "av_prep",
+    "alternatives": [
+      "fra_prep"
+    ]
+  },
+  "de_repente_expr": {
+    "primary": "brått_expr"
+  },
+  "de_verdad_expr": {
+    "primary": "verkeleg_expr"
+  },
+  "de_vez_en_cuando_expr": {
+    "primary": "av_og_til_expr"
+  },
+  "debajo_de_prep": {
+    "primary": "under_prep"
+  },
+  "delante_de_prep": {
+    "primary": "foran_prep"
+  },
+  "demasiado_adv": {
+    "primary": "for_mykje_adv"
+  },
+  "dentro_de_prep": {
+    "primary": "inni_prep",
+    "alternatives": [
+      "om_prep"
+    ]
+  },
+  "desafortunadamente_adv": {
+    "primary": "dessverre_adv"
+  },
+  "desde_prep": {
+    "primary": "fra_prep",
+    "alternatives": [
+      "siden_prep"
+    ]
+  },
+  "despacio_adv": {
+    "primary": "sakte_adv"
+  },
+  "despues_adv": {
+    "primary": "etterpå_adv",
+    "alternatives": [
+      "siden_adv"
+    ]
+  },
+  "detras_de_prep": {
+    "primary": "bak_prep"
+  },
+  "donde_interr": {
+    "primary": "kvar_interr"
+  },
+  "durante_prep": {
+    "primary": "i_løpet_av_prep",
+    "alternatives": [
+      "under_prep"
+    ]
+  },
+  "echar_de_menos_phrase": {
+    "primary": "savne_phrase"
+  },
+  "el_ano_pasado_expr": {
+    "primary": "i_fjor_expr"
+  },
+  "el_fin_de_semana_expr": {
+    "primary": "helgen_expr"
+  },
+  "el_proximo_ano_expr": {
+    "primary": "neste_år_expr"
+  },
+  "en_autobus_expr": {
+    "primary": "med_buss_expr"
+  },
+  "en_avion_expr": {
+    "primary": "med_fly_expr"
+  },
+  "en_cambio_phrase": {
+    "primary": "derimot_phrase"
+  },
+  "en_casa_expr": {
+    "primary": "heime_expr"
+  },
+  "en_coche_expr": {
+    "primary": "med_bil_expr"
+  },
+  "en_conclusion_phrase": {
+    "primary": "som_konklusjon_phrase"
+  },
+  "en_general_expr": {
+    "primary": "generelt_expr"
+  },
+  "en_mi_opinion_phrase": {
+    "primary": "etter_min_mening_phrase"
+  },
+  "en_prep": {
+    "primary": "i_prep",
+    "alternatives": [
+      "på_prep"
+    ]
+  },
+  "en_primer_lugar_phrase": {
+    "primary": "for_det_første_phrase"
+  },
+  "en_realidad_expr": {
+    "primary": "egentleg_expr",
+    "alternatives": [
+      "i_virkeligheten_expr"
+    ]
+  },
+  "en_seguida_expr": {
+    "primary": "straks_expr"
+  },
+  "en_serio_expr": {
+    "primary": "på_alvor_expr"
+  },
+  "en_tren_expr": {
+    "primary": "med_tog_expr"
+  },
+  "encima_de_prep": {
+    "primary": "oppå_prep"
+  },
+  "enfrente_de_prep": {
+    "primary": "overfor_prep"
+  },
+  "enhorabuena_interj": {
+    "primary": "gratulerer_interj"
+  },
+  "enseguida_adv": {
+    "primary": "straks_adv",
+    "alternatives": [
+      "med_en_gang_adv"
+    ]
+  },
+  "entre_prep": {
+    "primary": "mellom_prep"
+  },
+  "es_decir_phrase": {
+    "primary": "det_vil_si_phrase"
+  },
+  "es_la_una_phrase": {
+    "primary": "klokka_er_ett_phrase"
+  },
+  "espana_propn": {
+    "primary": "spania_propn"
+  },
+  "especialmente_adv": {
+    "primary": "spesielt_adv"
+  },
+  "estados_unidos_propn": {
+    "primary": "usa_propn"
+  },
+  "europa_propn": {
+    "primary": "europa_propn"
+  },
+  "exactamente_adv": {
+    "primary": "akkurat_adv",
+    "alternatives": [
+      "nøyaktig_adv"
+    ]
+  },
+  "feliz_ano_nuevo_phrase": {
+    "primary": "godt_nytt_år_phrase"
+  },
+  "feliz_cumpleanos_phrase": {
+    "primary": "gratulerer_med_dagen_phrase"
+  },
+  "feliz_navidad_phrase": {
+    "primary": "god_jul_phrase"
+  },
+  "finalmente_adv": {
+    "primary": "endeleg_adv",
+    "alternatives": [
+      "til_slutt_adv"
+    ]
+  },
+  "fuera_de_prep": {
+    "primary": "utanfor_prep"
+  },
+  "generalmente_adv": {
+    "primary": "generelt_adv"
+  },
+  "genial_interj": {
+    "primary": "fantastisk_interj",
+    "synonyms": [
+      "Supert!",
+      "Kjempebra!"
+    ]
+  },
+  "gracias_interj": {
+    "primary": "takk_interj",
+    "synonyms": [
+      "Tusen takk",
+      "Mange takk"
+    ]
+  },
+  "hace_buen_tiempo_phrase": {
+    "primary": "det_er_fint_vær_phrase"
+  },
+  "hace_calor_phrase": {
+    "primary": "det_er_varmt_phrase"
+  },
+  "hace_falta_phrase": {
+    "primary": "det_trengs_phrase"
+  },
+  "hace_frio_phrase": {
+    "primary": "det_er_kaldt_phrase"
+  },
+  "hace_mal_tiempo_phrase": {
+    "primary": "det_er_dårleg_vær_phrase"
+  },
+  "hace_sol_phrase": {
+    "primary": "solen_skinner_phrase"
+  },
+  "hacia_prep": {
+    "primary": "mot_prep"
+  },
+  "hasta_luego_phrase": {
+    "primary": "vi_sees_senere_phrase"
+  },
+  "hasta_manana_phrase": {
+    "primary": "vi_sees_i_morgen_phrase"
+  },
+  "hasta_prep": {
+    "primary": "til_prep",
+    "alternatives": [
+      "inntil_prep"
+    ]
+  },
+  "hasta_pronto_phrase": {
+    "primary": "vi_sees_snart_phrase"
+  },
+  "hay_phrase": {
+    "primary": "det_finnes_phrase",
+    "alternatives": [
+      "det_er_phrase"
+    ]
+  },
+  "hola_interj": {
+    "primary": "hei_interj",
+    "synonyms": [
+      "Hei på deg",
+      "God dag"
+    ]
+  },
+  "hoy_adv": {
+    "primary": "i_dag_adv"
+  },
+  "inmediatamente_adv": {
+    "primary": "umiddelbart_adv"
+  },
+  "ir_de_compras_phrase": {
+    "primary": "gå_og_handle_phrase"
+  },
+  "juntos_adv": {
+    "primary": "saman_adv"
+  },
+  "la_semana_que_viene_expr": {
+    "primary": "neste_veke_expr"
+  },
+  "lejos_de_prep": {
+    "primary": "langt_fra_prep"
+  },
+  "llevarse_bien_phrase": {
+    "primary": "komme_godt_overens_phrase"
+  },
+  "llueve_phrase": {
+    "primary": "det_regner_phrase"
+  },
+  "lo_siento_interj": {
+    "primary": "beklager_interj",
+    "alternatives": [
+      "unnskyld_interj"
+    ]
+  },
+  "luego_adv": {
+    "primary": "så_adv",
+    "alternatives": [
+      "etterpå_adv"
+    ]
+  },
+  "madrid_propn": {
+    "primary": "madrid_propn"
+  },
+  "mal_adv": {
+    "primary": "dårleg_adv"
+  },
+  "manana_adv": {
+    "primary": "i_morgen_adv"
+  },
+  "mas_adv": {
+    "primary": "mer_adv"
+  },
+  "mas_despacio_phrase": {
+    "primary": "langsommere_vær_så_snill_phrase"
+  },
+  "mas_o_menos_phrase": {
+    "primary": "sånn_passe_phrase"
+  },
+  "me_encanta_phrase": {
+    "primary": "jeg_elsker_det_phrase"
+  },
+  "me_gusta_phrase": {
+    "primary": "jeg_liker_phrase"
+  },
+  "me_llamo_phrase": {
+    "primary": "jeg_heter_phrase"
+  },
+  "menos_adv": {
+    "primary": "mindre_adv"
+  },
+  "menos_cuarto_phrase": {
+    "primary": "kvart_på_phrase"
+  },
+  "mexico_propn": {
+    "primary": "mexico_propn"
+  },
+  "mientras_conj": {
+    "primary": "mens_conj"
+  },
+  "mucho_adv": {
+    "primary": "mykje_adv"
+  },
+  "mucho_gusto_phrase": {
+    "primary": "hyggeleg_å_møte_deg_phrase"
+  },
+  "muy_adv": {
+    "primary": "veldig_adv"
+  },
+  "muy_bien_phrase": {
+    "primary": "veldig_bra_phrase"
+  },
+  "ni_conj": {
+    "primary": "verken_conj",
+    "alternatives": [
+      "heller_ikkje_conj"
+    ]
+  },
+  "nieva_phrase": {
+    "primary": "det_snør_phrase"
+  },
+  "no_entiendo_phrase": {
+    "primary": "jeg_forstår_ikkje_phrase"
+  },
+  "no_hay_phrase": {
+    "primary": "det_finnes_ikkje_phrase"
+  },
+  "no_interj": {
+    "primary": "nei_interj"
+  },
+  "no_me_gusta_phrase": {
+    "primary": "jeg_liker_ikkje_phrase"
+  },
+  "normalmente_adv": {
+    "primary": "vanligvis_adv"
+  },
+  "noruega_propn": {
+    "primary": "norge_propn"
+  },
+  "nunca_adv": {
+    "primary": "aldri_adv"
+  },
+  "o_conj": {
+    "primary": "eller_conj",
+    "explanation": "Endres til 'u' foran ord som begynner med 'o' eller 'ho'"
+  },
+  "para_prep": {
+    "primary": "for_prep",
+    "alternatives": [
+      "til_prep"
+    ],
+    "explanation": "Brukes for formål, mottaker, eller retning. F.eks. 'un regalo para ti' (en gave til deg)"
+  },
+  "pasarlo_bien_phrase": {
+    "primary": "ha_det_gøy_phrase"
+  },
+  "perdon_interj": {
+    "primary": "unnskyld_interj",
+    "synonyms": [
+      "Beklager",
+      "Unnskyld meg"
+    ]
+  },
+  "pero_conj": {
+    "primary": "men_conj"
+  },
+  "peru_propn": {
+    "primary": "peru_propn"
+  },
+  "pienso_que_phrase": {
+    "primary": "jeg_mener_at_phrase"
+  },
+  "poco_adv": {
+    "primary": "lite_adv"
+  },
+  "por_ejemplo_phrase": {
+    "primary": "for_eksempel_phrase"
+  },
+  "por_eso_phrase": {
+    "primary": "derfor_phrase"
+  },
+  "por_favor_interj": {
+    "primary": "vær_så_snill_interj"
+  },
+  "por_fin_expr": {
+    "primary": "endeleg_expr"
+  },
+  "por_la_manana_expr": {
+    "primary": "om_morgenen_expr"
+  },
+  "por_la_noche_expr": {
+    "primary": "om_kvelden_expr"
+  },
+  "por_la_tarde_expr": {
+    "primary": "om_ettermiddagen_expr"
+  },
+  "por_otro_lado_phrase": {
+    "primary": "på_den_andre_siden_phrase"
+  },
+  "por_prep": {
+    "primary": "for_prep",
+    "alternatives": [
+      "gjennom_prep",
+      "på_grunn_av_prep"
+    ],
+    "explanation": "Brukes for årsak, tidsrom, eller bevegelse gjennom. F.eks. 'por la mañana' (om morgenen)"
+  },
+  "por_que_interr": {
+    "primary": "kvifor_interr"
+  },
+  "por_supuesto_expr": {
+    "primary": "sjølvsagt_expr"
+  },
+  "por_un_lado_phrase": {
+    "primary": "på_den_ene_siden_phrase"
+  },
+  "porque_conj": {
+    "primary": "fordi_conj"
+  },
+  "primero_adv": {
+    "primary": "først_adv"
+  },
+  "pronto_adv": {
+    "primary": "snart_adv"
+  },
+  "puede_repetir_phrase": {
+    "primary": "kan_du_gjenta_phrase"
+  },
+  "pues_conj": {
+    "primary": "vel_conj",
+    "alternatives": [
+      "altså_conj"
+    ]
+  },
+  "que_conj": {
+    "primary": "at_conj"
+  },
+  "que_duermas_bien_phrase": {
+    "primary": "sov_godt_phrase"
+  },
+  "que_hay_phrase": {
+    "primary": "kva_er_det_phrase",
+    "alternatives": [
+      "kva_skjer_phrase"
+    ]
+  },
+  "que_hora_es_phrase": {
+    "primary": "kva_er_klokka_phrase"
+  },
+  "que_interr": {
+    "primary": "kva_interr"
+  },
+  "que_significa_phrase": {
+    "primary": "kva_betyr_phrase"
+  },
+  "que_tal_phrase": {
+    "primary": "korleis_går_det_phrase"
+  },
+  "que_tengas_un_buen_dia_phrase": {
+    "primary": "ha_en_fin_dag_phrase"
+  },
+  "quien_interr": {
+    "primary": "kven_interr"
+  },
+  "quiza_adv": {
+    "primary": "kanskje_adv"
+  },
+  "rapido_adv": {
+    "primary": "raskt_adv"
+  },
+  "realmente_adv": {
+    "primary": "verkeleg_adv"
+  },
+  "salud_interj": {
+    "primary": "skål_interj",
+    "alternatives": [
+      "prosit_interj"
+    ]
+  },
+  "segun_prep": {
+    "primary": "ifølge_prep"
+  },
+  "seguramente_adv": {
+    "primary": "sikkert_adv"
+  },
+  "si_conj": {
+    "primary": "viss_conj",
+    "alternatives": [
+      "om_conj"
+    ]
+  },
+  "si_interj": {
+    "primary": "ja_interj",
+    "synonyms": [
+      "Klart",
+      "Selvfølgelig"
+    ]
+  },
+  "siempre_adv": {
+    "primary": "alltid_adv"
+  },
+  "simplemente_adv": {
+    "primary": "rett_og_slett_adv"
+  },
+  "sin_duda_expr": {
+    "primary": "uten_tvil_expr"
+  },
+  "sin_embargo_phrase": {
+    "primary": "likevel_phrase"
+  },
+  "sin_prep": {
+    "primary": "uten_prep"
+  },
+  "sino_conj": {
+    "primary": "men_conj",
+    "explanation": "Brukes etter nektelse for å introdusere en kontrast. F.eks. 'No es rojo, sino azul' (Det er ikke rødt, men blått)"
+  },
+  "sobre_prep": {
+    "primary": "på_prep",
+    "alternatives": [
+      "om_prep",
+      "over_prep"
+    ]
+  },
+  "solamente_adv": {
+    "primary": "berre_adv",
+    "alternatives": [
+      "berre_adv"
+    ]
+  },
+  "solo_adv": {
+    "primary": "berre_adv",
+    "alternatives": [
+      "berre_adv"
+    ]
+  },
+  "son_las_dos_phrase": {
+    "primary": "klokka_er_to_phrase"
+  },
+  "soy_de_phrase": {
+    "primary": "jeg_er_fra_phrase"
+  },
+  "tal_vez_adv": {
+    "primary": "kanskje_adv"
+  },
+  "tambien_adv": {
+    "primary": "g_adv"
+  },
+  "tampoco_adv": {
+    "primary": "heller_ikkje_adv"
+  },
+  "tan_adv": {
+    "primary": "så_adv"
+  },
+  "tanto_como_conj": {
+    "primary": "både__og_conj"
+  },
+  "tarde_adv": {
+    "primary": "sent_adv"
+  },
+  "temprano_adv": {
+    "primary": "tidleg_adv"
+  },
+  "tener_ganas_de_phrase": {
+    "primary": "ha_lyst_til_phrase"
+  },
+  "tengo_anos_phrase": {
+    "primary": "jeg_er__år_phrase"
+  },
+  "tengo_calor_phrase": {
+    "primary": "jeg_er_varm_phrase"
+  },
+  "tengo_frio_phrase": {
+    "primary": "jeg_fryser_phrase"
+  },
+  "tengo_hambre_phrase": {
+    "primary": "jeg_er_sulten_phrase"
+  },
+  "tengo_miedo_phrase": {
+    "primary": "jeg_er_redd_phrase"
+  },
+  "tengo_prisa_phrase": {
+    "primary": "jeg_har_det_travelt_phrase"
+  },
+  "tengo_razon_phrase": {
+    "primary": "jeg_har_rett_phrase"
+  },
+  "tengo_sed_phrase": {
+    "primary": "jeg_er_tørst_phrase"
+  },
+  "tengo_sueno_phrase": {
+    "primary": "jeg_er_søvnig_phrase"
+  },
+  "tengo_una_pregunta_phrase": {
+    "primary": "jeg_har_et_spørsmål_phrase"
+  },
+  "todavia_adv": {
+    "primary": "enno_adv",
+    "alternatives": [
+      "fortsatt_adv"
+    ]
+  },
+  "todos_los_dias_expr": {
+    "primary": "kvar_dag_expr"
+  },
+  "tomar_el_sol_phrase": {
+    "primary": "sole_seg_phrase"
+  },
+  "tras_prep": {
+    "primary": "etter_prep",
+    "alternatives": [
+      "bak_prep"
+    ]
+  },
+  "vale_interj": {
+    "primary": "greit_interj",
+    "alternatives": [
+      "ok_interj"
+    ],
+    "synonyms": [
+      "Okei",
+      "I orden"
+    ]
+  },
+  "y_conj": {
+    "primary": "og_conj",
+    "explanation": "Endres til 'e' foran ord som begynner med 'i' eller 'hi' (f.eks. 'padre e hijo')"
+  },
+  "y_cuarto_phrase": {
+    "primary": "kvart_over_phrase"
+  },
+  "y_media_phrase": {
+    "primary": "halv_phrase"
+  },
+  "ya_adv": {
+    "primary": "allereie_adv"
+  }
+}

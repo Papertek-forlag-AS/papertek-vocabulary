@@ -1,0 +1,4678 @@
+{
+  "_metadata": {
+    "from": "nn",
+    "to": "de",
+    "bank": "adjectivebank",
+    "generatedAt": "2026-03-14T00:33:51.546Z",
+    "totalLinks": 345
+  },
+  "absolutt_adj": {
+    "primary": "absolut_adj",
+    "examples": [
+      {
+        "source": "Det er absolutt riktig.",
+        "target": "Das ist absolut richtig."
+      },
+      {
+        "source": "Jeg har absolutt tillit til henne.",
+        "target": "Ich habe absolutes Vertrauen in sie."
+      }
+    ]
+  },
+  "aktiv_adj": {
+    "primary": "aktiv_adj",
+    "examples": [
+      {
+        "source": "Hun er veldig aktiv.",
+        "target": "Sie ist sehr aktiv."
+      },
+      {
+        "source": "Vær aktiv!",
+        "target": "Bleib aktiv!"
+      }
+    ]
+  },
+  "aktuell_adj": {
+    "primary": "aktuell_adj",
+    "examples": [
+      {
+        "source": "Det er et aktuelt tema.",
+        "target": "Das ist ein aktuelles Thema."
+      },
+      {
+        "source": "Hva er de aktuelle nyhetene?",
+        "target": "Was sind die aktuellen Nachrichten?"
+      }
+    ]
+  },
+  "alternativ_adj": {
+    "primary": "alternativ_adj",
+    "examples": [
+      {
+        "source": "Finnes det en alternativ løsning?",
+        "target": "Gibt es eine alternative Lösung?"
+      },
+      {
+        "source": "Vi trenger en alternativ plan.",
+        "target": "Wir brauchen einen alternativen Plan."
+      }
+    ]
+  },
+  "alvorleg_adj": {
+    "primary": "ernsthaft_adj",
+    "examples": [
+      {
+        "source": "Han er et alvorlig menneske.",
+        "target": "Er ist ein ernsthafter Mensch."
+      },
+      {
+        "source": "Det er et alvorlig problem.",
+        "target": "Das ist ein ernsthaftes Problem."
+      }
+    ]
+  },
+  "anstrengende_adj": {
+    "primary": "anstrengend_adj",
+    "examples": [
+      {
+        "source": "Arbeidet er anstrengende.",
+        "target": "Die Arbeit ist anstrengend."
+      },
+      {
+        "source": "Det var en anstrengende dag.",
+        "target": "Das war ein anstrengender Tag."
+      }
+    ]
+  },
+  "ansvarleg_adj": {
+    "primary": "verantwortlich_adj",
+    "alternatives": [
+      "zustaendig_adj"
+    ],
+    "examples": [
+      {
+        "source": "Han er ansvarlig for det.",
+        "target": "Er ist verantwortlich dafür."
+      },
+      {
+        "source": "Hvem er ansvarlig?",
+        "target": "Wer ist verantwortlich?"
+      }
+    ]
+  },
+  "antageleg_adj": {
+    "primary": "vermutlich_adj",
+    "examples": [
+      {
+        "source": "Det er antagelig riktig.",
+        "target": "Das ist vermutlich richtig."
+      },
+      {
+        "source": "Han kommer antagelig senere.",
+        "target": "Er kommt vermutlich später."
+      }
+    ]
+  },
+  "arbeidsledig_adj": {
+    "primary": "arbeitslos_adj",
+    "examples": [
+      {
+        "source": "Han har vært arbeidsledig i et år.",
+        "target": "Er ist seit einem Jahr arbeitslos."
+      },
+      {
+        "source": "Arbeidsledighetsraten har økt.",
+        "target": "Die Arbeitslosenquote ist gestiegen."
+      }
+    ]
+  },
+  "automatisk_adj": {
+    "primary": "automatisch_adj",
+    "examples": [
+      {
+        "source": "Døren åpner automatisk.",
+        "target": "Die Tür öffnet automatisch."
+      },
+      {
+        "source": "Det er en automatisk prosess.",
+        "target": "Das ist ein automatischer Prozess."
+      }
+    ]
+  },
+  "avhengig_adj": {
+    "primary": "abhaengig_adj",
+    "examples": [
+      {
+        "source": "Han er avhengig av kaffe.",
+        "target": "Er ist von Kaffee abhängig."
+      },
+      {
+        "source": "Resultatet er avhengig av været.",
+        "target": "Das Ergebnis ist vom Wetter abhängig."
+      }
+    ]
+  },
+  "avslappet_adj": {
+    "primary": "entspannt_adj",
+    "examples": [
+      {
+        "source": "Jeg er avslappet.",
+        "target": "Ich bin entspannt."
+      },
+      {
+        "source": "Atmosfæren er avslappet.",
+        "target": "Die Atmosphäre ist entspannt."
+      }
+    ]
+  },
+  "behageleg_adj": {
+    "primary": "angenehm_adj",
+    "examples": [
+      {
+        "source": "Været er behagelig.",
+        "target": "Das Wetter ist angenehm."
+      },
+      {
+        "source": "Det er behagelig her.",
+        "target": "Es ist angenehm hier."
+      }
+    ]
+  },
+  "berre_adj": {
+    "primary": "bloss_adj",
+    "examples": [
+      {
+        "source": "Med bare hender.",
+        "target": "Mit bloßen Händen."
+      },
+      {
+        "source": "Det er bare en mening.",
+        "target": "Das ist bloß eine Meinung."
+      }
+    ]
+  },
+  "berømt_adj": {
+    "primary": "beruehmt_adj",
+    "examples": [
+      {
+        "source": "Han er en berømt musiker.",
+        "target": "Er ist ein berühmter Musiker."
+      },
+      {
+        "source": "Mozart er verdensberømt.",
+        "target": "Mozart ist weltweit berühmt."
+      }
+    ]
+  },
+  "beslektet_adj": {
+    "primary": "verwandt_adj",
+    "examples": [
+      {
+        "source": "Vi er beslektet.",
+        "target": "Wir sind verwandt."
+      },
+      {
+        "source": "Han er i slekt med meg.",
+        "target": "Er ist mir verwandt."
+      }
+    ]
+  },
+  "bestemt_adj": {
+    "primary": "bestimmt_adj",
+    "examples": [
+      {
+        "source": "Jeg ser etter en bestemt artikkel.",
+        "target": "Ich suche einen bestimmten Artikel."
+      },
+      {
+        "source": "Hun snakket i en bestemt tone.",
+        "target": "Sie sprach in einem bestimmten Ton."
+      }
+    ]
+  },
+  "billeg_adj": {
+    "primary": "billig_adj",
+    "examples": [
+      {
+        "source": "Det er veldig billig.",
+        "target": "Das ist sehr billig."
+      },
+      {
+        "source": "Jeg kjøper alltid billige produkter.",
+        "target": "Ich kaufe immer billige Produkte."
+      }
+    ]
+  },
+  "bitter_adj": {
+    "primary": "bitter_adj",
+    "examples": [
+      {
+        "source": "Kaffen smaker bitter.",
+        "target": "Der Kaffee schmeckt bitter."
+      },
+      {
+        "source": "Han er bittert skuffet.",
+        "target": "Er ist bitter enttäuscht."
+      }
+    ]
+  },
+  "blek_adj": {
+    "primary": "blass_adj",
+    "examples": [
+      {
+        "source": "Hun ser blek ut.",
+        "target": "Sie sieht blass aus."
+      },
+      {
+        "source": "Fargen er blek.",
+        "target": "Die Farbe ist blass."
+      }
+    ]
+  },
+  "blind_adj": {
+    "primary": "blind_adj",
+    "examples": [
+      {
+        "source": "Han er blind på ett øye.",
+        "target": "Er ist blind auf einem Auge."
+      },
+      {
+        "source": "Hun er blind av kjærlighet.",
+        "target": "Sie ist blind vor Liebe."
+      }
+    ]
+  },
+  "blond_adj": {
+    "primary": "blond_adj",
+    "examples": [
+      {
+        "source": "Hun har blondt hår.",
+        "target": "Sie hat blonde Haare."
+      },
+      {
+        "source": "Han er blond.",
+        "target": "Er ist blond."
+      }
+    ]
+  },
+  "blå_adj": {
+    "primary": "blau_adj",
+    "examples": [
+      {
+        "source": "Himmelen er blå.",
+        "target": "Der Himmel ist blau."
+      },
+      {
+        "source": "Jeg har blå øyne.",
+        "target": "Ich habe blaue Augen."
+      },
+      {
+        "source": "Blå er favorittfargen min.",
+        "target": "Blau ist meine Lieblingsfarbe."
+      }
+    ]
+  },
+  "bratt_adj": {
+    "primary": "steil_adj",
+    "examples": [
+      {
+        "source": "Fjellet er bratt.",
+        "target": "Der Berg ist steil."
+      },
+      {
+        "source": "En bratt trapp.",
+        "target": "Eine steile Treppe."
+      }
+    ]
+  },
+  "bred_adj": {
+    "primary": "breit_adj",
+    "examples": [
+      {
+        "source": "Gaten er bred.",
+        "target": "Die Straße ist breit."
+      },
+      {
+        "source": "Han har brede skuldre.",
+        "target": "Er hat breite Schultern."
+      }
+    ]
+  },
+  "brun_adj": {
+    "primary": "braun_adj",
+    "examples": [
+      {
+        "source": "Han har brune øyne.",
+        "target": "Er hat braune Augen."
+      },
+      {
+        "source": "Brødet er brunt.",
+        "target": "Das Brot ist braun."
+      }
+    ]
+  },
+  "brått_adj": {
+    "primary": "ploetzlich_adj",
+    "examples": [
+      {
+        "source": "Plutselig begynte det å regne.",
+        "target": "Plötzlich fing es an zu regnen."
+      },
+      {
+        "source": "Det var plutselig.",
+        "target": "Das war plötzlich."
+      }
+    ]
+  },
+  "digital_adj": {
+    "primary": "digital_adj",
+    "examples": [
+      {
+        "source": "Vi lever i en digital verden.",
+        "target": "Wir leben in einer digitalen Welt."
+      },
+      {
+        "source": "Det er et digitalt produkt.",
+        "target": "Das ist ein digitales Produkt."
+      }
+    ]
+  },
+  "direkte_adj": {
+    "primary": "direkt_adj",
+    "examples": [
+      {
+        "source": "Er det en direkteforbindelse?",
+        "target": "Gibt es eine direkte Verbindung?"
+      },
+      {
+        "source": "Han er veldig direkte.",
+        "target": "Er ist sehr direkt."
+      }
+    ]
+  },
+  "dobbelt_adj": {
+    "primary": "doppelt_adj",
+    "examples": [
+      {
+        "source": "Jeg trenger den dobbelte mengden.",
+        "target": "Ich brauche die doppelte Menge."
+      },
+      {
+        "source": "Det koster dobbelt så mye.",
+        "target": "Das kostet doppelt so viel."
+      }
+    ]
+  },
+  "dum_adj": {
+    "primary": "bloed_adj",
+    "alternatives": [
+      "dumm_adj"
+    ],
+    "examples": [
+      {
+        "source": "Det er en dum idé.",
+        "target": "Das ist eine blöde Idee."
+      },
+      {
+        "source": "Ikke vær så dum!",
+        "target": "Sei nicht so blöd!"
+      }
+    ]
+  },
+  "dyp_adj": {
+    "primary": "tief_adj",
+    "examples": [
+      {
+        "source": "Vannet er dypt.",
+        "target": "Das Wasser ist tief."
+      },
+      {
+        "source": "Han har en dyp/lav stemme.",
+        "target": "Er hat eine tiefe Stimme."
+      }
+    ]
+  },
+  "dyr_adj": {
+    "primary": "teuer_adj",
+    "examples": [
+      {
+        "source": "Det er for dyrt.",
+        "target": "Das ist zu teuer."
+      },
+      {
+        "source": "Ringen er dyr.",
+        "target": "Der Ring ist teuer."
+      }
+    ]
+  },
+  "dårleg_adj": {
+    "primary": "schlecht_adj",
+    "examples": [
+      {
+        "source": "Været er dårlig.",
+        "target": "Das Wetter ist schlecht."
+      },
+      {
+        "source": "Jeg er kvalm.",
+        "target": "Mir ist schlecht."
+      }
+    ]
+  },
+  "død_adj": {
+    "primary": "tot_adj",
+    "examples": [
+      {
+        "source": "Fisken er død.",
+        "target": "Der Fisch ist tot."
+      },
+      {
+        "source": "Planten er død.",
+        "target": "Die Pflanze ist tot."
+      }
+    ]
+  },
+  "dødeleg_adj": {
+    "primary": "toedlich_adj",
+    "examples": [
+      {
+        "source": "Det er dødelig.",
+        "target": "Das ist tödlich."
+      },
+      {
+        "source": "En dødelig sykdom.",
+        "target": "Eine tödliche Krankheit."
+      }
+    ]
+  },
+  "døv_adj": {
+    "primary": "taub_adj",
+    "examples": [
+      {
+        "source": "Han er døv.",
+        "target": "Er ist taub."
+      },
+      {
+        "source": "Hånden min er uten følelse.",
+        "target": "Meine Hand ist taub."
+      }
+    ]
+  },
+  "ekstra_adj": {
+    "primary": "zusaetzlich_adj",
+    "examples": [
+      {
+        "source": "Det koster ekstra.",
+        "target": "Das kostet zusätzlich."
+      },
+      {
+        "source": "En ekstra avgift.",
+        "target": "Eine zusätzliche Gebühr."
+      }
+    ]
+  },
+  "ekstrem_adj": {
+    "primary": "extrem_adj",
+    "examples": [
+      {
+        "source": "Været er ekstremt.",
+        "target": "Das Wetter ist extrem."
+      },
+      {
+        "source": "Han har ekstreme meninger.",
+        "target": "Er hat extreme Ansichten."
+      }
+    ]
+  },
+  "ekte_adj": {
+    "primary": "echt_adj",
+    "examples": [
+      {
+        "source": "Er det ekte gull?",
+        "target": "Ist das echtes Gold?"
+      },
+      {
+        "source": "Det er virkelig fint!",
+        "target": "Das ist echt schön!"
+      }
+    ]
+  },
+  "elegant_adj": {
+    "primary": "elegant_adj",
+    "examples": [
+      {
+        "source": "Hun ser elegant ut.",
+        "target": "Sie sieht elegant aus."
+      },
+      {
+        "source": "Det er en elegant kjole.",
+        "target": "Das ist ein elegantes Kleid."
+      }
+    ]
+  },
+  "elektrisk_adj": {
+    "primary": "elektrisch_adj",
+    "examples": [
+      {
+        "source": "Jeg har en elektrisk bil.",
+        "target": "Ich habe ein elektrisches Auto."
+      },
+      {
+        "source": "Lyset er elektrisk.",
+        "target": "Das Licht ist elektrisch."
+      }
+    ]
+  },
+  "elektronisk_adj": {
+    "primary": "elektronisch_adj",
+    "examples": [
+      {
+        "source": "Jeg leser en elektronisk avis.",
+        "target": "Ich lese eine elektronische Zeitung."
+      },
+      {
+        "source": "Det er en elektronisk enhet.",
+        "target": "Das ist ein elektronisches Gerät."
+      }
+    ]
+  },
+  "engsteleg_adj": {
+    "primary": "aengstlich_adj",
+    "examples": [
+      {
+        "source": "Barnet er engstelig.",
+        "target": "Das Kind ist ängstlich."
+      },
+      {
+        "source": "Hun er engstelig før eksamen.",
+        "target": "Sie ist ängstlich vor der Prüfung."
+      }
+    ]
+  },
+  "enkel_adj": {
+    "primary": "einfach_adj",
+    "examples": [
+      {
+        "source": "Det er lett!",
+        "target": "Das ist einfach!"
+      },
+      {
+        "source": "Løsningen er enkel.",
+        "target": "Die Lösung ist einfach."
+      },
+      {
+        "source": "Det er lett å forstå.",
+        "target": "Es ist einfach zu verstehen."
+      }
+    ]
+  },
+  "ensartet_adj": {
+    "primary": "einheitlich_adj",
+    "examples": [
+      {
+        "source": "Reglene er ensartede.",
+        "target": "Die Regeln sind einheitlich."
+      },
+      {
+        "source": "Vi trenger en ensartet løsning.",
+        "target": "Wir brauchen eine einheitliche Lösung."
+      }
+    ]
+  },
+  "ensom_adj": {
+    "primary": "einsam_adj",
+    "examples": [
+      {
+        "source": "Jeg føler meg ensom.",
+        "target": "Ich fühle mich einsam."
+      },
+      {
+        "source": "Han er veldig ensom.",
+        "target": "Er ist sehr einsam."
+      }
+    ]
+  },
+  "entydig_adj": {
+    "primary": "eindeutig_adj",
+    "examples": [
+      {
+        "source": "Det er entydig feil.",
+        "target": "Das ist eindeutig falsch."
+      },
+      {
+        "source": "Svaret er entydig.",
+        "target": "Die Antwort ist eindeutig."
+      }
+    ]
+  },
+  "evig_adj": {
+    "primary": "ewig_adj",
+    "examples": [
+      {
+        "source": "Det tar evig lang tid!",
+        "target": "Das dauert ewig!"
+      },
+      {
+        "source": "Den evige kjærligheten.",
+        "target": "Die ewige Liebe."
+      }
+    ]
+  },
+  "fantastisk_adj": {
+    "primary": "fantastisch_adj",
+    "examples": [
+      {
+        "source": "Det er fantastisk!",
+        "target": "Das ist fantastisch!"
+      },
+      {
+        "source": "Hun har en fantastisk stemme.",
+        "target": "Sie hat eine fantastische Stimme."
+      }
+    ]
+  },
+  "fargerik_adj": {
+    "primary": "bunt_adj",
+    "examples": [
+      {
+        "source": "Blomstene er fargerike.",
+        "target": "Die Blumen sind bunt."
+      },
+      {
+        "source": "Hun har på seg fargerike klær.",
+        "target": "Sie trägt bunte Kleidung."
+      }
+    ]
+  },
+  "farget_adj": {
+    "primary": "farbig_adj",
+    "examples": [
+      {
+        "source": "Jeg liker fargede bilder.",
+        "target": "Ich mag farbige Bilder."
+      },
+      {
+        "source": "Det er farget papir.",
+        "target": "Das ist farbiges Papier."
+      }
+    ]
+  },
+  "farleg_adj": {
+    "primary": "gefaehrlich_adj",
+    "examples": [
+      {
+        "source": "Det er farlig!",
+        "target": "Das ist gefährlich!"
+      },
+      {
+        "source": "Han lever farlig.",
+        "target": "Er lebt gefährlich."
+      }
+    ]
+  },
+  "fast_adj": {
+    "primary": "fest_adj",
+    "examples": [
+      {
+        "source": "Tauet er fast.",
+        "target": "Das Seil ist fest."
+      },
+      {
+        "source": "Jeg holder det fast.",
+        "target": "Ich halte es fest."
+      },
+      {
+        "source": "Hun har en bestemt mening.",
+        "target": "Sie hat eine feste Meinung."
+      }
+    ]
+  },
+  "fattig_adj": {
+    "primary": "arm_adj",
+    "examples": [
+      {
+        "source": "Familien er veldig fattig.",
+        "target": "Die Familie ist sehr arm."
+      },
+      {
+        "source": "Han var fattig, men lykkelig.",
+        "target": "Er war arm, aber glücklich."
+      }
+    ]
+  },
+  "feil_adj": {
+    "primary": "falsch_adj",
+    "examples": [
+      {
+        "source": "Det er feil.",
+        "target": "Das ist falsch."
+      },
+      {
+        "source": "Du har feil svar.",
+        "target": "Du hast die falsche Antwort."
+      }
+    ]
+  },
+  "ferdig_adj": {
+    "primary": "fertig_adj",
+    "examples": [
+      {
+        "source": "Jeg er ferdig!",
+        "target": "Ich bin fertig!"
+      },
+      {
+        "source": "Er du ferdig?",
+        "target": "Bist du fertig?"
+      },
+      {
+        "source": "Maten er klar.",
+        "target": "Das Essen ist fertig."
+      }
+    ]
+  },
+  "fet_adj": {
+    "primary": "fett_adj",
+    "examples": [
+      {
+        "source": "Maten er for fet.",
+        "target": "Das Essen ist zu fett."
+      },
+      {
+        "source": "Fett kjøtt.",
+        "target": "Fettes Fleisch."
+      }
+    ]
+  },
+  "finansiell_adj": {
+    "primary": "finanziell_adj",
+    "examples": [
+      {
+        "source": "Det er et finansielt spørsmål.",
+        "target": "Das ist eine finanzielle Frage."
+      },
+      {
+        "source": "Hun har finansielle problemer.",
+        "target": "Sie hat finanzielle Probleme."
+      }
+    ]
+  },
+  "firkantet_adj": {
+    "primary": "eckig_adj",
+    "examples": [
+      {
+        "source": "Bordet er firkantet.",
+        "target": "Der Tisch ist eckig."
+      },
+      {
+        "source": "Rommet er firkantet.",
+        "target": "Das Zimmer ist eckig."
+      }
+    ]
+  },
+  "flat_adj": {
+    "primary": "flach_adj",
+    "examples": [
+      {
+        "source": "Landet er flatt.",
+        "target": "Das Land ist flach."
+      },
+      {
+        "source": "Jeg trenger en flat pute.",
+        "target": "Ich brauche ein flaches Kissen."
+      }
+    ]
+  },
+  "fleksibel_adj": {
+    "primary": "flexibel_adj",
+    "examples": [
+      {
+        "source": "Arbeidstiden min er fleksibel.",
+        "target": "Meine Arbeitszeiten sind flexibel."
+      },
+      {
+        "source": "Hun er veldig fleksibel.",
+        "target": "Sie ist sehr flexibel."
+      }
+    ]
+  },
+  "flittig_adj": {
+    "primary": "fleissig_adj",
+    "examples": [
+      {
+        "source": "Hun er veldig flittig.",
+        "target": "Sie ist sehr fleißig."
+      },
+      {
+        "source": "Han er en flittig elev.",
+        "target": "Er ist ein fleißiger Schüler."
+      }
+    ]
+  },
+  "flott_adj": {
+    "primary": "toll_adj",
+    "examples": [
+      {
+        "source": "Det er flott!",
+        "target": "Das ist toll!"
+      },
+      {
+        "source": "Festen var fantastisk.",
+        "target": "Die Party war toll."
+      },
+      {
+        "source": "Du er fantastisk!",
+        "target": "Du bist toll!"
+      }
+    ]
+  },
+  "foreløpig_adj": {
+    "primary": "vorlaeufig_adj",
+    "examples": [
+      {
+        "source": "Det er en foreløpig avgjørelse.",
+        "target": "Das ist eine vorläufige Entscheidung."
+      },
+      {
+        "source": "Foreløpige resultater.",
+        "target": "Vorläufige Ergebnisse."
+      }
+    ]
+  },
+  "forfalt_adj": {
+    "primary": "faellig_adj",
+    "examples": [
+      {
+        "source": "Regningen er forfalt.",
+        "target": "Die Rechnung ist fällig."
+      },
+      {
+        "source": "Når forfaller det?",
+        "target": "Wann ist es fällig?"
+      }
+    ]
+  },
+  "forferdeleg_adj": {
+    "primary": "furchtbar_adj",
+    "examples": [
+      {
+        "source": "Været er forferdelig.",
+        "target": "Das Wetter ist furchtbar."
+      },
+      {
+        "source": "Det er en forferdelig feil.",
+        "target": "Das ist ein furchtbarer Fehler."
+      }
+    ]
+  },
+  "forgjeves_adj": {
+    "primary": "vergeblich_adj",
+    "examples": [
+      {
+        "source": "Det var forgjeves.",
+        "target": "Das war vergeblich."
+      },
+      {
+        "source": "Forsøket var forgjeves.",
+        "target": "Der Versuch war vergeblich."
+      }
+    ]
+  },
+  "fornuftig_adj": {
+    "primary": "sinnvoll_adj",
+    "alternatives": [
+      "vernuenftig_adj"
+    ],
+    "examples": [
+      {
+        "source": "Det er fornuftig.",
+        "target": "Das ist sinnvoll."
+      },
+      {
+        "source": "En fornuftig løsning.",
+        "target": "Eine sinnvolle Lösung."
+      }
+    ]
+  },
+  "fornøyd_adj": {
+    "primary": "zufrieden_adj",
+    "examples": [
+      {
+        "source": "Jeg er fornøyd.",
+        "target": "Ich bin zufrieden."
+      },
+      {
+        "source": "Er du fornøyd?",
+        "target": "Bist du zufrieden?"
+      }
+    ]
+  },
+  "forsiktig_adj": {
+    "primary": "vorsichtig_adj",
+    "examples": [
+      {
+        "source": "Vær forsiktig!",
+        "target": "Sei vorsichtig!"
+      },
+      {
+        "source": "Kjør forsiktig.",
+        "target": "Fahre vorsichtig."
+      }
+    ]
+  },
+  "forskjelleg_adj": {
+    "primary": "unterschiedlich_adj",
+    "examples": [
+      {
+        "source": "Meningene er forskjellige.",
+        "target": "Die Meinungen sind unterschiedlich."
+      },
+      {
+        "source": "Forskjellige kulturer.",
+        "target": "Unterschiedliche Kulturen."
+      }
+    ]
+  },
+  "forståeleg_adj": {
+    "primary": "verstaendlich_adj",
+    "examples": [
+      {
+        "source": "Det er forståelig.",
+        "target": "Das ist verständlich."
+      },
+      {
+        "source": "En forståelig forklaring.",
+        "target": "Eine verständliche Erklärung."
+      }
+    ]
+  },
+  "forventet_adj": {
+    "primary": "voraussichtlich_adj",
+    "examples": [
+      {
+        "source": "Han kommer forventet klokken 18.",
+        "target": "Er kommt voraussichtlich um 18 Uhr."
+      },
+      {
+        "source": "Det forventes regn.",
+        "target": "Voraussichtlich regnet es."
+      }
+    ]
+  },
+  "fraværende_adj": {
+    "primary": "abwesend_adj",
+    "examples": [
+      {
+        "source": "Hun er fraværende i dag.",
+        "target": "Sie ist heute abwesend."
+      },
+      {
+        "source": "Hvorfor er han fraværende?",
+        "target": "Warum ist er abwesend?"
+      }
+    ]
+  },
+  "frekk_adj": {
+    "primary": "frech_adj",
+    "examples": [
+      {
+        "source": "Barnet er frekkt.",
+        "target": "Das Kind ist frech."
+      },
+      {
+        "source": "Ikke vær så frekk!",
+        "target": "Sei nicht so frech!"
+      }
+    ]
+  },
+  "fremmed_adj": {
+    "primary": "fremd_adj",
+    "examples": [
+      {
+        "source": "I en fremmed by.",
+        "target": "In einer fremden Stadt."
+      },
+      {
+        "source": "Han føler seg fremmed her.",
+        "target": "Er fühlt sich fremd hier."
+      }
+    ]
+  },
+  "fremtidig_adj": {
+    "primary": "zukuenftig_adj",
+    "examples": [
+      {
+        "source": "Fremtidige generasjoner.",
+        "target": "Zukünftige Generationen."
+      },
+      {
+        "source": "Det er et fremtidig prosjekt.",
+        "target": "Das ist ein zukünftiges Projekt."
+      }
+    ]
+  },
+  "fri_adj": {
+    "primary": "frei_adj",
+    "examples": [
+      {
+        "source": "Er du fri i dag?",
+        "target": "Bist du heute frei?"
+      },
+      {
+        "source": "Inngangen er gratis.",
+        "target": "Der Eintritt ist frei."
+      }
+    ]
+  },
+  "frisk_adj": {
+    "primary": "frisch_adj",
+    "examples": [
+      {
+        "source": "Brødet er ferskt.",
+        "target": "Das Brot ist frisch."
+      },
+      {
+        "source": "Luften er frisk.",
+        "target": "Die Luft ist frisch."
+      }
+    ]
+  },
+  "frivilleg_adj": {
+    "primary": "freiwillig_adj",
+    "examples": [
+      {
+        "source": "Det er frivillig.",
+        "target": "Das ist freiwillig."
+      },
+      {
+        "source": "Han jobber frivillig.",
+        "target": "Er arbeitet freiwillig."
+      }
+    ]
+  },
+  "frykteleg_adj": {
+    "primary": "schrecklich_adj",
+    "examples": [
+      {
+        "source": "Det er fryktelig!",
+        "target": "Das ist schrecklich!"
+      },
+      {
+        "source": "En fryktelig ulykke.",
+        "target": "Ein schrecklicher Unfall."
+      }
+    ]
+  },
+  "fuktig_adj": {
+    "primary": "feucht_adj",
+    "examples": [
+      {
+        "source": "Håndkleet er fortsatt fuktig.",
+        "target": "Das Handtuch ist noch feucht."
+      },
+      {
+        "source": "Luften er fuktig.",
+        "target": "Die Luft ist feucht."
+      }
+    ]
+  },
+  "full_adj": {
+    "primary": "voll_adj",
+    "examples": [
+      {
+        "source": "Glasset er fullt.",
+        "target": "Das Glas ist voll."
+      },
+      {
+        "source": "Stadionet er fullt.",
+        "target": "Das Stadion ist voll."
+      }
+    ]
+  },
+  "gal_adj": {
+    "primary": "verrueckt_adj",
+    "alternatives": [
+      "wahnsinnig_adj"
+    ],
+    "examples": [
+      {
+        "source": "Det er galt!",
+        "target": "Das ist verrückt!"
+      },
+      {
+        "source": "Han er litt sprø.",
+        "target": "Er ist ein bisschen verrückt."
+      }
+    ]
+  },
+  "gamal_adj": {
+    "primary": "alt_adj",
+    "examples": [
+      {
+        "source": "Hvor gammel er du?",
+        "target": "Wie alt bist du?"
+      },
+      {
+        "source": "Jeg er 16 år gammel.",
+        "target": "Ich bin 16 Jahre alt."
+      },
+      {
+        "source": "Huset er gammelt.",
+        "target": "Das Haus ist alt."
+      }
+    ]
+  },
+  "generell_adj": {
+    "primary": "allgemein_adj",
+    "examples": [
+      {
+        "source": "Det er en generell regel.",
+        "target": "Das ist eine allgemeine Regel."
+      },
+      {
+        "source": "Generelt sett er jeg fornøyd.",
+        "target": "Im Allgemeinen bin ich zufrieden."
+      }
+    ]
+  },
+  "gift_adj": {
+    "primary": "verheiratet_adj",
+    "examples": [
+      {
+        "source": "Hun er gift.",
+        "target": "Sie ist verheiratet."
+      },
+      {
+        "source": "Hvor lenge har du vært gift?",
+        "target": "Wie lange bist du schon verheiratet?"
+      }
+    ]
+  },
+  "giftig_adj": {
+    "primary": "giftig_adj",
+    "examples": [
+      {
+        "source": "Planten er giftig.",
+        "target": "Die Pflanze ist giftig."
+      },
+      {
+        "source": "Giftige kjemikalier er farlige.",
+        "target": "Giftige Chemikalien sind gefährlich."
+      }
+    ]
+  },
+  "gjennomsnittleg_adj": {
+    "primary": "durchschnittlich_adj",
+    "examples": [
+      {
+        "source": "Det er en gjennomsnittlig prestasjon.",
+        "target": "Das ist eine durchschnittliche Leistung."
+      },
+      {
+        "source": "Gjennomsnittslønnen har økt.",
+        "target": "Der durchschnittliche Lohn ist gestiegen."
+      }
+    ]
+  },
+  "gjerne_adj": {
+    "primary": "gern_adj",
+    "examples": [
+      {
+        "source": "Jeg liker å spise pizza.",
+        "target": "Ich esse gern Pizza."
+      },
+      {
+        "source": "Kommer du gjerne?",
+        "target": "Kommst du gern?"
+      }
+    ]
+  },
+  "glad_adj": {
+    "primary": "froh_adj",
+    "examples": [
+      {
+        "source": "Jeg er glad for at du er her.",
+        "target": "Ich bin froh, dass du da bist."
+      },
+      {
+        "source": "Vi er glade for nyheten.",
+        "target": "Wir sind froh über die Neuigkeit."
+      }
+    ]
+  },
+  "glatt_adj": {
+    "primary": "glatt_adj",
+    "examples": [
+      {
+        "source": "Veien er glatt.",
+        "target": "Die Straße ist glatt."
+      },
+      {
+        "source": "Det er rett og slett løgn.",
+        "target": "Das ist glatt gelogen."
+      }
+    ]
+  },
+  "god_adj": {
+    "primary": "gut_adj",
+    "examples": [
+      {
+        "source": "Det er veldig bra!",
+        "target": "Das ist sehr gut!"
+      },
+      {
+        "source": "Hvordan har du det? - Jeg har det bra.",
+        "target": "Wie geht es dir? - Mir geht es gut."
+      },
+      {
+        "source": "Hun snakker godt tysk.",
+        "target": "Sie spricht gut Deutsch."
+      }
+    ]
+  },
+  "godt_adj": {
+    "primary": "lecker_adj",
+    "examples": [
+      {
+        "source": "Maten er god!",
+        "target": "Das Essen ist lecker!"
+      },
+      {
+        "source": "Pizzaen smaker godt.",
+        "target": "Die Pizza schmeckt lecker."
+      },
+      {
+        "source": "Det ser godt ut!",
+        "target": "Das sieht lecker aus!"
+      }
+    ]
+  },
+  "gratis_adj": {
+    "primary": "kostenlos_adj",
+    "examples": [
+      {
+        "source": "Inngangen er gratis.",
+        "target": "Der Eintritt ist kostenlos."
+      },
+      {
+        "source": "Det er gratis.",
+        "target": "Das ist kostenlos."
+      }
+    ]
+  },
+  "gravid_adj": {
+    "primary": "schwanger_adj",
+    "examples": [
+      {
+        "source": "Hun er gravid.",
+        "target": "Sie ist schwanger."
+      },
+      {
+        "source": "Tre måneder gravid.",
+        "target": "Im dritten Monat schwanger."
+      }
+    ]
+  },
+  "grundig_adj": {
+    "primary": "gruendlich_adj",
+    "examples": [
+      {
+        "source": "Vær grundig!",
+        "target": "Sei gründlich!"
+      },
+      {
+        "source": "Han jobber grundig.",
+        "target": "Er arbeitet gründlich."
+      }
+    ]
+  },
+  "grå_adj": {
+    "primary": "grau_adj",
+    "examples": [
+      {
+        "source": "Himmelen er grå.",
+        "target": "Der Himmel ist grau."
+      },
+      {
+        "source": "Håret hans er grått.",
+        "target": "Sein Haar ist grau."
+      }
+    ]
+  },
+  "grønn_adj": {
+    "primary": "gruen_adj",
+    "examples": [
+      {
+        "source": "Gresset er grønt.",
+        "target": "Das Gras ist grün."
+      },
+      {
+        "source": "Jeg har på meg en grønn t-skjorte.",
+        "target": "Ich trage ein grünes T-Shirt."
+      }
+    ]
+  },
+  "gul_adj": {
+    "primary": "gelb_adj",
+    "examples": [
+      {
+        "source": "Bananen er gul.",
+        "target": "Die Banane ist gelb."
+      },
+      {
+        "source": "Lyset er gult.",
+        "target": "Das Licht ist gelb."
+      }
+    ]
+  },
+  "gunstig_adj": {
+    "primary": "guenstig_adj",
+    "examples": [
+      {
+        "source": "Det er en gunstig pris.",
+        "target": "Das ist ein günstiger Preis."
+      },
+      {
+        "source": "Forholdene er gunstige.",
+        "target": "Die Bedingungen sind günstig."
+      }
+    ]
+  },
+  "gyldig_adj": {
+    "primary": "gueltig_adj",
+    "examples": [
+      {
+        "source": "Er passet ditt fortsatt gyldig?",
+        "target": "Ist dein Pass noch gültig?"
+      },
+      {
+        "source": "Billetten er gyldig.",
+        "target": "Das Ticket ist gültig."
+      }
+    ]
+  },
+  "halv_adj": {
+    "primary": "halb_adj",
+    "examples": [
+      {
+        "source": "Klokken er halv tre.",
+        "target": "Es ist halb drei."
+      },
+      {
+        "source": "Jeg spiser bare en halv porsjon.",
+        "target": "Ich esse nur eine halbe Portion."
+      }
+    ]
+  },
+  "hard_adj": {
+    "primary": "hart_adj",
+    "examples": [
+      {
+        "source": "Steinen er hard.",
+        "target": "Der Stein ist hart."
+      },
+      {
+        "source": "Det er en hard avgjørelse.",
+        "target": "Das ist eine harte Entscheidung."
+      }
+    ]
+  },
+  "hel_adj": {
+    "primary": "ganz_adj",
+    "examples": [
+      {
+        "source": "Jeg jobbet hele dagen.",
+        "target": "Ich habe den ganzen Tag gearbeitet."
+      },
+      {
+        "source": "Det er ganske enkelt.",
+        "target": "Das ist ganz einfach."
+      }
+    ]
+  },
+  "hemmeleg_adj": {
+    "primary": "geheim_adj",
+    "alternatives": [
+      "heimlich_adj"
+    ],
+    "examples": [
+      {
+        "source": "Det er en hemmelighet.",
+        "target": "Das ist ein Geheimnis."
+      },
+      {
+        "source": "Informasjonen er hemmelig.",
+        "target": "Die Information ist geheim."
+      }
+    ]
+  },
+  "historisk_adj": {
+    "primary": "historisch_adj",
+    "examples": [
+      {
+        "source": "Det er et historisk øyeblikk.",
+        "target": "Das ist ein historischer Moment."
+      },
+      {
+        "source": "Byen har historiske bygninger.",
+        "target": "Die Stadt hat historische Gebäude."
+      }
+    ]
+  },
+  "hjerteleg_adj": {
+    "primary": "herzlich_adj",
+    "examples": [
+      {
+        "source": "Hjertelig velkommen!",
+        "target": "Herzlich willkommen!"
+      },
+      {
+        "source": "En hjertelig mottagelse.",
+        "target": "Ein herzlicher Empfang."
+      }
+    ]
+  },
+  "holdbar_adj": {
+    "primary": "haltbar_adj",
+    "examples": [
+      {
+        "source": "Produktet er holdbart lenge.",
+        "target": "Das Produkt ist lange haltbar."
+      },
+      {
+        "source": "Velg holdbare materialer.",
+        "target": "Wähle haltbare Materialien."
+      }
+    ]
+  },
+  "hyggeleg_adj": {
+    "primary": "nett_adj",
+    "examples": [
+      {
+        "source": "Hun er veldig hyggelig.",
+        "target": "Sie ist sehr nett."
+      },
+      {
+        "source": "Det var snilt av deg.",
+        "target": "Das war nett von dir."
+      },
+      {
+        "source": "Naboene mine er hyggelige.",
+        "target": "Meine Nachbarn sind nett."
+      }
+    ]
+  },
+  "hyppig_adj": {
+    "primary": "haeufig_adj",
+    "examples": [
+      {
+        "source": "Det er et hyppig problem.",
+        "target": "Das ist ein häufiges Problem."
+      },
+      {
+        "source": "Hyppige pauser er viktige.",
+        "target": "Häufige Pausen sind wichtig."
+      }
+    ]
+  },
+  "høfleg_adj": {
+    "primary": "hoeflich_adj",
+    "examples": [
+      {
+        "source": "Vær høflig!",
+        "target": "Sei höflich!"
+      },
+      {
+        "source": "Han er alltid høflig.",
+        "target": "Er ist immer höflich."
+      }
+    ]
+  },
+  "høg_adj": {
+    "primary": "hoch_adj",
+    "alternatives": [
+      "laut_adj"
+    ],
+    "examples": [
+      {
+        "source": "Fjellet er høyt.",
+        "target": "Der Berg ist hoch."
+      },
+      {
+        "source": "Husleien er høy.",
+        "target": "Die Miete ist hoch."
+      }
+    ]
+  },
+  "i_tide_adj": {
+    "primary": "rechtzeitig_adj",
+    "examples": [
+      {
+        "source": "Kom i tide!",
+        "target": "Komm rechtzeitig!"
+      },
+      {
+        "source": "Han reagerte i tide.",
+        "target": "Er hat rechtzeitig reagiert."
+      }
+    ]
+  },
+  "ideell_adj": {
+    "primary": "ideal_adj",
+    "examples": [
+      {
+        "source": "Det er den ideelle løsningen.",
+        "target": "Das ist die ideale Lösung."
+      },
+      {
+        "source": "Været er ideelt.",
+        "target": "Das Wetter ist ideal."
+      }
+    ]
+  },
+  "ille_adj": {
+    "primary": "schlimm_adj",
+    "examples": [
+      {
+        "source": "Det er ikke så ille.",
+        "target": "Das ist nicht so schlimm."
+      },
+      {
+        "source": "En alvorlig situasjon.",
+        "target": "Eine schlimme Situation."
+      }
+    ]
+  },
+  "individuell_adj": {
+    "primary": "individuell_adj",
+    "examples": [
+      {
+        "source": "Vi tilbyr individuell rådgivning.",
+        "target": "Wir bieten individuelle Beratung."
+      },
+      {
+        "source": "Det er min individuelle stil.",
+        "target": "Das ist mein individueller Stil."
+      }
+    ]
+  },
+  "intelligent_adj": {
+    "primary": "intelligent_adj",
+    "examples": [
+      {
+        "source": "Hun er veldig intelligent.",
+        "target": "Sie ist sehr intelligent."
+      },
+      {
+        "source": "Det er en intelligent løsning.",
+        "target": "Das ist eine intelligente Lösung."
+      }
+    ]
+  },
+  "intensiv_adj": {
+    "primary": "intensiv_adj",
+    "examples": [
+      {
+        "source": "Det er intensiv trening.",
+        "target": "Das ist intensives Training."
+      },
+      {
+        "source": "Lukten er intens.",
+        "target": "Der Geruch ist intensiv."
+      }
+    ]
+  },
+  "interessant_adj": {
+    "primary": "interessant_adj",
+    "examples": [
+      {
+        "source": "Boken er interessant.",
+        "target": "Das Buch ist interessant."
+      },
+      {
+        "source": "Jeg synes historie er interessant.",
+        "target": "Ich finde Geschichte interessant."
+      },
+      {
+        "source": "Det er et interessant tema.",
+        "target": "Das ist ein interessantes Thema."
+      }
+    ]
+  },
+  "interessert_adj": {
+    "primary": "interessiert_adj",
+    "examples": [
+      {
+        "source": "Jeg er interessert.",
+        "target": "Ich bin interessiert."
+      },
+      {
+        "source": "Han er interessert i musikk.",
+        "target": "Er ist interessiert an Musik."
+      }
+    ]
+  },
+  "interkulturell_adj": {
+    "primary": "interkulturell_adj",
+    "examples": [
+      {
+        "source": "Det er et interkulturelt prosjekt.",
+        "target": "Das ist ein interkulturelles Projekt."
+      },
+      {
+        "source": "Interkulturell kommunikasjon er viktig.",
+        "target": "Interkulturelle Kommunikation ist wichtig."
+      }
+    ]
+  },
+  "internasjonal_adj": {
+    "primary": "international_adj",
+    "examples": [
+      {
+        "source": "Det er et internasjonalt selskap.",
+        "target": "Das ist ein internationales Unternehmen."
+      },
+      {
+        "source": "Hun arbeider internasjonalt.",
+        "target": "Sie spricht international."
+      }
+    ]
+  },
+  "irriterende_adj": {
+    "primary": "aergerlich_adj",
+    "examples": [
+      {
+        "source": "Det er virkelig irriterende.",
+        "target": "Das ist wirklich ärgerlich."
+      },
+      {
+        "source": "Han er irritert på meg.",
+        "target": "Er ist ärgerlich auf mich."
+      }
+    ]
+  },
+  "juridisk_adj": {
+    "primary": "rechtlich_adj",
+    "examples": [
+      {
+        "source": "Det er et juridisk spørsmål.",
+        "target": "Das ist eine rechtliche Frage."
+      },
+      {
+        "source": "Juridiske konsekvenser.",
+        "target": "Rechtliche Konsequenzen."
+      }
+    ]
+  },
+  "kald_adj": {
+    "primary": "kalt_adj",
+    "examples": [
+      {
+        "source": "Det er kaldt ute.",
+        "target": "Es ist kalt draußen."
+      },
+      {
+        "source": "Vannet er for kaldt.",
+        "target": "Das Wasser ist zu kalt."
+      }
+    ]
+  },
+  "kjedeleg_adj": {
+    "primary": "langweilig_adj",
+    "examples": [
+      {
+        "source": "Filmen var kjedelig.",
+        "target": "Der Film war langweilig."
+      },
+      {
+        "source": "Det er så kjedelig!",
+        "target": "Das ist so langweilig!"
+      },
+      {
+        "source": "Jeg kjeder meg.",
+        "target": "Mir ist langweilig."
+      }
+    ]
+  },
+  "kjempestor_adj": {
+    "primary": "riesig_adj",
+    "examples": [
+      {
+        "source": "Det er et kjempestort hus.",
+        "target": "Das ist ein riesiges Haus."
+      },
+      {
+        "source": "En enorm mengde.",
+        "target": "Eine riesige Menge."
+      }
+    ]
+  },
+  "kjent_adj": {
+    "primary": "bekannt_adj",
+    "examples": [
+      {
+        "source": "Han er en kjent skuespiller.",
+        "target": "Er ist ein bekannter Schauspieler."
+      },
+      {
+        "source": "Det er allment kjent.",
+        "target": "Das ist allgemein bekannt."
+      }
+    ]
+  },
+  "kjøleg_adj": {
+    "primary": "kuehl_adj",
+    "examples": [
+      {
+        "source": "Det er kjølig i dag.",
+        "target": "Es ist kühl heute."
+      },
+      {
+        "source": "Ølet er kjølig.",
+        "target": "Das Bier ist kühl."
+      }
+    ]
+  },
+  "klar_adj": {
+    "primary": "bereit_adj",
+    "alternatives": [
+      "klar_adj"
+    ],
+    "examples": [
+      {
+        "source": "Jeg er klar.",
+        "target": "Ich bin bereit."
+      },
+      {
+        "source": "Er du klar?",
+        "target": "Bist du bereit?"
+      },
+      {
+        "source": "Hun er klar til å hjelpe.",
+        "target": "Sie ist bereit zu helfen."
+      }
+    ]
+  },
+  "klok_adj": {
+    "primary": "klug_adj",
+    "examples": [
+      {
+        "source": "Det er en klok beslutning.",
+        "target": "Das ist eine kluge Entscheidung."
+      },
+      {
+        "source": "Hun er veldig klok.",
+        "target": "Sie ist sehr klug."
+      }
+    ]
+  },
+  "knapp_adj": {
+    "primary": "knapp_adj",
+    "examples": [
+      {
+        "source": "Tiden er knapp.",
+        "target": "Die Zeit ist knapp."
+      },
+      {
+        "source": "Et knapt svar.",
+        "target": "Eine knappe Antwort."
+      }
+    ]
+  },
+  "komfortabel_adj": {
+    "primary": "bequem_adj",
+    "examples": [
+      {
+        "source": "Stolen er veldig komfortabel.",
+        "target": "Der Stuhl ist sehr bequem."
+      },
+      {
+        "source": "Sofaen er komfortabel.",
+        "target": "Das Sofa ist bequem."
+      }
+    ]
+  },
+  "komplett_adj": {
+    "primary": "komplett_adj",
+    "examples": [
+      {
+        "source": "Samlingen er komplett.",
+        "target": "Die Sammlung ist komplett."
+      },
+      {
+        "source": "Det er et fullstendig kaos.",
+        "target": "Das ist ein komplettes Chaos."
+      }
+    ]
+  },
+  "komplisert_adj": {
+    "primary": "kompliziert_adj",
+    "examples": [
+      {
+        "source": "Det er komplisert.",
+        "target": "Das ist kompliziert."
+      },
+      {
+        "source": "Oppgaven er komplisert.",
+        "target": "Die Aufgabe ist kompliziert."
+      }
+    ]
+  },
+  "korrekt_adj": {
+    "primary": "korrekt_adj",
+    "examples": [
+      {
+        "source": "Svaret er korrekt.",
+        "target": "Die Antwort ist korrekt."
+      },
+      {
+        "source": "Vær korrekt.",
+        "target": "Bitte sei korrekt."
+      }
+    ]
+  },
+  "kort_adj": {
+    "primary": "kurz_adj",
+    "examples": [
+      {
+        "source": "Jeg har kort hår.",
+        "target": "Ich habe kurze Haare."
+      },
+      {
+        "source": "Kort sagt...",
+        "target": "Kurz gesagt..."
+      },
+      {
+        "source": "Pausen var for kort.",
+        "target": "Die Pause war zu kurz."
+      }
+    ]
+  },
+  "koseleg_adj": {
+    "primary": "gemuetlich_adj",
+    "examples": [
+      {
+        "source": "Kaféen er koselig.",
+        "target": "Das Café ist gemütlich."
+      },
+      {
+        "source": "Vi hadde en koselig kveld.",
+        "target": "Wir hatten einen gemütlichen Abend."
+      }
+    ]
+  },
+  "kreativ_adj": {
+    "primary": "kreativ_adj",
+    "examples": [
+      {
+        "source": "Hun er veldig kreativ.",
+        "target": "Sie ist sehr kreativ."
+      },
+      {
+        "source": "Vi trenger kreative ideer.",
+        "target": "Wir brauchen kreative Ideen."
+      }
+    ]
+  },
+  "kritisk_adj": {
+    "primary": "kritisch_adj",
+    "examples": [
+      {
+        "source": "Han er veldig kritisk.",
+        "target": "Er ist sehr kritisch."
+      },
+      {
+        "source": "Det er en kritisk situasjon.",
+        "target": "Das ist eine kritische Situation."
+      }
+    ]
+  },
+  "kroppsleg_adj": {
+    "primary": "koerperlich_adj",
+    "examples": [
+      {
+        "source": "Fysisk arbeid er anstrengende.",
+        "target": "Körperliche Arbeit ist anstrengend."
+      },
+      {
+        "source": "Fysisk form er viktig.",
+        "target": "Körperliche Fitness ist wichtig."
+      }
+    ]
+  },
+  "kul_adj": {
+    "primary": "cool_adj",
+    "examples": [
+      {
+        "source": "Det er kult!",
+        "target": "Das ist cool!"
+      },
+      {
+        "source": "Du er så kul.",
+        "target": "Du bist so cool."
+      },
+      {
+        "source": "Musikken er kul.",
+        "target": "Die Musik ist cool."
+      }
+    ]
+  },
+  "kulturell_adj": {
+    "primary": "kulturell_adj",
+    "examples": [
+      {
+        "source": "Det er et kulturelt arrangement.",
+        "target": "Das ist ein kulturelles Ereignis."
+      },
+      {
+        "source": "Kulturelle forskjeller er interessante.",
+        "target": "Kulturelle Unterschiede sind interessant."
+      }
+    ]
+  },
+  "kunstig_adj": {
+    "primary": "kuenstlich_adj",
+    "examples": [
+      {
+        "source": "Det er kunstige blomster.",
+        "target": "Das sind künstliche Blumen."
+      },
+      {
+        "source": "Kunstig intelligens.",
+        "target": "Künstliche Intelligenz."
+      }
+    ]
+  },
+  "kvinneleg_adj": {
+    "primary": "weiblich_adj",
+    "examples": [
+      {
+        "source": "Det er et kvinnelig navn.",
+        "target": "Das ist ein weiblicher Name."
+      },
+      {
+        "source": "Kvinnelige egenskaper.",
+        "target": "Weibliche Eigenschaften."
+      }
+    ]
+  },
+  "kvit_adj": {
+    "primary": "weiss_adj",
+    "examples": [
+      {
+        "source": "Snøen er hvit.",
+        "target": "Der Schnee ist weiß."
+      },
+      {
+        "source": "Hun har på seg en hvit kjole.",
+        "target": "Sie trägt ein weißes Kleid."
+      }
+    ]
+  },
+  "lang_adj": {
+    "primary": "lang_adj",
+    "examples": [
+      {
+        "source": "Filmen er lang.",
+        "target": "Der Film ist lang."
+      },
+      {
+        "source": "Jeg har langt hår.",
+        "target": "Ich habe lange Haare."
+      },
+      {
+        "source": "Hvor lang tid tar det?",
+        "target": "Wie lange dauert es?"
+      }
+    ]
+  },
+  "langsom_adj": {
+    "primary": "langsam_adj",
+    "examples": [
+      {
+        "source": "Sneglen er langsom.",
+        "target": "Die Schnecke ist langsam."
+      },
+      {
+        "source": "Vennligst snakk sakte.",
+        "target": "Bitte sprechen Sie langsam."
+      },
+      {
+        "source": "Bussen kjører for sakte.",
+        "target": "Der Bus fährt zu langsam."
+      }
+    ]
+  },
+  "langt_adj": {
+    "primary": "weit_adj",
+    "examples": [
+      {
+        "source": "Det er langt borte.",
+        "target": "Das ist weit weg."
+      },
+      {
+        "source": "En vid utsikt.",
+        "target": "Ein weiter Blick."
+      }
+    ]
+  },
+  "lat_adj": {
+    "primary": "faul_adj",
+    "examples": [
+      {
+        "source": "Han er lat.",
+        "target": "Er ist faul."
+      },
+      {
+        "source": "Ikke vær så lat!",
+        "target": "Sei nicht so faul!"
+      }
+    ]
+  },
+  "lav_adj": {
+    "primary": "niedrig_adj",
+    "examples": [
+      {
+        "source": "Prisene er lave.",
+        "target": "Die Preise sind niedrig."
+      },
+      {
+        "source": "Bygningen er lav.",
+        "target": "Das Gebäude ist niedrig."
+      }
+    ]
+  },
+  "lett_adj": {
+    "primary": "leicht_adj",
+    "examples": [
+      {
+        "source": "Vesken er lett.",
+        "target": "Die Tasche ist leicht."
+      },
+      {
+        "source": "Det er lett å forstå.",
+        "target": "Das ist leicht zu verstehen."
+      }
+    ]
+  },
+  "lignende_adj": {
+    "primary": "aehnlich_adj",
+    "examples": [
+      {
+        "source": "Disse fargene er lignende.",
+        "target": "Diese Farben sind ähnlich."
+      },
+      {
+        "source": "Han ligner faren sin.",
+        "target": "Er sieht seinem Vater ähnlich."
+      }
+    ]
+  },
+  "lik_adj": {
+    "primary": "gleich_adj",
+    "examples": [
+      {
+        "source": "De er like høye.",
+        "target": "Sie sind gleich groß."
+      },
+      {
+        "source": "Jeg kommer straks.",
+        "target": "Ich komme gleich."
+      }
+    ]
+  },
+  "likestilt_adj": {
+    "primary": "gleichberechtigt_adj",
+    "examples": [
+      {
+        "source": "Menn og kvinner bør være likestilte.",
+        "target": "Männer und Frauen sollten gleichberechtigt sein."
+      },
+      {
+        "source": "Et likestilt samfunn.",
+        "target": "Eine gleichberechtigte Gesellschaft."
+      }
+    ]
+  },
+  "lilla_adj": {
+    "primary": "lila_adj",
+    "examples": [
+      {
+        "source": "Hun har på seg en lilla kjole.",
+        "target": "Sie trägt ein lila Kleid."
+      },
+      {
+        "source": "Skjorten er lilla.",
+        "target": "Das Hemd ist lila."
+      }
+    ]
+  },
+  "liten_adj": {
+    "primary": "gering_adj",
+    "alternatives": [
+      "klein_adj"
+    ],
+    "examples": [
+      {
+        "source": "Det er en liten forskjell.",
+        "target": "Das ist ein geringer Unterschied."
+      },
+      {
+        "source": "Kostnadene er lave.",
+        "target": "Die Kosten sind gering."
+      }
+    ]
+  },
+  "loddrett_adj": {
+    "primary": "senkrecht_adj",
+    "examples": [
+      {
+        "source": "Veggen er loddrett.",
+        "target": "Die Wand ist senkrecht."
+      },
+      {
+        "source": "En loddrett linje.",
+        "target": "Eine senkrechte Linie."
+      }
+    ]
+  },
+  "lojal_adj": {
+    "primary": "treu_adj",
+    "examples": [
+      {
+        "source": "Han er lojal/trofast.",
+        "target": "Er ist treu."
+      },
+      {
+        "source": "En lojal venn.",
+        "target": "Ein treuer Freund."
+      }
+    ]
+  },
+  "lykkeleg_adj": {
+    "primary": "gluecklich_adj",
+    "examples": [
+      {
+        "source": "Jeg er lykkelig.",
+        "target": "Ich bin glücklich."
+      },
+      {
+        "source": "Hun gjør meg lykkelig.",
+        "target": "Sie macht mich glücklich."
+      }
+    ]
+  },
+  "lys_adj": {
+    "primary": "hell_adj",
+    "examples": [
+      {
+        "source": "Rommet er lyst.",
+        "target": "Das Zimmer ist hell."
+      },
+      {
+        "source": "Hun har lyst hår.",
+        "target": "Sie hat helle Haare."
+      }
+    ]
+  },
+  "løs_adj": {
+    "primary": "locker_adj",
+    "examples": [
+      {
+        "source": "Tannen er løs.",
+        "target": "Der Zahn ist locker."
+      },
+      {
+        "source": "Han er avslappet og rolig.",
+        "target": "Er ist locker und entspannt."
+      }
+    ]
+  },
+  "mager_adj": {
+    "primary": "mager_adj",
+    "examples": [
+      {
+        "source": "Han er veldig mager.",
+        "target": "Er ist sehr mager."
+      },
+      {
+        "source": "Det er magert kjøtt.",
+        "target": "Das ist mageres Fleisch."
+      }
+    ]
+  },
+  "maksimal_adj": {
+    "primary": "maximal_adj",
+    "examples": [
+      {
+        "source": "Den maksimale hastigheten.",
+        "target": "Die maximale Geschwindigkeit."
+      },
+      {
+        "source": "Det er maksimalt mulig.",
+        "target": "Das ist maximal möglich."
+      }
+    ]
+  },
+  "mannleg_adj": {
+    "primary": "maennlich_adj",
+    "examples": [
+      {
+        "source": "Det er et mannlig navn.",
+        "target": "Das ist ein männlicher Name."
+      },
+      {
+        "source": "Mannlige dyr.",
+        "target": "Männliche Tiere."
+      }
+    ]
+  },
+  "meningsløs_adj": {
+    "primary": "sinnlos_adj",
+    "examples": [
+      {
+        "source": "Det er meningsløst.",
+        "target": "Das ist sinnlos."
+      },
+      {
+        "source": "Meningsløse diskusjoner.",
+        "target": "Sinnlose Diskussionen."
+      }
+    ]
+  },
+  "menneskeleg_adj": {
+    "primary": "menschlich_adj",
+    "examples": [
+      {
+        "source": "Det er menneskelig.",
+        "target": "Das ist menschlich."
+      },
+      {
+        "source": "Menneskelige feil skjer.",
+        "target": "Menschliche Fehler passieren."
+      }
+    ]
+  },
+  "merkeleg_adj": {
+    "primary": "komisch_adj",
+    "alternatives": [
+      "merkwuerdig_adj"
+    ],
+    "examples": [
+      {
+        "source": "Det er merkelig.",
+        "target": "Das ist komisch."
+      },
+      {
+        "source": "Han oppfører seg merkelig.",
+        "target": "Er verhält sich komisch."
+      }
+    ]
+  },
+  "mett_adj": {
+    "primary": "satt_adj",
+    "examples": [
+      {
+        "source": "Jeg er mett.",
+        "target": "Ich bin satt."
+      },
+      {
+        "source": "Er du allerede mett?",
+        "target": "Bist du schon satt?"
+      }
+    ]
+  },
+  "mild_adj": {
+    "primary": "mild_adj",
+    "examples": [
+      {
+        "source": "Været er mildt.",
+        "target": "Das Wetter ist mild."
+      },
+      {
+        "source": "En mild straff.",
+        "target": "Eine milde Strafe."
+      }
+    ]
+  },
+  "minimal_adj": {
+    "primary": "minimal_adj",
+    "examples": [
+      {
+        "source": "Det er en minimal forskjell.",
+        "target": "Das ist ein minimaler Unterschied."
+      },
+      {
+        "source": "Med minimal innsats.",
+        "target": "Mit minimalem Aufwand."
+      }
+    ]
+  },
+  "moden_adj": {
+    "primary": "reif_adj",
+    "examples": [
+      {
+        "source": "Frukten er moden.",
+        "target": "Die Frucht ist reif."
+      },
+      {
+        "source": "Han er veldig moden for alderen sin.",
+        "target": "Er ist sehr reif für sein Alter."
+      }
+    ]
+  },
+  "modig_adj": {
+    "primary": "mutig_adj",
+    "examples": [
+      {
+        "source": "Han er modig.",
+        "target": "Er ist mutig."
+      },
+      {
+        "source": "Det var modig av deg.",
+        "target": "Das war mutig von dir."
+      }
+    ]
+  },
+  "morsom_adj": {
+    "primary": "lustig_adj",
+    "alternatives": [
+      "witzig_adj"
+    ],
+    "examples": [
+      {
+        "source": "Det er morsomt!",
+        "target": "Das ist lustig!"
+      },
+      {
+        "source": "Han er veldig morsom.",
+        "target": "Er ist sehr lustig."
+      },
+      {
+        "source": "Vi hadde en morsom kveld.",
+        "target": "Wir hatten einen lustigen Abend."
+      }
+    ]
+  },
+  "muleg_adj": {
+    "primary": "moeglich_adj",
+    "examples": [
+      {
+        "source": "Er det mulig?",
+        "target": "Ist das möglich?"
+      },
+      {
+        "source": "Så snart som mulig.",
+        "target": "So bald wie möglich."
+      }
+    ]
+  },
+  "muligens_adj": {
+    "primary": "eventuell_adj",
+    "examples": [
+      {
+        "source": "Det er muligens mulig.",
+        "target": "Das ist eventuell möglich."
+      },
+      {
+        "source": "Jeg kommer muligens senere.",
+        "target": "Ich komme eventuell später."
+      }
+    ]
+  },
+  "muntleg_adj": {
+    "primary": "muendlich_adj",
+    "examples": [
+      {
+        "source": "Det er en muntlig eksamen.",
+        "target": "Das ist eine mündliche Prüfung."
+      },
+      {
+        "source": "Muntlige avtaler.",
+        "target": "Mündliche Vereinbarungen."
+      }
+    ]
+  },
+  "musikalsk_adj": {
+    "primary": "musikalisch_adj",
+    "examples": [
+      {
+        "source": "Hun er veldig musikalsk.",
+        "target": "Sie ist sehr musikalisch."
+      },
+      {
+        "source": "Et musikalsk barn.",
+        "target": "Ein musikalisches Kind."
+      }
+    ]
+  },
+  "myk_adj": {
+    "primary": "weich_adj",
+    "examples": [
+      {
+        "source": "Puten er myk.",
+        "target": "Das Kissen ist weich."
+      },
+      {
+        "source": "Smøret er mykt.",
+        "target": "Die Butter ist weich."
+      }
+    ]
+  },
+  "mykje_adj": {
+    "primary": "viel_adj",
+    "examples": [
+      {
+        "source": "Jeg har mye å gjøre.",
+        "target": "Ich habe viel zu tun."
+      },
+      {
+        "source": "Ha det gøy!",
+        "target": "Viel Spaß!"
+      },
+      {
+        "source": "Tusen takk!",
+        "target": "Vielen Dank!"
+      }
+    ]
+  },
+  "mørk_adj": {
+    "primary": "dunkel_adj",
+    "examples": [
+      {
+        "source": "Det er mørkt ute.",
+        "target": "Es ist dunkel draußen."
+      },
+      {
+        "source": "Han har på seg mørke klær.",
+        "target": "Er trägt dunkle Kleidung."
+      }
+    ]
+  },
+  "naturleg_adj": {
+    "primary": "natuerlich_adj",
+    "examples": [
+      {
+        "source": "Det er naturlig.",
+        "target": "Das ist natürlich."
+      },
+      {
+        "source": "Selvfølgelig! Det er klart.",
+        "target": "Natürlich! Das ist klar."
+      }
+    ]
+  },
+  "naudsynt_adj": {
+    "primary": "noetig_adj",
+    "alternatives": [
+      "notwendig_adj"
+    ],
+    "examples": [
+      {
+        "source": "Det er nødvendig.",
+        "target": "Das ist nötig."
+      },
+      {
+        "source": "Er det virkelig nødvendig?",
+        "target": "Ist das wirklich nötig?"
+      }
+    ]
+  },
+  "negativ_adj": {
+    "primary": "negativ_adj",
+    "examples": [
+      {
+        "source": "Det har negative konsekvenser.",
+        "target": "Das hat negative Folgen."
+      },
+      {
+        "source": "Ikke vær så negativ!",
+        "target": "Sei nicht so negativ!"
+      }
+    ]
+  },
+  "nervøs_adj": {
+    "primary": "nervoes_adj",
+    "examples": [
+      {
+        "source": "Jeg er nervøs.",
+        "target": "Ich bin nervös."
+      },
+      {
+        "source": "Hun virker nervøs.",
+        "target": "Sie wirkt nervös."
+      }
+    ]
+  },
+  "normal_adj": {
+    "primary": "normal_adj",
+    "examples": [
+      {
+        "source": "Det er normalt.",
+        "target": "Das ist normal."
+      },
+      {
+        "source": "Er det normalt?",
+        "target": "Ist das normal?"
+      }
+    ]
+  },
+  "ny_adj": {
+    "primary": "neu_adj",
+    "examples": [
+      {
+        "source": "Jeg har en ny mobil.",
+        "target": "Ich habe ein neues Handy."
+      },
+      {
+        "source": "Det er min nye venn.",
+        "target": "Das ist mein neuer Freund."
+      },
+      {
+        "source": "Hva er nytt?",
+        "target": "Was gibt es Neues?"
+      }
+    ]
+  },
+  "nysgjerrig_adj": {
+    "primary": "neugierig_adj",
+    "examples": [
+      {
+        "source": "Barnet er nysgjerrig.",
+        "target": "Das Kind ist neugierig."
+      },
+      {
+        "source": "Jeg er nysgjerrig på resultatet.",
+        "target": "Ich bin neugierig auf das Ergebnis."
+      }
+    ]
+  },
+  "nyttig_adj": {
+    "primary": "nuetzlich_adj",
+    "examples": [
+      {
+        "source": "Det er nyttig.",
+        "target": "Das ist nützlich."
+      },
+      {
+        "source": "Et nyttig verktøy.",
+        "target": "Ein nützliches Werkzeug."
+      }
+    ]
+  },
+  "nøyaktig_adj": {
+    "primary": "genau_adj",
+    "examples": [
+      {
+        "source": "Vær nøyaktig!",
+        "target": "Bitte sei genau!"
+      },
+      {
+        "source": "Nøyaktig! Det er riktig.",
+        "target": "Genau! Das ist richtig."
+      }
+    ]
+  },
+  "offentleg_adj": {
+    "primary": "oeffentlich_adj",
+    "examples": [
+      {
+        "source": "Det er et offentlig sted.",
+        "target": "Das ist ein öffentlicher Platz."
+      },
+      {
+        "source": "Offentlige transportmidler.",
+        "target": "Öffentliche Verkehrsmittel."
+      }
+    ]
+  },
+  "offisiell_adj": {
+    "primary": "offiziell_adj",
+    "examples": [
+      {
+        "source": "Det er en offisiell uttalelse.",
+        "target": "Das ist eine offizielle Aussage."
+      },
+      {
+        "source": "Den offisielle datoen.",
+        "target": "Der offizielle Termin."
+      }
+    ]
+  },
+  "oppmerksom_adj": {
+    "primary": "aufmerksam_adj",
+    "examples": [
+      {
+        "source": "Vær oppmerksom!",
+        "target": "Sei aufmerksam!"
+      },
+      {
+        "source": "Han er en oppmerksom elev.",
+        "target": "Er ist ein aufmerksamer Schüler."
+      }
+    ]
+  },
+  "opprinneleg_adj": {
+    "primary": "urspruenglich_adj",
+    "examples": [
+      {
+        "source": "Den opprinnelige planen.",
+        "target": "Der ursprüngliche Plan."
+      },
+      {
+        "source": "Det var opprinnelig annerledes.",
+        "target": "Das war ursprünglich anders."
+      }
+    ]
+  },
+  "optimistisk_adj": {
+    "primary": "optimistisch_adj",
+    "examples": [
+      {
+        "source": "Han er optimistisk.",
+        "target": "Er ist optimistisch."
+      },
+      {
+        "source": "Hold deg optimistisk!",
+        "target": "Bleib optimistisch!"
+      }
+    ]
+  },
+  "oransje_adj": {
+    "primary": "orange_adj",
+    "examples": [
+      {
+        "source": "T-skjorten er oransje.",
+        "target": "Das T-Shirt ist orange."
+      },
+      {
+        "source": "En oransje jakke.",
+        "target": "Eine orange Jacke."
+      }
+    ]
+  },
+  "overrasket_adj": {
+    "primary": "ueberrascht_adj",
+    "examples": [
+      {
+        "source": "Jeg er overrasket.",
+        "target": "Ich bin überrascht."
+      },
+      {
+        "source": "Hun er overrasket.",
+        "target": "Sie ist überrascht."
+      }
+    ]
+  },
+  "overskyet_adj": {
+    "primary": "bewoelkt_adj",
+    "examples": [
+      {
+        "source": "Himmelen er overskyet.",
+        "target": "Der Himmel ist bewölkt."
+      },
+      {
+        "source": "Det er overskyet i dag.",
+        "target": "Es ist heute bewölkt."
+      }
+    ]
+  },
+  "overskytende_adj": {
+    "primary": "uebrig_adj",
+    "examples": [
+      {
+        "source": "Hva er til overs?",
+        "target": "Was ist übrig?"
+      },
+      {
+        "source": "Det som er igjen.",
+        "target": "Das Übrige."
+      }
+    ]
+  },
+  "parallell_adj": {
+    "primary": "parallel_adj",
+    "examples": [
+      {
+        "source": "Linjene er parallelle.",
+        "target": "Die Linien sind parallel."
+      },
+      {
+        "source": "Parallelle prosesser.",
+        "target": "Parallele Prozesse."
+      }
+    ]
+  },
+  "passiv_adj": {
+    "primary": "passiv_adj",
+    "examples": [
+      {
+        "source": "Han er veldig passiv.",
+        "target": "Er ist sehr passiv."
+      },
+      {
+        "source": "En passiv holdning.",
+        "target": "Eine passive Haltung."
+      }
+    ]
+  },
+  "pauschal_adj": {
+    "primary": "pauschal_adj",
+    "examples": [
+      {
+        "source": "Det er en generalisert påstand.",
+        "target": "Das ist eine pauschale Aussage."
+      },
+      {
+        "source": "En fastpris.",
+        "target": "Ein Pauschalpreis."
+      }
+    ]
+  },
+  "pen_adj": {
+    "primary": "huebsch_adj",
+    "alternatives": [
+      "schoen_adj"
+    ],
+    "examples": [
+      {
+        "source": "Hun er pen.",
+        "target": "Sie ist hübsch."
+      },
+      {
+        "source": "Det er en pen kjole.",
+        "target": "Das ist ein hübsches Kleid."
+      }
+    ]
+  },
+  "perfekt_adj": {
+    "primary": "perfekt_adj",
+    "examples": [
+      {
+        "source": "Det er perfekt!",
+        "target": "Das ist perfekt!"
+      },
+      {
+        "source": "Hun snakker perfekt tysk.",
+        "target": "Sie spricht perfektes Deutsch."
+      }
+    ]
+  },
+  "populær_adj": {
+    "primary": "beliebt_adj",
+    "alternatives": [
+      "populaer_adj"
+    ],
+    "examples": [
+      {
+        "source": "Det er en populær restaurant.",
+        "target": "Das ist ein beliebtes Restaurant."
+      },
+      {
+        "source": "Hun er godt likt av alle.",
+        "target": "Sie ist bei allen beliebt."
+      }
+    ]
+  },
+  "positiv_adj": {
+    "primary": "positiv_adj",
+    "examples": [
+      {
+        "source": "Det er en positiv nyhet.",
+        "target": "Das ist eine positive Nachricht."
+      },
+      {
+        "source": "Hold deg positiv!",
+        "target": "Bleib positiv!"
+      }
+    ]
+  },
+  "praktisk_adj": {
+    "primary": "praktisch_adj",
+    "examples": [
+      {
+        "source": "Det er veldig praktisk.",
+        "target": "Das ist sehr praktisch."
+      },
+      {
+        "source": "En praktisk løsning.",
+        "target": "Eine praktische Lösung."
+      }
+    ]
+  },
+  "prisverdig_adj": {
+    "primary": "preiswert_adj",
+    "examples": [
+      {
+        "source": "Restauranten er prisverdig.",
+        "target": "Das Restaurant ist preiswert."
+      },
+      {
+        "source": "Et prisverdrig tilbud.",
+        "target": "Ein preiswertes Angebot."
+      }
+    ]
+  },
+  "privat_adj": {
+    "primary": "privat_adj",
+    "examples": [
+      {
+        "source": "Det er privat.",
+        "target": "Das ist privat."
+      },
+      {
+        "source": "Et privat arrangement.",
+        "target": "Eine private Veranstaltung."
+      }
+    ]
+  },
+  "punktleg_adj": {
+    "primary": "puenktlich_adj",
+    "examples": [
+      {
+        "source": "Han er alltid punktlig.",
+        "target": "Er ist immer pünktlich."
+      },
+      {
+        "source": "Toget er punktlig.",
+        "target": "Der Zug ist pünktlich."
+      }
+    ]
+  },
+  "påliteleg_adj": {
+    "primary": "zuverlaessig_adj",
+    "examples": [
+      {
+        "source": "Han er pålitelig.",
+        "target": "Er ist zuverlässig."
+      },
+      {
+        "source": "En pålitelig bil.",
+        "target": "Ein zuverlässiges Auto."
+      }
+    ]
+  },
+  "rasende_adj": {
+    "primary": "wuetend_adj",
+    "examples": [
+      {
+        "source": "Han er rasende.",
+        "target": "Er ist wütend."
+      },
+      {
+        "source": "Hun er rasende på ham.",
+        "target": "Sie ist wütend auf ihn."
+      }
+    ]
+  },
+  "rask_adj": {
+    "primary": "schnell_adj",
+    "examples": [
+      {
+        "source": "Bilen kjører fort.",
+        "target": "Das Auto fährt schnell."
+      },
+      {
+        "source": "Fort! Vi kommer for sent!",
+        "target": "Schnell! Wir kommen zu spät!"
+      },
+      {
+        "source": "Han løper veldig fort.",
+        "target": "Er läuft sehr schnell."
+      }
+    ]
+  },
+  "realistisk_adj": {
+    "primary": "realistisch_adj",
+    "examples": [
+      {
+        "source": "Vær realistisk!",
+        "target": "Sei realistisch!"
+      },
+      {
+        "source": "Det er en realistisk plan.",
+        "target": "Das ist ein realistischer Plan."
+      }
+    ]
+  },
+  "regelmessig_adj": {
+    "primary": "regelmaessig_adj",
+    "examples": [
+      {
+        "source": "Jeg trener regelmessig.",
+        "target": "Ich mache regelmäßig Sport."
+      },
+      {
+        "source": "Regelmessige pauser er viktige.",
+        "target": "Regelmäßige Pausen sind wichtig."
+      }
+    ]
+  },
+  "regional_adj": {
+    "primary": "regional_adj",
+    "examples": [
+      {
+        "source": "Regionale produkter er ferskere.",
+        "target": "Regionale Produkte sind frischer."
+      },
+      {
+        "source": "Et regionalt festival.",
+        "target": "Ein regionales Fest."
+      }
+    ]
+  },
+  "regnfull_adj": {
+    "primary": "regnerisch_adj",
+    "examples": [
+      {
+        "source": "Været er regnfullt.",
+        "target": "Das Wetter ist regnerisch."
+      },
+      {
+        "source": "En regnfull dag.",
+        "target": "Ein regnerischer Tag."
+      }
+    ]
+  },
+  "relativ_adj": {
+    "primary": "relativ_adj",
+    "examples": [
+      {
+        "source": "Det er relativt enkelt.",
+        "target": "Das ist relativ einfach."
+      },
+      {
+        "source": "Alt er relativt.",
+        "target": "Alles ist relativ."
+      }
+    ]
+  },
+  "ren_adj": {
+    "primary": "rein_adj",
+    "alternatives": [
+      "sauber_adj"
+    ],
+    "examples": [
+      {
+        "source": "Vannet er rent.",
+        "target": "Das Wasser ist rein."
+      },
+      {
+        "source": "Det er rent gull.",
+        "target": "Das ist reines Gold."
+      }
+    ]
+  },
+  "rett_adj": {
+    "primary": "gerade_adj",
+    "alternatives": [
+      "recht_adj"
+    ],
+    "examples": [
+      {
+        "source": "Stå rett!",
+        "target": "Steh gerade!"
+      },
+      {
+        "source": "Linjen er rett.",
+        "target": "Die Linie ist gerade."
+      }
+    ]
+  },
+  "rettferdig_adj": {
+    "primary": "fair_adj",
+    "examples": [
+      {
+        "source": "Det er rettferdig.",
+        "target": "Das ist fair."
+      },
+      {
+        "source": "Han er alltid rettferdig.",
+        "target": "Er ist immer fair."
+      }
+    ]
+  },
+  "rik_adj": {
+    "primary": "reich_adj",
+    "examples": [
+      {
+        "source": "Han er veldig rik.",
+        "target": "Er ist sehr reich."
+      },
+      {
+        "source": "En rik familie.",
+        "target": "Eine reiche Familie."
+      }
+    ]
+  },
+  "riktig_adj": {
+    "primary": "richtig_adj",
+    "examples": [
+      {
+        "source": "Det er riktig.",
+        "target": "Das ist richtig."
+      },
+      {
+        "source": "Det er en skikkelig venn.",
+        "target": "Das ist ein richtiger Freund."
+      }
+    ]
+  },
+  "roleg_adj": {
+    "primary": "ruhig_adj",
+    "examples": [
+      {
+        "source": "Det er rolig her.",
+        "target": "Es ist ruhig hier."
+      },
+      {
+        "source": "Hold deg rolig!",
+        "target": "Bleib ruhig!"
+      }
+    ]
+  },
+  "romantisk_adj": {
+    "primary": "romantisch_adj",
+    "examples": [
+      {
+        "source": "Det er så romantisk!",
+        "target": "Das ist so romantisch!"
+      },
+      {
+        "source": "Et romantisk middagsselskap.",
+        "target": "Ein romantisches Abendessen."
+      }
+    ]
+  },
+  "rosa_adj": {
+    "primary": "rosa_adj",
+    "examples": [
+      {
+        "source": "Det er en rosa kjole.",
+        "target": "Das ist ein rosa Kleid."
+      },
+      {
+        "source": "Rosa blomster.",
+        "target": "Rosa Blumen."
+      }
+    ]
+  },
+  "rund_adj": {
+    "primary": "rund_adj",
+    "examples": [
+      {
+        "source": "Bordet er rundt.",
+        "target": "Der Tisch ist rund."
+      },
+      {
+        "source": "Et rundt tall.",
+        "target": "Eine runde Zahl."
+      }
+    ]
+  },
+  "ryddig_adj": {
+    "primary": "ordentlich_adj",
+    "examples": [
+      {
+        "source": "Rommet hans er ryddig.",
+        "target": "Sein Zimmer ist ordentlich."
+      },
+      {
+        "source": "Vær ordentlig!",
+        "target": "Sei ordentlich!"
+      }
+    ]
+  },
+  "rå_adj": {
+    "primary": "roh_adj",
+    "examples": [
+      {
+        "source": "Rått kjøtt.",
+        "target": "Rohes Fleisch."
+      },
+      {
+        "source": "En rå diamant.",
+        "target": "Ein roher Diamant."
+      }
+    ]
+  },
+  "rød_adj": {
+    "primary": "rot_adj",
+    "examples": [
+      {
+        "source": "Bilen er rød.",
+        "target": "Das Auto ist rot."
+      },
+      {
+        "source": "Hun har rødt hår.",
+        "target": "Sie hat rote Haare."
+      }
+    ]
+  },
+  "salt_adj": {
+    "primary": "salzig_adj",
+    "examples": [
+      {
+        "source": "Vannet er salt.",
+        "target": "Das Wasser ist salzig."
+      },
+      {
+        "source": "Suppen er for salt.",
+        "target": "Die Suppe ist zu salzig."
+      }
+    ]
+  },
+  "samtidig_adj": {
+    "primary": "gleichzeitig_adj",
+    "examples": [
+      {
+        "source": "Det skjer samtidig.",
+        "target": "Das passiert gleichzeitig."
+      },
+      {
+        "source": "Jeg kan ikke jobbe og se på TV samtidig.",
+        "target": "Ich kann nicht gleichzeitig arbeiten und fernsehen."
+      }
+    ]
+  },
+  "sann_adj": {
+    "primary": "wahr_adj",
+    "examples": [
+      {
+        "source": "Det er sant.",
+        "target": "Das ist wahr."
+      },
+      {
+        "source": "Er det sant?",
+        "target": "Ist das wahr?"
+      }
+    ]
+  },
+  "sen_adj": {
+    "primary": "spaet_adj",
+    "examples": [
+      {
+        "source": "Det er sent.",
+        "target": "Es ist spät."
+      },
+      {
+        "source": "Du kommer for sent.",
+        "target": "Du kommst zu spät."
+      }
+    ]
+  },
+  "senere_adj": {
+    "primary": "spaeter_adj",
+    "examples": [
+      {
+        "source": "Vi ses senere!",
+        "target": "Bis später!"
+      },
+      {
+        "source": "Jeg forklarer det senere.",
+        "target": "Ich erkläre das später."
+      }
+    ]
+  },
+  "sentral_adj": {
+    "primary": "zentral_adj",
+    "examples": [
+      {
+        "source": "Hotellet ligger sentralt.",
+        "target": "Das Hotel liegt zentral."
+      },
+      {
+        "source": "Det er et sentralt tema.",
+        "target": "Das ist ein zentrales Thema."
+      }
+    ]
+  },
+  "sikker_adj": {
+    "primary": "sicher_adj",
+    "examples": [
+      {
+        "source": "Det er sikkert.",
+        "target": "Das ist sicher."
+      },
+      {
+        "source": "Jeg er sikker på at han kommer.",
+        "target": "Ich bin sicher, dass er kommt."
+      }
+    ]
+  },
+  "sint_adj": {
+    "primary": "boese_adj",
+    "examples": [
+      {
+        "source": "Er du sint på meg?",
+        "target": "Bist du böse auf mich?"
+      },
+      {
+        "source": "Den slemme ulven.",
+        "target": "Der böse Wolf."
+      },
+      {
+        "source": "Hun er sint.",
+        "target": "Sie ist böse."
+      }
+    ]
+  },
+  "sjenert_adj": {
+    "primary": "schuechtern_adj",
+    "examples": [
+      {
+        "source": "Hun er sjenert.",
+        "target": "Sie ist schüchtern."
+      },
+      {
+        "source": "Han er sjenert med fremmede.",
+        "target": "Er ist schüchtern mit Fremden."
+      }
+    ]
+  },
+  "sjølvsagt_adj": {
+    "primary": "selbstverstaendlich_adj",
+    "examples": [
+      {
+        "source": "Det er selvfølgelig.",
+        "target": "Das ist selbstverständlich."
+      },
+      {
+        "source": "Selvfølgelig hjelper jeg deg.",
+        "target": "Selbstverständlich helfe ich dir."
+      }
+    ]
+  },
+  "sjølvstendig_adj": {
+    "primary": "selbststaendig_adj",
+    "examples": [
+      {
+        "source": "Hun er selvstendig.",
+        "target": "Sie ist selbstständig."
+      },
+      {
+        "source": "Han jobber selvstendig/som selvstendig næringsdrivende.",
+        "target": "Er arbeitet selbstständig."
+      }
+    ]
+  },
+  "skadeleg_adj": {
+    "primary": "schaedlich_adj",
+    "examples": [
+      {
+        "source": "Røyking er skadelig.",
+        "target": "Rauchen ist schädlich."
+      },
+      {
+        "source": "Skadelige kjemikalier.",
+        "target": "Schädliche Chemikalien."
+      }
+    ]
+  },
+  "skarp_adj": {
+    "primary": "scharf_adj",
+    "examples": [
+      {
+        "source": "Kniven er skarp.",
+        "target": "Das Messer ist scharf."
+      },
+      {
+        "source": "Han har et skarpt blikk.",
+        "target": "Er hat einen scharfen Blick."
+      },
+      {
+        "source": "Maten er veldig sterk/krydret.",
+        "target": "Das Essen ist sehr scharf."
+      }
+    ]
+  },
+  "skitten_adj": {
+    "primary": "schmutzig_adj",
+    "examples": [
+      {
+        "source": "Hendene dine er skitne.",
+        "target": "Deine Hände sind schmutzig."
+      },
+      {
+        "source": "Vannet er skittent.",
+        "target": "Das Wasser ist schmutzig."
+      }
+    ]
+  },
+  "skjev_adj": {
+    "primary": "schief_adj",
+    "examples": [
+      {
+        "source": "Bildet henger skjevt.",
+        "target": "Das Bild hängt schief."
+      },
+      {
+        "source": "Tårnet er skjevt.",
+        "target": "Der Turm ist schief."
+      }
+    ]
+  },
+  "skriftleg_adj": {
+    "primary": "schriftlich_adj",
+    "examples": [
+      {
+        "source": "Det er en skriftlig eksamen.",
+        "target": "Das ist eine schriftliche Prüfung."
+      },
+      {
+        "source": "Skriftlige avtaler.",
+        "target": "Schriftliche Vereinbarungen."
+      }
+    ]
+  },
+  "skyldig_adj": {
+    "primary": "schuldig_adj",
+    "examples": [
+      {
+        "source": "Han er skyldig.",
+        "target": "Er ist schuldig."
+      },
+      {
+        "source": "Jeg føler meg skyldig.",
+        "target": "Ich fühle mich schuldig."
+      }
+    ]
+  },
+  "slank_adj": {
+    "primary": "schlank_adj",
+    "examples": [
+      {
+        "source": "Hun er veldig slank.",
+        "target": "Sie ist sehr schlank."
+      },
+      {
+        "source": "Han har en slank figur.",
+        "target": "Er hat eine schlanke Figur."
+      }
+    ]
+  },
+  "smal_adj": {
+    "primary": "schmal_adj",
+    "examples": [
+      {
+        "source": "Gaten er smal.",
+        "target": "Die Straße ist schmal."
+      },
+      {
+        "source": "En smal seng.",
+        "target": "Ein schmales Bett."
+      }
+    ]
+  },
+  "smart_adj": {
+    "primary": "schlau_adj",
+    "examples": [
+      {
+        "source": "Det var smart.",
+        "target": "Das war schlau."
+      },
+      {
+        "source": "Hun er veldig smart.",
+        "target": "Sie ist sehr schlau."
+      }
+    ]
+  },
+  "snill_adj": {
+    "primary": "brav_adj",
+    "alternatives": [
+      "lieb_adj"
+    ],
+    "examples": [
+      {
+        "source": "Barnet er snilt.",
+        "target": "Das Kind ist brav."
+      },
+      {
+        "source": "Vær snill!",
+        "target": "Sei brav!"
+      }
+    ]
+  },
+  "solrik_adj": {
+    "primary": "sonnig_adj",
+    "examples": [
+      {
+        "source": "Det er solrik i dag.",
+        "target": "Es ist sonnig heute."
+      },
+      {
+        "source": "En solrik dag.",
+        "target": "Ein sonniger Tag."
+      }
+    ]
+  },
+  "sosial_adj": {
+    "primary": "sozial_adj",
+    "examples": [
+      {
+        "source": "Det er et sosialt problem.",
+        "target": "Das ist ein soziales Problem."
+      },
+      {
+        "source": "Sosiale medier er viktige.",
+        "target": "Soziale Medien sind wichtig."
+      }
+    ]
+  },
+  "spennende_adj": {
+    "primary": "spannend_adj",
+    "examples": [
+      {
+        "source": "Boken er spennende.",
+        "target": "Das Buch ist spannend."
+      },
+      {
+        "source": "Historie er veldig spennende.",
+        "target": "Geschichte ist sehr spannend."
+      }
+    ]
+  },
+  "spent_adj": {
+    "primary": "aufgeregt_adj",
+    "alternatives": [
+      "gespannt_adj"
+    ],
+    "examples": [
+      {
+        "source": "Jeg er spent!",
+        "target": "Ich bin aufgeregt!"
+      },
+      {
+        "source": "Barnet er spent før ferien.",
+        "target": "Das Kind ist aufgeregt vor dem Urlaub."
+      },
+      {
+        "source": "Hvorfor er du så spent?",
+        "target": "Warum bist du so aufgeregt?"
+      }
+    ]
+  },
+  "spesiell_adj": {
+    "primary": "speziell_adj",
+    "examples": [
+      {
+        "source": "Det er en spesiell anledning.",
+        "target": "Das ist ein spezieller Anlass."
+      },
+      {
+        "source": "Noe spesielt.",
+        "target": "Etwas Spezielles."
+      }
+    ]
+  },
+  "spiss_adj": {
+    "primary": "spitz_adj",
+    "examples": [
+      {
+        "source": "Blyanten er spiss.",
+        "target": "Der Bleistift ist spitz."
+      },
+      {
+        "source": "En spiss vinkel.",
+        "target": "Ein spitzer Winkel."
+      }
+    ]
+  },
+  "sporty_adj": {
+    "primary": "sportlich_adj",
+    "examples": [
+      {
+        "source": "Han er veldig sporty.",
+        "target": "Er ist sehr sportlich."
+      },
+      {
+        "source": "En sporty bil.",
+        "target": "Ein sportliches Auto."
+      }
+    ]
+  },
+  "stadig_adj": {
+    "primary": "staendig_adj",
+    "examples": [
+      {
+        "source": "Han jobber stadig.",
+        "target": "Er arbeitet ständig."
+      },
+      {
+        "source": "Det er stadig et problem.",
+        "target": "Das ist ständig ein Problem."
+      }
+    ]
+  },
+  "statistisk_adj": {
+    "primary": "statistisch_adj",
+    "examples": [
+      {
+        "source": "Det er statistisk sett normalt.",
+        "target": "Das ist statistisch gesehen normal."
+      },
+      {
+        "source": "Statistiske data.",
+        "target": "Statistische Daten."
+      }
+    ]
+  },
+  "sterk_adj": {
+    "primary": "stark_adj",
+    "examples": [
+      {
+        "source": "Han er veldig sterk.",
+        "target": "Er ist sehr stark."
+      },
+      {
+        "source": "En sterk vind.",
+        "target": "Ein starker Wind."
+      }
+    ]
+  },
+  "stilistisk_adj": {
+    "primary": "stilistisch_adj",
+    "examples": [
+      {
+        "source": "Stilistiske forskjeller.",
+        "target": "Stilistische Unterschiede."
+      },
+      {
+        "source": "Det er et stilistisk valg.",
+        "target": "Das ist eine stilistische Wahl."
+      }
+    ]
+  },
+  "stille_adj": {
+    "primary": "leise_adj",
+    "alternatives": [
+      "still_adj"
+    ],
+    "examples": [
+      {
+        "source": "Vær stille!",
+        "target": "Bitte sei leise!"
+      },
+      {
+        "source": "Snakk litt lavere.",
+        "target": "Sprich leiser."
+      }
+    ]
+  },
+  "stolt_adj": {
+    "primary": "stolz_adj",
+    "examples": [
+      {
+        "source": "Jeg er stolt av deg.",
+        "target": "Ich bin stolz auf dich."
+      },
+      {
+        "source": "Han er stolt av arbeidet sitt.",
+        "target": "Er ist stolz auf seine Arbeit."
+      }
+    ]
+  },
+  "stor_adj": {
+    "primary": "gross_adj",
+    "examples": [
+      {
+        "source": "Huset er stort.",
+        "target": "Das Haus ist groß."
+      },
+      {
+        "source": "Hvor høy er du?",
+        "target": "Wie groß bist du?"
+      },
+      {
+        "source": "Jeg har en stor familie.",
+        "target": "Ich habe eine große Familie."
+      }
+    ]
+  },
+  "straffbart_adj": {
+    "primary": "strafbar_adj",
+    "examples": [
+      {
+        "source": "Det er straffbart.",
+        "target": "Das ist strafbar."
+      },
+      {
+        "source": "Straffbare handlinger.",
+        "target": "Strafbare Handlungen."
+      }
+    ]
+  },
+  "streng_adj": {
+    "primary": "streng_adj",
+    "examples": [
+      {
+        "source": "Læreren er streng.",
+        "target": "Der Lehrer ist streng."
+      },
+      {
+        "source": "Strenge regler.",
+        "target": "Strenge Regeln."
+      }
+    ]
+  },
+  "stressende_adj": {
+    "primary": "stressig_adj",
+    "examples": [
+      {
+        "source": "Arbeidet er stressende.",
+        "target": "Die Arbeit ist stressig."
+      },
+      {
+        "source": "En stressende dag.",
+        "target": "Ein stressiger Tag."
+      }
+    ]
+  },
+  "stresset_adj": {
+    "primary": "gestresst_adj",
+    "examples": [
+      {
+        "source": "Jeg er stresset.",
+        "target": "Ich bin gestresst."
+      },
+      {
+        "source": "Hun virker stresset.",
+        "target": "Sie wirkt gestresst."
+      }
+    ]
+  },
+  "stum_adj": {
+    "primary": "stumm_adj",
+    "examples": [
+      {
+        "source": "Han er stum.",
+        "target": "Er ist stumm."
+      },
+      {
+        "source": "En stum film.",
+        "target": "Ein stummer Film."
+      }
+    ]
+  },
+  "stygg_adj": {
+    "primary": "haesslich_adj",
+    "examples": [
+      {
+        "source": "Bygningen er stygg.",
+        "target": "Das Gebäude ist hässlich."
+      },
+      {
+        "source": "Det er stygt vær.",
+        "target": "Das ist hässliches Wetter."
+      }
+    ]
+  },
+  "sulten_adj": {
+    "primary": "hungrig_adj",
+    "examples": [
+      {
+        "source": "Jeg er sulten.",
+        "target": "Ich bin hungrig."
+      },
+      {
+        "source": "Er du sulten?",
+        "target": "Bist du hungrig?"
+      }
+    ]
+  },
+  "sunn_adj": {
+    "primary": "gesund_adj",
+    "examples": [
+      {
+        "source": "Frukt er sunt.",
+        "target": "Obst ist gesund."
+      },
+      {
+        "source": "Jeg føler meg frisk.",
+        "target": "Ich fühle mich gesund."
+      },
+      {
+        "source": "Sunt kosthold er viktig.",
+        "target": "Gesunde Ernährung ist wichtig."
+      }
+    ]
+  },
+  "super_adj": {
+    "primary": "super_adj",
+    "examples": [
+      {
+        "source": "Det er super!",
+        "target": "Das ist super!"
+      },
+      {
+        "source": "Du er super.",
+        "target": "Du bist super."
+      }
+    ]
+  },
+  "sur_adj": {
+    "primary": "sauer_adj",
+    "examples": [
+      {
+        "source": "Sitronen er sur.",
+        "target": "Die Zitrone ist sauer."
+      },
+      {
+        "source": "Han er sur på meg.",
+        "target": "Er ist sauer auf mich."
+      }
+    ]
+  },
+  "svak_adj": {
+    "primary": "schwach_adj",
+    "examples": [
+      {
+        "source": "Han er svak.",
+        "target": "Er ist schwach."
+      },
+      {
+        "source": "Signalet er svakt.",
+        "target": "Das Signal ist schwach."
+      }
+    ]
+  },
+  "svart_adj": {
+    "primary": "schwarz_adj",
+    "examples": [
+      {
+        "source": "Bilen er svart.",
+        "target": "Das Auto ist schwarz."
+      },
+      {
+        "source": "Han har på seg svarte klær.",
+        "target": "Er trägt schwarze Kleidung."
+      }
+    ]
+  },
+  "syk_adj": {
+    "primary": "krank_adj",
+    "examples": [
+      {
+        "source": "Jeg er syk.",
+        "target": "Ich bin krank."
+      },
+      {
+        "source": "Hun er syk og blir hjemme.",
+        "target": "Sie ist krank und bleibt zu Hause."
+      }
+    ]
+  },
+  "sympatisk_adj": {
+    "primary": "sympathisch_adj",
+    "examples": [
+      {
+        "source": "Han er veldig sympatisk.",
+        "target": "Er ist sehr sympathisch."
+      },
+      {
+        "source": "Hun gjør et sympatisk inntrykk.",
+        "target": "Sie macht einen sympathischen Eindruck."
+      }
+    ]
+  },
+  "synd_adj": {
+    "primary": "schade_adj",
+    "examples": [
+      {
+        "source": "Det er synd!",
+        "target": "Das ist schade!"
+      },
+      {
+        "source": "Så synd.",
+        "target": "Wie schade."
+      }
+    ]
+  },
+  "synleg_adj": {
+    "primary": "sichtbar_adj",
+    "examples": [
+      {
+        "source": "Det er synlig.",
+        "target": "Das ist sichtbar."
+      },
+      {
+        "source": "En synlig forskjell.",
+        "target": "Ein sichtbarer Unterschied."
+      }
+    ]
+  },
+  "søt_adj": {
+    "primary": "suess_adj",
+    "examples": [
+      {
+        "source": "Katten er søt!",
+        "target": "Die Katze ist süß!"
+      },
+      {
+        "source": "Babyen er så søt.",
+        "target": "Das Baby ist so süß."
+      },
+      {
+        "source": "Desserten er søt.",
+        "target": "Das Dessert ist süß."
+      }
+    ]
+  },
+  "takknemleg_adj": {
+    "primary": "dankbar_adj",
+    "examples": [
+      {
+        "source": "Jeg er veldig takknemlig.",
+        "target": "Ich bin sehr dankbar."
+      },
+      {
+        "source": "Hun er takknemlig for hjelpen.",
+        "target": "Sie ist dankbar für die Hilfe."
+      }
+    ]
+  },
+  "tallrik_adj": {
+    "primary": "zahlreich_adj",
+    "examples": [
+      {
+        "source": "Tallrike besøkende kom.",
+        "target": "Zahlreiche Besucher kamen."
+      },
+      {
+        "source": "Tallrike muligheter.",
+        "target": "Zahlreiche Möglichkeiten."
+      }
+    ]
+  },
+  "tam_adj": {
+    "primary": "zahm_adj",
+    "examples": [
+      {
+        "source": "Dyret er tammet.",
+        "target": "Das Tier ist zahm."
+      },
+      {
+        "source": "En tam hund.",
+        "target": "Ein zahmer Hund."
+      }
+    ]
+  },
+  "teoretisk_adj": {
+    "primary": "theoretisch_adj",
+    "examples": [
+      {
+        "source": "Det er rent teoretisk.",
+        "target": "Das ist rein theoretisch."
+      },
+      {
+        "source": "Teoretisk sett er det mulig.",
+        "target": "Theoretisch ist das möglich."
+      }
+    ]
+  },
+  "tett_adj": {
+    "primary": "dicht_adj",
+    "examples": [
+      {
+        "source": "Skogen er tett.",
+        "target": "Der Wald ist dicht."
+      },
+      {
+        "source": "Trafikken er tett.",
+        "target": "Der Verkehr ist dicht."
+      }
+    ]
+  },
+  "tidleg_adj": {
+    "primary": "frueh_adj",
+    "examples": [
+      {
+        "source": "Jeg står tidlig opp.",
+        "target": "Ich stehe früh auf."
+      },
+      {
+        "source": "Det er fortsatt tidlig.",
+        "target": "Es ist noch früh."
+      }
+    ]
+  },
+  "tidligere_adj": {
+    "primary": "frueher_adj",
+    "examples": [
+      {
+        "source": "Han er en tidligere lærer.",
+        "target": "Er ist ein früherer Lehrer."
+      },
+      {
+        "source": "I tidligere tider.",
+        "target": "In früheren Zeiten."
+      }
+    ]
+  },
+  "til_stede_adj": {
+    "primary": "anwesend_adj",
+    "examples": [
+      {
+        "source": "Alle elevene er til stede.",
+        "target": "Alle Schüler sind anwesend."
+      },
+      {
+        "source": "Er du til stede?",
+        "target": "Bist du anwesend?"
+      }
+    ]
+  },
+  "tilgjengeleg_adj": {
+    "primary": "zugaenglich_adj",
+    "examples": [
+      {
+        "source": "Bygningen er tilgjengelig.",
+        "target": "Das Gebäude ist zugänglich."
+      },
+      {
+        "source": "Han er veldig tilgjengelig/imøtekommende.",
+        "target": "Er ist sehr zugänglich."
+      }
+    ]
+  },
+  "tolerant_adj": {
+    "primary": "tolerant_adj",
+    "examples": [
+      {
+        "source": "Vær tolerant!",
+        "target": "Sei tolerant!"
+      },
+      {
+        "source": "Et tolerant samfunn.",
+        "target": "Eine tolerante Gesellschaft."
+      }
+    ]
+  },
+  "tom_adj": {
+    "primary": "leer_adj",
+    "examples": [
+      {
+        "source": "Glasset er tomt.",
+        "target": "Das Glas ist leer."
+      },
+      {
+        "source": "Flasken er tom.",
+        "target": "Die Flasche ist leer."
+      }
+    ]
+  },
+  "total_adj": {
+    "primary": "total_adj",
+    "examples": [
+      {
+        "source": "Det er et fullstendig kaos.",
+        "target": "Das ist ein totales Chaos."
+      },
+      {
+        "source": "Det er totalt feil.",
+        "target": "Das ist total falsch."
+      }
+    ]
+  },
+  "tradisjonell_adj": {
+    "primary": "traditionell_adj",
+    "examples": [
+      {
+        "source": "Et tradisjonelt fest.",
+        "target": "Ein traditionelles Fest."
+      },
+      {
+        "source": "Tradisjonelle verdier.",
+        "target": "Traditionelle Werte."
+      }
+    ]
+  },
+  "trang_adj": {
+    "primary": "eng_adj",
+    "examples": [
+      {
+        "source": "Buksene er trange.",
+        "target": "Die Hose ist eng."
+      },
+      {
+        "source": "Rommet er trangt.",
+        "target": "Das Zimmer ist eng."
+      }
+    ]
+  },
+  "travelt_adj": {
+    "primary": "eilig_adj",
+    "examples": [
+      {
+        "source": "Det haster!",
+        "target": "Es ist eilig!"
+      },
+      {
+        "source": "Jeg har det travelt.",
+        "target": "Ich habe es eilig."
+      }
+    ]
+  },
+  "trist_adj": {
+    "primary": "traurig_adj",
+    "examples": [
+      {
+        "source": "Hvorfor er du lei deg?",
+        "target": "Warum bist du traurig?"
+      },
+      {
+        "source": "Det er en trist historie.",
+        "target": "Das ist eine traurige Geschichte."
+      },
+      {
+        "source": "Jeg er lei meg.",
+        "target": "Ich bin traurig."
+      }
+    ]
+  },
+  "trøtt_adj": {
+    "primary": "muede_adj",
+    "examples": [
+      {
+        "source": "Jeg er trøtt.",
+        "target": "Ich bin müde."
+      },
+      {
+        "source": "Er du trøtt?",
+        "target": "Bist du müde?"
+      },
+      {
+        "source": "Hun ser trøtt ut.",
+        "target": "Sie sieht müde aus."
+      }
+    ]
+  },
+  "tung_adj": {
+    "primary": "schwer_adj",
+    "examples": [
+      {
+        "source": "Vesken er tung.",
+        "target": "Die Tasche ist schwer."
+      },
+      {
+        "source": "Det er vanskelig å forstå.",
+        "target": "Das ist schwer zu verstehen."
+      }
+    ]
+  },
+  "tvers_adj": {
+    "primary": "quer_adj",
+    "examples": [
+      {
+        "source": "Tvers gjennom landet.",
+        "target": "Quer durch das Land."
+      },
+      {
+        "source": "Linjen går på tvers.",
+        "target": "Die Linie geht quer."
+      }
+    ]
+  },
+  "tydeleg_adj": {
+    "primary": "deutlich_adj",
+    "examples": [
+      {
+        "source": "Vennligst snakk tydelig.",
+        "target": "Bitte sprechen Sie deutlich."
+      },
+      {
+        "source": "Det er en tydelig forskjell.",
+        "target": "Das ist ein deutlicher Unterschied."
+      }
+    ]
+  },
+  "tykk_adj": {
+    "primary": "dick_adj",
+    "examples": [
+      {
+        "source": "Boken er tykk.",
+        "target": "Das Buch ist dick."
+      },
+      {
+        "source": "Veggen er tykk.",
+        "target": "Die Wand ist dick."
+      }
+    ]
+  },
+  "tynn_adj": {
+    "primary": "duenn_adj",
+    "examples": [
+      {
+        "source": "Papiret er tynt.",
+        "target": "Das Papier ist dünn."
+      },
+      {
+        "source": "Hun er veldig tynn.",
+        "target": "Sie ist sehr dünn."
+      }
+    ]
+  },
+  "typisk_adj": {
+    "primary": "typisch_adj",
+    "examples": [
+      {
+        "source": "Det er typisk tysk.",
+        "target": "Das ist typisch deutsch."
+      },
+      {
+        "source": "Et typisk eksempel.",
+        "target": "Ein typisches Beispiel."
+      }
+    ]
+  },
+  "tåkete_adj": {
+    "primary": "neblig_adj",
+    "examples": [
+      {
+        "source": "Det er tåkete i dag.",
+        "target": "Es ist neblig heute."
+      },
+      {
+        "source": "Været er tåkete.",
+        "target": "Das Wetter ist neblig."
+      }
+    ]
+  },
+  "tørr_adj": {
+    "primary": "trocken_adj",
+    "examples": [
+      {
+        "source": "Håndkleet er tørt.",
+        "target": "Das Handtuch ist trocken."
+      },
+      {
+        "source": "Det er veldig tørt i dag.",
+        "target": "Es ist heute sehr trocken."
+      },
+      {
+        "source": "Han har en tørr humor.",
+        "target": "Er hat einen trockenen Humor."
+      }
+    ]
+  },
+  "tørst_adj": {
+    "primary": "durstig_adj",
+    "examples": [
+      {
+        "source": "Jeg er veldig tørst.",
+        "target": "Ich bin sehr durstig."
+      },
+      {
+        "source": "Er du tørst?",
+        "target": "Bist du durstig?"
+      }
+    ]
+  },
+  "ugift_adj": {
+    "primary": "ledig_adj",
+    "examples": [
+      {
+        "source": "Han er ugift.",
+        "target": "Er ist ledig."
+      },
+      {
+        "source": "Jeg er fortsatt ugift.",
+        "target": "Ich bin noch ledig."
+      }
+    ]
+  },
+  "uhyggeleg_adj": {
+    "primary": "unheimlich_adj",
+    "examples": [
+      {
+        "source": "Det er uhyggelig.",
+        "target": "Das ist unheimlich."
+      },
+      {
+        "source": "Han er utrolig god.",
+        "target": "Er ist unheimlich gut."
+      }
+    ]
+  },
+  "ulovleg_adj": {
+    "primary": "illegal_adj",
+    "examples": [
+      {
+        "source": "Det er ulovlig.",
+        "target": "Das ist illegal."
+      },
+      {
+        "source": "Ulovlige aktiviteter.",
+        "target": "Illegale Aktivitäten."
+      }
+    ]
+  },
+  "underleg_adj": {
+    "primary": "seltsam_adj",
+    "examples": [
+      {
+        "source": "Det er underlig.",
+        "target": "Das ist seltsam."
+      },
+      {
+        "source": "Han oppfører seg underlig.",
+        "target": "Er verhält sich seltsam."
+      }
+    ]
+  },
+  "ung_adj": {
+    "primary": "jung_adj",
+    "examples": [
+      {
+        "source": "Han er fortsatt ung.",
+        "target": "Er ist noch jung."
+      },
+      {
+        "source": "Søsteren min er yngre enn meg.",
+        "target": "Meine Schwester ist jünger als ich."
+      }
+    ]
+  },
+  "urban_adj": {
+    "primary": "staedtisch_adj",
+    "examples": [
+      {
+        "source": "Det er et urbant område.",
+        "target": "Das ist ein städtisches Gebiet."
+      },
+      {
+        "source": "Urban trafikk.",
+        "target": "Städtischer Verkehr."
+      }
+    ]
+  },
+  "utelukkende_adj": {
+    "primary": "ausschliesslich_adj",
+    "examples": [
+      {
+        "source": "Det er utelukkende for medlemmer.",
+        "target": "Das ist ausschließlich für Mitglieder."
+      },
+      {
+        "source": "Han spiser utelukkende vegetarisk.",
+        "target": "Er isst ausschließlich vegetarisch."
+      }
+    ]
+  },
+  "utenlandsk_adj": {
+    "primary": "auslaendisch_adj",
+    "examples": [
+      {
+        "source": "Han har en utenlandsk kjæreste.",
+        "target": "Er hat eine ausländische Freundin."
+      },
+      {
+        "source": "Utenlandske produkter er ofte billigere.",
+        "target": "Ausländische Produkte sind oft billiger."
+      }
+    ]
+  },
+  "utmattet_adj": {
+    "primary": "erschoepft_adj",
+    "examples": [
+      {
+        "source": "Jeg er utmattet.",
+        "target": "Ich bin erschöpft."
+      },
+      {
+        "source": "Hun ser utmattet ut.",
+        "target": "Sie sieht erschöpft aus."
+      }
+    ]
+  },
+  "utroleg_adj": {
+    "primary": "unglaublich_adj",
+    "examples": [
+      {
+        "source": "Det er utrolig!",
+        "target": "Das ist unglaublich!"
+      },
+      {
+        "source": "Hun er utrolig talentfull.",
+        "target": "Sie ist unglaublich talentiert."
+      }
+    ]
+  },
+  "utålmodig_adj": {
+    "primary": "ungeduldig_adj",
+    "examples": [
+      {
+        "source": "Ikke vær utålmodig!",
+        "target": "Sei nicht ungeduldig!"
+      },
+      {
+        "source": "Han er utålmodig.",
+        "target": "Er ist ungeduldig."
+      }
+    ]
+  },
+  "uvanleg_adj": {
+    "primary": "ungewoehnlich_adj",
+    "examples": [
+      {
+        "source": "Det er uvanlig.",
+        "target": "Das ist ungewöhnlich."
+      },
+      {
+        "source": "Et uvanlig navn.",
+        "target": "Ein ungewöhnlicher Name."
+      }
+    ]
+  },
+  "vanleg_adj": {
+    "primary": "gewoehnlich_adj",
+    "alternatives": [
+      "ueblich_adj"
+    ],
+    "examples": [
+      {
+        "source": "Det er helt vanlig.",
+        "target": "Das ist ganz gewöhnlich."
+      },
+      {
+        "source": "En vanlig dag.",
+        "target": "Ein gewöhnlicher Tag."
+      }
+    ]
+  },
+  "vanskeleg_adj": {
+    "primary": "schwierig_adj",
+    "examples": [
+      {
+        "source": "Oppgaven er vanskelig.",
+        "target": "Die Aufgabe ist schwierig."
+      },
+      {
+        "source": "Det er veldig vanskelig.",
+        "target": "Das ist sehr schwierig."
+      }
+    ]
+  },
+  "varm_adj": {
+    "primary": "heiss_adj",
+    "alternatives": [
+      "warm_adj"
+    ],
+    "examples": [
+      {
+        "source": "Det er veldig varmt i dag.",
+        "target": "Es ist heiß heute."
+      },
+      {
+        "source": "Teen er varm.",
+        "target": "Der Tee ist heiß."
+      }
+    ]
+  },
+  "vegetarisk_adj": {
+    "primary": "vegetarisch_adj",
+    "examples": [
+      {
+        "source": "Jeg spiser vegetarisk.",
+        "target": "Ich esse vegetarisch."
+      },
+      {
+        "source": "En vegetarisk rett.",
+        "target": "Ein vegetarisches Gericht."
+      }
+    ]
+  },
+  "vellykket_adj": {
+    "primary": "erfolgreich_adj",
+    "examples": [
+      {
+        "source": "Prosjektet var vellykket.",
+        "target": "Das Projekt war erfolgreich."
+      },
+      {
+        "source": "Hun er en vellykket gründer.",
+        "target": "Sie ist eine erfolgreiche Unternehmerin."
+      }
+    ]
+  },
+  "vennleg_adj": {
+    "primary": "freundlich_adj",
+    "examples": [
+      {
+        "source": "Læreren er vennlig.",
+        "target": "Der Lehrer ist freundlich."
+      },
+      {
+        "source": "Vær vennlig!",
+        "target": "Sei bitte freundlich!"
+      },
+      {
+        "source": "Han har et vennlig smil.",
+        "target": "Er hat ein freundliches Lächeln."
+      }
+    ]
+  },
+  "verdifull_adj": {
+    "primary": "wertvoll_adj",
+    "examples": [
+      {
+        "source": "Det er verdifullt.",
+        "target": "Das ist wertvoll."
+      },
+      {
+        "source": "En verdifull erfaring.",
+        "target": "Eine wertvolle Erfahrung."
+      }
+    ]
+  },
+  "verdiløs_adj": {
+    "primary": "wertlos_adj",
+    "examples": [
+      {
+        "source": "Det er verdiløst.",
+        "target": "Das ist wertlos."
+      },
+      {
+        "source": "En verdiløs gjenstand.",
+        "target": "Ein wertloser Gegenstand."
+      }
+    ]
+  },
+  "verdt_adj": {
+    "primary": "wert_adj",
+    "examples": [
+      {
+        "source": "Det er verdt det.",
+        "target": "Das ist es wert."
+      },
+      {
+        "source": "Det er et forsøk verdt.",
+        "target": "Es ist einen Versuch wert."
+      }
+    ]
+  },
+  "verkeleg_adj": {
+    "primary": "wirklich_adj",
+    "examples": [
+      {
+        "source": "Det er virkelig sant.",
+        "target": "Das ist wirklich wahr."
+      },
+      {
+        "source": "Han er virkelig hyggelig.",
+        "target": "Er ist wirklich nett."
+      }
+    ]
+  },
+  "videre_adj": {
+    "primary": "weiter_adj",
+    "examples": [
+      {
+        "source": "Og videre?",
+        "target": "Und weiter?"
+      },
+      {
+        "source": "Ingen videre spørsmål.",
+        "target": "Keine weiteren Fragen."
+      }
+    ]
+  },
+  "viktig_adj": {
+    "primary": "wichtig_adj",
+    "examples": [
+      {
+        "source": "Det er veldig viktig.",
+        "target": "Das ist sehr wichtig."
+      },
+      {
+        "source": "Jeg har et viktig spørsmål.",
+        "target": "Ich habe eine wichtige Frage."
+      },
+      {
+        "source": "Familie er viktig for meg.",
+        "target": "Familie ist wichtig für mich."
+      }
+    ]
+  },
+  "vill_adj": {
+    "primary": "wild_adj",
+    "examples": [
+      {
+        "source": "Dyret er vilt.",
+        "target": "Das Tier ist wild."
+      },
+      {
+        "source": "En vill fest.",
+        "target": "Eine wilde Party."
+      }
+    ]
+  },
+  "vindfullt_adj": {
+    "primary": "windig_adj",
+    "examples": [
+      {
+        "source": "Det er vindfullt ute.",
+        "target": "Es ist windig draußen."
+      },
+      {
+        "source": "En vindfullt dag.",
+        "target": "Ein windiger Tag."
+      }
+    ]
+  },
+  "virtuell_adj": {
+    "primary": "virtuell_adj",
+    "examples": [
+      {
+        "source": "Et virtuelt møte.",
+        "target": "Ein virtuelles Meeting."
+      },
+      {
+        "source": "Virtuell virkelighet.",
+        "target": "Virtuelle Realität."
+      }
+    ]
+  },
+  "våken_adj": {
+    "primary": "wach_adj",
+    "examples": [
+      {
+        "source": "Jeg er våken.",
+        "target": "Ich bin wach."
+      },
+      {
+        "source": "Hold deg våken!",
+        "target": "Bleib wach!"
+      }
+    ]
+  },
+  "våt_adj": {
+    "primary": "nass_adj",
+    "examples": [
+      {
+        "source": "Jakken min er våt.",
+        "target": "Meine Jacke ist nass."
+      },
+      {
+        "source": "Gulvet er vått.",
+        "target": "Der Boden ist nass."
+      }
+    ]
+  },
+  "yrkesaktiv_adj": {
+    "primary": "berufstaetig_adj",
+    "examples": [
+      {
+        "source": "Hun er yrkesaktiv.",
+        "target": "Sie ist berufstätig."
+      },
+      {
+        "source": "Yrkesaktive mødre har det vanskelig.",
+        "target": "Berufstätige Mütter haben es schwer."
+      }
+    ]
+  },
+  "yrkesmessig_adj": {
+    "primary": "beruflich_adj",
+    "examples": [
+      {
+        "source": "Det er en yrkesmessig reise.",
+        "target": "Das ist eine berufliche Reise."
+      },
+      {
+        "source": "Yrkesmessig har jeg det bra.",
+        "target": "Beruflich geht es mir gut."
+      }
+    ]
+  },
+  "ytre_adj": {
+    "primary": "aeusserlich_adj",
+    "examples": [
+      {
+        "source": "Det er bare ytre.",
+        "target": "Das ist nur äußerlich."
+      },
+      {
+        "source": "De ytre kjennetegnene er viktige.",
+        "target": "Die äußerlichen Merkmale sind wichtig."
+      }
+    ]
+  },
+  "åpenbart_adj": {
+    "primary": "offenbar_adj",
+    "examples": [
+      {
+        "source": "Det er åpenbart feil.",
+        "target": "Das ist offenbar falsch."
+      },
+      {
+        "source": "Åpenbart har han glemt det.",
+        "target": "Offenbar hat er vergessen."
+      }
+    ]
+  },
+  "ærleg_adj": {
+    "primary": "ehrlich_adj",
+    "examples": [
+      {
+        "source": "Jeg er ærlig.",
+        "target": "Ich bin ehrlich."
+      },
+      {
+        "source": "Ærlig talt vet jeg det ikke.",
+        "target": "Ehrlich gesagt, ich weiß es nicht."
+      }
+    ]
+  },
+  "ødelagt_adj": {
+    "primary": "kaputt_adj",
+    "examples": [
+      {
+        "source": "Mobiltelefonen er ødelagt.",
+        "target": "Das Handy ist kaputt."
+      },
+      {
+        "source": "Jeg er ferdig/utslitt!",
+        "target": "Ich bin kaputt!"
+      }
+    ]
+  }
+}

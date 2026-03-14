@@ -1,0 +1,4282 @@
+{
+  "_metadata": {
+    "from": "de",
+    "to": "nn",
+    "bank": "verbbank",
+    "generatedAt": "2026-03-14T00:33:51.616Z",
+    "totalLinks": 679
+  },
+  "abbiegen_verb": {
+    "primary": "svinga_verb"
+  },
+  "abfahren_verb": {
+    "primary": "reise_av_sted_verb"
+  },
+  "abfliegen_verb": {
+    "primary": "flyga_av_sted_verb"
+  },
+  "abgeben_verb": {
+    "primary": "levere_verb"
+  },
+  "abhaengen_verb": {
+    "primary": "avhenga_verb"
+  },
+  "abheben_verb": {
+    "primary": "ta_ut_verb"
+  },
+  "abholen_verb": {
+    "primary": "henta_verb"
+  },
+  "ablehnen_verb": {
+    "primary": "avslå_verb"
+  },
+  "abmachen_verb": {
+    "primary": "avtale_verb"
+  },
+  "abnehmen_verb": {
+    "primary": "gå_ned_i_vekt_verb"
+  },
+  "absagen_verb": {
+    "primary": "avlyse_verb"
+  },
+  "abschliessen_verb": {
+    "primary": "avslutta_verb"
+  },
+  "abschreiben_verb": {
+    "primary": "skriva_av_verb"
+  },
+  "abstimmen_verb": {
+    "primary": "stemma_verb"
+  },
+  "abwaschen_verb": {
+    "primary": "vaska_opp_verb"
+  },
+  "achten_verb": {
+    "primary": "passa_på_verb"
+  },
+  "aendern_verb": {
+    "primary": "endre_verb"
+  },
+  "akzeptieren_verb": {
+    "primary": "akseptere_verb"
+  },
+  "am_besten_verb": {
+    "primary": "best_verb"
+  },
+  "am_liebsten_verb": {
+    "primary": "helst_verb"
+  },
+  "analysieren_verb": {
+    "primary": "analysere_verb"
+  },
+  "anbieten_verb": {
+    "primary": "tilby_verb"
+  },
+  "anderen_verb": {
+    "primary": "andre_verb"
+  },
+  "anerkennen_verb": {
+    "primary": "anerkjenna_verb"
+  },
+  "anfangen_verb": {
+    "primary": "begynna_verb",
+    "alternatives": [
+      "starte_verb"
+    ],
+    "examples": [
+      {
+        "source": "Wann fängt der Film an?",
+        "target": "Når begynner filmen?"
+      },
+      {
+        "source": "Ich fange um 8 Uhr an.",
+        "target": "Jeg begynner klokken 8."
+      },
+      {
+        "source": "Die Schule fängt bald an.",
+        "target": "Skolen begynner snart."
+      }
+    ],
+    "explanation": "Betyr \"å begynne\" eller \"å starte\". Sterkt verb med vokalskifte a→ä. Løst sammensatt verb. Eksempel: \"Der Film fängt um vier Uhr an\" (filmen begynner klokken fire), \"Wann fängt die Schule an?\" (når begynner skolen?)."
+  },
+  "angeben_verb": {
+    "primary": "oppgi_verb"
+  },
+  "angezogen_verb": {
+    "primary": "påkledd_verb"
+  },
+  "anhaben_verb": {
+    "primary": "ha_på_seg_verb"
+  },
+  "anklicken_verb": {
+    "primary": "klikka_på_verb"
+  },
+  "ankommen_verb": {
+    "primary": "ankomma_verb"
+  },
+  "ankreuzen_verb": {
+    "primary": "kryssa_av_verb"
+  },
+  "ankuendigen_verb": {
+    "primary": "kunngjøre_verb"
+  },
+  "anmachen_verb": {
+    "primary": "slå_på_verb"
+  },
+  "anmelden_verb": {
+    "primary": "melde_seg_på_verb"
+  },
+  "annehmen_verb": {
+    "primary": "anta_verb"
+  },
+  "anrufen_verb": {
+    "primary": "ringa_verb",
+    "examples": [
+      {
+        "source": "Ich rufe dich an.",
+        "target": "Jeg ringer deg."
+      },
+      {
+        "source": "Rufst du mich später an?",
+        "target": "Ringer du meg senere?"
+      },
+      {
+        "source": "Sie ruft ihre Mutter an.",
+        "target": "Hun ringer moren sin."
+      }
+    ]
+  },
+  "anschaffen_verb": {
+    "primary": "anskaffa_verb"
+  },
+  "anschliessen_verb": {
+    "primary": "koble_til_verb"
+  },
+  "anschnallen_verb": {
+    "primary": "spenna_seg_fast_verb"
+  },
+  "ansprechen_verb": {
+    "primary": "henvenda_seg_til_verb"
+  },
+  "anstellen_verb": {
+    "primary": "ansetta_verb"
+  },
+  "antworten_verb": {
+    "primary": "svare_verb",
+    "examples": [
+      {
+        "source": "Ich antworte auf die Frage.",
+        "target": "Jeg svarer på spørsmålet."
+      },
+      {
+        "source": "Antwortest du mir?",
+        "target": "Svarer du meg?"
+      },
+      {
+        "source": "Sie antwortet nicht.",
+        "target": "Hun svarer ikke."
+      }
+    ]
+  },
+  "anwenden_verb": {
+    "primary": "anvenda_verb"
+  },
+  "anzeigen_verb": {
+    "primary": "anmelde_verb"
+  },
+  "anziehen_verb": {
+    "primary": "kle_på_seg_verb"
+  },
+  "arbeiten_verb": {
+    "primary": "arbeide_verb",
+    "alternatives": [
+      "jobba_verb"
+    ],
+    "examples": [
+      {
+        "source": "Ich arbeite bei einer Firma.",
+        "target": "Jeg jobber i et firma."
+      },
+      {
+        "source": "Wo arbeitest du?",
+        "target": "Hvor jobber du?"
+      },
+      {
+        "source": "Mein Vater arbeitet viel.",
+        "target": "Faren min jobber mye."
+      }
+    ],
+    "explanation": "Betyr \"å arbeide\" eller \"å jobbe\". Eksempel: \"Du arbeitest zu viel!\" (du arbeider for mye!)."
+  },
+  "atmen_verb": {
+    "primary": "pusta_verb"
+  },
+  "auffallen_verb": {
+    "primary": "falla_i_øynene_verb"
+  },
+  "auffordern_verb": {
+    "primary": "oppfordre_verb"
+  },
+  "auffuehren_verb": {
+    "primary": "oppføre_verb"
+  },
+  "aufgeben_verb": {
+    "primary": "gi_opp_verb"
+  },
+  "aufhalten_verb": {
+    "primary": "halda_opp_verb"
+  },
+  "aufheben_verb": {
+    "primary": "plukka_opp_verb"
+  },
+  "aufhoeren_verb": {
+    "primary": "slutta_verb"
+  },
+  "aufladen_verb": {
+    "primary": "lade_opp_verb"
+  },
+  "aufloesen_verb": {
+    "primary": "løse_opp_verb"
+  },
+  "aufmachen_verb": {
+    "primary": "åpne_verb"
+  },
+  "aufnehmen_verb": {
+    "primary": "ta_opp_verb"
+  },
+  "aufpassen_verb": {
+    "primary": "passa_på_verb"
+  },
+  "aufraeumen_verb": {
+    "primary": "rydda_opp_verb",
+    "examples": [
+      {
+        "source": "Ich räume mein Zimmer auf.",
+        "target": "Jeg rydder rommet mitt."
+      },
+      {
+        "source": "Räumst du bitte auf?",
+        "target": "Kan du rydde opp?"
+      },
+      {
+        "source": "Wir räumen nach der Party auf.",
+        "target": "Vi rydder opp etter festen."
+      }
+    ]
+  },
+  "aufregen_verb": {
+    "primary": "opprøre_verb"
+  },
+  "aufschreiben_verb": {
+    "primary": "skriva_opp_verb"
+  },
+  "aufstehen_verb": {
+    "primary": "stå_opp_verb",
+    "examples": [
+      {
+        "source": "Ich stehe um 7 Uhr auf.",
+        "target": "Jeg står opp klokken 7."
+      },
+      {
+        "source": "Wann stehst du auf?",
+        "target": "Når står du opp?"
+      },
+      {
+        "source": "Am Wochenende stehe ich spät auf.",
+        "target": "I helgen står jeg sent opp."
+      }
+    ]
+  },
+  "auftreten_verb": {
+    "primary": "opptre_verb"
+  },
+  "aufwachen_verb": {
+    "primary": "våkne_verb",
+    "examples": [
+      {
+        "source": "Ich wache früh auf.",
+        "target": "Jeg våkner tidlig."
+      },
+      {
+        "source": "Wann wachst du auf?",
+        "target": "Når våkner du?"
+      },
+      {
+        "source": "Die Kinder wachen um 6 Uhr auf.",
+        "target": "Barna våkner klokken 6."
+      }
+    ]
+  },
+  "ausdrucken_verb": {
+    "primary": "skriva_ut_verb"
+  },
+  "ausfallen_verb": {
+    "primary": "falla_ut_verb"
+  },
+  "ausfuellen_verb": {
+    "primary": "fylla_ut_verb"
+  },
+  "ausgeben_verb": {
+    "primary": "bruka_verb"
+  },
+  "ausgehen_verb": {
+    "primary": "gå_ut_verb"
+  },
+  "ausmachen_verb": {
+    "primary": "slå_av_verb"
+  },
+  "auspacken_verb": {
+    "primary": "pakka_opp_verb"
+  },
+  "ausrichten_verb": {
+    "primary": "retta_ut_verb"
+  },
+  "aussen_verb": {
+    "primary": "ute_verb"
+  },
+  "aussprechen_verb": {
+    "primary": "uttale_verb"
+  },
+  "aussteigen_verb": {
+    "primary": "gå_av_verb"
+  },
+  "ausstellen_verb": {
+    "primary": "stilla_ut_verb"
+  },
+  "austragen_verb": {
+    "primary": "levere_ut_verb"
+  },
+  "auswaehlen_verb": {
+    "primary": "velge_ut_verb"
+  },
+  "ausziehen_verb": {
+    "primary": "kle_av_seg_verb",
+    "examples": [
+      {
+        "source": "Ich ziehe meine Schuhe aus.",
+        "target": "Jeg tar av meg skoene."
+      },
+      {
+        "source": "Ziehst du deine Jacke aus?",
+        "target": "Tar du av deg jakken?"
+      },
+      {
+        "source": "Wir ziehen die Kinder aus.",
+        "target": "Vi kler av barna."
+      }
+    ]
+  },
+  "backen_verb": {
+    "primary": "bake_verb"
+  },
+  "baden_verb": {
+    "primary": "bade_verb"
+  },
+  "basteln_verb": {
+    "primary": "lage_verb"
+  },
+  "bauen_verb": {
+    "primary": "bygga_verb"
+  },
+  "beachten_verb": {
+    "primary": "leggja_merke_til_verb"
+  },
+  "beantragen_verb": {
+    "primary": "søke_om_verb"
+  },
+  "beantworten_verb": {
+    "primary": "besvare_verb"
+  },
+  "bedeuten_verb": {
+    "primary": "tyda_verb"
+  },
+  "bedienen_verb": {
+    "primary": "betjene_verb"
+  },
+  "beeinflussen_verb": {
+    "primary": "påvirka_verb"
+  },
+  "beenden_verb": {
+    "primary": "avslutta_verb"
+  },
+  "begegnen_verb": {
+    "primary": "møte_verb"
+  },
+  "beginnen_verb": {
+    "primary": "begynna_verb",
+    "examples": [
+      {
+        "source": "Die Schule beginnt um acht Uhr.",
+        "target": "Skolen begynner klokken åtte."
+      },
+      {
+        "source": "Wann beginnt der Film?",
+        "target": "Når begynner filmen?"
+      },
+      {
+        "source": "Wir beginnen mit der Arbeit.",
+        "target": "Vi begynner med arbeidet."
+      }
+    ]
+  },
+  "begruenden_verb": {
+    "primary": "begrunna_verb"
+  },
+  "begruessen_verb": {
+    "primary": "hilse_verb"
+  },
+  "behalten_verb": {
+    "primary": "beholde_verb"
+  },
+  "behandeln_verb": {
+    "primary": "behandle_verb"
+  },
+  "behaupten_verb": {
+    "primary": "påstå_verb"
+  },
+  "beissen_verb": {
+    "primary": "bite_verb"
+  },
+  "bekommen_verb": {
+    "primary": "få_verb",
+    "examples": [
+      {
+        "source": "Ich bekomme ein Geschenk.",
+        "target": "Jeg får en gave."
+      },
+      {
+        "source": "Was bekommst du zum Geburtstag?",
+        "target": "Hva får du til bursdagen?"
+      },
+      {
+        "source": "Wir bekommen Besuch.",
+        "target": "Vi får besøk."
+      }
+    ]
+  },
+  "beleidigen_verb": {
+    "primary": "fornærme_verb"
+  },
+  "bemerken_verb": {
+    "primary": "leggja_merke_til_verb"
+  },
+  "benoetigen_verb": {
+    "primary": "trenga_verb"
+  },
+  "benutzen_verb": {
+    "primary": "bruka_verb"
+  },
+  "beobachten_verb": {
+    "primary": "observere_verb"
+  },
+  "berechnen_verb": {
+    "primary": "beregne_verb"
+  },
+  "berichten_verb": {
+    "primary": "rapportere_verb"
+  },
+  "beruhigen_verb": {
+    "primary": "berolige_verb"
+  },
+  "beschaedigen_verb": {
+    "primary": "skade_verb"
+  },
+  "beschliessen_verb": {
+    "primary": "beslutta_verb"
+  },
+  "beschreiben_verb": {
+    "primary": "beskrive_verb"
+  },
+  "besetzen_verb": {
+    "primary": "okkupere_verb"
+  },
+  "besichtigen_verb": {
+    "primary": "besiktige_verb"
+  },
+  "besorgen_verb": {
+    "primary": "skaffa_verb"
+  },
+  "besprechen_verb": {
+    "primary": "diskutere_verb"
+  },
+  "besuchen_verb": {
+    "primary": "besøke_verb",
+    "examples": [
+      {
+        "source": "Ich besuche meine Großeltern.",
+        "target": "Jeg besøker besteforeldrene mine."
+      },
+      {
+        "source": "Besuchst du mich morgen?",
+        "target": "Besøker du meg i morgen?"
+      },
+      {
+        "source": "Wir besuchen das Museum.",
+        "target": "Vi besøker museet."
+      }
+    ]
+  },
+  "betreuen_verb": {
+    "primary": "ta_seg_av_verb"
+  },
+  "bewegen_verb": {
+    "primary": "bevege_verb"
+  },
+  "beweisen_verb": {
+    "primary": "bevise_verb"
+  },
+  "bezahlen_verb": {
+    "primary": "betale_verb"
+  },
+  "bieten_verb": {
+    "primary": "tilby_verb"
+  },
+  "bin_einverstanden_verb": {
+    "primary": "er_enig_verb"
+  },
+  "bisschen_verb": {
+    "primary": "litt_verb"
+  },
+  "bitten_verb": {
+    "primary": "be_om_verb"
+  },
+  "bleiben_verb": {
+    "primary": "bli_verb",
+    "alternatives": [
+      "forbli_verb"
+    ],
+    "examples": [
+      {
+        "source": "Ich bleibe zu Hause.",
+        "target": "Jeg blir hjemme."
+      },
+      {
+        "source": "Bleibst du heute Abend?",
+        "target": "Blir du i kveld?"
+      },
+      {
+        "source": "Wir bleiben eine Woche.",
+        "target": "Vi blir en uke."
+      }
+    ]
+  },
+  "blitzen_verb": {
+    "primary": "lyne_verb"
+  },
+  "bluehen_verb": {
+    "primary": "blomstre_verb"
+  },
+  "bluten_verb": {
+    "primary": "blø_verb"
+  },
+  "braten_verb": {
+    "primary": "steke_verb"
+  },
+  "brauchen_verb": {
+    "primary": "trenga_verb",
+    "examples": [
+      {
+        "source": "Ich brauche Hilfe.",
+        "target": "Jeg trenger hjelp."
+      },
+      {
+        "source": "Was brauchst du?",
+        "target": "Hva trenger du?"
+      },
+      {
+        "source": "Wir brauchen mehr Zeit.",
+        "target": "Vi trenger mer tid."
+      }
+    ]
+  },
+  "bremsen_verb": {
+    "primary": "bremse_verb"
+  },
+  "brennen_verb": {
+    "primary": "brenna_verb"
+  },
+  "bringen_verb": {
+    "primary": "bringa_verb",
+    "examples": [
+      {
+        "source": "Ich bringe dir das Buch.",
+        "target": "Jeg bringer deg boken."
+      },
+      {
+        "source": "Bringst du Kuchen mit?",
+        "target": "Tar du med kake?"
+      },
+      {
+        "source": "Er bringt die Kinder zur Schule.",
+        "target": "Han kjører barna til skolen."
+      }
+    ]
+  },
+  "buchen_verb": {
+    "primary": "bestilla_verb"
+  },
+  "buchstabieren_verb": {
+    "primary": "stave_verb"
+  },
+  "chatten_verb": {
+    "primary": "chatta_verb"
+  },
+  "dafuer_vorbereiten_verb": {
+    "primary": "forberede_seg_på_det_verb"
+  },
+  "dagegen_gewesen_verb": {
+    "primary": "vært_imot_verb"
+  },
+  "dagegen_verb": {
+    "primary": "derimot_verb"
+  },
+  "damit_zufrieden_verb": {
+    "primary": "fornøyd_med_det_verb"
+  },
+  "daneben_verb": {
+    "primary": "ved_siden_av_verb"
+  },
+  "danken_verb": {
+    "primary": "takka_verb",
+    "examples": [
+      {
+        "source": "Ich danke dir!",
+        "target": "Jeg takker deg!"
+      },
+      {
+        "source": "Wir danken Ihnen sehr.",
+        "target": "Vi takker Dem veldig."
+      },
+      {
+        "source": "Er dankt für die Hilfe.",
+        "target": "Han takker for hjelpen."
+      }
+    ]
+  },
+  "darstellen_verb": {
+    "primary": "fremstilla_verb"
+  },
+  "dauern_verb": {
+    "primary": "vare_verb",
+    "examples": [
+      {
+        "source": "Wie lange dauert das?",
+        "target": "Hvor lenge varer det?"
+      },
+      {
+        "source": "Der Film dauert zwei Stunden.",
+        "target": "Filmen varer i to timer."
+      },
+      {
+        "source": "Die Reise dauert nicht lange.",
+        "target": "Reisen tar ikke lang tid."
+      }
+    ]
+  },
+  "dekorieren_verb": {
+    "primary": "dekorere_verb",
+    "examples": [
+      {
+        "source": "Ich dekoriere das Zimmer.",
+        "target": "Jeg dekorerer rommet."
+      },
+      {
+        "source": "Wir dekorieren den Weihnachtsbaum.",
+        "target": "Vi pynter juletreet."
+      },
+      {
+        "source": "Sie dekoriert die Torte.",
+        "target": "Hun dekorerer kaken."
+      }
+    ]
+  },
+  "denken_verb": {
+    "primary": "tenka_verb"
+  },
+  "deswegen_verb": {
+    "primary": "på_grunn_av_det_verb"
+  },
+  "dienen_verb": {
+    "primary": "tjene_verb"
+  },
+  "diskutieren_verb": {
+    "primary": "diskutere_verb"
+  },
+  "donnern_verb": {
+    "primary": "tordne_verb"
+  },
+  "drehen_verb": {
+    "primary": "dreie_verb"
+  },
+  "drinnen_verb": {
+    "primary": "inna_verb"
+  },
+  "drucken_verb": {
+    "primary": "trykka_verb"
+  },
+  "drueben_verb": {
+    "primary": "der_borte_verb"
+  },
+  "druecken_verb": {
+    "primary": "trykka_verb"
+  },
+  "duerfen_verb": {
+    "primary": "få_lov_til_verb",
+    "examples": [
+      {
+        "source": "Darf ich fragen?",
+        "target": "Får jeg lov til å spørre?"
+      },
+      {
+        "source": "Du darfst hier nicht rauchen.",
+        "target": "Du har ikke lov til å røyke her."
+      },
+      {
+        "source": "Wir dürfen ins Kino gehen.",
+        "target": "Vi får lov til å gå på kino."
+      }
+    ]
+  },
+  "duschen_verb": {
+    "primary": "dusje_verb"
+  },
+  "eben_verb": {
+    "primary": "nettopp_verb"
+  },
+  "eilen_verb": {
+    "primary": "skynda_seg_verb"
+  },
+  "einbrechen_verb": {
+    "primary": "bryta_seg_inn_verb"
+  },
+  "einfallen_verb": {
+    "primary": "falla_inn_verb"
+  },
+  "einfuegen_verb": {
+    "primary": "setja_inn_verb"
+  },
+  "einkaufen_verb": {
+    "primary": "handle_verb",
+    "alternatives": [
+      "gå_og_handle_verb"
+    ],
+    "examples": [
+      {
+        "source": "Ich kaufe im Supermarkt ein.",
+        "target": "Jeg handler i supermarkedet."
+      },
+      {
+        "source": "Gehst du heute einkaufen?",
+        "target": "Går du og handler i dag?"
+      },
+      {
+        "source": "Wir kaufen Obst und Gemüse ein.",
+        "target": "Vi handler frukt og grønnsaker."
+      }
+    ],
+    "explanation": "Betyr \"å handle\" eller \"å gå og handle\". Løst sammensatt verb. Eksempel: \"Ich gehe einkaufen\" (jeg går og handler), \"Ich kaufe Lebensmittel ein\" (jeg handler matvarer)."
+  },
+  "einladen_verb": {
+    "primary": "invitere_verb",
+    "examples": [
+      {
+        "source": "Ich lade dich zur Party ein.",
+        "target": "Jeg inviterer deg til festen."
+      },
+      {
+        "source": "Lädst du mich ein?",
+        "target": "Inviterer du meg?"
+      },
+      {
+        "source": "Wir laden alle Freunde ein.",
+        "target": "Vi inviterer alle vennene."
+      }
+    ],
+    "explanation": "Betyr \"å invitere\". Løst sammensatt verb. Eksempel: \"Ich lade alle Freunde ein\" (jeg inviterer alle vennene)."
+  },
+  "einnehmen_verb": {
+    "primary": "innta_verb"
+  },
+  "einpacken_verb": {
+    "primary": "pakka_verb",
+    "examples": [
+      {
+        "source": "Ich packe das Geschenk ein.",
+        "target": "Jeg pakker inn gaven."
+      },
+      {
+        "source": "Packst du die Sachen ein?",
+        "target": "Pakker du ned tingene?"
+      },
+      {
+        "source": "Wir packen alles ein.",
+        "target": "Vi pakker alt ned."
+      }
+    ],
+    "synonyms": [
+      "pakke sammen",
+      "kjøpe"
+    ]
+  },
+  "einrichten_verb": {
+    "primary": "innrede_verb"
+  },
+  "einschalten_verb": {
+    "primary": "slå_på_verb"
+  },
+  "einschlafen_verb": {
+    "primary": "sovne_verb",
+    "examples": [
+      {
+        "source": "Ich schlafe schnell ein.",
+        "target": "Jeg sovner raskt."
+      },
+      {
+        "source": "Schläfst du leicht ein?",
+        "target": "Sovner du lett?"
+      },
+      {
+        "source": "Die Kinder schlafen früh ein.",
+        "target": "Barna sovner tidlig."
+      }
+    ]
+  },
+  "einsetzen_verb": {
+    "primary": "setja_inn_verb"
+  },
+  "einsteigen_verb": {
+    "primary": "stige_på_verb"
+  },
+  "eintragen_verb": {
+    "primary": "føre_inn_verb"
+  },
+  "eintreten_verb": {
+    "primary": "tre_inn_verb"
+  },
+  "einverstanden_verb": {
+    "primary": "enig_verb"
+  },
+  "einzahlen_verb": {
+    "primary": "setja_inn_verb"
+  },
+  "einzeln_verb": {
+    "primary": "enkeltvis_verb"
+  },
+  "einziehen_verb": {
+    "primary": "flytta_inn_verb"
+  },
+  "empfangen_verb": {
+    "primary": "motta_verb"
+  },
+  "empfehlen_verb": {
+    "primary": "anbefale_verb"
+  },
+  "enden_verb": {
+    "primary": "slutta_verb"
+  },
+  "entdecken_verb": {
+    "primary": "oppdage_verb"
+  },
+  "entfernen_verb": {
+    "primary": "fjerne_verb"
+  },
+  "entlassen_verb": {
+    "primary": "si_opp_verb"
+  },
+  "entschuldigen_verb": {
+    "primary": "unnskylde_verb"
+  },
+  "entsorgen_verb": {
+    "primary": "kasta_verb"
+  },
+  "entspannen_verb": {
+    "primary": "slappa_av_verb",
+    "examples": [
+      {
+        "source": "Ich entspanne mich zu Hause.",
+        "target": "Jeg slapper av hjemme."
+      },
+      {
+        "source": "Wie entspannst du dich?",
+        "target": "Hvordan slapper du av?"
+      },
+      {
+        "source": "Am Wochenende entspanne ich mich.",
+        "target": "I helgen slapper jeg av."
+      }
+    ],
+    "explanation": "Refleksivt verb: \"å slappe av\". Brukes med \"sich\". Eksempel: \"Ich entspanne mich zu Hause\" (jeg slapper av hjemme)."
+  },
+  "entstehen_verb": {
+    "primary": "oppstå_verb"
+  },
+  "enttaeuschen_verb": {
+    "primary": "skuffa_verb"
+  },
+  "entwickeln_verb": {
+    "primary": "utvikle_verb"
+  },
+  "erfinden_verb": {
+    "primary": "finna_opp_verb"
+  },
+  "erfordern_verb": {
+    "primary": "kreve_verb"
+  },
+  "erfuellen_verb": {
+    "primary": "oppfylla_verb"
+  },
+  "ergaenzen_verb": {
+    "primary": "supplere_verb"
+  },
+  "erhalten_verb": {
+    "primary": "motta_verb"
+  },
+  "erinnern_verb": {
+    "primary": "minna_verb"
+  },
+  "erkennen_verb": {
+    "primary": "gjenkjenna_verb"
+  },
+  "erklaeren_verb": {
+    "primary": "forklare_verb",
+    "examples": [
+      {
+        "source": "Kannst du das erklären?",
+        "target": "Kan du forklare det?"
+      },
+      {
+        "source": "Ich erkläre es dir.",
+        "target": "Jeg forklarer det for deg."
+      },
+      {
+        "source": "Der Lehrer erklärt die Grammatik.",
+        "target": "Læreren forklarer grammatikken."
+      }
+    ]
+  },
+  "erlauben_verb": {
+    "primary": "tillate_verb"
+  },
+  "erleben_verb": {
+    "primary": "oppleve_verb"
+  },
+  "erledigen_verb": {
+    "primary": "ordne_verb"
+  },
+  "erleichtern_verb": {
+    "primary": "letta_verb"
+  },
+  "ernaehren_verb": {
+    "primary": "ernære_verb"
+  },
+  "eroeffnen_verb": {
+    "primary": "åpne_verb"
+  },
+  "erreichen_verb": {
+    "primary": "no_verb"
+  },
+  "erstellen_verb": {
+    "primary": "oppretta_verb"
+  },
+  "erwachsen_verb": {
+    "primary": "voksen_verb"
+  },
+  "erwarten_verb": {
+    "primary": "forventa_verb"
+  },
+  "erzaehlen_verb": {
+    "primary": "fortelja_verb",
+    "examples": [
+      {
+        "source": "Ich erzähle dir eine Geschichte.",
+        "target": "Jeg forteller deg en historie."
+      },
+      {
+        "source": "Erzählst du mir davon?",
+        "target": "Forteller du meg om det?"
+      },
+      {
+        "source": "Sie erzählt immer interessante Sachen.",
+        "target": "Hun forteller alltid interessante ting."
+      }
+    ]
+  },
+  "erziehen_verb": {
+    "primary": "oppdra_verb"
+  },
+  "essen_verb": {
+    "primary": "eta_verb",
+    "examples": [
+      {
+        "source": "Ich esse Pizza.",
+        "target": "Jeg spiser pizza."
+      },
+      {
+        "source": "Was isst du gern?",
+        "target": "Hva liker du å spise?"
+      },
+      {
+        "source": "Wir essen zusammen.",
+        "target": "Vi spiser sammen."
+      }
+    ],
+    "synonyms": [
+      "å innta",
+      "å fortære"
+    ]
+  },
+  "fahren_verb": {
+    "primary": "reise_verb",
+    "alternatives": [
+      "køyra_verb"
+    ],
+    "examples": [
+      {
+        "source": "Ich fahre mit dem Bus.",
+        "target": "Jeg kjører med bussen."
+      },
+      {
+        "source": "Fährst du Auto?",
+        "target": "Kjører du bil?"
+      },
+      {
+        "source": "Wir fahren nach Berlin.",
+        "target": "Vi reiser til Berlin."
+      }
+    ]
+  },
+  "fallen_verb": {
+    "primary": "falla_verb"
+  },
+  "fangen_verb": {
+    "primary": "fanga_verb"
+  },
+  "fassen_verb": {
+    "primary": "gripe_verb"
+  },
+  "faulenzen_verb": {
+    "primary": "dovne_seg_verb"
+  },
+  "fehlen_verb": {
+    "primary": "mangle_verb"
+  },
+  "feiern_verb": {
+    "primary": "feire_verb",
+    "examples": [
+      {
+        "source": "Wir feiern meinen Geburtstag.",
+        "target": "Vi feirer bursdagen min."
+      },
+      {
+        "source": "Feierst du Weihnachten?",
+        "target": "Feirer du jul?"
+      },
+      {
+        "source": "Sie feiern eine Party.",
+        "target": "De holder en fest."
+      }
+    ],
+    "explanation": "Betyr \"å feire\". Eksempel: \"Wir feiern Weihnachten\" (vi feirer jul)."
+  },
+  "fernsehen_verb": {
+    "primary": "se_på_tv_verb",
+    "examples": [
+      {
+        "source": "Ich sehe abends fern.",
+        "target": "Jeg ser på TV om kvelden."
+      },
+      {
+        "source": "Siehst du gern fern?",
+        "target": "Liker du å se på TV?"
+      },
+      {
+        "source": "Die Kinder sehen zu viel fern.",
+        "target": "Barna ser for mye på TV."
+      }
+    ]
+  },
+  "fertig_werden_verbphrase": {
+    "primary": "bli_ferdig_phrase",
+    "examples": [
+      {
+        "source": "Ich werde bald fertig.",
+        "target": "Jeg blir snart ferdig."
+      },
+      {
+        "source": "Wann wirst du fertig?",
+        "target": "Når blir du ferdig?"
+      },
+      {
+        "source": "Wir werden rechtzeitig fertig.",
+        "target": "Vi blir ferdige i tide."
+      }
+    ]
+  },
+  "festlegen_verb": {
+    "primary": "fastsetta_verb"
+  },
+  "feststehen_verb": {
+    "primary": "stå_fast_verb"
+  },
+  "feststellen_verb": {
+    "primary": "konstatere_verb"
+  },
+  "finanzieren_verb": {
+    "primary": "finansiere_verb"
+  },
+  "finden_verb": {
+    "primary": "synast_verb",
+    "alternatives": [
+      "finna_verb"
+    ],
+    "examples": [
+      {
+        "source": "Ich finde das gut.",
+        "target": "Jeg synes det er bra."
+      },
+      {
+        "source": "Wie findest du den Film?",
+        "target": "Hva synes du om filmen?"
+      },
+      {
+        "source": "Ich kann mein Handy nicht finden.",
+        "target": "Jeg finner ikke mobilen min."
+      }
+    ]
+  },
+  "fliegen_verb": {
+    "primary": "flyga_verb",
+    "examples": [
+      {
+        "source": "Ich fliege nach Deutschland.",
+        "target": "Jeg flyr til Tyskland."
+      },
+      {
+        "source": "Fliegst du oft?",
+        "target": "Flyr du ofte?"
+      },
+      {
+        "source": "Wir fliegen in den Urlaub.",
+        "target": "Vi flyr på ferie."
+      }
+    ]
+  },
+  "foerdern_verb": {
+    "primary": "fremma_verb"
+  },
+  "folgen_verb": {
+    "primary": "følge_verb"
+  },
+  "fotografieren_verb": {
+    "primary": "fotografere_verb"
+  },
+  "fragen_verb": {
+    "primary": "spørja_verb",
+    "examples": [
+      {
+        "source": "Darf ich dich etwas fragen?",
+        "target": "Får jeg spørre deg om noe?"
+      },
+      {
+        "source": "Ich frage den Lehrer.",
+        "target": "Jeg spør læreren."
+      },
+      {
+        "source": "Sie fragt nach dem Weg.",
+        "target": "Hun spør om veien."
+      }
+    ],
+    "explanation": "Betyr \"å spørre\". Eksempel: \"Darf ich dich etwas fragen?\" (får jeg lov til å spørre deg om noe?)."
+  },
+  "fressen_verb": {
+    "primary": "eta_verb",
+    "examples": [
+      {
+        "source": "Der Hund frisst.",
+        "target": "Hunden spiser."
+      },
+      {
+        "source": "Was frisst die Katze?",
+        "target": "Hva spiser katten?"
+      },
+      {
+        "source": "Die Pferde fressen Heu.",
+        "target": "Hestene spiser høy."
+      }
+    ],
+    "explanation": "Betyr å spise, men brukes KUN for dyr. For mennesker bruker vi \"essen\". Eksempel: \"Der Hund frisst Fleisch\" (hunden spiser kjøtt), men \"Ich esse Pizza\" (jeg spiser pizza)."
+  },
+  "freuen_verb": {
+    "primary": "glede_seg_verb"
+  },
+  "frieren_verb": {
+    "primary": "fryse_verb"
+  },
+  "fruehstuecken_verb": {
+    "primary": "eta_frokost_verb",
+    "examples": [
+      {
+        "source": "Ich frühstücke um 7 Uhr.",
+        "target": "Jeg spiser frokost klokken 7."
+      },
+      {
+        "source": "Frühstückst du immer?",
+        "target": "Spiser du alltid frokost?"
+      },
+      {
+        "source": "Wir frühstücken zusammen.",
+        "target": "Vi spiser frokost sammen."
+      }
+    ]
+  },
+  "fuehlen_verb": {
+    "primary": "føle_verb"
+  },
+  "fuehren_verb": {
+    "primary": "lede_verb"
+  },
+  "fuenf_aufgaben_verb": {
+    "primary": "fem_oppgaver_verb"
+  },
+  "fuettern_verb": {
+    "primary": "mate_verb",
+    "alternatives": [
+      "fre_verb"
+    ],
+    "examples": [
+      {
+        "source": "Ich füttere die Katze.",
+        "target": "Jeg mater katten."
+      },
+      {
+        "source": "Fütterst du den Hund?",
+        "target": "Mater du hunden?"
+      },
+      {
+        "source": "Wir füttern die Tiere im Zoo.",
+        "target": "Vi mater dyrene i dyrehagen."
+      }
+    ],
+    "explanation": "Betyr å gi mat til dyr. For mennesker bruker vi vanligvis \"essen\" (å spise) eller \"ernähren\" (å ernære).",
+    "synonyms": [
+      "å gi mat til"
+    ]
+  },
+  "funktionieren_verb": {
+    "primary": "fungere_verb"
+  },
+  "garantieren_verb": {
+    "primary": "garantere_verb"
+  },
+  "gassi_gehen_verbphrase": {
+    "primary": "gå_tur_med_hunden_phrase",
+    "examples": [
+      {
+        "source": "Ich gehe mit dem Hund Gassi.",
+        "target": "Jeg går tur med hunden."
+      },
+      {
+        "source": "Gehst du heute Gassi?",
+        "target": "Går du tur med hunden i dag?"
+      },
+      {
+        "source": "Wir gehen jeden Tag Gassi.",
+        "target": "Vi går tur med hunden hver dag."
+      }
+    ],
+    "synonyms": [
+      "gå med hunden"
+    ]
+  },
+  "geben_verb": {
+    "primary": "gi_verb",
+    "examples": [
+      {
+        "source": "Ich gebe dir das Buch.",
+        "target": "Jeg gir deg boken."
+      },
+      {
+        "source": "Gibst du mir dein Handy?",
+        "target": "Gir du meg mobilen din?"
+      },
+      {
+        "source": "Es gibt viele Möglichkeiten.",
+        "target": "Det finnes mange muligheter."
+      }
+    ]
+  },
+  "geboren_verb": {
+    "primary": "født_verb"
+  },
+  "gefallen_verb": {
+    "primary": "lika_verb"
+  },
+  "gehangen_verb": {
+    "primary": "hengt_verb"
+  },
+  "gehen_verb": {
+    "primary": "gå_verb",
+    "examples": [
+      {
+        "source": "Ich gehe in die Schule.",
+        "target": "Jeg går på skolen."
+      },
+      {
+        "source": "Wie geht es dir?",
+        "target": "Hvordan har du det?"
+      },
+      {
+        "source": "Wir gehen ins Kino.",
+        "target": "Vi går på kino."
+      }
+    ],
+    "synonyms": [
+      "å gå",
+      "å vandre"
+    ]
+  },
+  "gehoeren_verb": {
+    "primary": "tilhøre_verb"
+  },
+  "gelesen_verb": {
+    "primary": "lest_verb"
+  },
+  "gelingen_verb": {
+    "primary": "lykkes_verb"
+  },
+  "gelten_verb": {
+    "primary": "gjelde_verb"
+  },
+  "genehmigen_verb": {
+    "primary": "godkjenna_verb"
+  },
+  "genuegen_verb": {
+    "primary": "vera_nok_verb"
+  },
+  "geschehen_verb": {
+    "primary": "skje_verb"
+  },
+  "geschlossen_verb": {
+    "primary": "stengt_verb"
+  },
+  "gestern_gestorben_verb": {
+    "primary": "døde_i_går_verb"
+  },
+  "gestern_verb": {
+    "primary": "i_går_verb"
+  },
+  "gestorben_verb": {
+    "primary": "død_verb"
+  },
+  "gewesen_verb": {
+    "primary": "vært_verb"
+  },
+  "gewinnen_verb": {
+    "primary": "vinna_verb",
+    "examples": [
+      {
+        "source": "Ich gewinne das Spiel.",
+        "target": "Jeg vinner spillet."
+      },
+      {
+        "source": "Wer gewinnt?",
+        "target": "Hvem vinner?"
+      },
+      {
+        "source": "Unsere Mannschaft gewinnt oft.",
+        "target": "Laget vårt vinner ofte."
+      }
+    ]
+  },
+  "glauben_verb": {
+    "primary": "tro_verb",
+    "examples": [
+      {
+        "source": "Ich glaube dir.",
+        "target": "Jeg tror deg."
+      },
+      {
+        "source": "Glaubst du das?",
+        "target": "Tror du det?"
+      },
+      {
+        "source": "Wir glauben an dich.",
+        "target": "Vi tror på deg."
+      }
+    ]
+  },
+  "gratulieren_verb": {
+    "primary": "gratulere_verb"
+  },
+  "greifen_verb": {
+    "primary": "gripe_verb"
+  },
+  "grillen_verb": {
+    "primary": "grilla_verb",
+    "examples": [
+      {
+        "source": "Wir grillen am Wochenende.",
+        "target": "Vi griller i helgen."
+      },
+      {
+        "source": "Grillst du gern?",
+        "target": "Liker du å grille?"
+      },
+      {
+        "source": "Sie grillen Würstchen.",
+        "target": "De griller pølser."
+      }
+    ],
+    "explanation": "Betyr \"å grille\". Eksempel: \"Wir grillen am Wochenende\" (vi griller i helgen)."
+  },
+  "grillieren_verb": {
+    "primary": "grilla_verb"
+  },
+  "gruenden_verb": {
+    "primary": "grunnlegga_verb"
+  },
+  "gruessen_verb": {
+    "primary": "hilse_verb"
+  },
+  "gucken_verb": {
+    "primary": "se_verb"
+  },
+  "haben_verb": {
+    "primary": "ha_verb",
+    "examples": [
+      {
+        "source": "Ich habe einen Bruder.",
+        "target": "Jeg har en bror."
+      },
+      {
+        "source": "Hast du Zeit?",
+        "target": "Har du tid?"
+      },
+      {
+        "source": "Wir haben Hunger.",
+        "target": "Vi er sultne."
+      }
+    ]
+  },
+  "haengen_verb": {
+    "primary": "henga_verb",
+    "examples": [
+      {
+        "source": "Das Bild hängt an der Wand.",
+        "target": "Bildet henger på veggen."
+      },
+      {
+        "source": "Ich hänge meine Jacke auf.",
+        "target": "Jeg henger opp jakken min."
+      },
+      {
+        "source": "Die Lampe hängt über dem Tisch.",
+        "target": "Lampen henger over bordet."
+      }
+    ]
+  },
+  "hageln_verb": {
+    "primary": "hagle_verb"
+  },
+  "halten_verb": {
+    "primary": "halda_verb"
+  },
+  "hassen_verb": {
+    "primary": "hate_verb"
+  },
+  "heben_verb": {
+    "primary": "løfta_verb"
+  },
+  "heiraten_verb": {
+    "primary": "gifta_seg_verb"
+  },
+  "heissen_verb": {
+    "primary": "heita_verb",
+    "examples": [
+      {
+        "source": "Ich heiße Anna.",
+        "target": "Jeg heter Anna."
+      },
+      {
+        "source": "Wie heißt du?",
+        "target": "Hva heter du?"
+      },
+      {
+        "source": "Er heißt Max.",
+        "target": "Han heter Max."
+      }
+    ],
+    "explanation": "Betyr \"å hete\" eller \"å være kalt\". Brukes for navn. Eksempel: \"Ich heiße Olivia\" (jeg heter Olivia), \"Wie heißt du?\" (hva heter du?)."
+  },
+  "heizen_verb": {
+    "primary": "varme_opp_verb"
+  },
+  "helfen_verb": {
+    "primary": "hjelpa_verb",
+    "examples": [
+      {
+        "source": "Kann ich dir helfen?",
+        "target": "Kan jeg hjelpe deg?"
+      },
+      {
+        "source": "Ich helfe meiner Mutter.",
+        "target": "Jeg hjelper moren min."
+      },
+      {
+        "source": "Wir helfen gern.",
+        "target": "Vi hjelper gjerne."
+      }
+    ]
+  },
+  "herstellen_verb": {
+    "primary": "produsere_verb"
+  },
+  "herunterladen_verb": {
+    "primary": "lasta_ned_verb"
+  },
+  "hinten_verb": {
+    "primary": "bak_verb"
+  },
+  "hinterlassen_verb": {
+    "primary": "etterlate_verb"
+  },
+  "hinweisen_verb": {
+    "primary": "henvise_verb"
+  },
+  "hochladen_verb": {
+    "primary": "lasta_opp_verb"
+  },
+  "hoeren_verb": {
+    "primary": "høyra_verb",
+    "examples": [
+      {
+        "source": "Ich höre Musik.",
+        "target": "Jeg hører på musikk."
+      },
+      {
+        "source": "Hörst du das?",
+        "target": "Hører du det?"
+      },
+      {
+        "source": "Wir hören gern Podcasts.",
+        "target": "Vi liker å høre på podcaster."
+      }
+    ]
+  },
+  "hoffen_verb": {
+    "primary": "håpe_verb",
+    "examples": [
+      {
+        "source": "Ich hoffe, du kommst.",
+        "target": "Jeg håper du kommer."
+      },
+      {
+        "source": "Hoffst du auf gutes Wetter?",
+        "target": "Håper du på godt vær?"
+      },
+      {
+        "source": "Wir hoffen auf das Beste.",
+        "target": "Vi håper på det beste."
+      }
+    ]
+  },
+  "holen_verb": {
+    "primary": "henta_verb"
+  },
+  "hupen_verb": {
+    "primary": "tute_verb"
+  },
+  "husten_verb": {
+    "primary": "hosta_verb"
+  },
+  "im_sueden_verb": {
+    "primary": "i_sør_verb"
+  },
+  "informieren_verb": {
+    "primary": "informere_verb"
+  },
+  "innen_verb": {
+    "primary": "inna_verb"
+  },
+  "installieren_verb": {
+    "primary": "installere_verb"
+  },
+  "interessieren_verb": {
+    "primary": "interessere_verb",
+    "examples": [
+      {
+        "source": "Ich interessiere mich für Musik.",
+        "target": "Jeg interesserer meg for musikk."
+      },
+      {
+        "source": "Wofür interessierst du dich?",
+        "target": "Hva interesserer du deg for?"
+      },
+      {
+        "source": "Sie interessiert sich für Sport.",
+        "target": "Hun interesserer seg for sport."
+      }
+    ],
+    "explanation": "Refleksivt verb: \"å interessere seg for\". Brukes med \"sich\" og \"für\". Eksempel: \"Ich interessiere mich für Politik\" (jeg interesserer meg for politikk)."
+  },
+  "inzwischen_verb": {
+    "primary": "i_mellomtiden_verb"
+  },
+  "jagen_verb": {
+    "primary": "jakta_verb",
+    "examples": [
+      {
+        "source": "Katzen jagen Mäuse.",
+        "target": "Katter jakter på mus."
+      },
+      {
+        "source": "Die Polizei jagt den Dieb.",
+        "target": "Politiet jakter på tyven."
+      },
+      {
+        "source": "Wir jagen nicht.",
+        "target": "Vi jakter ikke."
+      }
+    ]
+  },
+  "kaempfen_verb": {
+    "primary": "kjempa_verb"
+  },
+  "kaputtmachen_verb": {
+    "primary": "ødelegga_verb"
+  },
+  "kaufen_verb": {
+    "primary": "kjøpe_verb",
+    "examples": [
+      {
+        "source": "Ich kaufe Brot.",
+        "target": "Jeg kjøper brød."
+      },
+      {
+        "source": "Was kaufst du?",
+        "target": "Hva kjøper du?"
+      },
+      {
+        "source": "Wir kaufen im Supermarkt ein.",
+        "target": "Vi handler i supermarkedet."
+      }
+    ]
+  },
+  "kennen_verb": {
+    "primary": "kjenna_verb",
+    "examples": [
+      {
+        "source": "Ich kenne ihn gut.",
+        "target": "Jeg kjenner ham godt."
+      },
+      {
+        "source": "Kennst du dieses Lied?",
+        "target": "Kjenner du denne sangen?"
+      },
+      {
+        "source": "Wir kennen uns seit Jahren.",
+        "target": "Vi har kjent hverandre i årevis."
+      }
+    ]
+  },
+  "kennenlernen_verb": {
+    "primary": "bli_kjent_med_verb"
+  },
+  "klaeren_verb": {
+    "primary": "klargjøre_verb"
+  },
+  "klagen_verb": {
+    "primary": "klage_verb"
+  },
+  "klappen_verb": {
+    "primary": "klaffa_verb"
+  },
+  "kleben_verb": {
+    "primary": "lime_verb"
+  },
+  "klettern_verb": {
+    "primary": "klatre_verb",
+    "examples": [
+      {
+        "source": "Ich klettere gern.",
+        "target": "Jeg liker å klatre."
+      },
+      {
+        "source": "Wir klettern auf den Berg.",
+        "target": "Vi klatrer opp på fjellet."
+      },
+      {
+        "source": "Die Kinder klettern auf den Baum.",
+        "target": "Barna klatrer opp i treet."
+      }
+    ],
+    "synonyms": [
+      "å bestige"
+    ]
+  },
+  "klicken_verb": {
+    "primary": "klikka_verb"
+  },
+  "klingeln_verb": {
+    "primary": "ringa_verb",
+    "examples": [
+      {
+        "source": "Das Telefon klingelt.",
+        "target": "Telefonen ringer."
+      },
+      {
+        "source": "Die Schulglocke klingelt.",
+        "target": "Skoleklokken ringer."
+      },
+      {
+        "source": "Es klingelt an der Tür.",
+        "target": "Det ringer på døren."
+      }
+    ]
+  },
+  "klingen_verb": {
+    "primary": "høres_ut_verb",
+    "alternatives": [
+      "lyde_verb"
+    ],
+    "examples": [
+      {
+        "source": "Das klingt gut!",
+        "target": "Det høres bra ut!"
+      },
+      {
+        "source": "Wie klingt das?",
+        "target": "Hvordan høres det ut?"
+      },
+      {
+        "source": "Die Musik klingt schön.",
+        "target": "Musikken lyder vakkert."
+      }
+    ],
+    "explanation": "Sterkt verb som betyr \"å høres ut\" eller \"å lyde\". Eksempel: \"Das klingt gut!\" (det høres bra ut!)."
+  },
+  "klopfen_verb": {
+    "primary": "banka_verb"
+  },
+  "kochen_verb": {
+    "primary": "lage_mat_verb",
+    "examples": [
+      {
+        "source": "Ich koche gern.",
+        "target": "Jeg liker å lage mat."
+      },
+      {
+        "source": "Wer kocht heute?",
+        "target": "Hvem lager mat i dag?"
+      },
+      {
+        "source": "Meine Mutter kocht sehr gut.",
+        "target": "Moren min lager veldig god mat."
+      }
+    ],
+    "synonyms": [
+      "å koke",
+      "å tilberede"
+    ]
+  },
+  "koennen_verb": {
+    "primary": "kunna_verb",
+    "examples": [
+      {
+        "source": "Ich kann Deutsch sprechen.",
+        "target": "Jeg kan snakke tysk."
+      },
+      {
+        "source": "Kannst du schwimmen?",
+        "target": "Kan du svømme?"
+      },
+      {
+        "source": "Wir können morgen kommen.",
+        "target": "Vi kan komme i morgen."
+      }
+    ]
+  },
+  "kommen_verb": {
+    "primary": "koma_verb",
+    "examples": [
+      {
+        "source": "Ich komme aus Norwegen.",
+        "target": "Jeg kommer fra Norge."
+      },
+      {
+        "source": "Woher kommst du?",
+        "target": "Hvor kommer du fra?"
+      },
+      {
+        "source": "Sie kommt morgen.",
+        "target": "Hun kommer i morgen."
+      }
+    ],
+    "explanation": "Betyr \"å komme\". Ofte brukt med \"aus\" for opprinnelse. Eksempel: \"Ich komme aus Oslo\" (jeg kommer fra Oslo), \"Woher kommst du?\" (hvor kommer du fra?)."
+  },
+  "konsumieren_verb": {
+    "primary": "forbruke_verb"
+  },
+  "kontrollieren_verb": {
+    "primary": "kontrollere_verb"
+  },
+  "kopieren_verb": {
+    "primary": "kopiere_verb"
+  },
+  "kosten_verb": {
+    "primary": "kosta_verb"
+  },
+  "kriegen_verb": {
+    "primary": "få_verb"
+  },
+  "kritisieren_verb": {
+    "primary": "kritisere_verb"
+  },
+  "kuendigen_verb": {
+    "primary": "si_opp_verb"
+  },
+  "kuessen_verb": {
+    "primary": "kyssa_verb"
+  },
+  "lachen_verb": {
+    "primary": "le_verb",
+    "examples": [
+      {
+        "source": "Ich lache gern.",
+        "target": "Jeg liker å le."
+      },
+      {
+        "source": "Warum lachst du?",
+        "target": "Hvorfor ler du?"
+      },
+      {
+        "source": "Wir lachen über den Witz.",
+        "target": "Vi ler av vitsen."
+      }
+    ],
+    "explanation": "Betyr \"å le\". Ofte brukt i dialog for å vise humor. Eksempel: \"(lacht) Das ist lustig!\" ((ler) det er morsomt!)."
+  },
+  "laecheln_verb": {
+    "primary": "smile_verb",
+    "examples": [
+      {
+        "source": "Ich lächle.",
+        "target": "Jeg smiler."
+      },
+      {
+        "source": "Warum lächelst du?",
+        "target": "Hvorfor smiler du?"
+      },
+      {
+        "source": "Sie lächelt freundlich.",
+        "target": "Hun smiler vennlig."
+      }
+    ],
+    "explanation": "Betyr \"å smile\". Ofte brukt i dialog for å vise en vennlig reaksjon. Eksempel: \"(lächelt) Das ist geheim!\" ((smiler) det er hemmelig!)."
+  },
+  "lassen_verb": {
+    "primary": "la_verb"
+  },
+  "laufen_verb": {
+    "primary": "springa_verb",
+    "examples": [
+      {
+        "source": "Ich laufe jeden Tag.",
+        "target": "Jeg løper hver dag."
+      },
+      {
+        "source": "Läufst du gern?",
+        "target": "Liker du å løpe?"
+      },
+      {
+        "source": "Wir laufen zur Schule.",
+        "target": "Vi går til skolen."
+      }
+    ]
+  },
+  "laut_sprechen_verb": {
+    "primary": "snakka_høyt_verb"
+  },
+  "leben_verb": {
+    "primary": "leve_verb",
+    "examples": [
+      {
+        "source": "Ich lebe in Norwegen.",
+        "target": "Jeg bor i Norge."
+      },
+      {
+        "source": "Wo lebst du?",
+        "target": "Hvor bor du?"
+      },
+      {
+        "source": "Wir leben gesund.",
+        "target": "Vi lever sunt."
+      }
+    ]
+  },
+  "legen_verb": {
+    "primary": "leggja_verb"
+  },
+  "leiden_verb": {
+    "primary": "lide_verb"
+  },
+  "leihen_verb": {
+    "primary": "låne_verb"
+  },
+  "leisten_verb": {
+    "primary": "yte_verb"
+  },
+  "leiten_verb": {
+    "primary": "lede_verb"
+  },
+  "lernen_verb": {
+    "primary": "læra_verb",
+    "examples": [
+      {
+        "source": "Ich lerne Deutsch.",
+        "target": "Jeg lærer tysk."
+      },
+      {
+        "source": "Was lernst du in der Schule?",
+        "target": "Hva lærer du på skolen?"
+      },
+      {
+        "source": "Wir lernen für die Prüfung.",
+        "target": "Vi leser til prøven."
+      }
+    ],
+    "explanation": "Betyr \"å lære\" eller \"å studere\". Eksempel: \"Ich lerne Deutsch\" (jeg lærer tysk), \"Ich lerne für Prüfungen\" (jeg studerer til prøver)."
+  },
+  "lesen_verb": {
+    "primary": "lesa_verb",
+    "examples": [
+      {
+        "source": "Ich lese ein Buch.",
+        "target": "Jeg leser en bok."
+      },
+      {
+        "source": "Was liest du gern?",
+        "target": "Hva liker du å lese?"
+      },
+      {
+        "source": "Er liest die Zeitung.",
+        "target": "Han leser avisen."
+      }
+    ]
+  },
+  "lieben_verb": {
+    "primary": "elska_verb",
+    "alternatives": [
+      "lika_godt_verb"
+    ],
+    "examples": [
+      {
+        "source": "Ich liebe meine Familie.",
+        "target": "Jeg elsker familien min."
+      },
+      {
+        "source": "Liebst du Schokolade?",
+        "target": "Elsker du sjokolade?"
+      },
+      {
+        "source": "Wir lieben dieses Restaurant.",
+        "target": "Vi elsker denne restauranten."
+      }
+    ]
+  },
+  "liegen_bleiben_verb": {
+    "primary": "bli_liggende_verb",
+    "examples": [
+      {
+        "source": "Ich bleibe im Bett liegen.",
+        "target": "Jeg blir liggende i sengen."
+      },
+      {
+        "source": "Bleibst du noch liegen?",
+        "target": "Blir du liggende litt til?"
+      },
+      {
+        "source": "Am Sonntag bleibe ich lange liegen.",
+        "target": "På søndag blir jeg liggende lenge."
+      }
+    ]
+  },
+  "liegen_verb": {
+    "primary": "liggja_verb",
+    "examples": [
+      {
+        "source": "Ich liege im Bett.",
+        "target": "Jeg ligger i sengen."
+      },
+      {
+        "source": "Das Buch liegt auf dem Tisch.",
+        "target": "Boken ligger på bordet."
+      },
+      {
+        "source": "Die Stadt liegt am Meer.",
+        "target": "Byen ligger ved havet."
+      }
+    ],
+    "explanation": "Sterkt verb som betyr \"å ligge\". Ofte brukt i uttrykket \"im Bett liegen\" (å ligge i sengen). Eksempel: \"Ich bleibe noch 10 Minuten im Bett liegen\" (jeg blir liggende i sengen 10 minutter til)."
+  },
+  "loben_verb": {
+    "primary": "rose_verb"
+  },
+  "loeschen_verb": {
+    "primary": "sletta_verb"
+  },
+  "loesen_verb": {
+    "primary": "løse_verb"
+  },
+  "losfahren_verb": {
+    "primary": "køyra_av_sted_verb"
+  },
+  "luegen_verb": {
+    "primary": "lyve_verb"
+  },
+  "machen_verb": {
+    "primary": "gjera_verb",
+    "alternatives": [
+      "lage_verb"
+    ],
+    "examples": [
+      {
+        "source": "Was machst du?",
+        "target": "Hva gjør du?"
+      },
+      {
+        "source": "Ich mache Hausaufgaben.",
+        "target": "Jeg gjør lekser."
+      },
+      {
+        "source": "Wir machen eine Party.",
+        "target": "Vi lager en fest."
+      }
+    ],
+    "synonyms": [
+      "å gjøre",
+      "å lage",
+      "å produsere"
+    ]
+  },
+  "malen_verb": {
+    "primary": "male_verb",
+    "examples": [
+      {
+        "source": "Ich male gern.",
+        "target": "Jeg liker å male."
+      },
+      {
+        "source": "Sie malt ein Bild.",
+        "target": "Hun maler et bilde."
+      },
+      {
+        "source": "Was malst du?",
+        "target": "Hva maler du?"
+      }
+    ]
+  },
+  "markieren_verb": {
+    "primary": "markere_verb"
+  },
+  "meinen_verb": {
+    "primary": "mene_verb"
+  },
+  "meistder_mensch_verb": {
+    "primary": "dei_fleste_mennesker_verb"
+  },
+  "melden_verb": {
+    "primary": "melde_verb"
+  },
+  "merken_verb": {
+    "primary": "merka_verb"
+  },
+  "messen_verb": {
+    "primary": "måle_verb"
+  },
+  "mieten_verb": {
+    "primary": "leie_verb"
+  },
+  "mitbringen_verb": {
+    "primary": "ta_med_verb",
+    "examples": [
+      {
+        "source": "Ich bringe Kuchen mit.",
+        "target": "Jeg tar med kake."
+      },
+      {
+        "source": "Was bringst du mit?",
+        "target": "Hva tar du med?"
+      },
+      {
+        "source": "Er bringt seine Schwester mit.",
+        "target": "Han tar med søsteren sin."
+      }
+    ],
+    "explanation": "Betyr \"å ta med seg\" eller \"å bringe med\". Løst sammensatt verb. Eksempel: \"Ich bringe Kuchen mit\" (jeg tar med kake)."
+  },
+  "mitkommen_verb": {
+    "primary": "bli_med_verb",
+    "examples": [
+      {
+        "source": "Kommst du mit?",
+        "target": "Blir du med?"
+      },
+      {
+        "source": "Ich komme gern mit.",
+        "target": "Jeg blir gjerne med."
+      },
+      {
+        "source": "Wir kommen alle mit.",
+        "target": "Vi blir alle med."
+      }
+    ]
+  },
+  "mitmachen_verb": {
+    "primary": "delta_verb"
+  },
+  "mitnehmen_verb": {
+    "primary": "ta_med_verb",
+    "examples": [
+      {
+        "source": "Ich nehme mein Handy mit.",
+        "target": "Jeg tar med mobilen min."
+      },
+      {
+        "source": "Nimmst du einen Regenschirm mit?",
+        "target": "Tar du med en paraply?"
+      },
+      {
+        "source": "Wir nehmen Essen mit.",
+        "target": "Vi tar med mat."
+      }
+    ]
+  },
+  "mitteilen_verb": {
+    "primary": "meddele_verb"
+  },
+  "mitten_verb": {
+    "primary": "midt_i_verb"
+  },
+  "modern_verb": {
+    "primary": "moderne_verb"
+  },
+  "moechten_modal": {
+    "primary": "vilja_ha_verb",
+    "alternatives": [
+      "ønska_verb"
+    ],
+    "examples": [
+      {
+        "source": "Ich möchte ein Glas Wasser.",
+        "target": "Jeg vil gjerne ha et glass vann."
+      },
+      {
+        "source": "Möchten Sie bestellen?",
+        "target": "Vil De bestille?"
+      },
+      {
+        "source": "Wir möchten bezahlen, bitte.",
+        "target": "Vi vil gjerne betale, takk."
+      }
+    ],
+    "explanation": "Möchten er egentlig konjunktiv (ønskeform) av mögen, men brukes ofte som presens i dagligtale. Det betyr \"å ville ha\" eller \"å ønske\" og er høfligere enn \"wollen\"."
+  },
+  "moegen_verb": {
+    "primary": "lika_verb",
+    "examples": [
+      {
+        "source": "Ich mag Pizza.",
+        "target": "Jeg liker pizza."
+      },
+      {
+        "source": "Magst du Schokolade?",
+        "target": "Liker du sjokolade?"
+      },
+      {
+        "source": "Wir mögen unseren Lehrer.",
+        "target": "Vi liker læreren vår."
+      }
+    ],
+    "synonyms": [
+      "å være glad i",
+      "å sette pris på"
+    ]
+  },
+  "muessen_verb": {
+    "primary": "måtta_verb",
+    "examples": [
+      {
+        "source": "Ich muss zur Schule gehen.",
+        "target": "Jeg må gå på skolen."
+      },
+      {
+        "source": "Musst du arbeiten?",
+        "target": "Må du jobbe?"
+      },
+      {
+        "source": "Wir müssen Hausaufgaben machen.",
+        "target": "Vi må gjøre lekser."
+      }
+    ]
+  },
+  "musik_hoeren_verbphrase": {
+    "primary": "høre_på_musikk_phrase",
+    "examples": [
+      {
+        "source": "Ich höre gern Musik.",
+        "target": "Jeg liker å høre på musikk."
+      },
+      {
+        "source": "Welche Musik hörst du?",
+        "target": "Hvilken musikk hører du på?"
+      },
+      {
+        "source": "Wir hören zusammen Musik.",
+        "target": "Vi hører på musikk sammen."
+      }
+    ],
+    "synonyms": [
+      "lytte til musikk",
+      "å lytte til musikk"
+    ]
+  },
+  "nachdenken_verb": {
+    "primary": "tenka_over_verb"
+  },
+  "nachschlagen_verb": {
+    "primary": "slå_opp_verb"
+  },
+  "nehmen_verb": {
+    "primary": "ta_verb",
+    "examples": [
+      {
+        "source": "Ich nehme den Bus.",
+        "target": "Jeg tar bussen."
+      },
+      {
+        "source": "Was nimmst du?",
+        "target": "Hva tar du?"
+      },
+      {
+        "source": "Er nimmt ein Stück Kuchen.",
+        "target": "Han tar et stykke kake."
+      }
+    ],
+    "explanation": "Betyr \"å ta\". Et sterkt verb med vokalskifte e→i i 2. og 3. person entall. Eksempel: \"Ich nehme ein Glas Wasser\" (jeg tar et glass vann)."
+  },
+  "nennen_verb": {
+    "primary": "nevne_verb"
+  },
+  "nicht_finden_verb": {
+    "primary": "ikka_finne_verb"
+  },
+  "notieren_verb": {
+    "primary": "notere_verb"
+  },
+  "nuetzen_verb": {
+    "primary": "nytta_verb"
+  },
+  "nutzen_verb": {
+    "primary": "bruka_verb"
+  },
+  "oben_verb": {
+    "primary": "oppa_verb"
+  },
+  "oeffnen_verb": {
+    "primary": "åpne_verb",
+    "examples": [
+      {
+        "source": "Ich öffne das Fenster.",
+        "target": "Jeg åpner vinduet."
+      },
+      {
+        "source": "Öffnest du bitte die Tür?",
+        "target": "Kan du åpne døren?"
+      },
+      {
+        "source": "Das Geschäft öffnet um 9 Uhr.",
+        "target": "Butikken åpner klokken 9."
+      }
+    ],
+    "synonyms": [
+      "å lukke opp",
+      "å åpne opp"
+    ]
+  },
+  "offen_verb": {
+    "primary": "åpen_verb"
+  },
+  "operieren_verb": {
+    "primary": "operere_verb"
+  },
+  "ordnen_verb": {
+    "primary": "ordne_verb"
+  },
+  "organisieren_verb": {
+    "primary": "organisere_verb"
+  },
+  "packen_verb": {
+    "primary": "pakka_verb",
+    "examples": [
+      {
+        "source": "Ich packe meinen Koffer.",
+        "target": "Jeg pakker kofferten min."
+      },
+      {
+        "source": "Hast du schon gepackt?",
+        "target": "Har du pakket allerede?"
+      },
+      {
+        "source": "Wir packen für die Reise.",
+        "target": "Vi pakker til reisen."
+      }
+    ]
+  },
+  "parkieren_verb": {
+    "primary": "parkere_verb"
+  },
+  "passen_verb": {
+    "primary": "passa_verb"
+  },
+  "passieren_verb": {
+    "primary": "skje_verb"
+  },
+  "pflanzen_verb": {
+    "primary": "planta_verb"
+  },
+  "pflegen_verb": {
+    "primary": "pleie_verb"
+  },
+  "planen_verb": {
+    "primary": "planlegga_verb",
+    "examples": [
+      {
+        "source": "Ich plane eine Reise.",
+        "target": "Jeg planlegger en reise."
+      },
+      {
+        "source": "Was planst du für morgen?",
+        "target": "Hva planlegger du for i morgen?"
+      },
+      {
+        "source": "Wir planen eine Überraschung.",
+        "target": "Vi planlegger en overraskelse."
+      }
+    ],
+    "explanation": "Betyr \"å planlegge\". Eksempel: \"Wir planen eine Party\" (vi planlegger en fest)."
+  },
+  "praesentieren_verb": {
+    "primary": "presentere_verb"
+  },
+  "probieren_verb": {
+    "primary": "prøve_verb"
+  },
+  "produzieren_verb": {
+    "primary": "produsere_verb"
+  },
+  "protestieren_verb": {
+    "primary": "protestere_verb"
+  },
+  "putzen_verb": {
+    "primary": "pussa_verb",
+    "alternatives": [
+      "rengjøre_verb"
+    ],
+    "examples": [
+      {
+        "source": "Ich putze mir die Zähne.",
+        "target": "Jeg pusser tennene."
+      },
+      {
+        "source": "Wir putzen das Haus.",
+        "target": "Vi vasker huset."
+      },
+      {
+        "source": "Putzt du dein Zimmer?",
+        "target": "Rydder du rommet ditt?"
+      }
+    ],
+    "explanation": "Betyr \"å pusse\" eller \"å rengjøre\". Ofte brukt i \"Zähne putzen\" (pusse tenner). Eksempel: \"Ich putze meine Zähne nach dem Frühstück\" (jeg pusser tennene mine etter frokosten)."
+  },
+  "rad_fahren_verbphrase": {
+    "primary": "sykle_phrase",
+    "examples": [
+      {
+        "source": "Ich fahre gern Rad.",
+        "target": "Jeg liker å sykle."
+      },
+      {
+        "source": "Fährst du oft Rad?",
+        "target": "Sykler du ofte?"
+      },
+      {
+        "source": "Wir fahren zur Schule Rad.",
+        "target": "Vi sykler til skolen."
+      }
+    ]
+  },
+  "raten_verb": {
+    "primary": "gjetta_verb"
+  },
+  "rauchen_verb": {
+    "primary": "røyke_verb"
+  },
+  "reagieren_verb": {
+    "primary": "reagere_verb"
+  },
+  "realisieren_verb": {
+    "primary": "realisere_verb"
+  },
+  "rechnen_verb": {
+    "primary": "regne_verb"
+  },
+  "reden_verb": {
+    "primary": "snakka_verb"
+  },
+  "reduzieren_verb": {
+    "primary": "redusere_verb"
+  },
+  "regeln_verb": {
+    "primary": "regulere_verb"
+  },
+  "regnen_verb": {
+    "primary": "regne_verb"
+  },
+  "reichen_verb": {
+    "primary": "rekka_verb"
+  },
+  "reinigen_verb": {
+    "primary": "rense_verb"
+  },
+  "reisen_verb": {
+    "primary": "reise_verb",
+    "examples": [
+      {
+        "source": "Ich reise gern.",
+        "target": "Jeg liker å reise."
+      },
+      {
+        "source": "Wohin reist du?",
+        "target": "Hvor reiser du?"
+      },
+      {
+        "source": "Wir reisen nach Italien.",
+        "target": "Vi reiser til Italia."
+      }
+    ]
+  },
+  "reiten_verb": {
+    "primary": "ri_verb"
+  },
+  "rennen_verb": {
+    "primary": "springa_verb"
+  },
+  "renovieren_verb": {
+    "primary": "renovere_verb"
+  },
+  "reparieren_verb": {
+    "primary": "reparere_verb"
+  },
+  "reservieren_verb": {
+    "primary": "reservere_verb"
+  },
+  "retten_verb": {
+    "primary": "redda_verb"
+  },
+  "riechen_verb": {
+    "primary": "lukta_verb"
+  },
+  "rufen_verb": {
+    "primary": "rope_verb"
+  },
+  "sagen_verb": {
+    "primary": "si_verb",
+    "examples": [
+      {
+        "source": "Was sagst du?",
+        "target": "Hva sier du?"
+      },
+      {
+        "source": "Ich sage die Wahrheit.",
+        "target": "Jeg sier sannheten."
+      },
+      {
+        "source": "Er sagt nichts.",
+        "target": "Han sier ingenting."
+      }
+    ]
+  },
+  "sammeln_verb": {
+    "primary": "samle_verb"
+  },
+  "schaetzen_verb": {
+    "primary": "anslå_verb"
+  },
+  "schaffen_verb": {
+    "primary": "klare_verb"
+  },
+  "schauen_verb": {
+    "primary": "se_verb",
+    "alternatives": [
+      "kikka_verb"
+    ],
+    "examples": [
+      {
+        "source": "Schau mal!",
+        "target": "Se her!"
+      },
+      {
+        "source": "Ich schaue einen Film.",
+        "target": "Jeg ser på en film."
+      },
+      {
+        "source": "Schau, da kommt der Bus!",
+        "target": "Se, der kommer bussen!"
+      }
+    ],
+    "explanation": "Betyr \"å se\" eller \"å kikke\". Ofte brukt som imperativ. Eksempel: \"Schau mal!\" (se her!), \"Schau, da kommt Cassandra\" (se, der kommer Cassandra).",
+    "synonyms": [
+      "å se",
+      "å kikke",
+      "se"
+    ]
+  },
+  "scheinen_verb": {
+    "primary": "skinna_verb",
+    "examples": [
+      {
+        "source": "Die Sonne scheint.",
+        "target": "Solen skinner."
+      },
+      {
+        "source": "Es scheint zu regnen.",
+        "target": "Det ser ut til å regne."
+      },
+      {
+        "source": "Das scheint richtig zu sein.",
+        "target": "Det ser ut til å være riktig."
+      }
+    ]
+  },
+  "schenken_verb": {
+    "primary": "gi_verb"
+  },
+  "schicken_verb": {
+    "primary": "senda_verb"
+  },
+  "schieben_verb": {
+    "primary": "skyve_verb"
+  },
+  "schiessen_verb": {
+    "primary": "skyte_verb"
+  },
+  "schimpfen_verb": {
+    "primary": "skjenna_verb"
+  },
+  "schlafen_verb": {
+    "primary": "sova_verb",
+    "examples": [
+      {
+        "source": "Ich schlafe acht Stunden.",
+        "target": "Jeg sover åtte timer."
+      },
+      {
+        "source": "Schläfst du gut?",
+        "target": "Sover du godt?"
+      },
+      {
+        "source": "Die Kinder schlafen schon.",
+        "target": "Barna sover allerede."
+      }
+    ]
+  },
+  "schlagen_verb": {
+    "primary": "slå_verb"
+  },
+  "schliessen_verb": {
+    "primary": "lukka_verb"
+  },
+  "schmecken_verb": {
+    "primary": "smake_verb"
+  },
+  "schminken_verb": {
+    "primary": "sminka_seg_verb"
+  },
+  "schneien_verb": {
+    "primary": "snø_verb"
+  },
+  "schnellsten_verb": {
+    "primary": "raskest_verb"
+  },
+  "schon_laufen_verb": {
+    "primary": "allereie_gå_verb"
+  },
+  "schreiben_verb": {
+    "primary": "skriva_verb",
+    "examples": [
+      {
+        "source": "Ich schreibe eine E-Mail.",
+        "target": "Jeg skriver en e-post."
+      },
+      {
+        "source": "Schreibst du gern?",
+        "target": "Liker du å skrive?"
+      },
+      {
+        "source": "Wir schreiben einen Test.",
+        "target": "Vi skriver en prøve."
+      }
+    ]
+  },
+  "schreien_verb": {
+    "primary": "skrike_verb"
+  },
+  "schuetteln_verb": {
+    "primary": "rista_verb"
+  },
+  "schuetzen_verb": {
+    "primary": "beskytta_verb"
+  },
+  "schweigen_verb": {
+    "primary": "tie_verb"
+  },
+  "schwimmen_gehen_verb": {
+    "primary": "gå_og_svømme_verb"
+  },
+  "schwimmen_verb": {
+    "primary": "svømma_verb",
+    "examples": [
+      {
+        "source": "Ich schwimme gern.",
+        "target": "Jeg liker å svømme."
+      },
+      {
+        "source": "Kannst du schwimmen?",
+        "target": "Kan du svømme?"
+      },
+      {
+        "source": "Wir schwimmen im See.",
+        "target": "Vi svømmer i innsjøen."
+      }
+    ]
+  },
+  "schwitzen_verb": {
+    "primary": "svetta_verb"
+  },
+  "sehen_verb": {
+    "primary": "se_verb",
+    "examples": [
+      {
+        "source": "Ich sehe einen Film.",
+        "target": "Jeg ser en film."
+      },
+      {
+        "source": "Siehst du das?",
+        "target": "Ser du det?"
+      },
+      {
+        "source": "Wir sehen uns morgen!",
+        "target": "Vi sees i morgen!"
+      }
+    ],
+    "synonyms": [
+      "se"
+    ]
+  },
+  "sein_verb": {
+    "primary": "vera_verb",
+    "examples": [
+      {
+        "source": "Ich bin müde.",
+        "target": "Jeg er trøtt."
+      },
+      {
+        "source": "Das ist mein Bruder.",
+        "target": "Det er broren min."
+      },
+      {
+        "source": "Wir sind Schüler.",
+        "target": "Vi er elever."
+      }
+    ],
+    "synonyms": [
+      "å finnes",
+      "å eksistere"
+    ]
+  },
+  "selten_verb": {
+    "primary": "sjelden_verb"
+  },
+  "shoppen_verb": {
+    "primary": "shoppa_verb",
+    "examples": [
+      {
+        "source": "Ich gehe shoppen.",
+        "target": "Jeg går og shopper."
+      },
+      {
+        "source": "Wir shoppen in der Stadt.",
+        "target": "Vi shopper i byen."
+      },
+      {
+        "source": "Gehst du gern shoppen?",
+        "target": "Liker du å shoppe?"
+      }
+    ],
+    "explanation": "Betyr \"å shoppe\" eller \"å handle\". Låneord fra engelsk. Eksempel: \"Ich gehe shoppen\" (jeg går og shopper)."
+  },
+  "sich_aergern_ueber_verb": {
+    "primary": "irritere_seg_over_verb",
+    "examples": [
+      {
+        "source": "Ich ärgere mich über das Wetter.",
+        "target": "Jeg irriterer meg over været."
+      },
+      {
+        "source": "Worüber ärgerst du dich?",
+        "target": "Hva irriterer du deg over?"
+      },
+      {
+        "source": "Sie ärgert sich über die Verspätung.",
+        "target": "Hun irriterer seg over forsinkelsen."
+      }
+    ]
+  },
+  "sich_aergern_verb": {
+    "primary": "irritere_seg_verb",
+    "examples": [
+      {
+        "source": "Ich ärgere mich.",
+        "target": "Jeg irriterer meg."
+      },
+      {
+        "source": "Ärgerst du dich oft?",
+        "target": "Irriterer du deg ofte?"
+      },
+      {
+        "source": "Er ärgert sich über den Fehler.",
+        "target": "Han irriterer seg over feilen."
+      }
+    ]
+  },
+  "sich_amuesieren_verb": {
+    "primary": "more_seg_verb"
+  },
+  "sich_anstrengen_verb": {
+    "primary": "anstrenga_seg_verb"
+  },
+  "sich_anziehen_verb": {
+    "primary": "kle_på_seg_verb",
+    "examples": [
+      {
+        "source": "Ich ziehe mich an.",
+        "target": "Jeg kler på meg."
+      },
+      {
+        "source": "Ziehst du dich warm an?",
+        "target": "Kler du deg varmt?"
+      },
+      {
+        "source": "Die Kinder ziehen sich schnell an.",
+        "target": "Barna kler på seg raskt."
+      }
+    ]
+  },
+  "sich_aufregen_verb": {
+    "primary": "bli_opprørt_verb",
+    "examples": [
+      {
+        "source": "Ich rege mich auf.",
+        "target": "Jeg blir opprørt."
+      },
+      {
+        "source": "Reg dich nicht auf!",
+        "target": "Ikke bli opprørt!"
+      },
+      {
+        "source": "Er regt sich immer auf.",
+        "target": "Han blir alltid opprørt."
+      }
+    ]
+  },
+  "sich_ausruhen_verb": {
+    "primary": "kvile_seg_verb",
+    "examples": [
+      {
+        "source": "Ich ruhe mich aus.",
+        "target": "Jeg hviler meg."
+      },
+      {
+        "source": "Ruhst du dich aus?",
+        "target": "Hviler du deg?"
+      },
+      {
+        "source": "Er muss sich ausruhen.",
+        "target": "Han må hvile seg."
+      }
+    ]
+  },
+  "sich_bedanken_verb": {
+    "primary": "takka_verb"
+  },
+  "sich_beeilen_verb": {
+    "primary": "skynda_seg_verb"
+  },
+  "sich_befinden_verb": {
+    "primary": "befinna_seg_verb"
+  },
+  "sich_bemuehen_verb": {
+    "primary": "anstrenga_seg_verb"
+  },
+  "sich_beschweren_verb": {
+    "primary": "klage_verb"
+  },
+  "sich_beteiligen_verb": {
+    "primary": "delta_verb"
+  },
+  "sich_bewegen_verb": {
+    "primary": "bevege_seg_verb",
+    "examples": [
+      {
+        "source": "Ich bewege mich gern.",
+        "target": "Jeg liker å bevege meg."
+      },
+      {
+        "source": "Bewegst du dich genug?",
+        "target": "Beveger du deg nok?"
+      },
+      {
+        "source": "Wir müssen uns mehr bewegen.",
+        "target": "Vi må bevege oss mer."
+      }
+    ]
+  },
+  "sich_bewerben_verb": {
+    "primary": "søke_verb"
+  },
+  "sich_duschen_verb": {
+    "primary": "dusje_verb",
+    "examples": [
+      {
+        "source": "Ich dusche mich morgens.",
+        "target": "Jeg dusjer om morgenen."
+      },
+      {
+        "source": "Duschst du dich jeden Tag?",
+        "target": "Dusjer du hver dag?"
+      },
+      {
+        "source": "Er duscht sich kalt.",
+        "target": "Han dusjer kaldt."
+      }
+    ]
+  },
+  "sich_eignen_verb": {
+    "primary": "egne_seg_verb"
+  },
+  "sich_einigen_verb": {
+    "primary": "bli_enige_verb"
+  },
+  "sich_entschliessen_verb": {
+    "primary": "bestemma_seg_verb"
+  },
+  "sich_entschuldigen_verb": {
+    "primary": "beklage_verb",
+    "examples": [
+      {
+        "source": "Ich entschuldige mich.",
+        "target": "Jeg beklager."
+      },
+      {
+        "source": "Entschuldigst du dich?",
+        "target": "Unnskylder du deg?"
+      },
+      {
+        "source": "Er entschuldigt sich für die Verspätung.",
+        "target": "Han unnskylder seg for forsinkelsen."
+      }
+    ]
+  },
+  "sich_entspannen_verb": {
+    "primary": "slappa_av_verb",
+    "examples": [
+      {
+        "source": "Ich entspanne mich gern.",
+        "target": "Jeg liker å slappe av."
+      },
+      {
+        "source": "Entspannst du dich am Wochenende?",
+        "target": "Slapper du av i helgen?"
+      },
+      {
+        "source": "Wir entspannen uns im Urlaub.",
+        "target": "Vi slapper av i ferien."
+      }
+    ]
+  },
+  "sich_ereignen_verb": {
+    "primary": "inntreffa_verb"
+  },
+  "sich_erholen_verb": {
+    "primary": "rekreere_seg_verb",
+    "examples": [
+      {
+        "source": "Ich erhole mich im Urlaub.",
+        "target": "Jeg hviler ut i ferien."
+      },
+      {
+        "source": "Erholst du dich gut?",
+        "target": "Hviler du godt ut?"
+      },
+      {
+        "source": "Wir erholen uns am Strand.",
+        "target": "Vi hviler ut på stranden."
+      }
+    ]
+  },
+  "sich_erkaelten_verb": {
+    "primary": "bli_forkjølet_verb"
+  },
+  "sich_erkundigen_verb": {
+    "primary": "forhøre_seg_verb"
+  },
+  "sich_freuen_auf_verb": {
+    "primary": "glede_seg_til_verb",
+    "examples": [
+      {
+        "source": "Ich freue mich auf die Ferien.",
+        "target": "Jeg gleder meg til ferien."
+      },
+      {
+        "source": "Freust du dich auf das Konzert?",
+        "target": "Gleder du deg til konserten?"
+      },
+      {
+        "source": "Wir freuen uns auf Weihnachten.",
+        "target": "Vi gleder oss til jul."
+      }
+    ]
+  },
+  "sich_freuen_ueber_verb": {
+    "primary": "glede_seg_over_verb",
+    "examples": [
+      {
+        "source": "Ich freue mich über das Geschenk.",
+        "target": "Jeg gleder meg over gaven."
+      },
+      {
+        "source": "Worüber freust du dich?",
+        "target": "Hva gleder du deg over?"
+      },
+      {
+        "source": "Wir freuen uns über euren Besuch.",
+        "target": "Vi gleder oss over besøket deres."
+      }
+    ]
+  },
+  "sich_freuen_verb": {
+    "primary": "glede_seg_verb",
+    "examples": [
+      {
+        "source": "Ich freue mich sehr.",
+        "target": "Jeg er veldig glad."
+      },
+      {
+        "source": "Freust du dich?",
+        "target": "Er du glad?"
+      },
+      {
+        "source": "Wir freuen uns auf den Besuch.",
+        "target": "Vi gleder oss til besøket."
+      }
+    ]
+  },
+  "sich_fuehlen_verb": {
+    "primary": "føle_seg_verb",
+    "examples": [
+      {
+        "source": "Ich fühle mich gut.",
+        "target": "Jeg føler meg bra."
+      },
+      {
+        "source": "Wie fühlst du dich?",
+        "target": "Hvordan føler du deg?"
+      },
+      {
+        "source": "Sie fühlt sich müde.",
+        "target": "Hun føler seg trøtt."
+      }
+    ]
+  },
+  "sich_fuerchten_verb": {
+    "primary": "vera_redd_verb"
+  },
+  "sich_getren_verb": {
+    "primary": "tora_verb"
+  },
+  "sich_interessieren_verb": {
+    "primary": "interessere_seg_verb",
+    "examples": [
+      {
+        "source": "Ich interessiere mich für Sport.",
+        "target": "Jeg interesserer meg for sport."
+      },
+      {
+        "source": "Wofür interessierst du dich?",
+        "target": "Hva interesserer du deg for?"
+      },
+      {
+        "source": "Sie interessiert sich für Kunst.",
+        "target": "Hun interesserer seg for kunst."
+      }
+    ]
+  },
+  "sich_irren_verb": {
+    "primary": "ta_feil_verb"
+  },
+  "sich_kaemmen_verb": {
+    "primary": "gre_seg_verb",
+    "examples": [
+      {
+        "source": "Ich kämme mich.",
+        "target": "Jeg grer meg."
+      },
+      {
+        "source": "Kämmst du dich vor dem Spiegel?",
+        "target": "Grer du deg foran speilet?"
+      },
+      {
+        "source": "Sie kämmt sich die Haare.",
+        "target": "Hun grer håret."
+      }
+    ]
+  },
+  "sich_konzentrieren_verb": {
+    "primary": "konsentrere_seg_verb",
+    "examples": [
+      {
+        "source": "Ich konzentriere mich auf die Arbeit.",
+        "target": "Jeg konsentrerer meg om arbeidet."
+      },
+      {
+        "source": "Konzentrierst du dich?",
+        "target": "Konsentrerer du deg?"
+      },
+      {
+        "source": "Wir müssen uns konzentrieren.",
+        "target": "Vi må konsentrere oss."
+      }
+    ]
+  },
+  "sich_kuemmern_verb": {
+    "primary": "ta_seg_av_verb"
+  },
+  "sich_langweilen_verb": {
+    "primary": "kjede_seg_verb",
+    "examples": [
+      {
+        "source": "Ich langweile mich.",
+        "target": "Jeg kjeder meg."
+      },
+      {
+        "source": "Langweilst du dich?",
+        "target": "Kjeder du deg?"
+      },
+      {
+        "source": "Die Kinder langweilen sich.",
+        "target": "Barna kjeder seg."
+      }
+    ]
+  },
+  "sich_lohnen_verb": {
+    "primary": "lønna_seg_verb"
+  },
+  "sich_naehern_verb": {
+    "primary": "nærme_seg_verb"
+  },
+  "sich_rasieren_verb": {
+    "primary": "barbere_seg_verb",
+    "examples": [
+      {
+        "source": "Ich rasiere mich jeden Morgen.",
+        "target": "Jeg barberer meg hver morgen."
+      },
+      {
+        "source": "Rasierst du dich?",
+        "target": "Barberer du deg?"
+      },
+      {
+        "source": "Er rasiert sich im Bad.",
+        "target": "Han barberer seg på badet."
+      }
+    ]
+  },
+  "sich_scheiden_verb": {
+    "primary": "skilla_seg_verb"
+  },
+  "sich_schminken_verb": {
+    "primary": "sminka_seg_verb",
+    "examples": [
+      {
+        "source": "Ich schminke mich.",
+        "target": "Jeg sminker meg."
+      },
+      {
+        "source": "Schminkst du dich jeden Tag?",
+        "target": "Sminker du deg hver dag?"
+      },
+      {
+        "source": "Sie schminkt sich für die Party.",
+        "target": "Hun sminker seg til festen."
+      }
+    ]
+  },
+  "sich_schneiden_verb": {
+    "primary": "skjære_seg_verb"
+  },
+  "sich_setzen_verb": {
+    "primary": "setja_seg_verb",
+    "examples": [
+      {
+        "source": "Ich setze mich.",
+        "target": "Jeg setter meg."
+      },
+      {
+        "source": "Setzt du dich zu mir?",
+        "target": "Setter du deg ved siden av meg?"
+      },
+      {
+        "source": "Bitte setzen Sie sich!",
+        "target": "Vær så snill, sett deg!"
+      }
+    ]
+  },
+  "sich_siezen_verb": {
+    "primary": "bruka_deform_verb"
+  },
+  "sich_stossen_verb": {
+    "primary": "støte_seg_verb"
+  },
+  "sich_streiten_verb": {
+    "primary": "krangle_verb"
+  },
+  "sich_treffen_verb": {
+    "primary": "møtes_verb",
+    "examples": [
+      {
+        "source": "Wir treffen uns um 15 Uhr.",
+        "target": "Vi møtes klokken 15."
+      },
+      {
+        "source": "Wo treffen wir uns?",
+        "target": "Hvor skal vi møtes?"
+      },
+      {
+        "source": "Sie treffen sich im Park.",
+        "target": "De møtes i parken."
+      }
+    ]
+  },
+  "sich_trennen_verb": {
+    "primary": "skilles_verb"
+  },
+  "sich_ueberzeugen_verb": {
+    "primary": "overbevise_seg_verb"
+  },
+  "sich_umdrehen_verb": {
+    "primary": "snu_seg_verb"
+  },
+  "sich_umziehen_verb": {
+    "primary": "skifta_klær_verb"
+  },
+  "sich_unterhalten_verb": {
+    "primary": "underholde_seg_verb",
+    "alternatives": [
+      "snakka_verb"
+    ],
+    "examples": [
+      {
+        "source": "Ich unterhalte mich gern mit Freunden.",
+        "target": "Jeg liker å snakke med venner."
+      },
+      {
+        "source": "Unterhaltet ihr euch gut?",
+        "target": "Har dere det gøy?"
+      },
+      {
+        "source": "Wir unterhalten uns über Musik.",
+        "target": "Vi snakker om musikk."
+      }
+    ]
+  },
+  "sich_verabreden_verb": {
+    "primary": "avtale_å_møtes_verb"
+  },
+  "sich_verabschieden_verb": {
+    "primary": "ta_farvel_verb"
+  },
+  "sich_veraendern_verb": {
+    "primary": "forandre_seg_verb"
+  },
+  "sich_verbessern_verb": {
+    "primary": "forbedre_seg_verb"
+  },
+  "sich_verbrennen_verb": {
+    "primary": "brenna_seg_verb"
+  },
+  "sich_vergnuegen_verb": {
+    "primary": "more_seg_verb"
+  },
+  "sich_verhalten_verb": {
+    "primary": "oppføre_seg_verb"
+  },
+  "sich_verlaufen_verb": {
+    "primary": "gå_seg_bort_verb"
+  },
+  "sich_verlieben_verb": {
+    "primary": "bli_forelsket_verb"
+  },
+  "sich_verspaeten_verb": {
+    "primary": "koma_for_sent_verb",
+    "examples": [
+      {
+        "source": "Ich verspäte mich.",
+        "target": "Jeg kommer for sent."
+      },
+      {
+        "source": "Verspätest du dich oft?",
+        "target": "Kommer du ofte for sent?"
+      },
+      {
+        "source": "Der Zug verspätet sich.",
+        "target": "Toget er forsinket."
+      }
+    ]
+  },
+  "sich_verstecken_verb": {
+    "primary": "gjemma_seg_verb"
+  },
+  "sich_vorbereiten_verb": {
+    "primary": "forberede_seg_verb",
+    "examples": [
+      {
+        "source": "Ich bereite mich auf die Prüfung vor.",
+        "target": "Jeg forbereder meg til prøven."
+      },
+      {
+        "source": "Bereitest du dich vor?",
+        "target": "Forbereder du deg?"
+      },
+      {
+        "source": "Wir bereiten uns auf die Reise vor.",
+        "target": "Vi forbereder oss til reisen."
+      }
+    ]
+  },
+  "sich_waschen_verb": {
+    "primary": "vaska_seg_verb",
+    "examples": [
+      {
+        "source": "Ich wasche mich jeden Morgen.",
+        "target": "Jeg vasker meg hver morgen."
+      },
+      {
+        "source": "Wäschst du dir die Hände?",
+        "target": "Vasker du hendene?"
+      },
+      {
+        "source": "Er wäscht sich das Gesicht.",
+        "target": "Han vasker ansiktet."
+      }
+    ]
+  },
+  "sich_weigern_verb": {
+    "primary": "nekta_verb"
+  },
+  "sich_wundern_verb": {
+    "primary": "undre_seg_verb"
+  },
+  "sich_zwingen_verb": {
+    "primary": "tvinga_seg_verb"
+  },
+  "sichern_verb": {
+    "primary": "sikre_verb"
+  },
+  "siegen_verb": {
+    "primary": "seire_verb"
+  },
+  "singen_verb": {
+    "primary": "syngja_verb",
+    "examples": [
+      {
+        "source": "Ich singe gern.",
+        "target": "Jeg liker å synge."
+      },
+      {
+        "source": "Sie singt sehr gut.",
+        "target": "Hun synger veldig bra."
+      },
+      {
+        "source": "Wir singen im Chor.",
+        "target": "Vi synger i kor."
+      }
+    ]
+  },
+  "sitzen_verb": {
+    "primary": "sitja_verb",
+    "examples": [
+      {
+        "source": "Ich sitze am Fenster.",
+        "target": "Jeg sitter ved vinduet."
+      },
+      {
+        "source": "Wo sitzt du?",
+        "target": "Hvor sitter du?"
+      },
+      {
+        "source": "Er sitzt neben mir.",
+        "target": "Han sitter ved siden av meg."
+      }
+    ],
+    "explanation": "Sterkt verb som betyr \"å sitte\". Eksempel: \"Er sitzt neben Sophie\" (han sitter ved siden av Sophie)."
+  },
+  "sollen_verb": {
+    "primary": "skal_verb",
+    "alternatives": [
+      "bør_verb"
+    ],
+    "examples": [
+      {
+        "source": "Was soll ich machen?",
+        "target": "Hva skal jeg gjøre?"
+      },
+      {
+        "source": "Du sollst deine Hausaufgaben machen.",
+        "target": "Du skal gjøre leksene dine."
+      },
+      {
+        "source": "Wir sollen früh aufstehen.",
+        "target": "Vi skal stå opp tidlig."
+      }
+    ],
+    "synonyms": [
+      "å skulle",
+      "å burde"
+    ]
+  },
+  "sondern_verb": {
+    "primary": "men_verb"
+  },
+  "sorgen_verb": {
+    "primary": "sørge_for_verb"
+  },
+  "spazieren_gehen_verb": {
+    "primary": "gå_tur_verb",
+    "examples": [
+      {
+        "source": "Ich gehe spazieren.",
+        "target": "Jeg går en tur."
+      },
+      {
+        "source": "Gehst du gern spazieren?",
+        "target": "Liker du å gå tur?"
+      },
+      {
+        "source": "Wir gehen im Park spazieren.",
+        "target": "Vi går tur i parken."
+      }
+    ]
+  },
+  "spazieren_verb": {
+    "primary": "spasere_verb"
+  },
+  "speichern_verb": {
+    "primary": "lagre_verb"
+  },
+  "spielen_verb": {
+    "primary": "spilla_verb",
+    "examples": [
+      {
+        "source": "Ich spiele Fußball.",
+        "target": "Jeg spiller fotball."
+      },
+      {
+        "source": "Sie spielt Klavier.",
+        "target": "Hun spiller piano."
+      },
+      {
+        "source": "Wir spielen gern Videospiele.",
+        "target": "Vi liker å spille videospill."
+      }
+    ]
+  },
+  "sprechen_verb": {
+    "primary": "snakka_verb",
+    "examples": [
+      {
+        "source": "Ich spreche Deutsch.",
+        "target": "Jeg snakker tysk."
+      },
+      {
+        "source": "Sprichst du Englisch?",
+        "target": "Snakker du engelsk?"
+      },
+      {
+        "source": "Wir sprechen über das Wetter.",
+        "target": "Vi snakker om været."
+      }
+    ]
+  },
+  "springen_verb": {
+    "primary": "hoppa_verb",
+    "examples": [
+      {
+        "source": "Ich springe ins Wasser.",
+        "target": "Jeg hopper i vannet."
+      },
+      {
+        "source": "Der Hund springt hoch.",
+        "target": "Hunden hopper høyt."
+      },
+      {
+        "source": "Wir springen über den Bach.",
+        "target": "Vi hopper over bekken."
+      }
+    ]
+  },
+  "spuelen_verb": {
+    "primary": "skylla_verb"
+  },
+  "spueren_verb": {
+    "primary": "føle_verb"
+  },
+  "stammen_verb": {
+    "primary": "stamma_fra_verb"
+  },
+  "starten_verb": {
+    "primary": "starte_verb"
+  },
+  "stattfinden_verb": {
+    "primary": "finna_sted_verb"
+  },
+  "staubsaugen_verb": {
+    "primary": "støvsuge_verb"
+  },
+  "stechen_verb": {
+    "primary": "stikka_verb"
+  },
+  "stecken_verb": {
+    "primary": "stikka_verb"
+  },
+  "stehen_verb": {
+    "primary": "stå_verb",
+    "examples": [
+      {
+        "source": "Ich stehe an der Bushaltestelle.",
+        "target": "Jeg står på bussholdeplassen."
+      },
+      {
+        "source": "Wo steht das Buch?",
+        "target": "Hvor står boken?"
+      },
+      {
+        "source": "Wir stehen in der Schlange.",
+        "target": "Vi står i kø."
+      }
+    ]
+  },
+  "stehlen_verb": {
+    "primary": "stjele_verb"
+  },
+  "steigen_verb": {
+    "primary": "stige_verb"
+  },
+  "stellen_verb": {
+    "primary": "stilla_verb"
+  },
+  "stimmen_verb": {
+    "primary": "stemma_verb",
+    "alternatives": [
+      "vera_riktig_verb"
+    ],
+    "examples": [
+      {
+        "source": "Das stimmt!",
+        "target": "Det stemmer!"
+      },
+      {
+        "source": "Stimmt das?",
+        "target": "Stemmer det?"
+      },
+      {
+        "source": "Die Antwort stimmt nicht.",
+        "target": "Svaret stemmer ikke."
+      }
+    ]
+  },
+  "stinken_verb": {
+    "primary": "stinka_verb"
+  },
+  "stoeren_verb": {
+    "primary": "forstyrre_verb"
+  },
+  "stoppen_verb": {
+    "primary": "stoppa_verb"
+  },
+  "streicheln_verb": {
+    "primary": "kjæle_verb",
+    "alternatives": [
+      "klappa_verb"
+    ],
+    "examples": [
+      {
+        "source": "Ich streichle die Katze.",
+        "target": "Jeg klapper katten."
+      },
+      {
+        "source": "Darf ich den Hund streicheln?",
+        "target": "Får jeg klappe hunden?"
+      },
+      {
+        "source": "Sie streichelt das Kaninchen.",
+        "target": "Hun kjæler med kaninen."
+      }
+    ],
+    "explanation": "Betyr å kjæle med eller klappe et dyr (eller person). Eksempel: \"Ich streichle die Katze\" (jeg kjæler med katten).",
+    "synonyms": [
+      "å kjærtegne",
+      "å aie"
+    ]
+  },
+  "streiken_verb": {
+    "primary": "streike_verb"
+  },
+  "studieren_verb": {
+    "primary": "studere_verb"
+  },
+  "stuerzen_verb": {
+    "primary": "styrte_verb"
+  },
+  "suchen_verb": {
+    "primary": "lete_verb"
+  },
+  "tanken_verb": {
+    "primary": "fylla_bensin_verb"
+  },
+  "tanzen_verb": {
+    "primary": "danse_verb",
+    "examples": [
+      {
+        "source": "Ich tanze gern.",
+        "target": "Jeg liker å danse."
+      },
+      {
+        "source": "Kannst du tanzen?",
+        "target": "Kan du danse?"
+      },
+      {
+        "source": "Wir tanzen auf der Party.",
+        "target": "Vi danser på festen."
+      }
+    ]
+  },
+  "tauchen_verb": {
+    "primary": "dykka_verb"
+  },
+  "tauschen_verb": {
+    "primary": "bytta_verb"
+  },
+  "teilen_verb": {
+    "primary": "dele_verb"
+  },
+  "teilnehmen_verb": {
+    "primary": "delta_verb"
+  },
+  "telefonieren_verb": {
+    "primary": "ringa_verb"
+  },
+  "testen_verb": {
+    "primary": "testa_verb"
+  },
+  "traeumen_verb": {
+    "primary": "drømma_verb",
+    "examples": [
+      {
+        "source": "Ich träume von einer Reise.",
+        "target": "Jeg drømmer om en reise."
+      },
+      {
+        "source": "Träumst du oft?",
+        "target": "Drømmer du ofte?"
+      },
+      {
+        "source": "Er träumt von der Zukunft.",
+        "target": "Han drømmer om fremtiden."
+      }
+    ]
+  },
+  "tragen_verb": {
+    "primary": "ha_på_seg_verb",
+    "alternatives": [
+      "bera_verb"
+    ],
+    "examples": [
+      {
+        "source": "Ich trage eine Jacke.",
+        "target": "Jeg har på meg en jakke."
+      },
+      {
+        "source": "Was trägst du heute?",
+        "target": "Hva har du på deg i dag?"
+      },
+      {
+        "source": "Er trägt eine schwere Tasche.",
+        "target": "Han bærer en tung veske."
+      }
+    ],
+    "synonyms": [
+      "å ha på",
+      "å bære"
+    ]
+  },
+  "trainieren_verb": {
+    "primary": "trene_verb"
+  },
+  "transportieren_verb": {
+    "primary": "transportere_verb"
+  },
+  "treffen_verb": {
+    "primary": "treffa_verb",
+    "alternatives": [
+      "møte_verb"
+    ],
+    "examples": [
+      {
+        "source": "Ich treffe meine Freunde.",
+        "target": "Jeg møter vennene mine."
+      },
+      {
+        "source": "Wann treffen wir uns?",
+        "target": "Når skal vi møtes?"
+      },
+      {
+        "source": "Er trifft sie im Café.",
+        "target": "Han møter henne på kafeen."
+      }
+    ]
+  },
+  "treten_verb": {
+    "primary": "tråkka_verb"
+  },
+  "trinken_verb": {
+    "primary": "drikka_verb",
+    "examples": [
+      {
+        "source": "Ich trinke Wasser.",
+        "target": "Jeg drikker vann."
+      },
+      {
+        "source": "Was trinkst du gern?",
+        "target": "Hva liker du å drikke?"
+      },
+      {
+        "source": "Wir trinken Kaffee.",
+        "target": "Vi drikker kaffe."
+      }
+    ],
+    "synonyms": [
+      "å innta",
+      "å svelge"
+    ]
+  },
+  "trocknen_verb": {
+    "primary": "tørka_verb"
+  },
+  "ueben_verb": {
+    "primary": "øve_verb"
+  },
+  "ueberfahren_verb": {
+    "primary": "køyra_over_verb"
+  },
+  "ueberholen_verb": {
+    "primary": "køyra_forbi_verb"
+  },
+  "ueberlegen_verb": {
+    "primary": "tenka_over_verb"
+  },
+  "uebermorgen_verb": {
+    "primary": "i_overmorgen_verb"
+  },
+  "uebernachten_verb": {
+    "primary": "overnatta_verb"
+  },
+  "uebernehmen_verb": {
+    "primary": "overta_verb"
+  },
+  "ueberpruefen_verb": {
+    "primary": "kontrollere_verb"
+  },
+  "ueberqueren_verb": {
+    "primary": "kryssa_verb"
+  },
+  "ueberraschen_verb": {
+    "primary": "overraska_verb"
+  },
+  "ueberreden_verb": {
+    "primary": "overtale_verb"
+  },
+  "uebersetzen_verb": {
+    "primary": "oversetta_verb"
+  },
+  "ueberuebertreiben_verb": {
+    "primary": "overdrive_verb"
+  },
+  "ueberweisen_verb": {
+    "primary": "overføre_verb"
+  },
+  "umarmen_verb": {
+    "primary": "omfavne_verb"
+  },
+  "umgehen_verb": {
+    "primary": "omgås_verb"
+  },
+  "umsteigen_verb": {
+    "primary": "bytta_verb"
+  },
+  "umziehen_verb": {
+    "primary": "flytta_verb"
+  },
+  "und_kartoffeln_verb": {
+    "primary": "og_poteter_verb"
+  },
+  "und_senioren_verb": {
+    "primary": "og_eldre_verb"
+  },
+  "unten_verb": {
+    "primary": "nede_verb"
+  },
+  "unterlassen_verb": {
+    "primary": "unnlate_verb"
+  },
+  "unternehmen_verb": {
+    "primary": "foreta_verb"
+  },
+  "unterrichten_verb": {
+    "primary": "undervise_verb"
+  },
+  "unterscheiden_verb": {
+    "primary": "skilla_verb"
+  },
+  "unterschreiben_verb": {
+    "primary": "underskrive_verb"
+  },
+  "unterstreichen_verb": {
+    "primary": "understreke_verb"
+  },
+  "unterstuetzen_verb": {
+    "primary": "støtta_verb"
+  },
+  "untersuchen_verb": {
+    "primary": "undersøke_verb"
+  },
+  "verboten_verb": {
+    "primary": "forbudt_verb"
+  },
+  "verbrauchen_verb": {
+    "primary": "forbruke_verb"
+  },
+  "verbringen_verb": {
+    "primary": "tilbringa_verb"
+  },
+  "verdienen_verb": {
+    "primary": "tjene_verb"
+  },
+  "vereinbaren_verb": {
+    "primary": "avtale_verb"
+  },
+  "vergessen_verb": {
+    "primary": "glemma_verb",
+    "examples": [
+      {
+        "source": "Ich vergesse das nie.",
+        "target": "Jeg glemmer det aldri."
+      },
+      {
+        "source": "Vergisst du oft Sachen?",
+        "target": "Glemmer du ofte ting?"
+      },
+      {
+        "source": "Er vergisst seinen Schlüssel.",
+        "target": "Han glemmer nøkkelen sin."
+      }
+    ]
+  },
+  "vergleichen_verb": {
+    "primary": "sammenligne_verb"
+  },
+  "vergroessern_verb": {
+    "primary": "forstørre_verb"
+  },
+  "verhaften_verb": {
+    "primary": "arrestere_verb"
+  },
+  "verhindern_verb": {
+    "primary": "hindre_verb"
+  },
+  "verkaufen_verb": {
+    "primary": "selja_verb"
+  },
+  "verlaengern_verb": {
+    "primary": "forlenga_verb"
+  },
+  "verlangen_verb": {
+    "primary": "kreve_verb"
+  },
+  "verlassen_verb": {
+    "primary": "forlate_verb"
+  },
+  "verlieren_verb": {
+    "primary": "tape_verb",
+    "alternatives": [
+      "mista_verb"
+    ],
+    "examples": [
+      {
+        "source": "Ich verliere oft meine Schlüssel.",
+        "target": "Jeg mister ofte nøklene mine."
+      },
+      {
+        "source": "Wir verlieren das Spiel.",
+        "target": "Vi taper kampen."
+      },
+      {
+        "source": "Verlierst du nie?",
+        "target": "Taper du aldri?"
+      }
+    ]
+  },
+  "vermeiden_verb": {
+    "primary": "unngå_verb"
+  },
+  "vermieten_verb": {
+    "primary": "leie_ut_verb"
+  },
+  "vermissen_verb": {
+    "primary": "savne_verb"
+  },
+  "vermuten_verb": {
+    "primary": "anta_verb"
+  },
+  "veroeffentlichen_verb": {
+    "primary": "publisere_verb"
+  },
+  "verpacken_verb": {
+    "primary": "pakka_inn_verb"
+  },
+  "verpassen_verb": {
+    "primary": "gå_glipp_av_verb"
+  },
+  "verpflegen_verb": {
+    "primary": "forsørge_verb"
+  },
+  "verraten_verb": {
+    "primary": "forråde_verb"
+  },
+  "verreisen_verb": {
+    "primary": "reise_bort_verb"
+  },
+  "versaeumen_verb": {
+    "primary": "forsømma_verb"
+  },
+  "verschieben_verb": {
+    "primary": "utsetta_verb"
+  },
+  "verschieden_verb": {
+    "primary": "forskjelleg_verb"
+  },
+  "verschreiben_verb": {
+    "primary": "forskrive_verb"
+  },
+  "versichern_verb": {
+    "primary": "forsikre_verb"
+  },
+  "versprechen_verb": {
+    "primary": "love_verb",
+    "examples": [
+      {
+        "source": "Ich verspreche es dir.",
+        "target": "Jeg lover deg det."
+      },
+      {
+        "source": "Versprichst du mir das?",
+        "target": "Lover du meg det?"
+      },
+      {
+        "source": "Er verspricht, pünktlich zu kommen.",
+        "target": "Han lover å komme i tide."
+      }
+    ]
+  },
+  "verstehen_verb": {
+    "primary": "forstå_verb",
+    "examples": [
+      {
+        "source": "Ich verstehe das nicht.",
+        "target": "Jeg forstår ikke det."
+      },
+      {
+        "source": "Verstehst du Deutsch?",
+        "target": "Forstår du tysk?"
+      },
+      {
+        "source": "Wir verstehen uns gut.",
+        "target": "Vi forstår hverandre godt."
+      }
+    ],
+    "explanation": "Sterkt verb som betyr \"å forstå\". Eksempel: \"Er versteht mich immer\" (han forstår meg alltid)."
+  },
+  "versuchen_verb": {
+    "primary": "prøve_verb"
+  },
+  "verteilen_verb": {
+    "primary": "fordele_verb"
+  },
+  "vertrauen_verb": {
+    "primary": "stole_på_verb",
+    "examples": [
+      {
+        "source": "Ich vertraue dir.",
+        "target": "Jeg stoler på deg."
+      },
+      {
+        "source": "Vertraust du mir?",
+        "target": "Stoler du på meg?"
+      },
+      {
+        "source": "Wir vertrauen unserem Lehrer.",
+        "target": "Vi stoler på læreren vår."
+      }
+    ]
+  },
+  "vertreten_verb": {
+    "primary": "representere_verb"
+  },
+  "verursachen_verb": {
+    "primary": "forårsake_verb"
+  },
+  "verurteilen_verb": {
+    "primary": "dømma_verb"
+  },
+  "verwechseln_verb": {
+    "primary": "forveksle_verb"
+  },
+  "verzeihen_verb": {
+    "primary": "tilgi_verb"
+  },
+  "verzichten_verb": {
+    "primary": "gi_avkall_på_verb"
+  },
+  "viel_stehen_verb": {
+    "primary": "stå_mykje_verb"
+  },
+  "vorbereiten_verb": {
+    "primary": "forberede_verb"
+  },
+  "vorgestern_verb": {
+    "primary": "i_forgårs_verb"
+  },
+  "vorhaben_verb": {
+    "primary": "ha_planer_om_verb"
+  },
+  "vorkommen_verb": {
+    "primary": "forekomma_verb"
+  },
+  "vorlesen_verb": {
+    "primary": "lesa_høyt_verb"
+  },
+  "vorschlagen_verb": {
+    "primary": "foreslå_verb"
+  },
+  "vorstellen_verb": {
+    "primary": "forestilla_seg_verb"
+  },
+  "wachsen_verb": {
+    "primary": "veksa_verb"
+  },
+  "waehlen_verb": {
+    "primary": "velge_verb"
+  },
+  "wandern_verb": {
+    "primary": "gå_på_tur_verb",
+    "examples": [
+      {
+        "source": "Ich wandere gern in den Bergen.",
+        "target": "Jeg liker å gå tur i fjellene."
+      },
+      {
+        "source": "Wanderst du oft?",
+        "target": "Går du ofte på tur?"
+      },
+      {
+        "source": "Wir wandern am Wochenende.",
+        "target": "Vi går på tur i helgen."
+      }
+    ],
+    "synonyms": [
+      "å gå tur"
+    ]
+  },
+  "warnen_verb": {
+    "primary": "advare_verb"
+  },
+  "warten_verb": {
+    "primary": "venta_verb",
+    "examples": [
+      {
+        "source": "Ich warte auf den Bus.",
+        "target": "Jeg venter på bussen."
+      },
+      {
+        "source": "Wartest du auf mich?",
+        "target": "Venter du på meg?"
+      },
+      {
+        "source": "Wir warten schon lange.",
+        "target": "Vi har ventet lenge."
+      }
+    ]
+  },
+  "waschen_verb": {
+    "primary": "vaska_verb"
+  },
+  "wechseln_verb": {
+    "primary": "veksle_verb"
+  },
+  "wecken_verb": {
+    "primary": "vekka_verb",
+    "examples": [
+      {
+        "source": "Ich wecke dich um 7 Uhr.",
+        "target": "Jeg vekker deg klokken 7."
+      },
+      {
+        "source": "Weckst du mich morgen?",
+        "target": "Vekker du meg i morgen?"
+      },
+      {
+        "source": "Der Lärm hat mich geweckt.",
+        "target": "Støyen vekket meg."
+      }
+    ],
+    "explanation": "Betyr \"å vekke\". Kan også brukes refleksivt: \"sich wecken lassen\" (å la seg vekke). Eksempel: \"Das weckt mich richtig auf!\" (det vekker meg skikkelig!)."
+  },
+  "wegen_verb": {
+    "primary": "på_grunn_av_verb"
+  },
+  "wegfahren_verb": {
+    "primary": "reise_bort_verb",
+    "examples": [
+      {
+        "source": "Wir fahren morgen weg.",
+        "target": "Vi reiser bort i morgen."
+      },
+      {
+        "source": "Fährst du am Wochenende weg?",
+        "target": "Reiser du bort i helgen?"
+      },
+      {
+        "source": "Sie fährt für eine Woche weg.",
+        "target": "Hun reiser bort i en uke."
+      }
+    ]
+  },
+  "weinen_verb": {
+    "primary": "gråte_verb"
+  },
+  "wenden_verb": {
+    "primary": "venda_verb"
+  },
+  "werden_verb": {
+    "primary": "bli_verb",
+    "examples": [
+      {
+        "source": "Ich werde Lehrer.",
+        "target": "Jeg skal bli lærer."
+      },
+      {
+        "source": "Es wird kalt.",
+        "target": "Det blir kaldt."
+      },
+      {
+        "source": "Wir werden älter.",
+        "target": "Vi blir eldre."
+      }
+    ]
+  },
+  "werfen_verb": {
+    "primary": "kasta_verb"
+  },
+  "wetten_verb": {
+    "primary": "vedda_verb"
+  },
+  "widersprechen_verb": {
+    "primary": "motsi_verb"
+  },
+  "wiederholen_verb": {
+    "primary": "gjenta_verb"
+  },
+  "wiegen_verb": {
+    "primary": "veie_verb"
+  },
+  "winken_verb": {
+    "primary": "vinka_verb"
+  },
+  "wirken_verb": {
+    "primary": "virka_verb"
+  },
+  "wissen_verb": {
+    "primary": "vita_verb",
+    "examples": [
+      {
+        "source": "Ich weiß es nicht.",
+        "target": "Jeg vet det ikke."
+      },
+      {
+        "source": "Weißt du, wo er ist?",
+        "target": "Vet du hvor han er?"
+      },
+      {
+        "source": "Wir wissen die Antwort.",
+        "target": "Vi vet svaret."
+      }
+    ],
+    "explanation": "Uregelmessig verb som betyr \"å vite\". Bøyes som et modalverb i presens. Eksempel: \"Ich weiß\" (jeg vet), \"Weißt du?\" (vet du?)."
+  },
+  "wohnen_verb": {
+    "primary": "bo_verb",
+    "examples": [
+      {
+        "source": "Ich wohne in Oslo.",
+        "target": "Jeg bor i Oslo."
+      },
+      {
+        "source": "Wo wohnst du?",
+        "target": "Hvor bor du?"
+      },
+      {
+        "source": "Wir wohnen in Deutschland.",
+        "target": "Vi bor i Tyskland."
+      }
+    ],
+    "explanation": "Betyr \"å bo\" eller \"å være bosatt\". Eksempel: \"Ich wohne in Oslo\" (jeg bor i Oslo), \"Wo wohnst du?\" (hvor bor du?)."
+  },
+  "wollen_verb": {
+    "primary": "vilja_verb",
+    "examples": [
+      {
+        "source": "Ich will ins Kino gehen.",
+        "target": "Jeg vil gå på kino."
+      },
+      {
+        "source": "Was willst du machen?",
+        "target": "Hva vil du gjøre?"
+      },
+      {
+        "source": "Wir wollen Pizza essen.",
+        "target": "Vi vil spise pizza."
+      }
+    ]
+  },
+  "wuenschen_verb": {
+    "primary": "ønska_verb"
+  },
+  "zaehlen_verb": {
+    "primary": "tella_verb"
+  },
+  "zaehneputzen_verb": {
+    "primary": "pussa_tennene_verb",
+    "examples": [
+      {
+        "source": "Ich putze mir die Zähne.",
+        "target": "Jeg pusser tennene."
+      },
+      {
+        "source": "Putzt du dir die Zähne?",
+        "target": "Pusser du tennene?"
+      },
+      {
+        "source": "Wir putzen uns jeden Tag die Zähne.",
+        "target": "Vi pusser tennene hver dag."
+      }
+    ]
+  },
+  "zahlen_verb": {
+    "primary": "betale_verb"
+  },
+  "zeichnen_verb": {
+    "primary": "tegne_verb"
+  },
+  "zeigen_verb": {
+    "primary": "vise_verb",
+    "examples": [
+      {
+        "source": "Ich zeige dir mein Zimmer.",
+        "target": "Jeg viser deg rommet mitt."
+      },
+      {
+        "source": "Kannst du mir das zeigen?",
+        "target": "Kan du vise meg det?"
+      },
+      {
+        "source": "Sie zeigt auf die Karte.",
+        "target": "Hun peker på kartet."
+      }
+    ]
+  },
+  "zelten_verb": {
+    "primary": "telte_verb"
+  },
+  "zerstoeren_verb": {
+    "primary": "ødelegga_verb"
+  },
+  "ziehen_verb": {
+    "primary": "dra_verb"
+  },
+  "zubereiten_verb": {
+    "primary": "tilberede_verb"
+  },
+  "zugehen_verb": {
+    "primary": "gå_mot_verb"
+  },
+  "zuhoeren_verb": {
+    "primary": "lytta_verb"
+  },
+  "zumachen_verb": {
+    "primary": "lukka_verb"
+  },
+  "zunehmen_verb": {
+    "primary": "øke_verb"
+  },
+  "zurechtkommen_verb": {
+    "primary": "klare_seg_verb"
+  },
+  "zusagen_verb": {
+    "primary": "si_ja_verb"
+  },
+  "zusammenfassen_verb": {
+    "primary": "oppsummere_verb"
+  },
+  "zuschauen_verb": {
+    "primary": "se_på_verb"
+  },
+  "zustimmen_verb": {
+    "primary": "samtykka_verb"
+  },
+  "zwei_stunden_verb": {
+    "primary": "to_timer_verb"
+  },
+  "zweifeln_verb": {
+    "primary": "tvile_verb"
+  }
+}

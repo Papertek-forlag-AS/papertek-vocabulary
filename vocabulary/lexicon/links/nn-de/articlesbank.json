@@ -1,0 +1,81 @@
+{
+  "_metadata": {
+    "from": "nn",
+    "to": "de",
+    "bank": "articlesbank",
+    "generatedAt": "2026-03-14T00:33:51.553Z",
+    "totalLinks": 17
+  },
+  "den_art": {
+    "primary": "den_art",
+    "alternatives": [
+      "der_art",
+      "die_art"
+    ]
+  },
+  "det_art": {
+    "primary": "das_art"
+  },
+  "det_hunkjønn_art": {
+    "primary": "die_art"
+  },
+  "ei_art": {
+    "primary": "eine_art"
+  },
+  "en_art": {
+    "primary": "ein_art",
+    "alternatives": [
+      "eine_art",
+      "einen_art"
+    ]
+  },
+  "et_art": {
+    "primary": "einen_art"
+  },
+  "et_hankjønn_art": {
+    "primary": "ein_art"
+  },
+  "flertall_art": {
+    "primary": "die_art",
+    "alternatives": [
+      "keine_art"
+    ]
+  },
+  "fra_contr": {
+    "primary": "vom_contr"
+  },
+  "i_contr": {
+    "primary": "am_contr",
+    "alternatives": [
+      "im_contr"
+    ]
+  },
+  "ingen_art": {
+    "primary": "keinen_art"
+  },
+  "ingen_hankjønn_art": {
+    "primary": "kein_art"
+  },
+  "ingen_hunkjønn_art": {
+    "primary": "keine_art"
+  },
+  "inn_i_contr": {
+    "primary": "ins_contr"
+  },
+  "intetkjønn_art": {
+    "primary": "ein_art",
+    "alternatives": [
+      "kein_art"
+    ]
+  },
+  "på_contr": {
+    "primary": "am_contr"
+  },
+  "til_contr": {
+    "primary": "ins_contr",
+    "alternatives": [
+      "zum_contr",
+      "zur_contr"
+    ]
+  }
+}

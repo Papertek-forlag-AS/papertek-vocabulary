@@ -1,0 +1,99 @@
+{
+  "_metadata": {
+    "from": "de",
+    "to": "nn",
+    "bank": "articlesbank",
+    "generatedAt": "2026-03-14T00:33:51.552Z",
+    "totalLinks": 16
+  },
+  "am_contr": {
+    "primary": "på_contr",
+    "alternatives": [
+      "i_contr"
+    ],
+    "explanation": "Sammentrekning av \"an dem\" (dativ). Brukes for tidspunkt: \"am Montag\" (på mandag), \"am Wochenende\" (i helgen), \"am Nachmittag\" (om ettermiddagen)."
+  },
+  "das_art": {
+    "primary": "det_art",
+    "explanation": "Bestemt artikkel for intetkjønnsord (neutrum) eller brukt som demonstrativ pronomen \"det/den\". Eksempel: \"das Foto\" (bildet), \"Das ist...\" (Det er...)."
+  },
+  "den_art": {
+    "primary": "den_art",
+    "explanation": "Bestemt artikkel for hankjønnsord i akkusativ. Eksempel: \"Ich sehe den Film\" (jeg ser filmen)."
+  },
+  "der_art": {
+    "primary": "den_art",
+    "explanation": "Bestemt artikkel for hankjønnsord (maskulinum) i nominativ. Eksempel: \"der Vater\" (faren)."
+  },
+  "die_art": {
+    "primary": "den_art",
+    "alternatives": [
+      "det_hunkjønn_art",
+      "flertall_art"
+    ],
+    "explanation": "Bestemt artikkel for hunkjønnsord (femininum) eller flertall. Eksempel: \"die Mutter\" (mora), \"die Eltern\" (foreldrene)."
+  },
+  "ein_art": {
+    "primary": "en_art",
+    "alternatives": [
+      "et_hankjønn_art",
+      "intetkjønn_art"
+    ],
+    "explanation": "Ubestemt artikkel for hankjønn eller intetkjønn i nominativ. Eksempel: \"ein Bruder\" (en bror), \"ein Foto\" (et bilde)."
+  },
+  "eine_art": {
+    "primary": "en_art",
+    "alternatives": [
+      "ei_art"
+    ],
+    "explanation": "Ubestemt artikkel for hunkjønnsord. Eksempel: \"eine Schwester\" (en søster), \"eine Familie\" (en familie)."
+  },
+  "einen_art": {
+    "primary": "en_art",
+    "alternatives": [
+      "et_art"
+    ],
+    "explanation": "Ubestemt artikkel for hankjønnsord i akkusativ (objekt). Eksempel: \"Ich sehe einen Film\" (jeg ser en film)."
+  },
+  "im_contr": {
+    "primary": "i_contr",
+    "explanation": "Sammentrekning av \"in dem\" (dativ). Brukes for sted: \"im Kino\" (på kinoen), \"im Zoo\" (i dyrehagen)."
+  },
+  "ins_contr": {
+    "primary": "til_contr",
+    "alternatives": [
+      "inn_i_contr"
+    ],
+    "explanation": "Sammentrekning av \"in das\" (akkusativ). Brukes for retning/bevegelse: \"ins Kino\" (til kinoen), \"ins Café\" (til kaféen)."
+  },
+  "kein_art": {
+    "primary": "ingen_hankjønn_art",
+    "alternatives": [
+      "intetkjønn_art"
+    ],
+    "explanation": "Negativ artikkel for hankjønn eller intetkjønn. Eksempel: \"kein Bruder\" (ingen bror)."
+  },
+  "keine_art": {
+    "primary": "ingen_hunkjønn_art",
+    "alternatives": [
+      "flertall_art"
+    ],
+    "explanation": "Negativ artikkel for hunkjønn eller flertall. Brukes for å si \"ingen\". Eksempel: \"keine Schwester\" (ingen søster), \"keine Geschwister\" (ingen søsken)."
+  },
+  "keinen_art": {
+    "primary": "ingen_art",
+    "explanation": "Negativ artikkel for hankjønn i akkusativ. Eksempel: \"Ich habe keinen Bruder\" (jeg har ingen bror)."
+  },
+  "vom_contr": {
+    "primary": "fra_contr",
+    "explanation": "Sammentrekning av \"von dem\" (dativ). Brukes for å angi utgangspunkt eller opprinnelse: \"vom ersten März\" (fra første mars), \"vom Bahnhof\" (fra togstasjonen)."
+  },
+  "zum_contr": {
+    "primary": "til_contr",
+    "explanation": "Sammentrekning av \"zu dem\" (dativ). Brukes for retning eller formål: \"zum Grillen\" (til grilling), \"zum Flughafen\" (til flyplassen)."
+  },
+  "zur_contr": {
+    "primary": "til_contr",
+    "explanation": "Sammentrekning av \"zu der\" (dativ). Brukes for retning: \"zur Schule\" (til skolen)."
+  }
+}
