@@ -3,7 +3,7 @@
     "language": "nn",
     "languageName": "Norsk nynorsk",
     "bank": "nounbank",
-    "generatedAt": "2026-03-14T08:59:45.160Z",
+    "generatedAt": "2026-03-14T09:10:32.042Z",
     "description": "Norwegian Nynorsk nounbank — generated from Bokmål via NB→NN transformation",
     "totalEntries": 1596,
     "enrichedEntries": 1596,
@@ -1914,16 +1914,16 @@
   "bedriftseigar_noun": {
     "word": "bedriftseigar",
     "type": "noun",
-    "genus": "n",
-    "plural": "bedriftseigar",
+    "genus": "m",
+    "plural": "bedriftseigarar",
     "forms": {
       "ubestemt": {
         "entall": "bedriftseigar",
-        "flertall": "bedriftseigar"
+        "flertall": "bedriftseigarar"
       },
       "bestemt": {
-        "entall": "bedriftseigaret",
-        "flertall": "bedriftseigara"
+        "entall": "bedriftseigaren",
+        "flertall": "bedriftseigarane"
       }
     },
     "_enriched": true,
@@ -6194,16 +6194,16 @@
   "firma_noun": {
     "word": "firma",
     "type": "noun",
-    "genus": "m",
-    "plural": "firmaar",
+    "genus": "n",
+    "plural": "firma",
     "forms": {
       "ubestemt": {
         "entall": "firma",
-        "flertall": "firmaar"
+        "flertall": "firma"
       },
       "bestemt": {
-        "entall": "firmaen",
-        "flertall": "firmaane"
+        "entall": "firmaet",
+        "flertall": "firmaa"
       }
     },
     "_enriched": true,
@@ -10151,19 +10151,19 @@
     "_nbEquivalent": "hjemmeside_noun",
     "_generatedFrom": "de-nb/nounbank.json:homepage_noun"
   },
-  "hjemmeværende_mann_noun": {
-    "word": "hjemmeværende mann",
+  "hjemmeværande_mann_noun": {
+    "word": "hjemmeværande mann",
     "type": "noun",
     "genus": "m",
-    "plural": "hjemmeværende mannar",
+    "plural": "hjemmeværande mannar",
     "forms": {
       "ubestemt": {
-        "entall": "hjemmeværende mann",
-        "flertall": "hjemmeværende mannar"
+        "entall": "hjemmeværande mann",
+        "flertall": "hjemmeværande mannar"
       },
       "bestemt": {
-        "entall": "hjemmeværende mannen",
-        "flertall": "hjemmeværende mannane"
+        "entall": "hjemmeværande mannen",
+        "flertall": "hjemmeværande mannane"
       }
     },
     "_enriched": true,
@@ -16292,19 +16292,19 @@
     "_nbEquivalent": "lommebok_noun",
     "_generatedFrom": "de-nb/nounbank.json:brieftasche_noun, de-nb/nounbank.json:geldboerse_noun"
   },
-  "lommepenger_noun": {
-    "word": "lommepenger",
+  "lommepengar_noun": {
+    "word": "lommepengar",
     "type": "noun",
     "genus": "m",
-    "plural": "lommepengerar",
+    "plural": "lommepengarar",
     "forms": {
       "ubestemt": {
-        "entall": "lommepenger",
-        "flertall": "lommepengerar"
+        "entall": "lommepengar",
+        "flertall": "lommepengarar"
       },
       "bestemt": {
-        "entall": "lommepengeren",
-        "flertall": "lommepengerane"
+        "entall": "lommepengaren",
+        "flertall": "lommepengarane"
       }
     },
     "_enriched": true,
@@ -18077,16 +18077,16 @@
   "morgonrutine_noun": {
     "word": "morgonrutine",
     "type": "noun",
-    "genus": "m",
-    "plural": "morgonrutinar",
+    "genus": "f",
+    "plural": "morgonrutiner",
     "forms": {
       "ubestemt": {
         "entall": "morgonrutine",
-        "flertall": "morgonrutinar"
+        "flertall": "morgonrutiner"
       },
       "bestemt": {
-        "entall": "morgonrutinen",
-        "flertall": "morgonrutinane"
+        "entall": "morgonrutina",
+        "flertall": "morgonrutinene"
       }
     },
     "_enriched": true,
@@ -18837,16 +18837,16 @@
   "narkotika_noun": {
     "word": "narkotika",
     "type": "noun",
-    "genus": "m",
-    "plural": "narkotikaar",
+    "genus": "n",
+    "plural": "narkotika",
     "forms": {
       "ubestemt": {
         "entall": "narkotika",
-        "flertall": "narkotikaar"
+        "flertall": "narkotika"
       },
       "bestemt": {
-        "entall": "narkotikaen",
-        "flertall": "narkotikaane"
+        "entall": "narkotikaet",
+        "flertall": "narkotikaa"
       }
     },
     "_enriched": true,
@@ -20697,16 +20697,16 @@
   "personalia_noun": {
     "word": "personalia",
     "type": "noun",
-    "genus": "m",
-    "plural": "personaliaar",
+    "genus": "n",
+    "plural": "personalia",
     "forms": {
       "ubestemt": {
         "entall": "personalia",
-        "flertall": "personaliaar"
+        "flertall": "personalia"
       },
       "bestemt": {
-        "entall": "personaliaen",
-        "flertall": "personaliaane"
+        "entall": "personaliaet",
+        "flertall": "personaliaa"
       }
     },
     "_enriched": true,
@@ -21914,19 +21914,19 @@
     "_nbEquivalent": "påmelding_noun",
     "_generatedFrom": "de-nb/nounbank.json:anmeldung_noun"
   },
-  "pårørende_noun": {
-    "word": "pårørende",
+  "pårørande_noun": {
+    "word": "pårørande",
     "type": "noun",
     "genus": "m",
-    "plural": "pårørendar",
+    "plural": "pårørandar",
     "forms": {
       "ubestemt": {
-        "entall": "pårørende",
-        "flertall": "pårørendar"
+        "entall": "pårørande",
+        "flertall": "pårørandar"
       },
       "bestemt": {
-        "entall": "pårørenden",
-        "flertall": "pårørendane"
+        "entall": "pårøranden",
+        "flertall": "pårørandane"
       }
     },
     "_enriched": true,
@@ -22294,26 +22294,6 @@
     "_nbEquivalent": "reisemål_noun",
     "_generatedFrom": "de-nb/nounbank.json:reiseziel_noun"
   },
-  "rekkefølge_noun": {
-    "word": "rekkefølge",
-    "type": "noun",
-    "genus": "f",
-    "plural": "rekkefølger",
-    "forms": {
-      "ubestemt": {
-        "entall": "rekkefølge",
-        "flertall": "rekkefølger"
-      },
-      "bestemt": {
-        "entall": "rekkefølga",
-        "flertall": "rekkefølgene"
-      }
-    },
-    "_enriched": true,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "rekkefølge_noun",
-    "_generatedFrom": "de-nb/nounbank.json:reihenfolge_noun"
-  },
   "rekkje_noun": {
     "word": "rekkje",
     "type": "noun",
@@ -22333,6 +22313,26 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "rekke_noun",
     "_generatedFrom": "de-nb/nounbank.json:reihe_noun"
+  },
+  "rekkjefølgje_noun": {
+    "word": "rekkjefølgje",
+    "type": "noun",
+    "genus": "f",
+    "plural": "rekkjefølgjer",
+    "forms": {
+      "ubestemt": {
+        "entall": "rekkjefølgje",
+        "flertall": "rekkjefølgjer"
+      },
+      "bestemt": {
+        "entall": "rekkjefølgja",
+        "flertall": "rekkjefølgjene"
+      }
+    },
+    "_enriched": true,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "rekkefølge_noun",
+    "_generatedFrom": "de-nb/nounbank.json:reihenfolge_noun"
   },
   "reklame_noun": {
     "word": "reklame",
@@ -24037,16 +24037,16 @@
   "servise_noun": {
     "word": "servise",
     "type": "noun",
-    "genus": "m",
-    "plural": "servisar",
+    "genus": "n",
+    "plural": "servise",
     "forms": {
       "ubestemt": {
         "entall": "servise",
-        "flertall": "servisar"
+        "flertall": "servise"
       },
       "bestemt": {
-        "entall": "servisen",
-        "flertall": "servisane"
+        "entall": "serviset",
+        "flertall": "servisa"
       }
     },
     "_enriched": true,
@@ -24478,16 +24478,16 @@
   "sjukekasse_noun": {
     "word": "sjukekasse",
     "type": "noun",
-    "genus": "m",
-    "plural": "sjukekassar",
+    "genus": "f",
+    "plural": "sjukekasser",
     "forms": {
       "ubestemt": {
         "entall": "sjukekasse",
-        "flertall": "sjukekassar"
+        "flertall": "sjukekasser"
       },
       "bestemt": {
-        "entall": "sjukekassen",
-        "flertall": "sjukekassane"
+        "entall": "sjukekassa",
+        "flertall": "sjukekassene"
       }
     },
     "_enriched": true,
@@ -25415,19 +25415,19 @@
     "_nbEquivalent": "smerte_noun",
     "_generatedFrom": "de-nb/nounbank.json:schmerz_noun"
   },
-  "smertestillende_noun": {
-    "word": "smertestillende",
+  "smertestillande_noun": {
+    "word": "smertestillande",
     "type": "noun",
     "genus": "m",
-    "plural": "smertestillendar",
+    "plural": "smertestillandar",
     "forms": {
       "ubestemt": {
-        "entall": "smertestillende",
-        "flertall": "smertestillendar"
+        "entall": "smertestillande",
+        "flertall": "smertestillandar"
       },
       "bestemt": {
-        "entall": "smertestillenden",
-        "flertall": "smertestillendane"
+        "entall": "smertestillanden",
+        "flertall": "smertestillandane"
       }
     },
     "_enriched": true,
@@ -26479,16 +26479,16 @@
   "storfe_noun": {
     "word": "storfe",
     "type": "noun",
-    "genus": "m",
-    "plural": "storfar",
+    "genus": "n",
+    "plural": "storfe",
     "forms": {
       "ubestemt": {
         "entall": "storfe",
-        "flertall": "storfar"
+        "flertall": "storfe"
       },
       "bestemt": {
-        "entall": "storfen",
-        "flertall": "storfane"
+        "entall": "storfet",
+        "flertall": "storfa"
       }
     },
     "_enriched": true,
@@ -26696,19 +26696,19 @@
     "_nbEquivalent": "student_noun",
     "_generatedFrom": "de-nb/nounbank.json:student_noun"
   },
-  "studerende_noun": {
-    "word": "studerende",
+  "studerande_noun": {
+    "word": "studerande",
     "type": "noun",
     "genus": "m",
-    "plural": "studerendar",
+    "plural": "studerandar",
     "forms": {
       "ubestemt": {
-        "entall": "studerende",
-        "flertall": "studerendar"
+        "entall": "studerande",
+        "flertall": "studerandar"
       },
       "bestemt": {
-        "entall": "studerenden",
-        "flertall": "studerendane"
+        "entall": "studeranden",
+        "flertall": "studerandane"
       }
     },
     "_enriched": true,
@@ -30201,16 +30201,16 @@
   "utleie_noun": {
     "word": "utleie",
     "type": "noun",
-    "genus": "m",
-    "plural": "utleiar",
+    "genus": "f",
+    "plural": "utleier",
     "forms": {
       "ubestemt": {
         "entall": "utleie",
-        "flertall": "utleiar"
+        "flertall": "utleier"
       },
       "bestemt": {
-        "entall": "utleien",
-        "flertall": "utleiane"
+        "entall": "utleia",
+        "flertall": "utleiene"
       }
     },
     "_enriched": true,
@@ -30278,19 +30278,19 @@
     "_nbEquivalent": "utsagn_noun",
     "_generatedFrom": "de-nb/nounbank.json:aussage_noun"
   },
-  "utseende_noun": {
-    "word": "utseende",
+  "utseande_noun": {
+    "word": "utseande",
     "type": "noun",
     "genus": "n",
-    "plural": "utseende",
+    "plural": "utseande",
     "forms": {
       "ubestemt": {
-        "entall": "utseende",
-        "flertall": "utseende"
+        "entall": "utseande",
+        "flertall": "utseande"
       },
       "bestemt": {
-        "entall": "utseendet",
-        "flertall": "utseenda"
+        "entall": "utseandet",
+        "flertall": "utseanda"
       }
     },
     "_enriched": true,

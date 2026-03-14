@@ -3,7 +3,7 @@
     "from": "nn",
     "to": "de",
     "bank": "verbbank",
-    "generatedAt": "2026-03-14T08:59:45.341Z",
+    "generatedAt": "2026-03-14T09:10:32.246Z",
     "totalLinks": 621
   },
   "advare_verb": {
@@ -159,11 +159,11 @@
       }
     ]
   },
+  "behalde_verb": {
+    "primary": "behalten_verb"
+  },
   "behandle_verb": {
     "primary": "behandeln_verb"
-  },
-  "beholde_verb": {
-    "primary": "behalten_verb"
   },
   "beklage_verb": {
     "primary": "sich_entschuldigen_verb",
@@ -287,7 +287,7 @@
       }
     ]
   },
-  "bli_forelsket_verb": {
+  "bli_forelska_verb": {
     "primary": "sich_verlieben_verb"
   },
   "bli_forkjølet_verb": {
@@ -296,7 +296,7 @@
   "bli_kjent_med_verb": {
     "primary": "kennenlernen_verb"
   },
-  "bli_liggende_verb": {
+  "bli_liggande_verb": {
     "primary": "liegen_bleiben_verb",
     "examples": [
       {
@@ -727,7 +727,7 @@
   "forbli_verb": {
     "primary": "bleiben_verb"
   },
-  "forbruke_verb": {
+  "forbruka_verb": {
     "primary": "konsumieren_verb",
     "alternatives": [
       "verbrauchen_verb"
@@ -1421,23 +1421,6 @@
       }
     ]
   },
-  "høres_ut_verb": {
-    "primary": "klingen_verb",
-    "examples": [
-      {
-        "source": "Det høres bra ut!",
-        "target": "Das klingt gut!"
-      },
-      {
-        "source": "Hvordan høres det ut?",
-        "target": "Wie klingt das?"
-      },
-      {
-        "source": "Musikken lyder vakkert.",
-        "target": "Die Musik klingt schön."
-      }
-    ]
-  },
   "høyra_verb": {
     "primary": "hoeren_verb",
     "examples": [
@@ -1452,6 +1435,23 @@
       {
         "source": "Vi liker å høre på podcaster.",
         "target": "Wir hören gern Podcasts."
+      }
+    ]
+  },
+  "høyrest_ut_verb": {
+    "primary": "klingen_verb",
+    "examples": [
+      {
+        "source": "Det høres bra ut!",
+        "target": "Das klingt gut!"
+      },
+      {
+        "source": "Hvordan høres det ut?",
+        "target": "Wie klingt das?"
+      },
+      {
+        "source": "Musikken lyder vakkert.",
+        "target": "Die Musik klingt schön."
       }
     ]
   },

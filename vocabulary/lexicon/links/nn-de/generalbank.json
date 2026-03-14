@@ -3,7 +3,7 @@
     "from": "nn",
     "to": "de",
     "bank": "generalbank",
-    "generatedAt": "2026-03-14T08:59:45.327Z",
+    "generatedAt": "2026-03-14T09:10:32.229Z",
     "totalLinks": 634
   },
   "absolutt_adv": {
@@ -93,11 +93,11 @@
   "avhengig_adv": {
     "primary": "abhaengig_general"
   },
-  "avslappende_adv": {
-    "primary": "entspannend_general"
-  },
-  "avslappet_adv": {
+  "avslappa_adv": {
     "primary": "locker_general"
+  },
+  "avslappande_adv": {
+    "primary": "entspannend_general"
   },
   "bak_prep": {
     "primary": "hinter_prep"
@@ -108,13 +108,10 @@
   "bakover_adv": {
     "primary": "rueckwaerts_general"
   },
-  "bedre_adv": {
-    "primary": "besser_general"
-  },
   "begge_adv": {
     "primary": "beid_general"
   },
-  "begge_deler_adv": {
+  "begge_delar_adv": {
     "primary": "beides_adv"
   },
   "behageleg_adv": {
@@ -132,8 +129,11 @@
   "berømt_adv": {
     "primary": "beruehmt_general"
   },
-  "beslektet_adv": {
+  "beslekta_adv": {
     "primary": "verwandt_general"
+  },
+  "betre_adv": {
+    "primary": "besser_general"
   },
   "billeg_adv": {
     "primary": "billig_general"
@@ -153,7 +153,7 @@
   "bratt_adv": {
     "primary": "steil_general"
   },
-  "bred_adv": {
+  "brei_adv": {
     "primary": "breit_general"
   },
   "brått_adv": {
@@ -213,7 +213,7 @@
   "det_finst_phrase": {
     "primary": "es_gibt_phrase"
   },
-  "det_høres_bra_ut_phrase": {
+  "det_høyrest_bra_ut_phrase": {
     "primary": "das_klingt_gut_phrase"
   },
   "det_samme_adv": {
@@ -286,6 +286,9 @@
       "mal_adv"
     ]
   },
+  "einaste_adv": {
+    "primary": "einzig_general"
+  },
   "eit_stipend_adv": {
     "primary": "ein_stipendium_general"
   },
@@ -324,9 +327,6 @@
   },
   "endå_ikkje_phrase": {
     "primary": "noch_nicht_phrase"
-  },
-  "eneste_adv": {
-    "primary": "einzig_general"
   },
   "engsteleg_adv": {
     "primary": "aengstlich_general"
@@ -497,7 +497,7 @@
   "fortsatt_adv": {
     "primary": "noch_adv"
   },
-  "forvirret_adv": {
+  "forvirra_adv": {
     "primary": "durcheinander_general"
   },
   "framand_adv": {
@@ -893,7 +893,7 @@
   "internasjonal_adv": {
     "primary": "international_general"
   },
-  "irriterende_adv": {
+  "irriterande_adv": {
     "primary": "aergerlich_general"
   },
   "italia_propn": {
@@ -1052,9 +1052,6 @@
   "lett_adv": {
     "primary": "leicht_general"
   },
-  "lignende_adv": {
-    "primary": "aehnlich_general"
-  },
   "lika__som_phrase": {
     "primary": "so_wie_phrase"
   },
@@ -1076,6 +1073,9 @@
       "jedoch_general",
       "trotzdem_general"
     ]
+  },
+  "liknande_adv": {
+    "primary": "aehnlich_general"
   },
   "lite_adv": {
     "primary": "wenig_adv"
@@ -1340,7 +1340,7 @@
   "og_stuttgart_adv": {
     "primary": "und_stuttgart_general"
   },
-  "og_ungdommer_adv": {
+  "og_ungdommar_adv": {
     "primary": "und_jugendliche_general"
   },
   "om_adv": {
@@ -1433,7 +1433,7 @@
   "praktisk_adv": {
     "primary": "praktisch_general"
   },
-  "presserende_adv": {
+  "presserande_adv": {
     "primary": "dringend_general"
   },
   "privat_adv": {
@@ -1500,7 +1500,7 @@
   "rart_ut_adv": {
     "primary": "komisch_aus_general"
   },
-  "rasende_adv": {
+  "rasande_adv": {
     "primary": "wuetend_general"
   },
   "raskt_adv": {
@@ -1681,7 +1681,7 @@
   "sosial_adv": {
     "primary": "sozial_general"
   },
-  "spennende_adv": {
+  "spennande_adv": {
     "primary": "aufregend_general"
   },
   "spesiell_adv": {
@@ -1807,7 +1807,7 @@
   "tidleg_adv": {
     "primary": "frueh_adv"
   },
-  "tidligere_adv": {
+  "tidlegare_adv": {
     "primary": "frueher_general"
   },
   "til_banken_adv": {
@@ -1864,7 +1864,7 @@
   "tilbake_adv": {
     "primary": "zurueck_general"
   },
-  "tilfredsstillende_adv": {
+  "tilfredsstillande_adv": {
     "primary": "befriedigend_general"
   },
   "tilgjengeleg_adv": {
@@ -1951,13 +1951,13 @@
       "raus_adv"
     ]
   },
-  "utelukkende_adv": {
+  "utelukkande_adv": {
     "primary": "ausschliesslich_general"
   },
   "utenlandsk_adv": {
     "primary": "auslaendisch_general"
   },
-  "utmerket_adv": {
+  "utmerkt_adv": {
     "primary": "prima_general"
   },
   "utroleg_adv": {
@@ -1972,7 +1972,7 @@
       "ueblich_general"
     ]
   },
-  "vanligvis_adv": {
+  "vanlegvis_adv": {
     "primary": "meistens_adv",
     "alternatives": [
       "normalerweise_adv"
@@ -2065,10 +2065,10 @@
   "verkeleg_adv": {
     "primary": "wirklich_adv"
   },
-  "vi_snakkes_phrase": {
+  "vi_snakkast_phrase": {
     "primary": "bis_dann_phrase"
   },
-  "videre_adv": {
+  "vidare_adv": {
     "primary": "weiter_general"
   },
   "vidunderleg_adv": {

@@ -3,8 +3,8 @@
     "from": "nn",
     "to": "es",
     "bank": "generalbank",
-    "generatedAt": "2026-03-14T08:59:45.346Z",
-    "totalLinks": 276
+    "generatedAt": "2026-03-14T09:10:32.251Z",
+    "totalLinks": 275
   },
   "akkurat_adv": {
     "primary": "exactamente_adv"
@@ -116,13 +116,13 @@
   "det_finst_phrase": {
     "primary": "hay_phrase"
   },
-  "det_regner_phrase": {
+  "det_regnar_phrase": {
     "primary": "llueve_phrase"
   },
   "det_snør_phrase": {
     "primary": "nieva_phrase"
   },
-  "det_trengs_phrase": {
+  "det_trengst_phrase": {
     "primary": "hace_falta_phrase"
   },
   "det_verkar_for_meg_som_phrase": {
@@ -754,7 +754,13 @@
     "primary": "salud_interj"
   },
   "slik_adv": {
-    "primary": "asi_adv"
+    "primary": "asi_adv",
+    "alternatives": [
+      "asi_adv"
+    ]
+  },
+  "slik_passe_phrase": {
+    "primary": "mas_o_menos_phrase"
   },
   "snart_adv": {
     "primary": "pronto_adv"
@@ -791,12 +797,6 @@
     "alternatives": [
       "tan_adv"
     ]
-  },
-  "sånn_adv": {
-    "primary": "asi_adv"
-  },
-  "sånn_passe_phrase": {
-    "primary": "mas_o_menos_phrase"
   },
   "takk_interj": {
     "primary": "gracias_interj"
@@ -848,7 +848,7 @@
   "ute_adv": {
     "primary": "afuera_adv"
   },
-  "vanligvis_adv": {
+  "vanlegvis_adv": {
     "primary": "normalmente_adv"
   },
   "ved_siden_av_prep": {

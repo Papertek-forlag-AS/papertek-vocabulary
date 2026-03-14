@@ -3,7 +3,7 @@
     "from": "nn",
     "to": "nb",
     "bank": "adjectivebank",
-    "generatedAt": "2026-03-14T08:59:45.307Z",
+    "generatedAt": "2026-03-14T09:10:32.206Z",
     "totalLinks": 401
   },
   "absolutt_adj": {
@@ -24,7 +24,7 @@
   "annan_adj": {
     "primary": "annen_adj"
   },
-  "anstrengende_adj": {
+  "anstrengande_adj": {
     "primary": "anstrengende_adj"
   },
   "ansvarleg_adj": {
@@ -42,7 +42,7 @@
   "avhengig_adj": {
     "primary": "avhengig_adj"
   },
-  "avslappet_adj": {
+  "avslappa_adj": {
     "primary": "avslappet_adj"
   },
   "behageleg_adj": {
@@ -54,7 +54,7 @@
   "berømt_adj": {
     "primary": "berømt_adj"
   },
-  "beslektet_adj": {
+  "beslekta_adj": {
     "primary": "beslektet_adj"
   },
   "bestemt_adj": {
@@ -81,7 +81,7 @@
   "bratt_adj": {
     "primary": "bratt_adj"
   },
-  "bred_adj": {
+  "brei_adj": {
     "primary": "bred_adj"
   },
   "brun_adj": {
@@ -123,6 +123,9 @@
   "døv_adj": {
     "primary": "døv_adj"
   },
+  "einaste_unik_adj": {
+    "primary": "eneste_unik_adj"
+  },
   "ekstra_adj": {
     "primary": "ekstra_adj"
   },
@@ -143,9 +146,6 @@
   },
   "elektronisk_adj": {
     "primary": "elektronisk_adj"
-  },
-  "eneste_unik_adj": {
-    "primary": "eneste_unik_adj"
   },
   "engsteleg_adj": {
     "primary": "engstelig_adj"
@@ -222,9 +222,6 @@
   "flott_adj": {
     "primary": "flott_adj"
   },
-  "forberedt_adj": {
-    "primary": "forberedt_adj"
-  },
   "foreløpig_adj": {
     "primary": "foreløpig_adj"
   },
@@ -245,9 +242,6 @@
   },
   "fornøyd_glad_adj": {
     "primary": "fornøyd_glad_adj"
-  },
-  "forrige_adj": {
-    "primary": "forrige_adj"
   },
   "forsiktig_adj": {
     "primary": "forsiktig_adj"
@@ -296,6 +290,12 @@
   },
   "full_adj": {
     "primary": "full_adj"
+  },
+  "førebudd_adj": {
+    "primary": "forberedt_adj"
+  },
+  "førre_adj": {
+    "primary": "forrige_adj"
   },
   "første_adj": {
     "primary": "første_adj"
@@ -372,7 +372,7 @@
   "hard_adj": {
     "primary": "hard_adj"
   },
-  "hardtarbeidende_adj": {
+  "hardtarbeidande_adj": {
     "primary": "hardtarbeidende_adj"
   },
   "hel_adj": {
@@ -435,7 +435,7 @@
   "internasjonal_adj": {
     "primary": "internasjonal_adj"
   },
-  "irriterende_adj": {
+  "irriterande_adj": {
     "primary": "irriterende_adj"
   },
   "juridisk_adj": {
@@ -540,14 +540,14 @@
   "lett_enkel_adj": {
     "primary": "lett_enkel_adj"
   },
-  "lignende_adj": {
-    "primary": "lignende_adj"
-  },
   "lik_adj": {
     "primary": "lik_adj"
   },
   "likestilt_adj": {
     "primary": "likestilt_adj"
+  },
+  "liknande_adj": {
+    "primary": "lignende_adj"
   },
   "lilla_adj": {
     "primary": "lilla_adj"
@@ -696,13 +696,13 @@
   "oransje_adj": {
     "primary": "oransje_adj"
   },
-  "overrasket_adj": {
+  "overraska_adj": {
     "primary": "overrasket_adj"
   },
   "overskyet_adj": {
     "primary": "overskyet_adj"
   },
-  "overskytende_adj": {
+  "overskytande_adj": {
     "primary": "overskytende_adj"
   },
   "parallell_adj": {
@@ -747,7 +747,7 @@
   "påliteleg_adj": {
     "primary": "pålitelig_adj"
   },
-  "rasende_adj": {
+  "rasande_adj": {
     "primary": "rasende_adj"
   },
   "rask_adj": {
@@ -870,7 +870,7 @@
   "skarp_adj": {
     "primary": "skarp_adj"
   },
-  "skinnende_strålende_adj": {
+  "skinnande_strålande_adj": {
     "primary": "skinnende_strålende_adj"
   },
   "skitten_adj": {
@@ -909,7 +909,7 @@
   "sosial_adj": {
     "primary": "sosial_adj"
   },
-  "spennende_adj": {
+  "spennande_adj": {
     "primary": "spennende_adj"
   },
   "spent_adj": {
@@ -954,11 +954,11 @@
   "streng_adj": {
     "primary": "streng_adj"
   },
-  "stressende_adj": {
-    "primary": "stressende_adj"
-  },
-  "stresset_adj": {
+  "stressa_adj": {
     "primary": "stresset_adj"
+  },
+  "stressande_adj": {
+    "primary": "stressende_adj"
   },
   "stum_adj": {
     "primary": "stum_adj"
@@ -1014,7 +1014,7 @@
   "tidleg_adj": {
     "primary": "tidlig_adj"
   },
-  "tidligere_adj": {
+  "tidlegare_adj": {
     "primary": "tidligere_adj"
   },
   "til_stede_adj": {
@@ -1113,7 +1113,7 @@
   "usympatisk_adj": {
     "primary": "usympatisk_adj"
   },
-  "utelukkende_adj": {
+  "utelukkande_adj": {
     "primary": "utelukkende_adj"
   },
   "utenlandsk_adj": {
@@ -1161,7 +1161,7 @@
   "verkeleg_adj": {
     "primary": "virkelig_adj"
   },
-  "videre_adj": {
+  "vidare_adj": {
     "primary": "videre_adj"
   },
   "viktig_adj": {

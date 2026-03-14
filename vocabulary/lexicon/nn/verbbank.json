@@ -3,7 +3,7 @@
     "language": "nn",
     "languageName": "Norsk nynorsk",
     "bank": "verbbank",
-    "generatedAt": "2026-03-14T08:59:45.179Z",
+    "generatedAt": "2026-03-14T09:10:32.067Z",
     "description": "Norwegian Nynorsk verbbank — generated from Bokmål via NB→NN transformation",
     "totalEntries": 663,
     "enrichedEntries": 580,
@@ -731,6 +731,29 @@
     "_nbEquivalent": "begynne_verb",
     "_generatedFrom": "de-nb/verbbank.json:anfangen_verb, de-nb/verbbank.json:beginnen_verb, es-nb/verbbank.json:empezar_verb"
   },
+  "behalde_verb": {
+    "word": "behalde",
+    "type": "verb",
+    "verbClass": "svak",
+    "auxiliary": "har",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å behalde",
+          "presens": "behalder",
+          "preteritum": "behaldde",
+          "perfektum_partisipp": "behaldd",
+          "imperativ": "behald"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "_enriched": true,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "beholde_verb",
+    "_generatedFrom": "de-nb/verbbank.json:behalten_verb"
+  },
   "behandle_verb": {
     "word": "behandle",
     "type": "verb",
@@ -753,29 +776,6 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "behandle_verb",
     "_generatedFrom": "de-nb/verbbank.json:behandeln_verb"
-  },
-  "beholde_verb": {
-    "word": "beholde",
-    "type": "verb",
-    "verbClass": "sterk",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å beholde",
-          "presens": "beheld",
-          "preteritum": "beheldt",
-          "perfektum_partisipp": "behalde",
-          "imperativ": "behald"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "beholde_verb",
-    "_generatedFrom": "de-nb/verbbank.json:behalten_verb"
   },
   "beklage_verb": {
     "word": "beklage",
@@ -1245,19 +1245,19 @@
     "_nbEquivalent": "bli_enige_verb",
     "_generatedFrom": "de-nb/verbbank.json:sich_einigen_verb"
   },
-  "bli_forelsket_verb": {
-    "word": "bli forelsket",
+  "bli_forelska_verb": {
+    "word": "bli forelska",
     "type": "verb",
     "verbClass": "sterk",
     "auxiliary": "er",
     "conjugations": {
       "presens": {
         "former": {
-          "infinitiv": "å bli forelsket",
-          "presens": "blir forelsket",
-          "preteritum": "vart forelsket",
+          "infinitiv": "å bli forelska",
+          "presens": "blir forelska",
+          "preteritum": "vart forelska",
           "perfektum_partisipp": "vorte",
-          "imperativ": "bli forelsket"
+          "imperativ": "bli forelska"
         },
         "auxiliary": "er",
         "feature": "grammar_nn_presens"
@@ -1314,19 +1314,19 @@
     "_nbEquivalent": "bli_kjent_med_verb",
     "_generatedFrom": "de-nb/verbbank.json:kennenlernen_verb"
   },
-  "bli_liggende_verb": {
-    "word": "bli liggende",
+  "bli_liggande_verb": {
+    "word": "bli liggande",
     "type": "verb",
     "verbClass": "sterk",
     "auxiliary": "er",
     "conjugations": {
       "presens": {
         "former": {
-          "infinitiv": "å bli liggende",
-          "presens": "blir liggende",
-          "preteritum": "vart liggende",
+          "infinitiv": "å bli liggande",
+          "presens": "blir liggande",
+          "preteritum": "vart liggande",
           "perfektum_partisipp": "vorte",
-          "imperativ": "bli liggende"
+          "imperativ": "bli liggande"
         },
         "auxiliary": "er",
         "feature": "grammar_nn_presens"
@@ -2809,18 +2809,18 @@
     "_nbEquivalent": "forbli_verb",
     "_generatedFrom": "de-nb/verbbank.json:bleiben_verb"
   },
-  "forbruke_verb": {
-    "word": "forbruke",
+  "forbruka_verb": {
+    "word": "forbruka",
     "type": "verb",
     "verbClass": "svak",
     "auxiliary": "har",
     "conjugations": {
       "presens": {
         "former": {
-          "infinitiv": "å forbruke",
-          "presens": "forbruker",
-          "preteritum": "forbrukte",
-          "perfektum_partisipp": "forbrukt",
+          "infinitiv": "å forbruka",
+          "presens": "forbrukar",
+          "preteritum": "forbruka",
+          "perfektum_partisipp": "forbruka",
           "imperativ": "forbruk"
         },
         "auxiliary": "har",
@@ -5029,29 +5029,6 @@
     "_nbEquivalent": "håpe_verb",
     "_generatedFrom": "de-nb/verbbank.json:hoffen_verb"
   },
-  "høres_ut_verb": {
-    "word": "høres ut",
-    "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å høres ut",
-          "presens": "høresr ut",
-          "preteritum": "høresdde ut",
-          "perfektum_partisipp": "høresdd",
-          "imperativ": "høres ut"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "høres_ut_verb",
-    "_generatedFrom": "de-nb/verbbank.json:klingen_verb"
-  },
   "høyra_på_å_lytte_verb": {
     "word": "høyra på, å lytte",
     "type": "verb",
@@ -5082,6 +5059,29 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "høre_verb",
     "_generatedFrom": "de-nb/verbbank.json:hoeren_verb, es-nb/verbbank.json:oir_verb"
+  },
+  "høyrest_ut_verb": {
+    "word": "høyrest ut",
+    "type": "verb",
+    "verbClass": "uregelmessig",
+    "auxiliary": "har",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å høyrest ut",
+          "presens": "høyrest ut",
+          "preteritum": "høyretest ut",
+          "perfektum_partisipp": "høyrest",
+          "imperativ": "-"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "_enriched": true,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "høres_ut_verb",
+    "_generatedFrom": "de-nb/verbbank.json:klingen_verb"
   },
   "i_forgårs_verb": {
     "word": "i forgårs",

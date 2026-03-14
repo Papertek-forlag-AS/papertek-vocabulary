@@ -185,6 +185,8 @@ const LEXICAL_REPLACEMENTS = {
   'servicemedarbeider': 'servicemedarbeidar',
   'dyrepasser': 'dyrepassar',
   'bedriftseier': 'bedriftseigar',
+  'lommepenger': 'lommepengar',
+  'rekkefølge': 'rekkjefølgje',
   'sulten': 'svolten',
   'morsom': 'morosam',
 
@@ -253,6 +255,35 @@ const LEXICAL_REPLACEMENTS = {
   'pleier': 'pleiar',
   'kjøper': 'kjøpar',
 
+  // Comparatives/other word forms
+  'bedre': 'betre',
+  'bred': 'brei',
+  'videre': 'vidare',
+  'tidligere': 'tidlegare',
+  'vanligvis': 'vanlegvis',
+  'forrige': 'førre',
+  'eneste': 'einaste',
+  'sånn': 'slik',
+  'utmerket': 'utmerkt',
+
+  // BM participle -et → NN -a
+  'beslektet': 'beslekta',
+  'avslappet': 'avslappa',
+  'overrasket': 'overraska',
+  'stresset': 'stressa',
+  'forberedt': 'førebudd',
+  'forvirret': 'forvirra',
+  'forelsket': 'forelska',
+  'lignende': 'liknande',
+
+  // Conjugated forms in phrases (round 3)
+  'snakkes': 'snakkast',
+  'regner': 'regnar',
+  'høres': 'høyrest',
+  'trengs': 'trengst',
+  'ungdommer': 'ungdommar',
+  'deler': 'delar',
+
   // Other BM words
   'man': 'ein',
   'fremmed': 'framand',
@@ -314,6 +345,12 @@ function applySpellingRules(word) {
   // 2. -lig → -leg (vanlig→vanleg, farlig→farleg, tydelig→tydeleg)
   if (w.endsWith('lig') && w.length > 4) {
     w = w.slice(0, -3) + 'leg';
+  }
+
+  // 3. -ende → -ande (spennende→spennande, rasende→rasande)
+  //    Present participle suffix, systematic BM→NN
+  if (w.endsWith('ende') && w.length > 5) {
+    w = w.slice(0, -4) + 'ande';
   }
 
   // 3. -ighet → -igheit (mulighet→moglegheit handled by lexical)
@@ -504,6 +541,12 @@ const GENUS_OVERRIDES = {
   // Masculine wrongly neuter
   'bustad': 'm', 'fødestad': 'm', 'verkstad': 'm', 'sum': 'm',
   'røyndom': 'm',
+  // Round 3 genus corrections
+  'firma': 'n', 'storfe': 'n', 'servise': 'n', 'narkotika': 'n',
+  'personalia': 'n', 'utleie': 'f',
+  // NN-form keys for overrides that were using NB spelling
+  'bedriftseigar': 'm', 'morgonrutine': 'f', 'sjukekasse': 'f',
+  'lommepengar': 'm', 'rekkjefølgje': 'f',
 };
 
 // ═══════════════════════════════════════════════════════════════════════════
@@ -951,6 +994,8 @@ const VERB_NB_TO_NN = {
   'stinke': 'stinka',
   'gråte': 'gråta',
   'forbudt': 'forby',
+  'beholde': 'behalde',
+  'forbruke': 'forbruka',
   'lage': 'laga',
   'klargjøre': 'klargjera',
   'kunngjøre': 'kunngjera',

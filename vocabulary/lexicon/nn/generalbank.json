@@ -3,11 +3,11 @@
     "language": "nn",
     "languageName": "Norsk nynorsk",
     "bank": "generalbank",
-    "generatedAt": "2026-03-14T08:59:45.193Z",
+    "generatedAt": "2026-03-14T09:10:32.081Z",
     "description": "Norwegian Nynorsk generalbank — generated from Bokmål via NB→NN transformation",
-    "totalEntries": 984,
+    "totalEntries": 983,
     "enrichedEntries": 0,
-    "skeletonEntries": 984
+    "skeletonEntries": 983
   },
   "absolutt_adv": {
     "word": "absolutt",
@@ -266,21 +266,21 @@
     "_nbEquivalent": "avhengig_adv",
     "_generatedFrom": "de-nb/generalbank.json:abhaengig_general"
   },
-  "avslappende_adv": {
-    "word": "avslappende",
-    "type": "adv",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "avslappende_adv",
-    "_generatedFrom": "de-nb/generalbank.json:entspannend_general"
-  },
-  "avslappet_adv": {
-    "word": "avslappet",
+  "avslappa_adv": {
+    "word": "avslappa",
     "type": "adv",
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "avslappet_adv",
     "_generatedFrom": "de-nb/generalbank.json:locker_general"
+  },
+  "avslappande_adv": {
+    "word": "avslappande",
+    "type": "adv",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "avslappende_adv",
+    "_generatedFrom": "de-nb/generalbank.json:entspannend_general"
   },
   "bak_prep": {
     "word": "bak",
@@ -314,14 +314,6 @@
     "_nbEquivalent": "barcelona_propn",
     "_generatedFrom": "es-nb/generalbank.json:barcelona_propn"
   },
-  "bedre_adv": {
-    "word": "bedre",
-    "type": "adv",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "bedre_adv",
-    "_generatedFrom": "de-nb/generalbank.json:besser_general"
-  },
   "begge_adv": {
     "word": "begge",
     "type": "adv",
@@ -330,8 +322,8 @@
     "_nbEquivalent": "begge_adv",
     "_generatedFrom": "de-nb/generalbank.json:beid_general"
   },
-  "begge_deler_adv": {
-    "word": "begge deler",
+  "begge_delar_adv": {
+    "word": "begge delar",
     "type": "adv",
     "_enriched": false,
     "_nnSource": "auto-nb",
@@ -402,13 +394,21 @@
     "_nbEquivalent": "berømt_adv",
     "_generatedFrom": "de-nb/generalbank.json:beruehmt_general"
   },
-  "beslektet_adv": {
-    "word": "beslektet",
+  "beslekta_adv": {
+    "word": "beslekta",
     "type": "adv",
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "beslektet_adv",
     "_generatedFrom": "de-nb/generalbank.json:verwandt_general"
+  },
+  "betre_adv": {
+    "word": "betre",
+    "type": "adv",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "bedre_adv",
+    "_generatedFrom": "de-nb/generalbank.json:besser_general"
   },
   "billeg_adv": {
     "word": "billeg",
@@ -490,8 +490,8 @@
     "_nbEquivalent": "bratt_adv",
     "_generatedFrom": "de-nb/generalbank.json:steil_general"
   },
-  "bred_adv": {
-    "word": "bred",
+  "brei_adv": {
+    "word": "brei",
     "type": "adv",
     "_enriched": false,
     "_nnSource": "auto-nb",
@@ -927,8 +927,8 @@
     "_nbEquivalent": "det_hunkjønn_art",
     "_generatedFrom": "de-nb/articlesbank.json:die_art"
   },
-  "det_høres_bra_ut_phrase": {
-    "word": "det høres bra ut",
+  "det_høyrest_bra_ut_phrase": {
+    "word": "det høyrest bra ut",
     "type": "phrase",
     "_enriched": false,
     "_nnSource": "auto-nb",
@@ -943,8 +943,8 @@
     "_nbEquivalent": "det_pron",
     "_generatedFrom": "de-nb/pronounsbank.json:es_pron, es-nb/pronounsbank.json:lo_dirobj_pron, es-nb/pronounsbank.json:ese_demon_pron, es-nb/pronounsbank.json:aquel_demon_pron"
   },
-  "det_regner_phrase": {
-    "word": "det regner",
+  "det_regnar_phrase": {
+    "word": "det regnar",
     "type": "phrase",
     "_enriched": false,
     "_nnSource": "auto-nb",
@@ -967,8 +967,8 @@
     "_nbEquivalent": "det_snør_phrase",
     "_generatedFrom": "es-nb/generalbank.json:nieva_phrase"
   },
-  "det_trengs_phrase": {
-    "word": "det trengs",
+  "det_trengst_phrase": {
+    "word": "det trengst",
     "type": "phrase",
     "_enriched": false,
     "_nnSource": "auto-nb",
@@ -1434,6 +1434,14 @@
     "_nbEquivalent": "man_pron",
     "_generatedFrom": "de-nb/pronounsbank.json:man_pron"
   },
+  "einaste_adv": {
+    "word": "einaste",
+    "type": "adv",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "eneste_adv",
+    "_generatedFrom": "de-nb/generalbank.json:einzig_general"
+  },
   "eit_art": {
     "word": "eit",
     "type": "art",
@@ -1571,14 +1579,6 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "enda_ikke_phrase",
     "_generatedFrom": "de-nb/generalbank.json:noch_nicht_phrase"
-  },
-  "eneste_adv": {
-    "word": "eneste",
-    "type": "adv",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "eneste_adv",
-    "_generatedFrom": "de-nb/generalbank.json:einzig_general"
   },
   "engsteleg_adv": {
     "word": "engsteleg",
@@ -2165,8 +2165,8 @@
     "_nbEquivalent": "fortsatt_adv",
     "_generatedFrom": "de-nb/generalbank.json:noch_adv, es-nb/generalbank.json:todavia_adv"
   },
-  "forvirret_adv": {
-    "word": "forvirret",
+  "forvirra_adv": {
+    "word": "forvirra",
     "type": "adv",
     "_enriched": false,
     "_nnSource": "auto-nb",
@@ -3656,8 +3656,8 @@
     "_nbEquivalent": "intetkjønn_pron",
     "_generatedFrom": "de-nb/pronounsbank.json:mein_possessiv, de-nb/pronounsbank.json:dein_possessiv, de-nb/pronounsbank.json:sein_possessiv, de-nb/pronounsbank.json:ihr_poss_possessiv, de-nb/pronounsbank.json:unser_possessiv, de-nb/pronounsbank.json:euer_possessiv"
   },
-  "irriterende_adv": {
-    "word": "irriterende",
+  "irriterande_adv": {
+    "word": "irriterande",
     "type": "adv",
     "_enriched": false,
     "_nnSource": "auto-nb",
@@ -4307,14 +4307,6 @@
     "_nbEquivalent": "lett_adv",
     "_generatedFrom": "de-nb/generalbank.json:leicht_general"
   },
-  "lignende_adv": {
-    "word": "lignende",
-    "type": "adv",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "lignende_adv",
-    "_generatedFrom": "de-nb/generalbank.json:aehnlich_general"
-  },
   "lika__som_phrase": {
     "word": "lika ... som",
     "type": "phrase",
@@ -4370,6 +4362,14 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "likevel_phrase",
     "_generatedFrom": "es-nb/generalbank.json:sin_embargo_phrase"
+  },
+  "liknande_adv": {
+    "word": "liknande",
+    "type": "adv",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "lignende_adv",
+    "_generatedFrom": "de-nb/generalbank.json:aehnlich_general"
   },
   "lite_adv": {
     "word": "lite",
@@ -5255,8 +5255,8 @@
     "_nbEquivalent": "og_stuttgart_adv",
     "_generatedFrom": "de-nb/generalbank.json:und_stuttgart_general"
   },
-  "og_ungdommer_adv": {
-    "word": "og ungdommer",
+  "og_ungdommar_adv": {
+    "word": "og ungdommar",
     "type": "adv",
     "_enriched": false,
     "_nnSource": "auto-nb",
@@ -5615,8 +5615,8 @@
     "_nbEquivalent": "praktisk_adv",
     "_generatedFrom": "de-nb/generalbank.json:praktisch_general"
   },
-  "presserende_adv": {
-    "word": "presserende",
+  "presserande_adv": {
+    "word": "presserande",
     "type": "adv",
     "_enriched": false,
     "_nnSource": "auto-nb",
@@ -5840,8 +5840,8 @@
     "_nbEquivalent": "rart_ut_adv",
     "_generatedFrom": "de-nb/generalbank.json:komisch_aus_general"
   },
-  "rasende_adv": {
-    "word": "rasende",
+  "rasande_adv": {
+    "word": "rasande",
     "type": "adv",
     "_enriched": false,
     "_nnSource": "auto-nb",
@@ -6224,8 +6224,8 @@
     "_nbEquivalent": "sju_num",
     "_generatedFrom": "de-nb/numbersbank.json:sieben_num, es-nb/numbersbank.json:siete_num"
   },
-  "sjuende_num": {
-    "word": "sjuende",
+  "sjuande_num": {
+    "word": "sjuande",
     "type": "num",
     "_enriched": false,
     "_nnSource": "auto-nb",
@@ -6389,8 +6389,8 @@
     "type": "adv",
     "_enriched": false,
     "_nnSource": "auto-nb",
-    "_nbEquivalent": "slik_adv",
-    "_generatedFrom": "de-nb/generalbank.json:so_adv, de-nb/generalbank.json:solch_general, es-nb/generalbank.json:asi_adv"
+    "_nbEquivalent": "sånn_adv",
+    "_generatedFrom": "es-nb/generalbank.json:asi_adv"
   },
   "slik_at_adv": {
     "word": "slik at",
@@ -6399,6 +6399,14 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "slik_at_adv",
     "_generatedFrom": "de-nb/generalbank.json:damit_general, de-nb/generalbank.json:sodass_general"
+  },
+  "slik_passe_phrase": {
+    "word": "slik passe",
+    "type": "phrase",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "sånn_passe_phrase",
+    "_generatedFrom": "es-nb/generalbank.json:mas_o_menos_phrase, es-nb/phrasesbank.json:mas_o_menos_phrase"
   },
   "smal_adv": {
     "word": "smal",
@@ -6496,8 +6504,8 @@
     "_nbEquivalent": "spania_propn",
     "_generatedFrom": "es-nb/generalbank.json:espana_propn"
   },
-  "spennende_adv": {
-    "word": "spennende",
+  "spennande_adv": {
+    "word": "spennande",
     "type": "adv",
     "_enriched": false,
     "_nnSource": "auto-nb",
@@ -6752,22 +6760,6 @@
     "_nbEquivalent": "såkalt_adv",
     "_generatedFrom": "de-nb/generalbank.json:sogenannt_general"
   },
-  "sånn_adv": {
-    "word": "sånn",
-    "type": "adv",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "sånn_adv",
-    "_generatedFrom": "es-nb/generalbank.json:asi_adv"
-  },
-  "sånn_passe_phrase": {
-    "word": "sånn passe",
-    "type": "phrase",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "sånn_passe_phrase",
-    "_generatedFrom": "es-nb/generalbank.json:mas_o_menos_phrase, es-nb/phrasesbank.json:mas_o_menos_phrase"
-  },
   "særleg_adv": {
     "word": "særleg",
     "type": "adv",
@@ -6856,8 +6848,8 @@
     "_nbEquivalent": "tidlig_adv",
     "_generatedFrom": "de-nb/generalbank.json:frueh_adv, es-nb/generalbank.json:temprano_adv"
   },
-  "tidligere_adv": {
-    "word": "tidligere",
+  "tidlegare_adv": {
+    "word": "tidlegare",
     "type": "adv",
     "_enriched": false,
     "_nnSource": "auto-nb",
@@ -7009,8 +7001,8 @@
     "_nbEquivalent": "tilbake_adv",
     "_generatedFrom": "de-nb/generalbank.json:zurueck_general"
   },
-  "tilfredsstillende_adv": {
-    "word": "tilfredsstillende",
+  "tilfredsstillande_adv": {
+    "word": "tilfredsstillande",
     "type": "adv",
     "_enriched": false,
     "_nnSource": "auto-nb",
@@ -7138,6 +7130,15 @@
     "_nbEquivalent": "tredje_rad_adv",
     "_generatedFrom": "de-nb/generalbank.json:dritten_reihe_general"
   },
+  "trettande_num": {
+    "word": "trettande",
+    "type": "num",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "trettende_num",
+    "usageNotes": "dativ",
+    "_generatedFrom": "de-nb/numbersbank.json:dreizehnten_num"
+  },
   "tretten_num": {
     "word": "tretten",
     "type": "num",
@@ -7145,15 +7146,6 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "tretten_num",
     "_generatedFrom": "de-nb/numbersbank.json:dreizehn_num, es-nb/numbersbank.json:trece_num"
-  },
-  "trettende_num": {
-    "word": "trettende",
-    "type": "num",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "trettende_num",
-    "usageNotes": "dativ",
-    "_generatedFrom": "de-nb/numbersbank.json:dreizehnten_num"
   },
   "tretti_num": {
     "word": "tretti",
@@ -7364,8 +7356,8 @@
     "_nbEquivalent": "ute_adv",
     "_generatedFrom": "de-nb/generalbank.json:draussen_adv, de-nb/generalbank.json:raus_adv, es-nb/generalbank.json:afuera_adv"
   },
-  "utelukkende_adv": {
-    "word": "utelukkende",
+  "utelukkande_adv": {
+    "word": "utelukkande",
     "type": "adv",
     "_enriched": false,
     "_nnSource": "auto-nb",
@@ -7380,8 +7372,8 @@
     "_nbEquivalent": "utenlandsk_adv",
     "_generatedFrom": "de-nb/generalbank.json:auslaendisch_general"
   },
-  "utmerket_adv": {
-    "word": "utmerket",
+  "utmerkt_adv": {
+    "word": "utmerkt",
     "type": "adv",
     "_enriched": false,
     "_nnSource": "auto-nb",
@@ -7412,8 +7404,8 @@
     "_nbEquivalent": "vanlig_adv",
     "_generatedFrom": "de-nb/generalbank.json:gewoehnlich_general, de-nb/generalbank.json:ueblich_general"
   },
-  "vanligvis_adv": {
-    "word": "vanligvis",
+  "vanlegvis_adv": {
+    "word": "vanlegvis",
     "type": "adv",
     "_enriched": false,
     "_nnSource": "auto-nb",
@@ -7732,16 +7724,16 @@
     "_nbEquivalent": "vi_sees_snart_phrase",
     "_generatedFrom": "es-nb/generalbank.json:hasta_pronto_phrase, es-nb/phrasesbank.json:hasta_pronto_phrase"
   },
-  "vi_snakkes_phrase": {
-    "word": "vi snakkes!",
+  "vi_snakkast_phrase": {
+    "word": "vi snakkast!",
     "type": "phrase",
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "vi_snakkes_phrase",
     "_generatedFrom": "de-nb/generalbank.json:bis_dann_phrase"
   },
-  "videre_adv": {
-    "word": "videre",
+  "vidare_adv": {
+    "word": "vidare",
     "type": "adv",
     "_enriched": false,
     "_nnSource": "auto-nb",

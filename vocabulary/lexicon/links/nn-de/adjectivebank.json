@@ -3,7 +3,7 @@
     "from": "nn",
     "to": "de",
     "bank": "adjectivebank",
-    "generatedAt": "2026-03-14T08:59:45.321Z",
+    "generatedAt": "2026-03-14T09:10:32.221Z",
     "totalLinks": 345
   },
   "absolutt_adj": {
@@ -71,7 +71,7 @@
       }
     ]
   },
-  "anstrengende_adj": {
+  "anstrengande_adj": {
     "primary": "anstrengend_adj",
     "examples": [
       {
@@ -152,7 +152,7 @@
       }
     ]
   },
-  "avslappet_adj": {
+  "avslappa_adj": {
     "primary": "entspannt_adj",
     "examples": [
       {
@@ -204,7 +204,7 @@
       }
     ]
   },
-  "beslektet_adj": {
+  "beslekta_adj": {
     "primary": "verwandt_adj",
     "examples": [
       {
@@ -325,7 +325,7 @@
       }
     ]
   },
-  "bred_adj": {
+  "brei_adj": {
     "primary": "breit_adj",
     "examples": [
       {
@@ -1676,7 +1676,7 @@
       }
     ]
   },
-  "irriterende_adj": {
+  "irriterande_adj": {
     "primary": "aergerlich_adj",
     "examples": [
       {
@@ -2093,19 +2093,6 @@
       }
     ]
   },
-  "lignende_adj": {
-    "primary": "aehnlich_adj",
-    "examples": [
-      {
-        "source": "Disse fargene er lignende.",
-        "target": "Diese Farben sind ähnlich."
-      },
-      {
-        "source": "Han ligner faren sin.",
-        "target": "Er sieht seinem Vater ähnlich."
-      }
-    ]
-  },
   "lik_adj": {
     "primary": "gleich_adj",
     "examples": [
@@ -2129,6 +2116,19 @@
       {
         "source": "Et likestilt samfunn.",
         "target": "Eine gleichberechtigte Gesellschaft."
+      }
+    ]
+  },
+  "liknande_adj": {
+    "primary": "aehnlich_adj",
+    "examples": [
+      {
+        "source": "Disse fargene er lignende.",
+        "target": "Diese Farben sind ähnlich."
+      },
+      {
+        "source": "Han ligner faren sin.",
+        "target": "Er sieht seinem Vater ähnlich."
       }
     ]
   },
@@ -2689,7 +2689,7 @@
       }
     ]
   },
-  "overrasket_adj": {
+  "overraska_adj": {
     "primary": "ueberrascht_adj",
     "examples": [
       {
@@ -2715,7 +2715,7 @@
       }
     ]
   },
-  "overskytende_adj": {
+  "overskytande_adj": {
     "primary": "uebrig_adj",
     "examples": [
       {
@@ -2890,7 +2890,7 @@
       }
     ]
   },
-  "rasende_adj": {
+  "rasande_adj": {
     "primary": "wuetend_adj",
     "examples": [
       {
@@ -3470,7 +3470,7 @@
       }
     ]
   },
-  "spennende_adj": {
+  "spennande_adj": {
     "primary": "spannend_adj",
     "examples": [
       {
@@ -3666,20 +3666,7 @@
       }
     ]
   },
-  "stressende_adj": {
-    "primary": "stressig_adj",
-    "examples": [
-      {
-        "source": "Arbeidet er stressende.",
-        "target": "Die Arbeit ist stressig."
-      },
-      {
-        "source": "En stressende dag.",
-        "target": "Ein stressiger Tag."
-      }
-    ]
-  },
-  "stresset_adj": {
+  "stressa_adj": {
     "primary": "gestresst_adj",
     "examples": [
       {
@@ -3689,6 +3676,19 @@
       {
         "source": "Hun virker stresset.",
         "target": "Sie wirkt gestresst."
+      }
+    ]
+  },
+  "stressande_adj": {
+    "primary": "stressig_adj",
+    "examples": [
+      {
+        "source": "Arbeidet er stressende.",
+        "target": "Die Arbeit ist stressig."
+      },
+      {
+        "source": "En stressende dag.",
+        "target": "Ein stressiger Tag."
       }
     ]
   },
@@ -3934,7 +3934,7 @@
       }
     ]
   },
-  "tidligere_adj": {
+  "tidlegare_adj": {
     "primary": "frueher_adj",
     "examples": [
       {
@@ -4284,7 +4284,7 @@
       }
     ]
   },
-  "utelukkende_adj": {
+  "utelukkande_adj": {
     "primary": "ausschliesslich_adj",
     "examples": [
       {
@@ -4502,7 +4502,7 @@
       }
     ]
   },
-  "videre_adj": {
+  "vidare_adj": {
     "primary": "weiter_adj",
     "examples": [
       {

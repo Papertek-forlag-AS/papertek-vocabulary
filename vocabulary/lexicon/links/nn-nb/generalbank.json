@@ -3,8 +3,8 @@
     "from": "nn",
     "to": "nb",
     "bank": "generalbank",
-    "generatedAt": "2026-03-14T08:59:45.314Z",
-    "totalLinks": 984
+    "generatedAt": "2026-03-14T09:10:32.214Z",
+    "totalLinks": 983
   },
   "absolutt_adv": {
     "primary": "absolutt_adv"
@@ -102,11 +102,11 @@
   "avhengig_adv": {
     "primary": "avhengig_adv"
   },
-  "avslappende_adv": {
-    "primary": "avslappende_adv"
-  },
-  "avslappet_adv": {
+  "avslappa_adv": {
     "primary": "avslappet_adv"
+  },
+  "avslappande_adv": {
+    "primary": "avslappende_adv"
   },
   "bak_prep": {
     "primary": "bak_prep"
@@ -120,13 +120,10 @@
   "barcelona_propn": {
     "primary": "barcelona_propn"
   },
-  "bedre_adv": {
-    "primary": "bedre_adv"
-  },
   "begge_adv": {
     "primary": "begge_adv"
   },
-  "begge_deler_adv": {
+  "begge_delar_adv": {
     "primary": "begge_deler_adv"
   },
   "begge_pron": {
@@ -156,8 +153,11 @@
   "berømt_adv": {
     "primary": "berømt_adv"
   },
-  "beslektet_adv": {
+  "beslekta_adv": {
     "primary": "beslektet_adv"
+  },
+  "betre_adv": {
+    "primary": "bedre_adv"
   },
   "billeg_adv": {
     "primary": "billig_adv"
@@ -189,7 +189,7 @@
   "bratt_adv": {
     "primary": "bratt_adv"
   },
-  "bred_adv": {
+  "brei_adv": {
     "primary": "bred_adv"
   },
   "brått_adv": {
@@ -354,13 +354,13 @@
   "det_hunkjønn_art": {
     "primary": "det_hunkjønn_art"
   },
-  "det_høres_bra_ut_phrase": {
+  "det_høyrest_bra_ut_phrase": {
     "primary": "det_høres_bra_ut_phrase"
   },
   "det_pron": {
     "primary": "det_pron"
   },
-  "det_regner_phrase": {
+  "det_regnar_phrase": {
     "primary": "det_regner_phrase"
   },
   "det_samme_adv": {
@@ -369,7 +369,7 @@
   "det_snør_phrase": {
     "primary": "det_snør_phrase"
   },
-  "det_trengs_phrase": {
+  "det_trengst_phrase": {
     "primary": "det_trengs_phrase"
   },
   "det_verkar_for_meg_som_phrase": {
@@ -546,6 +546,9 @@
       "man_pron"
     ]
   },
+  "einaste_adv": {
+    "primary": "eneste_adv"
+  },
   "eit_art": {
     "primary": "et_art"
   },
@@ -596,9 +599,6 @@
   },
   "endå_ikkje_phrase": {
     "primary": "enda_ikke_phrase"
-  },
-  "eneste_adv": {
-    "primary": "eneste_adv"
   },
   "engsteleg_adv": {
     "primary": "engstelig_adv"
@@ -819,7 +819,7 @@
   "fortsatt_adv": {
     "primary": "fortsatt_adv"
   },
-  "forvirret_adv": {
+  "forvirra_adv": {
     "primary": "forvirret_adv"
   },
   "framand_adv": {
@@ -1374,7 +1374,7 @@
   "intetkjønn_pron": {
     "primary": "intetkjønn_pron"
   },
-  "irriterende_adv": {
+  "irriterande_adv": {
     "primary": "irriterende_adv"
   },
   "italia_propn": {
@@ -1623,9 +1623,6 @@
   "lett_adv": {
     "primary": "lett_adv"
   },
-  "lignende_adv": {
-    "primary": "lignende_adv"
-  },
   "lika__som_phrase": {
     "primary": "like__som_phrase"
   },
@@ -1646,6 +1643,9 @@
   },
   "likevel_phrase": {
     "primary": "likevel_phrase"
+  },
+  "liknande_adv": {
+    "primary": "lignende_adv"
   },
   "lite_adv": {
     "primary": "lite_adv"
@@ -1977,7 +1977,7 @@
   "og_stuttgart_adv": {
     "primary": "og_stuttgart_adv"
   },
-  "og_ungdommer_adv": {
+  "og_ungdommar_adv": {
     "primary": "og_ungdommer_adv"
   },
   "ok_greit_phrase": {
@@ -2112,7 +2112,7 @@
   "praktisk_adv": {
     "primary": "praktisk_adv"
   },
-  "presserende_adv": {
+  "presserande_adv": {
     "primary": "presserende_adv"
   },
   "privat_adv": {
@@ -2196,7 +2196,7 @@
   "rart_ut_adv": {
     "primary": "rart_ut_adv"
   },
-  "rasende_adv": {
+  "rasande_adv": {
     "primary": "rasende_adv"
   },
   "raskt_adv": {
@@ -2340,7 +2340,7 @@
   "sju_num": {
     "primary": "sju_num"
   },
-  "sjuende_num": {
+  "sjuande_num": {
     "primary": "sjuende_num"
   },
   "sjuk_adv": {
@@ -2401,10 +2401,16 @@
     "primary": "slank_adv"
   },
   "slik_adv": {
-    "primary": "slik_adv"
+    "primary": "slik_adv",
+    "alternatives": [
+      "sånn_adv"
+    ]
   },
   "slik_at_adv": {
     "primary": "slik_at_adv"
+  },
+  "slik_passe_phrase": {
+    "primary": "sånn_passe_phrase"
   },
   "smal_adv": {
     "primary": "smal_adv"
@@ -2442,7 +2448,7 @@
   "spania_propn": {
     "primary": "spania_propn"
   },
-  "spennende_adv": {
+  "spennande_adv": {
     "primary": "spennende_adv"
   },
   "spesiell_adv": {
@@ -2538,12 +2544,6 @@
   "såkalt_adv": {
     "primary": "såkalt_adv"
   },
-  "sånn_adv": {
-    "primary": "sånn_adv"
-  },
-  "sånn_passe_phrase": {
-    "primary": "sånn_passe_phrase"
-  },
   "særleg_adv": {
     "primary": "særlig_adv"
   },
@@ -2577,7 +2577,7 @@
   "tidleg_adv": {
     "primary": "tidlig_adv"
   },
-  "tidligere_adv": {
+  "tidlegare_adv": {
     "primary": "tidligere_adv"
   },
   "til_banken_adv": {
@@ -2634,7 +2634,7 @@
   "tilbake_adv": {
     "primary": "tilbake_adv"
   },
-  "tilfredsstillende_adv": {
+  "tilfredsstillande_adv": {
     "primary": "tilfredsstillende_adv"
   },
   "tilgjengeleg_adv": {
@@ -2682,11 +2682,11 @@
   "tredje_rad_adv": {
     "primary": "tredje_rad_adv"
   },
+  "trettande_num": {
+    "primary": "trettende_num"
+  },
   "tretten_num": {
     "primary": "tretten_num"
-  },
-  "trettende_num": {
-    "primary": "trettende_num"
   },
   "tretti_num": {
     "primary": "tretti_num"
@@ -2766,13 +2766,13 @@
   "ute_adv": {
     "primary": "ute_adv"
   },
-  "utelukkende_adv": {
+  "utelukkande_adv": {
     "primary": "utelukkende_adv"
   },
   "utenlandsk_adv": {
     "primary": "utenlandsk_adv"
   },
-  "utmerket_adv": {
+  "utmerkt_adv": {
     "primary": "utmerket_adv"
   },
   "utroleg_adv": {
@@ -2784,7 +2784,7 @@
   "vanleg_adv": {
     "primary": "vanlig_adv"
   },
-  "vanligvis_adv": {
+  "vanlegvis_adv": {
     "primary": "vanligvis_adv"
   },
   "ved_at_adv": {
@@ -2904,10 +2904,10 @@
   "vi_sjåast_snart_phrase": {
     "primary": "vi_sees_snart_phrase"
   },
-  "vi_snakkes_phrase": {
+  "vi_snakkast_phrase": {
     "primary": "vi_snakkes_phrase"
   },
-  "videre_adv": {
+  "vidare_adv": {
     "primary": "videre_adv"
   },
   "vidunderleg_adv": {

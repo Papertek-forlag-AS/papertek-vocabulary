@@ -3,7 +3,7 @@
     "language": "nn",
     "languageName": "Norsk nynorsk",
     "bank": "adjectivebank",
-    "generatedAt": "2026-03-14T08:59:45.186Z",
+    "generatedAt": "2026-03-14T09:10:32.074Z",
     "description": "Norwegian Nynorsk adjectivebank — generated from Bokmål via NB→NN transformation",
     "totalEntries": 401,
     "enrichedEntries": 401,
@@ -183,28 +183,28 @@
     "_nbEquivalent": "annen_adj",
     "_generatedFrom": "es-nb/adjectivebank.json:otro_adj"
   },
-  "anstrengende_adj": {
-    "word": "anstrengende",
+  "anstrengande_adj": {
+    "word": "anstrengande",
     "type": "adj",
     "comparison": {
-      "positiv": "anstrengende",
-      "komparativ": "meir anstrengende",
-      "superlativ": "mest anstrengende"
+      "positiv": "anstrengande",
+      "komparativ": "meir anstrengande",
+      "superlativ": "mest anstrengande"
     },
     "declension": {
       "positiv": {
-        "maskulin": "anstrengende",
-        "feminin": "anstrengende",
-        "noytrum": "anstrengende",
-        "flertall": "anstrengende",
-        "bestemt": "anstrengende"
+        "maskulin": "anstrengande",
+        "feminin": "anstrengande",
+        "noytrum": "anstrengande",
+        "flertall": "anstrengande",
+        "bestemt": "anstrengande"
       },
       "komparativ": {
-        "alle": "meir anstrengende"
+        "alle": "meir anstrengande"
       },
       "superlativ": {
-        "ubestemt": "mest anstrengende",
-        "bestemt": "mest anstrengende"
+        "ubestemt": "mest anstrengande",
+        "bestemt": "mest anstrengande"
       }
     },
     "_enriched": true,
@@ -357,28 +357,28 @@
     "_nbEquivalent": "avhengig_adj",
     "_generatedFrom": "de-nb/adjectivebank.json:abhaengig_adj"
   },
-  "avslappet_adj": {
-    "word": "avslappet",
+  "avslappa_adj": {
+    "word": "avslappa",
     "type": "adj",
     "comparison": {
-      "positiv": "avslappet",
-      "komparativ": "meir avslappet",
-      "superlativ": "mest avslappet"
+      "positiv": "avslappa",
+      "komparativ": "meir avslappa",
+      "superlativ": "mest avslappa"
     },
     "declension": {
       "positiv": {
-        "maskulin": "avslappet",
-        "feminin": "avslappet",
-        "noytrum": "avslappet",
-        "flertall": "avslappete",
-        "bestemt": "avslappete"
+        "maskulin": "avslappa",
+        "feminin": "avslappa",
+        "noytrum": "avslappat",
+        "flertall": "avslappae",
+        "bestemt": "avslappae"
       },
       "komparativ": {
-        "alle": "meir avslappet"
+        "alle": "meir avslappa"
       },
       "superlativ": {
-        "ubestemt": "mest avslappet",
-        "bestemt": "mest avslappete"
+        "ubestemt": "mest avslappa",
+        "bestemt": "mest avslappae"
       }
     },
     "_enriched": true,
@@ -473,28 +473,28 @@
     "_nbEquivalent": "berømt_adj",
     "_generatedFrom": "de-nb/adjectivebank.json:beruehmt_adj"
   },
-  "beslektet_adj": {
-    "word": "beslektet",
+  "beslekta_adj": {
+    "word": "beslekta",
     "type": "adj",
     "comparison": {
-      "positiv": "beslektet",
-      "komparativ": "meir beslektet",
-      "superlativ": "mest beslektet"
+      "positiv": "beslekta",
+      "komparativ": "meir beslekta",
+      "superlativ": "mest beslekta"
     },
     "declension": {
       "positiv": {
-        "maskulin": "beslektet",
-        "feminin": "beslektet",
-        "noytrum": "beslektet",
-        "flertall": "beslektete",
-        "bestemt": "beslektete"
+        "maskulin": "beslekta",
+        "feminin": "beslekta",
+        "noytrum": "beslektat",
+        "flertall": "beslektae",
+        "bestemt": "beslektae"
       },
       "komparativ": {
-        "alle": "meir beslektet"
+        "alle": "meir beslekta"
       },
       "superlativ": {
-        "ubestemt": "mest beslektet",
-        "bestemt": "mest beslektete"
+        "ubestemt": "mest beslekta",
+        "bestemt": "mest beslektae"
       }
     },
     "_enriched": true,
@@ -734,28 +734,28 @@
     "_nbEquivalent": "bratt_adj",
     "_generatedFrom": "de-nb/adjectivebank.json:steil_adj"
   },
-  "bred_adj": {
-    "word": "bred",
+  "brei_adj": {
+    "word": "brei",
     "type": "adj",
     "comparison": {
-      "positiv": "bred",
-      "komparativ": "bredare",
-      "superlativ": "bredast"
+      "positiv": "brei",
+      "komparativ": "breiare",
+      "superlativ": "breiast"
     },
     "declension": {
       "positiv": {
-        "maskulin": "bred",
-        "feminin": "bred",
-        "noytrum": "bred",
-        "flertall": "brede",
-        "bestemt": "brede"
+        "maskulin": "brei",
+        "feminin": "brei",
+        "noytrum": "breit",
+        "flertall": "breie",
+        "bestemt": "breie"
       },
       "komparativ": {
-        "alle": "bredare"
+        "alle": "breiare"
       },
       "superlativ": {
-        "ubestemt": "bredast",
-        "bestemt": "bredaste"
+        "ubestemt": "breiast",
+        "bestemt": "breiaste"
       }
     },
     "_enriched": true,
@@ -1140,6 +1140,35 @@
     "_nbEquivalent": "døv_adj",
     "_generatedFrom": "de-nb/adjectivebank.json:taub_adj"
   },
+  "einaste_unik_adj": {
+    "word": "einaste, unik",
+    "type": "adj",
+    "comparison": {
+      "positiv": "einaste, unik",
+      "komparativ": "meir einaste, unik",
+      "superlativ": "mest einaste, unik"
+    },
+    "declension": {
+      "positiv": {
+        "maskulin": "einaste, unik",
+        "feminin": "einaste, unik",
+        "noytrum": "einaste, unikt",
+        "flertall": "einaste, unike",
+        "bestemt": "einaste, unike"
+      },
+      "komparativ": {
+        "alle": "meir einaste, unik"
+      },
+      "superlativ": {
+        "ubestemt": "mest einaste, unik",
+        "bestemt": "mest einaste, unike"
+      }
+    },
+    "_enriched": true,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "eneste_unik_adj",
+    "_generatedFrom": "es-nb/adjectivebank.json:unico_adj"
+  },
   "ekstra_adj": {
     "word": "ekstra",
     "type": "adj",
@@ -1342,35 +1371,6 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "elektronisk_adj",
     "_generatedFrom": "de-nb/adjectivebank.json:elektronisch_adj"
-  },
-  "eneste_unik_adj": {
-    "word": "eneste, unik",
-    "type": "adj",
-    "comparison": {
-      "positiv": "eneste, unik",
-      "komparativ": "meir eneste, unik",
-      "superlativ": "mest eneste, unik"
-    },
-    "declension": {
-      "positiv": {
-        "maskulin": "eneste, unik",
-        "feminin": "eneste, unik",
-        "noytrum": "eneste, unikt",
-        "flertall": "eneste, unike",
-        "bestemt": "eneste, unike"
-      },
-      "komparativ": {
-        "alle": "meir eneste, unik"
-      },
-      "superlativ": {
-        "ubestemt": "mest eneste, unik",
-        "bestemt": "mest eneste, unike"
-      }
-    },
-    "_enriched": true,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "eneste_unik_adj",
-    "_generatedFrom": "es-nb/adjectivebank.json:unico_adj"
   },
   "engsteleg_adj": {
     "word": "engsteleg",
@@ -2097,35 +2097,6 @@
     "_nbEquivalent": "flott_adj",
     "_generatedFrom": "de-nb/adjectivebank.json:toll_adj"
   },
-  "forberedt_adj": {
-    "word": "forberedt",
-    "type": "adj",
-    "comparison": {
-      "positiv": "forberedt",
-      "komparativ": "meir forberedt",
-      "superlativ": "mest forberedt"
-    },
-    "declension": {
-      "positiv": {
-        "maskulin": "forberedt",
-        "feminin": "forberedt",
-        "noytrum": "forberedt",
-        "flertall": "forberedte",
-        "bestemt": "forberedte"
-      },
-      "komparativ": {
-        "alle": "meir forberedt"
-      },
-      "superlativ": {
-        "ubestemt": "mest forberedt",
-        "bestemt": "mest forberedte"
-      }
-    },
-    "_enriched": true,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "forberedt_adj",
-    "_generatedFrom": "es-nb/adjectivebank.json:preparado_adj"
-  },
   "foreløpig_adj": {
     "word": "foreløpig",
     "type": "adj",
@@ -2328,35 +2299,6 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "fornøyd_glad_adj",
     "_generatedFrom": "es-nb/adjectivebank.json:contento_adj"
-  },
-  "forrige_adj": {
-    "word": "forrige",
-    "type": "adj",
-    "comparison": {
-      "positiv": "forrige",
-      "komparativ": "forrigere",
-      "superlativ": "forrigst"
-    },
-    "declension": {
-      "positiv": {
-        "maskulin": "forrige",
-        "feminin": "forrige",
-        "noytrum": "forrige",
-        "flertall": "forrige",
-        "bestemt": "forrige"
-      },
-      "komparativ": {
-        "alle": "forrigere"
-      },
-      "superlativ": {
-        "ubestemt": "forrigst",
-        "bestemt": "forrigste"
-      }
-    },
-    "_enriched": true,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "forrige_adj",
-    "_generatedFrom": "es-nb/adjectivebank.json:anterior_adj"
   },
   "forsiktig_adj": {
     "word": "forsiktig",
@@ -2821,6 +2763,64 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "full_adj",
     "_generatedFrom": "de-nb/adjectivebank.json:voll_adj, es-nb/adjectivebank.json:lleno_adj"
+  },
+  "førebudd_adj": {
+    "word": "førebudd",
+    "type": "adj",
+    "comparison": {
+      "positiv": "førebudd",
+      "komparativ": "meir førebudd",
+      "superlativ": "mest førebudd"
+    },
+    "declension": {
+      "positiv": {
+        "maskulin": "førebudd",
+        "feminin": "førebudd",
+        "noytrum": "førebudd",
+        "flertall": "førebudde",
+        "bestemt": "førebudde"
+      },
+      "komparativ": {
+        "alle": "meir førebudd"
+      },
+      "superlativ": {
+        "ubestemt": "mest førebudd",
+        "bestemt": "mest førebudde"
+      }
+    },
+    "_enriched": true,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "forberedt_adj",
+    "_generatedFrom": "es-nb/adjectivebank.json:preparado_adj"
+  },
+  "førre_adj": {
+    "word": "førre",
+    "type": "adj",
+    "comparison": {
+      "positiv": "førre",
+      "komparativ": "førrere",
+      "superlativ": "førrst"
+    },
+    "declension": {
+      "positiv": {
+        "maskulin": "førre",
+        "feminin": "førre",
+        "noytrum": "førre",
+        "flertall": "førre",
+        "bestemt": "førre"
+      },
+      "komparativ": {
+        "alle": "førrere"
+      },
+      "superlativ": {
+        "ubestemt": "førrst",
+        "bestemt": "førrste"
+      }
+    },
+    "_enriched": true,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "forrige_adj",
+    "_generatedFrom": "es-nb/adjectivebank.json:anterior_adj"
   },
   "første_adj": {
     "word": "første",
@@ -3547,28 +3547,28 @@
     "_nbEquivalent": "hard_adj",
     "_generatedFrom": "de-nb/adjectivebank.json:hart_adj, es-nb/adjectivebank.json:duro_adj"
   },
-  "hardtarbeidende_adj": {
-    "word": "hardtarbeidende",
+  "hardtarbeidande_adj": {
+    "word": "hardtarbeidande",
     "type": "adj",
     "comparison": {
-      "positiv": "hardtarbeidende",
-      "komparativ": "meir hardtarbeidende",
-      "superlativ": "mest hardtarbeidende"
+      "positiv": "hardtarbeidande",
+      "komparativ": "meir hardtarbeidande",
+      "superlativ": "mest hardtarbeidande"
     },
     "declension": {
       "positiv": {
-        "maskulin": "hardtarbeidende",
-        "feminin": "hardtarbeidende",
-        "noytrum": "hardtarbeidende",
-        "flertall": "hardtarbeidende",
-        "bestemt": "hardtarbeidende"
+        "maskulin": "hardtarbeidande",
+        "feminin": "hardtarbeidande",
+        "noytrum": "hardtarbeidande",
+        "flertall": "hardtarbeidande",
+        "bestemt": "hardtarbeidande"
       },
       "komparativ": {
-        "alle": "meir hardtarbeidende"
+        "alle": "meir hardtarbeidande"
       },
       "superlativ": {
-        "ubestemt": "mest hardtarbeidende",
-        "bestemt": "mest hardtarbeidende"
+        "ubestemt": "mest hardtarbeidande",
+        "bestemt": "mest hardtarbeidande"
       }
     },
     "_enriched": true,
@@ -4156,28 +4156,28 @@
     "_nbEquivalent": "internasjonal_adj",
     "_generatedFrom": "de-nb/adjectivebank.json:international_adj, es-nb/adjectivebank.json:internacional_adj"
   },
-  "irriterende_adj": {
-    "word": "irriterende",
+  "irriterande_adj": {
+    "word": "irriterande",
     "type": "adj",
     "comparison": {
-      "positiv": "irriterende",
-      "komparativ": "meir irriterende",
-      "superlativ": "mest irriterende"
+      "positiv": "irriterande",
+      "komparativ": "meir irriterande",
+      "superlativ": "mest irriterande"
     },
     "declension": {
       "positiv": {
-        "maskulin": "irriterende",
-        "feminin": "irriterende",
-        "noytrum": "irriterende",
-        "flertall": "irriterende",
-        "bestemt": "irriterende"
+        "maskulin": "irriterande",
+        "feminin": "irriterande",
+        "noytrum": "irriterande",
+        "flertall": "irriterande",
+        "bestemt": "irriterande"
       },
       "komparativ": {
-        "alle": "meir irriterende"
+        "alle": "meir irriterande"
       },
       "superlativ": {
-        "ubestemt": "mest irriterende",
-        "bestemt": "mest irriterende"
+        "ubestemt": "mest irriterande",
+        "bestemt": "mest irriterande"
       }
     },
     "_enriched": true,
@@ -5171,35 +5171,6 @@
     "_nbEquivalent": "lett_enkel_adj",
     "_generatedFrom": "es-nb/adjectivebank.json:facil_adj"
   },
-  "lignende_adj": {
-    "word": "lignende",
-    "type": "adj",
-    "comparison": {
-      "positiv": "lignende",
-      "komparativ": "meir lignende",
-      "superlativ": "mest lignende"
-    },
-    "declension": {
-      "positiv": {
-        "maskulin": "lignende",
-        "feminin": "lignende",
-        "noytrum": "lignende",
-        "flertall": "lignende",
-        "bestemt": "lignende"
-      },
-      "komparativ": {
-        "alle": "meir lignende"
-      },
-      "superlativ": {
-        "ubestemt": "mest lignende",
-        "bestemt": "mest lignende"
-      }
-    },
-    "_enriched": true,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "lignende_adj",
-    "_generatedFrom": "de-nb/adjectivebank.json:aehnlich_adj"
-  },
   "lik_adj": {
     "word": "lik",
     "type": "adj",
@@ -5257,6 +5228,35 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "likestilt_adj",
     "_generatedFrom": "de-nb/adjectivebank.json:gleichberechtigt_adj"
+  },
+  "liknande_adj": {
+    "word": "liknande",
+    "type": "adj",
+    "comparison": {
+      "positiv": "liknande",
+      "komparativ": "meir liknande",
+      "superlativ": "mest liknande"
+    },
+    "declension": {
+      "positiv": {
+        "maskulin": "liknande",
+        "feminin": "liknande",
+        "noytrum": "liknande",
+        "flertall": "liknande",
+        "bestemt": "liknande"
+      },
+      "komparativ": {
+        "alle": "meir liknande"
+      },
+      "superlativ": {
+        "ubestemt": "mest liknande",
+        "bestemt": "mest liknande"
+      }
+    },
+    "_enriched": true,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "lignende_adj",
+    "_generatedFrom": "de-nb/adjectivebank.json:aehnlich_adj"
   },
   "lilla_adj": {
     "word": "lilla",
@@ -6679,28 +6679,28 @@
     "_nbEquivalent": "oransje_adj",
     "_generatedFrom": "de-nb/adjectivebank.json:orange_adj"
   },
-  "overrasket_adj": {
-    "word": "overrasket",
+  "overraska_adj": {
+    "word": "overraska",
     "type": "adj",
     "comparison": {
-      "positiv": "overrasket",
-      "komparativ": "meir overrasket",
-      "superlativ": "mest overrasket"
+      "positiv": "overraska",
+      "komparativ": "meir overraska",
+      "superlativ": "mest overraska"
     },
     "declension": {
       "positiv": {
-        "maskulin": "overrasket",
-        "feminin": "overrasket",
-        "noytrum": "overrasket",
-        "flertall": "overraskete",
-        "bestemt": "overraskete"
+        "maskulin": "overraska",
+        "feminin": "overraska",
+        "noytrum": "overraskat",
+        "flertall": "overraskae",
+        "bestemt": "overraskae"
       },
       "komparativ": {
-        "alle": "meir overrasket"
+        "alle": "meir overraska"
       },
       "superlativ": {
-        "ubestemt": "mest overrasket",
-        "bestemt": "mest overraskete"
+        "ubestemt": "mest overraska",
+        "bestemt": "mest overraskae"
       }
     },
     "_enriched": true,
@@ -6737,28 +6737,28 @@
     "_nbEquivalent": "overskyet_adj",
     "_generatedFrom": "de-nb/adjectivebank.json:bewoelkt_adj, es-nb/adjectivebank.json:nublado_adj"
   },
-  "overskytende_adj": {
-    "word": "overskytende",
+  "overskytande_adj": {
+    "word": "overskytande",
     "type": "adj",
     "comparison": {
-      "positiv": "overskytende",
-      "komparativ": "meir overskytende",
-      "superlativ": "mest overskytende"
+      "positiv": "overskytande",
+      "komparativ": "meir overskytande",
+      "superlativ": "mest overskytande"
     },
     "declension": {
       "positiv": {
-        "maskulin": "overskytende",
-        "feminin": "overskytende",
-        "noytrum": "overskytende",
-        "flertall": "overskytende",
-        "bestemt": "overskytende"
+        "maskulin": "overskytande",
+        "feminin": "overskytande",
+        "noytrum": "overskytande",
+        "flertall": "overskytande",
+        "bestemt": "overskytande"
       },
       "komparativ": {
-        "alle": "meir overskytende"
+        "alle": "meir overskytande"
       },
       "superlativ": {
-        "ubestemt": "mest overskytende",
-        "bestemt": "mest overskytende"
+        "ubestemt": "mest overskytande",
+        "bestemt": "mest overskytande"
       }
     },
     "_enriched": true,
@@ -7172,28 +7172,28 @@
     "_nbEquivalent": "pålitelig_adj",
     "_generatedFrom": "de-nb/adjectivebank.json:zuverlaessig_adj"
   },
-  "rasende_adj": {
-    "word": "rasende",
+  "rasande_adj": {
+    "word": "rasande",
     "type": "adj",
     "comparison": {
-      "positiv": "rasende",
-      "komparativ": "rasendere",
-      "superlativ": "rasendst"
+      "positiv": "rasande",
+      "komparativ": "rasandere",
+      "superlativ": "rasandst"
     },
     "declension": {
       "positiv": {
-        "maskulin": "rasende",
-        "feminin": "rasende",
-        "noytrum": "rasende",
-        "flertall": "rasende",
-        "bestemt": "rasende"
+        "maskulin": "rasande",
+        "feminin": "rasande",
+        "noytrum": "rasande",
+        "flertall": "rasande",
+        "bestemt": "rasande"
       },
       "komparativ": {
-        "alle": "rasendere"
+        "alle": "rasandere"
       },
       "superlativ": {
-        "ubestemt": "rasendst",
-        "bestemt": "rasendste"
+        "ubestemt": "rasandst",
+        "bestemt": "rasandste"
       }
     },
     "_enriched": true,
@@ -8361,28 +8361,28 @@
     "_nbEquivalent": "skarp_adj",
     "_generatedFrom": "de-nb/adjectivebank.json:scharf_adj"
   },
-  "skinnende_strålende_adj": {
-    "word": "skinnende, strålende",
+  "skinnande_strålande_adj": {
+    "word": "skinnande, strålande",
     "type": "adj",
     "comparison": {
-      "positiv": "skinnende, strålende",
-      "komparativ": "meir skinnende, strålende",
-      "superlativ": "mest skinnende, strålende"
+      "positiv": "skinnande, strålande",
+      "komparativ": "meir skinnande, strålande",
+      "superlativ": "mest skinnande, strålande"
     },
     "declension": {
       "positiv": {
-        "maskulin": "skinnende, strålende",
-        "feminin": "skinnende, strålende",
-        "noytrum": "skinnende, strålende",
-        "flertall": "skinnende, strålende",
-        "bestemt": "skinnende, strålende"
+        "maskulin": "skinnande, strålande",
+        "feminin": "skinnande, strålande",
+        "noytrum": "skinnande, strålande",
+        "flertall": "skinnande, strålande",
+        "bestemt": "skinnande, strålande"
       },
       "komparativ": {
-        "alle": "meir skinnende, strålende"
+        "alle": "meir skinnande, strålande"
       },
       "superlativ": {
-        "ubestemt": "mest skinnende, strålende",
-        "bestemt": "mest skinnende, strålende"
+        "ubestemt": "mest skinnande, strålande",
+        "bestemt": "mest skinnande, strålande"
       }
     },
     "_enriched": true,
@@ -8738,28 +8738,28 @@
     "_nbEquivalent": "sosial_adj",
     "_generatedFrom": "de-nb/adjectivebank.json:sozial_adj"
   },
-  "spennende_adj": {
-    "word": "spennende",
+  "spennande_adj": {
+    "word": "spennande",
     "type": "adj",
     "comparison": {
-      "positiv": "spennende",
-      "komparativ": "meir spennende",
-      "superlativ": "mest spennende"
+      "positiv": "spennande",
+      "komparativ": "meir spennande",
+      "superlativ": "mest spennande"
     },
     "declension": {
       "positiv": {
-        "maskulin": "spennende",
-        "feminin": "spennende",
-        "noytrum": "spennende",
-        "flertall": "spennende",
-        "bestemt": "spennende"
+        "maskulin": "spennande",
+        "feminin": "spennande",
+        "noytrum": "spennande",
+        "flertall": "spennande",
+        "bestemt": "spennande"
       },
       "komparativ": {
-        "alle": "meir spennende"
+        "alle": "meir spennande"
       },
       "superlativ": {
-        "ubestemt": "mest spennende",
-        "bestemt": "mest spennende"
+        "ubestemt": "mest spennande",
+        "bestemt": "mest spennande"
       }
     },
     "_enriched": true,
@@ -9173,63 +9173,63 @@
     "_nbEquivalent": "streng_adj",
     "_generatedFrom": "de-nb/adjectivebank.json:streng_adj"
   },
-  "stressende_adj": {
-    "word": "stressende",
+  "stressa_adj": {
+    "word": "stressa",
     "type": "adj",
     "comparison": {
-      "positiv": "stressende",
-      "komparativ": "meir stressende",
-      "superlativ": "mest stressende"
+      "positiv": "stressa",
+      "komparativ": "stressaare",
+      "superlativ": "stressaast"
     },
     "declension": {
       "positiv": {
-        "maskulin": "stressende",
-        "feminin": "stressende",
-        "noytrum": "stressende",
-        "flertall": "stressende",
-        "bestemt": "stressende"
+        "maskulin": "stressa",
+        "feminin": "stressa",
+        "noytrum": "stressat",
+        "flertall": "stressae",
+        "bestemt": "stressae"
       },
       "komparativ": {
-        "alle": "meir stressende"
+        "alle": "stressaare"
       },
       "superlativ": {
-        "ubestemt": "mest stressende",
-        "bestemt": "mest stressende"
-      }
-    },
-    "_enriched": true,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "stressende_adj",
-    "_generatedFrom": "de-nb/adjectivebank.json:stressig_adj"
-  },
-  "stresset_adj": {
-    "word": "stresset",
-    "type": "adj",
-    "comparison": {
-      "positiv": "stresset",
-      "komparativ": "meir stresset",
-      "superlativ": "mest stresset"
-    },
-    "declension": {
-      "positiv": {
-        "maskulin": "stresset",
-        "feminin": "stresset",
-        "noytrum": "stresset",
-        "flertall": "stressete",
-        "bestemt": "stressete"
-      },
-      "komparativ": {
-        "alle": "meir stresset"
-      },
-      "superlativ": {
-        "ubestemt": "mest stresset",
-        "bestemt": "mest stressete"
+        "ubestemt": "stressaast",
+        "bestemt": "stressaaste"
       }
     },
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "stresset_adj",
     "_generatedFrom": "de-nb/adjectivebank.json:gestresst_adj"
+  },
+  "stressande_adj": {
+    "word": "stressande",
+    "type": "adj",
+    "comparison": {
+      "positiv": "stressande",
+      "komparativ": "meir stressande",
+      "superlativ": "mest stressande"
+    },
+    "declension": {
+      "positiv": {
+        "maskulin": "stressande",
+        "feminin": "stressande",
+        "noytrum": "stressande",
+        "flertall": "stressande",
+        "bestemt": "stressande"
+      },
+      "komparativ": {
+        "alle": "meir stressande"
+      },
+      "superlativ": {
+        "ubestemt": "mest stressande",
+        "bestemt": "mest stressande"
+      }
+    },
+    "_enriched": true,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "stressende_adj",
+    "_generatedFrom": "de-nb/adjectivebank.json:stressig_adj"
   },
   "stum_adj": {
     "word": "stum",
@@ -9753,28 +9753,28 @@
     "_nbEquivalent": "tidlig_adj",
     "_generatedFrom": "de-nb/adjectivebank.json:frueh_adj"
   },
-  "tidligere_adj": {
-    "word": "tidligere",
+  "tidlegare_adj": {
+    "word": "tidlegare",
     "type": "adj",
     "comparison": {
-      "positiv": "tidligere",
-      "komparativ": "meir tidligere",
-      "superlativ": "mest tidligere"
+      "positiv": "tidlegare",
+      "komparativ": "meir tidlegare",
+      "superlativ": "mest tidlegare"
     },
     "declension": {
       "positiv": {
-        "maskulin": "tidligere",
-        "feminin": "tidligere",
-        "noytrum": "tidligere",
-        "flertall": "tidligere",
-        "bestemt": "tidligere"
+        "maskulin": "tidlegare",
+        "feminin": "tidlegare",
+        "noytrum": "tidlegare",
+        "flertall": "tidlegare",
+        "bestemt": "tidlegare"
       },
       "komparativ": {
-        "alle": "meir tidligere"
+        "alle": "meir tidlegare"
       },
       "superlativ": {
-        "ubestemt": "mest tidligere",
-        "bestemt": "mest tidligere"
+        "ubestemt": "mest tidlegare",
+        "bestemt": "mest tidlegare"
       }
     },
     "_enriched": true,
@@ -10710,28 +10710,28 @@
     "_nbEquivalent": "usympatisk_adj",
     "_generatedFrom": "es-nb/adjectivebank.json:antipatico_adj"
   },
-  "utelukkende_adj": {
-    "word": "utelukkende",
+  "utelukkande_adj": {
+    "word": "utelukkande",
     "type": "adj",
     "comparison": {
-      "positiv": "utelukkende",
-      "komparativ": "meir utelukkende",
-      "superlativ": "mest utelukkende"
+      "positiv": "utelukkande",
+      "komparativ": "meir utelukkande",
+      "superlativ": "mest utelukkande"
     },
     "declension": {
       "positiv": {
-        "maskulin": "utelukkende",
-        "feminin": "utelukkende",
-        "noytrum": "utelukkende",
-        "flertall": "utelukkende",
-        "bestemt": "utelukkende"
+        "maskulin": "utelukkande",
+        "feminin": "utelukkande",
+        "noytrum": "utelukkande",
+        "flertall": "utelukkande",
+        "bestemt": "utelukkande"
       },
       "komparativ": {
-        "alle": "meir utelukkende"
+        "alle": "meir utelukkande"
       },
       "superlativ": {
-        "ubestemt": "mest utelukkende",
-        "bestemt": "mest utelukkende"
+        "ubestemt": "mest utelukkande",
+        "bestemt": "mest utelukkande"
       }
     },
     "_enriched": true,
@@ -11174,28 +11174,28 @@
     "_nbEquivalent": "virkelig_adj",
     "_generatedFrom": "de-nb/adjectivebank.json:wirklich_adj"
   },
-  "videre_adj": {
-    "word": "videre",
+  "vidare_adj": {
+    "word": "vidare",
     "type": "adj",
     "comparison": {
-      "positiv": "videre",
-      "komparativ": "viderere",
-      "superlativ": "viderst"
+      "positiv": "vidare",
+      "komparativ": "vidarere",
+      "superlativ": "vidarst"
     },
     "declension": {
       "positiv": {
-        "maskulin": "videre",
-        "feminin": "videre",
-        "noytrum": "videre",
-        "flertall": "videre",
-        "bestemt": "videre"
+        "maskulin": "vidare",
+        "feminin": "vidare",
+        "noytrum": "vidare",
+        "flertall": "vidare",
+        "bestemt": "vidare"
       },
       "komparativ": {
-        "alle": "viderere"
+        "alle": "vidarere"
       },
       "superlativ": {
-        "ubestemt": "viderst",
-        "bestemt": "viderste"
+        "ubestemt": "vidarst",
+        "bestemt": "vidarste"
       }
     },
     "_enriched": true,
