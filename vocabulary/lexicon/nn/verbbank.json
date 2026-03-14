@@ -3,7 +3,7 @@
     "language": "nn",
     "languageName": "Norsk nynorsk",
     "bank": "verbbank",
-    "generatedAt": "2026-03-14T00:33:51.123Z",
+    "generatedAt": "2026-03-14T00:51:16.969Z",
     "description": "Norwegian Nynorsk verbbank — generated from Bokmål via NB→NN transformation",
     "totalEntries": 663,
     "enrichedEntries": 648,
@@ -173,16 +173,16 @@
   "ankomma_verb": {
     "word": "ankomma",
     "type": "verb",
-    "verbClass": "svak",
+    "verbClass": "sterk",
     "auxiliary": "har",
     "conjugations": {
       "presens": {
         "former": {
           "infinitiv": "å ankomma",
-          "presens": "ankommar",
-          "preteritum": "ankomma",
-          "perfektum_partisipp": "ankomma",
-          "imperativ": "ankomm"
+          "presens": "ankjem",
+          "preteritum": "ankom",
+          "perfektum_partisipp": "ankome",
+          "imperativ": "ankom"
         },
         "auxiliary": "har",
         "feature": "grammar_nn_presens"
@@ -219,16 +219,16 @@
   "ansetta_verb": {
     "word": "ansetta",
     "type": "verb",
-    "verbClass": "svak",
+    "verbClass": "uregelmessig",
     "auxiliary": "har",
     "conjugations": {
       "presens": {
         "former": {
           "infinitiv": "å ansetta",
-          "presens": "ansettar",
-          "preteritum": "ansetta",
-          "perfektum_partisipp": "ansetta",
-          "imperativ": "ansett"
+          "presens": "anset",
+          "preteritum": "ansette",
+          "perfektum_partisipp": "ansett",
+          "imperativ": "anset"
         },
         "auxiliary": "har",
         "feature": "grammar_nn_presens"
@@ -679,16 +679,16 @@
   "be_om_verb": {
     "word": "be om",
     "type": "verb",
-    "verbClass": "svak",
+    "verbClass": "sterk",
     "auxiliary": "har",
     "conjugations": {
       "presens": {
         "former": {
           "infinitiv": "å be om",
-          "presens": "ber om",
-          "preteritum": "bte om",
-          "perfektum_partisipp": "bt",
-          "imperativ": "b om"
+          "presens": "bed om",
+          "preteritum": "bad om",
+          "perfektum_partisipp": "bede",
+          "imperativ": "be om"
         },
         "auxiliary": "har",
         "feature": "grammar_nn_presens"
@@ -802,16 +802,16 @@
   "beholde_verb": {
     "word": "beholde",
     "type": "verb",
-    "verbClass": "svak",
+    "verbClass": "sterk",
     "auxiliary": "har",
     "conjugations": {
       "presens": {
         "former": {
           "infinitiv": "å beholde",
-          "presens": "beholder",
-          "preteritum": "beholdte",
-          "perfektum_partisipp": "beholdt",
-          "imperativ": "behold"
+          "presens": "beheld",
+          "preteritum": "beheldt",
+          "perfektum_partisipp": "behalde",
+          "imperativ": "behald"
         },
         "auxiliary": "har",
         "feature": "grammar_nn_presens"
@@ -940,15 +940,15 @@
   "beskrive_verb": {
     "word": "beskrive",
     "type": "verb",
-    "verbClass": "svak",
+    "verbClass": "sterk",
     "auxiliary": "har",
     "conjugations": {
       "presens": {
         "former": {
           "infinitiv": "å beskrive",
-          "presens": "beskriver",
-          "preteritum": "beskrivte",
-          "perfektum_partisipp": "beskrivt",
+          "presens": "beskriv",
+          "preteritum": "beskreiv",
+          "perfektum_partisipp": "beskrive",
           "imperativ": "beskriv"
         },
         "auxiliary": "har",
@@ -1259,18 +1259,18 @@
     "_nbEquivalent": "bevise_verb",
     "_generatedFrom": "de-nb/verbbank.json:beweisen_verb"
   },
-  "bite_verb": {
-    "word": "bite",
+  "bita_verb": {
+    "word": "bita",
     "type": "verb",
-    "verbClass": "svak",
+    "verbClass": "sterk",
     "auxiliary": "har",
     "conjugations": {
       "presens": {
         "former": {
-          "infinitiv": "å bite",
-          "presens": "biter",
-          "preteritum": "bitte",
-          "perfektum_partisipp": "bitt",
+          "infinitiv": "å bita",
+          "presens": "bit",
+          "preteritum": "beit",
+          "perfektum_partisipp": "bite",
           "imperativ": "bit"
         },
         "auxiliary": "har",
@@ -1584,15 +1584,15 @@
   "brenna_seg_verb": {
     "word": "brenna seg",
     "type": "verb",
-    "verbClass": "svak",
+    "verbClass": "sterk",
     "auxiliary": "har",
     "conjugations": {
       "presens": {
         "former": {
           "infinitiv": "å brenna seg",
-          "presens": "brennar seg",
-          "preteritum": "brenna seg",
-          "perfektum_partisipp": "brenna",
+          "presens": "brenn seg",
+          "preteritum": "brann seg",
+          "perfektum_partisipp": "brunne",
           "imperativ": "brenn seg"
         },
         "auxiliary": "har",
@@ -1607,15 +1607,15 @@
   "brenna_verb": {
     "word": "brenna",
     "type": "verb",
-    "verbClass": "svak",
+    "verbClass": "sterk",
     "auxiliary": "har",
     "conjugations": {
       "presens": {
         "former": {
           "infinitiv": "å brenna",
-          "presens": "brennar",
-          "preteritum": "brenna",
-          "perfektum_partisipp": "brenna",
+          "presens": "brenn",
+          "preteritum": "brann",
+          "perfektum_partisipp": "brunne",
           "imperativ": "brenn"
         },
         "auxiliary": "har",
@@ -2675,16 +2675,16 @@
   "fastsetta_verb": {
     "word": "fastsetta",
     "type": "verb",
-    "verbClass": "svak",
+    "verbClass": "uregelmessig",
     "auxiliary": "har",
     "conjugations": {
       "presens": {
         "former": {
           "infinitiv": "å fastsetta",
-          "presens": "fastsettar",
-          "preteritum": "fastsetta",
-          "perfektum_partisipp": "fastsetta",
-          "imperativ": "fastsett"
+          "presens": "fastset",
+          "preteritum": "fastsette",
+          "perfektum_partisipp": "fastsett",
+          "imperativ": "fastset"
         },
         "auxiliary": "har",
         "feature": "grammar_nn_presens"
@@ -3190,16 +3190,16 @@
   "forekomma_verb": {
     "word": "forekomma",
     "type": "verb",
-    "verbClass": "svak",
+    "verbClass": "sterk",
     "auxiliary": "har",
     "conjugations": {
       "presens": {
         "former": {
           "infinitiv": "å forekomma",
-          "presens": "forekommar",
-          "preteritum": "forekomma",
-          "perfektum_partisipp": "forekomma",
-          "imperativ": "forekomm"
+          "presens": "førekjem",
+          "preteritum": "førekom",
+          "perfektum_partisipp": "førekome",
+          "imperativ": "førekom"
         },
         "auxiliary": "har",
         "feature": "grammar_nn_presens"
@@ -3259,16 +3259,16 @@
   "foreta_verb": {
     "word": "foreta",
     "type": "verb",
-    "verbClass": "svak",
+    "verbClass": "sterk",
     "auxiliary": "har",
     "conjugations": {
       "presens": {
         "former": {
           "infinitiv": "å foreta",
-          "presens": "foretar",
-          "preteritum": "foreta",
-          "perfektum_partisipp": "foreta",
-          "imperativ": "foret"
+          "presens": "føretek",
+          "preteritum": "føretok",
+          "perfektum_partisipp": "føreteke",
+          "imperativ": "føreta"
         },
         "auxiliary": "har",
         "feature": "grammar_nn_presens"
@@ -3282,16 +3282,16 @@
   "foretrekka_verb": {
     "word": "foretrekka",
     "type": "verb",
-    "verbClass": "svak",
+    "verbClass": "sterk",
     "auxiliary": "har",
     "conjugations": {
       "presens": {
         "former": {
           "infinitiv": "å foretrekka",
-          "presens": "foretrekkar",
-          "preteritum": "foretrekka",
-          "perfektum_partisipp": "foretrekka",
-          "imperativ": "foretrekk"
+          "presens": "føretrekk",
+          "preteritum": "føretrekte",
+          "perfektum_partisipp": "føretrekt",
+          "imperativ": "føretrekk"
         },
         "auxiliary": "har",
         "feature": "grammar_nn_presens"
@@ -3512,15 +3512,15 @@
   "forskrive_verb": {
     "word": "forskrive",
     "type": "verb",
-    "verbClass": "svak",
+    "verbClass": "sterk",
     "auxiliary": "har",
     "conjugations": {
       "presens": {
         "former": {
           "infinitiv": "å forskrive",
-          "presens": "forskriver",
-          "preteritum": "forskrivte",
-          "perfektum_partisipp": "forskrivt",
+          "presens": "forskriv",
+          "preteritum": "forskreiv",
+          "perfektum_partisipp": "forskrive",
           "imperativ": "forskriv"
         },
         "auxiliary": "har",
@@ -3831,18 +3831,18 @@
     "_nbEquivalent": "fremstille_verb",
     "_generatedFrom": "de-nb/verbbank.json:darstellen_verb"
   },
-  "fryse_verb": {
-    "word": "fryse",
+  "frysa_verb": {
+    "word": "frysa",
     "type": "verb",
-    "verbClass": "svak",
+    "verbClass": "sterk",
     "auxiliary": "har",
     "conjugations": {
       "presens": {
         "former": {
-          "infinitiv": "å fryse",
-          "presens": "fryser",
-          "preteritum": "fryste",
-          "perfektum_partisipp": "fryst",
+          "infinitiv": "å frysa",
+          "presens": "frys",
+          "preteritum": "fraus",
+          "perfektum_partisipp": "frose",
           "imperativ": "frys"
         },
         "auxiliary": "har",
@@ -4567,18 +4567,18 @@
     "_nbEquivalent": "grille_verb",
     "_generatedFrom": "de-nb/verbbank.json:grillen_verb, de-nb/verbbank.json:grillieren_verb"
   },
-  "gripe_verb": {
-    "word": "gripe",
+  "gripa_verb": {
+    "word": "gripa",
     "type": "verb",
-    "verbClass": "svak",
+    "verbClass": "sterk",
     "auxiliary": "har",
     "conjugations": {
       "presens": {
         "former": {
-          "infinitiv": "å gripe",
-          "presens": "griper",
-          "preteritum": "gripte",
-          "perfektum_partisipp": "gript",
+          "infinitiv": "å gripa",
+          "presens": "grip",
+          "preteritum": "greip",
+          "perfektum_partisipp": "gripe",
           "imperativ": "grip"
         },
         "auxiliary": "har",
@@ -4593,15 +4593,15 @@
   "grunnlegga_verb": {
     "word": "grunnlegga",
     "type": "verb",
-    "verbClass": "svak",
+    "verbClass": "uregelmessig",
     "auxiliary": "har",
     "conjugations": {
       "presens": {
         "former": {
           "infinitiv": "å grunnlegga",
-          "presens": "grunnleggar",
-          "preteritum": "grunnlegga",
-          "perfektum_partisipp": "grunnlegga",
+          "presens": "grunnlegg",
+          "preteritum": "grunnla",
+          "perfektum_partisipp": "grunnlagt",
           "imperativ": "grunnlegg"
         },
         "auxiliary": "har",
@@ -4613,19 +4613,19 @@
     "_nbEquivalent": "grunnlegge_verb",
     "_generatedFrom": "de-nb/verbbank.json:gruenden_verb"
   },
-  "gråte_verb": {
-    "word": "gråte",
+  "gråta_verb": {
+    "word": "gråta",
     "type": "verb",
-    "verbClass": "svak",
+    "verbClass": "sterk",
     "auxiliary": "har",
     "conjugations": {
       "presens": {
         "former": {
-          "infinitiv": "å gråte",
-          "presens": "gråter",
-          "preteritum": "gråtte",
-          "perfektum_partisipp": "grått",
-          "imperativ": "gråt"
+          "infinitiv": "å gråta",
+          "presens": "grèt",
+          "preteritum": "gret",
+          "perfektum_partisipp": "gråte",
+          "imperativ": "grèt"
         },
         "auxiliary": "har",
         "feature": "grammar_nn_presens"
@@ -5706,15 +5706,15 @@
   "inntreffa_verb": {
     "word": "inntreffa",
     "type": "verb",
-    "verbClass": "svak",
+    "verbClass": "sterk",
     "auxiliary": "har",
     "conjugations": {
       "presens": {
         "former": {
           "infinitiv": "å inntreffa",
-          "presens": "inntreffar",
-          "preteritum": "inntreffa",
-          "perfektum_partisipp": "inntreffa",
+          "presens": "inntreff",
+          "preteritum": "inntraff",
+          "perfektum_partisipp": "inntruffe",
           "imperativ": "inntreff"
         },
         "auxiliary": "har",
@@ -9220,16 +9220,16 @@
   "oversetta_verb": {
     "word": "oversetta",
     "type": "verb",
-    "verbClass": "svak",
+    "verbClass": "uregelmessig",
     "auxiliary": "har",
     "conjugations": {
       "presens": {
         "former": {
           "infinitiv": "å oversetta",
-          "presens": "oversettar",
-          "preteritum": "oversetta",
-          "perfektum_partisipp": "oversetta",
-          "imperativ": "oversett"
+          "presens": "overset",
+          "preteritum": "oversette",
+          "perfektum_partisipp": "oversett",
+          "imperativ": "overset"
         },
         "auxiliary": "har",
         "feature": "grammar_nn_presens"
@@ -9243,16 +9243,16 @@
   "overta_verb": {
     "word": "overta",
     "type": "verb",
-    "verbClass": "svak",
+    "verbClass": "sterk",
     "auxiliary": "har",
     "conjugations": {
       "presens": {
         "former": {
           "infinitiv": "å overta",
-          "presens": "overtar",
-          "preteritum": "overta",
-          "perfektum_partisipp": "overta",
-          "imperativ": "overt"
+          "presens": "overtek",
+          "preteritum": "overtok",
+          "perfektum_partisipp": "overteke",
+          "imperativ": "overta"
         },
         "auxiliary": "har",
         "feature": "grammar_nn_presens"
@@ -11388,18 +11388,18 @@
     "_nbEquivalent": "skynde_seg_verb",
     "_generatedFrom": "de-nb/verbbank.json:eilen_verb, de-nb/verbbank.json:sich_beeilen_verb"
   },
-  "skyte_verb": {
-    "word": "skyte",
+  "skyta_verb": {
+    "word": "skyta",
     "type": "verb",
-    "verbClass": "svak",
+    "verbClass": "sterk",
     "auxiliary": "har",
     "conjugations": {
       "presens": {
         "former": {
-          "infinitiv": "å skyte",
-          "presens": "skyter",
-          "preteritum": "skytte",
-          "perfektum_partisipp": "skytt",
+          "infinitiv": "å skyta",
+          "presens": "skyt",
+          "preteritum": "skaut",
+          "perfektum_partisipp": "skote",
           "imperativ": "skyt"
         },
         "auxiliary": "har",
@@ -11411,18 +11411,18 @@
     "_nbEquivalent": "skyte_verb",
     "_generatedFrom": "de-nb/verbbank.json:schiessen_verb"
   },
-  "skyve_verb": {
-    "word": "skyve",
+  "skyva_verb": {
+    "word": "skyva",
     "type": "verb",
-    "verbClass": "svak",
+    "verbClass": "sterk",
     "auxiliary": "har",
     "conjugations": {
       "presens": {
         "former": {
-          "infinitiv": "å skyve",
-          "presens": "skyver",
-          "preteritum": "skyvte",
-          "perfektum_partisipp": "skyvt",
+          "infinitiv": "å skyva",
+          "presens": "skyv",
+          "preteritum": "skuva",
+          "perfektum_partisipp": "skuve",
           "imperativ": "skyv"
         },
         "auxiliary": "har",
@@ -12101,18 +12101,18 @@
     "_nbEquivalent": "stengt_verb",
     "_generatedFrom": "de-nb/verbbank.json:geschlossen_verb"
   },
-  "stige_på_verb": {
-    "word": "stige på",
+  "stiga_på_verb": {
+    "word": "stiga på",
     "type": "verb",
-    "verbClass": "svak",
+    "verbClass": "sterk",
     "auxiliary": "har",
     "conjugations": {
       "presens": {
         "former": {
-          "infinitiv": "å stige på",
-          "presens": "stiger på",
-          "preteritum": "stigte på",
-          "perfektum_partisipp": "stigt",
+          "infinitiv": "å stiga på",
+          "presens": "stig på",
+          "preteritum": "steig på",
+          "perfektum_partisipp": "stige",
           "imperativ": "stig på"
         },
         "auxiliary": "har",
@@ -12124,18 +12124,18 @@
     "_nbEquivalent": "stige_på_verb",
     "_generatedFrom": "de-nb/verbbank.json:einsteigen_verb"
   },
-  "stige_verb": {
-    "word": "stige",
+  "stiga_verb": {
+    "word": "stiga",
     "type": "verb",
-    "verbClass": "svak",
+    "verbClass": "sterk",
     "auxiliary": "har",
     "conjugations": {
       "presens": {
         "former": {
-          "infinitiv": "å stige",
-          "presens": "stiger",
-          "preteritum": "stigte",
-          "perfektum_partisipp": "stigt",
+          "infinitiv": "å stiga",
+          "presens": "stig",
+          "preteritum": "steig",
+          "perfektum_partisipp": "stige",
           "imperativ": "stig"
         },
         "auxiliary": "har",
@@ -12150,15 +12150,15 @@
   "stikka_verb": {
     "word": "stikka",
     "type": "verb",
-    "verbClass": "svak",
+    "verbClass": "sterk",
     "auxiliary": "har",
     "conjugations": {
       "presens": {
         "former": {
           "infinitiv": "å stikka",
-          "presens": "stikkar",
-          "preteritum": "stikka",
-          "perfektum_partisipp": "stikka",
+          "presens": "stikk",
+          "preteritum": "stakk",
+          "perfektum_partisipp": "stukke",
           "imperativ": "stikk"
         },
         "auxiliary": "har",
@@ -12219,15 +12219,15 @@
   "stinka_verb": {
     "word": "stinka",
     "type": "verb",
-    "verbClass": "svak",
+    "verbClass": "sterk",
     "auxiliary": "har",
     "conjugations": {
       "presens": {
         "former": {
           "infinitiv": "å stinka",
-          "presens": "stinkar",
-          "preteritum": "stinka",
-          "perfektum_partisipp": "stinka",
+          "presens": "stink",
+          "preteritum": "stank",
+          "perfektum_partisipp": "stunke",
           "imperativ": "stink"
         },
         "auxiliary": "har",
@@ -13241,15 +13241,15 @@
   "tilby_verb": {
     "word": "tilby",
     "type": "verb",
-    "verbClass": "svak",
+    "verbClass": "sterk",
     "auxiliary": "har",
     "conjugations": {
       "presens": {
         "former": {
           "infinitiv": "å tilby",
-          "presens": "tilbyr",
-          "preteritum": "tilbydde",
-          "perfektum_partisipp": "tilbydd",
+          "presens": "tilbyd",
+          "preteritum": "tilbaud",
+          "perfektum_partisipp": "tilbode",
           "imperativ": "tilby"
         },
         "auxiliary": "har",
@@ -13264,16 +13264,16 @@
   "tilgi_verb": {
     "word": "tilgi",
     "type": "verb",
-    "verbClass": "svak",
+    "verbClass": "sterk",
     "auxiliary": "har",
     "conjugations": {
       "presens": {
         "former": {
           "infinitiv": "å tilgi",
-          "presens": "tilgir",
-          "preteritum": "tilgidde",
-          "perfektum_partisipp": "tilgidd",
-          "imperativ": "tilgi"
+          "presens": "tilgjev",
+          "preteritum": "tilgav",
+          "perfektum_partisipp": "tilgjeve",
+          "imperativ": "tilgje"
         },
         "auxiliary": "har",
         "feature": "grammar_nn_presens"
@@ -14606,15 +14606,15 @@
   "vinna_verb": {
     "word": "vinna",
     "type": "verb",
-    "verbClass": "svak",
+    "verbClass": "sterk",
     "auxiliary": "har",
     "conjugations": {
       "presens": {
         "former": {
           "infinitiv": "å vinna",
-          "presens": "vinnar",
-          "preteritum": "vinna",
-          "perfektum_partisipp": "vinna",
+          "presens": "vinn",
+          "preteritum": "vann",
+          "perfektum_partisipp": "vunne",
           "imperativ": "vinn"
         },
         "auxiliary": "har",
