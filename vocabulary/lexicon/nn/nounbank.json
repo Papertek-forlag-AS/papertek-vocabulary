@@ -3,7 +3,7 @@
     "language": "nn",
     "languageName": "Norsk nynorsk",
     "bank": "nounbank",
-    "generatedAt": "2026-03-14T00:54:10.002Z",
+    "generatedAt": "2026-03-14T07:19:53.324Z",
     "description": "Norwegian Nynorsk nounbank — generated from Bokmål via NB→NN transformation",
     "totalEntries": 1596,
     "enrichedEntries": 1596,
@@ -312,16 +312,16 @@
   "ambulanse_noun": {
     "word": "ambulanse",
     "type": "noun",
-    "genus": "m",
-    "plural": "ambulansar",
+    "genus": "f",
+    "plural": "ambulanser",
     "forms": {
       "ubestemt": {
         "entall": "ambulanse",
-        "flertall": "ambulansar"
+        "flertall": "ambulanser"
       },
       "bestemt": {
-        "entall": "ambulansen",
-        "flertall": "ambulansane"
+        "entall": "ambulansa",
+        "flertall": "ambulansene"
       }
     },
     "_enriched": true,
@@ -1473,16 +1473,16 @@
   "bagasje_noun": {
     "word": "bagasje",
     "type": "noun",
-    "genus": "m",
-    "plural": "bagasjar",
+    "genus": "f",
+    "plural": "bagasjer",
     "forms": {
       "ubestemt": {
         "entall": "bagasje",
-        "flertall": "bagasjar"
+        "flertall": "bagasjer"
       },
       "bestemt": {
-        "entall": "bagasjen",
-        "flertall": "bagasjane"
+        "entall": "bagasja",
+        "flertall": "bagasjene"
       }
     },
     "_enriched": true,
@@ -2894,16 +2894,16 @@
   "borg_noun": {
     "word": "borg",
     "type": "noun",
-    "genus": "m",
-    "plural": "borgar",
+    "genus": "f",
+    "plural": "borger",
     "forms": {
       "ubestemt": {
         "entall": "borg",
-        "flertall": "borgar"
+        "flertall": "borger"
       },
       "bestemt": {
-        "entall": "borgen",
-        "flertall": "borgane"
+        "entall": "borga",
+        "flertall": "borgene"
       }
     },
     "_enriched": true,
@@ -3034,16 +3034,16 @@
   "bredde_noun": {
     "word": "bredde",
     "type": "noun",
-    "genus": "m",
-    "plural": "breddar",
+    "genus": "f",
+    "plural": "bredder",
     "forms": {
       "ubestemt": {
         "entall": "bredde",
-        "flertall": "breddar"
+        "flertall": "bredder"
       },
       "bestemt": {
-        "entall": "bredden",
-        "flertall": "breddane"
+        "entall": "bredda",
+        "flertall": "breddene"
       }
     },
     "_enriched": true,
@@ -3454,16 +3454,16 @@
   "bustad_noun": {
     "word": "bustad",
     "type": "noun",
-    "genus": "n",
-    "plural": "bustad",
+    "genus": "m",
+    "plural": "bustadar",
     "forms": {
       "ubestemt": {
         "entall": "bustad",
-        "flertall": "bustad"
+        "flertall": "bustadar"
       },
       "bestemt": {
-        "entall": "bustadet",
-        "flertall": "bustada"
+        "entall": "bustaden",
+        "flertall": "bustadane"
       }
     },
     "_enriched": true,
@@ -3514,16 +3514,16 @@
   "bygg_noun": {
     "word": "bygg",
     "type": "noun",
-    "genus": "m",
-    "plural": "byggar",
+    "genus": "n",
+    "plural": "bygg",
     "forms": {
       "ubestemt": {
         "entall": "bygg",
-        "flertall": "byggar"
+        "flertall": "bygg"
       },
       "bestemt": {
-        "entall": "byggen",
-        "flertall": "byggane"
+        "entall": "bygget",
+        "flertall": "bygga"
       }
     },
     "_enriched": true,
@@ -3594,16 +3594,16 @@
   "byrjing_noun": {
     "word": "byrjing",
     "type": "noun",
-    "genus": "n",
-    "plural": "byrjing",
+    "genus": "f",
+    "plural": "byrjingar",
     "forms": {
       "ubestemt": {
         "entall": "byrjing",
-        "flertall": "byrjing"
+        "flertall": "byrjingar"
       },
       "bestemt": {
-        "entall": "byrjinget",
-        "flertall": "byrjinga"
+        "entall": "byrjinga",
+        "flertall": "byrjingane"
       }
     },
     "_enriched": true,
@@ -3794,16 +3794,16 @@
   "dagsrytme_noun": {
     "word": "dagsrytme",
     "type": "noun",
-    "genus": "m",
-    "plural": "dagsrytmar",
+    "genus": "f",
+    "plural": "dagsrytmer",
     "forms": {
       "ubestemt": {
         "entall": "dagsrytme",
-        "flertall": "dagsrytmar"
+        "flertall": "dagsrytmer"
       },
       "bestemt": {
-        "entall": "dagsrytmen",
-        "flertall": "dagsrytmane"
+        "entall": "dagsrytma",
+        "flertall": "dagsrytmene"
       }
     },
     "_enriched": true,
@@ -4034,16 +4034,16 @@
   "deltid_noun": {
     "word": "deltid",
     "type": "noun",
-    "genus": "m",
-    "plural": "deltidar",
+    "genus": "f",
+    "plural": "deltider",
     "forms": {
       "ubestemt": {
         "entall": "deltid",
-        "flertall": "deltidar"
+        "flertall": "deltider"
       },
       "bestemt": {
-        "entall": "deltiden",
-        "flertall": "deltidane"
+        "entall": "deltida",
+        "flertall": "deltidene"
       }
     },
     "_enriched": true,
@@ -4514,16 +4514,16 @@
   "drue_noun": {
     "word": "drue",
     "type": "noun",
-    "genus": "m",
-    "plural": "druar",
+    "genus": "f",
+    "plural": "druer",
     "forms": {
       "ubestemt": {
         "entall": "drue",
-        "flertall": "druar"
+        "flertall": "druer"
       },
       "bestemt": {
-        "entall": "druen",
-        "flertall": "druane"
+        "entall": "drua",
+        "flertall": "druene"
       }
     },
     "_enriched": true,
@@ -5174,16 +5174,16 @@
   "eng_noun": {
     "word": "eng",
     "type": "noun",
-    "genus": "m",
-    "plural": "engar",
+    "genus": "f",
+    "plural": "enger",
     "forms": {
       "ubestemt": {
         "entall": "eng",
-        "flertall": "engar"
+        "flertall": "enger"
       },
       "bestemt": {
-        "entall": "engen",
-        "flertall": "engane"
+        "entall": "enga",
+        "flertall": "engene"
       }
     },
     "_enriched": true,
@@ -5414,16 +5414,16 @@
   "etasje_noun": {
     "word": "etasje",
     "type": "noun",
-    "genus": "m",
-    "plural": "etasjar",
+    "genus": "f",
+    "plural": "etasjer",
     "forms": {
       "ubestemt": {
         "entall": "etasje",
-        "flertall": "etasjar"
+        "flertall": "etasjer"
       },
       "bestemt": {
-        "entall": "etasjen",
-        "flertall": "etasjane"
+        "entall": "etasja",
+        "flertall": "etasjene"
       }
     },
     "_enriched": true,
@@ -5454,16 +5454,16 @@
   "etternamn_noun": {
     "word": "etternamn",
     "type": "noun",
-    "genus": "m",
-    "plural": "etternamnar",
+    "genus": "n",
+    "plural": "etternamn",
     "forms": {
       "ubestemt": {
         "entall": "etternamn",
-        "flertall": "etternamnar"
+        "flertall": "etternamn"
       },
       "bestemt": {
-        "entall": "etternamnen",
-        "flertall": "etternamnane"
+        "entall": "etternamnet",
+        "flertall": "etternamna"
       }
     },
     "_enriched": true,
@@ -7034,16 +7034,16 @@
   "fornamn_noun": {
     "word": "fornamn",
     "type": "noun",
-    "genus": "m",
-    "plural": "fornamnar",
+    "genus": "n",
+    "plural": "fornamn",
     "forms": {
       "ubestemt": {
         "entall": "fornamn",
-        "flertall": "fornamnar"
+        "flertall": "fornamn"
       },
       "bestemt": {
-        "entall": "fornamnen",
-        "flertall": "fornamnane"
+        "entall": "fornamnet",
+        "flertall": "fornamna"
       }
     },
     "_enriched": true,
@@ -7234,16 +7234,16 @@
   "forskrift_noun": {
     "word": "forskrift",
     "type": "noun",
-    "genus": "m",
-    "plural": "forskriftar",
+    "genus": "f",
+    "plural": "forskrifter",
     "forms": {
       "ubestemt": {
         "entall": "forskrift",
-        "flertall": "forskriftar"
+        "flertall": "forskrifter"
       },
       "bestemt": {
-        "entall": "forskriften",
-        "flertall": "forskriftane"
+        "entall": "forskrifta",
+        "flertall": "forskriftene"
       }
     },
     "_enriched": true,
@@ -7394,16 +7394,16 @@
   "fortid_noun": {
     "word": "fortid",
     "type": "noun",
-    "genus": "m",
-    "plural": "fortidar",
+    "genus": "f",
+    "plural": "fortider",
     "forms": {
       "ubestemt": {
         "entall": "fortid",
-        "flertall": "fortidar"
+        "flertall": "fortider"
       },
       "bestemt": {
-        "entall": "fortiden",
-        "flertall": "fortidane"
+        "entall": "fortida",
+        "flertall": "fortidene"
       }
     },
     "_enriched": true,
@@ -7554,16 +7554,16 @@
   "foto_noun": {
     "word": "foto",
     "type": "noun",
-    "genus": "m",
-    "plural": "fotoar",
+    "genus": "n",
+    "plural": "foto",
     "forms": {
       "ubestemt": {
         "entall": "foto",
-        "flertall": "fotoar"
+        "flertall": "foto"
       },
       "bestemt": {
-        "entall": "fotoen",
-        "flertall": "fotoane"
+        "entall": "fotoet",
+        "flertall": "fotoa"
       }
     },
     "_enriched": true,
@@ -7574,16 +7574,16 @@
   "fotoapparat_noun": {
     "word": "fotoapparat",
     "type": "noun",
-    "genus": "m",
-    "plural": "fotoapparatar",
+    "genus": "n",
+    "plural": "fotoapparat",
     "forms": {
       "ubestemt": {
         "entall": "fotoapparat",
-        "flertall": "fotoapparatar"
+        "flertall": "fotoapparat"
       },
       "bestemt": {
-        "entall": "fotoapparaten",
-        "flertall": "fotoapparatane"
+        "entall": "fotoapparatet",
+        "flertall": "fotoapparata"
       }
     },
     "_enriched": true,
@@ -7614,16 +7614,16 @@
   "fotografi_noun": {
     "word": "fotografi",
     "type": "noun",
-    "genus": "m",
-    "plural": "fotografiar",
+    "genus": "n",
+    "plural": "fotografi",
     "forms": {
       "ubestemt": {
         "entall": "fotografi",
-        "flertall": "fotografiar"
+        "flertall": "fotografi"
       },
       "bestemt": {
-        "entall": "fotografien",
-        "flertall": "fotografiane"
+        "entall": "fotografiet",
+        "flertall": "fotografia"
       }
     },
     "_enriched": true,
@@ -7674,16 +7674,16 @@
   "framhald_noun": {
     "word": "framhald",
     "type": "noun",
-    "genus": "f",
-    "plural": "framhalder",
+    "genus": "n",
+    "plural": "framhald",
     "forms": {
       "ubestemt": {
         "entall": "framhald",
-        "flertall": "framhalder"
+        "flertall": "framhald"
       },
       "bestemt": {
-        "entall": "framhalda",
-        "flertall": "framhaldene"
+        "entall": "framhaldet",
+        "flertall": "framhalda"
       }
     },
     "_enriched": true,
@@ -7874,16 +7874,16 @@
   "frisyre_noun": {
     "word": "frisyre",
     "type": "noun",
-    "genus": "m",
-    "plural": "frisyrar",
+    "genus": "f",
+    "plural": "frisyrer",
     "forms": {
       "ubestemt": {
         "entall": "frisyre",
-        "flertall": "frisyrar"
+        "flertall": "frisyrer"
       },
       "bestemt": {
-        "entall": "frisyren",
-        "flertall": "frisyrane"
+        "entall": "frisyra",
+        "flertall": "frisyrene"
       }
     },
     "_enriched": true,
@@ -8074,16 +8074,16 @@
   "fødestad_noun": {
     "word": "fødestad",
     "type": "noun",
-    "genus": "n",
-    "plural": "fødestad",
+    "genus": "m",
+    "plural": "fødestadar",
     "forms": {
       "ubestemt": {
         "entall": "fødestad",
-        "flertall": "fødestad"
+        "flertall": "fødestadar"
       },
       "bestemt": {
-        "entall": "fødestadet",
-        "flertall": "fødestada"
+        "entall": "fødestaden",
+        "flertall": "fødestadane"
       }
     },
     "_enriched": true,
@@ -8134,16 +8134,16 @@
   "følge_noun": {
     "word": "følge",
     "type": "noun",
-    "genus": "m",
-    "plural": "følgar",
+    "genus": "n",
+    "plural": "følge",
     "forms": {
       "ubestemt": {
         "entall": "følge",
-        "flertall": "følgar"
+        "flertall": "følge"
       },
       "bestemt": {
-        "entall": "følgen",
-        "flertall": "følgane"
+        "entall": "følget",
+        "flertall": "følga"
       }
     },
     "_enriched": true,
@@ -8314,16 +8314,16 @@
   "garderobe_noun": {
     "word": "garderobe",
     "type": "noun",
-    "genus": "m",
-    "plural": "garderobar",
+    "genus": "f",
+    "plural": "garderober",
     "forms": {
       "ubestemt": {
         "entall": "garderobe",
-        "flertall": "garderobar"
+        "flertall": "garderober"
       },
       "bestemt": {
-        "entall": "garderoben",
-        "flertall": "garderobane"
+        "entall": "garderoba",
+        "flertall": "garderobene"
       }
     },
     "_enriched": true,
@@ -8534,16 +8534,16 @@
   "gjeld_noun": {
     "word": "gjeld",
     "type": "noun",
-    "genus": "m",
-    "plural": "gjeldar",
+    "genus": "f",
+    "plural": "gjelder",
     "forms": {
       "ubestemt": {
         "entall": "gjeld",
-        "flertall": "gjeldar"
+        "flertall": "gjelder"
       },
       "bestemt": {
-        "entall": "gjelden",
-        "flertall": "gjeldane"
+        "entall": "gjelda",
+        "flertall": "gjeldene"
       }
     },
     "_enriched": true,
@@ -9154,16 +9154,16 @@
   "gågate_noun": {
     "word": "gågate",
     "type": "noun",
-    "genus": "m",
-    "plural": "gågatar",
+    "genus": "f",
+    "plural": "gågater",
     "forms": {
       "ubestemt": {
         "entall": "gågate",
-        "flertall": "gågatar"
+        "flertall": "gågater"
       },
       "bestemt": {
-        "entall": "gågaten",
-        "flertall": "gågatane"
+        "entall": "gågata",
+        "flertall": "gågatene"
       }
     },
     "_enriched": true,
@@ -9654,16 +9654,16 @@
   "hefte_noun": {
     "word": "hefte",
     "type": "noun",
-    "genus": "m",
-    "plural": "heftar",
+    "genus": "n",
+    "plural": "hefte",
     "forms": {
       "ubestemt": {
         "entall": "hefte",
-        "flertall": "heftar"
+        "flertall": "hefte"
       },
       "bestemt": {
-        "entall": "heften",
-        "flertall": "heftane"
+        "entall": "heftet",
+        "flertall": "hefta"
       }
     },
     "_enriched": true,
@@ -9794,16 +9794,16 @@
   "heltid_noun": {
     "word": "heltid",
     "type": "noun",
-    "genus": "m",
-    "plural": "heltidar",
+    "genus": "f",
+    "plural": "heltider",
     "forms": {
       "ubestemt": {
         "entall": "heltid",
-        "flertall": "heltidar"
+        "flertall": "heltider"
       },
       "bestemt": {
-        "entall": "heltiden",
-        "flertall": "heltidane"
+        "entall": "heltida",
+        "flertall": "heltidene"
       }
     },
     "_enriched": true,
@@ -9894,16 +9894,16 @@
   "hensyn_noun": {
     "word": "hensyn",
     "type": "noun",
-    "genus": "m",
-    "plural": "hensynar",
+    "genus": "n",
+    "plural": "hensyn",
     "forms": {
       "ubestemt": {
         "entall": "hensyn",
-        "flertall": "hensynar"
+        "flertall": "hensyn"
       },
       "bestemt": {
-        "entall": "hensynen",
-        "flertall": "hensynane"
+        "entall": "hensynet",
+        "flertall": "hensyna"
       }
     },
     "_enriched": true,
@@ -9974,16 +9974,16 @@
   "hete_noun": {
     "word": "hete",
     "type": "noun",
-    "genus": "m",
-    "plural": "hetar",
+    "genus": "f",
+    "plural": "heter",
     "forms": {
       "ubestemt": {
         "entall": "hete",
-        "flertall": "hetar"
+        "flertall": "heter"
       },
       "bestemt": {
-        "entall": "heten",
-        "flertall": "hetane"
+        "entall": "heta",
+        "flertall": "hetene"
       }
     },
     "_enriched": true,
@@ -10054,16 +10054,16 @@
   "historielekse_noun": {
     "word": "historielekse",
     "type": "noun",
-    "genus": "m",
-    "plural": "historieleksar",
+    "genus": "f",
+    "plural": "historielekser",
     "forms": {
       "ubestemt": {
         "entall": "historielekse",
-        "flertall": "historieleksar"
+        "flertall": "historielekser"
       },
       "bestemt": {
-        "entall": "historieleksen",
-        "flertall": "historieleksane"
+        "entall": "historieleksa",
+        "flertall": "historieleksene"
       }
     },
     "_enriched": true,
@@ -10094,16 +10094,16 @@
   "hjelp_noun": {
     "word": "hjelp",
     "type": "noun",
-    "genus": "m",
-    "plural": "hjelpar",
+    "genus": "f",
+    "plural": "hjelper",
     "forms": {
       "ubestemt": {
         "entall": "hjelp",
-        "flertall": "hjelpar"
+        "flertall": "hjelper"
       },
       "bestemt": {
-        "entall": "hjelpen",
-        "flertall": "hjelpane"
+        "entall": "hjelpa",
+        "flertall": "hjelpene"
       }
     },
     "_enriched": true,
@@ -10234,16 +10234,16 @@
   "hjørne_noun": {
     "word": "hjørne",
     "type": "noun",
-    "genus": "m",
-    "plural": "hjørnar",
+    "genus": "n",
+    "plural": "hjørne",
     "forms": {
       "ubestemt": {
         "entall": "hjørne",
-        "flertall": "hjørnar"
+        "flertall": "hjørne"
       },
       "bestemt": {
-        "entall": "hjørnen",
-        "flertall": "hjørnane"
+        "entall": "hjørnet",
+        "flertall": "hjørna"
       }
     },
     "_enriched": true,
@@ -10314,7 +10314,7 @@
   "honning_noun": {
     "word": "honning",
     "type": "noun",
-    "genus": "f",
+    "genus": "m",
     "plural": "honningar",
     "forms": {
       "ubestemt": {
@@ -10322,7 +10322,7 @@
         "flertall": "honningar"
       },
       "bestemt": {
-        "entall": "honninga",
+        "entall": "honningen",
         "flertall": "honningane"
       }
     },
@@ -10334,16 +10334,16 @@
   "hotell_noun": {
     "word": "hotell",
     "type": "noun",
-    "genus": "m",
-    "plural": "hotellar",
+    "genus": "n",
+    "plural": "hotell",
     "forms": {
       "ubestemt": {
         "entall": "hotell",
-        "flertall": "hotellar"
+        "flertall": "hotell"
       },
       "bestemt": {
-        "entall": "hotellen",
-        "flertall": "hotellane"
+        "entall": "hotellet",
+        "flertall": "hotella"
       }
     },
     "_enriched": true,
@@ -10394,16 +10394,16 @@
   "hud_noun": {
     "word": "hud",
     "type": "noun",
-    "genus": "m",
-    "plural": "hudar",
+    "genus": "f",
+    "plural": "huder",
     "forms": {
       "ubestemt": {
         "entall": "hud",
-        "flertall": "hudar"
+        "flertall": "huder"
       },
       "bestemt": {
-        "entall": "huden",
-        "flertall": "hudane"
+        "entall": "huda",
+        "flertall": "hudene"
       }
     },
     "_enriched": true,
@@ -10614,16 +10614,16 @@
   "håndkle_noun": {
     "word": "håndkle",
     "type": "noun",
-    "genus": "m",
-    "plural": "håndklar",
+    "genus": "n",
+    "plural": "håndkle",
     "forms": {
       "ubestemt": {
         "entall": "håndkle",
-        "flertall": "håndklar"
+        "flertall": "håndkle"
       },
       "bestemt": {
-        "entall": "håndklen",
-        "flertall": "håndklane"
+        "entall": "håndklet",
+        "flertall": "håndkla"
       }
     },
     "_enriched": true,
@@ -11594,16 +11594,16 @@
   "internett_noun": {
     "word": "internett",
     "type": "noun",
-    "genus": "m",
-    "plural": "internettar",
+    "genus": "n",
+    "plural": "internett",
     "forms": {
       "ubestemt": {
         "entall": "internett",
-        "flertall": "internettar"
+        "flertall": "internett"
       },
       "bestemt": {
-        "entall": "internetten",
-        "flertall": "internettane"
+        "entall": "internettet",
+        "flertall": "internetta"
       }
     },
     "_enriched": true,
@@ -11954,16 +11954,16 @@
   "jordbær_noun": {
     "word": "jordbær",
     "type": "noun",
-    "genus": "m",
-    "plural": "jordbærar",
+    "genus": "n",
+    "plural": "jordbær",
     "forms": {
       "ubestemt": {
         "entall": "jordbær",
-        "flertall": "jordbærar"
+        "flertall": "jordbær"
       },
       "bestemt": {
-        "entall": "jordbæren",
-        "flertall": "jordbærane"
+        "entall": "jordbæret",
+        "flertall": "jordbæra"
       }
     },
     "_enriched": true,
@@ -12094,16 +12094,16 @@
   "kabine_noun": {
     "word": "kabine",
     "type": "noun",
-    "genus": "m",
-    "plural": "kabinar",
+    "genus": "f",
+    "plural": "kabiner",
     "forms": {
       "ubestemt": {
         "entall": "kabine",
-        "flertall": "kabinar"
+        "flertall": "kabiner"
       },
       "bestemt": {
-        "entall": "kabinen",
-        "flertall": "kabinane"
+        "entall": "kabina",
+        "flertall": "kabinene"
       }
     },
     "_enriched": true,
@@ -12274,16 +12274,16 @@
   "kamera_noun": {
     "word": "kamera",
     "type": "noun",
-    "genus": "m",
-    "plural": "kameraar",
+    "genus": "n",
+    "plural": "kamera",
     "forms": {
       "ubestemt": {
         "entall": "kamera",
-        "flertall": "kameraar"
+        "flertall": "kamera"
       },
       "bestemt": {
-        "entall": "kameraen",
-        "flertall": "kameraane"
+        "entall": "kameraet",
+        "flertall": "kameraa"
       }
     },
     "_enriched": true,
@@ -12394,16 +12394,16 @@
   "kantine_noun": {
     "word": "kantine",
     "type": "noun",
-    "genus": "m",
-    "plural": "kantinar",
+    "genus": "f",
+    "plural": "kantiner",
     "forms": {
       "ubestemt": {
         "entall": "kantine",
-        "flertall": "kantinar"
+        "flertall": "kantiner"
       },
       "bestemt": {
-        "entall": "kantinen",
-        "flertall": "kantinane"
+        "entall": "kantina",
+        "flertall": "kantinene"
       }
     },
     "_enriched": true,
@@ -12674,16 +12674,16 @@
   "kiste_noun": {
     "word": "kiste",
     "type": "noun",
-    "genus": "m",
-    "plural": "kistar",
+    "genus": "f",
+    "plural": "kister",
     "forms": {
       "ubestemt": {
         "entall": "kiste",
-        "flertall": "kistar"
+        "flertall": "kister"
       },
       "bestemt": {
-        "entall": "kisten",
-        "flertall": "kistane"
+        "entall": "kista",
+        "flertall": "kistene"
       }
     },
     "_enriched": true,
@@ -12814,16 +12814,16 @@
   "kjensle_noun": {
     "word": "kjensle",
     "type": "noun",
-    "genus": "m",
-    "plural": "kjenslar",
+    "genus": "f",
+    "plural": "kjensler",
     "forms": {
       "ubestemt": {
         "entall": "kjensle",
-        "flertall": "kjenslar"
+        "flertall": "kjensler"
       },
       "bestemt": {
-        "entall": "kjenslen",
-        "flertall": "kjenslane"
+        "entall": "kjensla",
+        "flertall": "kjenslene"
       }
     },
     "_enriched": true,
@@ -12834,16 +12834,16 @@
   "kjole_noun": {
     "word": "kjole",
     "type": "noun",
-    "genus": "m",
-    "plural": "kjolar",
+    "genus": "f",
+    "plural": "kjoler",
     "forms": {
       "ubestemt": {
         "entall": "kjole",
-        "flertall": "kjolar"
+        "flertall": "kjoler"
       },
       "bestemt": {
-        "entall": "kjolen",
-        "flertall": "kjolane"
+        "entall": "kjola",
+        "flertall": "kjolene"
       }
     },
     "_enriched": true,
@@ -13034,16 +13034,16 @@
   "kjørebane_noun": {
     "word": "kjørebane",
     "type": "noun",
-    "genus": "m",
-    "plural": "kjørebanar",
+    "genus": "f",
+    "plural": "kjørebaner",
     "forms": {
       "ubestemt": {
         "entall": "kjørebane",
-        "flertall": "kjørebanar"
+        "flertall": "kjørebaner"
       },
       "bestemt": {
-        "entall": "kjørebanen",
-        "flertall": "kjørebanane"
+        "entall": "kjørebana",
+        "flertall": "kjørebanene"
       }
     },
     "_enriched": true,
@@ -13575,16 +13575,16 @@
   "kompromiss_noun": {
     "word": "kompromiss",
     "type": "noun",
-    "genus": "m",
-    "plural": "kompromissar",
+    "genus": "n",
+    "plural": "kompromiss",
     "forms": {
       "ubestemt": {
         "entall": "kompromiss",
-        "flertall": "kompromissar"
+        "flertall": "kompromiss"
       },
       "bestemt": {
-        "entall": "kompromissen",
-        "flertall": "kompromissane"
+        "entall": "kompromisset",
+        "flertall": "kompromissa"
       }
     },
     "_enriched": true,
@@ -13715,16 +13715,16 @@
   "konsulat_noun": {
     "word": "konsulat",
     "type": "noun",
-    "genus": "m",
-    "plural": "konsulatar",
+    "genus": "n",
+    "plural": "konsulat",
     "forms": {
       "ubestemt": {
         "entall": "konsulat",
-        "flertall": "konsulatar"
+        "flertall": "konsulat"
       },
       "bestemt": {
-        "entall": "konsulaten",
-        "flertall": "konsulatane"
+        "entall": "konsulatet",
+        "flertall": "konsulata"
       }
     },
     "_enriched": true,
@@ -13795,16 +13795,16 @@
   "kontortid_noun": {
     "word": "kontortid",
     "type": "noun",
-    "genus": "m",
-    "plural": "kontortidar",
+    "genus": "f",
+    "plural": "kontortider",
     "forms": {
       "ubestemt": {
         "entall": "kontortid",
-        "flertall": "kontortidar"
+        "flertall": "kontortider"
       },
       "bestemt": {
-        "entall": "kontortiden",
-        "flertall": "kontortidane"
+        "entall": "kontortida",
+        "flertall": "kontortidene"
       }
     },
     "_enriched": true,
@@ -13955,16 +13955,16 @@
   "kors_noun": {
     "word": "kors",
     "type": "noun",
-    "genus": "m",
-    "plural": "korsar",
+    "genus": "n",
+    "plural": "kors",
     "forms": {
       "ubestemt": {
         "entall": "kors",
-        "flertall": "korsar"
+        "flertall": "kors"
       },
       "bestemt": {
-        "entall": "korsen",
-        "flertall": "korsane"
+        "entall": "korset",
+        "flertall": "korsa"
       }
     },
     "_enriched": true,
@@ -14015,16 +14015,16 @@
   "kostyme_noun": {
     "word": "kostyme",
     "type": "noun",
-    "genus": "m",
-    "plural": "kostymar",
+    "genus": "n",
+    "plural": "kostyme",
     "forms": {
       "ubestemt": {
         "entall": "kostyme",
-        "flertall": "kostymar"
+        "flertall": "kostyme"
       },
       "bestemt": {
-        "entall": "kostymen",
-        "flertall": "kostymane"
+        "entall": "kostymet",
+        "flertall": "kostyma"
       }
     },
     "_enriched": true,
@@ -14235,16 +14235,16 @@
   "krise_noun": {
     "word": "krise",
     "type": "noun",
-    "genus": "m",
-    "plural": "krisar",
+    "genus": "f",
+    "plural": "kriser",
     "forms": {
       "ubestemt": {
         "entall": "krise",
-        "flertall": "krisar"
+        "flertall": "kriser"
       },
       "bestemt": {
-        "entall": "krisen",
-        "flertall": "krisane"
+        "entall": "krisa",
+        "flertall": "krisene"
       }
     },
     "_enriched": true,
@@ -14355,16 +14355,16 @@
   "kulde_noun": {
     "word": "kulde",
     "type": "noun",
-    "genus": "m",
-    "plural": "kuldar",
+    "genus": "f",
+    "plural": "kulder",
     "forms": {
       "ubestemt": {
         "entall": "kulde",
-        "flertall": "kuldar"
+        "flertall": "kulder"
       },
       "bestemt": {
-        "entall": "kulden",
-        "flertall": "kuldane"
+        "entall": "kulda",
+        "flertall": "kuldene"
       }
     },
     "_enriched": true,
@@ -14555,16 +14555,16 @@
   "kurve_noun": {
     "word": "kurve",
     "type": "noun",
-    "genus": "m",
-    "plural": "kurvar",
+    "genus": "f",
+    "plural": "kurver",
     "forms": {
       "ubestemt": {
         "entall": "kurve",
-        "flertall": "kurvar"
+        "flertall": "kurver"
       },
       "bestemt": {
-        "entall": "kurven",
-        "flertall": "kurvane"
+        "entall": "kurva",
+        "flertall": "kurvene"
       }
     },
     "_enriched": true,
@@ -15455,7 +15455,7 @@
   "kylling_noun": {
     "word": "kylling",
     "type": "noun",
-    "genus": "f",
+    "genus": "m",
     "plural": "kyllingar",
     "forms": {
       "ubestemt": {
@@ -15463,7 +15463,7 @@
         "flertall": "kyllingar"
       },
       "bestemt": {
-        "entall": "kyllinga",
+        "entall": "kyllingen",
         "flertall": "kyllingane"
       }
     },
@@ -15575,16 +15575,16 @@
   "lager_noun": {
     "word": "lager",
     "type": "noun",
-    "genus": "m",
-    "plural": "lagerar",
+    "genus": "n",
+    "plural": "lager",
     "forms": {
       "ubestemt": {
         "entall": "lager",
-        "flertall": "lagerar"
+        "flertall": "lager"
       },
       "bestemt": {
-        "entall": "lageren",
-        "flertall": "lagerane"
+        "entall": "lageret",
+        "flertall": "lagera"
       }
     },
     "_enriched": true,
@@ -15635,16 +15635,16 @@
   "landbruk_noun": {
     "word": "landbruk",
     "type": "noun",
-    "genus": "m",
-    "plural": "landbrukar",
+    "genus": "n",
+    "plural": "landbruk",
     "forms": {
       "ubestemt": {
         "entall": "landbruk",
-        "flertall": "landbrukar"
+        "flertall": "landbruk"
       },
       "bestemt": {
-        "entall": "landbruken",
-        "flertall": "landbrukane"
+        "entall": "landbruket",
+        "flertall": "landbruka"
       }
     },
     "_enriched": true,
@@ -16255,16 +16255,16 @@
   "lokale_noun": {
     "word": "lokale",
     "type": "noun",
-    "genus": "m",
-    "plural": "lokalar",
+    "genus": "n",
+    "plural": "lokale",
     "forms": {
       "ubestemt": {
         "entall": "lokale",
-        "flertall": "lokalar"
+        "flertall": "lokale"
       },
       "bestemt": {
-        "entall": "lokalen",
-        "flertall": "lokalane"
+        "entall": "lokalet",
+        "flertall": "lokala"
       }
     },
     "_enriched": true,
@@ -16275,16 +16275,16 @@
   "lokaltog_noun": {
     "word": "lokaltog",
     "type": "noun",
-    "genus": "m",
-    "plural": "lokaltogar",
+    "genus": "n",
+    "plural": "lokaltog",
     "forms": {
       "ubestemt": {
         "entall": "lokaltog",
-        "flertall": "lokaltogar"
+        "flertall": "lokaltog"
       },
       "bestemt": {
-        "entall": "lokaltogen",
-        "flertall": "lokaltogane"
+        "entall": "lokaltoget",
+        "flertall": "lokaltoga"
       }
     },
     "_enriched": true,
@@ -16335,16 +16335,16 @@
   "lommetørkle_noun": {
     "word": "lommetørkle",
     "type": "noun",
-    "genus": "m",
-    "plural": "lommetørklar",
+    "genus": "n",
+    "plural": "lommetørkle",
     "forms": {
       "ubestemt": {
         "entall": "lommetørkle",
-        "flertall": "lommetørklar"
+        "flertall": "lommetørkle"
       },
       "bestemt": {
-        "entall": "lommetørklen",
-        "flertall": "lommetørklane"
+        "entall": "lommetørklet",
+        "flertall": "lommetørkla"
       }
     },
     "_enriched": true,
@@ -16515,16 +16515,16 @@
   "lyst_noun": {
     "word": "lyst",
     "type": "noun",
-    "genus": "m",
-    "plural": "lystar",
+    "genus": "f",
+    "plural": "lyster",
     "forms": {
       "ubestemt": {
         "entall": "lyst",
-        "flertall": "lystar"
+        "flertall": "lyster"
       },
       "bestemt": {
-        "entall": "lysten",
-        "flertall": "lystane"
+        "entall": "lysta",
+        "flertall": "lystene"
       }
     },
     "_enriched": true,
@@ -16575,16 +16575,16 @@
   "lære_noun": {
     "word": "lære",
     "type": "noun",
-    "genus": "m",
-    "plural": "lærar",
+    "genus": "f",
+    "plural": "lærer",
     "forms": {
       "ubestemt": {
         "entall": "lære",
-        "flertall": "lærar"
+        "flertall": "lærer"
       },
       "bestemt": {
-        "entall": "læren",
-        "flertall": "lærane"
+        "entall": "læra",
+        "flertall": "lærene"
       }
     },
     "_enriched": true,
@@ -16636,7 +16636,7 @@
   "lærling_noun": {
     "word": "lærling",
     "type": "noun",
-    "genus": "f",
+    "genus": "m",
     "plural": "lærlingar",
     "forms": {
       "ubestemt": {
@@ -16644,7 +16644,7 @@
         "flertall": "lærlingar"
       },
       "bestemt": {
-        "entall": "lærlinga",
+        "entall": "lærlingen",
         "flertall": "lærlingane"
       }
     },
@@ -17377,16 +17377,16 @@
   "mel_noun": {
     "word": "mel",
     "type": "noun",
-    "genus": "m",
-    "plural": "mlar",
+    "genus": "n",
+    "plural": "mel",
     "forms": {
       "ubestemt": {
         "entall": "mel",
-        "flertall": "mlar"
+        "flertall": "mel"
       },
       "bestemt": {
-        "entall": "melen",
-        "flertall": "mlane"
+        "entall": "melet",
+        "flertall": "mela"
       }
     },
     "_enriched": true,
@@ -17537,16 +17537,16 @@
   "merke_noun": {
     "word": "merke",
     "type": "noun",
-    "genus": "m",
-    "plural": "merkar",
+    "genus": "n",
+    "plural": "merke",
     "forms": {
       "ubestemt": {
         "entall": "merke",
-        "flertall": "merkar"
+        "flertall": "merke"
       },
       "bestemt": {
-        "entall": "merken",
-        "flertall": "merkane"
+        "entall": "merket",
+        "flertall": "merka"
       }
     },
     "_enriched": true,
@@ -17617,16 +17617,16 @@
   "metall_noun": {
     "word": "metall",
     "type": "noun",
-    "genus": "m",
-    "plural": "metallar",
+    "genus": "n",
+    "plural": "metall",
     "forms": {
       "ubestemt": {
         "entall": "metall",
-        "flertall": "metallar"
+        "flertall": "metall"
       },
       "bestemt": {
-        "entall": "metallen",
-        "flertall": "metallane"
+        "entall": "metallet",
+        "flertall": "metalla"
       }
     },
     "_enriched": true,
@@ -18217,16 +18217,16 @@
   "motorhavari_noun": {
     "word": "motorhavari",
     "type": "noun",
-    "genus": "m",
-    "plural": "motorhavariar",
+    "genus": "n",
+    "plural": "motorhavari",
     "forms": {
       "ubestemt": {
         "entall": "motorhavari",
-        "flertall": "motorhavariar"
+        "flertall": "motorhavari"
       },
       "bestemt": {
-        "entall": "motorhavarien",
-        "flertall": "motorhavariane"
+        "entall": "motorhavariet",
+        "flertall": "motorhavaria"
       }
     },
     "_enriched": true,
@@ -18757,16 +18757,16 @@
   "møye_noun": {
     "word": "møye",
     "type": "noun",
-    "genus": "m",
-    "plural": "møyar",
+    "genus": "f",
+    "plural": "møyer",
     "forms": {
       "ubestemt": {
         "entall": "møye",
-        "flertall": "møyar"
+        "flertall": "møyer"
       },
       "bestemt": {
-        "entall": "møyen",
-        "flertall": "møyane"
+        "entall": "møya",
+        "flertall": "møyene"
       }
     },
     "_enriched": true,
@@ -18837,16 +18837,16 @@
   "namn_noun": {
     "word": "namn",
     "type": "noun",
-    "genus": "m",
-    "plural": "namnar",
+    "genus": "n",
+    "plural": "namn",
     "forms": {
       "ubestemt": {
         "entall": "namn",
-        "flertall": "namnar"
+        "flertall": "namn"
       },
       "bestemt": {
-        "entall": "namnen",
-        "flertall": "namnane"
+        "entall": "namnet",
+        "flertall": "namna"
       }
     },
     "_enriched": true,
@@ -18937,16 +18937,16 @@
   "nerve_noun": {
     "word": "nerve",
     "type": "noun",
-    "genus": "m",
-    "plural": "nervar",
+    "genus": "f",
+    "plural": "nerver",
     "forms": {
       "ubestemt": {
         "entall": "nerve",
-        "flertall": "nervar"
+        "flertall": "nerver"
       },
       "bestemt": {
-        "entall": "nerven",
-        "flertall": "nervane"
+        "entall": "nerva",
+        "flertall": "nervene"
       }
     },
     "_enriched": true,
@@ -19217,16 +19217,16 @@
   "nål_noun": {
     "word": "nål",
     "type": "noun",
-    "genus": "m",
-    "plural": "nålar",
+    "genus": "f",
+    "plural": "nåler",
     "forms": {
       "ubestemt": {
         "entall": "nål",
-        "flertall": "nålar"
+        "flertall": "nåler"
       },
       "bestemt": {
-        "entall": "nålen",
-        "flertall": "nålane"
+        "entall": "nåla",
+        "flertall": "nålene"
       }
     },
     "_enriched": true,
@@ -19717,16 +19717,16 @@
   "oppgåve_noun": {
     "word": "oppgåve",
     "type": "noun",
-    "genus": "m",
-    "plural": "oppgåvar",
+    "genus": "f",
+    "plural": "oppgåver",
     "forms": {
       "ubestemt": {
         "entall": "oppgåve",
-        "flertall": "oppgåvar"
+        "flertall": "oppgåver"
       },
       "bestemt": {
-        "entall": "oppgåven",
-        "flertall": "oppgåvane"
+        "entall": "oppgåva",
+        "flertall": "oppgåvene"
       }
     },
     "_enriched": true,
@@ -19837,16 +19837,16 @@
   "oppskrift_noun": {
     "word": "oppskrift",
     "type": "noun",
-    "genus": "m",
-    "plural": "oppskriftar",
+    "genus": "f",
+    "plural": "oppskrifter",
     "forms": {
       "ubestemt": {
         "entall": "oppskrift",
-        "flertall": "oppskriftar"
+        "flertall": "oppskrifter"
       },
       "bestemt": {
-        "entall": "oppskriften",
-        "flertall": "oppskriftane"
+        "entall": "oppskrifta",
+        "flertall": "oppskriftene"
       }
     },
     "_enriched": true,
@@ -20017,16 +20017,16 @@
   "orkester_noun": {
     "word": "orkester",
     "type": "noun",
-    "genus": "m",
-    "plural": "orkesterar",
+    "genus": "n",
+    "plural": "orkester",
     "forms": {
       "ubestemt": {
         "entall": "orkester",
-        "flertall": "orkesterar"
+        "flertall": "orkester"
       },
       "bestemt": {
-        "entall": "orkesteren",
-        "flertall": "orkesterane"
+        "entall": "orkesteret",
+        "flertall": "orkestera"
       }
     },
     "_enriched": true,
@@ -20177,16 +20177,16 @@
   "overskrift_noun": {
     "word": "overskrift",
     "type": "noun",
-    "genus": "m",
-    "plural": "overskriftar",
+    "genus": "f",
+    "plural": "overskrifter",
     "forms": {
       "ubestemt": {
         "entall": "overskrift",
-        "flertall": "overskriftar"
+        "flertall": "overskrifter"
       },
       "bestemt": {
-        "entall": "overskriften",
-        "flertall": "overskriftane"
+        "entall": "overskrifta",
+        "flertall": "overskriftene"
       }
     },
     "_enriched": true,
@@ -20197,16 +20197,16 @@
   "overtid_noun": {
     "word": "overtid",
     "type": "noun",
-    "genus": "m",
-    "plural": "overtidar",
+    "genus": "f",
+    "plural": "overtider",
     "forms": {
       "ubestemt": {
         "entall": "overtid",
-        "flertall": "overtidar"
+        "flertall": "overtider"
       },
       "bestemt": {
-        "entall": "overtiden",
-        "flertall": "overtidane"
+        "entall": "overtida",
+        "flertall": "overtidene"
       }
     },
     "_enriched": true,
@@ -20257,16 +20257,16 @@
   "papir_noun": {
     "word": "papir",
     "type": "noun",
-    "genus": "m",
-    "plural": "papirar",
+    "genus": "n",
+    "plural": "papir",
     "forms": {
       "ubestemt": {
         "entall": "papir",
-        "flertall": "papirar"
+        "flertall": "papir"
       },
       "bestemt": {
-        "entall": "papiren",
-        "flertall": "papirane"
+        "entall": "papiret",
+        "flertall": "papira"
       }
     },
     "_enriched": true,
@@ -20697,16 +20697,16 @@
   "personale_noun": {
     "word": "personale",
     "type": "noun",
-    "genus": "m",
-    "plural": "personalar",
+    "genus": "n",
+    "plural": "personale",
     "forms": {
       "ubestemt": {
         "entall": "personale",
-        "flertall": "personalar"
+        "flertall": "personale"
       },
       "bestemt": {
-        "entall": "personalen",
-        "flertall": "personalane"
+        "entall": "personalet",
+        "flertall": "personala"
       }
     },
     "_enriched": true,
@@ -20977,16 +20977,16 @@
   "plaster_noun": {
     "word": "plaster",
     "type": "noun",
-    "genus": "m",
-    "plural": "plasterar",
+    "genus": "n",
+    "plural": "plaster",
     "forms": {
       "ubestemt": {
         "entall": "plaster",
-        "flertall": "plasterar"
+        "flertall": "plaster"
       },
       "bestemt": {
-        "entall": "plasteren",
-        "flertall": "plasterane"
+        "entall": "plasteret",
+        "flertall": "plastera"
       }
     },
     "_enriched": true,
@@ -21437,16 +21437,16 @@
   "presse_noun": {
     "word": "presse",
     "type": "noun",
-    "genus": "m",
-    "plural": "pressar",
+    "genus": "f",
+    "plural": "presser",
     "forms": {
       "ubestemt": {
         "entall": "presse",
-        "flertall": "pressar"
+        "flertall": "presser"
       },
       "bestemt": {
-        "entall": "pressen",
-        "flertall": "pressane"
+        "entall": "pressa",
+        "flertall": "pressene"
       }
     },
     "_enriched": true,
@@ -21697,16 +21697,16 @@
   "prospekt_noun": {
     "word": "prospekt",
     "type": "noun",
-    "genus": "m",
-    "plural": "prospektar",
+    "genus": "n",
+    "plural": "prospekt",
     "forms": {
       "ubestemt": {
         "entall": "prospekt",
-        "flertall": "prospektar"
+        "flertall": "prospekt"
       },
       "bestemt": {
-        "entall": "prospekten",
-        "flertall": "prospektane"
+        "entall": "prospektet",
+        "flertall": "prospekta"
       }
     },
     "_enriched": true,
@@ -21957,16 +21957,16 @@
   "påske_noun": {
     "word": "påske",
     "type": "noun",
-    "genus": "m",
-    "plural": "påskar",
+    "genus": "f",
+    "plural": "påsker",
     "forms": {
       "ubestemt": {
         "entall": "påske",
-        "flertall": "påskar"
+        "flertall": "påsker"
       },
       "bestemt": {
-        "entall": "påsken",
-        "flertall": "påskane"
+        "entall": "påska",
+        "flertall": "påskene"
       }
     },
     "_enriched": true,
@@ -22337,16 +22337,16 @@
   "rekkje_noun": {
     "word": "rekkje",
     "type": "noun",
-    "genus": "m",
-    "plural": "rekkjar",
+    "genus": "f",
+    "plural": "rekkjer",
     "forms": {
       "ubestemt": {
         "entall": "rekkje",
-        "flertall": "rekkjar"
+        "flertall": "rekkjer"
       },
       "bestemt": {
-        "entall": "rekkjen",
-        "flertall": "rekkjane"
+        "entall": "rekkja",
+        "flertall": "rekkjene"
       }
     },
     "_enriched": true,
@@ -22857,16 +22857,16 @@
   "ro_noun": {
     "word": "ro",
     "type": "noun",
-    "genus": "m",
-    "plural": "roar",
+    "genus": "f",
+    "plural": "roer",
     "forms": {
       "ubestemt": {
         "entall": "ro",
-        "flertall": "roar"
+        "flertall": "roer"
       },
       "bestemt": {
-        "entall": "roen",
-        "flertall": "roane"
+        "entall": "roa",
+        "flertall": "roene"
       }
     },
     "_enriched": true,
@@ -23157,16 +23157,16 @@
   "rørsle_noun": {
     "word": "rørsle",
     "type": "noun",
-    "genus": "n",
-    "plural": "rørsle",
+    "genus": "f",
+    "plural": "rørsler",
     "forms": {
       "ubestemt": {
         "entall": "rørsle",
-        "flertall": "rørsle"
+        "flertall": "rørsler"
       },
       "bestemt": {
-        "entall": "rørslet",
-        "flertall": "rørsla"
+        "entall": "rørsla",
+        "flertall": "rørslene"
       }
     },
     "_enriched": true,
@@ -23177,16 +23177,16 @@
   "røyndom_noun": {
     "word": "røyndom",
     "type": "noun",
-    "genus": "f",
-    "plural": "røyndomer",
+    "genus": "m",
+    "plural": "røyndomar",
     "forms": {
       "ubestemt": {
         "entall": "røyndom",
-        "flertall": "røyndomer"
+        "flertall": "røyndomar"
       },
       "bestemt": {
-        "entall": "røyndoma",
-        "flertall": "røyndomene"
+        "entall": "røyndomen",
+        "flertall": "røyndomane"
       }
     },
     "_enriched": true,
@@ -23377,16 +23377,16 @@
   "samband_noun": {
     "word": "samband",
     "type": "noun",
-    "genus": "f",
-    "plural": "sambander",
+    "genus": "n",
+    "plural": "samband",
     "forms": {
       "ubestemt": {
         "entall": "samband",
-        "flertall": "sambander"
+        "flertall": "samband"
       },
       "bestemt": {
-        "entall": "sambanda",
-        "flertall": "sambandene"
+        "entall": "sambandet",
+        "flertall": "sambanda"
       }
     },
     "_enriched": true,
@@ -23497,16 +23497,16 @@
   "samtykke_noun": {
     "word": "samtykke",
     "type": "noun",
-    "genus": "m",
-    "plural": "samtykkar",
+    "genus": "n",
+    "plural": "samtykke",
     "forms": {
       "ubestemt": {
         "entall": "samtykke",
-        "flertall": "samtykkar"
+        "flertall": "samtykke"
       },
       "bestemt": {
-        "entall": "samtykken",
-        "flertall": "samtykkane"
+        "entall": "samtykket",
+        "flertall": "samtykka"
       }
     },
     "_enriched": true,
@@ -23897,16 +23897,16 @@
   "seng_noun": {
     "word": "seng",
     "type": "noun",
-    "genus": "m",
-    "plural": "sengar",
+    "genus": "f",
+    "plural": "senger",
     "forms": {
       "ubestemt": {
         "entall": "seng",
-        "flertall": "sengar"
+        "flertall": "senger"
       },
       "bestemt": {
-        "entall": "sengen",
-        "flertall": "sengane"
+        "entall": "senga",
+        "flertall": "sengene"
       }
     },
     "_enriched": true,
@@ -24118,16 +24118,16 @@
   "sete_noun": {
     "word": "sete",
     "type": "noun",
-    "genus": "m",
-    "plural": "setar",
+    "genus": "n",
+    "plural": "sete",
     "forms": {
       "ubestemt": {
         "entall": "sete",
-        "flertall": "setar"
+        "flertall": "sete"
       },
       "bestemt": {
-        "entall": "seten",
-        "flertall": "setane"
+        "entall": "setet",
+        "flertall": "seta"
       }
     },
     "_enriched": true,
@@ -24258,16 +24258,16 @@
   "sirkus_noun": {
     "word": "sirkus",
     "type": "noun",
-    "genus": "m",
-    "plural": "sirkusar",
+    "genus": "n",
+    "plural": "sirkus",
     "forms": {
       "ubestemt": {
         "entall": "sirkus",
-        "flertall": "sirkusar"
+        "flertall": "sirkus"
       },
       "bestemt": {
-        "entall": "sirkusen",
-        "flertall": "sirkusane"
+        "entall": "sirkuset",
+        "flertall": "sirkusa"
       }
     },
     "_enriched": true,
@@ -24638,16 +24638,16 @@
   "skildring_noun": {
     "word": "skildring",
     "type": "noun",
-    "genus": "n",
-    "plural": "skildring",
+    "genus": "f",
+    "plural": "skildringar",
     "forms": {
       "ubestemt": {
         "entall": "skildring",
-        "flertall": "skildring"
+        "flertall": "skildringar"
       },
       "bestemt": {
-        "entall": "skildringet",
-        "flertall": "skildringa"
+        "entall": "skildringa",
+        "flertall": "skildringane"
       }
     },
     "_enriched": true,
@@ -25038,16 +25038,16 @@
   "skranke_noun": {
     "word": "skranke",
     "type": "noun",
-    "genus": "m",
-    "plural": "skrankar",
+    "genus": "f",
+    "plural": "skranker",
     "forms": {
       "ubestemt": {
         "entall": "skranke",
-        "flertall": "skrankar"
+        "flertall": "skranker"
       },
       "bestemt": {
-        "entall": "skranken",
-        "flertall": "skrankane"
+        "entall": "skranka",
+        "flertall": "skrankene"
       }
     },
     "_enriched": true,
@@ -25318,7 +25318,7 @@
   "slektning_noun": {
     "word": "slektning",
     "type": "noun",
-    "genus": "f",
+    "genus": "m",
     "plural": "slektningar",
     "forms": {
       "ubestemt": {
@@ -25326,7 +25326,7 @@
         "flertall": "slektningar"
       },
       "bestemt": {
-        "entall": "slektninga",
+        "entall": "slektningen",
         "flertall": "slektningane"
       }
     },
@@ -25498,16 +25498,16 @@
   "snue_noun": {
     "word": "snue",
     "type": "noun",
-    "genus": "m",
-    "plural": "snuar",
+    "genus": "f",
+    "plural": "snuer",
     "forms": {
       "ubestemt": {
         "entall": "snue",
-        "flertall": "snuar"
+        "flertall": "snuer"
       },
       "bestemt": {
-        "entall": "snuen",
-        "flertall": "snuane"
+        "entall": "snua",
+        "flertall": "snuene"
       }
     },
     "_enriched": true,
@@ -25698,16 +25698,16 @@
   "sone_noun": {
     "word": "sone",
     "type": "noun",
-    "genus": "m",
-    "plural": "sonar",
+    "genus": "f",
+    "plural": "soner",
     "forms": {
       "ubestemt": {
         "entall": "sone",
-        "flertall": "sonar"
+        "flertall": "soner"
       },
       "bestemt": {
-        "entall": "sonen",
-        "flertall": "sonane"
+        "entall": "sona",
+        "flertall": "sonene"
       }
     },
     "_enriched": true,
@@ -26719,16 +26719,16 @@
   "studie_noun": {
     "word": "studie",
     "type": "noun",
-    "genus": "m",
-    "plural": "studiar",
+    "genus": "n",
+    "plural": "studie",
     "forms": {
       "ubestemt": {
         "entall": "studie",
-        "flertall": "studiar"
+        "flertall": "studie"
       },
       "bestemt": {
-        "entall": "studien",
-        "flertall": "studiane"
+        "entall": "studiet",
+        "flertall": "studia"
       }
     },
     "_enriched": true,
@@ -26839,16 +26839,16 @@
   "støtte_noun": {
     "word": "støtte",
     "type": "noun",
-    "genus": "m",
-    "plural": "støttar",
+    "genus": "f",
+    "plural": "støtter",
     "forms": {
       "ubestemt": {
         "entall": "støtte",
-        "flertall": "støttar"
+        "flertall": "støtter"
       },
       "bestemt": {
-        "entall": "støtten",
-        "flertall": "støttane"
+        "entall": "støtta",
+        "flertall": "støttene"
       }
     },
     "_enriched": true,
@@ -26979,16 +26979,16 @@
   "sum_noun": {
     "word": "sum",
     "type": "noun",
-    "genus": "n",
-    "plural": "sum",
+    "genus": "m",
+    "plural": "sumar",
     "forms": {
       "ubestemt": {
         "entall": "sum",
-        "flertall": "sum"
+        "flertall": "sumar"
       },
       "bestemt": {
-        "entall": "sumet",
-        "flertall": "suma"
+        "entall": "sumen",
+        "flertall": "sumane"
       }
     },
     "_enriched": true,
@@ -27139,16 +27139,16 @@
   "sykekasse_noun": {
     "word": "sykekasse",
     "type": "noun",
-    "genus": "m",
-    "plural": "sykekassar",
+    "genus": "f",
+    "plural": "sykekasser",
     "forms": {
       "ubestemt": {
         "entall": "sykekasse",
-        "flertall": "sykekassar"
+        "flertall": "sykekasser"
       },
       "bestemt": {
-        "entall": "sykekassen",
-        "flertall": "sykekassane"
+        "entall": "sykekassa",
+        "flertall": "sykekassene"
       }
     },
     "_enriched": true,
@@ -27739,16 +27739,16 @@
   "tannbørste_noun": {
     "word": "tannbørste",
     "type": "noun",
-    "genus": "m",
-    "plural": "tannbørstar",
+    "genus": "f",
+    "plural": "tannbørster",
     "forms": {
       "ubestemt": {
         "entall": "tannbørste",
-        "flertall": "tannbørstar"
+        "flertall": "tannbørster"
       },
       "bestemt": {
-        "entall": "tannbørsten",
-        "flertall": "tannbørstane"
+        "entall": "tannbørsta",
+        "flertall": "tannbørstene"
       }
     },
     "_enriched": true,
@@ -28119,16 +28119,16 @@
   "telefonsamtale_noun": {
     "word": "telefonsamtale",
     "type": "noun",
-    "genus": "m",
-    "plural": "telefonsamtalar",
+    "genus": "f",
+    "plural": "telefonsamtaler",
     "forms": {
       "ubestemt": {
         "entall": "telefonsamtale",
-        "flertall": "telefonsamtalar"
+        "flertall": "telefonsamtaler"
       },
       "bestemt": {
-        "entall": "telefonsamtalen",
-        "flertall": "telefonsamtalane"
+        "entall": "telefonsamtala",
+        "flertall": "telefonsamtalene"
       }
     },
     "_enriched": true,
@@ -28299,16 +28299,16 @@
   "teppe_noun": {
     "word": "teppe",
     "type": "noun",
-    "genus": "m",
-    "plural": "teppar",
+    "genus": "n",
+    "plural": "teppe",
     "forms": {
       "ubestemt": {
         "entall": "teppe",
-        "flertall": "teppar"
+        "flertall": "teppe"
       },
       "bestemt": {
-        "entall": "teppen",
-        "flertall": "teppane"
+        "entall": "teppet",
+        "flertall": "teppa"
       }
     },
     "_enriched": true,
@@ -28699,16 +28699,16 @@
   "tiltale_noun": {
     "word": "tiltale",
     "type": "noun",
-    "genus": "m",
-    "plural": "tiltalar",
+    "genus": "f",
+    "plural": "tiltaler",
     "forms": {
       "ubestemt": {
         "entall": "tiltale",
-        "flertall": "tiltalar"
+        "flertall": "tiltaler"
       },
       "bestemt": {
-        "entall": "tiltalen",
-        "flertall": "tiltalane"
+        "entall": "tiltala",
+        "flertall": "tiltalene"
       }
     },
     "_enriched": true,
@@ -28859,16 +28859,16 @@
   "toalett_noun": {
     "word": "toalett",
     "type": "noun",
-    "genus": "m",
-    "plural": "toalettar",
+    "genus": "n",
+    "plural": "toalett",
     "forms": {
       "ubestemt": {
         "entall": "toalett",
-        "flertall": "toalettar"
+        "flertall": "toalett"
       },
       "bestemt": {
-        "entall": "toaletten",
-        "flertall": "toalettane"
+        "entall": "toalettet",
+        "flertall": "toaletta"
       }
     },
     "_enriched": true,
@@ -28879,16 +28879,16 @@
   "tog_noun": {
     "word": "tog",
     "type": "noun",
-    "genus": "m",
-    "plural": "togar",
+    "genus": "n",
+    "plural": "tog",
     "forms": {
       "ubestemt": {
         "entall": "tog",
-        "flertall": "togar"
+        "flertall": "tog"
       },
       "bestemt": {
-        "entall": "togen",
-        "flertall": "togane"
+        "entall": "toget",
+        "flertall": "toga"
       }
     },
     "_enriched": true,
@@ -29379,16 +29379,16 @@
   "tskjorte_noun": {
     "word": "t-skjorte",
     "type": "noun",
-    "genus": "m",
-    "plural": "t-skjortar",
+    "genus": "f",
+    "plural": "t-skjorter",
     "forms": {
       "ubestemt": {
         "entall": "t-skjorte",
-        "flertall": "t-skjortar"
+        "flertall": "t-skjorter"
       },
       "bestemt": {
-        "entall": "t-skjorten",
-        "flertall": "t-skjortane"
+        "entall": "t-skjorta",
+        "flertall": "t-skjortene"
       }
     },
     "_enriched": true,
@@ -29620,16 +29620,16 @@
   "tåke_noun": {
     "word": "tåke",
     "type": "noun",
-    "genus": "m",
-    "plural": "tåkar",
+    "genus": "f",
+    "plural": "tåker",
     "forms": {
       "ubestemt": {
         "entall": "tåke",
-        "flertall": "tåkar"
+        "flertall": "tåker"
       },
       "bestemt": {
-        "entall": "tåken",
-        "flertall": "tåkane"
+        "entall": "tåka",
+        "flertall": "tåkene"
       }
     },
     "_enriched": true,
@@ -29680,16 +29680,16 @@
   "tårn_noun": {
     "word": "tårn",
     "type": "noun",
-    "genus": "m",
-    "plural": "tårnar",
+    "genus": "n",
+    "plural": "tårn",
     "forms": {
       "ubestemt": {
         "entall": "tårn",
-        "flertall": "tårnar"
+        "flertall": "tårn"
       },
       "bestemt": {
-        "entall": "tårnen",
-        "flertall": "tårnane"
+        "entall": "tårnet",
+        "flertall": "tårna"
       }
     },
     "_enriched": true,
@@ -29880,16 +29880,16 @@
   "underskrift_noun": {
     "word": "underskrift",
     "type": "noun",
-    "genus": "m",
-    "plural": "underskriftar",
+    "genus": "f",
+    "plural": "underskrifter",
     "forms": {
       "ubestemt": {
         "entall": "underskrift",
-        "flertall": "underskriftar"
+        "flertall": "underskrifter"
       },
       "bestemt": {
-        "entall": "underskriften",
-        "flertall": "underskriftane"
+        "entall": "underskrifta",
+        "flertall": "underskriftene"
       }
     },
     "_enriched": true,
@@ -29960,16 +29960,16 @@
   "ungdomsherberge_noun": {
     "word": "ungdomsherberge",
     "type": "noun",
-    "genus": "m",
-    "plural": "ungdomsherbergar",
+    "genus": "n",
+    "plural": "ungdomsherberge",
     "forms": {
       "ubestemt": {
         "entall": "ungdomsherberge",
-        "flertall": "ungdomsherbergar"
+        "flertall": "ungdomsherberge"
       },
       "bestemt": {
-        "entall": "ungdomsherbergen",
-        "flertall": "ungdomsherbergane"
+        "entall": "ungdomsherberget",
+        "flertall": "ungdomsherberga"
       }
     },
     "_enriched": true,
@@ -30161,16 +30161,16 @@
   "utgave_noun": {
     "word": "utgave",
     "type": "noun",
-    "genus": "m",
-    "plural": "utgavar",
+    "genus": "f",
+    "plural": "utgaver",
     "forms": {
       "ubestemt": {
         "entall": "utgave",
-        "flertall": "utgavar"
+        "flertall": "utgaver"
       },
       "bestemt": {
-        "entall": "utgaven",
-        "flertall": "utgavane"
+        "entall": "utgava",
+        "flertall": "utgavene"
       }
     },
     "_enriched": true,
@@ -30261,7 +30261,7 @@
   "utlending_noun": {
     "word": "utlending",
     "type": "noun",
-    "genus": "f",
+    "genus": "m",
     "plural": "utlendingar",
     "forms": {
       "ubestemt": {
@@ -30269,7 +30269,7 @@
         "flertall": "utlendingar"
       },
       "bestemt": {
-        "entall": "utlendinga",
+        "entall": "utlendingen",
         "flertall": "utlendingane"
       }
     },
@@ -30321,16 +30321,16 @@
   "utsikt_noun": {
     "word": "utsikt",
     "type": "noun",
-    "genus": "m",
-    "plural": "utsiktar",
+    "genus": "f",
+    "plural": "utsikter",
     "forms": {
       "ubestemt": {
         "entall": "utsikt",
-        "flertall": "utsiktar"
+        "flertall": "utsikter"
       },
       "bestemt": {
-        "entall": "utsikten",
-        "flertall": "utsiktane"
+        "entall": "utsikta",
+        "flertall": "utsiktene"
       }
     },
     "_enriched": true,
@@ -30581,16 +30581,16 @@
   "vare_noun": {
     "word": "vare",
     "type": "noun",
-    "genus": "m",
-    "plural": "varar",
+    "genus": "f",
+    "plural": "varer",
     "forms": {
       "ubestemt": {
         "entall": "vare",
-        "flertall": "varar"
+        "flertall": "varer"
       },
       "bestemt": {
-        "entall": "varen",
-        "flertall": "varane"
+        "entall": "vara",
+        "flertall": "varene"
       }
     },
     "_enriched": true,
@@ -30621,16 +30621,16 @@
   "varme_noun": {
     "word": "varme",
     "type": "noun",
-    "genus": "m",
-    "plural": "varmar",
+    "genus": "f",
+    "plural": "varmer",
     "forms": {
       "ubestemt": {
         "entall": "varme",
-        "flertall": "varmar"
+        "flertall": "varmer"
       },
       "bestemt": {
-        "entall": "varmen",
-        "flertall": "varmane"
+        "entall": "varma",
+        "flertall": "varmene"
       }
     },
     "_enriched": true,
@@ -30641,16 +30641,16 @@
   "vase_noun": {
     "word": "vase",
     "type": "noun",
-    "genus": "m",
-    "plural": "vasar",
+    "genus": "f",
+    "plural": "vaser",
     "forms": {
       "ubestemt": {
         "entall": "vase",
-        "flertall": "vasar"
+        "flertall": "vaser"
       },
       "bestemt": {
-        "entall": "vasen",
-        "flertall": "vasane"
+        "entall": "vasa",
+        "flertall": "vasene"
       }
     },
     "_enriched": true,
@@ -31001,16 +31001,16 @@
   "verkstad_noun": {
     "word": "verkstad",
     "type": "noun",
-    "genus": "n",
-    "plural": "verkstad",
+    "genus": "m",
+    "plural": "verkstadar",
     "forms": {
       "ubestemt": {
         "entall": "verkstad",
-        "flertall": "verkstad"
+        "flertall": "verkstadar"
       },
       "bestemt": {
-        "entall": "verkstadet",
-        "flertall": "verkstada"
+        "entall": "verkstaden",
+        "flertall": "verkstadane"
       }
     },
     "_enriched": true,
@@ -31021,16 +31021,16 @@
   "verktøy_noun": {
     "word": "verktøy",
     "type": "noun",
-    "genus": "m",
-    "plural": "verktøyar",
+    "genus": "n",
+    "plural": "verktøy",
     "forms": {
       "ubestemt": {
         "entall": "verktøy",
-        "flertall": "verktøyar"
+        "flertall": "verktøy"
       },
       "bestemt": {
-        "entall": "verktøyen",
-        "flertall": "verktøyane"
+        "entall": "verktøyet",
+        "flertall": "verktøya"
       }
     },
     "_enriched": true,
@@ -31421,16 +31421,16 @@
   "vitne_noun": {
     "word": "vitne",
     "type": "noun",
-    "genus": "m",
-    "plural": "vitnar",
+    "genus": "n",
+    "plural": "vitne",
     "forms": {
       "ubestemt": {
         "entall": "vitne",
-        "flertall": "vitnar"
+        "flertall": "vitne"
       },
       "bestemt": {
-        "entall": "vitnen",
-        "flertall": "vitnane"
+        "entall": "vitnet",
+        "flertall": "vitna"
       }
     },
     "_enriched": true,

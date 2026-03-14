@@ -401,6 +401,42 @@ const GENUS_OVERRIDES = {
   'begrunnelse': 'f', 'begynnelse': 'f', 'bekreftelse': 'f', 'bekymring': 'f',
   'beliggenhet': 'f', 'beskjeftigelse': 'f', 'beskrivelse': 'f', 'betaling': 'f',
   'betingelse': 'f', 'betydning': 'f', 'bevegelse': 'f',
+  // --- Round 2 genus corrections (113 entries) ---
+  // Neuter wrongly masculine
+  'bygg': 'n', 'etternamn': 'n', 'fornamn': 'n', 'foto': 'n', 'fotografi': 'n',
+  'fotoapparat': 'n', 'framhald': 'n', 'følge': 'n', 'hefte': 'n', 'hensyn': 'n',
+  'hjørne': 'n', 'hotell': 'n', 'håndkle': 'n', 'internett': 'n', 'jordbær': 'n',
+  'kamera': 'n', 'kompromiss': 'n', 'konsulat': 'n', 'kors': 'n', 'kostyme': 'n',
+  'lager': 'n', 'landbruk': 'n', 'lokale': 'n', 'lokaltog': 'n',
+  'lommetørkle': 'n', 'mel': 'n', 'merke': 'n', 'metall': 'n',
+  'motorhavari': 'n', 'namn': 'n', 'orkester': 'n', 'papir': 'n',
+  'personale': 'n', 'plaster': 'n', 'prospekt': 'n', 'samtykke': 'n',
+  'sete': 'n', 'sirkus': 'n', 'studie': 'n', 'teppe': 'n', 'toalett': 'n',
+  'tog': 'n', 'tårn': 'n', 'verktøy': 'n', 'ungdomsherberge': 'n', 'vitne': 'n',
+  'samband': 'n',
+  // Feminine wrongly masculine
+  'ambulanse': 'f', 'bagasje': 'f', 'borg': 'f', 'bredde': 'f',
+  'dagsrytme': 'f', 'deltid': 'f', 'drue': 'f', 'eng': 'f', 'etasje': 'f',
+  'forskrift': 'f', 'fortid': 'f', 'frisyre': 'f', 'garderobe': 'f',
+  'gjeld': 'f', 'gågate': 'f', 'heltid': 'f', 'hete': 'f',
+  'historielekse': 'f', 'hjelp': 'f', 'hud': 'f', 'kabine': 'f',
+  'kantine': 'f', 'kiste': 'f', 'kjensle': 'f', 'kjole': 'f',
+  'kjørebane': 'f', 'kontortid': 'f', 'krise': 'f', 'kulde': 'f',
+  'kurve': 'f', 'lyst': 'f', 'lære': 'f', 'møye': 'f', 'nerve': 'f',
+  'nål': 'f', 'oppgåve': 'f', 'oppskrift': 'f', 'overskrift': 'f',
+  'overtid': 'f', 'presse': 'f', 'påske': 'f', 'rekkje': 'f', 'ro': 'f',
+  'seng': 'f', 'skranke': 'f', 'snue': 'f', 'sone': 'f', 'støtte': 'f',
+  'sykekasse': 'f', 't-skjorte': 'f', 'tannbørste': 'f',
+  'telefonsamtale': 'f', 'tiltale': 'f', 'tåke': 'f', 'underskrift': 'f',
+  'utsikt': 'f', 'utgave': 'f', 'vare': 'f', 'varme': 'f', 'vase': 'f',
+  // Feminine wrongly neuter
+  'byrjing': 'f', 'skildring': 'f', 'rørsle': 'f',
+  // Masculine wrongly feminine
+  'honning': 'm', 'kylling': 'm', 'lærling': 'm', 'slektning': 'm',
+  'utlending': 'm',
+  // Masculine wrongly neuter
+  'bustad': 'm', 'fødestad': 'm', 'verkstad': 'm', 'sum': 'm',
+  'røyndom': 'm',
 };
 
 // ═══════════════════════════════════════════════════════════════════════════
@@ -727,6 +763,29 @@ const IRREGULAR_VERBS_NN = {
   'gråta': { cls: 'sterk', presens: 'grèt', preteritum: 'gret', partisipp: 'gråte', imperativ: 'grèt', aux: 'har' },
   'gråte': { cls: 'sterk', presens: 'grèt', preteritum: 'gret', partisipp: 'gråte', imperativ: 'grèt', aux: 'har' },
   'be': { cls: 'sterk', presens: 'bed', preteritum: 'bad', partisipp: 'bede', imperativ: 'be', aux: 'har' },
+  'lyge': { cls: 'sterk', presens: 'lyg', preteritum: 'laug', partisipp: 'loge', imperativ: 'lyg', aux: 'har' },
+  'lyve': { cls: 'sterk', presens: 'lyg', preteritum: 'laug', partisipp: 'loge', imperativ: 'lyg', aux: 'har' },
+  'rida': { cls: 'sterk', presens: 'rid', preteritum: 'reid', partisipp: 'ride', imperativ: 'rid', aux: 'har' },
+  'ri': { cls: 'sterk', presens: 'rid', preteritum: 'reid', partisipp: 'ride', imperativ: 'rid', aux: 'har' },
+  'velje': { cls: 'sterk', presens: 'vel', preteritum: 'valde', partisipp: 'valt', imperativ: 'vel', aux: 'har' },
+  'velge': { cls: 'sterk', presens: 'vel', preteritum: 'valde', partisipp: 'valt', imperativ: 'vel', aux: 'har' },
+  'tegje': { cls: 'sterk', presens: 'teg', preteritum: 'tagde', partisipp: 'tagd', imperativ: 'teg', aux: 'har' },
+  'tie': { cls: 'sterk', presens: 'teg', preteritum: 'tagde', partisipp: 'tagd', imperativ: 'teg', aux: 'har' },
+  'vege': { cls: 'sterk', presens: 'veg', preteritum: 'vog', partisipp: 'vege', imperativ: 'veg', aux: 'har' },
+  'veie': { cls: 'sterk', presens: 'veg', preteritum: 'vog', partisipp: 'vege', imperativ: 'veg', aux: 'har' },
+  'skrike': { cls: 'sterk', presens: 'skrik', preteritum: 'skreik', partisipp: 'skrike', imperativ: 'skrik', aux: 'har' },
+  'overdrive': { cls: 'sterk', presens: 'overdriv', preteritum: 'overdreiv', partisipp: 'overdrive', imperativ: 'overdriv', aux: 'har' },
+  'underskrive': { cls: 'sterk', presens: 'underskriv', preteritum: 'underskreiv', partisipp: 'underskrive', imperativ: 'underskriv', aux: 'har' },
+  'lide': { cls: 'sterk', presens: 'lid', preteritum: 'leid', partisipp: 'lide', imperativ: 'lid', aux: 'har' },
+  'følgje': { cls: 'svak', presens: 'følgjer', preteritum: 'følgde', partisipp: 'følgd', imperativ: 'følg', aux: 'har' },
+  'følge': { cls: 'svak', presens: 'følgjer', preteritum: 'følgde', partisipp: 'følgd', imperativ: 'følg', aux: 'har' },
+  'gjelde': { cls: 'sterk', presens: 'gjeld', preteritum: 'gjaldt', partisipp: 'golde', imperativ: 'gjeld', aux: 'har' },
+  'lede': { cls: 'svak', presens: 'leier', preteritum: 'leidde', partisipp: 'leidd', imperativ: 'lei', aux: 'har' },
+  'dreie': { cls: 'svak', presens: 'dreier', preteritum: 'dreidde', partisipp: 'dreidd', imperativ: 'drei', aux: 'har' },
+  'leige': { cls: 'svak', presens: 'leiger', preteritum: 'leigde', partisipp: 'leigd', imperativ: 'leig', aux: 'har' },
+  'leie': { cls: 'svak', presens: 'leiger', preteritum: 'leigde', partisipp: 'leigd', imperativ: 'leig', aux: 'har' },
+  'krevje': { cls: 'svak', presens: 'krev', preteritum: 'kravde', partisipp: 'kravd', imperativ: 'krev', aux: 'har' },
+  'kreve': { cls: 'svak', presens: 'krev', preteritum: 'kravde', partisipp: 'kravd', imperativ: 'krev', aux: 'har' },
   // Compound verbs of strong stems
   'beskriva': { cls: 'sterk', presens: 'beskriv', preteritum: 'beskreiv', partisipp: 'beskrive', imperativ: 'beskriv', aux: 'har' },
   'beskrive': { cls: 'sterk', presens: 'beskriv', preteritum: 'beskreiv', partisipp: 'beskrive', imperativ: 'beskriv', aux: 'har' },
@@ -971,7 +1030,7 @@ function enrichVerbNN(nnWord) {
     presens = cj.slice(0, -1) + 'er';
     preteritum = cj.slice(0, -1) + 'te';
     partisipp = cj.slice(0, -1) + 't';
-    imperativ = cj.slice(0, -1) + 'r'; // akseptér → stem
+    imperativ = cj.slice(0, -2) + 'r'; // akseptera → akseptér
   } else if (cj.endsWith('ere')) {
     // Some NN verbs keep -ere form: akseptere → aksepterer, aksepterte, akseptert
     verbClass = 'svak';
@@ -1002,24 +1061,57 @@ function enrichVerbNN(nnWord) {
     preteritum = cj.replace(/ast$/, 'test').replace(/st$/, 'test');
     partisipp = cj.replace(/ast$/, 'st').replace(/st$/, 'st');
     imperativ = '-';
-  } else if (cj.endsWith('le') || cj.endsWith('re') || cj.endsWith('ne')) {
-    // -le/-re/-ne verbs: these are typically a-verbs in NN
+  } else if (cj.endsWith('le') || cj.endsWith('re') || cj.endsWith('ne') || cj.endsWith('me')) {
+    // -le/-re/-ne/-me verbs: these are typically a-verbs in NN
     // behandle → behandlar, behandla, behandla
     // ordne → ordnar, ordna, ordna
-    // lagre → lagrar, lagra, lagra
+    // fornærme → fornærmar, fornærma, fornærma
+    verbClass = 'svak';
+    presens = cj + 'r';
+    preteritum = cj.slice(0, -1) + 'a';
+    partisipp = cj.slice(0, -1) + 'a';
+    // Imperative: keep at least 3 chars to be pronounceable
+    const imp = cj.slice(0, -1);
+    imperativ = imp.length >= 3 ? imp : cj;
+  } else if (cj.endsWith('ge')) {
+    // -ge verbs in NN: pret ends in -ga (beklaga, oppdaga, klaga)
+    verbClass = 'svak';
+    presens = cj + 'r';
+    preteritum = cj.slice(0, -1) + 'a';
+    partisipp = cj.slice(0, -1) + 'a';
+    imperativ = cj.slice(0, -1);
+  } else if (cj.endsWith('de')) {
+    // -de verbs in NN: pret ends in -dde or -da
+    const stem = cj.slice(0, -1);
+    verbClass = 'svak';
+    presens = cj + 'r';
+    preteritum = stem + 'de';
+    partisipp = stem + 'd';
+    imperativ = stem.length >= 3 ? stem : cj;
+  } else if (cj.endsWith('ve')) {
+    // -ve verbs in NN: pret ends in -vde (levde, prøvde, øvde)
+    const stem = cj.slice(0, -1);
+    verbClass = 'svak';
+    presens = cj + 'r';
+    preteritum = stem + 'de';
+    partisipp = stem + 'd';
+    imperativ = stem;
+  } else if (cj.endsWith('te') && !cj.match(/(kk|pp|ss|ll|nn|mm|gg|bb|dd|ff|ng|nk|sk|rk|lp|mp|nt|nd|ft|kt|pt|st)e$/)) {
+    // -te verbs (NOT double consonant stems): NN pret ends in -a
+    // starte → startar, starta, starta (not startte)
     verbClass = 'svak';
     presens = cj + 'r';
     preteritum = cj.slice(0, -1) + 'a';
     partisipp = cj.slice(0, -1) + 'a';
     imperativ = cj.slice(0, -1);
   } else if (cj.endsWith('e')) {
-    // e-verbs (NN weak class 2): leve → lever, levde, levd
+    // Other e-verbs (NN weak class 2): leve → lever, levde, levd
     const stem = cj.slice(0, -1);
     verbClass = 'svak';
     presens = cj + 'r';
     preteritum = stem + 'te';
     partisipp = stem + 't';
-    imperativ = stem;
+    imperativ = stem.length >= 3 ? stem : cj;
   } else {
     // Monosyllabic: bu → bur, budde, budd
     verbClass = 'svak';
