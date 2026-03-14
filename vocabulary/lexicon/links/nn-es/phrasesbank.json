@@ -3,7 +3,7 @@
     "from": "nn",
     "to": "es",
     "bank": "phrasesbank",
-    "generatedAt": "2026-03-14T07:19:53.579Z",
+    "generatedAt": "2026-03-14T08:03:49.009Z",
     "totalLinks": 56
   },
   "beklagar_eg_er_lei_meg_phrase": {
@@ -36,13 +36,13 @@
   "eg_heiter_phrase": {
     "primary": "me_llamo_phrase"
   },
-  "eg_tror_det_phrase": {
+  "eg_trur_det_phrase": {
     "primary": "creo_que_si_phrase"
   },
-  "eg_tror_ikkje_det_phrase": {
+  "eg_trur_ikkje_det_phrase": {
     "primary": "creo_que_no_phrase"
   },
-  "eg_vet_ikkje_phrase": {
+  "eg_veit_ikkje_phrase": {
     "primary": "no_se_phrase"
   },
   "enig_ok_phrase": {
@@ -57,7 +57,7 @@
   "god_kveld_phrase": {
     "primary": "buenas_noches_phrase"
   },
-  "god_morgen_phrase": {
+  "god_morgon_phrase": {
     "primary": "buenos_dias_phrase"
   },
   "gratulerer_med_dagen_phrase": {
@@ -93,17 +93,17 @@
   "korleis_har_du_det_phrase": {
     "primary": "como_estas_phrase"
   },
-  "korleis_sier_man_phrase": {
+  "korleis_seier_ein_phrase": {
     "primary": "como_se_dice_phrase"
-  },
-  "kva_betyr_phrase": {
-    "primary": "que_significa_phrase"
   },
   "kva_er_klokka_phrase": {
     "primary": "que_hora_es_phrase"
   },
   "kva_heiter_du_phrase": {
     "primary": "como_te_llamas_phrase"
+  },
+  "kva_tyder_phrase": {
+    "primary": "que_significa_phrase"
   },
   "kvar_bur_du_phrase": {
     "primary": "donde_vives_phrase"
@@ -168,13 +168,13 @@
   "ver_så_snill_phrase": {
     "primary": "por_favor_phrase"
   },
-  "vi_sees_snart_phrase": {
-    "primary": "hasta_pronto_phrase"
-  },
-  "vi_ses_i_morgen_phrase": {
+  "vi_sest_i_morgon_phrase": {
     "primary": "hasta_manana_phrase"
   },
-  "vi_ses_senere_phrase": {
+  "vi_sest_seinare_phrase": {
     "primary": "hasta_luego_phrase"
+  },
+  "vi_sjåast_snart_phrase": {
+    "primary": "hasta_pronto_phrase"
   }
 }

@@ -3,8 +3,8 @@
     "from": "nn",
     "to": "de",
     "bank": "pronounsbank",
-    "generatedAt": "2026-03-14T07:19:53.564Z",
-    "totalLinks": 46
+    "generatedAt": "2026-03-14T08:03:48.989Z",
+    "totalLinks": 45
   },
   "alle_pron": {
     "primary": "alle_pron"
@@ -73,7 +73,10 @@
     "primary": "ich_pron"
   },
   "ein_pron": {
-    "primary": "man_pron"
+    "primary": "man_pron",
+    "alternatives": [
+      "man_pron"
+    ]
   },
   "flertall_pron": {
     "primary": "deine_possessiv",
@@ -136,9 +139,6 @@
     "alternatives": [
       "wer_pron"
     ]
-  },
-  "man_pron": {
-    "primary": "man_pron"
   },
   "meg_pron": {
     "primary": "mich_pron",

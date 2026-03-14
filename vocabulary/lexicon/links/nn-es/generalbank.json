@@ -3,7 +3,7 @@
     "from": "nn",
     "to": "es",
     "bank": "generalbank",
-    "generatedAt": "2026-03-14T07:19:53.575Z",
+    "generatedAt": "2026-03-14T08:03:49.004Z",
     "totalLinks": 276
   },
   "akkurat_adv": {
@@ -176,16 +176,16 @@
   "eg_heiter_phrase": {
     "primary": "me_llamo_phrase"
   },
-  "eg_liker_ikkje_phrase": {
+  "eg_likar_ikkje_phrase": {
     "primary": "no_me_gusta_phrase"
   },
-  "eg_liker_phrase": {
+  "eg_likar_phrase": {
     "primary": "me_gusta_phrase"
   },
-  "eg_mener_at_phrase": {
+  "eg_meiner_at_phrase": {
     "primary": "pienso_que_phrase"
   },
-  "eg_tror_at_phrase": {
+  "eg_trur_at_phrase": {
     "primary": "creo_que_phrase"
   },
   "egentleg_expr": {
@@ -296,7 +296,7 @@
   "god_kveld_phrase": {
     "primary": "buenas_noches_phrase"
   },
-  "god_morgen_phrase": {
+  "god_morgon_phrase": {
     "primary": "buenos_dias_phrase"
   },
   "god_natt_phrase": {
@@ -326,11 +326,11 @@
   "gå_og_handle_phrase": {
     "primary": "ir_de_compras_phrase"
   },
-  "ha_det_gøy_phrase": {
-    "primary": "pasarlo_bien_phrase"
-  },
   "ha_det_interj": {
     "primary": "adios_interj"
+  },
+  "ha_det_moro_phrase": {
+    "primary": "pasarlo_bien_phrase"
   },
   "ha_ein_fin_dag_phrase": {
     "primary": "que_tengas_un_buen_dia_phrase"
@@ -386,7 +386,7 @@
   "i_løpet_av_prep": {
     "primary": "durante_prep"
   },
-  "i_morgen_adv": {
+  "i_morgon_adv": {
     "primary": "manana_adv"
   },
   "i_nærheten_av_prep": {
@@ -440,7 +440,7 @@
   "klokka_er_to_phrase": {
     "primary": "son_las_dos_phrase"
   },
-  "komme_godt_overens_phrase": {
+  "komme_godt_overeins_phrase": {
     "primary": "llevarse_bien_phrase"
   },
   "korleis_går_det_phrase": {
@@ -452,11 +452,8 @@
   "korleis_interr": {
     "primary": "como_interr"
   },
-  "korleis_sier_man_phrase": {
+  "korleis_seier_ein_phrase": {
     "primary": "como_se_dice_phrase"
-  },
-  "kva_betyr_phrase": {
-    "primary": "que_significa_phrase"
   },
   "kva_er_det_phrase": {
     "primary": "que_hay_phrase"
@@ -475,6 +472,9 @@
   },
   "kva_skjer_phrase": {
     "primary": "que_hay_phrase"
+  },
+  "kva_tyder_phrase": {
+    "primary": "que_significa_phrase"
   },
   "kvar_dag_expr": {
     "primary": "cada_dia_expr",
@@ -536,7 +536,7 @@
   "med_buss_expr": {
     "primary": "en_autobus_expr"
   },
-  "med_ein_gang_adv": {
+  "med_ein_gong_adv": {
     "primary": "enseguida_adv"
   },
   "med_fly_expr": {
@@ -605,7 +605,7 @@
   "nok_adv": {
     "primary": "bastante_adv"
   },
-  "nokon_ganger_adv": {
+  "nokon_gonger_adv": {
     "primary": "a_veces_adv"
   },
   "norge_propn": {
@@ -641,7 +641,7 @@
   "om_kvelden_expr": {
     "primary": "por_la_noche_expr"
   },
-  "om_morgenen_expr": {
+  "om_morgonen_expr": {
     "primary": "por_la_manana_expr"
   },
   "om_prep": {
@@ -881,13 +881,13 @@
   "verken_conj": {
     "primary": "ni_conj"
   },
-  "vi_sees_i_morgen_phrase": {
+  "vi_sjåast_i_morgon_phrase": {
     "primary": "hasta_manana_phrase"
   },
-  "vi_sees_senere_phrase": {
+  "vi_sjåast_seinare_phrase": {
     "primary": "hasta_luego_phrase"
   },
-  "vi_sees_snart_phrase": {
+  "vi_sjåast_snart_phrase": {
     "primary": "hasta_pronto_phrase"
   },
   "viss_conj": {

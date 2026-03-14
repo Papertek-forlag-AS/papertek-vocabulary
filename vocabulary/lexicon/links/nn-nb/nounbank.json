@@ -3,7 +3,7 @@
     "from": "nn",
     "to": "nb",
     "bank": "nounbank",
-    "generatedAt": "2026-03-14T07:19:53.520Z",
+    "generatedAt": "2026-03-14T08:03:48.943Z",
     "totalLinks": 1596
   },
   "abonnement_noun": {
@@ -11,9 +11,6 @@
   },
   "adresse_noun": {
     "primary": "adresse_noun"
-  },
-  "adskillelse_noun": {
-    "primary": "adskillelse_noun"
   },
   "advokat_noun": {
     "primary": "advokat_noun"
@@ -117,7 +114,7 @@
   "arbeid_pågår_noun": {
     "primary": "arbeid_pågår_noun"
   },
-  "arbeider_noun": {
+  "arbeidar_noun": {
     "primary": "arbeider_noun"
   },
   "arbeidsledighet_noun": {
@@ -294,7 +291,7 @@
   "bedrift_noun": {
     "primary": "bedrift_noun"
   },
-  "bedriftseier_noun": {
+  "bedriftseigar_noun": {
     "primary": "bedriftseier_noun"
   },
   "bedring_noun": {
@@ -603,11 +600,11 @@
   "delfin_noun": {
     "primary": "delfin_noun"
   },
+  "deltakar_noun": {
+    "primary": "deltaker_noun"
+  },
   "deltakelse_noun": {
     "primary": "deltakelse_noun"
-  },
-  "deltaker_noun": {
-    "primary": "deltaker_noun"
   },
   "deltid_noun": {
     "primary": "deltid_noun"
@@ -708,7 +705,7 @@
   "dyrepark_noun": {
     "primary": "dyrepark_noun"
   },
-  "dyrepasser_noun": {
+  "dyrepassar_noun": {
     "primary": "dyrepasser_noun"
   },
   "død_noun": {
@@ -1026,7 +1023,7 @@
   "forestilling_noun": {
     "primary": "forestilling_noun"
   },
-  "forfatter_noun": {
+  "forfattar_noun": {
     "primary": "forfatter_noun"
   },
   "forhandler_noun": {
@@ -1131,7 +1128,7 @@
   "fotball_noun": {
     "primary": "fotball_noun"
   },
-  "fotballspiller_noun": {
+  "fotballspelar_noun": {
     "primary": "fotballspiller_noun"
   },
   "fotgjenger_noun": {
@@ -1155,6 +1152,9 @@
   "frakk_noun": {
     "primary": "frakk_noun"
   },
+  "framandspråk_noun": {
+    "primary": "fremmedspråk_noun"
+  },
   "framhald_noun": {
     "primary": "fortsettelse_noun"
   },
@@ -1163,9 +1163,6 @@
   },
   "fredag_noun": {
     "primary": "fredag_noun"
-  },
-  "fremmedspråk_noun": {
-    "primary": "fremmedspråk_noun"
   },
   "fremskritt_noun": {
     "primary": "fremskritt_noun"
@@ -1242,9 +1239,6 @@
   "galleri_noun": {
     "primary": "galleri_noun"
   },
-  "gang_noun": {
-    "primary": "gang_noun"
-  },
   "garanti_noun": {
     "primary": "garanti_noun"
   },
@@ -1316,6 +1310,9 @@
   },
   "godteri_noun": {
     "primary": "godteri_noun"
+  },
+  "gong_noun": {
+    "primary": "gang_noun"
   },
   "grad_noun": {
     "primary": "grad_noun"
@@ -1953,7 +1950,7 @@
   "kjøp_noun": {
     "primary": "kjøp_noun"
   },
-  "kjøper_noun": {
+  "kjøpar_noun": {
     "primary": "kjøper_noun"
   },
   "kjøpesenter_noun": {
@@ -2169,7 +2166,7 @@
   "kunde_noun": {
     "primary": "kunde_noun"
   },
-  "kunngjøring_noun": {
+  "kunngjering_noun": {
     "primary": "kunngjøring_noun"
   },
   "kunnskaper_noun": {
@@ -2229,7 +2226,7 @@
   "kvinneleg_doktor_noun": {
     "primary": "kvinnelig_doktor_noun"
   },
-  "kvinneleg_forfatter_noun": {
+  "kvinneleg_forfattar_noun": {
     "primary": "kvinnelig_forfatter_noun"
   },
   "kvinneleg_frisør_noun": {
@@ -2253,10 +2250,10 @@
   "kvinneleg_lege_noun": {
     "primary": "kvinnelig_lege_noun"
   },
-  "kvinneleg_leser_noun": {
+  "kvinneleg_lesar_noun": {
     "primary": "kvinnelig_leser_noun"
   },
-  "kvinneleg_lytter_noun": {
+  "kvinneleg_lyttar_noun": {
     "primary": "kvinnelig_lytter_noun"
   },
   "kvinneleg_maler_noun": {
@@ -2292,11 +2289,11 @@
   "kvinneleg_sjef_noun": {
     "primary": "kvinnelig_sjef_noun"
   },
+  "kvinneleg_spelar_noun": {
+    "primary": "kvinnelig_spiller_noun"
+  },
   "kvinneleg_spesialist_noun": {
     "primary": "kvinnelig_spesialist_noun"
-  },
-  "kvinneleg_spiller_noun": {
-    "primary": "kvinnelig_spiller_noun"
   },
   "kvinneleg_student_noun": {
     "primary": "kvinnelig_student_noun"
@@ -2310,7 +2307,7 @@
   "kvinneleg_turist_noun": {
     "primary": "kvinnelig_turist_noun"
   },
-  "kvinneleg_utleier_noun": {
+  "kvinneleg_utleigar_noun": {
     "primary": "kvinnelig_utleier_noun"
   },
   "kvinneleg_vitne_noun": {
@@ -2382,7 +2379,7 @@
   "legitimasjon_noun": {
     "primary": "legitimasjon_noun"
   },
-  "leietaker_noun": {
+  "leigetakar_noun": {
     "primary": "leietaker_noun"
   },
   "leilighet_noun": {
@@ -2418,7 +2415,7 @@
   "leppe_noun": {
     "primary": "leppe_noun"
   },
-  "leser_noun": {
+  "lesar_noun": {
     "primary": "leser_noun"
   },
   "levering_noun": {
@@ -2484,17 +2481,17 @@
   "lyst_noun": {
     "primary": "lyst_noun"
   },
-  "lytter_noun": {
+  "lyttar_noun": {
     "primary": "lytter_noun"
   },
   "lær_noun": {
     "primary": "lær_noun"
   },
+  "lærar_noun": {
+    "primary": "lærer_noun"
+  },
   "lære_noun": {
     "primary": "lære_noun"
-  },
-  "lærer_noun": {
-    "primary": "lærer_noun"
   },
   "læringsgruppe_noun": {
     "primary": "læringsgruppe_noun"
@@ -2589,7 +2586,7 @@
   "maur_noun": {
     "primary": "maur_noun"
   },
-  "medarbeider_noun": {
+  "medarbeidar_noun": {
     "primary": "medarbeider_noun"
   },
   "medelev_noun": {
@@ -2712,13 +2709,13 @@
   "mor_noun": {
     "primary": "mor_noun"
   },
-  "morgen_noun": {
+  "morgon_noun": {
     "primary": "morgen_noun"
   },
-  "morgenfugl_noun": {
+  "morgonfugl_noun": {
     "primary": "morgenfugl_noun"
   },
-  "morgenrutine_noun": {
+  "morgonrutine_noun": {
     "primary": "morgenrutine_noun"
   },
   "moro_noun": {
@@ -2757,7 +2754,7 @@
   "mottak_noun": {
     "primary": "mottak_noun"
   },
-  "mottaker_noun": {
+  "mottakar_noun": {
     "primary": "mottaker_noun"
   },
   "msli_noun": {
@@ -2925,6 +2922,9 @@
   "område_noun": {
     "primary": "område_noun"
   },
+  "omsetjar_noun": {
+    "primary": "oversetter_noun"
+  },
   "omsetjing_noun": {
     "primary": "oversettelse_noun"
   },
@@ -3026,9 +3026,6 @@
   },
   "overrasking_noun": {
     "primary": "overraskelse_noun"
-  },
-  "oversetter_noun": {
-    "primary": "oversetter_noun"
   },
   "overskrift_noun": {
     "primary": "overskrift_noun"
@@ -3153,7 +3150,7 @@
   "plaster_noun": {
     "primary": "plaster_noun"
   },
-  "pleier_noun": {
+  "pleiar_noun": {
     "primary": "pleier_noun"
   },
   "plen_noun": {
@@ -3576,7 +3573,7 @@
   "sekund_noun": {
     "primary": "sekund_noun"
   },
-  "selger_noun": {
+  "seljar_noun": {
     "primary": "selger_noun"
   },
   "semester_noun": {
@@ -3609,7 +3606,7 @@
   "service_noun": {
     "primary": "service_noun"
   },
-  "servicemedarbeider_noun": {
+  "servicemedarbeidar_noun": {
     "primary": "servicemedarbeider_noun"
   },
   "servise_noun": {
@@ -3677,6 +3674,9 @@
   },
   "sjukehus_noun": {
     "primary": "sykehus_noun"
+  },
+  "sjukekasse_noun": {
+    "primary": "sykekasse_noun"
   },
   "sjukepleiar_noun": {
     "primary": "sykepleier_noun"
@@ -3750,14 +3750,11 @@
   "sko_noun": {
     "primary": "sko_noun"
   },
+  "skodespelar_noun": {
+    "primary": "skuespiller_noun"
+  },
   "skog_noun": {
     "primary": "skog_noun"
-  },
-  "skolesekk_noun": {
-    "primary": "skolesekk_noun"
-  },
-  "skoleår_noun": {
-    "primary": "skoleår_noun"
   },
   "skranke_noun": {
     "primary": "skranke_noun"
@@ -3774,9 +3771,6 @@
   "skriver_noun": {
     "primary": "skriver_noun"
   },
-  "skuespiller_noun": {
-    "primary": "skuespiller_noun"
-  },
   "skuffelse_noun": {
     "primary": "skuffelse_noun"
   },
@@ -3785,6 +3779,12 @@
   },
   "skule_noun": {
     "primary": "skole_noun"
+  },
+  "skulesekk_noun": {
+    "primary": "skolesekk_noun"
+  },
+  "skuleår_noun": {
+    "primary": "skoleår_noun"
   },
   "sky_noun": {
     "primary": "sky_noun"
@@ -3864,7 +3864,7 @@
   "sopp_noun": {
     "primary": "sopp_noun"
   },
-  "sosialarbeider_noun": {
+  "sosialarbeidar_noun": {
     "primary": "sosialarbeider_noun"
   },
   "soverom_noun": {
@@ -3879,6 +3879,9 @@
   "speil_noun": {
     "primary": "speil_noun"
   },
+  "spelar_noun": {
+    "primary": "spiller_noun"
+  },
   "spesialist_noun": {
     "primary": "spesialist_noun"
   },
@@ -3887,9 +3890,6 @@
   },
   "spill_noun": {
     "primary": "spill_noun"
-  },
-  "spiller_noun": {
-    "primary": "spiller_noun"
   },
   "spisevogn_noun": {
     "primary": "spisevogn_noun"
@@ -4073,9 +4073,6 @@
   },
   "svømmebasseng_noun": {
     "primary": "svømmebasseng_noun"
-  },
-  "sykekasse_noun": {
-    "primary": "sykekasse_noun"
   },
   "sykkel_noun": {
     "primary": "sykkel_noun"
@@ -4539,7 +4536,7 @@
   "utleie_noun": {
     "primary": "utleie_noun"
   },
-  "utleier_noun": {
+  "utleigar_noun": {
     "primary": "utleier_noun"
   },
   "utlending_noun": {
@@ -4772,6 +4769,9 @@
   },
   "årstid_noun": {
     "primary": "årstid_noun"
+  },
+  "åtskiljing_noun": {
+    "primary": "adskillelse_noun"
   },
   "økning_noun": {
     "primary": "økning_noun"

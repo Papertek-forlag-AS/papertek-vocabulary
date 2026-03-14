@@ -3,7 +3,7 @@
     "from": "nb",
     "to": "nn",
     "bank": "generalbank",
-    "generatedAt": "2026-03-14T07:19:53.535Z",
+    "generatedAt": "2026-03-14T08:03:48.952Z",
     "totalLinks": 989
   },
   "absolutt_adv": {
@@ -244,7 +244,7 @@
     "primary": "den_art"
   },
   "den_gang_adv": {
-    "primary": "den_gang_adv"
+    "primary": "den_gong_adv"
   },
   "den_pron": {
     "primary": "den_pron"
@@ -472,7 +472,7 @@
     "primary": "ein_adv"
   },
   "en_annen_gang_phrase": {
-    "primary": "ein_annan_gang_phrase"
+    "primary": "ein_annan_gong_phrase"
   },
   "en_art": {
     "primary": "ein_art"
@@ -484,7 +484,7 @@
     "primary": "ein_eller_annan_adv"
   },
   "en_gang_adv": {
-    "primary": "ein_gang_adv"
+    "primary": "ein_gong_adv"
   },
   "en_num": {
     "primary": "ein_num"
@@ -493,7 +493,7 @@
     "primary": "ein_pron"
   },
   "enda_en_gang_adv": {
-    "primary": "endå_ein_gang_adv"
+    "primary": "endå_ein_gong_adv"
   },
   "enda_ikke_phrase": {
     "primary": "endå_ikkje_phrase"
@@ -562,7 +562,7 @@
     "primary": "etter_prep"
   },
   "etter_skolen_phrase": {
-    "primary": "etter_skolen_phrase"
+    "primary": "etter_skulen_phrase"
   },
   "etterpå_adv": {
     "primary": "etterpå_adv"
@@ -700,7 +700,7 @@
     "primary": "forbi_adv"
   },
   "forbudt_adv": {
-    "primary": "forbudt_adv"
+    "primary": "forbode_adv"
   },
   "fordi_adv": {
     "primary": "fordi_adv"
@@ -760,13 +760,13 @@
     "primary": "frankrike_propn"
   },
   "fraværende_adv": {
-    "primary": "fraværende_adv"
+    "primary": "fråverande_adv"
   },
   "fremfor_alt_adv": {
     "primary": "fremfor_alt_adv"
   },
   "fremmed_adv": {
-    "primary": "fremmed_adv"
+    "primary": "framand_adv"
   },
   "fremover_adv": {
     "primary": "framover_adv"
@@ -856,10 +856,10 @@
     "primary": "gjerne_adv"
   },
   "gjøre_adv": {
-    "primary": "gjøre_adv"
+    "primary": "gjera_adv"
   },
   "gjøre_vondt_adv": {
-    "primary": "gjøre_vondt_adv"
+    "primary": "gjera_vondt_adv"
   },
   "glad_adv": {
     "primary": "glad_adv"
@@ -883,7 +883,7 @@
     "primary": "god_kveld_phrase"
   },
   "god_morgen_phrase": {
-    "primary": "god_morgen_phrase"
+    "primary": "god_morgon_phrase"
   },
   "god_natt_phrase": {
     "primary": "god_natt_phrase"
@@ -940,7 +940,7 @@
     "primary": "ha_det_adv"
   },
   "ha_det_gøy_phrase": {
-    "primary": "ha_det_gøy_phrase"
+    "primary": "ha_det_moro_phrase"
   },
   "ha_det_interj": {
     "primary": "ha_det_interj"
@@ -1099,7 +1099,7 @@
     "primary": "hundre_num"
   },
   "hva_betyr_phrase": {
-    "primary": "kva_betyr_phrase"
+    "primary": "kva_tyder_phrase"
   },
   "hva_er_det_phrase": {
     "primary": "kva_er_det_phrase"
@@ -1219,7 +1219,7 @@
     "primary": "korleis_pron"
   },
   "hvordan_sier_man_phrase": {
-    "primary": "korleis_sier_man_phrase"
+    "primary": "korleis_seier_ein_phrase"
   },
   "hvorfor_adv": {
     "primary": "kvifor_adv"
@@ -1300,7 +1300,7 @@
     "primary": "i_mellomtiden_adv"
   },
   "i_morgen_adv": {
-    "primary": "i_morgen_adv"
+    "primary": "i_morgon_adv"
   },
   "i_nærheten_av_prep": {
     "primary": "i_nærheten_av_prep"
@@ -1369,7 +1369,7 @@
     "primary": "ingen_omstendigheter_adv"
   },
   "ingen_steder_adv": {
-    "primary": "ingen_steder_adv"
+    "primary": "ingen_stader_adv"
   },
   "ingen_tid_adv": {
     "primary": "ingen_tid_adv"
@@ -1423,7 +1423,7 @@
     "primary": "irriterende_adv"
   },
   "istedenfor_adv": {
-    "primary": "istedenfor_adv"
+    "primary": "i_staden_for_adv"
   },
   "italia_propn": {
     "primary": "italia_propn"
@@ -1480,28 +1480,28 @@
     "primary": "eg_heiter_phrase"
   },
   "jeg_liker_ikke_phrase": {
-    "primary": "eg_liker_ikkje_phrase"
+    "primary": "eg_likar_ikkje_phrase"
   },
   "jeg_liker_phrase": {
-    "primary": "eg_liker_phrase"
+    "primary": "eg_likar_phrase"
   },
   "jeg_mener_at_phrase": {
-    "primary": "eg_mener_at_phrase"
+    "primary": "eg_meiner_at_phrase"
   },
   "jeg_pron": {
     "primary": "eg_pron"
   },
   "jeg_tror_at_phrase": {
-    "primary": "eg_tror_at_phrase"
+    "primary": "eg_trur_at_phrase"
   },
   "jeg_tror_det_phrase": {
-    "primary": "eg_tror_det_phrase"
+    "primary": "eg_trur_det_phrase"
   },
   "jeg_tror_ikke_det_phrase": {
-    "primary": "eg_tror_ikkje_det_phrase"
+    "primary": "eg_trur_ikkje_det_phrase"
   },
   "jeg_vet_ikke_phrase": {
-    "primary": "eg_vet_ikkje_phrase"
+    "primary": "eg_veit_ikkje_phrase"
   },
   "kan_du_gjenta_phrase": {
     "primary": "kan_du_gjenta_phrase"
@@ -1555,7 +1555,7 @@
     "primary": "knapt_adv"
   },
   "komme_godt_overens_phrase": {
-    "primary": "komme_godt_overens_phrase"
+    "primary": "komme_godt_overeins_phrase"
   },
   "kommer_straks_adv": {
     "primary": "kjem_straks_adv"
@@ -1675,7 +1675,7 @@
     "primary": "maksimal_adv"
   },
   "man_pron": {
-    "primary": "man_pron"
+    "primary": "ein_pron"
   },
   "mange_pron": {
     "primary": "mange_pron"
@@ -1699,7 +1699,7 @@
     "primary": "med_det_adv"
   },
   "med_en_gang_adv": {
-    "primary": "med_ein_gang_adv"
+    "primary": "med_ein_gong_adv"
   },
   "med_fly_expr": {
     "primary": "med_fly_expr"
@@ -1888,7 +1888,7 @@
     "primary": "nokon_få_adv"
   },
   "noen_ganger_adv": {
-    "primary": "nokon_ganger_adv"
+    "primary": "nokon_gonger_adv"
   },
   "noensinne_adv": {
     "primary": "nokosinne_adv"
@@ -1927,7 +1927,7 @@
     "primary": "no_av_adv"
   },
   "nå_setter_vi_i_gang_phrase": {
-    "primary": "no_setter_vi_i_gang_phrase"
+    "primary": "no_set_vi_i_gong_phrase"
   },
   "når_conj": {
     "primary": "når_conj"
@@ -1942,7 +1942,7 @@
     "primary": "når_pron"
   },
   "nåværende_adv": {
-    "primary": "nåværende_adv"
+    "primary": "noverande_adv"
   },
   "nær_prep": {
     "primary": "nær_prep"
@@ -2014,7 +2014,7 @@
     "primary": "om_kvelden_phrase"
   },
   "om_morgenen_expr": {
-    "primary": "om_morgenen_expr"
+    "primary": "om_morgonen_expr"
   },
   "om_prep": {
     "primary": "om_prep"
@@ -2077,7 +2077,7 @@
     "primary": "parallell_adv"
   },
   "passer_det_phrase": {
-    "primary": "passer_det_phrase"
+    "primary": "passar_det_phrase"
   },
   "passiv_adv": {
     "primary": "passiv_adv"
@@ -2179,7 +2179,7 @@
     "primary": "på_prep"
   },
   "på_skolen_phrase": {
-    "primary": "på_skolen_phrase"
+    "primary": "på_skulen_phrase"
   },
   "på_søndag_phrase": {
     "primary": "på_søndag_phrase"
@@ -2326,7 +2326,7 @@
     "primary": "sjølvstendig_adv"
   },
   "senere_adv": {
-    "primary": "senere_adv"
+    "primary": "seinare_adv"
   },
   "senest_adv": {
     "primary": "senest_adv"
@@ -2338,7 +2338,7 @@
     "primary": "sentral_adv"
   },
   "setter_har_satt_adv": {
-    "primary": "setter_har_satt_adv"
+    "primary": "set_har_satt_adv"
   },
   "siden_adv": {
     "primary": "siden_adv"
@@ -2557,7 +2557,7 @@
     "primary": "tallrik_adv"
   },
   "tar_lengre_tid_phrase": {
-    "primary": "tar_lengre_tid_phrase"
+    "primary": "tek_lengre_tid_phrase"
   },
   "telefonsvareren_adv": {
     "primary": "telefonsvareren_adv"
@@ -2857,19 +2857,19 @@
     "primary": "vi_pron"
   },
   "vi_sees_i_morgen_phrase": {
-    "primary": "vi_sees_i_morgen_phrase"
+    "primary": "vi_sjåast_i_morgon_phrase"
   },
   "vi_sees_senere_phrase": {
-    "primary": "vi_sees_senere_phrase"
+    "primary": "vi_sjåast_seinare_phrase"
   },
   "vi_sees_snart_phrase": {
-    "primary": "vi_sees_snart_phrase"
+    "primary": "vi_sjåast_snart_phrase"
   },
   "vi_ses_i_morgen_phrase": {
-    "primary": "vi_ses_i_morgen_phrase"
+    "primary": "vi_sest_i_morgon_phrase"
   },
   "vi_ses_senere_phrase": {
-    "primary": "vi_ses_senere_phrase"
+    "primary": "vi_sest_seinare_phrase"
   },
   "vi_snakkes_phrase": {
     "primary": "vi_snakkes_phrase"
@@ -2911,28 +2911,28 @@
     "primary": "ver_så_snill_phrase"
   },
   "være_av_adv": {
-    "primary": "være_av_adv"
+    "primary": "vera_av_adv"
   },
   "være_borte_adv": {
-    "primary": "være_borte_adv"
+    "primary": "vera_borte_adv"
   },
   "være_forbudt_adv": {
-    "primary": "være_forbudt_adv"
+    "primary": "vera_forbode_adv"
   },
   "være_gøy_phrase": {
-    "primary": "være_gøy_phrase"
+    "primary": "vera_moro_phrase"
   },
   "være_lukket_adv": {
-    "primary": "være_lukket_adv"
+    "primary": "vera_lukka_adv"
   },
   "være_på_adv": {
-    "primary": "være_på_adv"
+    "primary": "vera_på_adv"
   },
   "være_spent_phrase": {
-    "primary": "være_spent_phrase"
+    "primary": "vera_spent_phrase"
   },
   "være_åpen_adv": {
-    "primary": "være_åpen_adv"
+    "primary": "vera_åpen_adv"
   },
   "yrkesaktiv_adv": {
     "primary": "yrkesaktiv_adv"

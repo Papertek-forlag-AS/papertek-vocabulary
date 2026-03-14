@@ -3,7 +3,7 @@
     "from": "nn",
     "to": "de",
     "bank": "adjectivebank",
-    "generatedAt": "2026-03-14T07:19:53.547Z",
+    "generatedAt": "2026-03-14T08:03:48.966Z",
     "totalLinks": 345
   },
   "absolutt_adj": {
@@ -997,16 +997,16 @@
       }
     ]
   },
-  "fraværende_adj": {
-    "primary": "abwesend_adj",
+  "framand_adj": {
+    "primary": "fremd_adj",
     "examples": [
       {
-        "source": "Hun er fraværende i dag.",
-        "target": "Sie ist heute abwesend."
+        "source": "I en fremmed by.",
+        "target": "In einer fremden Stadt."
       },
       {
-        "source": "Hvorfor er han fraværende?",
-        "target": "Warum ist er abwesend?"
+        "source": "Han føler seg fremmed her.",
+        "target": "Er fühlt sich fremd hier."
       }
     ]
   },
@@ -1020,19 +1020,6 @@
       {
         "source": "Ikke vær så frekk!",
         "target": "Sei nicht so frech!"
-      }
-    ]
-  },
-  "fremmed_adj": {
-    "primary": "fremd_adj",
-    "examples": [
-      {
-        "source": "I en fremmed by.",
-        "target": "In einer fremden Stadt."
-      },
-      {
-        "source": "Han føler seg fremmed her.",
-        "target": "Er fühlt sich fremd hier."
       }
     ]
   },
@@ -1098,6 +1085,19 @@
       {
         "source": "En fryktelig ulykke.",
         "target": "Ein schrecklicher Unfall."
+      }
+    ]
+  },
+  "fråverande_adj": {
+    "primary": "abwesend_adj",
+    "examples": [
+      {
+        "source": "Hun er fraværende i dag.",
+        "target": "Sie ist heute abwesend."
+      },
+      {
+        "source": "Hvorfor er han fraværende?",
+        "target": "Warum ist er abwesend?"
       }
     ]
   },
@@ -3186,6 +3186,19 @@
       }
     ]
   },
+  "seinare_adj": {
+    "primary": "spaeter_adj",
+    "examples": [
+      {
+        "source": "Vi ses senere!",
+        "target": "Bis später!"
+      },
+      {
+        "source": "Jeg forklarer det senere.",
+        "target": "Ich erkläre das später."
+      }
+    ]
+  },
   "sen_adj": {
     "primary": "spaet_adj",
     "examples": [
@@ -3196,19 +3209,6 @@
       {
         "source": "Du kommer for sent.",
         "target": "Du kommst zu spät."
-      }
-    ]
-  },
-  "senere_adj": {
-    "primary": "spaeter_adj",
-    "examples": [
-      {
-        "source": "Vi ses senere!",
-        "target": "Bis später!"
-      },
-      {
-        "source": "Jeg forklarer det senere.",
-        "target": "Ich erkläre das später."
       }
     ]
   },

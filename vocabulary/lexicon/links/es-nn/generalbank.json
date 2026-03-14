@@ -3,7 +3,7 @@
     "from": "es",
     "to": "nn",
     "bank": "generalbank",
-    "generatedAt": "2026-03-14T07:19:53.575Z",
+    "generatedAt": "2026-03-14T08:03:49.003Z",
     "totalLinks": 254
   },
   "a_casa_expr": {
@@ -29,7 +29,7 @@
     "explanation": "Brukes ved bevegelse til et sted (voy a la escuela), før personobjekt (veo a mi madre), og med klokkeslett (a las tres)"
   },
   "a_veces_adv": {
-    "primary": "nokon_ganger_adv"
+    "primary": "nokon_gonger_adv"
   },
   "abajo_adv": {
     "primary": "ned_adv",
@@ -168,7 +168,7 @@
     "primary": "god_ettermiddag_phrase"
   },
   "buenos_dias_phrase": {
-    "primary": "god_morgen_phrase"
+    "primary": "god_morgon_phrase"
   },
   "cada_dia_expr": {
     "primary": "kvar_dag_expr"
@@ -214,7 +214,7 @@
     "primary": "korleis_interr"
   },
   "como_se_dice_phrase": {
-    "primary": "korleis_sier_man_phrase"
+    "primary": "korleis_seier_ein_phrase"
   },
   "como_te_llamas_phrase": {
     "primary": "kva_heiter_du_phrase"
@@ -238,7 +238,7 @@
     ]
   },
   "creo_que_phrase": {
-    "primary": "eg_tror_at_phrase"
+    "primary": "eg_trur_at_phrase"
   },
   "cual_interr": {
     "primary": "kva_for_ein_interr"
@@ -411,7 +411,7 @@
   "enseguida_adv": {
     "primary": "straks_adv",
     "alternatives": [
-      "med_ein_gang_adv"
+      "med_ein_gong_adv"
     ]
   },
   "entre_prep": {
@@ -498,10 +498,10 @@
     "primary": "mot_prep"
   },
   "hasta_luego_phrase": {
-    "primary": "vi_sees_senere_phrase"
+    "primary": "vi_sjåast_seinare_phrase"
   },
   "hasta_manana_phrase": {
-    "primary": "vi_sees_i_morgen_phrase"
+    "primary": "vi_sjåast_i_morgon_phrase"
   },
   "hasta_prep": {
     "primary": "til_prep",
@@ -510,7 +510,7 @@
     ]
   },
   "hasta_pronto_phrase": {
-    "primary": "vi_sees_snart_phrase"
+    "primary": "vi_sjåast_snart_phrase"
   },
   "hay_phrase": {
     "primary": "det_finst_phrase",
@@ -544,7 +544,7 @@
     "primary": "langt_frå_prep"
   },
   "llevarse_bien_phrase": {
-    "primary": "komme_godt_overens_phrase"
+    "primary": "komme_godt_overeins_phrase"
   },
   "llueve_phrase": {
     "primary": "det_regner_phrase"
@@ -568,7 +568,7 @@
     "primary": "dårleg_adv"
   },
   "manana_adv": {
-    "primary": "i_morgen_adv"
+    "primary": "i_morgon_adv"
   },
   "mas_adv": {
     "primary": "mer_adv"
@@ -583,7 +583,7 @@
     "primary": "eg_elsker_det_phrase"
   },
   "me_gusta_phrase": {
-    "primary": "eg_liker_phrase"
+    "primary": "eg_likar_phrase"
   },
   "me_llamo_phrase": {
     "primary": "eg_heiter_phrase"
@@ -631,7 +631,7 @@
     "primary": "nei_interj"
   },
   "no_me_gusta_phrase": {
-    "primary": "eg_liker_ikkje_phrase"
+    "primary": "eg_likar_ikkje_phrase"
   },
   "normalmente_adv": {
     "primary": "vanligvis_adv"
@@ -654,7 +654,7 @@
     "explanation": "Brukes for formål, mottaker, eller retning. F.eks. 'un regalo para ti' (en gave til deg)"
   },
   "pasarlo_bien_phrase": {
-    "primary": "ha_det_gøy_phrase"
+    "primary": "ha_det_moro_phrase"
   },
   "perdon_interj": {
     "primary": "orsak_interj",
@@ -670,7 +670,7 @@
     "primary": "peru_propn"
   },
   "pienso_que_phrase": {
-    "primary": "eg_mener_at_phrase"
+    "primary": "eg_meiner_at_phrase"
   },
   "poco_adv": {
     "primary": "lite_adv"
@@ -688,7 +688,7 @@
     "primary": "endeleg_expr"
   },
   "por_la_manana_expr": {
-    "primary": "om_morgenen_expr"
+    "primary": "om_morgonen_expr"
   },
   "por_la_noche_expr": {
     "primary": "om_kvelden_expr"
@@ -753,7 +753,7 @@
     "primary": "kva_interr"
   },
   "que_significa_phrase": {
-    "primary": "kva_betyr_phrase"
+    "primary": "kva_tyder_phrase"
   },
   "que_tal_phrase": {
     "primary": "korleis_går_det_phrase"

@@ -3,7 +3,7 @@
     "from": "nn",
     "to": "de",
     "bank": "generalbank",
-    "generatedAt": "2026-03-14T07:19:53.553Z",
+    "generatedAt": "2026-03-14T08:03:48.974Z",
     "totalLinks": 634
   },
   "absolutt_adv": {
@@ -171,7 +171,7 @@
   "da_adv": {
     "primary": "da_adv"
   },
-  "den_gang_adv": {
+  "den_gong_adv": {
     "primary": "damals_general"
   },
   "denne_adv": {
@@ -270,7 +270,7 @@
   "ein_adv": {
     "primary": "ein_general"
   },
-  "ein_annan_gang_phrase": {
+  "ein_annan_gong_phrase": {
     "primary": "ein_anderes_mal_phrase"
   },
   "ein_elefant_phrase": {
@@ -279,7 +279,7 @@
   "ein_eller_annan_adv": {
     "primary": "irgendirgendein_general"
   },
-  "ein_gang_adv": {
+  "ein_gong_adv": {
     "primary": "einmal_general",
     "alternatives": [
       "irgendwann_general",
@@ -319,7 +319,7 @@
   "endeleg_adv": {
     "primary": "endlich_adv"
   },
-  "endå_ein_gang_adv": {
+  "endå_ein_gong_adv": {
     "primary": "nochmals_general"
   },
   "endå_ikkje_phrase": {
@@ -358,7 +358,7 @@
   "etter_at_adv": {
     "primary": "nachdem_general"
   },
-  "etter_skolen_phrase": {
+  "etter_skulen_phrase": {
     "primary": "nach_der_schule_phrase"
   },
   "etterpå_adv": {
@@ -461,7 +461,7 @@
   "forbi_adv": {
     "primary": "vorbei_general"
   },
-  "forbudt_adv": {
+  "forbode_adv": {
     "primary": "untersagt_general"
   },
   "fordi_adv": {
@@ -500,20 +500,17 @@
   "forvirret_adv": {
     "primary": "durcheinander_general"
   },
+  "framand_adv": {
+    "primary": "fremd_general"
+  },
   "framover_adv": {
     "primary": "vorwaerts_general"
   },
   "frankrike_propn": {
     "primary": "frankreich_land"
   },
-  "fraværende_adv": {
-    "primary": "abwesend_general"
-  },
   "fremfor_alt_adv": {
     "primary": "vor_allem_general"
-  },
-  "fremmed_adv": {
-    "primary": "fremd_general"
   },
   "fremre_adv": {
     "primary": "vorder_general"
@@ -547,6 +544,9 @@
     "alternatives": [
       "von_prep"
     ]
+  },
+  "fråverande_adv": {
+    "primary": "abwesend_general"
   },
   "fuktig_adv": {
     "primary": "feucht_general"
@@ -609,17 +609,17 @@
   "gjennomsnittleg_adv": {
     "primary": "durchschnittlich_general"
   },
+  "gjera_adv": {
+    "primary": "tun_general"
+  },
+  "gjera_vondt_adv": {
+    "primary": "weh_tun_general"
+  },
   "gjerne_adv": {
     "primary": "gern_adv",
     "alternatives": [
       "gerne_adv"
     ]
-  },
-  "gjøre_adv": {
-    "primary": "tun_general"
-  },
-  "gjøre_vondt_adv": {
-    "primary": "weh_tun_general"
   },
   "glad_adv": {
     "primary": "froh_general"
@@ -802,7 +802,7 @@
   "i_mellomtiden_adv": {
     "primary": "mittlerweile_general"
   },
-  "i_morgen_adv": {
+  "i_morgon_adv": {
     "primary": "morgen_adv"
   },
   "i_orden_adv": {
@@ -813,6 +813,9 @@
     "alternatives": [
       "ins_prep"
     ]
+  },
+  "i_staden_for_adv": {
+    "primary": "statt_general"
   },
   "i_tide_adv": {
     "primary": "rechtzeitig_general"
@@ -854,7 +857,7 @@
   "ingen_omstendigheter_adv": {
     "primary": "keinen_fall_general"
   },
-  "ingen_steder_adv": {
+  "ingen_stader_adv": {
     "primary": "nirgends_general",
     "alternatives": [
       "nirgendwo_general"
@@ -892,9 +895,6 @@
   },
   "irriterende_adv": {
     "primary": "aergerlich_general"
-  },
-  "istedenfor_adv": {
-    "primary": "statt_general"
   },
   "italia_propn": {
     "primary": "italien_propn"
@@ -1113,7 +1113,7 @@
   "med_det_adv": {
     "primary": "dabei_adv"
   },
-  "med_ein_gang_adv": {
+  "med_ein_gong_adv": {
     "primary": "gleich_adv",
     "alternatives": [
       "sofort_adv"
@@ -1261,7 +1261,7 @@
   "no_av_adv": {
     "primary": "jetzt_ab_general"
   },
-  "no_setter_vi_i_gang_phrase": {
+  "no_set_vi_i_gong_phrase": {
     "primary": "los_geht_s_phrase"
   },
   "nok_adv": {
@@ -1276,7 +1276,7 @@
   "nokon_få_adv": {
     "primary": "ein_paar_general"
   },
-  "nokon_ganger_adv": {
+  "nokon_gonger_adv": {
     "primary": "manchmal_adv"
   },
   "nokosinne_adv": {
@@ -1293,6 +1293,9 @@
   },
   "norsk_propn": {
     "primary": "norwegisch_propn"
+  },
+  "noverande_adv": {
+    "primary": "heutig_general"
   },
   "nyleg_adv": {
     "primary": "kuerzlich_general",
@@ -1312,9 +1315,6 @@
   },
   "når_viss_adv": {
     "primary": "wenn_general"
-  },
-  "nåværende_adv": {
-    "primary": "heutig_general"
   },
   "nødvendigvis_adv": {
     "primary": "unbedingt_adv"
@@ -1403,7 +1403,7 @@
   "parallell_adv": {
     "primary": "parallel_general"
   },
-  "passer_det_phrase": {
+  "passar_det_phrase": {
     "primary": "passt_es_phrase"
   },
   "passiv_adv": {
@@ -1482,7 +1482,7 @@
       "in_prep"
     ]
   },
-  "på_skolen_phrase": {
+  "på_skulen_phrase": {
     "primary": "in_der_schule_phrase"
   },
   "på_søndag_phrase": {
@@ -1578,7 +1578,7 @@
       "voraussichtlich_general"
     ]
   },
-  "senere_adv": {
+  "seinare_adv": {
     "primary": "spaeter_adv"
   },
   "senest_adv": {
@@ -1590,7 +1590,7 @@
   "sentral_adv": {
     "primary": "zentral_general"
   },
-  "setter_har_satt_adv": {
+  "set_har_satt_adv": {
     "primary": "setzt_hat_gesetzt_general"
   },
   "siden_adv": {
@@ -1792,7 +1792,7 @@
   "tallrik_adv": {
     "primary": "zahlreich_general"
   },
-  "tar_lengre_tid_phrase": {
+  "tek_lengre_tid_phrase": {
     "primary": "dauert_laenger_phrase"
   },
   "telefonsvareren_adv": {
@@ -2029,6 +2029,30 @@
   "ver_så_god_interj": {
     "primary": "bitte_interj"
   },
+  "vera_av_adv": {
+    "primary": "aus_sein_general"
+  },
+  "vera_borte_adv": {
+    "primary": "weg_sein_general"
+  },
+  "vera_forbode_adv": {
+    "primary": "verboten_sein_general"
+  },
+  "vera_lukka_adv": {
+    "primary": "zu_sein_general"
+  },
+  "vera_moro_phrase": {
+    "primary": "spass_machen_phrase"
+  },
+  "vera_på_adv": {
+    "primary": "an_sein_general"
+  },
+  "vera_spent_phrase": {
+    "primary": "gespannt_sein_phrase"
+  },
+  "vera_åpen_adv": {
+    "primary": "auf_sein_general"
+  },
   "verdifull_adv": {
     "primary": "wertvoll_general"
   },
@@ -2052,30 +2076,6 @@
   },
   "virtuell_adv": {
     "primary": "virtuell_general"
-  },
-  "være_av_adv": {
-    "primary": "aus_sein_general"
-  },
-  "være_borte_adv": {
-    "primary": "weg_sein_general"
-  },
-  "være_forbudt_adv": {
-    "primary": "verboten_sein_general"
-  },
-  "være_gøy_phrase": {
-    "primary": "spass_machen_phrase"
-  },
-  "være_lukket_adv": {
-    "primary": "zu_sein_general"
-  },
-  "være_på_adv": {
-    "primary": "an_sein_general"
-  },
-  "være_spent_phrase": {
-    "primary": "gespannt_sein_phrase"
-  },
-  "være_åpen_adv": {
-    "primary": "auf_sein_general"
   },
   "yrkesaktiv_adv": {
     "primary": "berufstaetig_general"

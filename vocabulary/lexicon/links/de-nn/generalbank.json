@@ -3,7 +3,7 @@
     "from": "de",
     "to": "nn",
     "bank": "generalbank",
-    "generatedAt": "2026-03-14T07:19:53.551Z",
+    "generatedAt": "2026-03-14T08:03:48.973Z",
     "totalLinks": 673
   },
   "ab_general": {
@@ -22,7 +22,7 @@
     "primary": "nedover_adv"
   },
   "abwesend_general": {
-    "primary": "fraværende_adv"
+    "primary": "fråverande_adv"
   },
   "achtung_general": {
     "primary": "oppmerksomhet_adv"
@@ -115,7 +115,7 @@
     "explanation": "Wechselpräposition: Akkusativ ved bevegelse (wohin?), dativ ved posisjon (wo?). Brukes for kontakt med vertikale flater."
   },
   "an_sein_general": {
-    "primary": "være_på_adv"
+    "primary": "vera_på_adv"
   },
   "ander_general": {
     "primary": "annan_adv"
@@ -149,7 +149,7 @@
     "explanation": "Wechselpräposition: Akkusativ ved bevegelse (wohin?), dativ ved posisjon (wo?). Brukes for horisontale flater."
   },
   "auf_sein_general": {
-    "primary": "være_åpen_adv"
+    "primary": "vera_åpen_adv"
   },
   "aufmerksam_general": {
     "primary": "oppmerksom_adv"
@@ -168,7 +168,7 @@
     "explanation": "Preposisjon som alltid krever dativ. Brukes om opprinnelse eller bevegelse ut av noe."
   },
   "aus_sein_general": {
-    "primary": "være_av_adv"
+    "primary": "vera_av_adv"
   },
   "auseinander_general": {
     "primary": "frå_kvarandre_adv"
@@ -331,7 +331,7 @@
     "primary": "dit_adv"
   },
   "damals_general": {
-    "primary": "den_gang_adv"
+    "primary": "den_gong_adv"
   },
   "damit_general": {
     "primary": "slik_at_adv"
@@ -381,7 +381,7 @@
     "primary": "stadig_adv"
   },
   "dauert_laenger_phrase": {
-    "primary": "tar_lengre_tid_phrase"
+    "primary": "tek_lengre_tid_phrase"
   },
   "deinem_lieblingssaenger_general": {
     "primary": "din_favorittartist_adv"
@@ -516,7 +516,7 @@
     "primary": "hastverk_adv"
   },
   "ein_anderes_mal_phrase": {
-    "primary": "ein_annan_gang_phrase",
+    "primary": "ein_annan_gong_phrase",
     "synonyms": [
       "neste gang",
       "ved en annen anledning"
@@ -554,7 +554,7 @@
     "primary": "enig_adv"
   },
   "einmal_general": {
-    "primary": "ein_gang_adv"
+    "primary": "ein_gong_adv"
   },
   "einsam_general": {
     "primary": "ensom_adv"
@@ -675,7 +675,7 @@
     "primary": "frivilleg_adv"
   },
   "fremd_general": {
-    "primary": "fremmed_adv"
+    "primary": "framand_adv"
   },
   "freunde_sind_wichtig_phrase": {
     "primary": "vener_er_viktige_phrase"
@@ -765,7 +765,7 @@
     "primary": "gjerne_adv"
   },
   "gespannt_sein_phrase": {
-    "primary": "være_spent_phrase"
+    "primary": "vera_spent_phrase"
   },
   "getrennt_adv": {
     "primary": "kvar_for_seg_adv",
@@ -785,7 +785,7 @@
   "gleich_adv": {
     "primary": "straks_adv",
     "alternatives": [
-      "med_ein_gang_adv"
+      "med_ein_gong_adv"
     ]
   },
   "gleichberechtigt_general": {
@@ -866,7 +866,7 @@
     "primary": "i_dag_adv"
   },
   "heutig_general": {
-    "primary": "nåværende_adv"
+    "primary": "noverande_adv"
   },
   "hier_adv": {
     "primary": "her_adv"
@@ -930,7 +930,7 @@
     "primary": "i_alpene_phrase"
   },
   "in_der_schule_phrase": {
-    "primary": "på_skolen_phrase"
+    "primary": "på_skulen_phrase"
   },
   "in_ordnung_general": {
     "primary": "i_orden_adv"
@@ -988,7 +988,7 @@
     "primary": "ein_eller_annan_adv"
   },
   "irgendwann_general": {
-    "primary": "ein_gang_adv"
+    "primary": "ein_gong_adv"
   },
   "italien_propn": {
     "primary": "italia_propn"
@@ -1156,7 +1156,7 @@
     "primary": "avslappet_adv"
   },
   "los_geht_s_phrase": {
-    "primary": "no_setter_vi_i_gang_phrase",
+    "primary": "no_set_vi_i_gong_phrase",
     "synonyms": [
       "los gehts"
     ]
@@ -1168,13 +1168,13 @@
     "primary": "mager_adv"
   },
   "mal_adv": {
-    "primary": "ein_gang_adv"
+    "primary": "ein_gong_adv"
   },
   "manch_general": {
     "primary": "mangt_adv"
   },
   "manchmal_adv": {
-    "primary": "nokon_ganger_adv",
+    "primary": "nokon_gonger_adv",
     "synonyms": [
       "av og til",
       "iblant"
@@ -1248,7 +1248,7 @@
     "primary": "muleg_adv"
   },
   "morgen_adv": {
-    "primary": "i_morgen_adv"
+    "primary": "i_morgon_adv"
   },
   "muendlich_general": {
     "primary": "muntleg_adv"
@@ -1260,7 +1260,7 @@
     "primary": "modig_adv"
   },
   "nach_der_schule_phrase": {
-    "primary": "etter_skolen_phrase"
+    "primary": "etter_skulen_phrase"
   },
   "nach_hause_phrase": {
     "primary": "heim_phrase",
@@ -1350,10 +1350,10 @@
     "primary": "ingen_adv"
   },
   "nirgends_general": {
-    "primary": "ingen_steder_adv"
+    "primary": "ingen_stader_adv"
   },
   "nirgendwo_general": {
-    "primary": "ingen_steder_adv"
+    "primary": "ingen_stader_adv"
   },
   "noch_adv": {
     "primary": "enno_adv",
@@ -1365,7 +1365,7 @@
     "primary": "endå_ikkje_phrase"
   },
   "nochmals_general": {
-    "primary": "endå_ein_gang_adv"
+    "primary": "endå_ein_gong_adv"
   },
   "noetig_general": {
     "primary": "naudsynt_adv"
@@ -1441,7 +1441,7 @@
     "primary": "passiv_adv"
   },
   "passt_es_phrase": {
-    "primary": "passer_det_phrase"
+    "primary": "passar_det_phrase"
   },
   "pauschal_general": {
     "primary": "pauschal_adv"
@@ -1641,7 +1641,7 @@
     "primary": "loddrett_adv"
   },
   "setzt_hat_gesetzt_general": {
-    "primary": "setter_har_satt_adv"
+    "primary": "set_har_satt_adv"
   },
   "sich_warm_anziehen_phrase": {
     "primary": "kle_seg_varmt_phrase"
@@ -1674,7 +1674,7 @@
     "primary": "slik_at_adv"
   },
   "sofort_adv": {
-    "primary": "med_ein_gang_adv",
+    "primary": "med_ein_gong_adv",
     "alternatives": [
       "straks_adv"
     ]
@@ -1714,13 +1714,13 @@
     ]
   },
   "spaeter_adv": {
-    "primary": "senere_adv"
+    "primary": "seinare_adv"
   },
   "spaetestens_general": {
     "primary": "senest_adv"
   },
   "spass_machen_phrase": {
-    "primary": "være_gøy_phrase"
+    "primary": "vera_moro_phrase"
   },
   "speziell_general": {
     "primary": "spesiell_adv"
@@ -1738,7 +1738,7 @@
     "primary": "statistisk_adv"
   },
   "statt_general": {
-    "primary": "istedenfor_adv"
+    "primary": "i_staden_for_adv"
   },
   "steil_general": {
     "primary": "bratt_adv"
@@ -1830,7 +1830,7 @@
     ]
   },
   "tun_general": {
-    "primary": "gjøre_adv"
+    "primary": "gjera_adv"
   },
   "typisch_general": {
     "primary": "typisk_adv"
@@ -1909,7 +1909,7 @@
     "explanation": "Wechselpräposition: Akkusativ ved bevegelse (wohin?), dativ ved posisjon (wo?)."
   },
   "untersagt_general": {
-    "primary": "forbudt_adv"
+    "primary": "forbode_adv"
   },
   "unterschiedlich_general": {
     "primary": "forskjelleg_adv"
@@ -1930,7 +1930,7 @@
     "primary": "ansvarleg_adv"
   },
   "verboten_sein_general": {
-    "primary": "være_forbudt_adv"
+    "primary": "vera_forbode_adv"
   },
   "vergeblich_general": {
     "primary": "forgjeves_adv"
@@ -2064,10 +2064,10 @@
     "primary": "kva_interr"
   },
   "weg_sein_general": {
-    "primary": "være_borte_adv"
+    "primary": "vera_borte_adv"
   },
   "weh_tun_general": {
-    "primary": "gjøre_vondt_adv"
+    "primary": "gjera_vondt_adv"
   },
   "weiblich_general": {
     "primary": "kvinneleg_adv"
@@ -2223,7 +2223,7 @@
     "explanation": "Preposisjon som alltid krever dativ. Brukes for retning til et sted eller person. Sammentrekninger: zum (zu + dem), zur (zu + der)."
   },
   "zu_sein_general": {
-    "primary": "være_lukket_adv"
+    "primary": "vera_lukka_adv"
   },
   "zu_viel_phrase": {
     "primary": "for_mykje_phrase"

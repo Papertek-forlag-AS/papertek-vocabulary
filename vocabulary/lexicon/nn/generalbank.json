@@ -3,11 +3,11 @@
     "language": "nn",
     "languageName": "Norsk nynorsk",
     "bank": "generalbank",
-    "generatedAt": "2026-03-14T07:19:53.380Z",
+    "generatedAt": "2026-03-14T08:03:48.804Z",
     "description": "Norwegian Nynorsk generalbank — generated from Bokmål via NB→NN transformation",
-    "totalEntries": 985,
+    "totalEntries": 984,
     "enrichedEntries": 0,
-    "skeletonEntries": 985
+    "skeletonEntries": 984
   },
   "absolutt_adv": {
     "word": "absolutt",
@@ -677,8 +677,8 @@
     "usageNotes": "hankjønn",
     "_generatedFrom": "de-nb/articlesbank.json:der_art, de-nb/articlesbank.json:die_art, de-nb/articlesbank.json:den_art"
   },
-  "den_gang_adv": {
-    "word": "den gang",
+  "den_gong_adv": {
+    "word": "den gong",
     "type": "adv",
     "_enriched": false,
     "_nnSource": "auto-nb",
@@ -1272,24 +1272,24 @@
     "_nbEquivalent": "jeg_heter_phrase",
     "_generatedFrom": "es-nb/generalbank.json:me_llamo_phrase, es-nb/phrasesbank.json:me_llamo_phrase"
   },
-  "eg_liker_ikkje_phrase": {
-    "word": "eg liker ikkje",
+  "eg_likar_ikkje_phrase": {
+    "word": "eg likar ikkje",
     "type": "phrase",
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "jeg_liker_ikke_phrase",
     "_generatedFrom": "es-nb/generalbank.json:no_me_gusta_phrase"
   },
-  "eg_liker_phrase": {
-    "word": "eg liker",
+  "eg_likar_phrase": {
+    "word": "eg likar",
     "type": "phrase",
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "jeg_liker_phrase",
     "_generatedFrom": "es-nb/generalbank.json:me_gusta_phrase"
   },
-  "eg_mener_at_phrase": {
-    "word": "eg mener at...",
+  "eg_meiner_at_phrase": {
+    "word": "eg meiner at...",
     "type": "phrase",
     "_enriched": false,
     "_nnSource": "auto-nb",
@@ -1304,32 +1304,32 @@
     "_nbEquivalent": "jeg_pron",
     "_generatedFrom": "de-nb/pronounsbank.json:ich_pron, es-nb/pronounsbank.json:yo_pron"
   },
-  "eg_tror_at_phrase": {
-    "word": "eg tror at...",
+  "eg_trur_at_phrase": {
+    "word": "eg trur at...",
     "type": "phrase",
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "jeg_tror_at_phrase",
     "_generatedFrom": "es-nb/generalbank.json:creo_que_phrase"
   },
-  "eg_tror_det_phrase": {
-    "word": "eg tror det",
+  "eg_trur_det_phrase": {
+    "word": "eg trur det",
     "type": "phrase",
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "jeg_tror_det_phrase",
     "_generatedFrom": "es-nb/phrasesbank.json:creo_que_si_phrase"
   },
-  "eg_tror_ikkje_det_phrase": {
-    "word": "eg tror ikkje det",
+  "eg_trur_ikkje_det_phrase": {
+    "word": "eg trur ikkje det",
     "type": "phrase",
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "jeg_tror_ikke_det_phrase",
     "_generatedFrom": "es-nb/phrasesbank.json:creo_que_no_phrase"
   },
-  "eg_vet_ikkje_phrase": {
-    "word": "eg vet ikkje",
+  "eg_veit_ikkje_phrase": {
+    "word": "eg veit ikkje",
     "type": "phrase",
     "_enriched": false,
     "_nnSource": "auto-nb",
@@ -1377,8 +1377,8 @@
     "_nbEquivalent": "en_adv",
     "_generatedFrom": "de-nb/generalbank.json:ein_general, es-nb/articlesbank.json:un_articulo, es-nb/articlesbank.json:una_articulo"
   },
-  "ein_annan_gang_phrase": {
-    "word": "ein annan gang",
+  "ein_annan_gong_phrase": {
+    "word": "ein annan gong",
     "type": "phrase",
     "_enriched": false,
     "_nnSource": "auto-nb",
@@ -1410,8 +1410,8 @@
     "_nbEquivalent": "en_eller_annen_adv",
     "_generatedFrom": "de-nb/generalbank.json:irgendirgendein_general"
   },
-  "ein_gang_adv": {
-    "word": "ein gang",
+  "ein_gong_adv": {
+    "word": "ein gong",
     "type": "adv",
     "_enriched": false,
     "_nnSource": "auto-nb",
@@ -1431,7 +1431,7 @@
     "type": "pron",
     "_enriched": false,
     "_nnSource": "auto-nb",
-    "_nbEquivalent": "en_pron",
+    "_nbEquivalent": "man_pron",
     "_generatedFrom": "de-nb/pronounsbank.json:man_pron"
   },
   "eit_art": {
@@ -1556,8 +1556,8 @@
     "_nbEquivalent": "endelig_expr",
     "_generatedFrom": "es-nb/generalbank.json:por_fin_expr"
   },
-  "endå_ein_gang_adv": {
-    "word": "endå ein gang",
+  "endå_ein_gong_adv": {
+    "word": "endå ein gong",
     "type": "adv",
     "_enriched": false,
     "_nnSource": "auto-nb",
@@ -1700,8 +1700,8 @@
     "_nbEquivalent": "etter_prep",
     "_generatedFrom": "es-nb/generalbank.json:tras_prep"
   },
-  "etter_skolen_phrase": {
-    "word": "etter skolen",
+  "etter_skulen_phrase": {
+    "word": "etter skulen",
     "type": "phrase",
     "_enriched": false,
     "_nnSource": "auto-nb",
@@ -2069,8 +2069,8 @@
     "_nbEquivalent": "forbi_adv",
     "_generatedFrom": "de-nb/generalbank.json:vorbei_general"
   },
-  "forbudt_adv": {
-    "word": "forbudt",
+  "forbode_adv": {
+    "word": "forbode",
     "type": "adv",
     "_enriched": false,
     "_nnSource": "auto-nb",
@@ -2173,6 +2173,14 @@
     "_nbEquivalent": "forvirret_adv",
     "_generatedFrom": "de-nb/generalbank.json:durcheinander_general"
   },
+  "framand_adv": {
+    "word": "framand",
+    "type": "adv",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "fremmed_adv",
+    "_generatedFrom": "de-nb/generalbank.json:fremd_general"
+  },
   "framover_adv": {
     "word": "framover",
     "type": "adv",
@@ -2189,14 +2197,6 @@
     "_nbEquivalent": "frankrike_propn",
     "_generatedFrom": "de-nb/generalbank.json:frankreich_land"
   },
-  "fraværende_adv": {
-    "word": "fraværende",
-    "type": "adv",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "fraværende_adv",
-    "_generatedFrom": "de-nb/generalbank.json:abwesend_general"
-  },
   "fremfor_alt_adv": {
     "word": "fremfor alt",
     "type": "adv",
@@ -2204,14 +2204,6 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "fremfor_alt_adv",
     "_generatedFrom": "de-nb/generalbank.json:vor_allem_general"
-  },
-  "fremmed_adv": {
-    "word": "fremmed",
-    "type": "adv",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "fremmed_adv",
-    "_generatedFrom": "de-nb/generalbank.json:fremd_general"
   },
   "fremre_adv": {
     "word": "fremre",
@@ -2301,6 +2293,14 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "fra_tiden_på_phrase",
     "_generatedFrom": "de-nb/phrasesbank.json:seit_der_phrase"
+  },
+  "fråverande_adv": {
+    "word": "fråverande",
+    "type": "adv",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "fraværende_adv",
+    "_generatedFrom": "de-nb/generalbank.json:abwesend_general"
   },
   "fuktig_adv": {
     "word": "fuktig",
@@ -2487,6 +2487,22 @@
     "_nbEquivalent": "gjennomsnittlig_adv",
     "_generatedFrom": "de-nb/generalbank.json:durchschnittlich_general"
   },
+  "gjera_adv": {
+    "word": "å gjera",
+    "type": "adv",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "gjøre_adv",
+    "_generatedFrom": "de-nb/generalbank.json:tun_general"
+  },
+  "gjera_vondt_adv": {
+    "word": "å gjera vondt",
+    "type": "adv",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "gjøre_vondt_adv",
+    "_generatedFrom": "de-nb/generalbank.json:weh_tun_general"
+  },
   "gjerne_adv": {
     "word": "gjerne",
     "type": "adv",
@@ -2494,22 +2510,6 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "gjerne_adv",
     "_generatedFrom": "de-nb/generalbank.json:gern_adv, de-nb/generalbank.json:gerne_adv"
-  },
-  "gjøre_adv": {
-    "word": "å gjøre",
-    "type": "adv",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "gjøre_adv",
-    "_generatedFrom": "de-nb/generalbank.json:tun_general"
-  },
-  "gjøre_vondt_adv": {
-    "word": "å gjøre vondt",
-    "type": "adv",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "gjøre_vondt_adv",
-    "_generatedFrom": "de-nb/generalbank.json:weh_tun_general"
   },
   "glad_adv": {
     "word": "glad",
@@ -2567,8 +2567,8 @@
     "_nbEquivalent": "god_kveld_phrase",
     "_generatedFrom": "es-nb/generalbank.json:buenas_noches_phrase, es-nb/phrasesbank.json:buenas_noches_phrase"
   },
-  "god_morgen_phrase": {
-    "word": "god morgen",
+  "god_morgon_phrase": {
+    "word": "god morgon",
     "type": "phrase",
     "_enriched": false,
     "_nnSource": "auto-nb",
@@ -2720,14 +2720,6 @@
     "_nbEquivalent": "ha_det_adv",
     "_generatedFrom": "de-nb/generalbank.json:tschues_general, de-nb/generalbank.json:tschuess_general"
   },
-  "ha_det_gøy_phrase": {
-    "word": "å ha det gøy",
-    "type": "phrase",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "ha_det_gøy_phrase",
-    "_generatedFrom": "es-nb/generalbank.json:pasarlo_bien_phrase"
-  },
   "ha_det_interj": {
     "word": "ha det!",
     "type": "interj",
@@ -2735,6 +2727,14 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "ha_det_interj",
     "_generatedFrom": "de-nb/generalbank.json:tschuess_interj, es-nb/generalbank.json:adios_interj"
+  },
+  "ha_det_moro_phrase": {
+    "word": "å ha det moro",
+    "type": "phrase",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "ha_det_gøy_phrase",
+    "_generatedFrom": "es-nb/generalbank.json:pasarlo_bien_phrase"
   },
   "ha_det_phrase": {
     "word": "ha det",
@@ -3334,8 +3334,8 @@
     "_nbEquivalent": "i_mellomtiden_adv",
     "_generatedFrom": "de-nb/generalbank.json:mittlerweile_general"
   },
-  "i_morgen_adv": {
-    "word": "i morgen",
+  "i_morgon_adv": {
+    "word": "i morgon",
     "type": "adv",
     "_enriched": false,
     "_nnSource": "auto-nb",
@@ -3365,6 +3365,14 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "i_prep",
     "_generatedFrom": "de-nb/generalbank.json:in_prep, de-nb/generalbank.json:ins_prep, es-nb/generalbank.json:en_prep"
+  },
+  "i_staden_for_adv": {
+    "word": "i staden for",
+    "type": "adv",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "istedenfor_adv",
+    "_generatedFrom": "de-nb/generalbank.json:statt_general"
   },
   "i_tide_adv": {
     "word": "i tide",
@@ -3511,8 +3519,8 @@
     "_nbEquivalent": "ingen_omstendigheter_adv",
     "_generatedFrom": "de-nb/generalbank.json:keinen_fall_general"
   },
-  "ingen_steder_adv": {
-    "word": "ingen steder",
+  "ingen_stader_adv": {
+    "word": "ingen stader",
     "type": "adv",
     "_enriched": false,
     "_nnSource": "auto-nb",
@@ -3655,14 +3663,6 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "irriterende_adv",
     "_generatedFrom": "de-nb/generalbank.json:aergerlich_general"
-  },
-  "istedenfor_adv": {
-    "word": "istedenfor",
-    "type": "adv",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "istedenfor_adv",
-    "_generatedFrom": "de-nb/generalbank.json:statt_general"
   },
   "italia_propn": {
     "word": "italia",
@@ -3825,8 +3825,8 @@
     "_nbEquivalent": "knapt_adv",
     "_generatedFrom": "de-nb/generalbank.json:kaum_general"
   },
-  "komme_godt_overens_phrase": {
-    "word": "å komme godt overens",
+  "komme_godt_overeins_phrase": {
+    "word": "å komme godt overeins",
     "type": "phrase",
     "_enriched": false,
     "_nnSource": "auto-nb",
@@ -3897,8 +3897,8 @@
     "_nbEquivalent": "hvordan_pron",
     "_generatedFrom": "es-nb/pronounsbank.json:como_interr_pron"
   },
-  "korleis_sier_man_phrase": {
-    "word": "korleis sier man...?",
+  "korleis_seier_ein_phrase": {
+    "word": "korleis seier ein...?",
     "type": "phrase",
     "_enriched": false,
     "_nnSource": "auto-nb",
@@ -3944,14 +3944,6 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "kunstig_adv",
     "_generatedFrom": "de-nb/generalbank.json:kuenstlich_general"
-  },
-  "kva_betyr_phrase": {
-    "word": "kva betyr...?",
-    "type": "phrase",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "hva_betyr_phrase",
-    "_generatedFrom": "es-nb/generalbank.json:que_significa_phrase, es-nb/phrasesbank.json:que_significa_phrase"
   },
   "kva_er_det_phrase": {
     "word": "kva er det?",
@@ -4032,6 +4024,14 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "hva_skjer_phrase",
     "_generatedFrom": "es-nb/generalbank.json:que_hay_phrase"
+  },
+  "kva_tyder_phrase": {
+    "word": "kva tyder...?",
+    "type": "phrase",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "hva_betyr_phrase",
+    "_generatedFrom": "es-nb/generalbank.json:que_significa_phrase, es-nb/phrasesbank.json:que_significa_phrase"
   },
   "kvar_adv": {
     "word": "kvar",
@@ -4452,14 +4452,6 @@
     "_nbEquivalent": "maksimal_adv",
     "_generatedFrom": "de-nb/generalbank.json:maximal_general"
   },
-  "man_pron": {
-    "word": "man",
-    "type": "pron",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "man_pron",
-    "_generatedFrom": "de-nb/pronounsbank.json:man_pron"
-  },
   "mange_pron": {
     "word": "mange?",
     "type": "pron",
@@ -4516,8 +4508,8 @@
     "_nbEquivalent": "med_det_adv",
     "_generatedFrom": "de-nb/generalbank.json:dabei_adv"
   },
-  "med_ein_gang_adv": {
-    "word": "med ein gang",
+  "med_ein_gong_adv": {
+    "word": "med ein gong",
     "type": "adv",
     "_enriched": false,
     "_nnSource": "auto-nb",
@@ -5022,8 +5014,8 @@
     "_nbEquivalent": "nå_av_adv",
     "_generatedFrom": "de-nb/generalbank.json:jetzt_ab_general"
   },
-  "no_setter_vi_i_gang_phrase": {
-    "word": "no setter vi i gang",
+  "no_set_vi_i_gong_phrase": {
+    "word": "no set vi i gong",
     "type": "phrase",
     "_enriched": false,
     "_nnSource": "auto-nb",
@@ -5062,8 +5054,8 @@
     "_nbEquivalent": "noen_få_adv",
     "_generatedFrom": "de-nb/generalbank.json:ein_paar_general"
   },
-  "nokon_ganger_adv": {
-    "word": "nokon ganger",
+  "nokon_gonger_adv": {
+    "word": "nokon gonger",
     "type": "adv",
     "_enriched": false,
     "_nnSource": "auto-nb",
@@ -5109,6 +5101,14 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "norsk_propn",
     "_generatedFrom": "de-nb/generalbank.json:norwegisch_propn"
+  },
+  "noverande_adv": {
+    "word": "noverande",
+    "type": "adv",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "nåværende_adv",
+    "_generatedFrom": "de-nb/generalbank.json:heutig_general"
   },
   "null_num": {
     "word": "null",
@@ -5173,14 +5173,6 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "når_hvis_adv",
     "_generatedFrom": "de-nb/generalbank.json:wenn_general"
-  },
-  "nåværende_adv": {
-    "word": "nåværende",
-    "type": "adv",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "nåværende_adv",
-    "_generatedFrom": "de-nb/generalbank.json:heutig_general"
   },
   "nær_prep": {
     "word": "nær",
@@ -5351,8 +5343,8 @@
     "_nbEquivalent": "om_kvelden_phrase",
     "_generatedFrom": "de-nb/generalbank.json:am_abend_phrase"
   },
-  "om_morgenen_expr": {
-    "word": "om morgenen",
+  "om_morgonen_expr": {
+    "word": "om morgonen",
     "type": "expr",
     "_enriched": false,
     "_nnSource": "auto-nb",
@@ -5543,8 +5535,8 @@
     "_nbEquivalent": "parallell_adv",
     "_generatedFrom": "de-nb/generalbank.json:parallel_general"
   },
-  "passer_det_phrase": {
-    "word": "passer det?",
+  "passar_det_phrase": {
+    "word": "passar det?",
     "type": "phrase",
     "_enriched": false,
     "_nnSource": "auto-nb",
@@ -5800,8 +5792,8 @@
     "usageNotes": "vertikal",
     "_generatedFrom": "de-nb/generalbank.json:an_prep, de-nb/generalbank.json:auf_prep, de-nb/generalbank.json:in_prep, es-nb/generalbank.json:a_prep, es-nb/generalbank.json:en_prep, es-nb/generalbank.json:sobre_prep"
   },
-  "på_skolen_phrase": {
-    "word": "på skolen",
+  "på_skulen_phrase": {
+    "word": "på skulen",
     "type": "phrase",
     "_enriched": false,
     "_nnSource": "auto-nb",
@@ -6104,6 +6096,14 @@
     "_nbEquivalent": "seg_selv_pron",
     "_generatedFrom": "de-nb/pronounsbank.json:sich_pron"
   },
+  "seinare_adv": {
+    "word": "seinare",
+    "type": "adv",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "senere_adv",
+    "_generatedFrom": "de-nb/generalbank.json:spaeter_adv"
+  },
   "seks_num": {
     "word": "seks",
     "type": "num",
@@ -6127,14 +6127,6 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "seksti_num",
     "_generatedFrom": "de-nb/numbersbank.json:sechzig_num"
-  },
-  "senere_adv": {
-    "word": "senere",
-    "type": "adv",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "senere_adv",
-    "_generatedFrom": "de-nb/generalbank.json:spaeter_adv"
   },
   "senest_adv": {
     "word": "senest",
@@ -6160,8 +6152,8 @@
     "_nbEquivalent": "sentral_adv",
     "_generatedFrom": "de-nb/generalbank.json:zentral_general"
   },
-  "setter_har_satt_adv": {
-    "word": "setter, har satt",
+  "set_har_satt_adv": {
+    "word": "set, har satt",
     "type": "adv",
     "_enriched": false,
     "_nnSource": "auto-nb",
@@ -6816,8 +6808,8 @@
     "_nbEquivalent": "tallrik_adv",
     "_generatedFrom": "de-nb/generalbank.json:zahlreich_general"
   },
-  "tar_lengre_tid_phrase": {
-    "word": "tar lengre tid",
+  "tek_lengre_tid_phrase": {
+    "word": "tek lengre tid",
     "type": "phrase",
     "_enriched": false,
     "_nnSource": "auto-nb",
@@ -7572,6 +7564,70 @@
     "_nbEquivalent": "vær_så_snill_phrase",
     "_generatedFrom": "es-nb/phrasesbank.json:por_favor_phrase"
   },
+  "vera_av_adv": {
+    "word": "å vera av",
+    "type": "adv",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "være_av_adv",
+    "_generatedFrom": "de-nb/generalbank.json:aus_sein_general"
+  },
+  "vera_borte_adv": {
+    "word": "å vera borte",
+    "type": "adv",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "være_borte_adv",
+    "_generatedFrom": "de-nb/generalbank.json:weg_sein_general"
+  },
+  "vera_forbode_adv": {
+    "word": "vera forbode",
+    "type": "adv",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "være_forbudt_adv",
+    "_generatedFrom": "de-nb/generalbank.json:verboten_sein_general"
+  },
+  "vera_lukka_adv": {
+    "word": "å vera lukka",
+    "type": "adv",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "være_lukket_adv",
+    "_generatedFrom": "de-nb/generalbank.json:zu_sein_general"
+  },
+  "vera_moro_phrase": {
+    "word": "å vera moro",
+    "type": "phrase",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "være_gøy_phrase",
+    "_generatedFrom": "de-nb/generalbank.json:spass_machen_phrase"
+  },
+  "vera_på_adv": {
+    "word": "å vera på",
+    "type": "adv",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "være_på_adv",
+    "_generatedFrom": "de-nb/generalbank.json:an_sein_general"
+  },
+  "vera_spent_phrase": {
+    "word": "å vera spent",
+    "type": "phrase",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "være_spent_phrase",
+    "_generatedFrom": "de-nb/generalbank.json:gespannt_sein_phrase"
+  },
+  "vera_åpen_adv": {
+    "word": "å vera åpen",
+    "type": "adv",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "være_åpen_adv",
+    "_generatedFrom": "de-nb/generalbank.json:auf_sein_general"
+  },
   "verdifull_adv": {
     "word": "verdifull",
     "type": "adv",
@@ -7636,45 +7692,45 @@
     "_nbEquivalent": "vi_pron",
     "_generatedFrom": "de-nb/pronounsbank.json:wir_pron, es-nb/pronounsbank.json:nosotras_pron"
   },
-  "vi_sees_i_morgen_phrase": {
-    "word": "vi sees i morgen",
-    "type": "phrase",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "vi_sees_i_morgen_phrase",
-    "_generatedFrom": "es-nb/generalbank.json:hasta_manana_phrase"
-  },
-  "vi_sees_senere_phrase": {
-    "word": "vi sees senere",
-    "type": "phrase",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "vi_sees_senere_phrase",
-    "_generatedFrom": "es-nb/generalbank.json:hasta_luego_phrase"
-  },
-  "vi_sees_snart_phrase": {
-    "word": "vi sees snart",
-    "type": "phrase",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "vi_sees_snart_phrase",
-    "_generatedFrom": "es-nb/generalbank.json:hasta_pronto_phrase, es-nb/phrasesbank.json:hasta_pronto_phrase"
-  },
-  "vi_ses_i_morgen_phrase": {
-    "word": "vi ses i morgen",
+  "vi_sest_i_morgon_phrase": {
+    "word": "vi sest i morgon",
     "type": "phrase",
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "vi_ses_i_morgen_phrase",
     "_generatedFrom": "es-nb/phrasesbank.json:hasta_manana_phrase"
   },
-  "vi_ses_senere_phrase": {
-    "word": "vi ses senere",
+  "vi_sest_seinare_phrase": {
+    "word": "vi sest seinare",
     "type": "phrase",
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "vi_ses_senere_phrase",
     "_generatedFrom": "es-nb/phrasesbank.json:hasta_luego_phrase"
+  },
+  "vi_sjåast_i_morgon_phrase": {
+    "word": "vi sjåast i morgon",
+    "type": "phrase",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "vi_sees_i_morgen_phrase",
+    "_generatedFrom": "es-nb/generalbank.json:hasta_manana_phrase"
+  },
+  "vi_sjåast_seinare_phrase": {
+    "word": "vi sjåast seinare",
+    "type": "phrase",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "vi_sees_senere_phrase",
+    "_generatedFrom": "es-nb/generalbank.json:hasta_luego_phrase"
+  },
+  "vi_sjåast_snart_phrase": {
+    "word": "vi sjåast snart",
+    "type": "phrase",
+    "_enriched": false,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "vi_sees_snart_phrase",
+    "_generatedFrom": "es-nb/generalbank.json:hasta_pronto_phrase, es-nb/phrasesbank.json:hasta_pronto_phrase"
   },
   "vi_snakkes_phrase": {
     "word": "vi snakkes!",
@@ -7747,70 +7803,6 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "våre_pron",
     "_generatedFrom": "es-nb/pronounsbank.json:nuestro_possess_pron"
-  },
-  "være_av_adv": {
-    "word": "å være av",
-    "type": "adv",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "være_av_adv",
-    "_generatedFrom": "de-nb/generalbank.json:aus_sein_general"
-  },
-  "være_borte_adv": {
-    "word": "å være borte",
-    "type": "adv",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "være_borte_adv",
-    "_generatedFrom": "de-nb/generalbank.json:weg_sein_general"
-  },
-  "være_forbudt_adv": {
-    "word": "være forbudt",
-    "type": "adv",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "være_forbudt_adv",
-    "_generatedFrom": "de-nb/generalbank.json:verboten_sein_general"
-  },
-  "være_gøy_phrase": {
-    "word": "å være gøy",
-    "type": "phrase",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "være_gøy_phrase",
-    "_generatedFrom": "de-nb/generalbank.json:spass_machen_phrase"
-  },
-  "være_lukket_adv": {
-    "word": "å være lukket",
-    "type": "adv",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "være_lukket_adv",
-    "_generatedFrom": "de-nb/generalbank.json:zu_sein_general"
-  },
-  "være_på_adv": {
-    "word": "å være på",
-    "type": "adv",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "være_på_adv",
-    "_generatedFrom": "de-nb/generalbank.json:an_sein_general"
-  },
-  "være_spent_phrase": {
-    "word": "å være spent",
-    "type": "phrase",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "være_spent_phrase",
-    "_generatedFrom": "de-nb/generalbank.json:gespannt_sein_phrase"
-  },
-  "være_åpen_adv": {
-    "word": "å være åpen",
-    "type": "adv",
-    "_enriched": false,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "være_åpen_adv",
-    "_generatedFrom": "de-nb/generalbank.json:auf_sein_general"
   },
   "yrkesaktiv_adv": {
     "word": "yrkesaktiv",

@@ -3,7 +3,7 @@
     "language": "nn",
     "languageName": "Norsk nynorsk",
     "bank": "verbbank",
-    "generatedAt": "2026-03-14T07:19:53.353Z",
+    "generatedAt": "2026-03-14T08:03:48.781Z",
     "description": "Norwegian Nynorsk verbbank — generated from Bokmål via NB→NN transformation",
     "totalEntries": 663,
     "enrichedEntries": 648,
@@ -1943,8 +1943,8 @@
     "_nbEquivalent": "delta_verb",
     "_generatedFrom": "de-nb/verbbank.json:mitmachen_verb, de-nb/verbbank.json:sich_beteiligen_verb, de-nb/verbbank.json:teilnehmen_verb"
   },
-  "delta_å_være_til_stede_verb": {
-    "word": "delta, å være til stede",
+  "delta_å_vera_til_stede_verb": {
+    "word": "delta, å vera til stede",
     "type": "verb",
     "_enriched": false,
     "_nnSource": "auto-nb",
@@ -3064,6 +3064,29 @@
     "_nbEquivalent": "forbli_verb",
     "_generatedFrom": "de-nb/verbbank.json:bleiben_verb"
   },
+  "forbode_verb": {
+    "word": "forbode",
+    "type": "verb",
+    "verbClass": "svak",
+    "auxiliary": "har",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å forbode",
+          "presens": "forboder",
+          "preteritum": "forbodde",
+          "perfektum_partisipp": "forbodd",
+          "imperativ": "forbod"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "_enriched": true,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "forbudt_verb",
+    "_generatedFrom": "de-nb/verbbank.json:verboten_verb"
+  },
   "forbruke_verb": {
     "word": "forbruke",
     "type": "verb",
@@ -3086,29 +3109,6 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "forbruke_verb",
     "_generatedFrom": "de-nb/verbbank.json:konsumieren_verb, de-nb/verbbank.json:verbrauchen_verb"
-  },
-  "forbudt_verb": {
-    "word": "forbudt",
-    "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å forbudt",
-          "presens": "forbudtr",
-          "preteritum": "forbudtdde",
-          "perfektum_partisipp": "forbudtdd",
-          "imperativ": "forbudt"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "forbudt_verb",
-    "_generatedFrom": "de-nb/verbbank.json:verboten_verb"
   },
   "fordele_verb": {
     "word": "fordele",
@@ -4337,6 +4337,29 @@
     "_nbEquivalent": "gjøre_verb",
     "_generatedFrom": "de-nb/verbbank.json:machen_verb"
   },
+  "gjera_å_lage_verb": {
+    "word": "gjera, å lage",
+    "type": "verb",
+    "verbClass": "svak",
+    "auxiliary": "har",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å gjera, å lage",
+          "presens": "gjera,r å lage",
+          "preteritum": "gjera,dde å lage",
+          "perfektum_partisipp": "gjera,dd",
+          "imperativ": "gjera, å lage"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "_enriched": true,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "gjøre_å_lage_verb",
+    "_generatedFrom": "es-nb/verbbank.json:hacer_verb"
+  },
   "gjetta_verb": {
     "word": "gjetta",
     "type": "verb",
@@ -4359,29 +4382,6 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "gjette_verb",
     "_generatedFrom": "de-nb/verbbank.json:raten_verb"
-  },
-  "gjøre_å_lage_verb": {
-    "word": "gjøre, å lage",
-    "type": "verb",
-    "verbClass": "svak",
-    "auxiliary": "har",
-    "conjugations": {
-      "presens": {
-        "former": {
-          "infinitiv": "å gjøre, å lage",
-          "presens": "gjøre,r å lage",
-          "preteritum": "gjøre,dde å lage",
-          "perfektum_partisipp": "gjøre,dd",
-          "imperativ": "gjøre, å lage"
-        },
-        "auxiliary": "har",
-        "feature": "grammar_nn_presens"
-      }
-    },
-    "_enriched": true,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "gjøre_å_lage_verb",
-    "_generatedFrom": "es-nb/verbbank.json:hacer_verb"
   },
   "gleda_seg_over_verb": {
     "word": "gleda seg over",
@@ -5542,19 +5542,19 @@
     "_nbEquivalent": "i_mellomtiden_verb",
     "_generatedFrom": "de-nb/verbbank.json:inzwischen_verb"
   },
-  "i_overmorgen_verb": {
-    "word": "i overmorgen",
+  "i_overmorgon_verb": {
+    "word": "i overmorgon",
     "type": "verb",
     "verbClass": "svak",
     "auxiliary": "har",
     "conjugations": {
       "presens": {
         "former": {
-          "infinitiv": "å i overmorgen",
-          "presens": "ir overmorgen",
-          "preteritum": "idde overmorgen",
+          "infinitiv": "å i overmorgon",
+          "presens": "ir overmorgon",
+          "preteritum": "idde overmorgon",
           "perfektum_partisipp": "idd",
-          "imperativ": "i overmorgen"
+          "imperativ": "i overmorgon"
         },
         "auxiliary": "har",
         "feature": "grammar_nn_presens"

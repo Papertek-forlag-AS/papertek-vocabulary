@@ -3,7 +3,7 @@
     "language": "nn",
     "languageName": "Norsk nynorsk",
     "bank": "nounbank",
-    "generatedAt": "2026-03-14T07:19:53.324Z",
+    "generatedAt": "2026-03-14T08:03:48.757Z",
     "description": "Norwegian Nynorsk nounbank — generated from Bokmål via NB→NN transformation",
     "totalEntries": 1596,
     "enrichedEntries": 1596,
@@ -48,26 +48,6 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "adresse_noun",
     "_generatedFrom": "de-nb/nounbank.json:adresse_noun"
-  },
-  "adskillelse_noun": {
-    "word": "adskillelse",
-    "type": "noun",
-    "genus": "f",
-    "plural": "adskillelser",
-    "forms": {
-      "ubestemt": {
-        "entall": "adskillelse",
-        "flertall": "adskillelser"
-      },
-      "bestemt": {
-        "entall": "adskillelsa",
-        "flertall": "adskillelsene"
-      }
-    },
-    "_enriched": true,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "adskillelse_noun",
-    "_generatedFrom": "de-nb/nounbank.json:trennung_noun"
   },
   "advokat_noun": {
     "word": "advokat",
@@ -749,19 +729,19 @@
     "_nbEquivalent": "arbeid_pågår_noun",
     "_generatedFrom": "de-nb/nounbank.json:arbeid_paagar_noun"
   },
-  "arbeider_noun": {
-    "word": "arbeider",
+  "arbeidar_noun": {
+    "word": "arbeidar",
     "type": "noun",
     "genus": "m",
-    "plural": "arbeiderar",
+    "plural": "arbeidarar",
     "forms": {
       "ubestemt": {
-        "entall": "arbeider",
-        "flertall": "arbeiderar"
+        "entall": "arbeidar",
+        "flertall": "arbeidarar"
       },
       "bestemt": {
-        "entall": "arbeideren",
-        "flertall": "arbeiderane"
+        "entall": "arbeidaren",
+        "flertall": "arbeidarane"
       }
     },
     "_enriched": true,
@@ -1931,19 +1911,19 @@
     "_nbEquivalent": "bedrift_noun",
     "_generatedFrom": "de-nb/nounbank.json:betrieb_noun"
   },
-  "bedriftseier_noun": {
-    "word": "bedriftseier",
+  "bedriftseigar_noun": {
+    "word": "bedriftseigar",
     "type": "noun",
-    "genus": "m",
-    "plural": "bedriftseierar",
+    "genus": "n",
+    "plural": "bedriftseigar",
     "forms": {
       "ubestemt": {
-        "entall": "bedriftseier",
-        "flertall": "bedriftseierar"
+        "entall": "bedriftseigar",
+        "flertall": "bedriftseigar"
       },
       "bestemt": {
-        "entall": "bedriftseieren",
-        "flertall": "bedriftseierane"
+        "entall": "bedriftseigaret",
+        "flertall": "bedriftseigara"
       }
     },
     "_enriched": true,
@@ -3991,6 +3971,26 @@
     "_nbEquivalent": "delfin_noun",
     "_generatedFrom": "es-nb/nounbank.json:delfin_noun"
   },
+  "deltakar_noun": {
+    "word": "deltakar",
+    "type": "noun",
+    "genus": "m",
+    "plural": "deltakarar",
+    "forms": {
+      "ubestemt": {
+        "entall": "deltakar",
+        "flertall": "deltakarar"
+      },
+      "bestemt": {
+        "entall": "deltakaren",
+        "flertall": "deltakarane"
+      }
+    },
+    "_enriched": true,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "deltaker_noun",
+    "_generatedFrom": "de-nb/nounbank.json:teilnehmer_noun"
+  },
   "deltakelse_noun": {
     "word": "deltakelse",
     "type": "noun",
@@ -4010,26 +4010,6 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "deltakelse_noun",
     "_generatedFrom": "de-nb/nounbank.json:teilnahme_noun"
-  },
-  "deltaker_noun": {
-    "word": "deltaker",
-    "type": "noun",
-    "genus": "m",
-    "plural": "deltakerar",
-    "forms": {
-      "ubestemt": {
-        "entall": "deltaker",
-        "flertall": "deltakerar"
-      },
-      "bestemt": {
-        "entall": "deltakeren",
-        "flertall": "deltakerane"
-      }
-    },
-    "_enriched": true,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "deltaker_noun",
-    "_generatedFrom": "de-nb/nounbank.json:teilnehmer_noun"
   },
   "deltid_noun": {
     "word": "deltid",
@@ -4691,19 +4671,19 @@
     "_nbEquivalent": "dyrepark_noun",
     "_generatedFrom": "de-nb/nounbank.json:tierpark_noun"
   },
-  "dyrepasser_noun": {
-    "word": "dyrepasser",
+  "dyrepassar_noun": {
+    "word": "dyrepassar",
     "type": "noun",
     "genus": "m",
-    "plural": "dyrepasserar",
+    "plural": "dyrepassarar",
     "forms": {
       "ubestemt": {
-        "entall": "dyrepasser",
-        "flertall": "dyrepasserar"
+        "entall": "dyrepassar",
+        "flertall": "dyrepassarar"
       },
       "bestemt": {
-        "entall": "dyrepasseren",
-        "flertall": "dyrepasserane"
+        "entall": "dyrepassaren",
+        "flertall": "dyrepassarane"
       }
     },
     "_enriched": true,
@@ -6811,19 +6791,19 @@
     "_nbEquivalent": "forestilling_noun",
     "_generatedFrom": "de-nb/nounbank.json:vorstellung_noun"
   },
-  "forfatter_noun": {
-    "word": "forfatter",
+  "forfattar_noun": {
+    "word": "forfattar",
     "type": "noun",
     "genus": "m",
-    "plural": "forfatterar",
+    "plural": "forfattarar",
     "forms": {
       "ubestemt": {
-        "entall": "forfatter",
-        "flertall": "forfatterar"
+        "entall": "forfattar",
+        "flertall": "forfattarar"
       },
       "bestemt": {
-        "entall": "forfatteren",
-        "flertall": "forfatterane"
+        "entall": "forfattaren",
+        "flertall": "forfattarane"
       }
     },
     "_enriched": true,
@@ -7511,19 +7491,19 @@
     "_nbEquivalent": "fotball_noun",
     "_generatedFrom": "de-nb/nounbank.json:fussball_noun, es-nb/nounbank.json:futbol_noun"
   },
-  "fotballspiller_noun": {
-    "word": "fotballspiller",
+  "fotballspelar_noun": {
+    "word": "fotballspelar",
     "type": "noun",
     "genus": "m",
-    "plural": "fotballspillerar",
+    "plural": "fotballspelarar",
     "forms": {
       "ubestemt": {
-        "entall": "fotballspiller",
-        "flertall": "fotballspillerar"
+        "entall": "fotballspelar",
+        "flertall": "fotballspelarar"
       },
       "bestemt": {
-        "entall": "fotballspilleren",
-        "flertall": "fotballspillerane"
+        "entall": "fotballspelaren",
+        "flertall": "fotballspelarane"
       }
     },
     "_enriched": true,
@@ -7671,6 +7651,26 @@
     "_nbEquivalent": "frakk_noun",
     "_generatedFrom": "es-nb/nounbank.json:abrigo_noun"
   },
+  "framandspråk_noun": {
+    "word": "framandspråk",
+    "type": "noun",
+    "genus": "m",
+    "plural": "framandspråkar",
+    "forms": {
+      "ubestemt": {
+        "entall": "framandspråk",
+        "flertall": "framandspråkar"
+      },
+      "bestemt": {
+        "entall": "framandspråken",
+        "flertall": "framandspråkane"
+      }
+    },
+    "_enriched": true,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "fremmedspråk_noun",
+    "_generatedFrom": "de-nb/nounbank.json:fremdsprache_noun"
+  },
   "framhald_noun": {
     "word": "framhald",
     "type": "noun",
@@ -7730,26 +7730,6 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "fredag_noun",
     "_generatedFrom": "de-nb/nounbank.json:freitag_noun, es-nb/nounbank.json:viernes_noun"
-  },
-  "fremmedspråk_noun": {
-    "word": "fremmedspråk",
-    "type": "noun",
-    "genus": "n",
-    "plural": "fremmedspråk",
-    "forms": {
-      "ubestemt": {
-        "entall": "fremmedspråk",
-        "flertall": "fremmedspråk"
-      },
-      "bestemt": {
-        "entall": "fremmedspråket",
-        "flertall": "fremmedspråka"
-      }
-    },
-    "_enriched": true,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "fremmedspråk_noun",
-    "_generatedFrom": "de-nb/nounbank.json:fremdsprache_noun"
   },
   "fremskritt_noun": {
     "word": "fremskritt",
@@ -8251,26 +8231,6 @@
     "_nbEquivalent": "galleri_noun",
     "_generatedFrom": "de-nb/nounbank.json:galerie_noun"
   },
-  "gang_noun": {
-    "word": "gang",
-    "type": "noun",
-    "genus": "m",
-    "plural": "gangar",
-    "forms": {
-      "ubestemt": {
-        "entall": "gang",
-        "flertall": "gangar"
-      },
-      "bestemt": {
-        "entall": "gangen",
-        "flertall": "gangane"
-      }
-    },
-    "_enriched": true,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "gang_noun",
-    "_generatedFrom": "de-nb/nounbank.json:flur_noun, de-nb/nounbank.json:gang_noun, es-nb/nounbank.json:vez_noun"
-  },
   "garanti_noun": {
     "word": "garanti",
     "type": "noun",
@@ -8750,6 +8710,26 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "godteri_noun",
     "_generatedFrom": "de-nb/nounbank.json:suessigkeiten_noun, es-nb/nounbank.json:caramelo_noun"
+  },
+  "gong_noun": {
+    "word": "gong",
+    "type": "noun",
+    "genus": "m",
+    "plural": "gongar",
+    "forms": {
+      "ubestemt": {
+        "entall": "gong",
+        "flertall": "gongar"
+      },
+      "bestemt": {
+        "entall": "gongen",
+        "flertall": "gongane"
+      }
+    },
+    "_enriched": true,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "gang_noun",
+    "_generatedFrom": "de-nb/nounbank.json:flur_noun, de-nb/nounbank.json:gang_noun, es-nb/nounbank.json:vez_noun"
   },
   "grad_noun": {
     "word": "grad",
@@ -12991,19 +12971,19 @@
     "_nbEquivalent": "kjøp_noun",
     "_generatedFrom": "de-nb/nounbank.json:kauf_noun"
   },
-  "kjøper_noun": {
-    "word": "kjøper",
+  "kjøpar_noun": {
+    "word": "kjøpar",
     "type": "noun",
     "genus": "m",
-    "plural": "kjøperar",
+    "plural": "kjøparar",
     "forms": {
       "ubestemt": {
-        "entall": "kjøper",
-        "flertall": "kjøperar"
+        "entall": "kjøpar",
+        "flertall": "kjøparar"
       },
       "bestemt": {
-        "entall": "kjøperen",
-        "flertall": "kjøperane"
+        "entall": "kjøparen",
+        "flertall": "kjøparane"
       }
     },
     "_enriched": true,
@@ -14432,19 +14412,19 @@
     "_nbEquivalent": "kunde_noun",
     "_generatedFrom": "de-nb/nounbank.json:kunde_noun"
   },
-  "kunngjøring_noun": {
-    "word": "kunngjøring",
+  "kunngjering_noun": {
+    "word": "kunngjering",
     "type": "noun",
     "genus": "f",
-    "plural": "kunngjøringar",
+    "plural": "kunngjeringar",
     "forms": {
       "ubestemt": {
-        "entall": "kunngjøring",
-        "flertall": "kunngjøringar"
+        "entall": "kunngjering",
+        "flertall": "kunngjeringar"
       },
       "bestemt": {
-        "entall": "kunngjøringa",
-        "flertall": "kunngjøringane"
+        "entall": "kunngjeringa",
+        "flertall": "kunngjeringane"
       }
     },
     "_enriched": true,
@@ -14832,19 +14812,19 @@
     "_nbEquivalent": "kvinnelig_doktor_noun",
     "_generatedFrom": "de-nb/nounbank.json:doktorin_noun"
   },
-  "kvinneleg_forfatter_noun": {
-    "word": "kvinneleg forfatter",
+  "kvinneleg_forfattar_noun": {
+    "word": "kvinneleg forfattar",
     "type": "noun",
     "genus": "m",
-    "plural": "kvinneleg forfatterar",
+    "plural": "kvinneleg forfattarar",
     "forms": {
       "ubestemt": {
-        "entall": "kvinneleg forfatter",
-        "flertall": "kvinneleg forfatterar"
+        "entall": "kvinneleg forfattar",
+        "flertall": "kvinneleg forfattarar"
       },
       "bestemt": {
-        "entall": "kvinneleg forfatteren",
-        "flertall": "kvinneleg forfatterane"
+        "entall": "kvinneleg forfattaren",
+        "flertall": "kvinneleg forfattarane"
       }
     },
     "_enriched": true,
@@ -14992,19 +14972,19 @@
     "_nbEquivalent": "kvinnelig_lege_noun",
     "_generatedFrom": "de-nb/nounbank.json:aerztin_noun"
   },
-  "kvinneleg_leser_noun": {
-    "word": "kvinneleg leser",
+  "kvinneleg_lesar_noun": {
+    "word": "kvinneleg lesar",
     "type": "noun",
     "genus": "m",
-    "plural": "kvinneleg leserar",
+    "plural": "kvinneleg lesarar",
     "forms": {
       "ubestemt": {
-        "entall": "kvinneleg leser",
-        "flertall": "kvinneleg leserar"
+        "entall": "kvinneleg lesar",
+        "flertall": "kvinneleg lesarar"
       },
       "bestemt": {
-        "entall": "kvinneleg leseren",
-        "flertall": "kvinneleg leserane"
+        "entall": "kvinneleg lesaren",
+        "flertall": "kvinneleg lesarane"
       }
     },
     "_enriched": true,
@@ -15012,19 +14992,19 @@
     "_nbEquivalent": "kvinnelig_leser_noun",
     "_generatedFrom": "de-nb/nounbank.json:leserin_noun"
   },
-  "kvinneleg_lytter_noun": {
-    "word": "kvinneleg lytter",
+  "kvinneleg_lyttar_noun": {
+    "word": "kvinneleg lyttar",
     "type": "noun",
     "genus": "m",
-    "plural": "kvinneleg lytterar",
+    "plural": "kvinneleg lyttarar",
     "forms": {
       "ubestemt": {
-        "entall": "kvinneleg lytter",
-        "flertall": "kvinneleg lytterar"
+        "entall": "kvinneleg lyttar",
+        "flertall": "kvinneleg lyttarar"
       },
       "bestemt": {
-        "entall": "kvinneleg lytteren",
-        "flertall": "kvinneleg lytterane"
+        "entall": "kvinneleg lyttaren",
+        "flertall": "kvinneleg lyttarane"
       }
     },
     "_enriched": true,
@@ -15252,6 +15232,26 @@
     "_nbEquivalent": "kvinnelig_sjef_noun",
     "_generatedFrom": "de-nb/nounbank.json:chefin_noun"
   },
+  "kvinneleg_spelar_noun": {
+    "word": "kvinneleg spelar",
+    "type": "noun",
+    "genus": "m",
+    "plural": "kvinneleg spelarar",
+    "forms": {
+      "ubestemt": {
+        "entall": "kvinneleg spelar",
+        "flertall": "kvinneleg spelarar"
+      },
+      "bestemt": {
+        "entall": "kvinneleg spelaren",
+        "flertall": "kvinneleg spelarane"
+      }
+    },
+    "_enriched": true,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "kvinnelig_spiller_noun",
+    "_generatedFrom": "de-nb/nounbank.json:spielerin_noun"
+  },
   "kvinneleg_spesialist_noun": {
     "word": "kvinneleg spesialist",
     "type": "noun",
@@ -15271,26 +15271,6 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "kvinnelig_spesialist_noun",
     "_generatedFrom": "de-nb/nounbank.json:spezialistin_noun"
-  },
-  "kvinneleg_spiller_noun": {
-    "word": "kvinneleg spiller",
-    "type": "noun",
-    "genus": "m",
-    "plural": "kvinneleg spillerar",
-    "forms": {
-      "ubestemt": {
-        "entall": "kvinneleg spiller",
-        "flertall": "kvinneleg spillerar"
-      },
-      "bestemt": {
-        "entall": "kvinneleg spilleren",
-        "flertall": "kvinneleg spillerane"
-      }
-    },
-    "_enriched": true,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "kvinnelig_spiller_noun",
-    "_generatedFrom": "de-nb/nounbank.json:spielerin_noun"
   },
   "kvinneleg_student_noun": {
     "word": "kvinneleg student",
@@ -15372,19 +15352,19 @@
     "_nbEquivalent": "kvinnelig_turist_noun",
     "_generatedFrom": "de-nb/nounbank.json:touristin_noun"
   },
-  "kvinneleg_utleier_noun": {
-    "word": "kvinneleg utleier",
+  "kvinneleg_utleigar_noun": {
+    "word": "kvinneleg utleigar",
     "type": "noun",
     "genus": "m",
-    "plural": "kvinneleg utleierar",
+    "plural": "kvinneleg utleigarar",
     "forms": {
       "ubestemt": {
-        "entall": "kvinneleg utleier",
-        "flertall": "kvinneleg utleierar"
+        "entall": "kvinneleg utleigar",
+        "flertall": "kvinneleg utleigarar"
       },
       "bestemt": {
-        "entall": "kvinneleg utleieren",
-        "flertall": "kvinneleg utleierane"
+        "entall": "kvinneleg utleigaren",
+        "flertall": "kvinneleg utleigarane"
       }
     },
     "_enriched": true,
@@ -15852,19 +15832,19 @@
     "_nbEquivalent": "legitimasjon_noun",
     "_generatedFrom": "de-nb/nounbank.json:ausweis_noun"
   },
-  "leietaker_noun": {
-    "word": "leietaker",
+  "leigetakar_noun": {
+    "word": "leigetakar",
     "type": "noun",
     "genus": "m",
-    "plural": "leietakerar",
+    "plural": "leigetakarar",
     "forms": {
       "ubestemt": {
-        "entall": "leietaker",
-        "flertall": "leietakerar"
+        "entall": "leigetakar",
+        "flertall": "leigetakarar"
       },
       "bestemt": {
-        "entall": "leietakeren",
-        "flertall": "leietakerane"
+        "entall": "leigetakaren",
+        "flertall": "leigetakarane"
       }
     },
     "_enriched": true,
@@ -16092,19 +16072,19 @@
     "_nbEquivalent": "leppe_noun",
     "_generatedFrom": "de-nb/nounbank.json:lippe_noun"
   },
-  "leser_noun": {
-    "word": "leser",
+  "lesar_noun": {
+    "word": "lesar",
     "type": "noun",
     "genus": "m",
-    "plural": "leserar",
+    "plural": "lesarar",
     "forms": {
       "ubestemt": {
-        "entall": "leser",
-        "flertall": "leserar"
+        "entall": "lesar",
+        "flertall": "lesarar"
       },
       "bestemt": {
-        "entall": "leseren",
-        "flertall": "leserane"
+        "entall": "lesaren",
+        "flertall": "lesarane"
       }
     },
     "_enriched": true,
@@ -16532,19 +16512,19 @@
     "_nbEquivalent": "lyst_noun",
     "_generatedFrom": "de-nb/nounbank.json:lust_noun"
   },
-  "lytter_noun": {
-    "word": "lytter",
+  "lyttar_noun": {
+    "word": "lyttar",
     "type": "noun",
     "genus": "m",
-    "plural": "lytterar",
+    "plural": "lyttarar",
     "forms": {
       "ubestemt": {
-        "entall": "lytter",
-        "flertall": "lytterar"
+        "entall": "lyttar",
+        "flertall": "lyttarar"
       },
       "bestemt": {
-        "entall": "lytteren",
-        "flertall": "lytterane"
+        "entall": "lyttaren",
+        "flertall": "lyttarane"
       }
     },
     "_enriched": true,
@@ -16572,6 +16552,27 @@
     "_nbEquivalent": "lær_noun",
     "_generatedFrom": "de-nb/nounbank.json:leder_noun"
   },
+  "lærar_noun": {
+    "word": "lærar",
+    "type": "noun",
+    "genus": "m",
+    "plural": "lærarar",
+    "forms": {
+      "ubestemt": {
+        "entall": "lærar",
+        "flertall": "lærarar"
+      },
+      "bestemt": {
+        "entall": "læraren",
+        "flertall": "lærarane"
+      }
+    },
+    "_enriched": true,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "lærer_noun",
+    "usageNotes": "mannlig",
+    "_generatedFrom": "de-nb/nounbank.json:lehrer_noun, es-nb/nounbank.json:profesor_noun, es-nb/nounbank.json:profesora_noun"
+  },
   "lære_noun": {
     "word": "lære",
     "type": "noun",
@@ -16591,27 +16592,6 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "lære_noun",
     "_generatedFrom": "de-nb/nounbank.json:lehre_noun"
-  },
-  "lærer_noun": {
-    "word": "lærer",
-    "type": "noun",
-    "genus": "m",
-    "plural": "lærerar",
-    "forms": {
-      "ubestemt": {
-        "entall": "lærer",
-        "flertall": "lærerar"
-      },
-      "bestemt": {
-        "entall": "læreren",
-        "flertall": "lærerane"
-      }
-    },
-    "_enriched": true,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "lærer_noun",
-    "usageNotes": "mannlig",
-    "_generatedFrom": "de-nb/nounbank.json:lehrer_noun, es-nb/nounbank.json:profesor_noun, es-nb/nounbank.json:profesora_noun"
   },
   "læringsgruppe_noun": {
     "word": "læringsgruppe",
@@ -17233,19 +17213,19 @@
     "_nbEquivalent": "maur_noun",
     "_generatedFrom": "es-nb/nounbank.json:hormiga_noun"
   },
-  "medarbeider_noun": {
-    "word": "medarbeider",
+  "medarbeidar_noun": {
+    "word": "medarbeidar",
     "type": "noun",
     "genus": "m",
-    "plural": "medarbeiderar",
+    "plural": "medarbeidarar",
     "forms": {
       "ubestemt": {
-        "entall": "medarbeider",
-        "flertall": "medarbeiderar"
+        "entall": "medarbeidar",
+        "flertall": "medarbeidarar"
       },
       "bestemt": {
-        "entall": "medarbeideren",
-        "flertall": "medarbeiderane"
+        "entall": "medarbeidaren",
+        "flertall": "medarbeidarane"
       }
     },
     "_enriched": true,
@@ -18054,19 +18034,19 @@
     "_nbEquivalent": "mor_noun",
     "_generatedFrom": "de-nb/nounbank.json:mutter_noun, es-nb/nounbank.json:madre_noun"
   },
-  "morgen_noun": {
-    "word": "morgen",
+  "morgon_noun": {
+    "word": "morgon",
     "type": "noun",
     "genus": "m",
-    "plural": "morgenar",
+    "plural": "morgonar",
     "forms": {
       "ubestemt": {
-        "entall": "morgen",
-        "flertall": "morgenar"
+        "entall": "morgon",
+        "flertall": "morgonar"
       },
       "bestemt": {
-        "entall": "morgenen",
-        "flertall": "morgenane"
+        "entall": "morgonen",
+        "flertall": "morgonane"
       }
     },
     "_enriched": true,
@@ -18074,19 +18054,19 @@
     "_nbEquivalent": "morgen_noun",
     "_generatedFrom": "de-nb/nounbank.json:morgen_noun, es-nb/nounbank.json:manana_tiempo_noun"
   },
-  "morgenfugl_noun": {
-    "word": "morgenfugl",
+  "morgonfugl_noun": {
+    "word": "morgonfugl",
     "type": "noun",
     "genus": "m",
-    "plural": "morgenfuglar",
+    "plural": "morgonfuglar",
     "forms": {
       "ubestemt": {
-        "entall": "morgenfugl",
-        "flertall": "morgenfuglar"
+        "entall": "morgonfugl",
+        "flertall": "morgonfuglar"
       },
       "bestemt": {
-        "entall": "morgenfuglen",
-        "flertall": "morgenfuglane"
+        "entall": "morgonfuglen",
+        "flertall": "morgonfuglane"
       }
     },
     "_enriched": true,
@@ -18094,19 +18074,19 @@
     "_nbEquivalent": "morgenfugl_noun",
     "_generatedFrom": "de-nb/nounbank.json:morgenmensch_noun"
   },
-  "morgenrutine_noun": {
-    "word": "morgenrutine",
+  "morgonrutine_noun": {
+    "word": "morgonrutine",
     "type": "noun",
-    "genus": "f",
-    "plural": "morgenrutiner",
+    "genus": "m",
+    "plural": "morgonrutinar",
     "forms": {
       "ubestemt": {
-        "entall": "morgenrutine",
-        "flertall": "morgenrutiner"
+        "entall": "morgonrutine",
+        "flertall": "morgonrutinar"
       },
       "bestemt": {
-        "entall": "morgenrutina",
-        "flertall": "morgenrutinene"
+        "entall": "morgonrutinen",
+        "flertall": "morgonrutinane"
       }
     },
     "_enriched": true,
@@ -18354,19 +18334,19 @@
     "_nbEquivalent": "mottak_noun",
     "_generatedFrom": "de-nb/nounbank.json:empfang_noun"
   },
-  "mottaker_noun": {
-    "word": "mottaker",
+  "mottakar_noun": {
+    "word": "mottakar",
     "type": "noun",
     "genus": "m",
-    "plural": "mottakerar",
+    "plural": "mottakarar",
     "forms": {
       "ubestemt": {
-        "entall": "mottaker",
-        "flertall": "mottakerar"
+        "entall": "mottakar",
+        "flertall": "mottakarar"
       },
       "bestemt": {
-        "entall": "mottakeren",
-        "flertall": "mottakerane"
+        "entall": "mottakaren",
+        "flertall": "mottakarane"
       }
     },
     "_enriched": true,
@@ -19474,6 +19454,26 @@
     "_nbEquivalent": "område_noun",
     "_generatedFrom": "de-nb/nounbank.json:bereich_noun, de-nb/nounbank.json:gebiet_noun, de-nb/nounbank.json:gegend_noun"
   },
+  "omsetjar_noun": {
+    "word": "omsetjar",
+    "type": "noun",
+    "genus": "m",
+    "plural": "omsetjarar",
+    "forms": {
+      "ubestemt": {
+        "entall": "omsetjar",
+        "flertall": "omsetjarar"
+      },
+      "bestemt": {
+        "entall": "omsetjaren",
+        "flertall": "omsetjarane"
+      }
+    },
+    "_enriched": true,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "oversetter_noun",
+    "_generatedFrom": "de-nb/nounbank.json:uebersetzer_noun"
+  },
   "omsetjing_noun": {
     "word": "omsetjing",
     "type": "noun",
@@ -20153,26 +20153,6 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "overraskelse_noun",
     "_generatedFrom": "de-nb/nounbank.json:ueberraschung_noun"
-  },
-  "oversetter_noun": {
-    "word": "oversetter",
-    "type": "noun",
-    "genus": "m",
-    "plural": "oversetterar",
-    "forms": {
-      "ubestemt": {
-        "entall": "oversetter",
-        "flertall": "oversetterar"
-      },
-      "bestemt": {
-        "entall": "oversetteren",
-        "flertall": "oversetterane"
-      }
-    },
-    "_enriched": true,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "oversetter_noun",
-    "_generatedFrom": "de-nb/nounbank.json:uebersetzer_noun"
   },
   "overskrift_noun": {
     "word": "overskrift",
@@ -20994,19 +20974,19 @@
     "_nbEquivalent": "plaster_noun",
     "_generatedFrom": "de-nb/nounbank.json:pflaster_noun"
   },
-  "pleier_noun": {
-    "word": "pleier",
+  "pleiar_noun": {
+    "word": "pleiar",
     "type": "noun",
     "genus": "m",
-    "plural": "pleierar",
+    "plural": "pleiarar",
     "forms": {
       "ubestemt": {
-        "entall": "pleier",
-        "flertall": "pleierar"
+        "entall": "pleiar",
+        "flertall": "pleiarar"
       },
       "bestemt": {
-        "entall": "pleieren",
-        "flertall": "pleierane"
+        "entall": "pleiaren",
+        "flertall": "pleiarane"
       }
     },
     "_enriched": true,
@@ -23814,19 +23794,19 @@
     "_nbEquivalent": "sekund_noun",
     "_generatedFrom": "de-nb/nounbank.json:sekunde_noun"
   },
-  "selger_noun": {
-    "word": "selger",
+  "seljar_noun": {
+    "word": "seljar",
     "type": "noun",
     "genus": "m",
-    "plural": "selgerar",
+    "plural": "seljarar",
     "forms": {
       "ubestemt": {
-        "entall": "selger",
-        "flertall": "selgerar"
+        "entall": "seljar",
+        "flertall": "seljarar"
       },
       "bestemt": {
-        "entall": "selgeren",
-        "flertall": "selgerane"
+        "entall": "seljaren",
+        "flertall": "seljarane"
       }
     },
     "_enriched": true,
@@ -24034,19 +24014,19 @@
     "_nbEquivalent": "service_noun",
     "_generatedFrom": "de-nb/nounbank.json:service_noun"
   },
-  "servicemedarbeider_noun": {
-    "word": "servicemedarbeider",
+  "servicemedarbeidar_noun": {
+    "word": "servicemedarbeidar",
     "type": "noun",
     "genus": "m",
-    "plural": "servicemedarbeiderar",
+    "plural": "servicemedarbeidarar",
     "forms": {
       "ubestemt": {
-        "entall": "servicemedarbeider",
-        "flertall": "servicemedarbeiderar"
+        "entall": "servicemedarbeidar",
+        "flertall": "servicemedarbeidarar"
       },
       "bestemt": {
-        "entall": "servicemedarbeideren",
-        "flertall": "servicemedarbeiderane"
+        "entall": "servicemedarbeidaren",
+        "flertall": "servicemedarbeidarane"
       }
     },
     "_enriched": true,
@@ -24494,6 +24474,26 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "sykehus_noun",
     "_generatedFrom": "de-nb/nounbank.json:krankenhaus_noun, es-nb/nounbank.json:hospital_noun"
+  },
+  "sjukekasse_noun": {
+    "word": "sjukekasse",
+    "type": "noun",
+    "genus": "m",
+    "plural": "sjukekassar",
+    "forms": {
+      "ubestemt": {
+        "entall": "sjukekasse",
+        "flertall": "sjukekassar"
+      },
+      "bestemt": {
+        "entall": "sjukekassen",
+        "flertall": "sjukekassane"
+      }
+    },
+    "_enriched": true,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "sykekasse_noun",
+    "_generatedFrom": "de-nb/nounbank.json:krankenkasse_noun"
   },
   "sjukepleiar_noun": {
     "word": "sjukepleiar",
@@ -24975,6 +24975,26 @@
     "_nbEquivalent": "sko_noun",
     "_generatedFrom": "de-nb/nounbank.json:schuh_noun, de-nb/nounbank.json:schuhe_noun, es-nb/nounbank.json:zapato_noun"
   },
+  "skodespelar_noun": {
+    "word": "skodespelar",
+    "type": "noun",
+    "genus": "m",
+    "plural": "skodespelarar",
+    "forms": {
+      "ubestemt": {
+        "entall": "skodespelar",
+        "flertall": "skodespelarar"
+      },
+      "bestemt": {
+        "entall": "skodespelaren",
+        "flertall": "skodespelarane"
+      }
+    },
+    "_enriched": true,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "skuespiller_noun",
+    "_generatedFrom": "de-nb/nounbank.json:schauspieler_noun, es-nb/nounbank.json:actor_noun, es-nb/nounbank.json:actriz_noun"
+  },
   "skog_noun": {
     "word": "skog",
     "type": "noun",
@@ -24994,46 +25014,6 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "skog_noun",
     "_generatedFrom": "de-nb/nounbank.json:wald_noun, es-nb/nounbank.json:bosque_noun"
-  },
-  "skolesekk_noun": {
-    "word": "skolesekk",
-    "type": "noun",
-    "genus": "m",
-    "plural": "skolesekkar",
-    "forms": {
-      "ubestemt": {
-        "entall": "skolesekk",
-        "flertall": "skolesekkar"
-      },
-      "bestemt": {
-        "entall": "skolesekken",
-        "flertall": "skolesekkane"
-      }
-    },
-    "_enriched": true,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "skolesekk_noun",
-    "_generatedFrom": "de-nb/nounbank.json:schultasche_noun"
-  },
-  "skoleår_noun": {
-    "word": "skoleår",
-    "type": "noun",
-    "genus": "n",
-    "plural": "skoleår",
-    "forms": {
-      "ubestemt": {
-        "entall": "skoleår",
-        "flertall": "skoleår"
-      },
-      "bestemt": {
-        "entall": "skoleåret",
-        "flertall": "skoleåra"
-      }
-    },
-    "_enriched": true,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "skoleår_noun",
-    "_generatedFrom": "de-nb/nounbank.json:schuljahr_noun"
   },
   "skranke_noun": {
     "word": "skranke",
@@ -25135,26 +25115,6 @@
     "_nbEquivalent": "skriver_noun",
     "_generatedFrom": "de-nb/nounbank.json:drucker_noun"
   },
-  "skuespiller_noun": {
-    "word": "skuespiller",
-    "type": "noun",
-    "genus": "m",
-    "plural": "skuespillerar",
-    "forms": {
-      "ubestemt": {
-        "entall": "skuespiller",
-        "flertall": "skuespillerar"
-      },
-      "bestemt": {
-        "entall": "skuespilleren",
-        "flertall": "skuespillerane"
-      }
-    },
-    "_enriched": true,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "skuespiller_noun",
-    "_generatedFrom": "de-nb/nounbank.json:schauspieler_noun, es-nb/nounbank.json:actor_noun, es-nb/nounbank.json:actriz_noun"
-  },
   "skuffelse_noun": {
     "word": "skuffelse",
     "type": "noun",
@@ -25214,6 +25174,46 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "skole_noun",
     "_generatedFrom": "de-nb/nounbank.json:schule_noun, es-nb/nounbank.json:escuela_noun"
+  },
+  "skulesekk_noun": {
+    "word": "skulesekk",
+    "type": "noun",
+    "genus": "m",
+    "plural": "skulesekkar",
+    "forms": {
+      "ubestemt": {
+        "entall": "skulesekk",
+        "flertall": "skulesekkar"
+      },
+      "bestemt": {
+        "entall": "skulesekken",
+        "flertall": "skulesekkane"
+      }
+    },
+    "_enriched": true,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "skolesekk_noun",
+    "_generatedFrom": "de-nb/nounbank.json:schultasche_noun"
+  },
+  "skuleår_noun": {
+    "word": "skuleår",
+    "type": "noun",
+    "genus": "n",
+    "plural": "skuleår",
+    "forms": {
+      "ubestemt": {
+        "entall": "skuleår",
+        "flertall": "skuleår"
+      },
+      "bestemt": {
+        "entall": "skuleåret",
+        "flertall": "skuleåra"
+      }
+    },
+    "_enriched": true,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "skoleår_noun",
+    "_generatedFrom": "de-nb/nounbank.json:schuljahr_noun"
   },
   "sky_noun": {
     "word": "sky",
@@ -25735,19 +25735,19 @@
     "_nbEquivalent": "sopp_noun",
     "_generatedFrom": "de-nb/nounbank.json:pilz_noun"
   },
-  "sosialarbeider_noun": {
-    "word": "sosialarbeider",
+  "sosialarbeidar_noun": {
+    "word": "sosialarbeidar",
     "type": "noun",
     "genus": "m",
-    "plural": "sosialarbeiderar",
+    "plural": "sosialarbeidarar",
     "forms": {
       "ubestemt": {
-        "entall": "sosialarbeider",
-        "flertall": "sosialarbeiderar"
+        "entall": "sosialarbeidar",
+        "flertall": "sosialarbeidarar"
       },
       "bestemt": {
-        "entall": "sosialarbeideren",
-        "flertall": "sosialarbeiderane"
+        "entall": "sosialarbeidaren",
+        "flertall": "sosialarbeidarane"
       }
     },
     "_enriched": true,
@@ -25835,6 +25835,26 @@
     "_nbEquivalent": "speil_noun",
     "_generatedFrom": "de-nb/nounbank.json:spiegel_noun, es-nb/nounbank.json:espejo_noun"
   },
+  "spelar_noun": {
+    "word": "spelar",
+    "type": "noun",
+    "genus": "m",
+    "plural": "spelarar",
+    "forms": {
+      "ubestemt": {
+        "entall": "spelar",
+        "flertall": "spelarar"
+      },
+      "bestemt": {
+        "entall": "spelaren",
+        "flertall": "spelarane"
+      }
+    },
+    "_enriched": true,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "spiller_noun",
+    "_generatedFrom": "de-nb/nounbank.json:spieler_noun"
+  },
   "spesialist_noun": {
     "word": "spesialist",
     "type": "noun",
@@ -25894,26 +25914,6 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "spill_noun",
     "_generatedFrom": "de-nb/nounbank.json:spiel_noun, es-nb/nounbank.json:juego_noun"
-  },
-  "spiller_noun": {
-    "word": "spiller",
-    "type": "noun",
-    "genus": "m",
-    "plural": "spillerar",
-    "forms": {
-      "ubestemt": {
-        "entall": "spiller",
-        "flertall": "spillerar"
-      },
-      "bestemt": {
-        "entall": "spilleren",
-        "flertall": "spillerane"
-      }
-    },
-    "_enriched": true,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "spiller_noun",
-    "_generatedFrom": "de-nb/nounbank.json:spieler_noun"
   },
   "spisevogn_noun": {
     "word": "spisevogn",
@@ -27135,26 +27135,6 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "svømmebasseng_noun",
     "_generatedFrom": "de-nb/nounbank.json:schwimmbad_noun, es-nb/nounbank.json:piscina_noun"
-  },
-  "sykekasse_noun": {
-    "word": "sykekasse",
-    "type": "noun",
-    "genus": "f",
-    "plural": "sykekasser",
-    "forms": {
-      "ubestemt": {
-        "entall": "sykekasse",
-        "flertall": "sykekasser"
-      },
-      "bestemt": {
-        "entall": "sykekassa",
-        "flertall": "sykekassene"
-      }
-    },
-    "_enriched": true,
-    "_nnSource": "auto-nb",
-    "_nbEquivalent": "sykekasse_noun",
-    "_generatedFrom": "de-nb/nounbank.json:krankenkasse_noun"
   },
   "sykkel_noun": {
     "word": "sykkel",
@@ -30238,19 +30218,19 @@
     "_nbEquivalent": "utleie_noun",
     "_generatedFrom": "de-nb/nounbank.json:vermietung_noun"
   },
-  "utleier_noun": {
-    "word": "utleier",
+  "utleigar_noun": {
+    "word": "utleigar",
     "type": "noun",
     "genus": "m",
-    "plural": "utleierar",
+    "plural": "utleigarar",
     "forms": {
       "ubestemt": {
-        "entall": "utleier",
-        "flertall": "utleierar"
+        "entall": "utleigar",
+        "flertall": "utleigarar"
       },
       "bestemt": {
-        "entall": "utleieren",
-        "flertall": "utleierane"
+        "entall": "utleigaren",
+        "flertall": "utleigarane"
       }
     },
     "_enriched": true,
@@ -31797,6 +31777,26 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "årstid_noun",
     "_generatedFrom": "de-nb/nounbank.json:jahreszeit_noun"
+  },
+  "åtskiljing_noun": {
+    "word": "åtskiljing",
+    "type": "noun",
+    "genus": "f",
+    "plural": "åtskiljingar",
+    "forms": {
+      "ubestemt": {
+        "entall": "åtskiljing",
+        "flertall": "åtskiljingar"
+      },
+      "bestemt": {
+        "entall": "åtskiljinga",
+        "flertall": "åtskiljingane"
+      }
+    },
+    "_enriched": true,
+    "_nnSource": "auto-nb",
+    "_nbEquivalent": "adskillelse_noun",
+    "_generatedFrom": "de-nb/nounbank.json:trennung_noun"
   },
   "økning_noun": {
     "word": "økning",
