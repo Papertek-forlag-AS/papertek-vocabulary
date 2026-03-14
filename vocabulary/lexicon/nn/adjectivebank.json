@@ -42,7 +42,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: absolutt – meir absolutt – mest absolutt."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er absolutt riktig.",
+        "translation": "Das ist absolut richtig.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg har absolutt tillit til henne.",
+        "translation": "Ich habe absolutes Vertrauen in sie.",
+        "lang": "de"
+      }
+    ]
   },
   "aktiv_adj": {
     "word": "aktiv",
@@ -74,7 +86,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:aktiv_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: aktiv – aktivare – aktivast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Hun er veldig aktiv.",
+        "translation": "Sie ist sehr aktiv.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Vær aktiv!",
+        "translation": "Bleib aktiv!",
+        "lang": "de"
+      }
+    ]
   },
   "aktuell_adj": {
     "word": "aktuell",
@@ -109,7 +133,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: aktuell – aktuellare – aktuellast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er et aktuelt tema.",
+        "translation": "Das ist ein aktuelles Thema.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Kva er dei aktuelle nyhetene?",
+        "translation": "Was sind die aktuellen Nachrichten?",
+        "lang": "de"
+      }
+    ]
   },
   "alternativ_adj": {
     "word": "alternativ",
@@ -141,7 +177,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:alternativ_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: alternativ – meir alternativ – mest alternativ."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Finnes det en alternativ løsning?",
+        "translation": "Gibt es eine alternative Lösung?",
+        "lang": "de"
+      },
+      {
+        "sentence": "Vi trenger en alternativ plan.",
+        "translation": "Wir brauchen einen alternativen Plan.",
+        "lang": "de"
+      }
+    ]
   },
   "alvorleg_adj": {
     "word": "alvorleg",
@@ -176,7 +224,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: alvorleg – meir alvorleg – mest alvorleg."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Han er et alvorlig menneske.",
+        "translation": "Er ist ein ernsthafter Mensch.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Det er et alvorlig problem.",
+        "translation": "Das ist ein ernsthaftes Problem.",
+        "lang": "de"
+      }
+    ]
   },
   "annan_adj": {
     "word": "annan",
@@ -246,7 +306,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: anstrengande – meir anstrengande – mest anstrengande."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Arbeidet er anstrengende.",
+        "translation": "Die Arbeit ist anstrengend.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Det var en anstrengende dag.",
+        "translation": "Das war ein anstrengender Tag.",
+        "lang": "de"
+      }
+    ]
   },
   "ansvarleg_adj": {
     "word": "ansvarleg",
@@ -281,7 +353,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: ansvarleg – meir ansvarleg – mest ansvarleg."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Han er ansvarlig for det.",
+        "translation": "Er ist verantwortlich dafür.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Kven er ansvarlig?",
+        "translation": "Wer ist verantwortlich?",
+        "lang": "de"
+      }
+    ]
   },
   "antageleg_adj": {
     "word": "antageleg",
@@ -316,7 +400,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: antageleg – meir antageleg – mest antageleg."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er antagelig riktig.",
+        "translation": "Das ist vermutlich richtig.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Han kommer antagelig senere.",
+        "translation": "Er kommt vermutlich später.",
+        "lang": "de"
+      }
+    ]
   },
   "arbeidsledig_adj": {
     "word": "arbeidsledig",
@@ -348,7 +444,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:arbeitslos_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: arbeidsledig – meir arbeidsledig – mest arbeidsledig."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Han har vært arbeidsledig i et år.",
+        "translation": "Er ist seit einem Jahr arbeitslos.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Arbeidsledighetsraten har økt.",
+        "translation": "Die Arbeitslosenquote ist gestiegen.",
+        "lang": "de"
+      }
+    ]
   },
   "automatisk_adj": {
     "word": "automatisk",
@@ -380,7 +488,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:automatisch_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: automatisk – meir automatisk – mest automatisk."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Døren åpner automatisk.",
+        "translation": "Die Tür öffnet automatisch.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Det er en automatisk prosess.",
+        "translation": "Das ist ein automatischer Prozess.",
+        "lang": "de"
+      }
+    ]
   },
   "avhengig_adj": {
     "word": "avhengig",
@@ -415,7 +535,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: avhengig – meir avhengig – mest avhengig."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Han er avhengig av kaffe.",
+        "translation": "Er ist von Kaffee abhängig.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Resultatet er avhengig av været.",
+        "translation": "Das Ergebnis ist vom Wetter abhängig.",
+        "lang": "de"
+      }
+    ]
   },
   "avslappa_adj": {
     "word": "avslappa",
@@ -450,7 +582,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: avslappa – meir avslappa – mest avslappa."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg er avslappet.",
+        "translation": "Ich bin entspannt.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Atmosfæren er avslappet.",
+        "translation": "Die Atmosphäre ist entspannt.",
+        "lang": "de"
+      }
+    ]
   },
   "behageleg_adj": {
     "word": "behageleg",
@@ -485,7 +629,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: behageleg – meir behageleg – mest behageleg."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Været er behagelig.",
+        "translation": "Das Wetter ist angenehm.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Det er behagelig her.",
+        "translation": "Es ist angenehm hier.",
+        "lang": "de"
+      }
+    ]
   },
   "berre_adj": {
     "word": "berre",
@@ -521,7 +677,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: berre – berrere – berrst."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Med berre hender.",
+        "translation": "Mit bloßen Händen.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Det er berre en mening.",
+        "translation": "Das ist bloß eine Meinung.",
+        "lang": "de"
+      }
+    ]
   },
   "berømt_adj": {
     "word": "berømt",
@@ -559,7 +727,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: berømt – berømtare – berømtast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Han er en berømt musiker.",
+        "translation": "Er ist ein berühmter Musiker.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Mozart er verdensberømt.",
+        "translation": "Mozart ist weltweit berühmt.",
+        "lang": "de"
+      }
+    ]
   },
   "beslekta_adj": {
     "word": "beslekta",
@@ -591,7 +771,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:verwandt_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: beslekta – meir beslekta – mest beslekta."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Vi er beslektet.",
+        "translation": "Wir sind verwandt.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Han er i slekt med meg.",
+        "translation": "Er ist mir verwandt.",
+        "lang": "de"
+      }
+    ]
   },
   "bestemt_adj": {
     "word": "bestemt",
@@ -623,7 +815,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:bestimmt_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: bestemt – bestemtare – bestemtast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg ser etter en bestemt artikkel.",
+        "translation": "Ich suche einen bestimmten Artikel.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Hun snakket i en bestemt tone.",
+        "translation": "Sie sprach in einem bestimmten Ton.",
+        "lang": "de"
+      }
+    ]
   },
   "billeg_adj": {
     "word": "billeg",
@@ -659,7 +863,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: billeg – meir billeg – mest billeg."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er veldig billig.",
+        "translation": "Das ist sehr billig.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg kjøper alltid billige produkter.",
+        "translation": "Ich kaufe immer billige Produkte.",
+        "lang": "de"
+      }
+    ]
   },
   "bitter_adj": {
     "word": "bitter",
@@ -694,7 +910,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: bitter – bitterare – bitterast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Kaffen smaker bitter.",
+        "translation": "Der Kaffee schmeckt bitter.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Han er bittert skuffet.",
+        "translation": "Er ist bitter enttäuscht.",
+        "lang": "de"
+      }
+    ]
   },
   "blek_adj": {
     "word": "blek",
@@ -726,7 +954,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:blass_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: blek – blekare – blekast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Hun ser blek ut.",
+        "translation": "Sie sieht blass aus.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Fargen er blek.",
+        "translation": "Die Farbe ist blass.",
+        "lang": "de"
+      }
+    ]
   },
   "blind_adj": {
     "word": "blind",
@@ -761,7 +1001,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: blind – blindare – blindast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Han er blind på ett øye.",
+        "translation": "Er ist blind auf einem Auge.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Hun er blind av kjærlighet.",
+        "translation": "Sie ist blind vor Liebe.",
+        "lang": "de"
+      }
+    ]
   },
   "blond_adj": {
     "word": "blond",
@@ -796,7 +1048,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: blond – blondare – blondast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Hun har blondt hår.",
+        "translation": "Sie hat blonde Haare.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Han er blond.",
+        "translation": "Er ist blond.",
+        "lang": "de"
+      }
+    ]
   },
   "blå_adj": {
     "word": "blå",
@@ -834,7 +1098,24 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: blå – blåare – blåast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Himmelen er blå.",
+        "translation": "Der Himmel ist blau.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg har blå øyne.",
+        "translation": "Ich habe blaue Augen.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Blå er favorittfargen min.",
+        "translation": "Blau ist meine Lieblingsfarbe.",
+        "lang": "de"
+      }
+    ]
   },
   "bratt_adj": {
     "word": "bratt",
@@ -869,7 +1150,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: bratt – brattare – brattast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Fjellet er bratt.",
+        "translation": "Der Berg ist steil.",
+        "lang": "de"
+      },
+      {
+        "sentence": "En bratt trapp.",
+        "translation": "Eine steile Treppe.",
+        "lang": "de"
+      }
+    ]
   },
   "brei_adj": {
     "word": "brei",
@@ -901,7 +1194,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:breit_adj, es-nb/adjectivebank.json:ancho_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: brei – breiare – breiast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Gaten er bred.",
+        "translation": "Die Straße ist breit.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Han har brede skuldre.",
+        "translation": "Er hat breite Schultern.",
+        "lang": "de"
+      }
+    ]
   },
   "brun_adj": {
     "word": "brun",
@@ -933,7 +1238,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:braun_adj, es-nb/adjectivebank.json:marron_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: brun – brunare – brunast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Han har brune øyne.",
+        "translation": "Er hat braune Augen.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Brødet er brunt.",
+        "translation": "Das Brot ist braun.",
+        "lang": "de"
+      }
+    ]
   },
   "brått_adj": {
     "word": "brått",
@@ -972,7 +1289,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: brått – bråttare – bråttast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Plutselig begynte det å regne.",
+        "translation": "Plötzlich fing es an zu regnen.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Det var plutselig.",
+        "translation": "Das war plötzlich.",
+        "lang": "de"
+      }
+    ]
   },
   "deileg_adj": {
     "word": "deileg",
@@ -1039,7 +1368,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:digital_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: digital – digitalare – digitalast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Vi lever i en digital verden.",
+        "translation": "Wir leben in einer digitalen Welt.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Det er et digitalt produkt.",
+        "translation": "Das ist ein digitales Produkt.",
+        "lang": "de"
+      }
+    ]
   },
   "direkte_adj": {
     "word": "direkte",
@@ -1071,7 +1412,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:direkt_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: direkte – direktere – direktst."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Er det en direkteforbindelse?",
+        "translation": "Gibt es eine direkte Verbindung?",
+        "lang": "de"
+      },
+      {
+        "sentence": "Han er veldig direkte.",
+        "translation": "Er ist sehr direkt.",
+        "lang": "de"
+      }
+    ]
   },
   "dobbelt_adj": {
     "word": "dobbelt",
@@ -1106,7 +1459,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: dobbelt – dobbeltare – dobbeltast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg trenger den dobbelte mengden.",
+        "translation": "Ich brauche die doppelte Menge.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Det koster dobbelt så mykje.",
+        "translation": "Das kostet doppelt so viel.",
+        "lang": "de"
+      }
+    ]
   },
   "dum_adj": {
     "word": "dum",
@@ -1138,7 +1503,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:bloed_adj, de-nb/adjectivebank.json:dumm_adj, es-nb/adjectivebank.json:tonto_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: dum – dumare – dumast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er en dum idé.",
+        "translation": "Das ist eine blöde Idee.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Ikkje vær så dum!",
+        "translation": "Sei nicht so blöd!",
+        "lang": "de"
+      }
+    ]
   },
   "dyp_adj": {
     "word": "dyp",
@@ -1170,7 +1547,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:tief_adj, es-nb/adjectivebank.json:profundo_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: dyp – dypare – dypast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Vannet er dypt.",
+        "translation": "Das Wasser ist tief.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Han har en dyp/lav stemme.",
+        "translation": "Er hat eine tiefe Stimme.",
+        "lang": "de"
+      }
+    ]
   },
   "dyr_adj": {
     "word": "dyr",
@@ -1202,7 +1591,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:teuer_adj, es-nb/adjectivebank.json:caro_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: dyr – dyrare – dyrast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er for dyrt.",
+        "translation": "Das ist zu teuer.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Ringen er dyr.",
+        "translation": "Der Ring ist teuer.",
+        "lang": "de"
+      }
+    ]
   },
   "dårleg_adj": {
     "word": "dårleg",
@@ -1241,7 +1642,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: dårleg – verre – verst."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Været er dårlig.",
+        "translation": "Das Wetter ist schlecht.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg er kvalm.",
+        "translation": "Mir ist schlecht.",
+        "lang": "de"
+      }
+    ]
   },
   "død_adj": {
     "word": "død",
@@ -1279,7 +1692,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: død – dødare – dødast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Fisken er død.",
+        "translation": "Der Fisch ist tot.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Planten er død.",
+        "translation": "Die Pflanze ist tot.",
+        "lang": "de"
+      }
+    ]
   },
   "dødeleg_adj": {
     "word": "dødeleg",
@@ -1318,7 +1743,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: dødeleg – meir dødeleg – mest dødeleg."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er dødelig.",
+        "translation": "Das ist tödlich.",
+        "lang": "de"
+      },
+      {
+        "sentence": "En dødelig sykdom.",
+        "translation": "Eine tödliche Krankheit.",
+        "lang": "de"
+      }
+    ]
   },
   "døv_adj": {
     "word": "døv",
@@ -1356,7 +1793,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: døv – døvare – døvast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Han er døv.",
+        "translation": "Er ist taub.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Hånden min er uten følelse.",
+        "translation": "Meine Hand ist taub.",
+        "lang": "de"
+      }
+    ]
   },
   "einaste_unik_adj": {
     "word": "einaste, unik",
@@ -1420,7 +1869,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:zusaetzlich_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: ekstra – ekstraare – ekstraast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det koster ekstra.",
+        "translation": "Das kostet zusätzlich.",
+        "lang": "de"
+      },
+      {
+        "sentence": "En ekstra avgift.",
+        "translation": "Eine zusätzliche Gebühr.",
+        "lang": "de"
+      }
+    ]
   },
   "ekstrem_adj": {
     "word": "ekstrem",
@@ -1452,7 +1913,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:extrem_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: ekstrem – ekstremare – ekstremast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Været er ekstremt.",
+        "translation": "Das Wetter ist extrem.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Han har ekstreme meninger.",
+        "translation": "Er hat extreme Ansichten.",
+        "lang": "de"
+      }
+    ]
   },
   "ekte_adj": {
     "word": "ekte",
@@ -1484,7 +1957,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:echt_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: ekte – ektere – ektst."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Er det ekte gull?",
+        "translation": "Ist das echtes Gold?",
+        "lang": "de"
+      },
+      {
+        "sentence": "Det er virkelig fint!",
+        "translation": "Das ist echt schön!",
+        "lang": "de"
+      }
+    ]
   },
   "ekte_verkeleg_adj": {
     "word": "ekte, verkeleg",
@@ -1551,7 +2036,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:elegant_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: elegant – elegantare – elegantast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Hun ser elegant ut.",
+        "translation": "Sie sieht elegant aus.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Det er en elegant kjole.",
+        "translation": "Das ist ein elegantes Kleid.",
+        "lang": "de"
+      }
+    ]
   },
   "elektrisk_adj": {
     "word": "elektrisk",
@@ -1583,7 +2080,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:elektrisch_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: elektrisk – meir elektrisk – mest elektrisk."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg har en elektrisk bil.",
+        "translation": "Ich habe ein elektrisches Auto.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Lyset er elektrisk.",
+        "translation": "Das Licht ist elektrisch.",
+        "lang": "de"
+      }
+    ]
   },
   "elektronisk_adj": {
     "word": "elektronisk",
@@ -1615,7 +2124,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:elektronisch_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: elektronisk – meir elektronisk – mest elektronisk."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg leser en elektronisk avis.",
+        "translation": "Ich lese eine elektronische Zeitung.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Det er en elektronisk enhet.",
+        "translation": "Das ist ein elektronisches Gerät.",
+        "lang": "de"
+      }
+    ]
   },
   "engsteleg_adj": {
     "word": "engsteleg",
@@ -1651,7 +2172,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: engsteleg – meir engsteleg – mest engsteleg."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Barnet er engstelig.",
+        "translation": "Das Kind ist ängstlich.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Hun er engstelig før eksamen.",
+        "translation": "Sie ist ängstlich vor der Prüfung.",
+        "lang": "de"
+      }
+    ]
   },
   "enkel_adj": {
     "word": "enkel",
@@ -1683,7 +2216,24 @@
     "_generatedFrom": "de-nb/adjectivebank.json:einfach_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: enkel – enkelare – enkelast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er lett!",
+        "translation": "Das ist einfach!",
+        "lang": "de"
+      },
+      {
+        "sentence": "Løsningen er enkel.",
+        "translation": "Die Lösung ist einfach.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Det er lett å forstå.",
+        "translation": "Es ist einfach zu verstehen.",
+        "lang": "de"
+      }
+    ]
   },
   "ensartet_adj": {
     "word": "ensartet",
@@ -1715,7 +2265,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:einheitlich_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: ensartet – meir ensartet – mest ensartet."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Reglene er ensartede.",
+        "translation": "Die Regeln sind einheitlich.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Vi trenger en ensartet løsning.",
+        "translation": "Wir brauchen eine einheitliche Lösung.",
+        "lang": "de"
+      }
+    ]
   },
   "ensom_adj": {
     "word": "ensom",
@@ -1747,7 +2309,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:einsam_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: ensom – ensomare – ensomast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg føler meg ensom.",
+        "translation": "Ich fühle mich einsam.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Han er veldig ensom.",
+        "translation": "Er ist sehr einsam.",
+        "lang": "de"
+      }
+    ]
   },
   "entydig_adj": {
     "word": "entydig",
@@ -1779,7 +2353,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:eindeutig_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: entydig – entydigare – entydigast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er entydig feil.",
+        "translation": "Das ist eindeutig falsch.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Svaret er entydig.",
+        "translation": "Die Antwort ist eindeutig.",
+        "lang": "de"
+      }
+    ]
   },
   "evig_adj": {
     "word": "evig",
@@ -1811,7 +2397,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:ewig_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: evig – evigare – evigast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det tar evig lang tid!",
+        "translation": "Das dauert ewig!",
+        "lang": "de"
+      },
+      {
+        "sentence": "Den evige kjærligheten.",
+        "translation": "Die ewige Liebe.",
+        "lang": "de"
+      }
+    ]
   },
   "falsk_adj": {
     "word": "falsk",
@@ -1875,7 +2473,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:fantastisch_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: fantastisk – meir fantastisk – mest fantastisk."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er fantastisk!",
+        "translation": "Das ist fantastisch!",
+        "lang": "de"
+      },
+      {
+        "sentence": "Hun har en fantastisk stemme.",
+        "translation": "Sie hat eine fantastische Stimme.",
+        "lang": "de"
+      }
+    ]
   },
   "fargerik_adj": {
     "word": "fargerik",
@@ -1907,7 +2517,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:bunt_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: fargerik – meir fargerik – mest fargerik."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Blomstene er fargerike.",
+        "translation": "Die Blumen sind bunt.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Hun har på seg fargerike klær.",
+        "translation": "Sie trägt bunte Kleidung.",
+        "lang": "de"
+      }
+    ]
   },
   "farget_adj": {
     "word": "farget",
@@ -1939,7 +2561,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:farbig_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: farget – fargetare – fargetast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg liker fargede bilder.",
+        "translation": "Ich mag farbige Bilder.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Det er farget papir.",
+        "translation": "Das ist farbiges Papier.",
+        "lang": "de"
+      }
+    ]
   },
   "farleg_adj": {
     "word": "farleg",
@@ -1974,7 +2608,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: farleg – meir farleg – mest farleg."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er farlig!",
+        "translation": "Das ist gefährlich!",
+        "lang": "de"
+      },
+      {
+        "sentence": "Han lever farlig.",
+        "translation": "Er lebt gefährlich.",
+        "lang": "de"
+      }
+    ]
   },
   "fast_adj": {
     "word": "fast",
@@ -2006,7 +2652,24 @@
     "_generatedFrom": "de-nb/adjectivebank.json:fest_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: fast – fastare – fastast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Tauet er fast.",
+        "translation": "Das Seil ist fest.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg holder det fast.",
+        "translation": "Ich halte es fest.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Hun har en bestemt mening.",
+        "translation": "Sie hat eine feste Meinung.",
+        "lang": "de"
+      }
+    ]
   },
   "fattig_adj": {
     "word": "fattig",
@@ -2041,7 +2704,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: fattig – fattigare – fattigast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Familien er veldig fattig.",
+        "translation": "Die Familie ist sehr arm.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Han var fattig, men lykkelig.",
+        "translation": "Er war arm, aber glücklich.",
+        "lang": "de"
+      }
+    ]
   },
   "favoritt_adj": {
     "word": "favoritt",
@@ -2140,7 +2815,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:falsch_adj, es-nb/adjectivebank.json:incorrecto_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: feil – feilare – feilast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er feil.",
+        "translation": "Das ist falsch.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Du har feil svar.",
+        "translation": "Du hast die falsche Antwort.",
+        "lang": "de"
+      }
+    ]
   },
   "ferdig_adj": {
     "word": "ferdig",
@@ -2172,7 +2859,24 @@
     "_generatedFrom": "de-nb/adjectivebank.json:fertig_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: ferdig – ferdigare – ferdigast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg er ferdig!",
+        "translation": "Ich bin fertig!",
+        "lang": "de"
+      },
+      {
+        "sentence": "Er du ferdig?",
+        "translation": "Bist du fertig?",
+        "lang": "de"
+      },
+      {
+        "sentence": "Maten er klar.",
+        "translation": "Das Essen ist fertig.",
+        "lang": "de"
+      }
+    ]
   },
   "fersk_frisk_adj": {
     "word": "fersk, frisk",
@@ -2236,7 +2940,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:fett_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: fet – fetare – fetast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Maten er for fet.",
+        "translation": "Das Essen ist zu fett.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Fett kjøtt.",
+        "translation": "Fettes Fleisch.",
+        "lang": "de"
+      }
+    ]
   },
   "finansiell_adj": {
     "word": "finansiell",
@@ -2271,7 +2987,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: finansiell – meir finansiell – mest finansiell."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er et finansielt spørsmål.",
+        "translation": "Das ist eine finanzielle Frage.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Hun har finansielle problemer.",
+        "translation": "Sie hat finanzielle Probleme.",
+        "lang": "de"
+      }
+    ]
   },
   "firkantet_adj": {
     "word": "firkantet",
@@ -2303,7 +3031,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:eckig_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: firkantet – meir firkantet – mest firkantet."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Bordet er firkantet.",
+        "translation": "Der Tisch ist eckig.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Rommet er firkantet.",
+        "translation": "Das Zimmer ist eckig.",
+        "lang": "de"
+      }
+    ]
   },
   "flat_adj": {
     "word": "flat",
@@ -2335,7 +3075,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:flach_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: flat – flatare – flatast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Landet er flatt.",
+        "translation": "Das Land ist flach.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg trenger en flat pute.",
+        "translation": "Ich brauche ein flaches Kissen.",
+        "lang": "de"
+      }
+    ]
   },
   "fleksibel_adj": {
     "word": "fleksibel",
@@ -2367,7 +3119,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:flexibel_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: fleksibel – meir fleksibel – mest fleksibel."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Arbeidstiden min er fleksibel.",
+        "translation": "Meine Arbeitszeiten sind flexibel.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Hun er veldig fleksibel.",
+        "translation": "Sie ist sehr flexibel.",
+        "lang": "de"
+      }
+    ]
   },
   "flittig_adj": {
     "word": "flittig",
@@ -2402,7 +3166,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: flittig – flittigare – flittigast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Hun er veldig flittig.",
+        "translation": "Sie ist sehr fleißig.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Han er en flittig elev.",
+        "translation": "Er ist ein fleißiger Schüler.",
+        "lang": "de"
+      }
+    ]
   },
   "flott_adj": {
     "word": "flott",
@@ -2437,7 +3213,24 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: flott – flottare – flottast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er flott!",
+        "translation": "Das ist toll!",
+        "lang": "de"
+      },
+      {
+        "sentence": "Festen var fantastisk.",
+        "translation": "Die Party war toll.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Du er fantastisk!",
+        "translation": "Du bist toll!",
+        "lang": "de"
+      }
+    ]
   },
   "foreløpig_adj": {
     "word": "foreløpig",
@@ -2475,7 +3268,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: foreløpig – meir foreløpig – mest foreløpig."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er en foreløpig avgjørelse.",
+        "translation": "Das ist eine vorläufige Entscheidung.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Foreløpige resultater.",
+        "translation": "Vorläufige Ergebnisse.",
+        "lang": "de"
+      }
+    ]
   },
   "forfalt_adj": {
     "word": "forfalt",
@@ -2507,7 +3312,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:faellig_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: forfalt – forfaltare – forfaltast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Regningen er forfalt.",
+        "translation": "Die Rechnung ist fällig.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Når forfaller det?",
+        "translation": "Wann ist es fällig?",
+        "lang": "de"
+      }
+    ]
   },
   "forferdeleg_adj": {
     "word": "forferdeleg",
@@ -2542,7 +3359,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: forferdeleg – meir forferdeleg – mest forferdeleg."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Været er forferdelig.",
+        "translation": "Das Wetter ist furchtbar.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Det er en forferdelig feil.",
+        "translation": "Das ist ein furchtbarer Fehler.",
+        "lang": "de"
+      }
+    ]
   },
   "forgjeves_adj": {
     "word": "forgjeves",
@@ -2574,7 +3403,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:vergeblich_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: forgjeves – meir forgjeves – mest forgjeves."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det var forgjeves.",
+        "translation": "Das war vergeblich.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Forsøket var forgjeves.",
+        "translation": "Der Versuch war vergeblich.",
+        "lang": "de"
+      }
+    ]
   },
   "fornuftig_adj": {
     "word": "fornuftig",
@@ -2606,7 +3447,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:sinnvoll_adj, de-nb/adjectivebank.json:vernuenftig_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: fornuftig – meir fornuftig – mest fornuftig."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er fornuftig.",
+        "translation": "Das ist sinnvoll.",
+        "lang": "de"
+      },
+      {
+        "sentence": "En fornuftig løsning.",
+        "translation": "Eine sinnvolle Lösung.",
+        "lang": "de"
+      }
+    ]
   },
   "fornøyd_adj": {
     "word": "fornøyd",
@@ -2645,7 +3498,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: fornøyd – fornøydare – fornøydast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg er fornøyd.",
+        "translation": "Ich bin zufrieden.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Er du fornøyd?",
+        "translation": "Bist du zufrieden?",
+        "lang": "de"
+      }
+    ]
   },
   "fornøyd_glad_adj": {
     "word": "fornøyd, glad",
@@ -2716,7 +3581,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:vorsichtig_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: forsiktig – meir forsiktig – mest forsiktig."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Vær forsiktig!",
+        "translation": "Sei vorsichtig!",
+        "lang": "de"
+      },
+      {
+        "sentence": "Kjør forsiktig.",
+        "translation": "Fahre vorsichtig.",
+        "lang": "de"
+      }
+    ]
   },
   "forskjelleg_adj": {
     "word": "forskjelleg",
@@ -2753,7 +3630,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: forskjelleg – meir forskjelleg – mest forskjelleg."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Meningene er forskjellige.",
+        "translation": "Die Meinungen sind unterschiedlich.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Forskjellige kulturer.",
+        "translation": "Unterschiedliche Kulturen.",
+        "lang": "de"
+      }
+    ]
   },
   "forståeleg_adj": {
     "word": "forståeleg",
@@ -2792,7 +3681,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: forståeleg – meir forståeleg – mest forståeleg."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er forståelig.",
+        "translation": "Das ist verständlich.",
+        "lang": "de"
+      },
+      {
+        "sentence": "En forståelig forklaring.",
+        "translation": "Eine verständliche Erklärung.",
+        "lang": "de"
+      }
+    ]
   },
   "forventet_adj": {
     "word": "forventet",
@@ -2824,7 +3725,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:voraussichtlich_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: forventet – meir forventet – mest forventet."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Han kommer forventet klokken 18.",
+        "translation": "Er kommt voraussichtlich um 18 Uhr.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Det forventes regn.",
+        "translation": "Voraussichtlich regnet es.",
+        "lang": "de"
+      }
+    ]
   },
   "framand_adj": {
     "word": "framand",
@@ -2859,7 +3772,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: framand – framandare – framandast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "I en fremmed by.",
+        "translation": "In einer fremden Stadt.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Han føler seg fremmed her.",
+        "translation": "Er fühlt sich fremd hier.",
+        "lang": "de"
+      }
+    ]
   },
   "frekk_adj": {
     "word": "frekk",
@@ -2894,7 +3819,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: frekk – frekkare – frekkast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Barnet er frekkt.",
+        "translation": "Das Kind ist frech.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Ikkje vær så frekk!",
+        "translation": "Sei nicht so frech!",
+        "lang": "de"
+      }
+    ]
   },
   "fremtidig_adj": {
     "word": "fremtidig",
@@ -2926,7 +3863,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:zukuenftig_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: fremtidig – meir fremtidig – mest fremtidig."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Fremtidige generasjoner.",
+        "translation": "Zukünftige Generationen.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Det er et fremtidig prosjekt.",
+        "translation": "Das ist ein zukünftiges Projekt.",
+        "lang": "de"
+      }
+    ]
   },
   "fri_adj": {
     "word": "fri",
@@ -2958,7 +3907,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:frei_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: fri – friare – friast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Er du fri i dag?",
+        "translation": "Bist du heute frei?",
+        "lang": "de"
+      },
+      {
+        "sentence": "Inngangen er gratis.",
+        "translation": "Der Eintritt ist frei.",
+        "lang": "de"
+      }
+    ]
   },
   "fri_ledig_adj": {
     "word": "fri, ledig",
@@ -3022,7 +3983,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:frisch_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: frisk – friskare – friskast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Brødet er ferskt.",
+        "translation": "Das Brot ist frisch.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Luften er frisk.",
+        "translation": "Die Luft ist frisch.",
+        "lang": "de"
+      }
+    ]
   },
   "frisk_sunn_adj": {
     "word": "frisk, sunn",
@@ -3093,7 +4066,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: frivilleg – meir frivilleg – mest frivilleg."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er frivillig.",
+        "translation": "Das ist freiwillig.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Han jobber frivillig.",
+        "translation": "Er arbeitet freiwillig.",
+        "lang": "de"
+      }
+    ]
   },
   "frykteleg_adj": {
     "word": "frykteleg",
@@ -3128,7 +4113,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: frykteleg – meir frykteleg – mest frykteleg."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er fryktelig!",
+        "translation": "Das ist schrecklich!",
+        "lang": "de"
+      },
+      {
+        "sentence": "En fryktelig ulykke.",
+        "translation": "Ein schrecklicher Unfall.",
+        "lang": "de"
+      }
+    ]
   },
   "fråverande_adj": {
     "word": "fråverande",
@@ -3166,7 +4163,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: fråverande – meir fråverande – mest fråverande."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Hun er fraværende i dag.",
+        "translation": "Sie ist heute abwesend.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Kvifor er han fraværende?",
+        "translation": "Warum ist er abwesend?",
+        "lang": "de"
+      }
+    ]
   },
   "fuktig_adj": {
     "word": "fuktig",
@@ -3198,7 +4207,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:feucht_adj, es-nb/adjectivebank.json:humedo_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: fuktig – fuktigare – fuktigast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Håndkleet er fortsatt fuktig.",
+        "translation": "Das Handtuch ist noch feucht.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Luften er fuktig.",
+        "translation": "Die Luft ist feucht.",
+        "lang": "de"
+      }
+    ]
   },
   "full_adj": {
     "word": "full",
@@ -3233,7 +4254,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: full – fullare – fullast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Glasset er fullt.",
+        "translation": "Das Glas ist voll.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Stadionet er fullt.",
+        "translation": "Das Stadion ist voll.",
+        "lang": "de"
+      }
+    ]
   },
   "førebudd_adj": {
     "word": "førebudd",
@@ -3381,7 +4414,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:verrueckt_adj, de-nb/adjectivebank.json:wahnsinnig_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: gal – galare – galast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er galt!",
+        "translation": "Das ist verrückt!",
+        "lang": "de"
+      },
+      {
+        "sentence": "Han er litt sprø.",
+        "translation": "Er ist ein bisschen verrückt.",
+        "lang": "de"
+      }
+    ]
   },
   "gamal_adj": {
     "word": "gamal",
@@ -3413,7 +4458,24 @@
     "_generatedFrom": "de-nb/adjectivebank.json:alt_adj, es-nb/adjectivebank.json:viejo_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: gamal – eldre – eldst."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Kvar gammel er du?",
+        "translation": "Wie alt bist du?",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg er 16 år gammel.",
+        "translation": "Ich bin 16 Jahre alt.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Huset er gammelt.",
+        "translation": "Das Haus ist alt.",
+        "lang": "de"
+      }
+    ]
   },
   "gamal_antikk_adj": {
     "word": "gamal, antikk",
@@ -3483,7 +4545,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: generell – meir generell – mest generell."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er en generell regel.",
+        "translation": "Das ist eine allgemeine Regel.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Generelt sett er eg fornøyd.",
+        "translation": "Im Allgemeinen bin ich zufrieden.",
+        "lang": "de"
+      }
+    ]
   },
   "gift_adj": {
     "word": "gift",
@@ -3515,7 +4589,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:verheiratet_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: gift – giftare – giftast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Hun er gift.",
+        "translation": "Sie ist verheiratet.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Kvar lenge har du vært gift?",
+        "translation": "Wie lange bist du schon verheiratet?",
+        "lang": "de"
+      }
+    ]
   },
   "giftig_adj": {
     "word": "giftig",
@@ -3547,7 +4633,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:giftig_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: giftig – giftigare – giftigast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Planten er giftig.",
+        "translation": "Die Pflanze ist giftig.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Giftige kjemikalier er farlige.",
+        "translation": "Giftige Chemikalien sind gefährlich.",
+        "lang": "de"
+      }
+    ]
   },
   "gjennomsnittleg_adj": {
     "word": "gjennomsnittleg",
@@ -3583,7 +4681,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: gjennomsnittleg – meir gjennomsnittleg – mest gjennomsnittleg."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er en gjennomsnittlig prestasjon.",
+        "translation": "Das ist eine durchschnittliche Leistung.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Gjennomsnittslønnen har økt.",
+        "translation": "Der durchschnittliche Lohn ist gestiegen.",
+        "lang": "de"
+      }
+    ]
   },
   "gjerne_adj": {
     "word": "gjerne",
@@ -3615,7 +4725,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:gern_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: gjerne – gjernere – gjernst."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg liker å spise pizza.",
+        "translation": "Ich esse gern Pizza.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Kommer du gjerne?",
+        "translation": "Kommst du gern?",
+        "lang": "de"
+      }
+    ]
   },
   "gjerrig_adj": {
     "word": "gjerrig",
@@ -3685,7 +4807,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: glad – gladare – gladast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg er glad for at du er her.",
+        "translation": "Ich bin froh, dass du da bist.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Vi er glade for nyheten.",
+        "translation": "Wir sind froh über die Neuigkeit.",
+        "lang": "de"
+      }
+    ]
   },
   "glatt_adj": {
     "word": "glatt",
@@ -3720,7 +4854,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: glatt – glattare – glattast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Veien er glatt.",
+        "translation": "Die Straße ist glatt.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Det er rett og slett løgn.",
+        "translation": "Das ist glatt gelogen.",
+        "lang": "de"
+      }
+    ]
   },
   "god_adj": {
     "word": "god",
@@ -3752,7 +4898,24 @@
     "_generatedFrom": "de-nb/adjectivebank.json:gut_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: god – betre – best."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er veldig bra!",
+        "translation": "Das ist sehr gut!",
+        "lang": "de"
+      },
+      {
+        "sentence": "Korleis har du det? - Eg har det bra.",
+        "translation": "Wie geht es dir? - Mir geht es gut.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Hun snakker godt tysk.",
+        "translation": "Sie spricht gut Deutsch.",
+        "lang": "de"
+      }
+    ]
   },
   "god_bra_adj": {
     "word": "god, bra",
@@ -3819,7 +4982,24 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: godt – godtare – godtast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Maten er god!",
+        "translation": "Das Essen ist lecker!",
+        "lang": "de"
+      },
+      {
+        "sentence": "Pizzaen smaker godt.",
+        "translation": "Die Pizza schmeckt lecker.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Det ser godt ut!",
+        "translation": "Das sieht lecker aus!",
+        "lang": "de"
+      }
+    ]
   },
   "gratis_adj": {
     "word": "gratis",
@@ -3851,7 +5031,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:kostenlos_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: gratis – gratisare – gratisast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Inngangen er gratis.",
+        "translation": "Der Eintritt ist kostenlos.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Det er gratis.",
+        "translation": "Das ist kostenlos.",
+        "lang": "de"
+      }
+    ]
   },
   "gravid_adj": {
     "word": "gravid",
@@ -3886,7 +5078,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: gravid – gravidare – gravidast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Hun er gravid.",
+        "translation": "Sie ist schwanger.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Tre måneder gravid.",
+        "translation": "Im dritten Monat schwanger.",
+        "lang": "de"
+      }
+    ]
   },
   "grundig_adj": {
     "word": "grundig",
@@ -3918,7 +5122,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:gruendlich_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: grundig – grundigare – grundigast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Vær grundig!",
+        "translation": "Sei gründlich!",
+        "lang": "de"
+      },
+      {
+        "sentence": "Han jobber grundig.",
+        "translation": "Er arbeitet gründlich.",
+        "lang": "de"
+      }
+    ]
   },
   "grå_adj": {
     "word": "grå",
@@ -3956,7 +5172,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: grå – gråare – gråast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Himmelen er grå.",
+        "translation": "Der Himmel ist grau.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Håret hans er grått.",
+        "translation": "Sein Haar ist grau.",
+        "lang": "de"
+      }
+    ]
   },
   "grønn_adj": {
     "word": "grønn",
@@ -3995,7 +5223,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: grønn – grønnare – grønnast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Gresset er grønt.",
+        "translation": "Das Gras ist grün.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg har på meg en grønn t-skjorte.",
+        "translation": "Ich trage ein grünes T-Shirt.",
+        "lang": "de"
+      }
+    ]
   },
   "gul_adj": {
     "word": "gul",
@@ -4027,7 +5267,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:gelb_adj, es-nb/adjectivebank.json:amarillo_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: gul – gulare – gulast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Bananen er gul.",
+        "translation": "Die Banane ist gelb.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Lyset er gult.",
+        "translation": "Das Licht ist gelb.",
+        "lang": "de"
+      }
+    ]
   },
   "gunstig_adj": {
     "word": "gunstig",
@@ -4059,7 +5311,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:guenstig_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: gunstig – gunstigare – gunstigast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er en gunstig pris.",
+        "translation": "Das ist ein günstiger Preis.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Forholdene er gunstige.",
+        "translation": "Die Bedingungen sind günstig.",
+        "lang": "de"
+      }
+    ]
   },
   "gyldig_adj": {
     "word": "gyldig",
@@ -4091,7 +5355,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:gueltig_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: gyldig – gyldigare – gyldigast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Er passet ditt fortsatt gyldig?",
+        "translation": "Ist dein Pass noch gültig?",
+        "lang": "de"
+      },
+      {
+        "sentence": "Billetten er gyldig.",
+        "translation": "Das Ticket ist gültig.",
+        "lang": "de"
+      }
+    ]
   },
   "halv_adj": {
     "word": "halv",
@@ -4123,7 +5399,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:halb_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: halv – halvare – halvast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Klokken er halv tre.",
+        "translation": "Es ist halb drei.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg spiser berre en halv porsjon.",
+        "translation": "Ich esse nur eine halbe Portion.",
+        "lang": "de"
+      }
+    ]
   },
   "hard_adj": {
     "word": "hard",
@@ -4158,7 +5446,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: hard – hardare – hardast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Steinen er hard.",
+        "translation": "Der Stein ist hart.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Det er en hard avgjørelse.",
+        "translation": "Das ist eine harte Entscheidung.",
+        "lang": "de"
+      }
+    ]
   },
   "hardtarbeidande_adj": {
     "word": "hardtarbeidande",
@@ -4222,7 +5522,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:ganz_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: hel – helare – helast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg jobbet hele dagen.",
+        "translation": "Ich habe den ganzen Tag gearbeitet.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Det er ganske enkelt.",
+        "translation": "Das ist ganz einfach.",
+        "lang": "de"
+      }
+    ]
   },
   "hemmeleg_adj": {
     "word": "hemmeleg",
@@ -4258,7 +5570,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: hemmeleg – meir hemmeleg – mest hemmeleg."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er en hemmelighet.",
+        "translation": "Das ist ein Geheimnis.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Informasjonen er hemmelig.",
+        "translation": "Die Information ist geheim.",
+        "lang": "de"
+      }
+    ]
   },
   "historisk_adj": {
     "word": "historisk",
@@ -4290,7 +5614,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:historisch_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: historisk – meir historisk – mest historisk."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er et historisk øyeblikk.",
+        "translation": "Das ist ein historischer Moment.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Byen har historiske bygninger.",
+        "translation": "Die Stadt hat historische Gebäude.",
+        "lang": "de"
+      }
+    ]
   },
   "hjerteleg_adj": {
     "word": "hjerteleg",
@@ -4326,7 +5662,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: hjerteleg – meir hjerteleg – mest hjerteleg."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Hjertelig velkommen!",
+        "translation": "Herzlich willkommen!",
+        "lang": "de"
+      },
+      {
+        "sentence": "En hjertelig mottagelse.",
+        "translation": "Ein herzlicher Empfang.",
+        "lang": "de"
+      }
+    ]
   },
   "holdbar_adj": {
     "word": "holdbar",
@@ -4358,7 +5706,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:haltbar_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: holdbar – holdbarare – holdbarast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Produktet er holdbart lenge.",
+        "translation": "Das Produkt ist lange haltbar.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Velg holdbare materialer.",
+        "translation": "Wähle haltbare Materialien.",
+        "lang": "de"
+      }
+    ]
   },
   "hyggeleg_adj": {
     "word": "hyggeleg",
@@ -4394,7 +5754,24 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: hyggeleg – meir hyggeleg – mest hyggeleg."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Hun er veldig hyggelig.",
+        "translation": "Sie ist sehr nett.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Det var snilt av deg.",
+        "translation": "Das war nett von dir.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Naboene mine er hyggelige.",
+        "translation": "Meine Nachbarn sind nett.",
+        "lang": "de"
+      }
+    ]
   },
   "hyggeleg_sympatisk_adj": {
     "word": "hyggeleg, sympatisk",
@@ -4464,7 +5841,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: hyppig – hyppigare – hyppigast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er et hyppig problem.",
+        "translation": "Das ist ein häufiges Problem.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Hyppige pauser er viktige.",
+        "translation": "Häufige Pausen sind wichtig.",
+        "lang": "de"
+      }
+    ]
   },
   "høfleg_adj": {
     "word": "høfleg",
@@ -4503,7 +5892,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: høfleg – meir høfleg – mest høfleg."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Vær høflig!",
+        "translation": "Sei höflich!",
+        "lang": "de"
+      },
+      {
+        "sentence": "Han er alltid høflig.",
+        "translation": "Er ist immer höflich.",
+        "lang": "de"
+      }
+    ]
   },
   "høg_adj": {
     "word": "høg",
@@ -4541,7 +5942,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: høg – høgare – høgast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Fjellet er høyt.",
+        "translation": "Der Berg ist hoch.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Husleien er høy.",
+        "translation": "Die Miete ist hoch.",
+        "lang": "de"
+      }
+    ]
   },
   "i_tide_adj": {
     "word": "i tide",
@@ -4573,7 +5986,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:rechtzeitig_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: i tide – i tidere – i tidst."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Kom i tide!",
+        "translation": "Komm rechtzeitig!",
+        "lang": "de"
+      },
+      {
+        "sentence": "Han reagerte i tide.",
+        "translation": "Er hat rechtzeitig reagiert.",
+        "lang": "de"
+      }
+    ]
   },
   "ideell_adj": {
     "word": "ideell",
@@ -4608,7 +6033,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: ideell – ideellare – ideellast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er den ideelle løsningen.",
+        "translation": "Das ist die ideale Lösung.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Været er ideelt.",
+        "translation": "Das Wetter ist ideal.",
+        "lang": "de"
+      }
+    ]
   },
   "ille_adj": {
     "word": "ille",
@@ -4643,7 +6080,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: ille – illere – illst."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er ikkje så ille.",
+        "translation": "Das ist nicht so schlimm.",
+        "lang": "de"
+      },
+      {
+        "sentence": "En alvorlig situasjon.",
+        "translation": "Eine schlimme Situation.",
+        "lang": "de"
+      }
+    ]
   },
   "individuell_adj": {
     "word": "individuell",
@@ -4678,7 +6127,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: individuell – meir individuell – mest individuell."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Vi tilbyr individuell rådgivning.",
+        "translation": "Wir bieten individuelle Beratung.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Det er min individuelle stil.",
+        "translation": "Das ist mein individueller Stil.",
+        "lang": "de"
+      }
+    ]
   },
   "intelligent_adj": {
     "word": "intelligent",
@@ -4713,7 +6174,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: intelligent – meir intelligent – mest intelligent."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Hun er veldig intelligent.",
+        "translation": "Sie ist sehr intelligent.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Det er en intelligent løsning.",
+        "translation": "Das ist eine intelligente Lösung.",
+        "lang": "de"
+      }
+    ]
   },
   "intensiv_adj": {
     "word": "intensiv",
@@ -4745,7 +6218,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:intensiv_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: intensiv – meir intensiv – mest intensiv."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er intensiv trening.",
+        "translation": "Das ist intensives Training.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Lukten er intens.",
+        "translation": "Der Geruch ist intensiv.",
+        "lang": "de"
+      }
+    ]
   },
   "interessant_adj": {
     "word": "interessant",
@@ -4780,7 +6265,24 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: interessant – meir interessant – mest interessant."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Boken er interessant.",
+        "translation": "Das Buch ist interessant.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg synes historie er interessant.",
+        "translation": "Ich finde Geschichte interessant.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Det er et interessant tema.",
+        "translation": "Das ist ein interessantes Thema.",
+        "lang": "de"
+      }
+    ]
   },
   "interessert_adj": {
     "word": "interessert",
@@ -4815,7 +6317,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: interessert – meir interessert – mest interessert."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg er interessert.",
+        "translation": "Ich bin interessiert.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Han er interessert i musikk.",
+        "translation": "Er ist interessiert an Musik.",
+        "lang": "de"
+      }
+    ]
   },
   "interkulturell_adj": {
     "word": "interkulturell",
@@ -4850,7 +6364,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: interkulturell – meir interkulturell – mest interkulturell."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er et interkulturelt prosjekt.",
+        "translation": "Das ist ein interkulturelles Projekt.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Interkulturell kommunikasjon er viktig.",
+        "translation": "Interkulturelle Kommunikation ist wichtig.",
+        "lang": "de"
+      }
+    ]
   },
   "internasjonal_adj": {
     "word": "internasjonal",
@@ -4882,7 +6408,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:international_adj, es-nb/adjectivebank.json:internacional_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: internasjonal – meir internasjonal – mest internasjonal."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er et internasjonalt selskap.",
+        "translation": "Das ist ein internationales Unternehmen.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Hun arbeider internasjonalt.",
+        "translation": "Sie spricht international.",
+        "lang": "de"
+      }
+    ]
   },
   "irriterande_adj": {
     "word": "irriterande",
@@ -4917,7 +6455,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: irriterande – meir irriterande – mest irriterande."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er virkelig irriterende.",
+        "translation": "Das ist wirklich ärgerlich.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Han er irritert på meg.",
+        "translation": "Er ist ärgerlich auf mich.",
+        "lang": "de"
+      }
+    ]
   },
   "juridisk_adj": {
     "word": "juridisk",
@@ -4949,7 +6499,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:rechtlich_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: juridisk – meir juridisk – mest juridisk."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er et juridisk spørsmål.",
+        "translation": "Das ist eine rechtliche Frage.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Juridiske konsekvenser.",
+        "translation": "Rechtliche Konsequenzen.",
+        "lang": "de"
+      }
+    ]
   },
   "kald_adj": {
     "word": "kald",
@@ -4984,7 +6546,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: kald – kaldare – kaldast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er kaldt ute.",
+        "translation": "Es ist kalt draußen.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Vannet er for kaldt.",
+        "translation": "Das Wasser ist zu kalt.",
+        "lang": "de"
+      }
+    ]
   },
   "kjedeleg_adj": {
     "word": "kjedeleg",
@@ -5021,7 +6595,24 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: kjedeleg – meir kjedeleg – mest kjedeleg."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Filmen var kjedelig.",
+        "translation": "Der Film war langweilig.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Det er så kjedelig!",
+        "translation": "Das ist so langweilig!",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg kjeder meg.",
+        "translation": "Mir ist langweilig.",
+        "lang": "de"
+      }
+    ]
   },
   "kjekk_pen_adj": {
     "word": "kjekk, pen",
@@ -5094,7 +6685,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: kjempestor – meir kjempestor – mest kjempestor."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er et kjempestort hus.",
+        "translation": "Das ist ein riesiges Haus.",
+        "lang": "de"
+      },
+      {
+        "sentence": "En enorm mengde.",
+        "translation": "Eine riesige Menge.",
+        "lang": "de"
+      }
+    ]
   },
   "kjent_adj": {
     "word": "kjent",
@@ -5130,7 +6733,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: kjent – kjentare – kjentast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Han er en kjent skuespiller.",
+        "translation": "Er ist ein bekannter Schauspieler.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Det er allment kjent.",
+        "translation": "Das ist allgemein bekannt.",
+        "lang": "de"
+      }
+    ]
   },
   "kjent_berømt_adj": {
     "word": "kjent, berømt",
@@ -5211,7 +6826,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: kjøleg – meir kjøleg – mest kjøleg."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er kjølig i dag.",
+        "translation": "Es ist kühl heute.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Ølet er kjølig.",
+        "translation": "Das Bier ist kühl.",
+        "lang": "de"
+      }
+    ]
   },
   "klar_adj": {
     "word": "klar",
@@ -5243,7 +6870,24 @@
     "_generatedFrom": "de-nb/adjectivebank.json:bereit_adj, de-nb/adjectivebank.json:klar_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: klar – klarare – klarast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg er klar.",
+        "translation": "Ich bin bereit.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Er du klar?",
+        "translation": "Bist du bereit?",
+        "lang": "de"
+      },
+      {
+        "sentence": "Hun er klar til å hjelpe.",
+        "translation": "Sie ist bereit zu helfen.",
+        "lang": "de"
+      }
+    ]
   },
   "klassisk_adj": {
     "word": "klassisk",
@@ -5310,7 +6954,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:klug_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: klok – klokare – klokast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er en klok beslutning.",
+        "translation": "Das ist eine kluge Entscheidung.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Hun er veldig klok.",
+        "translation": "Sie ist sehr klug.",
+        "lang": "de"
+      }
+    ]
   },
   "knapp_adj": {
     "word": "knapp",
@@ -5345,7 +7001,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: knapp – knappare – knappast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Tiden er knapp.",
+        "translation": "Die Zeit ist knapp.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Et knapt svar.",
+        "translation": "Eine knappe Antwort.",
+        "lang": "de"
+      }
+    ]
   },
   "komfortabel_adj": {
     "word": "komfortabel",
@@ -5377,7 +7045,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:bequem_adj, es-nb/adjectivebank.json:comodo_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: komfortabel – meir komfortabel – mest komfortabel."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Stolen er veldig komfortabel.",
+        "translation": "Der Stuhl ist sehr bequem.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Sofaen er komfortabel.",
+        "translation": "Das Sofa ist bequem.",
+        "lang": "de"
+      }
+    ]
   },
   "komplett_adj": {
     "word": "komplett",
@@ -5412,7 +7092,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: komplett – meir komplett – mest komplett."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Samlingen er komplett.",
+        "translation": "Die Sammlung ist komplett.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Det er et fullstendig kaos.",
+        "translation": "Das ist ein komplettes Chaos.",
+        "lang": "de"
+      }
+    ]
   },
   "komplisert_adj": {
     "word": "komplisert",
@@ -5444,7 +7136,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:kompliziert_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: komplisert – meir komplisert – mest komplisert."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er komplisert.",
+        "translation": "Das ist kompliziert.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Oppgaven er komplisert.",
+        "translation": "Die Aufgabe ist kompliziert.",
+        "lang": "de"
+      }
+    ]
   },
   "korrekt_adj": {
     "word": "korrekt",
@@ -5479,7 +7183,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: korrekt – korrektare – korrektast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Svaret er korrekt.",
+        "translation": "Die Antwort ist korrekt.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Vær korrekt.",
+        "translation": "Bitte sei korrekt.",
+        "lang": "de"
+      }
+    ]
   },
   "kort_adj": {
     "word": "kort",
@@ -5511,7 +7227,24 @@
     "_generatedFrom": "de-nb/adjectivebank.json:kurz_adj, es-nb/adjectivebank.json:corto_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: kort – kortare – kortast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg har kort hår.",
+        "translation": "Ich habe kurze Haare.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Kort sagt...",
+        "translation": "Kurz gesagt...",
+        "lang": "de"
+      },
+      {
+        "sentence": "Pausen var for kort.",
+        "translation": "Die Pause war zu kurz.",
+        "lang": "de"
+      }
+    ]
   },
   "koseleg_adj": {
     "word": "koseleg",
@@ -5546,7 +7279,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: koseleg – meir koseleg – mest koseleg."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Kaféen er koselig.",
+        "translation": "Das Café ist gemütlich.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Vi hadde en koselig kveld.",
+        "translation": "Wir hatten einen gemütlichen Abend.",
+        "lang": "de"
+      }
+    ]
   },
   "kreativ_adj": {
     "word": "kreativ",
@@ -5578,7 +7323,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:kreativ_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: kreativ – kreativare – kreativast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Hun er veldig kreativ.",
+        "translation": "Sie ist sehr kreativ.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Vi trenger kreative ideer.",
+        "translation": "Wir brauchen kreative Ideen.",
+        "lang": "de"
+      }
+    ]
   },
   "kritisk_adj": {
     "word": "kritisk",
@@ -5610,7 +7367,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:kritisch_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: kritisk – kritiskare – kritiskast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Han er veldig kritisk.",
+        "translation": "Er ist sehr kritisch.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Det er en kritisk situasjon.",
+        "translation": "Das ist eine kritische Situation.",
+        "lang": "de"
+      }
+    ]
   },
   "kroppsleg_adj": {
     "word": "kroppsleg",
@@ -5646,7 +7415,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: kroppsleg – meir kroppsleg – mest kroppsleg."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Fysisk arbeid er anstrengende.",
+        "translation": "Körperliche Arbeit ist anstrengend.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Fysisk form er viktig.",
+        "translation": "Körperliche Fitness ist wichtig.",
+        "lang": "de"
+      }
+    ]
   },
   "kul_adj": {
     "word": "kul",
@@ -5678,7 +7459,24 @@
     "_generatedFrom": "de-nb/adjectivebank.json:cool_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: kul – kulare – kulast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er kult!",
+        "translation": "Das ist cool!",
+        "lang": "de"
+      },
+      {
+        "sentence": "Du er så kul.",
+        "translation": "Du bist so cool.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Musikken er kul.",
+        "translation": "Die Musik ist cool.",
+        "lang": "de"
+      }
+    ]
   },
   "kulturell_adj": {
     "word": "kulturell",
@@ -5713,7 +7511,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: kulturell – meir kulturell – mest kulturell."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er et kulturelt arrangement.",
+        "translation": "Das ist ein kulturelles Ereignis.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Kulturelle forskjeller er interessante.",
+        "translation": "Kulturelle Unterschiede sind interessant.",
+        "lang": "de"
+      }
+    ]
   },
   "kunstig_adj": {
     "word": "kunstig",
@@ -5745,7 +7555,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:kuenstlich_adj, es-nb/adjectivebank.json:artificial_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: kunstig – kunstigare – kunstigast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er kunstige blomster.",
+        "translation": "Das sind künstliche Blumen.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Kunstig intelligens.",
+        "translation": "Künstliche Intelligenz.",
+        "lang": "de"
+      }
+    ]
   },
   "kvinneleg_adj": {
     "word": "kvinneleg",
@@ -5782,7 +7604,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: kvinneleg – meir kvinneleg – mest kvinneleg."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er et kvinnelig navn.",
+        "translation": "Das ist ein weiblicher Name.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Kvinnelige egenskaper.",
+        "translation": "Weibliche Eigenschaften.",
+        "lang": "de"
+      }
+    ]
   },
   "kvit_adj": {
     "word": "kvit",
@@ -5817,7 +7651,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: kvit – kvitare – kvitast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Snøen er hvit.",
+        "translation": "Der Schnee ist weiß.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Hun har på seg en hvit kjole.",
+        "translation": "Sie trägt ein weißes Kleid.",
+        "lang": "de"
+      }
+    ]
   },
   "lang_adj": {
     "word": "lang",
@@ -5852,7 +7698,24 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: lang – lengre – lengst."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Filmen er lang.",
+        "translation": "Der Film ist lang.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg har langt hår.",
+        "translation": "Ich habe lange Haare.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Kvar lang tid tar det?",
+        "translation": "Wie lange dauert es?",
+        "lang": "de"
+      }
+    ]
   },
   "langsom_adj": {
     "word": "langsom",
@@ -5887,7 +7750,24 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: langsom – langsomare – langsomast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Sneglen er langsom.",
+        "translation": "Die Schnecke ist langsam.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Vennligst snakk sakte.",
+        "translation": "Bitte sprechen Sie langsam.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Bussen kjører for sakte.",
+        "translation": "Der Bus fährt zu langsam.",
+        "lang": "de"
+      }
+    ]
   },
   "langt_adj": {
     "word": "langt",
@@ -5922,7 +7802,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: langt – langtare – langtast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er langt borte.",
+        "translation": "Das ist weit weg.",
+        "lang": "de"
+      },
+      {
+        "sentence": "En vid utsikt.",
+        "translation": "Ein weiter Blick.",
+        "lang": "de"
+      }
+    ]
   },
   "lat_adj": {
     "word": "lat",
@@ -5954,7 +7846,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:faul_adj, es-nb/adjectivebank.json:perezoso_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: lat – latare – latast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Han er lat.",
+        "translation": "Er ist faul.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Ikkje vær så lat!",
+        "translation": "Sei nicht so faul!",
+        "lang": "de"
+      }
+    ]
   },
   "lav_adj": {
     "word": "lav",
@@ -5986,7 +7890,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:niedrig_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: lav – lavare – lavast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Prisene er lave.",
+        "translation": "Die Preise sind niedrig.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Bygningen er lav.",
+        "translation": "Das Gebäude ist niedrig.",
+        "lang": "de"
+      }
+    ]
   },
   "lav_kort_adj": {
     "word": "lav, kort",
@@ -6053,7 +7969,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: lett – lettare – lettast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Vesken er lett.",
+        "translation": "Die Tasche ist leicht.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Det er lett å forstå.",
+        "translation": "Das ist leicht zu verstehen.",
+        "lang": "de"
+      }
+    ]
   },
   "lett_enkel_adj": {
     "word": "lett, enkel",
@@ -6120,7 +8048,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:gleich_adj, es-nb/adjectivebank.json:igual_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: lik – likare – likast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Dei er like høye.",
+        "translation": "Sie sind gleich groß.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg kommer straks.",
+        "translation": "Ich komme gleich.",
+        "lang": "de"
+      }
+    ]
   },
   "likestilt_adj": {
     "word": "likestilt",
@@ -6152,7 +8092,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:gleichberechtigt_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: likestilt – meir likestilt – mest likestilt."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Menn og kvinner bør være likestilte.",
+        "translation": "Männer und Frauen sollten gleichberechtigt sein.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Et likestilt samfunn.",
+        "translation": "Eine gleichberechtigte Gesellschaft.",
+        "lang": "de"
+      }
+    ]
   },
   "liknande_adj": {
     "word": "liknande",
@@ -6184,7 +8136,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:aehnlich_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: liknande – meir liknande – mest liknande."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Disse fargene er lignende.",
+        "translation": "Diese Farben sind ähnlich.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Han ligner faren sin.",
+        "translation": "Er sieht seinem Vater ähnlich.",
+        "lang": "de"
+      }
+    ]
   },
   "lilla_adj": {
     "word": "lilla",
@@ -6219,7 +8183,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: lilla – lillaare – lillaast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Hun har på seg en lilla kjole.",
+        "translation": "Sie trägt ein lila Kleid.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Skjorten er lilla.",
+        "translation": "Das Hemd ist lila.",
+        "lang": "de"
+      }
+    ]
   },
   "liten_adj": {
     "word": "liten",
@@ -6251,7 +8227,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:gering_adj, de-nb/adjectivebank.json:klein_adj, es-nb/adjectivebank.json:pequeno_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: liten – mindre – minst."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er en liten forskjell.",
+        "translation": "Das ist ein geringer Unterschied.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Kostnadene er lave.",
+        "translation": "Die Kosten sind gering.",
+        "lang": "de"
+      }
+    ]
   },
   "loddrett_adj": {
     "word": "loddrett",
@@ -6286,7 +8274,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: loddrett – meir loddrett – mest loddrett."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Veggen er loddrett.",
+        "translation": "Die Wand ist senkrecht.",
+        "lang": "de"
+      },
+      {
+        "sentence": "En loddrett linje.",
+        "translation": "Eine senkrechte Linie.",
+        "lang": "de"
+      }
+    ]
   },
   "lojal_adj": {
     "word": "lojal",
@@ -6318,7 +8318,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:treu_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: lojal – lojalare – lojalast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Han er lojal/trofast.",
+        "translation": "Er ist treu.",
+        "lang": "de"
+      },
+      {
+        "sentence": "En lojal venn.",
+        "translation": "Ein treuer Freund.",
+        "lang": "de"
+      }
+    ]
   },
   "lokal_adj": {
     "word": "lokal",
@@ -6386,7 +8398,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: lykkeleg – meir lykkeleg – mest lykkeleg."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg er lykkelig.",
+        "translation": "Ich bin glücklich.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Hun gjør meg lykkelig.",
+        "translation": "Sie macht mich glücklich.",
+        "lang": "de"
+      }
+    ]
   },
   "lys_adj": {
     "word": "lys",
@@ -6418,7 +8442,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:hell_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: lys – lysare – lysast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Rommet er lyst.",
+        "translation": "Das Zimmer ist hell.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Hun har lyst hår.",
+        "translation": "Sie hat helle Haare.",
+        "lang": "de"
+      }
+    ]
   },
   "lys_klar_adj": {
     "word": "lys, klar",
@@ -6488,7 +8524,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: løs – løsare – løsast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Tannen er løs.",
+        "translation": "Der Zahn ist locker.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Han er avslappet og rolig.",
+        "translation": "Er ist locker und entspannt.",
+        "lang": "de"
+      }
+    ]
   },
   "mager_adj": {
     "word": "mager",
@@ -6520,7 +8568,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:mager_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: mager – magerare – magerast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Han er veldig mager.",
+        "translation": "Er ist sehr mager.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Det er magert kjøtt.",
+        "translation": "Das ist mageres Fleisch.",
+        "lang": "de"
+      }
+    ]
   },
   "maksimal_adj": {
     "word": "maksimal",
@@ -6552,7 +8612,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:maximal_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: maksimal – meir maksimal – mest maksimal."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Den maksimale hastigheten.",
+        "translation": "Die maximale Geschwindigkeit.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Det er maksimalt mulig.",
+        "translation": "Das ist maximal möglich.",
+        "lang": "de"
+      }
+    ]
   },
   "mannleg_adj": {
     "word": "mannleg",
@@ -6588,7 +8660,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: mannleg – meir mannleg – mest mannleg."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er et mannlig navn.",
+        "translation": "Das ist ein männlicher Name.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Mannlige dyr.",
+        "translation": "Männliche Tiere.",
+        "lang": "de"
+      }
+    ]
   },
   "meningsløs_adj": {
     "word": "meningsløs",
@@ -6627,7 +8711,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: meningsløs – meir meningsløs – mest meningsløs."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er meningsløst.",
+        "translation": "Das ist sinnlos.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Meningsløse diskusjoner.",
+        "translation": "Sinnlose Diskussionen.",
+        "lang": "de"
+      }
+    ]
   },
   "menneskeleg_adj": {
     "word": "menneskeleg",
@@ -6663,7 +8759,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: menneskeleg – meir menneskeleg – mest menneskeleg."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er menneskelig.",
+        "translation": "Das ist menschlich.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Menneskelige feil skjer.",
+        "translation": "Menschliche Fehler passieren.",
+        "lang": "de"
+      }
+    ]
   },
   "merkeleg_adj": {
     "word": "merkeleg",
@@ -6698,7 +8806,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: merkeleg – meir merkeleg – mest merkeleg."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er merkelig.",
+        "translation": "Das ist komisch.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Han oppfører seg merkelig.",
+        "translation": "Er verhält sich komisch.",
+        "lang": "de"
+      }
+    ]
   },
   "mett_adj": {
     "word": "mett",
@@ -6733,7 +8853,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: mett – mettare – mettast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg er mett.",
+        "translation": "Ich bin satt.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Er du allerede mett?",
+        "translation": "Bist du schon satt?",
+        "lang": "de"
+      }
+    ]
   },
   "mild_adj": {
     "word": "mild",
@@ -6768,7 +8900,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: mild – mildare – mildast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Været er mildt.",
+        "translation": "Das Wetter ist mild.",
+        "lang": "de"
+      },
+      {
+        "sentence": "En mild straff.",
+        "translation": "Eine milde Strafe.",
+        "lang": "de"
+      }
+    ]
   },
   "minimal_adj": {
     "word": "minimal",
@@ -6800,7 +8944,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:minimal_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: minimal – minimalare – minimalast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er en minimal forskjell.",
+        "translation": "Das ist ein minimaler Unterschied.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Med minimal innsats.",
+        "translation": "Mit minimalem Aufwand.",
+        "lang": "de"
+      }
+    ]
   },
   "moden_adj": {
     "word": "moden",
@@ -6832,7 +8988,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:reif_adj, es-nb/adjectivebank.json:maduro_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: moden – modenare – modenast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Frukten er moden.",
+        "translation": "Die Frucht ist reif.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Han er veldig moden for alderen sin.",
+        "translation": "Er ist sehr reif für sein Alter.",
+        "lang": "de"
+      }
+    ]
   },
   "moderne_adj": {
     "word": "moderne",
@@ -6896,7 +9064,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:mutig_adj, es-nb/adjectivebank.json:valiente_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: modig – modigare – modigast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Han er modig.",
+        "translation": "Er ist mutig.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Det var modig av deg.",
+        "translation": "Das war mutig von dir.",
+        "lang": "de"
+      }
+    ]
   },
   "morosam_adj": {
     "word": "morosam",
@@ -6928,7 +9108,24 @@
     "_generatedFrom": "de-nb/adjectivebank.json:lustig_adj, de-nb/adjectivebank.json:witzig_adj, es-nb/adjectivebank.json:gracioso_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: morosam – meir morosam – mest morosam."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er morsomt!",
+        "translation": "Das ist lustig!",
+        "lang": "de"
+      },
+      {
+        "sentence": "Han er veldig morsom.",
+        "translation": "Er ist sehr lustig.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Vi hadde en morsom kveld.",
+        "translation": "Wir hatten einen lustigen Abend.",
+        "lang": "de"
+      }
+    ]
   },
   "morosam_moro_adj": {
     "word": "morosam, moro",
@@ -6995,7 +9192,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: muleg – meir muleg – mest muleg."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Er det mulig?",
+        "translation": "Ist das möglich?",
+        "lang": "de"
+      },
+      {
+        "sentence": "Så snart som mulig.",
+        "translation": "So bald wie möglich.",
+        "lang": "de"
+      }
+    ]
   },
   "muligens_adj": {
     "word": "muligens",
@@ -7027,7 +9236,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:eventuell_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: muligens – meir muligens – mest muligens."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er muligens mulig.",
+        "translation": "Das ist eventuell möglich.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg kommer muligens senere.",
+        "translation": "Ich komme eventuell später.",
+        "lang": "de"
+      }
+    ]
   },
   "muntleg_adj": {
     "word": "muntleg",
@@ -7062,7 +9283,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: muntleg – meir muntleg – mest muntleg."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er en muntlig eksamen.",
+        "translation": "Das ist eine mündliche Prüfung.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Muntlige avtaler.",
+        "translation": "Mündliche Vereinbarungen.",
+        "lang": "de"
+      }
+    ]
   },
   "musikalsk_adj": {
     "word": "musikalsk",
@@ -7094,7 +9327,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:musikalisch_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: musikalsk – meir musikalsk – mest musikalsk."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Hun er veldig musikalsk.",
+        "translation": "Sie ist sehr musikalisch.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Et musikalsk barn.",
+        "translation": "Ein musikalisches Kind.",
+        "lang": "de"
+      }
+    ]
   },
   "myk_adj": {
     "word": "myk",
@@ -7126,7 +9371,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:weich_adj, es-nb/adjectivebank.json:blando_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: myk – mykare – mykast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Puten er myk.",
+        "translation": "Das Kissen ist weich.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Smøret er mykt.",
+        "translation": "Die Butter ist weich.",
+        "lang": "de"
+      }
+    ]
   },
   "mykje_adj": {
     "word": "mykje",
@@ -7162,7 +9419,24 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: mykje – meir – mest."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg har mykje å gjøre.",
+        "translation": "Ich habe viel zu tun.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Ha det gøy!",
+        "translation": "Viel Spaß!",
+        "lang": "de"
+      },
+      {
+        "sentence": "Tusen takk!",
+        "translation": "Vielen Dank!",
+        "lang": "de"
+      }
+    ]
   },
   "mørk_adj": {
     "word": "mørk",
@@ -7200,7 +9474,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: mørk – mørkare – mørkast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er mørkt ute.",
+        "translation": "Es ist dunkel draußen.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Han har på seg mørke klær.",
+        "translation": "Er trägt dunkle Kleidung.",
+        "lang": "de"
+      }
+    ]
   },
   "mørkhåret_adj": {
     "word": "mørkhåret",
@@ -7307,7 +9593,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: naturleg – meir naturleg – mest naturleg."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er naturlig.",
+        "translation": "Das ist natürlich.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Selvfølgelig! Det er klart.",
+        "translation": "Natürlich! Das ist klar.",
+        "lang": "de"
+      }
+    ]
   },
   "naudsynt_adj": {
     "word": "naudsynt",
@@ -7339,7 +9637,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:noetig_adj, de-nb/adjectivebank.json:notwendig_adj, es-nb/adjectivebank.json:necesario_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: naudsynt – meir naudsynt – mest naudsynt."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er nødvendig.",
+        "translation": "Das ist nötig.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Er det virkelig nødvendig?",
+        "translation": "Ist das wirklich nötig?",
+        "lang": "de"
+      }
+    ]
   },
   "negativ_adj": {
     "word": "negativ",
@@ -7371,7 +9681,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:negativ_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: negativ – negativare – negativast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det har negative konsekvenser.",
+        "translation": "Das hat negative Folgen.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Ikkje vær så negativ!",
+        "translation": "Sei nicht so negativ!",
+        "lang": "de"
+      }
+    ]
   },
   "nervøs_adj": {
     "word": "nervøs",
@@ -7409,7 +9731,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: nervøs – nervøsare – nervøsast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg er nervøs.",
+        "translation": "Ich bin nervös.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Hun virker nervøs.",
+        "translation": "Sie wirkt nervös.",
+        "lang": "de"
+      }
+    ]
   },
   "neste_adj": {
     "word": "neste",
@@ -7473,7 +9807,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:normal_adj, es-nb/adjectivebank.json:normal_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: normal – normalare – normalast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er normalt.",
+        "translation": "Das ist normal.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Er det normalt?",
+        "translation": "Ist das normal?",
+        "lang": "de"
+      }
+    ]
   },
   "ny_adj": {
     "word": "ny",
@@ -7505,7 +9851,24 @@
     "_generatedFrom": "de-nb/adjectivebank.json:neu_adj, es-nb/adjectivebank.json:nuevo_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: ny – nyare – nyast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg har en ny mobil.",
+        "translation": "Ich habe ein neues Handy.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Det er min nye venn.",
+        "translation": "Das ist mein neuer Freund.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Kva er nytt?",
+        "translation": "Was gibt es Neues?",
+        "lang": "de"
+      }
+    ]
   },
   "nysgjerrig_adj": {
     "word": "nysgjerrig",
@@ -7540,7 +9903,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: nysgjerrig – meir nysgjerrig – mest nysgjerrig."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Barnet er nysgjerrig.",
+        "translation": "Das Kind ist neugierig.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg er nysgjerrig på resultatet.",
+        "translation": "Ich bin neugierig auf das Ergebnis.",
+        "lang": "de"
+      }
+    ]
   },
   "nyttig_adj": {
     "word": "nyttig",
@@ -7575,7 +9950,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: nyttig – nyttigare – nyttigast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er nyttig.",
+        "translation": "Das ist nützlich.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Et nyttig verktøy.",
+        "translation": "Ein nützliches Werkzeug.",
+        "lang": "de"
+      }
+    ]
   },
   "nøyaktig_adj": {
     "word": "nøyaktig",
@@ -7613,7 +10000,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: nøyaktig – meir nøyaktig – mest nøyaktig."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Vær nøyaktig!",
+        "translation": "Bitte sei genau!",
+        "lang": "de"
+      },
+      {
+        "sentence": "Nøyaktig! Det er riktig.",
+        "translation": "Genau! Das ist richtig.",
+        "lang": "de"
+      }
+    ]
   },
   "offentleg_adj": {
     "word": "offentleg",
@@ -7649,7 +10048,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: offentleg – meir offentleg – mest offentleg."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er et offentlig sted.",
+        "translation": "Das ist ein öffentlicher Platz.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Offentlige transportmidler.",
+        "translation": "Öffentliche Verkehrsmittel.",
+        "lang": "de"
+      }
+    ]
   },
   "offisiell_adj": {
     "word": "offisiell",
@@ -7684,7 +10095,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: offisiell – meir offisiell – mest offisiell."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er en offisiell uttalelse.",
+        "translation": "Das ist eine offizielle Aussage.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Den offisielle datoen.",
+        "translation": "Der offizielle Termin.",
+        "lang": "de"
+      }
+    ]
   },
   "oppmerksom_adj": {
     "word": "oppmerksom",
@@ -7719,7 +10142,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: oppmerksom – meir oppmerksom – mest oppmerksom."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Vær oppmerksom!",
+        "translation": "Sei aufmerksam!",
+        "lang": "de"
+      },
+      {
+        "sentence": "Han er en oppmerksom elev.",
+        "translation": "Er ist ein aufmerksamer Schüler.",
+        "lang": "de"
+      }
+    ]
   },
   "opprinneleg_adj": {
     "word": "opprinneleg",
@@ -7755,7 +10190,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: opprinneleg – meir opprinneleg – mest opprinneleg."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Den opprinnelige planen.",
+        "translation": "Der ursprüngliche Plan.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Det var opprinnelig annerledes.",
+        "translation": "Das war ursprünglich anders.",
+        "lang": "de"
+      }
+    ]
   },
   "opptatt_adj": {
     "word": "opptatt",
@@ -7822,7 +10269,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:optimistisch_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: optimistisk – meir optimistisk – mest optimistisk."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Han er optimistisk.",
+        "translation": "Er ist optimistisch.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Hold deg optimistisk!",
+        "translation": "Bleib optimistisch!",
+        "lang": "de"
+      }
+    ]
   },
   "oransje_adj": {
     "word": "oransje",
@@ -7854,7 +10313,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:orange_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: oransje – oransjere – oransjst."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "T-skjorten er oransje.",
+        "translation": "Das T-Shirt ist orange.",
+        "lang": "de"
+      },
+      {
+        "sentence": "En oransje jakke.",
+        "translation": "Eine orange Jacke.",
+        "lang": "de"
+      }
+    ]
   },
   "overraska_adj": {
     "word": "overraska",
@@ -7889,7 +10360,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: overraska – meir overraska – mest overraska."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg er overrasket.",
+        "translation": "Ich bin überrascht.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Hun er overrasket.",
+        "translation": "Sie ist überrascht.",
+        "lang": "de"
+      }
+    ]
   },
   "overskyet_adj": {
     "word": "overskyet",
@@ -7921,7 +10404,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:bewoelkt_adj, es-nb/adjectivebank.json:nublado_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: overskyet – meir overskyet – mest overskyet."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Himmelen er overskyet.",
+        "translation": "Der Himmel ist bewölkt.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Det er overskyet i dag.",
+        "translation": "Es ist heute bewölkt.",
+        "lang": "de"
+      }
+    ]
   },
   "overskytande_adj": {
     "word": "overskytande",
@@ -7953,7 +10448,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:uebrig_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: overskytande – meir overskytande – mest overskytande."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Kva er til overs?",
+        "translation": "Was ist übrig?",
+        "lang": "de"
+      },
+      {
+        "sentence": "Det som er igjen.",
+        "translation": "Das Übrige.",
+        "lang": "de"
+      }
+    ]
   },
   "parallell_adj": {
     "word": "parallell",
@@ -7988,7 +10495,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: parallell – meir parallell – mest parallell."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Linjene er parallelle.",
+        "translation": "Die Linien sind parallel.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Parallelle prosesser.",
+        "translation": "Parallele Prozesse.",
+        "lang": "de"
+      }
+    ]
   },
   "passiv_adj": {
     "word": "passiv",
@@ -8023,7 +10542,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: passiv – passivare – passivast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Han er veldig passiv.",
+        "translation": "Er ist sehr passiv.",
+        "lang": "de"
+      },
+      {
+        "sentence": "En passiv holdning.",
+        "translation": "Eine passive Haltung.",
+        "lang": "de"
+      }
+    ]
   },
   "pauschal_adj": {
     "word": "pauschal",
@@ -8055,7 +10586,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:pauschal_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: pauschal – meir pauschal – mest pauschal."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er en generalisert påstand.",
+        "translation": "Das ist eine pauschale Aussage.",
+        "lang": "de"
+      },
+      {
+        "sentence": "En fastpris.",
+        "translation": "Ein Pauschalpreis.",
+        "lang": "de"
+      }
+    ]
   },
   "pen_adj": {
     "word": "pen",
@@ -8087,7 +10630,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:huebsch_adj, de-nb/adjectivebank.json:schoen_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: pen – penare – penast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Hun er pen.",
+        "translation": "Sie ist hübsch.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Det er en pen kjole.",
+        "translation": "Das ist ein hübsches Kleid.",
+        "lang": "de"
+      }
+    ]
   },
   "pen_vakker_adj": {
     "word": "pen, vakker",
@@ -8154,7 +10709,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:perfekt_adj, es-nb/adjectivebank.json:perfecto_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: perfekt – perfektare – perfektast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er perfekt!",
+        "translation": "Das ist perfekt!",
+        "lang": "de"
+      },
+      {
+        "sentence": "Hun snakker perfekt tysk.",
+        "translation": "Sie spricht perfektes Deutsch.",
+        "lang": "de"
+      }
+    ]
   },
   "populær_adj": {
     "word": "populær",
@@ -8192,7 +10759,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: populær – populærare – populærast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er en populær restaurant.",
+        "translation": "Das ist ein beliebtes Restaurant.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Hun er godt likt av alle.",
+        "translation": "Sie ist bei allen beliebt.",
+        "lang": "de"
+      }
+    ]
   },
   "positiv_adj": {
     "word": "positiv",
@@ -8224,7 +10803,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:positiv_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: positiv – positivare – positivast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er en positiv nyhet.",
+        "translation": "Das ist eine positive Nachricht.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Hold deg positiv!",
+        "translation": "Bleib positiv!",
+        "lang": "de"
+      }
+    ]
   },
   "praktisk_adj": {
     "word": "praktisk",
@@ -8256,7 +10847,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:praktisch_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: praktisk – meir praktisk – mest praktisk."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er veldig praktisk.",
+        "translation": "Das ist sehr praktisch.",
+        "lang": "de"
+      },
+      {
+        "sentence": "En praktisk løsning.",
+        "translation": "Eine praktische Lösung.",
+        "lang": "de"
+      }
+    ]
   },
   "prisverdig_adj": {
     "word": "prisverdig",
@@ -8288,7 +10891,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:preiswert_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: prisverdig – meir prisverdig – mest prisverdig."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Restauranten er prisverdig.",
+        "translation": "Das Restaurant ist preiswert.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Et prisverdrig tilbud.",
+        "translation": "Ein preiswertes Angebot.",
+        "lang": "de"
+      }
+    ]
   },
   "privat_adj": {
     "word": "privat",
@@ -8320,7 +10935,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:privat_adj, es-nb/adjectivebank.json:privado_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: privat – privatare – privatast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er privat.",
+        "translation": "Das ist privat.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Et privat arrangement.",
+        "translation": "Eine private Veranstaltung.",
+        "lang": "de"
+      }
+    ]
   },
   "profesjonell_adj": {
     "word": "profesjonell",
@@ -8390,7 +11017,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: punktleg – meir punktleg – mest punktleg."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Han er alltid punktlig.",
+        "translation": "Er ist immer pünktlich.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Toget er punktlig.",
+        "translation": "Der Zug ist pünktlich.",
+        "lang": "de"
+      }
+    ]
   },
   "påliteleg_adj": {
     "word": "påliteleg",
@@ -8429,7 +11068,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: påliteleg – meir påliteleg – mest påliteleg."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Han er pålitelig.",
+        "translation": "Er ist zuverlässig.",
+        "lang": "de"
+      },
+      {
+        "sentence": "En pålitelig bil.",
+        "translation": "Ein zuverlässiges Auto.",
+        "lang": "de"
+      }
+    ]
   },
   "rasande_adj": {
     "word": "rasande",
@@ -8461,7 +11112,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:wuetend_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: rasande – rasandere – rasandst."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Han er rasende.",
+        "translation": "Er ist wütend.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Hun er rasende på ham.",
+        "translation": "Sie ist wütend auf ihn.",
+        "lang": "de"
+      }
+    ]
   },
   "rask_adj": {
     "word": "rask",
@@ -8493,7 +11156,24 @@
     "_generatedFrom": "de-nb/adjectivebank.json:schnell_adj, es-nb/adjectivebank.json:rapido_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: rask – raskare – raskast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Bilen kjører fort.",
+        "translation": "Das Auto fährt schnell.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Fort! Vi kommer for sent!",
+        "translation": "Schnell! Wir kommen zu spät!",
+        "lang": "de"
+      },
+      {
+        "sentence": "Han løper veldig fort.",
+        "translation": "Er läuft sehr schnell.",
+        "lang": "de"
+      }
+    ]
   },
   "realistisk_adj": {
     "word": "realistisk",
@@ -8525,7 +11205,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:realistisch_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: realistisk – meir realistisk – mest realistisk."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Vær realistisk!",
+        "translation": "Sei realistisch!",
+        "lang": "de"
+      },
+      {
+        "sentence": "Det er en realistisk plan.",
+        "translation": "Das ist ein realistischer Plan.",
+        "lang": "de"
+      }
+    ]
   },
   "regelmessig_adj": {
     "word": "regelmessig",
@@ -8560,7 +11252,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: regelmessig – meir regelmessig – mest regelmessig."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg trener regelmessig.",
+        "translation": "Ich mache regelmäßig Sport.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Regelmessige pauser er viktige.",
+        "translation": "Regelmäßige Pausen sind wichtig.",
+        "lang": "de"
+      }
+    ]
   },
   "regional_adj": {
     "word": "regional",
@@ -8592,7 +11296,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:regional_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: regional – meir regional – mest regional."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Regionale produkter er ferskere.",
+        "translation": "Regionale Produkte sind frischer.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Et regionalt festival.",
+        "translation": "Ein regionales Fest.",
+        "lang": "de"
+      }
+    ]
   },
   "regnfull_adj": {
     "word": "regnfull",
@@ -8627,7 +11343,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: regnfull – meir regnfull – mest regnfull."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Været er regnfullt.",
+        "translation": "Das Wetter ist regnerisch.",
+        "lang": "de"
+      },
+      {
+        "sentence": "En regnfull dag.",
+        "translation": "Ein regnerischer Tag.",
+        "lang": "de"
+      }
+    ]
   },
   "relativ_adj": {
     "word": "relativ",
@@ -8659,7 +11387,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:relativ_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: relativ – relativare – relativast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er relativt enkelt.",
+        "translation": "Das ist relativ einfach.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Alt er relativt.",
+        "translation": "Alles ist relativ.",
+        "lang": "de"
+      }
+    ]
   },
   "ren_adj": {
     "word": "ren",
@@ -8691,7 +11431,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:rein_adj, de-nb/adjectivebank.json:sauber_adj, es-nb/adjectivebank.json:limpio_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: ren – renare – renast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Vannet er rent.",
+        "translation": "Das Wasser ist rein.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Det er rent gull.",
+        "translation": "Das ist reines Gold.",
+        "lang": "de"
+      }
+    ]
   },
   "rett_adj": {
     "word": "rett",
@@ -8726,7 +11478,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: rett – rettare – rettast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Stå rett!",
+        "translation": "Steh gerade!",
+        "lang": "de"
+      },
+      {
+        "sentence": "Linjen er rett.",
+        "translation": "Die Linie ist gerade.",
+        "lang": "de"
+      }
+    ]
   },
   "rettferdig_adj": {
     "word": "rettferdig",
@@ -8761,7 +11525,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: rettferdig – meir rettferdig – mest rettferdig."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er rettferdig.",
+        "translation": "Das ist fair.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Han er alltid rettferdig.",
+        "translation": "Er ist immer fair.",
+        "lang": "de"
+      }
+    ]
   },
   "rik_adj": {
     "word": "rik",
@@ -8793,7 +11569,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:reich_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: rik – rikare – rikast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Han er veldig rik.",
+        "translation": "Er ist sehr reich.",
+        "lang": "de"
+      },
+      {
+        "sentence": "En rik familie.",
+        "translation": "Eine reiche Familie.",
+        "lang": "de"
+      }
+    ]
   },
   "rik_deileg_adj": {
     "word": "rik, deileg",
@@ -8860,7 +11648,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:richtig_adj, es-nb/adjectivebank.json:correcto_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: riktig – riktigare – riktigast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er riktig.",
+        "translation": "Das ist richtig.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Det er en skikkelig venn.",
+        "translation": "Das ist ein richtiger Freund.",
+        "lang": "de"
+      }
+    ]
   },
   "roleg_adj": {
     "word": "roleg",
@@ -8895,7 +11695,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: roleg – meir roleg – mest roleg."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er rolig her.",
+        "translation": "Es ist ruhig hier.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Hold deg rolig!",
+        "translation": "Bleib ruhig!",
+        "lang": "de"
+      }
+    ]
   },
   "romantisk_adj": {
     "word": "romantisk",
@@ -8927,7 +11739,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:romantisch_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: romantisk – meir romantisk – mest romantisk."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er så romantisk!",
+        "translation": "Das ist so romantisch!",
+        "lang": "de"
+      },
+      {
+        "sentence": "Et romantisk middagsselskap.",
+        "translation": "Ein romantisches Abendessen.",
+        "lang": "de"
+      }
+    ]
   },
   "rosa_adj": {
     "word": "rosa",
@@ -8959,7 +11783,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:rosa_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: rosa – rosaare – rosaast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er en rosa kjole.",
+        "translation": "Das ist ein rosa Kleid.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Rosa blomster.",
+        "translation": "Rosa Blumen.",
+        "lang": "de"
+      }
+    ]
   },
   "rund_adj": {
     "word": "rund",
@@ -8994,7 +11830,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: rund – rundare – rundast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Bordet er rundt.",
+        "translation": "Der Tisch ist rund.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Et rundt tall.",
+        "translation": "Eine runde Zahl.",
+        "lang": "de"
+      }
+    ]
   },
   "ryddig_adj": {
     "word": "ryddig",
@@ -9029,7 +11877,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: ryddig – ryddigare – ryddigast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Rommet hans er ryddig.",
+        "translation": "Sein Zimmer ist ordentlich.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Vær ordentlig!",
+        "translation": "Sei ordentlich!",
+        "lang": "de"
+      }
+    ]
   },
   "rå_adj": {
     "word": "rå",
@@ -9067,7 +11927,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: rå – råare – råast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Rått kjøtt.",
+        "translation": "Rohes Fleisch.",
+        "lang": "de"
+      },
+      {
+        "sentence": "En rå diamant.",
+        "translation": "Ein roher Diamant.",
+        "lang": "de"
+      }
+    ]
   },
   "rød_adj": {
     "word": "rød",
@@ -9105,7 +11977,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: rød – rødare – rødast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Bilen er rød.",
+        "translation": "Das Auto ist rot.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Hun har rødt hår.",
+        "translation": "Sie hat rote Haare.",
+        "lang": "de"
+      }
+    ]
   },
   "rødhåret_adj": {
     "word": "rødhåret",
@@ -9177,7 +12061,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:salzig_adj, es-nb/adjectivebank.json:salado_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: salt – saltare – saltast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Vannet er salt.",
+        "translation": "Das Wasser ist salzig.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Suppen er for salt.",
+        "translation": "Die Suppe ist zu salzig.",
+        "lang": "de"
+      }
+    ]
   },
   "samme_adj": {
     "word": "samme",
@@ -9244,7 +12140,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:gleichzeitig_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: samtidig – meir samtidig – mest samtidig."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det skjer samtidig.",
+        "translation": "Das passiert gleichzeitig.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg kan ikkje jobbe og se på TV samtidig.",
+        "translation": "Ich kann nicht gleichzeitig arbeiten und fernsehen.",
+        "lang": "de"
+      }
+    ]
   },
   "sann_adj": {
     "word": "sann",
@@ -9279,7 +12187,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: sann – sannare – sannast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er sant.",
+        "translation": "Das ist wahr.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Er det sant?",
+        "translation": "Ist das wahr?",
+        "lang": "de"
+      }
+    ]
   },
   "seinare_adj": {
     "word": "seinare",
@@ -9311,7 +12231,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:spaeter_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: seinare – seinarere – seinarst."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Vi ses senere!",
+        "translation": "Bis später!",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg forklarer det senere.",
+        "translation": "Ich erkläre das später.",
+        "lang": "de"
+      }
+    ]
   },
   "sen_adj": {
     "word": "sen",
@@ -9343,7 +12275,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:spaet_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: sen – senare – senast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er sent.",
+        "translation": "Es ist spät.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Du kommer for sent.",
+        "translation": "Du kommst zu spät.",
+        "lang": "de"
+      }
+    ]
   },
   "sentral_adj": {
     "word": "sentral",
@@ -9375,7 +12319,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:zentral_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: sentral – sentralare – sentralast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Hotellet ligger sentralt.",
+        "translation": "Das Hotel liegt zentral.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Det er et sentralt tema.",
+        "translation": "Das ist ein zentrales Thema.",
+        "lang": "de"
+      }
+    ]
   },
   "seriøs_adj": {
     "word": "seriøs",
@@ -9448,7 +12404,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: sikker – sikkerare – sikkerast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er sikkert.",
+        "translation": "Das ist sicher.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg er sikker på at han kommer.",
+        "translation": "Ich bin sicher, dass er kommt.",
+        "lang": "de"
+      }
+    ]
   },
   "sint_adj": {
     "word": "sint",
@@ -9480,7 +12448,24 @@
     "_generatedFrom": "de-nb/adjectivebank.json:boese_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: sint – sintare – sintast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Er du sint på meg?",
+        "translation": "Bist du böse auf mich?",
+        "lang": "de"
+      },
+      {
+        "sentence": "Den slemme ulven.",
+        "translation": "Der böse Wolf.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Hun er sint.",
+        "translation": "Sie ist böse.",
+        "lang": "de"
+      }
+    ]
   },
   "siste_adj": {
     "word": "siste",
@@ -9576,7 +12561,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:schuechtern_adj, es-nb/adjectivebank.json:timido_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: sjenert – sjenertare – sjenertast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Hun er sjenert.",
+        "translation": "Sie ist schüchtern.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Han er sjenert med fremmede.",
+        "translation": "Er ist schüchtern mit Fremden.",
+        "lang": "de"
+      }
+    ]
   },
   "sjenerøs_adj": {
     "word": "sjenerøs",
@@ -9646,7 +12643,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:krank_adj, es-nb/adjectivebank.json:enfermo_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: sjuk – sjukare – sjukast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg er syk.",
+        "translation": "Ich bin krank.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Hun er syk og blir heime.",
+        "translation": "Sie ist krank und bleibt zu Hause.",
+        "lang": "de"
+      }
+    ]
   },
   "sjølvsagt_adj": {
     "word": "sjølvsagt",
@@ -9684,7 +12693,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: sjølvsagt – meir sjølvsagt – mest sjølvsagt."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er selvfølgelig.",
+        "translation": "Das ist selbstverständlich.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Selvfølgelig hjelper eg deg.",
+        "translation": "Selbstverständlich helfe ich dir.",
+        "lang": "de"
+      }
+    ]
   },
   "sjølvstendig_adj": {
     "word": "sjølvstendig",
@@ -9722,7 +12743,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: sjølvstendig – meir sjølvstendig – mest sjølvstendig."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Hun er selvstendig.",
+        "translation": "Sie ist selbstständig.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Han jobber selvstendig/som selvstendig næringsdrivende.",
+        "translation": "Er arbeitet selbstständig.",
+        "lang": "de"
+      }
+    ]
   },
   "skadeleg_adj": {
     "word": "skadeleg",
@@ -9757,7 +12790,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: skadeleg – meir skadeleg – mest skadeleg."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Røyking er skadelig.",
+        "translation": "Rauchen ist schädlich.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Skadelige kjemikalier.",
+        "translation": "Schädliche Chemikalien.",
+        "lang": "de"
+      }
+    ]
   },
   "skallet_adj": {
     "word": "skallet",
@@ -9824,7 +12869,24 @@
     "_generatedFrom": "de-nb/adjectivebank.json:scharf_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: skarp – skarpare – skarpast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Kniven er skarp.",
+        "translation": "Das Messer ist scharf.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Han har et skarpt blikk.",
+        "translation": "Er hat einen scharfen Blick.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Maten er veldig sterk/krydret.",
+        "translation": "Das Essen ist sehr scharf.",
+        "lang": "de"
+      }
+    ]
   },
   "skinnande_strålande_adj": {
     "word": "skinnande, strålande",
@@ -9898,7 +12960,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: skitten – skittenare – skittenast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Hendene dine er skitne.",
+        "translation": "Deine Hände sind schmutzig.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Vannet er skittent.",
+        "translation": "Das Wasser ist schmutzig.",
+        "lang": "de"
+      }
+    ]
   },
   "skjev_adj": {
     "word": "skjev",
@@ -9933,7 +13007,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: skjev – skjevare – skjevast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Bildet henger skjevt.",
+        "translation": "Das Bild hängt schief.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Tårnet er skjevt.",
+        "translation": "Der Turm ist schief.",
+        "lang": "de"
+      }
+    ]
   },
   "skriftleg_adj": {
     "word": "skriftleg",
@@ -9968,7 +13054,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: skriftleg – meir skriftleg – mest skriftleg."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er en skriftlig eksamen.",
+        "translation": "Das ist eine schriftliche Prüfung.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Skriftlige avtaler.",
+        "translation": "Schriftliche Vereinbarungen.",
+        "lang": "de"
+      }
+    ]
   },
   "skyldig_adj": {
     "word": "skyldig",
@@ -10000,7 +13098,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:schuldig_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: skyldig – skyldigare – skyldigast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Han er skyldig.",
+        "translation": "Er ist schuldig.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg føler meg skyldig.",
+        "translation": "Ich fühle mich schuldig.",
+        "lang": "de"
+      }
+    ]
   },
   "slank_adj": {
     "word": "slank",
@@ -10032,7 +13142,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:schlank_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: slank – slankare – slankast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Hun er veldig slank.",
+        "translation": "Sie ist sehr schlank.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Han har en slank figur.",
+        "translation": "Er hat eine schlanke Figur.",
+        "lang": "de"
+      }
+    ]
   },
   "slank_tynn_adj": {
     "word": "slank, tynn",
@@ -10099,7 +13221,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:schmal_adj, es-nb/adjectivebank.json:estrecho_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: smal – smalare – smalast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Gaten er smal.",
+        "translation": "Die Straße ist schmal.",
+        "lang": "de"
+      },
+      {
+        "sentence": "En smal seng.",
+        "translation": "Ein schmales Bett.",
+        "lang": "de"
+      }
+    ]
   },
   "smart_adj": {
     "word": "smart",
@@ -10131,7 +13265,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:schlau_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: smart – smartare – smartast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det var smart.",
+        "translation": "Das war schlau.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Hun er veldig smart.",
+        "translation": "Sie ist sehr schlau.",
+        "lang": "de"
+      }
+    ]
   },
   "smart_klar_adj": {
     "word": "smart, klar",
@@ -10198,7 +13344,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: snill – snillare – snillast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Barnet er snilt.",
+        "translation": "Das Kind ist brav.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Vær snill!",
+        "translation": "Sei brav!",
+        "lang": "de"
+      }
+    ]
   },
   "solrik_adj": {
     "word": "solrik",
@@ -10230,7 +13388,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:sonnig_adj, es-nb/adjectivebank.json:soleado_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: solrik – solrikare – solrikast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er solrik i dag.",
+        "translation": "Es ist sonnig heute.",
+        "lang": "de"
+      },
+      {
+        "sentence": "En solrik dag.",
+        "translation": "Ein sonniger Tag.",
+        "lang": "de"
+      }
+    ]
   },
   "sosial_adj": {
     "word": "sosial",
@@ -10262,7 +13432,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:sozial_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: sosial – sosialare – sosialast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er et sosialt problem.",
+        "translation": "Das ist ein soziales Problem.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Sosiale medier er viktige.",
+        "translation": "Soziale Medien sind wichtig.",
+        "lang": "de"
+      }
+    ]
   },
   "spennande_adj": {
     "word": "spennande",
@@ -10297,7 +13479,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: spennande – meir spennande – mest spennande."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Boken er spennende.",
+        "translation": "Das Buch ist spannend.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Historie er veldig spennende.",
+        "translation": "Geschichte ist sehr spannend.",
+        "lang": "de"
+      }
+    ]
   },
   "spent_adj": {
     "word": "spent",
@@ -10329,7 +13523,24 @@
     "_generatedFrom": "de-nb/adjectivebank.json:aufgeregt_adj, de-nb/adjectivebank.json:gespannt_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: spent – spentare – spentast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg er spent!",
+        "translation": "Ich bin aufgeregt!",
+        "lang": "de"
+      },
+      {
+        "sentence": "Barnet er spent før ferien.",
+        "translation": "Das Kind ist aufgeregt vor dem Urlaub.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Kvifor er du så spent?",
+        "translation": "Warum bist du so aufgeregt?",
+        "lang": "de"
+      }
+    ]
   },
   "spesiell_adj": {
     "word": "spesiell",
@@ -10364,7 +13575,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: spesiell – meir spesiell – mest spesiell."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er en spesiell anledning.",
+        "translation": "Das ist ein spezieller Anlass.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Noko spesielt.",
+        "translation": "Etwas Spezielles.",
+        "lang": "de"
+      }
+    ]
   },
   "spiss_adj": {
     "word": "spiss",
@@ -10399,7 +13622,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: spiss – spissare – spissast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Blyanten er spiss.",
+        "translation": "Der Bleistift ist spitz.",
+        "lang": "de"
+      },
+      {
+        "sentence": "En spiss vinkel.",
+        "translation": "Ein spitzer Winkel.",
+        "lang": "de"
+      }
+    ]
   },
   "sporty_adj": {
     "word": "sporty",
@@ -10431,7 +13666,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:sportlich_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: sporty – sportyare – sportyast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Han er veldig sporty.",
+        "translation": "Er ist sehr sportlich.",
+        "lang": "de"
+      },
+      {
+        "sentence": "En sporty bil.",
+        "translation": "Ein sportliches Auto.",
+        "lang": "de"
+      }
+    ]
   },
   "stadig_adj": {
     "word": "stadig",
@@ -10463,7 +13710,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:staendig_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: stadig – stadigare – stadigast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Han jobber stadig.",
+        "translation": "Er arbeitet ständig.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Det er stadig et problem.",
+        "translation": "Das ist ständig ein Problem.",
+        "lang": "de"
+      }
+    ]
   },
   "statistisk_adj": {
     "word": "statistisk",
@@ -10495,7 +13754,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:statistisch_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: statistisk – meir statistisk – mest statistisk."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er statistisk sett normalt.",
+        "translation": "Das ist statistisch gesehen normal.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Statistiske data.",
+        "translation": "Statistische Daten.",
+        "lang": "de"
+      }
+    ]
   },
   "stengt_lukka_adj": {
     "word": "stengt, lukka",
@@ -10563,7 +13834,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:stark_adj, es-nb/adjectivebank.json:fuerte_adj, es-nb/adjectivebank.json:picante_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: sterk – sterkare – sterkast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Han er veldig sterk.",
+        "translation": "Er ist sehr stark.",
+        "lang": "de"
+      },
+      {
+        "sentence": "En sterk vind.",
+        "translation": "Ein starker Wind.",
+        "lang": "de"
+      }
+    ]
   },
   "stilistisk_adj": {
     "word": "stilistisk",
@@ -10595,7 +13878,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:stilistisch_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: stilistisk – meir stilistisk – mest stilistisk."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Stilistiske forskjeller.",
+        "translation": "Stilistische Unterschiede.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Det er et stilistisk valg.",
+        "translation": "Das ist eine stilistische Wahl.",
+        "lang": "de"
+      }
+    ]
   },
   "stille_adj": {
     "word": "stille",
@@ -10630,7 +13925,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: stille – stillere – stillst."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Vær stille!",
+        "translation": "Bitte sei leise!",
+        "lang": "de"
+      },
+      {
+        "sentence": "Snakk litt lavere.",
+        "translation": "Sprich leiser.",
+        "lang": "de"
+      }
+    ]
   },
   "stolt_adj": {
     "word": "stolt",
@@ -10662,7 +13969,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:stolz_adj, es-nb/adjectivebank.json:orgulloso_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: stolt – stoltare – stoltast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg er stolt av deg.",
+        "translation": "Ich bin stolz auf dich.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Han er stolt av arbeidet sitt.",
+        "translation": "Er ist stolz auf seine Arbeit.",
+        "lang": "de"
+      }
+    ]
   },
   "stor_adj": {
     "word": "stor",
@@ -10694,7 +14013,24 @@
     "_generatedFrom": "de-nb/adjectivebank.json:gross_adj, es-nb/adjectivebank.json:grande_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: stor – større – størst."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Huset er stort.",
+        "translation": "Das Haus ist groß.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Kvar høy er du?",
+        "translation": "Wie groß bist du?",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg har en stor familie.",
+        "translation": "Ich habe eine große Familie.",
+        "lang": "de"
+      }
+    ]
   },
   "straffbart_adj": {
     "word": "straffbart",
@@ -10729,7 +14065,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: straffbart – meir straffbart – mest straffbart."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er straffbart.",
+        "translation": "Das ist strafbar.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Straffbare handlinger.",
+        "translation": "Strafbare Handlungen.",
+        "lang": "de"
+      }
+    ]
   },
   "streng_adj": {
     "word": "streng",
@@ -10764,7 +14112,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: streng – strengare – strengast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Læreren er streng.",
+        "translation": "Der Lehrer ist streng.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Strenge regler.",
+        "translation": "Strenge Regeln.",
+        "lang": "de"
+      }
+    ]
   },
   "stressa_adj": {
     "word": "stressa",
@@ -10799,7 +14159,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: stressa – stressaare – stressaast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg er stresset.",
+        "translation": "Ich bin gestresst.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Hun virker stresset.",
+        "translation": "Sie wirkt gestresst.",
+        "lang": "de"
+      }
+    ]
   },
   "stressande_adj": {
     "word": "stressande",
@@ -10834,7 +14206,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: stressande – meir stressande – mest stressande."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Arbeidet er stressende.",
+        "translation": "Die Arbeit ist stressig.",
+        "lang": "de"
+      },
+      {
+        "sentence": "En stressende dag.",
+        "translation": "Ein stressiger Tag.",
+        "lang": "de"
+      }
+    ]
   },
   "stum_adj": {
     "word": "stum",
@@ -10866,7 +14250,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:stumm_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: stum – stumare – stumast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Han er stum.",
+        "translation": "Er ist stumm.",
+        "lang": "de"
+      },
+      {
+        "sentence": "En stum film.",
+        "translation": "Ein stummer Film.",
+        "lang": "de"
+      }
+    ]
   },
   "stygg_adj": {
     "word": "stygg",
@@ -10901,7 +14297,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: stygg – styggare – styggast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Bygningen er stygg.",
+        "translation": "Das Gebäude ist hässlich.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Det er stygt vær.",
+        "translation": "Das ist hässliches Wetter.",
+        "lang": "de"
+      }
+    ]
   },
   "sunn_adj": {
     "word": "sunn",
@@ -10936,7 +14344,24 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: sunn – sunnare – sunnast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Frukt er sunt.",
+        "translation": "Obst ist gesund.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg føler meg frisk.",
+        "translation": "Ich fühle mich gesund.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Sunt kosthold er viktig.",
+        "translation": "Gesunde Ernährung ist wichtig.",
+        "lang": "de"
+      }
+    ]
   },
   "super_adj": {
     "word": "super",
@@ -10968,7 +14393,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:super_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: super – superare – superast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er super!",
+        "translation": "Das ist super!",
+        "lang": "de"
+      },
+      {
+        "sentence": "Du er super.",
+        "translation": "Du bist super.",
+        "lang": "de"
+      }
+    ]
   },
   "sur_adj": {
     "word": "sur",
@@ -11000,7 +14437,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:sauer_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: sur – surare – surast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Sitronen er sur.",
+        "translation": "Die Zitrone ist sauer.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Han er sur på meg.",
+        "translation": "Er ist sauer auf mich.",
+        "lang": "de"
+      }
+    ]
   },
   "svak_adj": {
     "word": "svak",
@@ -11032,7 +14481,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:schwach_adj, es-nb/adjectivebank.json:debil_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: svak – svakare – svakast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Han er svak.",
+        "translation": "Er ist schwach.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Signalet er svakt.",
+        "translation": "Das Signal ist schwach.",
+        "lang": "de"
+      }
+    ]
   },
   "svart_adj": {
     "word": "svart",
@@ -11064,7 +14525,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:schwarz_adj, es-nb/adjectivebank.json:negro_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: svart – svartare – svartast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Bilen er svart.",
+        "translation": "Das Auto ist schwarz.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Han har på seg svarte klær.",
+        "translation": "Er trägt schwarze Kleidung.",
+        "lang": "de"
+      }
+    ]
   },
   "svolten_adj": {
     "word": "svolten",
@@ -11096,7 +14569,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:hungrig_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: svolten – svoltenare – svoltenast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg er sulten.",
+        "translation": "Ich bin hungrig.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Er du sulten?",
+        "translation": "Bist du hungrig?",
+        "lang": "de"
+      }
+    ]
   },
   "sympatisk_adj": {
     "word": "sympatisk",
@@ -11128,7 +14613,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:sympathisch_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: sympatisk – meir sympatisk – mest sympatisk."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Han er veldig sympatisk.",
+        "translation": "Er ist sehr sympathisch.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Hun gjør et sympatisk inntrykk.",
+        "translation": "Sie macht einen sympathischen Eindruck.",
+        "lang": "de"
+      }
+    ]
   },
   "synd_adj": {
     "word": "synd",
@@ -11163,7 +14660,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: synd – syndare – syndast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er synd!",
+        "translation": "Das ist schade!",
+        "lang": "de"
+      },
+      {
+        "sentence": "Så synd.",
+        "translation": "Wie schade.",
+        "lang": "de"
+      }
+    ]
   },
   "synleg_adj": {
     "word": "synleg",
@@ -11198,7 +14707,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: synleg – meir synleg – mest synleg."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er synlig.",
+        "translation": "Das ist sichtbar.",
+        "lang": "de"
+      },
+      {
+        "sentence": "En synlig forskjell.",
+        "translation": "Ein sichtbarer Unterschied.",
+        "lang": "de"
+      }
+    ]
   },
   "søt_adj": {
     "word": "søt",
@@ -11236,7 +14757,24 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: søt – søtare – søtast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Katten er søt!",
+        "translation": "Die Katze ist süß!",
+        "lang": "de"
+      },
+      {
+        "sentence": "Babyen er så søt.",
+        "translation": "Das Baby ist so süß.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Desserten er søt.",
+        "translation": "Das Dessert ist süß.",
+        "lang": "de"
+      }
+    ]
   },
   "takknemleg_adj": {
     "word": "takknemleg",
@@ -11272,7 +14810,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: takknemleg – meir takknemleg – mest takknemleg."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg er veldig takknemlig.",
+        "translation": "Ich bin sehr dankbar.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Hun er takknemlig for hjelpen.",
+        "translation": "Sie ist dankbar für die Hilfe.",
+        "lang": "de"
+      }
+    ]
   },
   "tallrik_adj": {
     "word": "tallrik",
@@ -11307,7 +14857,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: tallrik – tallrikare – tallrikast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Tallrike besøkende kom.",
+        "translation": "Zahlreiche Besucher kamen.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Tallrike muligheter.",
+        "translation": "Zahlreiche Möglichkeiten.",
+        "lang": "de"
+      }
+    ]
   },
   "tam_adj": {
     "word": "tam",
@@ -11339,7 +14901,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:zahm_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: tam – tamare – tamast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Dyret er tammet.",
+        "translation": "Das Tier ist zahm.",
+        "lang": "de"
+      },
+      {
+        "sentence": "En tam hund.",
+        "translation": "Ein zahmer Hund.",
+        "lang": "de"
+      }
+    ]
   },
   "teoretisk_adj": {
     "word": "teoretisk",
@@ -11371,7 +14945,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:theoretisch_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: teoretisk – meir teoretisk – mest teoretisk."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er rent teoretisk.",
+        "translation": "Das ist rein theoretisch.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Teoretisk sett er det mulig.",
+        "translation": "Theoretisch ist das möglich.",
+        "lang": "de"
+      }
+    ]
   },
   "tett_adj": {
     "word": "tett",
@@ -11406,7 +14992,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: tett – tettare – tettast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Skogen er tett.",
+        "translation": "Der Wald ist dicht.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Trafikken er tett.",
+        "translation": "Der Verkehr ist dicht.",
+        "lang": "de"
+      }
+    ]
   },
   "tidleg_adj": {
     "word": "tidleg",
@@ -11441,7 +15039,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: tidleg – meir tidleg – mest tidleg."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg står tidlig opp.",
+        "translation": "Ich stehe früh auf.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Det er fortsatt tidlig.",
+        "translation": "Es ist noch früh.",
+        "lang": "de"
+      }
+    ]
   },
   "tidlegare_adj": {
     "word": "tidlegare",
@@ -11473,7 +15083,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:frueher_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: tidlegare – meir tidlegare – mest tidlegare."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Han er en tidligere lærer.",
+        "translation": "Er ist ein früherer Lehrer.",
+        "lang": "de"
+      },
+      {
+        "sentence": "I tidligere tider.",
+        "translation": "In früheren Zeiten.",
+        "lang": "de"
+      }
+    ]
   },
   "til_stede_adj": {
     "word": "til stede",
@@ -11505,7 +15127,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:anwesend_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: til stede – meir til stede – mest til stede."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Alle elevene er til stede.",
+        "translation": "Alle Schüler sind anwesend.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Er du til stede?",
+        "translation": "Bist du anwesend?",
+        "lang": "de"
+      }
+    ]
   },
   "tilgjengeleg_adj": {
     "word": "tilgjengeleg",
@@ -11540,7 +15174,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: tilgjengeleg – meir tilgjengeleg – mest tilgjengeleg."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Bygningen er tilgjengelig.",
+        "translation": "Das Gebäude ist zugänglich.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Han er veldig tilgjengelig/imøtekommende.",
+        "translation": "Er ist sehr zugänglich.",
+        "lang": "de"
+      }
+    ]
   },
   "tolerant_adj": {
     "word": "tolerant",
@@ -11572,7 +15218,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:tolerant_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: tolerant – meir tolerant – mest tolerant."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Vær tolerant!",
+        "translation": "Sei tolerant!",
+        "lang": "de"
+      },
+      {
+        "sentence": "Et tolerant samfunn.",
+        "translation": "Eine tolerante Gesellschaft.",
+        "lang": "de"
+      }
+    ]
   },
   "tom_adj": {
     "word": "tom",
@@ -11604,7 +15262,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:leer_adj, es-nb/adjectivebank.json:vacio_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: tom – tomare – tomast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Glasset er tomt.",
+        "translation": "Das Glas ist leer.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Flasken er tom.",
+        "translation": "Die Flasche ist leer.",
+        "lang": "de"
+      }
+    ]
   },
   "total_adj": {
     "word": "total",
@@ -11636,7 +15306,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:total_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: total – totalare – totalast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er et fullstendig kaos.",
+        "translation": "Das ist ein totales Chaos.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Det er totalt feil.",
+        "translation": "Das ist total falsch.",
+        "lang": "de"
+      }
+    ]
   },
   "tradisjonell_adj": {
     "word": "tradisjonell",
@@ -11671,7 +15353,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: tradisjonell – meir tradisjonell – mest tradisjonell."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Et tradisjonelt fest.",
+        "translation": "Ein traditionelles Fest.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Tradisjonelle verdier.",
+        "translation": "Traditionelle Werte.",
+        "lang": "de"
+      }
+    ]
   },
   "trang_adj": {
     "word": "trang",
@@ -11706,7 +15400,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: trang – trangare – trangast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Buksene er trange.",
+        "translation": "Die Hose ist eng.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Rommet er trangt.",
+        "translation": "Das Zimmer ist eng.",
+        "lang": "de"
+      }
+    ]
   },
   "travelt_adj": {
     "word": "travelt",
@@ -11738,7 +15444,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:eilig_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: travelt – traveltare – traveltast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det haster!",
+        "translation": "Es ist eilig!",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg har det travelt.",
+        "translation": "Ich habe es eilig.",
+        "lang": "de"
+      }
+    ]
   },
   "trist_adj": {
     "word": "trist",
@@ -11770,7 +15488,24 @@
     "_generatedFrom": "de-nb/adjectivebank.json:traurig_adj, es-nb/adjectivebank.json:triste_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: trist – tristare – tristast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Kvifor er du lei deg?",
+        "translation": "Warum bist du traurig?",
+        "lang": "de"
+      },
+      {
+        "sentence": "Det er en trist historie.",
+        "translation": "Das ist eine traurige Geschichte.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg er lei meg.",
+        "translation": "Ich bin traurig.",
+        "lang": "de"
+      }
+    ]
   },
   "trøtt_adj": {
     "word": "trøtt",
@@ -11809,7 +15544,24 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: trøtt – trøttare – trøttast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg er trøtt.",
+        "translation": "Ich bin müde.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Er du trøtt?",
+        "translation": "Bist du müde?",
+        "lang": "de"
+      },
+      {
+        "sentence": "Hun ser trøtt ut.",
+        "translation": "Sie sieht müde aus.",
+        "lang": "de"
+      }
+    ]
   },
   "trøtt_sliten_adj": {
     "word": "trøtt, sliten",
@@ -11883,7 +15635,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: tung – tyngre – tyngst."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Vesken er tung.",
+        "translation": "Die Tasche ist schwer.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Det er vanskelig å forstå.",
+        "translation": "Das ist schwer zu verstehen.",
+        "lang": "de"
+      }
+    ]
   },
   "tvers_adj": {
     "word": "tvers",
@@ -11915,7 +15679,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:quer_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: tvers – tversare – tversast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Tvers gjennom landet.",
+        "translation": "Quer durch das Land.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Linjen går på tvers.",
+        "translation": "Die Linie geht quer.",
+        "lang": "de"
+      }
+    ]
   },
   "tydeleg_adj": {
     "word": "tydeleg",
@@ -11950,7 +15726,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: tydeleg – meir tydeleg – mest tydeleg."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Vennligst snakk tydelig.",
+        "translation": "Bitte sprechen Sie deutlich.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Det er en tydelig forskjell.",
+        "translation": "Das ist ein deutlicher Unterschied.",
+        "lang": "de"
+      }
+    ]
   },
   "tykk_adj": {
     "word": "tykk",
@@ -11985,7 +15773,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: tykk – tykkare – tykkast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Boken er tykk.",
+        "translation": "Das Buch ist dick.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Veggen er tykk.",
+        "translation": "Die Wand ist dick.",
+        "lang": "de"
+      }
+    ]
   },
   "tynn_adj": {
     "word": "tynn",
@@ -12020,7 +15820,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: tynn – tynnare – tynnast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Papiret er tynt.",
+        "translation": "Das Papier ist dünn.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Hun er veldig tynn.",
+        "translation": "Sie ist sehr dünn.",
+        "lang": "de"
+      }
+    ]
   },
   "typisk_adj": {
     "word": "typisk",
@@ -12052,7 +15864,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:typisch_adj, es-nb/adjectivebank.json:tipico_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: typisk – typiskare – typiskast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er typisk tysk.",
+        "translation": "Das ist typisch deutsch.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Et typisk eksempel.",
+        "translation": "Ein typisches Beispiel.",
+        "lang": "de"
+      }
+    ]
   },
   "tåkete_adj": {
     "word": "tåkete",
@@ -12090,7 +15914,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: tåkete – tåketere – tåketst."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er tåkete i dag.",
+        "translation": "Es ist neblig heute.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Været er tåkete.",
+        "translation": "Das Wetter ist neblig.",
+        "lang": "de"
+      }
+    ]
   },
   "tørr_adj": {
     "word": "tørr",
@@ -12129,7 +15965,24 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: tørr – tørrare – tørrast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Håndkleet er tørt.",
+        "translation": "Das Handtuch ist trocken.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Det er veldig tørt i dag.",
+        "translation": "Es ist heute sehr trocken.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Han har en tørr humor.",
+        "translation": "Er hat einen trockenen Humor.",
+        "lang": "de"
+      }
+    ]
   },
   "tørst_adj": {
     "word": "tørst",
@@ -12167,7 +16020,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: tørst – tørstare – tørstast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg er veldig tørst.",
+        "translation": "Ich bin sehr durstig.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Er du tørst?",
+        "translation": "Bist du durstig?",
+        "lang": "de"
+      }
+    ]
   },
   "ubehageleg_adj": {
     "word": "ubehageleg",
@@ -12234,7 +16099,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:ledig_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: ugift – ugiftare – ugiftast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Han er ugift.",
+        "translation": "Er ist ledig.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg er fortsatt ugift.",
+        "translation": "Ich bin noch ledig.",
+        "lang": "de"
+      }
+    ]
   },
   "uhyggeleg_adj": {
     "word": "uhyggeleg",
@@ -12270,7 +16147,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: uhyggeleg – meir uhyggeleg – mest uhyggeleg."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er uhyggelig.",
+        "translation": "Das ist unheimlich.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Han er utrolig god.",
+        "translation": "Er ist unheimlich gut.",
+        "lang": "de"
+      }
+    ]
   },
   "uhøfleg_adj": {
     "word": "uhøfleg",
@@ -12376,7 +16265,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: ulovleg – meir ulovleg – mest ulovleg."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er ulovlig.",
+        "translation": "Das ist illegal.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Ulovlige aktiviteter.",
+        "translation": "Illegale Aktivitäten.",
+        "lang": "de"
+      }
+    ]
   },
   "umogleg_adj": {
     "word": "umogleg",
@@ -12446,7 +16347,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: underleg – meir underleg – mest underleg."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er underlig.",
+        "translation": "Das ist seltsam.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Han oppfører seg underlig.",
+        "translation": "Er verhält sich seltsam.",
+        "lang": "de"
+      }
+    ]
   },
   "ung_adj": {
     "word": "ung",
@@ -12481,7 +16394,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: ung – yngre – yngst."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Han er fortsatt ung.",
+        "translation": "Er ist noch jung.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Søsteren min er yngre enn meg.",
+        "translation": "Meine Schwester ist jünger als ich.",
+        "lang": "de"
+      }
+    ]
   },
   "unyttig_adj": {
     "word": "unyttig",
@@ -12548,7 +16473,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:staedtisch_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: urban – urbanare – urbanast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er et urbant områdei.",
+        "translation": "Das ist ein städtisches Gebiet.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Urban trafikk.",
+        "translation": "Städtischer Verkehr.",
+        "lang": "de"
+      }
+    ]
   },
   "usympatisk_adj": {
     "word": "usympatisk",
@@ -12615,7 +16552,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: utelukkande – meir utelukkande – mest utelukkande."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er utelukkende for medlemmer.",
+        "translation": "Das ist ausschließlich für Mitglieder.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Han spiser utelukkende vegetarisk.",
+        "translation": "Er isst ausschließlich vegetarisch.",
+        "lang": "de"
+      }
+    ]
   },
   "utenlandsk_adj": {
     "word": "utenlandsk",
@@ -12647,7 +16596,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:auslaendisch_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: utenlandsk – meir utenlandsk – mest utenlandsk."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Han har en utenlandsk kjæreste.",
+        "translation": "Er hat eine ausländische Freundin.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Utenlandske produkter er ofte billigere.",
+        "translation": "Ausländische Produkte sind oft billiger.",
+        "lang": "de"
+      }
+    ]
   },
   "utmattet_adj": {
     "word": "utmattet",
@@ -12682,7 +16643,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: utmattet – meir utmattet – mest utmattet."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg er utmattet.",
+        "translation": "Ich bin erschöpft.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Hun ser utmattet ut.",
+        "translation": "Sie sieht erschöpft aus.",
+        "lang": "de"
+      }
+    ]
   },
   "utroleg_adj": {
     "word": "utroleg",
@@ -12717,7 +16690,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: utroleg – meir utroleg – mest utroleg."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er utrolig!",
+        "translation": "Das ist unglaublich!",
+        "lang": "de"
+      },
+      {
+        "sentence": "Hun er utrolig talentfull.",
+        "translation": "Sie ist unglaublich talentiert.",
+        "lang": "de"
+      }
+    ]
   },
   "utålmodig_adj": {
     "word": "utålmodig",
@@ -12755,7 +16740,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: utålmodig – meir utålmodig – mest utålmodig."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Ikkje vær utålmodig!",
+        "translation": "Sei nicht ungeduldig!",
+        "lang": "de"
+      },
+      {
+        "sentence": "Han er utålmodig.",
+        "translation": "Er ist ungeduldig.",
+        "lang": "de"
+      }
+    ]
   },
   "uvanleg_adj": {
     "word": "uvanleg",
@@ -12790,7 +16787,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: uvanleg – meir uvanleg – mest uvanleg."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er uvanlig.",
+        "translation": "Das ist ungewöhnlich.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Et uvanlig navn.",
+        "translation": "Ein ungewöhnlicher Name.",
+        "lang": "de"
+      }
+    ]
   },
   "vanleg_adj": {
     "word": "vanleg",
@@ -12825,7 +16834,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: vanleg – meir vanleg – mest vanleg."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er helt vanlig.",
+        "translation": "Das ist ganz gewöhnlich.",
+        "lang": "de"
+      },
+      {
+        "sentence": "En vanlig dag.",
+        "translation": "Ein gewöhnlicher Tag.",
+        "lang": "de"
+      }
+    ]
   },
   "vanskeleg_adj": {
     "word": "vanskeleg",
@@ -12860,7 +16881,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: vanskeleg – meir vanskeleg – mest vanskeleg."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Oppgaven er vanskelig.",
+        "translation": "Die Aufgabe ist schwierig.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Det er veldig vanskelig.",
+        "translation": "Das ist sehr schwierig.",
+        "lang": "de"
+      }
+    ]
   },
   "varm_adj": {
     "word": "varm",
@@ -12892,7 +16925,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:heiss_adj, de-nb/adjectivebank.json:warm_adj, es-nb/adjectivebank.json:caliente_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: varm – varmare – varmast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er veldig varmt i dag.",
+        "translation": "Es ist heiß heute.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Teen er varm.",
+        "translation": "Der Tee ist heiß.",
+        "lang": "de"
+      }
+    ]
   },
   "vegetarisk_adj": {
     "word": "vegetarisk",
@@ -12924,7 +16969,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:vegetarisch_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: vegetarisk – meir vegetarisk – mest vegetarisk."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg spiser vegetarisk.",
+        "translation": "Ich esse vegetarisch.",
+        "lang": "de"
+      },
+      {
+        "sentence": "En vegetarisk rett.",
+        "translation": "Ein vegetarisches Gericht.",
+        "lang": "de"
+      }
+    ]
   },
   "vellykket_adj": {
     "word": "vellykket",
@@ -12959,7 +17016,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: vellykket – meir vellykket – mest vellykket."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Prosjektet var vellykket.",
+        "translation": "Das Projekt war erfolgreich.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Hun er en vellykket gründer.",
+        "translation": "Sie ist eine erfolgreiche Unternehmerin.",
+        "lang": "de"
+      }
+    ]
   },
   "vennleg_adj": {
     "word": "vennleg",
@@ -12995,7 +17064,24 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: vennleg – meir vennleg – mest vennleg."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Læreren er vennlig.",
+        "translation": "Der Lehrer ist freundlich.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Vær vennlig!",
+        "translation": "Sei bitte freundlich!",
+        "lang": "de"
+      },
+      {
+        "sentence": "Han har et vennlig smil.",
+        "translation": "Er hat ein freundliches Lächeln.",
+        "lang": "de"
+      }
+    ]
   },
   "verdifull_adj": {
     "word": "verdifull",
@@ -13030,7 +17116,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: verdifull – meir verdifull – mest verdifull."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er verdifullt.",
+        "translation": "Das ist wertvoll.",
+        "lang": "de"
+      },
+      {
+        "sentence": "En verdifull erfaring.",
+        "translation": "Eine wertvolle Erfahrung.",
+        "lang": "de"
+      }
+    ]
   },
   "verdiløs_adj": {
     "word": "verdiløs",
@@ -13068,7 +17166,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: verdiløs – meir verdiløs – mest verdiløs."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er verdiløst.",
+        "translation": "Das ist wertlos.",
+        "lang": "de"
+      },
+      {
+        "sentence": "En verdiløs gjenstand.",
+        "translation": "Ein wertloser Gegenstand.",
+        "lang": "de"
+      }
+    ]
   },
   "verdt_adj": {
     "word": "verdt",
@@ -13103,7 +17213,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: verdt – verdtare – verdtast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er verdt det.",
+        "translation": "Das ist es wert.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Det er et forsøk verdt.",
+        "translation": "Es ist einen Versuch wert.",
+        "lang": "de"
+      }
+    ]
   },
   "verkeleg_adj": {
     "word": "verkeleg",
@@ -13138,7 +17260,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: verkeleg – meir verkeleg – mest verkeleg."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er virkelig sant.",
+        "translation": "Das ist wirklich wahr.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Han er virkelig hyggelig.",
+        "translation": "Er ist wirklich nett.",
+        "lang": "de"
+      }
+    ]
   },
   "vidare_adj": {
     "word": "vidare",
@@ -13170,7 +17304,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:weiter_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: vidare – vidarere – vidarst."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Og videre?",
+        "translation": "Und weiter?",
+        "lang": "de"
+      },
+      {
+        "sentence": "Ingen videre spørsmål.",
+        "translation": "Keine weiteren Fragen.",
+        "lang": "de"
+      }
+    ]
   },
   "viktig_adj": {
     "word": "viktig",
@@ -13202,7 +17348,24 @@
     "_generatedFrom": "de-nb/adjectivebank.json:wichtig_adj, es-nb/adjectivebank.json:importante_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: viktig – viktigare – viktigast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er veldig viktig.",
+        "translation": "Das ist sehr wichtig.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg har et viktig spørsmål.",
+        "translation": "Ich habe eine wichtige Frage.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Familie er viktig for meg.",
+        "translation": "Familie ist wichtig für mich.",
+        "lang": "de"
+      }
+    ]
   },
   "vill_adj": {
     "word": "vill",
@@ -13237,7 +17400,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: vill – villare – villast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Dyret er vilt.",
+        "translation": "Das Tier ist wild.",
+        "lang": "de"
+      },
+      {
+        "sentence": "En vill fest.",
+        "translation": "Eine wilde Party.",
+        "lang": "de"
+      }
+    ]
   },
   "vindfull_adj": {
     "word": "vindfull",
@@ -13307,7 +17482,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: vindfullt – meir vindfullt – mest vindfullt."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er vindfullt ute.",
+        "translation": "Es ist windig draußen.",
+        "lang": "de"
+      },
+      {
+        "sentence": "En vindfullt dag.",
+        "translation": "Ein windiger Tag.",
+        "lang": "de"
+      }
+    ]
   },
   "virtuell_adj": {
     "word": "virtuell",
@@ -13342,7 +17529,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: virtuell – meir virtuell – mest virtuell."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Et virtuelt møte.",
+        "translation": "Ein virtuelles Meeting.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Virtuell virkelighet.",
+        "translation": "Virtuelle Realität.",
+        "lang": "de"
+      }
+    ]
   },
   "våken_adj": {
     "word": "våken",
@@ -13380,7 +17579,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: våken – våkenare – våkenast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg er våken.",
+        "translation": "Ich bin wach.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Hold deg våken!",
+        "translation": "Bleib wach!",
+        "lang": "de"
+      }
+    ]
   },
   "våt_adj": {
     "word": "våt",
@@ -13418,7 +17629,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: våt – våtare – våtast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Jakken min er våt.",
+        "translation": "Meine Jacke ist nass.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Gulvet er vått.",
+        "translation": "Der Boden ist nass.",
+        "lang": "de"
+      }
+    ]
   },
   "yrkesaktiv_adj": {
     "word": "yrkesaktiv",
@@ -13450,7 +17673,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:berufstaetig_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: yrkesaktiv – meir yrkesaktiv – mest yrkesaktiv."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Hun er yrkesaktiv.",
+        "translation": "Sie ist berufstätig.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Yrkesaktive mødre har det vanskelig.",
+        "translation": "Berufstätige Mütter haben es schwer.",
+        "lang": "de"
+      }
+    ]
   },
   "yrkesmessig_adj": {
     "word": "yrkesmessig",
@@ -13485,7 +17720,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: yrkesmessig – meir yrkesmessig – mest yrkesmessig."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er en yrkesmessig reise.",
+        "translation": "Das ist eine berufliche Reise.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Yrkesmessig har eg det bra.",
+        "translation": "Beruflich geht es mir gut.",
+        "lang": "de"
+      }
+    ]
   },
   "ytre_adj": {
     "word": "ytre",
@@ -13517,7 +17764,19 @@
     "_generatedFrom": "de-nb/adjectivebank.json:aeusserlich_adj",
     "explanation": {
       "_description": "Adjektiv. Gradbøying: ytre – ytrere – ytrst."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er berre ytre.",
+        "translation": "Das ist nur äußerlich.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Dei ytre kjennetegnene er viktige.",
+        "translation": "Die äußerlichen Merkmale sind wichtig.",
+        "lang": "de"
+      }
+    ]
   },
   "åleine_adj": {
     "word": "åleine",
@@ -13631,7 +17890,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: åpenbart – meir åpenbart – mest åpenbart."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er åpenbart feil.",
+        "translation": "Das ist offenbar falsch.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Åpenbart har han glemt det.",
+        "translation": "Offenbar hat er vergessen.",
+        "lang": "de"
+      }
+    ]
   },
   "ærleg_adj": {
     "word": "ærleg",
@@ -13670,7 +17941,19 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: ærleg – meir ærleg – mest ærleg."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg er ærlig.",
+        "translation": "Ich bin ehrlich.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Ærlig talt vet eg det ikkje.",
+        "translation": "Ehrlich gesagt, ich weiß es nicht.",
+        "lang": "de"
+      }
+    ]
   },
   "ødelagt_adj": {
     "word": "ødelagt",
@@ -13708,6 +17991,18 @@
     ],
     "explanation": {
       "_description": "Adjektiv. Gradbøying: ødelagt – ødelagtare – ødelagtast."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Mobiltelefonen er ødelagt.",
+        "translation": "Das Handy ist kaputt.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg er ferdig/utslitt!",
+        "translation": "Ich bin kaputt!",
+        "lang": "de"
+      }
+    ]
   }
 }

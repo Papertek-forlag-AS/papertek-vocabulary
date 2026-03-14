@@ -863,7 +863,24 @@
     ],
     "explanation": {
       "_description": "Nøytralt substantiv (eit arbeid). Fleirtal: arbeid."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg går på jobb.",
+        "translation": "Ich gehe zur Arbeit.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Arbeidet er ferdig.",
+        "translation": "Die Arbeit ist fertig.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg har mykje arbeid.",
+        "translation": "Ich habe viel Arbeit.",
+        "lang": "de"
+      }
+    ]
   },
   "arbeid_pågår_noun": {
     "word": "arbeid pågår",
@@ -1157,7 +1174,24 @@
     "_generatedFrom": "de-nb/nounbank.json:auge_noun, es-nb/nounbank.json:ojo_noun",
     "explanation": {
       "_description": "Nøytralt substantiv (eit auge). Fleirtal: auge."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg har blå øyne.",
+        "translation": "Ich habe blaue Augen.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Øyet gjør vondt.",
+        "translation": "Das Auge tut weh.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Hun har fine øyne.",
+        "translation": "Sie hat schöne Augen.",
+        "lang": "de"
+      }
+    ]
   },
   "augeblink_noun": {
     "word": "augeblink",
@@ -1923,7 +1957,24 @@
     ],
     "explanation": {
       "_description": "Maskulint substantiv (ein ball). Fleirtal: ballar."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Kast ballen til meg!",
+        "translation": "Wirf mir den Ball!",
+        "lang": "de"
+      },
+      {
+        "sentence": "Ballen er rund.",
+        "translation": "Der Ball ist rund.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Vi leker med ballen.",
+        "translation": "Wir spielen mit dem Ball.",
+        "lang": "de"
+      }
+    ]
   },
   "ballett_noun": {
     "word": "ballett",
@@ -2097,7 +2148,24 @@
     "_generatedFrom": "de-nb/nounbank.json:kind_noun, es-nb/nounbank.json:nino_noun",
     "explanation": {
       "_description": "Nøytralt substantiv (eit barn). Fleirtal: born."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Barnet leker.",
+        "translation": "Das Kind spielt.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Vi har to barn.",
+        "translation": "Wir haben zwei Kinder.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Barna er på skolen.",
+        "translation": "Die Kinder sind in der Schule.",
+        "lang": "de"
+      }
+    ]
   },
   "barndom_noun": {
     "word": "barndom",
@@ -3022,7 +3090,24 @@
     "_generatedFrom": "de-nb/nounbank.json:auto_noun, es-nb/nounbank.json:coche_noun",
     "explanation": {
       "_description": "Maskulint substantiv (ein bil). Fleirtal: bilar."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Faren min har en bil.",
+        "translation": "Mein Vater hat ein Auto.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Vi kjører med bil.",
+        "translation": "Wir fahren mit dem Auto.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Bilen er rød.",
+        "translation": "Das Auto ist rot.",
+        "lang": "de"
+      }
+    ]
   },
   "bilde_noun": {
     "word": "bilde",
@@ -3342,7 +3427,24 @@
     "_generatedFrom": "de-nb/nounbank.json:buch_noun, es-nb/nounbank.json:libro_noun",
     "explanation": {
       "_description": "Feminint substantiv (ei bok). Fleirtal: bøker."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg leser en bok.",
+        "translation": "Ich lese ein Buch.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Boken er interessant.",
+        "translation": "Das Buch ist interessant.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg kjøper en ny bok.",
+        "translation": "Ich kaufe ein neues Buch.",
+        "lang": "de"
+      }
+    ]
   },
   "bokhandel_noun": {
     "word": "bokhandel",
@@ -3833,7 +3935,24 @@
     "_generatedFrom": "de-nb/nounbank.json:bruder_noun, es-nb/nounbank.json:hermano_noun",
     "explanation": {
       "_description": "Maskulint substantiv (ein bror). Fleirtal: brør."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg har en bror.",
+        "translation": "Ich habe einen Bruder.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Broren min er eldre enn meg.",
+        "translation": "Mein Bruder ist älter als ich.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Leker du med broren din?",
+        "translation": "Spielst du mit deinem Bruder?",
+        "lang": "de"
+      }
+    ]
   },
   "brosjyre_noun": {
     "word": "brosjyre",
@@ -4007,7 +4126,24 @@
     ],
     "explanation": {
       "_description": "Nøytralt substantiv (eit brød). Fleirtal: brød."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg spiser brød til frokost.",
+        "translation": "Ich esse Brot zum Frühstück.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Brødet er ferskt.",
+        "translation": "Das Brot ist frisch.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Vi kjøper brød.",
+        "translation": "Wir kaufen Brot.",
+        "lang": "de"
+      }
+    ]
   },
   "bue_noun": {
     "word": "bue",
@@ -4079,7 +4215,24 @@
     "_generatedFrom": "de-nb/nounbank.json:hose_noun, es-nb/nounbank.json:pantalon_noun",
     "explanation": {
       "_description": "Feminint substantiv (ei bukse). Fleirtal: bukser."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Buksa er blå.",
+        "translation": "Die Hose ist blau.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg kjøper en ny bukse.",
+        "translation": "Ich kaufe eine neue Hose.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Passer buksa?",
+        "translation": "Passt die Hose?",
+        "lang": "de"
+      }
+    ]
   },
   "bur_noun": {
     "word": "bur",
@@ -4125,7 +4278,24 @@
     "_generatedFrom": "de-nb/nounbank.json:geburtstag_noun, es-nb/nounbank.json:cumpleanos_noun",
     "explanation": {
       "_description": "Maskulint substantiv (ein bursdag). Fleirtal: bursdagar."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Når har du bursdag?",
+        "translation": "Wann hast du Geburtstag?",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg har bursdag i juli.",
+        "translation": "Ich habe im Juli Geburtstag.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Gratulerer med dagen!",
+        "translation": "Herzlichen Glückwunsch zum Geburtstag!",
+        "lang": "de"
+      }
+    ]
   },
   "bursdagsbarn_noun": {
     "word": "bursdagsbarn",
@@ -4197,7 +4367,24 @@
     ],
     "explanation": {
       "_description": "Maskulint substantiv (ein buss). Fleirtal: bussar."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg tar bussen.",
+        "translation": "Ich fahre mit dem Bus.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Bussen kommer.",
+        "translation": "Der Bus kommt.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Når går bussen?",
+        "translation": "Wann fährt der Bus?",
+        "lang": "de"
+      }
+    ]
   },
   "bustad_noun": {
     "word": "bustad",
@@ -4272,7 +4459,24 @@
     "_generatedFrom": "de-nb/nounbank.json:stadt_noun, es-nb/nounbank.json:ciudad_noun",
     "explanation": {
       "_description": "Maskulint substantiv (ein by). Fleirtal: byar."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Byen er stor.",
+        "translation": "Die Stadt ist groß.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg bor i byen.",
+        "translation": "Ich wohne in der Stadt.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Vi går til byen.",
+        "translation": "Wir gehen in die Stadt.",
+        "lang": "de"
+      }
+    ]
   },
   "bygg_noun": {
     "word": "bygg",
@@ -4634,7 +4838,24 @@
     "_generatedFrom": "de-nb/nounbank.json:tag_noun, es-nb/nounbank.json:dia_noun",
     "explanation": {
       "_description": "Maskulint substantiv (ein dag). Fleirtal: dagar."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "God dag!",
+        "translation": "Guten Tag!",
+        "lang": "de"
+      },
+      {
+        "sentence": "Korleis var dagen din?",
+        "translation": "Wie war dein Tag?",
+        "lang": "de"
+      },
+      {
+        "sentence": "I dag er det en fin dag.",
+        "translation": "Heute ist ein schöner Tag.",
+        "lang": "de"
+      }
+    ]
   },
   "dagsrytme_noun": {
     "word": "dagsrytme",
@@ -5582,7 +5803,24 @@
     ],
     "explanation": {
       "_description": "Maskulint substantiv (ein drøm). Fleirtal: drømar."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg har en drøm.",
+        "translation": "Ich habe einen Traum.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Det var en fin drøm.",
+        "translation": "Das war ein schöner Traum.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Drømmen min er å reise.",
+        "translation": "Mein Traum ist zu reisen.",
+        "lang": "de"
+      }
+    ]
   },
   "dukke_noun": {
     "word": "dukke",
@@ -5654,7 +5892,24 @@
     "_generatedFrom": "de-nb/nounbank.json:tier_noun",
     "explanation": {
       "_description": "Nøytralt substantiv (eit dyr). Fleirtal: dyr."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg liker dyr.",
+        "translation": "Ich mag Tiere.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Hvilket dyr liker du?",
+        "translation": "Welches Tier magst du?",
+        "lang": "de"
+      },
+      {
+        "sentence": "Dyret er søtt.",
+        "translation": "Das Tier ist süß.",
+        "lang": "de"
+      }
+    ]
   },
   "dyrefr_noun": {
     "word": "dyrefôr",
@@ -5937,7 +6192,24 @@
     ],
     "explanation": {
       "_description": "Nøytralt substantiv (eit egg). Fleirtal: egg."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg spiser et egg til frokost.",
+        "translation": "Ich esse ein Ei zum Frühstück.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Vi trenger egg.",
+        "translation": "Wir brauchen Eier.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Egget er kokt.",
+        "translation": "Das Ei ist gekocht.",
+        "lang": "de"
+      }
+    ]
   },
   "ekort_noun": {
     "word": "e-kort",
@@ -6440,7 +6712,24 @@
     "_generatedFrom": "de-nb/nounbank.json:apfel_noun, es-nb/nounbank.json:manzana_noun",
     "explanation": {
       "_description": "Nøytralt substantiv (eit eple). Fleirtal: eple."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg spiser et eple.",
+        "translation": "Ich esse einen Apfel.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eplet er rødt.",
+        "translation": "Der Apfel ist rot.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Vil du ha et eple?",
+        "translation": "Möchtest du einen Apfel?",
+        "lang": "de"
+      }
+    ]
   },
   "eplejuice_noun": {
     "word": "eplejuice",
@@ -6985,7 +7274,24 @@
     "_generatedFrom": "de-nb/nounbank.json:familie_noun, es-nb/nounbank.json:familia_noun",
     "explanation": {
       "_description": "Maskulint substantiv (ein familie). Fleirtal: familiar."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Familien min er stor.",
+        "translation": "Meine Familie ist groß.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Kvar stor er familien din?",
+        "translation": "Wie groß ist deine Familie?",
+        "lang": "de"
+      },
+      {
+        "sentence": "Vi reiser på ferie med familien.",
+        "translation": "Wir machen Urlaub mit der Familie.",
+        "lang": "de"
+      }
+    ]
   },
   "fan_noun": {
     "word": "fan",
@@ -7031,7 +7337,24 @@
     "_generatedFrom": "de-nb/nounbank.json:vater_noun, es-nb/nounbank.json:padre_noun",
     "explanation": {
       "_description": "Maskulint substantiv (ein far). Fleirtal: fedrar."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Faren min jobber mykje.",
+        "translation": "Mein Vater arbeitet viel.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Kvar er faren din?",
+        "translation": "Wo ist dein Vater?",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg hjelper faren min.",
+        "translation": "Ich helfe meinem Vater.",
+        "lang": "de"
+      }
+    ]
   },
   "fare_noun": {
     "word": "fare",
@@ -7077,7 +7400,24 @@
     "_generatedFrom": "de-nb/nounbank.json:farbe_noun",
     "explanation": {
       "_description": "Feminint substantiv (ei farge). Fleirtal: farger."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Hvilken farge liker du?",
+        "translation": "Welche Farbe magst du?",
+        "lang": "de"
+      },
+      {
+        "sentence": "Favorittfargen min er blå.",
+        "translation": "Meine Lieblingsfarbe ist blau.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Fargen er fin.",
+        "translation": "Die Farbe ist schön.",
+        "lang": "de"
+      }
+    ]
   },
   "favorittdyr_noun": {
     "word": "favorittdyr",
@@ -7371,7 +7711,24 @@
     "_generatedFrom": "de-nb/nounbank.json:ferien_noun, de-nb/nounbank.json:urlaub_noun, es-nb/nounbank.json:vacaciones_noun",
     "explanation": {
       "_description": "Maskulint substantiv (ein ferie). Fleirtal: feriar."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Endelig er det ferie!",
+        "translation": "Endlich sind Ferien!",
+        "lang": "de"
+      },
+      {
+        "sentence": "Kva gjør du i ferien?",
+        "translation": "Was machst du in den Ferien?",
+        "lang": "de"
+      },
+      {
+        "sentence": "Ferien var fantastisk.",
+        "translation": "Die Ferien waren toll.",
+        "lang": "de"
+      }
+    ]
   },
   "fersken_noun": {
     "word": "fersken",
@@ -7535,7 +7892,24 @@
     "_generatedFrom": "de-nb/nounbank.json:film_noun, es-nb/nounbank.json:pelicula_noun",
     "explanation": {
       "_description": "Maskulint substantiv (ein film). Fleirtal: filmar."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Filmen var bra.",
+        "translation": "Der Film war gut.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Vi ser en film.",
+        "translation": "Wir sehen einen Film.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Hvilken film liker du?",
+        "translation": "Welchen Film magst du?",
+        "lang": "de"
+      }
+    ]
   },
   "finger_noun": {
     "word": "finger",
@@ -7653,7 +8027,24 @@
     ],
     "explanation": {
       "_description": "Nøytralt substantiv (eit fjell). Fleirtal: fjell."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Vi går tur i fjellene.",
+        "translation": "Wir wandern in den Bergen.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Fjellet er høyt.",
+        "translation": "Der Berg ist hoch.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg ser fjellene.",
+        "translation": "Ich sehe die Berge.",
+        "lang": "de"
+      }
+    ]
   },
   "fjellkjede_noun": {
     "word": "fjellkjede",
@@ -7950,7 +8341,24 @@
     "_generatedFrom": "de-nb/nounbank.json:flugzeug_noun, es-nb/nounbank.json:avion_noun",
     "explanation": {
       "_description": "Nøytralt substantiv (eit fly). Fleirtal: fly."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Vi flyr med fly.",
+        "translation": "Wir fliegen mit dem Flugzeug.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Flyet tar av.",
+        "translation": "Das Flugzeug startet.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg ser et fly.",
+        "translation": "Ich sehe ein Flugzeug.",
+        "lang": "de"
+      }
+    ]
   },
   "flyplass_noun": {
     "word": "flyplass",
@@ -8268,7 +8676,24 @@
     "_generatedFrom": "de-nb/nounbank.json:eltern_noun",
     "explanation": {
       "_description": "Maskulint substantiv (ein foreldre). Fleirtal: foreldrar."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Foreldrene mine er snille.",
+        "translation": "Meine Eltern sind nett.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg bor hos foreldrene mine.",
+        "translation": "Ich wohne bei meinen Eltern.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Kva gjør foreldrene dine?",
+        "translation": "Was machen deine Eltern?",
+        "lang": "de"
+      }
+    ]
   },
   "forening_noun": {
     "word": "forening",
@@ -9225,7 +9650,24 @@
     ],
     "explanation": {
       "_description": "Maskulint substantiv (ein fotball). Fleirtal: fotballar."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg liker å spille fotball.",
+        "translation": "Ich spiele gern Fußball.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Vi spiller fotball i parken.",
+        "translation": "Wir spielen Fußball im Park.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Fotball er favorittsporten min.",
+        "translation": "Fußball ist mein Lieblingssport.",
+        "lang": "de"
+      }
+    ]
   },
   "fotballspelar_noun": {
     "word": "fotballspelar",
@@ -9751,7 +10193,24 @@
     ],
     "explanation": {
       "_description": "Feminint substantiv (ei fritid). Fleirtal: fritider."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Kva gjør du i fritiden?",
+        "translation": "Was machst du in der Freizeit?",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg har lite fritid.",
+        "translation": "Ich habe wenig Freizeit.",
+        "lang": "de"
+      },
+      {
+        "sentence": "I fritiden spiller eg gitar.",
+        "translation": "In meiner Freizeit spiele ich Gitarre.",
+        "lang": "de"
+      }
+    ]
   },
   "frokost_noun": {
     "word": "frokost",
@@ -9866,7 +10325,24 @@
     "_generatedFrom": "de-nb/nounbank.json:vogel_noun, es-nb/nounbank.json:pajaro_noun",
     "explanation": {
       "_description": "Maskulint substantiv (ein fugl). Fleirtal: fuglar."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Fuglen synger.",
+        "translation": "Der Vogel singt.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg ser en fugl.",
+        "translation": "Ich sehe einen Vogel.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Fuglene flyr.",
+        "translation": "Die Vögel fliegen.",
+        "lang": "de"
+      }
+    ]
   },
   "fyraften_noun": {
     "word": "fyraften",
@@ -10315,7 +10791,24 @@
     "_generatedFrom": "de-nb/nounbank.json:geschenk_noun, es-nb/nounbank.json:regalo_noun",
     "explanation": {
       "_description": "Feminint substantiv (ei gave). Fleirtal: gaver."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg har en gave til deg.",
+        "translation": "Ich habe ein Geschenk für dich.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Kva slags gave ønsker du?",
+        "translation": "Was für ein Geschenk möchtest du?",
+        "lang": "de"
+      },
+      {
+        "sentence": "Gaven er fantastisk!",
+        "translation": "Das Geschenk ist toll!",
+        "lang": "de"
+      }
+    ]
   },
   "gebyr_noun": {
     "word": "gebyr",
@@ -10476,7 +10969,24 @@
     "_generatedFrom": "de-nb/nounbank.json:gitarre_noun, es-nb/nounbank.json:guitarra_noun",
     "explanation": {
       "_description": "Maskulint substantiv (ein gitar). Fleirtal: gitarar."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg spiller gitar.",
+        "translation": "Ich spiele Gitarre.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Gitaren min er ny.",
+        "translation": "Meine Gitarre ist neu.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Kan du spille gitar?",
+        "translation": "Kannst du Gitarre spielen?",
+        "lang": "de"
+      }
+    ]
   },
   "gjeld_noun": {
     "word": "gjeld",
@@ -11381,7 +11891,24 @@
     "_generatedFrom": "de-nb/nounbank.json:garten_noun, es-nb/nounbank.json:jardin_noun",
     "explanation": {
       "_description": "Maskulint substantiv (ein hage). Fleirtal: hagar."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Vi leker i hagen.",
+        "translation": "Wir spielen im Garten.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Hagen er stor.",
+        "translation": "Der Garten ist groß.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg jobber i hagen.",
+        "translation": "Ich arbeite im Garten.",
+        "lang": "de"
+      }
+    ]
   },
   "hai_noun": {
     "word": "hai",
@@ -11980,7 +12507,24 @@
     "_generatedFrom": "de-nb/nounbank.json:wochenende_noun, es-nb/nounbank.json:fin_de_semana_noun",
     "explanation": {
       "_description": "Feminint substantiv (ei helg). Fleirtal: helger."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Kva gjør du i helgen?",
+        "translation": "Was machst du am Wochenende?",
+        "lang": "de"
+      },
+      {
+        "sentence": "Helgen var fantastisk.",
+        "translation": "Das Wochenende war toll.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg gleder meg til helgen.",
+        "translation": "Ich freue mich auf das Wochenende.",
+        "lang": "de"
+      }
+    ]
   },
   "helligdag_noun": {
     "word": "helligdag",
@@ -12664,7 +13208,24 @@
     ],
     "explanation": {
       "_description": "Maskulint substantiv (ein hobby). Fleirtal: hobbyar."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Kva er hobbyen din?",
+        "translation": "Was ist dein Hobby?",
+        "lang": "de"
+      },
+      {
+        "sentence": "Hobbyen min er fotball.",
+        "translation": "Mein Hobby ist Fußball.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg har mange hobbyer.",
+        "translation": "Ich habe viele Hobbys.",
+        "lang": "de"
+      }
+    ]
   },
   "hode_noun": {
     "word": "hode",
@@ -12687,7 +13248,24 @@
     "_generatedFrom": "de-nb/nounbank.json:kopf_noun, es-nb/nounbank.json:cabeza_noun",
     "explanation": {
       "_description": "Nøytralt substantiv (eit hode). Fleirtal: hode."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Hodet mitt gjør vondt.",
+        "translation": "Mein Kopf tut weh.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Han nikker med hodet.",
+        "translation": "Er nickt mit dem Kopf.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg har hodepine.",
+        "translation": "Ich habe Kopfschmerzen.",
+        "lang": "de"
+      }
+    ]
   },
   "holdeplass_noun": {
     "word": "holdeplass",
@@ -12942,7 +13520,24 @@
     ],
     "explanation": {
       "_description": "Maskulint substantiv (ein hund). Fleirtal: hundar."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg har en hund.",
+        "translation": "Ich habe einen Hund.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Hunden er søt.",
+        "translation": "Der Hund ist süß.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg går tur med hunden.",
+        "translation": "Ich gehe mit dem Hund spazieren.",
+        "lang": "de"
+      }
+    ]
   },
   "hus_noun": {
     "word": "hus",
@@ -12965,7 +13560,24 @@
     "_generatedFrom": "de-nb/nounbank.json:haus_noun, es-nb/nounbank.json:casa_noun",
     "explanation": {
       "_description": "Nøytralt substantiv (eit hus). Fleirtal: hus."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg bor i et hus.",
+        "translation": "Ich wohne in einem Haus.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Huset er stort.",
+        "translation": "Das Haus ist groß.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Vi går ut av huset.",
+        "translation": "Wir gehen aus dem Haus.",
+        "lang": "de"
+      }
+    ]
   },
   "husholdning_noun": {
     "word": "husholdning",
@@ -13205,7 +13817,24 @@
     ],
     "explanation": {
       "_description": "Nøytralt substantiv (eit hår). Fleirtal: hår."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Hun har langt hår.",
+        "translation": "Sie hat lange Haare.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Håret mitt er brunt.",
+        "translation": "Mein Haar ist braun.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg vasker håret.",
+        "translation": "Ich wasche mir die Haare.",
+        "lang": "de"
+      }
+    ]
   },
   "høne_noun": {
     "word": "høne",
@@ -13263,7 +13892,24 @@
     ],
     "explanation": {
       "_description": "Maskulint substantiv (ein høst). Fleirtal: høstar."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Om høsten faller bladene.",
+        "translation": "Im Herbst fallen die Blätter.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Høsten er fargerik.",
+        "translation": "Der Herbst ist bunt.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg liker høsten.",
+        "translation": "Ich mag den Herbst.",
+        "lang": "de"
+      }
+    ]
   },
   "høyde_noun": {
     "word": "høyde",
@@ -13404,7 +14050,24 @@
     "_generatedFrom": "de-nb/nounbank.json:idee_noun, es-nb/nounbank.json:idea_noun",
     "explanation": {
       "_description": "Maskulint substantiv (ein idé). Fleirtal: idéar."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er en god idé!",
+        "translation": "Das ist eine gute Idee!",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg har en idé.",
+        "translation": "Ich habe eine Idee.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Har du en idé?",
+        "translation": "Hast du eine Idee?",
+        "lang": "de"
+      }
+    ]
   },
   "idrettsgren_noun": {
     "word": "idrettsgren",
@@ -14134,7 +14797,24 @@
     ],
     "explanation": {
       "_description": "Maskulint substantiv (ein innsjø). Fleirtal: innsjøar."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Vi svømmer i innsjøen.",
+        "translation": "Wir schwimmen im See.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Innsjøen er kald.",
+        "translation": "Der See ist kalt.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg bor ved innsjøen.",
+        "translation": "Ich wohne am See.",
+        "lang": "de"
+      }
+    ]
   },
   "innskudd_noun": {
     "word": "innskudd",
@@ -14560,7 +15240,24 @@
     ],
     "explanation": {
       "_description": "Feminint substantiv (ei jakke). Fleirtal: jakker."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg tar på meg jakka.",
+        "translation": "Ich ziehe meine Jacke an.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Jakka er varm.",
+        "translation": "Die Jacke ist warm.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Kvar er jakka mi?",
+        "translation": "Wo ist meine Jacke?",
+        "lang": "de"
+      }
+    ]
   },
   "januar_noun": {
     "word": "januar",
@@ -15121,7 +15818,24 @@
     ],
     "explanation": {
       "_description": "Maskulint substantiv (ein kaffe). Fleirtal: kaffar."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg liker å drikke kaffe.",
+        "translation": "Ich trinke gern Kaffee.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Vil Dei ha en kaffe?",
+        "translation": "Möchten Sie einen Kaffee?",
+        "lang": "de"
+      },
+      {
+        "sentence": "Kaffen er varm.",
+        "translation": "Der Kaffee ist heiß.",
+        "lang": "de"
+      }
+    ]
   },
   "kaffehus_noun": {
     "word": "kaffehus",
@@ -15193,7 +15907,24 @@
     "_generatedFrom": "de-nb/nounbank.json:kuchen_noun, de-nb/nounbank.json:torte_noun, es-nb/nounbank.json:tarta_noun",
     "explanation": {
       "_description": "Feminint substantiv (ei kake). Fleirtal: kaker."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Kaken er deilig.",
+        "translation": "Der Kuchen ist lecker.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg baker en kake.",
+        "translation": "Ich backe einen Kuchen.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Vil du ha et stykke kake?",
+        "translation": "Möchtest du ein Stück Kuchen?",
+        "lang": "de"
+      }
+    ]
   },
   "kalender_noun": {
     "word": "kalender",
@@ -15651,7 +16382,24 @@
     ],
     "explanation": {
       "_description": "Maskulint substantiv (ein katt). Fleirtal: kattar."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Katten sover.",
+        "translation": "Die Katze schläft.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg klapper katten.",
+        "translation": "Ich streichle die Katze.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Katten vår heter Mia.",
+        "translation": "Unsere Katze heißt Mia.",
+        "lang": "de"
+      }
+    ]
   },
   "kelner_noun": {
     "word": "kelner",
@@ -15697,7 +16445,24 @@
     "_generatedFrom": "de-nb/nounbank.json:kino_noun, es-nb/nounbank.json:cine_noun",
     "explanation": {
       "_description": "Maskulint substantiv (ein kino). Fleirtal: kinoar."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Vi går på kino.",
+        "translation": "Wir gehen ins Kino.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Kva vises på kinoen?",
+        "translation": "Was läuft im Kino?",
+        "lang": "de"
+      },
+      {
+        "sentence": "Kinoen er rundt hjørnet.",
+        "translation": "Das Kino ist um die Ecke.",
+        "lang": "de"
+      }
+    ]
   },
   "kiosk_noun": {
     "word": "kiosk",
@@ -15993,7 +16758,24 @@
     ],
     "explanation": {
       "_description": "Nøytralt substantiv (eit kjæledyr). Fleirtal: kjæledyr."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Har du et kjæledyr?",
+        "translation": "Hast du ein Haustier?",
+        "lang": "de"
+      },
+      {
+        "sentence": "Kjæledyret mitt er en hund.",
+        "translation": "Mein Haustier ist ein Hund.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg elsker kjæledyret mitt.",
+        "translation": "Ich liebe mein Haustier.",
+        "lang": "de"
+      }
+    ]
   },
   "kjæledyret_noun": {
     "word": "kjæledyret",
@@ -16395,7 +17177,24 @@
     ],
     "explanation": {
       "_description": "Feminint substantiv (ei klasse). Fleirtal: klasser."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg går i 10. klasse.",
+        "translation": "Ich bin in der 10. Klasse.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Klassen min har 25 elever.",
+        "translation": "Meine Klasse hat 25 Schüler.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Klassen er veldig hyggelig.",
+        "translation": "Die Klasse ist sehr nett.",
+        "lang": "de"
+      }
+    ]
   },
   "klassekamerat_noun": {
     "word": "klassekamerat",
@@ -17121,7 +17920,24 @@
     "_generatedFrom": "de-nb/nounbank.json:konzert_noun",
     "explanation": {
       "_description": "Maskulint substantiv (ein konsert). Fleirtal: konsertar."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Vi går på konsert.",
+        "translation": "Wir gehen auf ein Konzert.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Konserten var fantastisk.",
+        "translation": "Das Konzert war toll.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg kjøper billetter til en konsert.",
+        "translation": "Ich kaufe Tickets für ein Konzert.",
+        "lang": "de"
+      }
+    ]
   },
   "konsulat_noun": {
     "word": "konsulat",
@@ -18310,7 +19126,24 @@
     ],
     "explanation": {
       "_description": "Maskulint substantiv (ein kveld). Fleirtal: kveldar."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "God kveld!",
+        "translation": "Guten Abend!",
+        "lang": "de"
+      },
+      {
+        "sentence": "Om kvelden ser eg på TV.",
+        "translation": "Am Abend sehe ich fern.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Kvelden var koselig.",
+        "translation": "Der Abend war gemütlich.",
+        "lang": "de"
+      }
+    ]
   },
   "kveldsmat_noun": {
     "word": "kveldsmat",
@@ -19967,7 +20800,24 @@
     "_generatedFrom": "de-nb/nounbank.json:hausaufgabe_noun",
     "explanation": {
       "_description": "Feminint substantiv (ei lekse). Fleirtal: lekser."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg gjør leksene mine.",
+        "translation": "Ich mache meine Hausaufgaben.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Har du gjort leksene?",
+        "translation": "Hast du die Hausaufgaben gemacht?",
+        "lang": "de"
+      },
+      {
+        "sentence": "Leksa er vanskelig.",
+        "translation": "Die Hausaufgabe ist schwer.",
+        "lang": "de"
+      }
+    ]
   },
   "lekser_noun": {
     "word": "lekser",
@@ -20305,7 +21155,24 @@
     "_generatedFrom": "de-nb/nounbank.json:leben_noun, es-nb/nounbank.json:vida_noun",
     "explanation": {
       "_description": "Nøytralt substantiv (eit liv). Fleirtal: liv."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Livet er fint.",
+        "translation": "Das Leben ist schön.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Korleis er livet ditt?",
+        "translation": "Wie ist dein Leben?",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg lever et godt liv.",
+        "translation": "Ich lebe ein gutes Leben.",
+        "lang": "de"
+      }
+    ]
   },
   "livs_noun": {
     "word": "livs-",
@@ -20756,7 +21623,24 @@
     ],
     "explanation": {
       "_description": "Maskulint substantiv (ein lærar). Fleirtal: lærarar."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Læreren forklarer grammatikken.",
+        "translation": "Der Lehrer erklärt die Grammatik.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Læreren vår er hyggelig.",
+        "translation": "Unser Lehrer ist nett.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg spør læreren.",
+        "translation": "Ich frage den Lehrer.",
+        "lang": "de"
+      }
+    ]
   },
   "lære_noun": {
     "word": "lære",
@@ -21413,7 +22297,24 @@
     "_generatedFrom": "de-nb/nounbank.json:essen_noun, es-nb/nounbank.json:comida_noun",
     "explanation": {
       "_description": "Maskulint substantiv (ein mat). Fleirtal: matar."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Maten er deilig.",
+        "translation": "Das Essen ist lecker.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Vi har nok mat.",
+        "translation": "Wir haben genug Essen.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Maten er klar!",
+        "translation": "Das Essen ist fertig!",
+        "lang": "de"
+      }
+    ]
   },
   "matematikk_noun": {
     "word": "matematikk",
@@ -21820,7 +22721,24 @@
     "_generatedFrom": "de-nb/nounbank.json:milch_noun, es-nb/nounbank.json:leche_noun",
     "explanation": {
       "_description": "Feminint substantiv (ei melk). Fleirtal: melker."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg liker å drikke melk.",
+        "translation": "Ich trinke gern Milch.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Vi trenger melk.",
+        "translation": "Wir brauchen Milch.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Melken er i kjøleskapet.",
+        "translation": "Die Milch ist im Kühlschrank.",
+        "lang": "de"
+      }
+    ]
   },
   "mengde_noun": {
     "word": "mengde",
@@ -22594,7 +23512,24 @@
     "_generatedFrom": "de-nb/nounbank.json:mutter_noun, es-nb/nounbank.json:madre_noun",
     "explanation": {
       "_description": "Feminint substantiv (ei mor). Fleirtal: mødrer."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Moren min lager god mat.",
+        "translation": "Meine Mutter kocht gut.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg ringer moren min.",
+        "translation": "Ich rufe meine Mutter an.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Moren min heter Anna.",
+        "translation": "Meine Mutter heißt Anna.",
+        "lang": "de"
+      }
+    ]
   },
   "morgon_noun": {
     "word": "morgon",
@@ -22617,7 +23552,24 @@
     "_generatedFrom": "de-nb/nounbank.json:morgen_noun, es-nb/nounbank.json:manana_tiempo_noun",
     "explanation": {
       "_description": "Maskulint substantiv (ein morgon). Fleirtal: morgonar."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "God morgen!",
+        "translation": "Guten Morgen!",
+        "lang": "de"
+      },
+      {
+        "sentence": "Om morgenen drikker eg kaffe.",
+        "translation": "Am Morgen trinke ich Kaffee.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Morgenen var fin.",
+        "translation": "Der Morgen war schön.",
+        "lang": "de"
+      }
+    ]
   },
   "morgonfugl_noun": {
     "word": "morgonfugl",
@@ -22686,7 +23638,24 @@
     "_generatedFrom": "de-nb/nounbank.json:spass_noun",
     "explanation": {
       "_description": "Feminint substantiv (ei moro). Fleirtal: moroer."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det er gøy!",
+        "translation": "Das macht Spaß!",
+        "lang": "de"
+      },
+      {
+        "sentence": "Vi har det veldig gøy.",
+        "translation": "Wir haben viel Spaß.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Ha det gøy!",
+        "translation": "Viel Spaß!",
+        "lang": "de"
+      }
+    ]
   },
   "morsmål_noun": {
     "word": "morsmål",
@@ -23155,7 +24124,24 @@
     ],
     "explanation": {
       "_description": "Maskulint substantiv (ein musikk). Fleirtal: musikkar."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg liker å høre på musikk.",
+        "translation": "Ich höre gern Musik.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Hvilken musikk liker du?",
+        "translation": "Welche Musik magst du?",
+        "lang": "de"
+      },
+      {
+        "sentence": "Musikken er høy.",
+        "translation": "Die Musik ist laut.",
+        "lang": "de"
+      }
+    ]
   },
   "musikkundervisning_noun": {
     "word": "musikkundervisning",
@@ -23663,7 +24649,24 @@
     ],
     "explanation": {
       "_description": "Feminint substantiv (ei natt). Fleirtal: netter."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "God natt!",
+        "translation": "Gute Nacht!",
+        "lang": "de"
+      },
+      {
+        "sentence": "Om natten sover eg.",
+        "translation": "In der Nacht schlafe ich.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Natten var lang.",
+        "translation": "Die Nacht war lang.",
+        "lang": "de"
+      }
+    ]
   },
   "natur_noun": {
     "word": "natur",
@@ -23686,7 +24689,24 @@
     "_generatedFrom": "de-nb/nounbank.json:natur_noun",
     "explanation": {
       "_description": "Maskulint substantiv (ein natur). Fleirtal: naturar."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Naturen er vakker.",
+        "translation": "Die Natur ist schön.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg elsker naturen.",
+        "translation": "Ich liebe die Natur.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Vi er i naturen.",
+        "translation": "Wir sind in der Natur.",
+        "lang": "de"
+      }
+    ]
   },
   "naturfag_noun": {
     "word": "naturfag",
@@ -25171,7 +26191,24 @@
     "_generatedFrom": "de-nb/nounbank.json:kaese_noun, es-nb/nounbank.json:queso_noun",
     "explanation": {
       "_description": "Maskulint substantiv (ein ost). Fleirtal: ostar."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg liker å spise ost.",
+        "translation": "Ich esse gern Käse.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Osten er god.",
+        "translation": "Der Käse ist lecker.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Vi kjøper ost.",
+        "translation": "Wir kaufen Käse.",
+        "lang": "de"
+      }
+    ]
   },
   "overbevisning_noun": {
     "word": "overbevisning",
@@ -25543,7 +26580,24 @@
     "_generatedFrom": "de-nb/nounbank.json:park_noun, es-nb/nounbank.json:parque_noun",
     "explanation": {
       "_description": "Maskulint substantiv (ein park). Fleirtal: parkar."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Vi går til parken.",
+        "translation": "Wir gehen in den Park.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Parken er fin.",
+        "translation": "Der Park ist schön.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg jogger i parken.",
+        "translation": "Ich jogge im Park.",
+        "lang": "de"
+      }
+    ]
   },
   "partner_noun": {
     "word": "partner",
@@ -26026,7 +27080,24 @@
     "_generatedFrom": "de-nb/nounbank.json:klavier_noun, es-nb/nounbank.json:piano_noun",
     "explanation": {
       "_description": "Nøytralt substantiv (eit piano). Fleirtal: piano."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg spiller piano.",
+        "translation": "Ich spiele Klavier.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Pianoet er stort.",
+        "translation": "Das Klavier ist groß.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Hun øver piano hver dag.",
+        "translation": "Sie übt jeden Tag Klavier.",
+        "lang": "de"
+      }
+    ]
   },
   "piknik_noun": {
     "word": "piknik",
@@ -26121,7 +27192,24 @@
     "_generatedFrom": "de-nb/nounbank.json:pizza_noun",
     "explanation": {
       "_description": "Maskulint substantiv (ein pizza). Fleirtal: pizzaar."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg liker å spise pizza.",
+        "translation": "Ich esse gern Pizza.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Vi bestiller en pizza.",
+        "translation": "Wir bestellen eine Pizza.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Pizzaen er deilig.",
+        "translation": "Die Pizza ist lecker.",
+        "lang": "de"
+      }
+    ]
   },
   "plakat_noun": {
     "word": "plakat",
@@ -26918,7 +28006,24 @@
     "_generatedFrom": "de-nb/nounbank.json:problem_noun, es-nb/nounbank.json:problema_noun",
     "explanation": {
       "_description": "Nøytralt substantiv (eit problem). Fleirtal: problem."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg har et problem.",
+        "translation": "Ich habe ein Problem.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Ikkje noko problem!",
+        "translation": "Kein Problem!",
+        "lang": "de"
+      },
+      {
+        "sentence": "Kva er problemet?",
+        "translation": "Was ist das Problem?",
+        "lang": "de"
+      }
+    ]
   },
   "produksjon_noun": {
     "word": "produksjon",
@@ -27805,7 +28910,24 @@
     "_generatedFrom": "de-nb/nounbank.json:regen_noun, es-nb/nounbank.json:lluvia_noun",
     "explanation": {
       "_description": "Nøytralt substantiv (eit regn). Fleirtal: regn."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det blir regn.",
+        "translation": "Es gibt Regen.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg liker ikkje regn.",
+        "translation": "Ich mag keinen Regen.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Regnet stopper.",
+        "translation": "Der Regen hört auf.",
+        "lang": "de"
+      }
+    ]
   },
   "regning_noun": {
     "word": "regning",
@@ -29919,7 +31041,24 @@
     ],
     "explanation": {
       "_description": "Feminint substantiv (ei seng). Fleirtal: senger."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg legger meg.",
+        "translation": "Ich gehe ins Bett.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg blir i sengen.",
+        "translation": "Ich bleibe im Bett.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Sengen er behagelig.",
+        "translation": "Das Bett ist bequem.",
+        "lang": "de"
+      }
+    ]
   },
   "senter_noun": {
     "word": "senter",
@@ -30519,7 +31658,24 @@
     "_generatedFrom": "de-nb/nounbank.json:schokolade_noun, es-nb/nounbank.json:chocolate_noun",
     "explanation": {
       "_description": "Maskulint substantiv (ein sjokolade). Fleirtal: sjokoladar."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg liker å spise sjokolade.",
+        "translation": "Ich esse gern Schokolade.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Sjokoladen er søt.",
+        "translation": "Die Schokolade ist süß.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Vil du ha sjokolade?",
+        "translation": "Möchtest du Schokolade?",
+        "lang": "de"
+      }
+    ]
   },
   "sjokoladeegg_noun": {
     "word": "sjokoladeegg",
@@ -31483,7 +32639,24 @@
     "_generatedFrom": "de-nb/nounbank.json:schule_noun, es-nb/nounbank.json:escuela_noun",
     "explanation": {
       "_description": "Maskulint substantiv (ein skule). Fleirtal: skular."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg går på skolen.",
+        "translation": "Ich gehe in die Schule.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Skolen begynner klokken 8.",
+        "translation": "Die Schule beginnt um 8 Uhr.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Korleis er skolen din?",
+        "translation": "Wie ist deine Schule?",
+        "lang": "de"
+      }
+    ]
   },
   "skulesekk_noun": {
     "word": "skulesekk",
@@ -31946,7 +33119,24 @@
     ],
     "explanation": {
       "_description": "Maskulint substantiv (ein snø). Fleirtal: snøar."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Det snør! Det kommer snø.",
+        "translation": "Es schneit! Es gibt Schnee.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Snøen er hvit.",
+        "translation": "Der Schnee ist weiß.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Vi leker i snøen.",
+        "translation": "Wir spielen im Schnee.",
+        "lang": "de"
+      }
+    ]
   },
   "sofa_noun": {
     "word": "sofa",
@@ -32018,7 +33208,24 @@
     "_generatedFrom": "de-nb/nounbank.json:sonne_noun, es-nb/nounbank.json:sol_noun",
     "explanation": {
       "_description": "Feminint substantiv (ei sol). Fleirtal: soler."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Sola skinner.",
+        "translation": "Die Sonne scheint.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg ligger i sola.",
+        "translation": "Ich liege in der Sonne.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Sola er varm.",
+        "translation": "Die Sonne ist warm.",
+        "lang": "de"
+      }
+    ]
   },
   "solkrem_noun": {
     "word": "solkrem",
@@ -32067,7 +33274,24 @@
     ],
     "explanation": {
       "_description": "Maskulint substantiv (ein sommer). Fleirtal: sommerar."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Om sommeren er det varmt.",
+        "translation": "Im Sommer ist es warm.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Sommeren er min favorittårstid.",
+        "translation": "Der Sommer ist meine Lieblingsjahreszeit.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Kva gjør du om sommeren?",
+        "translation": "Was machst du im Sommer?",
+        "lang": "de"
+      }
+    ]
   },
   "sommerferie_noun": {
     "word": "sommerferie",
@@ -32408,7 +33632,24 @@
     ],
     "explanation": {
       "_description": "Nøytralt substantiv (eit spill). Fleirtal: spill."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Spillet er spennende.",
+        "translation": "Das Spiel ist spannend.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Vi spiller et spill.",
+        "translation": "Wir spielen ein Spiel.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Vant du spillet?",
+        "translation": "Hast du das Spiel gewonnen?",
+        "lang": "de"
+      }
+    ]
   },
   "spisevogn_noun": {
     "word": "spisevogn",
@@ -32477,7 +33718,24 @@
     "_generatedFrom": "de-nb/nounbank.json:sport_noun, es-nb/nounbank.json:deporte_noun",
     "explanation": {
       "_description": "Maskulint substantiv (ein sport). Fleirtal: sportar."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg liker å drive med sport.",
+        "translation": "Ich mache gern Sport.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Hvilken sport liker du?",
+        "translation": "Welchen Sport magst du?",
+        "lang": "de"
+      },
+      {
+        "sentence": "Sport er sunt.",
+        "translation": "Sport ist gesund.",
+        "lang": "de"
+      }
+    ]
   },
   "språk_noun": {
     "word": "språk",
@@ -32506,7 +33764,24 @@
     ],
     "explanation": {
       "_description": "Nøytralt substantiv (eit språk). Fleirtal: språk."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg lærer et nytt språk.",
+        "translation": "Ich lerne eine neue Sprache.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Hvilke språk snakker du?",
+        "translation": "Welche Sprachen sprichst du?",
+        "lang": "de"
+      },
+      {
+        "sentence": "Tysk er et fint språk.",
+        "translation": "Deutsch ist eine schöne Sprache.",
+        "lang": "de"
+      }
+    ]
   },
   "sprøyte_noun": {
     "word": "sprøyte",
@@ -32596,7 +33871,24 @@
     ],
     "explanation": {
       "_description": "Nøytralt substantiv (eit spørsmål). Fleirtal: spørsmål."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg har et spørsmål.",
+        "translation": "Ich habe eine Frage.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Det er et godt spørsmål.",
+        "translation": "Das ist eine gute Frage.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Har du spørsmål?",
+        "translation": "Hast du Fragen?",
+        "lang": "de"
+      }
+    ]
   },
   "stad_noun": {
     "word": "stad",
@@ -33229,7 +34521,24 @@
     ],
     "explanation": {
       "_description": "Maskulint substantiv (ein strand). Fleirtal: strandar."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Vi går til stranden.",
+        "translation": "Wir gehen an den Strand.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Stranden er fin.",
+        "translation": "Der Strand ist schön.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg ligger på stranden.",
+        "translation": "Ich liege am Strand.",
+        "lang": "de"
+      }
+    ]
   },
   "streik_noun": {
     "word": "streik",
@@ -33819,7 +35128,24 @@
     ],
     "explanation": {
       "_description": "Nøytralt substantiv (eit supermarked). Fleirtal: supermarked."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg går til supermarkedet.",
+        "translation": "Ich gehe in den Supermarkt.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Supermarkedet er rundt hjørnet.",
+        "translation": "Der Supermarkt ist um die Ecke.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Vi handler i supermarkedet.",
+        "translation": "Wir kaufen im Supermarkt ein.",
+        "lang": "de"
+      }
+    ]
   },
   "suppe_noun": {
     "word": "suppe",
@@ -33971,7 +35297,24 @@
     ],
     "explanation": {
       "_description": "Maskulint substantiv (ein sykkel). Fleirtal: sykklar."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg sykler.",
+        "translation": "Ich fahre mit dem Fahrrad.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Sykkelen min er ny.",
+        "translation": "Mein Fahrrad ist neu.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Har du en sykkel?",
+        "translation": "Hast du ein Fahrrad?",
+        "lang": "de"
+      }
+    ]
   },
   "sykkeltur_noun": {
     "word": "sykkeltur",
@@ -34118,7 +35461,24 @@
     "_generatedFrom": "de-nb/nounbank.json:schwester_noun, es-nb/nounbank.json:hermana_noun",
     "explanation": {
       "_description": "Feminint substantiv (ei syster). Fleirtal: systrer."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg har en søster.",
+        "translation": "Ich habe eine Schwester.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Søsteren min går på skolen.",
+        "translation": "Meine Schwester geht zur Schule.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Har du en søster?",
+        "translation": "Hast du eine Schwester?",
+        "lang": "de"
+      }
+    ]
   },
   "såpe_noun": {
     "word": "såpe",
@@ -34978,7 +36338,24 @@
     "_generatedFrom": "de-nb/nounbank.json:tee_noun, es-nb/nounbank.json:te_noun",
     "explanation": {
       "_description": "Maskulint substantiv (ein te). Fleirtal: tar."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg drikker te.",
+        "translation": "Ich trinke Tee.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Vil du ha te?",
+        "translation": "Möchtest du Tee?",
+        "lang": "de"
+      },
+      {
+        "sentence": "Teen er varm.",
+        "translation": "Der Tee ist warm.",
+        "lang": "de"
+      }
+    ]
   },
   "teater_noun": {
     "word": "teater",
@@ -35001,7 +36378,24 @@
     "_generatedFrom": "de-nb/nounbank.json:theater_noun, es-nb/nounbank.json:teatro_noun",
     "explanation": {
       "_description": "Nøytralt substantiv (eit teater). Fleirtal: teater."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Vi går på teater.",
+        "translation": "Wir gehen ins Theater.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Teateret er i byen.",
+        "translation": "Das Theater ist in der Stadt.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg liker teater.",
+        "translation": "Ich mag Theater.",
+        "lang": "de"
+      }
+    ]
   },
   "tegn_noun": {
     "word": "tegn",
@@ -35505,7 +36899,24 @@
     "_generatedFrom": "de-nb/nounbank.json:zeit_noun, es-nb/nounbank.json:tiempo_noun",
     "explanation": {
       "_description": "Feminint substantiv (ei tid). Fleirtal: tider."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg har ikkje tid.",
+        "translation": "Ich habe keine Zeit.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Har du tid?",
+        "translation": "Hast du Zeit?",
+        "lang": "de"
+      },
+      {
+        "sentence": "Tiden går fort.",
+        "translation": "Die Zeit vergeht schnell.",
+        "lang": "de"
+      }
+    ]
   },
   "tidspunkt_noun": {
     "word": "tidspunkt",
@@ -35926,7 +37337,24 @@
     "_generatedFrom": "de-nb/nounbank.json:stunde_noun, es-nb/nounbank.json:clase_noun, es-nb/nounbank.json:hora_noun",
     "explanation": {
       "_description": "Maskulint substantiv (ein time). Fleirtal: timar."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Timen varer 45 minutter.",
+        "translation": "Die Stunde dauert 45 Minuten.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Om en time er eg ferdig.",
+        "translation": "In einer Stunde bin ich fertig.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Vi har tysktime nå.",
+        "translation": "Wir haben jetzt Deutschstunde.",
+        "lang": "de"
+      }
+    ]
   },
   "timeplan_noun": {
     "word": "timeplan",
@@ -38396,7 +39824,24 @@
     "_generatedFrom": "de-nb/nounbank.json:wasser_noun, es-nb/nounbank.json:agua_noun",
     "explanation": {
       "_description": "Nøytralt substantiv (eit vatn). Fleirtal: vatn."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eg drikker vann.",
+        "translation": "Ich trinke Wasser.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Kan eg få et glass vann?",
+        "translation": "Kann ich ein Glas Wasser haben?",
+        "lang": "de"
+      },
+      {
+        "sentence": "Vannet er kaldt.",
+        "translation": "Das Wasser ist kalt.",
+        "lang": "de"
+      }
+    ]
   },
   "vegg_noun": {
     "word": "vegg",
@@ -38543,7 +39988,24 @@
     "_generatedFrom": "de-nb/nounbank.json:woche_noun, es-nb/nounbank.json:semana_noun",
     "explanation": {
       "_description": "Feminint substantiv (ei veke). Fleirtal: veker."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Denne uken har eg mykje å gjøre.",
+        "translation": "Diese Woche habe ich viel zu tun.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Uken har sju dager.",
+        "translation": "Die Woche hat sieben Tage.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Neste uke har eg ferie.",
+        "translation": "Nächste Woche habe ich Urlaub.",
+        "lang": "de"
+      }
+    ]
   },
   "vekkerklokke_noun": {
     "word": "vekkerklokke",
@@ -38618,7 +40080,24 @@
     ],
     "explanation": {
       "_description": "Maskulint substantiv (ein venn). Fleirtal: vennar."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Han er min beste venn.",
+        "translation": "Er ist mein bester Freund.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg møter vennen min.",
+        "translation": "Ich treffe meinen Freund.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Har du mange venner?",
+        "translation": "Hast du viele Freunde?",
+        "lang": "de"
+      }
+    ]
   },
   "venninne_noun": {
     "word": "venninne",
@@ -38644,7 +40123,24 @@
     ],
     "explanation": {
       "_description": "Feminint substantiv (ei venninne). Fleirtal: venninner."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Hun er min beste venninne.",
+        "translation": "Sie ist meine beste Freundin.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg ringer venninnen min.",
+        "translation": "Ich rufe meine Freundin an.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Venninnen min bor i Berlin.",
+        "translation": "Meine Freundin wohnt in Berlin.",
+        "lang": "de"
+      }
+    ]
   },
   "vennskap_noun": {
     "word": "vennskap",
@@ -38693,7 +40189,24 @@
     "_generatedFrom": "de-nb/nounbank.json:wetter_noun, es-nb/nounbank.json:tiempo_noun",
     "explanation": {
       "_description": "Nøytralt substantiv (eit ver). Fleirtal: ver."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Været er fint.",
+        "translation": "Das Wetter ist schön.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Korleis er været?",
+        "translation": "Wie ist das Wetter?",
+        "lang": "de"
+      },
+      {
+        "sentence": "Været blir bedre.",
+        "translation": "Das Wetter wird besser.",
+        "lang": "de"
+      }
+    ]
   },
   "verden_noun": {
     "word": "verden",
@@ -39060,7 +40573,24 @@
     "_generatedFrom": "de-nb/nounbank.json:winter_noun",
     "explanation": {
       "_description": "Maskulint substantiv (ein vinter). Fleirtal: vinterar."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Om vinteren er det kaldt.",
+        "translation": "Im Winter ist es kalt.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg står på ski om vinteren.",
+        "translation": "Ich fahre im Winter Ski.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Vinteren er lang i Norge.",
+        "translation": "Der Winter ist lang in Norwegen.",
+        "lang": "de"
+      }
+    ]
   },
   "virkning_noun": {
     "word": "virkning",
@@ -39455,7 +40985,24 @@
     ],
     "explanation": {
       "_description": "Maskulint substantiv (ein vår). Fleirtal: vårar."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Om våren blomstrer blomstene.",
+        "translation": "Im Frühling blühen die Blumen.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Våren kommer.",
+        "translation": "Der Frühling kommt.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Eg liker våren.",
+        "translation": "Ich mag den Frühling.",
+        "lang": "de"
+      }
+    ]
   },
   "værmelding_noun": {
     "word": "værmelding",

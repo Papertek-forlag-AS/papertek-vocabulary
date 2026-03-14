@@ -9,6 +9,9 @@
  *   - Paired de-en + de-nb: creates EN→NB example pairs (same German source)
  *   - NB morphology data: generates explanation text from conjugations/forms
  *
+ * Each example includes a `lang` field indicating the translation language,
+ * so apps can filter examples by the active language pair.
+ *
  * Usage:
  *   node scripts/enrich-examples.js
  */
@@ -27,11 +30,12 @@ const BANK_FILES = [
   'phrasesbank.json', 'pronounsbank.json',
 ];
 
+const ENRICHABLE_BANKS = ['nounbank.json', 'verbbank.json', 'adjectivebank.json', 'generalbank.json'];
+
 // ═══════════════════════════════════════════════════════════════════════════
-// 1. Load translation data with examples and explanations
+// Data loading helpers
 // ═══════════════════════════════════════════════════════════════════════════
 
-// Map: sourceWordId → { examples, explanation, translation }
 function loadTranslations(pair) {
   const map = new Map();
   const dir = join(TRANS_BASE, pair);
@@ -48,7 +52,6 @@ function loadTranslations(pair) {
   return map;
 }
 
-// Map: targetWordId → [sourceWordId, ...]
 function loadReverseLinks(pair) {
   const map = new Map();
   const dir = join(LINKS_BASE, pair);
@@ -78,12 +81,42 @@ console.log('Loading link data...');
 const nbDeLinks = loadReverseLinks('nb-de');
 const nbEsLinks = loadReverseLinks('nb-es');
 const enDeLinks = loadReverseLinks('en-de');
-console.log(`  nb-de: ${nbDeLinks.size} entries`);
-console.log(`  nb-es: ${nbEsLinks.size} entries`);
-console.log(`  en-de: ${enDeLinks.size} entries`);
+const nnDeLinks = loadReverseLinks('nn-de');
+const nnEsLinks = loadReverseLinks('nn-es');
+console.log(`  nb-de: ${nbDeLinks.size}, nb-es: ${nbEsLinks.size}, en-de: ${enDeLinks.size}`);
+console.log(`  nn-de: ${nnDeLinks.size}, nn-es: ${nnEsLinks.size}`);
 
 // ═══════════════════════════════════════════════════════════════════════════
-// 2. Generate NB explanation text from morphology
+// NB → NN sentence approximation
+// ═══════════════════════════════════════════════════════════════════════════
+
+const NB_TO_NN_WORDS = {
+  'jeg': 'eg', 'ikke': 'ikkje', 'noe': 'noko', 'noen': 'nokon',
+  'hva': 'kva', 'hvem': 'kven', 'hvor': 'kvar', 'hvordan': 'korleis',
+  'hvorfor': 'kvifor', 'hvis': 'viss', 'mye': 'mykje',
+  'også': 'òg', 'bare': 'berre', 'nå': 'no', 'dem': 'dei',
+  'de': 'dei', 'deres': 'deira', 'hennes': 'hennar',
+  'hjemme': 'heime', 'hjem': 'heim', 'sammen': 'saman',
+  'ennå': 'enno', 'annet': 'anna', 'annen': 'annan',
+  'etter': 'etter', 'mellom': 'mellom',
+};
+
+function approximateNnSentence(nbSentence) {
+  // Simple word-level substitution for common BM→NN differences
+  return nbSentence.replace(/\b(\w+)\b/g, (match) => {
+    const lower = match.toLowerCase();
+    const replacement = NB_TO_NN_WORDS[lower];
+    if (!replacement) return match;
+    // Preserve original capitalization
+    if (match[0] === match[0].toUpperCase()) {
+      return replacement[0].toUpperCase() + replacement.slice(1);
+    }
+    return replacement;
+  });
+}
+
+// ═══════════════════════════════════════════════════════════════════════════
+// Explanation generators
 // ═══════════════════════════════════════════════════════════════════════════
 
 function generateNbExplanation(entry) {
@@ -177,110 +210,102 @@ function generateEnExplanation(entry) {
 }
 
 // ═══════════════════════════════════════════════════════════════════════════
-// 3. Enrich NB entries
+// Collect examples from translations for a word via its reverse links
+// ═══════════════════════════════════════════════════════════════════════════
+
+function collectExamplesFromTranslations(wordId, reverseLinksMap, translationsMap, lang, reverseSentences) {
+  const links = reverseLinksMap.get(wordId) || [];
+  const examples = [];
+  for (const { sourceId } of links) {
+    const trans = translationsMap.get(sourceId);
+    if (!trans?.examples) continue;
+    for (const ex of trans.examples) {
+      if (reverseSentences) {
+        // Reverse: target-language sentence as "sentence", source-language sentence as "translation"
+        examples.push({ sentence: ex.translation, translation: ex.sentence, lang });
+      } else {
+        examples.push({ sentence: ex.sentence, translation: ex.translation, lang });
+      }
+    }
+  }
+  return examples;
+}
+
+function dedupeAndLimit(examples, max = 5) {
+  const seen = new Set();
+  return examples.filter(ex => {
+    const key = ex.sentence + '|' + ex.lang;
+    if (seen.has(key)) return false;
+    seen.add(key);
+    return true;
+  }).slice(0, max);
+}
+
+// ═══════════════════════════════════════════════════════════════════════════
+// 1. Enrich NB entries (examples with lang tags + explanations)
 // ═══════════════════════════════════════════════════════════════════════════
 
 console.log('\n--- Enriching NB entries ---');
+let nbExamplesCount = 0, nbExplanationsCount = 0;
 
-let nbExamples = 0, nbExplanations = 0;
-
-for (const bankFile of ['nounbank.json', 'verbbank.json', 'adjectivebank.json', 'generalbank.json']) {
+for (const bankFile of ENRICHABLE_BANKS) {
   const fp = join(LEXICON_BASE, 'nb', bankFile);
   if (!existsSync(fp)) continue;
-
   const data = JSON.parse(readFileSync(fp, 'utf8'));
   const { _metadata, ...entries } = data;
 
   for (const [nbId, entry] of Object.entries(entries)) {
-    // Add examples from de-nb translations (via nb-de reverse links)
-    if (!entry.examples || entry.examples.length === 0) {
-      const deLinks = nbDeLinks.get(nbId) || [];
-      const examples = [];
+    // Replace or add examples with lang tags
+    const allExamples = [];
 
-      for (const { sourceId } of deLinks) {
-        const trans = deNbTrans.get(sourceId);
-        if (trans?.examples) {
-          for (const ex of trans.examples) {
-            // Reverse: NB sentence as source, DE as target
-            examples.push({ sentence: ex.translation, translation: ex.sentence });
-          }
-        }
-      }
+    // DE examples (reversed: NB sentence as source, DE as translation)
+    allExamples.push(...collectExamplesFromTranslations(nbId, nbDeLinks, deNbTrans, 'de', true));
+    // ES examples
+    allExamples.push(...collectExamplesFromTranslations(nbId, nbEsLinks, esNbTrans, 'es', true));
 
-      // Also check es-nb
-      const esLinks = nbEsLinks.get(nbId) || [];
-      for (const { sourceId } of esLinks) {
-        const trans = esNbTrans.get(sourceId);
-        if (trans?.examples) {
-          for (const ex of trans.examples) {
-            examples.push({ sentence: ex.translation, translation: ex.sentence });
-          }
-        }
-      }
-
-      if (examples.length > 0) {
-        // Deduplicate by sentence
-        const seen = new Set();
-        entry.examples = examples.filter(ex => {
-          const key = ex.sentence;
-          if (seen.has(key)) return false;
-          seen.add(key);
-          return true;
-        }).slice(0, 5); // Max 5 examples
-        nbExamples++;
-      }
+    if (allExamples.length > 0) {
+      entry.examples = dedupeAndLimit(allExamples, 6);
+      nbExamplesCount++;
     }
 
-    // Add explanation
+    // Explanation
     if (!entry.explanation) {
-      // First try from DE translation explanation
       const deLinks = nbDeLinks.get(nbId) || [];
-      let foundExplanation = null;
+      let found = null;
       for (const { sourceId } of deLinks) {
         const trans = deNbTrans.get(sourceId);
-        if (trans?.explanation?._description) {
-          foundExplanation = trans.explanation._description;
-          break;
-        }
+        if (trans?.explanation?._description) { found = trans.explanation._description; break; }
       }
-
-      if (foundExplanation) {
-        entry.explanation = { _description: foundExplanation };
-        nbExplanations++;
+      if (found) {
+        entry.explanation = { _description: found };
+        nbExplanationsCount++;
       } else {
-        // Generate from morphology
         const gen = generateNbExplanation(entry);
-        if (gen) {
-          entry.explanation = { _description: gen };
-          nbExplanations++;
-        }
+        if (gen) { entry.explanation = { _description: gen }; nbExplanationsCount++; }
       }
     }
   }
 
   writeFileSync(fp, JSON.stringify({ _metadata, ...entries }, null, 2) + '\n');
 }
-
-console.log(`  Examples added: ${nbExamples} entries`);
-console.log(`  Explanations added: ${nbExplanations} entries`);
+console.log(`  Examples: ${nbExamplesCount} entries`);
+console.log(`  Explanations: ${nbExplanationsCount} entries`);
 
 // ═══════════════════════════════════════════════════════════════════════════
-// 4. Enrich EN entries
+// 2. Enrich EN entries (examples + explanations)
 // ═══════════════════════════════════════════════════════════════════════════
 
 console.log('\n--- Enriching EN entries ---');
+let enExamplesCount = 0, enExplanationsCount = 0;
 
-let enExamples = 0, enExplanations = 0;
-
-for (const bankFile of ['nounbank.json', 'verbbank.json', 'adjectivebank.json', 'generalbank.json']) {
+for (const bankFile of ENRICHABLE_BANKS) {
   const fp = join(LEXICON_BASE, 'en', bankFile);
   if (!existsSync(fp)) continue;
-
   const data = JSON.parse(readFileSync(fp, 'utf8'));
   const { _metadata, ...entries } = data;
 
   for (const [enId, entry] of Object.entries(entries)) {
-    // Add examples: pair de-en + de-nb examples (same DE source sentence)
+    // EN examples: pair de-en + de-nb examples via shared DE source sentence
     if (!entry.examples || entry.examples.length === 0) {
       const deLinks = enDeLinks.get(enId) || [];
       const examples = [];
@@ -290,127 +315,112 @@ for (const bankFile of ['nounbank.json', 'verbbank.json', 'adjectivebank.json', 
         const nbTrans = deNbTrans.get(sourceId);
 
         if (enTrans?.examples && nbTrans?.examples) {
-          // Build map of DE sentence → NB translation
           const deToNb = new Map();
           for (const ex of nbTrans.examples) {
             deToNb.set(ex.sentence, ex.translation);
           }
-
-          // Pair EN translations with NB translations via shared DE source
           for (const ex of enTrans.examples) {
             const nbSentence = deToNb.get(ex.sentence);
             if (nbSentence) {
-              examples.push({ sentence: ex.translation, translation: nbSentence });
+              examples.push({ sentence: ex.translation, translation: nbSentence, lang: 'nb' });
             }
           }
         }
       }
 
       if (examples.length > 0) {
-        const seen = new Set();
-        entry.examples = examples.filter(ex => {
-          const key = ex.sentence;
-          if (seen.has(key)) return false;
-          seen.add(key);
-          return true;
-        }).slice(0, 5);
-        enExamples++;
+        entry.examples = dedupeAndLimit(examples, 5);
+        enExamplesCount++;
       }
     }
 
-    // Add explanation
+    // Explanation
     if (!entry.explanation) {
-      // Try from DE translation explanation (already in Norwegian for de-en)
       const deLinks = enDeLinks.get(enId) || [];
-      let foundExplanation = null;
+      let found = null;
       for (const { sourceId } of deLinks) {
         const trans = deEnTrans.get(sourceId);
-        if (trans?.explanation?._description) {
-          foundExplanation = trans.explanation._description;
-          break;
-        }
+        if (trans?.explanation?._description) { found = trans.explanation._description; break; }
       }
-
-      if (foundExplanation) {
-        entry.explanation = { _description: foundExplanation };
-        enExplanations++;
+      if (found) {
+        entry.explanation = { _description: found };
+        enExplanationsCount++;
       } else {
         const gen = generateEnExplanation(entry);
-        if (gen) {
-          entry.explanation = { _description: gen };
-          enExplanations++;
-        }
+        if (gen) { entry.explanation = { _description: gen }; enExplanationsCount++; }
       }
     }
   }
 
   writeFileSync(fp, JSON.stringify({ _metadata, ...entries }, null, 2) + '\n');
 }
-
-console.log(`  Examples added: ${enExamples} entries`);
-console.log(`  Explanations added: ${enExplanations} entries`);
+console.log(`  Examples: ${enExamplesCount} entries`);
+console.log(`  Explanations: ${enExplanationsCount} entries`);
 
 // ═══════════════════════════════════════════════════════════════════════════
-// 5. Enrich NN entries
+// 3. Enrich NN entries (examples via nn-de + NB→NN approximation)
 // ═══════════════════════════════════════════════════════════════════════════
 
 console.log('\n--- Enriching NN entries ---');
+let nnExamplesCount = 0, nnExplanationsCount = 0;
 
-// Load nb-to-nn word map for transforming NB sentences
-const nnMapPath = join(LEXICON_BASE, 'nn', 'nb-to-nn-map.json');
-const nbToNnMap = existsSync(nnMapPath)
-  ? JSON.parse(readFileSync(nnMapPath, 'utf8'))
-  : {};
-
-// Load NB entries for reference
-const nbEntries = new Map();
-for (const bankFile of ['nounbank.json', 'verbbank.json', 'adjectivebank.json', 'generalbank.json']) {
-  const fp = join(LEXICON_BASE, 'nb', bankFile);
-  if (!existsSync(fp)) continue;
-  const data = JSON.parse(readFileSync(fp, 'utf8'));
-  const { _metadata, ...entries } = data;
-  for (const [id, entry] of Object.entries(entries)) {
-    nbEntries.set(id, entry);
-  }
-}
-
-// Build reverse map: nn-id → nb-id
-const nnToNbMap = {};
-for (const [nbId, nnId] of Object.entries(nbToNnMap)) {
-  nnToNbMap[nnId] = nbId;
-}
-
-let nnExplanations = 0;
-
-for (const bankFile of ['nounbank.json', 'verbbank.json', 'adjectivebank.json', 'generalbank.json']) {
+for (const bankFile of ENRICHABLE_BANKS) {
   const fp = join(LEXICON_BASE, 'nn', bankFile);
   if (!existsSync(fp)) continue;
-
   const data = JSON.parse(readFileSync(fp, 'utf8'));
   const { _metadata, ...entries } = data;
 
   for (const [nnId, entry] of Object.entries(entries)) {
-    // Add explanation from NN morphology (don't try to transfer NB examples - sentences would be in BM)
+    // NN examples: use nn-de links → de-nb translations → approximate NB→NN
+    if (!entry.examples || entry.examples.length === 0) {
+      const allExamples = [];
+
+      // Via DE
+      const deLinks = nnDeLinks.get(nnId) || [];
+      for (const { sourceId } of deLinks) {
+        const trans = deNbTrans.get(sourceId);
+        if (!trans?.examples) continue;
+        for (const ex of trans.examples) {
+          // ex.translation is the NB sentence, ex.sentence is the DE sentence
+          const nnSentence = approximateNnSentence(ex.translation);
+          allExamples.push({ sentence: nnSentence, translation: ex.sentence, lang: 'de' });
+        }
+      }
+
+      // Via ES
+      const esLinks = nnEsLinks.get(nnId) || [];
+      for (const { sourceId } of esLinks) {
+        const trans = esNbTrans.get(sourceId);
+        if (!trans?.examples) continue;
+        for (const ex of trans.examples) {
+          const nnSentence = approximateNnSentence(ex.translation);
+          allExamples.push({ sentence: nnSentence, translation: ex.sentence, lang: 'es' });
+        }
+      }
+
+      if (allExamples.length > 0) {
+        entry.examples = dedupeAndLimit(allExamples, 6);
+        nnExamplesCount++;
+      }
+    }
+
+    // Explanation
     if (!entry.explanation) {
       const gen = generateNnExplanation(entry);
-      if (gen) {
-        entry.explanation = { _description: gen };
-        nnExplanations++;
-      }
+      if (gen) { entry.explanation = { _description: gen }; nnExplanationsCount++; }
     }
   }
 
   writeFileSync(fp, JSON.stringify({ _metadata, ...entries }, null, 2) + '\n');
 }
-
-console.log(`  Explanations added: ${nnExplanations} entries`);
-console.log(`  (NN examples skipped — NB sentences would be bokmål, not nynorsk)`);
+console.log(`  Examples: ${nnExamplesCount} entries`);
+console.log(`  Explanations: ${nnExplanationsCount} entries`);
 
 // ═══════════════════════════════════════════════════════════════════════════
 // Summary
 // ═══════════════════════════════════════════════════════════════════════════
 
 console.log('\n=== Summary ===');
-console.log(`  NB: ${nbExamples} examples, ${nbExplanations} explanations`);
-console.log(`  EN: ${enExamples} examples, ${enExplanations} explanations`);
-console.log(`  NN: ${nnExplanations} explanations`);
+console.log(`  NB: ${nbExamplesCount} examples (with lang tags), ${nbExplanationsCount} explanations`);
+console.log(`  EN: ${enExamplesCount} examples (EN→NB pairs), ${enExplanationsCount} explanations`);
+console.log(`  NN: ${nnExamplesCount} examples (NB→NN approximated), ${nnExplanationsCount} explanations`);
