@@ -11,13 +11,22 @@
     "word": "adiós",
     "type": "phrase",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "typos": [
+      "adios"
+    ],
+    "acceptedForms": [
+      "adios"
+    ]
   },
   "bien_gracias_phrase": {
     "word": "bien, gracias",
     "type": "phrase",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "typos": [
+      "vien, gracias"
+    ]
   },
   "claro_phrase": {
     "word": "claro",
@@ -41,7 +50,13 @@
     "word": "creo que sí",
     "type": "phrase",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "typos": [
+      "creo que si"
+    ],
+    "acceptedForms": [
+      "creo que si"
+    ]
   },
   "de_acuerdo_phrase": {
     "word": "de acuerdo",
@@ -59,7 +74,14 @@
     "word": "¿dónde vives?",
     "type": "phrase",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "typos": [
+      "¿donde vives?",
+      "¿dónde bibes?"
+    ],
+    "acceptedForms": [
+      "¿donde vives?"
+    ]
   },
   "encantado_phrase": {
     "word": "encantado/a",
@@ -83,7 +105,10 @@
     "word": "hola",
     "type": "phrase",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "typos": [
+      "ola"
+    ]
   },
   "igualmente_phrase": {
     "word": "igualmente",
@@ -101,25 +126,43 @@
     "word": "muchas gracias",
     "type": "phrase",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "typos": [
+      "mucas gracias"
+    ]
   },
   "no_se_phrase": {
     "word": "no sé",
     "type": "phrase",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "typos": [
+      "no se"
+    ],
+    "acceptedForms": [
+      "no se"
+    ]
   },
   "perdon_phrase": {
     "word": "perdón",
     "type": "phrase",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "typos": [
+      "perdon"
+    ],
+    "acceptedForms": [
+      "perdon"
+    ]
   },
   "por_favor_phrase": {
     "word": "por favor",
     "type": "phrase",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "typos": [
+      "por fabor"
+    ]
   },
   "por_supuesto_phrase": {
     "word": "por supuesto",
@@ -131,13 +174,24 @@
     "word": "¡que aproveche!",
     "type": "phrase",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "typos": [
+      "¡que aprobeche!",
+      "¡que aprovece!"
+    ]
   },
   "que_tengas_buen_dia_phrase": {
     "word": "que tengas un buen día",
     "type": "phrase",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "typos": [
+      "que tengas un buen dia",
+      "que tengas un vuen día"
+    ],
+    "acceptedForms": [
+      "que tengas un buen dia"
+    ]
   },
   "salud_phrase": {
     "word": "¡salud!",
@@ -149,18 +203,30 @@
     "word": "vale",
     "type": "phrase",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "typos": [
+      "bale"
+    ]
   },
   "vivo_en_phrase": {
     "word": "vivo en...",
     "type": "phrase",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "typos": [
+      "bibo en..."
+    ]
   },
   "y_tu_phrase": {
     "word": "¿y tú?",
     "type": "phrase",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "typos": [
+      "¿y tu?"
+    ],
+    "acceptedForms": [
+      "¿y tu?"
+    ]
   }
 }

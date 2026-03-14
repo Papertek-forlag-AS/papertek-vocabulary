@@ -11,7 +11,10 @@
     "word": "ce/cet/cette/ces",
     "type": "pron",
     "_generatedFrom": "fr/banks",
-    "_enriched": true
+    "_enriched": true,
+    "typos": [
+      "ce/cet/cete/ces"
+    ]
   },
   "ceci_demon_pron": {
     "word": "ceci",
@@ -29,7 +32,10 @@
     "word": "celui/celle/ceux/celles",
     "type": "pron",
     "_generatedFrom": "fr/banks",
-    "_enriched": true
+    "_enriched": true,
+    "typos": [
+      "celui/cele/ceux/celes"
+    ]
   },
   "combien_interr_pron": {
     "word": "combien ?",
@@ -41,31 +47,46 @@
     "word": "comment ?",
     "type": "pron",
     "_generatedFrom": "fr/banks",
-    "_enriched": true
+    "_enriched": true,
+    "typos": [
+      "coment ?"
+    ]
   },
   "elle_pron": {
     "word": "elle",
     "type": "pron",
     "_generatedFrom": "fr/banks",
-    "_enriched": true
+    "_enriched": true,
+    "typos": [
+      "ele"
+    ]
   },
   "elle_stressed_pron": {
     "word": "elle",
     "type": "pron",
     "_generatedFrom": "fr/banks",
-    "_enriched": true
+    "_enriched": true,
+    "typos": [
+      "ele"
+    ]
   },
   "elles_pron": {
     "word": "elles",
     "type": "pron",
     "_generatedFrom": "fr/banks",
-    "_enriched": true
+    "_enriched": true,
+    "typos": [
+      "eles"
+    ]
   },
   "elles_stressed_pron": {
     "word": "elles",
     "type": "pron",
     "_generatedFrom": "fr/banks",
-    "_enriched": true
+    "_enriched": true,
+    "typos": [
+      "eles"
+    ]
   },
   "eux_stressed_pron": {
     "word": "eux",
@@ -233,7 +254,10 @@
     "word": "quel/quelle/quels/quelles ?",
     "type": "pron",
     "_generatedFrom": "fr/banks",
-    "_enriched": true
+    "_enriched": true,
+    "typos": [
+      "quel/quele/quels/queles ?"
+    ]
   },
   "quest_ce_que_interr_pron": {
     "word": "qu'est-ce que ?",

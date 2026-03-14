@@ -61,7 +61,14 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "allerede_gå_verb",
-    "_generatedFrom": "de-nb/verbbank.json:schon_laufen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:schon_laufen_verb",
+    "typos": [
+      "alereie gå",
+      "allereie ga"
+    ],
+    "acceptedForms": [
+      "allereie gaa"
+    ]
   },
   "analysere_verb": {
     "word": "analysere",
@@ -153,7 +160,12 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "anerkjenne_verb",
-    "_generatedFrom": "de-nb/verbbank.json:anerkennen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:anerkennen_verb",
+    "typos": [
+      "anerkjena",
+      "anerkenna",
+      "anersjenna"
+    ]
   },
   "ankomma_verb": {
     "word": "ankomma",
@@ -176,7 +188,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "ankomme_verb",
-    "_generatedFrom": "de-nb/verbbank.json:ankommen_verb, es-nb/verbbank.json:llegar_verb"
+    "_generatedFrom": "de-nb/verbbank.json:ankommen_verb, es-nb/verbbank.json:llegar_verb",
+    "typos": [
+      "ankoma"
+    ]
   },
   "anmelde_verb": {
     "word": "anmelde",
@@ -222,7 +237,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "ansette_verb",
-    "_generatedFrom": "de-nb/verbbank.json:anstellen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:anstellen_verb",
+    "typos": [
+      "anseta"
+    ]
   },
   "anskaffa_verb": {
     "word": "anskaffa",
@@ -245,7 +263,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "anskaffe_verb",
-    "_generatedFrom": "de-nb/verbbank.json:anschaffen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:anschaffen_verb",
+    "typos": [
+      "anskafa"
+    ]
   },
   "anslå_verb": {
     "word": "anslå",
@@ -268,7 +289,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "anslå_verb",
-    "_generatedFrom": "de-nb/verbbank.json:schaetzen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:schaetzen_verb",
+    "typos": [
+      "ansla"
+    ],
+    "acceptedForms": [
+      "anslaa"
+    ]
   },
   "anstrenga_seg_verb": {
     "word": "anstrenga seg",
@@ -291,7 +318,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "anstrenge_seg_verb",
-    "_generatedFrom": "de-nb/verbbank.json:sich_anstrengen_verb, de-nb/verbbank.json:sich_bemuehen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:sich_anstrengen_verb, de-nb/verbbank.json:sich_bemuehen_verb",
+    "typos": [
+      "anstrenka seg"
+    ]
   },
   "anta_verb": {
     "word": "anta",
@@ -383,7 +413,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "arrestere_verb",
-    "_generatedFrom": "de-nb/verbbank.json:verhaften_verb"
+    "_generatedFrom": "de-nb/verbbank.json:verhaften_verb",
+    "typos": [
+      "arestere"
+    ]
   },
   "avhenga_verb": {
     "word": "avhenga",
@@ -406,7 +439,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "avhenge_verb",
-    "_generatedFrom": "de-nb/verbbank.json:abhaengen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:abhaengen_verb",
+    "typos": [
+      "avhenka"
+    ]
   },
   "avlyse_verb": {
     "word": "avlyse",
@@ -452,7 +488,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "avslutte_verb",
-    "_generatedFrom": "de-nb/verbbank.json:abschliessen_verb, de-nb/verbbank.json:beenden_verb"
+    "_generatedFrom": "de-nb/verbbank.json:abschliessen_verb, de-nb/verbbank.json:beenden_verb",
+    "typos": [
+      "avsluta"
+    ]
   },
   "avslutte_å_fullføre_verb": {
     "word": "avslutte, å fullføre",
@@ -460,7 +499,16 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "avslutte_å_fullføre_verb",
-    "_generatedFrom": "es-nb/verbbank.json:terminar_verb"
+    "_generatedFrom": "es-nb/verbbank.json:terminar_verb",
+    "typos": [
+      "avslute, å fulføre",
+      "avslutte, å fullfore",
+      "avslutte, a fullføre"
+    ],
+    "acceptedForms": [
+      "avslutte, å fullfoere",
+      "avslutte, aa fullføre"
+    ]
   },
   "avslå_verb": {
     "word": "avslå",
@@ -483,7 +531,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "avslå_verb",
-    "_generatedFrom": "de-nb/verbbank.json:ablehnen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:ablehnen_verb",
+    "typos": [
+      "avsla"
+    ],
+    "acceptedForms": [
+      "avslaa"
+    ]
   },
   "avtale_verb": {
     "word": "avtale",
@@ -529,7 +583,15 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "avtale_å_møtes_verb",
-    "_generatedFrom": "de-nb/verbbank.json:sich_verabreden_verb"
+    "_generatedFrom": "de-nb/verbbank.json:sich_verabreden_verb",
+    "typos": [
+      "avtale å motes",
+      "avtale a møtes"
+    ],
+    "acceptedForms": [
+      "avtale å moetes",
+      "avtale aa møtes"
+    ]
   },
   "bade_verb": {
     "word": "bade",
@@ -660,7 +722,14 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "be_om_å_bestille_verb",
-    "_generatedFrom": "es-nb/verbbank.json:pedir_verb"
+    "_generatedFrom": "es-nb/verbbank.json:pedir_verb",
+    "typos": [
+      "be om, å bestile",
+      "be om, a bestille"
+    ],
+    "acceptedForms": [
+      "be om, aa bestille"
+    ]
   },
   "befinna_seg_verb": {
     "word": "befinna seg",
@@ -683,7 +752,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "befinne_seg_verb",
-    "_generatedFrom": "de-nb/verbbank.json:sich_befinden_verb"
+    "_generatedFrom": "de-nb/verbbank.json:sich_befinden_verb",
+    "typos": [
+      "befina seg"
+    ]
   },
   "begrunna_verb": {
     "word": "begrunna",
@@ -706,7 +778,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "begrunne_verb",
-    "_generatedFrom": "de-nb/verbbank.json:begruenden_verb"
+    "_generatedFrom": "de-nb/verbbank.json:begruenden_verb",
+    "typos": [
+      "begruna"
+    ]
   },
   "begynna_verb": {
     "word": "begynna",
@@ -729,7 +804,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "begynne_verb",
-    "_generatedFrom": "de-nb/verbbank.json:anfangen_verb, de-nb/verbbank.json:beginnen_verb, es-nb/verbbank.json:empezar_verb"
+    "_generatedFrom": "de-nb/verbbank.json:anfangen_verb, de-nb/verbbank.json:beginnen_verb, es-nb/verbbank.json:empezar_verb",
+    "typos": [
+      "begyna"
+    ]
   },
   "behalde_verb": {
     "word": "behalde",
@@ -936,7 +1014,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "beskytte_verb",
-    "_generatedFrom": "de-nb/verbbank.json:schuetzen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:schuetzen_verb",
+    "typos": [
+      "beskyta"
+    ]
   },
   "beslutta_verb": {
     "word": "beslutta",
@@ -959,7 +1040,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "beslutte_verb",
-    "_generatedFrom": "de-nb/verbbank.json:beschliessen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:beschliessen_verb",
+    "typos": [
+      "besluta"
+    ]
   },
   "best_verb": {
     "word": "best",
@@ -990,7 +1074,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "bestemme_seg_verb",
-    "_generatedFrom": "de-nb/verbbank.json:sich_entschliessen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:sich_entschliessen_verb",
+    "typos": [
+      "bestema seg"
+    ]
   },
   "bestemma_verb": {
     "word": "bestemma",
@@ -1013,7 +1100,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "bestemme_verb",
-    "_generatedFrom": "es-nb/verbbank.json:decidir_verb"
+    "_generatedFrom": "es-nb/verbbank.json:decidir_verb",
+    "typos": [
+      "bestema"
+    ]
   },
   "bestilla_verb": {
     "word": "bestilla",
@@ -1036,7 +1126,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "bestille_verb",
-    "_generatedFrom": "de-nb/verbbank.json:buchen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:buchen_verb",
+    "typos": [
+      "bestila"
+    ]
   },
   "besvare_verb": {
     "word": "besvare",
@@ -1082,7 +1175,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "besøke_verb",
-    "_generatedFrom": "de-nb/verbbank.json:besuchen_verb, es-nb/verbbank.json:visitar_verb"
+    "_generatedFrom": "de-nb/verbbank.json:besuchen_verb, es-nb/verbbank.json:visitar_verb",
+    "typos": [
+      "besoke"
+    ],
+    "acceptedForms": [
+      "besoeke"
+    ]
   },
   "betale_verb": {
     "word": "betale",
@@ -1289,7 +1388,15 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "bli_forkjølet_verb",
-    "_generatedFrom": "de-nb/verbbank.json:sich_erkaelten_verb"
+    "_generatedFrom": "de-nb/verbbank.json:sich_erkaelten_verb",
+    "typos": [
+      "bli forkølet",
+      "bli forsjølet",
+      "bli forkjolet"
+    ],
+    "acceptedForms": [
+      "bli forkjoelet"
+    ]
   },
   "bli_kjent_med_verb": {
     "word": "bli kjent med",
@@ -1312,7 +1419,12 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "bli_kjent_med_verb",
-    "_generatedFrom": "de-nb/verbbank.json:kennenlernen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:kennenlernen_verb",
+    "typos": [
+      "bli kjent me",
+      "bli kent med",
+      "bli sjent med"
+    ]
   },
   "bli_liggande_verb": {
     "word": "bli liggande",
@@ -1335,7 +1447,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "bli_liggende_verb",
-    "_generatedFrom": "de-nb/verbbank.json:liegen_bleiben_verb"
+    "_generatedFrom": "de-nb/verbbank.json:liegen_bleiben_verb",
+    "typos": [
+      "bli ligande"
+    ]
   },
   "bli_med_verb": {
     "word": "bli med",
@@ -1358,7 +1473,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "bli_med_verb",
-    "_generatedFrom": "de-nb/verbbank.json:mitkommen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:mitkommen_verb",
+    "typos": [
+      "bli me"
+    ]
   },
   "bli_opprørt_verb": {
     "word": "bli opprørt",
@@ -1381,7 +1499,14 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "bli_opprørt_verb",
-    "_generatedFrom": "de-nb/verbbank.json:sich_aufregen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:sich_aufregen_verb",
+    "typos": [
+      "bli oprørt",
+      "bli opprort"
+    ],
+    "acceptedForms": [
+      "bli opproert"
+    ]
   },
   "bli_verb": {
     "word": "bli",
@@ -1450,7 +1575,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "blø_verb",
-    "_generatedFrom": "de-nb/verbbank.json:bluten_verb"
+    "_generatedFrom": "de-nb/verbbank.json:bluten_verb",
+    "typos": [
+      "blo"
+    ],
+    "acceptedForms": [
+      "bloe"
+    ]
   },
   "bo_verb": {
     "word": "bo",
@@ -1481,7 +1612,13 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "bo_å_leve_verb",
-    "_generatedFrom": "es-nb/verbbank.json:vivir_verb"
+    "_generatedFrom": "es-nb/verbbank.json:vivir_verb",
+    "typos": [
+      "bo, a leve"
+    ],
+    "acceptedForms": [
+      "bo, aa leve"
+    ]
   },
   "bremse_verb": {
     "word": "bremse",
@@ -1527,7 +1664,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "brenne_seg_verb",
-    "_generatedFrom": "de-nb/verbbank.json:sich_verbrennen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:sich_verbrennen_verb",
+    "typos": [
+      "brena seg"
+    ]
   },
   "brenna_verb": {
     "word": "brenna",
@@ -1550,7 +1690,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "brenne_verb",
-    "_generatedFrom": "de-nb/verbbank.json:brennen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:brennen_verb",
+    "typos": [
+      "brena"
+    ]
   },
   "bringa_verb": {
     "word": "bringa",
@@ -1573,7 +1716,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "bringe_verb",
-    "_generatedFrom": "de-nb/verbbank.json:bringen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:bringen_verb",
+    "typos": [
+      "brinka"
+    ]
   },
   "bringe_å_ta_med_verb": {
     "word": "bringe, å ta med",
@@ -1581,7 +1727,14 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "bringe_å_ta_med_verb",
-    "_generatedFrom": "es-nb/verbbank.json:traer_verb"
+    "_generatedFrom": "es-nb/verbbank.json:traer_verb",
+    "typos": [
+      "bringe, å ta me",
+      "bringe, a ta med"
+    ],
+    "acceptedForms": [
+      "bringe, aa ta med"
+    ]
   },
   "bruka_deform_verb": {
     "word": "bruka de-form",
@@ -1651,7 +1804,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "bryte_seg_inn_verb",
-    "_generatedFrom": "de-nb/verbbank.json:einbrechen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:einbrechen_verb",
+    "typos": [
+      "bryta seg in"
+    ]
   },
   "bygga_verb": {
     "word": "bygga",
@@ -1674,7 +1830,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "bygge_verb",
-    "_generatedFrom": "de-nb/verbbank.json:bauen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:bauen_verb",
+    "typos": [
+      "byga"
+    ]
   },
   "bytta_verb": {
     "word": "bytta",
@@ -1697,7 +1856,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "bytte_verb",
-    "_generatedFrom": "de-nb/verbbank.json:tauschen_verb, de-nb/verbbank.json:umsteigen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:tauschen_verb, de-nb/verbbank.json:umsteigen_verb",
+    "typos": [
+      "byta"
+    ]
   },
   "bære_å_ha_på_seg_verb": {
     "word": "bære, å ha på seg",
@@ -1705,7 +1867,15 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "bære_å_ha_på_seg_verb",
-    "_generatedFrom": "es-nb/verbbank.json:llevar_verb"
+    "_generatedFrom": "es-nb/verbbank.json:llevar_verb",
+    "typos": [
+      "bere, å ha på seg",
+      "bære, a ha pa seg"
+    ],
+    "acceptedForms": [
+      "baere, å ha på seg",
+      "bære, aa ha paa seg"
+    ]
   },
   "bør_verb": {
     "word": "bør",
@@ -1713,7 +1883,13 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "bør_verb",
-    "_generatedFrom": "de-nb/verbbank.json:sollen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:sollen_verb",
+    "typos": [
+      "bor"
+    ],
+    "acceptedForms": [
+      "boer"
+    ]
   },
   "chatta_verb": {
     "word": "chatta",
@@ -1736,7 +1912,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "chatte_verb",
-    "_generatedFrom": "de-nb/verbbank.json:chatten_verb"
+    "_generatedFrom": "de-nb/verbbank.json:chatten_verb",
+    "typos": [
+      "chata"
+    ]
   },
   "danse_verb": {
     "word": "danse",
@@ -1767,7 +1946,10 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "de_fleste_mennesker_verb",
-    "_generatedFrom": "de-nb/verbbank.json:meistder_mensch_verb"
+    "_generatedFrom": "de-nb/verbbank.json:meistder_mensch_verb",
+    "typos": [
+      "dei fleste menesker"
+    ]
   },
   "dekorere_verb": {
     "word": "dekorere",
@@ -1844,7 +2026,13 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "delta_å_være_til_stede_verb",
-    "_generatedFrom": "es-nb/verbbank.json:asistir_verb"
+    "_generatedFrom": "es-nb/verbbank.json:asistir_verb",
+    "typos": [
+      "delta, a vera til stede"
+    ],
+    "acceptedForms": [
+      "delta, aa vera til stede"
+    ]
   },
   "der_borte_verb": {
     "word": "der borte",
@@ -1937,7 +2125,13 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "dra_å_gå_verb",
-    "_generatedFrom": "es-nb/verbbank.json:irse_verb"
+    "_generatedFrom": "es-nb/verbbank.json:irse_verb",
+    "typos": [
+      "dra, a ga"
+    ],
+    "acceptedForms": [
+      "dra, aa gaa"
+    ]
   },
   "dreie_verb": {
     "word": "dreie",
@@ -1983,7 +2177,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "drikke_verb",
-    "_generatedFrom": "de-nb/verbbank.json:trinken_verb, es-nb/verbbank.json:beber_verb"
+    "_generatedFrom": "de-nb/verbbank.json:trinken_verb, es-nb/verbbank.json:beber_verb",
+    "typos": [
+      "drika"
+    ]
   },
   "drømma_verb": {
     "word": "drømma",
@@ -2006,7 +2203,14 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "drømme_verb",
-    "_generatedFrom": "de-nb/verbbank.json:traeumen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:traeumen_verb",
+    "typos": [
+      "drøma",
+      "dromma"
+    ],
+    "acceptedForms": [
+      "droemma"
+    ]
   },
   "dusje_verb": {
     "word": "dusje",
@@ -2052,7 +2256,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "dykke_verb",
-    "_generatedFrom": "de-nb/verbbank.json:tauchen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:tauchen_verb",
+    "typos": [
+      "dyka"
+    ]
   },
   "død_verb": {
     "word": "død",
@@ -2060,7 +2267,13 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "død_verb",
-    "_generatedFrom": "de-nb/verbbank.json:gestorben_verb"
+    "_generatedFrom": "de-nb/verbbank.json:gestorben_verb",
+    "typos": [
+      "dod"
+    ],
+    "acceptedForms": [
+      "doed"
+    ]
   },
   "døde_i_går_verb": {
     "word": "døde i går",
@@ -2068,7 +2281,15 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "døde_i_går_verb",
-    "_generatedFrom": "de-nb/verbbank.json:gestern_gestorben_verb"
+    "_generatedFrom": "de-nb/verbbank.json:gestern_gestorben_verb",
+    "typos": [
+      "dode i går",
+      "døde i gar"
+    ],
+    "acceptedForms": [
+      "doede i går",
+      "døde i gaar"
+    ]
   },
   "dømma_verb": {
     "word": "dømma",
@@ -2091,7 +2312,14 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "dømme_verb",
-    "_generatedFrom": "de-nb/verbbank.json:verurteilen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:verurteilen_verb",
+    "typos": [
+      "døma",
+      "domma"
+    ],
+    "acceptedForms": [
+      "doemma"
+    ]
   },
   "eigne_seg_verb": {
     "word": "eigne seg",
@@ -2168,7 +2396,14 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "elske_å_like_veldig_godt_verb",
-    "_generatedFrom": "es-nb/verbbank.json:encantar_verb"
+    "_generatedFrom": "es-nb/verbbank.json:encantar_verb",
+    "typos": [
+      "elske, a lika veldig godt",
+      "elske, å lika veldig got"
+    ],
+    "acceptedForms": [
+      "elske, aa lika veldig godt"
+    ]
   },
   "endre_verb": {
     "word": "endre",
@@ -2238,7 +2473,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "ernære_verb",
-    "_generatedFrom": "de-nb/verbbank.json:ernaehren_verb"
+    "_generatedFrom": "de-nb/verbbank.json:ernaehren_verb",
+    "typos": [
+      "ernere"
+    ],
+    "acceptedForms": [
+      "ernaere"
+    ]
   },
   "eta_frokost_verb": {
     "word": "eta frokost",
@@ -2284,7 +2525,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "spise_middag_verb",
-    "_generatedFrom": "es-nb/verbbank.json:cenar_verb"
+    "_generatedFrom": "es-nb/verbbank.json:cenar_verb",
+    "typos": [
+      "eta midag"
+    ]
   },
   "eta_verb": {
     "word": "eta",
@@ -2330,7 +2574,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "etterlate_verb",
-    "_generatedFrom": "de-nb/verbbank.json:hinterlassen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:hinterlassen_verb",
+    "typos": [
+      "eterlate"
+    ]
   },
   "falla_i_øynene_verb": {
     "word": "falla i øynene",
@@ -2353,7 +2600,14 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "falle_i_øynene_verb",
-    "_generatedFrom": "de-nb/verbbank.json:auffallen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:auffallen_verb",
+    "typos": [
+      "fala i øynene",
+      "falla i oynene"
+    ],
+    "acceptedForms": [
+      "falla i oeynene"
+    ]
   },
   "falla_inn_verb": {
     "word": "falla inn",
@@ -2376,7 +2630,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "falle_inn_verb",
-    "_generatedFrom": "de-nb/verbbank.json:einfallen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:einfallen_verb",
+    "typos": [
+      "fala in"
+    ]
   },
   "falla_ut_verb": {
     "word": "falla ut",
@@ -2399,7 +2656,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "falle_ut_verb",
-    "_generatedFrom": "de-nb/verbbank.json:ausfallen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:ausfallen_verb",
+    "typos": [
+      "fala ut"
+    ]
   },
   "falla_verb": {
     "word": "falla",
@@ -2422,7 +2682,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "falle_verb",
-    "_generatedFrom": "de-nb/verbbank.json:fallen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:fallen_verb",
+    "typos": [
+      "fala"
+    ]
   },
   "fanga_verb": {
     "word": "fanga",
@@ -2445,7 +2708,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "fange_verb",
-    "_generatedFrom": "de-nb/verbbank.json:fangen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:fangen_verb",
+    "typos": [
+      "fanka"
+    ]
   },
   "fastsetta_verb": {
     "word": "fastsetta",
@@ -2468,7 +2734,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "fastsette_verb",
-    "_generatedFrom": "de-nb/verbbank.json:festlegen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:festlegen_verb",
+    "typos": [
+      "fastseta"
+    ]
   },
   "feire_verb": {
     "word": "feire",
@@ -2499,7 +2768,10 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "fem_oppgaver_verb",
-    "_generatedFrom": "de-nb/verbbank.json:fuenf_aufgaben_verb"
+    "_generatedFrom": "de-nb/verbbank.json:fuenf_aufgaben_verb",
+    "typos": [
+      "fem opgaver"
+    ]
   },
   "finansiere_verb": {
     "word": "finansiere",
@@ -2545,7 +2817,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "finne_opp_verb",
-    "_generatedFrom": "de-nb/verbbank.json:erfinden_verb"
+    "_generatedFrom": "de-nb/verbbank.json:erfinden_verb",
+    "typos": [
+      "fina op"
+    ]
   },
   "finna_stad_verb": {
     "word": "finna stad",
@@ -2568,7 +2843,11 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "finne_sted_verb",
-    "_generatedFrom": "de-nb/verbbank.json:stattfinden_verb"
+    "_generatedFrom": "de-nb/verbbank.json:stattfinden_verb",
+    "typos": [
+      "fina stad",
+      "finna sta"
+    ]
   },
   "finna_verb": {
     "word": "finna",
@@ -2591,7 +2870,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "finne_verb",
-    "_generatedFrom": "de-nb/verbbank.json:finden_verb"
+    "_generatedFrom": "de-nb/verbbank.json:finden_verb",
+    "typos": [
+      "fina"
+    ]
   },
   "finne_å_møte_verb": {
     "word": "finne, å møte",
@@ -2599,7 +2881,16 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "finne_å_møte_verb",
-    "_generatedFrom": "es-nb/verbbank.json:encontrar_verb"
+    "_generatedFrom": "es-nb/verbbank.json:encontrar_verb",
+    "typos": [
+      "fine, å møte",
+      "finne, å mote",
+      "finne, a møte"
+    ],
+    "acceptedForms": [
+      "finne, å moete",
+      "finne, aa møte"
+    ]
   },
   "finst_verb": {
     "word": "finst",
@@ -2669,7 +2960,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "fly_av_sted_verb",
-    "_generatedFrom": "de-nb/verbbank.json:abfliegen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:abfliegen_verb",
+    "typos": [
+      "flyga av sta"
+    ]
   },
   "flyga_verb": {
     "word": "flyga",
@@ -2715,7 +3009,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "flytte_inn_verb",
-    "_generatedFrom": "de-nb/verbbank.json:einziehen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:einziehen_verb",
+    "typos": [
+      "flyta in"
+    ]
   },
   "flytta_verb": {
     "word": "flytta",
@@ -2738,7 +3035,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "flytte_verb",
-    "_generatedFrom": "de-nb/verbbank.json:umziehen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:umziehen_verb",
+    "typos": [
+      "flyta"
+    ]
   },
   "forandre_seg_verb": {
     "word": "forandre seg",
@@ -2899,7 +3199,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "forekomme_verb",
-    "_generatedFrom": "de-nb/verbbank.json:vorkommen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:vorkommen_verb",
+    "typos": [
+      "forekoma"
+    ]
   },
   "foreslå_verb": {
     "word": "foreslå",
@@ -2922,7 +3225,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "foreslå_verb",
-    "_generatedFrom": "de-nb/verbbank.json:vorschlagen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:vorschlagen_verb",
+    "typos": [
+      "foresla"
+    ],
+    "acceptedForms": [
+      "foreslaa"
+    ]
   },
   "forestilla_seg_verb": {
     "word": "forestilla seg",
@@ -2945,7 +3254,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "forestille_seg_verb",
-    "_generatedFrom": "de-nb/verbbank.json:vorstellen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:vorstellen_verb",
+    "typos": [
+      "forestila seg"
+    ]
   },
   "foreta_verb": {
     "word": "foreta",
@@ -2991,7 +3303,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "foretrekke_verb",
-    "_generatedFrom": "es-nb/verbbank.json:preferir_verb"
+    "_generatedFrom": "es-nb/verbbank.json:preferir_verb",
+    "typos": [
+      "foretreka"
+    ]
   },
   "forhøre_seg_verb": {
     "word": "forhøre seg",
@@ -3014,7 +3329,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "forhøre_seg_verb",
-    "_generatedFrom": "de-nb/verbbank.json:sich_erkundigen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:sich_erkundigen_verb",
+    "typos": [
+      "forhore seg"
+    ],
+    "acceptedForms": [
+      "forhoere seg"
+    ]
   },
   "forklare_verb": {
     "word": "forklare",
@@ -3083,7 +3404,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "forlenge_verb",
-    "_generatedFrom": "de-nb/verbbank.json:verlaengern_verb"
+    "_generatedFrom": "de-nb/verbbank.json:verlaengern_verb",
+    "typos": [
+      "forlenka"
+    ]
   },
   "fornærme_verb": {
     "word": "fornærme",
@@ -3106,7 +3430,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "fornærme_verb",
-    "_generatedFrom": "de-nb/verbbank.json:beleidigen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:beleidigen_verb",
+    "typos": [
+      "fornerme"
+    ],
+    "acceptedForms": [
+      "fornaerme"
+    ]
   },
   "fornøyd_med_det_verb": {
     "word": "fornøyd med det",
@@ -3114,7 +3444,13 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "fornøyd_med_det_verb",
-    "_generatedFrom": "de-nb/verbbank.json:damit_zufrieden_verb"
+    "_generatedFrom": "de-nb/verbbank.json:damit_zufrieden_verb",
+    "typos": [
+      "fornoyd med det"
+    ],
+    "acceptedForms": [
+      "fornoeyd med det"
+    ]
   },
   "forråde_verb": {
     "word": "forråde",
@@ -3137,7 +3473,14 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "forråde_verb",
-    "_generatedFrom": "de-nb/verbbank.json:verraten_verb"
+    "_generatedFrom": "de-nb/verbbank.json:verraten_verb",
+    "typos": [
+      "foråde",
+      "forrade"
+    ],
+    "acceptedForms": [
+      "forraade"
+    ]
   },
   "forsikre_verb": {
     "word": "forsikre",
@@ -3168,7 +3511,12 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "forskjellig_verb",
-    "_generatedFrom": "de-nb/verbbank.json:verschieden_verb"
+    "_generatedFrom": "de-nb/verbbank.json:verschieden_verb",
+    "typos": [
+      "forskjeleg",
+      "forskelleg",
+      "forskjellig"
+    ]
   },
   "forskrive_verb": {
     "word": "forskrive",
@@ -3214,7 +3562,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "forstyrre_verb",
-    "_generatedFrom": "de-nb/verbbank.json:stoeren_verb"
+    "_generatedFrom": "de-nb/verbbank.json:stoeren_verb",
+    "typos": [
+      "forstyre"
+    ]
   },
   "forstå_verb": {
     "word": "forstå",
@@ -3237,7 +3588,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "forstå_verb",
-    "_generatedFrom": "de-nb/verbbank.json:verstehen_verb, es-nb/verbbank.json:entender_verb, es-nb/verbbank.json:comprender_verb"
+    "_generatedFrom": "de-nb/verbbank.json:verstehen_verb, es-nb/verbbank.json:entender_verb, es-nb/verbbank.json:comprender_verb",
+    "typos": [
+      "forsta"
+    ],
+    "acceptedForms": [
+      "forstaa"
+    ]
   },
   "forstørre_verb": {
     "word": "forstørre",
@@ -3260,7 +3617,14 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "forstørre_verb",
-    "_generatedFrom": "de-nb/verbbank.json:vergroessern_verb"
+    "_generatedFrom": "de-nb/verbbank.json:vergroessern_verb",
+    "typos": [
+      "forstøre",
+      "forstorre"
+    ],
+    "acceptedForms": [
+      "forstoerre"
+    ]
   },
   "forsømma_verb": {
     "word": "forsømma",
@@ -3283,7 +3647,14 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "forsømme_verb",
-    "_generatedFrom": "de-nb/verbbank.json:versaeumen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:versaeumen_verb",
+    "typos": [
+      "forsøma",
+      "forsomma"
+    ],
+    "acceptedForms": [
+      "forsoemma"
+    ]
   },
   "forsørge_verb": {
     "word": "forsørge",
@@ -3306,7 +3677,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "forsørge_verb",
-    "_generatedFrom": "de-nb/verbbank.json:verpflegen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:verpflegen_verb",
+    "typos": [
+      "forsorge"
+    ],
+    "acceptedForms": [
+      "forsoerge"
+    ]
   },
   "fortelja_verb": {
     "word": "fortelja",
@@ -3398,7 +3775,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "forårsake_verb",
-    "_generatedFrom": "de-nb/verbbank.json:verursachen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:verursachen_verb",
+    "typos": [
+      "forarsake"
+    ],
+    "acceptedForms": [
+      "foraarsake"
+    ]
   },
   "fotografere_verb": {
     "word": "fotografere",
@@ -3467,7 +3850,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "fremme_verb",
-    "_generatedFrom": "de-nb/verbbank.json:foerdern_verb"
+    "_generatedFrom": "de-nb/verbbank.json:foerdern_verb",
+    "typos": [
+      "frema"
+    ]
   },
   "fremstilla_verb": {
     "word": "fremstilla",
@@ -3490,7 +3876,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "fremstille_verb",
-    "_generatedFrom": "de-nb/verbbank.json:darstellen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:darstellen_verb",
+    "typos": [
+      "fremstila"
+    ]
   },
   "frysa_verb": {
     "word": "frysa",
@@ -3559,7 +3948,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "fylle_bensin_verb",
-    "_generatedFrom": "de-nb/verbbank.json:tanken_verb"
+    "_generatedFrom": "de-nb/verbbank.json:tanken_verb",
+    "typos": [
+      "fyla bensin"
+    ]
   },
   "fylla_ut_verb": {
     "word": "fylla ut",
@@ -3582,7 +3974,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "fylle_ut_verb",
-    "_generatedFrom": "de-nb/verbbank.json:ausfuellen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:ausfuellen_verb",
+    "typos": [
+      "fyla ut"
+    ]
   },
   "få_lov_til_verb": {
     "word": "få lov til",
@@ -3605,7 +4000,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "få_lov_til_verb",
-    "_generatedFrom": "de-nb/verbbank.json:duerfen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:duerfen_verb",
+    "typos": [
+      "fa lov til"
+    ],
+    "acceptedForms": [
+      "faa lov til"
+    ]
   },
   "få_verb": {
     "word": "få",
@@ -3628,7 +4029,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "få_verb",
-    "_generatedFrom": "de-nb/verbbank.json:bekommen_verb, de-nb/verbbank.json:kriegen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:bekommen_verb, de-nb/verbbank.json:kriegen_verb",
+    "typos": [
+      "fa"
+    ],
+    "acceptedForms": [
+      "faa"
+    ]
   },
   "født_verb": {
     "word": "født",
@@ -3636,7 +4043,14 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "født_verb",
-    "_generatedFrom": "de-nb/verbbank.json:geboren_verb"
+    "_generatedFrom": "de-nb/verbbank.json:geboren_verb",
+    "typos": [
+      "fodt",
+      "føt"
+    ],
+    "acceptedForms": [
+      "foedt"
+    ]
   },
   "føle_seg_verb": {
     "word": "føle seg",
@@ -3659,7 +4073,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "føle_seg_verb",
-    "_generatedFrom": "de-nb/verbbank.json:sich_fuehlen_verb, es-nb/verbbank.json:sentirse_verb"
+    "_generatedFrom": "de-nb/verbbank.json:sich_fuehlen_verb, es-nb/verbbank.json:sentirse_verb",
+    "typos": [
+      "fole seg"
+    ],
+    "acceptedForms": [
+      "foele seg"
+    ]
   },
   "føle_verb": {
     "word": "føle",
@@ -3682,7 +4102,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "føle_verb",
-    "_generatedFrom": "de-nb/verbbank.json:fuehlen_verb, de-nb/verbbank.json:spueren_verb"
+    "_generatedFrom": "de-nb/verbbank.json:fuehlen_verb, de-nb/verbbank.json:spueren_verb",
+    "typos": [
+      "fole"
+    ],
+    "acceptedForms": [
+      "foele"
+    ]
   },
   "følge_verb": {
     "word": "følge",
@@ -3705,7 +4131,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "følge_verb",
-    "_generatedFrom": "de-nb/verbbank.json:folgen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:folgen_verb",
+    "typos": [
+      "folge"
+    ],
+    "acceptedForms": [
+      "foelge"
+    ]
   },
   "følge_å_fortsette_verb": {
     "word": "følge, å fortsette",
@@ -3713,7 +4145,16 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "følge_å_fortsette_verb",
-    "_generatedFrom": "es-nb/verbbank.json:seguir_verb"
+    "_generatedFrom": "es-nb/verbbank.json:seguir_verb",
+    "typos": [
+      "følge, å fortsete",
+      "folge, å fortsette",
+      "følge, a fortsette"
+    ],
+    "acceptedForms": [
+      "foelge, å fortsette",
+      "følge, aa fortsette"
+    ]
   },
   "føre_inn_verb": {
     "word": "føre inn",
@@ -3736,7 +4177,14 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "føre_inn_verb",
-    "_generatedFrom": "de-nb/verbbank.json:eintragen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:eintragen_verb",
+    "typos": [
+      "føre in",
+      "fore inn"
+    ],
+    "acceptedForms": [
+      "foere inn"
+    ]
   },
   "førebu_seg_på_det_verb": {
     "word": "førebu seg på det",
@@ -3744,7 +4192,15 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "forberede_seg_på_det_verb",
-    "_generatedFrom": "de-nb/verbbank.json:dafuer_vorbereiten_verb"
+    "_generatedFrom": "de-nb/verbbank.json:dafuer_vorbereiten_verb",
+    "typos": [
+      "forebu seg på det",
+      "førebu seg pa det"
+    ],
+    "acceptedForms": [
+      "foerebu seg på det",
+      "førebu seg paa det"
+    ]
   },
   "førebu_seg_verb": {
     "word": "førebu seg",
@@ -3767,7 +4223,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "forberede_seg_verb",
-    "_generatedFrom": "de-nb/verbbank.json:sich_vorbereiten_verb"
+    "_generatedFrom": "de-nb/verbbank.json:sich_vorbereiten_verb",
+    "typos": [
+      "forebu seg"
+    ],
+    "acceptedForms": [
+      "foerebu seg"
+    ]
   },
   "førebu_verb": {
     "word": "førebu",
@@ -3790,7 +4252,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "forberede_verb",
-    "_generatedFrom": "de-nb/verbbank.json:vorbereiten_verb, es-nb/verbbank.json:preparar_verb"
+    "_generatedFrom": "de-nb/verbbank.json:vorbereiten_verb, es-nb/verbbank.json:preparar_verb",
+    "typos": [
+      "forebu"
+    ],
+    "acceptedForms": [
+      "foerebu"
+    ]
   },
   "garantere_verb": {
     "word": "garantere",
@@ -3836,7 +4304,14 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "gi_avkall_på_verb",
-    "_generatedFrom": "de-nb/verbbank.json:verzichten_verb"
+    "_generatedFrom": "de-nb/verbbank.json:verzichten_verb",
+    "typos": [
+      "gi avkal på",
+      "gi avkall pa"
+    ],
+    "acceptedForms": [
+      "gi avkall paa"
+    ]
   },
   "gi_opp_verb": {
     "word": "gi opp",
@@ -3859,7 +4334,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "gi_opp_verb",
-    "_generatedFrom": "de-nb/verbbank.json:aufgeben_verb"
+    "_generatedFrom": "de-nb/verbbank.json:aufgeben_verb",
+    "typos": [
+      "gi op"
+    ]
   },
   "gi_verb": {
     "word": "gi",
@@ -3951,7 +4429,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "gjemme_seg_verb",
-    "_generatedFrom": "de-nb/verbbank.json:sich_verstecken_verb"
+    "_generatedFrom": "de-nb/verbbank.json:sich_verstecken_verb",
+    "typos": [
+      "gjema seg"
+    ]
   },
   "gjenkjenna_verb": {
     "word": "gjenkjenna",
@@ -3974,7 +4455,12 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "gjenkjenne_verb",
-    "_generatedFrom": "de-nb/verbbank.json:erkennen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:erkennen_verb",
+    "typos": [
+      "gjenkjena",
+      "gjenkenna",
+      "gjensjenna"
+    ]
   },
   "gjenta_verb": {
     "word": "gjenta",
@@ -4028,7 +4514,13 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "gjøre_å_lage_verb",
-    "_generatedFrom": "es-nb/verbbank.json:hacer_verb"
+    "_generatedFrom": "es-nb/verbbank.json:hacer_verb",
+    "typos": [
+      "gjera, a lage"
+    ],
+    "acceptedForms": [
+      "gjera, aa lage"
+    ]
   },
   "gjetta_verb": {
     "word": "gjetta",
@@ -4051,7 +4543,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "gjette_verb",
-    "_generatedFrom": "de-nb/verbbank.json:raten_verb"
+    "_generatedFrom": "de-nb/verbbank.json:raten_verb",
+    "typos": [
+      "gjeta"
+    ]
   },
   "gleda_seg_over_verb": {
     "word": "gleda seg over",
@@ -4143,7 +4638,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "glemme_verb",
-    "_generatedFrom": "de-nb/verbbank.json:vergessen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:vergessen_verb",
+    "typos": [
+      "glema"
+    ]
   },
   "godkjenna_verb": {
     "word": "godkjenna",
@@ -4166,7 +4664,12 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "godkjenne_verb",
-    "_generatedFrom": "de-nb/verbbank.json:genehmigen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:genehmigen_verb",
+    "typos": [
+      "godkjena",
+      "godkenna",
+      "godsjenna"
+    ]
   },
   "gratulere_verb": {
     "word": "gratulere",
@@ -4235,7 +4738,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "grille_verb",
-    "_generatedFrom": "de-nb/verbbank.json:grillen_verb, de-nb/verbbank.json:grillieren_verb"
+    "_generatedFrom": "de-nb/verbbank.json:grillen_verb, de-nb/verbbank.json:grillieren_verb",
+    "typos": [
+      "grila"
+    ]
   },
   "gripa_verb": {
     "word": "gripa",
@@ -4281,7 +4787,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "grunnlegge_verb",
-    "_generatedFrom": "de-nb/verbbank.json:gruenden_verb"
+    "_generatedFrom": "de-nb/verbbank.json:gruenden_verb",
+    "typos": [
+      "grunlega"
+    ]
   },
   "gråta_verb": {
     "word": "gråta",
@@ -4304,7 +4813,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "gråte_verb",
-    "_generatedFrom": "de-nb/verbbank.json:weinen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:weinen_verb",
+    "typos": [
+      "grata"
+    ],
+    "acceptedForms": [
+      "graata"
+    ]
   },
   "gå_av_verb": {
     "word": "gå av",
@@ -4327,7 +4842,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "gå_av_verb",
-    "_generatedFrom": "de-nb/verbbank.json:aussteigen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:aussteigen_verb",
+    "typos": [
+      "ga av"
+    ],
+    "acceptedForms": [
+      "gaa av"
+    ]
   },
   "gå_glipp_av_verb": {
     "word": "gå glipp av",
@@ -4350,7 +4871,14 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "gå_glipp_av_verb",
-    "_generatedFrom": "de-nb/verbbank.json:verpassen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:verpassen_verb",
+    "typos": [
+      "gå glip av",
+      "ga glipp av"
+    ],
+    "acceptedForms": [
+      "gaa glipp av"
+    ]
   },
   "gå_mot_verb": {
     "word": "gå mot",
@@ -4373,7 +4901,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "gå_mot_verb",
-    "_generatedFrom": "de-nb/verbbank.json:zugehen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:zugehen_verb",
+    "typos": [
+      "ga mot"
+    ],
+    "acceptedForms": [
+      "gaa mot"
+    ]
   },
   "gå_ned_i_vekt_verb": {
     "word": "gå ned i vekt",
@@ -4381,7 +4915,13 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "gå_ned_i_vekt_verb",
-    "_generatedFrom": "de-nb/verbbank.json:abnehmen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:abnehmen_verb",
+    "typos": [
+      "ga ned i vekt"
+    ],
+    "acceptedForms": [
+      "gaa ned i vekt"
+    ]
   },
   "gå_og_handle_verb": {
     "word": "gå og handle",
@@ -4404,7 +4944,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "gå_og_handle_verb",
-    "_generatedFrom": "de-nb/verbbank.json:einkaufen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:einkaufen_verb",
+    "typos": [
+      "ga og handle"
+    ],
+    "acceptedForms": [
+      "gaa og handle"
+    ]
   },
   "gå_og_svømme_verb": {
     "word": "gå og svømme",
@@ -4427,7 +4973,16 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "gå_og_svømme_verb",
-    "_generatedFrom": "de-nb/verbbank.json:schwimmen_gehen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:schwimmen_gehen_verb",
+    "typos": [
+      "gå og svøme",
+      "gå og svomme",
+      "ga og svømme"
+    ],
+    "acceptedForms": [
+      "gå og svoemme",
+      "gaa og svømme"
+    ]
   },
   "gå_opp_å_stige_verb": {
     "word": "gå opp, å stige",
@@ -4435,7 +4990,14 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "gå_opp_å_stige_verb",
-    "_generatedFrom": "es-nb/verbbank.json:subir_verb"
+    "_generatedFrom": "es-nb/verbbank.json:subir_verb",
+    "typos": [
+      "gå op, å stige",
+      "ga opp, a stige"
+    ],
+    "acceptedForms": [
+      "gaa opp, aa stige"
+    ]
   },
   "gå_på_tur_verb": {
     "word": "gå på tur",
@@ -4458,7 +5020,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "gå_på_tur_verb",
-    "_generatedFrom": "de-nb/verbbank.json:wandern_verb"
+    "_generatedFrom": "de-nb/verbbank.json:wandern_verb",
+    "typos": [
+      "ga pa tur"
+    ],
+    "acceptedForms": [
+      "gaa paa tur"
+    ]
   },
   "gå_seg_bort_verb": {
     "word": "gå seg bort",
@@ -4481,7 +5049,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "gå_seg_bort_verb",
-    "_generatedFrom": "de-nb/verbbank.json:sich_verlaufen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:sich_verlaufen_verb",
+    "typos": [
+      "ga seg bort"
+    ],
+    "acceptedForms": [
+      "gaa seg bort"
+    ]
   },
   "gå_tur_verb": {
     "word": "gå tur",
@@ -4504,7 +5078,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "gå_tur_verb",
-    "_generatedFrom": "de-nb/verbbank.json:spazieren_gehen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:spazieren_gehen_verb",
+    "typos": [
+      "ga tur"
+    ],
+    "acceptedForms": [
+      "gaa tur"
+    ]
   },
   "gå_ut_verb": {
     "word": "gå ut",
@@ -4527,7 +5107,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "gå_ut_verb",
-    "_generatedFrom": "de-nb/verbbank.json:ausgehen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:ausgehen_verb",
+    "typos": [
+      "ga ut"
+    ],
+    "acceptedForms": [
+      "gaa ut"
+    ]
   },
   "gå_ut_å_dra_verb": {
     "word": "gå ut, å dra",
@@ -4535,7 +5121,13 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "gå_ut_å_dra_verb",
-    "_generatedFrom": "es-nb/verbbank.json:salir_verb"
+    "_generatedFrom": "es-nb/verbbank.json:salir_verb",
+    "typos": [
+      "ga ut, a dra"
+    ],
+    "acceptedForms": [
+      "gaa ut, aa dra"
+    ]
   },
   "gå_verb": {
     "word": "gå",
@@ -4558,7 +5150,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "gå_verb",
-    "_generatedFrom": "de-nb/verbbank.json:gehen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:gehen_verb",
+    "typos": [
+      "ga"
+    ],
+    "acceptedForms": [
+      "gaa"
+    ]
   },
   "gå_å_dra_verb": {
     "word": "gå, å dra",
@@ -4566,7 +5164,13 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "gå_å_dra_verb",
-    "_generatedFrom": "es-nb/verbbank.json:ir_verb"
+    "_generatedFrom": "es-nb/verbbank.json:ir_verb",
+    "typos": [
+      "ga, a dra"
+    ],
+    "acceptedForms": [
+      "gaa, aa dra"
+    ]
   },
   "gå_å_spasere_verb": {
     "word": "gå, å spasere",
@@ -4574,7 +5178,13 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "gå_å_spasere_verb",
-    "_generatedFrom": "es-nb/verbbank.json:caminar_verb"
+    "_generatedFrom": "es-nb/verbbank.json:caminar_verb",
+    "typos": [
+      "ga, a spasere"
+    ],
+    "acceptedForms": [
+      "gaa, aa spasere"
+    ]
   },
   "ha_planer_om_verb": {
     "word": "ha planer om",
@@ -4620,7 +5230,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "ha_på_seg_verb",
-    "_generatedFrom": "de-nb/verbbank.json:anhaben_verb, de-nb/verbbank.json:tragen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:anhaben_verb, de-nb/verbbank.json:tragen_verb",
+    "typos": [
+      "ha pa seg"
+    ],
+    "acceptedForms": [
+      "ha paa seg"
+    ]
   },
   "ha_verb": {
     "word": "ha",
@@ -4689,7 +5305,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "holde_opp_verb",
-    "_generatedFrom": "de-nb/verbbank.json:aufhalten_verb"
+    "_generatedFrom": "de-nb/verbbank.json:aufhalten_verb",
+    "typos": [
+      "halda op"
+    ]
   },
   "halda_verb": {
     "word": "halda",
@@ -4812,7 +5431,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "henge_verb",
-    "_generatedFrom": "de-nb/verbbank.json:haengen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:haengen_verb",
+    "typos": [
+      "henka"
+    ]
   },
   "hengt_verb": {
     "word": "hengt",
@@ -4820,7 +5442,10 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "hengt_verb",
-    "_generatedFrom": "de-nb/verbbank.json:gehangen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:gehangen_verb",
+    "typos": [
+      "henkt"
+    ]
   },
   "henta_verb": {
     "word": "henta",
@@ -4958,7 +5583,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "hjelpe_verb",
-    "_generatedFrom": "de-nb/verbbank.json:helfen_verb, es-nb/verbbank.json:ayudar_verb"
+    "_generatedFrom": "de-nb/verbbank.json:helfen_verb, es-nb/verbbank.json:ayudar_verb",
+    "typos": [
+      "jelpa"
+    ]
   },
   "hoppa_verb": {
     "word": "hoppa",
@@ -4981,7 +5609,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "hoppe_verb",
-    "_generatedFrom": "de-nb/verbbank.json:springen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:springen_verb",
+    "typos": [
+      "hopa"
+    ]
   },
   "hosta_verb": {
     "word": "hosta",
@@ -5027,7 +5658,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "håpe_verb",
-    "_generatedFrom": "de-nb/verbbank.json:hoffen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:hoffen_verb",
+    "typos": [
+      "hape"
+    ],
+    "acceptedForms": [
+      "haape"
+    ]
   },
   "høyra_på_å_lytte_verb": {
     "word": "høyra på, å lytte",
@@ -5035,7 +5672,16 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "høre_på_å_lytte_verb",
-    "_generatedFrom": "es-nb/verbbank.json:escuchar_verb"
+    "_generatedFrom": "es-nb/verbbank.json:escuchar_verb",
+    "typos": [
+      "høyra på, å lyte",
+      "hoyra på, å lytte",
+      "høyra pa, a lytte"
+    ],
+    "acceptedForms": [
+      "hoeyra på, å lytte",
+      "høyra paa, aa lytte"
+    ]
   },
   "høyra_verb": {
     "word": "høyra",
@@ -5058,7 +5704,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "høre_verb",
-    "_generatedFrom": "de-nb/verbbank.json:hoeren_verb, es-nb/verbbank.json:oir_verb"
+    "_generatedFrom": "de-nb/verbbank.json:hoeren_verb, es-nb/verbbank.json:oir_verb",
+    "typos": [
+      "hoyra"
+    ],
+    "acceptedForms": [
+      "hoeyra"
+    ]
   },
   "høyrest_ut_verb": {
     "word": "høyrest ut",
@@ -5081,7 +5733,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "høres_ut_verb",
-    "_generatedFrom": "de-nb/verbbank.json:klingen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:klingen_verb",
+    "typos": [
+      "hoyrest ut"
+    ],
+    "acceptedForms": [
+      "hoeyrest ut"
+    ]
   },
   "i_forgårs_verb": {
     "word": "i forgårs",
@@ -5089,7 +5747,13 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "i_forgårs_verb",
-    "_generatedFrom": "de-nb/verbbank.json:vorgestern_verb"
+    "_generatedFrom": "de-nb/verbbank.json:vorgestern_verb",
+    "typos": [
+      "i forgars"
+    ],
+    "acceptedForms": [
+      "i forgaars"
+    ]
   },
   "i_går_verb": {
     "word": "i går",
@@ -5097,7 +5761,13 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "i_går_verb",
-    "_generatedFrom": "de-nb/verbbank.json:gestern_verb"
+    "_generatedFrom": "de-nb/verbbank.json:gestern_verb",
+    "typos": [
+      "i gar"
+    ],
+    "acceptedForms": [
+      "i gaar"
+    ]
   },
   "i_mellomtiden_verb": {
     "word": "i mellomtiden",
@@ -5105,7 +5775,10 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "i_mellomtiden_verb",
-    "_generatedFrom": "de-nb/verbbank.json:inzwischen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:inzwischen_verb",
+    "typos": [
+      "i melomtiden"
+    ]
   },
   "i_overmorgon_verb": {
     "word": "i overmorgon",
@@ -5121,7 +5794,13 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "i_sør_verb",
-    "_generatedFrom": "de-nb/verbbank.json:im_sueden_verb"
+    "_generatedFrom": "de-nb/verbbank.json:im_sueden_verb",
+    "typos": [
+      "i sor"
+    ],
+    "acceptedForms": [
+      "i soer"
+    ]
   },
   "ikka_finne_verb": {
     "word": "ikka finne",
@@ -5144,7 +5823,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "ikke_finne_verb",
-    "_generatedFrom": "de-nb/verbbank.json:nicht_finden_verb"
+    "_generatedFrom": "de-nb/verbbank.json:nicht_finden_verb",
+    "typos": [
+      "ika fine"
+    ]
   },
   "informere_verb": {
     "word": "informere",
@@ -5190,7 +5872,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "inne_verb",
-    "_generatedFrom": "de-nb/verbbank.json:drinnen_verb, de-nb/verbbank.json:innen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:drinnen_verb, de-nb/verbbank.json:innen_verb",
+    "typos": [
+      "ina"
+    ]
   },
   "innrede_verb": {
     "word": "innrede",
@@ -5213,7 +5898,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "innrede_verb",
-    "_generatedFrom": "de-nb/verbbank.json:einrichten_verb"
+    "_generatedFrom": "de-nb/verbbank.json:einrichten_verb",
+    "typos": [
+      "inrede"
+    ]
   },
   "innta_verb": {
     "word": "innta",
@@ -5236,7 +5924,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "innta_verb",
-    "_generatedFrom": "de-nb/verbbank.json:einnehmen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:einnehmen_verb",
+    "typos": [
+      "inta"
+    ]
   },
   "inntreffa_verb": {
     "word": "inntreffa",
@@ -5259,7 +5950,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "inntreffe_verb",
-    "_generatedFrom": "de-nb/verbbank.json:sich_ereignen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:sich_ereignen_verb",
+    "typos": [
+      "intrefa"
+    ]
   },
   "installere_verb": {
     "word": "installere",
@@ -5282,7 +5976,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "installere_verb",
-    "_generatedFrom": "de-nb/verbbank.json:installieren_verb"
+    "_generatedFrom": "de-nb/verbbank.json:installieren_verb",
+    "typos": [
+      "instalere"
+    ]
   },
   "interessere_seg_verb": {
     "word": "interessere seg",
@@ -5305,7 +6002,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "interessere_seg_verb",
-    "_generatedFrom": "de-nb/verbbank.json:sich_interessieren_verb"
+    "_generatedFrom": "de-nb/verbbank.json:sich_interessieren_verb",
+    "typos": [
+      "interesere seg"
+    ]
   },
   "interessere_verb": {
     "word": "interessere",
@@ -5329,7 +6029,10 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "interessere_verb",
     "usageNotes": "seg",
-    "_generatedFrom": "de-nb/verbbank.json:interessieren_verb, es-nb/verbbank.json:interesar_verb"
+    "_generatedFrom": "de-nb/verbbank.json:interessieren_verb, es-nb/verbbank.json:interesar_verb",
+    "typos": [
+      "interesere"
+    ]
   },
   "invitere_verb": {
     "word": "invitere",
@@ -5375,7 +6078,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "irritere_seg_over_verb",
-    "_generatedFrom": "de-nb/verbbank.json:sich_aergern_ueber_verb"
+    "_generatedFrom": "de-nb/verbbank.json:sich_aergern_ueber_verb",
+    "typos": [
+      "iritere seg over"
+    ]
   },
   "irritere_seg_verb": {
     "word": "irritere seg",
@@ -5398,7 +6104,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "irritere_seg_verb",
-    "_generatedFrom": "de-nb/verbbank.json:sich_aergern_verb"
+    "_generatedFrom": "de-nb/verbbank.json:sich_aergern_verb",
+    "typos": [
+      "iritere seg"
+    ]
   },
   "jakta_verb": {
     "word": "jakta",
@@ -5444,7 +6153,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "jobbe_verb",
-    "_generatedFrom": "de-nb/verbbank.json:arbeiten_verb, es-nb/verbbank.json:trabajar_verb"
+    "_generatedFrom": "de-nb/verbbank.json:arbeiten_verb, es-nb/verbbank.json:trabajar_verb",
+    "typos": [
+      "joba"
+    ]
   },
   "kasta_verb": {
     "word": "kasta",
@@ -5490,7 +6202,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "kikke_verb",
-    "_generatedFrom": "de-nb/verbbank.json:schauen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:schauen_verb",
+    "typos": [
+      "kika"
+    ]
   },
   "kjede_seg_verb": {
     "word": "kjede seg",
@@ -5513,7 +6228,11 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "kjede_seg_verb",
-    "_generatedFrom": "de-nb/verbbank.json:sich_langweilen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:sich_langweilen_verb",
+    "typos": [
+      "kede seg",
+      "sjede seg"
+    ]
   },
   "kjempa_verb": {
     "word": "kjempa",
@@ -5536,7 +6255,11 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "kjempe_verb",
-    "_generatedFrom": "de-nb/verbbank.json:kaempfen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:kaempfen_verb",
+    "typos": [
+      "kempa",
+      "sjempa"
+    ]
   },
   "kjenna_verb": {
     "word": "kjenna",
@@ -5559,7 +6282,12 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "kjenne_verb",
-    "_generatedFrom": "de-nb/verbbank.json:kennen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:kennen_verb",
+    "typos": [
+      "kjena",
+      "kenna",
+      "sjenna"
+    ]
   },
   "kjenne_å_bli_kjent_med_verb": {
     "word": "kjenne, å bli kjent med",
@@ -5567,7 +6295,17 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "kjenne_å_bli_kjent_med_verb",
-    "_generatedFrom": "es-nb/verbbank.json:conocer_verb"
+    "_generatedFrom": "es-nb/verbbank.json:conocer_verb",
+    "typos": [
+      "kjene, å bli kjent med",
+      "kjenne, å bli kjent me",
+      "kenne, å bli kent med",
+      "sjenne, å bli sjent med",
+      "kjenne, a bli kjent med"
+    ],
+    "acceptedForms": [
+      "kjenne, aa bli kjent med"
+    ]
   },
   "kjæle_verb": {
     "word": "kjæle",
@@ -5590,7 +6328,15 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "kjæle_verb",
-    "_generatedFrom": "de-nb/verbbank.json:streicheln_verb"
+    "_generatedFrom": "de-nb/verbbank.json:streicheln_verb",
+    "typos": [
+      "kæle",
+      "sjæle",
+      "kjele"
+    ],
+    "acceptedForms": [
+      "kjaele"
+    ]
   },
   "kjøpe_verb": {
     "word": "kjøpe",
@@ -5613,7 +6359,15 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "kjøpe_verb",
-    "_generatedFrom": "de-nb/verbbank.json:kaufen_verb, es-nb/verbbank.json:comprar_verb"
+    "_generatedFrom": "de-nb/verbbank.json:kaufen_verb, es-nb/verbbank.json:comprar_verb",
+    "typos": [
+      "køpe",
+      "sjøpe",
+      "kjope"
+    ],
+    "acceptedForms": [
+      "kjoepe"
+    ]
   },
   "klaffa_verb": {
     "word": "klaffa",
@@ -5636,7 +6390,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "klaffe_verb",
-    "_generatedFrom": "de-nb/verbbank.json:klappen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:klappen_verb",
+    "typos": [
+      "klafa"
+    ]
   },
   "klage_verb": {
     "word": "klage",
@@ -5682,7 +6439,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "klappe_verb",
-    "_generatedFrom": "de-nb/verbbank.json:streicheln_verb"
+    "_generatedFrom": "de-nb/verbbank.json:streicheln_verb",
+    "typos": [
+      "klapa"
+    ]
   },
   "klara_seg_verb": {
     "word": "klara seg",
@@ -5820,7 +6580,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "kle_på_seg_verb",
-    "_generatedFrom": "de-nb/verbbank.json:anziehen_verb, de-nb/verbbank.json:sich_anziehen_verb, es-nb/verbbank.json:vestirse_verb"
+    "_generatedFrom": "de-nb/verbbank.json:anziehen_verb, de-nb/verbbank.json:sich_anziehen_verb, es-nb/verbbank.json:vestirse_verb",
+    "typos": [
+      "kle pa seg"
+    ],
+    "acceptedForms": [
+      "kle paa seg"
+    ]
   },
   "klikka_på_verb": {
     "word": "klikka på",
@@ -5843,7 +6609,14 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "klikke_på_verb",
-    "_generatedFrom": "de-nb/verbbank.json:anklicken_verb"
+    "_generatedFrom": "de-nb/verbbank.json:anklicken_verb",
+    "typos": [
+      "klika på",
+      "klikka pa"
+    ],
+    "acceptedForms": [
+      "klikka paa"
+    ]
   },
   "klikka_verb": {
     "word": "klikka",
@@ -5866,7 +6639,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "klikke_verb",
-    "_generatedFrom": "de-nb/verbbank.json:klicken_verb"
+    "_generatedFrom": "de-nb/verbbank.json:klicken_verb",
+    "typos": [
+      "klika"
+    ]
   },
   "knuse_å_brekke_verb": {
     "word": "knuse, å brekke",
@@ -5874,7 +6650,14 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "knuse_å_brekke_verb",
-    "_generatedFrom": "es-nb/verbbank.json:romper_verb"
+    "_generatedFrom": "es-nb/verbbank.json:romper_verb",
+    "typos": [
+      "knuse, å breke",
+      "knuse, a brekke"
+    ],
+    "acceptedForms": [
+      "knuse, aa brekke"
+    ]
   },
   "koble_til_verb": {
     "word": "koble til",
@@ -6035,7 +6818,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "kontrollere_verb",
-    "_generatedFrom": "de-nb/verbbank.json:kontrollieren_verb, de-nb/verbbank.json:ueberpruefen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:kontrollieren_verb, de-nb/verbbank.json:ueberpruefen_verb",
+    "typos": [
+      "kontrolere"
+    ]
   },
   "kopiere_verb": {
     "word": "kopiere",
@@ -6104,7 +6890,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "krangle_verb",
-    "_generatedFrom": "de-nb/verbbank.json:sich_streiten_verb"
+    "_generatedFrom": "de-nb/verbbank.json:sich_streiten_verb",
+    "typos": [
+      "krankle"
+    ]
   },
   "kreve_verb": {
     "word": "kreve",
@@ -6173,7 +6962,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "krysse_av_verb",
-    "_generatedFrom": "de-nb/verbbank.json:ankreuzen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:ankreuzen_verb",
+    "typos": [
+      "krysa av"
+    ]
   },
   "kryssa_verb": {
     "word": "kryssa",
@@ -6196,7 +6988,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "krysse_verb",
-    "_generatedFrom": "de-nb/verbbank.json:ueberqueren_verb"
+    "_generatedFrom": "de-nb/verbbank.json:ueberqueren_verb",
+    "typos": [
+      "krysa"
+    ]
   },
   "kunna_verb": {
     "word": "kunna",
@@ -6219,7 +7014,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "kunne_verb",
-    "_generatedFrom": "de-nb/verbbank.json:koennen_verb, es-nb/verbbank.json:poder_verb"
+    "_generatedFrom": "de-nb/verbbank.json:koennen_verb, es-nb/verbbank.json:poder_verb",
+    "typos": [
+      "kuna"
+    ]
   },
   "kunngjera_verb": {
     "word": "kunngjera",
@@ -6242,7 +7040,11 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "kunngjøre_verb",
-    "_generatedFrom": "de-nb/verbbank.json:ankuendigen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:ankuendigen_verb",
+    "typos": [
+      "kungjera",
+      "kunnkjera"
+    ]
   },
   "kvile_seg_verb": {
     "word": "kvile seg",
@@ -6265,7 +7067,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "hvile_seg_verb",
-    "_generatedFrom": "de-nb/verbbank.json:sich_ausruhen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:sich_ausruhen_verb",
+    "typos": [
+      "hvile seg"
+    ]
   },
   "kvile_verb": {
     "word": "kvile",
@@ -6288,7 +7093,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "hvile_verb",
-    "_generatedFrom": "es-nb/verbbank.json:descansar_verb"
+    "_generatedFrom": "es-nb/verbbank.json:descansar_verb",
+    "typos": [
+      "hvile"
+    ]
   },
   "kyssa_verb": {
     "word": "kyssa",
@@ -6311,7 +7119,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "kysse_verb",
-    "_generatedFrom": "de-nb/verbbank.json:kuessen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:kuessen_verb",
+    "typos": [
+      "kysa"
+    ]
   },
   "køyra_av_stad_verb": {
     "word": "køyra av stad",
@@ -6334,7 +7145,14 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "kjøre_av_sted_verb",
-    "_generatedFrom": "de-nb/verbbank.json:losfahren_verb"
+    "_generatedFrom": "de-nb/verbbank.json:losfahren_verb",
+    "typos": [
+      "køyra av sta",
+      "koyra av stad"
+    ],
+    "acceptedForms": [
+      "koeyra av stad"
+    ]
   },
   "køyra_forbi_verb": {
     "word": "køyra forbi",
@@ -6357,7 +7175,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "kjøre_forbi_verb",
-    "_generatedFrom": "de-nb/verbbank.json:ueberholen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:ueberholen_verb",
+    "typos": [
+      "koyra forbi"
+    ],
+    "acceptedForms": [
+      "koeyra forbi"
+    ]
   },
   "køyra_over_verb": {
     "word": "køyra over",
@@ -6380,7 +7204,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "kjøre_over_verb",
-    "_generatedFrom": "de-nb/verbbank.json:ueberfahren_verb"
+    "_generatedFrom": "de-nb/verbbank.json:ueberfahren_verb",
+    "typos": [
+      "koyra over"
+    ],
+    "acceptedForms": [
+      "koeyra over"
+    ]
   },
   "køyra_verb": {
     "word": "køyra",
@@ -6403,7 +7233,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "kjøre_verb",
-    "_generatedFrom": "de-nb/verbbank.json:fahren_verb"
+    "_generatedFrom": "de-nb/verbbank.json:fahren_verb",
+    "typos": [
+      "koyra"
+    ],
+    "acceptedForms": [
+      "koeyra"
+    ]
   },
   "la_verb": {
     "word": "la",
@@ -6449,7 +7285,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "lade_opp_verb",
-    "_generatedFrom": "de-nb/verbbank.json:aufladen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:aufladen_verb",
+    "typos": [
+      "lade op"
+    ]
   },
   "laga_mat_verb": {
     "word": "laga mat",
@@ -6542,7 +7381,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "laste_ned_verb",
-    "_generatedFrom": "de-nb/verbbank.json:herunterladen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:herunterladen_verb",
+    "typos": [
+      "lasta ne"
+    ]
   },
   "lasta_opp_verb": {
     "word": "lasta opp",
@@ -6565,7 +7407,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "laste_opp_verb",
-    "_generatedFrom": "de-nb/verbbank.json:hochladen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:hochladen_verb",
+    "typos": [
+      "lasta op"
+    ]
   },
   "le_verb": {
     "word": "le",
@@ -6634,7 +7479,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "legge_merke_til_verb",
-    "_generatedFrom": "de-nb/verbbank.json:beachten_verb, de-nb/verbbank.json:bemerken_verb"
+    "_generatedFrom": "de-nb/verbbank.json:beachten_verb, de-nb/verbbank.json:bemerken_verb",
+    "typos": [
+      "legja merke til"
+    ]
   },
   "leggja_seg_verb": {
     "word": "leggja seg",
@@ -6657,7 +7505,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "legge_seg_verb",
-    "_generatedFrom": "es-nb/verbbank.json:acostarse_verb"
+    "_generatedFrom": "es-nb/verbbank.json:acostarse_verb",
+    "typos": [
+      "legja seg"
+    ]
   },
   "leggja_verb": {
     "word": "leggja",
@@ -6680,7 +7531,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "legge_verb",
-    "_generatedFrom": "de-nb/verbbank.json:legen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:legen_verb",
+    "typos": [
+      "legja"
+    ]
   },
   "leie_ut_verb": {
     "word": "leie ut",
@@ -6749,7 +7603,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "lese_høyt_verb",
-    "_generatedFrom": "de-nb/verbbank.json:vorlesen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:vorlesen_verb",
+    "typos": [
+      "lesa hoyt"
+    ],
+    "acceptedForms": [
+      "lesa hoeyt"
+    ]
   },
   "lesa_verb": {
     "word": "lesa",
@@ -6788,7 +7648,16 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "lete_etter_å_søke_verb",
-    "_generatedFrom": "es-nb/verbbank.json:buscar_verb"
+    "_generatedFrom": "es-nb/verbbank.json:buscar_verb",
+    "typos": [
+      "lete eter, å søke",
+      "lete etter, å soke",
+      "lete etter, a søke"
+    ],
+    "acceptedForms": [
+      "lete etter, å soeke",
+      "lete etter, aa søke"
+    ]
   },
   "lete_verb": {
     "word": "lete",
@@ -6834,7 +7703,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "lette_verb",
-    "_generatedFrom": "de-nb/verbbank.json:erleichtern_verb"
+    "_generatedFrom": "de-nb/verbbank.json:erleichtern_verb",
+    "typos": [
+      "leta"
+    ]
   },
   "leve_verb": {
     "word": "leve",
@@ -6949,7 +7821,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "ligge_verb",
-    "_generatedFrom": "de-nb/verbbank.json:liegen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:liegen_verb",
+    "typos": [
+      "ligja"
+    ]
   },
   "lika_godt_verb": {
     "word": "lika godt",
@@ -6972,7 +7847,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "like_godt_verb",
-    "_generatedFrom": "de-nb/verbbank.json:lieben_verb"
+    "_generatedFrom": "de-nb/verbbank.json:lieben_verb",
+    "typos": [
+      "lika got"
+    ]
   },
   "lika_verb": {
     "word": "lika",
@@ -7026,7 +7904,10 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "litt_verb",
-    "_generatedFrom": "de-nb/verbbank.json:bisschen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:bisschen_verb",
+    "typos": [
+      "lit"
+    ]
   },
   "love_verb": {
     "word": "love",
@@ -7072,7 +7953,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "lukke_verb",
-    "_generatedFrom": "de-nb/verbbank.json:schliessen_verb, de-nb/verbbank.json:zumachen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:schliessen_verb, de-nb/verbbank.json:zumachen_verb",
+    "typos": [
+      "luka"
+    ]
   },
   "lukta_verb": {
     "word": "lukta",
@@ -7141,7 +8025,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "lykkes_verb",
-    "_generatedFrom": "de-nb/verbbank.json:gelingen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:gelingen_verb",
+    "typos": [
+      "lykes"
+    ]
   },
   "lyne_verb": {
     "word": "lyne",
@@ -7187,7 +8074,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "lytte_verb",
-    "_generatedFrom": "de-nb/verbbank.json:zuhoeren_verb"
+    "_generatedFrom": "de-nb/verbbank.json:zuhoeren_verb",
+    "typos": [
+      "lyta"
+    ]
   },
   "lyve_verb": {
     "word": "lyve",
@@ -7233,7 +8123,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "låne_verb",
-    "_generatedFrom": "de-nb/verbbank.json:leihen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:leihen_verb",
+    "typos": [
+      "lane"
+    ],
+    "acceptedForms": [
+      "laane"
+    ]
   },
   "læra_verb": {
     "word": "læra",
@@ -7256,7 +8152,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "lære_verb",
-    "_generatedFrom": "de-nb/verbbank.json:lernen_verb, es-nb/verbbank.json:aprender_verb"
+    "_generatedFrom": "de-nb/verbbank.json:lernen_verb, es-nb/verbbank.json:aprender_verb",
+    "typos": [
+      "lera"
+    ],
+    "acceptedForms": [
+      "laera"
+    ]
   },
   "løfta_verb": {
     "word": "løfta",
@@ -7279,7 +8181,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "løfte_verb",
-    "_generatedFrom": "de-nb/verbbank.json:heben_verb"
+    "_generatedFrom": "de-nb/verbbank.json:heben_verb",
+    "typos": [
+      "lofta"
+    ],
+    "acceptedForms": [
+      "loefta"
+    ]
   },
   "lønna_seg_verb": {
     "word": "lønna seg",
@@ -7302,7 +8210,14 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "lønne_seg_verb",
-    "_generatedFrom": "de-nb/verbbank.json:sich_lohnen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:sich_lohnen_verb",
+    "typos": [
+      "løna seg",
+      "lonna seg"
+    ],
+    "acceptedForms": [
+      "loenna seg"
+    ]
   },
   "løse_opp_verb": {
     "word": "løse opp",
@@ -7325,7 +8240,14 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "løse_opp_verb",
-    "_generatedFrom": "de-nb/verbbank.json:aufloesen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:aufloesen_verb",
+    "typos": [
+      "løse op",
+      "lose opp"
+    ],
+    "acceptedForms": [
+      "loese opp"
+    ]
   },
   "løse_verb": {
     "word": "løse",
@@ -7348,7 +8270,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "løse_verb",
-    "_generatedFrom": "de-nb/verbbank.json:loesen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:loesen_verb",
+    "typos": [
+      "lose"
+    ],
+    "acceptedForms": [
+      "loese"
+    ]
   },
   "male_verb": {
     "word": "male",
@@ -7394,7 +8322,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "mangle_verb",
-    "_generatedFrom": "de-nb/verbbank.json:fehlen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:fehlen_verb",
+    "typos": [
+      "mankle"
+    ]
   },
   "markere_verb": {
     "word": "markere",
@@ -7463,7 +8394,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "meddele_verb",
-    "_generatedFrom": "de-nb/verbbank.json:mitteilen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:mitteilen_verb",
+    "typos": [
+      "medele"
+    ]
   },
   "melda_seg_på_verb": {
     "word": "melda seg på",
@@ -7486,7 +8420,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "melde_seg_på_verb",
-    "_generatedFrom": "de-nb/verbbank.json:anmelden_verb"
+    "_generatedFrom": "de-nb/verbbank.json:anmelden_verb",
+    "typos": [
+      "melda seg pa"
+    ],
+    "acceptedForms": [
+      "melda seg paa"
+    ]
   },
   "melda_verb": {
     "word": "melda",
@@ -7594,7 +8534,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "minne_verb",
-    "_generatedFrom": "de-nb/verbbank.json:erinnern_verb"
+    "_generatedFrom": "de-nb/verbbank.json:erinnern_verb",
+    "typos": [
+      "mina"
+    ]
   },
   "mista_verb": {
     "word": "mista",
@@ -7625,7 +8568,13 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "miste_å_tape_verb",
-    "_generatedFrom": "es-nb/verbbank.json:perder_verb"
+    "_generatedFrom": "es-nb/verbbank.json:perder_verb",
+    "typos": [
+      "miste, a tape"
+    ],
+    "acceptedForms": [
+      "miste, aa tape"
+    ]
   },
   "moderne_verb": {
     "word": "moderne",
@@ -7717,7 +8666,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "motta_verb",
-    "_generatedFrom": "de-nb/verbbank.json:empfangen_verb, de-nb/verbbank.json:erhalten_verb, es-nb/verbbank.json:recibir_verb"
+    "_generatedFrom": "de-nb/verbbank.json:empfangen_verb, de-nb/verbbank.json:erhalten_verb, es-nb/verbbank.json:recibir_verb",
+    "typos": [
+      "mota"
+    ]
   },
   "måle_verb": {
     "word": "måle",
@@ -7740,7 +8692,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "måle_verb",
-    "_generatedFrom": "de-nb/verbbank.json:messen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:messen_verb",
+    "typos": [
+      "male"
+    ],
+    "acceptedForms": [
+      "maale"
+    ]
   },
   "måtta_verb": {
     "word": "måtta",
@@ -7763,7 +8721,14 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "måtte_verb",
-    "_generatedFrom": "de-nb/verbbank.json:muessen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:muessen_verb",
+    "typos": [
+      "måta",
+      "matta"
+    ],
+    "acceptedForms": [
+      "maatta"
+    ]
   },
   "måtte_å_skylde_verb": {
     "word": "måtte, å skylde",
@@ -7771,7 +8736,14 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "måtte_å_skylde_verb",
-    "_generatedFrom": "es-nb/verbbank.json:deber_verb"
+    "_generatedFrom": "es-nb/verbbank.json:deber_verb",
+    "typos": [
+      "måte, å skylde",
+      "matte, a skylde"
+    ],
+    "acceptedForms": [
+      "maatte, aa skylde"
+    ]
   },
   "møte_verb": {
     "word": "møte",
@@ -7794,7 +8766,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "møte_verb",
-    "_generatedFrom": "de-nb/verbbank.json:begegnen_verb, de-nb/verbbank.json:treffen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:begegnen_verb, de-nb/verbbank.json:treffen_verb",
+    "typos": [
+      "mote"
+    ],
+    "acceptedForms": [
+      "moete"
+    ]
   },
   "møtes_verb": {
     "word": "møtes",
@@ -7817,7 +8795,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "møtes_verb",
-    "_generatedFrom": "de-nb/verbbank.json:sich_treffen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:sich_treffen_verb",
+    "typos": [
+      "motes"
+    ],
+    "acceptedForms": [
+      "moetes"
+    ]
   },
   "nede_verb": {
     "word": "nede",
@@ -7856,7 +8840,10 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "nettopp_verb",
-    "_generatedFrom": "de-nb/verbbank.json:eben_verb"
+    "_generatedFrom": "de-nb/verbbank.json:eben_verb",
+    "typos": [
+      "netop"
+    ]
   },
   "nevne_verb": {
     "word": "nevne",
@@ -7933,7 +8920,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "nytte_verb",
-    "_generatedFrom": "de-nb/verbbank.json:nuetzen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:nuetzen_verb",
+    "typos": [
+      "nyta"
+    ]
   },
   "nærme_seg_verb": {
     "word": "nærme seg",
@@ -7956,7 +8946,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "nærme_seg_verb",
-    "_generatedFrom": "de-nb/verbbank.json:sich_naehern_verb"
+    "_generatedFrom": "de-nb/verbbank.json:sich_naehern_verb",
+    "typos": [
+      "nerme seg"
+    ],
+    "acceptedForms": [
+      "naerme seg"
+    ]
   },
   "observere_verb": {
     "word": "observere",
@@ -8018,7 +9014,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "okkupere_verb",
-    "_generatedFrom": "de-nb/verbbank.json:besetzen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:besetzen_verb",
+    "typos": [
+      "okupere"
+    ]
   },
   "omfavne_verb": {
     "word": "omfavne",
@@ -8064,7 +9063,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "omgås_verb",
-    "_generatedFrom": "de-nb/verbbank.json:umgehen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:umgehen_verb",
+    "typos": [
+      "omgas"
+    ],
+    "acceptedForms": [
+      "omgaas"
+    ]
   },
   "operere_verb": {
     "word": "operere",
@@ -8110,7 +9115,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "oppe_verb",
-    "_generatedFrom": "de-nb/verbbank.json:oben_verb"
+    "_generatedFrom": "de-nb/verbbank.json:oben_verb",
+    "typos": [
+      "opa"
+    ]
   },
   "oppdage_verb": {
     "word": "oppdage",
@@ -8133,7 +9141,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "oppdage_verb",
-    "_generatedFrom": "de-nb/verbbank.json:entdecken_verb"
+    "_generatedFrom": "de-nb/verbbank.json:entdecken_verb",
+    "typos": [
+      "opdage"
+    ]
   },
   "oppdra_verb": {
     "word": "oppdra",
@@ -8156,7 +9167,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "oppdra_verb",
-    "_generatedFrom": "de-nb/verbbank.json:erziehen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:erziehen_verb",
+    "typos": [
+      "opdra"
+    ]
   },
   "oppfordre_verb": {
     "word": "oppfordre",
@@ -8179,7 +9193,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "oppfordre_verb",
-    "_generatedFrom": "de-nb/verbbank.json:auffordern_verb"
+    "_generatedFrom": "de-nb/verbbank.json:auffordern_verb",
+    "typos": [
+      "opfordre"
+    ]
   },
   "oppfylla_verb": {
     "word": "oppfylla",
@@ -8202,7 +9219,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "oppfylle_verb",
-    "_generatedFrom": "de-nb/verbbank.json:erfuellen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:erfuellen_verb",
+    "typos": [
+      "opfyla"
+    ]
   },
   "oppføre_seg_verb": {
     "word": "oppføre seg",
@@ -8225,7 +9245,14 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "oppføre_seg_verb",
-    "_generatedFrom": "de-nb/verbbank.json:sich_verhalten_verb"
+    "_generatedFrom": "de-nb/verbbank.json:sich_verhalten_verb",
+    "typos": [
+      "opføre seg",
+      "oppfore seg"
+    ],
+    "acceptedForms": [
+      "oppfoere seg"
+    ]
   },
   "oppføre_verb": {
     "word": "oppføre",
@@ -8248,7 +9275,14 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "oppføre_verb",
-    "_generatedFrom": "de-nb/verbbank.json:auffuehren_verb"
+    "_generatedFrom": "de-nb/verbbank.json:auffuehren_verb",
+    "typos": [
+      "opføre",
+      "oppfore"
+    ],
+    "acceptedForms": [
+      "oppfoere"
+    ]
   },
   "oppgi_verb": {
     "word": "oppgi",
@@ -8271,7 +9305,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "oppgi_verb",
-    "_generatedFrom": "de-nb/verbbank.json:angeben_verb"
+    "_generatedFrom": "de-nb/verbbank.json:angeben_verb",
+    "typos": [
+      "opgi"
+    ]
   },
   "oppleve_verb": {
     "word": "oppleve",
@@ -8294,7 +9331,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "oppleve_verb",
-    "_generatedFrom": "de-nb/verbbank.json:erleben_verb"
+    "_generatedFrom": "de-nb/verbbank.json:erleben_verb",
+    "typos": [
+      "opleve"
+    ]
   },
   "oppretta_verb": {
     "word": "oppretta",
@@ -8317,7 +9357,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "opprette_verb",
-    "_generatedFrom": "de-nb/verbbank.json:erstellen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:erstellen_verb",
+    "typos": [
+      "opreta"
+    ]
   },
   "opprøre_verb": {
     "word": "opprøre",
@@ -8340,7 +9383,14 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "opprøre_verb",
-    "_generatedFrom": "de-nb/verbbank.json:aufregen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:aufregen_verb",
+    "typos": [
+      "oprøre",
+      "opprore"
+    ],
+    "acceptedForms": [
+      "opproere"
+    ]
   },
   "oppstå_verb": {
     "word": "oppstå",
@@ -8363,7 +9413,14 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "oppstå_verb",
-    "_generatedFrom": "de-nb/verbbank.json:entstehen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:entstehen_verb",
+    "typos": [
+      "opstå",
+      "oppsta"
+    ],
+    "acceptedForms": [
+      "oppstaa"
+    ]
   },
   "oppsummere_verb": {
     "word": "oppsummere",
@@ -8386,7 +9443,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "oppsummere_verb",
-    "_generatedFrom": "de-nb/verbbank.json:zusammenfassen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:zusammenfassen_verb",
+    "typos": [
+      "opsumere"
+    ]
   },
   "opptre_verb": {
     "word": "opptre",
@@ -8409,7 +9469,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "opptre_verb",
-    "_generatedFrom": "de-nb/verbbank.json:auftreten_verb"
+    "_generatedFrom": "de-nb/verbbank.json:auftreten_verb",
+    "typos": [
+      "optre"
+    ]
   },
   "ordne_verb": {
     "word": "ordne",
@@ -8524,7 +9587,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "overføre_verb",
-    "_generatedFrom": "de-nb/verbbank.json:ueberweisen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:ueberweisen_verb",
+    "typos": [
+      "overfore"
+    ],
+    "acceptedForms": [
+      "overfoere"
+    ]
   },
   "overnatta_verb": {
     "word": "overnatta",
@@ -8547,7 +9616,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "overnatte_verb",
-    "_generatedFrom": "de-nb/verbbank.json:uebernachten_verb"
+    "_generatedFrom": "de-nb/verbbank.json:uebernachten_verb",
+    "typos": [
+      "overnata"
+    ]
   },
   "overraska_verb": {
     "word": "overraska",
@@ -8570,7 +9642,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "overraske_verb",
-    "_generatedFrom": "de-nb/verbbank.json:ueberraschen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:ueberraschen_verb",
+    "typos": [
+      "overaska"
+    ]
   },
   "oversetta_verb": {
     "word": "oversetta",
@@ -8593,7 +9668,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "oversette_verb",
-    "_generatedFrom": "de-nb/verbbank.json:uebersetzen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:uebersetzen_verb",
+    "typos": [
+      "overseta"
+    ]
   },
   "overta_verb": {
     "word": "overta",
@@ -8662,7 +9740,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "pakke_inn_verb",
-    "_generatedFrom": "de-nb/verbbank.json:verpacken_verb"
+    "_generatedFrom": "de-nb/verbbank.json:verpacken_verb",
+    "typos": [
+      "paka in"
+    ]
   },
   "pakka_opp_verb": {
     "word": "pakka opp",
@@ -8685,7 +9766,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "pakke_opp_verb",
-    "_generatedFrom": "de-nb/verbbank.json:auspacken_verb"
+    "_generatedFrom": "de-nb/verbbank.json:auspacken_verb",
+    "typos": [
+      "paka op"
+    ]
   },
   "pakka_verb": {
     "word": "pakka",
@@ -8709,7 +9793,10 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "pakke_verb",
     "usageNotes": "ned i noe",
-    "_generatedFrom": "de-nb/verbbank.json:einpacken_verb, de-nb/verbbank.json:packen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:einpacken_verb, de-nb/verbbank.json:packen_verb",
+    "typos": [
+      "paka"
+    ]
   },
   "parkere_verb": {
     "word": "parkere",
@@ -8755,7 +9842,14 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "passe_på_verb",
-    "_generatedFrom": "de-nb/verbbank.json:achten_verb, de-nb/verbbank.json:aufpassen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:achten_verb, de-nb/verbbank.json:aufpassen_verb",
+    "typos": [
+      "pasa på",
+      "passa pa"
+    ],
+    "acceptedForms": [
+      "passa paa"
+    ]
   },
   "passa_verb": {
     "word": "passa",
@@ -8778,7 +9872,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "passe_verb",
-    "_generatedFrom": "de-nb/verbbank.json:passen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:passen_verb",
+    "typos": [
+      "pasa"
+    ]
   },
   "passere_å_skje_verb": {
     "word": "passere, å skje",
@@ -8786,7 +9883,15 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "passere_å_skje_verb",
-    "_generatedFrom": "es-nb/verbbank.json:pasar_verb"
+    "_generatedFrom": "es-nb/verbbank.json:pasar_verb",
+    "typos": [
+      "pasere, å skje",
+      "passere, å ske",
+      "passere, a skje"
+    ],
+    "acceptedForms": [
+      "passere, aa skje"
+    ]
   },
   "planlegga_verb": {
     "word": "planlegga",
@@ -8809,7 +9914,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "planlegge_verb",
-    "_generatedFrom": "de-nb/verbbank.json:planen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:planen_verb",
+    "typos": [
+      "planlega"
+    ]
   },
   "planta_verb": {
     "word": "planta",
@@ -8878,7 +9986,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "plukke_opp_verb",
-    "_generatedFrom": "de-nb/verbbank.json:aufheben_verb"
+    "_generatedFrom": "de-nb/verbbank.json:aufheben_verb",
+    "typos": [
+      "pluka op"
+    ]
   },
   "presentere_verb": {
     "word": "presentere",
@@ -8970,7 +10081,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "prøve_verb",
-    "_generatedFrom": "de-nb/verbbank.json:probieren_verb, de-nb/verbbank.json:versuchen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:probieren_verb, de-nb/verbbank.json:versuchen_verb",
+    "typos": [
+      "prove"
+    ],
+    "acceptedForms": [
+      "proeve"
+    ]
   },
   "publisere_verb": {
     "word": "publisere",
@@ -9016,7 +10133,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "pusse_tennene_verb",
-    "_generatedFrom": "de-nb/verbbank.json:zaehneputzen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:zaehneputzen_verb",
+    "typos": [
+      "pusa tenene"
+    ]
   },
   "pussa_verb": {
     "word": "pussa",
@@ -9039,7 +10159,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "pusse_verb",
-    "_generatedFrom": "de-nb/verbbank.json:putzen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:putzen_verb",
+    "typos": [
+      "pusa"
+    ]
   },
   "pusta_verb": {
     "word": "pusta",
@@ -9085,7 +10208,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "putte_inn_verb",
-    "_generatedFrom": "es-nb/verbbank.json:meter_verb"
+    "_generatedFrom": "es-nb/verbbank.json:meter_verb",
+    "typos": [
+      "puta in"
+    ]
   },
   "på_grunn_av_det_verb": {
     "word": "på grunn av det",
@@ -9093,7 +10219,14 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "på_grunn_av_det_verb",
-    "_generatedFrom": "de-nb/verbbank.json:deswegen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:deswegen_verb",
+    "typos": [
+      "på grun av det",
+      "pa grunn av det"
+    ],
+    "acceptedForms": [
+      "paa grunn av det"
+    ]
   },
   "på_grunn_av_verb": {
     "word": "på grunn av",
@@ -9101,7 +10234,14 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "på_grunn_av_verb",
-    "_generatedFrom": "de-nb/verbbank.json:wegen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:wegen_verb",
+    "typos": [
+      "på grun av",
+      "pa grunn av"
+    ],
+    "acceptedForms": [
+      "paa grunn av"
+    ]
   },
   "påkledd_verb": {
     "word": "påkledd",
@@ -9109,7 +10249,14 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "påkledd_verb",
-    "_generatedFrom": "de-nb/verbbank.json:angezogen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:angezogen_verb",
+    "typos": [
+      "påkled",
+      "pakledd"
+    ],
+    "acceptedForms": [
+      "paakledd"
+    ]
   },
   "påstå_verb": {
     "word": "påstå",
@@ -9132,7 +10279,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "påstå_verb",
-    "_generatedFrom": "de-nb/verbbank.json:behaupten_verb"
+    "_generatedFrom": "de-nb/verbbank.json:behaupten_verb",
+    "typos": [
+      "pasta"
+    ],
+    "acceptedForms": [
+      "paastaa"
+    ]
   },
   "påvirka_verb": {
     "word": "påvirka",
@@ -9155,7 +10308,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "påvirke_verb",
-    "_generatedFrom": "de-nb/verbbank.json:beeinflussen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:beeinflussen_verb",
+    "typos": [
+      "pavirka"
+    ],
+    "acceptedForms": [
+      "paavirka"
+    ]
   },
   "rapportere_verb": {
     "word": "rapportere",
@@ -9178,7 +10337,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "rapportere_verb",
-    "_generatedFrom": "de-nb/verbbank.json:berichten_verb"
+    "_generatedFrom": "de-nb/verbbank.json:berichten_verb",
+    "typos": [
+      "raportere"
+    ]
   },
   "raskest_verb": {
     "word": "raskest",
@@ -9255,7 +10417,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "redde_verb",
-    "_generatedFrom": "de-nb/verbbank.json:retten_verb"
+    "_generatedFrom": "de-nb/verbbank.json:retten_verb",
+    "typos": [
+      "reda"
+    ]
   },
   "redusere_verb": {
     "word": "redusere",
@@ -9347,7 +10512,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "rengjøre_verb",
-    "_generatedFrom": "de-nb/verbbank.json:putzen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:putzen_verb",
+    "typos": [
+      "reinkjera"
+    ]
   },
   "reise_av_stad_verb": {
     "word": "reise av stad",
@@ -9370,7 +10538,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "reise_av_sted_verb",
-    "_generatedFrom": "de-nb/verbbank.json:abfahren_verb"
+    "_generatedFrom": "de-nb/verbbank.json:abfahren_verb",
+    "typos": [
+      "reise av sta"
+    ]
   },
   "reise_bort_verb": {
     "word": "reise bort",
@@ -9439,7 +10610,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "rekke_verb",
-    "_generatedFrom": "de-nb/verbbank.json:reichen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:reichen_verb",
+    "typos": [
+      "reka"
+    ]
   },
   "rekreere_seg_verb": {
     "word": "rekreere seg",
@@ -9600,7 +10774,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "rette_ut_verb",
-    "_generatedFrom": "de-nb/verbbank.json:ausrichten_verb"
+    "_generatedFrom": "de-nb/verbbank.json:ausrichten_verb",
+    "typos": [
+      "reta ut"
+    ]
   },
   "ri_verb": {
     "word": "ri",
@@ -9646,7 +10823,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "ringe_verb",
-    "_generatedFrom": "de-nb/verbbank.json:anrufen_verb, de-nb/verbbank.json:klingeln_verb, de-nb/verbbank.json:telefonieren_verb"
+    "_generatedFrom": "de-nb/verbbank.json:anrufen_verb, de-nb/verbbank.json:klingeln_verb, de-nb/verbbank.json:telefonieren_verb",
+    "typos": [
+      "rinka"
+    ]
   },
   "ringe_å_kalle_verb": {
     "word": "ringe, å kalle",
@@ -9654,7 +10834,14 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "ringe_å_kalle_verb",
-    "_generatedFrom": "es-nb/verbbank.json:llamar_verb"
+    "_generatedFrom": "es-nb/verbbank.json:llamar_verb",
+    "typos": [
+      "ringe, å kale",
+      "ringe, a kalle"
+    ],
+    "acceptedForms": [
+      "ringe, aa kalle"
+    ]
   },
   "rista_verb": {
     "word": "rista",
@@ -9746,7 +10933,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "rydde_opp_verb",
-    "_generatedFrom": "de-nb/verbbank.json:aufraeumen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:aufraeumen_verb",
+    "typos": [
+      "ryda op"
+    ]
   },
   "røyke_verb": {
     "word": "røyke",
@@ -9769,7 +10959,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "røyke_verb",
-    "_generatedFrom": "de-nb/verbbank.json:rauchen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:rauchen_verb",
+    "typos": [
+      "royke"
+    ],
+    "acceptedForms": [
+      "roeyke"
+    ]
   },
   "samle_verb": {
     "word": "samle",
@@ -9815,7 +11011,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "sammenligne_verb",
-    "_generatedFrom": "de-nb/verbbank.json:vergleichen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:vergleichen_verb",
+    "typos": [
+      "samenligne"
+    ]
   },
   "samtykka_verb": {
     "word": "samtykka",
@@ -9838,7 +11037,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "samtykke_verb",
-    "_generatedFrom": "de-nb/verbbank.json:zustimmen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:zustimmen_verb",
+    "typos": [
+      "samtyka"
+    ]
   },
   "savne_verb": {
     "word": "savne",
@@ -9884,7 +11086,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "se_på_tv_verb",
-    "_generatedFrom": "de-nb/verbbank.json:fernsehen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:fernsehen_verb",
+    "typos": [
+      "se pa tv"
+    ],
+    "acceptedForms": [
+      "se paa tv"
+    ]
   },
   "se_på_verb": {
     "word": "se på",
@@ -9907,7 +11115,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "se_på_verb",
-    "_generatedFrom": "de-nb/verbbank.json:zuschauen_verb, es-nb/verbbank.json:mirar_verb"
+    "_generatedFrom": "de-nb/verbbank.json:zuschauen_verb, es-nb/verbbank.json:mirar_verb",
+    "typos": [
+      "se pa"
+    ],
+    "acceptedForms": [
+      "se paa"
+    ]
   },
   "se_verb": {
     "word": "se",
@@ -10022,7 +11236,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "sette_inn_verb",
-    "_generatedFrom": "de-nb/verbbank.json:einfuegen_verb, de-nb/verbbank.json:einsetzen_verb, de-nb/verbbank.json:einzahlen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:einfuegen_verb, de-nb/verbbank.json:einsetzen_verb, de-nb/verbbank.json:einzahlen_verb",
+    "typos": [
+      "setja in"
+    ]
   },
   "setja_seg_verb": {
     "word": "setja seg",
@@ -10053,7 +11270,14 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "sette_å_legge_verb",
-    "_generatedFrom": "es-nb/verbbank.json:poner_verb"
+    "_generatedFrom": "es-nb/verbbank.json:poner_verb",
+    "typos": [
+      "sete, å lege",
+      "sette, a legge"
+    ],
+    "acceptedForms": [
+      "sette, aa legge"
+    ]
   },
   "shoppa_verb": {
     "word": "shoppa",
@@ -10076,7 +11300,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "shoppe_verb",
-    "_generatedFrom": "de-nb/verbbank.json:shoppen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:shoppen_verb",
+    "typos": [
+      "shopa"
+    ]
   },
   "si_ja_verb": {
     "word": "si ja",
@@ -10122,7 +11349,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "si_opp_verb",
-    "_generatedFrom": "de-nb/verbbank.json:entlassen_verb, de-nb/verbbank.json:kuendigen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:entlassen_verb, de-nb/verbbank.json:kuendigen_verb",
+    "typos": [
+      "si op"
+    ]
   },
   "si_verb": {
     "word": "si",
@@ -10245,7 +11475,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "skaffe_verb",
-    "_generatedFrom": "de-nb/verbbank.json:besorgen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:besorgen_verb",
+    "typos": [
+      "skafa"
+    ]
   },
   "skal_verb": {
     "word": "skal",
@@ -10276,7 +11509,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "skifte_klær_verb",
-    "_generatedFrom": "de-nb/verbbank.json:sich_umziehen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:sich_umziehen_verb",
+    "typos": [
+      "skifta kler"
+    ],
+    "acceptedForms": [
+      "skifta klaer"
+    ]
   },
   "skilla_seg_verb": {
     "word": "skilla seg",
@@ -10299,7 +11538,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "skille_seg_verb",
-    "_generatedFrom": "de-nb/verbbank.json:sich_scheiden_verb"
+    "_generatedFrom": "de-nb/verbbank.json:sich_scheiden_verb",
+    "typos": [
+      "skila seg"
+    ]
   },
   "skilla_verb": {
     "word": "skilla",
@@ -10322,7 +11564,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "skille_verb",
-    "_generatedFrom": "de-nb/verbbank.json:unterscheiden_verb"
+    "_generatedFrom": "de-nb/verbbank.json:unterscheiden_verb",
+    "typos": [
+      "skila"
+    ]
   },
   "skilles_verb": {
     "word": "skilles",
@@ -10345,7 +11590,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "skilles_verb",
-    "_generatedFrom": "de-nb/verbbank.json:sich_trennen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:sich_trennen_verb",
+    "typos": [
+      "skiles"
+    ]
   },
   "skinna_verb": {
     "word": "skinna",
@@ -10368,7 +11616,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "skinne_verb",
-    "_generatedFrom": "de-nb/verbbank.json:scheinen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:scheinen_verb",
+    "typos": [
+      "skina"
+    ]
   },
   "skje_verb": {
     "word": "skje",
@@ -10391,7 +11642,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "skje_verb",
-    "_generatedFrom": "de-nb/verbbank.json:geschehen_verb, de-nb/verbbank.json:passieren_verb"
+    "_generatedFrom": "de-nb/verbbank.json:geschehen_verb, de-nb/verbbank.json:passieren_verb",
+    "typos": [
+      "ske"
+    ]
   },
   "skjenna_verb": {
     "word": "skjenna",
@@ -10414,7 +11668,11 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "skjenne_verb",
-    "_generatedFrom": "de-nb/verbbank.json:schimpfen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:schimpfen_verb",
+    "typos": [
+      "skjena",
+      "skenna"
+    ]
   },
   "skjære_seg_verb": {
     "word": "skjære seg",
@@ -10437,7 +11695,14 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "skjære_seg_verb",
-    "_generatedFrom": "de-nb/verbbank.json:sich_schneiden_verb"
+    "_generatedFrom": "de-nb/verbbank.json:sich_schneiden_verb",
+    "typos": [
+      "skære seg",
+      "skjere seg"
+    ],
+    "acceptedForms": [
+      "skjaere seg"
+    ]
   },
   "skrike_verb": {
     "word": "skrike",
@@ -10506,7 +11771,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "skrive_opp_verb",
-    "_generatedFrom": "de-nb/verbbank.json:aufschreiben_verb"
+    "_generatedFrom": "de-nb/verbbank.json:aufschreiben_verb",
+    "typos": [
+      "skriva op"
+    ]
   },
   "skriva_ut_verb": {
     "word": "skriva ut",
@@ -10575,7 +11843,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "skuffe_verb",
-    "_generatedFrom": "de-nb/verbbank.json:enttaeuschen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:enttaeuschen_verb",
+    "typos": [
+      "skufa"
+    ]
   },
   "skylla_verb": {
     "word": "skylla",
@@ -10598,7 +11869,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "skylle_verb",
-    "_generatedFrom": "de-nb/verbbank.json:spuelen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:spuelen_verb",
+    "typos": [
+      "skyla"
+    ]
   },
   "skynda_seg_verb": {
     "word": "skynda seg",
@@ -10690,7 +11964,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "slappe_av_verb",
-    "_generatedFrom": "de-nb/verbbank.json:entspannen_verb, de-nb/verbbank.json:sich_entspannen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:entspannen_verb, de-nb/verbbank.json:sich_entspannen_verb",
+    "typos": [
+      "slapa av"
+    ]
   },
   "sletta_verb": {
     "word": "sletta",
@@ -10713,7 +11990,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "slette_verb",
-    "_generatedFrom": "de-nb/verbbank.json:loeschen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:loeschen_verb",
+    "typos": [
+      "sleta"
+    ]
   },
   "slutta_verb": {
     "word": "slutta",
@@ -10736,7 +12016,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "slutte_verb",
-    "_generatedFrom": "de-nb/verbbank.json:aufhoeren_verb, de-nb/verbbank.json:enden_verb"
+    "_generatedFrom": "de-nb/verbbank.json:aufhoeren_verb, de-nb/verbbank.json:enden_verb",
+    "typos": [
+      "sluta"
+    ]
   },
   "slå_av_verb": {
     "word": "slå av",
@@ -10759,7 +12042,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "slå_av_verb",
-    "_generatedFrom": "de-nb/verbbank.json:ausmachen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:ausmachen_verb",
+    "typos": [
+      "sla av"
+    ],
+    "acceptedForms": [
+      "slaa av"
+    ]
   },
   "slå_opp_verb": {
     "word": "slå opp",
@@ -10782,7 +12071,14 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "slå_opp_verb",
-    "_generatedFrom": "de-nb/verbbank.json:nachschlagen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:nachschlagen_verb",
+    "typos": [
+      "slå op",
+      "sla opp"
+    ],
+    "acceptedForms": [
+      "slaa opp"
+    ]
   },
   "slå_på_verb": {
     "word": "slå på",
@@ -10805,7 +12101,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "slå_på_verb",
-    "_generatedFrom": "de-nb/verbbank.json:anmachen_verb, de-nb/verbbank.json:einschalten_verb"
+    "_generatedFrom": "de-nb/verbbank.json:anmachen_verb, de-nb/verbbank.json:einschalten_verb",
+    "typos": [
+      "sla pa"
+    ],
+    "acceptedForms": [
+      "slaa paa"
+    ]
   },
   "slå_verb": {
     "word": "slå",
@@ -10828,7 +12130,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "slå_verb",
-    "_generatedFrom": "de-nb/verbbank.json:schlagen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:schlagen_verb",
+    "typos": [
+      "sla"
+    ],
+    "acceptedForms": [
+      "slaa"
+    ]
   },
   "smake_verb": {
     "word": "smake",
@@ -10920,7 +12228,14 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "snakke_høyt_verb",
-    "_generatedFrom": "de-nb/verbbank.json:laut_sprechen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:laut_sprechen_verb",
+    "typos": [
+      "snaka høyt",
+      "snakka hoyt"
+    ],
+    "acceptedForms": [
+      "snakka hoeyt"
+    ]
   },
   "snakka_verb": {
     "word": "snakka",
@@ -10943,7 +12258,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "snakke_verb",
-    "_generatedFrom": "de-nb/verbbank.json:reden_verb, de-nb/verbbank.json:sich_unterhalten_verb, de-nb/verbbank.json:sprechen_verb, es-nb/verbbank.json:hablar_verb"
+    "_generatedFrom": "de-nb/verbbank.json:reden_verb, de-nb/verbbank.json:sich_unterhalten_verb, de-nb/verbbank.json:sprechen_verb, es-nb/verbbank.json:hablar_verb",
+    "typos": [
+      "snaka"
+    ]
   },
   "snu_seg_verb": {
     "word": "snu seg",
@@ -10989,7 +12307,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "snø_verb",
-    "_generatedFrom": "de-nb/verbbank.json:schneien_verb"
+    "_generatedFrom": "de-nb/verbbank.json:schneien_verb",
+    "typos": [
+      "sno"
+    ],
+    "acceptedForms": [
+      "snoe"
+    ]
   },
   "sova_verb": {
     "word": "sova",
@@ -11081,7 +12405,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "spenne_seg_fast_verb",
-    "_generatedFrom": "de-nb/verbbank.json:anschnallen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:anschnallen_verb",
+    "typos": [
+      "spena seg fast"
+    ]
   },
   "spilla_verb": {
     "word": "spilla",
@@ -11104,7 +12431,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "spille_verb",
-    "_generatedFrom": "de-nb/verbbank.json:spielen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:spielen_verb",
+    "typos": [
+      "spila"
+    ]
   },
   "spille_å_leke_verb": {
     "word": "spille, å leke",
@@ -11112,7 +12442,14 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "spille_å_leke_verb",
-    "_generatedFrom": "es-nb/verbbank.json:jugar_verb"
+    "_generatedFrom": "es-nb/verbbank.json:jugar_verb",
+    "typos": [
+      "spile, å leke",
+      "spille, a leke"
+    ],
+    "acceptedForms": [
+      "spille, aa leke"
+    ]
   },
   "springa_verb": {
     "word": "springa",
@@ -11135,7 +12472,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "løpe_verb",
-    "_generatedFrom": "de-nb/verbbank.json:laufen_verb, de-nb/verbbank.json:rennen_verb, es-nb/verbbank.json:correr_verb"
+    "_generatedFrom": "de-nb/verbbank.json:laufen_verb, de-nb/verbbank.json:rennen_verb, es-nb/verbbank.json:correr_verb",
+    "typos": [
+      "sprinka"
+    ]
   },
   "spørja_verb": {
     "word": "spørja",
@@ -11158,7 +12498,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "spørre_verb",
-    "_generatedFrom": "de-nb/verbbank.json:fragen_verb, es-nb/verbbank.json:preguntar_verb"
+    "_generatedFrom": "de-nb/verbbank.json:fragen_verb, es-nb/verbbank.json:preguntar_verb",
+    "typos": [
+      "sporja"
+    ],
+    "acceptedForms": [
+      "spoerja"
+    ]
   },
   "stamma_frå_verb": {
     "word": "stamma frå",
@@ -11181,7 +12527,14 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "stamme_fra_verb",
-    "_generatedFrom": "de-nb/verbbank.json:stammen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:stammen_verb",
+    "typos": [
+      "stama frå",
+      "stamma fra"
+    ],
+    "acceptedForms": [
+      "stamma fraa"
+    ]
   },
   "starte_verb": {
     "word": "starte",
@@ -11296,7 +12649,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "stemme_verb",
-    "_generatedFrom": "de-nb/verbbank.json:abstimmen_verb, de-nb/verbbank.json:stimmen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:abstimmen_verb, de-nb/verbbank.json:stimmen_verb",
+    "typos": [
+      "stema"
+    ]
   },
   "stengt_verb": {
     "word": "stengt",
@@ -11304,7 +12660,10 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "stengt_verb",
-    "_generatedFrom": "de-nb/verbbank.json:geschlossen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:geschlossen_verb",
+    "typos": [
+      "stenkt"
+    ]
   },
   "stiga_på_verb": {
     "word": "stiga på",
@@ -11327,7 +12686,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "stige_på_verb",
-    "_generatedFrom": "de-nb/verbbank.json:einsteigen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:einsteigen_verb",
+    "typos": [
+      "stiga pa"
+    ],
+    "acceptedForms": [
+      "stiga paa"
+    ]
   },
   "stiga_verb": {
     "word": "stiga",
@@ -11373,7 +12738,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "stikke_verb",
-    "_generatedFrom": "de-nb/verbbank.json:stechen_verb, de-nb/verbbank.json:stecken_verb"
+    "_generatedFrom": "de-nb/verbbank.json:stechen_verb, de-nb/verbbank.json:stecken_verb",
+    "typos": [
+      "stika"
+    ]
   },
   "stilla_ut_verb": {
     "word": "stilla ut",
@@ -11396,7 +12764,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "stille_ut_verb",
-    "_generatedFrom": "de-nb/verbbank.json:ausstellen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:ausstellen_verb",
+    "typos": [
+      "stila ut"
+    ]
   },
   "stilla_verb": {
     "word": "stilla",
@@ -11419,7 +12790,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "stille_verb",
-    "_generatedFrom": "de-nb/verbbank.json:stellen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:stellen_verb",
+    "typos": [
+      "stila"
+    ]
   },
   "stinka_verb": {
     "word": "stinka",
@@ -11488,7 +12862,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "stole_på_verb",
-    "_generatedFrom": "de-nb/verbbank.json:vertrauen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:vertrauen_verb",
+    "typos": [
+      "stole pa"
+    ],
+    "acceptedForms": [
+      "stole paa"
+    ]
   },
   "stoppa_verb": {
     "word": "stoppa",
@@ -11511,7 +12891,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "stoppe_verb",
-    "_generatedFrom": "de-nb/verbbank.json:stoppen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:stoppen_verb",
+    "typos": [
+      "stopa"
+    ]
   },
   "streike_verb": {
     "word": "streike",
@@ -11603,7 +12986,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "stå_fast_verb",
-    "_generatedFrom": "de-nb/verbbank.json:feststehen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:feststehen_verb",
+    "typos": [
+      "sta fast"
+    ],
+    "acceptedForms": [
+      "staa fast"
+    ]
   },
   "stå_mykje_verb": {
     "word": "stå mykje",
@@ -11626,7 +13015,15 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "stå_mye_verb",
-    "_generatedFrom": "de-nb/verbbank.json:viel_stehen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:viel_stehen_verb",
+    "typos": [
+      "stå myke",
+      "stå mysje",
+      "sta mykje"
+    ],
+    "acceptedForms": [
+      "staa mykje"
+    ]
   },
   "stå_opp_verb": {
     "word": "stå opp",
@@ -11649,7 +13046,14 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "stå_opp_verb",
-    "_generatedFrom": "de-nb/verbbank.json:aufstehen_verb, es-nb/verbbank.json:levantarse_verb"
+    "_generatedFrom": "de-nb/verbbank.json:aufstehen_verb, es-nb/verbbank.json:levantarse_verb",
+    "typos": [
+      "stå op",
+      "sta opp"
+    ],
+    "acceptedForms": [
+      "staa opp"
+    ]
   },
   "stå_verb": {
     "word": "stå",
@@ -11672,7 +13076,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "stå_verb",
-    "_generatedFrom": "de-nb/verbbank.json:stehen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:stehen_verb",
+    "typos": [
+      "sta"
+    ],
+    "acceptedForms": [
+      "staa"
+    ]
   },
   "støte_seg_verb": {
     "word": "støte seg",
@@ -11695,7 +13105,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "støte_seg_verb",
-    "_generatedFrom": "de-nb/verbbank.json:sich_stossen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:sich_stossen_verb",
+    "typos": [
+      "stote seg"
+    ],
+    "acceptedForms": [
+      "stoete seg"
+    ]
   },
   "støtta_verb": {
     "word": "støtta",
@@ -11718,7 +13134,14 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "støtte_verb",
-    "_generatedFrom": "de-nb/verbbank.json:unterstuetzen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:unterstuetzen_verb",
+    "typos": [
+      "støta",
+      "stotta"
+    ],
+    "acceptedForms": [
+      "stoetta"
+    ]
   },
   "støvsuge_verb": {
     "word": "støvsuge",
@@ -11741,7 +13164,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "støvsuge_verb",
-    "_generatedFrom": "de-nb/verbbank.json:staubsaugen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:staubsaugen_verb",
+    "typos": [
+      "stovsuge"
+    ],
+    "acceptedForms": [
+      "stoevsuge"
+    ]
   },
   "supplere_verb": {
     "word": "supplere",
@@ -11764,7 +13193,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "supplere_verb",
-    "_generatedFrom": "de-nb/verbbank.json:ergaenzen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:ergaenzen_verb",
+    "typos": [
+      "suplere"
+    ]
   },
   "svare_verb": {
     "word": "svare",
@@ -11810,7 +13242,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "svette_verb",
-    "_generatedFrom": "de-nb/verbbank.json:schwitzen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:schwitzen_verb",
+    "typos": [
+      "sveta"
+    ]
   },
   "svinga_verb": {
     "word": "svinga",
@@ -11833,7 +13268,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "svinge_verb",
-    "_generatedFrom": "de-nb/verbbank.json:abbiegen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:abbiegen_verb",
+    "typos": [
+      "svinka"
+    ]
   },
   "svømma_verb": {
     "word": "svømma",
@@ -11856,7 +13294,14 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "svømme_verb",
-    "_generatedFrom": "de-nb/verbbank.json:schwimmen_verb, es-nb/verbbank.json:nadar_verb"
+    "_generatedFrom": "de-nb/verbbank.json:schwimmen_verb, es-nb/verbbank.json:nadar_verb",
+    "typos": [
+      "svøma",
+      "svomma"
+    ],
+    "acceptedForms": [
+      "svoemma"
+    ]
   },
   "synast_verb": {
     "word": "synast",
@@ -11902,7 +13347,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "synge_verb",
-    "_generatedFrom": "de-nb/verbbank.json:singen_verb, es-nb/verbbank.json:cantar_verb"
+    "_generatedFrom": "de-nb/verbbank.json:singen_verb, es-nb/verbbank.json:cantar_verb",
+    "typos": [
+      "synkja"
+    ]
   },
   "søke_om_verb": {
     "word": "søke om",
@@ -11925,7 +13373,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "søke_om_verb",
-    "_generatedFrom": "de-nb/verbbank.json:beantragen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:beantragen_verb",
+    "typos": [
+      "soke om"
+    ],
+    "acceptedForms": [
+      "soeke om"
+    ]
   },
   "søke_verb": {
     "word": "søke",
@@ -11949,7 +13403,13 @@
     "_nnSource": "auto-nb",
     "_nbEquivalent": "søke_verb",
     "usageNotes": "jobb",
-    "_generatedFrom": "de-nb/verbbank.json:sich_bewerben_verb"
+    "_generatedFrom": "de-nb/verbbank.json:sich_bewerben_verb",
+    "typos": [
+      "soke"
+    ],
+    "acceptedForms": [
+      "soeke"
+    ]
   },
   "sørge_for_verb": {
     "word": "sørge for",
@@ -11972,7 +13432,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "sørge_for_verb",
-    "_generatedFrom": "de-nb/verbbank.json:sorgen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:sorgen_verb",
+    "typos": [
+      "sorge for"
+    ],
+    "acceptedForms": [
+      "soerge for"
+    ]
   },
   "ta_farvel_verb": {
     "word": "ta farvel",
@@ -12041,7 +13507,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "ta_med_verb",
-    "_generatedFrom": "de-nb/verbbank.json:mitbringen_verb, de-nb/verbbank.json:mitnehmen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:mitbringen_verb, de-nb/verbbank.json:mitnehmen_verb",
+    "typos": [
+      "ta me"
+    ]
   },
   "ta_opp_verb": {
     "word": "ta opp",
@@ -12064,7 +13533,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "ta_opp_verb",
-    "_generatedFrom": "de-nb/verbbank.json:aufnehmen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:aufnehmen_verb",
+    "typos": [
+      "ta op"
+    ]
   },
   "ta_på_seg_å_bli_verb": {
     "word": "ta på seg, å bli",
@@ -12072,7 +13544,13 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "ta_på_seg_å_bli_verb",
-    "_generatedFrom": "es-nb/verbbank.json:ponerse_verb"
+    "_generatedFrom": "es-nb/verbbank.json:ponerse_verb",
+    "typos": [
+      "ta pa seg, a bli"
+    ],
+    "acceptedForms": [
+      "ta paa seg, aa bli"
+    ]
   },
   "ta_seg_av_verb": {
     "word": "ta seg av",
@@ -12150,7 +13628,14 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "ta_å_drikke_verb",
-    "_generatedFrom": "es-nb/verbbank.json:tomar_verb"
+    "_generatedFrom": "es-nb/verbbank.json:tomar_verb",
+    "typos": [
+      "ta, å drike",
+      "ta, a drikke"
+    ],
+    "acceptedForms": [
+      "ta, aa drikke"
+    ]
   },
   "ta_å_gripe_verb": {
     "word": "ta, å gripe",
@@ -12158,7 +13643,13 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "ta_å_gripe_verb",
-    "_generatedFrom": "es-nb/verbbank.json:coger_verb"
+    "_generatedFrom": "es-nb/verbbank.json:coger_verb",
+    "typos": [
+      "ta, a gripe"
+    ],
+    "acceptedForms": [
+      "ta, aa gripe"
+    ]
   },
   "takka_verb": {
     "word": "takka",
@@ -12181,7 +13672,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "takke_verb",
-    "_generatedFrom": "de-nb/verbbank.json:danken_verb, de-nb/verbbank.json:sich_bedanken_verb"
+    "_generatedFrom": "de-nb/verbbank.json:danken_verb, de-nb/verbbank.json:sich_bedanken_verb",
+    "typos": [
+      "taka"
+    ]
   },
   "tape_verb": {
     "word": "tape",
@@ -12250,7 +13744,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "telle_verb",
-    "_generatedFrom": "de-nb/verbbank.json:zaehlen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:zaehlen_verb",
+    "typos": [
+      "tela"
+    ]
   },
   "telte_verb": {
     "word": "telte",
@@ -12411,7 +13908,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "tilbringe_verb",
-    "_generatedFrom": "de-nb/verbbank.json:verbringen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:verbringen_verb",
+    "typos": [
+      "tilbrinka"
+    ]
   },
   "tilby_verb": {
     "word": "tilby",
@@ -12480,7 +13980,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "tilhøre_verb",
-    "_generatedFrom": "de-nb/verbbank.json:gehoeren_verb"
+    "_generatedFrom": "de-nb/verbbank.json:gehoeren_verb",
+    "typos": [
+      "tilhore"
+    ],
+    "acceptedForms": [
+      "tilhoere"
+    ]
   },
   "tillate_verb": {
     "word": "tillate",
@@ -12503,7 +14009,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "tillate_verb",
-    "_generatedFrom": "de-nb/verbbank.json:erlauben_verb, es-nb/verbbank.json:permitir_verb"
+    "_generatedFrom": "de-nb/verbbank.json:erlauben_verb, es-nb/verbbank.json:permitir_verb",
+    "typos": [
+      "tilate"
+    ]
   },
   "tjene_verb": {
     "word": "tjene",
@@ -12626,7 +14135,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "tre_inn_verb",
-    "_generatedFrom": "de-nb/verbbank.json:eintreten_verb"
+    "_generatedFrom": "de-nb/verbbank.json:eintreten_verb",
+    "typos": [
+      "tre in"
+    ]
   },
   "treffa_verb": {
     "word": "treffa",
@@ -12649,7 +14161,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "treffe_verb",
-    "_generatedFrom": "de-nb/verbbank.json:treffen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:treffen_verb",
+    "typos": [
+      "trefa"
+    ]
   },
   "trene_verb": {
     "word": "trene",
@@ -12695,7 +14210,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "trenge_verb",
-    "_generatedFrom": "de-nb/verbbank.json:benoetigen_verb, de-nb/verbbank.json:brauchen_verb, es-nb/verbbank.json:necesitar_verb"
+    "_generatedFrom": "de-nb/verbbank.json:benoetigen_verb, de-nb/verbbank.json:brauchen_verb, es-nb/verbbank.json:necesitar_verb",
+    "typos": [
+      "trenka"
+    ]
   },
   "tro_verb": {
     "word": "tro",
@@ -12741,7 +14259,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "trykke_verb",
-    "_generatedFrom": "de-nb/verbbank.json:drucken_verb, de-nb/verbbank.json:druecken_verb"
+    "_generatedFrom": "de-nb/verbbank.json:drucken_verb, de-nb/verbbank.json:druecken_verb",
+    "typos": [
+      "tryka"
+    ]
   },
   "tråkka_verb": {
     "word": "tråkka",
@@ -12764,7 +14285,14 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "tråkke_verb",
-    "_generatedFrom": "de-nb/verbbank.json:treten_verb"
+    "_generatedFrom": "de-nb/verbbank.json:treten_verb",
+    "typos": [
+      "tråka",
+      "trakka"
+    ],
+    "acceptedForms": [
+      "traakka"
+    ]
   },
   "tute_verb": {
     "word": "tute",
@@ -12833,7 +14361,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "tvinge_seg_verb",
-    "_generatedFrom": "de-nb/verbbank.json:sich_zwingen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:sich_zwingen_verb",
+    "typos": [
+      "tvinka seg"
+    ]
   },
   "tyda_verb": {
     "word": "tyda",
@@ -12879,7 +14410,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "tørke_verb",
-    "_generatedFrom": "de-nb/verbbank.json:trocknen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:trocknen_verb",
+    "typos": [
+      "torka"
+    ],
+    "acceptedForms": [
+      "toerka"
+    ]
   },
   "underholde_seg_verb": {
     "word": "underholde seg",
@@ -12971,7 +14508,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "undersøke_verb",
-    "_generatedFrom": "de-nb/verbbank.json:untersuchen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:untersuchen_verb",
+    "typos": [
+      "undersoke"
+    ],
+    "acceptedForms": [
+      "undersoeke"
+    ]
   },
   "undervise_verb": {
     "word": "undervise",
@@ -13002,7 +14545,13 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "undervise_å_vise_verb",
-    "_generatedFrom": "es-nb/verbbank.json:ensenar_verb"
+    "_generatedFrom": "es-nb/verbbank.json:ensenar_verb",
+    "typos": [
+      "undervise, a vise"
+    ],
+    "acceptedForms": [
+      "undervise, aa vise"
+    ]
   },
   "undra_seg_verb": {
     "word": "undra seg",
@@ -13048,7 +14597,15 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "unngå_verb",
-    "_generatedFrom": "de-nb/verbbank.json:vermeiden_verb"
+    "_generatedFrom": "de-nb/verbbank.json:vermeiden_verb",
+    "typos": [
+      "ungå",
+      "unnga",
+      "unnkå"
+    ],
+    "acceptedForms": [
+      "unngaa"
+    ]
   },
   "unnlate_verb": {
     "word": "unnlate",
@@ -13071,7 +14628,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "unnlate_verb",
-    "_generatedFrom": "de-nb/verbbank.json:unterlassen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:unterlassen_verb",
+    "typos": [
+      "unlate"
+    ]
   },
   "unnskylde_verb": {
     "word": "unnskylde",
@@ -13094,7 +14654,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "unnskylde_verb",
-    "_generatedFrom": "de-nb/verbbank.json:entschuldigen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:entschuldigen_verb",
+    "typos": [
+      "unskylde"
+    ]
   },
   "ute_verb": {
     "word": "ute",
@@ -13125,7 +14688,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "utsette_verb",
-    "_generatedFrom": "de-nb/verbbank.json:verschieben_verb"
+    "_generatedFrom": "de-nb/verbbank.json:verschieben_verb",
+    "typos": [
+      "utseta"
+    ]
   },
   "uttale_verb": {
     "word": "uttale",
@@ -13148,7 +14714,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "uttale_verb",
-    "_generatedFrom": "de-nb/verbbank.json:aussprechen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:aussprechen_verb",
+    "typos": [
+      "utale"
+    ]
   },
   "utvikle_verb": {
     "word": "utvikle",
@@ -13217,7 +14786,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "varme_opp_verb",
-    "_generatedFrom": "de-nb/verbbank.json:heizen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:heizen_verb",
+    "typos": [
+      "varme op"
+    ]
   },
   "vaska_opp_verb": {
     "word": "vaska opp",
@@ -13240,7 +14812,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "vaske_opp_verb",
-    "_generatedFrom": "de-nb/verbbank.json:abwaschen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:abwaschen_verb",
+    "typos": [
+      "vaska op"
+    ]
   },
   "vaska_seg_verb": {
     "word": "vaska seg",
@@ -13317,7 +14892,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "vedde_verb",
-    "_generatedFrom": "de-nb/verbbank.json:wetten_verb"
+    "_generatedFrom": "de-nb/verbbank.json:wetten_verb",
+    "typos": [
+      "veda"
+    ]
   },
   "veie_verb": {
     "word": "veie",
@@ -13363,7 +14941,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "vekke_verb",
-    "_generatedFrom": "de-nb/verbbank.json:wecken_verb"
+    "_generatedFrom": "de-nb/verbbank.json:wecken_verb",
+    "typos": [
+      "veka"
+    ]
   },
   "veksa_verb": {
     "word": "veksa",
@@ -13509,7 +15090,13 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "vente_å_håpe_verb",
-    "_generatedFrom": "es-nb/verbbank.json:esperar_verb"
+    "_generatedFrom": "es-nb/verbbank.json:esperar_verb",
+    "typos": [
+      "vente, a hape"
+    ],
+    "acceptedForms": [
+      "vente, aa haape"
+    ]
   },
   "vera_nok_verb": {
     "word": "vera nok",
@@ -13555,7 +15142,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "være_redd_verb",
-    "_generatedFrom": "de-nb/verbbank.json:sich_fuerchten_verb"
+    "_generatedFrom": "de-nb/verbbank.json:sich_fuerchten_verb",
+    "typos": [
+      "vera red"
+    ]
   },
   "vera_riktig_verb": {
     "word": "vera riktig",
@@ -13601,7 +15191,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "være_tilstand_verb",
-    "_generatedFrom": "es-nb/verbbank.json:estar_verb"
+    "_generatedFrom": "es-nb/verbbank.json:estar_verb",
+    "typos": [
+      "vera (tilstan"
+    ]
   },
   "vera_verb": {
     "word": "vera",
@@ -13678,7 +15271,16 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "ville_å_ønske_å_elske_verb",
-    "_generatedFrom": "es-nb/verbbank.json:querer_verb"
+    "_generatedFrom": "es-nb/verbbank.json:querer_verb",
+    "typos": [
+      "vile, å ønske, å elske",
+      "ville, å onske, å elske",
+      "ville, a ønske, a elske"
+    ],
+    "acceptedForms": [
+      "ville, å oenske, å elske",
+      "ville, aa ønske, aa elske"
+    ]
   },
   "vinka_verb": {
     "word": "vinka",
@@ -13724,7 +15326,10 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "vinne_verb",
-    "_generatedFrom": "de-nb/verbbank.json:gewinnen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:gewinnen_verb",
+    "typos": [
+      "vina"
+    ]
   },
   "vinne_å_tjene_verb": {
     "word": "vinne, å tjene",
@@ -13732,7 +15337,14 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "vinne_å_tjene_verb",
-    "_generatedFrom": "es-nb/verbbank.json:ganar_verb"
+    "_generatedFrom": "es-nb/verbbank.json:ganar_verb",
+    "typos": [
+      "vine, å tjene",
+      "vinne, a tjene"
+    ],
+    "acceptedForms": [
+      "vinne, aa tjene"
+    ]
   },
   "virka_verb": {
     "word": "virka",
@@ -13763,7 +15375,13 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "virke_å_synes_verb",
-    "_generatedFrom": "es-nb/verbbank.json:parecer_verb"
+    "_generatedFrom": "es-nb/verbbank.json:parecer_verb",
+    "typos": [
+      "virke, a synast"
+    ],
+    "acceptedForms": [
+      "virke, aa synast"
+    ]
   },
   "vise_verb": {
     "word": "vise",
@@ -13817,7 +15435,14 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "vite_å_kunne_verb",
-    "_generatedFrom": "es-nb/verbbank.json:saber_verb"
+    "_generatedFrom": "es-nb/verbbank.json:saber_verb",
+    "typos": [
+      "vite, å kune",
+      "vite, a kunne"
+    ],
+    "acceptedForms": [
+      "vite, aa kunne"
+    ]
   },
   "voksen_verb": {
     "word": "voksen",
@@ -13848,7 +15473,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "våkne_verb",
-    "_generatedFrom": "de-nb/verbbank.json:aufwachen_verb, es-nb/verbbank.json:despertarse_verb"
+    "_generatedFrom": "de-nb/verbbank.json:aufwachen_verb, es-nb/verbbank.json:despertarse_verb",
+    "typos": [
+      "vakne"
+    ],
+    "acceptedForms": [
+      "vaakne"
+    ]
   },
   "vært_imot_verb": {
     "word": "vært imot",
@@ -13856,7 +15487,13 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "vært_imot_verb",
-    "_generatedFrom": "de-nb/verbbank.json:dagegen_gewesen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:dagegen_gewesen_verb",
+    "typos": [
+      "vert imot"
+    ],
+    "acceptedForms": [
+      "vaert imot"
+    ]
   },
   "vært_verb": {
     "word": "vært",
@@ -13864,7 +15501,13 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "vært_verb",
-    "_generatedFrom": "de-nb/verbbank.json:gewesen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:gewesen_verb",
+    "typos": [
+      "vert"
+    ],
+    "acceptedForms": [
+      "vaert"
+    ]
   },
   "yte_verb": {
     "word": "yte",
@@ -13895,7 +15538,13 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "åpen_verb",
-    "_generatedFrom": "de-nb/verbbank.json:offen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:offen_verb",
+    "typos": [
+      "apen"
+    ],
+    "acceptedForms": [
+      "aapen"
+    ]
   },
   "åpne_verb": {
     "word": "åpne",
@@ -13918,7 +15567,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "åpne_verb",
-    "_generatedFrom": "de-nb/verbbank.json:aufmachen_verb, de-nb/verbbank.json:eroeffnen_verb, de-nb/verbbank.json:oeffnen_verb, es-nb/verbbank.json:abrir_verb"
+    "_generatedFrom": "de-nb/verbbank.json:aufmachen_verb, de-nb/verbbank.json:eroeffnen_verb, de-nb/verbbank.json:oeffnen_verb, es-nb/verbbank.json:abrir_verb",
+    "typos": [
+      "apne"
+    ],
+    "acceptedForms": [
+      "aapne"
+    ]
   },
   "ødelegga_verb": {
     "word": "ødelegga",
@@ -13941,7 +15596,14 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "ødelegge_verb",
-    "_generatedFrom": "de-nb/verbbank.json:kaputtmachen_verb, de-nb/verbbank.json:zerstoeren_verb"
+    "_generatedFrom": "de-nb/verbbank.json:kaputtmachen_verb, de-nb/verbbank.json:zerstoeren_verb",
+    "typos": [
+      "ødelega",
+      "odelegga"
+    ],
+    "acceptedForms": [
+      "oedelegga"
+    ]
   },
   "øke_verb": {
     "word": "øke",
@@ -13964,7 +15626,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "øke_verb",
-    "_generatedFrom": "de-nb/verbbank.json:zunehmen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:zunehmen_verb",
+    "typos": [
+      "oke"
+    ],
+    "acceptedForms": [
+      "oeke"
+    ]
   },
   "ønska_verb": {
     "word": "ønska",
@@ -13987,7 +15655,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "ønske_verb",
-    "_generatedFrom": "de-nb/verbbank.json:moechten_modal, de-nb/verbbank.json:wuenschen_verb"
+    "_generatedFrom": "de-nb/verbbank.json:moechten_modal, de-nb/verbbank.json:wuenschen_verb",
+    "typos": [
+      "onska"
+    ],
+    "acceptedForms": [
+      "oenska"
+    ]
   },
   "øve_verb": {
     "word": "øve",
@@ -14010,7 +15684,13 @@
     "_enriched": true,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "øve_verb",
-    "_generatedFrom": "de-nb/verbbank.json:ueben_verb"
+    "_generatedFrom": "de-nb/verbbank.json:ueben_verb",
+    "typos": [
+      "ove"
+    ],
+    "acceptedForms": [
+      "oeve"
+    ]
   },
   "øve_å_praktisere_verb": {
     "word": "øve, å praktisere",
@@ -14018,6 +15698,14 @@
     "_enriched": false,
     "_nnSource": "auto-nb",
     "_nbEquivalent": "øve_å_praktisere_verb",
-    "_generatedFrom": "es-nb/verbbank.json:practicar_verb"
+    "_generatedFrom": "es-nb/verbbank.json:practicar_verb",
+    "typos": [
+      "ove, å praktisere",
+      "øve, a praktisere"
+    ],
+    "acceptedForms": [
+      "oeve, å praktisere",
+      "øve, aa praktisere"
+    ]
   }
 }

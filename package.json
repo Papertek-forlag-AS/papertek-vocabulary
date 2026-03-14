@@ -41,6 +41,7 @@
     "build:lexicon-search-index": "node scripts/build-lexicon-search-index.js",
     "generate:en-lexicon": "node scripts/generate-en-lexicon.js",
     "generate:en-links": "node scripts/generate-en-links.js",
+    "generate:typos": "node scripts/generate-typos.js",
     "validate:lexicon": "node scripts/validate-lexicon.js",
     "generate:nn-lexicon": "node scripts/generate-nn-lexicon.js",
     "generate:nn-links": "node scripts/generate-nn-links.js",

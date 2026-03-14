@@ -11,61 +11,109 @@
     "word": "aquel/aquella/aquellos/aquellas",
     "type": "pron",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "typos": [
+      "aquel/aqueya/aqueyos/aqueyas"
+    ]
   },
   "como_interr_pron": {
     "word": "¿cómo?",
     "type": "pron",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "typos": [
+      "¿como?"
+    ],
+    "acceptedForms": [
+      "¿como?"
+    ]
   },
   "cual_interr_pron": {
     "word": "¿cuál?/¿cuáles?",
     "type": "pron",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "typos": [
+      "¿cual?/¿cuales?"
+    ],
+    "acceptedForms": [
+      "¿cual?/¿cuales?"
+    ]
   },
   "cuando_interr_pron": {
     "word": "¿cuándo?",
     "type": "pron",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "typos": [
+      "¿cuando?"
+    ],
+    "acceptedForms": [
+      "¿cuando?"
+    ]
   },
   "cuanto_interr_pron": {
     "word": "¿cuánto/a/os/as?",
     "type": "pron",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "typos": [
+      "¿cuanto/a/os/as?"
+    ],
+    "acceptedForms": [
+      "¿cuanto/a/os/as?"
+    ]
   },
   "donde_interr_pron": {
     "word": "¿dónde?",
     "type": "pron",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "typos": [
+      "¿donde?"
+    ],
+    "acceptedForms": [
+      "¿donde?"
+    ]
   },
   "el_pron": {
     "word": "él",
     "type": "pron",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "typos": [
+      "el"
+    ],
+    "acceptedForms": [
+      "el"
+    ]
   },
   "ella_pron": {
     "word": "ella",
     "type": "pron",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "typos": [
+      "eya"
+    ]
   },
   "ellas_pron": {
     "word": "ellas",
     "type": "pron",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "typos": [
+      "eyas"
+    ]
   },
   "ellos_pron": {
     "word": "ellos",
     "type": "pron",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "typos": [
+      "eyos"
+    ]
   },
   "ese_demon_pron": {
     "word": "ese/esa/esos/esas",
@@ -197,19 +245,37 @@
     "word": "¿por qué?",
     "type": "pron",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "typos": [
+      "¿por que?"
+    ],
+    "acceptedForms": [
+      "¿por que?"
+    ]
   },
   "que_interr_pron": {
     "word": "¿qué?",
     "type": "pron",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "typos": [
+      "¿que?"
+    ],
+    "acceptedForms": [
+      "¿que?"
+    ]
   },
   "quien_interr_pron": {
     "word": "¿quién?/¿quiénes?",
     "type": "pron",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "typos": [
+      "¿quien?/¿quienes?"
+    ],
+    "acceptedForms": [
+      "¿quien?/¿quienes?"
+    ]
   },
   "se_reflex_pron": {
     "word": "se",
@@ -251,7 +317,13 @@
     "word": "tú",
     "type": "pron",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "typos": [
+      "tu"
+    ],
+    "acceptedForms": [
+      "tu"
+    ]
   },
   "usted_pron": {
     "word": "usted",
@@ -269,19 +341,28 @@
     "word": "vosotras",
     "type": "pron",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "typos": [
+      "bosotras"
+    ]
   },
   "vosotros_pron": {
     "word": "vosotros",
     "type": "pron",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "typos": [
+      "bosotros"
+    ]
   },
   "vuestro_possess_pron": {
     "word": "vuestro/a/os/as",
     "type": "pron",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "typos": [
+      "buestro/a/os/as"
+    ]
   },
   "yo_pron": {
     "word": "yo",

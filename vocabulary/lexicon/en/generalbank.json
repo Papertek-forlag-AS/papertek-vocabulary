@@ -34,7 +34,10 @@
     "word": "a little",
     "type": "phrase",
     "_generatedFrom": "de-en/generalbank.json:ein_bisschen_phrase",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "a litle"
+    ]
   },
   "a_lot_adv": {
     "word": "a lot",
@@ -52,7 +55,10 @@
     "word": "about; approximately",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:etwa_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "about; aproximately"
+    ]
   },
   "about_prep": {
     "word": "about",
@@ -82,7 +88,10 @@
     "word": "above all; especially",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:vor_allem_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "above al; especialy"
+    ]
   },
   "above_prep": {
     "word": "above",
@@ -112,7 +121,10 @@
     "word": "accessible",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:zugaenglich_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "accesible"
+    ]
   },
   "according_to_prep": {
     "word": "according to",
@@ -124,25 +136,38 @@
     "word": "across; diagonal",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:quer_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "acros; diagonal"
+    ]
   },
   "actually_adv": {
     "word": "actually",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:wirklich_adv",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "actualy"
+    ]
   },
   "actually_expr": {
     "word": "actually",
     "type": "expr",
     "_generatedFrom": "es-en/generalbank.json:en_realidad_expr",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "actualy"
+    ]
   },
   "additional_adv": {
     "word": "additional",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:zusaetzlich_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "aditional",
+      "addisional"
+    ]
   },
   "africa_propn": {
     "word": "Africa",
@@ -214,55 +239,82 @@
     "word": "ahead; in advance",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:voraus_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "ahead; in advence"
+    ]
   },
   "all_adv": {
     "word": "all",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:all_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "al"
+    ]
   },
   "all_day_phrase": {
     "word": "all day",
     "type": "phrase",
     "_generatedFrom": "de-en/generalbank.json:den_ganzen_tag_phrase",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "al day"
+    ]
   },
   "all_entire_adv": {
     "word": "all; entire",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:saemtliche_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "al; entire"
+    ]
   },
   "all_every_adv": {
     "word": "all; every",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:aller_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "al; every"
+    ]
   },
   "all_pron": {
     "word": "all",
     "type": "pron",
     "_generatedFrom": "de-en/pronounsbank.json:alle_pron",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "al"
+    ]
   },
   "all_right_ok_adv": {
     "word": "all right; OK",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:in_ordnung_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "al right; OK"
+    ]
   },
   "all_the_more_adv": {
     "word": "all the more",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:umso_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "al the more"
+    ]
   },
   "allowed_for_them_adv": {
     "word": "allowed for them",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:ihnen_erlaubt_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "alowed for them"
+    ]
   },
   "almost_adv": {
     "word": "almost",
@@ -354,7 +406,10 @@
     "word": "and Stuttgart",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:und_stuttgart_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "and Stutgart"
+    ]
   },
   "and_you_phrase": {
     "word": "and you?",
@@ -384,7 +439,10 @@
     "word": "annoying; irritated",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:aergerlich_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "anoying; iritated"
+    ]
   },
   "another_time_phrase": {
     "word": "another time",
@@ -414,13 +472,19 @@
     "word": "apparently; obviously",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:offenbar_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "aparently; obviously"
+    ]
   },
   "approximately_adv": {
     "word": "approximately",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:ungefaehr_general, es-en/generalbank.json:aproximadamente_adv",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "aproximately"
+    ]
   },
   "are_phrase": {
     "word": "are",
@@ -498,13 +562,19 @@
     "word": "at all; cooked",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:gar_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "at al; cooked"
+    ]
   },
   "at_all_in_general_adv": {
     "word": "at all; in general",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:ueberhaupt_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "at al; in general"
+    ]
   },
   "at_contr": {
     "word": "at",
@@ -576,7 +646,10 @@
     "word": "at the beginning",
     "type": "expr",
     "_generatedFrom": "es-en/generalbank.json:al_principio_expr",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "at the begining"
+    ]
   },
   "at_the_caf_phrase": {
     "word": "at the café",
@@ -594,7 +667,10 @@
     "word": "at the moment; currently",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:zurzeit_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "at the moment; curently"
+    ]
   },
   "at_the_same_time_simultaneous_adv": {
     "word": "at the same time; simultaneous",
@@ -612,13 +688,20 @@
     "word": "attention; caution",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:achtung_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "atention; caution",
+      "attension; causion"
+    ]
   },
   "attentive_adv": {
     "word": "attentive",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:aufmerksam_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "atentive"
+    ]
   },
   "austria_propn": {
     "word": "Austria",
@@ -690,7 +773,10 @@
     "word": "to be forbidden",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:verboten_sein_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "to be forbiden"
+    ]
   },
   "be_fun_phrase": {
     "word": "to be fun",
@@ -708,7 +794,10 @@
     "word": "to be off; to be over",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:aus_sein_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "to be of; to be over"
+    ]
   },
   "be_on_adv": {
     "word": "to be on",
@@ -805,7 +894,10 @@
     "word": "better",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:besser_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "beter"
+    ]
   },
   "between_prep": {
     "word": "between",
@@ -817,19 +909,28 @@
     "word": "bitter",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:bitter_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "biter"
+    ]
   },
   "bless_you_interj": {
     "word": "Bless you!",
     "type": "interj",
     "_generatedFrom": "es-en/generalbank.json:salud_interj",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "Bles you!"
+    ]
   },
   "bless_you_phrase": {
     "word": "bless you!",
     "type": "phrase",
     "_generatedFrom": "es-en/phrasesbank.json:salud_phrase",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "bles you!"
+    ]
   },
   "blind_adv": {
     "word": "blind",
@@ -841,7 +942,10 @@
     "word": "bon appétit",
     "type": "phrase",
     "_generatedFrom": "es-en/phrasesbank.json:que_aproveche_phrase",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "bon apétit"
+    ]
   },
   "both__and_conj": {
     "word": "both ... and",
@@ -1100,13 +1204,19 @@
     "word": "Congratulations!",
     "type": "interj",
     "_generatedFrom": "es-en/generalbank.json:enhorabuena_interj",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "Congratulasions!"
+    ]
   },
   "congratulations_phrase": {
     "word": "congratulations",
     "type": "phrase",
     "_generatedFrom": "de-en/generalbank.json:herzlichen_glueckwunsch_phrase, es-en/phrasesbank.json:felicidades_phrase",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "congratulasions"
+    ]
   },
   "constantly_adv": {
     "word": "constantly",
@@ -1118,7 +1228,10 @@
     "word": "correct",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:korrekt_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "corect"
+    ]
   },
   "crazy_adv": {
     "word": "crazy",
@@ -1166,7 +1279,10 @@
     "word": "current",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:aktuell_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "curent"
+    ]
   },
   "cycle_phrase": {
     "word": "to cycle",
@@ -1244,13 +1360,19 @@
     "word": "different; varying",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:unterschiedlich_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "diferent; varying"
+    ]
   },
   "differently_adv": {
     "word": "differently",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:anders_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "diferently"
+    ]
   },
   "digital_adv": {
     "word": "digital",
@@ -1274,7 +1396,10 @@
     "word": "dismissed; terminated",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:gekuendigt_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "dismised; terminated"
+    ]
   },
   "do_adv": {
     "word": "to do",
@@ -1316,7 +1441,10 @@
     "word": "to dress warmly",
     "type": "phrase",
     "_generatedFrom": "de-en/generalbank.json:sich_warm_anziehen_phrase",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "to dres warmly"
+    ]
   },
   "due_adv": {
     "word": "due",
@@ -1377,7 +1505,10 @@
     "word": "earlier; in the past",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:frueher_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "earleir; in the past"
+    ]
   },
   "early_adv": {
     "word": "early",
@@ -1389,19 +1520,28 @@
     "word": "eight",
     "type": "num",
     "_generatedFrom": "de-en/numbersbank.json:acht_num, es-en/numbersbank.json:ocho_num",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "ieght"
+    ]
   },
   "eighteen_num": {
     "word": "eighteen",
     "type": "num",
     "_generatedFrom": "de-en/numbersbank.json:achtzehn_num",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "ieghteen"
+    ]
   },
   "eighty_num": {
     "word": "eighty",
     "type": "num",
     "_generatedFrom": "de-en/numbersbank.json:achtzig_num",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "ieghty"
+    ]
   },
   "either_adv": {
     "word": "either",
@@ -1437,7 +1577,10 @@
     "word": "embarrassing",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:peinlich_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "embarasing"
+    ]
   },
   "employed_working_adv": {
     "word": "employed; working",
@@ -1473,13 +1616,19 @@
     "word": "equally; just as",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:ebenso_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "equaly; just as"
+    ]
   },
   "especially_adv": {
     "word": "especially",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:besonders_adv, es-en/generalbank.json:especialmente_adv",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "especialy"
+    ]
   },
   "eternal_forever_adv": {
     "word": "eternal; forever",
@@ -1684,19 +1833,28 @@
     "word": "finally",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:endlich_adv, es-en/generalbank.json:finalmente_adv",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "finaly"
+    ]
   },
   "finally_after_all_adv": {
     "word": "finally; after all",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:schliesslich_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "finaly; after al"
+    ]
   },
   "finally_expr": {
     "word": "finally",
     "type": "expr",
     "_generatedFrom": "es-en/generalbank.json:por_fin_expr",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "finaly"
+    ]
   },
   "financial_adv": {
     "word": "financial",
@@ -1726,7 +1884,10 @@
     "word": "first; initially",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:zunaechst_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "first; initialy"
+    ]
   },
   "first_num": {
     "word": "first",
@@ -1762,7 +1923,10 @@
     "word": "flat-rate; all-inclusive",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:pauschal_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "flat-rate; al-inclusive"
+    ]
   },
   "flexible_adv": {
     "word": "flexible",
@@ -1829,13 +1993,19 @@
     "word": "foreign",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:auslaendisch_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "foriegn"
+    ]
   },
   "foreign_strange_adv": {
     "word": "foreign; strange",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:fremd_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "foriegn; strange"
+    ]
   },
   "fortunately_adv": {
     "word": "fortunately",
@@ -1871,7 +2041,10 @@
     "word": "France",
     "type": "propn",
     "_generatedFrom": "de-en/generalbank.json:frankreich_land",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "Frence"
+    ]
   },
   "free_adv": {
     "word": "free",
@@ -1901,7 +2074,10 @@
     "word": "Friends are important",
     "type": "phrase",
     "_generatedFrom": "de-en/generalbank.json:freunde_sind_wichtig_phrase",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "Freinds are important"
+    ]
   },
   "from_contr": {
     "word": "from",
@@ -1920,7 +2096,10 @@
     "word": "from France",
     "type": "phrase",
     "_generatedFrom": "de-en/generalbank.json:aus_frankreich_phrase",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "from Frence"
+    ]
   },
   "from_now_on_adv": {
     "word": "from now on",
@@ -1932,7 +2111,10 @@
     "word": "from; off",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:ab_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "from; of"
+    ]
   },
   "from_phrase": {
     "word": "from",
@@ -1976,19 +2158,28 @@
     "type": "adv",
     "usageNotes": "not hungry",
     "_generatedFrom": "de-en/generalbank.json:satt_general, de-en/generalbank.json:voll_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "ful"
+    ]
   },
   "funny_strange_adv": {
     "word": "funny; strange",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:komisch_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "funy; strange"
+    ]
   },
   "funny_witty_adv": {
     "word": "funny; witty",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:witzig_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "funy; wity"
+    ]
   },
   "further_continue_adv": {
     "word": "further; continue",
@@ -2018,7 +2209,10 @@
     "word": "generally",
     "type": "adv",
     "_generatedFrom": "es-en/generalbank.json:generalmente_adv",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "generaly"
+    ]
   },
   "germany_propn": {
     "word": "Germany",
@@ -2030,7 +2224,10 @@
     "word": "To get along well",
     "type": "phrase",
     "_generatedFrom": "es-en/generalbank.json:llevarse_bien_phrase",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "To get along wel"
+    ]
   },
   "gladly_adv": {
     "word": "gladly",
@@ -2042,7 +2239,10 @@
     "word": "To go shopping",
     "type": "phrase",
     "_generatedFrom": "es-en/generalbank.json:ir_de_compras_phrase",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "To go shoping"
+    ]
   },
   "go_to_the_cinema_phrase": {
     "word": "to go to the cinema",
@@ -2114,7 +2314,10 @@
     "word": "great; excellent",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:prima_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "great; excelent"
+    ]
   },
   "great_interj": {
     "word": "Great!",
@@ -2158,19 +2361,28 @@
     "type": "phrase",
     "usageNotes": "song",
     "_generatedFrom": "de-en/generalbank.json:zum_geburtstag_viel_glueck_phrase, es-en/generalbank.json:feliz_cumpleanos_phrase, es-en/phrasesbank.json:feliz_cumpleanos_phrase",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "Hapy Birthday"
+    ]
   },
   "happy_glad_adv": {
     "word": "happy; glad",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:froh_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "hapy; glad"
+    ]
   },
   "happy_new_year_phrase": {
     "word": "Happy New Year!",
     "type": "phrase",
     "_generatedFrom": "es-en/generalbank.json:feliz_ano_nuevo_phrase",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "Hapy New Year!"
+    ]
   },
   "hardly_barely_adv": {
     "word": "hardly; barely",
@@ -2243,25 +2455,37 @@
     "word": "heavy; difficult",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:schwer_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "heavy; dificult"
+    ]
   },
   "hello_adv": {
     "word": "hello",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:hallo_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "helo"
+    ]
   },
   "hello_hi_phrase": {
     "word": "hello, hi",
     "type": "phrase",
     "_generatedFrom": "es-en/phrasesbank.json:hola_phrase",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "helo, hi"
+    ]
   },
   "hello_interj": {
     "word": "Hello!",
     "type": "interj",
     "_generatedFrom": "de-en/generalbank.json:hallo_interj, es-en/generalbank.json:hola_interj",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "Helo!"
+    ]
   },
   "her_fem_pron": {
     "word": "her (fem.",
@@ -2371,7 +2595,10 @@
     "word": "hopefully",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:hoffentlich_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "hopefuly"
+    ]
   },
   "how_are_you_phrase": {
     "word": "How are you?",
@@ -2437,7 +2664,10 @@
     "word": "however; admittedly",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:allerdings_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "however; admitedly"
+    ]
   },
   "however_adv": {
     "word": "however",
@@ -2527,7 +2757,10 @@
     "word": "I have a question",
     "type": "phrase",
     "_generatedFrom": "es-en/generalbank.json:tengo_una_pregunta_phrase, es-en/phrasesbank.json:tengo_una_pregunta_phrase",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "I have a quession"
+    ]
   },
   "i_like_phrase": {
     "word": "I like",
@@ -2587,7 +2820,10 @@
     "word": "illegal",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:illegal_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "ilegal"
+    ]
   },
   "im_afraid_phrase": {
     "word": "I'm afraid",
@@ -2605,7 +2841,10 @@
     "word": "I'm doing well",
     "type": "phrase",
     "_generatedFrom": "de-en/phrasesbank.json:mir_gehts_gut_phrase",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "I'm doing wel"
+    ]
   },
   "im_from_phrase": {
     "word": "I'm from...",
@@ -2629,7 +2868,10 @@
     "word": "I'm in a hurry",
     "type": "phrase",
     "_generatedFrom": "es-en/generalbank.json:tengo_prisa_phrase",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "I'm in a hury"
+    ]
   },
   "im_looking_forward_to_it_phrase": {
     "word": "I'm looking forward to it",
@@ -2653,13 +2895,19 @@
     "word": "I'm sorry",
     "type": "interj",
     "_generatedFrom": "es-en/generalbank.json:lo_siento_interj",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "I'm sory"
+    ]
   },
   "im_sorry_phrase": {
     "word": "I'm sorry",
     "type": "phrase",
     "_generatedFrom": "es-en/phrasesbank.json:lo_siento_phrase",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "I'm sory"
+    ]
   },
   "im_thirsty_phrase": {
     "word": "I'm thirsty",
@@ -2671,13 +2919,19 @@
     "word": "immediately",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:gleich_adv, de-en/generalbank.json:sofort_adv, es-en/generalbank.json:enseguida_adv, es-en/generalbank.json:inmediatamente_adv",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "imediately"
+    ]
   },
   "in_a_mess_confused_adv": {
     "word": "in a mess; confused",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:durcheinander_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "in a mes; confused"
+    ]
   },
   "in_adv": {
     "word": "in",
@@ -2689,13 +2943,19 @@
     "word": "in advance",
     "type": "phrase",
     "_generatedFrom": "de-en/generalbank.json:im_voraus_phrase",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "in advence"
+    ]
   },
   "in_conclusion_phrase": {
     "word": "In conclusion",
     "type": "phrase",
     "_generatedFrom": "es-en/generalbank.json:en_conclusion_phrase",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "In conclution"
+    ]
   },
   "in_contr": {
     "word": "in",
@@ -2798,19 +3058,28 @@
     "word": "incredible; unbelievable",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:unglaublich_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "incredible; unbeleivable"
+    ]
   },
   "indeed_admittedly_adv": {
     "word": "indeed; admittedly",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:zwar_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "indeed; admitedly"
+    ]
   },
   "indifferent_adv": {
     "word": "indifferent",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:egal_adv",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "indiferent"
+    ]
   },
   "individual_adv": {
     "word": "individual",
@@ -2822,13 +3091,19 @@
     "word": "initially",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:anfangs_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "initialy"
+    ]
   },
   "inner_adv": {
     "word": "inner",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:inner_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "iner"
+    ]
   },
   "inside_adv": {
     "word": "inside",
@@ -2870,7 +3145,10 @@
     "word": "international",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:international_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "internasional"
+    ]
   },
   "into_contr": {
     "word": "into",
@@ -2889,7 +3167,10 @@
     "word": "is it convenient?",
     "type": "phrase",
     "_generatedFrom": "de-en/generalbank.json:passt_es_phrase",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "is it conveneint?"
+    ]
   },
   "it_adv": {
     "word": "to it",
@@ -2919,7 +3200,10 @@
     "word": "it works; it's going well",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:klappt_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "it works; it's going wel"
+    ]
   },
   "italy_propn": {
     "word": "Italy",
@@ -2967,7 +3251,10 @@
     "word": "It's sunny",
     "type": "phrase",
     "_generatedFrom": "es-en/generalbank.json:hace_sol_phrase",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "It's suny"
+    ]
   },
   "its_two_oclock_phrase": {
     "word": "It's two o'clock",
@@ -2985,7 +3272,10 @@
     "word": "just as; equally",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:genauso_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "just as; equaly"
+    ]
   },
   "just_now_a_moment_ago_adv": {
     "word": "just now; a moment ago",
@@ -3009,7 +3299,10 @@
     "word": "lastly; finally",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:zuletzt_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "lastly; finaly"
+    ]
   },
   "late_adv": {
     "word": "late",
@@ -3063,7 +3356,10 @@
     "word": "less",
     "type": "adv",
     "_generatedFrom": "es-en/generalbank.json:menos_adv",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "les"
+    ]
   },
   "lets_get_started_phrase": {
     "word": "let's get started",
@@ -3111,7 +3407,10 @@
     "word": "little",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:wenig_adv, es-en/generalbank.json:poco_adv",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "litle"
+    ]
   },
   "lonely_adv": {
     "word": "lonely",
@@ -3171,7 +3470,11 @@
     "word": "married",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:verheiratet_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "maried",
+      "marreid"
+    ]
   },
   "maximum_adv": {
     "word": "maximum",
@@ -3213,7 +3516,10 @@
     "word": "Merry Christmas!",
     "type": "phrase",
     "_generatedFrom": "es-en/generalbank.json:feliz_navidad_phrase",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "Mery Christmas!"
+    ]
   },
   "mexico_propn": {
     "word": "Mexico",
@@ -3225,7 +3531,10 @@
     "word": "middle; medium",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:mittler_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "midle; medium"
+    ]
   },
   "mild_adv": {
     "word": "mild",
@@ -3249,7 +3558,10 @@
     "word": "To miss",
     "type": "phrase",
     "_generatedFrom": "es-en/generalbank.json:echar_de_menos_phrase",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "To mis"
+    ]
   },
   "mixed_pron": {
     "word": "mixed)",
@@ -3363,13 +3675,19 @@
     "word": "narrow",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:schmal_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "narow"
+    ]
   },
   "narrow_tight_adv": {
     "word": "narrow; tight",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:eng_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "narow; tight"
+    ]
   },
   "near_prep": {
     "word": "near",
@@ -3381,13 +3699,19 @@
     "word": "necessarily",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:unbedingt_adv",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "necesarily"
+    ]
   },
   "necessary_adv": {
     "word": "necessary",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:noetig_general, de-en/generalbank.json:notwendig_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "necesary"
+    ]
   },
   "negative_adv": {
     "word": "negative",
@@ -3435,7 +3759,10 @@
     "word": "nevertheless",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:trotzdem_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "nevertheles"
+    ]
   },
   "next_adv": {
     "word": "next",
@@ -3575,7 +3902,10 @@
     "word": "normally",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:normalerweise_adv, es-en/generalbank.json:normalmente_adv",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "normaly"
+    ]
   },
   "norway_propn": {
     "word": "Norway",
@@ -3605,7 +3935,10 @@
     "word": "not necessary",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:nicht_notwendig_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "not necesary"
+    ]
   },
   "not_yet_phrase": {
     "word": "not yet",
@@ -3641,7 +3974,10 @@
     "word": "occupied; busy",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:besetzt_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "occupeid; busy"
+    ]
   },
   "of_contr": {
     "word": "of",
@@ -3671,7 +4007,10 @@
     "word": "of course; naturally",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:selbstverstaendlich_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "of course; naturaly"
+    ]
   },
   "of_course_phrase": {
     "word": "of course",
@@ -3695,7 +4034,10 @@
     "word": "official",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:offiziell_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "oficial"
+    ]
   },
   "often_adv": {
     "word": "often",
@@ -3799,7 +4141,10 @@
     "word": "on the side; incidentally",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:nebenbei_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "on the side; incidentaly"
+    ]
   },
   "on_the_way_adv": {
     "word": "on the way",
@@ -3890,13 +4235,19 @@
     "word": "opposite; across from",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:gegenueber_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "oposite; acros from"
+    ]
   },
   "opposite_prep": {
     "word": "opposite",
     "type": "prep",
     "_generatedFrom": "es-en/generalbank.json:enfrente_de_prep",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "oposite"
+    ]
   },
   "optimistic_adv": {
     "word": "optimistic",
@@ -3920,7 +4271,10 @@
     "word": "originally; original",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:urspruenglich_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "originaly; original"
+    ]
   },
   "other_adv": {
     "word": "other",
@@ -4028,7 +4382,10 @@
     "word": "parallel",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:parallel_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "paralel"
+    ]
   },
   "parttime_halfday_adv": {
     "word": "part-time; half-day",
@@ -4040,7 +4397,10 @@
     "word": "passive",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:passiv_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "pasive"
+    ]
   },
   "past_over_adv": {
     "word": "past; over",
@@ -4142,13 +4502,19 @@
     "word": "possible",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:moeglich_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "posible"
+    ]
   },
   "possibly_perhaps_adv": {
     "word": "possibly; perhaps",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:eventuell_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "posibly; perhaps"
+    ]
   },
   "practical_adv": {
     "word": "practical",
@@ -4184,7 +4550,10 @@
     "word": "pretty",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:huebsch_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "prety"
+    ]
   },
   "private_adv": {
     "word": "private",
@@ -4214,19 +4583,29 @@
     "word": "probably; well",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:wohl_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "probably; wel"
+    ]
   },
   "professional_adv": {
     "word": "professional",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:beruflich_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "profesional",
+      "profestional"
+    ]
   },
   "prohibited_forbidden_adv": {
     "word": "prohibited; forbidden",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:untersagt_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "prohibited; forbiden"
+    ]
   },
   "proud_adv": {
     "word": "proud",
@@ -4274,13 +4653,20 @@
     "word": "quiet; soft",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:leise_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "queit; soft"
+    ]
   },
   "quiet_still_adv": {
     "word": "quiet; still",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:still_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "quiet; stil",
+      "queit; still"
+    ]
   },
   "quite_adv": {
     "word": "quite",
@@ -4328,13 +4714,19 @@
     "word": "really",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:wirklich_adv, es-en/generalbank.json:realmente_adv",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "realy"
+    ]
   },
   "really_expr": {
     "word": "really",
     "type": "expr",
     "_generatedFrom": "es-en/generalbank.json:de_verdad_expr",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "realy"
+    ]
   },
   "reasonable_sensible_adv": {
     "word": "reasonable; sensible",
@@ -4394,7 +4786,10 @@
     "word": "required; necessary",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:erforderlich_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "required; necesary"
+    ]
   },
   "responsible_adv": {
     "word": "responsible",
@@ -4454,7 +4849,10 @@
     "word": "round; approximately",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:rund_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "round; aproximately"
+    ]
   },
   "salty_adv": {
     "word": "salty",
@@ -4496,7 +4894,10 @@
     "word": "See you tomorrow",
     "type": "phrase",
     "_generatedFrom": "es-en/generalbank.json:hasta_manana_phrase, es-en/phrasesbank.json:hasta_manana_phrase",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "See you tomorow"
+    ]
   },
   "self_oneself_adv": {
     "word": "self; oneself",
@@ -4514,7 +4915,10 @@
     "word": "senseless; pointless",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:sinnlos_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "senseles; pointles"
+    ]
   },
   "sensible_meaningful_adv": {
     "word": "sensible; meaningful",
@@ -4586,7 +4990,10 @@
     "word": "sick; ill",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:krank_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "sick; il"
+    ]
   },
   "similar_adv": {
     "word": "similar",
@@ -4634,7 +5041,11 @@
     "word": "single; unmarried",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:ledig_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "single; unmaried",
+      "single; unmarreid"
+    ]
   },
   "sits_has_sat_adv": {
     "word": "sits, has sat",
@@ -4664,7 +5075,10 @@
     "word": "Sleep well!",
     "type": "phrase",
     "_generatedFrom": "es-en/generalbank.json:que_duermas_bien_phrase",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "Sleep wel!"
+    ]
   },
   "slim_adv": {
     "word": "slim",
@@ -4688,13 +5102,19 @@
     "word": "small; slight",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:gering_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "smal; slight"
+    ]
   },
   "smooth_slippery_adv": {
     "word": "smooth; slippery",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:glatt_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "smooth; slipery"
+    ]
   },
   "so_adv": {
     "word": "so",
@@ -4742,7 +5162,10 @@
     "word": "so-called",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:sogenannt_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "so-caled"
+    ]
   },
   "social_adv": {
     "word": "social",
@@ -4785,7 +5208,10 @@
     "word": "something; a little",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:etwas_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "something; a litle"
+    ]
   },
   "sometime_someday_adv": {
     "word": "sometime; someday",
@@ -4809,13 +5235,19 @@
     "word": "sorry, excuse me",
     "type": "phrase",
     "_generatedFrom": "es-en/phrasesbank.json:perdon_phrase",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "sory, excuse me"
+    ]
   },
   "sorry_interj": {
     "word": "Sorry",
     "type": "interj",
     "_generatedFrom": "es-en/generalbank.json:perdon_interj",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "Sory"
+    ]
   },
   "soso_phrase": {
     "word": "So-so",
@@ -4857,7 +5289,10 @@
     "word": "staycation",
     "type": "phrase",
     "_generatedFrom": "de-en/generalbank.json:urlaub_auf_balkonien_phrase",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "staycasion"
+    ]
   },
   "steep_adv": {
     "word": "steep",
@@ -4869,7 +5304,10 @@
     "word": "still",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:noch_adv, es-en/generalbank.json:todavia_adv, es-en/generalbank.json:aun_adv",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "stil"
+    ]
   },
   "straight_ahead_adv": {
     "word": "straight ahead",
@@ -4881,7 +5319,10 @@
     "word": "strange; odd",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:seltsam_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "strange; od"
+    ]
   },
   "strange_peculiar_adv": {
     "word": "strange; peculiar",
@@ -4905,7 +5346,10 @@
     "word": "successful",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:erfolgreich_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "succesful"
+    ]
   },
   "such_adv": {
     "word": "such",
@@ -4917,19 +5361,29 @@
     "word": "suddenly",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:ploetzlich_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "sudenly"
+    ]
   },
   "suddenly_expr": {
     "word": "suddenly",
     "type": "expr",
     "_generatedFrom": "es-en/generalbank.json:de_repente_expr",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "sudenly"
+    ]
   },
   "sufficient_adv": {
     "word": "sufficient",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:ausreichend_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "suficient",
+      "sufficeint"
+    ]
   },
   "sunbathe_phrase": {
     "word": "To sunbathe",
@@ -4983,7 +5437,10 @@
     "word": "temporary; provisional",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:vorlaeufig_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "temporary; provitional"
+    ]
   },
   "ten_num": {
     "word": "ten",
@@ -4995,13 +5452,19 @@
     "word": "terrible; awful",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:furchtbar_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "terible; awful"
+    ]
   },
   "terrible_dreadful_adv": {
     "word": "terrible; dreadful",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:schrecklich_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "terible; dreadful"
+    ]
   },
   "than_conj": {
     "word": "than",
@@ -5424,7 +5887,10 @@
     "word": "today's; current",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:heutig_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "today's; curent"
+    ]
   },
   "together_adv": {
     "word": "together",
@@ -5448,7 +5914,10 @@
     "word": "tomorrow",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:morgen_adv, es-en/generalbank.json:manana_adv",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "tomorow"
+    ]
   },
   "too_as_in_too_late_adv": {
     "word": "too, as in \"too late\"",
@@ -5490,7 +5959,10 @@
     "word": "traditional",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:traditionell_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "tradisional"
+    ]
   },
   "true_adv": {
     "word": "true",
@@ -5544,7 +6016,10 @@
     "word": "uncanny; incredibly",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:unheimlich_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "uncany; incredibly"
+    ]
   },
   "under_below_adv": {
     "word": "under; below",
@@ -5622,7 +6097,10 @@
     "word": "upper",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:ober_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "uper"
+    ]
   },
   "upward_adv": {
     "word": "upward",
@@ -5646,7 +6124,10 @@
     "word": "urgent; in a hurry",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:eilig_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "urgent; in a hury"
+    ]
   },
   "us_pron": {
     "word": "us",
@@ -5664,19 +6145,28 @@
     "word": "usual; common",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:ueblich_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "usual; comon"
+    ]
   },
   "usually_adv": {
     "word": "usually",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:meistens_adv, de-en/generalbank.json:normalerweise_adv",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "usualy"
+    ]
   },
   "usually_ordinary_adv": {
     "word": "usually; ordinary",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:gewoehnlich_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "usualy; ordinary"
+    ]
   },
   "valid_adv": {
     "word": "valid",
@@ -5712,7 +6202,10 @@
     "word": "Very well",
     "type": "phrase",
     "_generatedFrom": "es-en/generalbank.json:muy_bien_phrase, es-en/phrasesbank.json:muy_bien_phrase",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "Very wel"
+    ]
   },
   "virtual_adv": {
     "word": "virtual",
@@ -5766,19 +6259,28 @@
     "word": "well",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:also_adv, es-en/generalbank.json:bien_adv",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "wel"
+    ]
   },
   "well_conj": {
     "word": "well",
     "type": "conj",
     "_generatedFrom": "es-en/generalbank.json:pues_conj",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "wel"
+    ]
   },
   "wellknown_adv": {
     "word": "well-known",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:bekannt_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "wel-known"
+    ]
   },
   "what_does__mean_phrase": {
     "word": "What does ... mean?",
@@ -6008,7 +6510,10 @@
     "word": "with my friends",
     "type": "phrase",
     "_generatedFrom": "de-en/generalbank.json:mit_meinen_freunden_phrase",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "with my freinds"
+    ]
   },
   "with_my_mother_phrase": {
     "word": "with my mother",
@@ -6062,13 +6567,19 @@
     "word": "worthless",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:wertlos_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "worthles"
+    ]
   },
   "written_in_writing_adv": {
     "word": "written; in writing",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:schriftlich_general",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "writen; in writing"
+    ]
   },
   "wrong_false_adv": {
     "word": "wrong; false",
@@ -6104,20 +6615,29 @@
     "word": "you all (formal",
     "type": "pron",
     "_generatedFrom": "es-en/pronounsbank.json:ustedes_pron",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "you al (formal"
+    ]
   },
   "you_all_masculine_pron": {
     "word": "you all (masculine",
     "type": "pron",
     "_generatedFrom": "es-en/pronounsbank.json:vosotros_pron",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "you al (masculine"
+    ]
   },
   "you_all_pron": {
     "word": "you all",
     "type": "pron",
     "usageNotes": "feminine, Spain",
     "_generatedFrom": "es-en/pronounsbank.json:vosotras_pron, es-en/pronounsbank.json:os_dirobj_pron, es-en/pronounsbank.json:os_indobj_pron",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "you al"
+    ]
   },
   "you_pron": {
     "word": "you",

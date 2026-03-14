@@ -70,7 +70,14 @@
     "_generatedFrom": "de-nb/verbbank.json:schon_laufen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "alerede gå",
+      "allerede ga"
+    ],
+    "acceptedForms": [
+      "allerede gaa"
+    ]
   },
   "analysere_verb": {
     "word": "analysere",
@@ -154,7 +161,12 @@
     "_generatedFrom": "de-nb/verbbank.json:anerkennen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "anerkjene",
+      "anerkenne",
+      "anersjenne"
+    ]
   },
   "ankomme_verb": {
     "word": "ankomme",
@@ -175,7 +187,10 @@
     "_generatedFrom": "de-nb/verbbank.json:ankommen_verb, es-nb/verbbank.json:llegar_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "ankome"
+    ]
   },
   "anmelde_verb": {
     "word": "anmelde",
@@ -217,7 +232,10 @@
     "_generatedFrom": "de-nb/verbbank.json:anstellen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "ansete"
+    ]
   },
   "anskaffe_verb": {
     "word": "anskaffe",
@@ -238,7 +256,10 @@
     "_generatedFrom": "de-nb/verbbank.json:anschaffen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "anskafe"
+    ]
   },
   "anslå_verb": {
     "word": "anslå",
@@ -259,7 +280,13 @@
     "_generatedFrom": "de-nb/verbbank.json:schaetzen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "ansla"
+    ],
+    "acceptedForms": [
+      "anslaa"
+    ]
   },
   "anstrenge_seg_verb": {
     "word": "anstrenge seg",
@@ -364,7 +391,10 @@
     "_generatedFrom": "de-nb/verbbank.json:verhaften_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "arestere"
+    ]
   },
   "avhenge_verb": {
     "word": "avhenge",
@@ -427,7 +457,10 @@
     "_generatedFrom": "de-nb/verbbank.json:abschliessen_verb, de-nb/verbbank.json:beenden_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "avslute"
+    ]
   },
   "avslutte_å_fullføre_verb": {
     "word": "avslutte, å fullføre",
@@ -441,7 +474,16 @@
       }
     },
     "_generatedFrom": "es-nb/verbbank.json:terminar_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "avslute, å fulføre",
+      "avslutte, å fullfore",
+      "avslutte, a fullføre"
+    ],
+    "acceptedForms": [
+      "avslutte, å fullfoere",
+      "avslutte, aa fullføre"
+    ]
   },
   "avslå_verb": {
     "word": "avslå",
@@ -462,7 +504,13 @@
     "_generatedFrom": "de-nb/verbbank.json:ablehnen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "avsla"
+    ],
+    "acceptedForms": [
+      "avslaa"
+    ]
   },
   "avtale_verb": {
     "word": "avtale",
@@ -497,7 +545,15 @@
       }
     },
     "_generatedFrom": "de-nb/verbbank.json:sich_verabreden_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "avtale å motes",
+      "avtale a møtes"
+    ],
+    "acceptedForms": [
+      "avtale å moetes",
+      "avtale aa møtes"
+    ]
   },
   "bade_verb": {
     "word": "bade",
@@ -637,7 +693,14 @@
       }
     },
     "_generatedFrom": "es-nb/verbbank.json:pedir_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "be om, å bestile",
+      "be om, a bestille"
+    ],
+    "acceptedForms": [
+      "be om, aa bestille"
+    ]
   },
   "befinne_seg_verb": {
     "word": "befinne seg",
@@ -658,7 +721,10 @@
     "_generatedFrom": "de-nb/verbbank.json:sich_befinden_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "befine seg"
+    ]
   },
   "begrunne_verb": {
     "word": "begrunne",
@@ -679,7 +745,10 @@
     "_generatedFrom": "de-nb/verbbank.json:begruenden_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "begrune"
+    ]
   },
   "begynne_verb": {
     "word": "begynne",
@@ -700,7 +769,10 @@
     "_generatedFrom": "de-nb/verbbank.json:anfangen_verb, de-nb/verbbank.json:beginnen_verb, es-nb/verbbank.json:empezar_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "begyne"
+    ]
   },
   "behandle_verb": {
     "word": "behandle",
@@ -868,7 +940,10 @@
     "_generatedFrom": "de-nb/verbbank.json:schuetzen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "beskyte"
+    ]
   },
   "beslutte_verb": {
     "word": "beslutte",
@@ -889,7 +964,10 @@
     "_generatedFrom": "de-nb/verbbank.json:beschliessen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "beslute"
+    ]
   },
   "best_verb": {
     "word": "best",
@@ -931,7 +1009,10 @@
     "_generatedFrom": "de-nb/verbbank.json:sich_entschliessen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "besteme seg"
+    ]
   },
   "bestemme_verb": {
     "word": "bestemme",
@@ -952,7 +1033,10 @@
     "_generatedFrom": "es-nb/verbbank.json:decidir_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "besteme"
+    ]
   },
   "bestille_verb": {
     "word": "bestille",
@@ -973,7 +1057,10 @@
     "_generatedFrom": "de-nb/verbbank.json:buchen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "bestile"
+    ]
   },
   "besvare_verb": {
     "word": "besvare",
@@ -1015,7 +1102,13 @@
     "_generatedFrom": "de-nb/verbbank.json:besuchen_verb, es-nb/verbbank.json:visitar_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "besoke"
+    ],
+    "acceptedForms": [
+      "besoeke"
+    ]
   },
   "betale_verb": {
     "word": "betale",
@@ -1225,7 +1318,15 @@
     "_generatedFrom": "de-nb/verbbank.json:sich_erkaelten_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "bli forkølet",
+      "bli forsjølet",
+      "bli forkjolet"
+    ],
+    "acceptedForms": [
+      "bli forkjoelet"
+    ]
   },
   "bli_kjent_med_verb": {
     "word": "bli kjent med",
@@ -1239,7 +1340,12 @@
       }
     },
     "_generatedFrom": "de-nb/verbbank.json:kennenlernen_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "bli kjent me",
+      "bli kent med",
+      "bli sjent med"
+    ]
   },
   "bli_liggende_verb": {
     "word": "bli liggende",
@@ -1260,7 +1366,10 @@
     "_generatedFrom": "de-nb/verbbank.json:liegen_bleiben_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "bli ligende"
+    ]
   },
   "bli_med_verb": {
     "word": "bli med",
@@ -1281,7 +1390,10 @@
     "_generatedFrom": "de-nb/verbbank.json:mitkommen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "bli me"
+    ]
   },
   "bli_opprørt_verb": {
     "word": "bli opprørt",
@@ -1302,7 +1414,14 @@
     "_generatedFrom": "de-nb/verbbank.json:sich_aufregen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "bli oprørt",
+      "bli opprort"
+    ],
+    "acceptedForms": [
+      "bli opproert"
+    ]
   },
   "bli_verb": {
     "word": "bli",
@@ -1365,7 +1484,13 @@
     "_generatedFrom": "de-nb/verbbank.json:bluten_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "blo"
+    ],
+    "acceptedForms": [
+      "bloe"
+    ]
   },
   "bo_verb": {
     "word": "bo",
@@ -1400,7 +1525,13 @@
       }
     },
     "_generatedFrom": "es-nb/verbbank.json:vivir_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "bo, a leve"
+    ],
+    "acceptedForms": [
+      "bo, aa leve"
+    ]
   },
   "bremse_verb": {
     "word": "bremse",
@@ -1442,7 +1573,10 @@
     "_generatedFrom": "de-nb/verbbank.json:sich_verbrennen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "brene seg"
+    ]
   },
   "brenne_verb": {
     "word": "brenne",
@@ -1463,7 +1597,10 @@
     "_generatedFrom": "de-nb/verbbank.json:brennen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "brene"
+    ]
   },
   "bringe_verb": {
     "word": "bringe",
@@ -1498,7 +1635,14 @@
       }
     },
     "_generatedFrom": "es-nb/verbbank.json:traer_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "bringe, å ta me",
+      "bringe, a ta med"
+    ],
+    "acceptedForms": [
+      "bringe, aa ta med"
+    ]
   },
   "bruke_deform_verb": {
     "word": "bruke De-form",
@@ -1555,7 +1699,10 @@
       }
     },
     "_generatedFrom": "de-nb/verbbank.json:einbrechen_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "bryte seg in"
+    ]
   },
   "bygge_verb": {
     "word": "bygge",
@@ -1576,7 +1723,10 @@
     "_generatedFrom": "de-nb/verbbank.json:bauen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "byge"
+    ]
   },
   "bytte_verb": {
     "word": "bytte",
@@ -1597,7 +1747,10 @@
     "_generatedFrom": "de-nb/verbbank.json:tauschen_verb, de-nb/verbbank.json:umsteigen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "byte"
+    ]
   },
   "bære_verb": {
     "word": "bære",
@@ -1618,7 +1771,13 @@
     "_generatedFrom": "de-nb/verbbank.json:tragen_verb",
     "_enriched": true,
     "verbClass": "sterk",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "bere"
+    ],
+    "acceptedForms": [
+      "baere"
+    ]
   },
   "bære_å_ha_på_seg_verb": {
     "word": "bære, å ha på seg",
@@ -1632,7 +1791,15 @@
       }
     },
     "_generatedFrom": "es-nb/verbbank.json:llevar_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "bere, å ha på seg",
+      "bære, a ha pa seg"
+    ],
+    "acceptedForms": [
+      "baere, å ha på seg",
+      "bære, aa ha paa seg"
+    ]
   },
   "bør_verb": {
     "word": "bør",
@@ -1653,7 +1820,13 @@
     "_generatedFrom": "de-nb/verbbank.json:sollen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "bor"
+    ],
+    "acceptedForms": [
+      "boer"
+    ]
   },
   "chatte_verb": {
     "word": "chatte",
@@ -1674,7 +1847,10 @@
     "_generatedFrom": "de-nb/verbbank.json:chatten_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "chate"
+    ]
   },
   "danse_verb": {
     "word": "danse",
@@ -1709,7 +1885,10 @@
       }
     },
     "_generatedFrom": "de-nb/verbbank.json:meistder_mensch_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "de fleste menesker"
+    ]
   },
   "dekorere_verb": {
     "word": "dekorere",
@@ -1786,7 +1965,15 @@
       }
     },
     "_generatedFrom": "es-nb/verbbank.json:asistir_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "delta, å vere til stede",
+      "delta, a være til stede"
+    ],
+    "acceptedForms": [
+      "delta, å vaere til stede",
+      "delta, aa være til stede"
+    ]
   },
   "der_borte_verb": {
     "word": "der borte",
@@ -1905,7 +2092,13 @@
       }
     },
     "_generatedFrom": "es-nb/verbbank.json:irse_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "dra, a ga"
+    ],
+    "acceptedForms": [
+      "dra, aa gaa"
+    ]
   },
   "dreie_verb": {
     "word": "dreie",
@@ -1947,7 +2140,10 @@
     "_generatedFrom": "de-nb/verbbank.json:trinken_verb, es-nb/verbbank.json:beber_verb",
     "_enriched": true,
     "verbClass": "sterk",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "drike"
+    ]
   },
   "drømme_verb": {
     "word": "drømme",
@@ -1968,7 +2164,14 @@
     "_generatedFrom": "de-nb/verbbank.json:traeumen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "drøme",
+      "dromme"
+    ],
+    "acceptedForms": [
+      "droemme"
+    ]
   },
   "dusje_verb": {
     "word": "dusje",
@@ -2010,7 +2213,10 @@
     "_generatedFrom": "de-nb/verbbank.json:tauchen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "dyke"
+    ]
   },
   "død_verb": {
     "word": "død",
@@ -2031,7 +2237,13 @@
     "_generatedFrom": "de-nb/verbbank.json:gestorben_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "dod"
+    ],
+    "acceptedForms": [
+      "doed"
+    ]
   },
   "døde_i_går_verb": {
     "word": "døde i går",
@@ -2045,7 +2257,15 @@
       }
     },
     "_generatedFrom": "de-nb/verbbank.json:gestern_gestorben_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "dode i går",
+      "døde i gar"
+    ],
+    "acceptedForms": [
+      "doede i går",
+      "døde i gaar"
+    ]
   },
   "dømme_verb": {
     "word": "dømme",
@@ -2066,7 +2286,14 @@
     "_generatedFrom": "de-nb/verbbank.json:verurteilen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "døme",
+      "domme"
+    ],
+    "acceptedForms": [
+      "doemme"
+    ]
   },
   "egne_seg_verb": {
     "word": "egne seg",
@@ -2143,7 +2370,14 @@
       }
     },
     "_generatedFrom": "es-nb/verbbank.json:encantar_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "elske, a like veldig godt",
+      "elske, å like veldig got"
+    ],
+    "acceptedForms": [
+      "elske, aa like veldig godt"
+    ]
   },
   "endre_verb": {
     "word": "endre",
@@ -2248,7 +2482,13 @@
     "_generatedFrom": "de-nb/verbbank.json:ernaehren_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "ernere"
+    ],
+    "acceptedForms": [
+      "ernaere"
+    ]
   },
   "etterlate_verb": {
     "word": "etterlate",
@@ -2269,7 +2509,10 @@
     "_generatedFrom": "de-nb/verbbank.json:hinterlassen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "eterlate"
+    ]
   },
   "falle_i_øynene_verb": {
     "word": "falle i øynene",
@@ -2283,7 +2526,14 @@
       }
     },
     "_generatedFrom": "de-nb/verbbank.json:auffallen_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "fale i øynene",
+      "falle i oynene"
+    ],
+    "acceptedForms": [
+      "falle i oeynene"
+    ]
   },
   "falle_inn_verb": {
     "word": "falle inn",
@@ -2304,7 +2554,10 @@
     "_generatedFrom": "de-nb/verbbank.json:einfallen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "fale in"
+    ]
   },
   "falle_ut_verb": {
     "word": "falle ut",
@@ -2325,7 +2578,10 @@
     "_generatedFrom": "de-nb/verbbank.json:ausfallen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "fale ut"
+    ]
   },
   "falle_verb": {
     "word": "falle",
@@ -2346,7 +2602,10 @@
     "_generatedFrom": "de-nb/verbbank.json:fallen_verb",
     "_enriched": true,
     "verbClass": "sterk",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "fale"
+    ]
   },
   "fange_verb": {
     "word": "fange",
@@ -2388,7 +2647,10 @@
     "_generatedFrom": "de-nb/verbbank.json:festlegen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "fastsete"
+    ]
   },
   "feire_verb": {
     "word": "feire",
@@ -2430,7 +2692,10 @@
     "_generatedFrom": "de-nb/verbbank.json:fuenf_aufgaben_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "fem opgaver"
+    ]
   },
   "finansiere_verb": {
     "word": "finansiere",
@@ -2472,7 +2737,10 @@
     "_generatedFrom": "de-nb/verbbank.json:erfinden_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "fine op"
+    ]
   },
   "finne_sted_verb": {
     "word": "finne sted",
@@ -2493,7 +2761,11 @@
     "_generatedFrom": "de-nb/verbbank.json:stattfinden_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "fine sted",
+      "finne ste"
+    ]
   },
   "finne_verb": {
     "word": "finne",
@@ -2514,7 +2786,10 @@
     "_generatedFrom": "de-nb/verbbank.json:finden_verb",
     "_enriched": true,
     "verbClass": "sterk",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "fine"
+    ]
   },
   "finne_å_møte_verb": {
     "word": "finne, å møte",
@@ -2528,7 +2803,16 @@
       }
     },
     "_generatedFrom": "es-nb/verbbank.json:encontrar_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "fine, å møte",
+      "finne, å mote",
+      "finne, a møte"
+    ],
+    "acceptedForms": [
+      "finne, å moete",
+      "finne, aa møte"
+    ]
   },
   "finnes_verb": {
     "word": "finnes",
@@ -2550,7 +2834,10 @@
     "_generatedFrom": "es-nb/verbbank.json:haber_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "fines"
+    ]
   },
   "fjerne_verb": {
     "word": "fjerne",
@@ -2585,7 +2872,10 @@
       }
     },
     "_generatedFrom": "de-nb/verbbank.json:abfliegen_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "fly av ste"
+    ]
   },
   "fly_verb": {
     "word": "fly",
@@ -2627,7 +2917,10 @@
     "_generatedFrom": "de-nb/verbbank.json:einziehen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "flyte in"
+    ]
   },
   "flytte_verb": {
     "word": "flytte",
@@ -2648,7 +2941,10 @@
     "_generatedFrom": "de-nb/verbbank.json:umziehen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "flyte"
+    ]
   },
   "forandre_seg_verb": {
     "word": "forandre seg",
@@ -2704,7 +3000,13 @@
       }
     },
     "_generatedFrom": "de-nb/verbbank.json:dafuer_vorbereiten_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "forberede seg pa det"
+    ],
+    "acceptedForms": [
+      "forberede seg paa det"
+    ]
   },
   "forberede_seg_verb": {
     "word": "forberede seg",
@@ -2809,7 +3111,10 @@
     "_generatedFrom": "de-nb/verbbank.json:verboten_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "forbut"
+    ]
   },
   "fordele_verb": {
     "word": "fordele",
@@ -2851,7 +3156,10 @@
     "_generatedFrom": "de-nb/verbbank.json:vorkommen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "forekome"
+    ]
   },
   "foreslå_verb": {
     "word": "foreslå",
@@ -2872,7 +3180,13 @@
     "_generatedFrom": "de-nb/verbbank.json:vorschlagen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "foresla"
+    ],
+    "acceptedForms": [
+      "foreslaa"
+    ]
   },
   "forestille_seg_verb": {
     "word": "forestille seg",
@@ -2893,7 +3207,10 @@
     "_generatedFrom": "de-nb/verbbank.json:vorstellen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "forestile seg"
+    ]
   },
   "foreta_verb": {
     "word": "foreta",
@@ -2935,7 +3252,10 @@
     "_generatedFrom": "es-nb/verbbank.json:preferir_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "foretreke"
+    ]
   },
   "forhøre_seg_verb": {
     "word": "forhøre seg",
@@ -2956,7 +3276,13 @@
     "_generatedFrom": "de-nb/verbbank.json:sich_erkundigen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "forhore seg"
+    ],
+    "acceptedForms": [
+      "forhoere seg"
+    ]
   },
   "forklare_verb": {
     "word": "forklare",
@@ -3040,7 +3366,13 @@
     "_generatedFrom": "de-nb/verbbank.json:beleidigen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "fornerme"
+    ],
+    "acceptedForms": [
+      "fornaerme"
+    ]
   },
   "fornøyd_med_det_verb": {
     "word": "fornøyd med det",
@@ -3054,7 +3386,13 @@
       }
     },
     "_generatedFrom": "de-nb/verbbank.json:damit_zufrieden_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "fornoyd med det"
+    ],
+    "acceptedForms": [
+      "fornoeyd med det"
+    ]
   },
   "forråde_verb": {
     "word": "forråde",
@@ -3075,7 +3413,14 @@
     "_generatedFrom": "de-nb/verbbank.json:verraten_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "foråde",
+      "forrade"
+    ],
+    "acceptedForms": [
+      "forraade"
+    ]
   },
   "forsikre_verb": {
     "word": "forsikre",
@@ -3117,7 +3462,11 @@
     "_generatedFrom": "de-nb/verbbank.json:verschieden_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "forskjelig",
+      "forskellig"
+    ]
   },
   "forskrive_verb": {
     "word": "forskrive",
@@ -3159,7 +3508,10 @@
     "_generatedFrom": "de-nb/verbbank.json:stoeren_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "forstyre"
+    ]
   },
   "forstå_verb": {
     "word": "forstå",
@@ -3180,7 +3532,13 @@
     "_generatedFrom": "de-nb/verbbank.json:verstehen_verb, es-nb/verbbank.json:entender_verb, es-nb/verbbank.json:comprender_verb",
     "_enriched": true,
     "verbClass": "sterk",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "forsta"
+    ],
+    "acceptedForms": [
+      "forstaa"
+    ]
   },
   "forstørre_verb": {
     "word": "forstørre",
@@ -3201,7 +3559,14 @@
     "_generatedFrom": "de-nb/verbbank.json:vergroessern_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "forstøre",
+      "forstorre"
+    ],
+    "acceptedForms": [
+      "forstoerre"
+    ]
   },
   "forsømme_verb": {
     "word": "forsømme",
@@ -3222,7 +3587,14 @@
     "_generatedFrom": "de-nb/verbbank.json:versaeumen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "forsøme",
+      "forsomme"
+    ],
+    "acceptedForms": [
+      "forsoemme"
+    ]
   },
   "forsørge_verb": {
     "word": "forsørge",
@@ -3243,7 +3615,13 @@
     "_generatedFrom": "de-nb/verbbank.json:verpflegen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "forsorge"
+    ],
+    "acceptedForms": [
+      "forsoerge"
+    ]
   },
   "fortelle_verb": {
     "word": "fortelle",
@@ -3264,7 +3642,10 @@
     "_generatedFrom": "de-nb/verbbank.json:erzaehlen_verb",
     "_enriched": true,
     "verbClass": "uregelmessig",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "fortele"
+    ]
   },
   "forveksle_verb": {
     "word": "forveksle",
@@ -3327,7 +3708,13 @@
     "_generatedFrom": "de-nb/verbbank.json:verursachen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "forarsake"
+    ],
+    "acceptedForms": [
+      "foraarsake"
+    ]
   },
   "fotografere_verb": {
     "word": "fotografere",
@@ -3390,7 +3777,10 @@
     "_generatedFrom": "de-nb/verbbank.json:foerdern_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "freme"
+    ]
   },
   "fremstille_verb": {
     "word": "fremstille",
@@ -3411,7 +3801,10 @@
     "_generatedFrom": "de-nb/verbbank.json:darstellen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "fremstile"
+    ]
   },
   "fryse_verb": {
     "word": "fryse",
@@ -3474,7 +3867,10 @@
     "_generatedFrom": "de-nb/verbbank.json:tanken_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "fyle bensin"
+    ]
   },
   "fylle_ut_verb": {
     "word": "fylle ut",
@@ -3495,7 +3891,10 @@
     "_generatedFrom": "de-nb/verbbank.json:ausfuellen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "fyle ut"
+    ]
   },
   "få_lov_til_verb": {
     "word": "få lov til",
@@ -3509,7 +3908,13 @@
       }
     },
     "_generatedFrom": "de-nb/verbbank.json:duerfen_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "fa lov til"
+    ],
+    "acceptedForms": [
+      "faa lov til"
+    ]
   },
   "få_verb": {
     "word": "få",
@@ -3530,7 +3935,13 @@
     "_generatedFrom": "de-nb/verbbank.json:bekommen_verb, de-nb/verbbank.json:kriegen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "fa"
+    ],
+    "acceptedForms": [
+      "faa"
+    ]
   },
   "født_verb": {
     "word": "født",
@@ -3551,7 +3962,14 @@
     "_generatedFrom": "de-nb/verbbank.json:geboren_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "fodt",
+      "føt"
+    ],
+    "acceptedForms": [
+      "foedt"
+    ]
   },
   "føle_seg_verb": {
     "word": "føle seg",
@@ -3572,7 +3990,13 @@
     "_generatedFrom": "de-nb/verbbank.json:sich_fuehlen_verb, es-nb/verbbank.json:sentirse_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "fole seg"
+    ],
+    "acceptedForms": [
+      "foele seg"
+    ]
   },
   "føle_verb": {
     "word": "føle",
@@ -3593,7 +4017,13 @@
     "_generatedFrom": "de-nb/verbbank.json:fuehlen_verb, de-nb/verbbank.json:spueren_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "fole"
+    ],
+    "acceptedForms": [
+      "foele"
+    ]
   },
   "følge_verb": {
     "word": "følge",
@@ -3614,7 +4044,13 @@
     "_generatedFrom": "de-nb/verbbank.json:folgen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "folge"
+    ],
+    "acceptedForms": [
+      "foelge"
+    ]
   },
   "følge_å_fortsette_verb": {
     "word": "følge, å fortsette",
@@ -3628,7 +4064,16 @@
       }
     },
     "_generatedFrom": "es-nb/verbbank.json:seguir_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "følge, å fortsete",
+      "folge, å fortsette",
+      "følge, a fortsette"
+    ],
+    "acceptedForms": [
+      "foelge, å fortsette",
+      "følge, aa fortsette"
+    ]
   },
   "føre_inn_verb": {
     "word": "føre inn",
@@ -3649,7 +4094,14 @@
     "_generatedFrom": "de-nb/verbbank.json:eintragen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "føre in",
+      "fore inn"
+    ],
+    "acceptedForms": [
+      "foere inn"
+    ]
   },
   "garantere_verb": {
     "word": "garantere",
@@ -3684,7 +4136,14 @@
       }
     },
     "_generatedFrom": "de-nb/verbbank.json:verzichten_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "gi avkal på",
+      "gi avkall pa"
+    ],
+    "acceptedForms": [
+      "gi avkall paa"
+    ]
   },
   "gi_opp_verb": {
     "word": "gi opp",
@@ -3705,7 +4164,10 @@
     "_generatedFrom": "de-nb/verbbank.json:aufgeben_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "gi op"
+    ]
   },
   "gi_verb": {
     "word": "gi",
@@ -3789,7 +4251,10 @@
     "_generatedFrom": "de-nb/verbbank.json:sich_verstecken_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "gjeme seg"
+    ]
   },
   "gjenkjenne_verb": {
     "word": "gjenkjenne",
@@ -3810,7 +4275,12 @@
     "_generatedFrom": "de-nb/verbbank.json:erkennen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "gjenkjene",
+      "gjenkenne",
+      "gjensjenne"
+    ]
   },
   "gjenta_verb": {
     "word": "gjenta",
@@ -3852,7 +4322,10 @@
     "_generatedFrom": "de-nb/verbbank.json:raten_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "gjete"
+    ]
   },
   "gjøre_verb": {
     "word": "gjøre",
@@ -3873,7 +4346,13 @@
     "_generatedFrom": "de-nb/verbbank.json:machen_verb",
     "_enriched": true,
     "verbClass": "uregelmessig",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "gjore"
+    ],
+    "acceptedForms": [
+      "gjoere"
+    ]
   },
   "gjøre_å_lage_verb": {
     "word": "gjøre, å lage",
@@ -3887,7 +4366,15 @@
       }
     },
     "_generatedFrom": "es-nb/verbbank.json:hacer_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "gjore, å lage",
+      "gjøre, a lage"
+    ],
+    "acceptedForms": [
+      "gjoere, å lage",
+      "gjøre, aa lage"
+    ]
   },
   "glede_seg_over_verb": {
     "word": "glede seg over",
@@ -3957,7 +4444,10 @@
     "_generatedFrom": "de-nb/verbbank.json:vergessen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "gleme"
+    ]
   },
   "godkjenne_verb": {
     "word": "godkjenne",
@@ -3978,7 +4468,12 @@
     "_generatedFrom": "de-nb/verbbank.json:genehmigen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "godkjene",
+      "godkenne",
+      "godsjenne"
+    ]
   },
   "gratulere_verb": {
     "word": "gratulere",
@@ -4041,7 +4536,10 @@
     "_generatedFrom": "de-nb/verbbank.json:grillen_verb, de-nb/verbbank.json:grillieren_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "grile"
+    ]
   },
   "gripe_verb": {
     "word": "gripe",
@@ -4083,7 +4581,10 @@
     "_generatedFrom": "de-nb/verbbank.json:gruenden_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "grunlege"
+    ]
   },
   "gråte_verb": {
     "word": "gråte",
@@ -4104,7 +4605,13 @@
     "_generatedFrom": "de-nb/verbbank.json:weinen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "grate"
+    ],
+    "acceptedForms": [
+      "graate"
+    ]
   },
   "gå_av_verb": {
     "word": "gå av",
@@ -4125,7 +4632,13 @@
     "_generatedFrom": "de-nb/verbbank.json:aussteigen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "ga av"
+    ],
+    "acceptedForms": [
+      "gaa av"
+    ]
   },
   "gå_glipp_av_verb": {
     "word": "gå glipp av",
@@ -4139,7 +4652,14 @@
       }
     },
     "_generatedFrom": "de-nb/verbbank.json:verpassen_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "gå glip av",
+      "ga glipp av"
+    ],
+    "acceptedForms": [
+      "gaa glipp av"
+    ]
   },
   "gå_mot_verb": {
     "word": "gå mot",
@@ -4160,7 +4680,13 @@
     "_generatedFrom": "de-nb/verbbank.json:zugehen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "ga mot"
+    ],
+    "acceptedForms": [
+      "gaa mot"
+    ]
   },
   "gå_ned_i_vekt_verb": {
     "word": "gå ned i vekt",
@@ -4174,7 +4700,13 @@
       }
     },
     "_generatedFrom": "de-nb/verbbank.json:abnehmen_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "ga ned i vekt"
+    ],
+    "acceptedForms": [
+      "gaa ned i vekt"
+    ]
   },
   "gå_og_handle_verb": {
     "word": "gå og handle",
@@ -4188,7 +4720,13 @@
       }
     },
     "_generatedFrom": "de-nb/verbbank.json:einkaufen_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "ga og handle"
+    ],
+    "acceptedForms": [
+      "gaa og handle"
+    ]
   },
   "gå_og_svømme_verb": {
     "word": "gå og svømme",
@@ -4202,7 +4740,16 @@
       }
     },
     "_generatedFrom": "de-nb/verbbank.json:schwimmen_gehen_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "gå og svøme",
+      "gå og svomme",
+      "ga og svømme"
+    ],
+    "acceptedForms": [
+      "gå og svoemme",
+      "gaa og svømme"
+    ]
   },
   "gå_opp_å_stige_verb": {
     "word": "gå opp, å stige",
@@ -4216,7 +4763,14 @@
       }
     },
     "_generatedFrom": "es-nb/verbbank.json:subir_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "gå op, å stige",
+      "ga opp, a stige"
+    ],
+    "acceptedForms": [
+      "gaa opp, aa stige"
+    ]
   },
   "gå_på_tur_verb": {
     "word": "gå på tur",
@@ -4230,7 +4784,13 @@
       }
     },
     "_generatedFrom": "de-nb/verbbank.json:wandern_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "ga pa tur"
+    ],
+    "acceptedForms": [
+      "gaa paa tur"
+    ]
   },
   "gå_seg_bort_verb": {
     "word": "gå seg bort",
@@ -4244,7 +4804,13 @@
       }
     },
     "_generatedFrom": "de-nb/verbbank.json:sich_verlaufen_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "ga seg bort"
+    ],
+    "acceptedForms": [
+      "gaa seg bort"
+    ]
   },
   "gå_tur_verb": {
     "word": "gå tur",
@@ -4265,7 +4831,13 @@
     "_generatedFrom": "de-nb/verbbank.json:spazieren_gehen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "ga tur"
+    ],
+    "acceptedForms": [
+      "gaa tur"
+    ]
   },
   "gå_ut_verb": {
     "word": "gå ut",
@@ -4286,7 +4858,13 @@
     "_generatedFrom": "de-nb/verbbank.json:ausgehen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "ga ut"
+    ],
+    "acceptedForms": [
+      "gaa ut"
+    ]
   },
   "gå_ut_å_dra_verb": {
     "word": "gå ut, å dra",
@@ -4300,7 +4878,13 @@
       }
     },
     "_generatedFrom": "es-nb/verbbank.json:salir_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "ga ut, a dra"
+    ],
+    "acceptedForms": [
+      "gaa ut, aa dra"
+    ]
   },
   "gå_verb": {
     "word": "gå",
@@ -4321,7 +4905,13 @@
     "_generatedFrom": "de-nb/verbbank.json:gehen_verb",
     "_enriched": true,
     "verbClass": "sterk",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "ga"
+    ],
+    "acceptedForms": [
+      "gaa"
+    ]
   },
   "gå_å_dra_verb": {
     "word": "gå, å dra",
@@ -4335,7 +4925,13 @@
       }
     },
     "_generatedFrom": "es-nb/verbbank.json:ir_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "ga, a dra"
+    ],
+    "acceptedForms": [
+      "gaa, aa dra"
+    ]
   },
   "gå_å_spasere_verb": {
     "word": "gå, å spasere",
@@ -4349,7 +4945,13 @@
       }
     },
     "_generatedFrom": "es-nb/verbbank.json:caminar_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "ga, a spasere"
+    ],
+    "acceptedForms": [
+      "gaa, aa spasere"
+    ]
   },
   "ha_planer_om_verb": {
     "word": "ha planer om",
@@ -4377,7 +4979,13 @@
       }
     },
     "_generatedFrom": "de-nb/verbbank.json:anhaben_verb, de-nb/verbbank.json:tragen_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "ha pa seg"
+    ],
+    "acceptedForms": [
+      "ha paa seg"
+    ]
   },
   "ha_verb": {
     "word": "ha",
@@ -4524,7 +5132,10 @@
     "_generatedFrom": "de-nb/verbbank.json:gehangen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "henkt"
+    ]
   },
   "hente_verb": {
     "word": "hente",
@@ -4664,7 +5275,10 @@
     "_generatedFrom": "de-nb/verbbank.json:helfen_verb, es-nb/verbbank.json:ayudar_verb",
     "_enriched": true,
     "verbClass": "sterk",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "jelpe"
+    ]
   },
   "holde_opp_verb": {
     "word": "holde opp",
@@ -4685,7 +5299,10 @@
     "_generatedFrom": "de-nb/verbbank.json:aufhalten_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "holde op"
+    ]
   },
   "holde_verb": {
     "word": "holde",
@@ -4727,7 +5344,10 @@
     "_generatedFrom": "de-nb/verbbank.json:springen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "hope"
+    ]
   },
   "hoste_verb": {
     "word": "hoste",
@@ -4811,7 +5431,13 @@
     "_generatedFrom": "de-nb/verbbank.json:hoffen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "hape"
+    ],
+    "acceptedForms": [
+      "haape"
+    ]
   },
   "høre_på_å_lytte_verb": {
     "word": "høre på, å lytte",
@@ -4825,7 +5451,16 @@
       }
     },
     "_generatedFrom": "es-nb/verbbank.json:escuchar_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "høre på, å lyte",
+      "hore på, å lytte",
+      "høre pa, a lytte"
+    ],
+    "acceptedForms": [
+      "hoere på, å lytte",
+      "høre paa, aa lytte"
+    ]
   },
   "høre_verb": {
     "word": "høre",
@@ -4846,7 +5481,13 @@
     "_generatedFrom": "de-nb/verbbank.json:hoeren_verb, es-nb/verbbank.json:oir_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "hore"
+    ],
+    "acceptedForms": [
+      "hoere"
+    ]
   },
   "høres_ut_verb": {
     "word": "høres ut",
@@ -4867,7 +5508,13 @@
     "_generatedFrom": "de-nb/verbbank.json:klingen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "hores ut"
+    ],
+    "acceptedForms": [
+      "hoeres ut"
+    ]
   },
   "i_forgårs_verb": {
     "word": "i forgårs",
@@ -4888,7 +5535,13 @@
     "_generatedFrom": "de-nb/verbbank.json:vorgestern_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "i forgars"
+    ],
+    "acceptedForms": [
+      "i forgaars"
+    ]
   },
   "i_går_verb": {
     "word": "i går",
@@ -4909,7 +5562,13 @@
     "_generatedFrom": "de-nb/verbbank.json:gestern_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "i gar"
+    ],
+    "acceptedForms": [
+      "i gaar"
+    ]
   },
   "i_mellomtiden_verb": {
     "word": "i mellomtiden",
@@ -4930,7 +5589,10 @@
     "_generatedFrom": "de-nb/verbbank.json:inzwischen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "i melomtiden"
+    ]
   },
   "i_overmorgen_verb": {
     "word": "i overmorgen",
@@ -4972,7 +5634,13 @@
     "_generatedFrom": "de-nb/verbbank.json:im_sueden_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "i sor"
+    ],
+    "acceptedForms": [
+      "i soer"
+    ]
   },
   "ikke_finne_verb": {
     "word": "ikke finne",
@@ -4993,7 +5661,10 @@
     "_generatedFrom": "de-nb/verbbank.json:nicht_finden_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "ike fine"
+    ]
   },
   "informere_verb": {
     "word": "informere",
@@ -5035,7 +5706,10 @@
     "_generatedFrom": "de-nb/verbbank.json:drinnen_verb, de-nb/verbbank.json:innen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "ine"
+    ]
   },
   "innrede_verb": {
     "word": "innrede",
@@ -5056,7 +5730,10 @@
     "_generatedFrom": "de-nb/verbbank.json:einrichten_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "inrede"
+    ]
   },
   "innta_verb": {
     "word": "innta",
@@ -5077,7 +5754,10 @@
     "_generatedFrom": "de-nb/verbbank.json:einnehmen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "inta"
+    ]
   },
   "inntreffe_verb": {
     "word": "inntreffe",
@@ -5098,7 +5778,10 @@
     "_generatedFrom": "de-nb/verbbank.json:sich_ereignen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "intrefe"
+    ]
   },
   "installere_verb": {
     "word": "installere",
@@ -5119,7 +5802,10 @@
     "_generatedFrom": "de-nb/verbbank.json:installieren_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "instalere"
+    ]
   },
   "interessere_seg_verb": {
     "word": "interessere seg",
@@ -5140,7 +5826,10 @@
     "_generatedFrom": "de-nb/verbbank.json:sich_interessieren_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "interesere seg"
+    ]
   },
   "interessere_verb": {
     "word": "interessere",
@@ -5162,7 +5851,10 @@
     "_generatedFrom": "de-nb/verbbank.json:interessieren_verb, es-nb/verbbank.json:interesar_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "interesere"
+    ]
   },
   "invitere_verb": {
     "word": "invitere",
@@ -5197,7 +5889,10 @@
       }
     },
     "_generatedFrom": "de-nb/verbbank.json:sich_aergern_ueber_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "iritere seg over"
+    ]
   },
   "irritere_seg_verb": {
     "word": "irritere seg",
@@ -5218,7 +5913,10 @@
     "_generatedFrom": "de-nb/verbbank.json:sich_aergern_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "iritere seg"
+    ]
   },
   "jakte_verb": {
     "word": "jakte",
@@ -5260,7 +5958,10 @@
     "_generatedFrom": "de-nb/verbbank.json:arbeiten_verb, es-nb/verbbank.json:trabajar_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "jobe"
+    ]
   },
   "kaste_verb": {
     "word": "kaste",
@@ -5302,7 +6003,10 @@
     "_generatedFrom": "de-nb/verbbank.json:schauen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "kike"
+    ]
   },
   "kjede_seg_verb": {
     "word": "kjede seg",
@@ -5323,7 +6027,11 @@
     "_generatedFrom": "de-nb/verbbank.json:sich_langweilen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "kede seg",
+      "sjede seg"
+    ]
   },
   "kjempe_verb": {
     "word": "kjempe",
@@ -5344,7 +6052,11 @@
     "_generatedFrom": "de-nb/verbbank.json:kaempfen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "kempe",
+      "sjempe"
+    ]
   },
   "kjenne_verb": {
     "word": "kjenne",
@@ -5365,7 +6077,12 @@
     "_generatedFrom": "de-nb/verbbank.json:kennen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "kjene",
+      "kenne",
+      "sjenne"
+    ]
   },
   "kjenne_å_bli_kjent_med_verb": {
     "word": "kjenne, å bli kjent med",
@@ -5379,7 +6096,17 @@
       }
     },
     "_generatedFrom": "es-nb/verbbank.json:conocer_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "kjene, å bli kjent med",
+      "kjenne, å bli kjent me",
+      "kenne, å bli kent med",
+      "sjenne, å bli sjent med",
+      "kjenne, a bli kjent med"
+    ],
+    "acceptedForms": [
+      "kjenne, aa bli kjent med"
+    ]
   },
   "kjæle_verb": {
     "word": "kjæle",
@@ -5400,7 +6127,15 @@
     "_generatedFrom": "de-nb/verbbank.json:streicheln_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "kæle",
+      "sjæle",
+      "kjele"
+    ],
+    "acceptedForms": [
+      "kjaele"
+    ]
   },
   "kjøpe_verb": {
     "word": "kjøpe",
@@ -5421,7 +6156,15 @@
     "_generatedFrom": "de-nb/verbbank.json:kaufen_verb, es-nb/verbbank.json:comprar_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "køpe",
+      "sjøpe",
+      "kjope"
+    ],
+    "acceptedForms": [
+      "kjoepe"
+    ]
   },
   "kjøre_av_sted_verb": {
     "word": "kjøre av sted",
@@ -5435,7 +6178,16 @@
       }
     },
     "_generatedFrom": "de-nb/verbbank.json:losfahren_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "kjøre av ste",
+      "køre av sted",
+      "sjøre av sted",
+      "kjore av sted"
+    ],
+    "acceptedForms": [
+      "kjoere av sted"
+    ]
   },
   "kjøre_forbi_verb": {
     "word": "kjøre forbi",
@@ -5456,7 +6208,15 @@
     "_generatedFrom": "de-nb/verbbank.json:ueberholen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "køre forbi",
+      "sjøre forbi",
+      "kjore forbi"
+    ],
+    "acceptedForms": [
+      "kjoere forbi"
+    ]
   },
   "kjøre_over_verb": {
     "word": "kjøre over",
@@ -5477,7 +6237,15 @@
     "_generatedFrom": "de-nb/verbbank.json:ueberfahren_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "køre over",
+      "sjøre over",
+      "kjore over"
+    ],
+    "acceptedForms": [
+      "kjoere over"
+    ]
   },
   "kjøre_verb": {
     "word": "kjøre",
@@ -5498,7 +6266,15 @@
     "_generatedFrom": "de-nb/verbbank.json:fahren_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "køre",
+      "sjøre",
+      "kjore"
+    ],
+    "acceptedForms": [
+      "kjoere"
+    ]
   },
   "klaffe_verb": {
     "word": "klaffe",
@@ -5519,7 +6295,10 @@
     "_generatedFrom": "de-nb/verbbank.json:klappen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "klafe"
+    ]
   },
   "klage_verb": {
     "word": "klage",
@@ -5561,7 +6340,10 @@
     "_generatedFrom": "de-nb/verbbank.json:streicheln_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "klape"
+    ]
   },
   "klare_seg_verb": {
     "word": "klare seg",
@@ -5624,7 +6406,13 @@
     "_generatedFrom": "de-nb/verbbank.json:klaeren_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "klargjore"
+    ],
+    "acceptedForms": [
+      "klargjoere"
+    ]
   },
   "klatre_verb": {
     "word": "klatre",
@@ -5673,7 +6461,13 @@
       }
     },
     "_generatedFrom": "de-nb/verbbank.json:anziehen_verb, de-nb/verbbank.json:sich_anziehen_verb, es-nb/verbbank.json:vestirse_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "kle pa seg"
+    ],
+    "acceptedForms": [
+      "kle paa seg"
+    ]
   },
   "klikke_på_verb": {
     "word": "klikke på",
@@ -5694,7 +6488,14 @@
     "_generatedFrom": "de-nb/verbbank.json:anklicken_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "klike på",
+      "klikke pa"
+    ],
+    "acceptedForms": [
+      "klikke paa"
+    ]
   },
   "klikke_verb": {
     "word": "klikke",
@@ -5715,7 +6516,10 @@
     "_generatedFrom": "de-nb/verbbank.json:klicken_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "klike"
+    ]
   },
   "knuse_å_brekke_verb": {
     "word": "knuse, å brekke",
@@ -5729,7 +6533,14 @@
       }
     },
     "_generatedFrom": "es-nb/verbbank.json:romper_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "knuse, å breke",
+      "knuse, a brekke"
+    ],
+    "acceptedForms": [
+      "knuse, aa brekke"
+    ]
   },
   "koble_til_verb": {
     "word": "koble til",
@@ -5764,7 +6575,10 @@
       }
     },
     "_generatedFrom": "de-nb/verbbank.json:sich_verspaeten_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "kome for sent"
+    ]
   },
   "komme_tilbake_verb": {
     "word": "komme tilbake",
@@ -5785,7 +6599,10 @@
     "_generatedFrom": "es-nb/verbbank.json:volver_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "kome tilbake"
+    ]
   },
   "komme_verb": {
     "word": "komme",
@@ -5806,7 +6623,10 @@
     "_generatedFrom": "de-nb/verbbank.json:kommen_verb, es-nb/verbbank.json:venir_verb",
     "_enriched": true,
     "verbClass": "sterk",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "kome"
+    ]
   },
   "konsentrere_seg_verb": {
     "word": "konsentrere seg",
@@ -5869,7 +6689,10 @@
     "_generatedFrom": "de-nb/verbbank.json:kontrollieren_verb, de-nb/verbbank.json:ueberpruefen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "kontrolere"
+    ]
   },
   "kopiere_verb": {
     "word": "kopiere",
@@ -5932,7 +6755,10 @@
     "_generatedFrom": "de-nb/verbbank.json:sich_streiten_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "krankle"
+    ]
   },
   "kreve_verb": {
     "word": "kreve",
@@ -5995,7 +6821,10 @@
     "_generatedFrom": "de-nb/verbbank.json:ankreuzen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "kryse av"
+    ]
   },
   "krysse_verb": {
     "word": "krysse",
@@ -6016,7 +6845,10 @@
     "_generatedFrom": "de-nb/verbbank.json:ueberqueren_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "kryse"
+    ]
   },
   "kunne_verb": {
     "word": "kunne",
@@ -6037,7 +6869,10 @@
     "_generatedFrom": "de-nb/verbbank.json:koennen_verb, es-nb/verbbank.json:poder_verb",
     "_enriched": true,
     "verbClass": "uregelmessig",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "kune"
+    ]
   },
   "kunngjøre_verb": {
     "word": "kunngjøre",
@@ -6058,7 +6893,15 @@
     "_generatedFrom": "de-nb/verbbank.json:ankuendigen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "kungjøre",
+      "kunngjore",
+      "kunnkjøre"
+    ],
+    "acceptedForms": [
+      "kunngjoere"
+    ]
   },
   "kysse_verb": {
     "word": "kysse",
@@ -6079,7 +6922,10 @@
     "_generatedFrom": "de-nb/verbbank.json:kuessen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "kyse"
+    ]
   },
   "la_verb": {
     "word": "la",
@@ -6121,7 +6967,10 @@
     "_generatedFrom": "de-nb/verbbank.json:aufladen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "lade op"
+    ]
   },
   "lage_mat_verb": {
     "word": "lage mat",
@@ -6206,7 +7055,10 @@
     "_generatedFrom": "de-nb/verbbank.json:herunterladen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "laste ne"
+    ]
   },
   "laste_opp_verb": {
     "word": "laste opp",
@@ -6227,7 +7079,10 @@
     "_generatedFrom": "de-nb/verbbank.json:hochladen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "laste op"
+    ]
   },
   "le_verb": {
     "word": "le",
@@ -6283,7 +7138,10 @@
       }
     },
     "_generatedFrom": "de-nb/verbbank.json:beachten_verb, de-nb/verbbank.json:bemerken_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "lege merke til"
+    ]
   },
   "legge_seg_verb": {
     "word": "legge seg",
@@ -6304,7 +7162,10 @@
     "_generatedFrom": "es-nb/verbbank.json:acostarse_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "lege seg"
+    ]
   },
   "legge_verb": {
     "word": "legge",
@@ -6325,7 +7186,10 @@
     "_generatedFrom": "de-nb/verbbank.json:legen_verb",
     "_enriched": true,
     "verbClass": "uregelmessig",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "lege"
+    ]
   },
   "leie_ut_verb": {
     "word": "leie ut",
@@ -6388,7 +7252,13 @@
     "_generatedFrom": "de-nb/verbbank.json:vorlesen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "lese hoyt"
+    ],
+    "acceptedForms": [
+      "lese hoeyt"
+    ]
   },
   "lese_verb": {
     "word": "lese",
@@ -6444,7 +7314,16 @@
       }
     },
     "_generatedFrom": "es-nb/verbbank.json:buscar_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "lete eter, å søke",
+      "lete etter, å soke",
+      "lete etter, a søke"
+    ],
+    "acceptedForms": [
+      "lete etter, å soeke",
+      "lete etter, aa søke"
+    ]
   },
   "lete_verb": {
     "word": "lete",
@@ -6486,7 +7365,10 @@
     "_generatedFrom": "de-nb/verbbank.json:erleichtern_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "lete"
+    ]
   },
   "leve_verb": {
     "word": "leve",
@@ -6591,7 +7473,10 @@
     "_generatedFrom": "de-nb/verbbank.json:liegen_verb",
     "_enriched": true,
     "verbClass": "sterk",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "lige"
+    ]
   },
   "like_godt_verb": {
     "word": "like godt",
@@ -6612,7 +7497,10 @@
     "_generatedFrom": "de-nb/verbbank.json:lieben_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "like got"
+    ]
   },
   "like_verb": {
     "word": "like",
@@ -6675,7 +7563,10 @@
     "_generatedFrom": "de-nb/verbbank.json:bisschen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "lit"
+    ]
   },
   "love_verb": {
     "word": "love",
@@ -6717,7 +7608,10 @@
     "_generatedFrom": "de-nb/verbbank.json:schliessen_verb, de-nb/verbbank.json:zumachen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "luke"
+    ]
   },
   "lukte_verb": {
     "word": "lukte",
@@ -6780,7 +7674,10 @@
     "_generatedFrom": "de-nb/verbbank.json:gelingen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "lykes"
+    ]
   },
   "lyne_verb": {
     "word": "lyne",
@@ -6822,7 +7719,10 @@
     "_generatedFrom": "de-nb/verbbank.json:zuhoeren_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "lyte"
+    ]
   },
   "lyve_verb": {
     "word": "lyve",
@@ -6864,7 +7764,13 @@
     "_generatedFrom": "de-nb/verbbank.json:leihen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "lane"
+    ],
+    "acceptedForms": [
+      "laane"
+    ]
   },
   "lære_verb": {
     "word": "lære",
@@ -6885,7 +7791,13 @@
     "_generatedFrom": "de-nb/verbbank.json:lernen_verb, es-nb/verbbank.json:aprender_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "lere"
+    ],
+    "acceptedForms": [
+      "laere"
+    ]
   },
   "løfte_verb": {
     "word": "løfte",
@@ -6906,7 +7818,13 @@
     "_generatedFrom": "de-nb/verbbank.json:heben_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "lofte"
+    ],
+    "acceptedForms": [
+      "loefte"
+    ]
   },
   "lønne_seg_verb": {
     "word": "lønne seg",
@@ -6927,7 +7845,14 @@
     "_generatedFrom": "de-nb/verbbank.json:sich_lohnen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "løne seg",
+      "lonne seg"
+    ],
+    "acceptedForms": [
+      "loenne seg"
+    ]
   },
   "løpe_verb": {
     "word": "løpe",
@@ -6948,7 +7873,13 @@
     "_generatedFrom": "de-nb/verbbank.json:laufen_verb, de-nb/verbbank.json:rennen_verb, es-nb/verbbank.json:correr_verb",
     "_enriched": true,
     "verbClass": "sterk",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "lope"
+    ],
+    "acceptedForms": [
+      "loepe"
+    ]
   },
   "løse_opp_verb": {
     "word": "løse opp",
@@ -6969,7 +7900,14 @@
     "_generatedFrom": "de-nb/verbbank.json:aufloesen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "løse op",
+      "lose opp"
+    ],
+    "acceptedForms": [
+      "loese opp"
+    ]
   },
   "løse_verb": {
     "word": "løse",
@@ -6990,7 +7928,13 @@
     "_generatedFrom": "de-nb/verbbank.json:loesen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "lose"
+    ],
+    "acceptedForms": [
+      "loese"
+    ]
   },
   "male_verb": {
     "word": "male",
@@ -7032,7 +7976,10 @@
     "_generatedFrom": "de-nb/verbbank.json:fehlen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "mankle"
+    ]
   },
   "markere_verb": {
     "word": "markere",
@@ -7095,7 +8042,10 @@
     "_generatedFrom": "de-nb/verbbank.json:mitteilen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "medele"
+    ]
   },
   "melde_seg_på_verb": {
     "word": "melde seg på",
@@ -7109,7 +8059,13 @@
       }
     },
     "_generatedFrom": "de-nb/verbbank.json:anmelden_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "melde seg pa"
+    ],
+    "acceptedForms": [
+      "melde seg paa"
+    ]
   },
   "melde_verb": {
     "word": "melde",
@@ -7235,7 +8191,10 @@
     "_generatedFrom": "de-nb/verbbank.json:erinnern_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "mine"
+    ]
   },
   "miste_verb": {
     "word": "miste",
@@ -7270,7 +8229,13 @@
       }
     },
     "_generatedFrom": "es-nb/verbbank.json:perder_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "miste, a tape"
+    ],
+    "acceptedForms": [
+      "miste, aa tape"
+    ]
   },
   "moderne_verb": {
     "word": "moderne",
@@ -7354,7 +8319,10 @@
     "_generatedFrom": "de-nb/verbbank.json:empfangen_verb, de-nb/verbbank.json:erhalten_verb, es-nb/verbbank.json:recibir_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "mota"
+    ]
   },
   "måle_verb": {
     "word": "måle",
@@ -7375,7 +8343,13 @@
     "_generatedFrom": "de-nb/verbbank.json:messen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "male"
+    ],
+    "acceptedForms": [
+      "maale"
+    ]
   },
   "måtte_verb": {
     "word": "måtte",
@@ -7396,7 +8370,14 @@
     "_generatedFrom": "de-nb/verbbank.json:muessen_verb",
     "_enriched": true,
     "verbClass": "uregelmessig",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "måte",
+      "matte"
+    ],
+    "acceptedForms": [
+      "maatte"
+    ]
   },
   "måtte_å_skylde_verb": {
     "word": "måtte, å skylde",
@@ -7410,7 +8391,14 @@
       }
     },
     "_generatedFrom": "es-nb/verbbank.json:deber_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "måte, å skylde",
+      "matte, a skylde"
+    ],
+    "acceptedForms": [
+      "maatte, aa skylde"
+    ]
   },
   "møte_verb": {
     "word": "møte",
@@ -7431,7 +8419,13 @@
     "_generatedFrom": "de-nb/verbbank.json:begegnen_verb, de-nb/verbbank.json:treffen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "mote"
+    ],
+    "acceptedForms": [
+      "moete"
+    ]
   },
   "møtes_verb": {
     "word": "møtes",
@@ -7452,7 +8446,13 @@
     "_generatedFrom": "de-nb/verbbank.json:sich_treffen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "motes"
+    ],
+    "acceptedForms": [
+      "moetes"
+    ]
   },
   "nede_verb": {
     "word": "nede",
@@ -7515,7 +8515,10 @@
     "_generatedFrom": "de-nb/verbbank.json:eben_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "netop"
+    ]
   },
   "nevne_verb": {
     "word": "nevne",
@@ -7578,7 +8581,10 @@
     "_generatedFrom": "de-nb/verbbank.json:nuetzen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "nyte"
+    ]
   },
   "nå_verb": {
     "word": "nå",
@@ -7599,7 +8605,13 @@
     "_generatedFrom": "de-nb/verbbank.json:erreichen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "na"
+    ],
+    "acceptedForms": [
+      "naa"
+    ]
   },
   "nærme_seg_verb": {
     "word": "nærme seg",
@@ -7620,7 +8632,13 @@
     "_generatedFrom": "de-nb/verbbank.json:sich_naehern_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "nerme seg"
+    ],
+    "acceptedForms": [
+      "naerme seg"
+    ]
   },
   "observere_verb": {
     "word": "observere",
@@ -7704,7 +8722,10 @@
     "_generatedFrom": "de-nb/verbbank.json:besetzen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "okupere"
+    ]
   },
   "omfavne_verb": {
     "word": "omfavne",
@@ -7746,7 +8767,13 @@
     "_generatedFrom": "de-nb/verbbank.json:umgehen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "omgas"
+    ],
+    "acceptedForms": [
+      "omgaas"
+    ]
   },
   "operere_verb": {
     "word": "operere",
@@ -7788,7 +8815,10 @@
     "_generatedFrom": "de-nb/verbbank.json:entdecken_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "opdage"
+    ]
   },
   "oppdra_verb": {
     "word": "oppdra",
@@ -7809,7 +8839,10 @@
     "_generatedFrom": "de-nb/verbbank.json:erziehen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "opdra"
+    ]
   },
   "oppe_verb": {
     "word": "oppe",
@@ -7830,7 +8863,10 @@
     "_generatedFrom": "de-nb/verbbank.json:oben_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "ope"
+    ]
   },
   "oppfordre_verb": {
     "word": "oppfordre",
@@ -7851,7 +8887,10 @@
     "_generatedFrom": "de-nb/verbbank.json:auffordern_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "opfordre"
+    ]
   },
   "oppfylle_verb": {
     "word": "oppfylle",
@@ -7872,7 +8911,10 @@
     "_generatedFrom": "de-nb/verbbank.json:erfuellen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "opfyle"
+    ]
   },
   "oppføre_seg_verb": {
     "word": "oppføre seg",
@@ -7893,7 +8935,14 @@
     "_generatedFrom": "de-nb/verbbank.json:sich_verhalten_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "opføre seg",
+      "oppfore seg"
+    ],
+    "acceptedForms": [
+      "oppfoere seg"
+    ]
   },
   "oppføre_verb": {
     "word": "oppføre",
@@ -7914,7 +8963,14 @@
     "_generatedFrom": "de-nb/verbbank.json:auffuehren_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "opføre",
+      "oppfore"
+    ],
+    "acceptedForms": [
+      "oppfoere"
+    ]
   },
   "oppgi_verb": {
     "word": "oppgi",
@@ -7935,7 +8991,10 @@
     "_generatedFrom": "de-nb/verbbank.json:angeben_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "opgi"
+    ]
   },
   "oppleve_verb": {
     "word": "oppleve",
@@ -7956,7 +9015,10 @@
     "_generatedFrom": "de-nb/verbbank.json:erleben_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "opleve"
+    ]
   },
   "opprette_verb": {
     "word": "opprette",
@@ -7977,7 +9039,10 @@
     "_generatedFrom": "de-nb/verbbank.json:erstellen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "oprete"
+    ]
   },
   "opprøre_verb": {
     "word": "opprøre",
@@ -7998,7 +9063,14 @@
     "_generatedFrom": "de-nb/verbbank.json:aufregen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "oprøre",
+      "opprore"
+    ],
+    "acceptedForms": [
+      "opproere"
+    ]
   },
   "oppstå_verb": {
     "word": "oppstå",
@@ -8019,7 +9091,14 @@
     "_generatedFrom": "de-nb/verbbank.json:entstehen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "opstå",
+      "oppsta"
+    ],
+    "acceptedForms": [
+      "oppstaa"
+    ]
   },
   "oppsummere_verb": {
     "word": "oppsummere",
@@ -8040,7 +9119,10 @@
     "_generatedFrom": "de-nb/verbbank.json:zusammenfassen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "opsumere"
+    ]
   },
   "opptre_verb": {
     "word": "opptre",
@@ -8061,7 +9143,10 @@
     "_generatedFrom": "de-nb/verbbank.json:auftreten_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "optre"
+    ]
   },
   "ordne_verb": {
     "word": "ordne",
@@ -8166,7 +9251,13 @@
     "_generatedFrom": "de-nb/verbbank.json:ueberweisen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "overfore"
+    ],
+    "acceptedForms": [
+      "overfoere"
+    ]
   },
   "overnatte_verb": {
     "word": "overnatte",
@@ -8187,7 +9278,10 @@
     "_generatedFrom": "de-nb/verbbank.json:uebernachten_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "overnate"
+    ]
   },
   "overraske_verb": {
     "word": "overraske",
@@ -8208,7 +9302,10 @@
     "_generatedFrom": "de-nb/verbbank.json:ueberraschen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "overaske"
+    ]
   },
   "oversette_verb": {
     "word": "oversette",
@@ -8229,7 +9326,10 @@
     "_generatedFrom": "de-nb/verbbank.json:uebersetzen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "oversete"
+    ]
   },
   "overta_verb": {
     "word": "overta",
@@ -8292,7 +9392,10 @@
     "_generatedFrom": "de-nb/verbbank.json:verpacken_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "pake in"
+    ]
   },
   "pakke_opp_verb": {
     "word": "pakke opp",
@@ -8313,7 +9416,10 @@
     "_generatedFrom": "de-nb/verbbank.json:auspacken_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "pake op"
+    ]
   },
   "pakke_verb": {
     "word": "pakke",
@@ -8335,7 +9441,10 @@
     "_generatedFrom": "de-nb/verbbank.json:einpacken_verb, de-nb/verbbank.json:packen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "pake"
+    ]
   },
   "parkere_verb": {
     "word": "parkere",
@@ -8377,7 +9486,14 @@
     "_generatedFrom": "de-nb/verbbank.json:achten_verb, de-nb/verbbank.json:aufpassen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "pase på",
+      "passe pa"
+    ],
+    "acceptedForms": [
+      "passe paa"
+    ]
   },
   "passe_verb": {
     "word": "passe",
@@ -8398,7 +9514,10 @@
     "_generatedFrom": "de-nb/verbbank.json:passen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "pase"
+    ]
   },
   "passere_å_skje_verb": {
     "word": "passere, å skje",
@@ -8412,7 +9531,15 @@
       }
     },
     "_generatedFrom": "es-nb/verbbank.json:pasar_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "pasere, å skje",
+      "passere, å ske",
+      "passere, a skje"
+    ],
+    "acceptedForms": [
+      "passere, aa skje"
+    ]
   },
   "planlegge_verb": {
     "word": "planlegge",
@@ -8433,7 +9560,10 @@
     "_generatedFrom": "de-nb/verbbank.json:planen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "planlege"
+    ]
   },
   "plante_verb": {
     "word": "plante",
@@ -8496,7 +9626,10 @@
     "_generatedFrom": "de-nb/verbbank.json:aufheben_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "pluke op"
+    ]
   },
   "presentere_verb": {
     "word": "presentere",
@@ -8580,7 +9713,13 @@
     "_generatedFrom": "de-nb/verbbank.json:probieren_verb, de-nb/verbbank.json:versuchen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "prove"
+    ],
+    "acceptedForms": [
+      "proeve"
+    ]
   },
   "publisere_verb": {
     "word": "publisere",
@@ -8622,7 +9761,10 @@
     "_generatedFrom": "de-nb/verbbank.json:zaehneputzen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "puse tenene"
+    ]
   },
   "pusse_verb": {
     "word": "pusse",
@@ -8643,7 +9785,10 @@
     "_generatedFrom": "de-nb/verbbank.json:putzen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "puse"
+    ]
   },
   "puste_verb": {
     "word": "puste",
@@ -8685,7 +9830,10 @@
     "_generatedFrom": "es-nb/verbbank.json:meter_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "pute in"
+    ]
   },
   "på_grunn_av_det_verb": {
     "word": "på grunn av det",
@@ -8699,7 +9847,14 @@
       }
     },
     "_generatedFrom": "de-nb/verbbank.json:deswegen_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "på grun av det",
+      "pa grunn av det"
+    ],
+    "acceptedForms": [
+      "paa grunn av det"
+    ]
   },
   "på_grunn_av_verb": {
     "word": "på grunn av",
@@ -8713,7 +9868,14 @@
       }
     },
     "_generatedFrom": "de-nb/verbbank.json:wegen_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "på grun av",
+      "pa grunn av"
+    ],
+    "acceptedForms": [
+      "paa grunn av"
+    ]
   },
   "påkledd_verb": {
     "word": "påkledd",
@@ -8734,7 +9896,14 @@
     "_generatedFrom": "de-nb/verbbank.json:angezogen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "påkled",
+      "pakledd"
+    ],
+    "acceptedForms": [
+      "paakledd"
+    ]
   },
   "påstå_verb": {
     "word": "påstå",
@@ -8755,7 +9924,13 @@
     "_generatedFrom": "de-nb/verbbank.json:behaupten_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "pasta"
+    ],
+    "acceptedForms": [
+      "paastaa"
+    ]
   },
   "påvirke_verb": {
     "word": "påvirke",
@@ -8776,7 +9951,13 @@
     "_generatedFrom": "de-nb/verbbank.json:beeinflussen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "pavirke"
+    ],
+    "acceptedForms": [
+      "paavirke"
+    ]
   },
   "rapportere_verb": {
     "word": "rapportere",
@@ -8797,7 +9978,10 @@
     "_generatedFrom": "de-nb/verbbank.json:berichten_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "raportere"
+    ]
   },
   "raskest_verb": {
     "word": "raskest",
@@ -8881,7 +10065,10 @@
     "_generatedFrom": "de-nb/verbbank.json:retten_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "rede"
+    ]
   },
   "redusere_verb": {
     "word": "redusere",
@@ -8958,7 +10145,10 @@
       }
     },
     "_generatedFrom": "de-nb/verbbank.json:abfahren_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "reise av ste"
+    ]
   },
   "reise_bort_verb": {
     "word": "reise bort",
@@ -9021,7 +10211,10 @@
     "_generatedFrom": "de-nb/verbbank.json:reichen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "reke"
+    ]
   },
   "rekreere_seg_verb": {
     "word": "rekreere seg",
@@ -9063,7 +10256,14 @@
     "_generatedFrom": "de-nb/verbbank.json:putzen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "rengjore",
+      "renkjøre"
+    ],
+    "acceptedForms": [
+      "rengjoere"
+    ]
   },
   "renovere_verb": {
     "word": "renovere",
@@ -9189,7 +10389,10 @@
     "_generatedFrom": "de-nb/verbbank.json:ausrichten_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "rete ut"
+    ]
   },
   "ri_verb": {
     "word": "ri",
@@ -9245,7 +10448,14 @@
       }
     },
     "_generatedFrom": "es-nb/verbbank.json:llamar_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "ringe, å kale",
+      "ringe, a kalle"
+    ],
+    "acceptedForms": [
+      "ringe, aa kalle"
+    ]
   },
   "riste_verb": {
     "word": "riste",
@@ -9329,7 +10539,10 @@
     "_generatedFrom": "de-nb/verbbank.json:aufraeumen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "ryde op"
+    ]
   },
   "røyke_verb": {
     "word": "røyke",
@@ -9350,7 +10563,13 @@
     "_generatedFrom": "de-nb/verbbank.json:rauchen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "royke"
+    ],
+    "acceptedForms": [
+      "roeyke"
+    ]
   },
   "samle_verb": {
     "word": "samle",
@@ -9392,7 +10611,10 @@
     "_generatedFrom": "de-nb/verbbank.json:vergleichen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "samenligne"
+    ]
   },
   "samtykke_verb": {
     "word": "samtykke",
@@ -9413,7 +10635,10 @@
     "_generatedFrom": "de-nb/verbbank.json:zustimmen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "samtyke"
+    ]
   },
   "savne_verb": {
     "word": "savne",
@@ -9448,7 +10673,13 @@
       }
     },
     "_generatedFrom": "de-nb/verbbank.json:fernsehen_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "se pa TV"
+    ],
+    "acceptedForms": [
+      "se paa TV"
+    ]
   },
   "se_på_verb": {
     "word": "se på",
@@ -9469,7 +10700,13 @@
     "_generatedFrom": "de-nb/verbbank.json:zuschauen_verb, es-nb/verbbank.json:mirar_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "se pa"
+    ],
+    "acceptedForms": [
+      "se paa"
+    ]
   },
   "se_verb": {
     "word": "se",
@@ -9574,7 +10811,10 @@
     "_generatedFrom": "de-nb/verbbank.json:einfuegen_verb, de-nb/verbbank.json:einsetzen_verb, de-nb/verbbank.json:einzahlen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "sete in"
+    ]
   },
   "sette_seg_verb": {
     "word": "sette seg",
@@ -9595,7 +10835,10 @@
     "_generatedFrom": "de-nb/verbbank.json:sich_setzen_verb, es-nb/verbbank.json:sentarse_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "sete seg"
+    ]
   },
   "sette_å_legge_verb": {
     "word": "sette, å legge",
@@ -9609,7 +10852,14 @@
       }
     },
     "_generatedFrom": "es-nb/verbbank.json:poner_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "sete, å lege",
+      "sette, a legge"
+    ],
+    "acceptedForms": [
+      "sette, aa legge"
+    ]
   },
   "shoppe_verb": {
     "word": "shoppe",
@@ -9630,7 +10880,10 @@
     "_generatedFrom": "de-nb/verbbank.json:shoppen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "shope"
+    ]
   },
   "si_ja_verb": {
     "word": "si ja",
@@ -9672,7 +10925,10 @@
     "_generatedFrom": "de-nb/verbbank.json:entlassen_verb, de-nb/verbbank.json:kuendigen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "si op"
+    ]
   },
   "si_verb": {
     "word": "si",
@@ -9735,7 +10991,10 @@
     "_generatedFrom": "de-nb/verbbank.json:sitzen_verb",
     "_enriched": true,
     "verbClass": "sterk",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "site"
+    ]
   },
   "sjelden_verb": {
     "word": "sjelden",
@@ -9798,7 +11057,10 @@
     "_generatedFrom": "de-nb/verbbank.json:besorgen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "skafe"
+    ]
   },
   "skal_verb": {
     "word": "skal",
@@ -9840,7 +11102,13 @@
     "_generatedFrom": "de-nb/verbbank.json:sich_umziehen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "skifte kler"
+    ],
+    "acceptedForms": [
+      "skifte klaer"
+    ]
   },
   "skille_seg_verb": {
     "word": "skille seg",
@@ -9861,7 +11129,10 @@
     "_generatedFrom": "de-nb/verbbank.json:sich_scheiden_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "skile seg"
+    ]
   },
   "skille_verb": {
     "word": "skille",
@@ -9882,7 +11153,10 @@
     "_generatedFrom": "de-nb/verbbank.json:unterscheiden_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "skile"
+    ]
   },
   "skilles_verb": {
     "word": "skilles",
@@ -9903,7 +11177,10 @@
     "_generatedFrom": "de-nb/verbbank.json:sich_trennen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "skiles"
+    ]
   },
   "skinne_verb": {
     "word": "skinne",
@@ -9924,7 +11201,10 @@
     "_generatedFrom": "de-nb/verbbank.json:scheinen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "skine"
+    ]
   },
   "skje_verb": {
     "word": "skje",
@@ -9945,7 +11225,10 @@
     "_generatedFrom": "de-nb/verbbank.json:geschehen_verb, de-nb/verbbank.json:passieren_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "ske"
+    ]
   },
   "skjenne_verb": {
     "word": "skjenne",
@@ -9966,7 +11249,11 @@
     "_generatedFrom": "de-nb/verbbank.json:schimpfen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "skjene",
+      "skenne"
+    ]
   },
   "skjære_seg_verb": {
     "word": "skjære seg",
@@ -9987,7 +11274,14 @@
     "_generatedFrom": "de-nb/verbbank.json:sich_schneiden_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "skære seg",
+      "skjere seg"
+    ],
+    "acceptedForms": [
+      "skjaere seg"
+    ]
   },
   "skrike_verb": {
     "word": "skrike",
@@ -10050,7 +11344,10 @@
     "_generatedFrom": "de-nb/verbbank.json:aufschreiben_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "skrive op"
+    ]
   },
   "skrive_ut_verb": {
     "word": "skrive ut",
@@ -10113,7 +11410,10 @@
     "_generatedFrom": "de-nb/verbbank.json:enttaeuschen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "skufe"
+    ]
   },
   "skylle_verb": {
     "word": "skylle",
@@ -10134,7 +11434,10 @@
     "_generatedFrom": "de-nb/verbbank.json:spuelen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "skyle"
+    ]
   },
   "skynde_seg_verb": {
     "word": "skynde seg",
@@ -10218,7 +11521,10 @@
     "_generatedFrom": "de-nb/verbbank.json:entspannen_verb, de-nb/verbbank.json:sich_entspannen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "slape av"
+    ]
   },
   "slette_verb": {
     "word": "slette",
@@ -10239,7 +11545,10 @@
     "_generatedFrom": "de-nb/verbbank.json:loeschen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "slete"
+    ]
   },
   "slutte_verb": {
     "word": "slutte",
@@ -10260,7 +11569,10 @@
     "_generatedFrom": "de-nb/verbbank.json:aufhoeren_verb, de-nb/verbbank.json:enden_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "slute"
+    ]
   },
   "slå_av_verb": {
     "word": "slå av",
@@ -10281,7 +11593,13 @@
     "_generatedFrom": "de-nb/verbbank.json:ausmachen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "sla av"
+    ],
+    "acceptedForms": [
+      "slaa av"
+    ]
   },
   "slå_opp_verb": {
     "word": "slå opp",
@@ -10302,7 +11620,14 @@
     "_generatedFrom": "de-nb/verbbank.json:nachschlagen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "slå op",
+      "sla opp"
+    ],
+    "acceptedForms": [
+      "slaa opp"
+    ]
   },
   "slå_på_verb": {
     "word": "slå på",
@@ -10323,7 +11648,13 @@
     "_generatedFrom": "de-nb/verbbank.json:anmachen_verb, de-nb/verbbank.json:einschalten_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "sla pa"
+    ],
+    "acceptedForms": [
+      "slaa paa"
+    ]
   },
   "slå_verb": {
     "word": "slå",
@@ -10344,7 +11675,13 @@
     "_generatedFrom": "de-nb/verbbank.json:schlagen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "sla"
+    ],
+    "acceptedForms": [
+      "slaa"
+    ]
   },
   "smake_verb": {
     "word": "smake",
@@ -10428,7 +11765,14 @@
     "_generatedFrom": "de-nb/verbbank.json:laut_sprechen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "snake høyt",
+      "snakke hoyt"
+    ],
+    "acceptedForms": [
+      "snakke hoeyt"
+    ]
   },
   "snakke_verb": {
     "word": "snakke",
@@ -10449,7 +11793,10 @@
     "_generatedFrom": "de-nb/verbbank.json:reden_verb, de-nb/verbbank.json:sich_unterhalten_verb, de-nb/verbbank.json:sprechen_verb, es-nb/verbbank.json:hablar_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "snake"
+    ]
   },
   "snu_seg_verb": {
     "word": "snu seg",
@@ -10491,7 +11838,13 @@
     "_generatedFrom": "de-nb/verbbank.json:schneien_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "sno"
+    ],
+    "acceptedForms": [
+      "snoe"
+    ]
   },
   "sove_verb": {
     "word": "sove",
@@ -10568,7 +11921,10 @@
       }
     },
     "_generatedFrom": "de-nb/verbbank.json:anschnallen_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "spene seg fast"
+    ]
   },
   "spille_verb": {
     "word": "spille",
@@ -10589,7 +11945,10 @@
     "_generatedFrom": "de-nb/verbbank.json:spielen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "spile"
+    ]
   },
   "spille_å_leke_verb": {
     "word": "spille, å leke",
@@ -10603,7 +11962,14 @@
       }
     },
     "_generatedFrom": "es-nb/verbbank.json:jugar_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "spile, å leke",
+      "spille, a leke"
+    ],
+    "acceptedForms": [
+      "spille, aa leke"
+    ]
   },
   "spise_frokost_verb": {
     "word": "spise frokost",
@@ -10645,7 +12011,10 @@
     "_generatedFrom": "es-nb/verbbank.json:cenar_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "spise midag"
+    ]
   },
   "spise_verb": {
     "word": "spise",
@@ -10687,7 +12056,14 @@
     "_generatedFrom": "de-nb/verbbank.json:fragen_verb, es-nb/verbbank.json:preguntar_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "spøre",
+      "sporre"
+    ],
+    "acceptedForms": [
+      "spoerre"
+    ]
   },
   "stamme_fra_verb": {
     "word": "stamme fra",
@@ -10708,7 +12084,10 @@
     "_generatedFrom": "de-nb/verbbank.json:stammen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "stame fra"
+    ]
   },
   "starte_verb": {
     "word": "starte",
@@ -10813,7 +12192,10 @@
     "_generatedFrom": "de-nb/verbbank.json:abstimmen_verb, de-nb/verbbank.json:stimmen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "steme"
+    ]
   },
   "stengt_verb": {
     "word": "stengt",
@@ -10834,7 +12216,10 @@
     "_generatedFrom": "de-nb/verbbank.json:geschlossen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "stenkt"
+    ]
   },
   "stige_på_verb": {
     "word": "stige på",
@@ -10855,7 +12240,13 @@
     "_generatedFrom": "de-nb/verbbank.json:einsteigen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "stige pa"
+    ],
+    "acceptedForms": [
+      "stige paa"
+    ]
   },
   "stige_verb": {
     "word": "stige",
@@ -10897,7 +12288,10 @@
     "_generatedFrom": "de-nb/verbbank.json:stechen_verb, de-nb/verbbank.json:stecken_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "stike"
+    ]
   },
   "stille_ut_verb": {
     "word": "stille ut",
@@ -10918,7 +12312,10 @@
     "_generatedFrom": "de-nb/verbbank.json:ausstellen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "stile ut"
+    ]
   },
   "stille_verb": {
     "word": "stille",
@@ -10939,7 +12336,10 @@
     "_generatedFrom": "de-nb/verbbank.json:stellen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "stile"
+    ]
   },
   "stinke_verb": {
     "word": "stinke",
@@ -11002,7 +12402,13 @@
     "_generatedFrom": "de-nb/verbbank.json:vertrauen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "stole pa"
+    ],
+    "acceptedForms": [
+      "stole paa"
+    ]
   },
   "stoppe_verb": {
     "word": "stoppe",
@@ -11023,7 +12429,10 @@
     "_generatedFrom": "de-nb/verbbank.json:stoppen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "stope"
+    ]
   },
   "streike_verb": {
     "word": "streike",
@@ -11107,7 +12516,13 @@
     "_generatedFrom": "de-nb/verbbank.json:feststehen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "sta fast"
+    ],
+    "acceptedForms": [
+      "staa fast"
+    ]
   },
   "stå_mye_verb": {
     "word": "stå mye",
@@ -11128,7 +12543,13 @@
     "_generatedFrom": "de-nb/verbbank.json:viel_stehen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "sta mye"
+    ],
+    "acceptedForms": [
+      "staa mye"
+    ]
   },
   "stå_opp_verb": {
     "word": "stå opp",
@@ -11149,7 +12570,14 @@
     "_generatedFrom": "de-nb/verbbank.json:aufstehen_verb, es-nb/verbbank.json:levantarse_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "stå op",
+      "sta opp"
+    ],
+    "acceptedForms": [
+      "staa opp"
+    ]
   },
   "stå_verb": {
     "word": "stå",
@@ -11170,7 +12598,13 @@
     "_generatedFrom": "de-nb/verbbank.json:stehen_verb",
     "_enriched": true,
     "verbClass": "sterk",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "sta"
+    ],
+    "acceptedForms": [
+      "staa"
+    ]
   },
   "støte_seg_verb": {
     "word": "støte seg",
@@ -11191,7 +12625,13 @@
     "_generatedFrom": "de-nb/verbbank.json:sich_stossen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "stote seg"
+    ],
+    "acceptedForms": [
+      "stoete seg"
+    ]
   },
   "støtte_verb": {
     "word": "støtte",
@@ -11212,7 +12652,14 @@
     "_generatedFrom": "de-nb/verbbank.json:unterstuetzen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "støte",
+      "stotte"
+    ],
+    "acceptedForms": [
+      "stoette"
+    ]
   },
   "støvsuge_verb": {
     "word": "støvsuge",
@@ -11233,7 +12680,13 @@
     "_generatedFrom": "de-nb/verbbank.json:staubsaugen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "stovsuge"
+    ],
+    "acceptedForms": [
+      "stoevsuge"
+    ]
   },
   "supplere_verb": {
     "word": "supplere",
@@ -11254,7 +12707,10 @@
     "_generatedFrom": "de-nb/verbbank.json:ergaenzen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "suplere"
+    ]
   },
   "svare_verb": {
     "word": "svare",
@@ -11296,7 +12752,10 @@
     "_generatedFrom": "de-nb/verbbank.json:schwitzen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "svete"
+    ]
   },
   "svinge_verb": {
     "word": "svinge",
@@ -11338,7 +12797,14 @@
     "_generatedFrom": "de-nb/verbbank.json:schwimmen_verb, es-nb/verbbank.json:nadar_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "svøme",
+      "svomme"
+    ],
+    "acceptedForms": [
+      "svoemme"
+    ]
   },
   "synes_verb": {
     "word": "synes",
@@ -11401,7 +12867,13 @@
     "_generatedFrom": "de-nb/verbbank.json:beantragen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "soke om"
+    ],
+    "acceptedForms": [
+      "soeke om"
+    ]
   },
   "søke_verb": {
     "word": "søke",
@@ -11423,7 +12895,13 @@
     "_generatedFrom": "de-nb/verbbank.json:sich_bewerben_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "soke"
+    ],
+    "acceptedForms": [
+      "soeke"
+    ]
   },
   "sørge_for_verb": {
     "word": "sørge for",
@@ -11444,7 +12922,13 @@
     "_generatedFrom": "de-nb/verbbank.json:sorgen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "sorge for"
+    ],
+    "acceptedForms": [
+      "soerge for"
+    ]
   },
   "ta_farvel_verb": {
     "word": "ta farvel",
@@ -11507,7 +12991,10 @@
     "_generatedFrom": "de-nb/verbbank.json:mitbringen_verb, de-nb/verbbank.json:mitnehmen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "ta me"
+    ]
   },
   "ta_opp_verb": {
     "word": "ta opp",
@@ -11528,7 +13015,10 @@
     "_generatedFrom": "de-nb/verbbank.json:aufnehmen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "ta op"
+    ]
   },
   "ta_på_seg_å_bli_verb": {
     "word": "ta på seg, å bli",
@@ -11542,7 +13032,13 @@
       }
     },
     "_generatedFrom": "es-nb/verbbank.json:ponerse_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "ta pa seg, a bli"
+    ],
+    "acceptedForms": [
+      "ta paa seg, aa bli"
+    ]
   },
   "ta_seg_av_verb": {
     "word": "ta seg av",
@@ -11613,7 +13109,14 @@
       }
     },
     "_generatedFrom": "es-nb/verbbank.json:tomar_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "ta, å drike",
+      "ta, a drikke"
+    ],
+    "acceptedForms": [
+      "ta, aa drikke"
+    ]
   },
   "ta_å_gripe_verb": {
     "word": "ta, å gripe",
@@ -11627,7 +13130,13 @@
       }
     },
     "_generatedFrom": "es-nb/verbbank.json:coger_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "ta, a gripe"
+    ],
+    "acceptedForms": [
+      "ta, aa gripe"
+    ]
   },
   "takke_verb": {
     "word": "takke",
@@ -11648,7 +13157,10 @@
     "_generatedFrom": "de-nb/verbbank.json:danken_verb, de-nb/verbbank.json:sich_bedanken_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "take"
+    ]
   },
   "tape_verb": {
     "word": "tape",
@@ -11711,7 +13223,10 @@
     "_generatedFrom": "de-nb/verbbank.json:zaehlen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "tele"
+    ]
   },
   "telte_verb": {
     "word": "telte",
@@ -11921,7 +13436,13 @@
     "_generatedFrom": "de-nb/verbbank.json:gehoeren_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "tilhore"
+    ],
+    "acceptedForms": [
+      "tilhoere"
+    ]
   },
   "tillate_verb": {
     "word": "tillate",
@@ -11942,7 +13463,10 @@
     "_generatedFrom": "de-nb/verbbank.json:erlauben_verb, es-nb/verbbank.json:permitir_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "tilate"
+    ]
   },
   "tjene_verb": {
     "word": "tjene",
@@ -12047,7 +13571,10 @@
     "_generatedFrom": "de-nb/verbbank.json:eintreten_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "tre in"
+    ]
   },
   "treffe_verb": {
     "word": "treffe",
@@ -12068,7 +13595,10 @@
     "_generatedFrom": "de-nb/verbbank.json:treffen_verb",
     "_enriched": true,
     "verbClass": "sterk",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "trefe"
+    ]
   },
   "trene_verb": {
     "word": "trene",
@@ -12152,7 +13682,10 @@
     "_generatedFrom": "de-nb/verbbank.json:drucken_verb, de-nb/verbbank.json:druecken_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "tryke"
+    ]
   },
   "tråkke_verb": {
     "word": "tråkke",
@@ -12173,7 +13706,14 @@
     "_generatedFrom": "de-nb/verbbank.json:treten_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "tråke",
+      "trakke"
+    ],
+    "acceptedForms": [
+      "traakke"
+    ]
   },
   "tute_verb": {
     "word": "tute",
@@ -12257,7 +13797,13 @@
     "_generatedFrom": "de-nb/verbbank.json:trocknen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "torke"
+    ],
+    "acceptedForms": [
+      "toerke"
+    ]
   },
   "tørre_verb": {
     "word": "tørre",
@@ -12278,7 +13824,14 @@
     "_generatedFrom": "de-nb/verbbank.json:sich_getren_verb",
     "_enriched": true,
     "verbClass": "uregelmessig",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "tøre",
+      "torre"
+    ],
+    "acceptedForms": [
+      "toerre"
+    ]
   },
   "underholde_seg_verb": {
     "word": "underholde seg",
@@ -12362,7 +13915,13 @@
     "_generatedFrom": "de-nb/verbbank.json:untersuchen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "undersoke"
+    ],
+    "acceptedForms": [
+      "undersoeke"
+    ]
   },
   "undervise_verb": {
     "word": "undervise",
@@ -12397,7 +13956,13 @@
       }
     },
     "_generatedFrom": "es-nb/verbbank.json:ensenar_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "undervise, a vise"
+    ],
+    "acceptedForms": [
+      "undervise, aa vise"
+    ]
   },
   "undre_seg_verb": {
     "word": "undre seg",
@@ -12439,7 +14004,15 @@
     "_generatedFrom": "de-nb/verbbank.json:vermeiden_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "ungå",
+      "unnga",
+      "unnkå"
+    ],
+    "acceptedForms": [
+      "unngaa"
+    ]
   },
   "unnlate_verb": {
     "word": "unnlate",
@@ -12460,7 +14033,10 @@
     "_generatedFrom": "de-nb/verbbank.json:unterlassen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "unlate"
+    ]
   },
   "unnskylde_verb": {
     "word": "unnskylde",
@@ -12481,7 +14057,10 @@
     "_generatedFrom": "de-nb/verbbank.json:entschuldigen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "unskylde"
+    ]
   },
   "ute_verb": {
     "word": "ute",
@@ -12523,7 +14102,10 @@
     "_generatedFrom": "de-nb/verbbank.json:verschieben_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "utsete"
+    ]
   },
   "uttale_verb": {
     "word": "uttale",
@@ -12544,7 +14126,10 @@
     "_generatedFrom": "de-nb/verbbank.json:aussprechen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "utale"
+    ]
   },
   "utvikle_verb": {
     "word": "utvikle",
@@ -12607,7 +14192,10 @@
     "_generatedFrom": "de-nb/verbbank.json:heizen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "varme op"
+    ]
   },
   "vaske_opp_verb": {
     "word": "vaske opp",
@@ -12628,7 +14216,10 @@
     "_generatedFrom": "de-nb/verbbank.json:abwaschen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "vaske op"
+    ]
   },
   "vaske_seg_verb": {
     "word": "vaske seg",
@@ -12705,7 +14296,10 @@
     "_generatedFrom": "de-nb/verbbank.json:wetten_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "vede"
+    ]
   },
   "veie_verb": {
     "word": "veie",
@@ -12747,7 +14341,10 @@
     "_generatedFrom": "de-nb/verbbank.json:wecken_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "veke"
+    ]
   },
   "veksle_verb": {
     "word": "veksle",
@@ -12866,7 +14463,13 @@
       }
     },
     "_generatedFrom": "es-nb/verbbank.json:esperar_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "vente, a hape"
+    ],
+    "acceptedForms": [
+      "vente, aa haape"
+    ]
   },
   "ville_ha_verb": {
     "word": "ville ha",
@@ -12887,7 +14490,10 @@
     "_generatedFrom": "de-nb/verbbank.json:moechten_modal",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "vile ha"
+    ]
   },
   "ville_verb": {
     "word": "ville",
@@ -12908,7 +14514,10 @@
     "_generatedFrom": "de-nb/verbbank.json:wollen_verb",
     "_enriched": true,
     "verbClass": "uregelmessig",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "vile"
+    ]
   },
   "ville_å_ønske_å_elske_verb": {
     "word": "ville, å ønske, å elske",
@@ -12922,7 +14531,16 @@
       }
     },
     "_generatedFrom": "es-nb/verbbank.json:querer_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "vile, å ønske, å elske",
+      "ville, å onske, å elske",
+      "ville, a ønske, a elske"
+    ],
+    "acceptedForms": [
+      "ville, å oenske, å elske",
+      "ville, aa ønske, aa elske"
+    ]
   },
   "vinke_verb": {
     "word": "vinke",
@@ -12964,7 +14582,10 @@
     "_generatedFrom": "de-nb/verbbank.json:gewinnen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "vine"
+    ]
   },
   "vinne_å_tjene_verb": {
     "word": "vinne, å tjene",
@@ -12978,7 +14599,14 @@
       }
     },
     "_generatedFrom": "es-nb/verbbank.json:ganar_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "vine, å tjene",
+      "vinne, a tjene"
+    ],
+    "acceptedForms": [
+      "vinne, aa tjene"
+    ]
   },
   "virke_verb": {
     "word": "virke",
@@ -13013,7 +14641,13 @@
       }
     },
     "_generatedFrom": "es-nb/verbbank.json:parecer_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "virke, a synes"
+    ],
+    "acceptedForms": [
+      "virke, aa synes"
+    ]
   },
   "vise_verb": {
     "word": "vise",
@@ -13069,7 +14703,14 @@
       }
     },
     "_generatedFrom": "es-nb/verbbank.json:saber_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "vite, å kune",
+      "vite, a kunne"
+    ],
+    "acceptedForms": [
+      "vite, aa kunne"
+    ]
   },
   "vokse_verb": {
     "word": "vokse",
@@ -13132,7 +14773,13 @@
     "_generatedFrom": "de-nb/verbbank.json:aufwachen_verb, es-nb/verbbank.json:despertarse_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "vakne"
+    ],
+    "acceptedForms": [
+      "vaakne"
+    ]
   },
   "være_nok_verb": {
     "word": "være nok",
@@ -13153,7 +14800,13 @@
     "_generatedFrom": "de-nb/verbbank.json:genuegen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "vere nok"
+    ],
+    "acceptedForms": [
+      "vaere nok"
+    ]
   },
   "være_redd_verb": {
     "word": "være redd",
@@ -13174,7 +14827,14 @@
     "_generatedFrom": "de-nb/verbbank.json:sich_fuerchten_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "være red",
+      "vere redd"
+    ],
+    "acceptedForms": [
+      "vaere redd"
+    ]
   },
   "være_riktig_verb": {
     "word": "være riktig",
@@ -13195,7 +14855,13 @@
     "_generatedFrom": "de-nb/verbbank.json:stimmen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "vere riktig"
+    ],
+    "acceptedForms": [
+      "vaere riktig"
+    ]
   },
   "være_tilstand_verb": {
     "word": "være (tilstand",
@@ -13216,7 +14882,14 @@
     "_generatedFrom": "es-nb/verbbank.json:estar_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "være (tilstan",
+      "vere (tilstand"
+    ],
+    "acceptedForms": [
+      "vaere (tilstand"
+    ]
   },
   "være_verb": {
     "word": "være",
@@ -13237,7 +14910,13 @@
     "_generatedFrom": "de-nb/verbbank.json:sein_verb, es-nb/verbbank.json:ser_verb",
     "_enriched": true,
     "verbClass": "uregelmessig",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "vere"
+    ],
+    "acceptedForms": [
+      "vaere"
+    ]
   },
   "vært_imot_verb": {
     "word": "vært imot",
@@ -13258,7 +14937,13 @@
     "_generatedFrom": "de-nb/verbbank.json:dagegen_gewesen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "vert imot"
+    ],
+    "acceptedForms": [
+      "vaert imot"
+    ]
   },
   "vært_verb": {
     "word": "vært",
@@ -13279,7 +14964,13 @@
     "_generatedFrom": "de-nb/verbbank.json:gewesen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "vert"
+    ],
+    "acceptedForms": [
+      "vaert"
+    ]
   },
   "yte_verb": {
     "word": "yte",
@@ -13321,7 +15012,13 @@
     "_generatedFrom": "de-nb/verbbank.json:offen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "apen"
+    ],
+    "acceptedForms": [
+      "aapen"
+    ]
   },
   "åpne_verb": {
     "word": "åpne",
@@ -13342,7 +15039,13 @@
     "_generatedFrom": "de-nb/verbbank.json:aufmachen_verb, de-nb/verbbank.json:eroeffnen_verb, de-nb/verbbank.json:oeffnen_verb, es-nb/verbbank.json:abrir_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "apne"
+    ],
+    "acceptedForms": [
+      "aapne"
+    ]
   },
   "ødelegge_verb": {
     "word": "ødelegge",
@@ -13363,7 +15066,14 @@
     "_generatedFrom": "de-nb/verbbank.json:kaputtmachen_verb, de-nb/verbbank.json:zerstoeren_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "ødelege",
+      "odelegge"
+    ],
+    "acceptedForms": [
+      "oedelegge"
+    ]
   },
   "øke_verb": {
     "word": "øke",
@@ -13384,7 +15094,13 @@
     "_generatedFrom": "de-nb/verbbank.json:zunehmen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "oke"
+    ],
+    "acceptedForms": [
+      "oeke"
+    ]
   },
   "ønske_verb": {
     "word": "ønske",
@@ -13405,7 +15121,13 @@
     "_generatedFrom": "de-nb/verbbank.json:moechten_modal, de-nb/verbbank.json:wuenschen_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "onske"
+    ],
+    "acceptedForms": [
+      "oenske"
+    ]
   },
   "øve_verb": {
     "word": "øve",
@@ -13426,7 +15148,13 @@
     "_generatedFrom": "de-nb/verbbank.json:ueben_verb",
     "_enriched": true,
     "verbClass": "svak",
-    "auxiliary": "har"
+    "auxiliary": "har",
+    "typos": [
+      "ove"
+    ],
+    "acceptedForms": [
+      "oeve"
+    ]
   },
   "øve_å_praktisere_verb": {
     "word": "øve, å praktisere",
@@ -13440,6 +15168,14 @@
       }
     },
     "_generatedFrom": "es-nb/verbbank.json:practicar_verb",
-    "_enriched": false
+    "_enriched": false,
+    "typos": [
+      "ove, å praktisere",
+      "øve, a praktisere"
+    ],
+    "acceptedForms": [
+      "oeve, å praktisere",
+      "øve, aa praktisere"
+    ]
   }
 }
