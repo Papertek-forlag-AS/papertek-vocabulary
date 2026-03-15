@@ -17,7 +17,8 @@
     ],
     "acceptedForms": [
       "adios"
-    ]
+    ],
+    "audio": "adios_phrase.mp3"
   },
   "bien_gracias_phrase": {
     "word": "bien, gracias",
@@ -60,7 +61,8 @@
     ],
     "acceptedForms": [
       "creo que si"
-    ]
+    ],
+    "audio": "creo_que_si_phrase.mp3"
   },
   "de_acuerdo_phrase": {
     "word": "de acuerdo",
@@ -87,13 +89,15 @@
     ],
     "acceptedForms": [
       "¿donde vives?"
-    ]
+    ],
+    "audio": "donde_vives_phrase.mp3"
   },
   "encantado_phrase": {
     "word": "encantado/a",
     "type": "phrase",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "audio": "encantado_phrase.mp3"
   },
   "felicidades_phrase": {
     "word": "¡felicidades!",
@@ -166,7 +170,8 @@
     ],
     "acceptedForms": [
       "perdon"
-    ]
+    ],
+    "audio": "perdon_phrase.mp3"
   },
   "por_favor_phrase": {
     "word": "por favor",
@@ -207,7 +212,8 @@
     ],
     "acceptedForms": [
       "que tengas un buen dia"
-    ]
+    ],
+    "audio": "que_tengas_buen_dia_phrase.mp3"
   },
   "salud_phrase": {
     "word": "¡salud!",
@@ -246,6 +252,7 @@
     ],
     "acceptedForms": [
       "¿y tu?"
-    ]
+    ],
+    "audio": "y_tu_phrase.mp3"
   }
 }

@@ -25,13 +25,6 @@ function computeContentHash(langPath) {
   return hash.digest('hex').substring(0, 8);
 }
 
-// Audio ZIP locations per language (static files, not serverless)
-const AUDIO_ZIPS = {
-  de: '/vocabulary/downloads/audio-de.zip',
-  es: '/vocabulary/downloads/audio-es.zip',
-  fr: '/vocabulary/downloads/audio-fr.zip',
-};
-
 function computeAudioHash(zipPath) {
   const fullPath = path.join(process.cwd(), zipPath.replace(/^\//, ''));
   if (!fs.existsSync(fullPath)) return null;
@@ -70,12 +63,11 @@ export default async function handler(req, res) {
         };
 
         // Add audio info if ZIP exists for this language
-        if (AUDIO_ZIPS[lang]) {
-          const audioHash = computeAudioHash(AUDIO_ZIPS[lang]);
-          if (audioHash) {
-            langInfo.audioVersion = audioHash;
-            langInfo.audioEndpoint = AUDIO_ZIPS[lang];
-          }
+        const audioZipPath = `/vocabulary/downloads/audio-${lang}.zip`;
+        const audioHash = computeAudioHash(audioZipPath);
+        if (audioHash) {
+          langInfo.audioVersion = audioHash;
+          langInfo.audioEndpoint = audioZipPath;
         }
 
         languages[lang] = langInfo;

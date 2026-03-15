@@ -14,7 +14,8 @@
     "_enriched": true,
     "typos": [
       "aquel/aqueya/aqueyos/aqueyas"
-    ]
+    ],
+    "audio": "aquel_demon_pron.mp3"
   },
   "como_interr_pron": {
     "word": "¿cómo?",
@@ -26,7 +27,8 @@
     ],
     "acceptedForms": [
       "¿como?"
-    ]
+    ],
+    "audio": "como_interr_pron.mp3"
   },
   "cual_interr_pron": {
     "word": "¿cuál?/¿cuáles?",
@@ -38,7 +40,8 @@
     ],
     "acceptedForms": [
       "¿cual?/¿cuales?"
-    ]
+    ],
+    "audio": "cual_interr_pron.mp3"
   },
   "cuando_interr_pron": {
     "word": "¿cuándo?",
@@ -50,7 +53,8 @@
     ],
     "acceptedForms": [
       "¿cuando?"
-    ]
+    ],
+    "audio": "cuando_interr_pron.mp3"
   },
   "cuanto_interr_pron": {
     "word": "¿cuánto/a/os/as?",
@@ -62,7 +66,8 @@
     ],
     "acceptedForms": [
       "¿cuanto/a/os/as?"
-    ]
+    ],
+    "audio": "cuanto_interr_pron.mp3"
   },
   "donde_interr_pron": {
     "word": "¿dónde?",
@@ -74,7 +79,8 @@
     ],
     "acceptedForms": [
       "¿donde?"
-    ]
+    ],
+    "audio": "donde_interr_pron.mp3"
   },
   "el_pron": {
     "word": "él",
@@ -123,91 +129,106 @@
     "word": "ese/esa/esos/esas",
     "type": "pron",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "audio": "ese_demon_pron.mp3"
   },
   "este_demon_pron": {
     "word": "este/esta/estos/estas",
     "type": "pron",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "audio": "este_demon_pron.mp3"
   },
   "la_dirobj_pron": {
     "word": "la",
     "type": "pron",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "audio": "la_dirobj_pron.mp3"
   },
   "las_dirobj_pron": {
     "word": "las",
     "type": "pron",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "audio": "las_dirobj_pron.mp3"
   },
   "le_indobj_pron": {
     "word": "le",
     "type": "pron",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "audio": "le_indobj_pron.mp3"
   },
   "les_indobj_pron": {
     "word": "les",
     "type": "pron",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "audio": "les_indobj_pron.mp3"
   },
   "lo_dirobj_pron": {
     "word": "lo",
     "type": "pron",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "audio": "lo_dirobj_pron.mp3"
   },
   "los_dirobj_pron": {
     "word": "los",
     "type": "pron",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "audio": "los_dirobj_pron.mp3"
   },
   "me_dirobj_pron": {
     "word": "me",
     "type": "pron",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "audio": "me_dirobj_pron.mp3"
   },
   "me_indobj_pron": {
     "word": "me",
     "type": "pron",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "audio": "me_indobj_pron.mp3"
   },
   "me_reflex_pron": {
     "word": "me",
     "type": "pron",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "audio": "me_reflex_pron.mp3"
   },
   "mi_possess_pron": {
     "word": "mi/mis",
     "type": "pron",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "audio": "mi_possess_pron.mp3"
   },
   "nos_dirobj_pron": {
     "word": "nos",
     "type": "pron",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "audio": "nos_dirobj_pron.mp3"
   },
   "nos_indobj_pron": {
     "word": "nos",
     "type": "pron",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "audio": "nos_indobj_pron.mp3"
   },
   "nos_reflex_pron": {
     "word": "nos",
     "type": "pron",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "audio": "nos_reflex_pron.mp3"
   },
   "nosotras_pron": {
     "word": "nosotras",
@@ -227,25 +248,29 @@
     "word": "nuestro/a/os/as",
     "type": "pron",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "audio": "nuestro_possess_pron.mp3"
   },
   "os_dirobj_pron": {
     "word": "os",
     "type": "pron",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "audio": "os_dirobj_pron.mp3"
   },
   "os_indobj_pron": {
     "word": "os",
     "type": "pron",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "audio": "os_indobj_pron.mp3"
   },
   "os_reflex_pron": {
     "word": "os",
     "type": "pron",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "audio": "os_reflex_pron.mp3"
   },
   "por_que_interr_pron": {
     "word": "¿por qué?",
@@ -257,7 +282,8 @@
     ],
     "acceptedForms": [
       "¿por que?"
-    ]
+    ],
+    "audio": "por_que_interr_pron.mp3"
   },
   "que_interr_pron": {
     "word": "¿qué?",
@@ -269,7 +295,8 @@
     ],
     "acceptedForms": [
       "¿que?"
-    ]
+    ],
+    "audio": "que_interr_pron.mp3"
   },
   "quien_interr_pron": {
     "word": "¿quién?/¿quiénes?",
@@ -281,43 +308,50 @@
     ],
     "acceptedForms": [
       "¿quien?/¿quienes?"
-    ]
+    ],
+    "audio": "quien_interr_pron.mp3"
   },
   "se_reflex_pron": {
     "word": "se",
     "type": "pron",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "audio": "se_reflex_pron.mp3"
   },
   "su_possess_pron": {
     "word": "su/sus",
     "type": "pron",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "audio": "su_possess_pron.mp3"
   },
   "te_dirobj_pron": {
     "word": "te",
     "type": "pron",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "audio": "te_dirobj_pron.mp3"
   },
   "te_indobj_pron": {
     "word": "te",
     "type": "pron",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "audio": "te_indobj_pron.mp3"
   },
   "te_reflex_pron": {
     "word": "te",
     "type": "pron",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "audio": "te_reflex_pron.mp3"
   },
   "tu_possess_pron": {
     "word": "tu/tus",
     "type": "pron",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "audio": "tu_possess_pron.mp3"
   },
   "tu_pron": {
     "word": "tú",
@@ -329,7 +363,8 @@
     ],
     "acceptedForms": [
       "tu"
-    ]
+    ],
+    "audio": "tu_pron.mp3"
   },
   "usted_pron": {
     "word": "usted",
@@ -372,7 +407,8 @@
     "_enriched": true,
     "typos": [
       "buestro/a/os/as"
-    ]
+    ],
+    "audio": "vuestro_possess_pron.mp3"
   },
   "yo_pron": {
     "word": "yo",
