@@ -12,97 +12,123 @@
     "type": "contr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_au.mp3"
+    "audio": "ord_au.mp3",
+    "frequency": 50,
+    "cefr": "A1"
   },
   "aux_contr": {
     "word": "aux",
     "type": "contr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "aux_contr.mp3"
+    "audio": "aux_contr.mp3",
+    "frequency": 149,
+    "cefr": "A1"
   },
   "de_l_partitif": {
     "word": "de l'",
     "type": "article",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "de_l_partitif.mp3"
+    "audio": "de_l_partitif.mp3",
+    "cefr": "B1"
   },
   "de_la_partitif": {
     "word": "de la",
     "type": "article",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "de_la_partitif.mp3"
+    "audio": "de_la_partitif.mp3",
+    "cefr": "B1"
   },
   "des_article": {
     "word": "des",
     "type": "article",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "artikkel_des.mp3"
+    "audio": "artikkel_des.mp3",
+    "frequency": 30,
+    "cefr": "A1"
   },
   "des_contr": {
     "word": "des",
     "type": "contr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "artikkel_des.mp3"
+    "audio": "artikkel_des.mp3",
+    "frequency": 30,
+    "cefr": "B1"
   },
   "du_contr": {
     "word": "du",
     "type": "contr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "du_contr.mp3"
+    "audio": "du_contr.mp3",
+    "frequency": 39,
+    "cefr": "B1"
   },
   "du_partitif": {
     "word": "du",
     "type": "article",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "du_partitif.mp3"
+    "audio": "du_partitif.mp3",
+    "frequency": 39,
+    "cefr": "A1"
   },
   "l_article": {
     "word": "l'",
     "type": "article",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "artikkel_l.mp3"
+    "audio": "artikkel_l.mp3",
+    "frequency": 16,
+    "cefr": "A1"
   },
   "la_article": {
     "word": "la",
     "type": "article",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "artikkel_la.mp3"
+    "audio": "artikkel_la.mp3",
+    "frequency": 7,
+    "cefr": "A1"
   },
   "le_article": {
     "word": "le",
     "type": "article",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "artikkel_le.mp3"
+    "audio": "artikkel_le.mp3",
+    "frequency": 5,
+    "cefr": "A1"
   },
   "les_article": {
     "word": "les",
     "type": "article",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "artikkel_les.mp3"
+    "audio": "artikkel_les.mp3",
+    "frequency": 18,
+    "cefr": "A1"
   },
   "un_article": {
     "word": "un",
     "type": "article",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "artikkel_un.mp3"
+    "audio": "artikkel_un.mp3",
+    "frequency": 10,
+    "cefr": "A1"
   },
   "une_article": {
     "word": "une",
     "type": "article",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "artikkel_une.mp3"
+    "audio": "artikkel_une.mp3",
+    "frequency": 23,
+    "cefr": "A1"
   }
 }

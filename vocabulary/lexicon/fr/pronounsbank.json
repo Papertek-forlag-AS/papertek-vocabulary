@@ -15,21 +15,25 @@
     "typos": [
       "ce/cet/cete/ces"
     ],
-    "audio": "ce_demon_pron.mp3"
+    "audio": "ce_demon_pron.mp3",
+    "cefr": "B1"
   },
   "ceci_demon_pron": {
     "word": "ceci",
     "type": "pron",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ceci_demon_pron.mp3"
+    "audio": "ceci_demon_pron.mp3",
+    "frequency": 573,
+    "cefr": "A1"
   },
   "cela_demon_pron": {
     "word": "cela/ca",
     "type": "pron",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "cela_demon_pron.mp3"
+    "audio": "cela_demon_pron.mp3",
+    "cefr": "A1"
   },
   "celui_demon_pron": {
     "word": "celui/celle/ceux/celles",
@@ -39,14 +43,16 @@
     "typos": [
       "celui/cele/ceux/celes"
     ],
-    "audio": "celui_demon_pron.mp3"
+    "audio": "celui_demon_pron.mp3",
+    "cefr": "A1"
   },
   "combien_interr_pron": {
     "word": "combien ?",
     "type": "pron",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "combien_interr_pron.mp3"
+    "audio": "combien_interr_pron.mp3",
+    "cefr": "B1"
   },
   "comment_interr_pron": {
     "word": "comment ?",
@@ -56,7 +62,8 @@
     "typos": [
       "coment ?"
     ],
-    "audio": "comment_interr_pron.mp3"
+    "audio": "comment_interr_pron.mp3",
+    "cefr": "B1"
   },
   "elle_pron": {
     "word": "elle",
@@ -66,7 +73,9 @@
     "typos": [
       "ele"
     ],
-    "audio": "ord_elle.mp3"
+    "audio": "ord_elle.mp3",
+    "frequency": 35,
+    "cefr": "A1"
   },
   "elle_stressed_pron": {
     "word": "elle",
@@ -76,7 +85,9 @@
     "typos": [
       "ele"
     ],
-    "audio": "elle_stressed_pron.mp3"
+    "audio": "elle_stressed_pron.mp3",
+    "frequency": 35,
+    "cefr": "B1"
   },
   "elles_pron": {
     "word": "elles",
@@ -86,7 +97,9 @@
     "typos": [
       "eles"
     ],
-    "audio": "ord_elles.mp3"
+    "audio": "ord_elles.mp3",
+    "frequency": 268,
+    "cefr": "A1"
   },
   "elles_stressed_pron": {
     "word": "elles",
@@ -96,196 +109,245 @@
     "typos": [
       "eles"
     ],
-    "audio": "elles_stressed_pron.mp3"
+    "audio": "elles_stressed_pron.mp3",
+    "frequency": 268,
+    "cefr": "A1"
   },
   "eux_stressed_pron": {
     "word": "eux",
     "type": "pron",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "eux_stressed_pron.mp3"
+    "audio": "eux_stressed_pron.mp3",
+    "frequency": 329,
+    "cefr": "A1"
   },
   "il_pron": {
     "word": "il",
     "type": "pron",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_il.mp3"
+    "audio": "ord_il.mp3",
+    "frequency": 14,
+    "cefr": "A1"
   },
   "ils_pron": {
     "word": "ils",
     "type": "pron",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_ils.mp3"
+    "audio": "ord_ils.mp3",
+    "frequency": 59,
+    "cefr": "A1"
   },
   "je_pron": {
     "word": "je",
     "type": "pron",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_je.mp3"
+    "audio": "ord_je.mp3",
+    "frequency": 2,
+    "cefr": "A1"
   },
   "la_dirobj_pron": {
     "word": "la",
     "type": "pron",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "la_dirobj_pron.mp3"
+    "audio": "la_dirobj_pron.mp3",
+    "frequency": 7,
+    "cefr": "B1"
   },
   "le_dirobj_pron": {
     "word": "le",
     "type": "pron",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "le_dirobj_pron.mp3"
+    "audio": "le_dirobj_pron.mp3",
+    "frequency": 5,
+    "cefr": "B1"
   },
   "les_dirobj_pron": {
     "word": "les",
     "type": "pron",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "les_dirobj_pron.mp3"
+    "audio": "les_dirobj_pron.mp3",
+    "frequency": 18,
+    "cefr": "B1"
   },
   "leur_indobj_pron": {
     "word": "leur",
     "type": "pron",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "leur_indobj_pron.mp3"
+    "audio": "leur_indobj_pron.mp3",
+    "frequency": 156,
+    "cefr": "B1"
   },
   "leur_possess_pron": {
     "word": "leur/leurs",
     "type": "pron",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "leur_possess_pron.mp3"
+    "audio": "leur_possess_pron.mp3",
+    "cefr": "B1"
   },
   "lui_indobj_pron": {
     "word": "lui",
     "type": "pron",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "lui_indobj_pron.mp3"
+    "audio": "lui_indobj_pron.mp3",
+    "frequency": 72,
+    "cefr": "B1"
   },
   "lui_stressed_pron": {
     "word": "lui",
     "type": "pron",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "lui_stressed_pron.mp3"
+    "audio": "lui_stressed_pron.mp3",
+    "frequency": 72,
+    "cefr": "B1"
   },
   "me_dirobj_pron": {
     "word": "me",
     "type": "pron",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "me_dirobj_pron.mp3"
+    "audio": "me_dirobj_pron.mp3",
+    "frequency": 36,
+    "cefr": "A1"
   },
   "me_indobj_pron": {
     "word": "me",
     "type": "pron",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "me_indobj_pron.mp3"
+    "audio": "me_indobj_pron.mp3",
+    "frequency": 36,
+    "cefr": "A1"
   },
   "me_reflex_pron": {
     "word": "me",
     "type": "pron",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "me_reflex_pron.mp3"
+    "audio": "me_reflex_pron.mp3",
+    "frequency": 36,
+    "cefr": "A1"
   },
   "moi_stressed_pron": {
     "word": "moi",
     "type": "pron",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "moi_stressed_pron.mp3"
+    "audio": "moi_stressed_pron.mp3",
+    "frequency": 52,
+    "cefr": "A1"
   },
   "mon_possess_pron": {
     "word": "mon/ma/mes",
     "type": "pron",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "mon_possess_pron.mp3"
+    "audio": "mon_possess_pron.mp3",
+    "cefr": "A1"
   },
   "notre_possess_pron": {
     "word": "notre/nos",
     "type": "pron",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "notre_possess_pron.mp3"
+    "audio": "notre_possess_pron.mp3",
+    "cefr": "B1"
   },
   "nous_dirobj_pron": {
     "word": "nous",
     "type": "pron",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "nous_dirobj_pron.mp3"
+    "audio": "nous_dirobj_pron.mp3",
+    "frequency": 34,
+    "cefr": "A1"
   },
   "nous_indobj_pron": {
     "word": "nous",
     "type": "pron",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "nous_indobj_pron.mp3"
+    "audio": "nous_indobj_pron.mp3",
+    "frequency": 34,
+    "cefr": "A1"
   },
   "nous_pron": {
     "word": "nous",
     "type": "pron",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_nous.mp3"
+    "audio": "ord_nous.mp3",
+    "frequency": 34,
+    "cefr": "A1"
   },
   "nous_reflex_pron": {
     "word": "nous",
     "type": "pron",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "nous_reflex_pron.mp3"
+    "audio": "nous_reflex_pron.mp3",
+    "frequency": 34,
+    "cefr": "A1"
   },
   "nous_stressed_pron": {
     "word": "nous",
     "type": "pron",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "nous_stressed_pron.mp3"
+    "audio": "nous_stressed_pron.mp3",
+    "frequency": 34,
+    "cefr": "A1"
   },
   "on_pron": {
     "word": "on",
     "type": "pron",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "on_pron.mp3"
+    "audio": "on_pron.mp3",
+    "frequency": 21,
+    "cefr": "A1"
   },
   "ou_interr_pron": {
     "word": "ou ?",
     "type": "pron",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ou_interr_pron.mp3"
+    "audio": "ou_interr_pron.mp3",
+    "cefr": "B1"
   },
   "pourquoi_interr_pron": {
     "word": "pourquoi ?",
     "type": "pron",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "pourquoi_interr_pron.mp3"
+    "audio": "pourquoi_interr_pron.mp3",
+    "cefr": "B1"
   },
   "quand_interr_pron": {
     "word": "quand ?",
     "type": "pron",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "quand_interr_pron.mp3"
+    "audio": "quand_interr_pron.mp3",
+    "cefr": "B1"
   },
   "que_interr_pron": {
     "word": "que ?",
     "type": "pron",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "que_interr_pron.mp3"
+    "audio": "que_interr_pron.mp3",
+    "cefr": "B1"
   },
   "quel_interr_pron": {
     "word": "quel/quelle/quels/quelles ?",
@@ -295,125 +357,154 @@
     "typos": [
       "quel/quele/quels/queles ?"
     ],
-    "audio": "quel_interr_pron.mp3"
+    "audio": "quel_interr_pron.mp3",
+    "cefr": "B1"
   },
   "quest_ce_que_interr_pron": {
     "word": "qu'est-ce que ?",
     "type": "pron",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "quest_ce_que_interr_pron.mp3"
+    "audio": "quest_ce_que_interr_pron.mp3",
+    "cefr": "B1"
   },
   "qui_interr_pron": {
     "word": "qui ?",
     "type": "pron",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "qui_interr_pron.mp3"
+    "audio": "qui_interr_pron.mp3",
+    "cefr": "B1"
   },
   "quoi_interr_pron": {
     "word": "quoi ?",
     "type": "pron",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "quoi_interr_pron.mp3"
+    "audio": "quoi_interr_pron.mp3",
+    "cefr": "B1"
   },
   "se_reflex_pron": {
     "word": "se",
     "type": "pron",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "se_reflex_pron.mp3"
+    "audio": "se_reflex_pron.mp3",
+    "frequency": 62,
+    "cefr": "A1"
   },
   "son_possess_pron": {
     "word": "son/sa/ses",
     "type": "pron",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "son_possess_pron.mp3"
+    "audio": "son_possess_pron.mp3",
+    "cefr": "B1"
   },
   "te_dirobj_pron": {
     "word": "te",
     "type": "pron",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "te_dirobj_pron.mp3"
+    "audio": "te_dirobj_pron.mp3",
+    "frequency": 49,
+    "cefr": "A1"
   },
   "te_indobj_pron": {
     "word": "te",
     "type": "pron",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "te_indobj_pron.mp3"
+    "audio": "te_indobj_pron.mp3",
+    "frequency": 49,
+    "cefr": "A1"
   },
   "te_reflex_pron": {
     "word": "te",
     "type": "pron",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "te_reflex_pron.mp3"
+    "audio": "te_reflex_pron.mp3",
+    "frequency": 49,
+    "cefr": "A1"
   },
   "toi_stressed_pron": {
     "word": "toi",
     "type": "pron",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "toi_stressed_pron.mp3"
+    "audio": "toi_stressed_pron.mp3",
+    "frequency": 69,
+    "cefr": "A1"
   },
   "ton_possess_pron": {
     "word": "ton/ta/tes",
     "type": "pron",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ton_possess_pron.mp3"
+    "audio": "ton_possess_pron.mp3",
+    "cefr": "A1"
   },
   "tu_pron": {
     "word": "tu",
     "type": "pron",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_tu.mp3"
+    "audio": "ord_tu.mp3",
+    "frequency": 9,
+    "cefr": "A1"
   },
   "votre_possess_pron": {
     "word": "votre/vos",
     "type": "pron",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "votre_possess_pron.mp3"
+    "audio": "votre_possess_pron.mp3",
+    "cefr": "B1"
   },
   "vous_dirobj_pron": {
     "word": "vous",
     "type": "pron",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "vous_dirobj_pron.mp3"
+    "audio": "vous_dirobj_pron.mp3",
+    "frequency": 8,
+    "cefr": "A1"
   },
   "vous_indobj_pron": {
     "word": "vous",
     "type": "pron",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "vous_indobj_pron.mp3"
+    "audio": "vous_indobj_pron.mp3",
+    "frequency": 8,
+    "cefr": "A1"
   },
   "vous_pron": {
     "word": "vous",
     "type": "pron",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_vous.mp3"
+    "audio": "ord_vous.mp3",
+    "frequency": 8,
+    "cefr": "A1"
   },
   "vous_reflex_pron": {
     "word": "vous",
     "type": "pron",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "vous_reflex_pron.mp3"
+    "audio": "vous_reflex_pron.mp3",
+    "frequency": 8,
+    "cefr": "A1"
   },
   "vous_stressed_pron": {
     "word": "vous",
     "type": "pron",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "vous_stressed_pron.mp3"
+    "audio": "vous_stressed_pron.mp3",
+    "frequency": 8,
+    "cefr": "A1"
   }
 }

@@ -12,56 +12,66 @@
     "type": "prep",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_a_cote_de.mp3"
+    "audio": "ord_a_cote_de.mp3",
+    "cefr": "A1"
   },
   "a_la_fin_expr": {
     "word": "a la fin",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "a_la_fin_expr.mp3"
+    "audio": "a_la_fin_expr.mp3",
+    "cefr": "B1"
   },
   "a_lheure_expr": {
     "word": "a l'heure",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "a_lheure_expr.mp3"
+    "audio": "a_lheure_expr.mp3",
+    "cefr": "B1"
   },
   "a_mon_avis_expr": {
     "word": "a mon avis",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "a_mon_avis_expr.mp3"
+    "audio": "a_mon_avis_expr.mp3",
+    "cefr": "B1"
   },
   "a_pied_expr": {
     "word": "a pied",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "a_pied_expr.mp3"
+    "audio": "a_pied_expr.mp3",
+    "cefr": "B1"
   },
   "a_prep": {
     "word": "a",
     "type": "prep",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_a.mp3"
+    "audio": "ord_a.mp3",
+    "frequency": 15,
+    "cefr": "A1"
   },
   "a_velo_expr": {
     "word": "a velo",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "a_velo_expr.mp3"
+    "audio": "a_velo_expr.mp3",
+    "cefr": "B1"
   },
   "apres_prep": {
     "word": "apres",
     "type": "prep",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_apres.mp3"
+    "audio": "ord_apres.mp3",
+    "frequency": 5495,
+    "cefr": "A2"
   },
   "assez_adv": {
     "word": "assez",
@@ -71,7 +81,9 @@
     "typos": [
       "asez"
     ],
-    "audio": "assez_adv.mp3"
+    "audio": "assez_adv.mp3",
+    "frequency": 235,
+    "cefr": "B1"
   },
   "attention_interj": {
     "word": "attention !",
@@ -81,14 +93,16 @@
     "typos": [
       "atention !"
     ],
-    "audio": "attention_interj.mp3"
+    "audio": "attention_interj.mp3",
+    "cefr": "B1"
   },
   "au_debut_expr": {
     "word": "au debut",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "au_debut_expr.mp3"
+    "audio": "au_debut_expr.mp3",
+    "cefr": "B1"
   },
   "au_dessous_de_prep": {
     "word": "au-dessous de",
@@ -98,7 +112,8 @@
     "typos": [
       "au-desous de"
     ],
-    "audio": "au_dessous_de_prep.mp3"
+    "audio": "au_dessous_de_prep.mp3",
+    "cefr": "A1"
   },
   "au_dessus_de_prep": {
     "word": "au-dessus de",
@@ -108,14 +123,17 @@
     "typos": [
       "au-desus de"
     ],
-    "audio": "au_dessus_de_prep.mp3"
+    "audio": "au_dessus_de_prep.mp3",
+    "cefr": "A1"
   },
   "aujourdhui_adv": {
     "word": "aujourd'hui",
     "type": "adv",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_aujourdhui.mp3"
+    "audio": "ord_aujourdhui.mp3",
+    "frequency": 271,
+    "cefr": "A1"
   },
   "aussi_adv": {
     "word": "aussi",
@@ -125,126 +143,154 @@
     "typos": [
       "ausi"
     ],
-    "audio": "ord_aussi.mp3"
+    "audio": "ord_aussi.mp3",
+    "frequency": 100,
+    "cefr": "A1"
   },
   "autour_de_prep": {
     "word": "autour de",
     "type": "prep",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "autour_de_prep.mp3"
+    "audio": "autour_de_prep.mp3",
+    "cefr": "B1"
   },
   "avant_prep": {
     "word": "avant",
     "type": "prep",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "avant_prep.mp3"
+    "audio": "avant_prep.mp3",
+    "frequency": 139,
+    "cefr": "A1"
   },
   "avec_prep": {
     "word": "avec",
     "type": "prep",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_avec.mp3"
+    "audio": "ord_avec.mp3",
+    "frequency": 44,
+    "cefr": "A1"
   },
   "beaucoup_adv": {
     "word": "beaucoup",
     "type": "adv",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_beaucoup.mp3"
+    "audio": "ord_beaucoup.mp3",
+    "frequency": 170,
+    "cefr": "A1"
   },
   "belgique_propn": {
     "word": "la Belgique",
     "type": "propn",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "belgique_propn.mp3"
+    "audio": "belgique_propn.mp3",
+    "cefr": "B1"
   },
   "bien_adv": {
     "word": "bien",
     "type": "adv",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "bien_adv.mp3"
+    "audio": "bien_adv.mp3",
+    "frequency": 37,
+    "cefr": "A1"
   },
   "bien_interj": {
     "word": "bien",
     "type": "interj",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "bien_interj.mp3"
+    "audio": "bien_interj.mp3",
+    "frequency": 37,
+    "cefr": "A1"
   },
   "bien_que_conj": {
     "word": "bien que",
     "type": "conj",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "bien_que_conj.mp3"
+    "audio": "bien_que_conj.mp3",
+    "cefr": "B1"
   },
   "bientot_adv": {
     "word": "bientot",
     "type": "adv",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_bientot.mp3"
+    "audio": "ord_bientot.mp3",
+    "frequency": 15515,
+    "cefr": "A1"
   },
   "bienvenue_interj": {
     "word": "bienvenue !",
     "type": "interj",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_bienvenue.mp3"
+    "audio": "ord_bienvenue.mp3",
+    "cefr": "A1"
   },
   "bravo_interj": {
     "word": "bravo !",
     "type": "interj",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "bravo_interj.mp3"
+    "audio": "bravo_interj.mp3",
+    "cefr": "B1"
   },
   "canada_propn": {
     "word": "le Canada",
     "type": "propn",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "canada_propn.mp3"
+    "audio": "canada_propn.mp3",
+    "cefr": "B1"
   },
   "car_conj": {
     "word": "car",
     "type": "conj",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_car.mp3"
+    "audio": "ord_car.mp3",
+    "frequency": 323,
+    "cefr": "A1"
   },
   "cependant_expr": {
     "word": "cependant",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "cependant_expr.mp3"
+    "audio": "cependant_expr.mp3",
+    "frequency": 2359,
+    "cefr": "A2"
   },
   "cest_a_dire_expr": {
     "word": "c'est-a-dire",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "cest_a_dire_expr.mp3"
+    "audio": "cest_a_dire_expr.mp3",
+    "cefr": "B1"
   },
   "chaque_jour_expr": {
     "word": "chaque jour",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "chaque_jour_expr.mp3"
+    "audio": "chaque_jour_expr.mp3",
+    "cefr": "B1"
   },
   "chez_prep": {
     "word": "chez",
     "type": "prep",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_chez.mp3"
+    "audio": "ord_chez.mp3",
+    "frequency": 167,
+    "cefr": "A1"
   },
   "chouette_interj": {
     "word": "chouette !",
@@ -254,7 +300,8 @@
     "typos": [
       "chouete !"
     ],
-    "audio": "chouette_interj.mp3"
+    "audio": "chouette_interj.mp3",
+    "cefr": "B1"
   },
   "comme_conj": {
     "word": "comme",
@@ -264,91 +311,113 @@
     "typos": [
       "come"
     ],
-    "audio": "comme_conj.mp3"
+    "audio": "comme_conj.mp3",
+    "frequency": 63,
+    "cefr": "A1"
   },
   "completement_adv": {
     "word": "completement",
     "type": "adv",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "completement_adv.mp3"
+    "audio": "completement_adv.mp3",
+    "frequency": 19634,
+    "cefr": "A2"
   },
   "dabord_adv": {
     "word": "d'abord",
     "type": "adv",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_dabord.mp3"
+    "audio": "ord_dabord.mp3",
+    "cefr": "B1"
   },
   "dans_prep": {
     "word": "dans",
     "type": "prep",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_dans.mp3"
+    "audio": "ord_dans.mp3",
+    "frequency": 33,
+    "cefr": "A1"
   },
   "de_lautre_cote_expr": {
     "word": "de l'autre cote",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "de_lautre_cote_expr.mp3"
+    "audio": "de_lautre_cote_expr.mp3",
+    "cefr": "B1"
   },
   "de_plus_expr": {
     "word": "de plus",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "de_plus_expr.mp3"
+    "audio": "de_plus_expr.mp3",
+    "cefr": "B1"
   },
   "de_prep": {
     "word": "de",
     "type": "prep",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_de.mp3"
+    "audio": "ord_de.mp3",
+    "frequency": 1,
+    "cefr": "A1"
   },
   "de_temps_en_temps_expr": {
     "word": "de temps en temps",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "de_temps_en_temps_expr.mp3"
+    "audio": "de_temps_en_temps_expr.mp3",
+    "cefr": "B1"
   },
   "dedans_adv": {
     "word": "dedans",
     "type": "adv",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_dedans.mp3"
+    "audio": "ord_dedans.mp3",
+    "frequency": 869,
+    "cefr": "A1"
   },
   "dehors_adv": {
     "word": "dehors",
     "type": "adv",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_dehors.mp3"
+    "audio": "ord_dehors.mp3",
+    "frequency": 430,
+    "cefr": "A1"
   },
   "deja_adv": {
     "word": "deja",
     "type": "adv",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_deja.mp3"
+    "audio": "ord_deja.mp3",
+    "frequency": 9275,
+    "cefr": "B1"
   },
   "demain_adv": {
     "word": "demain",
     "type": "adv",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_demain.mp3"
+    "audio": "ord_demain.mp3",
+    "frequency": 274,
+    "cefr": "A1"
   },
   "depuis_prep": {
     "word": "depuis",
     "type": "prep",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_depuis.mp3"
+    "audio": "ord_depuis.mp3",
+    "frequency": 169,
+    "cefr": "A1"
   },
   "derriere_prep": {
     "word": "derriere",
@@ -358,343 +427,405 @@
     "typos": [
       "deriere"
     ],
-    "audio": "ord_derriere.mp3"
+    "audio": "ord_derriere.mp3",
+    "frequency": 14551,
+    "cefr": "A1"
   },
   "devant_prep": {
     "word": "devant",
     "type": "prep",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_devant.mp3"
+    "audio": "ord_devant.mp3",
+    "frequency": 387,
+    "cefr": "A1"
   },
   "donc_conj": {
     "word": "donc",
     "type": "conj",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "donc_conj.mp3"
+    "audio": "donc_conj.mp3",
+    "frequency": 134,
+    "cefr": "A1"
   },
   "dun_cote_expr": {
     "word": "d'un cote",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "dun_cote_expr.mp3"
+    "audio": "dun_cote_expr.mp3",
+    "cefr": "B1"
   },
   "en_avance_expr": {
     "word": "en avance",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "en_avance_expr.mp3"
+    "audio": "en_avance_expr.mp3",
+    "cefr": "B1"
   },
   "en_avion_expr": {
     "word": "en avion",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "en_avion_expr.mp3"
+    "audio": "en_avion_expr.mp3",
+    "cefr": "B1"
   },
   "en_bas_adv": {
     "word": "en bas",
     "type": "adv",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "en_bas_adv.mp3"
+    "audio": "en_bas_adv.mp3",
+    "cefr": "B1"
   },
   "en_bus_expr": {
     "word": "en bus",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "en_bus_expr.mp3"
+    "audio": "en_bus_expr.mp3",
+    "cefr": "B1"
   },
   "en_conclusion_expr": {
     "word": "en conclusion",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "en_conclusion_expr.mp3"
+    "audio": "en_conclusion_expr.mp3",
+    "cefr": "B1"
   },
   "en_face_de_prep": {
     "word": "en face de",
     "type": "prep",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "en_face_de_prep.mp3"
+    "audio": "en_face_de_prep.mp3",
+    "cefr": "B1"
   },
   "en_fait_expr": {
     "word": "en fait",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "en_fait_expr.mp3"
+    "audio": "en_fait_expr.mp3",
+    "cefr": "B1"
   },
   "en_general_expr": {
     "word": "en general",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "en_general_expr.mp3"
+    "audio": "en_general_expr.mp3",
+    "cefr": "B1"
   },
   "en_haut_adv": {
     "word": "en haut",
     "type": "adv",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "en_haut_adv.mp3"
+    "audio": "en_haut_adv.mp3",
+    "cefr": "B1"
   },
   "en_plus_expr": {
     "word": "en plus",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "en_plus_expr.mp3"
+    "audio": "en_plus_expr.mp3",
+    "cefr": "B1"
   },
   "en_retard_expr": {
     "word": "en retard",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "en_retard_expr.mp3"
+    "audio": "en_retard_expr.mp3",
+    "cefr": "B1"
   },
   "en_train_expr": {
     "word": "en train",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "en_train_expr.mp3"
+    "audio": "en_train_expr.mp3",
+    "cefr": "B1"
   },
   "en_voiture_expr": {
     "word": "en voiture",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_en_voiture.mp3"
+    "audio": "ord_en_voiture.mp3",
+    "cefr": "B1"
   },
   "encore_adv": {
     "word": "encore",
     "type": "adv",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_encore.mp3"
+    "audio": "ord_encore.mp3",
+    "frequency": 121,
+    "cefr": "A1"
   },
   "enfin_adv": {
     "word": "enfin",
     "type": "adv",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_enfin.mp3"
+    "audio": "ord_enfin.mp3",
+    "frequency": 389,
+    "cefr": "A1"
   },
   "ensemble_adv": {
     "word": "ensemble",
     "type": "adv",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_ensemble.mp3"
+    "audio": "ord_ensemble.mp3",
+    "frequency": 297,
+    "cefr": "A1"
   },
   "ensuite_adv": {
     "word": "ensuite",
     "type": "adv",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_ensuite.mp3"
+    "audio": "ord_ensuite.mp3",
+    "frequency": 547,
+    "cefr": "A1"
   },
   "entre_prep": {
     "word": "entre",
     "type": "prep",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_entre.mp3"
+    "audio": "ord_entre.mp3",
+    "frequency": 218,
+    "cefr": "A1"
   },
   "et_conj": {
     "word": "et",
     "type": "conj",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_et.mp3"
+    "audio": "ord_et.mp3",
+    "frequency": 13,
+    "cefr": "A1"
   },
   "europe_propn": {
     "word": "l'Europe",
     "type": "propn",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "europe_propn.mp3"
+    "audio": "europe_propn.mp3",
+    "cefr": "B1"
   },
   "finalement_adv": {
     "word": "finalement",
     "type": "adv",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "finalement_adv.mp3"
+    "audio": "finalement_adv.mp3",
+    "frequency": 1387,
+    "cefr": "B1"
   },
   "formidable_interj": {
     "word": "formidable !",
     "type": "interj",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "formidable_interj.mp3"
+    "audio": "formidable_interj.mp3",
+    "cefr": "B1"
   },
   "france_propn": {
     "word": "la France",
     "type": "propn",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "france_propn.mp3"
+    "audio": "france_propn.mp3",
+    "cefr": "A1"
   },
   "generalement_adv": {
     "word": "generalement",
     "type": "adv",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "generalement_adv.mp3"
+    "audio": "generalement_adv.mp3",
+    "cefr": "B1"
   },
   "genial_interj": {
     "word": "genial !",
     "type": "interj",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "genial_interj.mp3"
+    "audio": "genial_interj.mp3",
+    "cefr": "B1"
   },
   "heureusement_adv": {
     "word": "heureusement",
     "type": "adv",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "heureusement_adv.mp3"
+    "audio": "heureusement_adv.mp3",
+    "frequency": 1902,
+    "cefr": "A1"
   },
   "hier_adv": {
     "word": "hier",
     "type": "adv",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "hier_adv.mp3"
+    "audio": "hier_adv.mp3",
+    "frequency": 421,
+    "cefr": "A1"
   },
   "ici_adv": {
     "word": "ici",
     "type": "adv",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_ici.mp3"
+    "audio": "ord_ici.mp3",
+    "frequency": 67,
+    "cefr": "A1"
   },
   "il_fait_beau_expr": {
     "word": "il fait beau",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "il_fait_beau_expr.mp3"
+    "audio": "il_fait_beau_expr.mp3",
+    "cefr": "B1"
   },
   "il_fait_chaud_expr": {
     "word": "il fait chaud",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "il_fait_chaud_expr.mp3"
+    "audio": "il_fait_chaud_expr.mp3",
+    "cefr": "B1"
   },
   "il_fait_froid_expr": {
     "word": "il fait froid",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "il_fait_froid_expr.mp3"
+    "audio": "il_fait_froid_expr.mp3",
+    "cefr": "B1"
   },
   "il_fait_mauvais_expr": {
     "word": "il fait mauvais",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "il_fait_mauvais_expr.mp3"
+    "audio": "il_fait_mauvais_expr.mp3",
+    "cefr": "B1"
   },
   "il_neige_expr": {
     "word": "il neige",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "il_neige_expr.mp3"
+    "audio": "il_neige_expr.mp3",
+    "cefr": "B1"
   },
   "il_ny_a_pas_expr": {
     "word": "il n'y a pas",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "il_ny_a_pas_expr.mp3"
+    "audio": "il_ny_a_pas_expr.mp3",
+    "cefr": "B1"
   },
   "il_pleut_expr": {
     "word": "il pleut",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "il_pleut_expr.mp3"
+    "audio": "il_pleut_expr.mp3",
+    "cefr": "B1"
   },
   "il_y_a_du_soleil_expr": {
     "word": "il y a du soleil",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "il_y_a_du_soleil_expr.mp3"
+    "audio": "il_y_a_du_soleil_expr.mp3",
+    "cefr": "B1"
   },
   "il_y_a_du_vent_expr": {
     "word": "il y a du vent",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "il_y_a_du_vent_expr.mp3"
+    "audio": "il_y_a_du_vent_expr.mp3",
+    "cefr": "B1"
   },
   "il_y_a_expr": {
     "word": "il y a",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_il_y_a.mp3"
+    "audio": "ord_il_y_a.mp3",
+    "cefr": "B1"
   },
   "jadore_expr": {
     "word": "j'adore",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "jadore_expr.mp3"
+    "audio": "jadore_expr.mp3",
+    "cefr": "B1"
   },
   "jai_chaud_expr": {
     "word": "j'ai chaud",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "jai_chaud_expr.mp3"
+    "audio": "jai_chaud_expr.mp3",
+    "cefr": "B1"
   },
   "jai_faim_expr": {
     "word": "j'ai faim",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "jai_faim_expr.mp3"
+    "audio": "jai_faim_expr.mp3",
+    "cefr": "B1"
   },
   "jai_froid_expr": {
     "word": "j'ai froid",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "jai_froid_expr.mp3"
+    "audio": "jai_froid_expr.mp3",
+    "cefr": "B1"
   },
   "jai_peur_expr": {
     "word": "j'ai peur",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "jai_peur_expr.mp3"
+    "audio": "jai_peur_expr.mp3",
+    "cefr": "B1"
   },
   "jai_raison_expr": {
     "word": "j'ai raison",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "jai_raison_expr.mp3"
+    "audio": "jai_raison_expr.mp3",
+    "cefr": "B1"
   },
   "jai_soif_expr": {
     "word": "j'ai soif",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "jai_soif_expr.mp3"
+    "audio": "jai_soif_expr.mp3",
+    "cefr": "B1"
   },
   "jai_sommeil_expr": {
     "word": "j'ai sommeil",
@@ -704,91 +835,107 @@
     "typos": [
       "j'ai someil"
     ],
-    "audio": "jai_sommeil_expr.mp3"
+    "audio": "jai_sommeil_expr.mp3",
+    "cefr": "B1"
   },
   "jai_tort_expr": {
     "word": "j'ai tort",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "jai_tort_expr.mp3"
+    "audio": "jai_tort_expr.mp3",
+    "cefr": "B1"
   },
   "jaime_expr": {
     "word": "j'aime",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "jaime_expr.mp3"
+    "audio": "jaime_expr.mp3",
+    "cefr": "B1"
   },
   "jamais_adv": {
     "word": "jamais",
     "type": "adv",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_jamais.mp3"
+    "audio": "ord_jamais.mp3",
+    "frequency": 98,
+    "cefr": "A1"
   },
   "je_crois_que_expr": {
     "word": "je crois que",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "je_crois_que_expr.mp3"
+    "audio": "je_crois_que_expr.mp3",
+    "cefr": "B1"
   },
   "je_deteste_expr": {
     "word": "je deteste",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "je_deteste_expr.mp3"
+    "audio": "je_deteste_expr.mp3",
+    "cefr": "B1"
   },
   "je_naime_pas_expr": {
     "word": "je n'aime pas",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "je_naime_pas_expr.mp3"
+    "audio": "je_naime_pas_expr.mp3",
+    "cefr": "B1"
   },
   "je_pense_que_expr": {
     "word": "je pense que",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "je_pense_que_expr.mp3"
+    "audio": "je_pense_que_expr.mp3",
+    "cefr": "B1"
   },
   "jusqua_prep": {
     "word": "jusqu'a",
     "type": "prep",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "jusqua_prep.mp3"
+    "audio": "jusqua_prep.mp3",
+    "cefr": "A1"
   },
   "la_adv": {
     "word": "la",
     "type": "adv",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_la.mp3"
+    "audio": "ord_la.mp3",
+    "frequency": 7,
+    "cefr": "A1"
   },
   "la_bas_adv": {
     "word": "la-bas",
     "type": "adv",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "la_bas_adv.mp3"
+    "audio": "la_bas_adv.mp3",
+    "frequency": 10295,
+    "cefr": "B1"
   },
   "la_nuit_expr": {
     "word": "la nuit",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "la_nuit_expr.mp3"
+    "audio": "la_nuit_expr.mp3",
+    "cefr": "B1"
   },
   "la_semaine_prochaine_expr": {
     "word": "la semaine prochaine",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "la_semaine_prochaine_expr.mp3"
+    "audio": "la_semaine_prochaine_expr.mp3",
+    "cefr": "B1"
   },
   "lannee_derniere_expr": {
     "word": "l'annee derniere",
@@ -798,7 +945,8 @@
     "typos": [
       "l'anee derniere"
     ],
-    "audio": "lannee_derniere_expr.mp3"
+    "audio": "lannee_derniere_expr.mp3",
+    "cefr": "B1"
   },
   "lannee_prochaine_expr": {
     "word": "l'annee prochaine",
@@ -808,119 +956,145 @@
     "typos": [
       "l'anee prochaine"
     ],
-    "audio": "lannee_prochaine_expr.mp3"
+    "audio": "lannee_prochaine_expr.mp3",
+    "cefr": "B1"
   },
   "lapres_midi_expr": {
     "word": "l'apres-midi",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "lapres_midi_expr.mp3"
+    "audio": "lapres_midi_expr.mp3",
+    "cefr": "B1"
   },
   "le_matin_expr": {
     "word": "le matin",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "le_matin_expr.mp3"
+    "audio": "le_matin_expr.mp3",
+    "cefr": "B1"
   },
   "le_soir_expr": {
     "word": "le soir",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_le_soir.mp3"
+    "audio": "ord_le_soir.mp3",
+    "cefr": "B1"
   },
   "le_week_end_expr": {
     "word": "le week-end",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "le_week_end_expr.mp3"
+    "audio": "le_week_end_expr.mp3",
+    "cefr": "B1"
   },
   "lentement_adv": {
     "word": "lentement",
     "type": "adv",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "lentement_adv.mp3"
+    "audio": "lentement_adv.mp3",
+    "frequency": 2943,
+    "cefr": "A2"
   },
   "loin_de_prep": {
     "word": "loin de",
     "type": "prep",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "loin_de_prep.mp3"
+    "audio": "loin_de_prep.mp3",
+    "cefr": "B1"
   },
   "maintenant_adv": {
     "word": "maintenant",
     "type": "adv",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_maintenant.mp3"
+    "audio": "ord_maintenant.mp3",
+    "frequency": 107,
+    "cefr": "A1"
   },
   "mais_conj": {
     "word": "mais",
     "type": "conj",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_mais.mp3"
+    "audio": "ord_mais.mp3",
+    "frequency": 32,
+    "cefr": "A1"
   },
   "mal_adv": {
     "word": "mal",
     "type": "adv",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "mal_adv.mp3"
+    "audio": "mal_adv.mp3",
+    "frequency": 166,
+    "cefr": "A1"
   },
   "malheureusement_adv": {
     "word": "malheureusement",
     "type": "adv",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_malheureusement.mp3"
+    "audio": "ord_malheureusement.mp3",
+    "frequency": 1713,
+    "cefr": "A1"
   },
   "mince_interj": {
     "word": "mince !",
     "type": "interj",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "mince_interj.mp3"
+    "audio": "mince_interj.mp3",
+    "cefr": "B1"
   },
   "moins_adv": {
     "word": "moins",
     "type": "adv",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "moins_adv.mp3"
+    "audio": "moins_adv.mp3",
+    "frequency": 209,
+    "cefr": "A1"
   },
   "ni_conj": {
     "word": "ni",
     "type": "conj",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ni_conj.mp3"
+    "audio": "ni_conj.mp3",
+    "frequency": 346,
+    "cefr": "A1"
   },
   "non_interj": {
     "word": "non",
     "type": "interj",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_non.mp3"
+    "audio": "ord_non.mp3",
+    "frequency": 42,
+    "cefr": "A1"
   },
   "normalement_adv": {
     "word": "normalement",
     "type": "adv",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_normalement.mp3"
+    "audio": "ord_normalement.mp3",
+    "frequency": 2851,
+    "cefr": "A1"
   },
   "norvege_propn": {
     "word": "la Norvege",
     "type": "propn",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "norvege_propn.mp3"
+    "audio": "norvege_propn.mp3",
+    "cefr": "B1"
   },
   "nulle_part_adv": {
     "word": "nulle part",
@@ -930,252 +1104,314 @@
     "typos": [
       "nule part"
     ],
-    "audio": "nulle_part_adv.mp3"
+    "audio": "nulle_part_adv.mp3",
+    "cefr": "A2"
   },
   "oh_la_la_interj": {
     "word": "oh la la !",
     "type": "interj",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "oh_la_la_interj.mp3"
+    "audio": "oh_la_la_interj.mp3",
+    "cefr": "B1"
   },
   "or_conj": {
     "word": "or",
     "type": "conj",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "or_conj.mp3"
+    "audio": "or_conj.mp3",
+    "frequency": 847,
+    "cefr": "A1"
   },
   "ou_conj": {
     "word": "ou",
     "type": "conj",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_ou.mp3"
+    "audio": "ord_ou.mp3",
+    "frequency": 91,
+    "cefr": "A1"
   },
   "oui_interj": {
     "word": "oui",
     "type": "interj",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_oui.mp3"
+    "audio": "ord_oui.mp3",
+    "frequency": 54,
+    "cefr": "A1"
   },
   "par_contre_expr": {
     "word": "par contre",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "par_contre_expr.mp3"
+    "audio": "par_contre_expr.mp3",
+    "cefr": "B1"
   },
   "par_exemple_expr": {
     "word": "par exemple",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "par_exemple_expr.mp3"
+    "audio": "par_exemple_expr.mp3",
+    "cefr": "B1"
   },
   "par_prep": {
     "word": "par",
     "type": "prep",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_par.mp3"
+    "audio": "ord_par.mp3",
+    "frequency": 90,
+    "cefr": "A1"
   },
   "parce_que_conj": {
     "word": "parce que",
     "type": "conj",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "parce_que_conj.mp3"
+    "audio": "parce_que_conj.mp3",
+    "cefr": "A1"
   },
   "parfois_adv": {
     "word": "parfois",
     "type": "adv",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_parfois.mp3"
+    "audio": "ord_parfois.mp3",
+    "frequency": 528,
+    "cefr": "A1"
   },
   "paris_propn": {
     "word": "Paris",
     "type": "propn",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "paris_propn.mp3"
+    "audio": "paris_propn.mp3",
+    "frequency": 1059,
+    "cefr": "A1"
   },
   "partout_adv": {
     "word": "partout",
     "type": "adv",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_partout.mp3"
+    "audio": "ord_partout.mp3",
+    "frequency": 655,
+    "cefr": "A1"
   },
   "pendant_prep": {
     "word": "pendant",
     "type": "prep",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "pendant_prep.mp3"
+    "audio": "pendant_prep.mp3",
+    "frequency": 262,
+    "cefr": "A1"
   },
   "pendant_que_conj": {
     "word": "pendant que",
     "type": "conj",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "pendant_que_conj.mp3"
+    "audio": "pendant_que_conj.mp3",
+    "cefr": "B1"
   },
   "peu_adv": {
     "word": "peu",
     "type": "adv",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_peu.mp3"
+    "audio": "ord_peu.mp3",
+    "frequency": 116,
+    "cefr": "A1"
   },
   "peut_etre_adv": {
     "word": "peut-etre",
     "type": "adv",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "peut_etre_adv.mp3"
+    "audio": "peut_etre_adv.mp3",
+    "frequency": 5660,
+    "cefr": "A1"
   },
   "plus_adv": {
     "word": "plus",
     "type": "adv",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_plus.mp3"
+    "audio": "ord_plus.mp3",
+    "frequency": 46,
+    "cefr": "A1"
   },
   "plutot_adv": {
     "word": "plutot",
     "type": "adv",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_plutot.mp3"
+    "audio": "ord_plutot.mp3",
+    "frequency": 12749,
+    "cefr": "A1"
   },
   "pour_prep": {
     "word": "pour",
     "type": "prep",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_pour.mp3"
+    "audio": "ord_pour.mp3",
+    "frequency": 27,
+    "cefr": "A1"
   },
   "pour_que_conj": {
     "word": "pour que",
     "type": "conj",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "pour_que_conj.mp3"
+    "audio": "pour_que_conj.mp3",
+    "cefr": "B1"
   },
   "pres_de_prep": {
     "word": "pres de",
     "type": "prep",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "pres_de_prep.mp3"
+    "audio": "pres_de_prep.mp3",
+    "cefr": "B1"
   },
   "presque_adv": {
     "word": "presque",
     "type": "adv",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "presque_adv.mp3"
+    "audio": "presque_adv.mp3",
+    "frequency": 475,
+    "cefr": "B1"
   },
   "puis_adv": {
     "word": "puis",
     "type": "adv",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_puis.mp3"
+    "audio": "ord_puis.mp3",
+    "frequency": 277,
+    "cefr": "A1"
   },
   "puisque_conj": {
     "word": "puisque",
     "type": "conj",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "puisque_conj.mp3"
+    "audio": "puisque_conj.mp3",
+    "frequency": 1499,
+    "cefr": "A1"
   },
   "quand_conj": {
     "word": "quand",
     "type": "conj",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_quand.mp3"
+    "audio": "ord_quand.mp3",
+    "frequency": 81,
+    "cefr": "A1"
   },
   "que_conj": {
     "word": "que",
     "type": "conj",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_que.mp3"
+    "audio": "ord_que.mp3",
+    "frequency": 6,
+    "cefr": "A1"
   },
   "quebec_propn": {
     "word": "le Quebec",
     "type": "propn",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "quebec_propn.mp3"
+    "audio": "quebec_propn.mp3",
+    "cefr": "B1"
   },
   "quelquefois_adv": {
     "word": "quelquefois",
     "type": "adv",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "quelquefois_adv.mp3"
+    "audio": "quelquefois_adv.mp3",
+    "frequency": 8234,
+    "cefr": "A1"
   },
   "quest_ce_quil_y_a_expr": {
     "word": "qu'est-ce qu'il y a ?",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "quest_ce_quil_y_a_expr.mp3"
+    "audio": "quest_ce_quil_y_a_expr.mp3",
+    "cefr": "B1"
   },
   "rarement_adv": {
     "word": "rarement",
     "type": "adv",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "rarement_adv.mp3"
+    "audio": "rarement_adv.mp3",
+    "frequency": 4400,
+    "cefr": "A2"
   },
   "sans_prep": {
     "word": "sans",
     "type": "prep",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_sans.mp3"
+    "audio": "ord_sans.mp3",
+    "frequency": 135,
+    "cefr": "A1"
   },
   "seulement_adv": {
     "word": "seulement",
     "type": "adv",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_seulement.mp3"
+    "audio": "ord_seulement.mp3",
+    "frequency": 321,
+    "cefr": "B1"
   },
   "si_conj": {
     "word": "si",
     "type": "conj",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_si.mp3"
+    "audio": "ord_si.mp3",
+    "frequency": 38,
+    "cefr": "A1"
   },
   "si_interj": {
     "word": "si",
     "type": "interj",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_si.mp3"
+    "audio": "ord_si.mp3",
+    "frequency": 38,
+    "cefr": "A1"
   },
   "sous_prep": {
     "word": "sous",
     "type": "prep",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_sous.mp3"
+    "audio": "ord_sous.mp3",
+    "frequency": 304,
+    "cefr": "A1"
   },
   "souvent_adv": {
     "word": "souvent",
     "type": "adv",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_souvent.mp3"
+    "audio": "ord_souvent.mp3",
+    "frequency": 700,
+    "cefr": "B1"
   },
   "suisse_propn": {
     "word": "la Suisse",
@@ -1185,139 +1421,171 @@
     "typos": [
       "la Suise"
     ],
-    "audio": "suisse_propn.mp3"
+    "audio": "suisse_propn.mp3",
+    "cefr": "A1"
   },
   "super_interj": {
     "word": "super !",
     "type": "interj",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_super.mp3"
+    "audio": "ord_super.mp3",
+    "cefr": "B1"
   },
   "sur_prep": {
     "word": "sur",
     "type": "prep",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_sur.mp3"
+    "audio": "ord_sur.mp3",
+    "frequency": 60,
+    "cefr": "A1"
   },
   "surement_adv": {
     "word": "surement",
     "type": "adv",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "surement_adv.mp3"
+    "audio": "surement_adv.mp3",
+    "frequency": 4151,
+    "cefr": "A1"
   },
   "surtout_adv": {
     "word": "surtout",
     "type": "adv",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "surtout_adv.mp3"
+    "audio": "surtout_adv.mp3",
+    "frequency": 665,
+    "cefr": "A1"
   },
   "tard_adv": {
     "word": "tard",
     "type": "adv",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_tard.mp3"
+    "audio": "ord_tard.mp3",
+    "frequency": 276,
+    "cefr": "A1"
   },
   "tot_adv": {
     "word": "tot",
     "type": "adv",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_tot.mp3"
+    "audio": "ord_tot.mp3",
+    "frequency": 18513,
+    "cefr": "A1"
   },
   "toujours_adv": {
     "word": "toujours",
     "type": "adv",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_toujours.mp3"
+    "audio": "ord_toujours.mp3",
+    "frequency": 120,
+    "cefr": "A1"
   },
   "tous_les_jours_expr": {
     "word": "tous les jours",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_tous_les_jours.mp3"
+    "audio": "ord_tous_les_jours.mp3",
+    "cefr": "B1"
   },
   "tout_a_coup_expr": {
     "word": "tout a coup",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "tout_a_coup_expr.mp3"
+    "audio": "tout_a_coup_expr.mp3",
+    "cefr": "B1"
   },
   "tout_a_fait_expr": {
     "word": "tout a fait",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "tout_a_fait_expr.mp3"
+    "audio": "tout_a_fait_expr.mp3",
+    "cefr": "B1"
   },
   "tout_de_suite_expr": {
     "word": "tout de suite",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_tout_de_suite.mp3"
+    "audio": "ord_tout_de_suite.mp3",
+    "cefr": "B1"
   },
   "tout_le_monde_expr": {
     "word": "tout le monde",
     "type": "expr",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "tout_le_monde_expr.mp3"
+    "audio": "tout_le_monde_expr.mp3",
+    "cefr": "B1"
   },
   "tres_adv": {
     "word": "tres",
     "type": "adv",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_tres.mp3"
+    "audio": "ord_tres.mp3",
+    "frequency": 3550,
+    "cefr": "A1"
   },
   "trop_adv": {
     "word": "trop",
     "type": "adv",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_trop.mp3"
+    "audio": "ord_trop.mp3",
+    "frequency": 141,
+    "cefr": "A1"
   },
   "vers_prep": {
     "word": "vers",
     "type": "prep",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_vers.mp3"
+    "audio": "ord_vers.mp3",
+    "frequency": 383,
+    "cefr": "A1"
   },
   "vite_adv": {
     "word": "vite",
     "type": "adv",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "vite_adv.mp3"
+    "audio": "vite_adv.mp3",
+    "frequency": 253,
+    "cefr": "A1"
   },
   "voila_interj": {
     "word": "voila",
     "type": "interj",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "voila_interj.mp3"
+    "audio": "voila_interj.mp3",
+    "frequency": 2416,
+    "cefr": "A2"
   },
   "vraiment_adv": {
     "word": "vraiment",
     "type": "adv",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "ord_vraiment.mp3"
+    "audio": "ord_vraiment.mp3",
+    "frequency": 102,
+    "cefr": "A1"
   },
   "zut_interj": {
     "word": "zut !",
     "type": "interj",
     "_generatedFrom": "fr/banks",
     "_enriched": true,
-    "audio": "zut_interj.mp3"
+    "audio": "zut_interj.mp3",
+    "cefr": "B1"
   }
 }
