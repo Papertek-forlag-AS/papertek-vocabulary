@@ -14,7 +14,10 @@
     "_enriched": true,
     "audio": "artikkel_al.mp3",
     "frequency": 35,
-    "cefr": "A1"
+    "cefr": "A1",
+    "explanation": {
+      "_description": "Spansk sammentrekning: al."
+    }
   },
   "del_contr": {
     "word": "del",
@@ -23,7 +26,10 @@
     "_enriched": true,
     "audio": "artikkel_del.mp3",
     "frequency": 31,
-    "cefr": "B1"
+    "cefr": "B1",
+    "explanation": {
+      "_description": "Spansk sammentrekning: del."
+    }
   },
   "el_articulo": {
     "word": "el",
@@ -32,7 +38,10 @@
     "_enriched": true,
     "audio": "el_articulo.mp3",
     "frequency": 6,
-    "cefr": "A1"
+    "cefr": "A1",
+    "explanation": {
+      "_description": "Spansk articulo: el."
+    }
   },
   "la_articulo": {
     "word": "la",
@@ -41,7 +50,10 @@
     "_enriched": true,
     "audio": "la_articulo.mp3",
     "frequency": 5,
-    "cefr": "A1"
+    "cefr": "A1",
+    "explanation": {
+      "_description": "Spansk articulo: la."
+    }
   },
   "las_articulo": {
     "word": "las",
@@ -50,7 +62,10 @@
     "_enriched": true,
     "audio": "las_articulo.mp3",
     "frequency": 29,
-    "cefr": "A1"
+    "cefr": "A1",
+    "explanation": {
+      "_description": "Spansk articulo: las."
+    }
   },
   "los_articulo": {
     "word": "los",
@@ -59,7 +74,10 @@
     "_enriched": true,
     "audio": "los_articulo.mp3",
     "frequency": 16,
-    "cefr": "A1"
+    "cefr": "A1",
+    "explanation": {
+      "_description": "Spansk articulo: los."
+    }
   },
   "un_articulo": {
     "word": "un",
@@ -68,7 +86,10 @@
     "_enriched": true,
     "audio": "un_articulo.mp3",
     "frequency": 11,
-    "cefr": "A1"
+    "cefr": "A1",
+    "explanation": {
+      "_description": "Spansk articulo: un."
+    }
   },
   "una_articulo": {
     "word": "una",
@@ -77,7 +98,10 @@
     "_enriched": true,
     "audio": "una_articulo.mp3",
     "frequency": 15,
-    "cefr": "A1"
+    "cefr": "A1",
+    "explanation": {
+      "_description": "Spansk articulo: una."
+    }
   },
   "unas_articulo": {
     "word": "unas",
@@ -86,7 +110,10 @@
     "_enriched": true,
     "audio": "unas_articulo.mp3",
     "frequency": 473,
-    "cefr": "A2"
+    "cefr": "A2",
+    "explanation": {
+      "_description": "Spansk articulo: unas."
+    }
   },
   "unos_articulo": {
     "word": "unos",
@@ -95,6 +122,9 @@
     "_enriched": true,
     "audio": "unos_articulo.mp3",
     "frequency": 268,
-    "cefr": "A2"
+    "cefr": "A2",
+    "explanation": {
+      "_description": "Spansk articulo: unos."
+    }
   }
 }

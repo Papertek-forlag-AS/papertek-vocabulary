@@ -470,6 +470,36 @@
         "category": "nouns",
         "appliesTo": ["noun"],
         "dataPath": "plural"
+      },
+      {
+        "id": "grammar_es_noun_forms",
+        "name": "Formas del sustantivo",
+        "nameEn": "Noun Forms",
+        "description": "Alle former: ubestemt/bestemt × eintal/fleirtal med artiklar",
+        "descriptionEn": "All forms: indefinite/definite × singular/plural with articles",
+        "category": "nouns",
+        "appliesTo": ["noun"],
+        "dataPath": "forms"
+      },
+      {
+        "id": "grammar_es_komparativ",
+        "name": "Comparativo",
+        "nameEn": "Comparative",
+        "description": "Gradbøyning komparativ (más grande, mejor)",
+        "descriptionEn": "Comparative adjective forms",
+        "category": "adjectives",
+        "appliesTo": ["adj"],
+        "dataPath": "comparison.komparativ"
+      },
+      {
+        "id": "grammar_es_superlativ",
+        "name": "Superlativo",
+        "nameEn": "Superlative",
+        "description": "Gradbøyning superlativ (el más grande, el mejor)",
+        "descriptionEn": "Superlative adjective forms",
+        "category": "adjectives",
+        "appliesTo": ["adj"],
+        "dataPath": "comparison.superlativ"
       }
     ],
     "categories": [
@@ -541,6 +571,36 @@
         "category": "nouns",
         "appliesTo": ["noun"],
         "dataPath": "plural"
+      },
+      {
+        "id": "grammar_fr_noun_forms",
+        "name": "Formes du nom",
+        "nameEn": "Noun Forms",
+        "description": "Alle former: ubestemt/bestemt × eintal/fleirtal med artiklar",
+        "descriptionEn": "All forms: indefinite/definite × singular/plural with articles",
+        "category": "nouns",
+        "appliesTo": ["noun"],
+        "dataPath": "forms"
+      },
+      {
+        "id": "grammar_fr_komparativ",
+        "name": "Comparatif",
+        "nameEn": "Comparative",
+        "description": "Gradbøyning komparativ (plus grand, meilleur)",
+        "descriptionEn": "Comparative adjective forms",
+        "category": "adjectives",
+        "appliesTo": ["adj"],
+        "dataPath": "comparison.komparativ"
+      },
+      {
+        "id": "grammar_fr_superlativ",
+        "name": "Superlatif",
+        "nameEn": "Superlative",
+        "description": "Gradbøyning superlativ (le plus grand, le meilleur)",
+        "descriptionEn": "Superlative adjective forms",
+        "category": "adjectives",
+        "appliesTo": ["adj"],
+        "dataPath": "comparison.superlativ"
       }
     ],
     "categories": [

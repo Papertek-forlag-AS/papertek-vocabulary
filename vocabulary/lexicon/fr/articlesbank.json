@@ -14,7 +14,10 @@
     "_enriched": true,
     "audio": "ord_au.mp3",
     "frequency": 50,
-    "cefr": "A1"
+    "cefr": "A1",
+    "explanation": {
+      "_description": "Fransk sammentrekning: au."
+    }
   },
   "aux_contr": {
     "word": "aux",
@@ -23,7 +26,10 @@
     "_enriched": true,
     "audio": "aux_contr.mp3",
     "frequency": 149,
-    "cefr": "A1"
+    "cefr": "A1",
+    "explanation": {
+      "_description": "Fransk sammentrekning: aux."
+    }
   },
   "de_l_partitif": {
     "word": "de l'",
@@ -31,7 +37,10 @@
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "de_l_partitif.mp3",
-    "cefr": "B1"
+    "cefr": "B1",
+    "explanation": {
+      "_description": "Fransk article: de l'."
+    }
   },
   "de_la_partitif": {
     "word": "de la",
@@ -39,7 +48,10 @@
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "de_la_partitif.mp3",
-    "cefr": "B1"
+    "cefr": "B1",
+    "explanation": {
+      "_description": "Fransk article: de la."
+    }
   },
   "des_article": {
     "word": "des",
@@ -48,7 +60,10 @@
     "_enriched": true,
     "audio": "artikkel_des.mp3",
     "frequency": 30,
-    "cefr": "A1"
+    "cefr": "A1",
+    "explanation": {
+      "_description": "Fransk article: des."
+    }
   },
   "des_contr": {
     "word": "des",
@@ -57,7 +72,10 @@
     "_enriched": true,
     "audio": "artikkel_des.mp3",
     "frequency": 30,
-    "cefr": "B1"
+    "cefr": "B1",
+    "explanation": {
+      "_description": "Fransk sammentrekning: des."
+    }
   },
   "du_contr": {
     "word": "du",
@@ -66,7 +84,10 @@
     "_enriched": true,
     "audio": "du_contr.mp3",
     "frequency": 39,
-    "cefr": "B1"
+    "cefr": "B1",
+    "explanation": {
+      "_description": "Fransk sammentrekning: du."
+    }
   },
   "du_partitif": {
     "word": "du",
@@ -75,7 +96,10 @@
     "_enriched": true,
     "audio": "du_partitif.mp3",
     "frequency": 39,
-    "cefr": "A1"
+    "cefr": "A1",
+    "explanation": {
+      "_description": "Fransk article: du."
+    }
   },
   "l_article": {
     "word": "l'",
@@ -84,7 +108,10 @@
     "_enriched": true,
     "audio": "artikkel_l.mp3",
     "frequency": 16,
-    "cefr": "A1"
+    "cefr": "A1",
+    "explanation": {
+      "_description": "Fransk article: l'."
+    }
   },
   "la_article": {
     "word": "la",
@@ -93,7 +120,10 @@
     "_enriched": true,
     "audio": "artikkel_la.mp3",
     "frequency": 7,
-    "cefr": "A1"
+    "cefr": "A1",
+    "explanation": {
+      "_description": "Fransk article: la."
+    }
   },
   "le_article": {
     "word": "le",
@@ -102,7 +132,10 @@
     "_enriched": true,
     "audio": "artikkel_le.mp3",
     "frequency": 5,
-    "cefr": "A1"
+    "cefr": "A1",
+    "explanation": {
+      "_description": "Fransk article: le."
+    }
   },
   "les_article": {
     "word": "les",
@@ -111,7 +144,10 @@
     "_enriched": true,
     "audio": "artikkel_les.mp3",
     "frequency": 18,
-    "cefr": "A1"
+    "cefr": "A1",
+    "explanation": {
+      "_description": "Fransk article: les."
+    }
   },
   "un_article": {
     "word": "un",
@@ -120,7 +156,10 @@
     "_enriched": true,
     "audio": "artikkel_un.mp3",
     "frequency": 10,
-    "cefr": "A1"
+    "cefr": "A1",
+    "explanation": {
+      "_description": "Fransk article: un."
+    }
   },
   "une_article": {
     "word": "une",
@@ -129,6 +168,9 @@
     "_enriched": true,
     "audio": "artikkel_une.mp3",
     "frequency": 23,
-    "cefr": "A1"
+    "cefr": "A1",
+    "explanation": {
+      "_description": "Fransk article: une."
+    }
   }
 }
