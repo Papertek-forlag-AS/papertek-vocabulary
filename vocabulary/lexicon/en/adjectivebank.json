@@ -157,7 +157,19 @@
       "_description": "Engelsk adjektiv. Gradbøying: alone – aloner – alonest."
     },
     "audio": "alone_adj.mp3",
-    "frequency": 326
+    "frequency": 326,
+    "examples": [
+      {
+        "sentence": "It is too alone.",
+        "translation": "Det er for alene.",
+        "lang": "en"
+      },
+      {
+        "sentence": "It is not alone.",
+        "translation": "Det er ikke alene.",
+        "lang": "en"
+      }
+    ]
   },
   "alternative_adj": {
     "word": "alternative",
@@ -469,7 +481,19 @@
       "_description": "Engelsk adjektiv. Gradbøying: bald – balder – baldest."
     },
     "audio": "bald_adj.mp3",
-    "frequency": 5263
+    "frequency": 5263,
+    "examples": [
+      {
+        "sentence": "She is very bald.",
+        "translation": "Hun er veldig skallet.",
+        "lang": "en"
+      },
+      {
+        "sentence": "The food is bald.",
+        "translation": "Maten er skallet.",
+        "lang": "en"
+      }
+    ]
   },
   "bare_adj": {
     "word": "bare",
@@ -563,7 +587,27 @@
     "_generatedFrom": "es-en/adjectivebank.json:grande_adj",
     "_enriched": false,
     "audio": "big_large_adj.mp3",
-    "frequency": 200
+    "frequency": 200,
+    "comparison": {
+      "positive": "big",
+      "comparative": "bigger",
+      "superlative": "biggest"
+    },
+    "explanation": {
+      "_description": "Engelsk adjektiv. Komparativ: bigger. Superlativ: biggest."
+    },
+    "examples": [
+      {
+        "sentence": "Everything is big here.",
+        "translation": "Alt er stor her.",
+        "lang": "en"
+      },
+      {
+        "sentence": "It is quite big.",
+        "translation": "Det er ganske stor.",
+        "lang": "en"
+      }
+    ]
   },
   "bitter_adj": {
     "word": "bitter",
@@ -764,7 +808,27 @@
     "_generatedFrom": "es-en/adjectivebank.json:aburrido_adj",
     "_enriched": false,
     "audio": "boring_bored_adj.mp3",
-    "frequency": 1955
+    "frequency": 1955,
+    "comparison": {
+      "positive": "boring",
+      "comparative": "more boring",
+      "superlative": "most boring"
+    },
+    "explanation": {
+      "_description": "Engelsk adjektiv. Komparativ: more boring. Superlativ: most boring."
+    },
+    "examples": [
+      {
+        "sentence": "It is quite boring.",
+        "translation": "Det er ganske kjedelig.",
+        "lang": "en"
+      },
+      {
+        "sentence": "I feel boring.",
+        "translation": "Jeg føler meg kjedelig.",
+        "lang": "en"
+      }
+    ]
   },
   "brave_adj": {
     "word": "brave",
@@ -827,7 +891,27 @@
       "bright, briliant"
     ],
     "audio": "bright_brilliant_adj.mp3",
-    "frequency": 1795
+    "frequency": 1795,
+    "comparison": {
+      "positive": "bright",
+      "comparative": "more bright",
+      "superlative": "most bright"
+    },
+    "explanation": {
+      "_description": "Engelsk adjektiv. Komparativ: more bright. Superlativ: most bright."
+    },
+    "examples": [
+      {
+        "sentence": "Everything is bright here.",
+        "translation": "Alt er skinnende her.",
+        "lang": "en"
+      },
+      {
+        "sentence": "It is quite bright.",
+        "translation": "Det er ganske skinnende.",
+        "lang": "en"
+      }
+    ]
   },
   "broken_adj": {
     "word": "broken",
@@ -895,7 +979,19 @@
       "_description": "Engelsk adjektiv. Gradbøying: busy – busier – busiest."
     },
     "audio": "busy_adj.mp3",
-    "frequency": 748
+    "frequency": 748,
+    "examples": [
+      {
+        "sentence": "It is very busy.",
+        "translation": "Det er veldig opptatt.",
+        "lang": "en"
+      },
+      {
+        "sentence": "The house is busy.",
+        "translation": "Huset er opptatt.",
+        "lang": "en"
+      }
+    ]
   },
   "calm_adj": {
     "word": "calm",
@@ -932,7 +1028,27 @@
       "calm, queit"
     ],
     "audio": "calm_quiet_adj.mp3",
-    "frequency": 685
+    "frequency": 685,
+    "comparison": {
+      "positive": "calm",
+      "comparative": "calmer",
+      "superlative": "calmest"
+    },
+    "explanation": {
+      "_description": "Engelsk adjektiv. Komparativ: calmer. Superlativ: calmest."
+    },
+    "examples": [
+      {
+        "sentence": "She is very calm.",
+        "translation": "Hun er veldig rolig.",
+        "lang": "en"
+      },
+      {
+        "sentence": "The food is calm.",
+        "translation": "Maten er rolig.",
+        "lang": "en"
+      }
+    ]
   },
   "careful_adj": {
     "word": "careful",
@@ -1081,7 +1197,19 @@
       "_description": "Engelsk adjektiv. Gradbøying: classic – classicer – classicest."
     },
     "audio": "classic_adj.mp3",
-    "frequency": 3022
+    "frequency": 3022,
+    "examples": [
+      {
+        "sentence": "It is not classic.",
+        "translation": "Det er ikke klassisk.",
+        "lang": "en"
+      },
+      {
+        "sentence": "It is too classic.",
+        "translation": "Det er for klassisk.",
+        "lang": "en"
+      }
+    ]
   },
   "clean_adj": {
     "word": "clean",
@@ -1175,7 +1303,19 @@
       "_description": "Engelsk adjektiv. Gradbøying: closed – more closed – most closed."
     },
     "audio": "closed_adj.mp3",
-    "frequency": 1230
+    "frequency": 1230,
+    "examples": [
+      {
+        "sentence": "It is not closed.",
+        "translation": "Det er ikke stengt.",
+        "lang": "en"
+      },
+      {
+        "sentence": "It is too closed.",
+        "translation": "Det er for stengt.",
+        "lang": "en"
+      }
+    ]
   },
   "cloudy_adj": {
     "word": "cloudy",
@@ -1458,7 +1598,19 @@
       "_description": "Engelsk adjektiv. Gradbøying: cowardly – more cowardly – most cowardly."
     },
     "audio": "cowardly_adj.mp3",
-    "frequency": 10172
+    "frequency": 10172,
+    "examples": [
+      {
+        "sentence": "The book is cowardly.",
+        "translation": "Boka er feig.",
+        "lang": "en"
+      },
+      {
+        "sentence": "Everything is cowardly here.",
+        "translation": "Alt er feig her.",
+        "lang": "en"
+      }
+    ]
   },
   "cozy_adj": {
     "word": "cozy",
@@ -1786,7 +1938,27 @@
       "dark-haired, brunete"
     ],
     "audio": "darkhaired_brunette_adj.mp3",
-    "frequency": 31035
+    "frequency": 31035,
+    "comparison": {
+      "positive": "dark-haired",
+      "comparative": "more dark-haired",
+      "superlative": "most dark-haired"
+    },
+    "explanation": {
+      "_description": "Engelsk adjektiv. Komparativ: more dark-haired. Superlativ: most dark-haired."
+    },
+    "examples": [
+      {
+        "sentence": "The house is dark-haired.",
+        "translation": "Huset er mørkhåret.",
+        "lang": "en"
+      },
+      {
+        "sentence": "She is very dark-haired.",
+        "translation": "Hun er veldig mørkhåret.",
+        "lang": "en"
+      }
+    ]
   },
   "dead_adj": {
     "word": "dead",
@@ -1906,7 +2078,19 @@
       "_description": "Engelsk adjektiv. Gradbøying: delicious – more delicious – most delicious."
     },
     "audio": "delicious_adj.mp3",
-    "frequency": 2018
+    "frequency": 2018,
+    "examples": [
+      {
+        "sentence": "It is too delicious.",
+        "translation": "Det er for deilig.",
+        "lang": "en"
+      },
+      {
+        "sentence": "It is not delicious.",
+        "translation": "Det er ikke deilig.",
+        "lang": "en"
+      }
+    ]
   },
   "dense_adj": {
     "word": "dense",
@@ -2027,7 +2211,27 @@
       "dificult, hard"
     ],
     "audio": "difficult_hard_adj.mp3",
-    "frequency": 910
+    "frequency": 910,
+    "comparison": {
+      "positive": "difficult",
+      "comparative": "more difficult",
+      "superlative": "most difficult"
+    },
+    "explanation": {
+      "_description": "Engelsk adjektiv. Komparativ: more difficult. Superlativ: most difficult."
+    },
+    "examples": [
+      {
+        "sentence": "It is not difficult.",
+        "translation": "Det er ikke vanskelig.",
+        "lang": "en"
+      },
+      {
+        "sentence": "It is too difficult.",
+        "translation": "Det er for vanskelig.",
+        "lang": "en"
+      }
+    ]
   },
   "digital_adj": {
     "word": "digital",
@@ -2333,7 +2537,19 @@
       "_description": "Engelsk adjektiv. Gradbøying: easy – easier – easiest."
     },
     "audio": "easy_adj.mp3",
-    "frequency": 408
+    "frequency": 408,
+    "examples": [
+      {
+        "sentence": "The food is easy.",
+        "translation": "Maten er lett.",
+        "lang": "en"
+      },
+      {
+        "sentence": "It is very easy.",
+        "translation": "Det er veldig lett.",
+        "lang": "en"
+      }
+    ]
   },
   "eerie_adj": {
     "word": "eerie",
@@ -2526,7 +2742,27 @@
     "_generatedFrom": "es-en/adjectivebank.json:igual_adj",
     "_enriched": false,
     "audio": "equal_same_adj.mp3",
-    "frequency": 3195
+    "frequency": 3195,
+    "comparison": {
+      "positive": "equal",
+      "comparative": "equaler",
+      "superlative": "equalest"
+    },
+    "explanation": {
+      "_description": "Engelsk adjektiv. Komparativ: equaler. Superlativ: equalest."
+    },
+    "examples": [
+      {
+        "sentence": "Everything is equal here.",
+        "translation": "Alt er lik her.",
+        "lang": "en"
+      },
+      {
+        "sentence": "It is quite equal.",
+        "translation": "Det er ganske lik.",
+        "lang": "en"
+      }
+    ]
   },
   "essential_adj": {
     "word": "essential",
@@ -2879,7 +3115,27 @@
     "_generatedFrom": "es-en/adjectivebank.json:falso_adj",
     "_enriched": false,
     "audio": "false_fake_adj.mp3",
-    "frequency": 2317
+    "frequency": 2317,
+    "comparison": {
+      "positive": "false",
+      "comparative": "falser",
+      "superlative": "falsest"
+    },
+    "explanation": {
+      "_description": "Engelsk adjektiv. Komparativ: falser. Superlativ: falsest."
+    },
+    "examples": [
+      {
+        "sentence": "She is very false.",
+        "translation": "Hun er veldig falsk.",
+        "lang": "en"
+      },
+      {
+        "sentence": "The food is false.",
+        "translation": "Maten er falsk.",
+        "lang": "en"
+      }
+    ]
   },
   "famous_adj": {
     "word": "famous",
@@ -2995,7 +3251,27 @@
     "_generatedFrom": "es-en/adjectivebank.json:rapido_adj",
     "_enriched": false,
     "audio": "fast_quick_adj.mp3",
-    "frequency": 624
+    "frequency": 624,
+    "comparison": {
+      "positive": "fast",
+      "comparative": "faster",
+      "superlative": "fastest"
+    },
+    "explanation": {
+      "_description": "Engelsk adjektiv. Komparativ: faster. Superlativ: fastest."
+    },
+    "examples": [
+      {
+        "sentence": "The house is fast.",
+        "translation": "Huset er rask.",
+        "lang": "en"
+      },
+      {
+        "sentence": "She is very fast.",
+        "translation": "Hun er veldig rask.",
+        "lang": "en"
+      }
+    ]
   },
   "fat_adj": {
     "word": "fat",
@@ -3063,7 +3339,19 @@
       "_description": "Engelsk adjektiv. Gradbøying: favorite – more favorite – most favorite."
     },
     "audio": "favorite_adj.mp3",
-    "frequency": 1250
+    "frequency": 1250,
+    "examples": [
+      {
+        "sentence": "The house is favorite.",
+        "translation": "Huset er favoritt.",
+        "lang": "en"
+      },
+      {
+        "sentence": "She is very favorite.",
+        "translation": "Hun er veldig favoritt.",
+        "lang": "en"
+      }
+    ]
   },
   "female_adj": {
     "word": "female",
@@ -3191,7 +3479,19 @@
       "_description": "Engelsk adjektiv. Gradbøying: first – firster – firstest."
     },
     "audio": "first_adj.mp3",
-    "frequency": 141
+    "frequency": 141,
+    "examples": [
+      {
+        "sentence": "It is not first.",
+        "translation": "Det er ikke første.",
+        "lang": "en"
+      },
+      {
+        "sentence": "It is too first.",
+        "translation": "Det er for første.",
+        "lang": "en"
+      }
+    ]
   },
   "flat_adj": {
     "word": "flat",
@@ -3413,7 +3713,27 @@
     "_generatedFrom": "es-en/adjectivebank.json:fresco_adj",
     "_enriched": false,
     "audio": "fresh_cool_adj.mp3",
-    "frequency": 1284
+    "frequency": 1284,
+    "comparison": {
+      "positive": "fresh",
+      "comparative": "fresher",
+      "superlative": "freshest"
+    },
+    "explanation": {
+      "_description": "Engelsk adjektiv. Komparativ: fresher. Superlativ: freshest."
+    },
+    "examples": [
+      {
+        "sentence": "Everything is fresh here.",
+        "translation": "Alt er fersk her.",
+        "lang": "en"
+      },
+      {
+        "sentence": "It is quite fresh.",
+        "translation": "Det er ganske fersk.",
+        "lang": "en"
+      }
+    ]
   },
   "friendly_adj": {
     "word": "friendly",
@@ -3486,7 +3806,27 @@
       "fun, funy"
     ],
     "audio": "fun_funny_adj.mp3",
-    "frequency": 434
+    "frequency": 434,
+    "comparison": {
+      "positive": "fun",
+      "comparative": "funner",
+      "superlative": "funnest"
+    },
+    "explanation": {
+      "_description": "Engelsk adjektiv. Komparativ: funner. Superlativ: funnest."
+    },
+    "examples": [
+      {
+        "sentence": "The book is fun.",
+        "translation": "Boka er morsom.",
+        "lang": "en"
+      },
+      {
+        "sentence": "Everything is fun here.",
+        "translation": "Alt er morsom her.",
+        "lang": "en"
+      }
+    ]
   },
   "funny_adj": {
     "word": "funny",
@@ -3665,7 +4005,19 @@
       "_description": "Engelsk adjektiv. Gradbøying: generous – more generous – most generous."
     },
     "audio": "generous_adj.mp3",
-    "frequency": 3161
+    "frequency": 3161,
+    "examples": [
+      {
+        "sentence": "Everything is generous here.",
+        "translation": "Alt er sjenerøs her.",
+        "lang": "en"
+      },
+      {
+        "sentence": "It is quite generous.",
+        "translation": "Det er ganske sjenerøs.",
+        "lang": "en"
+      }
+    ]
   },
   "genuine_adj": {
     "word": "genuine",
@@ -3962,7 +4314,27 @@
     "_generatedFrom": "es-en/adjectivebank.json:guapo_adj",
     "_enriched": false,
     "audio": "handsome_goodlooking_adj.mp3",
-    "frequency": 1735
+    "frequency": 1735,
+    "comparison": {
+      "positive": "handsome",
+      "comparative": "handsomer",
+      "superlative": "handsomest"
+    },
+    "explanation": {
+      "_description": "Engelsk adjektiv. Komparativ: handsomer. Superlativ: handsomest."
+    },
+    "examples": [
+      {
+        "sentence": "It is quite handsome.",
+        "translation": "Det er ganske kjekk.",
+        "lang": "en"
+      },
+      {
+        "sentence": "I feel handsome.",
+        "translation": "Jeg føler meg kjekk.",
+        "lang": "en"
+      }
+    ]
   },
   "happy_adj": {
     "word": "happy",
@@ -4002,7 +4374,27 @@
       "hapy, pleased"
     ],
     "audio": "happy_pleased_adj.mp3",
-    "frequency": 296
+    "frequency": 296,
+    "comparison": {
+      "positive": "happy",
+      "comparative": "happier",
+      "superlative": "happiest"
+    },
+    "explanation": {
+      "_description": "Engelsk adjektiv. Komparativ: happier. Superlativ: happiest."
+    },
+    "examples": [
+      {
+        "sentence": "Everything is happy here.",
+        "translation": "Alt er fornøyd her.",
+        "lang": "en"
+      },
+      {
+        "sentence": "It is quite happy.",
+        "translation": "Det er ganske fornøyd.",
+        "lang": "en"
+      }
+    ]
   },
   "hard_adj": {
     "word": "hard",
@@ -4044,7 +4436,19 @@
       "_description": "Engelsk adjektiv. Gradbøying: hardworking – more hardworking – most hardworking."
     },
     "audio": "hardworking_adj.mp3",
-    "frequency": 16987
+    "frequency": 16987,
+    "examples": [
+      {
+        "sentence": "Everything is hardworking here.",
+        "translation": "Alt er hardtarbeidende her.",
+        "lang": "en"
+      },
+      {
+        "sentence": "It is quite hardworking.",
+        "translation": "Det er ganske hardtarbeidende.",
+        "lang": "en"
+      }
+    ]
   },
   "harmful_adj": {
     "word": "harmful",
@@ -4223,7 +4627,19 @@
       "_description": "Engelsk adjektiv. Gradbøying: horrible – more horrible – most horrible."
     },
     "audio": "horrible_adj.mp3",
-    "frequency": 1524
+    "frequency": 1524,
+    "examples": [
+      {
+        "sentence": "It is quite horrible.",
+        "translation": "Det er ganske forferdelig.",
+        "lang": "en"
+      },
+      {
+        "sentence": "I feel horrible.",
+        "translation": "Jeg føler meg forferdelig.",
+        "lang": "en"
+      }
+    ]
   },
   "hot_adj": {
     "word": "hot",
@@ -4257,7 +4673,27 @@
     "_generatedFrom": "es-en/adjectivebank.json:caliente_adj",
     "_enriched": false,
     "audio": "hot_warm_adj.mp3",
-    "frequency": 547
+    "frequency": 547,
+    "comparison": {
+      "positive": "hot",
+      "comparative": "hotter",
+      "superlative": "hottest"
+    },
+    "explanation": {
+      "_description": "Engelsk adjektiv. Komparativ: hotter. Superlativ: hottest."
+    },
+    "examples": [
+      {
+        "sentence": "It is very hot.",
+        "translation": "Det er veldig varm.",
+        "lang": "en"
+      },
+      {
+        "sentence": "The house is hot.",
+        "translation": "Huset er varm.",
+        "lang": "en"
+      }
+    ]
   },
   "huge_adj": {
     "word": "huge",
@@ -4317,7 +4753,27 @@
     "_generatedFrom": "es-en/adjectivebank.json:humedo_adj",
     "_enriched": false,
     "audio": "humid_wet_adj.mp3",
-    "frequency": 21359
+    "frequency": 21359,
+    "comparison": {
+      "positive": "humid",
+      "comparative": "humidder",
+      "superlative": "humiddest"
+    },
+    "explanation": {
+      "_description": "Engelsk adjektiv. Komparativ: humidder. Superlativ: humiddest."
+    },
+    "examples": [
+      {
+        "sentence": "It is quite humid.",
+        "translation": "Det er ganske fuktig.",
+        "lang": "en"
+      },
+      {
+        "sentence": "I feel humid.",
+        "translation": "Jeg føler meg fuktig.",
+        "lang": "en"
+      }
+    ]
   },
   "hungry_adj": {
     "word": "hungry",
@@ -4476,7 +4932,19 @@
       "_description": "Engelsk adjektiv. Gradbøying: impossible – more impossible – most impossible."
     },
     "audio": "impossible_adj.mp3",
-    "frequency": 1008
+    "frequency": 1008,
+    "examples": [
+      {
+        "sentence": "She is very impossible.",
+        "translation": "Hun er veldig umulig.",
+        "lang": "en"
+      },
+      {
+        "sentence": "The food is impossible.",
+        "translation": "Maten er umulig.",
+        "lang": "en"
+      }
+    ]
   },
   "incorrect_adj": {
     "word": "incorrect",
@@ -4495,7 +4963,19 @@
       "_description": "Engelsk adjektiv. Gradbøying: incorrect – more incorrect – most incorrect."
     },
     "audio": "incorrect_adj.mp3",
-    "frequency": 13296
+    "frequency": 13296,
+    "examples": [
+      {
+        "sentence": "She is very incorrect.",
+        "translation": "Hun er veldig feil.",
+        "lang": "en"
+      },
+      {
+        "sentence": "The food is incorrect.",
+        "translation": "Maten er feil.",
+        "lang": "en"
+      }
+    ]
   },
   "incredible_adj": {
     "word": "incredible",
@@ -4780,7 +5260,19 @@
       "_description": "Engelsk adjektiv. Gradbøying: jealous – more jealous – most jealous."
     },
     "audio": "jealous_adj.mp3",
-    "frequency": 1607
+    "frequency": 1607,
+    "examples": [
+      {
+        "sentence": "She is very jealous.",
+        "translation": "Hun er veldig sjalu.",
+        "lang": "en"
+      },
+      {
+        "sentence": "The food is jealous.",
+        "translation": "Maten er sjalu.",
+        "lang": "en"
+      }
+    ]
   },
   "kind_adj": {
     "word": "kind",
@@ -4817,7 +5309,27 @@
       "kind, freindly"
     ],
     "audio": "kind_friendly_adj.mp3",
-    "frequency": 211
+    "frequency": 211,
+    "comparison": {
+      "positive": "kind",
+      "comparative": "kinder",
+      "superlative": "kindest"
+    },
+    "explanation": {
+      "_description": "Engelsk adjektiv. Komparativ: kinder. Superlativ: kindest."
+    },
+    "examples": [
+      {
+        "sentence": "It is not kind.",
+        "translation": "Det er ikke vennlig.",
+        "lang": "en"
+      },
+      {
+        "sentence": "It is too kind.",
+        "translation": "Det er for vennlig.",
+        "lang": "en"
+      }
+    ]
   },
   "last_adj": {
     "word": "last",
@@ -4833,7 +5345,19 @@
       "_description": "Engelsk adjektiv. Gradbøying: last – laster – lastest."
     },
     "audio": "last_adj.mp3",
-    "frequency": 173
+    "frequency": 173,
+    "examples": [
+      {
+        "sentence": "Everything is last here.",
+        "translation": "Alt er siste her.",
+        "lang": "en"
+      },
+      {
+        "sentence": "It is quite last.",
+        "translation": "Det er ganske siste.",
+        "lang": "en"
+      }
+    ]
   },
   "late_adj": {
     "word": "late",
@@ -4997,7 +5521,27 @@
     "_generatedFrom": "es-en/adjectivebank.json:claro_adj",
     "_enriched": false,
     "audio": "light_clear_adj.mp3",
-    "frequency": 535
+    "frequency": 535,
+    "comparison": {
+      "positive": "light",
+      "comparative": "lighter",
+      "superlative": "lightest"
+    },
+    "explanation": {
+      "_description": "Engelsk adjektiv. Komparativ: lighter. Superlativ: lightest."
+    },
+    "examples": [
+      {
+        "sentence": "Everything is light here.",
+        "translation": "Alt er lys her.",
+        "lang": "en"
+      },
+      {
+        "sentence": "It is quite light.",
+        "translation": "Det er ganske lys.",
+        "lang": "en"
+      }
+    ]
   },
   "likeable_adj": {
     "word": "likeable",
@@ -5039,7 +5583,19 @@
       "_description": "Engelsk adjektiv. Gradbøying: local – localer – localest."
     },
     "audio": "local_adj.mp3",
-    "frequency": 1361
+    "frequency": 1361,
+    "examples": [
+      {
+        "sentence": "She is very local.",
+        "translation": "Hun er veldig lokal.",
+        "lang": "en"
+      },
+      {
+        "sentence": "The food is local.",
+        "translation": "Maten er lokal.",
+        "lang": "en"
+      }
+    ]
   },
   "lonely_adj": {
     "word": "lonely",
@@ -5349,7 +5905,19 @@
       "_description": "Engelsk adjektiv. Gradbøying: modern – moderner – modernest."
     },
     "audio": "modern_adj.mp3",
-    "frequency": 2188
+    "frequency": 2188,
+    "examples": [
+      {
+        "sentence": "It is very modern.",
+        "translation": "Det er veldig moderne.",
+        "lang": "en"
+      },
+      {
+        "sentence": "The house is modern.",
+        "translation": "Huset er moderne.",
+        "lang": "en"
+      }
+    ]
   },
   "much_adj": {
     "word": "much",
@@ -5479,7 +6047,19 @@
       "_description": "Engelsk adjektiv. Gradbøying: national – more national – most national."
     },
     "audio": "national_adj.mp3",
-    "frequency": 1481
+    "frequency": 1481,
+    "examples": [
+      {
+        "sentence": "The food is national.",
+        "translation": "Maten er nasjonal.",
+        "lang": "en"
+      },
+      {
+        "sentence": "It is very national.",
+        "translation": "Det er veldig nasjonal.",
+        "lang": "en"
+      }
+    ]
   },
   "natural_adj": {
     "word": "natural",
@@ -5632,7 +6212,19 @@
       "_description": "Engelsk adjektiv. Gradbøying: next – nexter – nextest."
     },
     "audio": "next_adj.mp3",
-    "frequency": 246
+    "frequency": 246,
+    "examples": [
+      {
+        "sentence": "It is too next.",
+        "translation": "Det er for neste.",
+        "lang": "en"
+      },
+      {
+        "sentence": "It is not next.",
+        "translation": "Det er ikke neste.",
+        "lang": "en"
+      }
+    ]
   },
   "nice_adj": {
     "word": "nice",
@@ -5670,7 +6262,27 @@
     "_generatedFrom": "es-en/adjectivebank.json:simpatico_adj",
     "_enriched": false,
     "audio": "nice_likeable_adj.mp3",
-    "frequency": 204
+    "frequency": 204,
+    "comparison": {
+      "positive": "nice",
+      "comparative": "nicer",
+      "superlative": "nicest"
+    },
+    "explanation": {
+      "_description": "Engelsk adjektiv. Komparativ: nicer. Superlativ: nicest."
+    },
+    "examples": [
+      {
+        "sentence": "It is quite nice.",
+        "translation": "Det er ganske hyggelig.",
+        "lang": "en"
+      },
+      {
+        "sentence": "I feel nice.",
+        "translation": "Jeg føler meg hyggelig.",
+        "lang": "en"
+      }
+    ]
   },
   "normal_adj": {
     "word": "normal",
@@ -5818,7 +6430,27 @@
       "old, anceint"
     ],
     "audio": "old_ancient_adj.mp3",
-    "frequency": 197
+    "frequency": 197,
+    "comparison": {
+      "positive": "old",
+      "comparative": "older",
+      "superlative": "oldest"
+    },
+    "explanation": {
+      "_description": "Engelsk adjektiv. Komparativ: older. Superlativ: oldest."
+    },
+    "examples": [
+      {
+        "sentence": "The book is old.",
+        "translation": "Boka er gammel.",
+        "lang": "en"
+      },
+      {
+        "sentence": "Everything is old here.",
+        "translation": "Alt er gammel her.",
+        "lang": "en"
+      }
+    ]
   },
   "only_unique_adj": {
     "word": "only, unique",
@@ -5826,7 +6458,27 @@
     "_generatedFrom": "es-en/adjectivebank.json:unico_adj",
     "_enriched": false,
     "audio": "only_unique_adj.mp3",
-    "frequency": 117
+    "frequency": 117,
+    "comparison": {
+      "positive": "only",
+      "comparative": "onlier",
+      "superlative": "onliest"
+    },
+    "explanation": {
+      "_description": "Engelsk adjektiv. Komparativ: onlier. Superlativ: onliest."
+    },
+    "examples": [
+      {
+        "sentence": "The house is only.",
+        "translation": "Huset er eneste.",
+        "lang": "en"
+      },
+      {
+        "sentence": "She is very only.",
+        "translation": "Hun er veldig eneste.",
+        "lang": "en"
+      }
+    ]
   },
   "open_adj": {
     "word": "open",
@@ -5842,7 +6494,19 @@
       "_description": "Engelsk adjektiv. Gradbøying: open – openner – opennest."
     },
     "audio": "open_adj.mp3",
-    "frequency": 343
+    "frequency": 343,
+    "examples": [
+      {
+        "sentence": "The food is open.",
+        "translation": "Maten er åpen.",
+        "lang": "en"
+      },
+      {
+        "sentence": "It is very open.",
+        "translation": "Det er veldig åpen.",
+        "lang": "en"
+      }
+    ]
   },
   "optimistic_adj": {
     "word": "optimistic",
@@ -5980,7 +6644,27 @@
     "_generatedFrom": "es-en/adjectivebank.json:otro_adj",
     "_enriched": false,
     "audio": "other_another_adj.mp3",
-    "frequency": 158
+    "frequency": 158,
+    "comparison": {
+      "positive": "other",
+      "comparative": "otherer",
+      "superlative": "otherest"
+    },
+    "explanation": {
+      "_description": "Engelsk adjektiv. Komparativ: otherer. Superlativ: otherest."
+    },
+    "examples": [
+      {
+        "sentence": "Everything is other here.",
+        "translation": "Alt er annen her.",
+        "lang": "en"
+      },
+      {
+        "sentence": "It is quite other.",
+        "translation": "Det er ganske annen.",
+        "lang": "en"
+      }
+    ]
   },
   "pale_adj": {
     "word": "pale",
@@ -6523,7 +7207,27 @@
     "_generatedFrom": "es-en/adjectivebank.json:preparado_adj",
     "_enriched": false,
     "audio": "prepared_ready_adj.mp3",
-    "frequency": 1545
+    "frequency": 1545,
+    "comparison": {
+      "positive": "prepared",
+      "comparative": "more prepared",
+      "superlative": "most prepared"
+    },
+    "explanation": {
+      "_description": "Engelsk adjektiv. Komparativ: more prepared. Superlativ: most prepared."
+    },
+    "examples": [
+      {
+        "sentence": "It is very prepared.",
+        "translation": "Det er veldig forberedt.",
+        "lang": "en"
+      },
+      {
+        "sentence": "The house is prepared.",
+        "translation": "Huset er forberedt.",
+        "lang": "en"
+      }
+    ]
   },
   "present_adj": {
     "word": "present",
@@ -6615,7 +7319,27 @@
       "prety, beautiful"
     ],
     "audio": "pretty_beautiful_adj.mp3",
-    "frequency": 302
+    "frequency": 302,
+    "comparison": {
+      "positive": "pretty",
+      "comparative": "prettier",
+      "superlative": "prettiest"
+    },
+    "explanation": {
+      "_description": "Engelsk adjektiv. Komparativ: prettier. Superlativ: prettiest."
+    },
+    "examples": [
+      {
+        "sentence": "Everything is pretty here.",
+        "translation": "Alt er pen her.",
+        "lang": "en"
+      },
+      {
+        "sentence": "It is quite pretty.",
+        "translation": "Det er ganske pen.",
+        "lang": "en"
+      }
+    ]
   },
   "previous_adj": {
     "word": "previous",
@@ -6631,7 +7355,19 @@
       "_description": "Engelsk adjektiv. Gradbøying: previous – more previous – most previous."
     },
     "audio": "previous_adj.mp3",
-    "frequency": 3524
+    "frequency": 3524,
+    "examples": [
+      {
+        "sentence": "The book is previous.",
+        "translation": "Boka er forrige.",
+        "lang": "en"
+      },
+      {
+        "sentence": "Everything is previous here.",
+        "translation": "Alt er forrige her.",
+        "lang": "en"
+      }
+    ]
   },
   "private_adj": {
     "word": "private",
@@ -6970,7 +7706,19 @@
       "_description": "Engelsk adjektiv. Gradbøying: real – realer – realest."
     },
     "audio": "real_adj.mp3",
-    "frequency": 272
+    "frequency": 272,
+    "examples": [
+      {
+        "sentence": "The house is real.",
+        "translation": "Huset er ekte.",
+        "lang": "en"
+      },
+      {
+        "sentence": "She is very real.",
+        "translation": "Hun er veldig ekte.",
+        "lang": "en"
+      }
+    ]
   },
   "realistic_adj": {
     "word": "realistic",
@@ -7093,7 +7841,19 @@
       "_description": "Engelsk adjektiv. Gradbøying: red-haired – more red-haired – most red-haired."
     },
     "audio": "redhaired_adj.mp3",
-    "frequency": 29802
+    "frequency": 29802,
+    "examples": [
+      {
+        "sentence": "It is quite red-haired.",
+        "translation": "Det er ganske rødhåret.",
+        "lang": "en"
+      },
+      {
+        "sentence": "I feel red-haired.",
+        "translation": "Jeg føler meg rødhåret.",
+        "lang": "en"
+      }
+    ]
   },
   "regional_adj": {
     "word": "regional",
@@ -7335,7 +8095,27 @@
     "_generatedFrom": "es-en/adjectivebank.json:rico_adj",
     "_enriched": false,
     "audio": "rich_delicious_adj.mp3",
-    "frequency": 937
+    "frequency": 937,
+    "comparison": {
+      "positive": "rich",
+      "comparative": "richer",
+      "superlative": "richest"
+    },
+    "explanation": {
+      "_description": "Engelsk adjektiv. Komparativ: richer. Superlativ: richest."
+    },
+    "examples": [
+      {
+        "sentence": "It is not rich.",
+        "translation": "Det er ikke rik.",
+        "lang": "en"
+      },
+      {
+        "sentence": "It is too rich.",
+        "translation": "Det er for rik.",
+        "lang": "en"
+      }
+    ]
   },
   "right_adj": {
     "word": "right",
@@ -7395,7 +8175,27 @@
     "_generatedFrom": "es-en/adjectivebank.json:maduro_adj",
     "_enriched": false,
     "audio": "ripe_mature_adj.mp3",
-    "frequency": 8766
+    "frequency": 8766,
+    "comparison": {
+      "positive": "ripe",
+      "comparative": "riper",
+      "superlative": "ripest"
+    },
+    "explanation": {
+      "_description": "Engelsk adjektiv. Komparativ: riper. Superlativ: ripest."
+    },
+    "examples": [
+      {
+        "sentence": "It is not ripe.",
+        "translation": "Det er ikke moden.",
+        "lang": "en"
+      },
+      {
+        "sentence": "It is too ripe.",
+        "translation": "Det er for moden.",
+        "lang": "en"
+      }
+    ]
   },
   "romantic_adj": {
     "word": "romantic",
@@ -7463,7 +8263,19 @@
       "_description": "Engelsk adjektiv. Gradbøying: rude – ruder – rudest."
     },
     "audio": "rude_adj.mp3",
-    "frequency": 2483
+    "frequency": 2483,
+    "examples": [
+      {
+        "sentence": "It is not rude.",
+        "translation": "Det er ikke uhøflig.",
+        "lang": "en"
+      },
+      {
+        "sentence": "It is too rude.",
+        "translation": "Det er for uhøflig.",
+        "lang": "en"
+      }
+    ]
   },
   "sad_adj": {
     "word": "sad",
@@ -7561,7 +8373,19 @@
       "_description": "Engelsk adjektiv. Gradbøying: same – samer – samest."
     },
     "audio": "same_adj.mp3",
-    "frequency": 240
+    "frequency": 240,
+    "examples": [
+      {
+        "sentence": "It is not same.",
+        "translation": "Det er ikke samme.",
+        "lang": "en"
+      },
+      {
+        "sentence": "It is too same.",
+        "translation": "Det er for samme.",
+        "lang": "en"
+      }
+    ]
   },
   "satisfied_adj": {
     "word": "satisfied",
@@ -7788,7 +8612,27 @@
     "_generatedFrom": "es-en/adjectivebank.json:bajo_adj",
     "_enriched": false,
     "audio": "short_low_adj.mp3",
-    "frequency": 862
+    "frequency": 862,
+    "comparison": {
+      "positive": "short",
+      "comparative": "shorter",
+      "superlative": "shortest"
+    },
+    "explanation": {
+      "_description": "Engelsk adjektiv. Komparativ: shorter. Superlativ: shortest."
+    },
+    "examples": [
+      {
+        "sentence": "The house is short.",
+        "translation": "Huset er lav.",
+        "lang": "en"
+      },
+      {
+        "sentence": "She is very short.",
+        "translation": "Hun er veldig lav.",
+        "lang": "en"
+      }
+    ]
   },
   "shy_adj": {
     "word": "shy",
@@ -7851,7 +8695,27 @@
       "sick, il"
     ],
     "audio": "sick_ill_adj.mp3",
-    "frequency": 589
+    "frequency": 589,
+    "comparison": {
+      "positive": "sick",
+      "comparative": "sicker",
+      "superlative": "sickest"
+    },
+    "explanation": {
+      "_description": "Engelsk adjektiv. Komparativ: sicker. Superlativ: sickest."
+    },
+    "examples": [
+      {
+        "sentence": "Everything is sick here.",
+        "translation": "Alt er syk her.",
+        "lang": "en"
+      },
+      {
+        "sentence": "It is quite sick.",
+        "translation": "Det er ganske syk.",
+        "lang": "en"
+      }
+    ]
   },
   "silly_stupid_adj": {
     "word": "silly, stupid",
@@ -7862,7 +8726,27 @@
       "sily, stupid"
     ],
     "audio": "silly_stupid_adj.mp3",
-    "frequency": 1262
+    "frequency": 1262,
+    "comparison": {
+      "positive": "silly",
+      "comparative": "sillier",
+      "superlative": "silliest"
+    },
+    "explanation": {
+      "_description": "Engelsk adjektiv. Komparativ: sillier. Superlativ: silliest."
+    },
+    "examples": [
+      {
+        "sentence": "It is too silly.",
+        "translation": "Det er for dum.",
+        "lang": "en"
+      },
+      {
+        "sentence": "It is not silly.",
+        "translation": "Det er ikke dum.",
+        "lang": "en"
+      }
+    ]
   },
   "similar_adj": {
     "word": "similar",
@@ -8030,7 +8914,27 @@
     "_generatedFrom": "es-en/adjectivebank.json:delgado_adj",
     "_enriched": false,
     "audio": "slim_thin_adj.mp3",
-    "frequency": 6240
+    "frequency": 6240,
+    "comparison": {
+      "positive": "slim",
+      "comparative": "slimmer",
+      "superlative": "slimmest"
+    },
+    "explanation": {
+      "_description": "Engelsk adjektiv. Komparativ: slimmer. Superlativ: slimmest."
+    },
+    "examples": [
+      {
+        "sentence": "It is too slim.",
+        "translation": "Det er for slank.",
+        "lang": "en"
+      },
+      {
+        "sentence": "It is not slim.",
+        "translation": "Det er ikke slank.",
+        "lang": "en"
+      }
+    ]
   },
   "slow_adj": {
     "word": "slow",
@@ -8104,7 +9008,27 @@
       "smal, litle"
     ],
     "audio": "small_little_adj.mp3",
-    "frequency": 577
+    "frequency": 577,
+    "comparison": {
+      "positive": "small",
+      "comparative": "smaller",
+      "superlative": "smallest"
+    },
+    "explanation": {
+      "_description": "Engelsk adjektiv. Komparativ: smaller. Superlativ: smallest."
+    },
+    "examples": [
+      {
+        "sentence": "It is too small.",
+        "translation": "Det er for liten.",
+        "lang": "en"
+      },
+      {
+        "sentence": "It is not small.",
+        "translation": "Det er ikke liten.",
+        "lang": "en"
+      }
+    ]
   },
   "smart_adj": {
     "word": "smart",
@@ -8138,7 +9062,27 @@
     "_generatedFrom": "es-en/adjectivebank.json:listo_adj",
     "_enriched": false,
     "audio": "smart_ready_adj.mp3",
-    "frequency": 911
+    "frequency": 911,
+    "comparison": {
+      "positive": "smart",
+      "comparative": "smarter",
+      "superlative": "smartest"
+    },
+    "explanation": {
+      "_description": "Engelsk adjektiv. Komparativ: smarter. Superlativ: smartest."
+    },
+    "examples": [
+      {
+        "sentence": "It is very smart.",
+        "translation": "Det er veldig smart.",
+        "lang": "en"
+      },
+      {
+        "sentence": "The house is smart.",
+        "translation": "Huset er smart.",
+        "lang": "en"
+      }
+    ]
   },
   "smooth_adj": {
     "word": "smooth",
@@ -8284,7 +9228,19 @@
       "_description": "Engelsk adjektiv. Gradbøying: spicy – spicier – spiciest."
     },
     "audio": "spicy_adj.mp3",
-    "frequency": 7480
+    "frequency": 7480,
+    "examples": [
+      {
+        "sentence": "It is not spicy.",
+        "translation": "Det er ikke sterk.",
+        "lang": "en"
+      },
+      {
+        "sentence": "It is too spicy.",
+        "translation": "Det er for sterk.",
+        "lang": "en"
+      }
+    ]
   },
   "sporty_adj": {
     "word": "sporty",
@@ -8378,7 +9334,19 @@
       "_description": "Engelsk adjektiv. Gradbøying: stingy – stingier – stingiest."
     },
     "audio": "stingy_adj.mp3",
-    "frequency": 13637
+    "frequency": 13637,
+    "examples": [
+      {
+        "sentence": "Everything is stingy here.",
+        "translation": "Alt er gjerrig her.",
+        "lang": "en"
+      },
+      {
+        "sentence": "It is quite stingy.",
+        "translation": "Det er ganske gjerrig.",
+        "lang": "en"
+      }
+    ]
   },
   "straight_adj": {
     "word": "straight",
@@ -8712,7 +9680,27 @@
     "_generatedFrom": "es-en/adjectivebank.json:seguro_adj",
     "_enriched": false,
     "audio": "sure_safe_adj.mp3",
-    "frequency": 137
+    "frequency": 137,
+    "comparison": {
+      "positive": "sure",
+      "comparative": "surer",
+      "superlative": "surest"
+    },
+    "explanation": {
+      "_description": "Engelsk adjektiv. Komparativ: surer. Superlativ: surest."
+    },
+    "examples": [
+      {
+        "sentence": "It is too sure.",
+        "translation": "Det er for sikker.",
+        "lang": "en"
+      },
+      {
+        "sentence": "It is not sure.",
+        "translation": "Det er ikke sikker.",
+        "lang": "en"
+      }
+    ]
   },
   "surprised_adj": {
     "word": "surprised",
@@ -8779,7 +9767,27 @@
       "tal, high"
     ],
     "audio": "tall_high_adj.mp3",
-    "frequency": 2087
+    "frequency": 2087,
+    "comparison": {
+      "positive": "tall",
+      "comparative": "taller",
+      "superlative": "tallest"
+    },
+    "explanation": {
+      "_description": "Engelsk adjektiv. Komparativ: taller. Superlativ: tallest."
+    },
+    "examples": [
+      {
+        "sentence": "The book is tall.",
+        "translation": "Boka er høy.",
+        "lang": "en"
+      },
+      {
+        "sentence": "Everything is tall here.",
+        "translation": "Alt er høy her.",
+        "lang": "en"
+      }
+    ]
   },
   "tame_adj": {
     "word": "tame",
@@ -9302,7 +10310,19 @@
       "_description": "Engelsk adjektiv. Gradbøying: uncomfortable – more uncomfortable – most uncomfortable."
     },
     "audio": "uncomfortable_adj.mp3",
-    "frequency": 3427
+    "frequency": 3427,
+    "examples": [
+      {
+        "sentence": "It is quite uncomfortable.",
+        "translation": "Det er ganske ukomfortabel.",
+        "lang": "en"
+      },
+      {
+        "sentence": "I feel uncomfortable.",
+        "translation": "Jeg føler meg ukomfortabel.",
+        "lang": "en"
+      }
+    ]
   },
   "understandable_adj": {
     "word": "understandable",
@@ -9396,7 +10416,19 @@
       "_description": "Engelsk adjektiv. Gradbøying: unpleasant – more unpleasant – most unpleasant."
     },
     "audio": "unpleasant_adj.mp3",
-    "frequency": 6095
+    "frequency": 6095,
+    "examples": [
+      {
+        "sentence": "She is very unpleasant.",
+        "translation": "Hun er veldig ubehagelig.",
+        "lang": "en"
+      },
+      {
+        "sentence": "The food is unpleasant.",
+        "translation": "Maten er ubehagelig.",
+        "lang": "en"
+      }
+    ]
   },
   "unpleasant_unlikeable_adj": {
     "word": "unpleasant, unlikeable",
@@ -9404,7 +10436,27 @@
     "_generatedFrom": "es-en/adjectivebank.json:antipatico_adj",
     "_enriched": false,
     "audio": "unpleasant_unlikeable_adj.mp3",
-    "frequency": 6095
+    "frequency": 6095,
+    "comparison": {
+      "positive": "unpleasant",
+      "comparative": "more unpleasant",
+      "superlative": "most unpleasant"
+    },
+    "explanation": {
+      "_description": "Engelsk adjektiv. Komparativ: more unpleasant. Superlativ: most unpleasant."
+    },
+    "examples": [
+      {
+        "sentence": "She is very unpleasant.",
+        "translation": "Hun er veldig usympatisk.",
+        "lang": "en"
+      },
+      {
+        "sentence": "The food is unpleasant.",
+        "translation": "Maten er usympatisk.",
+        "lang": "en"
+      }
+    ]
   },
   "unusual_adj": {
     "word": "unusual",
@@ -9527,7 +10579,19 @@
       "_description": "Engelsk adjektiv. Gradbøying: useless – more useless – most useless."
     },
     "audio": "useless_adj.mp3",
-    "frequency": 2060
+    "frequency": 2060,
+    "examples": [
+      {
+        "sentence": "I feel useless.",
+        "translation": "Jeg føler meg unyttig.",
+        "lang": "en"
+      },
+      {
+        "sentence": "The book is useless.",
+        "translation": "Boka er unyttig.",
+        "lang": "en"
+      }
+    ]
   },
   "usual_adj": {
     "word": "usual",
