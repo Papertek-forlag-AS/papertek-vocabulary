@@ -12,6 +12,7 @@
 
 import fs from 'fs';
 import path from 'path';
+import crypto from 'crypto';
 import { execSync } from 'child_process';
 
 const AUDIO_DIRS = {
@@ -55,7 +56,13 @@ function buildZip(language, audioDir) {
 
   const stats = fs.statSync(zipPath);
   const sizeMB = (stats.size / 1048576).toFixed(2);
-  console.log(`  ${language}: ${zipName} (${sizeMB} MB, ${files.length} files)`);
+
+  // Compute content hash of the ZIP
+  const hash = crypto.createHash('sha256');
+  hash.update(fs.readFileSync(zipPath));
+  const audioVersion = hash.digest('hex').substring(0, 8);
+
+  console.log(`  ${language}: ${zipName} (${sizeMB} MB, ${files.length} files, hash: ${audioVersion})`);
 
   return {
     language,
@@ -64,6 +71,7 @@ function buildZip(language, audioDir) {
     sizeMB,
     fileCount: files.length,
     url: `/vocabulary/downloads/${zipName}`,
+    audioVersion,
     updatedAt: new Date().toISOString(),
   };
 }

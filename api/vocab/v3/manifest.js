@@ -25,12 +25,19 @@ function computeContentHash(langPath) {
   return hash.digest('hex').substring(0, 8);
 }
 
-function computeAudioHash(zipPath) {
-  const fullPath = path.join(process.cwd(), zipPath.replace(/^\//, ''));
-  if (!fs.existsSync(fullPath)) return null;
-  const hash = crypto.createHash('sha256');
-  hash.update(fs.readFileSync(fullPath));
-  return hash.digest('hex').substring(0, 8);
+// Load pre-computed audio hashes from downloads manifest (ZIP files are
+// excluded from the serverless function bundle, so we can't hash them at runtime)
+function loadAudioIndex() {
+  const manifestPath = path.join(process.cwd(), 'vocabulary', 'downloads', 'manifest.json');
+  if (!fs.existsSync(manifestPath)) return {};
+  const data = JSON.parse(fs.readFileSync(manifestPath, 'utf8'));
+  const index = {};
+  for (const dl of data.downloads || []) {
+    if (dl.language && dl.audioVersion) {
+      index[dl.language] = { audioVersion: dl.audioVersion, audioEndpoint: dl.url };
+    }
+  }
+  return index;
 }
 
 export default async function handler(req, res) {
@@ -45,6 +52,9 @@ export default async function handler(req, res) {
     const langDirs = fs.readdirSync(lexiconPath)
       .filter(f => f !== 'links' && f !== 'grammar-features.json' &&
         fs.statSync(path.join(lexiconPath, f)).isDirectory());
+
+    // Load pre-computed audio hashes
+    const audioIndex = loadAudioIndex();
 
     for (const lang of langDirs) {
       const manifestPath = path.join(lexiconPath, lang, 'manifest.json');
@@ -62,12 +72,11 @@ export default async function handler(req, res) {
           listEndpoint: `/api/vocab/v3/list/${lang}`,
         };
 
-        // Add audio info if ZIP exists for this language
-        const audioZipPath = `/vocabulary/downloads/audio-${lang}.zip`;
-        const audioHash = computeAudioHash(audioZipPath);
-        if (audioHash) {
-          langInfo.audioVersion = audioHash;
-          langInfo.audioEndpoint = audioZipPath;
+        // Add audio info from pre-computed downloads manifest
+        const audio = audioIndex[lang];
+        if (audio) {
+          langInfo.audioVersion = audio.audioVersion;
+          langInfo.audioEndpoint = audio.audioEndpoint;
         }
 
         languages[lang] = langInfo;
