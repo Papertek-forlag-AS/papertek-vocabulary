@@ -398,5 +398,647 @@
   },
   "virkelig_adj": {
     "primary": "reel_adj"
+  },
+  "absolutt_adj": {
+    "primary": "absolu_adj"
+  },
+  "aktiv_adj": {
+    "primary": "actif_adj"
+  },
+  "aktuell_adj": {
+    "primary": "actuel_adj"
+  },
+  "alternativ_adj": {
+    "primary": "alternatif_adj"
+  },
+  "alvorlig_adj": {
+    "primary": "grave_adj"
+  },
+  "anstrengende_adj": {
+    "primary": "fatigant_adj"
+  },
+  "ansvarlig_adj": {
+    "primary": "responsable_adj"
+  },
+  "antagelig_adj": {
+    "primary": "probable_adj"
+  },
+  "arbeidsledig_adj": {
+    "primary": "au_chomage_adj"
+  },
+  "automatisk_adj": {
+    "primary": "automatique_adj"
+  },
+  "avhengig_adj": {
+    "primary": "dependant_adj"
+  },
+  "avslappet_adj": {
+    "primary": "detendu_adj"
+  },
+  "bare_adj": {
+    "primary": "nu_adj"
+  },
+  "beslektet_adj": {
+    "primary": "apparente_adj"
+  },
+  "bestemt_adj": {
+    "primary": "determine_adj"
+  },
+  "blek_adj": {
+    "primary": "pale_adj"
+  },
+  "blind_adj": {
+    "primary": "aveugle_adj"
+  },
+  "bratt_adj": {
+    "primary": "raide_adj"
+  },
+  "digital_adj": {
+    "primary": "numerique_adj"
+  },
+  "direkte_adj": {
+    "primary": "direct_adj"
+  },
+  "dobbelt_adj": {
+    "primary": "double_adj"
+  },
+  "død_adj": {
+    "primary": "mort_adj"
+  },
+  "dødelig_adj": {
+    "primary": "mortel_adj"
+  },
+  "døv_adj": {
+    "primary": "sourd_adj"
+  },
+  "ekstra_adj": {
+    "primary": "supplementaire_adj"
+  },
+  "ekstrem_adj": {
+    "primary": "extreme_adj"
+  },
+  "elegant_adj": {
+    "primary": "elegant_adj"
+  },
+  "elektrisk_adj": {
+    "primary": "electrique_adj"
+  },
+  "elektronisk_adj": {
+    "primary": "electronique_adj"
+  },
+  "engstelig_adj": {
+    "primary": "anxieux_adj"
+  },
+  "ensartet_adj": {
+    "primary": "uniforme_adj"
+  },
+  "ensom_adj": {
+    "primary": "solitaire_adj"
+  },
+  "entydig_adj": {
+    "primary": "sans_ambiguite_adj"
+  },
+  "evig_adj": {
+    "primary": "eternel_adj"
+  },
+  "fantastisk_adj": {
+    "primary": "fantastique_adj"
+  },
+  "fargerik_adj": {
+    "primary": "colore_adj"
+  },
+  "fast_adj": {
+    "primary": "fixe_adj"
+  },
+  "feig_adj": {
+    "primary": "lache_adj"
+  },
+  "fet_adj": {
+    "primary": "gras_adj"
+  },
+  "finansiell_adj": {
+    "primary": "financier_adj"
+  },
+  "firkantet_adj": {
+    "primary": "carre_adj"
+  },
+  "flat_adj": {
+    "primary": "plat_adj"
+  },
+  "fleksibel_adj": {
+    "primary": "flexible_adj"
+  },
+  "flittig_adj": {
+    "primary": "assidu_adj"
+  },
+  "flott_adj": {
+    "primary": "magnifique_adj"
+  },
+  "forberedt_adj": {
+    "primary": "prepare_adj"
+  },
+  "foreløpig_adj": {
+    "primary": "provisoire_adj"
+  },
+  "forfalt_adj": {
+    "primary": "echu_adj"
+  },
+  "forgjeves_adj": {
+    "primary": "en_vain_adj"
+  },
+  "fornuftig_adj": {
+    "primary": "raisonnable_adj"
+  },
+  "fornøyd_adj": {
+    "primary": "satisfait_adj"
+  },
+  "forsiktig_adj": {
+    "primary": "prudent_adj"
+  },
+  "forståelig_adj": {
+    "primary": "comprehensible_adj"
+  },
+  "forventet_adj": {
+    "primary": "attendu_adj"
+  },
+  "fraværende_adj": {
+    "primary": "absent_adj"
+  },
+  "frekk_adj": {
+    "primary": "insolent_adj"
+  },
+  "fremmed_adj": {
+    "primary": "etranger_adj"
+  },
+  "fremtidig_adj": {
+    "primary": "futur_adj"
+  },
+  "frisk_sunn_adj": {
+    "primary": "sain_adj"
+  },
+  "frivillig_adj": {
+    "primary": "volontaire_adj"
+  },
+  "gal_adj": {
+    "primary": "fou_adj"
+  },
+  "generell_adj": {
+    "primary": "general_adj"
+  },
+  "gift_adj": {
+    "primary": "marie_adj"
+  },
+  "giftig_adj": {
+    "primary": "toxique_adj"
+  },
+  "gjennomsnittlig_adj": {
+    "primary": "moyen_adj"
+  },
+  "gjerne_adj": {
+    "primary": "volontiers_adj"
+  },
+  "gjerrig_adj": {
+    "primary": "avare_adj"
+  },
+  "glad_adj": {
+    "primary": "joyeux_adj"
+  },
+  "glatt_adj": {
+    "primary": "lisse_adj"
+  },
+  "godt_adj": {
+    "primary": "bien_adj"
+  },
+  "gratis_adj": {
+    "primary": "gratuit_adj"
+  },
+  "gravid_adj": {
+    "primary": "enceinte_adj"
+  },
+  "grundig_adj": {
+    "primary": "approfondi_adj"
+  },
+  "gunstig_adj": {
+    "primary": "favorable_adj"
+  },
+  "gyldig_adj": {
+    "primary": "valable_adj"
+  },
+  "halv_adj": {
+    "primary": "demi_adj"
+  },
+  "hel_adj": {
+    "primary": "entier_adj"
+  },
+  "hemmelig_adj": {
+    "primary": "secret_adj"
+  },
+  "historisk_adj": {
+    "primary": "historique_adj"
+  },
+  "hjertelig_adj": {
+    "primary": "cordial_adj"
+  },
+  "holdbar_adj": {
+    "primary": "durable_adj"
+  },
+  "hyppig_adj": {
+    "primary": "frequent_adj"
+  },
+  "i_tide_adj": {
+    "primary": "a_temps_adj"
+  },
+  "ideell_adj": {
+    "primary": "ideal_adj"
+  },
+  "ille_adj": {
+    "primary": "mal_adj"
+  },
+  "individuell_adj": {
+    "primary": "individuel_adj"
+  },
+  "intensiv_adj": {
+    "primary": "intensif_adj"
+  },
+  "interessert_adj": {
+    "primary": "interesse_adj"
+  },
+  "interkulturell_adj": {
+    "primary": "interculturel_adj"
+  },
+  "irriterende_adj": {
+    "primary": "agacant_adj"
+  },
+  "juridisk_adj": {
+    "primary": "juridique_adj"
+  },
+  "kjempestor_adj": {
+    "primary": "enorme_adj"
+  },
+  "kjent_berømt_adj": {
+    "primary": "connu_adj"
+  },
+  "klok_adj": {
+    "primary": "sage_adj"
+  },
+  "knapp_adj": {
+    "primary": "rare_adj"
+  },
+  "komplett_adj": {
+    "primary": "complet_adj"
+  },
+  "komplisert_adj": {
+    "primary": "complique_adj"
+  },
+  "kreativ_adj": {
+    "primary": "creatif_adj"
+  },
+  "kritisk_adj": {
+    "primary": "critique_adj"
+  },
+  "kroppslig_adj": {
+    "primary": "corporel_adj"
+  },
+  "kul_adj": {
+    "primary": "cool_adj"
+  },
+  "kulturell_adj": {
+    "primary": "culturel_adj"
+  },
+  "kvinnelig_adj": {
+    "primary": "feminin_adj"
+  },
+  "langt_adj": {
+    "primary": "loin_adj"
+  },
+  "lignende_adj": {
+    "primary": "similaire_adj"
+  },
+  "loddrett_adj": {
+    "primary": "vertical_adj"
+  },
+  "lojal_adj": {
+    "primary": "loyal_adj"
+  },
+  "mager_adj": {
+    "primary": "maigre_adj"
+  },
+  "maksimal_adj": {
+    "primary": "maximal_adj"
+  },
+  "mannlig_adj": {
+    "primary": "masculin_adj"
+  },
+  "meningsløs_adj": {
+    "primary": "absurde_adj"
+  },
+  "menneskelig_adj": {
+    "primary": "humain_adj"
+  },
+  "merkelig_adj": {
+    "primary": "etrange_adj"
+  },
+  "mett_adj": {
+    "primary": "rassasie_adj"
+  },
+  "minimal_adj": {
+    "primary": "minimal_adj"
+  },
+  "muntlig_adj": {
+    "primary": "oral_adj"
+  },
+  "musikalsk_adj": {
+    "primary": "musical_adj"
+  },
+  "mye_adj": {
+    "primary": "beaucoup_adj"
+  },
+  "negativ_adj": {
+    "primary": "negatif_adj"
+  },
+  "nøyaktig_adj": {
+    "primary": "exact_adj"
+  },
+  "offisiell_adj": {
+    "primary": "officiel_adj"
+  },
+  "oppmerksom_adj": {
+    "primary": "attentif_adj"
+  },
+  "opprinnelig_adj": {
+    "primary": "originel_adj"
+  },
+  "optimistisk_adj": {
+    "primary": "optimiste_adj"
+  },
+  "overrasket_adj": {
+    "primary": "surpris_adj"
+  },
+  "overskytende_adj": {
+    "primary": "excedentaire_adj"
+  },
+  "parallell_adj": {
+    "primary": "parallele_adj"
+  },
+  "passiv_adj": {
+    "primary": "passif_adj"
+  },
+  "pauschal_adj": {
+    "primary": "forfaitaire_adj"
+  },
+  "plutselig_adj": {
+    "primary": "soudain_adj"
+  },
+  "positiv_adj": {
+    "primary": "positif_adj"
+  },
+  "praktisk_adj": {
+    "primary": "pratique_adj"
+  },
+  "prisverdig_adj": {
+    "primary": "louable_adj"
+  },
+  "punktlig_adj": {
+    "primary": "ponctuel_adj"
+  },
+  "pålitelig_adj": {
+    "primary": "fiable_adj"
+  },
+  "rasende_adj": {
+    "primary": "furieux_adj"
+  },
+  "realistisk_adj": {
+    "primary": "realiste_adj"
+  },
+  "regelmessig_adj": {
+    "primary": "regulier_adj"
+  },
+  "regional_adj": {
+    "primary": "regional_adj"
+  },
+  "relativ_adj": {
+    "primary": "relatif_adj"
+  },
+  "rett_adj": {
+    "primary": "droit_adj"
+  },
+  "rettferdig_adj": {
+    "primary": "juste_adj"
+  },
+  "romantisk_adj": {
+    "primary": "romantique_adj"
+  },
+  "rund_adj": {
+    "primary": "rond_adj"
+  },
+  "ryddig_adj": {
+    "primary": "ordonne_adj"
+  },
+  "samtidig_adj": {
+    "primary": "simultane_adj"
+  },
+  "selvfølgelig_adj": {
+    "primary": "evident_adj"
+  },
+  "selvstendig_adj": {
+    "primary": "independant_adj"
+  },
+  "sen_adj": {
+    "primary": "tard_adj"
+  },
+  "senere_adj": {
+    "primary": "ulterieur_adj"
+  },
+  "sentral_adj": {
+    "primary": "central_adj"
+  },
+  "sint_adj": {
+    "primary": "en_colere_adj"
+  },
+  "skadelig_adj": {
+    "primary": "nocif_adj"
+  },
+  "skarp_adj": {
+    "primary": "tranchant_adj"
+  },
+  "skjev_adj": {
+    "primary": "de_travers_adj"
+  },
+  "skriftlig_adj": {
+    "primary": "ecrit_adj"
+  },
+  "skyldig_adj": {
+    "primary": "coupable_adj"
+  },
+  "sosial_adj": {
+    "primary": "social_adj"
+  },
+  "spennende_adj": {
+    "primary": "passionnant_adj"
+  },
+  "spent_adj": {
+    "primary": "tendu_adj"
+  },
+  "spiss_adj": {
+    "primary": "pointu_adj"
+  },
+  "sporty_adj": {
+    "primary": "sportif_adj"
+  },
+  "stadig_adj": {
+    "primary": "constant_adj"
+  },
+  "statistisk_adj": {
+    "primary": "statistique_adj"
+  },
+  "stilistisk_adj": {
+    "primary": "stylistique_adj"
+  },
+  "straffbart_adj": {
+    "primary": "punissable_adj"
+  },
+  "streng_adj": {
+    "primary": "strict_adj"
+  },
+  "stressende_adj": {
+    "primary": "stressant_adj"
+  },
+  "stresset_adj": {
+    "primary": "stresse_adj"
+  },
+  "stum_adj": {
+    "primary": "muet_adj"
+  },
+  "stygg_adj": {
+    "primary": "laid_adj"
+  },
+  "sulten_adj": {
+    "primary": "affame_adj"
+  },
+  "super_adj": {
+    "primary": "super_adj"
+  },
+  "sur_adj": {
+    "primary": "aigre_adj"
+  },
+  "synd_adj": {
+    "primary": "dommage_adj"
+  },
+  "synlig_adj": {
+    "primary": "visible_adj"
+  },
+  "søt_adj": {
+    "primary": "mignon_adj"
+  },
+  "takknemlig_adj": {
+    "primary": "reconnaissant_adj"
+  },
+  "tallrik_adj": {
+    "primary": "nombreux_adj"
+  },
+  "tam_adj": {
+    "primary": "apprivoise_adj"
+  },
+  "teoretisk_adj": {
+    "primary": "theorique_adj"
+  },
+  "tett_adj": {
+    "primary": "dense_adj"
+  },
+  "tidlig_adj": {
+    "primary": "tot_adj"
+  },
+  "til_stede_adj": {
+    "primary": "present_adj"
+  },
+  "tilgjengelig_adj": {
+    "primary": "disponible_adj"
+  },
+  "tolerant_adj": {
+    "primary": "tolerant_adj"
+  },
+  "total_adj": {
+    "primary": "total_adj"
+  },
+  "trøtt_sliten_adj": {
+    "primary": "epuise_adj"
+  },
+  "tvers_adj": {
+    "primary": "en_travers_adj"
+  },
+  "tåkete_adj": {
+    "primary": "brumeux_adj"
+  },
+  "tørst_adj": {
+    "primary": "assoiffe_adj"
+  },
+  "ugift_adj": {
+    "primary": "celibataire_adj"
+  },
+  "uhyggelig_adj": {
+    "primary": "effrayant_adj"
+  },
+  "ukomfortabel_adj": {
+    "primary": "inconfortable_adj"
+  },
+  "ulovlig_adj": {
+    "primary": "illegal_adj"
+  },
+  "underlig_adj": {
+    "primary": "bizarre_adj"
+  },
+  "urban_adj": {
+    "primary": "urbain_adj"
+  },
+  "utelukkende_adj": {
+    "primary": "exclusif_adj"
+  },
+  "utålmodig_adj": {
+    "primary": "impatient_adj"
+  },
+  "uvanlig_adj": {
+    "primary": "inhabituel_adj"
+  },
+  "vegetarisk_adj": {
+    "primary": "vegetarien_adj"
+  },
+  "vellykket_adj": {
+    "primary": "reussi_adj"
+  },
+  "verdifull_adj": {
+    "primary": "precieux_adj"
+  },
+  "verdiløs_adj": {
+    "primary": "sans_valeur_adj"
+  },
+  "verdt_adj": {
+    "primary": "qui_vaut_adj"
+  },
+  "vill_adj": {
+    "primary": "sauvage_adj"
+  },
+  "virtuell_adj": {
+    "primary": "virtuel_adj"
+  },
+  "våken_adj": {
+    "primary": "eveille_adj"
+  },
+  "våt_adj": {
+    "primary": "mouille_adj"
+  },
+  "yrkesaktiv_adj": {
+    "primary": "actif_professionnellement_adj"
+  },
+  "ytre_adj": {
+    "primary": "exterieur_adj"
+  },
+  "åpenbart_adj": {
+    "primary": "evidemment_adj"
+  },
+  "ærlig_adj": {
+    "primary": "honnete_adj"
+  },
+  "ødelagt_adj": {
+    "primary": "detruit_adj"
   }
 }

@@ -19,7 +19,19 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk pronomen: ce/cet/cette/ces."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Ce/cet/cette/ces habite ici.",
+        "translation": "Denne bor her.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Ce/cet/cette/ces est mon ami.",
+        "translation": "Denne er vennen min.",
+        "lang": "fr"
+      }
+    ]
   },
   "ceci_demon_pron": {
     "word": "ceci",
@@ -31,7 +43,19 @@
     "cefr": "A1",
     "explanation": {
       "_description": "Fransk pronomen: ceci."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Ceci habite ici.",
+        "translation": "Dette bor her.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Ceci est mon ami.",
+        "translation": "Dette er vennen min.",
+        "lang": "fr"
+      }
+    ]
   },
   "cela_demon_pron": {
     "word": "cela/ca",
@@ -42,7 +66,19 @@
     "cefr": "A1",
     "explanation": {
       "_description": "Fransk pronomen: cela/ca."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Cela/ca est mon ami.",
+        "translation": "Det er vennen min.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Cela/ca vient ?",
+        "translation": "Kommer det?",
+        "lang": "fr"
+      }
+    ]
   },
   "celui_demon_pron": {
     "word": "celui/celle/ceux/celles",
@@ -56,7 +92,19 @@
     "cefr": "A1",
     "explanation": {
       "_description": "Fransk pronomen: celui/celle/ceux/celles."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Celui/celle/ceux/celles habite ici.",
+        "translation": "Den bor her.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Celui/celle/ceux/celles est mon ami.",
+        "translation": "Den er vennen min.",
+        "lang": "fr"
+      }
+    ]
   },
   "combien_interr_pron": {
     "word": "combien ?",
@@ -67,7 +115,20 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk pronomen: combien ?."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Combien ? est mon ami.",
+        "translation": "Hvor mye er vennen min.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Combien ? vient ?",
+        "translation": "Kommer hvor mye?",
+        "lang": "fr"
+      }
+    ],
+    "frequency": 283
   },
   "comment_interr_pron": {
     "word": "comment ?",
@@ -81,7 +142,20 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk pronomen: comment ?."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Comment ? habite ici.",
+        "translation": "Hvordan? bor her.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Comment ? est mon ami.",
+        "translation": "Hvordan? er vennen min.",
+        "lang": "fr"
+      }
+    ],
+    "frequency": 89
   },
   "elle_pron": {
     "word": "elle",
@@ -96,7 +170,19 @@
     "cefr": "A1",
     "explanation": {
       "_description": "Fransk pronomen: elle."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Elle vient ?",
+        "translation": "Kommer hun?",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Elle habite ici.",
+        "translation": "Hun bor her.",
+        "lang": "fr"
+      }
+    ]
   },
   "elle_stressed_pron": {
     "word": "elle",
@@ -111,7 +197,19 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk pronomen: elle."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Elle vient ?",
+        "translation": "Kommer henne?",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Elle habite ici.",
+        "translation": "Henne bor her.",
+        "lang": "fr"
+      }
+    ]
   },
   "elles_pron": {
     "word": "elles",
@@ -126,7 +224,19 @@
     "cefr": "A1",
     "explanation": {
       "_description": "Fransk pronomen: elles."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Elles habite ici.",
+        "translation": "De bor her.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Elles est mon ami.",
+        "translation": "De er vennen min.",
+        "lang": "fr"
+      }
+    ]
   },
   "elles_stressed_pron": {
     "word": "elles",
@@ -141,7 +251,19 @@
     "cefr": "A1",
     "explanation": {
       "_description": "Fransk pronomen: elles."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Elles habite ici.",
+        "translation": "Elles bor her.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Elles est mon ami.",
+        "translation": "Elles er vennen min.",
+        "lang": "fr"
+      }
+    ]
   },
   "eux_stressed_pron": {
     "word": "eux",
@@ -153,7 +275,19 @@
     "cefr": "A1",
     "explanation": {
       "_description": "Fransk pronomen: eux."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Eux habite ici.",
+        "translation": "Eux bor her.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Eux est mon ami.",
+        "translation": "Eux er vennen min.",
+        "lang": "fr"
+      }
+    ]
   },
   "il_pron": {
     "word": "il",
@@ -165,19 +299,19 @@
     "cefr": "A1",
     "explanation": {
       "_description": "Fransk pronomen: il."
-    }
-  },
-  "ils_pron": {
-    "word": "ils",
-    "type": "pron",
-    "_generatedFrom": "fr/banks",
-    "_enriched": true,
-    "audio": "ord_ils.mp3",
-    "frequency": 59,
-    "cefr": "A1",
-    "explanation": {
-      "_description": "Fransk pronomen: ils."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Il est mon ami.",
+        "translation": "Han er vennen min.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Il vient ?",
+        "translation": "Kommer han?",
+        "lang": "fr"
+      }
+    ]
   },
   "je_pron": {
     "word": "je",
@@ -189,7 +323,19 @@
     "cefr": "A1",
     "explanation": {
       "_description": "Fransk pronomen: je."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Je est mon ami.",
+        "translation": "Jeg er vennen min.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Je vient ?",
+        "translation": "Kommer jeg?",
+        "lang": "fr"
+      }
+    ]
   },
   "la_dirobj_pron": {
     "word": "la",
@@ -201,7 +347,19 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk pronomen: la."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "La vient ?",
+        "translation": "Kommer henne?",
+        "lang": "fr"
+      },
+      {
+        "sentence": "La habite ici.",
+        "translation": "Henne bor her.",
+        "lang": "fr"
+      }
+    ]
   },
   "le_dirobj_pron": {
     "word": "le",
@@ -213,7 +371,19 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk pronomen: le."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Le habite ici.",
+        "translation": "Ham bor her.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Le est mon ami.",
+        "translation": "Ham er vennen min.",
+        "lang": "fr"
+      }
+    ]
   },
   "les_dirobj_pron": {
     "word": "les",
@@ -225,7 +395,19 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk pronomen: les."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Les est mon ami.",
+        "translation": "Dem er vennen min.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Les vient ?",
+        "translation": "Kommer dem?",
+        "lang": "fr"
+      }
+    ]
   },
   "leur_indobj_pron": {
     "word": "leur",
@@ -237,7 +419,19 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk pronomen: leur."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Leur habite ici.",
+        "translation": "Dem bor her.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Leur est mon ami.",
+        "translation": "Dem er vennen min.",
+        "lang": "fr"
+      }
+    ]
   },
   "leur_possess_pron": {
     "word": "leur/leurs",
@@ -248,7 +442,19 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk pronomen: leur/leurs."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Leur/leurs vient ?",
+        "translation": "Kommer deres?",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Leur/leurs habite ici.",
+        "translation": "Deres bor her.",
+        "lang": "fr"
+      }
+    ]
   },
   "lui_indobj_pron": {
     "word": "lui",
@@ -260,7 +466,19 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk pronomen: lui."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Lui est mon ami.",
+        "translation": "Ham er vennen min.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Lui vient ?",
+        "translation": "Kommer ham?",
+        "lang": "fr"
+      }
+    ]
   },
   "lui_stressed_pron": {
     "word": "lui",
@@ -272,7 +490,19 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk pronomen: lui."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Lui est mon ami.",
+        "translation": "Ham er vennen min.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Lui vient ?",
+        "translation": "Kommer ham?",
+        "lang": "fr"
+      }
+    ]
   },
   "me_dirobj_pron": {
     "word": "me",
@@ -284,7 +514,19 @@
     "cefr": "A1",
     "explanation": {
       "_description": "Fransk pronomen: me."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Me est mon ami.",
+        "translation": "Meg er vennen min.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Me vient ?",
+        "translation": "Kommer meg?",
+        "lang": "fr"
+      }
+    ]
   },
   "me_indobj_pron": {
     "word": "me",
@@ -296,7 +538,19 @@
     "cefr": "A1",
     "explanation": {
       "_description": "Fransk pronomen: me."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Me est mon ami.",
+        "translation": "Meg er vennen min.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Me vient ?",
+        "translation": "Kommer meg?",
+        "lang": "fr"
+      }
+    ]
   },
   "me_reflex_pron": {
     "word": "me",
@@ -308,7 +562,19 @@
     "cefr": "A1",
     "explanation": {
       "_description": "Fransk pronomen: me."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Me est mon ami.",
+        "translation": "Meg er vennen min.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Me vient ?",
+        "translation": "Kommer meg?",
+        "lang": "fr"
+      }
+    ]
   },
   "moi_stressed_pron": {
     "word": "moi",
@@ -320,7 +586,19 @@
     "cefr": "A1",
     "explanation": {
       "_description": "Fransk pronomen: moi."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Moi vient ?",
+        "translation": "Kommer meg?",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Moi habite ici.",
+        "translation": "Meg bor her.",
+        "lang": "fr"
+      }
+    ]
   },
   "mon_possess_pron": {
     "word": "mon/ma/mes",
@@ -331,7 +609,19 @@
     "cefr": "A1",
     "explanation": {
       "_description": "Fransk pronomen: mon/ma/mes."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Mon/ma/mes vient ?",
+        "translation": "Kommer min?",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Mon/ma/mes habite ici.",
+        "translation": "Min bor her.",
+        "lang": "fr"
+      }
+    ]
   },
   "notre_possess_pron": {
     "word": "notre/nos",
@@ -342,7 +632,19 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk pronomen: notre/nos."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Notre/nos est mon ami.",
+        "translation": "Notre/nos er vennen min.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Notre/nos vient ?",
+        "translation": "Kommer notre/nos?",
+        "lang": "fr"
+      }
+    ]
   },
   "nous_dirobj_pron": {
     "word": "nous",
@@ -354,7 +656,19 @@
     "cefr": "A1",
     "explanation": {
       "_description": "Fransk pronomen: nous."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Nous est mon ami.",
+        "translation": "Oss er vennen min.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Nous vient ?",
+        "translation": "Kommer oss?",
+        "lang": "fr"
+      }
+    ]
   },
   "nous_indobj_pron": {
     "word": "nous",
@@ -366,19 +680,19 @@
     "cefr": "A1",
     "explanation": {
       "_description": "Fransk pronomen: nous."
-    }
-  },
-  "nous_pron": {
-    "word": "nous",
-    "type": "pron",
-    "_generatedFrom": "fr/banks",
-    "_enriched": true,
-    "audio": "ord_nous.mp3",
-    "frequency": 34,
-    "cefr": "A1",
-    "explanation": {
-      "_description": "Fransk pronomen: nous."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Nous est mon ami.",
+        "translation": "Oss er vennen min.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Nous vient ?",
+        "translation": "Kommer oss?",
+        "lang": "fr"
+      }
+    ]
   },
   "nous_reflex_pron": {
     "word": "nous",
@@ -390,7 +704,19 @@
     "cefr": "A1",
     "explanation": {
       "_description": "Fransk pronomen: nous."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Nous est mon ami.",
+        "translation": "Oss er vennen min.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Nous vient ?",
+        "translation": "Kommer oss?",
+        "lang": "fr"
+      }
+    ]
   },
   "nous_stressed_pron": {
     "word": "nous",
@@ -402,19 +728,19 @@
     "cefr": "A1",
     "explanation": {
       "_description": "Fransk pronomen: nous."
-    }
-  },
-  "on_pron": {
-    "word": "on",
-    "type": "pron",
-    "_generatedFrom": "fr/banks",
-    "_enriched": true,
-    "audio": "on_pron.mp3",
-    "frequency": 21,
-    "cefr": "A1",
-    "explanation": {
-      "_description": "Fransk pronomen: on."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Nous est mon ami.",
+        "translation": "Oss er vennen min.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Nous vient ?",
+        "translation": "Kommer oss?",
+        "lang": "fr"
+      }
+    ]
   },
   "ou_interr_pron": {
     "word": "ou ?",
@@ -425,7 +751,19 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk pronomen: ou ?."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Ou ? habite ici.",
+        "translation": "Hvor? bor her.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Ou ? est mon ami.",
+        "translation": "Hvor? er vennen min.",
+        "lang": "fr"
+      }
+    ]
   },
   "pourquoi_interr_pron": {
     "word": "pourquoi ?",
@@ -436,7 +774,20 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk pronomen: pourquoi ?."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Pourquoi ? est mon ami.",
+        "translation": "Hvorfor? er vennen min.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Pourquoi ? vient ?",
+        "translation": "Kommer hvorfor??",
+        "lang": "fr"
+      }
+    ],
+    "frequency": 75
   },
   "quand_interr_pron": {
     "word": "quand ?",
@@ -447,7 +798,20 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk pronomen: quand ?."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Quand ? habite ici.",
+        "translation": "Quand ? bor her.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Quand ? est mon ami.",
+        "translation": "Quand ? er vennen min.",
+        "lang": "fr"
+      }
+    ],
+    "frequency": 81
   },
   "que_interr_pron": {
     "word": "que ?",
@@ -458,7 +822,20 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk pronomen: que ?."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Que ? est mon ami.",
+        "translation": "Hva? er vennen min.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Que ? vient ?",
+        "translation": "Kommer hva??",
+        "lang": "fr"
+      }
+    ],
+    "frequency": 6
   },
   "quel_interr_pron": {
     "word": "quel/quelle/quels/quelles ?",
@@ -472,7 +849,19 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk pronomen: quel/quelle/quels/quelles ?."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Quel/quelle/quels/quelles ? habite ici.",
+        "translation": "Hvilken bor her.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Quel/quelle/quels/quelles ? est mon ami.",
+        "translation": "Hvilken er vennen min.",
+        "lang": "fr"
+      }
+    ]
   },
   "quest_ce_que_interr_pron": {
     "word": "qu'est-ce que ?",
@@ -483,7 +872,19 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk pronomen: qu'est-ce que ?."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Qu'est-ce que ? est mon ami.",
+        "translation": "Hva? er vennen min.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Qu'est-ce que ? vient ?",
+        "translation": "Kommer hva??",
+        "lang": "fr"
+      }
+    ]
   },
   "qui_interr_pron": {
     "word": "qui ?",
@@ -494,7 +895,20 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk pronomen: qui ?."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Qui ? vient ?",
+        "translation": "Kommer hvem?",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Qui ? habite ici.",
+        "translation": "Hvem bor her.",
+        "lang": "fr"
+      }
+    ],
+    "frequency": 31
   },
   "quoi_interr_pron": {
     "word": "quoi ?",
@@ -505,7 +919,20 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk pronomen: quoi ?."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Quoi ? est mon ami.",
+        "translation": "Hva? er vennen min.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Quoi ? vient ?",
+        "translation": "Kommer hva??",
+        "lang": "fr"
+      }
+    ],
+    "frequency": 61
   },
   "se_reflex_pron": {
     "word": "se",
@@ -517,7 +944,19 @@
     "cefr": "A1",
     "explanation": {
       "_description": "Fransk pronomen: se."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Se est mon ami.",
+        "translation": "Seg er vennen min.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Se vient ?",
+        "translation": "Kommer seg?",
+        "lang": "fr"
+      }
+    ]
   },
   "son_possess_pron": {
     "word": "son/sa/ses",
@@ -528,7 +967,19 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk pronomen: son/sa/ses."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Son/sa/ses vient ?",
+        "translation": "Kommer hans?",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Son/sa/ses habite ici.",
+        "translation": "Hans bor her.",
+        "lang": "fr"
+      }
+    ]
   },
   "te_dirobj_pron": {
     "word": "te",
@@ -540,7 +991,19 @@
     "cefr": "A1",
     "explanation": {
       "_description": "Fransk pronomen: te."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Te vient ?",
+        "translation": "Kommer deg?",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Te habite ici.",
+        "translation": "Deg bor her.",
+        "lang": "fr"
+      }
+    ]
   },
   "te_indobj_pron": {
     "word": "te",
@@ -552,7 +1015,19 @@
     "cefr": "A1",
     "explanation": {
       "_description": "Fransk pronomen: te."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Te vient ?",
+        "translation": "Kommer deg?",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Te habite ici.",
+        "translation": "Deg bor her.",
+        "lang": "fr"
+      }
+    ]
   },
   "te_reflex_pron": {
     "word": "te",
@@ -564,7 +1039,19 @@
     "cefr": "A1",
     "explanation": {
       "_description": "Fransk pronomen: te."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Te vient ?",
+        "translation": "Kommer deg?",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Te habite ici.",
+        "translation": "Deg bor her.",
+        "lang": "fr"
+      }
+    ]
   },
   "toi_stressed_pron": {
     "word": "toi",
@@ -576,7 +1063,19 @@
     "cefr": "A1",
     "explanation": {
       "_description": "Fransk pronomen: toi."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Toi habite ici.",
+        "translation": "Deg bor her.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Toi est mon ami.",
+        "translation": "Deg er vennen min.",
+        "lang": "fr"
+      }
+    ]
   },
   "ton_possess_pron": {
     "word": "ton/ta/tes",
@@ -587,7 +1086,19 @@
     "cefr": "A1",
     "explanation": {
       "_description": "Fransk pronomen: ton/ta/tes."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Ton/ta/tes vient ?",
+        "translation": "Kommer din?",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Ton/ta/tes habite ici.",
+        "translation": "Din bor her.",
+        "lang": "fr"
+      }
+    ]
   },
   "tu_pron": {
     "word": "tu",
@@ -599,7 +1110,19 @@
     "cefr": "A1",
     "explanation": {
       "_description": "Fransk pronomen: tu."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Tu habite ici.",
+        "translation": "Du bor her.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Tu est mon ami.",
+        "translation": "Du er vennen min.",
+        "lang": "fr"
+      }
+    ]
   },
   "votre_possess_pron": {
     "word": "votre/vos",
@@ -610,7 +1133,19 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk pronomen: votre/vos."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Votre/vos est mon ami.",
+        "translation": "Deres er vennen min.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Votre/vos vient ?",
+        "translation": "Kommer deres?",
+        "lang": "fr"
+      }
+    ]
   },
   "vous_dirobj_pron": {
     "word": "vous",
@@ -622,7 +1157,19 @@
     "cefr": "A1",
     "explanation": {
       "_description": "Fransk pronomen: vous."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Vous habite ici.",
+        "translation": "Dere bor her.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Vous est mon ami.",
+        "translation": "Dere er vennen min.",
+        "lang": "fr"
+      }
+    ]
   },
   "vous_indobj_pron": {
     "word": "vous",
@@ -634,19 +1181,19 @@
     "cefr": "A1",
     "explanation": {
       "_description": "Fransk pronomen: vous."
-    }
-  },
-  "vous_pron": {
-    "word": "vous",
-    "type": "pron",
-    "_generatedFrom": "fr/banks",
-    "_enriched": true,
-    "audio": "ord_vous.mp3",
-    "frequency": 8,
-    "cefr": "A1",
-    "explanation": {
-      "_description": "Fransk pronomen: vous."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Vous habite ici.",
+        "translation": "Dere bor her.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Vous est mon ami.",
+        "translation": "Dere er vennen min.",
+        "lang": "fr"
+      }
+    ]
   },
   "vous_reflex_pron": {
     "word": "vous",
@@ -658,7 +1205,19 @@
     "cefr": "A1",
     "explanation": {
       "_description": "Fransk pronomen: vous."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Vous habite ici.",
+        "translation": "Dere bor her.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Vous est mon ami.",
+        "translation": "Dere er vennen min.",
+        "lang": "fr"
+      }
+    ]
   },
   "vous_stressed_pron": {
     "word": "vous",
@@ -670,6 +1229,18 @@
     "cefr": "A1",
     "explanation": {
       "_description": "Fransk pronomen: vous."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Vous habite ici.",
+        "translation": "Dere bor her.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Vous est mon ami.",
+        "translation": "Dere er vennen min.",
+        "lang": "fr"
+      }
+    ]
   }
 }

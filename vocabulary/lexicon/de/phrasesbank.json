@@ -22,6 +22,21 @@
     ],
     "acceptedForms": [
       "am haeufigsten"
+    ],
+    "explanation": {
+      "_description": "Tysk frase: am häufigsten."
+    },
+    "examples": [
+      {
+        "sentence": "Am häufigsten.",
+        "translation": "Oftest.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Sie sagt: „am häufigsten\".",
+        "translation": "Hun sier: «oftest».",
+        "lang": "de"
+      }
     ]
   },
   "am_meisten_phrase": {
@@ -36,6 +51,21 @@
     "_enriched": true,
     "typos": [
       "am miesten"
+    ],
+    "explanation": {
+      "_description": "Tysk frase: am meisten."
+    },
+    "examples": [
+      {
+        "sentence": "Am meisten.",
+        "translation": "Mest.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Sie sagt: „am meisten\".",
+        "translation": "Hun sier: «mest».",
+        "lang": "de"
+      }
     ]
   },
   "aus_dem_phrase": {
@@ -47,7 +77,22 @@
     "curriculum": true,
     "intro": "10.1",
     "_generatedFrom": "de/banks",
-    "_enriched": true
+    "_enriched": true,
+    "explanation": {
+      "_description": "Tysk frase: aus dem."
+    },
+    "examples": [
+      {
+        "sentence": "Aus dem.",
+        "translation": "Ut av.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Sie sagt: „aus dem\".",
+        "translation": "Hun sier: «ut av».",
+        "lang": "de"
+      }
+    ]
   },
   "mir_gehts_gut_phrase": {
     "word": "Mir geht's gut",
@@ -58,7 +103,22 @@
     "curriculum": true,
     "intro": "5.2",
     "_generatedFrom": "de/banks",
-    "_enriched": true
+    "_enriched": true,
+    "explanation": {
+      "_description": "Tysk frase: Mir geht's gut."
+    },
+    "examples": [
+      {
+        "sentence": "Mir geht's gut.",
+        "translation": "Det går bra med meg.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Sie sagt: „Mir geht's gut\".",
+        "translation": "Hun sier: «Det går bra med meg».",
+        "lang": "de"
+      }
+    ]
   },
   "nach_dem_phrase": {
     "word": "nach dem",
@@ -72,6 +132,21 @@
     "_enriched": true,
     "typos": [
       "nack dem"
+    ],
+    "explanation": {
+      "_description": "Tysk frase: nach dem."
+    },
+    "examples": [
+      {
+        "sentence": "Nach dem.",
+        "translation": "Etter.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Sie sagt: „nach dem\".",
+        "translation": "Hun sier: «etter».",
+        "lang": "de"
+      }
     ]
   },
   "seit_der_phrase": {
@@ -86,6 +161,21 @@
     "_enriched": true,
     "typos": [
       "siet der"
+    ],
+    "explanation": {
+      "_description": "Tysk frase: seit der."
+    },
+    "examples": [
+      {
+        "sentence": "Seit der.",
+        "translation": "Siden.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Sie sagt: „seit der\".",
+        "translation": "Hun sier: «siden».",
+        "lang": "de"
+      }
     ]
   },
   "vor_dem_phrase": {
@@ -100,6 +190,21 @@
     "_enriched": true,
     "typos": [
       "for dem"
+    ],
+    "explanation": {
+      "_description": "Tysk frase: vor dem."
+    },
+    "examples": [
+      {
+        "sentence": "Vor dem.",
+        "translation": "Foran.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Sie sagt: „vor dem\".",
+        "translation": "Hun sier: «foran».",
+        "lang": "de"
+      }
     ]
   },
   "wie_gehts_phrase": {
@@ -114,6 +219,21 @@
     "_enriched": true,
     "typos": [
       "Wei geht's"
+    ],
+    "explanation": {
+      "_description": "Tysk frase: Wie geht's."
+    },
+    "examples": [
+      {
+        "sentence": "Wie geht's.",
+        "translation": "Hvordan går det?.",
+        "lang": "de"
+      },
+      {
+        "sentence": "Sie sagt: „Wie geht's\".",
+        "translation": "Hun sier: «Hvordan går det?».",
+        "lang": "de"
+      }
     ]
   }
 }

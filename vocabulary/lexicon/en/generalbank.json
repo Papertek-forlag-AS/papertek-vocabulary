@@ -11,7 +11,8 @@
     "type": "adv",
     "_generatedFrom": "es-en/articlesbank.json:un_articulo, es-en/articlesbank.json:una_articulo",
     "_enriched": false,
-    "audio": "a_adv.mp3"
+    "audio": "a_adv.mp3",
+    "frequency": 5
   },
   "a_an_one_adv": {
     "word": "a; an; one",
@@ -25,7 +26,8 @@
     "type": "art",
     "_generatedFrom": "de-en/articlesbank.json:ein_art, de-en/articlesbank.json:eine_art, de-en/articlesbank.json:einen_art",
     "_enriched": false,
-    "audio": "a_art.mp3"
+    "audio": "a_art.mp3",
+    "frequency": 5
   },
   "a_few_adv": {
     "word": "a few",
@@ -73,28 +75,32 @@
     "type": "prep",
     "_generatedFrom": "es-en/generalbank.json:sobre_prep",
     "_enriched": false,
-    "audio": "about_prep.mp3"
+    "audio": "about_prep.mp3",
+    "frequency": 51
   },
   "about_what_adv": {
     "word": "about what",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:worueber_general",
     "_enriched": false,
-    "audio": "about_what_adv.mp3"
+    "audio": "about_what_adv.mp3",
+    "frequency": 51
   },
   "about_what_what_about_adv": {
     "word": "about what; what about",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:worum_general",
     "_enriched": false,
-    "audio": "about_what_what_about_adv.mp3"
+    "audio": "about_what_what_about_adv.mp3",
+    "frequency": 51
   },
   "above_adv": {
     "word": "above",
     "type": "adv",
     "_generatedFrom": "es-en/generalbank.json:arriba_adv",
     "_enriched": false,
-    "audio": "above_adv.mp3"
+    "audio": "above_adv.mp3",
+    "frequency": 1272
   },
   "above_all_especially_adv": {
     "word": "above all; especially",
@@ -104,35 +110,40 @@
     "typos": [
       "above al; especialy"
     ],
-    "audio": "above_all_especially_adv.mp3"
+    "audio": "above_all_especially_adv.mp3",
+    "frequency": 1272
   },
   "above_prep": {
     "word": "above",
     "type": "prep",
     "_generatedFrom": "de-en/generalbank.json:ueber_prep",
     "_enriched": false,
-    "audio": "above_prep.mp3"
+    "audio": "above_prep.mp3",
+    "frequency": 1272
   },
   "absent_adv": {
     "word": "absent",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:abwesend_general",
     "_enriched": false,
-    "audio": "absent_adv.mp3"
+    "audio": "absent_adv.mp3",
+    "frequency": 8554
   },
   "absolute_adv": {
     "word": "absolute",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:absolut_general",
     "_enriched": false,
-    "audio": "absolute_adv.mp3"
+    "audio": "absolute_adv.mp3",
+    "frequency": 3588
   },
   "absolutely_adv": {
     "word": "absolutely",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:unbedingt_adv",
     "_enriched": false,
-    "audio": "absolutely_adv.mp3"
+    "audio": "absolutely_adv.mp3",
+    "frequency": 693
   },
   "accessible_adv": {
     "word": "accessible",
@@ -142,14 +153,16 @@
     "typos": [
       "accesible"
     ],
-    "audio": "accessible_adv.mp3"
+    "audio": "accessible_adv.mp3",
+    "frequency": 16641
   },
   "according_to_prep": {
     "word": "according to",
     "type": "prep",
     "_generatedFrom": "es-en/generalbank.json:segun_prep",
     "_enriched": false,
-    "audio": "according_to_prep.mp3"
+    "audio": "according_to_prep.mp3",
+    "frequency": 1223
   },
   "across_diagonal_adv": {
     "word": "across; diagonal",
@@ -169,7 +182,8 @@
     "typos": [
       "actualy"
     ],
-    "audio": "actually_adv.mp3"
+    "audio": "actually_adv.mp3",
+    "frequency": 283
   },
   "actually_expr": {
     "word": "actually",
@@ -179,7 +193,8 @@
     "typos": [
       "actualy"
     ],
-    "audio": "actually_expr.mp3"
+    "audio": "actually_expr.mp3",
+    "frequency": 283
   },
   "additional_adv": {
     "word": "additional",
@@ -190,49 +205,56 @@
       "aditional",
       "addisional"
     ],
-    "audio": "additional_adv.mp3"
+    "audio": "additional_adv.mp3",
+    "frequency": 6663
   },
   "africa_propn": {
     "word": "Africa",
     "type": "propn",
     "_generatedFrom": "de-en/generalbank.json:afrika_propn",
     "_enriched": false,
-    "audio": "africa_propn.mp3"
+    "audio": "africa_propn.mp3",
+    "frequency": 2326
   },
   "after_adv": {
     "word": "after",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:nachdem_general, es-en/generalbank.json:despues_adv",
     "_enriched": false,
-    "audio": "after_adv.mp3"
+    "audio": "after_adv.mp3",
+    "frequency": 162
   },
   "after_phrase": {
     "word": "after",
     "type": "phrase",
     "_generatedFrom": "de-en/phrasesbank.json:nach_dem_phrase",
     "_enriched": false,
-    "audio": "after_phrase.mp3"
+    "audio": "after_phrase.mp3",
+    "frequency": 162
   },
   "after_prep": {
     "word": "after",
     "type": "prep",
     "_generatedFrom": "es-en/generalbank.json:tras_prep",
     "_enriched": false,
-    "audio": "after_prep.mp3"
+    "audio": "after_prep.mp3",
+    "frequency": 162
   },
   "after_school_phrase": {
     "word": "after school",
     "type": "phrase",
     "_generatedFrom": "de-en/generalbank.json:nach_der_schule_phrase",
     "_enriched": false,
-    "audio": "after_school_phrase.mp3"
+    "audio": "after_school_phrase.mp3",
+    "frequency": 162
   },
   "afterwards_adv": {
     "word": "afterwards",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:danach_adv, de-en/generalbank.json:nachher_general, es-en/generalbank.json:despues_adv",
     "_enriched": false,
-    "audio": "afterwards_adv.mp3"
+    "audio": "afterwards_adv.mp3",
+    "frequency": 2988
   },
   "afterwards_behind_adv": {
     "word": "afterwards; behind",
@@ -246,28 +268,32 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:wieder_adv",
     "_enriched": false,
-    "audio": "again_adv.mp3"
+    "audio": "again_adv.mp3",
+    "frequency": 154
   },
   "against_prep": {
     "word": "against",
     "type": "prep",
     "_generatedFrom": "de-en/generalbank.json:gegen_prep, es-en/generalbank.json:contra_prep",
     "_enriched": false,
-    "audio": "against_prep.mp3"
+    "audio": "against_prep.mp3",
+    "frequency": 435
   },
   "agreed_expr": {
     "word": "agreed",
     "type": "expr",
     "_generatedFrom": "es-en/generalbank.json:de_acuerdo_expr",
     "_enriched": false,
-    "audio": "agreed_expr.mp3"
+    "audio": "agreed_expr.mp3",
+    "frequency": 1411
   },
   "agreed_okay_phrase": {
     "word": "agreed, okay",
     "type": "phrase",
     "_generatedFrom": "es-en/phrasesbank.json:de_acuerdo_phrase",
     "_enriched": false,
-    "audio": "agreed_okay_phrase.mp3"
+    "audio": "agreed_okay_phrase.mp3",
+    "frequency": 1411
   },
   "ahead_in_advance_adv": {
     "word": "ahead; in advance",
@@ -287,7 +313,8 @@
     "typos": [
       "al"
     ],
-    "audio": "all_adv.mp3"
+    "audio": "all_adv.mp3",
+    "frequency": 37
   },
   "all_day_phrase": {
     "word": "all day",
@@ -297,7 +324,8 @@
     "typos": [
       "al day"
     ],
-    "audio": "all_day_phrase.mp3"
+    "audio": "all_day_phrase.mp3",
+    "frequency": 37
   },
   "all_entire_adv": {
     "word": "all; entire",
@@ -327,7 +355,8 @@
     "typos": [
       "al"
     ],
-    "audio": "all_pron.mp3"
+    "audio": "all_pron.mp3",
+    "frequency": 37
   },
   "all_right_ok_adv": {
     "word": "all right; OK",
@@ -337,7 +366,8 @@
     "typos": [
       "al right; OK"
     ],
-    "audio": "all_right_ok_adv.mp3"
+    "audio": "all_right_ok_adv.mp3",
+    "frequency": 37
   },
   "all_the_more_adv": {
     "word": "all the more",
@@ -347,7 +377,8 @@
     "typos": [
       "al the more"
     ],
-    "audio": "all_the_more_adv.mp3"
+    "audio": "all_the_more_adv.mp3",
+    "frequency": 37
   },
   "allowed_for_them_adv": {
     "word": "allowed for them",
@@ -357,77 +388,88 @@
     "typos": [
       "alowed for them"
     ],
-    "audio": "allowed_for_them_adv.mp3"
+    "audio": "allowed_for_them_adv.mp3",
+    "frequency": 1176
   },
   "almost_adv": {
     "word": "almost",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:beinahe_general, de-en/generalbank.json:fast_general, es-en/generalbank.json:casi_adv",
     "_enriched": false,
-    "audio": "almost_adv.mp3"
+    "audio": "almost_adv.mp3",
+    "frequency": 475
   },
   "alone_adv": {
     "word": "alone",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:allein_adv, de-en/generalbank.json:alleine_general",
     "_enriched": false,
-    "audio": "alone_adv.mp3"
+    "audio": "alone_adv.mp3",
+    "frequency": 326
   },
   "along_adv": {
     "word": "along",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:entlang_general",
     "_enriched": false,
-    "audio": "along_adv.mp3"
+    "audio": "along_adv.mp3",
+    "frequency": 531
   },
   "already_adv": {
     "word": "already",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:bereits_general, de-en/generalbank.json:schon_adv, es-en/generalbank.json:ya_adv",
     "_enriched": false,
-    "audio": "already_adv.mp3"
+    "audio": "already_adv.mp3",
+    "frequency": 277
   },
   "alright_interj": {
     "word": "Alright",
     "type": "interj",
     "_generatedFrom": "es-en/generalbank.json:vale_interj",
     "_enriched": false,
-    "audio": "alright_interj.mp3"
+    "audio": "alright_interj.mp3",
+    "frequency": 567
   },
   "also_adv": {
     "word": "also",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:auch_adv, es-en/generalbank.json:tambien_adv",
     "_enriched": false,
-    "audio": "also_adv.mp3"
+    "audio": "also_adv.mp3",
+    "frequency": 301
   },
   "alternative_adv": {
     "word": "alternative",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:alternativ_general",
     "_enriched": false,
-    "audio": "alternative_adv.mp3"
+    "audio": "alternative_adv.mp3",
+    "frequency": 4834
   },
   "although_adv": {
     "word": "although",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:obwohl_general",
     "_enriched": false,
-    "audio": "although_adv.mp3"
+    "audio": "although_adv.mp3",
+    "frequency": 1402
   },
   "although_conj": {
     "word": "although",
     "type": "conj",
     "_generatedFrom": "es-en/generalbank.json:aunque_conj",
     "_enriched": false,
-    "audio": "although_conj.mp3"
+    "audio": "although_conj.mp3",
+    "frequency": 1402
   },
   "always_adv": {
     "word": "always",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:immer_adv, es-en/generalbank.json:siempre_adv",
     "_enriched": false,
-    "audio": "always_adv.mp3"
+    "audio": "always_adv.mp3",
+    "frequency": 180
   },
   "an_adv": {
     "word": "an",
@@ -435,7 +477,8 @@
     "usageNotes": "masc.",
     "_generatedFrom": "es-en/articlesbank.json:un_articulo, es-en/articlesbank.json:una_articulo",
     "_enriched": false,
-    "audio": "an_adv.mp3"
+    "audio": "an_adv.mp3",
+    "frequency": 81
   },
   "an_elephant_phrase": {
     "word": "an elephant",
@@ -457,7 +500,8 @@
     "type": "conj",
     "_generatedFrom": "de-en/generalbank.json:und_conj, es-en/generalbank.json:y_conj",
     "_enriched": false,
-    "audio": "and_conj.mp3"
+    "audio": "and_conj.mp3",
+    "frequency": 8
   },
   "and_stuttgart_adv": {
     "word": "and Stuttgart",
@@ -467,21 +511,24 @@
     "typos": [
       "and Stutgart"
     ],
-    "audio": "and_stuttgart_adv.mp3"
+    "audio": "and_stuttgart_adv.mp3",
+    "frequency": 8
   },
   "and_you_phrase": {
     "word": "and you?",
     "type": "phrase",
     "_generatedFrom": "es-en/phrasesbank.json:y_tu_phrase",
     "_enriched": false,
-    "audio": "and_you_phrase.mp3"
+    "audio": "and_you_phrase.mp3",
+    "frequency": 8
   },
   "and_young_people_adv": {
     "word": "and young people",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:und_jugendliche_general",
     "_enriched": false,
-    "audio": "and_young_people_adv.mp3"
+    "audio": "and_young_people_adv.mp3",
+    "frequency": 8
   },
   "angry_furious_adv": {
     "word": "angry; furious",
@@ -512,28 +559,32 @@
     "type": "phrase",
     "_generatedFrom": "de-en/generalbank.json:ein_anderes_mal_phrase",
     "_enriched": false,
-    "audio": "another_time_phrase.mp3"
+    "audio": "another_time_phrase.mp3",
+    "frequency": 234
   },
   "anxious_adv": {
     "word": "anxious",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:aengstlich_general",
     "_enriched": false,
-    "audio": "anxious_adv.mp3"
+    "audio": "anxious_adv.mp3",
+    "frequency": 3985
   },
   "anyway_adv": {
     "word": "anyway",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:sowieso_general",
     "_enriched": false,
-    "audio": "anyway_adv.mp3"
+    "audio": "anyway_adv.mp3",
+    "frequency": 430
   },
   "apart_adv": {
     "word": "apart",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:auseinander_general",
     "_enriched": false,
-    "audio": "apart_adv.mp3"
+    "audio": "apart_adv.mp3",
+    "frequency": 1211
   },
   "apparently_obviously_adv": {
     "word": "apparently; obviously",
@@ -553,42 +604,48 @@
     "typos": [
       "aproximately"
     ],
-    "audio": "approximately_adv.mp3"
+    "audio": "approximately_adv.mp3",
+    "frequency": 5743
   },
   "are_phrase": {
     "word": "are",
     "type": "phrase",
     "_generatedFrom": "de-en/generalbank.json:es_gibt_phrase",
     "_enriched": false,
-    "audio": "are_phrase.mp3"
+    "audio": "are_phrase.mp3",
+    "frequency": 30
   },
   "are_unemployed_adv": {
     "word": "are unemployed",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:arbeitslos_sind_general",
     "_enriched": false,
-    "audio": "are_unemployed_adv.mp3"
+    "audio": "are_unemployed_adv.mp3",
+    "frequency": 30
   },
   "argentina_propn": {
     "word": "Argentina",
     "type": "propn",
     "_generatedFrom": "es-en/generalbank.json:argentina_propn",
     "_enriched": false,
-    "audio": "argentina_propn.mp3"
+    "audio": "argentina_propn.mp3",
+    "frequency": 9477
   },
   "around_prep": {
     "word": "around",
     "type": "prep",
     "_generatedFrom": "es-en/generalbank.json:alrededor_de_prep",
     "_enriched": false,
-    "audio": "around_prep.mp3"
+    "audio": "around_prep.mp3",
+    "frequency": 187
   },
   "artificial_adv": {
     "word": "artificial",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:kuenstlich_general",
     "_enriched": false,
-    "audio": "artificial_adv.mp3"
+    "audio": "artificial_adv.mp3",
+    "frequency": 6793
   },
   "as__as_phrase": {
     "word": "as ... as",
@@ -609,7 +666,8 @@
     "type": "conj",
     "_generatedFrom": "es-en/generalbank.json:como_conj",
     "_enriched": false,
-    "audio": "as_conj.mp3"
+    "audio": "as_conj.mp3",
+    "frequency": 68
   },
   "as_if_adv": {
     "word": "as if",
@@ -637,7 +695,8 @@
     "type": "propn",
     "_generatedFrom": "de-en/generalbank.json:asien_propn",
     "_enriched": false,
-    "audio": "asia_propn.mp3"
+    "audio": "asia_propn.mp3",
+    "frequency": 5865
   },
   "at_all_cooked_adv": {
     "word": "at all; cooked",
@@ -664,7 +723,8 @@
     "type": "contr",
     "_generatedFrom": "de-en/articlesbank.json:am_contr",
     "_enriched": false,
-    "audio": "at_contr.mp3"
+    "audio": "at_contr.mp3",
+    "frequency": 53
   },
   "at_home_adv": {
     "word": "at home",
@@ -720,7 +780,8 @@
     "type": "prep",
     "_generatedFrom": "de-en/generalbank.json:an_prep, de-en/generalbank.json:bei_prep, de-en/generalbank.json:um_prep, es-en/generalbank.json:a_prep",
     "_enriched": false,
-    "audio": "at_prep.mp3"
+    "audio": "at_prep.mp3",
+    "frequency": 53
   },
   "at_school_phrase": {
     "word": "at school",
@@ -803,21 +864,24 @@
     "typos": [
       "atentive"
     ],
-    "audio": "attentive_adv.mp3"
+    "audio": "attentive_adv.mp3",
+    "frequency": 17336
   },
   "austria_propn": {
     "word": "Austria",
     "type": "propn",
     "_generatedFrom": "de-en/generalbank.json:oesterreich_propn",
     "_enriched": false,
-    "audio": "austria_propn.mp3"
+    "audio": "austria_propn.mp3",
+    "frequency": 9637
   },
   "automatic_adv": {
     "word": "automatic",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:automatisch_general",
     "_enriched": false,
-    "audio": "automatic_adv.mp3"
+    "audio": "automatic_adv.mp3",
+    "frequency": 6407
   },
   "average_on_average_adv": {
     "word": "average; on average",
@@ -831,42 +895,48 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:zurueck_general, es-en/generalbank.json:atras_adv",
     "_enriched": false,
-    "audio": "back_adv.mp3"
+    "audio": "back_adv.mp3",
+    "frequency": 83
   },
   "back_left_adv": {
     "word": "back left",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:hinten_links_general",
     "_enriched": false,
-    "audio": "back_left_adv.mp3"
+    "audio": "back_left_adv.mp3",
+    "frequency": 83
   },
   "backward_adv": {
     "word": "backward",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:rueckwaerts_general",
     "_enriched": false,
-    "audio": "backward_adv.mp3"
+    "audio": "backward_adv.mp3",
+    "frequency": 11680
   },
   "bad_adv": {
     "word": "bad",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:schlecht_general",
     "_enriched": false,
-    "audio": "bad_adv.mp3"
+    "audio": "bad_adv.mp3",
+    "frequency": 229
   },
   "badly_adv": {
     "word": "badly",
     "type": "adv",
     "_generatedFrom": "es-en/generalbank.json:mal_adv",
     "_enriched": false,
-    "audio": "badly_adv.mp3"
+    "audio": "badly_adv.mp3",
+    "frequency": 2086
   },
   "barcelona_propn": {
     "word": "Barcelona",
     "type": "propn",
     "_generatedFrom": "es-en/generalbank.json:barcelona_propn",
     "_enriched": false,
-    "audio": "barcelona_propn.mp3"
+    "audio": "barcelona_propn.mp3",
+    "frequency": 10119
   },
   "be_closed_adv": {
     "word": "to be closed",
@@ -935,28 +1005,32 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:weil_general",
     "_enriched": false,
-    "audio": "because_adv.mp3"
+    "audio": "because_adv.mp3",
+    "frequency": 120
   },
   "because_conj": {
     "word": "because",
     "type": "conj",
     "_generatedFrom": "de-en/generalbank.json:denn_conj, es-en/generalbank.json:porque_conj",
     "_enriched": false,
-    "audio": "because_conj.mp3"
+    "audio": "because_conj.mp3",
+    "frequency": 120
   },
   "because_of_prep": {
     "word": "because of",
     "type": "prep",
     "_generatedFrom": "es-en/generalbank.json:por_prep",
     "_enriched": false,
-    "audio": "because_of_prep.mp3"
+    "audio": "because_of_prep.mp3",
+    "frequency": 120
   },
   "before_adv": {
     "word": "before",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:bevor_general, es-en/generalbank.json:antes_adv",
     "_enriched": false,
-    "audio": "before_adv.mp3"
+    "audio": "before_adv.mp3",
+    "frequency": 157
   },
   "before_beforehand_adv": {
     "word": "before; beforehand",
@@ -971,42 +1045,48 @@
     "usageNotes": "with neuter noun",
     "_generatedFrom": "de-en/phrasesbank.json:vor_dem_phrase",
     "_enriched": false,
-    "audio": "before_phrase.mp3"
+    "audio": "before_phrase.mp3",
+    "frequency": 157
   },
   "before_prep": {
     "word": "before",
     "type": "prep",
     "_generatedFrom": "de-en/generalbank.json:vor_prep, es-en/generalbank.json:ante_prep",
     "_enriched": false,
-    "audio": "before_prep.mp3"
+    "audio": "before_prep.mp3",
+    "frequency": 157
   },
   "behind_adv": {
     "word": "behind",
     "type": "adv",
     "_generatedFrom": "es-en/generalbank.json:atras_adv",
     "_enriched": false,
-    "audio": "behind_adv.mp3"
+    "audio": "behind_adv.mp3",
+    "frequency": 474
   },
   "behind_prep": {
     "word": "behind",
     "type": "prep",
     "_generatedFrom": "de-en/generalbank.json:hinter_prep, es-en/generalbank.json:tras_prep, es-en/generalbank.json:detras_de_prep",
     "_enriched": false,
-    "audio": "behind_prep.mp3"
+    "audio": "behind_prep.mp3",
+    "frequency": 474
   },
   "below_adv": {
     "word": "below",
     "type": "adv",
     "_generatedFrom": "es-en/generalbank.json:abajo_adv",
     "_enriched": false,
-    "audio": "below_adv.mp3"
+    "audio": "below_adv.mp3",
+    "frequency": 2161
   },
   "below_prep": {
     "word": "below",
     "type": "prep",
     "_generatedFrom": "de-en/generalbank.json:unter_prep",
     "_enriched": false,
-    "audio": "below_prep.mp3"
+    "audio": "below_prep.mp3",
+    "frequency": 2161
   },
   "besides_moreover_adv": {
     "word": "besides; moreover",
@@ -1020,7 +1100,8 @@
     "type": "phrase",
     "_generatedFrom": "es-en/generalbank.json:ademas_phrase",
     "_enriched": false,
-    "audio": "besides_phrase.mp3"
+    "audio": "besides_phrase.mp3",
+    "frequency": 1013
   },
   "better_adv": {
     "word": "better",
@@ -1030,14 +1111,16 @@
     "typos": [
       "beter"
     ],
-    "audio": "better_adv.mp3"
+    "audio": "better_adv.mp3",
+    "frequency": 174
   },
   "between_prep": {
     "word": "between",
     "type": "prep",
     "_generatedFrom": "de-en/generalbank.json:zwischen_prep, es-en/generalbank.json:entre_prep",
     "_enriched": false,
-    "audio": "between_prep.mp3"
+    "audio": "between_prep.mp3",
+    "frequency": 468
   },
   "bitter_adv": {
     "word": "bitter",
@@ -1047,7 +1130,8 @@
     "typos": [
       "biter"
     ],
-    "audio": "bitter_adv.mp3"
+    "audio": "bitter_adv.mp3",
+    "frequency": 3821
   },
   "bless_you_interj": {
     "word": "Bless you!",
@@ -1057,7 +1141,8 @@
     "typos": [
       "Bles you!"
     ],
-    "audio": "bless_you_interj.mp3"
+    "audio": "bless_you_interj.mp3",
+    "frequency": 1960
   },
   "bless_you_phrase": {
     "word": "bless you!",
@@ -1067,14 +1152,16 @@
     "typos": [
       "bles you!"
     ],
-    "audio": "bless_you_phrase.mp3"
+    "audio": "bless_you_phrase.mp3",
+    "frequency": 1960
   },
   "blind_adv": {
     "word": "blind",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:blind_general",
     "_enriched": false,
-    "audio": "blind_adv.mp3"
+    "audio": "blind_adv.mp3",
+    "frequency": 1436
   },
   "bon_apptit_phrase": {
     "word": "bon appétit",
@@ -1084,28 +1171,32 @@
     "typos": [
       "bon apétit"
     ],
-    "audio": "bon_apptit_phrase.mp3"
+    "audio": "bon_apptit_phrase.mp3",
+    "frequency": 5910
   },
   "both__and_conj": {
     "word": "both ... and",
     "type": "conj",
     "_generatedFrom": "es-en/generalbank.json:tanto_como_conj",
     "_enriched": false,
-    "audio": "both__and_conj.mp3"
+    "audio": "both__and_conj.mp3",
+    "frequency": 286
   },
   "both_adv": {
     "word": "both",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:beid_general, de-en/generalbank.json:beides_adv",
     "_enriched": false,
-    "audio": "both_adv.mp3"
+    "audio": "both_adv.mp3",
+    "frequency": 286
   },
   "both_pron": {
     "word": "both",
     "type": "pron",
     "_generatedFrom": "de-en/pronounsbank.json:beide_pron",
     "_enriched": false,
-    "audio": "both_pron.mp3"
+    "audio": "both_pron.mp3",
+    "frequency": 286
   },
   "brave_courageous_adv": {
     "word": "brave; courageous",
@@ -1126,14 +1217,16 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:kaputt_general",
     "_enriched": false,
-    "audio": "broken_adv.mp3"
+    "audio": "broken_adv.mp3",
+    "frequency": 969
   },
   "but_conj": {
     "word": "but",
     "type": "conj",
     "_generatedFrom": "de-en/generalbank.json:aber_conj, es-en/generalbank.json:pero_conj",
     "_enriched": false,
-    "audio": "but_conj.mp3"
+    "audio": "but_conj.mp3",
+    "frequency": 36
   },
   "but_however_yes_adv": {
     "word": "but; however; yes",
@@ -1148,7 +1241,8 @@
     "type": "conj",
     "_generatedFrom": "es-en/generalbank.json:sino_conj",
     "_enriched": false,
-    "audio": "but_rather_conj.mp3"
+    "audio": "but_rather_conj.mp3",
+    "frequency": 36
   },
   "by_bus_expr": {
     "word": "by bus",
@@ -1204,7 +1298,8 @@
     "type": "prep",
     "_generatedFrom": "de-en/generalbank.json:bei_prep",
     "_enriched": false,
-    "audio": "by_prep.mp3"
+    "audio": "by_prep.mp3",
+    "frequency": 106
   },
   "by_the_way_adv": {
     "word": "by the way",
@@ -1225,7 +1320,8 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:tschues_general, de-en/generalbank.json:tschuess_general",
     "_enriched": false,
-    "audio": "bye_adv.mp3"
+    "audio": "bye_adv.mp3",
+    "frequency": 510
   },
   "bye_interj": {
     "word": "Bye!",
@@ -1239,7 +1335,8 @@
     "type": "phrase",
     "_generatedFrom": "es-en/generalbank.json:puede_repetir_phrase, es-en/phrasesbank.json:puede_repetir_phrase",
     "_enriched": false,
-    "audio": "can_you_repeat_phrase.mp3"
+    "audio": "can_you_repeat_phrase.mp3",
+    "frequency": 34
   },
   "careful_cautious_adv": {
     "word": "careful; cautious",
@@ -1260,21 +1357,24 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:zentral_general",
     "_enriched": false,
-    "audio": "central_adv.mp3"
+    "audio": "central_adv.mp3",
+    "frequency": 2206
   },
   "certainly_adv": {
     "word": "certainly",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:bestimmt_adv",
     "_enriched": false,
-    "audio": "certainly_adv.mp3"
+    "audio": "certainly_adv.mp3",
+    "frequency": 782
   },
   "cheap_adv": {
     "word": "cheap",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:billig_general",
     "_enriched": false,
-    "audio": "cheap_adv.mp3"
+    "audio": "cheap_adv.mp3",
+    "frequency": 1978
   },
   "cheers_interj": {
     "word": "Cheers!",
@@ -1295,7 +1395,8 @@
     "type": "propn",
     "_generatedFrom": "es-en/generalbank.json:chile_propn",
     "_enriched": false,
-    "audio": "chile_propn.mp3"
+    "audio": "chile_propn.mp3",
+    "frequency": 11442
   },
   "clear_distinct_adv": {
     "word": "clear; distinct",
@@ -1316,7 +1417,8 @@
     "type": "adv",
     "_generatedFrom": "es-en/generalbank.json:claramente_adv",
     "_enriched": false,
-    "audio": "clearly_adv.mp3"
+    "audio": "clearly_adv.mp3",
+    "frequency": 1409
   },
   "clever_smart_adv": {
     "word": "clever; smart",
@@ -1330,56 +1432,64 @@
     "type": "prep",
     "_generatedFrom": "es-en/generalbank.json:cerca_de_prep",
     "_enriched": false,
-    "audio": "close_to_prep.mp3"
+    "audio": "close_to_prep.mp3",
+    "frequency": 431
   },
   "colombia_propn": {
     "word": "Colombia",
     "type": "propn",
     "_generatedFrom": "es-en/generalbank.json:colombia_propn",
     "_enriched": false,
-    "audio": "colombia_propn.mp3"
+    "audio": "colombia_propn.mp3",
+    "frequency": 12395
   },
   "colourful_adv": {
     "word": "colourful",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:farbig_general",
     "_enriched": false,
-    "audio": "colourful_adv.mp3"
+    "audio": "colourful_adv.mp3",
+    "frequency": 15644
   },
   "comfortable_adv": {
     "word": "comfortable",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:bequem_general",
     "_enriched": false,
-    "audio": "comfortable_adv.mp3"
+    "audio": "comfortable_adv.mp3",
+    "frequency": 1612
   },
   "coming_right_away_adv": {
     "word": "coming right away",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:komme_gleich_general",
     "_enriched": false,
-    "audio": "coming_right_away_adv.mp3"
+    "audio": "coming_right_away_adv.mp3",
+    "frequency": 212
   },
   "complete_adv": {
     "word": "complete",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:komplett_general",
     "_enriched": false,
-    "audio": "complete_adv.mp3"
+    "audio": "complete_adv.mp3",
+    "frequency": 1279
   },
   "completely_adv": {
     "word": "completely",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:voellig_general, es-en/generalbank.json:completamente_adv",
     "_enriched": false,
-    "audio": "completely_adv.mp3"
+    "audio": "completely_adv.mp3",
+    "frequency": 770
   },
   "complicated_adv": {
     "word": "complicated",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:kompliziert_general",
     "_enriched": false,
-    "audio": "complicated_adv.mp3"
+    "audio": "complicated_adv.mp3",
+    "frequency": 1974
   },
   "congratulations_interj": {
     "word": "Congratulations!",
@@ -1399,14 +1509,16 @@
     "typos": [
       "congratulasions"
     ],
-    "audio": "congratulations_phrase.mp3"
+    "audio": "congratulations_phrase.mp3",
+    "frequency": 1044
   },
   "constantly_adv": {
     "word": "constantly",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:dauernd_general, de-en/generalbank.json:staendig_general",
     "_enriched": false,
-    "audio": "constantly_adv.mp3"
+    "audio": "constantly_adv.mp3",
+    "frequency": 3832
   },
   "correct_adv": {
     "word": "correct",
@@ -1416,14 +1528,16 @@
     "typos": [
       "corect"
     ],
-    "audio": "correct_adv.mp3"
+    "audio": "correct_adv.mp3",
+    "frequency": 1418
   },
   "crazy_adv": {
     "word": "crazy",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:verrueckt_general",
     "_enriched": false,
-    "audio": "crazy_adv.mp3"
+    "audio": "crazy_adv.mp3",
+    "frequency": 389
   },
   "crazy_insane_adv": {
     "word": "crazy; insane",
@@ -1437,7 +1551,8 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:kritisch_general",
     "_enriched": false,
-    "audio": "critical_adv.mp3"
+    "audio": "critical_adv.mp3",
+    "frequency": 3891
   },
   "crooked_wrong_adv": {
     "word": "crooked; wrong",
@@ -1451,21 +1566,24 @@
     "type": "propn",
     "_generatedFrom": "es-en/generalbank.json:cuba_propn",
     "_enriched": false,
-    "audio": "cuba_propn.mp3"
+    "audio": "cuba_propn.mp3",
+    "frequency": 6093
   },
   "cultural_adv": {
     "word": "cultural",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:kulturell_general",
     "_enriched": false,
-    "audio": "cultural_adv.mp3"
+    "audio": "cultural_adv.mp3",
+    "frequency": 6061
   },
   "curious_adv": {
     "word": "curious",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:neugierig_general",
     "_enriched": false,
-    "audio": "curious_adv.mp3"
+    "audio": "curious_adv.mp3",
+    "frequency": 2272
   },
   "current_adv": {
     "word": "current",
@@ -1475,7 +1593,8 @@
     "typos": [
       "curent"
     ],
-    "audio": "current_adv.mp3"
+    "audio": "current_adv.mp3",
+    "frequency": 2619
   },
   "cycle_phrase": {
     "word": "to cycle",
@@ -1496,14 +1615,16 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:dunkel_general",
     "_enriched": false,
-    "audio": "dark_adv.mp3"
+    "audio": "dark_adv.mp3",
+    "frequency": 762
   },
   "dead_adv": {
     "word": "dead",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:tot_general",
     "_enriched": false,
-    "audio": "dead_adv.mp3"
+    "audio": "dead_adv.mp3",
+    "frequency": 256
   },
   "deadly_fatal_adv": {
     "word": "deadly; fatal",
@@ -1517,7 +1638,8 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:taub_general",
     "_enriched": false,
-    "audio": "deaf_adv.mp3"
+    "audio": "deaf_adv.mp3",
+    "frequency": 3537
   },
   "dear_nice_adv": {
     "word": "dear; nice",
@@ -1538,7 +1660,8 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:bestimmt_adv",
     "_enriched": false,
-    "audio": "definitely_adv.mp3"
+    "audio": "definitely_adv.mp3",
+    "frequency": 780
   },
   "dense_tight_adv": {
     "word": "dense; tight",
@@ -1552,7 +1675,8 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:abhaengig_general",
     "_enriched": false,
-    "audio": "dependent_adv.mp3"
+    "audio": "dependent_adv.mp3",
+    "frequency": 10330
   },
   "despite_in_spite_of_adv": {
     "word": "despite; in spite of",
@@ -1579,28 +1703,32 @@
     "typos": [
       "diferently"
     ],
-    "audio": "differently_adv.mp3"
+    "audio": "differently_adv.mp3",
+    "frequency": 3955
   },
   "digital_adv": {
     "word": "digital",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:digital_general",
     "_enriched": false,
-    "audio": "digital_adv.mp3"
+    "audio": "digital_adv.mp3",
+    "frequency": 6322
   },
   "direct_adv": {
     "word": "direct",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:direkt_general",
     "_enriched": false,
-    "audio": "direct_adv.mp3"
+    "audio": "direct_adv.mp3",
+    "frequency": 2407
   },
   "dirty_adv": {
     "word": "dirty",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:schmutzig_general",
     "_enriched": false,
-    "audio": "dirty_adv.mp3"
+    "audio": "dirty_adv.mp3",
+    "frequency": 1105
   },
   "dismissed_terminated_adv": {
     "word": "dismissed; terminated",
@@ -1631,28 +1759,32 @@
     "type": "phrase",
     "_generatedFrom": "de-en/generalbank.json:passt_es_phrase",
     "_enriched": false,
-    "audio": "does_it_suit_you_phrase.mp3"
+    "audio": "does_it_suit_you_phrase.mp3",
+    "frequency": 185
   },
   "double_adv": {
     "word": "double",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:doppelt_general",
     "_enriched": false,
-    "audio": "double_adv.mp3"
+    "audio": "double_adv.mp3",
+    "frequency": 1295
   },
   "down_adv": {
     "word": "down",
     "type": "adv",
     "_generatedFrom": "es-en/generalbank.json:abajo_adv",
     "_enriched": false,
-    "audio": "down_adv.mp3"
+    "audio": "down_adv.mp3",
+    "frequency": 113
   },
   "downward_adv": {
     "word": "downward",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:abwaerts_general",
     "_enriched": false,
-    "audio": "downward_adv.mp3"
+    "audio": "downward_adv.mp3",
+    "frequency": 17304
   },
   "dress_warmly_phrase": {
     "word": "to dress warmly",
@@ -1669,7 +1801,8 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:faellig_general",
     "_enriched": false,
-    "audio": "due_adv.mp3"
+    "audio": "due_adv.mp3",
+    "frequency": 1417
   },
   "durable_longlasting_adv": {
     "word": "durable; long-lasting",
@@ -1683,14 +1816,16 @@
     "type": "prep",
     "_generatedFrom": "es-en/generalbank.json:durante_prep",
     "_enriched": false,
-    "audio": "during_prep.mp3"
+    "audio": "during_prep.mp3",
+    "frequency": 755
   },
   "during_the_day_adv": {
     "word": "during the day",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:tagsueber_adv",
     "_enriched": false,
-    "audio": "during_the_day_adv.mp3"
+    "audio": "during_the_day_adv.mp3",
+    "frequency": 755
   },
   "during_while_adv": {
     "word": "during; while",
@@ -1718,7 +1853,8 @@
     "type": "pron",
     "_generatedFrom": "de-en/pronounsbank.json:einander_pron",
     "_enriched": false,
-    "audio": "each_other_pron.mp3"
+    "audio": "each_other_pron.mp3",
+    "frequency": 361
   },
   "each_pron": {
     "word": "each",
@@ -1726,7 +1862,8 @@
     "usageNotes": "neuter",
     "_generatedFrom": "de-en/pronounsbank.json:jedes_pron",
     "_enriched": false,
-    "audio": "each_pron.mp3"
+    "audio": "each_pron.mp3",
+    "frequency": 361
   },
   "earlier_in_the_past_adv": {
     "word": "earlier; in the past",
@@ -1743,7 +1880,8 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:frueh_adv, es-en/generalbank.json:temprano_adv",
     "_enriched": false,
-    "audio": "early_adv.mp3"
+    "audio": "early_adv.mp3",
+    "frequency": 694
   },
   "eight_num": {
     "word": "eight",
@@ -1753,7 +1891,8 @@
     "typos": [
       "ieght"
     ],
-    "audio": "eight_num.mp3"
+    "audio": "eight_num.mp3",
+    "frequency": 895
   },
   "eighteen_num": {
     "word": "eighteen",
@@ -1763,7 +1902,8 @@
     "typos": [
       "ieghteen"
     ],
-    "audio": "eighteen_num.mp3"
+    "audio": "eighteen_num.mp3",
+    "frequency": 7843
   },
   "eighty_num": {
     "word": "eighty",
@@ -1773,42 +1913,48 @@
     "typos": [
       "ieghty"
     ],
-    "audio": "eighty_num.mp3"
+    "audio": "eighty_num.mp3",
+    "frequency": 11699
   },
   "either_adv": {
     "word": "either",
     "type": "adv",
     "_generatedFrom": "es-en/generalbank.json:tampoco_adv",
     "_enriched": false,
-    "audio": "either_adv.mp3"
+    "audio": "either_adv.mp3",
+    "frequency": 506
   },
   "electric_adv": {
     "word": "electric",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:elektrisch_general",
     "_enriched": false,
-    "audio": "electric_adv.mp3"
+    "audio": "electric_adv.mp3",
+    "frequency": 3258
   },
   "electronic_adv": {
     "word": "electronic",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:elektronisch_general",
     "_enriched": false,
-    "audio": "electronic_adv.mp3"
+    "audio": "electronic_adv.mp3",
+    "frequency": 4570
   },
   "elegant_adv": {
     "word": "elegant",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:elegant_general",
     "_enriched": false,
-    "audio": "elegant_adv.mp3"
+    "audio": "elegant_adv.mp3",
+    "frequency": 5876
   },
   "eleven_num": {
     "word": "eleven",
     "type": "num",
     "_generatedFrom": "de-en/numbersbank.json:elf_num, es-en/numbersbank.json:once_num",
     "_enriched": false,
-    "audio": "eleven_num.mp3"
+    "audio": "eleven_num.mp3",
+    "frequency": 4903
   },
   "embarrassing_adv": {
     "word": "embarrassing",
@@ -1818,7 +1964,8 @@
     "typos": [
       "embarasing"
     ],
-    "audio": "embarrassing_adv.mp3"
+    "audio": "embarrassing_adv.mp3",
+    "frequency": 2720
   },
   "employed_working_adv": {
     "word": "employed; working",
@@ -1832,21 +1979,24 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:leer_general",
     "_enriched": false,
-    "audio": "empty_adv.mp3"
+    "audio": "empty_adv.mp3",
+    "frequency": 1299
   },
   "enjoy_your_meal_phrase": {
     "word": "Enjoy your meal!",
     "type": "phrase",
     "_generatedFrom": "es-en/generalbank.json:buen_provecho_phrase, es-en/phrasesbank.json:buen_provecho_phrase",
     "_enriched": false,
-    "audio": "enjoy_your_meal_phrase.mp3"
+    "audio": "enjoy_your_meal_phrase.mp3",
+    "frequency": 866
   },
   "enough_adv": {
     "word": "enough",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:genug_general, es-en/generalbank.json:bastante_adv",
     "_enriched": false,
-    "audio": "enough_adv.mp3"
+    "audio": "enough_adv.mp3",
+    "frequency": 222
   },
   "equal_with_equal_rights_adv": {
     "word": "equal; with equal rights",
@@ -1873,7 +2023,8 @@
     "typos": [
       "especialy"
     ],
-    "audio": "especially_adv.mp3"
+    "audio": "especially_adv.mp3",
+    "frequency": 996
   },
   "eternal_forever_adv": {
     "word": "eternal; forever",
@@ -1887,21 +2038,24 @@
     "type": "propn",
     "_generatedFrom": "es-en/generalbank.json:europa_propn",
     "_enriched": false,
-    "audio": "europe_propn.mp3"
+    "audio": "europe_propn.mp3",
+    "frequency": 1931
   },
   "even_adv": {
     "word": "even",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:sogar_general, es-en/generalbank.json:aun_adv",
     "_enriched": false,
-    "audio": "even_adv.mp3"
+    "audio": "even_adv.mp3",
+    "frequency": 134
   },
   "ever_adv": {
     "word": "ever",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:jemals_general",
     "_enriched": false,
-    "audio": "ever_adv.mp3"
+    "audio": "ever_adv.mp3",
+    "frequency": 191
   },
   "ever_each_adv": {
     "word": "ever; each",
@@ -1915,42 +2069,48 @@
     "type": "expr",
     "_generatedFrom": "es-en/generalbank.json:cada_dia_expr, es-en/generalbank.json:todos_los_dias_expr",
     "_enriched": false,
-    "audio": "every_day_expr.mp3"
+    "audio": "every_day_expr.mp3",
+    "frequency": 214
   },
   "every_day_phrase": {
     "word": "every day",
     "type": "phrase",
     "_generatedFrom": "de-en/generalbank.json:jeden_tag_phrase",
     "_enriched": false,
-    "audio": "every_day_phrase.mp3"
+    "audio": "every_day_phrase.mp3",
+    "frequency": 214
   },
   "everyone_pron": {
     "word": "everyone",
     "type": "pron",
     "_generatedFrom": "de-en/pronounsbank.json:alle_pron",
     "_enriched": false,
-    "audio": "everyone_pron.mp3"
+    "audio": "everyone_pron.mp3",
+    "frequency": 321
   },
   "everything_pron": {
     "word": "everything",
     "type": "pron",
     "_generatedFrom": "de-en/pronounsbank.json:alles_pron",
     "_enriched": false,
-    "audio": "everything_pron.mp3"
+    "audio": "everything_pron.mp3",
+    "frequency": 175
   },
   "everywhere_adv": {
     "word": "everywhere",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:ueberall_adv",
     "_enriched": false,
-    "audio": "everywhere_adv.mp3"
+    "audio": "everywhere_adv.mp3",
+    "frequency": 1137
   },
   "exactly_adv": {
     "word": "exactly",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:genau_adv, es-en/generalbank.json:exactamente_adv",
     "_enriched": false,
-    "audio": "exactly_adv.mp3"
+    "audio": "exactly_adv.mp3",
+    "frequency": 384
   },
   "except_besides_adv": {
     "word": "except; besides",
@@ -1964,21 +2124,24 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:aufregend_general",
     "_enriched": false,
-    "audio": "exciting_adv.mp3"
+    "audio": "exciting_adv.mp3",
+    "frequency": 1870
   },
   "exclusively_adv": {
     "word": "exclusively",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:ausschliesslich_general",
     "_enriched": false,
-    "audio": "exclusively_adv.mp3"
+    "audio": "exclusively_adv.mp3",
+    "frequency": 12405
   },
   "excuse_me_interj": {
     "word": "Excuse me",
     "type": "interj",
     "_generatedFrom": "es-en/generalbank.json:perdon_interj",
     "_enriched": false,
-    "audio": "excuse_me_interj.mp3"
+    "audio": "excuse_me_interj.mp3",
+    "frequency": 351
   },
   "excuse_me_phrase": {
     "word": "excuse me",
@@ -1986,63 +2149,72 @@
     "usageNotes": "formal",
     "_generatedFrom": "es-en/phrasesbank.json:disculpe_phrase, es-en/phrasesbank.json:con_permiso_phrase",
     "_enriched": false,
-    "audio": "excuse_me_phrase.mp3"
+    "audio": "excuse_me_phrase.mp3",
+    "frequency": 351
   },
   "external_adv": {
     "word": "external",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:aeusserlich_general",
     "_enriched": false,
-    "audio": "external_adv.mp3"
+    "audio": "external_adv.mp3",
+    "frequency": 9931
   },
   "extra_adv": {
     "word": "extra",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:extra_general",
     "_enriched": false,
-    "audio": "extra_adv.mp3"
+    "audio": "extra_adv.mp3",
+    "frequency": 1329
   },
   "extreme_adv": {
     "word": "extreme",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:extrem_general",
     "_enriched": false,
-    "audio": "extreme_adv.mp3"
+    "audio": "extreme_adv.mp3",
+    "frequency": 3554
   },
   "fair_adv": {
     "word": "fair",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:fair_general",
     "_enriched": false,
-    "audio": "fair_adv.mp3"
+    "audio": "fair_adv.mp3",
+    "frequency": 841
   },
   "famous_adv": {
     "word": "famous",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:beruehmt_general",
     "_enriched": false,
-    "audio": "famous_adv.mp3"
+    "audio": "famous_adv.mp3",
+    "frequency": 1353
   },
   "fantastic_adv": {
     "word": "fantastic",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:fantastisch_general",
     "_enriched": false,
-    "audio": "fantastic_adv.mp3"
+    "audio": "fantastic_adv.mp3",
+    "frequency": 1530
   },
   "far_from_prep": {
     "word": "far from",
     "type": "prep",
     "_generatedFrom": "es-en/generalbank.json:lejos_de_prep",
     "_enriched": false,
-    "audio": "far_from_prep.mp3"
+    "audio": "far_from_prep.mp3",
+    "frequency": 399
   },
   "fast_adv": {
     "word": "fast",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:schnell_adv, es-en/generalbank.json:rapido_adv",
     "_enriched": false,
-    "audio": "fast_adv.mp3"
+    "audio": "fast_adv.mp3",
+    "frequency": 624
   },
   "fat_greasy_adv": {
     "word": "fat; greasy",
@@ -2056,7 +2228,8 @@
     "type": "expr",
     "_generatedFrom": "de-en/generalbank.json:lieblings-_expr",
     "_enriched": false,
-    "audio": "favorite_expr.mp3"
+    "audio": "favorite_expr.mp3",
+    "frequency": 1250
   },
   "favourable_cheap_adv": {
     "word": "favourable; cheap",
@@ -2077,7 +2250,8 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:fuehlt_hat_gefuehlt_general",
     "_enriched": false,
-    "audio": "feels_has_felt_adv.mp3"
+    "audio": "feels_has_felt_adv.mp3",
+    "frequency": 954
   },
   "female_feminine_adv": {
     "word": "female; feminine",
@@ -2091,21 +2265,24 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:wenig_adv",
     "_enriched": false,
-    "audio": "few_adv.mp3"
+    "audio": "few_adv.mp3",
+    "frequency": 339
   },
   "fifteen_num": {
     "word": "fifteen",
     "type": "num",
     "_generatedFrom": "de-en/numbersbank.json:fuenfzehn_num, es-en/numbersbank.json:quince_num",
     "_enriched": false,
-    "audio": "fifteen_num.mp3"
+    "audio": "fifteen_num.mp3",
+    "frequency": 3877
   },
   "fifty_num": {
     "word": "fifty",
     "type": "num",
     "_generatedFrom": "de-en/numbersbank.json:fuenfzig_num",
     "_enriched": false,
-    "audio": "fifty_num.mp3"
+    "audio": "fifty_num.mp3",
+    "frequency": 3530
   },
   "finally_adv": {
     "word": "finally",
@@ -2115,7 +2292,8 @@
     "typos": [
       "finaly"
     ],
-    "audio": "finally_adv.mp3"
+    "audio": "finally_adv.mp3",
+    "frequency": 622
   },
   "finally_after_all_adv": {
     "word": "finally; after all",
@@ -2135,21 +2313,24 @@
     "typos": [
       "finaly"
     ],
-    "audio": "finally_expr.mp3"
+    "audio": "finally_expr.mp3",
+    "frequency": 622
   },
   "financial_adv": {
     "word": "financial",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:finanziell_general",
     "_enriched": false,
-    "audio": "financial_adv.mp3"
+    "audio": "financial_adv.mp3",
+    "frequency": 3061
   },
   "fine_thanks_phrase": {
     "word": "fine, thanks",
     "type": "phrase",
     "_generatedFrom": "es-en/phrasesbank.json:bien_gracias_phrase",
     "_enriched": false,
-    "audio": "fine_thanks_phrase.mp3"
+    "audio": "fine_thanks_phrase.mp3",
+    "frequency": 208
   },
   "finish_phrase": {
     "word": "to finish",
@@ -2163,7 +2344,8 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:zuerst_adv, es-en/generalbank.json:primero_adv",
     "_enriched": false,
-    "audio": "first_adv.mp3"
+    "audio": "first_adv.mp3",
+    "frequency": 141
   },
   "first_initially_adv": {
     "word": "first; initially",
@@ -2180,7 +2362,8 @@
     "type": "num",
     "_generatedFrom": "de-en/numbersbank.json:erste_num",
     "_enriched": false,
-    "audio": "first_num.mp3"
+    "audio": "first_num.mp3",
+    "frequency": 141
   },
   "first_only_adv": {
     "word": "first; only",
@@ -2194,21 +2377,24 @@
     "type": "phrase",
     "_generatedFrom": "es-en/generalbank.json:en_primer_lugar_phrase",
     "_enriched": false,
-    "audio": "firstly_phrase.mp3"
+    "audio": "firstly_phrase.mp3",
+    "frequency": 11366
   },
   "five_num": {
     "word": "five",
     "type": "num",
     "_generatedFrom": "de-en/numbersbank.json:fuenf_num, es-en/numbersbank.json:cinco_num",
     "_enriched": false,
-    "audio": "five_num.mp3"
+    "audio": "five_num.mp3",
+    "frequency": 397
   },
   "flat_adv": {
     "word": "flat",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:flach_general",
     "_enriched": false,
-    "audio": "flat_adv.mp3"
+    "audio": "flat_adv.mp3",
+    "frequency": 1766
   },
   "flatrate_allinclusive_adv": {
     "word": "flat-rate; all-inclusive",
@@ -2225,63 +2411,72 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:flexibel_general",
     "_enriched": false,
-    "audio": "flexible_adv.mp3"
+    "audio": "flexible_adv.mp3",
+    "frequency": 10735
   },
   "for_a_long_time_adv": {
     "word": "for a long time",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:lange_adv",
     "_enriched": false,
-    "audio": "for_a_long_time_adv.mp3"
+    "audio": "for_a_long_time_adv.mp3",
+    "frequency": 19
   },
   "for_conj": {
     "word": "for",
     "type": "conj",
     "_generatedFrom": "de-en/generalbank.json:denn_conj",
     "_enriched": false,
-    "audio": "for_conj.mp3"
+    "audio": "for_conj.mp3",
+    "frequency": 19
   },
   "for_example_adv": {
     "word": "for example",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:zum_beispiel_general",
     "_enriched": false,
-    "audio": "for_example_adv.mp3"
+    "audio": "for_example_adv.mp3",
+    "frequency": 19
   },
   "for_example_phrase": {
     "word": "For example",
     "type": "phrase",
     "_generatedFrom": "es-en/generalbank.json:por_ejemplo_phrase",
     "_enriched": false,
-    "audio": "for_example_phrase.mp3"
+    "audio": "for_example_phrase.mp3",
+    "frequency": 19
   },
   "for_free_in_vain_adv": {
     "word": "for free; in vain",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:umsonst_general",
     "_enriched": false,
-    "audio": "for_free_in_vain_adv.mp3"
+    "audio": "for_free_in_vain_adv.mp3",
+    "frequency": 19
   },
   "for_it_in_favour_of_adv": {
     "word": "for it; in favour of",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:dafuer_general",
     "_enriched": false,
-    "audio": "for_it_in_favour_of_adv.mp3"
+    "audio": "for_it_in_favour_of_adv.mp3",
+    "frequency": 19
   },
   "for_me_phrase": {
     "word": "for me",
     "type": "phrase",
     "_generatedFrom": "de-en/generalbank.json:bei_mir_phrase",
     "_enriched": false,
-    "audio": "for_me_phrase.mp3"
+    "audio": "for_me_phrase.mp3",
+    "frequency": 19
   },
   "for_prep": {
     "word": "for",
     "type": "prep",
     "_generatedFrom": "de-en/generalbank.json:fuer_prep, es-en/generalbank.json:para_prep, es-en/generalbank.json:por_prep",
     "_enriched": false,
-    "audio": "for_prep.mp3"
+    "audio": "for_prep.mp3",
+    "frequency": 19
   },
   "for_you_for_them_adv": {
     "word": "for you; for them",
@@ -2289,7 +2484,8 @@
     "usageNotes": "formal",
     "_generatedFrom": "de-en/generalbank.json:fuer_sie_general",
     "_enriched": false,
-    "audio": "for_you_for_them_adv.mp3"
+    "audio": "for_you_for_them_adv.mp3",
+    "frequency": 19
   },
   "foreign_adv": {
     "word": "foreign",
@@ -2299,7 +2495,8 @@
     "typos": [
       "foriegn"
     ],
-    "audio": "foreign_adv.mp3"
+    "audio": "foreign_adv.mp3",
+    "frequency": 1909
   },
   "foreign_strange_adv": {
     "word": "foreign; strange",
@@ -2316,35 +2513,40 @@
     "type": "adv",
     "_generatedFrom": "es-en/generalbank.json:afortunadamente_adv",
     "_enriched": false,
-    "audio": "fortunately_adv.mp3"
+    "audio": "fortunately_adv.mp3",
+    "frequency": 5137
   },
   "forty_num": {
     "word": "forty",
     "type": "num",
     "_generatedFrom": "de-en/numbersbank.json:vierzig_num",
     "_enriched": false,
-    "audio": "forty_num.mp3"
+    "audio": "forty_num.mp3",
+    "frequency": 5513
   },
   "forward_adv": {
     "word": "forward",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:vorwaerts_general, es-en/generalbank.json:adelante_adv",
     "_enriched": false,
-    "audio": "forward_adv.mp3"
+    "audio": "forward_adv.mp3",
+    "frequency": 931
   },
   "four_num": {
     "word": "four",
     "type": "num",
     "_generatedFrom": "de-en/numbersbank.json:vier_num, es-en/numbersbank.json:cuatro_num",
     "_enriched": false,
-    "audio": "four_num.mp3"
+    "audio": "four_num.mp3",
+    "frequency": 429
   },
   "fourteen_num": {
     "word": "fourteen",
     "type": "num",
     "_generatedFrom": "de-en/numbersbank.json:vierzehn_num, es-en/numbersbank.json:catorce_num",
     "_enriched": false,
-    "audio": "fourteen_num.mp3"
+    "audio": "fourteen_num.mp3",
+    "frequency": 8020
   },
   "france_propn": {
     "word": "France",
@@ -2354,14 +2556,16 @@
     "typos": [
       "Frence"
     ],
-    "audio": "france_propn.mp3"
+    "audio": "france_propn.mp3",
+    "frequency": 1661
   },
   "free_adv": {
     "word": "free",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:frei_general",
     "_enriched": false,
-    "audio": "free_adv.mp3"
+    "audio": "free_adv.mp3",
+    "frequency": 505
   },
   "free_free_of_charge_adv": {
     "word": "free; free of charge",
@@ -2375,7 +2579,8 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:kostenlos_general",
     "_enriched": false,
-    "audio": "free_of_charge_adv.mp3"
+    "audio": "free_of_charge_adv.mp3",
+    "frequency": 505
   },
   "frequent_often_adv": {
     "word": "frequent; often",
@@ -2392,7 +2597,8 @@
     "typos": [
       "Freinds are important"
     ],
-    "audio": "friends_are_important_phrase.mp3"
+    "audio": "friends_are_important_phrase.mp3",
+    "frequency": 340
   },
   "from_contr": {
     "word": "from",
@@ -2400,14 +2606,16 @@
     "usageNotes": "contracted",
     "_generatedFrom": "de-en/articlesbank.json:vom_contr",
     "_enriched": false,
-    "audio": "from_contr.mp3"
+    "audio": "from_contr.mp3",
+    "frequency": 74
   },
   "from_each_other_adv": {
     "word": "from each other",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:voneinander_general",
     "_enriched": false,
-    "audio": "from_each_other_adv.mp3"
+    "audio": "from_each_other_adv.mp3",
+    "frequency": 74
   },
   "from_france_phrase": {
     "word": "from France",
@@ -2417,14 +2625,16 @@
     "typos": [
       "from Frence"
     ],
-    "audio": "from_france_phrase.mp3"
+    "audio": "from_france_phrase.mp3",
+    "frequency": 74
   },
   "from_now_on_adv": {
     "word": "from now on",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:jetzt_ab_general",
     "_enriched": false,
-    "audio": "from_now_on_adv.mp3"
+    "audio": "from_now_on_adv.mp3",
+    "frequency": 74
   },
   "from_off_adv": {
     "word": "from; off",
@@ -2441,14 +2651,16 @@
     "type": "phrase",
     "_generatedFrom": "de-en/phrasesbank.json:aus_dem_phrase",
     "_enriched": false,
-    "audio": "from_phrase.mp3"
+    "audio": "from_phrase.mp3",
+    "frequency": 74
   },
   "from_prep": {
     "word": "from",
     "type": "prep",
     "_generatedFrom": "de-en/generalbank.json:aus_prep, de-en/generalbank.json:von_prep, es-en/generalbank.json:de_prep, es-en/generalbank.json:desde_prep",
     "_enriched": false,
-    "audio": "from_prep.mp3"
+    "audio": "from_prep.mp3",
+    "frequency": 74
   },
   "from_the_contr": {
     "word": "from the",
@@ -2456,28 +2668,32 @@
     "usageNotes": "de + el",
     "_generatedFrom": "es-en/articlesbank.json:del_contr",
     "_enriched": false,
-    "audio": "from_the_contr.mp3"
+    "audio": "from_the_contr.mp3",
+    "frequency": 74
   },
   "from_time_to_time_expr": {
     "word": "from time to time",
     "type": "expr",
     "_generatedFrom": "es-en/generalbank.json:de_vez_en_cuando_expr",
     "_enriched": false,
-    "audio": "from_time_to_time_expr.mp3"
+    "audio": "from_time_to_time_expr.mp3",
+    "frequency": 74
   },
   "from_where_interr": {
     "word": "From where",
     "type": "interr",
     "_generatedFrom": "de-en/generalbank.json:woher_interr",
     "_enriched": false,
-    "audio": "from_where_interr.mp3"
+    "audio": "from_where_interr.mp3",
+    "frequency": 74
   },
   "front_adv": {
     "word": "front",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:vorder_general",
     "_enriched": false,
-    "audio": "front_adv.mp3"
+    "audio": "front_adv.mp3",
+    "frequency": 515
   },
   "full_adv": {
     "word": "full",
@@ -2488,7 +2704,8 @@
     "typos": [
       "ful"
     ],
-    "audio": "full_adv.mp3"
+    "audio": "full_adv.mp3",
+    "frequency": 526
   },
   "funny_strange_adv": {
     "word": "funny; strange",
@@ -2522,21 +2739,24 @@
     "type": "phrase",
     "_generatedFrom": "es-en/generalbank.json:ademas_phrase",
     "_enriched": false,
-    "audio": "furthermore_phrase.mp3"
+    "audio": "furthermore_phrase.mp3",
+    "frequency": 10190
   },
   "future_adv": {
     "word": "future",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:zukuenftig_general",
     "_enriched": false,
-    "audio": "future_adv.mp3"
+    "audio": "future_adv.mp3",
+    "frequency": 680
   },
   "general_adv": {
     "word": "general",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:allgemein_general",
     "_enriched": false,
-    "audio": "general_adv.mp3"
+    "audio": "general_adv.mp3",
+    "frequency": 735
   },
   "generally_adv": {
     "word": "generally",
@@ -2546,14 +2766,16 @@
     "typos": [
       "generaly"
     ],
-    "audio": "generally_adv.mp3"
+    "audio": "generally_adv.mp3",
+    "frequency": 5279
   },
   "germany_propn": {
     "word": "Germany",
     "type": "propn",
     "_generatedFrom": "de-en/generalbank.json:deutschland_propn",
     "_enriched": false,
-    "audio": "germany_propn.mp3"
+    "audio": "germany_propn.mp3",
+    "frequency": 2324
   },
   "get_along_well_phrase": {
     "word": "To get along well",
@@ -2570,7 +2792,8 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:gern_adv, de-en/generalbank.json:gerne_adv",
     "_enriched": false,
-    "audio": "gladly_adv.mp3"
+    "audio": "gladly_adv.mp3",
+    "frequency": 6848
   },
   "go_shopping_phrase": {
     "word": "To go shopping",
@@ -2594,42 +2817,48 @@
     "type": "phrase",
     "_generatedFrom": "es-en/generalbank.json:buenas_tardes_phrase, es-en/phrasesbank.json:buenas_tardes_phrase",
     "_enriched": false,
-    "audio": "good_afternoon_phrase.mp3"
+    "audio": "good_afternoon_phrase.mp3",
+    "frequency": 71
   },
   "good_evening_phrase": {
     "word": "Good evening",
     "type": "phrase",
     "_generatedFrom": "es-en/generalbank.json:buenas_noches_phrase, es-en/phrasesbank.json:buenas_noches_phrase",
     "_enriched": false,
-    "audio": "good_evening_phrase.mp3"
+    "audio": "good_evening_phrase.mp3",
+    "frequency": 71
   },
   "good_luck_phrase": {
     "word": "Good luck!",
     "type": "phrase",
     "_generatedFrom": "es-en/generalbank.json:buena_suerte_phrase, es-en/phrasesbank.json:buena_suerte_phrase",
     "_enriched": false,
-    "audio": "good_luck_phrase.mp3"
+    "audio": "good_luck_phrase.mp3",
+    "frequency": 71
   },
   "good_morning_phrase": {
     "word": "Good morning",
     "type": "phrase",
     "_generatedFrom": "es-en/generalbank.json:buenos_dias_phrase, es-en/phrasesbank.json:buenos_dias_phrase",
     "_enriched": false,
-    "audio": "good_morning_phrase.mp3"
+    "audio": "good_morning_phrase.mp3",
+    "frequency": 71
   },
   "good_night_phrase": {
     "word": "Good night",
     "type": "phrase",
     "_generatedFrom": "es-en/generalbank.json:buenas_noches_phrase",
     "_enriched": false,
-    "audio": "good_night_phrase.mp3"
+    "audio": "good_night_phrase.mp3",
+    "frequency": 71
   },
   "good_value_inexpensive_adv": {
     "word": "good value; inexpensive",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:preiswert_general",
     "_enriched": false,
-    "audio": "good_value_inexpensive_adv.mp3"
+    "audio": "good_value_inexpensive_adv.mp3",
+    "frequency": 71
   },
   "goodbye_interj": {
     "word": "Goodbye!",
@@ -2643,21 +2872,24 @@
     "type": "phrase",
     "_generatedFrom": "es-en/phrasesbank.json:adios_phrase",
     "_enriched": false,
-    "audio": "goodbye_phrase.mp3"
+    "audio": "goodbye_phrase.mp3",
+    "frequency": 728
   },
   "grateful_adv": {
     "word": "grateful",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:dankbar_general",
     "_enriched": false,
-    "audio": "grateful_adv.mp3"
+    "audio": "grateful_adv.mp3",
+    "frequency": 2239
   },
   "great_adv": {
     "word": "great",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:super_adv",
     "_enriched": false,
-    "audio": "great_adv.mp3"
+    "audio": "great_adv.mp3",
+    "frequency": 171
   },
   "great_excellent_adv": {
     "word": "great; excellent",
@@ -2681,21 +2913,24 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:schuldig_general",
     "_enriched": false,
-    "audio": "guilty_adv.mp3"
+    "audio": "guilty_adv.mp3",
+    "frequency": 1210
   },
   "had_has_had_adv": {
     "word": "had, has had",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:hatte_hat_gehabt_general",
     "_enriched": false,
-    "audio": "had_has_had_adv.mp3"
+    "audio": "had_has_had_adv.mp3",
+    "frequency": 92
   },
   "had_to_adv": {
     "word": "had to",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:musste_general",
     "_enriched": false,
-    "audio": "had_to_adv.mp3"
+    "audio": "had_to_adv.mp3",
+    "frequency": 92
   },
   "half_adv": {
     "word": "half",
@@ -2703,14 +2938,16 @@
     "usageNotes": "past",
     "_generatedFrom": "de-en/generalbank.json:halb_adv",
     "_enriched": false,
-    "audio": "half_adv.mp3"
+    "audio": "half_adv.mp3",
+    "frequency": 502
   },
   "half_past_phrase": {
     "word": "half past",
     "type": "phrase",
     "_generatedFrom": "es-en/generalbank.json:y_media_phrase",
     "_enriched": false,
-    "audio": "half_past_phrase.mp3"
+    "audio": "half_past_phrase.mp3",
+    "frequency": 502
   },
   "happy_birthday_phrase": {
     "word": "Happy Birthday",
@@ -2721,7 +2958,8 @@
     "typos": [
       "Hapy Birthday"
     ],
-    "audio": "happy_birthday_phrase.mp3"
+    "audio": "happy_birthday_phrase.mp3",
+    "frequency": 296
   },
   "happy_glad_adv": {
     "word": "happy; glad",
@@ -2741,7 +2979,8 @@
     "typos": [
       "Hapy New Year!"
     ],
-    "audio": "happy_new_year_phrase.mp3"
+    "audio": "happy_new_year_phrase.mp3",
+    "frequency": 296
   },
   "hardly_barely_adv": {
     "word": "hardly; barely",
@@ -2762,14 +3001,16 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:schaedlich_general",
     "_enriched": false,
-    "audio": "harmful_adv.mp3"
+    "audio": "harmful_adv.mp3",
+    "frequency": 13595
   },
   "have_a_good_day_phrase": {
     "word": "Have a good day!",
     "type": "phrase",
     "_generatedFrom": "es-en/generalbank.json:que_tengas_un_buen_dia_phrase",
     "_enriched": false,
-    "audio": "have_a_good_day_phrase.mp3"
+    "audio": "have_a_good_day_phrase.mp3",
+    "frequency": 22
   },
   "have_a_good_time_phrase": {
     "word": "To have a good time",
@@ -2783,7 +3024,8 @@
     "type": "phrase",
     "_generatedFrom": "es-en/phrasesbank.json:que_tengas_buen_dia_phrase",
     "_enriched": false,
-    "audio": "have_a_nice_day_phrase.mp3"
+    "audio": "have_a_nice_day_phrase.mp3",
+    "frequency": 22
   },
   "have_adv": {
     "word": "have",
@@ -2791,28 +3033,32 @@
     "usageNotes": "informal",
     "_generatedFrom": "de-en/generalbank.json:hast_general",
     "_enriched": false,
-    "audio": "have_adv.mp3"
+    "audio": "have_adv.mp3",
+    "frequency": 22
   },
   "have_fun_phrase": {
     "word": "have fun",
     "type": "phrase",
     "_generatedFrom": "de-en/generalbank.json:viel_spass_phrase",
     "_enriched": false,
-    "audio": "have_fun_phrase.mp3"
+    "audio": "have_fun_phrase.mp3",
+    "frequency": 22
   },
   "have_you_heard_expr": {
     "word": "have you heard",
     "type": "expr",
     "_generatedFrom": "de-en/generalbank.json:hast_du_gehoert_expr",
     "_enriched": false,
-    "audio": "have_you_heard_expr.mp3"
+    "audio": "have_you_heard_expr.mp3",
+    "frequency": 22
   },
   "he_pron": {
     "word": "he",
     "type": "pron",
     "_generatedFrom": "de-en/pronounsbank.json:er_pron, es-en/pronounsbank.json:el_pron",
     "_enriched": false,
-    "audio": "he_pron.mp3"
+    "audio": "he_pron.mp3",
+    "frequency": 18
   },
   "heartfelt_warm_adv": {
     "word": "heartfelt; warm",
@@ -2839,7 +3085,8 @@
     "typos": [
       "helo"
     ],
-    "audio": "hello_adv.mp3"
+    "audio": "hello_adv.mp3",
+    "frequency": 203
   },
   "hello_hi_phrase": {
     "word": "hello, hi",
@@ -2849,7 +3096,8 @@
     "typos": [
       "helo, hi"
     ],
-    "audio": "hello_hi_phrase.mp3"
+    "audio": "hello_hi_phrase.mp3",
+    "frequency": 203
   },
   "hello_interj": {
     "word": "Hello!",
@@ -2866,14 +3114,16 @@
     "type": "pron",
     "_generatedFrom": "de-en/pronounsbank.json:ihre_possessiv",
     "_enriched": false,
-    "audio": "her_fem_pron.mp3"
+    "audio": "her_fem_pron.mp3",
+    "frequency": 60
   },
   "her_masc_pron": {
     "word": "her (masc.",
     "type": "pron",
     "_generatedFrom": "de-en/pronounsbank.json:ihr_poss_possessiv",
     "_enriched": false,
-    "audio": "her_masc_pron.mp3"
+    "audio": "her_masc_pron.mp3",
+    "frequency": 60
   },
   "her_pron": {
     "word": "her",
@@ -2881,14 +3131,16 @@
     "usageNotes": "dative",
     "_generatedFrom": "de-en/pronounsbank.json:ihr_dat_pron, es-en/pronounsbank.json:la_dirobj_pron, es-en/pronounsbank.json:le_indobj_pron, es-en/pronounsbank.json:su_possess_pron",
     "_enriched": false,
-    "audio": "her_pron.mp3"
+    "audio": "her_pron.mp3",
+    "frequency": 60
   },
   "here_adv": {
     "word": "here",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:hier_adv, es-en/generalbank.json:aqui_adv",
     "_enriched": false,
-    "audio": "here_adv.mp3"
+    "audio": "here_adv.mp3",
+    "frequency": 41
   },
   "here_to_here_adv": {
     "word": "here; to here",
@@ -2902,63 +3154,72 @@
     "type": "pron",
     "_generatedFrom": "es-en/pronounsbank.json:se_reflex_pron",
     "_enriched": false,
-    "audio": "herself_pron.mp3"
+    "audio": "herself_pron.mp3",
+    "frequency": 1198
   },
   "him_alex_adv": {
     "word": "him Alex",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:ihn_alex_general",
     "_enriched": false,
-    "audio": "him_alex_adv.mp3"
+    "audio": "him_alex_adv.mp3",
+    "frequency": 54
   },
   "him_pron": {
     "word": "him",
     "type": "pron",
     "_generatedFrom": "de-en/pronounsbank.json:ihn_pron, de-en/pronounsbank.json:ihm_pron, es-en/pronounsbank.json:lo_dirobj_pron, es-en/pronounsbank.json:le_indobj_pron",
     "_enriched": false,
-    "audio": "him_pron.mp3"
+    "audio": "him_pron.mp3",
+    "frequency": 54
   },
   "himself_pron": {
     "word": "himself",
     "type": "pron",
     "_generatedFrom": "es-en/pronounsbank.json:se_reflex_pron",
     "_enriched": false,
-    "audio": "himself_pron.mp3"
+    "audio": "himself_pron.mp3",
+    "frequency": 585
   },
   "his_fem_pron": {
     "word": "his (fem.",
     "type": "pron",
     "_generatedFrom": "de-en/pronounsbank.json:seine_possessiv",
     "_enriched": false,
-    "audio": "his_fem_pron.mp3"
+    "audio": "his_fem_pron.mp3",
+    "frequency": 76
   },
   "his_masc_pron": {
     "word": "his (masc.",
     "type": "pron",
     "_generatedFrom": "de-en/pronounsbank.json:sein_possessiv",
     "_enriched": false,
-    "audio": "his_masc_pron.mp3"
+    "audio": "his_masc_pron.mp3",
+    "frequency": 76
   },
   "his_pron": {
     "word": "his",
     "type": "pron",
     "_generatedFrom": "es-en/pronounsbank.json:su_possess_pron",
     "_enriched": false,
-    "audio": "his_pron.mp3"
+    "audio": "his_pron.mp3",
+    "frequency": 76
   },
   "historical_adv": {
     "word": "historical",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:historisch_general",
     "_enriched": false,
-    "audio": "historical_adv.mp3"
+    "audio": "historical_adv.mp3",
+    "frequency": 6554
   },
   "home_adv": {
     "word": "home",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:heim_general",
     "_enriched": false,
-    "audio": "home_adv.mp3"
+    "audio": "home_adv.mp3",
+    "frequency": 168
   },
   "home_expr": {
     "word": "home",
@@ -2966,14 +3227,16 @@
     "usageNotes": "movement",
     "_generatedFrom": "es-en/generalbank.json:a_casa_expr",
     "_enriched": false,
-    "audio": "home_expr.mp3"
+    "audio": "home_expr.mp3",
+    "frequency": 168
   },
   "home_phrase": {
     "word": "home",
     "type": "phrase",
     "_generatedFrom": "de-en/generalbank.json:nach_hause_phrase",
     "_enriched": false,
-    "audio": "home_phrase.mp3"
+    "audio": "home_phrase.mp3",
+    "frequency": 168
   },
   "honoured_dear_adv": {
     "word": "honoured; dear",
@@ -2990,70 +3253,80 @@
     "typos": [
       "hopefuly"
     ],
-    "audio": "hopefully_adv.mp3"
+    "audio": "hopefully_adv.mp3",
+    "frequency": 2847
   },
   "how_are_you_phrase": {
     "word": "How are you?",
     "type": "phrase",
     "_generatedFrom": "es-en/generalbank.json:como_estas_phrase, es-en/phrasesbank.json:como_estas_phrase",
     "_enriched": false,
-    "audio": "how_are_you_phrase.mp3"
+    "audio": "how_are_you_phrase.mp3",
+    "frequency": 61
   },
   "how_do_you_feel_phrase": {
     "word": "How do you feel?",
     "type": "phrase",
     "_generatedFrom": "de-en/generalbank.json:wie_fuehlst_du_dich_phrase",
     "_enriched": false,
-    "audio": "how_do_you_feel_phrase.mp3"
+    "audio": "how_do_you_feel_phrase.mp3",
+    "frequency": 61
   },
   "how_do_you_say_phrase": {
     "word": "How do you say...?",
     "type": "phrase",
     "_generatedFrom": "es-en/generalbank.json:como_se_dice_phrase, es-en/phrasesbank.json:como_se_dice_phrase",
     "_enriched": false,
-    "audio": "how_do_you_say_phrase.mp3"
+    "audio": "how_do_you_say_phrase.mp3",
+    "frequency": 61
   },
   "how_interr": {
     "word": "How",
     "type": "interr",
     "_generatedFrom": "de-en/generalbank.json:wie_interr, es-en/generalbank.json:como_interr",
     "_enriched": false,
-    "audio": "how_interr.mp3"
+    "audio": "how_interr.mp3",
+    "frequency": 61
   },
   "how_many_interr": {
     "word": "How many",
     "type": "interr",
     "_generatedFrom": "es-en/generalbank.json:cuantos_interr",
     "_enriched": false,
-    "audio": "how_many_interr.mp3"
+    "audio": "how_many_interr.mp3",
+    "frequency": 61
   },
   "how_much_how_many_adv": {
     "word": "how much; how many",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:wie_viel_general",
     "_enriched": false,
-    "audio": "how_much_how_many_adv.mp3"
+    "audio": "how_much_how_many_adv.mp3",
+    "frequency": 61
   },
   "how_much_interr": {
     "word": "How much",
     "type": "interr",
     "_generatedFrom": "es-en/generalbank.json:cuanto_interr",
     "_enriched": false,
-    "audio": "how_much_interr.mp3"
+    "audio": "how_much_interr.mp3",
+    "frequency": 61
   },
   "how_much_pron": {
     "word": "how much",
     "type": "pron",
     "_generatedFrom": "es-en/pronounsbank.json:cuanto_interr_pron",
     "_enriched": false,
-    "audio": "how_much_pron.mp3"
+    "audio": "how_much_pron.mp3",
+    "frequency": 61
   },
   "how_old_are_you_phrase": {
     "word": "How old are you?",
     "type": "phrase",
     "_generatedFrom": "es-en/generalbank.json:cuantos_anos_tienes_phrase, es-en/phrasesbank.json:cuantos_anos_tienes_phrase",
     "_enriched": false,
-    "audio": "how_old_are_you_phrase.mp3"
+    "audio": "how_old_are_you_phrase.mp3",
+    "frequency": 61
   },
   "how_pron": {
     "word": "how?",
@@ -3077,14 +3350,16 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:jedoch_general",
     "_enriched": false,
-    "audio": "however_adv.mp3"
+    "audio": "however_adv.mp3",
+    "frequency": 1282
   },
   "however_phrase": {
     "word": "However",
     "type": "phrase",
     "_generatedFrom": "es-en/generalbank.json:sin_embargo_phrase",
     "_enriched": false,
-    "audio": "however_phrase.mp3"
+    "audio": "however_phrase.mp3",
+    "frequency": 1282
   },
   "hows_it_going_phrase": {
     "word": "how's it going?",
@@ -3098,28 +3373,32 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:menschlich_general",
     "_enriched": false,
-    "audio": "human_adv.mp3"
+    "audio": "human_adv.mp3",
+    "frequency": 611
   },
   "hundred_num": {
     "word": "hundred",
     "type": "num",
     "_generatedFrom": "de-en/numbersbank.json:hundert_num, es-en/numbersbank.json:cien_num",
     "_enriched": false,
-    "audio": "hundred_num.mp3"
+    "audio": "hundred_num.mp3",
+    "frequency": 1061
   },
   "hung_adv": {
     "word": "hung",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:gehaengt_general",
     "_enriched": false,
-    "audio": "hung_adv.mp3"
+    "audio": "hung_adv.mp3",
+    "frequency": 2382
   },
   "hungry_adv": {
     "word": "hungry",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:hungrig_general",
     "_enriched": false,
-    "audio": "hungry_adv.mp3"
+    "audio": "hungry_adv.mp3",
+    "frequency": 983
   },
   "hurt_adv": {
     "word": "to hurt",
@@ -3206,7 +3485,8 @@
     "type": "pron",
     "_generatedFrom": "de-en/pronounsbank.json:ich_pron, es-en/pronounsbank.json:yo_pron",
     "_enriched": false,
-    "audio": "i_pron.mp3"
+    "audio": "i_pron.mp3",
+    "frequency": 2
   },
   "i_think_so_phrase": {
     "word": "I think so",
@@ -3227,14 +3507,16 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:ideal_general",
     "_enriched": false,
-    "audio": "ideal_adv.mp3"
+    "audio": "ideal_adv.mp3",
+    "frequency": 4457
   },
   "if_conj": {
     "word": "if",
     "type": "conj",
     "_generatedFrom": "es-en/generalbank.json:si_conj",
     "_enriched": false,
-    "audio": "if_conj.mp3"
+    "audio": "if_conj.mp3",
+    "frequency": 48
   },
   "if_in_case_adv": {
     "word": "if; in case",
@@ -3251,7 +3533,8 @@
     "typos": [
       "ilegal"
     ],
-    "audio": "illegal_adv.mp3"
+    "audio": "illegal_adv.mp3",
+    "frequency": 2264
   },
   "im_afraid_phrase": {
     "word": "I'm afraid",
@@ -3364,7 +3647,8 @@
     "typos": [
       "imediately"
     ],
-    "audio": "immediately_adv.mp3"
+    "audio": "immediately_adv.mp3",
+    "frequency": 1091
   },
   "in_a_mess_confused_adv": {
     "word": "in a mess; confused",
@@ -3381,7 +3665,8 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:rein_adv",
     "_enriched": false,
-    "audio": "in_adv.mp3"
+    "audio": "in_adv.mp3",
+    "frequency": 13
   },
   "in_advance_phrase": {
     "word": "in advance",
@@ -3409,7 +3694,8 @@
     "usageNotes": "contracted",
     "_generatedFrom": "de-en/articlesbank.json:im_contr",
     "_enriched": false,
-    "audio": "in_contr.mp3"
+    "audio": "in_contr.mp3",
+    "frequency": 13
   },
   "in_front_of_prep": {
     "word": "in front of",
@@ -3437,7 +3723,8 @@
     "type": "prep",
     "_generatedFrom": "de-en/generalbank.json:in_prep, de-en/generalbank.json:ins_prep, es-en/generalbank.json:en_prep",
     "_enriched": false,
-    "audio": "in_prep.mp3"
+    "audio": "in_prep.mp3",
+    "frequency": 13
   },
   "in_reality_expr": {
     "word": "in reality",
@@ -3507,7 +3794,8 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:einschliesslich_general",
     "_enriched": false,
-    "audio": "including_adv.mp3"
+    "audio": "including_adv.mp3",
+    "frequency": 1950
   },
   "inclusive_including_adv": {
     "word": "inclusive; including",
@@ -3544,14 +3832,16 @@
     "typos": [
       "indiferent"
     ],
-    "audio": "indifferent_adv.mp3"
+    "audio": "indifferent_adv.mp3",
+    "frequency": 13181
   },
   "individual_adv": {
     "word": "individual",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:individuell_general",
     "_enriched": false,
-    "audio": "individual_adv.mp3"
+    "audio": "individual_adv.mp3",
+    "frequency": 3415
   },
   "initially_adv": {
     "word": "initially",
@@ -3561,7 +3851,8 @@
     "typos": [
       "initialy"
     ],
-    "audio": "initially_adv.mp3"
+    "audio": "initially_adv.mp3",
+    "frequency": 9550
   },
   "inner_adv": {
     "word": "inner",
@@ -3571,35 +3862,40 @@
     "typos": [
       "iner"
     ],
-    "audio": "inner_adv.mp3"
+    "audio": "inner_adv.mp3",
+    "frequency": 4123
   },
   "inside_adv": {
     "word": "inside",
     "type": "adv",
     "_generatedFrom": "es-en/generalbank.json:adentro_adv",
     "_enriched": false,
-    "audio": "inside_adv.mp3"
+    "audio": "inside_adv.mp3",
+    "frequency": 417
   },
   "inside_prep": {
     "word": "inside",
     "type": "prep",
     "_generatedFrom": "es-en/generalbank.json:dentro_de_prep",
     "_enriched": false,
-    "audio": "inside_prep.mp3"
+    "audio": "inside_prep.mp3",
+    "frequency": 417
   },
   "instead_of_adv": {
     "word": "instead of",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:statt_general",
     "_enriched": false,
-    "audio": "instead_of_adv.mp3"
+    "audio": "instead_of_adv.mp3",
+    "frequency": 779
   },
   "intensive_adv": {
     "word": "intensive",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:intensiv_general",
     "_enriched": false,
-    "audio": "intensive_adv.mp3"
+    "audio": "intensive_adv.mp3",
+    "frequency": 11672
   },
   "intercultural_adv": {
     "word": "intercultural",
@@ -3613,7 +3909,8 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:interessiert_general",
     "_enriched": false,
-    "audio": "interested_adv.mp3"
+    "audio": "interested_adv.mp3",
+    "frequency": 899
   },
   "international_adv": {
     "word": "international",
@@ -3623,7 +3920,8 @@
     "typos": [
       "internasional"
     ],
-    "audio": "international_adv.mp3"
+    "audio": "international_adv.mp3",
+    "frequency": 2551
   },
   "into_contr": {
     "word": "into",
@@ -3631,14 +3929,16 @@
     "usageNotes": "contracted",
     "_generatedFrom": "de-en/articlesbank.json:ins_contr",
     "_enriched": false,
-    "audio": "into_contr.mp3"
+    "audio": "into_contr.mp3",
+    "frequency": 142
   },
   "into_prep": {
     "word": "into",
     "type": "prep",
     "_generatedFrom": "de-en/generalbank.json:ins_prep",
     "_enriched": false,
-    "audio": "into_prep.mp3"
+    "audio": "into_prep.mp3",
+    "frequency": 142
   },
   "is_it_convenient_phrase": {
     "word": "is it convenient?",
@@ -3669,7 +3969,8 @@
     "type": "pron",
     "_generatedFrom": "de-en/pronounsbank.json:es_pron, de-en/pronounsbank.json:ihn_pron, es-en/pronounsbank.json:lo_dirobj_pron, es-en/pronounsbank.json:la_dirobj_pron",
     "_enriched": false,
-    "audio": "it_pron.mp3"
+    "audio": "it_pron.mp3",
+    "frequency": 7
   },
   "it_seems_to_me_that_phrase": {
     "word": "It seems to me that...",
@@ -3693,7 +3994,8 @@
     "type": "propn",
     "_generatedFrom": "de-en/generalbank.json:italien_propn",
     "_enriched": false,
-    "audio": "italy_propn.mp3"
+    "audio": "italy_propn.mp3",
+    "frequency": 2921
   },
   "its_cold_phrase": {
     "word": "It's cold",
@@ -3759,7 +4061,8 @@
     "type": "pron",
     "_generatedFrom": "es-en/pronounsbank.json:se_reflex_pron",
     "_enriched": false,
-    "audio": "itself_pron.mp3"
+    "audio": "itself_pron.mp3",
+    "frequency": 1302
   },
   "just_as_equally_adv": {
     "word": "just as; equally",
@@ -3769,28 +4072,32 @@
     "typos": [
       "just as; equaly"
     ],
-    "audio": "just_as_equally_adv.mp3"
+    "audio": "just_as_equally_adv.mp3",
+    "frequency": 39
   },
   "just_now_a_moment_ago_adv": {
     "word": "just now; a moment ago",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:vorhin_general",
     "_enriched": false,
-    "audio": "just_now_a_moment_ago_adv.mp3"
+    "audio": "just_now_a_moment_ago_adv.mp3",
+    "frequency": 39
   },
   "last_adv": {
     "word": "last",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:letzt_general",
     "_enriched": false,
-    "audio": "last_adv.mp3"
+    "audio": "last_adv.mp3",
+    "frequency": 173
   },
   "last_year_expr": {
     "word": "last year",
     "type": "expr",
     "_generatedFrom": "es-en/generalbank.json:el_ano_pasado_expr",
     "_enriched": false,
-    "audio": "last_year_expr.mp3"
+    "audio": "last_year_expr.mp3",
+    "frequency": 173
   },
   "lastly_finally_adv": {
     "word": "lastly; finally",
@@ -3807,28 +4114,32 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:spaet_adv, es-en/generalbank.json:tarde_adv",
     "_enriched": false,
-    "audio": "late_adv.mp3"
+    "audio": "late_adv.mp3",
+    "frequency": 382
   },
   "later_adv": {
     "word": "later",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:spaeter_adv, es-en/generalbank.json:luego_adv",
     "_enriched": false,
-    "audio": "later_adv.mp3"
+    "audio": "later_adv.mp3",
+    "frequency": 363
   },
   "latin_america_pron": {
     "word": "Latin America)",
     "type": "pron",
     "_generatedFrom": "es-en/pronounsbank.json:ustedes_pron",
     "_enriched": false,
-    "audio": "latin_america_pron.mp3"
+    "audio": "latin_america_pron.mp3",
+    "frequency": 3705
   },
   "latin_america_propn": {
     "word": "Latin America",
     "type": "propn",
     "_generatedFrom": "es-en/generalbank.json:america_latina_propn",
     "_enriched": false,
-    "audio": "latin_america_propn.mp3"
+    "audio": "latin_america_propn.mp3",
+    "frequency": 3705
   },
   "lean_thin_adv": {
     "word": "lean; thin",
@@ -3842,21 +4153,24 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:links_general",
     "_enriched": false,
-    "audio": "left_adv.mp3"
+    "audio": "left_adv.mp3",
+    "frequency": 220
   },
   "left_side_adv": {
     "word": "left side",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:linken_seite_general",
     "_enriched": false,
-    "audio": "left_side_adv.mp3"
+    "audio": "left_side_adv.mp3",
+    "frequency": 220
   },
   "legal_adv": {
     "word": "legal",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:rechtlich_general",
     "_enriched": false,
-    "audio": "legal_adv.mp3"
+    "audio": "legal_adv.mp3",
+    "frequency": 1885
   },
   "less_adv": {
     "word": "less",
@@ -3866,7 +4180,8 @@
     "typos": [
       "les"
     ],
-    "audio": "less_adv.mp3"
+    "audio": "less_adv.mp3",
+    "frequency": 662
   },
   "lets_get_started_phrase": {
     "word": "let's get started",
@@ -3887,14 +4202,16 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:so_adv, es-en/generalbank.json:asi_adv",
     "_enriched": false,
-    "audio": "like_this_adv.mp3"
+    "audio": "like_this_adv.mp3",
+    "frequency": 43
   },
   "likewise_adv": {
     "word": "likewise",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:gleichfalls_general",
     "_enriched": false,
-    "audio": "likewise_adv.mp3"
+    "audio": "likewise_adv.mp3",
+    "frequency": 8982
   },
   "likewise_also_adv": {
     "word": "likewise; also",
@@ -3908,7 +4225,8 @@
     "type": "phrase",
     "_generatedFrom": "es-en/phrasesbank.json:igualmente_phrase",
     "_enriched": false,
-    "audio": "likewise_phrase.mp3"
+    "audio": "likewise_phrase.mp3",
+    "frequency": 8982
   },
   "listen_to_music_phrase": {
     "word": "to listen to music",
@@ -3925,28 +4243,32 @@
     "typos": [
       "litle"
     ],
-    "audio": "little_adv.mp3"
+    "audio": "little_adv.mp3",
+    "frequency": 121
   },
   "lonely_adv": {
     "word": "lonely",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:einsam_general",
     "_enriched": false,
-    "audio": "lonely_adv.mp3"
+    "audio": "lonely_adv.mp3",
+    "frequency": 1711
   },
   "long_ago_for_a_long_time_adv": {
     "word": "long ago; for a long time",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:laengst_general",
     "_enriched": false,
-    "audio": "long_ago_for_a_long_time_adv.mp3"
+    "audio": "long_ago_for_a_long_time_adv.mp3",
+    "frequency": 182
   },
   "looks_strange_adv": {
     "word": "looks strange",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:komisch_aus_general",
     "_enriched": false,
-    "audio": "looks_strange_adv.mp3"
+    "audio": "looks_strange_adv.mp3",
+    "frequency": 335
   },
   "loose_relaxed_adv": {
     "word": "loose; relaxed",
@@ -3960,21 +4282,24 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:laut_general",
     "_enriched": false,
-    "audio": "loud_adv.mp3"
+    "audio": "loud_adv.mp3",
+    "frequency": 1514
   },
   "low_adv": {
     "word": "low",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:niedrig_general",
     "_enriched": false,
-    "audio": "low_adv.mp3"
+    "audio": "low_adv.mp3",
+    "frequency": 1227
   },
   "madrid_propn": {
     "word": "Madrid",
     "type": "propn",
     "_generatedFrom": "es-en/generalbank.json:madrid_propn",
     "_enriched": false,
-    "audio": "madrid_propn.mp3"
+    "audio": "madrid_propn.mp3",
+    "frequency": 7142
   },
   "male_masculine_adv": {
     "word": "male; masculine",
@@ -3999,35 +4324,40 @@
       "maried",
       "marreid"
     ],
-    "audio": "married_adv.mp3"
+    "audio": "married_adv.mp3",
+    "frequency": 454
   },
   "maximum_adv": {
     "word": "maximum",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:maximal_general",
     "_enriched": false,
-    "audio": "maximum_adv.mp3"
+    "audio": "maximum_adv.mp3",
+    "frequency": 5291
   },
   "maybe_adv": {
     "word": "maybe",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:vielleicht_adv, es-en/generalbank.json:quiza_adv",
     "_enriched": false,
-    "audio": "maybe_adv.mp3"
+    "audio": "maybe_adv.mp3",
+    "frequency": 155
   },
   "maybe_expr": {
     "word": "maybe",
     "type": "expr",
     "_generatedFrom": "es-en/generalbank.json:a_lo_mejor_expr",
     "_enriched": false,
-    "audio": "maybe_expr.mp3"
+    "audio": "maybe_expr.mp3",
+    "frequency": 155
   },
   "me_pron": {
     "word": "me",
     "type": "pron",
     "_generatedFrom": "de-en/pronounsbank.json:mich_pron, de-en/pronounsbank.json:mir_pron, es-en/pronounsbank.json:me_dirobj_pron, es-en/pronounsbank.json:me_indobj_pron",
     "_enriched": false,
-    "audio": "me_pron.mp3"
+    "audio": "me_pron.mp3",
+    "frequency": 16
   },
   "meanwhile_by_now_adv": {
     "word": "meanwhile; by now",
@@ -4051,14 +4381,16 @@
     "typos": [
       "Mery Christmas!"
     ],
-    "audio": "merry_christmas_phrase.mp3"
+    "audio": "merry_christmas_phrase.mp3",
+    "frequency": 2489
   },
   "mexico_propn": {
     "word": "Mexico",
     "type": "propn",
     "_generatedFrom": "es-en/generalbank.json:mexico_propn",
     "_enriched": false,
-    "audio": "mexico_propn.mp3"
+    "audio": "mexico_propn.mp3",
+    "frequency": 2497
   },
   "middle_medium_adv": {
     "word": "middle; medium",
@@ -4075,14 +4407,16 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:mild_general",
     "_enriched": false,
-    "audio": "mild_adv.mp3"
+    "audio": "mild_adv.mp3",
+    "frequency": 8018
   },
   "minimal_adv": {
     "word": "minimal",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:minimal_general",
     "_enriched": false,
-    "audio": "minimal_adv.mp3"
+    "audio": "minimal_adv.mp3",
+    "frequency": 12802
   },
   "mis_wrong_adv": {
     "word": "mis-; wrong",
@@ -4113,21 +4447,24 @@
     "type": "pron",
     "_generatedFrom": "es-en/pronounsbank.json:vosotros_pron",
     "_enriched": false,
-    "audio": "mixed_spain_pron.mp3"
+    "audio": "mixed_spain_pron.mp3",
+    "frequency": 2769
   },
   "more_adv": {
     "word": "more",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:mehr_adv, es-en/generalbank.json:mas_adv",
     "_enriched": false,
-    "audio": "more_adv.mp3"
+    "audio": "more_adv.mp3",
+    "frequency": 111
   },
   "more_slowly_please_phrase": {
     "word": "More slowly, please",
     "type": "phrase",
     "_generatedFrom": "es-en/generalbank.json:mas_despacio_phrase",
     "_enriched": false,
-    "audio": "more_slowly_please_phrase.mp3"
+    "audio": "more_slowly_please_phrase.mp3",
+    "frequency": 111
   },
   "most_mostly_adv": {
     "word": "most; mostly",
@@ -4141,28 +4478,32 @@
     "type": "phrase",
     "_generatedFrom": "de-en/phrasesbank.json:am_haufigsten_phrase",
     "_enriched": false,
-    "audio": "most_often_phrase.mp3"
+    "audio": "most_often_phrase.mp3",
+    "frequency": 279
   },
   "most_phrase": {
     "word": "most",
     "type": "phrase",
     "_generatedFrom": "de-en/phrasesbank.json:am_meisten_phrase",
     "_enriched": false,
-    "audio": "most_phrase.mp3"
+    "audio": "most_phrase.mp3",
+    "frequency": 279
   },
   "mostly_adv": {
     "word": "mostly",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:meistens_adv",
     "_enriched": false,
-    "audio": "mostly_adv.mp3"
+    "audio": "mostly_adv.mp3",
+    "frequency": 2313
   },
   "much_adv": {
     "word": "much",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:sehr_adv, de-en/generalbank.json:viel_adv, es-en/generalbank.json:mucho_adv",
     "_enriched": false,
-    "audio": "much_adv.mp3"
+    "audio": "much_adv.mp3",
+    "frequency": 135
   },
   "much_many_adv": {
     "word": "much; many",
@@ -4211,14 +4552,16 @@
     "type": "pron",
     "_generatedFrom": "es-en/pronounsbank.json:mi_possess_pron",
     "_enriched": false,
-    "audio": "my_pron.mp3"
+    "audio": "my_pron.mp3",
+    "frequency": 20
   },
   "myself_pron": {
     "word": "myself",
     "type": "pron",
     "_generatedFrom": "de-en/pronounsbank.json:mich_pron, es-en/pronounsbank.json:me_reflex_pron",
     "_enriched": false,
-    "audio": "myself_pron.mp3"
+    "audio": "myself_pron.mp3",
+    "frequency": 327
   },
   "namely_that_is_adv": {
     "word": "namely; that is",
@@ -4235,7 +4578,8 @@
     "typos": [
       "narow"
     ],
-    "audio": "narrow_adv.mp3"
+    "audio": "narrow_adv.mp3",
+    "frequency": 4956
   },
   "narrow_tight_adv": {
     "word": "narrow; tight",
@@ -4252,7 +4596,8 @@
     "type": "prep",
     "_generatedFrom": "es-en/generalbank.json:cerca_de_prep",
     "_enriched": false,
-    "audio": "near_prep.mp3"
+    "audio": "near_prep.mp3",
+    "frequency": 804
   },
   "necessarily_adv": {
     "word": "necessarily",
@@ -4262,7 +4607,8 @@
     "typos": [
       "necesarily"
     ],
-    "audio": "necessarily_adv.mp3"
+    "audio": "necessarily_adv.mp3",
+    "frequency": 4129
   },
   "necessary_adv": {
     "word": "necessary",
@@ -4272,28 +4618,32 @@
     "typos": [
       "necesary"
     ],
-    "audio": "necessary_adv.mp3"
+    "audio": "necessary_adv.mp3",
+    "frequency": 1401
   },
   "negative_adv": {
     "word": "negative",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:negativ_general",
     "_enriched": false,
-    "audio": "negative_adv.mp3"
+    "audio": "negative_adv.mp3",
+    "frequency": 2532
   },
   "neither_adv": {
     "word": "neither",
     "type": "adv",
     "_generatedFrom": "es-en/generalbank.json:tampoco_adv",
     "_enriched": false,
-    "audio": "neither_adv.mp3"
+    "audio": "neither_adv.mp3",
+    "frequency": 1010
   },
   "neither_conj": {
     "word": "neither",
     "type": "conj",
     "_generatedFrom": "es-en/generalbank.json:ni_conj",
     "_enriched": false,
-    "audio": "neither_conj.mp3"
+    "audio": "neither_conj.mp3",
+    "frequency": 1010
   },
   "neut_art": {
     "word": "neut.)",
@@ -4321,7 +4671,8 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:nie_adv, de-en/generalbank.json:niemals_adv, es-en/generalbank.json:nunca_adv",
     "_enriched": false,
-    "audio": "never_adv.mp3"
+    "audio": "never_adv.mp3",
+    "frequency": 116
   },
   "nevertheless_adv": {
     "word": "nevertheless",
@@ -4331,77 +4682,88 @@
     "typos": [
       "nevertheles"
     ],
-    "audio": "nevertheless_adv.mp3"
+    "audio": "nevertheless_adv.mp3",
+    "frequency": 6875
   },
   "next_adv": {
     "word": "next",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:naechst_general",
     "_enriched": false,
-    "audio": "next_adv.mp3"
+    "audio": "next_adv.mp3",
+    "frequency": 246
   },
   "next_door_adv": {
     "word": "next door",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:nebenan_general",
     "_enriched": false,
-    "audio": "next_door_adv.mp3"
+    "audio": "next_door_adv.mp3",
+    "frequency": 246
   },
   "next_to_prep": {
     "word": "next to",
     "type": "prep",
     "_generatedFrom": "de-en/generalbank.json:neben_prep, es-en/generalbank.json:al_lado_de_prep",
     "_enriched": false,
-    "audio": "next_to_prep.mp3"
+    "audio": "next_to_prep.mp3",
+    "frequency": 246
   },
   "next_week_expr": {
     "word": "next week",
     "type": "expr",
     "_generatedFrom": "es-en/generalbank.json:la_semana_que_viene_expr",
     "_enriched": false,
-    "audio": "next_week_expr.mp3"
+    "audio": "next_week_expr.mp3",
+    "frequency": 246
   },
   "next_year_expr": {
     "word": "next year",
     "type": "expr",
     "_generatedFrom": "es-en/generalbank.json:el_proximo_ano_expr",
     "_enriched": false,
-    "audio": "next_year_expr.mp3"
+    "audio": "next_year_expr.mp3",
+    "frequency": 246
   },
   "nice_to_meet_you_phrase": {
     "word": "Nice to meet you",
     "type": "phrase",
     "_generatedFrom": "es-en/generalbank.json:mucho_gusto_phrase, es-en/phrasesbank.json:mucho_gusto_phrase",
     "_enriched": false,
-    "audio": "nice_to_meet_you_phrase.mp3"
+    "audio": "nice_to_meet_you_phrase.mp3",
+    "frequency": 204
   },
   "night_phrase": {
     "word": "night",
     "type": "phrase",
     "_generatedFrom": "es-en/phrasesbank.json:buenas_noches_phrase",
     "_enriched": false,
-    "audio": "night_phrase.mp3"
+    "audio": "night_phrase.mp3",
+    "frequency": 169
   },
   "nine_num": {
     "word": "nine",
     "type": "num",
     "_generatedFrom": "de-en/numbersbank.json:neun_num, es-en/numbersbank.json:nueve_num",
     "_enriched": false,
-    "audio": "nine_num.mp3"
+    "audio": "nine_num.mp3",
+    "frequency": 1207
   },
   "nineteen_num": {
     "word": "nineteen",
     "type": "num",
     "_generatedFrom": "de-en/numbersbank.json:neunzehn_num",
     "_enriched": false,
-    "audio": "nineteen_num.mp3"
+    "audio": "nineteen_num.mp3",
+    "frequency": 11511
   },
   "ninety_num": {
     "word": "ninety",
     "type": "num",
     "_generatedFrom": "de-en/numbersbank.json:neunzig_num",
     "_enriched": false,
-    "audio": "ninety_num.mp3"
+    "audio": "ninety_num.mp3",
+    "frequency": 13012
   },
   "no_art": {
     "word": "no",
@@ -4409,7 +4771,8 @@
     "usageNotes": "accusative masculine",
     "_generatedFrom": "de-en/articlesbank.json:keinen_art",
     "_enriched": false,
-    "audio": "no_art.mp3"
+    "audio": "no_art.mp3",
+    "frequency": 27
   },
   "no_desire_dont_feel_like_it_adv": {
     "word": "no desire; don't feel like it",
@@ -4431,7 +4794,8 @@
     "usageNotes": "informal",
     "_generatedFrom": "de-en/generalbank.json:nee_interj, de-en/generalbank.json:nein_interj, es-en/generalbank.json:no_interj",
     "_enriched": false,
-    "audio": "no_interj.mp3"
+    "audio": "no_interj.mp3",
+    "frequency": 27
   },
   "no_masculine_art": {
     "word": "no (masculine",
@@ -4473,21 +4837,24 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:niemand_general",
     "_enriched": false,
-    "audio": "nobody_adv.mp3"
+    "audio": "nobody_adv.mp3",
+    "frequency": 457
   },
   "nor_conj": {
     "word": "nor",
     "type": "conj",
     "_generatedFrom": "es-en/generalbank.json:ni_conj",
     "_enriched": false,
-    "audio": "nor_conj.mp3"
+    "audio": "nor_conj.mp3",
+    "frequency": 1444
   },
   "normal_adv": {
     "word": "normal",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:normal_general",
     "_enriched": false,
-    "audio": "normal_adv.mp3"
+    "audio": "normal_adv.mp3",
+    "frequency": 863
   },
   "normally_adv": {
     "word": "normally",
@@ -4497,35 +4864,40 @@
     "typos": [
       "normaly"
     ],
-    "audio": "normally_adv.mp3"
+    "audio": "normally_adv.mp3",
+    "frequency": 2606
   },
   "norway_propn": {
     "word": "Norway",
     "type": "propn",
     "_generatedFrom": "es-en/generalbank.json:noruega_propn",
     "_enriched": false,
-    "audio": "norway_propn.mp3"
+    "audio": "norway_propn.mp3",
+    "frequency": 9008
   },
   "norwegian_propn": {
     "word": "Norwegian",
     "type": "propn",
     "_generatedFrom": "de-en/generalbank.json:norwegisch_propn",
     "_enriched": false,
-    "audio": "norwegian_propn.mp3"
+    "audio": "norwegian_propn.mp3",
+    "frequency": 10861
   },
   "not_adv": {
     "word": "not",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:nicht_adv",
     "_enriched": false,
-    "audio": "not_adv.mp3"
+    "audio": "not_adv.mp3",
+    "frequency": 28
   },
   "not_again_phrase": {
     "word": "not again",
     "type": "phrase",
     "_generatedFrom": "de-en/generalbank.json:nicht_schon_wieder_phrase",
     "_enriched": false,
-    "audio": "not_again_phrase.mp3"
+    "audio": "not_again_phrase.mp3",
+    "frequency": 28
   },
   "not_necessary_adv": {
     "word": "not necessary",
@@ -4535,42 +4907,48 @@
     "typos": [
       "not necesary"
     ],
-    "audio": "not_necessary_adv.mp3"
+    "audio": "not_necessary_adv.mp3",
+    "frequency": 28
   },
   "not_yet_phrase": {
     "word": "not yet",
     "type": "phrase",
     "_generatedFrom": "de-en/generalbank.json:noch_nicht_phrase",
     "_enriched": false,
-    "audio": "not_yet_phrase.mp3"
+    "audio": "not_yet_phrase.mp3",
+    "frequency": 28
   },
   "nothing_adv": {
     "word": "nothing",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:nichts_general",
     "_enriched": false,
-    "audio": "nothing_adv.mp3"
+    "audio": "nothing_adv.mp3",
+    "frequency": 147
   },
   "now_adv": {
     "word": "now",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:jetzt_adv, de-en/generalbank.json:nun_general, es-en/generalbank.json:ahora_adv",
     "_enriched": false,
-    "audio": "now_adv.mp3"
+    "audio": "now_adv.mp3",
+    "frequency": 55
   },
   "nowhere_adv": {
     "word": "nowhere",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:nirgends_general, de-en/generalbank.json:nirgendwo_general",
     "_enriched": false,
-    "audio": "nowhere_adv.mp3"
+    "audio": "nowhere_adv.mp3",
+    "frequency": 1598
   },
   "numerous_adv": {
     "word": "numerous",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:zahlreich_general",
     "_enriched": false,
-    "audio": "numerous_adv.mp3"
+    "audio": "numerous_adv.mp3",
+    "frequency": 8328
   },
   "occupied_busy_adv": {
     "word": "occupied; busy",
@@ -4587,7 +4965,8 @@
     "type": "contr",
     "_generatedFrom": "es-en/articlesbank.json:del_contr",
     "_enriched": false,
-    "audio": "of_contr.mp3"
+    "audio": "of_contr.mp3",
+    "frequency": 11
   },
   "of_course_adv": {
     "word": "of course",
@@ -4639,7 +5018,8 @@
     "type": "prep",
     "_generatedFrom": "de-en/generalbank.json:von_prep, es-en/generalbank.json:de_prep",
     "_enriched": false,
-    "audio": "of_prep.mp3"
+    "audio": "of_prep.mp3",
+    "frequency": 11
   },
   "official_adv": {
     "word": "official",
@@ -4649,35 +5029,40 @@
     "typos": [
       "oficial"
     ],
-    "audio": "official_adv.mp3"
+    "audio": "official_adv.mp3",
+    "frequency": 2075
   },
   "often_adv": {
     "word": "often",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:oft_adv, es-en/generalbank.json:a_menudo_adv",
     "_enriched": false,
-    "audio": "often_adv.mp3"
+    "audio": "often_adv.mp3",
+    "frequency": 972
   },
   "ok_interj": {
     "word": "OK",
     "type": "interj",
     "_generatedFrom": "es-en/generalbank.json:vale_interj",
     "_enriched": false,
-    "audio": "ok_interj.mp3"
+    "audio": "ok_interj.mp3",
+    "frequency": 215
   },
   "okay_alright_phrase": {
     "word": "okay, alright",
     "type": "phrase",
     "_generatedFrom": "es-en/phrasesbank.json:vale_phrase",
     "_enriched": false,
-    "audio": "okay_alright_phrase.mp3"
+    "audio": "okay_alright_phrase.mp3",
+    "frequency": 82
   },
   "okay_expr": {
     "word": "okay",
     "type": "expr",
     "_generatedFrom": "es-en/generalbank.json:de_acuerdo_expr",
     "_enriched": false,
-    "audio": "okay_expr.mp3"
+    "audio": "okay_expr.mp3",
+    "frequency": 82
   },
   "on_contr": {
     "word": "on",
@@ -4685,7 +5070,8 @@
     "usageNotes": "contracted",
     "_generatedFrom": "de-en/articlesbank.json:am_contr",
     "_enriched": false,
-    "audio": "on_contr.mp3"
+    "audio": "on_contr.mp3",
+    "frequency": 21
   },
   "on_foot_adv": {
     "word": "on foot",
@@ -4735,7 +5121,8 @@
     "usageNotes": "vertical",
     "_generatedFrom": "de-en/generalbank.json:an_prep, de-en/generalbank.json:auf_prep, de-en/generalbank.json:in_prep, es-en/generalbank.json:en_prep, es-en/generalbank.json:sobre_prep",
     "_enriched": false,
-    "audio": "on_prep.mp3"
+    "audio": "on_prep.mp3",
+    "frequency": 21
   },
   "on_saturday_phrase": {
     "word": "on Saturday",
@@ -4808,21 +5195,24 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:einmal_general, de-en/generalbank.json:mal_adv",
     "_enriched": false,
-    "audio": "once_adv.mp3"
+    "audio": "once_adv.mp3",
+    "frequency": 288
   },
   "once_more_again_adv": {
     "word": "once more; again",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:nochmals_general",
     "_enriched": false,
-    "audio": "once_more_again_adv.mp3"
+    "audio": "once_more_again_adv.mp3",
+    "frequency": 288
   },
   "one_num": {
     "word": "one",
     "type": "num",
     "_generatedFrom": "de-en/numbersbank.json:eins_num, es-en/numbersbank.json:uno_num",
     "_enriched": false,
-    "audio": "one_num.mp3"
+    "audio": "one_num.mp3",
+    "frequency": 57
   },
   "one_pron": {
     "word": "one",
@@ -4830,35 +5220,40 @@
     "usageNotes": "impersonal",
     "_generatedFrom": "de-en/pronounsbank.json:man_pron",
     "_enriched": false,
-    "audio": "one_pron.mp3"
+    "audio": "one_pron.mp3",
+    "frequency": 57
   },
   "oneself_adv": {
     "word": "oneself",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:selber_general",
     "_enriched": false,
-    "audio": "oneself_adv.mp3"
+    "audio": "oneself_adv.mp3",
+    "frequency": 11079
   },
   "oneself_pron": {
     "word": "oneself",
     "type": "pron",
     "_generatedFrom": "de-en/pronounsbank.json:sich_pron",
     "_enriched": false,
-    "audio": "oneself_pron.mp3"
+    "audio": "oneself_pron.mp3",
+    "frequency": 11079
   },
   "online_adv": {
     "word": "online",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:online_general",
     "_enriched": false,
-    "audio": "online_adv.mp3"
+    "audio": "online_adv.mp3",
+    "frequency": 2728
   },
   "only_adv": {
     "word": "only",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:nur_adv, es-en/generalbank.json:solo_adv, es-en/generalbank.json:solamente_adv",
     "_enriched": false,
-    "audio": "only_adv.mp3"
+    "audio": "only_adv.mp3",
+    "frequency": 117
   },
   "only_sole_adv": {
     "word": "only; sole",
@@ -4872,7 +5267,8 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:geoeffnet_general",
     "_enriched": false,
-    "audio": "open_adv.mp3"
+    "audio": "open_adv.mp3",
+    "frequency": 343
   },
   "opposite_across_from_adv": {
     "word": "opposite; across from",
@@ -4892,21 +5288,24 @@
     "typos": [
       "oposite"
     ],
-    "audio": "opposite_prep.mp3"
+    "audio": "opposite_prep.mp3",
+    "frequency": 2664
   },
   "optimistic_adv": {
     "word": "optimistic",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:optimistisch_general",
     "_enriched": false,
-    "audio": "optimistic_adv.mp3"
+    "audio": "optimistic_adv.mp3",
+    "frequency": 9381
   },
   "or_conj": {
     "word": "or",
     "type": "conj",
     "_generatedFrom": "de-en/generalbank.json:oder_conj, es-en/generalbank.json:o_conj",
     "_enriched": false,
-    "audio": "or_conj.mp3"
+    "audio": "or_conj.mp3",
+    "frequency": 93
   },
   "oral_verbal_adv": {
     "word": "oral; verbal",
@@ -4930,7 +5329,8 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:ander_general",
     "_enriched": false,
-    "audio": "other_adv.mp3"
+    "audio": "other_adv.mp3",
+    "frequency": 158
   },
   "otherwise_else_adv": {
     "word": "otherwise; else",
@@ -4944,105 +5344,120 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:unserer_stadt_general",
     "_enriched": false,
-    "audio": "our_city_adv.mp3"
+    "audio": "our_city_adv.mp3",
+    "frequency": 95
   },
   "our_fem_pron": {
     "word": "our (fem.",
     "type": "pron",
     "_generatedFrom": "de-en/pronounsbank.json:unsere_possessiv",
     "_enriched": false,
-    "audio": "our_fem_pron.mp3"
+    "audio": "our_fem_pron.mp3",
+    "frequency": 95
   },
   "our_masc_pron": {
     "word": "our (masc.",
     "type": "pron",
     "_generatedFrom": "de-en/pronounsbank.json:unser_possessiv",
     "_enriched": false,
-    "audio": "our_masc_pron.mp3"
+    "audio": "our_masc_pron.mp3",
+    "frequency": 95
   },
   "our_pron": {
     "word": "our",
     "type": "pron",
     "_generatedFrom": "es-en/pronounsbank.json:nuestro_possess_pron",
     "_enriched": false,
-    "audio": "our_pron.mp3"
+    "audio": "our_pron.mp3",
+    "frequency": 95
   },
   "ourselves_pron": {
     "word": "ourselves",
     "type": "pron",
     "_generatedFrom": "de-en/pronounsbank.json:uns_pron, es-en/pronounsbank.json:nos_reflex_pron",
     "_enriched": false,
-    "audio": "ourselves_pron.mp3"
+    "audio": "ourselves_pron.mp3",
+    "frequency": 1203
   },
   "out_adv": {
     "word": "out",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:raus_adv",
     "_enriched": false,
-    "audio": "out_adv.mp3"
+    "audio": "out_adv.mp3",
+    "frequency": 50
   },
   "out_of_phrase": {
     "word": "out of",
     "type": "phrase",
     "_generatedFrom": "de-en/phrasesbank.json:aus_dem_phrase",
     "_enriched": false,
-    "audio": "out_of_phrase.mp3"
+    "audio": "out_of_phrase.mp3",
+    "frequency": 50
   },
   "outside_adv": {
     "word": "outside",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:draussen_adv, de-en/generalbank.json:raus_adv, es-en/generalbank.json:afuera_adv",
     "_enriched": false,
-    "audio": "outside_adv.mp3"
+    "audio": "outside_adv.mp3",
+    "frequency": 534
   },
   "outside_of_adv": {
     "word": "outside of",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:ausserhalb_general",
     "_enriched": false,
-    "audio": "outside_of_adv.mp3"
+    "audio": "outside_of_adv.mp3",
+    "frequency": 534
   },
   "outside_of_prep": {
     "word": "outside of",
     "type": "prep",
     "_generatedFrom": "es-en/generalbank.json:fuera_de_prep",
     "_enriched": false,
-    "audio": "outside_of_prep.mp3"
+    "audio": "outside_of_prep.mp3",
+    "frequency": 534
   },
   "over_prep": {
     "word": "over",
     "type": "prep",
     "_generatedFrom": "de-en/generalbank.json:ueber_prep, es-en/generalbank.json:sobre_prep",
     "_enriched": false,
-    "audio": "over_prep.mp3"
+    "audio": "over_prep.mp3",
+    "frequency": 119
   },
   "over_there_adv": {
     "word": "over there",
     "type": "adv",
     "_generatedFrom": "es-en/generalbank.json:alli_adv",
     "_enriched": false,
-    "audio": "over_there_adv.mp3"
+    "audio": "over_there_adv.mp3",
+    "frequency": 119
   },
   "over_there_phrase": {
     "word": "over there",
     "type": "phrase",
     "_generatedFrom": "de-en/generalbank.json:dort_drueben_phrase",
     "_enriched": false,
-    "audio": "over_there_phrase.mp3"
+    "audio": "over_there_phrase.mp3",
+    "frequency": 119
   },
   "own_adv": {
     "word": "own",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:eigen_general",
     "_enriched": false,
-    "audio": "own_adv.mp3"
+    "audio": "own_adv.mp3",
+    "frequency": 239
   },
   "pale_adv": {
     "word": "pale",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:blass_general",
     "_enriched": false,
-    "audio": "pale_adv.mp3"
+    "audio": "pale_adv.mp3",
+    "frequency": 4773
   },
   "parallel_adv": {
     "word": "parallel",
@@ -5052,7 +5467,8 @@
     "typos": [
       "paralel"
     ],
-    "audio": "parallel_adv.mp3"
+    "audio": "parallel_adv.mp3",
+    "frequency": 8138
   },
   "parttime_halfday_adv": {
     "word": "part-time; half-day",
@@ -5069,7 +5485,8 @@
     "typos": [
       "pasive"
     ],
-    "audio": "passive_adv.mp3"
+    "audio": "passive_adv.mp3",
+    "frequency": 14470
   },
   "past_over_adv": {
     "word": "past; over",
@@ -5090,14 +5507,16 @@
     "type": "adv",
     "_generatedFrom": "es-en/generalbank.json:tal_vez_adv",
     "_enriched": false,
-    "audio": "perhaps_adv.mp3"
+    "audio": "perhaps_adv.mp3",
+    "frequency": 586
   },
   "peru_propn": {
     "word": "Peru",
     "type": "propn",
     "_generatedFrom": "es-en/generalbank.json:peru_propn",
     "_enriched": false,
-    "audio": "peru_propn.mp3"
+    "audio": "peru_propn.mp3",
+    "frequency": 11199
   },
   "physical_bodily_adv": {
     "word": "physical; bodily",
@@ -5111,28 +5530,32 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:angenehm_general",
     "_enriched": false,
-    "audio": "pleasant_adv.mp3"
+    "audio": "pleasant_adv.mp3",
+    "frequency": 3259
   },
   "please_interj": {
     "word": "Please",
     "type": "interj",
     "_generatedFrom": "es-en/generalbank.json:por_favor_interj",
     "_enriched": false,
-    "audio": "please_interj.mp3"
+    "audio": "please_interj.mp3",
+    "frequency": 122
   },
   "please_phrase": {
     "word": "please",
     "type": "phrase",
     "_generatedFrom": "es-en/phrasesbank.json:por_favor_phrase",
     "_enriched": false,
-    "audio": "please_phrase.mp3"
+    "audio": "please_phrase.mp3",
+    "frequency": 122
   },
   "pleased_to_meet_you_phrase": {
     "word": "pleased to meet you",
     "type": "phrase",
     "_generatedFrom": "es-en/phrasesbank.json:encantado_phrase",
     "_enriched": false,
-    "audio": "pleased_to_meet_you_phrase.mp3"
+    "audio": "pleased_to_meet_you_phrase.mp3",
+    "frequency": 2003
   },
   "plural_art": {
     "word": "plural)",
@@ -5167,21 +5590,24 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:hoeflich_general",
     "_enriched": false,
-    "audio": "polite_adv.mp3"
+    "audio": "polite_adv.mp3",
+    "frequency": 4358
   },
   "popular_adv": {
     "word": "popular",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:beliebt_general",
     "_enriched": false,
-    "audio": "popular_adv.mp3"
+    "audio": "popular_adv.mp3",
+    "frequency": 2332
   },
   "positive_adv": {
     "word": "positive",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:positiv_general",
     "_enriched": false,
-    "audio": "positive_adv.mp3"
+    "audio": "positive_adv.mp3",
+    "frequency": 2051
   },
   "possible_adv": {
     "word": "possible",
@@ -5191,7 +5617,8 @@
     "typos": [
       "posible"
     ],
-    "audio": "possible_adv.mp3"
+    "audio": "possible_adv.mp3",
+    "frequency": 598
   },
   "possibly_perhaps_adv": {
     "word": "possibly; perhaps",
@@ -5208,28 +5635,32 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:praktisch_general",
     "_enriched": false,
-    "audio": "practical_adv.mp3"
+    "audio": "practical_adv.mp3",
+    "frequency": 4646
   },
   "precisely_adv": {
     "word": "precisely",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:genau_adv",
     "_enriched": false,
-    "audio": "precisely_adv.mp3"
+    "audio": "precisely_adv.mp3",
+    "frequency": 3432
   },
   "pregnant_adv": {
     "word": "pregnant",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:schwanger_general",
     "_enriched": false,
-    "audio": "pregnant_adv.mp3"
+    "audio": "pregnant_adv.mp3",
+    "frequency": 1246
   },
   "present_adv": {
     "word": "present",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:anwesend_general",
     "_enriched": false,
-    "audio": "present_adv.mp3"
+    "audio": "present_adv.mp3",
+    "frequency": 865
   },
   "presumably_probably_adv": {
     "word": "presumably; probably",
@@ -5246,21 +5677,24 @@
     "typos": [
       "prety"
     ],
-    "audio": "pretty_adv.mp3"
+    "audio": "pretty_adv.mp3",
+    "frequency": 302
   },
   "private_adv": {
     "word": "private",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:privat_general",
     "_enriched": false,
-    "audio": "private_adv.mp3"
+    "audio": "private_adv.mp3",
+    "frequency": 988
   },
   "private_mobile_number_adv": {
     "word": "private mobile number",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:private_handynummer_general",
     "_enriched": false,
-    "audio": "private_mobile_number_adv.mp3"
+    "audio": "private_mobile_number_adv.mp3",
+    "frequency": 988
   },
   "probably_expected_adv": {
     "word": "probably; expected",
@@ -5295,7 +5729,8 @@
       "profesional",
       "profestional"
     ],
-    "audio": "professional_adv.mp3"
+    "audio": "professional_adv.mp3",
+    "frequency": 1923
   },
   "prohibited_forbidden_adv": {
     "word": "prohibited; forbidden",
@@ -5312,14 +5747,16 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:stolz_general",
     "_enriched": false,
-    "audio": "proud_adv.mp3"
+    "audio": "proud_adv.mp3",
+    "frequency": 927
   },
   "public_adv": {
     "word": "public",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:oeffentlich_general",
     "_enriched": false,
-    "audio": "public_adv.mp3"
+    "audio": "public_adv.mp3",
+    "frequency": 921
   },
   "punctual_on_time_adv": {
     "word": "punctual; on time",
@@ -5333,28 +5770,32 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:strafbar_general",
     "_enriched": false,
-    "audio": "punishable_adv.mp3"
+    "audio": "punishable_adv.mp3",
+    "frequency": 21078
   },
   "quarter_past_phrase": {
     "word": "quarter past",
     "type": "phrase",
     "_generatedFrom": "de-en/generalbank.json:viertel_nach_phrase, es-en/generalbank.json:y_cuarto_phrase",
     "_enriched": false,
-    "audio": "quarter_past_phrase.mp3"
+    "audio": "quarter_past_phrase.mp3",
+    "frequency": 2809
   },
   "quarter_to_phrase": {
     "word": "quarter to",
     "type": "phrase",
     "_generatedFrom": "de-en/generalbank.json:viertel_vor_phrase, es-en/generalbank.json:menos_cuarto_phrase",
     "_enriched": false,
-    "audio": "quarter_to_phrase.mp3"
+    "audio": "quarter_to_phrase.mp3",
+    "frequency": 2809
   },
   "quickly_adv": {
     "word": "quickly",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:schnell_adv, es-en/generalbank.json:rapido_adv",
     "_enriched": false,
-    "audio": "quickly_adv.mp3"
+    "audio": "quickly_adv.mp3",
+    "frequency": 885
   },
   "quiet_soft_adv": {
     "word": "quiet; soft",
@@ -5382,7 +5823,8 @@
     "type": "adv",
     "_generatedFrom": "es-en/generalbank.json:bastante_adv",
     "_enriched": false,
-    "audio": "quite_adv.mp3"
+    "audio": "quite_adv.mp3",
+    "frequency": 428
   },
   "quite_fairly_adv": {
     "word": "quite; fairly",
@@ -5396,21 +5838,24 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:eher_adv, de-en/generalbank.json:lieber_adv",
     "_enriched": false,
-    "audio": "rather_adv.mp3"
+    "audio": "rather_adv.mp3",
+    "frequency": 649
   },
   "raw_adv": {
     "word": "raw",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:roh_general",
     "_enriched": false,
-    "audio": "raw_adv.mp3"
+    "audio": "raw_adv.mp3",
+    "frequency": 3911
   },
   "ready_adv": {
     "word": "ready",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:bereit_general",
     "_enriched": false,
-    "audio": "ready_adv.mp3"
+    "audio": "ready_adv.mp3",
+    "frequency": 289
   },
   "real_genuine_adv": {
     "word": "real; genuine",
@@ -5424,7 +5869,8 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:realistisch_general",
     "_enriched": false,
-    "audio": "realistic_adv.mp3"
+    "audio": "realistic_adv.mp3",
+    "frequency": 7397
   },
   "really_adv": {
     "word": "really",
@@ -5434,7 +5880,8 @@
     "typos": [
       "realy"
     ],
-    "audio": "really_adv.mp3"
+    "audio": "really_adv.mp3",
+    "frequency": 98
   },
   "really_expr": {
     "word": "really",
@@ -5444,7 +5891,8 @@
     "typos": [
       "realy"
     ],
-    "audio": "really_expr.mp3"
+    "audio": "really_expr.mp3",
+    "frequency": 98
   },
   "reasonable_sensible_adv": {
     "word": "reasonable; sensible",
@@ -5458,49 +5906,56 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:kuerzlich_general, de-en/generalbank.json:neulich_general",
     "_enriched": false,
-    "audio": "recently_adv.mp3"
+    "audio": "recently_adv.mp3",
+    "frequency": 1746
   },
   "regional_adv": {
     "word": "regional",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:regional_general",
     "_enriched": false,
-    "audio": "regional_adv.mp3"
+    "audio": "regional_adv.mp3",
+    "frequency": 9355
   },
   "regular_adv": {
     "word": "regular",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:regelmaessig_general",
     "_enriched": false,
-    "audio": "regular_adv.mp3"
+    "audio": "regular_adv.mp3",
+    "frequency": 2073
   },
   "related_adv": {
     "word": "related",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:verwandt_general",
     "_enriched": false,
-    "audio": "related_adv.mp3"
+    "audio": "related_adv.mp3",
+    "frequency": 3199
   },
   "relatively_adv": {
     "word": "relatively",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:relativ_general",
     "_enriched": false,
-    "audio": "relatively_adv.mp3"
+    "audio": "relatively_adv.mp3",
+    "frequency": 8306
   },
   "relaxing_adv": {
     "word": "relaxing",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:entspannend_general",
     "_enriched": false,
-    "audio": "relaxing_adv.mp3"
+    "audio": "relaxing_adv.mp3",
+    "frequency": 8736
   },
   "reliable_adv": {
     "word": "reliable",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:zuverlaessig_general",
     "_enriched": false,
-    "audio": "reliable_adv.mp3"
+    "audio": "reliable_adv.mp3",
+    "frequency": 5867
   },
   "remaining_left_over_adv": {
     "word": "remaining; left over",
@@ -5524,7 +5979,8 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:verantwortlich_general",
     "_enriched": false,
-    "audio": "responsible_adv.mp3"
+    "audio": "responsible_adv.mp3",
+    "frequency": 1383
   },
   "responsible_in_charge_adv": {
     "word": "responsible; in charge",
@@ -5538,28 +5994,32 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:reich_general",
     "_enriched": false,
-    "audio": "rich_adv.mp3"
+    "audio": "rich_adv.mp3",
+    "frequency": 937
   },
   "right_adv": {
     "word": "right",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:rechts_general",
     "_enriched": false,
-    "audio": "right_adv.mp3"
+    "audio": "right_adv.mp3",
+    "frequency": 49
   },
   "right_away_expr": {
     "word": "right away",
     "type": "expr",
     "_generatedFrom": "es-en/generalbank.json:en_seguida_expr",
     "_enriched": false,
-    "audio": "right_away_expr.mp3"
+    "audio": "right_away_expr.mp3",
+    "frequency": 49
   },
   "right_now_adv": {
     "word": "right now",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:gerade_adv",
     "_enriched": false,
-    "audio": "right_now_adv.mp3"
+    "audio": "right_now_adv.mp3",
+    "frequency": 49
   },
   "right_quite_adv": {
     "word": "right; quite",
@@ -5580,7 +6040,8 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:romantisch_general",
     "_enriched": false,
-    "audio": "romantic_adv.mp3"
+    "audio": "romantic_adv.mp3",
+    "frequency": 1979
   },
   "round_approximately_adv": {
     "word": "round; approximately",
@@ -5597,21 +6058,24 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:salzig_general",
     "_enriched": false,
-    "audio": "salty_adv.mp3"
+    "audio": "salty_adv.mp3",
+    "frequency": 9459
   },
   "same_adv": {
     "word": "same",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:selb_general",
     "_enriched": false,
-    "audio": "same_adv.mp3"
+    "audio": "same_adv.mp3",
+    "frequency": 240
   },
   "satisfactory_adv": {
     "word": "satisfactory",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:befriedigend_general",
     "_enriched": false,
-    "audio": "satisfactory_adv.mp3"
+    "audio": "satisfactory_adv.mp3",
+    "frequency": 12731
   },
   "secret_secretly_adv": {
     "word": "secret; secretly",
@@ -5625,14 +6089,16 @@
     "type": "phrase",
     "_generatedFrom": "es-en/generalbank.json:hasta_luego_phrase, es-en/phrasesbank.json:hasta_luego_phrase",
     "_enriched": false,
-    "audio": "see_you_later_phrase.mp3"
+    "audio": "see_you_later_phrase.mp3",
+    "frequency": 69
   },
   "see_you_soon_phrase": {
     "word": "See you soon",
     "type": "phrase",
     "_generatedFrom": "es-en/generalbank.json:hasta_pronto_phrase, es-en/phrasesbank.json:hasta_pronto_phrase",
     "_enriched": false,
-    "audio": "see_you_soon_phrase.mp3"
+    "audio": "see_you_soon_phrase.mp3",
+    "frequency": 69
   },
   "see_you_tomorrow_phrase": {
     "word": "See you tomorrow",
@@ -5642,7 +6108,8 @@
     "typos": [
       "See you tomorow"
     ],
-    "audio": "see_you_tomorrow_phrase.mp3"
+    "audio": "see_you_tomorrow_phrase.mp3",
+    "frequency": 69
   },
   "self_oneself_adv": {
     "word": "self; oneself",
@@ -5680,49 +6147,56 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:getrennt_adv",
     "_enriched": false,
-    "audio": "separately_adv.mp3"
+    "audio": "separately_adv.mp3",
+    "frequency": 9963
   },
   "serious_adv": {
     "word": "serious",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:ernsthaft_general",
     "_enriched": false,
-    "audio": "serious_adv.mp3"
+    "audio": "serious_adv.mp3",
+    "frequency": 588
   },
   "seriously_expr": {
     "word": "seriously",
     "type": "expr",
     "_generatedFrom": "es-en/generalbank.json:en_serio_expr",
     "_enriched": false,
-    "audio": "seriously_expr.mp3"
+    "audio": "seriously_expr.mp3",
+    "frequency": 807
   },
   "seven_num": {
     "word": "seven",
     "type": "num",
     "_generatedFrom": "de-en/numbersbank.json:sieben_num, es-en/numbersbank.json:siete_num",
     "_enriched": false,
-    "audio": "seven_num.mp3"
+    "audio": "seven_num.mp3",
+    "frequency": 788
   },
   "seventeen_num": {
     "word": "seventeen",
     "type": "num",
     "_generatedFrom": "de-en/numbersbank.json:siebzehn_num",
     "_enriched": false,
-    "audio": "seventeen_num.mp3"
+    "audio": "seventeen_num.mp3",
+    "frequency": 8940
   },
   "seventh_num": {
     "word": "seventh",
     "type": "num",
     "_generatedFrom": "de-en/numbersbank.json:siebte_num",
     "_enriched": false,
-    "audio": "seventh_num.mp3"
+    "audio": "seventh_num.mp3",
+    "frequency": 5671
   },
   "seventy_num": {
     "word": "seventy",
     "type": "num",
     "_generatedFrom": "de-en/numbersbank.json:siebzig_num",
     "_enriched": false,
-    "audio": "seventy_num.mp3"
+    "audio": "seventy_num.mp3",
+    "frequency": 13000
   },
   "sharp_spicy_adv": {
     "word": "sharp; spicy",
@@ -5736,14 +6210,16 @@
     "type": "pron",
     "_generatedFrom": "de-en/pronounsbank.json:sie_pron, es-en/pronounsbank.json:ella_pron",
     "_enriched": false,
-    "audio": "she_pron.mp3"
+    "audio": "she_pron.mp3",
+    "frequency": 46
   },
   "should_adv": {
     "word": "should",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:sollte_general",
     "_enriched": false,
-    "audio": "should_adv.mp3"
+    "audio": "should_adv.mp3",
+    "frequency": 124
   },
   "sick_ill_adv": {
     "word": "sick; ill",
@@ -5760,42 +6236,48 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:aehnlich_general",
     "_enriched": false,
-    "audio": "similar_adv.mp3"
+    "audio": "similar_adv.mp3",
+    "frequency": 2537
   },
   "simply_adv": {
     "word": "simply",
     "type": "adv",
     "_generatedFrom": "es-en/generalbank.json:simplemente_adv",
     "_enriched": false,
-    "audio": "simply_adv.mp3"
+    "audio": "simply_adv.mp3",
+    "frequency": 1337
   },
   "since_conj": {
     "word": "since",
     "type": "conj",
     "_generatedFrom": "es-en/generalbank.json:como_conj",
     "_enriched": false,
-    "audio": "since_conj.mp3"
+    "audio": "since_conj.mp3",
+    "frequency": 312
   },
   "since_phrase": {
     "word": "since",
     "type": "phrase",
     "_generatedFrom": "de-en/phrasesbank.json:seit_der_phrase",
     "_enriched": false,
-    "audio": "since_phrase.mp3"
+    "audio": "since_phrase.mp3",
+    "frequency": 312
   },
   "since_prep": {
     "word": "since",
     "type": "prep",
     "_generatedFrom": "de-en/generalbank.json:seit_prep, es-en/generalbank.json:desde_prep",
     "_enriched": false,
-    "audio": "since_prep.mp3"
+    "audio": "since_prep.mp3",
+    "frequency": 312
   },
   "since_then_adv": {
     "word": "since then",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:seitdem_general",
     "_enriched": false,
-    "audio": "since_then_adv.mp3"
+    "audio": "since_then_adv.mp3",
+    "frequency": 312
   },
   "single_individual_adv": {
     "word": "single; individual",
@@ -5820,28 +6302,32 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:setzt_hat_gesetzt_general",
     "_enriched": false,
-    "audio": "sits_has_sat_adv.mp3"
+    "audio": "sits_has_sat_adv.mp3",
+    "frequency": 4971
   },
   "six_num": {
     "word": "six",
     "type": "num",
     "_generatedFrom": "de-en/numbersbank.json:sechs_num, es-en/numbersbank.json:seis_num",
     "_enriched": false,
-    "audio": "six_num.mp3"
+    "audio": "six_num.mp3",
+    "frequency": 546
   },
   "sixteen_num": {
     "word": "sixteen",
     "type": "num",
     "_generatedFrom": "de-en/numbersbank.json:sechszehn_num, es-en/numbersbank.json:dieciseis_num",
     "_enriched": false,
-    "audio": "sixteen_num.mp3"
+    "audio": "sixteen_num.mp3",
+    "frequency": 7596
   },
   "sixty_num": {
     "word": "sixty",
     "type": "num",
     "_generatedFrom": "de-en/numbersbank.json:sechzig_num",
     "_enriched": false,
-    "audio": "sixty_num.mp3"
+    "audio": "sixty_num.mp3",
+    "frequency": 8502
   },
   "sleep_well_phrase": {
     "word": "Sleep well!",
@@ -5851,28 +6337,32 @@
     "typos": [
       "Sleep wel!"
     ],
-    "audio": "sleep_well_phrase.mp3"
+    "audio": "sleep_well_phrase.mp3",
+    "frequency": 425
   },
   "slim_adv": {
     "word": "slim",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:schlank_general",
     "_enriched": false,
-    "audio": "slim_adv.mp3"
+    "audio": "slim_adv.mp3",
+    "frequency": 6240
   },
   "slower_please_phrase": {
     "word": "slower, please",
     "type": "phrase",
     "_generatedFrom": "es-en/phrasesbank.json:mas_despacio_phrase",
     "_enriched": false,
-    "audio": "slower_please_phrase.mp3"
+    "audio": "slower_please_phrase.mp3",
+    "frequency": 7597
   },
   "slowly_adv": {
     "word": "slowly",
     "type": "adv",
     "_generatedFrom": "es-en/generalbank.json:despacio_adv",
     "_enriched": false,
-    "audio": "slowly_adv.mp3"
+    "audio": "slowly_adv.mp3",
+    "frequency": 1750
   },
   "small_slight_adv": {
     "word": "small; slight",
@@ -5899,7 +6389,8 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:also_adv, de-en/generalbank.json:dann_adv, de-en/generalbank.json:so_adv, es-en/generalbank.json:tan_adv, es-en/generalbank.json:asi_adv",
     "_enriched": false,
-    "audio": "so_adv.mp3"
+    "audio": "so_adv.mp3",
+    "frequency": 38
   },
   "so_beautiful_adv": {
     "word": "so beautiful",
@@ -5913,7 +6404,8 @@
     "type": "conj",
     "_generatedFrom": "es-en/generalbank.json:pues_conj",
     "_enriched": false,
-    "audio": "so_conj.mp3"
+    "audio": "so_conj.mp3",
+    "frequency": 38
   },
   "so_far_until_now_adv": {
     "word": "so far; until now",
@@ -5951,14 +6443,16 @@
     "typos": [
       "so-caled"
     ],
-    "audio": "socalled_adv.mp3"
+    "audio": "socalled_adv.mp3",
+    "frequency": 5003
   },
   "social_adv": {
     "word": "social",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:sozial_general",
     "_enriched": false,
-    "audio": "social_adv.mp3"
+    "audio": "social_adv.mp3",
+    "frequency": 1670
   },
   "some_adv": {
     "word": "some",
@@ -5966,7 +6460,8 @@
     "usageNotes": "masc. pl.",
     "_generatedFrom": "es-en/articlesbank.json:unos_articulo, es-en/articlesbank.json:unas_articulo",
     "_enriched": false,
-    "audio": "some_adv.mp3"
+    "audio": "some_adv.mp3",
+    "frequency": 100
   },
   "some_agreed_adv": {
     "word": "some; agreed",
@@ -5994,7 +6489,8 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:jemand_general",
     "_enriched": false,
-    "audio": "someone_adv.mp3"
+    "audio": "someone_adv.mp3",
+    "frequency": 207
   },
   "something_a_little_adv": {
     "word": "something; a little",
@@ -6018,14 +6514,16 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:manchmal_adv, es-en/generalbank.json:a_veces_adv",
     "_enriched": false,
-    "audio": "sometimes_adv.mp3"
+    "audio": "sometimes_adv.mp3",
+    "frequency": 529
   },
   "soon_adv": {
     "word": "soon",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:bald_adv, es-en/generalbank.json:pronto_adv",
     "_enriched": false,
-    "audio": "soon_adv.mp3"
+    "audio": "soon_adv.mp3",
+    "frequency": 360
   },
   "sorry_excuse_me_phrase": {
     "word": "sorry, excuse me",
@@ -6035,7 +6533,8 @@
     "typos": [
       "sory, excuse me"
     ],
-    "audio": "sorry_excuse_me_phrase.mp3"
+    "audio": "sorry_excuse_me_phrase.mp3",
+    "frequency": 127
   },
   "sorry_interj": {
     "word": "Sorry",
@@ -6045,14 +6544,16 @@
     "typos": [
       "Sory"
     ],
-    "audio": "sorry_interj.mp3"
+    "audio": "sorry_interj.mp3",
+    "frequency": 127
   },
   "soso_phrase": {
     "word": "So-so",
     "type": "phrase",
     "_generatedFrom": "es-en/generalbank.json:mas_o_menos_phrase, es-en/phrasesbank.json:mas_o_menos_phrase",
     "_enriched": false,
-    "audio": "soso_phrase.mp3"
+    "audio": "soso_phrase.mp3",
+    "frequency": 15982
   },
   "sour_angry_adv": {
     "word": "sour; angry",
@@ -6066,14 +6567,16 @@
     "type": "propn",
     "_generatedFrom": "es-en/generalbank.json:espana_propn",
     "_enriched": false,
-    "audio": "spain_propn.mp3"
+    "audio": "spain_propn.mp3",
+    "frequency": 3240
   },
   "special_adv": {
     "word": "special",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:besonder_general",
     "_enriched": false,
-    "audio": "special_adv.mp3"
+    "audio": "special_adv.mp3",
+    "frequency": 581
   },
   "special_specific_adv": {
     "word": "special; specific",
@@ -6087,7 +6590,8 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:statistisch_general",
     "_enriched": false,
-    "audio": "statistical_adv.mp3"
+    "audio": "statistical_adv.mp3",
+    "frequency": 22976
   },
   "staycation_phrase": {
     "word": "staycation",
@@ -6104,7 +6608,8 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:steil_general",
     "_enriched": false,
-    "audio": "steep_adv.mp3"
+    "audio": "steep_adv.mp3",
+    "frequency": 10069
   },
   "still_adv": {
     "word": "still",
@@ -6114,14 +6619,16 @@
     "typos": [
       "stil"
     ],
-    "audio": "still_adv.mp3"
+    "audio": "still_adv.mp3",
+    "frequency": 144
   },
   "straight_ahead_adv": {
     "word": "straight ahead",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:geradeaus_general",
     "_enriched": false,
-    "audio": "straight_ahead_adv.mp3"
+    "audio": "straight_ahead_adv.mp3",
+    "frequency": 677
   },
   "strange_odd_adv": {
     "word": "strange; odd",
@@ -6145,7 +6652,8 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:dumm_general",
     "_enriched": false,
-    "audio": "stupid_adv.mp3"
+    "audio": "stupid_adv.mp3",
+    "frequency": 523
   },
   "stylistic_adv": {
     "word": "stylistic",
@@ -6162,14 +6670,16 @@
     "typos": [
       "succesful"
     ],
-    "audio": "successful_adv.mp3"
+    "audio": "successful_adv.mp3",
+    "frequency": 2385
   },
   "such_adv": {
     "word": "such",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:solch_general",
     "_enriched": false,
-    "audio": "such_adv.mp3"
+    "audio": "such_adv.mp3",
+    "frequency": 298
   },
   "suddenly_adv": {
     "word": "suddenly",
@@ -6179,7 +6689,8 @@
     "typos": [
       "sudenly"
     ],
-    "audio": "suddenly_adv.mp3"
+    "audio": "suddenly_adv.mp3",
+    "frequency": 1111
   },
   "suddenly_expr": {
     "word": "suddenly",
@@ -6189,7 +6700,8 @@
     "typos": [
       "sudenly"
     ],
-    "audio": "suddenly_expr.mp3"
+    "audio": "suddenly_expr.mp3",
+    "frequency": 1111
   },
   "sufficient_adv": {
     "word": "sufficient",
@@ -6200,7 +6712,8 @@
       "suficient",
       "sufficeint"
     ],
-    "audio": "sufficient_adv.mp3"
+    "audio": "sufficient_adv.mp3",
+    "frequency": 7399
   },
   "sunbathe_phrase": {
     "word": "To sunbathe",
@@ -6214,28 +6727,32 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:super_adv",
     "_enriched": false,
-    "audio": "super_adv.mp3"
+    "audio": "super_adv.mp3",
+    "frequency": 1484
   },
   "sure_interj": {
     "word": "sure",
     "type": "interj",
     "_generatedFrom": "de-en/generalbank.json:klar_interj, es-en/generalbank.json:claro_interj",
     "_enriched": false,
-    "audio": "sure_interj.mp3"
+    "audio": "sure_interj.mp3",
+    "frequency": 137
   },
   "surely_adv": {
     "word": "surely",
     "type": "adv",
     "_generatedFrom": "es-en/generalbank.json:seguramente_adv",
     "_enriched": false,
-    "audio": "surely_adv.mp3"
+    "audio": "surely_adv.mp3",
+    "frequency": 1643
   },
   "switzerland_propn": {
     "word": "Switzerland",
     "type": "propn",
     "_generatedFrom": "de-en/generalbank.json:die_schweiz_propn",
     "_enriched": false,
-    "audio": "switzerland_propn.mp3"
+    "audio": "switzerland_propn.mp3",
+    "frequency": 6169
   },
   "take_a_walk_phrase": {
     "word": "To take a walk",
@@ -6249,14 +6766,16 @@
     "type": "phrase",
     "_generatedFrom": "de-en/generalbank.json:dauert_laenger_phrase",
     "_enriched": false,
-    "audio": "takes_longer_phrase.mp3"
+    "audio": "takes_longer_phrase.mp3",
+    "frequency": 678
   },
   "talk_to_you_later_phrase": {
     "word": "Talk to you later!",
     "type": "phrase",
     "_generatedFrom": "de-en/generalbank.json:bis_dann_phrase",
     "_enriched": false,
-    "audio": "talk_to_you_later_phrase.mp3"
+    "audio": "talk_to_you_later_phrase.mp3",
+    "frequency": 164
   },
   "temporary_provisional_adv": {
     "word": "temporary; provisional",
@@ -6273,7 +6792,8 @@
     "type": "num",
     "_generatedFrom": "de-en/numbersbank.json:zehn_num, es-en/numbersbank.json:diez_num",
     "_enriched": false,
-    "audio": "ten_num.mp3"
+    "audio": "ten_num.mp3",
+    "frequency": 620
   },
   "terrible_awful_adv": {
     "word": "terrible; awful",
@@ -6300,63 +6820,72 @@
     "type": "conj",
     "_generatedFrom": "de-en/generalbank.json:als_conj",
     "_enriched": false,
-    "audio": "than_conj.mp3"
+    "audio": "than_conj.mp3",
+    "frequency": 166
   },
   "thank_you_interj": {
     "word": "Thank you",
     "type": "interj",
     "_generatedFrom": "es-en/generalbank.json:gracias_interj",
     "_enriched": false,
-    "audio": "thank_you_interj.mp3"
+    "audio": "thank_you_interj.mp3",
+    "frequency": 131
   },
   "thank_you_phrase": {
     "word": "thank you",
     "type": "phrase",
     "_generatedFrom": "es-en/phrasesbank.json:gracias_phrase",
     "_enriched": false,
-    "audio": "thank_you_phrase.mp3"
+    "audio": "thank_you_phrase.mp3",
+    "frequency": 131
   },
   "thank_you_very_much_phrase": {
     "word": "thank you very much",
     "type": "phrase",
     "_generatedFrom": "es-en/phrasesbank.json:muchas_gracias_phrase",
     "_enriched": false,
-    "audio": "thank_you_very_much_phrase.mp3"
+    "audio": "thank_you_very_much_phrase.mp3",
+    "frequency": 131
   },
   "thanks_interj": {
     "word": "thanks",
     "type": "interj",
     "_generatedFrom": "de-en/generalbank.json:danke_interj",
     "_enriched": false,
-    "audio": "thanks_interj.mp3"
+    "audio": "thanks_interj.mp3",
+    "frequency": 209
   },
   "that_conj": {
     "word": "that",
     "type": "conj",
     "_generatedFrom": "de-en/generalbank.json:dass_conj, es-en/generalbank.json:que_conj",
     "_enriched": false,
-    "audio": "that_conj.mp3"
+    "audio": "that_conj.mp3",
+    "frequency": 9
   },
   "that_is_to_say_phrase": {
     "word": "That is to say",
     "type": "phrase",
     "_generatedFrom": "es-en/generalbank.json:es_decir_phrase",
     "_enriched": false,
-    "audio": "that_is_to_say_phrase.mp3"
+    "audio": "that_is_to_say_phrase.mp3",
+    "frequency": 9
   },
   "that_pron": {
     "word": "that",
     "type": "pron",
     "_generatedFrom": "es-en/pronounsbank.json:ese_demon_pron, es-en/pronounsbank.json:aquel_demon_pron",
     "_enriched": false,
-    "audio": "that_pron.mp3"
+    "audio": "that_pron.mp3",
+    "frequency": 9
   },
   "that_sounds_good_phrase": {
     "word": "that sounds good",
     "type": "phrase",
     "_generatedFrom": "de-en/generalbank.json:das_klingt_gut_phrase",
     "_enriched": false,
-    "audio": "that_sounds_good_phrase.mp3"
+    "audio": "that_sounds_good_phrase.mp3",
+    "frequency": 9
   },
   "thats_right_interj": {
     "word": "that's right",
@@ -6378,14 +6907,16 @@
     "usageNotes": "masc. sing.",
     "_generatedFrom": "es-en/articlesbank.json:el_articulo, es-en/articlesbank.json:la_articulo, es-en/articlesbank.json:los_articulo, es-en/articlesbank.json:las_articulo",
     "_enriched": false,
-    "audio": "the_adv.mp3"
+    "audio": "the_adv.mp3",
+    "frequency": 3
   },
   "the_answering_machine_adv": {
     "word": "the answering machine",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:den_anrufbeantworter_general",
     "_enriched": false,
-    "audio": "the_answering_machine_adv.mp3"
+    "audio": "the_answering_machine_adv.mp3",
+    "frequency": 3
   },
   "the_art": {
     "word": "the",
@@ -6393,7 +6924,8 @@
     "usageNotes": "masculine",
     "_generatedFrom": "de-en/articlesbank.json:der_art, de-en/articlesbank.json:das_art, de-en/articlesbank.json:den_art",
     "_enriched": false,
-    "audio": "the_art.mp3"
+    "audio": "the_art.mp3",
+    "frequency": 3
   },
   "the_bank_adv": {
     "word": "to the bank",
@@ -6430,21 +6962,24 @@
     "usageNotes": "object",
     "_generatedFrom": "de-en/generalbank.json:den_elefanten_phrase",
     "_enriched": false,
-    "audio": "the_elephant_phrase.mp3"
+    "audio": "the_elephant_phrase.mp3",
+    "frequency": 3
   },
   "the_feminine_art": {
     "word": "the (feminine",
     "type": "art",
     "_generatedFrom": "de-en/articlesbank.json:die_art",
     "_enriched": false,
-    "audio": "the_feminine_art.mp3"
+    "audio": "the_feminine_art.mp3",
+    "frequency": 3
   },
   "the_holiday_adv": {
     "word": "the holiday",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:dem_urlaub_general",
     "_enriched": false,
-    "audio": "the_holiday_adv.mp3"
+    "audio": "the_holiday_adv.mp3",
+    "frequency": 3
   },
   "the_left_adv": {
     "word": "to the left",
@@ -6459,7 +6994,8 @@
     "usageNotes": "object",
     "_generatedFrom": "de-en/generalbank.json:den_loewen_phrase",
     "_enriched": false,
-    "audio": "the_lion_phrase.mp3"
+    "audio": "the_lion_phrase.mp3",
+    "frequency": 3
   },
   "the_mountains_expr": {
     "word": "to the mountains",
@@ -6473,49 +7009,56 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:dasselbe_general",
     "_enriched": false,
-    "audio": "the_same_adv.mp3"
+    "audio": "the_same_adv.mp3",
+    "frequency": 3
   },
   "the_weather_is_bad_phrase": {
     "word": "The weather is bad",
     "type": "phrase",
     "_generatedFrom": "es-en/generalbank.json:hace_mal_tiempo_phrase",
     "_enriched": false,
-    "audio": "the_weather_is_bad_phrase.mp3"
+    "audio": "the_weather_is_bad_phrase.mp3",
+    "frequency": 3
   },
   "the_weather_is_good_phrase": {
     "word": "The weather is good",
     "type": "phrase",
     "_generatedFrom": "es-en/generalbank.json:hace_buen_tiempo_phrase",
     "_enriched": false,
-    "audio": "the_weather_is_good_phrase.mp3"
+    "audio": "the_weather_is_good_phrase.mp3",
+    "frequency": 3
   },
   "the_weekend_expr": {
     "word": "the weekend",
     "type": "expr",
     "_generatedFrom": "es-en/generalbank.json:el_fin_de_semana_expr",
     "_enriched": false,
-    "audio": "the_weekend_expr.mp3"
+    "audio": "the_weekend_expr.mp3",
+    "frequency": 3
   },
   "their_fem_pron": {
     "word": "their (fem.",
     "type": "pron",
     "_generatedFrom": "de-en/pronounsbank.json:eure_possessiv",
     "_enriched": false,
-    "audio": "their_fem_pron.mp3"
+    "audio": "their_fem_pron.mp3",
+    "frequency": 152
   },
   "their_masc_pron": {
     "word": "their (masc.",
     "type": "pron",
     "_generatedFrom": "de-en/pronounsbank.json:euer_possessiv",
     "_enriched": false,
-    "audio": "their_masc_pron.mp3"
+    "audio": "their_masc_pron.mp3",
+    "frequency": 152
   },
   "their_pron": {
     "word": "their",
     "type": "pron",
     "_generatedFrom": "es-en/pronounsbank.json:su_possess_pron",
     "_enriched": false,
-    "audio": "their_pron.mp3"
+    "audio": "their_pron.mp3",
+    "frequency": 152
   },
   "them_pron": {
     "word": "them",
@@ -6523,77 +7066,88 @@
     "usageNotes": "dative plural",
     "_generatedFrom": "de-en/pronounsbank.json:ihnen_pron, es-en/pronounsbank.json:los_dirobj_pron, es-en/pronounsbank.json:las_dirobj_pron, es-en/pronounsbank.json:les_indobj_pron",
     "_enriched": false,
-    "audio": "them_pron.mp3"
+    "audio": "them_pron.mp3",
+    "frequency": 87
   },
   "themselves_pron": {
     "word": "themselves",
     "type": "pron",
     "_generatedFrom": "es-en/pronounsbank.json:se_reflex_pron",
     "_enriched": false,
-    "audio": "themselves_pron.mp3"
+    "audio": "themselves_pron.mp3",
+    "frequency": 1151
   },
   "then_adv": {
     "word": "then",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:da_adv, de-en/generalbank.json:danach_adv, es-en/generalbank.json:luego_adv",
     "_enriched": false,
-    "audio": "then_adv.mp3"
+    "audio": "then_adv.mp3",
+    "frequency": 91
   },
   "then_left_adv": {
     "word": "then left",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:dann_links_general",
     "_enriched": false,
-    "audio": "then_left_adv.mp3"
+    "audio": "then_left_adv.mp3",
+    "frequency": 91
   },
   "theoretical_adv": {
     "word": "theoretical",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:theoretisch_general",
     "_enriched": false,
-    "audio": "theoretical_adv.mp3"
+    "audio": "theoretical_adv.mp3",
+    "frequency": 14452
   },
   "there_adv": {
     "word": "there",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:da_adv, de-en/generalbank.json:dort_adv, de-en/generalbank.json:dorthin_general, es-en/generalbank.json:ahi_adv",
     "_enriched": false,
-    "audio": "there_adv.mp3"
+    "audio": "there_adv.mp3",
+    "frequency": 40
   },
   "there_are_phrase": {
     "word": "There are",
     "type": "phrase",
     "_generatedFrom": "es-en/generalbank.json:hay_phrase",
     "_enriched": false,
-    "audio": "there_are_phrase.mp3"
+    "audio": "there_are_phrase.mp3",
+    "frequency": 40
   },
   "there_arent_phrase": {
     "word": "There aren't",
     "type": "phrase",
     "_generatedFrom": "es-en/generalbank.json:no_hay_phrase",
     "_enriched": false,
-    "audio": "there_arent_phrase.mp3"
+    "audio": "there_arent_phrase.mp3",
+    "frequency": 40
   },
   "there_interr": {
     "word": "there",
     "type": "interr",
     "_generatedFrom": "de-en/generalbank.json:wohin_interr",
     "_enriched": false,
-    "audio": "there_interr.mp3"
+    "audio": "there_interr.mp3",
+    "frequency": 40
   },
   "there_is_phrase": {
     "word": "there is",
     "type": "phrase",
     "_generatedFrom": "de-en/generalbank.json:es_gibt_phrase, es-en/generalbank.json:hay_phrase",
     "_enriched": false,
-    "audio": "there_is_phrase.mp3"
+    "audio": "there_is_phrase.mp3",
+    "frequency": 40
   },
   "there_isnt_phrase": {
     "word": "There isn't",
     "type": "phrase",
     "_generatedFrom": "es-en/generalbank.json:no_hay_phrase",
     "_enriched": false,
-    "audio": "there_isnt_phrase.mp3"
+    "audio": "there_isnt_phrase.mp3",
+    "frequency": 40
   },
   "there_to_there_adv": {
     "word": "there; to there",
@@ -6607,7 +7161,8 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:deshalb_general",
     "_enriched": false,
-    "audio": "therefore_adv.mp3"
+    "audio": "therefore_adv.mp3",
+    "frequency": 2349
   },
   "therefore_from_there_adv": {
     "word": "therefore; from there",
@@ -6622,21 +7177,24 @@
     "usageNotes": "near",
     "_generatedFrom": "es-en/pronounsbank.json:este_demon_pron",
     "_enriched": false,
-    "audio": "these_pron.mp3"
+    "audio": "these_pron.mp3",
+    "frequency": 139
   },
   "they_masculine_pron": {
     "word": "they (masculine",
     "type": "pron",
     "_generatedFrom": "es-en/pronounsbank.json:ellos_pron",
     "_enriched": false,
-    "audio": "they_masculine_pron.mp3"
+    "audio": "they_masculine_pron.mp3",
+    "frequency": 42
   },
   "they_pron": {
     "word": "they",
     "type": "pron",
     "_generatedFrom": "de-en/pronounsbank.json:sie_pron, es-en/pronounsbank.json:ellas_pron",
     "_enriched": false,
-    "audio": "they_pron.mp3"
+    "audio": "they_pron.mp3",
+    "frequency": 42
   },
   "thick_fat_adv": {
     "word": "thick; fat",
@@ -6650,49 +7208,56 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:duenn_general",
     "_enriched": false,
-    "audio": "thin_adv.mp3"
+    "audio": "thin_adv.mp3",
+    "frequency": 2734
   },
   "third_num": {
     "word": "third",
     "type": "num",
     "_generatedFrom": "de-en/numbersbank.json:dritte_num",
     "_enriched": false,
-    "audio": "third_num.mp3"
+    "audio": "third_num.mp3",
+    "frequency": 977
   },
   "third_row_adv": {
     "word": "third row",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:dritten_reihe_general",
     "_enriched": false,
-    "audio": "third_row_adv.mp3"
+    "audio": "third_row_adv.mp3",
+    "frequency": 977
   },
   "thirsty_adv": {
     "word": "thirsty",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:durstig_general",
     "_enriched": false,
-    "audio": "thirsty_adv.mp3"
+    "audio": "thirsty_adv.mp3",
+    "frequency": 3746
   },
   "thirteen_num": {
     "word": "thirteen",
     "type": "num",
     "_generatedFrom": "de-en/numbersbank.json:dreizehn_num, es-en/numbersbank.json:trece_num",
     "_enriched": false,
-    "audio": "thirteen_num.mp3"
+    "audio": "thirteen_num.mp3",
+    "frequency": 7790
   },
   "thirteenth_num": {
     "word": "thirteenth",
     "type": "num",
     "_generatedFrom": "de-en/numbersbank.json:dreizehnten_num",
     "_enriched": false,
-    "audio": "thirteenth_num.mp3"
+    "audio": "thirteenth_num.mp3",
+    "frequency": 30794
   },
   "thirty_num": {
     "word": "thirty",
     "type": "num",
     "_generatedFrom": "de-en/numbersbank.json:dreissig_num, es-en/numbersbank.json:treinta_num",
     "_enriched": false,
-    "audio": "thirty_num.mp3"
+    "audio": "thirty_num.mp3",
+    "frequency": 3586
   },
   "thirtyfirst_num": {
     "word": "thirty-first",
@@ -6706,21 +7271,24 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:dies_general",
     "_enriched": false,
-    "audio": "this_adv.mp3"
+    "audio": "this_adv.mp3",
+    "frequency": 17
   },
   "this_pron": {
     "word": "this",
     "type": "pron",
     "_generatedFrom": "es-en/pronounsbank.json:este_demon_pron",
     "_enriched": false,
-    "audio": "this_pron.mp3"
+    "audio": "this_pron.mp3",
+    "frequency": 17
   },
   "thorough_adv": {
     "word": "thorough",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:gruendlich_general",
     "_enriched": false,
-    "audio": "thorough_adv.mp3"
+    "audio": "thorough_adv.mp3",
+    "frequency": 7357
   },
   "those_pron": {
     "word": "those",
@@ -6728,21 +7296,24 @@
     "usageNotes": "medium distance",
     "_generatedFrom": "es-en/pronounsbank.json:ese_demon_pron, es-en/pronounsbank.json:aquel_demon_pron",
     "_enriched": false,
-    "audio": "those_pron.mp3"
+    "audio": "those_pron.mp3",
+    "frequency": 172
   },
   "three_num": {
     "word": "three",
     "type": "num",
     "_generatedFrom": "de-en/numbersbank.json:drei_num, es-en/numbersbank.json:tres_num",
     "_enriched": false,
-    "audio": "three_num.mp3"
+    "audio": "three_num.mp3",
+    "frequency": 231
   },
   "through_prep": {
     "word": "through",
     "type": "prep",
     "_generatedFrom": "de-en/generalbank.json:durch_prep, es-en/generalbank.json:por_prep",
     "_enriched": false,
-    "audio": "through_prep.mp3"
+    "audio": "through_prep.mp3",
+    "frequency": 216
   },
   "tidy_proper_adv": {
     "word": "tidy; proper",
@@ -6763,7 +7334,8 @@
     "type": "contr",
     "_generatedFrom": "de-en/articlesbank.json:ins_contr, de-en/articlesbank.json:zum_contr, de-en/articlesbank.json:zur_contr",
     "_enriched": false,
-    "audio": "to_contr.mp3"
+    "audio": "to_contr.mp3",
+    "frequency": 4
   },
   "to_prep": {
     "word": "to",
@@ -6771,14 +7343,16 @@
     "usageNotes": "with places",
     "_generatedFrom": "de-en/generalbank.json:nach_prep, de-en/generalbank.json:zu_prep, de-en/generalbank.json:zum_prep, es-en/generalbank.json:a_prep, es-en/generalbank.json:para_prep",
     "_enriched": false,
-    "audio": "to_prep.mp3"
+    "audio": "to_prep.mp3",
+    "frequency": 4
   },
   "today_adv": {
     "word": "today",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:heute_adv, es-en/generalbank.json:hoy_adv",
     "_enriched": false,
-    "audio": "today_adv.mp3"
+    "audio": "today_adv.mp3",
+    "frequency": 232
   },
   "todays_current_adv": {
     "word": "today's; current",
@@ -6795,7 +7369,8 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:zusammen_adv, es-en/generalbank.json:juntos_adv",
     "_enriched": false,
-    "audio": "together_adv.mp3"
+    "audio": "together_adv.mp3",
+    "frequency": 267
   },
   "together_joint_adv": {
     "word": "together; joint",
@@ -6809,7 +7384,8 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:tolerant_general",
     "_enriched": false,
-    "audio": "tolerant_adv.mp3"
+    "audio": "tolerant_adv.mp3",
+    "frequency": 18548
   },
   "tomorrow_adv": {
     "word": "tomorrow",
@@ -6819,35 +7395,40 @@
     "typos": [
       "tomorow"
     ],
-    "audio": "tomorrow_adv.mp3"
+    "audio": "tomorrow_adv.mp3",
+    "frequency": 316
   },
   "too_as_in_too_late_adv": {
     "word": "too, as in \"too late\"",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:zu_adv",
     "_enriched": false,
-    "audio": "too_as_in_too_late_adv.mp3"
+    "audio": "too_as_in_too_late_adv.mp3",
+    "frequency": 110
   },
   "too_early_phrase": {
     "word": "too early",
     "type": "phrase",
     "_generatedFrom": "de-en/generalbank.json:zu_frueh_phrase",
     "_enriched": false,
-    "audio": "too_early_phrase.mp3"
+    "audio": "too_early_phrase.mp3",
+    "frequency": 110
   },
   "too_much_adv": {
     "word": "too much",
     "type": "adv",
     "_generatedFrom": "es-en/generalbank.json:demasiado_adv",
     "_enriched": false,
-    "audio": "too_much_adv.mp3"
+    "audio": "too_much_adv.mp3",
+    "frequency": 110
   },
   "too_much_phrase": {
     "word": "too much",
     "type": "phrase",
     "_generatedFrom": "de-en/generalbank.json:zu_viel_phrase",
     "_enriched": false,
-    "audio": "too_much_phrase.mp3"
+    "audio": "too_much_phrase.mp3",
+    "frequency": 110
   },
   "total_complete_adv": {
     "word": "total; complete",
@@ -6861,7 +7442,8 @@
     "type": "prep",
     "_generatedFrom": "es-en/generalbank.json:hacia_prep",
     "_enriched": false,
-    "audio": "towards_prep.mp3"
+    "audio": "towards_prep.mp3",
+    "frequency": 1504
   },
   "traditional_adv": {
     "word": "traditional",
@@ -6871,28 +7453,32 @@
     "typos": [
       "tradisional"
     ],
-    "audio": "traditional_adv.mp3"
+    "audio": "traditional_adv.mp3",
+    "frequency": 4275
   },
   "true_adv": {
     "word": "true",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:wahr_general",
     "_enriched": false,
-    "audio": "true_adv.mp3"
+    "audio": "true_adv.mp3",
+    "frequency": 357
   },
   "twelve_num": {
     "word": "twelve",
     "type": "num",
     "_generatedFrom": "de-en/numbersbank.json:zwoelf_num, es-en/numbersbank.json:doce_num",
     "_enriched": false,
-    "audio": "twelve_num.mp3"
+    "audio": "twelve_num.mp3",
+    "frequency": 3545
   },
   "twenty_num": {
     "word": "twenty",
     "type": "num",
     "_generatedFrom": "de-en/numbersbank.json:zwanzig_num, es-en/numbersbank.json:veinte_num",
     "_enriched": false,
-    "audio": "twenty_num.mp3"
+    "audio": "twenty_num.mp3",
+    "frequency": 2411
   },
   "twentyfourth_num": {
     "word": "twenty-fourth",
@@ -6906,21 +7492,24 @@
     "type": "num",
     "_generatedFrom": "de-en/numbersbank.json:zwei_num, es-en/numbersbank.json:dos_num",
     "_enriched": false,
-    "audio": "two_num.mp3"
+    "audio": "two_num.mp3",
+    "frequency": 133
   },
   "typical_adv": {
     "word": "typical",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:typisch_general",
     "_enriched": false,
-    "audio": "typical_adv.mp3"
+    "audio": "typical_adv.mp3",
+    "frequency": 3698
   },
   "ugly_adv": {
     "word": "ugly",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:haesslich_general",
     "_enriched": false,
-    "audio": "ugly_adv.mp3"
+    "audio": "ugly_adv.mp3",
+    "frequency": 1679
   },
   "un_not_adv": {
     "word": "un-; not",
@@ -6951,28 +7540,32 @@
     "type": "prep",
     "_generatedFrom": "de-en/generalbank.json:unter_prep, es-en/generalbank.json:bajo_prep, es-en/generalbank.json:debajo_de_prep",
     "_enriched": false,
-    "audio": "under_prep.mp3"
+    "audio": "under_prep.mp3",
+    "frequency": 385
   },
   "understandable_adv": {
     "word": "understandable",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:verstaendlich_general",
     "_enriched": false,
-    "audio": "understandable_adv.mp3"
+    "audio": "understandable_adv.mp3",
+    "frequency": 8609
   },
   "unemployed_adv": {
     "word": "unemployed",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:arbeitslos_general",
     "_enriched": false,
-    "audio": "unemployed_adv.mp3"
+    "audio": "unemployed_adv.mp3",
+    "frequency": 7504
   },
   "unfortunately_adv": {
     "word": "unfortunately",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:leider_adv, es-en/generalbank.json:desafortunadamente_adv",
     "_enriched": false,
-    "audio": "unfortunately_adv.mp3"
+    "audio": "unfortunately_adv.mp3",
+    "frequency": 1626
   },
   "uniform_standardised_adv": {
     "word": "uniform; standardised",
@@ -6986,14 +7579,16 @@
     "type": "propn",
     "_generatedFrom": "es-en/generalbank.json:estados_unidos_propn",
     "_enriched": false,
-    "audio": "united_states_propn.mp3"
+    "audio": "united_states_propn.mp3",
+    "frequency": 1547
   },
   "until_prep": {
     "word": "until",
     "type": "prep",
     "_generatedFrom": "es-en/generalbank.json:hasta_prep",
     "_enriched": false,
-    "audio": "until_prep.mp3"
+    "audio": "until_prep.mp3",
+    "frequency": 348
   },
   "until_to_adv": {
     "word": "until; to",
@@ -7007,14 +7602,16 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:ungewoehnlich_general",
     "_enriched": false,
-    "audio": "unusual_adv.mp3"
+    "audio": "unusual_adv.mp3",
+    "frequency": 2461
   },
   "up_adv": {
     "word": "up",
     "type": "adv",
     "_generatedFrom": "es-en/generalbank.json:arriba_adv",
     "_enriched": false,
-    "audio": "up_adv.mp3"
+    "audio": "up_adv.mp3",
+    "frequency": 52
   },
   "up_to_prep": {
     "word": "up to",
@@ -7031,14 +7628,16 @@
     "typos": [
       "uper"
     ],
-    "audio": "upper_adv.mp3"
+    "audio": "upper_adv.mp3",
+    "frequency": 3867
   },
   "upward_adv": {
     "word": "upward",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:aufwaerts_general",
     "_enriched": false,
-    "audio": "upward_adv.mp3"
+    "audio": "upward_adv.mp3",
+    "frequency": 16725
   },
   "urban_municipal_adv": {
     "word": "urban; municipal",
@@ -7052,7 +7651,8 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:dringend_general",
     "_enriched": false,
-    "audio": "urgent_adv.mp3"
+    "audio": "urgent_adv.mp3",
+    "frequency": 2765
   },
   "urgent_in_a_hurry_adv": {
     "word": "urgent; in a hurry",
@@ -7069,14 +7669,16 @@
     "type": "pron",
     "_generatedFrom": "de-en/pronounsbank.json:uns_pron, es-en/pronounsbank.json:nos_dirobj_pron, es-en/pronounsbank.json:nos_indobj_pron",
     "_enriched": false,
-    "audio": "us_pron.mp3"
+    "audio": "us_pron.mp3",
+    "frequency": 85
   },
   "useful_adv": {
     "word": "useful",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:nuetzlich_general",
     "_enriched": false,
-    "audio": "useful_adv.mp3"
+    "audio": "useful_adv.mp3",
+    "frequency": 2708
   },
   "usual_common_adv": {
     "word": "usual; common",
@@ -7096,7 +7698,8 @@
     "typos": [
       "usualy"
     ],
-    "audio": "usually_adv.mp3"
+    "audio": "usually_adv.mp3",
+    "frequency": 1112
   },
   "usually_ordinary_adv": {
     "word": "usually; ordinary",
@@ -7113,21 +7716,24 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:gueltig_general",
     "_enriched": false,
-    "audio": "valid_adv.mp3"
+    "audio": "valid_adv.mp3",
+    "frequency": 8530
   },
   "valuable_adv": {
     "word": "valuable",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:wertvoll_general",
     "_enriched": false,
-    "audio": "valuable_adv.mp3"
+    "audio": "valuable_adv.mp3",
+    "frequency": 3113
   },
   "vegetarian_adv": {
     "word": "vegetarian",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:vegetarisch_general",
     "_enriched": false,
-    "audio": "vegetarian_adv.mp3"
+    "audio": "vegetarian_adv.mp3",
+    "frequency": 8092
   },
   "vertical_perpendicular_adv": {
     "word": "vertical; perpendicular",
@@ -7141,7 +7747,8 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:sehr_adv, de-en/generalbank.json:viel_adv, es-en/generalbank.json:muy_adv",
     "_enriched": false,
-    "audio": "very_adv.mp3"
+    "audio": "very_adv.mp3",
+    "frequency": 115
   },
   "very_well_phrase": {
     "word": "Very well",
@@ -7151,28 +7758,32 @@
     "typos": [
       "Very wel"
     ],
-    "audio": "very_well_phrase.mp3"
+    "audio": "very_well_phrase.mp3",
+    "frequency": 115
   },
   "virtual_adv": {
     "word": "virtual",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:virtuell_general",
     "_enriched": false,
-    "audio": "virtual_adv.mp3"
+    "audio": "virtual_adv.mp3",
+    "frequency": 9795
   },
   "visible_adv": {
     "word": "visible",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:sichtbar_general",
     "_enriched": false,
-    "audio": "visible_adv.mp3"
+    "audio": "visible_adv.mp3",
+    "frequency": 6414
   },
   "voluntary_adv": {
     "word": "voluntary",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:freiwillig_general",
     "_enriched": false,
-    "audio": "voluntary_adv.mp3"
+    "audio": "voluntary_adv.mp3",
+    "frequency": 13764
   },
   "walk_the_dog_phrase": {
     "word": "to walk the dog",
@@ -7193,21 +7804,24 @@
     "type": "pron",
     "_generatedFrom": "de-en/pronounsbank.json:wir_pron, es-en/pronounsbank.json:nosotras_pron",
     "_enriched": false,
-    "audio": "we_pron.mp3"
+    "audio": "we_pron.mp3",
+    "frequency": 15
   },
   "weak_adv": {
     "word": "weak",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:schwach_general",
     "_enriched": false,
-    "audio": "weak_adv.mp3"
+    "audio": "weak_adv.mp3",
+    "frequency": 1709
   },
   "welcome_interj": {
     "word": "welcome",
     "type": "interj",
     "_generatedFrom": "de-en/generalbank.json:willkommen_interj, es-en/generalbank.json:bienvenido_interj",
     "_enriched": false,
-    "audio": "welcome_interj.mp3"
+    "audio": "welcome_interj.mp3",
+    "frequency": 498
   },
   "well_adv": {
     "word": "well",
@@ -7217,7 +7831,8 @@
     "typos": [
       "wel"
     ],
-    "audio": "well_adv.mp3"
+    "audio": "well_adv.mp3",
+    "frequency": 59
   },
   "well_conj": {
     "word": "well",
@@ -7227,7 +7842,8 @@
     "typos": [
       "wel"
     ],
-    "audio": "well_conj.mp3"
+    "audio": "well_conj.mp3",
+    "frequency": 59
   },
   "wellknown_adv": {
     "word": "well-known",
@@ -7237,35 +7853,40 @@
     "typos": [
       "wel-known"
     ],
-    "audio": "wellknown_adv.mp3"
+    "audio": "wellknown_adv.mp3",
+    "frequency": 9156
   },
   "what_does__mean_phrase": {
     "word": "What does ... mean?",
     "type": "phrase",
     "_generatedFrom": "es-en/generalbank.json:que_significa_phrase, es-en/phrasesbank.json:que_significa_phrase",
     "_enriched": false,
-    "audio": "what_does__mean_phrase.mp3"
+    "audio": "what_does__mean_phrase.mp3",
+    "frequency": 14
   },
   "what_interr": {
     "word": "what",
     "type": "interr",
     "_generatedFrom": "de-en/generalbank.json:was_interr, de-en/generalbank.json:wie_interr, es-en/generalbank.json:que_interr",
     "_enriched": false,
-    "audio": "what_interr.mp3"
+    "audio": "what_interr.mp3",
+    "frequency": 14
   },
   "what_is_your_name_phrase": {
     "word": "What is your name?",
     "type": "phrase",
     "_generatedFrom": "de-en/generalbank.json:wie_heisst_du_phrase, es-en/generalbank.json:como_te_llamas_phrase",
     "_enriched": false,
-    "audio": "what_is_your_name_phrase.mp3"
+    "audio": "what_is_your_name_phrase.mp3",
+    "frequency": 14
   },
   "what_kind_of_adv": {
     "word": "what kind of",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:was_fuer_ein_general",
     "_enriched": false,
-    "audio": "what_kind_of_adv.mp3"
+    "audio": "what_kind_of_adv.mp3",
+    "frequency": 14
   },
   "what_pron": {
     "word": "what?",
@@ -7279,14 +7900,16 @@
     "type": "phrase",
     "_generatedFrom": "de-en/generalbank.json:wie_spaet_ist_es_phrase, es-en/generalbank.json:que_hora_es_phrase, es-en/phrasesbank.json:que_hora_es_phrase",
     "_enriched": false,
-    "audio": "what_time_is_it_phrase.mp3"
+    "audio": "what_time_is_it_phrase.mp3",
+    "frequency": 14
   },
   "whatever_adv": {
     "word": "whatever",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:egal_adv",
     "_enriched": false,
-    "audio": "whatever_adv.mp3"
+    "audio": "whatever_adv.mp3",
+    "frequency": 402
   },
   "whats_up_phrase": {
     "word": "What's up?",
@@ -7307,7 +7930,8 @@
     "type": "conj",
     "_generatedFrom": "es-en/generalbank.json:cuando_conj",
     "_enriched": false,
-    "audio": "when_conj.mp3"
+    "audio": "when_conj.mp3",
+    "frequency": 78
   },
   "when_if_adv": {
     "word": "when; if",
@@ -7321,7 +7945,8 @@
     "type": "interr",
     "_generatedFrom": "de-en/generalbank.json:wann_interr, es-en/generalbank.json:cuando_interr",
     "_enriched": false,
-    "audio": "when_interr.mp3"
+    "audio": "when_interr.mp3",
+    "frequency": 78
   },
   "when_pron": {
     "word": "when?",
@@ -7335,21 +7960,24 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:wo_general",
     "_enriched": false,
-    "audio": "where_adv.mp3"
+    "audio": "where_adv.mp3",
+    "frequency": 88
   },
   "where_are_you_from_phrase": {
     "word": "Where are you from?",
     "type": "phrase",
     "_generatedFrom": "de-en/generalbank.json:woher_kommst_du_phrase, es-en/generalbank.json:de_donde_eres_phrase, es-en/phrasesbank.json:de_donde_eres_phrase",
     "_enriched": false,
-    "audio": "where_are_you_from_phrase.mp3"
+    "audio": "where_are_you_from_phrase.mp3",
+    "frequency": 88
   },
   "where_do_you_live_phrase": {
     "word": "where do you live?",
     "type": "phrase",
     "_generatedFrom": "es-en/phrasesbank.json:donde_vives_phrase",
     "_enriched": false,
-    "audio": "where_do_you_live_phrase.mp3"
+    "audio": "where_do_you_live_phrase.mp3",
+    "frequency": 88
   },
   "where_interr": {
     "word": "Where?",
@@ -7370,7 +7998,8 @@
     "type": "interr",
     "_generatedFrom": "de-en/generalbank.json:wohin_interr, es-en/generalbank.json:adonde_interr",
     "_enriched": false,
-    "audio": "where_to_interr.mp3"
+    "audio": "where_to_interr.mp3",
+    "frequency": 88
   },
   "whether_if_adv": {
     "word": "whether; if",
@@ -7384,7 +8013,8 @@
     "type": "interr",
     "_generatedFrom": "de-en/generalbank.json:welcher_interr, es-en/generalbank.json:cual_interr",
     "_enriched": false,
-    "audio": "which_interr.mp3"
+    "audio": "which_interr.mp3",
+    "frequency": 199
   },
   "which_pron": {
     "word": "which?",
@@ -7398,28 +8028,32 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:welchdie_welt_general",
     "_enriched": false,
-    "audio": "which_the_world_adv.mp3"
+    "audio": "which_the_world_adv.mp3",
+    "frequency": 199
   },
   "while_conj": {
     "word": "while",
     "type": "conj",
     "_generatedFrom": "es-en/generalbank.json:mientras_conj",
     "_enriched": false,
-    "audio": "while_conj.mp3"
+    "audio": "while_conj.mp3",
+    "frequency": 311
   },
   "who_interr": {
     "word": "who",
     "type": "interr",
     "_generatedFrom": "de-en/generalbank.json:wer_interr, es-en/generalbank.json:quien_interr",
     "_enriched": false,
-    "audio": "who_interr.mp3"
+    "audio": "who_interr.mp3",
+    "frequency": 72
   },
   "who_is_it_phrase": {
     "word": "Who is it?",
     "type": "phrase",
     "_generatedFrom": "de-en/generalbank.json:wer_ist_das_phrase",
     "_enriched": false,
-    "audio": "who_is_it_phrase.mp3"
+    "audio": "who_is_it_phrase.mp3",
+    "frequency": 72
   },
   "who_pron": {
     "word": "who",
@@ -7427,7 +8061,8 @@
     "usageNotes": "nominative",
     "_generatedFrom": "de-en/pronounsbank.json:wer_pron, es-en/pronounsbank.json:quien_interr_pron",
     "_enriched": false,
-    "audio": "who_pron.mp3"
+    "audio": "who_pron.mp3",
+    "frequency": 72
   },
   "whole_quite_adv": {
     "word": "whole; quite",
@@ -7442,7 +8077,8 @@
     "usageNotes": "accusative",
     "_generatedFrom": "de-en/pronounsbank.json:wen_pron",
     "_enriched": false,
-    "audio": "whom_pron.mp3"
+    "audio": "whom_pron.mp3",
+    "frequency": 1349
   },
   "why_for_what_reason_adv": {
     "word": "why; for what reason",
@@ -7463,7 +8099,8 @@
     "type": "interr",
     "_generatedFrom": "de-en/generalbank.json:warum_interr, es-en/generalbank.json:por_que_interr",
     "_enriched": false,
-    "audio": "why_interr.mp3"
+    "audio": "why_interr.mp3",
+    "frequency": 73
   },
   "why_pron": {
     "word": "why?",
@@ -7484,21 +8121,24 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:miteinander_general",
     "_enriched": false,
-    "audio": "with_each_other_together_adv.mp3"
+    "audio": "with_each_other_together_adv.mp3",
+    "frequency": 35
   },
   "with_great_pleasure_expr": {
     "word": "with great pleasure",
     "type": "expr",
     "_generatedFrom": "es-en/generalbank.json:con_mucho_gusto_expr",
     "_enriched": false,
-    "audio": "with_great_pleasure_expr.mp3"
+    "audio": "with_great_pleasure_expr.mp3",
+    "frequency": 35
   },
   "with_it_adv": {
     "word": "with it",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:dabei_adv",
     "_enriched": false,
-    "audio": "with_it_adv.mp3"
+    "audio": "with_it_adv.mp3",
+    "frequency": 35
   },
   "with_my_friends_phrase": {
     "word": "with my friends",
@@ -7508,56 +8148,64 @@
     "typos": [
       "with my freinds"
     ],
-    "audio": "with_my_friends_phrase.mp3"
+    "audio": "with_my_friends_phrase.mp3",
+    "frequency": 35
   },
   "with_my_mother_phrase": {
     "word": "with my mother",
     "type": "phrase",
     "_generatedFrom": "de-en/generalbank.json:mit_meiner_mutter_phrase",
     "_enriched": false,
-    "audio": "with_my_mother_phrase.mp3"
+    "audio": "with_my_mother_phrase.mp3",
+    "frequency": 35
   },
   "with_prep": {
     "word": "with",
     "type": "prep",
     "_generatedFrom": "de-en/generalbank.json:mit_prep, es-en/generalbank.json:con_prep",
     "_enriched": false,
-    "audio": "with_prep.mp3"
+    "audio": "with_prep.mp3",
+    "frequency": 35
   },
   "with_switzerland_phrase": {
     "word": "with Switzerland",
     "type": "phrase",
     "_generatedFrom": "de-en/generalbank.json:mit_der_schweiz_phrase",
     "_enriched": false,
-    "audio": "with_switzerland_phrase.mp3"
+    "audio": "with_switzerland_phrase.mp3",
+    "frequency": 35
   },
   "within_prep": {
     "word": "within",
     "type": "prep",
     "_generatedFrom": "es-en/generalbank.json:dentro_de_prep",
     "_enriched": false,
-    "audio": "within_prep.mp3"
+    "audio": "within_prep.mp3",
+    "frequency": 962
   },
   "without_doubt_expr": {
     "word": "without doubt",
     "type": "expr",
     "_generatedFrom": "es-en/generalbank.json:sin_duda_expr",
     "_enriched": false,
-    "audio": "without_doubt_expr.mp3"
+    "audio": "without_doubt_expr.mp3",
+    "frequency": 273
   },
   "without_prep": {
     "word": "without",
     "type": "prep",
     "_generatedFrom": "de-en/generalbank.json:ohne_prep, es-en/generalbank.json:sin_prep",
     "_enriched": false,
-    "audio": "without_prep.mp3"
+    "audio": "without_prep.mp3",
+    "frequency": 273
   },
   "wonderful_adv": {
     "word": "wonderful",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:wunderbar_general",
     "_enriched": false,
-    "audio": "wonderful_adv.mp3"
+    "audio": "wonderful_adv.mp3",
+    "frequency": 686
   },
   "worth_value_adv": {
     "word": "worth; value",
@@ -7574,7 +8222,8 @@
     "typos": [
       "worthles"
     ],
-    "audio": "worthless_adv.mp3"
+    "audio": "worthless_adv.mp3",
+    "frequency": 4881
   },
   "written_in_writing_adv": {
     "word": "written; in writing",
@@ -7598,28 +8247,32 @@
     "type": "phrase",
     "_generatedFrom": "de-en/generalbank.json:jahre_alt_phrase",
     "_enriched": false,
-    "audio": "years_old_phrase.mp3"
+    "audio": "years_old_phrase.mp3",
+    "frequency": 183
   },
   "yes_interj": {
     "word": "yes",
     "type": "interj",
     "_generatedFrom": "de-en/generalbank.json:ja_interj, es-en/generalbank.json:si_interj",
     "_enriched": false,
-    "audio": "yes_interj.mp3"
+    "audio": "yes_interj.mp3",
+    "frequency": 77
   },
   "yesterday_adv": {
     "word": "yesterday",
     "type": "adv",
     "_generatedFrom": "es-en/generalbank.json:ayer_adv",
     "_enriched": false,
-    "audio": "yesterday_adv.mp3"
+    "audio": "yesterday_adv.mp3",
+    "frequency": 698
   },
   "yet_adv": {
     "word": "yet",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:noch_adv, es-en/generalbank.json:todavia_adv",
     "_enriched": false,
-    "audio": "yet_adv.mp3"
+    "audio": "yet_adv.mp3",
+    "frequency": 306
   },
   "you_all_formal_pron": {
     "word": "you all (formal",
@@ -7629,7 +8282,8 @@
     "typos": [
       "you al (formal"
     ],
-    "audio": "you_all_formal_pron.mp3"
+    "audio": "you_all_formal_pron.mp3",
+    "frequency": 1
   },
   "you_all_masculine_pron": {
     "word": "you all (masculine",
@@ -7639,7 +8293,8 @@
     "typos": [
       "you al (masculine"
     ],
-    "audio": "you_all_masculine_pron.mp3"
+    "audio": "you_all_masculine_pron.mp3",
+    "frequency": 1
   },
   "you_all_pron": {
     "word": "you all",
@@ -7650,35 +8305,40 @@
     "typos": [
       "you al"
     ],
-    "audio": "you_all_pron.mp3"
+    "audio": "you_all_pron.mp3",
+    "frequency": 1
   },
   "you_pron": {
     "word": "you",
     "type": "pron",
     "_generatedFrom": "de-en/pronounsbank.json:du_pron, de-en/pronounsbank.json:ihr_pron, de-en/pronounsbank.json:euch_pron, de-en/pronounsbank.json:dich_pron, de-en/pronounsbank.json:dir_pron, es-en/pronounsbank.json:tu_pron, es-en/pronounsbank.json:usted_pron, es-en/pronounsbank.json:te_dirobj_pron, es-en/pronounsbank.json:te_indobj_pron",
     "_enriched": false,
-    "audio": "you_pron.mp3"
+    "audio": "you_pron.mp3",
+    "frequency": 1
   },
   "your_favourite_singer_adv": {
     "word": "your favourite singer",
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:deinem_lieblingssaenger_general",
     "_enriched": false,
-    "audio": "your_favourite_singer_adv.mp3"
+    "audio": "your_favourite_singer_adv.mp3",
+    "frequency": 23
   },
   "your_fem_pron": {
     "word": "your (fem.",
     "type": "pron",
     "_generatedFrom": "de-en/pronounsbank.json:deine_possessiv",
     "_enriched": false,
-    "audio": "your_fem_pron.mp3"
+    "audio": "your_fem_pron.mp3",
+    "frequency": 23
   },
   "your_masc_pron": {
     "word": "your (masc.",
     "type": "pron",
     "_generatedFrom": "de-en/pronounsbank.json:dein_possessiv",
     "_enriched": false,
-    "audio": "your_masc_pron.mp3"
+    "audio": "your_masc_pron.mp3",
+    "frequency": 23
   },
   "your_pron": {
     "word": "your",
@@ -7686,7 +8346,8 @@
     "usageNotes": "informal",
     "_generatedFrom": "es-en/pronounsbank.json:tu_possess_pron, es-en/pronounsbank.json:su_possess_pron, es-en/pronounsbank.json:vuestro_possess_pron",
     "_enriched": false,
-    "audio": "your_pron.mp3"
+    "audio": "your_pron.mp3",
+    "frequency": 23
   },
   "youre_welcome_interj": {
     "word": "you're welcome",
@@ -7707,27 +8368,31 @@
     "type": "adv",
     "_generatedFrom": "de-en/generalbank.json:mit_freundlichen_gruessen_general",
     "_enriched": false,
-    "audio": "yours_sincerely_adv.mp3"
+    "audio": "yours_sincerely_adv.mp3",
+    "frequency": 497
   },
   "yourself_pron": {
     "word": "yourself",
     "type": "pron",
     "_generatedFrom": "de-en/pronounsbank.json:dich_pron, es-en/pronounsbank.json:te_reflex_pron",
     "_enriched": false,
-    "audio": "yourself_pron.mp3"
+    "audio": "yourself_pron.mp3",
+    "frequency": 268
   },
   "yourselves_pron": {
     "word": "yourselves",
     "type": "pron",
     "_generatedFrom": "de-en/pronounsbank.json:euch_pron, es-en/pronounsbank.json:os_reflex_pron",
     "_enriched": false,
-    "audio": "yourselves_pron.mp3"
+    "audio": "yourselves_pron.mp3",
+    "frequency": 2121
   },
   "zero_num": {
     "word": "zero",
     "type": "num",
     "_generatedFrom": "es-en/numbersbank.json:cero_num",
     "_enriched": false,
-    "audio": "zero_num.mp3"
+    "audio": "zero_num.mp3",
+    "frequency": 2270
   }
 }

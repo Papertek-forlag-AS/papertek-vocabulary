@@ -16,29 +16,19 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk frase: a bientot."
-    }
-  },
-  "a_demain_phrase": {
-    "word": "a demain",
-    "type": "phrase",
-    "_generatedFrom": "fr/banks",
-    "_enriched": true,
-    "audio": "a_demain_phrase.mp3",
-    "cefr": "B1",
-    "explanation": {
-      "_description": "Fransk frase: a demain."
-    }
-  },
-  "a_plus_tard_phrase": {
-    "word": "a plus tard",
-    "type": "phrase",
-    "_generatedFrom": "fr/banks",
-    "_enriched": true,
-    "audio": "ord_a_plus_tard.mp3",
-    "cefr": "B1",
-    "explanation": {
-      "_description": "Fransk frase: a plus tard."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "A bientot.",
+        "translation": "Vi sees snart.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Elle dit : « a bientot ».",
+        "translation": "Hun sier: «Vi sees snart».",
+        "lang": "fr"
+      }
+    ]
   },
   "a_tes_souhaits_phrase": {
     "word": "a tes souhaits",
@@ -49,7 +39,19 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk frase: a tes souhaits."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "A tes souhaits.",
+        "translation": "Prosit!.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Elle dit : « a tes souhaits ».",
+        "translation": "Hun sier: «prosit!».",
+        "lang": "fr"
+      }
+    ]
   },
   "a_tout_a_lheure_phrase": {
     "word": "a tout a l'heure",
@@ -60,7 +62,19 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk frase: a tout a l'heure."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "A tout a l'heure.",
+        "translation": "A tout a l'heure.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Elle dit : « a tout a l'heure ».",
+        "translation": "Hun sier: «a tout a l'heure».",
+        "lang": "fr"
+      }
+    ]
   },
   "au_revoir_phrase": {
     "word": "au revoir",
@@ -71,40 +85,19 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk frase: au revoir."
-    }
-  },
-  "bien_merci_phrase": {
-    "word": "bien, merci",
-    "type": "phrase",
-    "_generatedFrom": "fr/banks",
-    "_enriched": true,
-    "audio": "bien_merci_phrase.mp3",
-    "cefr": "B1",
-    "explanation": {
-      "_description": "Fransk frase: bien, merci."
-    }
-  },
-  "bien_sur_phrase": {
-    "word": "bien sur",
-    "type": "phrase",
-    "_generatedFrom": "fr/banks",
-    "_enriched": true,
-    "audio": "ord_bien_sur.mp3",
-    "cefr": "B1",
-    "explanation": {
-      "_description": "Fransk frase: bien sur."
-    }
-  },
-  "bon_appetit_phrase": {
-    "word": "bon appetit",
-    "type": "phrase",
-    "_generatedFrom": "fr/banks",
-    "_enriched": true,
-    "audio": "bon_appetit_phrase.mp3",
-    "cefr": "B1",
-    "explanation": {
-      "_description": "Fransk frase: bon appetit."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Au revoir.",
+        "translation": "Ha det.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Elle dit : « au revoir ».",
+        "translation": "Hun sier: «ha det».",
+        "lang": "fr"
+      }
+    ]
   },
   "bon_week_end_phrase": {
     "word": "bon week-end",
@@ -115,33 +108,20 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk frase: bon week-end."
-    }
-  },
-  "bonjour_phrase": {
-    "word": "bonjour",
-    "type": "phrase",
-    "_generatedFrom": "fr/banks",
-    "_enriched": true,
-    "audio": "frase_bonjour.mp3",
-    "frequency": 206,
-    "cefr": "A1",
-    "explanation": {
-      "_description": "Fransk frase: bonjour."
-    }
-  },
-  "bonne_annee_phrase": {
-    "word": "bonne annee",
-    "type": "phrase",
-    "_generatedFrom": "fr/banks",
-    "_enriched": true,
-    "typos": [
-      "bone anee"
+    },
+    "examples": [
+      {
+        "sentence": "Bon week-end.",
+        "translation": "Bon week-end.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Elle dit : « bon week-end ».",
+        "translation": "Hun sier: «bon week-end».",
+        "lang": "fr"
+      }
     ],
-    "audio": "bonne_annee_phrase.mp3",
-    "cefr": "B1",
-    "explanation": {
-      "_description": "Fransk frase: bonne annee."
-    }
+    "frequency": 93
   },
   "bonne_chance_phrase": {
     "word": "bonne chance",
@@ -155,7 +135,20 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk frase: bonne chance."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Bonne chance.",
+        "translation": "Lykke til!.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Elle dit : « bonne chance ».",
+        "translation": "Hun sier: «Lykke til!».",
+        "lang": "fr"
+      }
+    ],
+    "frequency": 172
   },
   "bonne_journee_phrase": {
     "word": "bonne journee",
@@ -169,7 +162,20 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk frase: bonne journee."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Bonne journee.",
+        "translation": "Ha en fin dag!.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Elle dit : « bonne journee ».",
+        "translation": "Hun sier: «Ha en fin dag!».",
+        "lang": "fr"
+      }
+    ],
+    "frequency": 172
   },
   "bonne_nuit_phrase": {
     "word": "bonne nuit",
@@ -183,7 +189,20 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk frase: bonne nuit."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Bonne nuit.",
+        "translation": "God natt.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Elle dit : « bonne nuit ».",
+        "translation": "Hun sier: «God natt».",
+        "lang": "fr"
+      }
+    ],
+    "frequency": 172
   },
   "bonne_soiree_phrase": {
     "word": "bonne soiree",
@@ -197,7 +216,20 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk frase: bonne soiree."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Bonne soiree.",
+        "translation": "Bonne soiree.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Elle dit : « bonne soiree ».",
+        "translation": "Hun sier: «bonne soiree».",
+        "lang": "fr"
+      }
+    ],
+    "frequency": 172
   },
   "bonnes_vacances_phrase": {
     "word": "bonnes vacances",
@@ -211,7 +243,20 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk frase: bonnes vacances."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Bonnes vacances.",
+        "translation": "Bonnes vacances.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Elle dit : « bonnes vacances ».",
+        "translation": "Hun sier: «bonnes vacances».",
+        "lang": "fr"
+      }
+    ],
+    "frequency": 946
   },
   "bonsoir_phrase": {
     "word": "bonsoir",
@@ -223,7 +268,19 @@
     "cefr": "A1",
     "explanation": {
       "_description": "Fransk frase: bonsoir."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Bonsoir.",
+        "translation": "God kveld.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Elle dit : « bonsoir ».",
+        "translation": "Hun sier: «God kveld».",
+        "lang": "fr"
+      }
+    ]
   },
   "ca_va_bien_phrase": {
     "word": "ca va bien",
@@ -234,7 +291,19 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk frase: ca va bien."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Ca va bien.",
+        "translation": "Ca va bien.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Elle dit : « ca va bien ».",
+        "translation": "Hun sier: «ca va bien».",
+        "lang": "fr"
+      }
+    ]
   },
   "ca_va_phrase": {
     "word": "ca va ?",
@@ -245,35 +314,19 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk frase: ca va ?."
-    }
-  },
-  "comme_ci_comme_ca_phrase": {
-    "word": "comme ci comme ca",
-    "type": "phrase",
-    "_generatedFrom": "fr/banks",
-    "_enriched": true,
-    "typos": [
-      "come ci come ca"
-    ],
-    "audio": "comme_ci_comme_ca_phrase.mp3",
-    "cefr": "B1",
-    "explanation": {
-      "_description": "Fransk frase: comme ci comme ca."
-    }
-  },
-  "comment_allez_vous_phrase": {
-    "word": "comment allez-vous ?",
-    "type": "phrase",
-    "_generatedFrom": "fr/banks",
-    "_enriched": true,
-    "typos": [
-      "coment alez-vous ?"
-    ],
-    "audio": "comment_allez_vous_phrase.mp3",
-    "cefr": "B1",
-    "explanation": {
-      "_description": "Fransk frase: comment allez-vous ?."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Ca va ?.",
+        "translation": "Ca va ?.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Elle dit : « ca va ? ».",
+        "translation": "Hun sier: «ca va ?».",
+        "lang": "fr"
+      }
+    ]
   },
   "comment_ca_va_phrase": {
     "word": "comment ca va ?",
@@ -287,7 +340,20 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk frase: comment ca va ?."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Comment ca va ?.",
+        "translation": "Comment ca va ?.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Elle dit : « comment ca va ? ».",
+        "translation": "Hun sier: «comment ca va ?».",
+        "lang": "fr"
+      }
+    ],
+    "frequency": 89
   },
   "comment_dit_on_phrase": {
     "word": "comment dit-on... ?",
@@ -301,7 +367,20 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk frase: comment dit-on... ?."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Comment dit-on... ?.",
+        "translation": "Hvordan sier man...?.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Elle dit : « comment dit-on... ? ».",
+        "translation": "Hun sier: «Hvordan sier man...?».",
+        "lang": "fr"
+      }
+    ],
+    "frequency": 89
   },
   "comment_ecrit_on_phrase": {
     "word": "comment ecrit-on... ?",
@@ -315,7 +394,20 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk frase: comment ecrit-on... ?."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Comment ecrit-on... ?.",
+        "translation": "Comment ecrit-on... ?.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Elle dit : « comment ecrit-on... ? ».",
+        "translation": "Hun sier: «comment ecrit-on... ?».",
+        "lang": "fr"
+      }
+    ],
+    "frequency": 89
   },
   "comment_tu_tappelles_phrase": {
     "word": "comment tu t'appelles ?",
@@ -329,7 +421,20 @@
     "cefr": "A1",
     "explanation": {
       "_description": "Fransk frase: comment tu t'appelles ?."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Comment tu t'appelles ?.",
+        "translation": "Hva heter du?.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Elle dit : « comment tu t'appelles ? ».",
+        "translation": "Hun sier: «Hva heter du?».",
+        "lang": "fr"
+      }
+    ],
+    "frequency": 89
   },
   "comment_vous_appelez_vous_phrase": {
     "word": "comment vous appelez-vous ?",
@@ -343,40 +448,20 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk frase: comment vous appelez-vous ?."
-    }
-  },
-  "daccord_phrase": {
-    "word": "d'accord",
-    "type": "phrase",
-    "_generatedFrom": "fr/banks",
-    "_enriched": true,
-    "audio": "daccord_phrase.mp3",
-    "cefr": "B1",
-    "explanation": {
-      "_description": "Fransk frase: d'accord."
-    }
-  },
-  "de_rien_phrase": {
-    "word": "de rien",
-    "type": "phrase",
-    "_generatedFrom": "fr/banks",
-    "_enriched": true,
-    "audio": "de_rien_phrase.mp3",
-    "cefr": "B1",
-    "explanation": {
-      "_description": "Fransk frase: de rien."
-    }
-  },
-  "enchante_phrase": {
-    "word": "enchante(e)",
-    "type": "phrase",
-    "_generatedFrom": "fr/banks",
-    "_enriched": true,
-    "audio": "enchante_phrase.mp3",
-    "cefr": "B1",
-    "explanation": {
-      "_description": "Fransk frase: enchante(e)."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Comment vous appelez-vous ?.",
+        "translation": "Comment vous appelez-vous ?.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Elle dit : « comment vous appelez-vous ? ».",
+        "translation": "Hun sier: «comment vous appelez-vous ?».",
+        "lang": "fr"
+      }
+    ],
+    "frequency": 89
   },
   "entendu_phrase": {
     "word": "entendu",
@@ -388,7 +473,19 @@
     "cefr": "A1",
     "explanation": {
       "_description": "Fransk frase: entendu."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Entendu.",
+        "translation": "Entendu.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Elle dit : « entendu ».",
+        "translation": "Hun sier: «entendu».",
+        "lang": "fr"
+      }
+    ]
   },
   "et_toi_phrase": {
     "word": "et toi ?",
@@ -399,7 +496,19 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk frase: et toi ?."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Et toi ?.",
+        "translation": "Og du?.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Elle dit : « et toi ? ».",
+        "translation": "Hun sier: «og du?».",
+        "lang": "fr"
+      }
+    ]
   },
   "et_vous_phrase": {
     "word": "et vous ?",
@@ -410,7 +519,19 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk frase: et vous ?."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Et vous ?.",
+        "translation": "Et vous ?.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Elle dit : « et vous ? ».",
+        "translation": "Hun sier: «et vous ?».",
+        "lang": "fr"
+      }
+    ]
   },
   "excuse_moi_phrase": {
     "word": "excuse-moi",
@@ -422,7 +543,19 @@
     "cefr": "A1",
     "explanation": {
       "_description": "Fransk frase: excuse-moi."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Excuse-moi.",
+        "translation": "Unnskyld.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Elle dit : « excuse-moi ».",
+        "translation": "Hun sier: «unnskyld».",
+        "lang": "fr"
+      }
+    ]
   },
   "excusez_moi_phrase": {
     "word": "excusez-moi",
@@ -434,7 +567,19 @@
     "cefr": "A1",
     "explanation": {
       "_description": "Fransk frase: excusez-moi."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Excusez-moi.",
+        "translation": "Excusez-moi.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Elle dit : « excusez-moi ».",
+        "translation": "Hun sier: «excusez-moi».",
+        "lang": "fr"
+      }
+    ]
   },
   "felicitations_phrase": {
     "word": "felicitations !",
@@ -445,7 +590,20 @@
     "cefr": "A1",
     "explanation": {
       "_description": "Fransk frase: felicitations !."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Felicitations !.",
+        "translation": "Gratulerer.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Elle dit : « felicitations ! ».",
+        "translation": "Hun sier: «Gratulerer».",
+        "lang": "fr"
+      }
+    ],
+    "frequency": 39437
   },
   "il_ny_a_pas_de_quoi_phrase": {
     "word": "il n'y a pas de quoi",
@@ -456,29 +614,19 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk frase: il n'y a pas de quoi."
-    }
-  },
-  "jai_ans_phrase": {
-    "word": "j'ai ... ans",
-    "type": "phrase",
-    "_generatedFrom": "fr/banks",
-    "_enriched": true,
-    "audio": "jai_ans_phrase.mp3",
-    "cefr": "B1",
-    "explanation": {
-      "_description": "Fransk frase: j'ai ... ans."
-    }
-  },
-  "jai_une_question_phrase": {
-    "word": "j'ai une question",
-    "type": "phrase",
-    "_generatedFrom": "fr/banks",
-    "_enriched": true,
-    "audio": "jai_une_question_phrase.mp3",
-    "cefr": "B1",
-    "explanation": {
-      "_description": "Fransk frase: j'ai une question."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Il n'y a pas de quoi.",
+        "translation": "Il n'y a pas de quoi.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Elle dit : « il n'y a pas de quoi ».",
+        "translation": "Hun sier: «il n'y a pas de quoi».",
+        "lang": "fr"
+      }
+    ]
   },
   "je_mappelle_phrase": {
     "word": "je m'appelle...",
@@ -492,18 +640,19 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk frase: je m'appelle...."
-    }
-  },
-  "je_ne_comprends_pas_phrase": {
-    "word": "je ne comprends pas",
-    "type": "phrase",
-    "_generatedFrom": "fr/banks",
-    "_enriched": true,
-    "audio": "je_ne_comprends_pas_phrase.mp3",
-    "cefr": "B1",
-    "explanation": {
-      "_description": "Fransk frase: je ne comprends pas."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Je m'appelle....",
+        "translation": "Jeg heter....",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Elle dit : « je m'appelle... ».",
+        "translation": "Hun sier: «Jeg heter...».",
+        "lang": "fr"
+      }
+    ]
   },
   "je_ne_sais_pas_phrase": {
     "word": "je ne sais pas",
@@ -514,7 +663,19 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk frase: je ne sais pas."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Je ne sais pas.",
+        "translation": "Jeg vet ikke.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Elle dit : « je ne sais pas ».",
+        "translation": "Hun sier: «jeg vet ikke».",
+        "lang": "fr"
+      }
+    ]
   },
   "je_pense_que_non_phrase": {
     "word": "je pense que non",
@@ -525,7 +686,19 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk frase: je pense que non."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Je pense que non.",
+        "translation": "Jeg tror ikke det.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Elle dit : « je pense que non ».",
+        "translation": "Hun sier: «jeg tror ikke det».",
+        "lang": "fr"
+      }
+    ]
   },
   "je_pense_que_oui_phrase": {
     "word": "je pense que oui",
@@ -536,7 +709,19 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk frase: je pense que oui."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Je pense que oui.",
+        "translation": "Jeg tror det.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Elle dit : « je pense que oui ».",
+        "translation": "Hun sier: «jeg tror det».",
+        "lang": "fr"
+      }
+    ]
   },
   "je_suis_de_phrase": {
     "word": "je suis de...",
@@ -547,7 +732,19 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk frase: je suis de...."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Je suis de....",
+        "translation": "Jeg er fra....",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Elle dit : « je suis de... ».",
+        "translation": "Hun sier: «Jeg er fra...».",
+        "lang": "fr"
+      }
+    ]
   },
   "je_suis_desole_phrase": {
     "word": "je suis desole(e)",
@@ -558,7 +755,19 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk frase: je suis desole(e)."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Je suis desole(e).",
+        "translation": "Je suis desole(e).",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Elle dit : « je suis desole(e) ».",
+        "translation": "Hun sier: «je suis desole(e)».",
+        "lang": "fr"
+      }
+    ]
   },
   "je_viens_de_phrase": {
     "word": "je viens de...",
@@ -569,7 +778,19 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk frase: je viens de...."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Je viens de....",
+        "translation": "Je viens de....",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Elle dit : « je viens de... ».",
+        "translation": "Hun sier: «je viens de...».",
+        "lang": "fr"
+      }
+    ]
   },
   "je_vous_en_prie_phrase": {
     "word": "je vous en prie",
@@ -580,7 +801,19 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk frase: je vous en prie."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Je vous en prie.",
+        "translation": "Je vous en prie.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Elle dit : « je vous en prie ».",
+        "translation": "Hun sier: «je vous en prie».",
+        "lang": "fr"
+      }
+    ]
   },
   "jhabite_a_phrase": {
     "word": "j'habite a...",
@@ -591,7 +824,19 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk frase: j'habite a...."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "J'habite a....",
+        "translation": "Jeg bor i....",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Elle dit : « j'habite a... ».",
+        "translation": "Hun sier: «jeg bor i...».",
+        "lang": "fr"
+      }
+    ]
   },
   "joyeux_anniversaire_phrase": {
     "word": "joyeux anniversaire !",
@@ -605,7 +850,20 @@
     "cefr": "A1",
     "explanation": {
       "_description": "Fransk frase: joyeux anniversaire !."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Joyeux anniversaire !.",
+        "translation": "Gratulerer med dagen.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Elle dit : « joyeux anniversaire ! ».",
+        "translation": "Hun sier: «Gratulerer med dagen».",
+        "lang": "fr"
+      }
+    ],
+    "frequency": 1482
   },
   "joyeux_noel_phrase": {
     "word": "joyeux Noel",
@@ -616,7 +874,20 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk frase: joyeux Noel."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Joyeux Noel.",
+        "translation": "God jul!.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Elle dit : « joyeux Noel ».",
+        "translation": "Hun sier: «God jul!».",
+        "lang": "fr"
+      }
+    ],
+    "frequency": 1482
   },
   "merci_beaucoup_phrase": {
     "word": "merci beaucoup",
@@ -627,7 +898,20 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk frase: merci beaucoup."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Merci beaucoup.",
+        "translation": "Tusen takk.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Elle dit : « merci beaucoup ».",
+        "translation": "Hun sier: «tusen takk».",
+        "lang": "fr"
+      }
+    ],
+    "frequency": 95
   },
   "merci_bien_phrase": {
     "word": "merci bien",
@@ -638,7 +922,20 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk frase: merci bien."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Merci bien.",
+        "translation": "Merci bien.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Elle dit : « merci bien ».",
+        "translation": "Hun sier: «merci bien».",
+        "lang": "fr"
+      }
+    ],
+    "frequency": 95
   },
   "merci_phrase": {
     "word": "merci",
@@ -650,7 +947,19 @@
     "cefr": "A1",
     "explanation": {
       "_description": "Fransk frase: merci."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Merci.",
+        "translation": "Takk.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Elle dit : « merci ».",
+        "translation": "Hun sier: «takk».",
+        "lang": "fr"
+      }
+    ]
   },
   "moi_aussi_phrase": {
     "word": "moi aussi",
@@ -664,7 +973,20 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk frase: moi aussi."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Moi aussi.",
+        "translation": "Moi aussi.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Elle dit : « moi aussi ».",
+        "translation": "Hun sier: «moi aussi».",
+        "lang": "fr"
+      }
+    ],
+    "frequency": 52
   },
   "ou_habites_tu_phrase": {
     "word": "ou habites-tu ?",
@@ -675,7 +997,19 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk frase: ou habites-tu ?."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Ou habites-tu ?.",
+        "translation": "Hvor bor du?.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Elle dit : « ou habites-tu ? ».",
+        "translation": "Hun sier: «hvor bor du?».",
+        "lang": "fr"
+      }
+    ]
   },
   "pardon_phrase": {
     "word": "pardon",
@@ -687,7 +1021,19 @@
     "cefr": "A1",
     "explanation": {
       "_description": "Fransk frase: pardon."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Pardon.",
+        "translation": "Unnskyld.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Elle dit : « pardon ».",
+        "translation": "Hun sier: «unnskyld».",
+        "lang": "fr"
+      }
+    ]
   },
   "pas_mal_phrase": {
     "word": "pas mal",
@@ -698,7 +1044,20 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk frase: pas mal."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Pas mal.",
+        "translation": "Pas mal.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Elle dit : « pas mal ».",
+        "translation": "Hun sier: «pas mal».",
+        "lang": "fr"
+      }
+    ],
+    "frequency": 4
   },
   "plus_lentement_phrase": {
     "word": "plus lentement, s'il vous plait",
@@ -709,18 +1068,20 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk frase: plus lentement, s'il vous plait."
-    }
-  },
-  "pouvez_vous_repeter_phrase": {
-    "word": "pouvez-vous repeter ?",
-    "type": "phrase",
-    "_generatedFrom": "fr/banks",
-    "_enriched": true,
-    "audio": "pouvez_vous_repeter_phrase.mp3",
-    "cefr": "B1",
-    "explanation": {
-      "_description": "Fransk frase: pouvez-vous repeter ?."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Plus lentement, s'il vous plait.",
+        "translation": "Plus lentement.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Elle dit : « plus lentement, s'il vous plait ».",
+        "translation": "Hun sier: «plus lentement».",
+        "lang": "fr"
+      }
+    ],
+    "frequency": 46
   },
   "quel_age_as_tu_phrase": {
     "word": "quel age as-tu ?",
@@ -731,7 +1092,20 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk frase: quel age as-tu ?."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Quel age as-tu ?.",
+        "translation": "Hvor gammel er du?.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Elle dit : « quel age as-tu ? ».",
+        "translation": "Hun sier: «Hvor gammel er du?».",
+        "lang": "fr"
+      }
+    ],
+    "frequency": 182
   },
   "quelle_heure_est_il_phrase": {
     "word": "quelle heure est-il ?",
@@ -745,7 +1119,20 @@
     "cefr": "A1",
     "explanation": {
       "_description": "Fransk frase: quelle heure est-il ?."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Quelle heure est-il ?.",
+        "translation": "Hva er klokka?.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Elle dit : « quelle heure est-il ? ».",
+        "translation": "Hun sier: «Hva er klokka?».",
+        "lang": "fr"
+      }
+    ],
+    "frequency": 246
   },
   "quest_ce_que_ca_veut_dire_phrase": {
     "word": "qu'est-ce que ca veut dire ?",
@@ -756,7 +1143,19 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk frase: qu'est-ce que ca veut dire ?."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Qu'est-ce que ca veut dire ?.",
+        "translation": "Qu'est-ce que ca veut dire ?.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Elle dit : « qu'est-ce que ca veut dire ? ».",
+        "translation": "Hun sier: «qu'est-ce que ca veut dire ?».",
+        "lang": "fr"
+      }
+    ]
   },
   "ravi_de_faire_votre_connaissance_phrase": {
     "word": "ravi(e) de faire votre connaissance",
@@ -770,7 +1169,19 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk frase: ravi(e) de faire votre connaissance."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Ravi(e) de faire votre connaissance.",
+        "translation": "Ravi(e) de faire votre connaissance.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Elle dit : « ravi(e) de faire votre connaissance ».",
+        "translation": "Hun sier: «ravi(e) de faire votre connaissance».",
+        "lang": "fr"
+      }
+    ]
   },
   "salut_phrase": {
     "word": "salut",
@@ -782,18 +1193,19 @@
     "cefr": "A1",
     "explanation": {
       "_description": "Fransk frase: salut."
-    }
-  },
-  "sante_phrase": {
-    "word": "sante !",
-    "type": "phrase",
-    "_generatedFrom": "fr/banks",
-    "_enriched": true,
-    "audio": "sante_phrase.mp3",
-    "cefr": "B1",
-    "explanation": {
-      "_description": "Fransk frase: sante !."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Salut.",
+        "translation": "Hei.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Elle dit : « salut ».",
+        "translation": "Hun sier: «hei».",
+        "lang": "fr"
+      }
+    ]
   },
   "sil_te_plait_phrase": {
     "word": "s'il te plait",
@@ -804,18 +1216,19 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk frase: s'il te plait."
-    }
-  },
-  "sil_vous_plait_phrase": {
-    "word": "s'il vous plait",
-    "type": "phrase",
-    "_generatedFrom": "fr/banks",
-    "_enriched": true,
-    "audio": "sil_vous_plait_phrase.mp3",
-    "cefr": "B1",
-    "explanation": {
-      "_description": "Fransk frase: s'il vous plait."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "S'il te plait.",
+        "translation": "S'il te plait.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Elle dit : « s'il te plait ».",
+        "translation": "Hun sier: «s'il te plait».",
+        "lang": "fr"
+      }
+    ]
   },
   "tres_bien_phrase": {
     "word": "tres bien",
@@ -826,7 +1239,20 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk frase: tres bien."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Tres bien.",
+        "translation": "Veldig bra.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Elle dit : « tres bien ».",
+        "translation": "Hun sier: «Veldig bra».",
+        "lang": "fr"
+      }
+    ],
+    "frequency": 3550
   },
   "tu_es_dou_phrase": {
     "word": "tu es d'ou ?",
@@ -837,6 +1263,18 @@
     "cefr": "B1",
     "explanation": {
       "_description": "Fransk frase: tu es d'ou ?."
-    }
+    },
+    "examples": [
+      {
+        "sentence": "Tu es d'ou ?.",
+        "translation": "Hvor er du fra?.",
+        "lang": "fr"
+      },
+      {
+        "sentence": "Elle dit : « tu es d'ou ? ».",
+        "translation": "Hun sier: «hvor er du fra?».",
+        "lang": "fr"
+      }
+    ]
   }
 }
