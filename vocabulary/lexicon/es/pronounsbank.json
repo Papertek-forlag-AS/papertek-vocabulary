@@ -86,7 +86,8 @@
     ],
     "acceptedForms": [
       "el"
-    ]
+    ],
+    "audio": "pronomen_el.mp3"
   },
   "ella_pron": {
     "word": "ella",
@@ -95,7 +96,8 @@
     "_enriched": true,
     "typos": [
       "eya"
-    ]
+    ],
+    "audio": "pronomen_ella.mp3"
   },
   "ellas_pron": {
     "word": "ellas",
@@ -104,7 +106,8 @@
     "_enriched": true,
     "typos": [
       "eyas"
-    ]
+    ],
+    "audio": "pronomen_ellas.mp3"
   },
   "ellos_pron": {
     "word": "ellos",
@@ -113,7 +116,8 @@
     "_enriched": true,
     "typos": [
       "eyos"
-    ]
+    ],
+    "audio": "pronomen_ellos.mp3"
   },
   "ese_demon_pron": {
     "word": "ese/esa/esos/esas",
@@ -209,13 +213,15 @@
     "word": "nosotras",
     "type": "pron",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "audio": "pronomen_nosotras.mp3"
   },
   "nosotros_pron": {
     "word": "nosotros",
     "type": "pron",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "audio": "pronomen_nosotros.mp3"
   },
   "nuestro_possess_pron": {
     "word": "nuestro/a/os/as",
@@ -329,13 +335,15 @@
     "word": "usted",
     "type": "pron",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "audio": "pronomen_usted.mp3"
   },
   "ustedes_pron": {
     "word": "ustedes",
     "type": "pron",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "audio": "pronomen_ustedes.mp3"
   },
   "vosotras_pron": {
     "word": "vosotras",
@@ -344,7 +352,8 @@
     "_enriched": true,
     "typos": [
       "bosotras"
-    ]
+    ],
+    "audio": "pronomen_vosotras.mp3"
   },
   "vosotros_pron": {
     "word": "vosotros",
@@ -353,7 +362,8 @@
     "_enriched": true,
     "typos": [
       "bosotros"
-    ]
+    ],
+    "audio": "pronomen_vosotros.mp3"
   },
   "vuestro_possess_pron": {
     "word": "vuestro/a/os/as",
@@ -368,6 +378,7 @@
     "word": "yo",
     "type": "pron",
     "_generatedFrom": "es/banks",
-    "_enriched": true
+    "_enriched": true,
+    "audio": "pronomen_yo.mp3"
   }
 }

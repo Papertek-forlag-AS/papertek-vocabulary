@@ -25,6 +25,21 @@ function computeContentHash(langPath) {
   return hash.digest('hex').substring(0, 8);
 }
 
+// Audio ZIP locations per language (static files, not serverless)
+const AUDIO_ZIPS = {
+  de: '/vocabulary/downloads/audio-de.zip',
+  es: '/vocabulary/downloads/audio-es.zip',
+  fr: '/vocabulary/downloads/audio-fr.zip',
+};
+
+function computeAudioHash(zipPath) {
+  const fullPath = path.join(process.cwd(), zipPath.replace(/^\//, ''));
+  if (!fs.existsSync(fullPath)) return null;
+  const hash = crypto.createHash('sha256');
+  hash.update(fs.readFileSync(fullPath));
+  return hash.digest('hex').substring(0, 8);
+}
+
 export default async function handler(req, res) {
   if (req.method === 'OPTIONS') { setCors(res); return res.status(200).end(); }
   if (req.method !== 'GET') { setCors(res); return res.status(405).json({ error: 'Method not allowed' }); }
@@ -43,7 +58,7 @@ export default async function handler(req, res) {
       if (fs.existsSync(manifestPath)) {
         const manifest = JSON.parse(fs.readFileSync(manifestPath, 'utf8'));
         const langPath = path.join(lexiconPath, lang);
-        languages[lang] = {
+        const langInfo = {
           totalWords: manifest.summary?.totalWords || 0,
           enrichedWords: manifest.summary?.enrichedWords || manifest.summary?.totalWords || 0,
           banks: manifest.banks || {},
@@ -53,6 +68,17 @@ export default async function handler(req, res) {
           searchEndpoint: `/api/vocab/v3/search/${lang}`,
           listEndpoint: `/api/vocab/v3/list/${lang}`,
         };
+
+        // Add audio info if ZIP exists for this language
+        if (AUDIO_ZIPS[lang]) {
+          const audioHash = computeAudioHash(AUDIO_ZIPS[lang]);
+          if (audioHash) {
+            langInfo.audioVersion = audioHash;
+            langInfo.audioEndpoint = AUDIO_ZIPS[lang];
+          }
+        }
+
+        languages[lang] = langInfo;
       }
     }
 
