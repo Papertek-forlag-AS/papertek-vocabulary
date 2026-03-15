@@ -47,7 +47,8 @@
         "translation": "Kannst du warnen?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "akseptere_verb": {
     "word": "akseptere",
@@ -87,7 +88,8 @@
         "translation": "Ich muss akzeptieren.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "allereie_gå_verb": {
     "word": "allereie gå",
@@ -115,7 +117,25 @@
         "translation": "Kannst du schon laufen?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å allereie gå",
+          "presens": "allerede går",
+          "preteritum": "allerede gådde",
+          "perfektum_partisipp": "allerede gådd",
+          "imperativ": "allerede gå"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: allerede går."
+    }
   },
   "analysere_verb": {
     "word": "analysere",
@@ -155,7 +175,8 @@
         "translation": "Sie analysieren viel.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "anbefale_verb": {
     "word": "anbefale",
@@ -195,7 +216,8 @@
         "translation": "Es ist wichtig zu empfehlen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1"
   },
   "andre_verb": {
     "word": "andre",
@@ -235,7 +257,8 @@
         "translation": "Ich muss anderen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2"
   },
   "anerkjenna_verb": {
     "word": "anerkjenna",
@@ -279,7 +302,8 @@
         "translation": "Sie anerkennen gut.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "ankomma_verb": {
     "word": "ankomma",
@@ -321,7 +345,8 @@
         "translation": "Es ist wichtig zu ankommen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1"
   },
   "anmelde_verb": {
     "word": "anmelde",
@@ -361,7 +386,8 @@
         "translation": "Er anzeigen zu Hause.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "ansetta_verb": {
     "word": "ansetta",
@@ -403,7 +429,8 @@
         "translation": "Sie anstellen viel.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "anskaffa_verb": {
     "word": "anskaffa",
@@ -445,7 +472,8 @@
         "translation": "Ich möchte anschaffen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "anslå_verb": {
     "word": "anslå",
@@ -491,7 +519,8 @@
         "translation": "Kannst du schätzen?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "anstrenga_seg_verb": {
     "word": "anstrenga seg",
@@ -533,7 +562,8 @@
         "translation": "Er sich anstrengen zu Hause.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "anta_verb": {
     "word": "anta",
@@ -573,7 +603,8 @@
         "translation": "Er annehmen zu Hause.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "anvenda_verb": {
     "word": "anvenda",
@@ -612,7 +643,8 @@
         "translation": "Ich möchte anwenden.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "arbeide_verb": {
     "word": "arbeide",
@@ -657,7 +689,8 @@
       }
     ],
     "audio": "arbeide_verb.mp3",
-    "frequency": 1912
+    "frequency": 1912,
+    "cefr": "A1"
   },
   "arrestere_verb": {
     "word": "arrestere",
@@ -700,7 +733,8 @@
         "translation": "Kannst du verhaften?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "avhenga_verb": {
     "word": "avhenga",
@@ -742,7 +776,8 @@
         "translation": "Es ist wichtig zu abhängen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "avlyse_verb": {
     "word": "avlyse",
@@ -782,7 +817,8 @@
         "translation": "Es ist wichtig zu absagen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "avslutta_verb": {
     "word": "avslutta",
@@ -824,7 +860,8 @@
         "translation": "Wir wollen abschließen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2"
   },
   "avslutte_å_fullføre_verb": {
     "word": "avslutte, å fullføre",
@@ -855,7 +892,21 @@
         "translation": "Sie avslutte, å fullføre gut.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å avslutte, å fullføre"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: ."
+    }
   },
   "avslå_verb": {
     "word": "avslå",
@@ -901,7 +952,8 @@
         "translation": "Wir ablehnen zusammen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "avtale_verb": {
     "word": "avtale",
@@ -941,7 +993,8 @@
         "translation": "Kannst du abmachen?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "avtale_å_møtes_verb": {
     "word": "avtale å møtes",
@@ -989,7 +1042,8 @@
         "translation": "Sie sich verabreden gut.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "bade_verb": {
     "word": "bade",
@@ -1029,7 +1083,8 @@
         "translation": "Es ist wichtig zu baden.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1"
   },
   "bak_verb": {
     "word": "bak",
@@ -1051,7 +1106,25 @@
         "translation": "Ich muss hinten.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å bak",
+          "presens": "bakr",
+          "preteritum": "bakdde",
+          "perfektum_partisipp": "bakdd",
+          "imperativ": "bak"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: bakr."
+    }
   },
   "bake_verb": {
     "word": "bake",
@@ -1091,7 +1164,8 @@
         "translation": "Ich möchte backen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2"
   },
   "banka_verb": {
     "word": "banka",
@@ -1131,7 +1205,8 @@
         "translation": "Kannst du klopfen?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "barbere_seg_verb": {
     "word": "barbere seg",
@@ -1176,7 +1251,8 @@
       }
     ],
     "audio": "barbere_seg_verb.mp3",
-    "frequency": 7060
+    "frequency": 7060,
+    "cefr": "A1"
   },
   "be_om_verb": {
     "word": "be om",
@@ -1215,7 +1291,8 @@
         "translation": "Ich bitten jeden Tag.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1"
   },
   "be_om_å_bestille_verb": {
     "word": "be om, å bestille",
@@ -1243,7 +1320,21 @@
         "translation": "Er be om, å bestille zu Hause.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å be om, å bestille"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: ."
+    }
   },
   "befinna_seg_verb": {
     "word": "befinna seg",
@@ -1285,7 +1376,8 @@
         "translation": "Wir wollen sich befinden.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "begrunna_verb": {
     "word": "begrunna",
@@ -1327,7 +1419,8 @@
         "translation": "Es ist wichtig zu begründen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2"
   },
   "begynna_verb": {
     "word": "begynna",
@@ -1374,7 +1467,8 @@
         "lang": "de"
       }
     ],
-    "audio": "begynna_verb.mp3"
+    "audio": "begynna_verb.mp3",
+    "cefr": "A1"
   },
   "behalde_verb": {
     "word": "behalde",
@@ -1413,7 +1507,8 @@
         "translation": "Wir behalten zusammen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "behandle_verb": {
     "word": "behandle",
@@ -1453,7 +1548,8 @@
         "translation": "Sie behandeln gut.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "beklage_verb": {
     "word": "beklage",
@@ -1498,7 +1594,8 @@
       }
     ],
     "audio": "beklage_verb.mp3",
-    "frequency": 6338
+    "frequency": 6338,
+    "cefr": "A1"
   },
   "bera_verb": {
     "word": "bera",
@@ -1542,7 +1639,8 @@
         "lang": "de"
       }
     ],
-    "audio": "bera_verb.mp3"
+    "audio": "bera_verb.mp3",
+    "cefr": "A1"
   },
   "beregne_verb": {
     "word": "beregne",
@@ -1582,7 +1680,8 @@
         "translation": "Wir wollen berechnen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "berolige_verb": {
     "word": "berolige",
@@ -1622,7 +1721,8 @@
         "translation": "Wir beruhigen zusammen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "besiktige_verb": {
     "word": "besiktige",
@@ -1661,7 +1761,8 @@
         "translation": "Kannst du besichtigen?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1"
   },
   "beskrive_verb": {
     "word": "beskrive",
@@ -1701,7 +1802,8 @@
         "translation": "Sie beschreiben gut.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2"
   },
   "beskytta_verb": {
     "word": "beskytta",
@@ -1743,7 +1845,8 @@
         "translation": "Wir schützen zusammen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "beslutta_verb": {
     "word": "beslutta",
@@ -1785,7 +1888,8 @@
         "translation": "Sie beschließen viel.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "best_verb": {
     "word": "best",
@@ -1807,7 +1911,25 @@
         "translation": "Er am besten zu Hause.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å best",
+          "presens": "bestr",
+          "preteritum": "bestdde",
+          "perfektum_partisipp": "bestdd",
+          "imperativ": "best"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: bestr."
+    }
   },
   "bestemma_seg_verb": {
     "word": "bestemma seg",
@@ -1849,7 +1971,8 @@
         "translation": "Sie sich entschließen gut.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "bestemma_verb": {
     "word": "bestemma",
@@ -1891,7 +2014,8 @@
         "translation": "Ich muss bestemma.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "bestilla_verb": {
     "word": "bestilla",
@@ -1933,7 +2057,8 @@
         "translation": "Sie buchen viel.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2"
   },
   "besvare_verb": {
     "word": "besvare",
@@ -1973,7 +2098,8 @@
         "translation": "Ich muss beantworten.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2"
   },
   "besøke_verb": {
     "word": "besøke",
@@ -2024,7 +2150,8 @@
       }
     ],
     "audio": "besøke_verb.mp3",
-    "frequency": 1450
+    "frequency": 1450,
+    "cefr": "A1"
   },
   "betale_verb": {
     "word": "betale",
@@ -2064,7 +2191,8 @@
         "translation": "Sie bezahlen gut.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1"
   },
   "betjene_verb": {
     "word": "betjene",
@@ -2104,7 +2232,8 @@
         "translation": "Ich möchte bedienen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "bevege_seg_verb": {
     "word": "bevege seg",
@@ -2149,7 +2278,8 @@
       }
     ],
     "audio": "bevege_seg_verb.mp3",
-    "frequency": 2885
+    "frequency": 2885,
+    "cefr": "A1"
   },
   "bevege_verb": {
     "word": "bevege",
@@ -2189,7 +2319,8 @@
         "translation": "Sie bewegen viel.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "bevise_verb": {
     "word": "bevise",
@@ -2229,7 +2360,8 @@
         "translation": "Wir wollen beweisen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "bita_verb": {
     "word": "bita",
@@ -2268,7 +2400,8 @@
         "translation": "Es ist wichtig zu beißen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "bli_enige_verb": {
     "word": "bli enige",
@@ -2308,7 +2441,8 @@
         "translation": "Wir sich einigen zusammen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "bli_forelska_verb": {
     "word": "bli forelska",
@@ -2348,7 +2482,8 @@
         "translation": "Wir wollen sich verlieben.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "bli_forkjølet_verb": {
     "word": "bli forkjølet",
@@ -2396,7 +2531,8 @@
         "translation": "Wir wollen sich erkälten.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "bli_kjent_med_verb": {
     "word": "bli kjent med",
@@ -2441,7 +2577,8 @@
         "translation": "Wir kennenlernen zusammen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1"
   },
   "bli_liggande_verb": {
     "word": "bli liggande",
@@ -2489,7 +2626,8 @@
       }
     ],
     "audio": "bli_liggande_verb.mp3",
-    "frequency": 86
+    "frequency": 86,
+    "cefr": "A1"
   },
   "bli_med_verb": {
     "word": "bli med",
@@ -2537,7 +2675,8 @@
       }
     ],
     "audio": "bli_med_verb.mp3",
-    "frequency": 86
+    "frequency": 86,
+    "cefr": "A1"
   },
   "bli_opprørt_verb": {
     "word": "bli opprørt",
@@ -2589,7 +2728,8 @@
       }
     ],
     "audio": "bli_opprørt_verb.mp3",
-    "frequency": 86
+    "frequency": 86,
+    "cefr": "A1"
   },
   "bli_verb": {
     "word": "bli",
@@ -2634,7 +2774,8 @@
       }
     ],
     "audio": "bli_verb.mp3",
-    "frequency": 86
+    "frequency": 86,
+    "cefr": "A1"
   },
   "blomstre_verb": {
     "word": "blomstre",
@@ -2674,7 +2815,8 @@
         "translation": "Sie blühen viel.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "blø_verb": {
     "word": "blø",
@@ -2720,7 +2862,8 @@
         "translation": "Sie bluten viel.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "bo_verb": {
     "word": "bo",
@@ -2765,7 +2908,8 @@
       }
     ],
     "audio": "bo_verb.mp3",
-    "frequency": 687
+    "frequency": 687,
+    "cefr": "A1"
   },
   "bo_å_leve_verb": {
     "word": "bo, å leve",
@@ -2792,7 +2936,21 @@
         "translation": "Ich muss bo, å leve.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å bo, å leve"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: ."
+    }
   },
   "bremse_verb": {
     "word": "bremse",
@@ -2832,7 +2990,8 @@
         "translation": "Wir wollen bremsen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "brenna_seg_verb": {
     "word": "brenna seg",
@@ -2874,7 +3033,8 @@
         "translation": "Kannst du sich verbrennen?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "brenna_verb": {
     "word": "brenna",
@@ -2916,7 +3076,8 @@
         "translation": "Es ist wichtig zu brennen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "bringa_verb": {
     "word": "bringa",
@@ -2963,7 +3124,8 @@
         "lang": "de"
       }
     ],
-    "audio": "bringa_verb.mp3"
+    "audio": "bringa_verb.mp3",
+    "cefr": "A1"
   },
   "bringe_å_ta_med_verb": {
     "word": "bringe, å ta med",
@@ -2992,7 +3154,21 @@
         "translation": "Sie bringe, å ta med gut.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å bringe, å ta med"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: ."
+    }
   },
   "bruka_deform_verb": {
     "word": "bruka de-form",
@@ -3031,7 +3207,8 @@
         "translation": "Wir sich siezen zusammen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "bruka_verb": {
     "word": "bruka",
@@ -3071,7 +3248,8 @@
         "translation": "Ich möchte ausgeben.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2"
   },
   "bryta_seg_inn_verb": {
     "word": "bryta seg inn",
@@ -3113,7 +3291,8 @@
         "translation": "Sie einbrechen viel.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "bygga_verb": {
     "word": "bygga",
@@ -3155,7 +3334,8 @@
         "translation": "Ich muss bauen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "bytta_verb": {
     "word": "bytta",
@@ -3198,7 +3378,8 @@
         "translation": "Wir wollen tauschen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2"
   },
   "bære_å_ha_på_seg_verb": {
     "word": "bære, å ha på seg",
@@ -3228,7 +3409,21 @@
         "translation": "Ich möchte bære, å ha på seg.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å bære, å ha på seg"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: ."
+    }
   },
   "bør_verb": {
     "word": "bør",
@@ -3261,7 +3456,25 @@
       }
     ],
     "audio": "bør_verb.mp3",
-    "frequency": 221
+    "frequency": 221,
+    "cefr": "A1",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å bør",
+          "presens": "børr",
+          "preteritum": "børdde",
+          "perfektum_partisipp": "børdd",
+          "imperativ": "bør"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: børr."
+    }
   },
   "chatta_verb": {
     "word": "chatta",
@@ -3303,7 +3516,8 @@
         "translation": "Wir chatten zusammen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2"
   },
   "danse_verb": {
     "word": "danse",
@@ -3348,7 +3562,8 @@
       }
     ],
     "audio": "danse_verb.mp3",
-    "frequency": 1112
+    "frequency": 1112,
+    "cefr": "A1"
   },
   "dei_fleste_mennesker_verb": {
     "word": "dei fleste mennesker",
@@ -3373,7 +3588,21 @@
         "translation": "Kannst du meistder Mensch?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å dei fleste mennesker"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: ."
+    }
   },
   "dekorere_verb": {
     "word": "dekorere",
@@ -3418,7 +3647,8 @@
       }
     ],
     "audio": "dekorere_verb.mp3",
-    "frequency": 31172
+    "frequency": 31172,
+    "cefr": "A1"
   },
   "dele_verb": {
     "word": "dele",
@@ -3458,7 +3688,8 @@
         "translation": "Er teilen zu Hause.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "delta_verb": {
     "word": "delta",
@@ -3498,7 +3729,8 @@
         "translation": "Ich muss mitmachen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1"
   },
   "delta_å_vera_til_stede_verb": {
     "word": "delta, å vera til stede",
@@ -3526,7 +3758,21 @@
         "translation": "Kannst du delta, å vera til stede?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å delta, å vera til stede"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: ."
+    }
   },
   "der_borte_verb": {
     "word": "der borte",
@@ -3548,7 +3794,25 @@
         "translation": "Wir drüben zusammen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å der borte",
+          "presens": "der borter",
+          "preteritum": "der bortte",
+          "perfektum_partisipp": "der bortt",
+          "imperativ": "der bort"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: der borter."
+    }
   },
   "derimot_verb": {
     "word": "derimot",
@@ -3570,7 +3834,25 @@
         "translation": "Er dagegen zu Hause.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å derimot",
+          "presens": "derimotr",
+          "preteritum": "derimotdde",
+          "perfektum_partisipp": "derimotdd",
+          "imperativ": "derimot"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: derimotr."
+    }
   },
   "diskutere_verb": {
     "word": "diskutere",
@@ -3610,7 +3892,8 @@
         "translation": "Es ist wichtig zu besprechen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "dovne_seg_verb": {
     "word": "dovne seg",
@@ -3650,7 +3933,8 @@
         "translation": "Wir faulenzen zusammen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "dra_verb": {
     "word": "dra",
@@ -3690,7 +3974,8 @@
         "translation": "Ich ziehen jeden Tag.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2"
   },
   "dra_å_gå_verb": {
     "word": "dra, å gå",
@@ -3718,7 +4003,21 @@
         "translation": "Sie dra, å gå viel.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å dra, å gå"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: ."
+    }
   },
   "dreie_verb": {
     "word": "dreie",
@@ -3758,7 +4057,8 @@
         "translation": "Ich drehen jeden Tag.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "drikka_verb": {
     "word": "drikka",
@@ -3805,7 +4105,8 @@
         "lang": "de"
       }
     ],
-    "audio": "drikka_verb.mp3"
+    "audio": "drikka_verb.mp3",
+    "cefr": "A1"
   },
   "drømma_verb": {
     "word": "drømma",
@@ -3856,7 +4157,8 @@
         "lang": "de"
       }
     ],
-    "audio": "drømma_verb.mp3"
+    "audio": "drømma_verb.mp3",
+    "cefr": "A1"
   },
   "dusje_verb": {
     "word": "dusje",
@@ -3896,7 +4198,8 @@
         "translation": "Kannst du duschen?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1"
   },
   "dykka_verb": {
     "word": "dykka",
@@ -3938,7 +4241,8 @@
         "translation": "Ich muss tauchen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "død_verb": {
     "word": "død",
@@ -3966,7 +4270,25 @@
         "translation": "Wir wollen gestorben.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å død",
+          "presens": "dødr",
+          "preteritum": "døddde",
+          "perfektum_partisipp": "døddd",
+          "imperativ": "død"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: dødr."
+    }
   },
   "døde_i_går_verb": {
     "word": "døde i går",
@@ -3996,7 +4318,21 @@
         "translation": "Es ist wichtig zu gestern gestorben.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å døde i går"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: ."
+    }
   },
   "dømma_verb": {
     "word": "dømma",
@@ -4042,7 +4378,8 @@
         "translation": "Ich möchte verurteilen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "eigne_seg_verb": {
     "word": "eigne seg",
@@ -4081,7 +4418,8 @@
         "translation": "Sie sich eignen gut.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "eksistere_verb": {
     "word": "eksistere",
@@ -4121,7 +4459,8 @@
         "translation": "Kannst du eksistere?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "elska_verb": {
     "word": "elska",
@@ -4165,7 +4504,8 @@
         "lang": "de"
       }
     ],
-    "audio": "elska_verb.mp3"
+    "audio": "elska_verb.mp3",
+    "cefr": "A1"
   },
   "elske_å_lika_veldig_godt_verb": {
     "word": "elske, å lika veldig godt",
@@ -4194,7 +4534,21 @@
         "translation": "Ich möchte elske, å lika veldig godt.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å elske, å lika veldig godt"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: ."
+    }
   },
   "endre_verb": {
     "word": "endre",
@@ -4234,7 +4588,8 @@
         "translation": "Es ist wichtig zu ändern.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "enig_verb": {
     "word": "enig",
@@ -4256,7 +4611,25 @@
         "translation": "Kannst du einverstanden?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å enig",
+          "presens": "enigr",
+          "preteritum": "enigdde",
+          "perfektum_partisipp": "enigdd",
+          "imperativ": "enig"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: enigr."
+    }
   },
   "enkeltvis_verb": {
     "word": "enkeltvis",
@@ -4277,7 +4650,25 @@
         "translation": "Ich möchte einzeln.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å enkeltvis",
+          "presens": "enkeltvisr",
+          "preteritum": "enkeltvisdde",
+          "perfektum_partisipp": "enkeltvisdd",
+          "imperativ": "enkeltvis"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: enkeltvisr."
+    }
   },
   "er_enig_verb": {
     "word": "er enig",
@@ -4298,7 +4689,25 @@
         "translation": "Es ist wichtig zu bin) einverstanden.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å er enig",
+          "presens": "er enigr",
+          "preteritum": "er enigdde",
+          "perfektum_partisipp": "er enigdd",
+          "imperativ": "er enig"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: er enigr."
+    }
   },
   "ernære_verb": {
     "word": "ernære",
@@ -4343,7 +4752,8 @@
         "translation": "Es ist wichtig zu ernähren.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "eta_frokost_verb": {
     "word": "eta frokost",
@@ -4388,7 +4798,8 @@
       }
     ],
     "audio": "eta_frokost_verb.mp3",
-    "frequency": 39332
+    "frequency": 39332,
+    "cefr": "A1"
   },
   "eta_middag_verb": {
     "word": "eta middag",
@@ -4431,7 +4842,8 @@
         "translation": "Er eta middag zu Hause.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "eta_verb": {
     "word": "eta",
@@ -4476,7 +4888,8 @@
       }
     ],
     "audio": "eta_verb.mp3",
-    "frequency": 39332
+    "frequency": 39332,
+    "cefr": "A1"
   },
   "etterlate_verb": {
     "word": "etterlate",
@@ -4519,7 +4932,8 @@
         "translation": "Es ist wichtig zu hinterlassen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "falla_i_øynene_verb": {
     "word": "falla i øynene",
@@ -4566,7 +4980,8 @@
         "translation": "Es ist wichtig zu auffallen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "falla_inn_verb": {
     "word": "falla inn",
@@ -4609,7 +5024,8 @@
         "translation": "Sie einfallen gut.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "falla_ut_verb": {
     "word": "falla ut",
@@ -4652,7 +5068,8 @@
         "translation": "Ich möchte ausfallen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "falla_verb": {
     "word": "falla",
@@ -4695,7 +5112,8 @@
         "translation": "Ich muss fallen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "fanga_verb": {
     "word": "fanga",
@@ -4737,7 +5155,8 @@
         "translation": "Kannst du fangen?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "fastsetta_verb": {
     "word": "fastsetta",
@@ -4779,7 +5198,8 @@
         "translation": "Ich festlegen jeden Tag.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "feire_verb": {
     "word": "feire",
@@ -4824,7 +5244,8 @@
       }
     ],
     "audio": "feire_verb.mp3",
-    "frequency": 1699
+    "frequency": 1699,
+    "cefr": "A1"
   },
   "fem_oppgaver_verb": {
     "word": "fem oppgaver",
@@ -4849,7 +5270,25 @@
         "translation": "Sie fünf Aufgaben viel.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å fem oppgaver",
+          "presens": "fem oppgaverr",
+          "preteritum": "fem oppgaverdde",
+          "perfektum_partisipp": "fem oppgaverdd",
+          "imperativ": "fem oppgaver"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: fem oppgaverr."
+    }
   },
   "finansiere_verb": {
     "word": "finansiere",
@@ -4889,7 +5328,8 @@
         "translation": "Sie finanzieren viel.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "finna_opp_verb": {
     "word": "finna opp",
@@ -4931,7 +5371,8 @@
         "translation": "Sie erfinden gut.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "finna_stad_verb": {
     "word": "finna stad",
@@ -4974,7 +5415,8 @@
         "translation": "Wir wollen stattfinden.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2"
   },
   "finna_verb": {
     "word": "finna",
@@ -5021,7 +5463,8 @@
         "lang": "de"
       }
     ],
-    "audio": "finna_verb.mp3"
+    "audio": "finna_verb.mp3",
+    "cefr": "A1"
   },
   "finne_å_møte_verb": {
     "word": "finne, å møte",
@@ -5052,7 +5495,21 @@
         "translation": "Kannst du finne, å møte?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å finne, å møte"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: ."
+    }
   },
   "finst_verb": {
     "word": "finst",
@@ -5092,7 +5549,8 @@
         "translation": "Wir wollen finst.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "fjerne_verb": {
     "word": "fjerne",
@@ -5132,7 +5590,8 @@
         "translation": "Ich muss entfernen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "flyga_av_stad_verb": {
     "word": "flyga av stad",
@@ -5174,7 +5633,8 @@
         "translation": "Es ist wichtig zu abfliegen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1"
   },
   "flyga_verb": {
     "word": "flyga",
@@ -5218,7 +5678,8 @@
         "lang": "de"
       }
     ],
-    "audio": "flyga_verb.mp3"
+    "audio": "flyga_verb.mp3",
+    "cefr": "A1"
   },
   "flytta_inn_verb": {
     "word": "flytta inn",
@@ -5261,7 +5722,8 @@
         "translation": "Wir einziehen zusammen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2"
   },
   "flytta_verb": {
     "word": "flytta",
@@ -5304,7 +5766,8 @@
         "translation": "Es ist wichtig zu umziehen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1"
   },
   "forandre_seg_verb": {
     "word": "forandre seg",
@@ -5344,7 +5807,8 @@
         "translation": "Wir wollen sich verändern.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "forbedre_seg_verb": {
     "word": "forbedre seg",
@@ -5384,7 +5848,8 @@
         "translation": "Ich muss sich verbessern.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "forbli_verb": {
     "word": "forbli",
@@ -5429,7 +5894,8 @@
       }
     ],
     "audio": "forbli_verb.mp3",
-    "frequency": 3407
+    "frequency": 3407,
+    "cefr": "A1"
   },
   "forbruka_verb": {
     "word": "forbruka",
@@ -5468,7 +5934,8 @@
         "translation": "Wir wollen konsumieren.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "forby_verb": {
     "word": "forby",
@@ -5508,7 +5975,8 @@
         "translation": "Es ist wichtig zu verboten.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1"
   },
   "fordele_verb": {
     "word": "fordele",
@@ -5548,7 +6016,8 @@
         "translation": "Sie verteilen gut.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "forekomma_verb": {
     "word": "forekomma",
@@ -5590,7 +6059,8 @@
         "translation": "Ich vorkommen jeden Tag.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "foreslå_verb": {
     "word": "foreslå",
@@ -5636,7 +6106,8 @@
         "translation": "Ich muss vorschlagen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "forestilla_seg_verb": {
     "word": "forestilla seg",
@@ -5678,7 +6149,8 @@
         "translation": "Wir wollen vorstellen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1"
   },
   "foreta_verb": {
     "word": "foreta",
@@ -5718,7 +6190,8 @@
         "translation": "Sie unternehmen gut.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2"
   },
   "foretrekka_verb": {
     "word": "foretrekka",
@@ -5760,7 +6233,8 @@
         "translation": "Ich muss foretrekka.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "forhøre_seg_verb": {
     "word": "forhøre seg",
@@ -5806,7 +6280,8 @@
         "translation": "Sie sich erkundigen gut.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "forklare_verb": {
     "word": "forklare",
@@ -5851,7 +6326,8 @@
       }
     ],
     "audio": "forklare_verb.mp3",
-    "frequency": 736
+    "frequency": 736,
+    "cefr": "A1"
   },
   "forlate_verb": {
     "word": "forlate",
@@ -5891,7 +6367,8 @@
         "translation": "Ich möchte verlassen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "forlenga_verb": {
     "word": "forlenga",
@@ -5933,7 +6410,8 @@
         "translation": "Sie verlängern viel.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "fornærme_verb": {
     "word": "fornærme",
@@ -5979,7 +6457,8 @@
         "translation": "Kannst du beleidigen?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "fornøyd_med_det_verb": {
     "word": "fornøyd med det",
@@ -6007,7 +6486,21 @@
         "translation": "Kannst du damit zufrieden?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å fornøyd med det"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: ."
+    }
   },
   "forråde_verb": {
     "word": "forråde",
@@ -6054,7 +6547,8 @@
         "translation": "Ich verraten jeden Tag.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "forsikre_verb": {
     "word": "forsikre",
@@ -6094,7 +6588,8 @@
         "translation": "Wir versichern zusammen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "forskjelleg_verb": {
     "word": "forskjelleg",
@@ -6120,7 +6615,25 @@
         "translation": "Er verschieden zu Hause.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å forskjelleg",
+          "presens": "forskjelligr",
+          "preteritum": "forskjelligdde",
+          "perfektum_partisipp": "forskjelligdd",
+          "imperativ": "forskjellig"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: forskjelligr."
+    }
   },
   "forskrive_verb": {
     "word": "forskrive",
@@ -6159,7 +6672,8 @@
         "translation": "Wir verschreiben zusammen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "forstyrre_verb": {
     "word": "forstyrre",
@@ -6202,7 +6716,8 @@
         "translation": "Wir wollen stören.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "forstå_verb": {
     "word": "forstå",
@@ -6253,7 +6768,8 @@
       }
     ],
     "audio": "forstå_verb.mp3",
-    "frequency": 646
+    "frequency": 646,
+    "cefr": "A1"
   },
   "forstørre_verb": {
     "word": "forstørre",
@@ -6300,7 +6816,8 @@
         "translation": "Sie vergrößern gut.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "forsømma_verb": {
     "word": "forsømma",
@@ -6346,7 +6863,8 @@
         "translation": "Ich möchte versäumen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "forsørge_verb": {
     "word": "forsørge",
@@ -6392,7 +6910,8 @@
         "translation": "Es ist wichtig zu verpflegen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "fortelja_verb": {
     "word": "fortelja",
@@ -6436,7 +6955,8 @@
         "lang": "de"
       }
     ],
-    "audio": "fortelja_verb.mp3"
+    "audio": "fortelja_verb.mp3",
+    "cefr": "A1"
   },
   "forveksle_verb": {
     "word": "forveksle",
@@ -6476,7 +6996,8 @@
         "translation": "Wir verwechseln zusammen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "forventa_verb": {
     "word": "forventa",
@@ -6515,7 +7036,8 @@
         "translation": "Wir erwarten zusammen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "forårsake_verb": {
     "word": "forårsake",
@@ -6561,7 +7083,8 @@
         "translation": "Sie verursachen viel.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "fotografere_verb": {
     "word": "fotografere",
@@ -6601,7 +7124,8 @@
         "translation": "Er fotografieren zu Hause.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2"
   },
   "fre_verb": {
     "word": "fôre",
@@ -6646,7 +7170,8 @@
       }
     ],
     "audio": "fre_verb.mp3",
-    "frequency": 25840
+    "frequency": 25840,
+    "cefr": "A1"
   },
   "fremma_verb": {
     "word": "fremma",
@@ -6688,7 +7213,8 @@
         "translation": "Sie fördern viel.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "fremstilla_verb": {
     "word": "fremstilla",
@@ -6730,7 +7256,8 @@
         "translation": "Ich darstellen jeden Tag.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "frysa_verb": {
     "word": "frysa",
@@ -6769,7 +7296,8 @@
         "translation": "Kannst du frieren?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "fungere_verb": {
     "word": "fungere",
@@ -6809,7 +7337,8 @@
         "translation": "Sie funktionieren viel.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "fylla_bensin_verb": {
     "word": "fylla bensin",
@@ -6852,7 +7381,8 @@
         "translation": "Ich möchte tanken.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "fylla_ut_verb": {
     "word": "fylla ut",
@@ -6895,7 +7425,8 @@
         "translation": "Wir ausfüllen zusammen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1"
   },
   "få_lov_til_verb": {
     "word": "få lov til",
@@ -6945,7 +7476,8 @@
         "lang": "de"
       }
     ],
-    "audio": "få_lov_til_verb.mp3"
+    "audio": "få_lov_til_verb.mp3",
+    "cefr": "A1"
   },
   "få_verb": {
     "word": "få",
@@ -6996,7 +7528,8 @@
       }
     ],
     "audio": "få_verb.mp3",
-    "frequency": 70
+    "frequency": 70,
+    "cefr": "A1"
   },
   "født_verb": {
     "word": "født",
@@ -7025,7 +7558,25 @@
         "translation": "Es ist wichtig zu geboren.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å født",
+          "presens": "fødtr",
+          "preteritum": "fødtdde",
+          "perfektum_partisipp": "fødtdd",
+          "imperativ": "født"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: fødtr."
+    }
   },
   "føle_seg_verb": {
     "word": "føle seg",
@@ -7076,7 +7627,8 @@
       }
     ],
     "audio": "føle_seg_verb.mp3",
-    "frequency": 763
+    "frequency": 763,
+    "cefr": "A1"
   },
   "føle_verb": {
     "word": "føle",
@@ -7122,7 +7674,8 @@
         "translation": "Kannst du fühlen?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "følge_verb": {
     "word": "følge",
@@ -7168,7 +7721,8 @@
         "translation": "Ich muss folgen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "følge_å_fortsette_verb": {
     "word": "følge, å fortsette",
@@ -7199,7 +7753,21 @@
         "translation": "Sie følge, å fortsette gut.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å følge, å fortsette"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: ."
+    }
   },
   "føre_inn_verb": {
     "word": "føre inn",
@@ -7246,7 +7814,8 @@
         "translation": "Ich muss eintragen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2"
   },
   "førebu_seg_på_det_verb": {
     "word": "førebu seg på det",
@@ -7275,7 +7844,21 @@
         "translation": "Kannst du dafür vorbereiten?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å førebu seg på det"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: ."
+    }
   },
   "førebu_seg_verb": {
     "word": "førebu seg",
@@ -7325,7 +7908,8 @@
         "lang": "de"
       }
     ],
-    "audio": "førebu_seg_verb.mp3"
+    "audio": "førebu_seg_verb.mp3",
+    "cefr": "A1"
   },
   "førebu_verb": {
     "word": "førebu",
@@ -7370,7 +7954,8 @@
         "translation": "Es ist wichtig zu vorbereiten.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2"
   },
   "garantere_verb": {
     "word": "garantere",
@@ -7410,7 +7995,8 @@
         "translation": "Kannst du garantieren?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "gi_avkall_på_verb": {
     "word": "gi avkall på",
@@ -7456,7 +8042,8 @@
         "translation": "Sie verzichten viel.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "gi_opp_verb": {
     "word": "gi opp",
@@ -7498,7 +8085,8 @@
         "translation": "Ich aufgeben jeden Tag.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "gi_verb": {
     "word": "gi",
@@ -7543,7 +8131,8 @@
       }
     ],
     "audio": "gi_verb.mp3",
-    "frequency": 118
+    "frequency": 118,
+    "cefr": "A1"
   },
   "gifta_seg_verb": {
     "word": "gifta seg",
@@ -7583,7 +8172,8 @@
         "translation": "Es ist wichtig zu heiraten.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1"
   },
   "gjelde_verb": {
     "word": "gjelde",
@@ -7623,7 +8213,8 @@
         "translation": "Wir gelten zusammen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "gjemma_seg_verb": {
     "word": "gjemma seg",
@@ -7665,7 +8256,8 @@
         "translation": "Ich muss sich verstecken.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "gjenkjenna_verb": {
     "word": "gjenkjenna",
@@ -7709,7 +8301,8 @@
         "translation": "Ich möchte erkennen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "gjenta_verb": {
     "word": "gjenta",
@@ -7749,7 +8342,8 @@
         "translation": "Ich möchte wiederholen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1"
   },
   "gjera_verb": {
     "word": "gjera",
@@ -7793,7 +8387,8 @@
         "lang": "de"
       }
     ],
-    "audio": "gjera_verb.mp3"
+    "audio": "gjera_verb.mp3",
+    "cefr": "A1"
   },
   "gjera_å_lage_verb": {
     "word": "gjera, å lage",
@@ -7820,7 +8415,21 @@
         "translation": "Kannst du gjera, å lage?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å gjera, å lage"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: ."
+    }
   },
   "gjetta_verb": {
     "word": "gjetta",
@@ -7862,7 +8471,8 @@
         "translation": "Wir raten zusammen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "gleda_seg_over_verb": {
     "word": "gleda seg over",
@@ -7906,7 +8516,8 @@
         "lang": "de"
       }
     ],
-    "audio": "gleda_seg_over_verb.mp3"
+    "audio": "gleda_seg_over_verb.mp3",
+    "cefr": "A1"
   },
   "gleda_seg_til_verb": {
     "word": "gleda seg til",
@@ -7950,7 +8561,8 @@
         "lang": "de"
       }
     ],
-    "audio": "gleda_seg_til_verb.mp3"
+    "audio": "gleda_seg_til_verb.mp3",
+    "cefr": "A1"
   },
   "gleda_seg_verb": {
     "word": "gleda seg",
@@ -7989,7 +8601,8 @@
         "translation": "Wir wollen freuen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1"
   },
   "glemma_verb": {
     "word": "glemma",
@@ -8036,7 +8649,8 @@
         "lang": "de"
       }
     ],
-    "audio": "glemma_verb.mp3"
+    "audio": "glemma_verb.mp3",
+    "cefr": "A1"
   },
   "godkjenna_verb": {
     "word": "godkjenna",
@@ -8080,7 +8694,8 @@
         "translation": "Kannst du genehmigen?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "gratulere_verb": {
     "word": "gratulere",
@@ -8120,7 +8735,8 @@
         "translation": "Kannst du gratulieren?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1"
   },
   "gre_seg_verb": {
     "word": "gre seg",
@@ -8165,7 +8781,8 @@
       }
     ],
     "audio": "gre_seg_verb.mp3",
-    "frequency": 26004
+    "frequency": 26004,
+    "cefr": "A1"
   },
   "grilla_verb": {
     "word": "grilla",
@@ -8213,7 +8830,8 @@
       }
     ],
     "audio": "grilla_verb.mp3",
-    "frequency": 48879
+    "frequency": 48879,
+    "cefr": "A1"
   },
   "gripa_verb": {
     "word": "gripa",
@@ -8252,7 +8870,8 @@
         "translation": "Ich fassen jeden Tag.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "grunnlegga_verb": {
     "word": "grunnlegga",
@@ -8294,7 +8913,8 @@
         "translation": "Ich muss gründen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "gråta_verb": {
     "word": "gråta",
@@ -8339,7 +8959,8 @@
         "translation": "Kannst du weinen?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "gå_av_verb": {
     "word": "gå av",
@@ -8384,7 +9005,8 @@
         "translation": "Kannst du aussteigen?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1"
   },
   "gå_glipp_av_verb": {
     "word": "gå glipp av",
@@ -8430,7 +9052,8 @@
         "translation": "Wir verpassen zusammen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2"
   },
   "gå_mot_verb": {
     "word": "gå mot",
@@ -8475,7 +9098,8 @@
         "translation": "Es ist wichtig zu zugehen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "gå_ned_i_vekt_verb": {
     "word": "gå ned i vekt",
@@ -8502,7 +9126,21 @@
         "translation": "Ich muss abnehmen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å gå ned i vekt"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: ."
+    }
   },
   "gå_og_handle_verb": {
     "word": "gå og handle",
@@ -8552,7 +9190,8 @@
         "lang": "de"
       }
     ],
-    "audio": "gå_og_handle_verb.mp3"
+    "audio": "gå_og_handle_verb.mp3",
+    "cefr": "A1"
   },
   "gå_og_svømme_verb": {
     "word": "gå og svømme",
@@ -8600,7 +9239,8 @@
         "translation": "Ich muss schwimmen gehen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2"
   },
   "gå_opp_å_stige_verb": {
     "word": "gå opp, å stige",
@@ -8628,7 +9268,21 @@
         "translation": "Wir wollen gå opp, å stige.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å gå opp, å stige"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: ."
+    }
   },
   "gå_på_tur_verb": {
     "word": "gå på tur",
@@ -8678,7 +9332,8 @@
         "lang": "de"
       }
     ],
-    "audio": "gå_på_tur_verb.mp3"
+    "audio": "gå_på_tur_verb.mp3",
+    "cefr": "A1"
   },
   "gå_seg_bort_verb": {
     "word": "gå seg bort",
@@ -8723,7 +9378,8 @@
         "translation": "Es ist wichtig zu sich verlaufen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "gå_tur_verb": {
     "word": "gå tur",
@@ -8773,7 +9429,8 @@
         "lang": "de"
       }
     ],
-    "audio": "gå_tur_verb.mp3"
+    "audio": "gå_tur_verb.mp3",
+    "cefr": "A1"
   },
   "gå_ut_verb": {
     "word": "gå ut",
@@ -8818,7 +9475,8 @@
         "translation": "Wir ausgehen zusammen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2"
   },
   "gå_ut_å_dra_verb": {
     "word": "gå ut, å dra",
@@ -8845,7 +9503,21 @@
         "translation": "Sie gå ut, å dra gut.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å gå ut, å dra"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: ."
+    }
   },
   "gå_verb": {
     "word": "gå",
@@ -8896,7 +9568,8 @@
       }
     ],
     "audio": "gå_verb.mp3",
-    "frequency": 84
+    "frequency": 84,
+    "cefr": "A1"
   },
   "gå_å_dra_verb": {
     "word": "gå, å dra",
@@ -8923,7 +9596,21 @@
         "translation": "Er gå, å dra zu Hause.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å gå, å dra"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: ."
+    }
   },
   "gå_å_spasere_verb": {
     "word": "gå, å spasere",
@@ -8950,7 +9637,21 @@
         "translation": "Es ist wichtig zu gå, å spasere.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å gå, å spasere"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: ."
+    }
   },
   "ha_planer_om_verb": {
     "word": "ha planer om",
@@ -8989,7 +9690,8 @@
         "translation": "Ich möchte vorhaben.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "ha_på_seg_verb": {
     "word": "ha på seg",
@@ -9034,7 +9736,8 @@
         "translation": "Kannst du anhaben?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "ha_verb": {
     "word": "ha",
@@ -9079,7 +9782,8 @@
       }
     ],
     "audio": "ha_verb.mp3",
-    "frequency": 51
+    "frequency": 51,
+    "cefr": "A1"
   },
   "hagle_verb": {
     "word": "hagle",
@@ -9119,7 +9823,8 @@
         "translation": "Ich möchte hageln.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "halda_opp_verb": {
     "word": "halda opp",
@@ -9161,7 +9866,8 @@
         "translation": "Kannst du aufhalten?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "halda_verb": {
     "word": "halda",
@@ -9200,7 +9906,8 @@
         "translation": "Es ist wichtig zu halten.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1"
   },
   "handle_verb": {
     "word": "handle",
@@ -9245,7 +9952,8 @@
       }
     ],
     "audio": "handle_verb.mp3",
-    "frequency": 1820
+    "frequency": 1820,
+    "cefr": "A1"
   },
   "hate_verb": {
     "word": "hate",
@@ -9285,7 +9993,8 @@
         "translation": "Wir wollen hassen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "heita_verb": {
     "word": "heita",
@@ -9329,7 +10038,8 @@
         "lang": "de"
       }
     ],
-    "audio": "heita_verb.mp3"
+    "audio": "heita_verb.mp3",
+    "cefr": "A1"
   },
   "helst_verb": {
     "word": "helst",
@@ -9351,7 +10061,25 @@
         "translation": "Sie am liebsten viel.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å helst",
+          "presens": "helstr",
+          "preteritum": "helstdde",
+          "perfektum_partisipp": "helstdd",
+          "imperativ": "helst"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: helstr."
+    }
   },
   "henga_verb": {
     "word": "henga",
@@ -9399,7 +10127,8 @@
       }
     ],
     "audio": "henga_verb.mp3",
-    "frequency": 49812
+    "frequency": 49812,
+    "cefr": "A1"
   },
   "hengt_verb": {
     "word": "hengt",
@@ -9424,7 +10153,25 @@
         "translation": "Sie gehangen viel.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å hengt",
+          "presens": "hengtr",
+          "preteritum": "hengtdde",
+          "perfektum_partisipp": "hengtdd",
+          "imperativ": "hengt"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: hengtr."
+    }
   },
   "henta_verb": {
     "word": "henta",
@@ -9464,7 +10211,8 @@
         "translation": "Wir wollen abholen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1"
   },
   "henvenda_seg_til_verb": {
     "word": "henvenda seg til",
@@ -9503,7 +10251,8 @@
         "translation": "Wir ansprechen zusammen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "henvise_verb": {
     "word": "henvise",
@@ -9543,7 +10292,8 @@
         "translation": "Ich muss hinweisen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "hilse_verb": {
     "word": "hilse",
@@ -9583,7 +10333,8 @@
         "translation": "Ich möchte begrüßen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "hindre_verb": {
     "word": "hindre",
@@ -9623,7 +10374,8 @@
         "translation": "Ich muss verhindern.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "hjelpa_verb": {
     "word": "hjelpa",
@@ -9671,7 +10423,8 @@
       }
     ],
     "audio": "hjelpa_verb.mp3",
-    "frequency": 32998
+    "frequency": 32998,
+    "cefr": "A1"
   },
   "hoppa_verb": {
     "word": "hoppa",
@@ -9719,7 +10472,8 @@
       }
     ],
     "audio": "hoppa_verb.mp3",
-    "frequency": 29641
+    "frequency": 29641,
+    "cefr": "A1"
   },
   "hosta_verb": {
     "word": "hosta",
@@ -9758,7 +10512,8 @@
         "translation": "Ich möchte husten.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "håpe_verb": {
     "word": "håpe",
@@ -9809,7 +10564,8 @@
       }
     ],
     "audio": "håpe_verb.mp3",
-    "frequency": 2079
+    "frequency": 2079,
+    "cefr": "A1"
   },
   "høyra_på_å_lytte_verb": {
     "word": "høyra på, å lytte",
@@ -9839,7 +10595,21 @@
         "translation": "Ich muss høyra på, å lytte.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å høyra på, å lytte"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: ."
+    }
   },
   "høyra_verb": {
     "word": "høyra",
@@ -9889,7 +10659,8 @@
         "lang": "de"
       }
     ],
-    "audio": "høyra_verb.mp3"
+    "audio": "høyra_verb.mp3",
+    "cefr": "A1"
   },
   "høyrest_ut_verb": {
     "word": "høyrest ut",
@@ -9939,7 +10710,8 @@
         "lang": "de"
       }
     ],
-    "audio": "høyrest_ut_verb.mp3"
+    "audio": "høyrest_ut_verb.mp3",
+    "cefr": "A1"
   },
   "i_forgårs_verb": {
     "word": "i forgårs",
@@ -9966,7 +10738,25 @@
         "translation": "Ich möchte vorgestern.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å i forgårs",
+          "presens": "i forgårsr",
+          "preteritum": "i forgårsdde",
+          "perfektum_partisipp": "i forgårsdd",
+          "imperativ": "i forgårs"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: i forgårsr."
+    }
   },
   "i_går_verb": {
     "word": "i går",
@@ -9993,7 +10783,25 @@
         "translation": "Ich möchte gestern.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å i går",
+          "presens": "i gårr",
+          "preteritum": "i gårdde",
+          "perfektum_partisipp": "i gårdd",
+          "imperativ": "i går"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: i gårr."
+    }
   },
   "i_mellomtiden_verb": {
     "word": "i mellomtiden",
@@ -10017,7 +10825,25 @@
         "translation": "Ich inzwischen jeden Tag.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å i mellomtiden",
+          "presens": "i mellomtidenr",
+          "preteritum": "i mellomtidendde",
+          "perfektum_partisipp": "i mellomtidendd",
+          "imperativ": "i mellomtiden"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: i mellomtidenr."
+    }
   },
   "i_overmorgon_verb": {
     "word": "i overmorgon",
@@ -10038,7 +10864,25 @@
         "translation": "Sie übermorgen gut.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å i overmorgon",
+          "presens": "i overmorgenr",
+          "preteritum": "i overmorgendde",
+          "perfektum_partisipp": "i overmorgendd",
+          "imperativ": "i overmorgen"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: i overmorgenr."
+    }
   },
   "i_sør_verb": {
     "word": "i sør",
@@ -10065,7 +10909,25 @@
         "translation": "Sie im Süden viel.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å i sør",
+          "presens": "i sørr",
+          "preteritum": "i sørdde",
+          "perfektum_partisipp": "i sørdd",
+          "imperativ": "i sør"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: i sørr."
+    }
   },
   "ikka_finne_verb": {
     "word": "ikka finne",
@@ -10107,7 +10969,8 @@
         "translation": "Wir wollen nicht finden.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2"
   },
   "informere_verb": {
     "word": "informere",
@@ -10147,7 +11010,8 @@
         "translation": "Sie informieren gut.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2"
   },
   "inna_verb": {
     "word": "inna",
@@ -10189,7 +11053,8 @@
         "translation": "Ich muss drinnen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2"
   },
   "innrede_verb": {
     "word": "innrede",
@@ -10232,7 +11097,8 @@
         "translation": "Kannst du einrichten?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "innta_verb": {
     "word": "innta",
@@ -10275,7 +11141,8 @@
         "translation": "Wir wollen einnehmen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "inntreffa_verb": {
     "word": "inntreffa",
@@ -10317,7 +11184,8 @@
         "translation": "Wir sich ereignen zusammen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "installere_verb": {
     "word": "installere",
@@ -10360,7 +11228,8 @@
         "translation": "Sie installieren gut.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "interessere_seg_verb": {
     "word": "interessere seg",
@@ -10408,7 +11277,8 @@
       }
     ],
     "audio": "interessere_seg_verb.mp3",
-    "frequency": 9720
+    "frequency": 9720,
+    "cefr": "A1"
   },
   "interessere_verb": {
     "word": "interessere",
@@ -10457,7 +11327,8 @@
       }
     ],
     "audio": "interessere_verb.mp3",
-    "frequency": 9720
+    "frequency": 9720,
+    "cefr": "A1"
   },
   "invitere_verb": {
     "word": "invitere",
@@ -10502,7 +11373,8 @@
       }
     ],
     "audio": "invitere_verb.mp3",
-    "frequency": 2956
+    "frequency": 2956,
+    "cefr": "A1"
   },
   "irritere_seg_over_verb": {
     "word": "irritere seg over",
@@ -10550,7 +11422,8 @@
       }
     ],
     "audio": "irritere_seg_over_verb.mp3",
-    "frequency": 9584
+    "frequency": 9584,
+    "cefr": "A1"
   },
   "irritere_seg_verb": {
     "word": "irritere seg",
@@ -10598,7 +11471,8 @@
       }
     ],
     "audio": "irritere_seg_verb.mp3",
-    "frequency": 9584
+    "frequency": 9584,
+    "cefr": "A1"
   },
   "jakta_verb": {
     "word": "jakta",
@@ -10643,7 +11517,8 @@
       }
     ],
     "audio": "jakta_verb.mp3",
-    "frequency": 40723
+    "frequency": 40723,
+    "cefr": "A1"
   },
   "jobba_verb": {
     "word": "jobba",
@@ -10691,7 +11566,8 @@
       }
     ],
     "audio": "jobba_verb.mp3",
-    "frequency": 3924
+    "frequency": 3924,
+    "cefr": "A1"
   },
   "kasta_verb": {
     "word": "kasta",
@@ -10731,7 +11607,8 @@
         "translation": "Ich muss entsorgen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "kikka_verb": {
     "word": "kikka",
@@ -10778,7 +11655,8 @@
         "lang": "de"
       }
     ],
-    "audio": "kikka_verb.mp3"
+    "audio": "kikka_verb.mp3",
+    "cefr": "A1"
   },
   "kjede_seg_verb": {
     "word": "kjede seg",
@@ -10827,7 +11705,8 @@
       }
     ],
     "audio": "kjede_seg_verb.mp3",
-    "frequency": 6228
+    "frequency": 6228,
+    "cefr": "A1"
   },
   "kjempa_verb": {
     "word": "kjempa",
@@ -10870,7 +11749,8 @@
         "translation": "Sie kämpfen viel.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "kjenna_verb": {
     "word": "kjenna",
@@ -10919,7 +11799,8 @@
         "lang": "de"
       }
     ],
-    "audio": "kjenna_verb.mp3"
+    "audio": "kjenna_verb.mp3",
+    "cefr": "A1"
   },
   "kjenne_å_bli_kjent_med_verb": {
     "word": "kjenne, å bli kjent med",
@@ -10951,7 +11832,21 @@
         "translation": "Ich kjenne, å bli kjent med jeden Tag.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å kjenne, å bli kjent med"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: ."
+    }
   },
   "kjæle_verb": {
     "word": "kjæle",
@@ -11004,7 +11899,8 @@
       }
     ],
     "audio": "kjæle_verb.mp3",
-    "frequency": 45271
+    "frequency": 45271,
+    "cefr": "A1"
   },
   "kjøpe_verb": {
     "word": "kjøpe",
@@ -11057,7 +11953,8 @@
       }
     ],
     "audio": "kjøpe_verb.mp3",
-    "frequency": 574
+    "frequency": 574,
+    "cefr": "A1"
   },
   "klaffa_verb": {
     "word": "klaffa",
@@ -11099,7 +11996,8 @@
         "translation": "Ich möchte klappen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "klage_verb": {
     "word": "klage",
@@ -11139,7 +12037,8 @@
         "translation": "Es ist wichtig zu klagen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "klappa_verb": {
     "word": "klappa",
@@ -11186,7 +12085,8 @@
         "lang": "de"
       }
     ],
-    "audio": "klappa_verb.mp3"
+    "audio": "klappa_verb.mp3",
+    "cefr": "A1"
   },
   "klara_seg_verb": {
     "word": "klara seg",
@@ -11226,7 +12126,8 @@
         "translation": "Ich muss zurechtkommen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "klara_verb": {
     "word": "klara",
@@ -11266,7 +12167,8 @@
         "translation": "Ich möchte schaffen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "klargjera_verb": {
     "word": "klargjera",
@@ -11305,7 +12207,8 @@
         "translation": "Kannst du klären?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "klatre_verb": {
     "word": "klatre",
@@ -11350,7 +12253,8 @@
       }
     ],
     "audio": "klatre_verb.mp3",
-    "frequency": 3105
+    "frequency": 3105,
+    "cefr": "A1"
   },
   "kle_av_seg_verb": {
     "word": "kle av seg",
@@ -11395,7 +12299,8 @@
       }
     ],
     "audio": "kle_av_seg_verb.mp3",
-    "frequency": 1708
+    "frequency": 1708,
+    "cefr": "A1"
   },
   "kle_på_seg_verb": {
     "word": "kle på seg",
@@ -11441,7 +12346,8 @@
         "translation": "Ich muss anziehen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1"
   },
   "klikka_på_verb": {
     "word": "klikka på",
@@ -11488,7 +12394,8 @@
         "translation": "Ich muss anklicken.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1"
   },
   "klikka_verb": {
     "word": "klikka",
@@ -11531,7 +12438,8 @@
         "translation": "Sie klicken gut.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "knuse_å_brekke_verb": {
     "word": "knuse, å brekke",
@@ -11560,7 +12468,21 @@
         "translation": "Kannst du knuse, å brekke?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å knuse, å brekke"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: ."
+    }
   },
   "koble_til_verb": {
     "word": "koble til",
@@ -11600,7 +12522,8 @@
         "translation": "Es ist wichtig zu anschließen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "koma_for_sent_verb": {
     "word": "koma for sent",
@@ -11645,7 +12568,8 @@
       }
     ],
     "audio": "koma_for_sent_verb.mp3",
-    "frequency": 4527
+    "frequency": 4527,
+    "cefr": "A1"
   },
   "koma_tilbake_verb": {
     "word": "koma tilbake",
@@ -11685,7 +12609,8 @@
         "translation": "Sie koma tilbake viel.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2"
   },
   "koma_verb": {
     "word": "koma",
@@ -11730,7 +12655,8 @@
       }
     ],
     "audio": "koma_verb.mp3",
-    "frequency": 4527
+    "frequency": 4527,
+    "cefr": "A1"
   },
   "konsentrere_seg_verb": {
     "word": "konsentrere seg",
@@ -11775,7 +12701,8 @@
       }
     ],
     "audio": "konsentrere_seg_verb.mp3",
-    "frequency": 4149
+    "frequency": 4149,
+    "cefr": "A1"
   },
   "konstatere_verb": {
     "word": "konstatere",
@@ -11815,7 +12742,8 @@
         "translation": "Es ist wichtig zu feststellen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "kontrollere_verb": {
     "word": "kontrollere",
@@ -11858,7 +12786,8 @@
         "translation": "Kannst du kontrollieren?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2"
   },
   "kopiere_verb": {
     "word": "kopiere",
@@ -11898,7 +12827,8 @@
         "translation": "Wir kopieren zusammen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "kosta_verb": {
     "word": "kosta",
@@ -11938,7 +12868,8 @@
         "translation": "Es ist wichtig zu kosten.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1"
   },
   "krangle_verb": {
     "word": "krangle",
@@ -11981,7 +12912,8 @@
         "translation": "Wir wollen sich streiten.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "kreve_verb": {
     "word": "kreve",
@@ -12021,7 +12953,8 @@
         "translation": "Ich erfordern jeden Tag.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "kritisere_verb": {
     "word": "kritisere",
@@ -12061,7 +12994,8 @@
         "translation": "Wir wollen kritisieren.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "kryssa_av_verb": {
     "word": "kryssa av",
@@ -12103,7 +13037,8 @@
         "translation": "Ich muss ankreuzen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1"
   },
   "kryssa_verb": {
     "word": "kryssa",
@@ -12145,7 +13080,8 @@
         "translation": "Wir überqueren zusammen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "kunna_verb": {
     "word": "kunna",
@@ -12192,7 +13128,8 @@
         "lang": "de"
       }
     ],
-    "audio": "kunna_verb.mp3"
+    "audio": "kunna_verb.mp3",
+    "cefr": "A1"
   },
   "kunngjera_verb": {
     "word": "kunngjera",
@@ -12235,7 +13172,8 @@
         "translation": "Ich ankündigen jeden Tag.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "kvile_seg_verb": {
     "word": "kvile seg",
@@ -12282,7 +13220,8 @@
         "lang": "de"
       }
     ],
-    "audio": "kvile_seg_verb.mp3"
+    "audio": "kvile_seg_verb.mp3",
+    "cefr": "A1"
   },
   "kvile_verb": {
     "word": "kvile",
@@ -12324,7 +13263,8 @@
         "translation": "Kannst du kvile?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "kyssa_verb": {
     "word": "kyssa",
@@ -12367,7 +13307,8 @@
         "translation": "Sie küssen gut.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "køyra_av_stad_verb": {
     "word": "køyra av stad",
@@ -12413,7 +13354,8 @@
         "translation": "Es ist wichtig zu losfahren.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "køyra_forbi_verb": {
     "word": "køyra forbi",
@@ -12458,7 +13400,8 @@
         "translation": "Wir überholen zusammen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "køyra_over_verb": {
     "word": "køyra over",
@@ -12503,7 +13446,8 @@
         "translation": "Kannst du überfahren?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "køyra_verb": {
     "word": "køyra",
@@ -12553,7 +13497,8 @@
         "lang": "de"
       }
     ],
-    "audio": "køyra_verb.mp3"
+    "audio": "køyra_verb.mp3",
+    "cefr": "A1"
   },
   "la_verb": {
     "word": "la",
@@ -12593,7 +13538,8 @@
         "translation": "Sie lassen gut.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2"
   },
   "lade_opp_verb": {
     "word": "lade opp",
@@ -12636,7 +13582,8 @@
         "translation": "Sie aufladen gut.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "laga_mat_verb": {
     "word": "laga mat",
@@ -12680,7 +13627,8 @@
         "lang": "de"
       }
     ],
-    "audio": "laga_mat_verb.mp3"
+    "audio": "laga_mat_verb.mp3",
+    "cefr": "A1"
   },
   "laga_verb": {
     "word": "laga",
@@ -12720,7 +13668,8 @@
         "translation": "Sie basteln gut.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "lagre_verb": {
     "word": "lagre",
@@ -12760,7 +13709,8 @@
         "translation": "Ich möchte speichern.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2"
   },
   "lasta_ned_verb": {
     "word": "lasta ned",
@@ -12803,7 +13753,8 @@
         "translation": "Sie herunterladen viel.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2"
   },
   "lasta_opp_verb": {
     "word": "lasta opp",
@@ -12846,7 +13797,8 @@
         "translation": "Wir wollen hochladen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "le_verb": {
     "word": "le",
@@ -12891,7 +13843,8 @@
       }
     ],
     "audio": "le_verb.mp3",
-    "frequency": 1326
+    "frequency": 1326,
+    "cefr": "A1"
   },
   "lede_verb": {
     "word": "lede",
@@ -12931,7 +13884,8 @@
         "translation": "Er führen zu Hause.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "leggja_merke_til_verb": {
     "word": "leggja merke til",
@@ -12973,7 +13927,8 @@
         "translation": "Sie beachten gut.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "leggja_seg_verb": {
     "word": "leggja seg",
@@ -13015,7 +13970,8 @@
         "translation": "Ich möchte leggja seg.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "leggja_verb": {
     "word": "leggja",
@@ -13057,7 +14013,8 @@
         "translation": "Wir wollen legen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1"
   },
   "leie_ut_verb": {
     "word": "leie ut",
@@ -13097,7 +14054,8 @@
         "translation": "Ich muss vermieten.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1"
   },
   "leie_verb": {
     "word": "leie",
@@ -13137,7 +14095,8 @@
         "translation": "Sie mieten gut.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1"
   },
   "lesa_høyt_verb": {
     "word": "lesa høyt",
@@ -13182,7 +14141,8 @@
         "translation": "Es ist wichtig zu vorlesen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "lesa_verb": {
     "word": "lesa",
@@ -13226,7 +14186,8 @@
         "lang": "de"
       }
     ],
-    "audio": "lesa_verb.mp3"
+    "audio": "lesa_verb.mp3",
+    "cefr": "A1"
   },
   "lest_verb": {
     "word": "lest",
@@ -13248,7 +14209,25 @@
         "translation": "Er gelesen zu Hause.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å lest",
+          "presens": "lestr",
+          "preteritum": "lestdde",
+          "perfektum_partisipp": "lestdd",
+          "imperativ": "lest"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: lestr."
+    }
   },
   "lete_etter_å_søke_verb": {
     "word": "lete etter, å søke",
@@ -13279,7 +14258,21 @@
         "translation": "Sie lete etter, å søke viel.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å lete etter, å søke"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: ."
+    }
   },
   "lete_verb": {
     "word": "lete",
@@ -13319,7 +14312,8 @@
         "translation": "Es ist wichtig zu suchen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1"
   },
   "letta_verb": {
     "word": "letta",
@@ -13361,7 +14355,8 @@
         "translation": "Wir wollen erleichtern.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "leve_verb": {
     "word": "leve",
@@ -13406,7 +14401,8 @@
       }
     ],
     "audio": "leve_verb.mp3",
-    "frequency": 459
+    "frequency": 459,
+    "cefr": "A1"
   },
   "levere_ut_verb": {
     "word": "levere ut",
@@ -13446,7 +14442,8 @@
         "translation": "Es ist wichtig zu austragen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2"
   },
   "levere_verb": {
     "word": "levere",
@@ -13486,7 +14483,8 @@
         "translation": "Ich möchte abgeben.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1"
   },
   "lide_verb": {
     "word": "lide",
@@ -13526,7 +14524,8 @@
         "translation": "Sie leiden viel.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "liggja_verb": {
     "word": "liggja",
@@ -13573,7 +14572,8 @@
         "lang": "de"
       }
     ],
-    "audio": "liggja_verb.mp3"
+    "audio": "liggja_verb.mp3",
+    "cefr": "A1"
   },
   "lika_godt_verb": {
     "word": "lika godt",
@@ -13620,7 +14620,8 @@
         "lang": "de"
       }
     ],
-    "audio": "lika_godt_verb.mp3"
+    "audio": "lika_godt_verb.mp3",
+    "cefr": "A1"
   },
   "lika_verb": {
     "word": "lika",
@@ -13659,7 +14660,8 @@
         "translation": "Wir gefallen zusammen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1"
   },
   "lime_verb": {
     "word": "lime",
@@ -13699,7 +14701,8 @@
         "translation": "Ich möchte kleben.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "litt_verb": {
     "word": "litt",
@@ -13724,7 +14727,25 @@
         "translation": "Sie bisschen gut.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å litt",
+          "presens": "littr",
+          "preteritum": "littdde",
+          "perfektum_partisipp": "littdd",
+          "imperativ": "litt"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: littr."
+    }
   },
   "love_verb": {
     "word": "love",
@@ -13769,7 +14790,8 @@
       }
     ],
     "audio": "love_verb.mp3",
-    "frequency": 1628
+    "frequency": 1628,
+    "cefr": "A1"
   },
   "lukka_verb": {
     "word": "lukka",
@@ -13811,7 +14833,8 @@
         "translation": "Es ist wichtig zu schließen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1"
   },
   "lukta_verb": {
     "word": "lukta",
@@ -13851,7 +14874,8 @@
         "translation": "Sie riechen gut.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1"
   },
   "lyde_verb": {
     "word": "lyde",
@@ -13896,7 +14920,8 @@
       }
     ],
     "audio": "lyde_verb.mp3",
-    "frequency": 10570
+    "frequency": 10570,
+    "cefr": "A1"
   },
   "lykkes_verb": {
     "word": "lykkes",
@@ -13939,7 +14964,8 @@
         "translation": "Wir gelingen zusammen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "lyne_verb": {
     "word": "lyne",
@@ -13978,7 +15004,8 @@
         "translation": "Er blitzen zu Hause.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "lytta_verb": {
     "word": "lytta",
@@ -14020,7 +15047,8 @@
         "translation": "Wir wollen zuhören.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "lyve_verb": {
     "word": "lyve",
@@ -14060,7 +15088,8 @@
         "translation": "Wir wollen lügen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "låne_verb": {
     "word": "låne",
@@ -14106,7 +15135,8 @@
         "translation": "Wir wollen leihen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "læra_verb": {
     "word": "læra",
@@ -14156,7 +15186,8 @@
         "lang": "de"
       }
     ],
-    "audio": "læra_verb.mp3"
+    "audio": "læra_verb.mp3",
+    "cefr": "A1"
   },
   "løfta_verb": {
     "word": "løfta",
@@ -14201,7 +15232,8 @@
         "translation": "Ich heben jeden Tag.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "lønna_seg_verb": {
     "word": "lønna seg",
@@ -14248,7 +15280,8 @@
         "translation": "Er sich lohnen zu Hause.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "løse_opp_verb": {
     "word": "løse opp",
@@ -14295,7 +15328,8 @@
         "translation": "Sie auflösen gut.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "løse_verb": {
     "word": "løse",
@@ -14341,7 +15375,8 @@
         "translation": "Ich muss lösen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "male_verb": {
     "word": "male",
@@ -14386,7 +15421,8 @@
       }
     ],
     "audio": "male_verb.mp3",
-    "frequency": 3735
+    "frequency": 3735,
+    "cefr": "A1"
   },
   "mangle_verb": {
     "word": "mangle",
@@ -14429,7 +15465,8 @@
         "translation": "Wir wollen fehlen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1"
   },
   "markere_verb": {
     "word": "markere",
@@ -14469,7 +15506,8 @@
         "translation": "Sie markieren gut.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "mate_verb": {
     "word": "mate",
@@ -14514,7 +15552,8 @@
       }
     ],
     "audio": "mate_verb.mp3",
-    "frequency": 4136
+    "frequency": 4136,
+    "cefr": "A1"
   },
   "meddele_verb": {
     "word": "meddele",
@@ -14557,7 +15596,8 @@
         "translation": "Ich muss mitteilen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "melda_seg_på_verb": {
     "word": "melda seg på",
@@ -14602,7 +15642,8 @@
         "translation": "Sie anmelden gut.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1"
   },
   "melda_verb": {
     "word": "melda",
@@ -14641,7 +15682,8 @@
         "translation": "Sie melden gut.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "men_verb": {
     "word": "men",
@@ -14663,7 +15705,25 @@
         "translation": "Er sondern zu Hause.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å men",
+          "presens": "menr",
+          "preteritum": "mendde",
+          "perfektum_partisipp": "mendd",
+          "imperativ": "men"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: menr."
+    }
   },
   "mene_verb": {
     "word": "mene",
@@ -14703,7 +15763,8 @@
         "translation": "Ich meinen jeden Tag.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "merka_verb": {
     "word": "merka",
@@ -14742,7 +15803,8 @@
         "translation": "Wir wollen merken.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "midt_i_verb": {
     "word": "midt i",
@@ -14764,7 +15826,25 @@
         "translation": "Kannst du mitten?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å midt i",
+          "presens": "midt ir",
+          "preteritum": "midt idde",
+          "perfektum_partisipp": "midt idd",
+          "imperativ": "midt i"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: midt ir."
+    }
   },
   "minna_verb": {
     "word": "minna",
@@ -14807,7 +15887,8 @@
         "translation": "Ich erinnern jeden Tag.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "mista_verb": {
     "word": "mista",
@@ -14852,7 +15933,8 @@
       }
     ],
     "audio": "mista_verb.mp3",
-    "frequency": 10458
+    "frequency": 10458,
+    "cefr": "A1"
   },
   "miste_å_tape_verb": {
     "word": "miste, å tape",
@@ -14880,7 +15962,21 @@
         "translation": "Ich möchte miste, å tape.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å miste, å tape"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: ."
+    }
   },
   "moderne_verb": {
     "word": "moderne",
@@ -14920,7 +16016,8 @@
         "translation": "Wir wollen modern.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2"
   },
   "more_seg_verb": {
     "word": "more seg",
@@ -14960,7 +16057,8 @@
         "translation": "Es ist wichtig zu sich amüsieren.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "motsi_verb": {
     "word": "motsi",
@@ -15000,7 +16098,8 @@
         "translation": "Es ist wichtig zu widersprechen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "motta_verb": {
     "word": "motta",
@@ -15043,7 +16142,8 @@
         "translation": "Kannst du empfangen?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "måle_verb": {
     "word": "måle",
@@ -15089,7 +16189,8 @@
         "translation": "Wir messen zusammen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "måtta_verb": {
     "word": "måtta",
@@ -15141,7 +16242,8 @@
       }
     ],
     "audio": "måtta_verb.mp3",
-    "frequency": 16257
+    "frequency": 16257,
+    "cefr": "A1"
   },
   "måtte_å_skylde_verb": {
     "word": "måtte, å skylde",
@@ -15170,7 +16272,21 @@
         "translation": "Wir wollen måtte, å skylde.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å måtte, å skylde"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: ."
+    }
   },
   "møte_verb": {
     "word": "møte",
@@ -15216,7 +16332,8 @@
         "translation": "Sie begegnen viel.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "møtes_verb": {
     "word": "møtes",
@@ -15267,7 +16384,8 @@
       }
     ],
     "audio": "møtes_verb.mp3",
-    "frequency": 1002
+    "frequency": 1002,
+    "cefr": "A1"
   },
   "nede_verb": {
     "word": "nede",
@@ -15289,7 +16407,25 @@
         "translation": "Ich muss unten.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å nede",
+          "presens": "neder",
+          "preteritum": "nedte",
+          "perfektum_partisipp": "nedt",
+          "imperativ": "ned"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: neder."
+    }
   },
   "nekta_verb": {
     "word": "nekta",
@@ -15328,7 +16464,8 @@
         "translation": "Ich sich weigern jeden Tag.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "nettopp_verb": {
     "word": "nettopp",
@@ -15353,7 +16490,25 @@
         "translation": "Er eben zu Hause.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å nettopp",
+          "presens": "nettoppr",
+          "preteritum": "nettoppdde",
+          "perfektum_partisipp": "nettoppdd",
+          "imperativ": "nettopp"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: nettoppr."
+    }
   },
   "nevne_verb": {
     "word": "nevne",
@@ -15393,7 +16548,8 @@
         "translation": "Er nennen zu Hause.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "no_verb": {
     "word": "no",
@@ -15415,7 +16571,25 @@
         "translation": "Ich erreichen jeden Tag.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å no",
+          "presens": "når",
+          "preteritum": "nådde",
+          "perfektum_partisipp": "nådd",
+          "imperativ": "nå"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: når."
+    }
   },
   "notere_verb": {
     "word": "notere",
@@ -15455,7 +16629,8 @@
         "translation": "Ich möchte notieren.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2"
   },
   "nytta_verb": {
     "word": "nytta",
@@ -15497,7 +16672,8 @@
         "translation": "Er nützen zu Hause.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "nærme_seg_verb": {
     "word": "nærme seg",
@@ -15543,7 +16719,8 @@
         "translation": "Kannst du sich nähern?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "observere_verb": {
     "word": "observere",
@@ -15583,7 +16760,8 @@
         "translation": "Wir beobachten zusammen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "og_eldre_verb": {
     "word": "og eldre",
@@ -15604,7 +16782,25 @@
         "translation": "Wir wollen und Senioren.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å og eldre",
+          "presens": "og eldrer",
+          "preteritum": "og eldrte",
+          "perfektum_partisipp": "og eldrt",
+          "imperativ": "og eldr"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: og eldrer."
+    }
   },
   "og_poteter_verb": {
     "word": "og poteter",
@@ -15625,7 +16821,25 @@
         "translation": "Kannst du und Kartoffeln?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å og poteter",
+          "presens": "og poteterr",
+          "preteritum": "og poteterdde",
+          "perfektum_partisipp": "og poteterdd",
+          "imperativ": "og poteter"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: og poteterr."
+    }
   },
   "okkupere_verb": {
     "word": "okkupere",
@@ -15668,7 +16882,8 @@
         "translation": "Sie besetzen viel.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "omfavne_verb": {
     "word": "omfavne",
@@ -15708,7 +16923,8 @@
         "translation": "Es ist wichtig zu umarmen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "omgås_verb": {
     "word": "omgås",
@@ -15754,7 +16970,8 @@
         "translation": "Wir umgehen zusammen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "operere_verb": {
     "word": "operere",
@@ -15794,7 +17011,8 @@
         "translation": "Er operieren zu Hause.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "oppa_verb": {
     "word": "oppa",
@@ -15836,7 +17054,8 @@
         "translation": "Ich muss oben.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1"
   },
   "oppdage_verb": {
     "word": "oppdage",
@@ -15879,7 +17098,8 @@
         "translation": "Wir wollen entdecken.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "oppdra_verb": {
     "word": "oppdra",
@@ -15922,7 +17142,8 @@
         "translation": "Er erziehen zu Hause.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "oppfordre_verb": {
     "word": "oppfordre",
@@ -15965,7 +17186,8 @@
         "translation": "Wir auffordern zusammen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "oppfylla_verb": {
     "word": "oppfylla",
@@ -16007,7 +17229,8 @@
         "translation": "Kannst du erfüllen?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "oppføre_seg_verb": {
     "word": "oppføre seg",
@@ -16054,7 +17277,8 @@
         "translation": "Ich sich verhalten jeden Tag.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "oppføre_verb": {
     "word": "oppføre",
@@ -16101,7 +17325,8 @@
         "translation": "Sie aufführen viel.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "oppgi_verb": {
     "word": "oppgi",
@@ -16144,7 +17369,8 @@
         "translation": "Ich möchte angeben.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "oppleve_verb": {
     "word": "oppleve",
@@ -16187,7 +17413,8 @@
         "translation": "Ich erleben jeden Tag.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "oppretta_verb": {
     "word": "oppretta",
@@ -16229,7 +17456,8 @@
         "translation": "Ich erstellen jeden Tag.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "opprøre_verb": {
     "word": "opprøre",
@@ -16276,7 +17504,8 @@
         "translation": "Ich muss aufregen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "oppstå_verb": {
     "word": "oppstå",
@@ -16323,7 +17552,8 @@
         "translation": "Ich entstehen jeden Tag.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "oppsummere_verb": {
     "word": "oppsummere",
@@ -16366,7 +17596,8 @@
         "translation": "Ich möchte zusammenfassen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "opptre_verb": {
     "word": "opptre",
@@ -16409,7 +17640,8 @@
         "translation": "Er auftreten zu Hause.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "ordne_verb": {
     "word": "ordne",
@@ -16449,7 +17681,8 @@
         "translation": "Es ist wichtig zu erledigen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "organisere_verb": {
     "word": "organisere",
@@ -16489,7 +17722,8 @@
         "translation": "Kannst du organisieren?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2"
   },
   "overbevise_seg_verb": {
     "word": "overbevise seg",
@@ -16529,7 +17763,8 @@
         "translation": "Wir sich überzeugen zusammen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "overdrive_verb": {
     "word": "overdrive",
@@ -16569,7 +17804,8 @@
         "translation": "Wir wollen überübertreiben.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "overføre_verb": {
     "word": "overføre",
@@ -16615,7 +17851,8 @@
         "translation": "Ich möchte überweisen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1"
   },
   "overnatta_verb": {
     "word": "overnatta",
@@ -16657,7 +17894,8 @@
         "translation": "Er übernachten zu Hause.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1"
   },
   "overraska_verb": {
     "word": "overraska",
@@ -16699,7 +17937,8 @@
         "translation": "Es ist wichtig zu überraschen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "oversetta_verb": {
     "word": "oversetta",
@@ -16741,7 +17980,8 @@
         "translation": "Ich übersetzen jeden Tag.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2"
   },
   "overta_verb": {
     "word": "overta",
@@ -16781,7 +18021,8 @@
         "translation": "Kannst du übernehmen?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "overtale_verb": {
     "word": "overtale",
@@ -16821,7 +18062,8 @@
         "translation": "Er überreden zu Hause.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "pakka_inn_verb": {
     "word": "pakka inn",
@@ -16864,7 +18106,8 @@
         "translation": "Wir verpacken zusammen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "pakka_opp_verb": {
     "word": "pakka opp",
@@ -16907,7 +18150,8 @@
         "translation": "Wir auspacken zusammen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2"
   },
   "pakka_verb": {
     "word": "pakka",
@@ -16956,7 +18200,8 @@
       }
     ],
     "audio": "pakka_verb.mp3",
-    "frequency": 11438
+    "frequency": 11438,
+    "cefr": "A1"
   },
   "parkere_verb": {
     "word": "parkere",
@@ -16996,7 +18241,8 @@
         "translation": "Wir wollen parkieren.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "passa_på_verb": {
     "word": "passa på",
@@ -17043,7 +18289,8 @@
         "translation": "Ich achten jeden Tag.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "passa_verb": {
     "word": "passa",
@@ -17086,7 +18333,8 @@
         "translation": "Es ist wichtig zu passen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "passere_å_skje_verb": {
     "word": "passere, å skje",
@@ -17116,7 +18364,21 @@
         "translation": "Wir passere, å skje zusammen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å passere, å skje"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: ."
+    }
   },
   "planlegga_verb": {
     "word": "planlegga",
@@ -17163,7 +18425,8 @@
         "lang": "de"
       }
     ],
-    "audio": "planlegga_verb.mp3"
+    "audio": "planlegga_verb.mp3",
+    "cefr": "A1"
   },
   "planta_verb": {
     "word": "planta",
@@ -17203,7 +18466,8 @@
         "translation": "Es ist wichtig zu pflanzen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "pleie_verb": {
     "word": "pleie",
@@ -17243,7 +18507,8 @@
         "translation": "Wir pflegen zusammen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "plukka_opp_verb": {
     "word": "plukka opp",
@@ -17286,7 +18551,8 @@
         "translation": "Ich aufheben jeden Tag.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "presentere_verb": {
     "word": "presentere",
@@ -17326,7 +18592,8 @@
         "translation": "Kannst du präsentieren?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "produsere_verb": {
     "word": "produsere",
@@ -17366,7 +18633,8 @@
         "translation": "Sie herstellen gut.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2"
   },
   "protestere_verb": {
     "word": "protestere",
@@ -17406,7 +18674,8 @@
         "translation": "Sie protestieren gut.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "prøve_verb": {
     "word": "prøve",
@@ -17452,7 +18721,8 @@
         "translation": "Ich möchte probieren.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2"
   },
   "publisere_verb": {
     "word": "publisere",
@@ -17492,7 +18762,8 @@
         "translation": "Sie veröffentlichen gut.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "pussa_tennene_verb": {
     "word": "pussa tennene",
@@ -17540,7 +18811,8 @@
       }
     ],
     "audio": "pussa_tennene_verb.mp3",
-    "frequency": 30948
+    "frequency": 30948,
+    "cefr": "A1"
   },
   "pussa_verb": {
     "word": "pussa",
@@ -17588,7 +18860,8 @@
       }
     ],
     "audio": "pussa_verb.mp3",
-    "frequency": 30948
+    "frequency": 30948,
+    "cefr": "A1"
   },
   "pusta_verb": {
     "word": "pusta",
@@ -17627,7 +18900,8 @@
         "translation": "Wir atmen zusammen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "putta_inn_verb": {
     "word": "putta inn",
@@ -17670,7 +18944,8 @@
         "translation": "Sie putta inn gut.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "på_grunn_av_det_verb": {
     "word": "på grunn av det",
@@ -17698,7 +18973,21 @@
         "translation": "Sie deswegen gut.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å på grunn av det"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: ."
+    }
   },
   "på_grunn_av_verb": {
     "word": "på grunn av",
@@ -17726,7 +19015,21 @@
         "translation": "Sie wegen viel.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å på grunn av"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: ."
+    }
   },
   "påkledd_verb": {
     "word": "påkledd",
@@ -17755,7 +19058,25 @@
         "translation": "Ich möchte angezogen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å påkledd",
+          "presens": "påkleddr",
+          "preteritum": "påkledddde",
+          "perfektum_partisipp": "påkledddd",
+          "imperativ": "påkledd"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: påkleddr."
+    }
   },
   "påstå_verb": {
     "word": "påstå",
@@ -17801,7 +19122,8 @@
         "translation": "Ich behaupten jeden Tag.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "påvirka_verb": {
     "word": "påvirka",
@@ -17846,7 +19168,8 @@
         "translation": "Wir wollen beeinflussen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "rapportere_verb": {
     "word": "rapportere",
@@ -17889,7 +19212,8 @@
         "translation": "Er berichten zu Hause.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2"
   },
   "raskest_verb": {
     "word": "raskest",
@@ -17911,7 +19235,25 @@
         "translation": "Ich schnellsten jeden Tag.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å raskest",
+          "presens": "raskestr",
+          "preteritum": "raskestdde",
+          "perfektum_partisipp": "raskestdd",
+          "imperativ": "raskest"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: raskestr."
+    }
   },
   "reagere_verb": {
     "word": "reagere",
@@ -17951,7 +19293,8 @@
         "translation": "Wir reagieren zusammen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "realisere_verb": {
     "word": "realisere",
@@ -17991,7 +19334,8 @@
         "translation": "Er realisieren zu Hause.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "redda_verb": {
     "word": "redda",
@@ -18034,7 +19378,8 @@
         "translation": "Ich muss retten.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "redusere_verb": {
     "word": "redusere",
@@ -18074,7 +19419,8 @@
         "translation": "Kannst du reduzieren?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "regne_verb": {
     "word": "regne",
@@ -18114,7 +19460,8 @@
         "translation": "Kannst du rechnen?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "regulere_verb": {
     "word": "regulere",
@@ -18154,7 +19501,8 @@
         "translation": "Ich möchte regeln.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "reingjera_verb": {
     "word": "reingjera",
@@ -18201,7 +19549,8 @@
         "lang": "de"
       }
     ],
-    "audio": "reingjera_verb.mp3"
+    "audio": "reingjera_verb.mp3",
+    "cefr": "A1"
   },
   "reise_av_stad_verb": {
     "word": "reise av stad",
@@ -18244,7 +19593,8 @@
         "translation": "Ich abfahren jeden Tag.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1"
   },
   "reise_bort_verb": {
     "word": "reise bort",
@@ -18284,7 +19634,8 @@
         "translation": "Sie verreisen gut.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2"
   },
   "reise_verb": {
     "word": "reise",
@@ -18329,7 +19680,8 @@
       }
     ],
     "audio": "reise_verb.mp3",
-    "frequency": 647
+    "frequency": 647,
+    "cefr": "A1"
   },
   "rekka_verb": {
     "word": "rekka",
@@ -18372,7 +19724,8 @@
         "translation": "Es ist wichtig zu reichen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "rekreere_seg_verb": {
     "word": "rekreere seg",
@@ -18416,7 +19769,8 @@
         "lang": "de"
       }
     ],
-    "audio": "rekreere_seg_verb.mp3"
+    "audio": "rekreere_seg_verb.mp3",
+    "cefr": "A1"
   },
   "renovere_verb": {
     "word": "renovere",
@@ -18456,7 +19810,8 @@
         "translation": "Ich muss renovieren.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2"
   },
   "rense_verb": {
     "word": "rense",
@@ -18496,7 +19851,8 @@
         "translation": "Ich reinigen jeden Tag.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "reparere_verb": {
     "word": "reparere",
@@ -18536,7 +19892,8 @@
         "translation": "Wir wollen reparieren.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1"
   },
   "representere_verb": {
     "word": "representere",
@@ -18576,7 +19933,8 @@
         "translation": "Es ist wichtig zu vertreten.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "reservere_verb": {
     "word": "reservere",
@@ -18616,7 +19974,8 @@
         "translation": "Sie reservieren gut.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2"
   },
   "retta_ut_verb": {
     "word": "retta ut",
@@ -18658,7 +20017,8 @@
         "translation": "Ich möchte ausrichten.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "ri_verb": {
     "word": "ri",
@@ -18698,7 +20058,8 @@
         "translation": "Kannst du reiten?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "ringa_verb": {
     "word": "ringa",
@@ -18745,7 +20106,8 @@
         "lang": "de"
       }
     ],
-    "audio": "ringa_verb.mp3"
+    "audio": "ringa_verb.mp3",
+    "cefr": "A1"
   },
   "ringe_å_kalle_verb": {
     "word": "ringe, å kalle",
@@ -18774,7 +20136,21 @@
         "translation": "Ich ringe, å kalle jeden Tag.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å ringe, å kalle"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: ."
+    }
   },
   "rista_verb": {
     "word": "rista",
@@ -18813,7 +20189,8 @@
         "translation": "Wir schütteln zusammen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "rope_verb": {
     "word": "rope",
@@ -18853,7 +20230,8 @@
         "translation": "Wir wollen rufen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "rose_verb": {
     "word": "rose",
@@ -18893,7 +20271,8 @@
         "translation": "Ich loben jeden Tag.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "rydda_opp_verb": {
     "word": "rydda opp",
@@ -18940,7 +20319,8 @@
         "lang": "de"
       }
     ],
-    "audio": "rydda_opp_verb.mp3"
+    "audio": "rydda_opp_verb.mp3",
+    "cefr": "A1"
   },
   "røyke_verb": {
     "word": "røyke",
@@ -18986,7 +20366,8 @@
         "translation": "Ich rauchen jeden Tag.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1"
   },
   "samle_verb": {
     "word": "samle",
@@ -19026,7 +20407,8 @@
         "translation": "Er sammeln zu Hause.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2"
   },
   "sammenligne_verb": {
     "word": "sammenligne",
@@ -19069,7 +20451,8 @@
         "translation": "Sie vergleichen viel.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2"
   },
   "samtykka_verb": {
     "word": "samtykka",
@@ -19111,7 +20494,8 @@
         "translation": "Wir zustimmen zusammen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "savne_verb": {
     "word": "savne",
@@ -19151,7 +20535,8 @@
         "translation": "Ich vermissen jeden Tag.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "se_på_tv_verb": {
     "word": "se på tv",
@@ -19201,7 +20586,8 @@
         "lang": "de"
       }
     ],
-    "audio": "se_på_tv_verb.mp3"
+    "audio": "se_på_tv_verb.mp3",
+    "cefr": "A1"
   },
   "se_på_verb": {
     "word": "se på",
@@ -19246,7 +20632,8 @@
         "translation": "Kannst du zuschauen?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "se_verb": {
     "word": "se",
@@ -19286,7 +20673,8 @@
         "translation": "Es ist wichtig zu gucken.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "seire_verb": {
     "word": "seire",
@@ -19326,7 +20714,8 @@
         "translation": "Es ist wichtig zu siegen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "selja_verb": {
     "word": "selja",
@@ -19365,7 +20754,8 @@
         "translation": "Wir verkaufen zusammen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1"
   },
   "senda_verb": {
     "word": "senda",
@@ -19404,7 +20794,8 @@
         "translation": "Ich möchte schicken.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1"
   },
   "setja_inn_verb": {
     "word": "setja inn",
@@ -19446,7 +20837,8 @@
         "translation": "Sie einfügen viel.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "setja_seg_verb": {
     "word": "setja seg",
@@ -19490,7 +20882,8 @@
         "lang": "de"
       }
     ],
-    "audio": "setja_seg_verb.mp3"
+    "audio": "setja_seg_verb.mp3",
+    "cefr": "A1"
   },
   "sette_å_legge_verb": {
     "word": "sette, å legge",
@@ -19519,7 +20912,21 @@
         "translation": "Sie sette, å legge viel.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å sette, å legge"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: ."
+    }
   },
   "shoppa_verb": {
     "word": "shoppa",
@@ -19566,7 +20973,8 @@
         "lang": "de"
       }
     ],
-    "audio": "shoppa_verb.mp3"
+    "audio": "shoppa_verb.mp3",
+    "cefr": "A1"
   },
   "si_ja_verb": {
     "word": "si ja",
@@ -19605,7 +21013,8 @@
         "translation": "Sie zusagen gut.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "si_opp_verb": {
     "word": "si opp",
@@ -19647,7 +21056,8 @@
         "translation": "Kannst du entlassen?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "si_verb": {
     "word": "si",
@@ -19692,7 +21102,8 @@
       }
     ],
     "audio": "si_verb.mp3",
-    "frequency": 87
+    "frequency": 87,
+    "cefr": "A1"
   },
   "sikre_verb": {
     "word": "sikre",
@@ -19732,7 +21143,8 @@
         "translation": "Ich muss sichern.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "sitja_verb": {
     "word": "sitja",
@@ -19776,7 +21188,8 @@
         "lang": "de"
       }
     ],
-    "audio": "sitja_verb.mp3"
+    "audio": "sitja_verb.mp3",
+    "cefr": "A1"
   },
   "sjelden_verb": {
     "word": "sjelden",
@@ -19798,7 +21211,25 @@
         "translation": "Wir selten zusammen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å sjelden",
+          "presens": "sjeldenr",
+          "preteritum": "sjeldendde",
+          "perfektum_partisipp": "sjeldendd",
+          "imperativ": "sjelden"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: sjeldenr."
+    }
   },
   "skade_verb": {
     "word": "skade",
@@ -19838,7 +21269,8 @@
         "translation": "Er beschädigen zu Hause.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "skaffa_verb": {
     "word": "skaffa",
@@ -19881,7 +21313,8 @@
         "translation": "Es ist wichtig zu besorgen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "skal_verb": {
     "word": "skal",
@@ -19908,7 +21341,25 @@
       }
     ],
     "audio": "skal_verb.mp3",
-    "frequency": 31
+    "frequency": 31,
+    "cefr": "A1",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å skal",
+          "presens": "skalr",
+          "preteritum": "skaldde",
+          "perfektum_partisipp": "skaldd",
+          "imperativ": "skal"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: skalr."
+    }
   },
   "skifta_klær_verb": {
     "word": "skifta klær",
@@ -19953,7 +21404,8 @@
         "translation": "Sie sich umziehen gut.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "skilla_seg_verb": {
     "word": "skilla seg",
@@ -19995,7 +21447,8 @@
         "translation": "Ich möchte sich scheiden.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "skilla_verb": {
     "word": "skilla",
@@ -20037,7 +21490,8 @@
         "translation": "Es ist wichtig zu unterscheiden.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "skilles_verb": {
     "word": "skilles",
@@ -20080,7 +21534,8 @@
         "translation": "Sie sich trennen gut.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "skinna_verb": {
     "word": "skinna",
@@ -20127,7 +21582,8 @@
         "lang": "de"
       }
     ],
-    "audio": "skinna_verb.mp3"
+    "audio": "skinna_verb.mp3",
+    "cefr": "A1"
   },
   "skje_verb": {
     "word": "skje",
@@ -20170,7 +21626,8 @@
         "translation": "Kannst du geschehen?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "skjenna_verb": {
     "word": "skjenna",
@@ -20213,7 +21670,8 @@
         "translation": "Sie schimpfen viel.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2"
   },
   "skjære_seg_verb": {
     "word": "skjære seg",
@@ -20260,7 +21718,8 @@
         "translation": "Sie sich schneiden viel.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "skrike_verb": {
     "word": "skrike",
@@ -20300,7 +21759,8 @@
         "translation": "Wir schreien zusammen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "skriva_av_verb": {
     "word": "skriva av",
@@ -20339,7 +21799,8 @@
         "translation": "Wir abschreiben zusammen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "skriva_opp_verb": {
     "word": "skriva opp",
@@ -20381,7 +21842,8 @@
         "translation": "Ich möchte aufschreiben.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "skriva_ut_verb": {
     "word": "skriva ut",
@@ -20420,7 +21882,8 @@
         "translation": "Sie ausdrucken gut.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "skriva_verb": {
     "word": "skriva",
@@ -20464,7 +21927,8 @@
         "lang": "de"
       }
     ],
-    "audio": "skriva_verb.mp3"
+    "audio": "skriva_verb.mp3",
+    "cefr": "A1"
   },
   "skuffa_verb": {
     "word": "skuffa",
@@ -20507,7 +21971,8 @@
         "translation": "Es ist wichtig zu enttäuschen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "skylla_verb": {
     "word": "skylla",
@@ -20549,7 +22014,8 @@
         "translation": "Er spülen zu Hause.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "skynda_seg_verb": {
     "word": "skynda seg",
@@ -20588,7 +22054,8 @@
         "translation": "Sie eilen gut.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "skyta_verb": {
     "word": "skyta",
@@ -20627,7 +22094,8 @@
         "translation": "Es ist wichtig zu schießen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "skyva_verb": {
     "word": "skyva",
@@ -20666,7 +22134,8 @@
         "translation": "Wir wollen schieben.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "slappa_av_verb": {
     "word": "slappa av",
@@ -20713,7 +22182,8 @@
         "lang": "de"
       }
     ],
-    "audio": "slappa_av_verb.mp3"
+    "audio": "slappa_av_verb.mp3",
+    "cefr": "A1"
   },
   "sletta_verb": {
     "word": "sletta",
@@ -20755,7 +22225,8 @@
         "translation": "Ich möchte löschen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "slutta_verb": {
     "word": "slutta",
@@ -20798,7 +22269,8 @@
         "translation": "Wir aufhören zusammen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1"
   },
   "slå_av_verb": {
     "word": "slå av",
@@ -20844,7 +22316,8 @@
         "translation": "Wir ausmachen zusammen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1"
   },
   "slå_opp_verb": {
     "word": "slå opp",
@@ -20891,7 +22364,8 @@
         "translation": "Ich nachschlagen jeden Tag.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "slå_på_verb": {
     "word": "slå på",
@@ -20937,7 +22411,8 @@
         "translation": "Ich anmachen jeden Tag.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1"
   },
   "slå_verb": {
     "word": "slå",
@@ -20983,7 +22458,8 @@
         "translation": "Ich muss schlagen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "smake_verb": {
     "word": "smake",
@@ -21023,7 +22499,8 @@
         "translation": "Kannst du schmecken?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1"
   },
   "smile_verb": {
     "word": "smile",
@@ -21068,7 +22545,8 @@
       }
     ],
     "audio": "smile_verb.mp3",
-    "frequency": 3968
+    "frequency": 3968,
+    "cefr": "A1"
   },
   "sminka_seg_verb": {
     "word": "sminka seg",
@@ -21107,7 +22585,8 @@
         "translation": "Ich muss schminken.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "snakka_høyt_verb": {
     "word": "snakka høyt",
@@ -21154,7 +22633,8 @@
         "translation": "Ich muss laut sprechen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2"
   },
   "snakka_verb": {
     "word": "snakka",
@@ -21197,7 +22677,8 @@
         "translation": "Ich möchte reden.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "snu_seg_verb": {
     "word": "snu seg",
@@ -21237,7 +22718,8 @@
         "translation": "Wir sich umdrehen zusammen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "snø_verb": {
     "word": "snø",
@@ -21283,7 +22765,8 @@
         "translation": "Ich möchte schneien.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2"
   },
   "sova_verb": {
     "word": "sova",
@@ -21327,7 +22810,8 @@
         "lang": "de"
       }
     ],
-    "audio": "sova_verb.mp3"
+    "audio": "sova_verb.mp3",
+    "cefr": "A1"
   },
   "sovne_verb": {
     "word": "sovne",
@@ -21372,7 +22856,8 @@
       }
     ],
     "audio": "sovne_verb.mp3",
-    "frequency": 6392
+    "frequency": 6392,
+    "cefr": "A1"
   },
   "spasere_verb": {
     "word": "spasere",
@@ -21412,7 +22897,8 @@
         "translation": "Sie spazieren gut.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "spenna_seg_fast_verb": {
     "word": "spenna seg fast",
@@ -21455,7 +22941,8 @@
         "translation": "Er anschnallen zu Hause.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "spilla_verb": {
     "word": "spilla",
@@ -21502,7 +22989,8 @@
         "lang": "de"
       }
     ],
-    "audio": "spilla_verb.mp3"
+    "audio": "spilla_verb.mp3",
+    "cefr": "A1"
   },
   "spille_å_leke_verb": {
     "word": "spille, å leke",
@@ -21531,7 +23019,21 @@
         "translation": "Ich spille, å leke jeden Tag.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å spille, å leke"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: ."
+    }
   },
   "springa_verb": {
     "word": "springa",
@@ -21578,7 +23080,8 @@
         "lang": "de"
       }
     ],
-    "audio": "springa_verb.mp3"
+    "audio": "springa_verb.mp3",
+    "cefr": "A1"
   },
   "spørja_verb": {
     "word": "spørja",
@@ -21628,7 +23131,8 @@
         "lang": "de"
       }
     ],
-    "audio": "spørja_verb.mp3"
+    "audio": "spørja_verb.mp3",
+    "cefr": "A1"
   },
   "stamma_frå_verb": {
     "word": "stamma frå",
@@ -21674,7 +23178,8 @@
         "translation": "Er stammen zu Hause.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "starte_verb": {
     "word": "starte",
@@ -21719,7 +23224,8 @@
       }
     ],
     "audio": "starte_verb.mp3",
-    "frequency": 1172
+    "frequency": 1172,
+    "cefr": "A1"
   },
   "stave_verb": {
     "word": "stave",
@@ -21759,7 +23265,8 @@
         "translation": "Wir buchstabieren zusammen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1"
   },
   "sted_verb": {
     "word": "sted)",
@@ -21798,7 +23305,8 @@
         "translation": "Ich möchte sted).",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "steke_verb": {
     "word": "steke",
@@ -21838,7 +23346,8 @@
         "translation": "Er braten zu Hause.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2"
   },
   "stemma_verb": {
     "word": "stemma",
@@ -21880,7 +23389,8 @@
         "translation": "Kannst du abstimmen?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "stengt_verb": {
     "word": "stengt",
@@ -21905,7 +23415,25 @@
         "translation": "Sie geschlossen gut.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å stengt",
+          "presens": "stengtr",
+          "preteritum": "stengtdde",
+          "perfektum_partisipp": "stengtdd",
+          "imperativ": "stengt"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: stengtr."
+    }
   },
   "stiga_på_verb": {
     "word": "stiga på",
@@ -21950,7 +23478,8 @@
         "translation": "Ich möchte einsteigen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1"
   },
   "stiga_verb": {
     "word": "stiga",
@@ -21989,7 +23518,8 @@
         "translation": "Es ist wichtig zu steigen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "stikka_verb": {
     "word": "stikka",
@@ -22032,7 +23562,8 @@
         "translation": "Kannst du stechen?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "stilla_ut_verb": {
     "word": "stilla ut",
@@ -22074,7 +23605,8 @@
         "translation": "Ich muss ausstellen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "stilla_verb": {
     "word": "stilla",
@@ -22116,7 +23648,8 @@
         "translation": "Wir stellen zusammen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1"
   },
   "stinka_verb": {
     "word": "stinka",
@@ -22155,7 +23688,8 @@
         "translation": "Es ist wichtig zu stinken.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "stjele_verb": {
     "word": "stjele",
@@ -22195,7 +23729,8 @@
         "translation": "Kannst du stehlen?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "stole_på_verb": {
     "word": "stole på",
@@ -22246,7 +23781,8 @@
       }
     ],
     "audio": "stole_på_verb.mp3",
-    "frequency": 737
+    "frequency": 737,
+    "cefr": "A1"
   },
   "stoppa_verb": {
     "word": "stoppa",
@@ -22289,7 +23825,8 @@
         "translation": "Ich möchte stoppen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "streike_verb": {
     "word": "streike",
@@ -22329,7 +23866,8 @@
         "translation": "Ich streiken jeden Tag.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "studere_verb": {
     "word": "studere",
@@ -22369,7 +23907,8 @@
         "translation": "Es ist wichtig zu studieren.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1"
   },
   "styrte_verb": {
     "word": "styrte",
@@ -22409,7 +23948,8 @@
         "translation": "Ich möchte stürzen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "stå_fast_verb": {
     "word": "stå fast",
@@ -22455,7 +23995,8 @@
         "translation": "Er feststehen zu Hause.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "stå_mykje_verb": {
     "word": "stå mykje",
@@ -22503,7 +24044,8 @@
         "translation": "Sie viel stehen viel.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2"
   },
   "stå_opp_verb": {
     "word": "stå opp",
@@ -22555,7 +24097,8 @@
       }
     ],
     "audio": "stå_opp_verb.mp3",
-    "frequency": 430
+    "frequency": 430,
+    "cefr": "A1"
   },
   "stå_verb": {
     "word": "stå",
@@ -22606,7 +24149,8 @@
       }
     ],
     "audio": "stå_verb.mp3",
-    "frequency": 430
+    "frequency": 430,
+    "cefr": "A1"
   },
   "støte_seg_verb": {
     "word": "støte seg",
@@ -22652,7 +24196,8 @@
         "translation": "Sie sich stoßen gut.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "støtta_verb": {
     "word": "støtta",
@@ -22698,7 +24243,8 @@
         "translation": "Wir wollen unterstützen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "støvsuge_verb": {
     "word": "støvsuge",
@@ -22744,7 +24290,8 @@
         "translation": "Ich staubsaugen jeden Tag.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "supplere_verb": {
     "word": "supplere",
@@ -22786,7 +24333,8 @@
         "translation": "Ich muss ergänzen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "svare_verb": {
     "word": "svare",
@@ -22831,7 +24379,8 @@
       }
     ],
     "audio": "svare_verb.mp3",
-    "frequency": 1138
+    "frequency": 1138,
+    "cefr": "A1"
   },
   "svetta_verb": {
     "word": "svetta",
@@ -22873,7 +24422,8 @@
         "translation": "Ich möchte schwitzen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "svinga_verb": {
     "word": "svinga",
@@ -22915,7 +24465,8 @@
         "translation": "Wir wollen abbiegen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "svømma_verb": {
     "word": "svømma",
@@ -22966,7 +24517,8 @@
         "lang": "de"
       }
     ],
-    "audio": "svømma_verb.mp3"
+    "audio": "svømma_verb.mp3",
+    "cefr": "A1"
   },
   "synast_verb": {
     "word": "synast",
@@ -23010,7 +24562,8 @@
         "lang": "de"
       }
     ],
-    "audio": "synast_verb.mp3"
+    "audio": "synast_verb.mp3",
+    "cefr": "A1"
   },
   "syngja_verb": {
     "word": "syngja",
@@ -23057,7 +24610,8 @@
         "lang": "de"
       }
     ],
-    "audio": "syngja_verb.mp3"
+    "audio": "syngja_verb.mp3",
+    "cefr": "A1"
   },
   "søke_om_verb": {
     "word": "søke om",
@@ -23103,7 +24657,8 @@
         "translation": "Ich möchte beantragen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "søke_verb": {
     "word": "søke",
@@ -23150,7 +24705,8 @@
         "translation": "Ich sich bewerben jeden Tag.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "sørge_for_verb": {
     "word": "sørge for",
@@ -23196,7 +24752,8 @@
         "translation": "Er sorgen zu Hause.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "ta_farvel_verb": {
     "word": "ta farvel",
@@ -23235,7 +24792,8 @@
         "translation": "Kannst du sich verabschieden?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "ta_feil_verb": {
     "word": "ta feil",
@@ -23274,7 +24832,8 @@
         "translation": "Kannst du sich irren?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "ta_med_verb": {
     "word": "ta med",
@@ -23321,7 +24880,8 @@
         "lang": "de"
       }
     ],
-    "audio": "ta_med_verb.mp3"
+    "audio": "ta_med_verb.mp3",
+    "cefr": "A1"
   },
   "ta_opp_verb": {
     "word": "ta opp",
@@ -23363,7 +24923,8 @@
         "translation": "Es ist wichtig zu aufnehmen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "ta_på_seg_å_bli_verb": {
     "word": "ta på seg, å bli",
@@ -23390,7 +24951,21 @@
         "translation": "Ich ta på seg, å bli jeden Tag.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å ta på seg, å bli"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: ."
+    }
   },
   "ta_seg_av_verb": {
     "word": "ta seg av",
@@ -23429,7 +25004,8 @@
         "translation": "Ich möchte betreuen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "ta_ut_verb": {
     "word": "ta ut",
@@ -23469,7 +25045,8 @@
         "translation": "Wir wollen abheben.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "ta_verb": {
     "word": "ta",
@@ -23514,7 +25091,8 @@
       }
     ],
     "audio": "ta_verb.mp3",
-    "frequency": 61
+    "frequency": 61,
+    "cefr": "A1"
   },
   "ta_å_drikke_verb": {
     "word": "ta, å drikke",
@@ -23542,7 +25120,21 @@
         "translation": "Ich muss ta, å drikke.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å ta, å drikke"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: ."
+    }
   },
   "ta_å_gripe_verb": {
     "word": "ta, å gripe",
@@ -23569,7 +25161,21 @@
         "translation": "Ich ta, å gripe jeden Tag.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å ta, å gripe"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: ."
+    }
   },
   "takka_verb": {
     "word": "takka",
@@ -23616,7 +25222,8 @@
         "lang": "de"
       }
     ],
-    "audio": "takka_verb.mp3"
+    "audio": "takka_verb.mp3",
+    "cefr": "A1"
   },
   "tape_verb": {
     "word": "tape",
@@ -23661,7 +25268,8 @@
       }
     ],
     "audio": "tape_verb.mp3",
-    "frequency": 1790
+    "frequency": 1790,
+    "cefr": "A1"
   },
   "tegne_verb": {
     "word": "tegne",
@@ -23701,7 +25309,8 @@
         "translation": "Ich zeichnen jeden Tag.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2"
   },
   "tella_verb": {
     "word": "tella",
@@ -23743,7 +25352,8 @@
         "translation": "Er zählen zu Hause.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "telte_verb": {
     "word": "telte",
@@ -23783,7 +25393,8 @@
         "translation": "Ich muss zelten.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "tenka_over_verb": {
     "word": "tenka over",
@@ -23822,7 +25433,8 @@
         "translation": "Ich möchte nachdenken.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "tenka_verb": {
     "word": "tenka",
@@ -23861,7 +25473,8 @@
         "translation": "Ich denken jeden Tag.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "testa_verb": {
     "word": "testa",
@@ -23901,7 +25514,8 @@
         "translation": "Sie testen gut.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "tie_verb": {
     "word": "tie",
@@ -23941,7 +25555,8 @@
         "translation": "Ich muss schweigen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "tilberede_verb": {
     "word": "tilberede",
@@ -23981,7 +25596,8 @@
         "translation": "Ich muss zubereiten.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "tilbringa_verb": {
     "word": "tilbringa",
@@ -24023,7 +25639,8 @@
         "translation": "Er verbringen zu Hause.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "tilby_verb": {
     "word": "tilby",
@@ -24063,7 +25680,8 @@
         "translation": "Wir wollen anbieten.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1"
   },
   "tilgi_verb": {
     "word": "tilgi",
@@ -24103,7 +25721,8 @@
         "translation": "Wir verzeihen zusammen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "tilhøre_verb": {
     "word": "tilhøre",
@@ -24149,7 +25768,8 @@
         "translation": "Sie gehören viel.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1"
   },
   "tillate_verb": {
     "word": "tillate",
@@ -24192,7 +25812,8 @@
         "translation": "Kannst du erlauben?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1"
   },
   "tjene_verb": {
     "word": "tjene",
@@ -24232,7 +25853,8 @@
         "translation": "Sie dienen viel.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "to_timer_verb": {
     "word": "to timer",
@@ -24253,7 +25875,25 @@
         "translation": "Wir wollen zwei Stunden.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å to timer",
+          "presens": "to timerr",
+          "preteritum": "to timerdde",
+          "perfektum_partisipp": "to timerdd",
+          "imperativ": "to timer"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: to timerr."
+    }
   },
   "tora_verb": {
     "word": "tora",
@@ -24293,7 +25933,8 @@
         "translation": "Wir wollen sich getren.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "tordne_verb": {
     "word": "tordne",
@@ -24332,7 +25973,8 @@
         "translation": "Sie donnern viel.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "transportere_verb": {
     "word": "transportere",
@@ -24372,7 +26014,8 @@
         "translation": "Kannst du transportieren?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "tre_inn_verb": {
     "word": "tre inn",
@@ -24415,7 +26058,8 @@
         "translation": "Ich muss eintreten.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "treffa_verb": {
     "word": "treffa",
@@ -24462,7 +26106,8 @@
         "lang": "de"
       }
     ],
-    "audio": "treffa_verb.mp3"
+    "audio": "treffa_verb.mp3",
+    "cefr": "A1"
   },
   "trene_verb": {
     "word": "trene",
@@ -24502,7 +26147,8 @@
         "translation": "Ich muss trainieren.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2"
   },
   "trenga_verb": {
     "word": "trenga",
@@ -24544,7 +26190,8 @@
         "translation": "Sie benötigen gut.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "tro_verb": {
     "word": "tro",
@@ -24589,7 +26236,8 @@
       }
     ],
     "audio": "tro_verb.mp3",
-    "frequency": 233
+    "frequency": 233,
+    "cefr": "A1"
   },
   "trykka_verb": {
     "word": "trykka",
@@ -24631,7 +26279,8 @@
         "translation": "Sie drucken viel.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1"
   },
   "tråkka_verb": {
     "word": "tråkka",
@@ -24678,7 +26327,8 @@
         "translation": "Es ist wichtig zu treten.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "tute_verb": {
     "word": "tute",
@@ -24718,7 +26368,8 @@
         "translation": "Er hupen zu Hause.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "tvile_verb": {
     "word": "tvile",
@@ -24758,7 +26409,8 @@
         "translation": "Wir wollen zweifeln.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "tvinga_seg_verb": {
     "word": "tvinga seg",
@@ -24800,7 +26452,8 @@
         "translation": "Es ist wichtig zu sich zwingen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "tyda_verb": {
     "word": "tyda",
@@ -24839,7 +26492,8 @@
         "translation": "Sie bedeuten viel.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1"
   },
   "tørka_verb": {
     "word": "tørka",
@@ -24885,7 +26539,8 @@
         "translation": "Ich muss trocknen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "underholde_seg_verb": {
     "word": "underholde seg",
@@ -24930,7 +26585,8 @@
       }
     ],
     "audio": "underholde_seg_verb.mp3",
-    "frequency": 9300
+    "frequency": 9300,
+    "cefr": "A1"
   },
   "underskrive_verb": {
     "word": "underskrive",
@@ -24970,7 +26626,8 @@
         "translation": "Ich muss unterschreiben.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1"
   },
   "understreke_verb": {
     "word": "understreke",
@@ -25010,7 +26667,8 @@
         "translation": "Es ist wichtig zu unterstreichen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "undersøke_verb": {
     "word": "undersøke",
@@ -25056,7 +26714,8 @@
         "translation": "Wir untersuchen zusammen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2"
   },
   "undervise_verb": {
     "word": "undervise",
@@ -25096,7 +26755,8 @@
         "translation": "Kannst du unterrichten?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "undervise_å_vise_verb": {
     "word": "undervise, å vise",
@@ -25124,7 +26784,21 @@
         "translation": "Sie undervise, å vise gut.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å undervise, å vise"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: ."
+    }
   },
   "undra_seg_verb": {
     "word": "undra seg",
@@ -25163,7 +26837,8 @@
         "translation": "Ich sich wundern jeden Tag.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "unngå_verb": {
     "word": "unngå",
@@ -25211,7 +26886,8 @@
         "translation": "Kannst du vermeiden?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "unnlate_verb": {
     "word": "unnlate",
@@ -25254,7 +26930,8 @@
         "translation": "Ich unterlassen jeden Tag.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "unnskylde_verb": {
     "word": "unnskylde",
@@ -25297,7 +26974,8 @@
         "translation": "Ich möchte entschuldigen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1"
   },
   "ute_verb": {
     "word": "ute",
@@ -25319,7 +26997,25 @@
         "translation": "Sie außen viel.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å ute",
+          "presens": "uter",
+          "preteritum": "utte",
+          "perfektum_partisipp": "utt",
+          "imperativ": "ut"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: uter."
+    }
   },
   "utsetta_verb": {
     "word": "utsetta",
@@ -25361,7 +27057,8 @@
         "translation": "Ich muss verschieben.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2"
   },
   "uttale_verb": {
     "word": "uttale",
@@ -25404,7 +27101,8 @@
         "translation": "Ich aussprechen jeden Tag.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2"
   },
   "utvikle_verb": {
     "word": "utvikle",
@@ -25444,7 +27142,8 @@
         "translation": "Wir wollen entwickeln.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "vare_verb": {
     "word": "vare",
@@ -25489,7 +27188,8 @@
       }
     ],
     "audio": "vare_verb.mp3",
-    "frequency": 823
+    "frequency": 823,
+    "cefr": "A1"
   },
   "varme_opp_verb": {
     "word": "varme opp",
@@ -25532,7 +27232,8 @@
         "translation": "Wir wollen heizen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "vaska_opp_verb": {
     "word": "vaska opp",
@@ -25575,7 +27276,8 @@
         "translation": "Ich möchte abwaschen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "vaska_seg_verb": {
     "word": "vaska seg",
@@ -25620,7 +27322,8 @@
       }
     ],
     "audio": "vaska_seg_verb.mp3",
-    "frequency": 44604
+    "frequency": 44604,
+    "cefr": "A1"
   },
   "vaska_verb": {
     "word": "vaska",
@@ -25660,7 +27363,8 @@
         "translation": "Sie waschen viel.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1"
   },
   "ved_siden_av_verb": {
     "word": "ved siden av",
@@ -25682,7 +27386,21 @@
         "translation": "Ich möchte daneben.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å ved siden av"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: ."
+    }
   },
   "vedda_verb": {
     "word": "vedda",
@@ -25724,7 +27442,8 @@
         "translation": "Es ist wichtig zu wetten.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "veie_verb": {
     "word": "veie",
@@ -25764,7 +27483,8 @@
         "translation": "Sie wiegen gut.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "vekka_verb": {
     "word": "vekka",
@@ -25811,7 +27531,8 @@
         "lang": "de"
       }
     ],
-    "audio": "vekka_verb.mp3"
+    "audio": "vekka_verb.mp3",
+    "cefr": "A1"
   },
   "veksa_verb": {
     "word": "veksa",
@@ -25850,7 +27571,8 @@
         "translation": "Wir wollen wachsen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "veksle_verb": {
     "word": "veksle",
@@ -25890,7 +27612,8 @@
         "translation": "Es ist wichtig zu wechseln.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2"
   },
   "velge_ut_verb": {
     "word": "velge ut",
@@ -25930,7 +27653,8 @@
         "translation": "Sie auswählen viel.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "velge_verb": {
     "word": "velge",
@@ -25970,7 +27694,8 @@
         "translation": "Ich wählen jeden Tag.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "venda_verb": {
     "word": "venda",
@@ -26009,7 +27734,8 @@
         "translation": "Es ist wichtig zu wenden.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "venta_verb": {
     "word": "venta",
@@ -26054,7 +27780,8 @@
       }
     ],
     "audio": "venta_verb.mp3",
-    "frequency": 22961
+    "frequency": 22961,
+    "cefr": "A1"
   },
   "vente_å_håpe_verb": {
     "word": "vente, å håpe",
@@ -26082,7 +27809,21 @@
         "translation": "Wir vente, å håpe zusammen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å vente, å håpe"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: ."
+    }
   },
   "vera_nok_verb": {
     "word": "vera nok",
@@ -26122,7 +27863,8 @@
         "translation": "Wir wollen genügen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "vera_redd_verb": {
     "word": "vera redd",
@@ -26165,7 +27907,8 @@
         "translation": "Wir sich fürchten zusammen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "vera_riktig_verb": {
     "word": "vera riktig",
@@ -26210,7 +27953,8 @@
       }
     ],
     "audio": "vera_riktig_verb.mp3",
-    "frequency": 4796
+    "frequency": 4796,
+    "cefr": "A1"
   },
   "vera_tilstand_verb": {
     "word": "vera (tilstand",
@@ -26253,7 +27997,8 @@
         "translation": "Kannst du vera (tilstand?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2"
   },
   "vera_verb": {
     "word": "vera",
@@ -26298,7 +28043,8 @@
       }
     ],
     "audio": "vera_verb.mp3",
-    "frequency": 4796
+    "frequency": 4796,
+    "cefr": "A1"
   },
   "vilja_ha_verb": {
     "word": "vilja ha",
@@ -26342,7 +28088,8 @@
         "lang": "de"
       }
     ],
-    "audio": "vilja_ha_verb.mp3"
+    "audio": "vilja_ha_verb.mp3",
+    "cefr": "A1"
   },
   "vilja_verb": {
     "word": "vilja",
@@ -26386,7 +28133,8 @@
         "lang": "de"
       }
     ],
-    "audio": "vilja_verb.mp3"
+    "audio": "vilja_verb.mp3",
+    "cefr": "A1"
   },
   "ville_å_ønske_å_elske_verb": {
     "word": "ville, å ønske, å elske",
@@ -26417,7 +28165,21 @@
         "translation": "Wir ville, å ønske, å elske zusammen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å ville, å ønske, å elske"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: ."
+    }
   },
   "vinka_verb": {
     "word": "vinka",
@@ -26456,7 +28218,8 @@
         "translation": "Wir winken zusammen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "vinna_verb": {
     "word": "vinna",
@@ -26503,7 +28266,8 @@
         "lang": "de"
       }
     ],
-    "audio": "vinna_verb.mp3"
+    "audio": "vinna_verb.mp3",
+    "cefr": "A1"
   },
   "vinne_å_tjene_verb": {
     "word": "vinne, å tjene",
@@ -26532,7 +28296,21 @@
         "translation": "Ich vinne, å tjene jeden Tag.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å vinne, å tjene"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: ."
+    }
   },
   "virka_verb": {
     "word": "virka",
@@ -26572,7 +28350,8 @@
         "translation": "Ich wirken jeden Tag.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "virke_å_synast_verb": {
     "word": "virke, å synast",
@@ -26600,7 +28379,21 @@
         "translation": "Es ist wichtig zu virke, å synast.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å virke, å synast"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: ."
+    }
   },
   "vise_verb": {
     "word": "vise",
@@ -26645,7 +28438,8 @@
       }
     ],
     "audio": "vise_verb.mp3",
-    "frequency": 380
+    "frequency": 380,
+    "cefr": "A1"
   },
   "vita_verb": {
     "word": "vita",
@@ -26690,7 +28484,8 @@
       }
     ],
     "audio": "vita_verb.mp3",
-    "frequency": 24520
+    "frequency": 24520,
+    "cefr": "A1"
   },
   "vite_å_kunne_verb": {
     "word": "vite, å kunne",
@@ -26719,7 +28514,21 @@
         "translation": "Er vite, å kunne zu Hause.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A1",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å vite, å kunne"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: ."
+    }
   },
   "voksen_verb": {
     "word": "voksen",
@@ -26741,7 +28550,25 @@
         "translation": "Sie erwachsen viel.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å voksen",
+          "presens": "voksenr",
+          "preteritum": "voksendde",
+          "perfektum_partisipp": "voksendd",
+          "imperativ": "voksen"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: voksenr."
+    }
   },
   "våkne_verb": {
     "word": "våkne",
@@ -26792,7 +28619,8 @@
       }
     ],
     "audio": "våkne_verb.mp3",
-    "frequency": 1269
+    "frequency": 1269,
+    "cefr": "A1"
   },
   "vært_imot_verb": {
     "word": "vært imot",
@@ -26820,7 +28648,25 @@
         "translation": "Ich dagegen gewesen jeden Tag.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å vært imot",
+          "presens": "vært imotr",
+          "preteritum": "vært imotdde",
+          "perfektum_partisipp": "vært imotdd",
+          "imperativ": "vært imot"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: vært imotr."
+    }
   },
   "vært_verb": {
     "word": "vært",
@@ -26848,7 +28694,25 @@
         "translation": "Wir wollen gewesen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å vært",
+          "presens": "værtr",
+          "preteritum": "værtdde",
+          "perfektum_partisipp": "værtdd",
+          "imperativ": "vært"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: værtr."
+    }
   },
   "yte_verb": {
     "word": "yte",
@@ -26888,7 +28752,8 @@
         "translation": "Wir wollen leisten.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "åpen_verb": {
     "word": "åpen",
@@ -26916,7 +28781,25 @@
         "translation": "Ich muss offen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å åpen",
+          "presens": "åpenr",
+          "preteritum": "åpendde",
+          "perfektum_partisipp": "åpendd",
+          "imperativ": "åpen"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: åpenr."
+    }
   },
   "åpne_verb": {
     "word": "åpne",
@@ -26962,7 +28845,8 @@
         "translation": "Ich muss aufmachen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2"
   },
   "ødelegga_verb": {
     "word": "ødelegga",
@@ -27008,7 +28892,8 @@
         "translation": "Kannst du kaputtmachen?",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "øke_verb": {
     "word": "øke",
@@ -27054,7 +28939,8 @@
         "translation": "Es ist wichtig zu zunehmen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "ønska_verb": {
     "word": "ønska",
@@ -27104,7 +28990,8 @@
         "lang": "de"
       }
     ],
-    "audio": "ønska_verb.mp3"
+    "audio": "ønska_verb.mp3",
+    "cefr": "A1"
   },
   "øve_verb": {
     "word": "øve",
@@ -27150,7 +29037,8 @@
         "translation": "Wir üben zusammen.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "B1"
   },
   "øve_å_praktisere_verb": {
     "word": "øve, å praktisere",
@@ -27180,6 +29068,20 @@
         "translation": "Er øve, å praktisere zu Hause.",
         "lang": "de"
       }
-    ]
+    ],
+    "cefr": "A2",
+    "conjugations": {
+      "presens": {
+        "former": {
+          "infinitiv": "å øve, å praktisere"
+        },
+        "auxiliary": "har",
+        "feature": "grammar_nn_presens"
+      }
+    },
+    "verbClass": "svak",
+    "explanation": {
+      "_description": "Nynorsk Svakt verb. Presens: ."
+    }
   }
 }
