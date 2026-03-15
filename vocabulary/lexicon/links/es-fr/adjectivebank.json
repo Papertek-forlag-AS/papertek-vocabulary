@@ -1,0 +1,953 @@
+{
+  "dependiente_adj": {
+    "primary": "dependant_adj"
+  },
+  "absoluto_adj": {
+    "primary": "absolu_adj"
+  },
+  "ausente_adj": {
+    "primary": "absent_adj"
+  },
+  "similar_adj": {
+    "primary": "similaire_adj"
+  },
+  "ansioso_adj": {
+    "primary": "anxieux_adj"
+  },
+  "irritante_adj": {
+    "primary": "agacant_adj"
+  },
+  "exterior_adj": {
+    "primary": "exterieur_adj"
+  },
+  "activo_adj": {
+    "primary": "actif_adj"
+  },
+  "actual_adj": {
+    "primary": "actuel_adj"
+  },
+  "general_adj": {
+    "primary": "general_adj"
+  },
+  "viejo_adj": {
+    "primary": "vieux_adj"
+  },
+  "alternativo_adj": {
+    "primary": "alternatif_adj"
+  },
+  "agradable_adj": {
+    "primary": "agreable_adj"
+  },
+  "agotador_adj": {
+    "primary": "fatigant_adj"
+  },
+  "presente_adj": {
+    "primary": "present_adj"
+  },
+  "desempleado_adj": {
+    "primary": "au_chomage_adj"
+  },
+  "pobre_adj": {
+    "primary": "pauvre_adj"
+  },
+  "emocionado_adj": {
+    "primary": "tendu_adj"
+  },
+  "atento_adj": {
+    "primary": "attentif_adj"
+  },
+  "exclusivo_adj": {
+    "primary": "exclusif_adj"
+  },
+  "automatico_adj": {
+    "primary": "automatique_adj"
+  },
+  "conocido_adj": {
+    "primary": "celebre_adj"
+  },
+  "comodo_adj": {
+    "primary": "confortable_adj"
+  },
+  "activo_laboralmente_adj": {
+    "primary": "actif_professionnellement_adj"
+  },
+  "determinado_adj": {
+    "primary": "determine_adj"
+  },
+  "nublado_adj": {
+    "primary": "nuageux_adj"
+  },
+  "barato_adj": {
+    "primary": "bon_marche_adj"
+  },
+  "amargo_adj": {
+    "primary": "amer_adj"
+  },
+  "palido_adj": {
+    "primary": "pale_adj"
+  },
+  "ciego_adj": {
+    "primary": "aveugle_adj"
+  },
+  "tonto_adj": {
+    "primary": "stupide_adj"
+  },
+  "rubio_adj": {
+    "primary": "blond_adj"
+  },
+  "enfadado_adj": {
+    "primary": "en_colere_adj"
+  },
+  "marron_adj": {
+    "primary": "marron_adj"
+  },
+  "ancho_adj": {
+    "primary": "large_adj"
+  },
+  "colorido_adj": {
+    "primary": "colore_adj"
+  },
+  "genial_adj": {
+    "primary": "cool_adj"
+  },
+  "agradecido_adj": {
+    "primary": "reconnaissant_adj"
+  },
+  "denso_adj": {
+    "primary": "dense_adj"
+  },
+  "gordo_adj": {
+    "primary": "gros_adj"
+  },
+  "digital_adj": {
+    "primary": "numerique_adj"
+  },
+  "directo_adj": {
+    "primary": "direct_adj"
+  },
+  "doble_adj": {
+    "primary": "double_adj"
+  },
+  "promedio_adj": {
+    "primary": "moyen_adj"
+  },
+  "sediento_adj": {
+    "primary": "assoiffe_adj"
+  },
+  "autentico_adj": {
+    "primary": "reel_adj"
+  },
+  "cuadrado_adj": {
+    "primary": "carre_adj"
+  },
+  "honesto_adj": {
+    "primary": "honnete_adj"
+  },
+  "inequivoco_adj": {
+    "primary": "sans_ambiguite_adj"
+  },
+  "uniforme_adj": {
+    "primary": "uniforme_adj"
+  },
+  "solitario_adj": {
+    "primary": "solitaire_adj"
+  },
+  "elegante_adj": {
+    "primary": "elegant_adj"
+  },
+  "electrico_adj": {
+    "primary": "electrique_adj"
+  },
+  "electronico_adj": {
+    "primary": "electronique_adj"
+  },
+  "relajado_adj": {
+    "primary": "detendu_adj"
+  },
+  "exitoso_adj": {
+    "primary": "reussi_adj"
+  },
+  "grave_adj": {
+    "primary": "grave_adj"
+  },
+  "eterno_adj": {
+    "primary": "eternel_adj"
+  },
+  "extremo_adj": {
+    "primary": "extreme_adj"
+  },
+  "vencido_adj": {
+    "primary": "echu_adj"
+  },
+  "justo_adj": {
+    "primary": "juste_adj"
+  },
+  "incorrecto_adj": {
+    "primary": "incorrect_adj"
+  },
+  "fantastico_adj": {
+    "primary": "fantastique_adj"
+  },
+  "perezoso_adj": {
+    "primary": "paresseux_adj"
+  },
+  "fijo_adj": {
+    "primary": "fixe_adj"
+  },
+  "humedo_adj": {
+    "primary": "humide_adj"
+  },
+  "financiero_adj": {
+    "primary": "financier_adj"
+  },
+  "plano_adj": {
+    "primary": "plat_adj"
+  },
+  "diligente_adj": {
+    "primary": "assidu_adj"
+  },
+  "flexible_adj": {
+    "primary": "flexible_adj"
+  },
+  "descarado_adj": {
+    "primary": "insolent_adj"
+  },
+  "voluntario_adj": {
+    "primary": "volontaire_adj"
+  },
+  "extrano_adj": {
+    "primary": "etranger_adj"
+  },
+  "temprano_adj": {
+    "primary": "tot_adj"
+  },
+  "horrible_adj": {
+    "primary": "horrible_adj"
+  },
+  "entero_adj": {
+    "primary": "entier_adj"
+  },
+  "peligroso_adj": {
+    "primary": "dangereux_adj"
+  },
+  "secreto_adj": {
+    "primary": "secret_adj"
+  },
+  "amarillo_adj": {
+    "primary": "jaune_adj"
+  },
+  "exacto_adj": {
+    "primary": "exact_adj"
+  },
+  "recto_adj": {
+    "primary": "droit_adj"
+  },
+  "pequeno_adj": {
+    "primary": "petit_adj"
+  },
+  "con_gusto_adj": {
+    "primary": "volontiers_adj"
+  },
+  "estresado_adj": {
+    "primary": "stresse_adj"
+  },
+  "toxico_adj": {
+    "primary": "toxique_adj"
+  },
+  "liso_adj": {
+    "primary": "lisse_adj"
+  },
+  "igual_adj": {
+    "primary": "egal_adj"
+  },
+  "simultaneo_adj": {
+    "primary": "simultane_adj"
+  },
+  "feliz_adj": {
+    "primary": "heureux_adj"
+  },
+  "grande_adj": {
+    "primary": "grand_adj"
+  },
+  "minucioso_adj": {
+    "primary": "approfondi_adj"
+  },
+  "valido_adj": {
+    "primary": "valable_adj"
+  },
+  "favorable_adj": {
+    "primary": "favorable_adj"
+  },
+  "feo_adj": {
+    "primary": "laid_adj"
+  },
+  "frecuente_adj": {
+    "primary": "frequent_adj"
+  },
+  "medio_adj": {
+    "primary": "demi_adj"
+  },
+  "duradero_adj": {
+    "primary": "durable_adj"
+  },
+  "duro_adj": {
+    "primary": "dur_adj"
+  },
+  "caliente_adj": {
+    "primary": "chaud_adj"
+  },
+  "claro2_adj": {
+    "primary": "clair_adj"
+  },
+  "cordial_adj": {
+    "primary": "cordial_adj"
+  },
+  "historico_adj": {
+    "primary": "historique_adj"
+  },
+  "hambriento_adj": {
+    "primary": "affame_adj"
+  },
+  "ideal_adj": {
+    "primary": "ideal_adj"
+  },
+  "ilegal_adj": {
+    "primary": "illegal_adj"
+  },
+  "individual_adj": {
+    "primary": "individuel_adj"
+  },
+  "inteligente_adj": {
+    "primary": "intelligent_adj"
+  },
+  "intensivo_adj": {
+    "primary": "intensif_adj"
+  },
+  "interesante_adj": {
+    "primary": "interessant_adj"
+  },
+  "interesado_adj": {
+    "primary": "interesse_adj"
+  },
+  "intercultural_adj": {
+    "primary": "interculturel_adj"
+  },
+  "internacional_adj": {
+    "primary": "international_adj"
+  },
+  "joven_adj": {
+    "primary": "jeune_adj"
+  },
+  "frio_adj": {
+    "primary": "froid_adj"
+  },
+  "destruido_adj": {
+    "primary": "detruit_adj"
+  },
+  "sabio_adj": {
+    "primary": "sage_adj"
+  },
+  "escaso_adj": {
+    "primary": "rare_adj"
+  },
+  "corporal_adj": {
+    "primary": "corporel_adj"
+  },
+  "extrano2_adj": {
+    "primary": "etrange_adj"
+  },
+  "completo_adj": {
+    "primary": "complet_adj"
+  },
+  "complicado_adj": {
+    "primary": "complique_adj"
+  },
+  "gratis_adj": {
+    "primary": "gratuit_adj"
+  },
+  "enfermo_adj": {
+    "primary": "malade_adj"
+  },
+  "creativo_adj": {
+    "primary": "creatif_adj"
+  },
+  "critico_adj": {
+    "primary": "critique_adj"
+  },
+  "artificial_adj": {
+    "primary": "artificiel_adj"
+  },
+  "cultural_adj": {
+    "primary": "culturel_adj"
+  },
+  "corto_adj": {
+    "primary": "court_adj"
+  },
+  "largo_adj": {
+    "primary": "long_adj"
+  },
+  "lento_adj": {
+    "primary": "lent_adj"
+  },
+  "aburrido_adj": {
+    "primary": "ennuyeux_adj"
+  },
+  "bien_adj": {
+    "primary": "bien_adj"
+  },
+  "soltero_adj": {
+    "primary": "celibataire_adj"
+  },
+  "vacio_adj": {
+    "primary": "vide_adj"
+  },
+  "ligero_adj": {
+    "primary": "leger_adj"
+  },
+  "gracioso_adj": {
+    "primary": "drole_adj"
+  },
+  "masculino_adj": {
+    "primary": "masculin_adj"
+  },
+  "maximo_adj": {
+    "primary": "maximal_adj"
+  },
+  "humano_adj": {
+    "primary": "humain_adj"
+  },
+  "minimo_adj": {
+    "primary": "minimal_adj"
+  },
+  "posible_adj": {
+    "primary": "possible_adj"
+  },
+  "oral_adj": {
+    "primary": "oral_adj"
+  },
+  "musical_adj": {
+    "primary": "musical_adj"
+  },
+  "valiente_adj": {
+    "primary": "courageux_adj"
+  },
+  "mojado_adj": {
+    "primary": "mouille_adj"
+  },
+  "natural_adj": {
+    "primary": "naturel_adj"
+  },
+  "nebuloso_adj": {
+    "primary": "brumeux_adj"
+  },
+  "negativo_adj": {
+    "primary": "negatif_adj"
+  },
+  "nuevo_adj": {
+    "primary": "nouveau_adj"
+  },
+  "curioso_adj": {
+    "primary": "curieux_adj"
+  },
+  "normal_adj": {
+    "primary": "normal_adj"
+  },
+  "util_adj": {
+    "primary": "utile_adj"
+  },
+  "publico_adj": {
+    "primary": "public_adj"
+  },
+  "obviamente_adj": {
+    "primary": "evidemment_adj"
+  },
+  "oficial_adj": {
+    "primary": "officiel_adj"
+  },
+  "optimista_adj": {
+    "primary": "optimiste_adj"
+  },
+  "naranja_adj": {
+    "primary": "orange_adj"
+  },
+  "ordenado_adj": {
+    "primary": "ordonne_adj"
+  },
+  "paralelo_adj": {
+    "primary": "parallele_adj"
+  },
+  "pasivo_adj": {
+    "primary": "passif_adj"
+  },
+  "global_adj": {
+    "primary": "forfaitaire_adj"
+  },
+  "perfecto_adj": {
+    "primary": "parfait_adj"
+  },
+  "repentino_adj": {
+    "primary": "soudain_adj"
+  },
+  "positivo_adj": {
+    "primary": "positif_adj"
+  },
+  "practico_adj": {
+    "primary": "pratique_adj"
+  },
+  "loable_adj": {
+    "primary": "louable_adj"
+  },
+  "privado_adj": {
+    "primary": "prive_adj"
+  },
+  "puntual_adj": {
+    "primary": "ponctuel_adj"
+  },
+  "transversal_adj": {
+    "primary": "en_travers_adj"
+  },
+  "realista_adj": {
+    "primary": "realiste_adj"
+  },
+  "juridico_adj": {
+    "primary": "juridique_adj"
+  },
+  "a_tiempo_adj": {
+    "primary": "a_temps_adj"
+  },
+  "regular_adj": {
+    "primary": "regulier_adj"
+  },
+  "regional_adj": {
+    "primary": "regional_adj"
+  },
+  "lluvioso_adj": {
+    "primary": "pluvieux_adj"
+  },
+  "maduro_adj": {
+    "primary": "mur_adj"
+  },
+  "limpio_adj": {
+    "primary": "propre_adj"
+  },
+  "relativo_adj": {
+    "primary": "relatif_adj"
+  },
+  "correcto_adj": {
+    "primary": "correct_adj"
+  },
+  "enorme_adj": {
+    "primary": "enorme_adj"
+  },
+  "romantico_adj": {
+    "primary": "romantique_adj"
+  },
+  "rosa_adj": {
+    "primary": "rose_adj"
+  },
+  "tranquilo_adj": {
+    "primary": "calme_adj"
+  },
+  "redondo_adj": {
+    "primary": "rond_adj"
+  },
+  "salado_adj": {
+    "primary": "sale_taste_adj"
+  },
+  "agrio_adj": {
+    "primary": "aigre_adj"
+  },
+  "lastima_adj": {
+    "primary": "dommage_adj"
+  },
+  "danino_adj": {
+    "primary": "nocif_adj"
+  },
+  "afilado_adj": {
+    "primary": "tranchant_adj"
+  },
+  "torcido_adj": {
+    "primary": "de_travers_adj"
+  },
+  "esbelto_adj": {
+    "primary": "mince_adj"
+  },
+  "estrecho_adj": {
+    "primary": "etroit_adj"
+  },
+  "sucio_adj": {
+    "primary": "sale_adj"
+  },
+  "rapido_adj": {
+    "primary": "rapide_adj"
+  },
+  "terrible_adj": {
+    "primary": "terrible_adj"
+  },
+  "escrito_adj": {
+    "primary": "ecrit_adj"
+  },
+  "timido_adj": {
+    "primary": "timide_adj"
+  },
+  "culpable_adj": {
+    "primary": "coupable_adj"
+  },
+  "debil_adj": {
+    "primary": "faible_adj"
+  },
+  "embarazada_adj": {
+    "primary": "enceinte_adj"
+  },
+  "negro_adj": {
+    "primary": "noir_adj"
+  },
+  "pesado_adj": {
+    "primary": "lourd_adj"
+  },
+  "dificil_adj": {
+    "primary": "difficile_adj"
+  },
+  "independiente_adj": {
+    "primary": "independant_adj"
+  },
+  "por_supuesto_adj": {
+    "primary": "evident_adj"
+  },
+  "extrano3_adj": {
+    "primary": "bizarre_adj"
+  },
+  "vertical_adj": {
+    "primary": "vertical_adj"
+  },
+  "seguro_adj": {
+    "primary": "sur_adj"
+  },
+  "visible_adj": {
+    "primary": "visible_adj"
+  },
+  "sin_sentido_adj": {
+    "primary": "absurde_adj"
+  },
+  "razonable_adj": {
+    "primary": "raisonnable_adj"
+  },
+  "soleado_adj": {
+    "primary": "ensoleille_adj"
+  },
+  "social_adj": {
+    "primary": "social_adj"
+  },
+  "tarde_adj": {
+    "primary": "tard_adj"
+  },
+  "posterior_adj": {
+    "primary": "ulterieur_adj"
+  },
+  "emocionante_adj": {
+    "primary": "passionnant_adj"
+  },
+  "especial_adj": {
+    "primary": "special_adj"
+  },
+  "puntiagudo_adj": {
+    "primary": "pointu_adj"
+  },
+  "deportivo_adj": {
+    "primary": "sportif_adj"
+  },
+  "urbano_adj": {
+    "primary": "urbain_adj"
+  },
+  "constante_adj": {
+    "primary": "constant_adj"
+  },
+  "picante_adj": {
+    "primary": "fort_adj"
+  },
+  "estadistico_adj": {
+    "primary": "statistique_adj"
+  },
+  "empinado_adj": {
+    "primary": "raide_adj"
+  },
+  "estilistico_adj": {
+    "primary": "stylistique_adj"
+  },
+  "orgulloso_adj": {
+    "primary": "fier_adj"
+  },
+  "punible_adj": {
+    "primary": "punissable_adj"
+  },
+  "estricto_adj": {
+    "primary": "strict_adj"
+  },
+  "estresante_adj": {
+    "primary": "stressant_adj"
+  },
+  "mudo_adj": {
+    "primary": "muet_adj"
+  },
+  "dulce_adj": {
+    "primary": "mignon_adj"
+  },
+  "super_adj": {
+    "primary": "super_adj"
+  },
+  "sordo_adj": {
+    "primary": "sourd_adj"
+  },
+  "caro_adj": {
+    "primary": "cher_adj"
+  },
+  "teorico_adj": {
+    "primary": "theorique_adj"
+  },
+  "profundo_adj": {
+    "primary": "profond_adj"
+  },
+  "mortal_adj": {
+    "primary": "mortel_adj"
+  },
+  "tolerante_adj": {
+    "primary": "tolerant_adj"
+  },
+  "estupendo_adj": {
+    "primary": "magnifique_adj"
+  },
+  "muerto_adj": {
+    "primary": "mort_adj"
+  },
+  "total_adj": {
+    "primary": "total_adj"
+  },
+  "tradicional_adj": {
+    "primary": "traditionnel_adj"
+  },
+  "triste_adj": {
+    "primary": "triste_adj"
+  },
+  "leal_adj": {
+    "primary": "loyal_adj"
+  },
+  "tipico_adj": {
+    "primary": "typique_adj"
+  },
+  "sorprendido_adj": {
+    "primary": "surpris_adj"
+  },
+  "excedente_adj": {
+    "primary": "excedentaire_adj"
+  },
+  "impaciente_adj": {
+    "primary": "impatient_adj"
+  },
+  "inusual_adj": {
+    "primary": "inhabituel_adj"
+  },
+  "increible_adj": {
+    "primary": "incroyable_adj"
+  },
+  "espeluznante_adj": {
+    "primary": "effrayant_adj"
+  },
+  "diferente_adj": {
+    "primary": "different_adj"
+  },
+  "original_adj": {
+    "primary": "originel_adj"
+  },
+  "vegetariano_adj": {
+    "primary": "vegetarien_adj"
+  },
+  "responsable_adj": {
+    "primary": "responsable_adj"
+  },
+  "en_vano_adj": {
+    "primary": "en_vain_adj"
+  },
+  "casado_adj": {
+    "primary": "marie_adj"
+  },
+  "probable_adj": {
+    "primary": "probable_adj"
+  },
+  "loco_adj": {
+    "primary": "fou_adj"
+  },
+  "comprensible_adj": {
+    "primary": "comprehensible_adj"
+  },
+  "emparentado_adj": {
+    "primary": "apparente_adj"
+  },
+  "mucho_adj": {
+    "primary": "beaucoup_adj"
+  },
+  "virtual_adj": {
+    "primary": "virtuel_adj"
+  },
+  "lleno_adj": {
+    "primary": "plein_adj"
+  },
+  "esperado_adj": {
+    "primary": "attendu_adj"
+  },
+  "provisional_adj": {
+    "primary": "provisoire_adj"
+  },
+  "cuidadoso_adj": {
+    "primary": "prudent_adj"
+  },
+  "despierto_adj": {
+    "primary": "eveille_adj"
+  },
+  "verdadero_adj": {
+    "primary": "vrai_adj"
+  },
+  "femenino_adj": {
+    "primary": "feminin_adj"
+  },
+  "blando_adj": {
+    "primary": "mou_adj"
+  },
+  "blanco_adj": {
+    "primary": "blanc_adj"
+  },
+  "lejos_adj": {
+    "primary": "loin_adj"
+  },
+  "vale_la_pena_adj": {
+    "primary": "qui_vaut_adj"
+  },
+  "sin_valor_adj": {
+    "primary": "sans_valeur_adj"
+  },
+  "valioso_adj": {
+    "primary": "precieux_adj"
+  },
+  "importante_adj": {
+    "primary": "important_adj"
+  },
+  "salvaje_adj": {
+    "primary": "sauvage_adj"
+  },
+  "furioso_adj": {
+    "primary": "furieux_adj"
+  },
+  "numeroso_adj": {
+    "primary": "nombreux_adj"
+  },
+  "manso_adj": {
+    "primary": "apprivoise_adj"
+  },
+  "central_adj": {
+    "primary": "central_adj"
+  },
+  "satisfecho_adj": {
+    "primary": "satisfait_adj"
+  },
+  "disponible_adj": {
+    "primary": "disponible_adj"
+  },
+  "futuro_adj": {
+    "primary": "futur_adj"
+  },
+  "extra_adj": {
+    "primary": "supplementaire_adj"
+  },
+  "fiable_adj": {
+    "primary": "fiable_adj"
+  },
+  "solo_adj": {
+    "primary": "seul_adj"
+  },
+  "calvo_adj": {
+    "primary": "chauve_adj"
+  },
+  "ocupado_adj": {
+    "primary": "occupe_adj"
+  },
+  "clasico_adj": {
+    "primary": "classique_adj"
+  },
+  "cobarde_adj": {
+    "primary": "lache_adj"
+  },
+  "delicioso_adj": {
+    "primary": "delicieux_adj"
+  },
+  "falso_adj": {
+    "primary": "faux_adj"
+  },
+  "favorito_adj": {
+    "primary": "favori_adj"
+  },
+  "trabajador_adj": {
+    "primary": "travailleur_adj"
+  },
+  "imposible_adj": {
+    "primary": "impossible_adj"
+  },
+  "celoso_adj": {
+    "primary": "jaloux_adj"
+  },
+  "ultimo_adj": {
+    "primary": "dernier_adj"
+  },
+  "local_adj": {
+    "primary": "local_adj"
+  },
+  "moderno_adj": {
+    "primary": "moderne_adj"
+  },
+  "nacional_adj": {
+    "primary": "national_adj"
+  },
+  "proximo_adj": {
+    "primary": "prochain_adj"
+  },
+  "otro_adj": {
+    "primary": "autre_adj"
+  },
+  "preparado_adj": {
+    "primary": "prepare_adj"
+  },
+  "anterior_adj": {
+    "primary": "precedent_adj"
+  },
+  "mismo_adj": {
+    "primary": "meme_adj"
+  },
+  "tacano_adj": {
+    "primary": "avare_adj"
+  },
+  "incomodo_adj": {
+    "primary": "inconfortable_adj"
+  },
+  "desagradable_adj": {
+    "primary": "desagreable_adj"
+  },
+  "antipatico_adj": {
+    "primary": "antipathique_adj"
+  },
+  "inutil_adj": {
+    "primary": "inutile_adj"
+  },
+  "cansado_adj": {
+    "primary": "epuise_adj"
+  },
+  "famoso_adj": {
+    "primary": "connu_adj"
+  },
+  "profesional_adj": {
+    "primary": "professionnel_adj"
+  },
+  "sano_adj": {
+    "primary": "sain_adj"
+  },
+  "ventoso_adj": {
+    "primary": "venteux_adj"
+  }
+}
