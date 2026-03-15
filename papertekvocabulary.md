@@ -316,7 +316,7 @@ The `linkedTo` field on export entries contains resolved translations to other l
 
 Not all link entries have examples/alternatives/synonyms — only `primary` and `translation` are guaranteed.
 
-24 bidirectional link pairs connect all language combinations.
+30 bidirectional link pairs connect all language combinations (de↔en, de↔es, de↔fr, de↔nb, de↔nn, en↔es, en↔fr, en↔nb, en↔nn, es↔fr, es↔nb, es↔nn, fr↔nb, fr↔nn, nb↔nn). All pairs have 83%+ coverage — students can look up any word and find translations in all other languages.
 
 ## Consumer patterns
 
@@ -353,6 +353,21 @@ Use `/v3/search`, `/v3/lookup`, and `/v3/translate` endpoints for real-time look
 ## CORS
 
 All endpoints return `Access-Control-Allow-Origin: *`. Safe to call from any browser application.
+
+## Enrichment coverage
+
+All entries have: word, type, CEFR level, explanation, examples (sentence pairs with Norwegian translation), and audio pronunciation.
+
+| Feature | DE | EN | ES | FR | NB | NN |
+|---------|-----|-----|-----|-----|-----|-----|
+| CEFR | 100% | 100% | 100% | 100% | 100% | 100% |
+| Conjugations | 100% | 99.9% | 100% | 100% | 100% | 100% |
+| Noun forms | 100% | 100% | 100% | 100% | 100% | 100% |
+| Adj comparison | 100% | 99.8% | 97% | 99% | 100% | 100% |
+| Explanations | 100% | 100% | 100% | 100% | 100% | 100% |
+| Examples | 100% | 100% | 100% | 100% | 100% | 100% |
+| Audio | 100% | 100% | 100% | 100% | 100% | 100% |
+| Typos | 60% | 26% | 44% | 48% | 52% | 55% |
 
 ## Data pipeline
 
