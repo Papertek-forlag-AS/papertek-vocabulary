@@ -1,5 +1,6 @@
 import fs from 'fs';
 import path from 'path';
+import crypto from 'crypto';
 
 const corsHeaders = {
   'Access-Control-Allow-Origin': '*',
@@ -10,6 +11,18 @@ const corsHeaders = {
 
 function setCors(res) {
   Object.entries(corsHeaders).forEach(([key, value]) => res.setHeader(key, value));
+}
+
+function computeContentHash(langPath) {
+  const bankFiles = fs.readdirSync(langPath)
+    .filter(f => f.endsWith('bank.json'))
+    .sort();
+
+  const hash = crypto.createHash('sha256');
+  for (const file of bankFiles) {
+    hash.update(fs.readFileSync(path.join(langPath, file)));
+  }
+  return hash.digest('hex').substring(0, 8);
 }
 
 export default async function handler(req, res) {
@@ -29,10 +42,13 @@ export default async function handler(req, res) {
       const manifestPath = path.join(lexiconPath, lang, 'manifest.json');
       if (fs.existsSync(manifestPath)) {
         const manifest = JSON.parse(fs.readFileSync(manifestPath, 'utf8'));
+        const langPath = path.join(lexiconPath, lang);
         languages[lang] = {
           totalWords: manifest.summary?.totalWords || 0,
           enrichedWords: manifest.summary?.enrichedWords || manifest.summary?.totalWords || 0,
           banks: manifest.banks || {},
+          version: computeContentHash(langPath),
+          exportEndpoint: `/api/vocab/v3/export/${lang}`,
           lookupEndpoint: `/api/vocab/v3/lookup/${lang}/{wordId}`,
           searchEndpoint: `/api/vocab/v3/search/${lang}`,
           listEndpoint: `/api/vocab/v3/list/${lang}`,
