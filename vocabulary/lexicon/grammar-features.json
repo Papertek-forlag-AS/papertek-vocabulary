@@ -422,6 +422,36 @@
         "dataPath": "conjugations.presens"
       },
       {
+        "id": "grammar_es_preteritum",
+        "name": "Pretérito indefinido",
+        "nameEn": "Simple Past",
+        "description": "Enkel fortid — fullførte handlingar (hablé, comí)",
+        "descriptionEn": "Simple past tense for completed actions",
+        "category": "verbs",
+        "appliesTo": ["verb"],
+        "dataPath": "conjugations.preteritum"
+      },
+      {
+        "id": "grammar_es_perfektum",
+        "name": "Pretérito perfecto",
+        "nameEn": "Present Perfect",
+        "description": "Samansett fortid med haber + partisipp (he hablado)",
+        "descriptionEn": "Present perfect with haber + past participle",
+        "category": "verbs",
+        "appliesTo": ["verb"],
+        "dataPath": "conjugations.perfektum"
+      },
+      {
+        "id": "grammar_es_verb_class",
+        "name": "Grupo verbal",
+        "nameEn": "Verb Group",
+        "description": "Verbgruppe: -ar, -er, -ir eller uregelmessig",
+        "descriptionEn": "Verb group: -ar, -er, -ir, or irregular",
+        "category": "verbs",
+        "appliesTo": ["verb"],
+        "dataPath": "verbClass"
+      },
+      {
         "id": "grammar_es_genus",
         "name": "Artículos",
         "nameEn": "Articles/Gender",
@@ -461,6 +491,36 @@
         "category": "verbs",
         "appliesTo": ["verb"],
         "dataPath": "conjugations.presens"
+      },
+      {
+        "id": "grammar_fr_imparfait",
+        "name": "Imparfait",
+        "nameEn": "Imperfect",
+        "description": "Fortid — vedvarande eller gjentekne handlingar (je parlais)",
+        "descriptionEn": "Imperfect tense for ongoing or habitual past actions",
+        "category": "verbs",
+        "appliesTo": ["verb"],
+        "dataPath": "conjugations.imparfait"
+      },
+      {
+        "id": "grammar_fr_passe_compose",
+        "name": "Passé composé",
+        "nameEn": "Present Perfect",
+        "description": "Samansett fortid med avoir/être + partisipp (j'ai parlé)",
+        "descriptionEn": "Present perfect with avoir/être + past participle",
+        "category": "verbs",
+        "appliesTo": ["verb"],
+        "dataPath": "conjugations.passe_compose"
+      },
+      {
+        "id": "grammar_fr_verb_class",
+        "name": "Groupe verbal",
+        "nameEn": "Verb Group",
+        "description": "Verbgruppe: -er, -ir, -re eller uregelmessig",
+        "descriptionEn": "Verb group: -er, -ir, -re, or irregular",
+        "category": "verbs",
+        "appliesTo": ["verb"],
+        "dataPath": "verbClass"
       },
       {
         "id": "grammar_fr_genus",

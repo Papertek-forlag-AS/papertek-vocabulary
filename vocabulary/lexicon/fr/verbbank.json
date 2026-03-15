@@ -12,98 +12,227 @@
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "achète",
-          "achètes",
-          "achète",
-          "achetons",
-          "achetez",
-          "achètent"
-        ]
+        "former": {
+          "je": "achète",
+          "tu": "achètes",
+          "il/elle": "achète",
+          "nous": "achetons",
+          "vous": "achetez",
+          "ils/elles": "achètent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "achetais",
+          "tu": "achetais",
+          "il/elle": "achetait",
+          "nous": "achetions",
+          "vous": "achetiez",
+          "ils/elles": "achetaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "acheté",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai acheté",
+          "tu": "as acheté",
+          "il/elle": "a acheté",
+          "nous": "avons acheté",
+          "vous": "avez acheté",
+          "ils/elles": "ont acheté"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "verb_acheter.mp3",
     "frequency": 733,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "-er"
   },
   "adorer_verbe": {
     "word": "adorer",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "adore",
-          "adores",
-          "adore",
-          "adorons",
-          "adorez",
-          "adorent"
-        ]
+        "former": {
+          "je": "adore",
+          "tu": "adores",
+          "il/elle": "adore",
+          "nous": "adorons",
+          "vous": "adorez",
+          "ils/elles": "adorent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "adorais",
+          "tu": "adorais",
+          "il/elle": "adorait",
+          "nous": "adorions",
+          "vous": "adoriez",
+          "ils/elles": "adoraient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "adoré",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai adoré",
+          "tu": "as adoré",
+          "il/elle": "a adoré",
+          "nous": "avons adoré",
+          "vous": "avez adoré",
+          "ils/elles": "ont adoré"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "adorer_verbe.mp3",
     "frequency": 3344,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "-er"
   },
   "aider_verbe": {
     "word": "aider",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "aide",
-          "aides",
-          "aide",
-          "aidons",
-          "aidez",
-          "aident"
-        ]
+        "former": {
+          "je": "aide",
+          "tu": "aides",
+          "il/elle": "aide",
+          "nous": "aidons",
+          "vous": "aidez",
+          "ils/elles": "aident"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "aidais",
+          "tu": "aidais",
+          "il/elle": "aidait",
+          "nous": "aidions",
+          "vous": "aidiez",
+          "ils/elles": "aidaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "aidé",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai aidé",
+          "tu": "as aidé",
+          "il/elle": "a aidé",
+          "nous": "avons aidé",
+          "vous": "avez aidé",
+          "ils/elles": "ont aidé"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "verb_aider.mp3",
     "frequency": 216,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "-er"
   },
   "aimer_verbe": {
     "word": "aimer",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "aime",
-          "aimes",
-          "aime",
-          "aimons",
-          "aimez",
-          "aiment"
-        ]
+        "former": {
+          "je": "aime",
+          "tu": "aimes",
+          "il/elle": "aime",
+          "nous": "aimons",
+          "vous": "aimez",
+          "ils/elles": "aiment"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "aimais",
+          "tu": "aimais",
+          "il/elle": "aimait",
+          "nous": "aimions",
+          "vous": "aimiez",
+          "ils/elles": "aimaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "aimé",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai aimé",
+          "tu": "as aimé",
+          "il/elle": "a aimé",
+          "nous": "avons aimé",
+          "vous": "avez aimé",
+          "ils/elles": "ont aimé"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "verb_aimer.mp3",
     "frequency": 976,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "-er"
   },
   "aller_verbe": {
     "word": "aller",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "vais",
-          "vas",
-          "va",
-          "allons",
-          "allez",
-          "vont"
-        ]
+        "former": {
+          "je": "vais",
+          "tu": "vas",
+          "il/elle": "va",
+          "nous": "allons",
+          "vous": "allez",
+          "ils/elles": "vont"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "allais",
+          "tu": "allais",
+          "il/elle": "allait",
+          "nous": "allions",
+          "vous": "alliez",
+          "ils/elles": "allaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "allé",
+        "auxiliary": "être",
+        "former": {
+          "je": "suis allé",
+          "tu": "es allé",
+          "il/elle": "est allé",
+          "nous": "sommes allé",
+          "vous": "êtes allé",
+          "ils/elles": "sont allé"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
@@ -113,63 +242,141 @@
     ],
     "audio": "verb_aller.mp3",
     "frequency": 131,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "irregular"
   },
   "appeler_verbe": {
     "word": "appeler",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "appelle",
-          "appelles",
-          "appelle",
-          "appelons",
-          "appelez",
-          "appellent"
-        ]
+        "former": {
+          "je": "appelle",
+          "tu": "appelles",
+          "il/elle": "appelle",
+          "nous": "appelons",
+          "vous": "appelez",
+          "ils/elles": "appellent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "appelais",
+          "tu": "appelais",
+          "il/elle": "appelait",
+          "nous": "appelions",
+          "vous": "appeliez",
+          "ils/elles": "appelaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "appelé",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai appelé",
+          "tu": "as appelé",
+          "il/elle": "a appelé",
+          "nous": "avons appelé",
+          "vous": "avez appelé",
+          "ils/elles": "ont appelé"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "verb_appeler.mp3",
     "frequency": 434,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "-er"
   },
   "applaudir_verbe": {
     "word": "applaudir",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "applaudis",
-          "applaudis",
-          "applaudit",
-          "applaudissons",
-          "applaudissez",
-          "applaudissent"
-        ]
+        "former": {
+          "je": "applaudis",
+          "tu": "applaudis",
+          "il/elle": "applaudit",
+          "nous": "applaudissons",
+          "vous": "applaudissez",
+          "ils/elles": "applaudissent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "applaudissais",
+          "tu": "applaudissais",
+          "il/elle": "applaudissait",
+          "nous": "applaudissions",
+          "vous": "applaudissiez",
+          "ils/elles": "applaudissaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "applaudi",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai applaudi",
+          "tu": "as applaudi",
+          "il/elle": "a applaudi",
+          "nous": "avons applaudi",
+          "vous": "avez applaudi",
+          "ils/elles": "ont applaudi"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "applaudir_verbe.mp3",
     "frequency": 13139,
-    "cefr": "B1"
+    "cefr": "B1",
+    "verbClass": "-ir"
   },
   "arriver_verbe": {
     "word": "arriver",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "arrive",
-          "arrives",
-          "arrive",
-          "arrivons",
-          "arrivez",
-          "arrivent"
-        ]
+        "former": {
+          "je": "arrive",
+          "tu": "arrives",
+          "il/elle": "arrive",
+          "nous": "arrivons",
+          "vous": "arrivez",
+          "ils/elles": "arrivent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "arrivais",
+          "tu": "arrivais",
+          "il/elle": "arrivait",
+          "nous": "arrivions",
+          "vous": "arriviez",
+          "ils/elles": "arrivaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "arrivé",
+        "auxiliary": "être",
+        "former": {
+          "je": "suis arrivé",
+          "tu": "es arrivé",
+          "il/elle": "est arrivé",
+          "nous": "sommes arrivé",
+          "vous": "êtes arrivé",
+          "ils/elles": "sont arrivé"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
@@ -179,21 +386,47 @@
     ],
     "audio": "arriver_verbe.mp3",
     "frequency": 461,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "-er"
   },
   "attendre_verbe": {
     "word": "attendre",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "attends",
-          "attends",
-          "attend",
-          "attendons",
-          "attendez",
-          "attendent"
-        ]
+        "former": {
+          "je": "attends",
+          "tu": "attends",
+          "il/elle": "attend",
+          "nous": "attendons",
+          "vous": "attendez",
+          "ils/elles": "attendent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "attendais",
+          "tu": "attendais",
+          "il/elle": "attendait",
+          "nous": "attendions",
+          "vous": "attendiez",
+          "ils/elles": "attendaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "attendu",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai attendu",
+          "tu": "as attendu",
+          "il/elle": "a attendu",
+          "nous": "avons attendu",
+          "vous": "avez attendu",
+          "ils/elles": "ont attendu"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
@@ -203,126 +436,282 @@
     ],
     "audio": "verb_attendre.mp3",
     "frequency": 486,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "-re"
   },
   "avoir_verbe": {
     "word": "avoir",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "ai",
-          "as",
-          "a",
-          "avons",
-          "avez",
-          "ont"
-        ]
+        "former": {
+          "je": "ai",
+          "tu": "as",
+          "il/elle": "a",
+          "nous": "avons",
+          "vous": "avez",
+          "ils/elles": "ont"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "avais",
+          "tu": "avais",
+          "il/elle": "avait",
+          "nous": "avions",
+          "vous": "aviez",
+          "ils/elles": "avaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "eu",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai eu",
+          "tu": "as eu",
+          "il/elle": "a eu",
+          "nous": "avons eu",
+          "vous": "avez eu",
+          "ils/elles": "ont eu"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "verb_avoir.mp3",
     "frequency": 101,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "irregular"
   },
   "boire_verbe": {
     "word": "boire",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "bois",
-          "bois",
-          "boit",
-          "buvons",
-          "buvez",
-          "boivent"
-        ]
+        "former": {
+          "je": "bois",
+          "tu": "bois",
+          "il/elle": "boit",
+          "nous": "buvons",
+          "vous": "buvez",
+          "ils/elles": "boivent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "buvais",
+          "tu": "buvais",
+          "il/elle": "buvait",
+          "nous": "buvions",
+          "vous": "buviez",
+          "ils/elles": "buvaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "bu",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai bu",
+          "tu": "as bu",
+          "il/elle": "a bu",
+          "nous": "avons bu",
+          "vous": "avez bu",
+          "ils/elles": "ont bu"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "verb_boire.mp3",
     "frequency": 676,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "irregular"
   },
   "chanter_verbe": {
     "word": "chanter",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "chante",
-          "chantes",
-          "chante",
-          "chantons",
-          "chantez",
-          "chantent"
-        ]
+        "former": {
+          "je": "chante",
+          "tu": "chantes",
+          "il/elle": "chante",
+          "nous": "chantons",
+          "vous": "chantez",
+          "ils/elles": "chantent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "chantais",
+          "tu": "chantais",
+          "il/elle": "chantait",
+          "nous": "chantions",
+          "vous": "chantiez",
+          "ils/elles": "chantaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "chanté",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai chanté",
+          "tu": "as chanté",
+          "il/elle": "a chanté",
+          "nous": "avons chanté",
+          "vous": "avez chanté",
+          "ils/elles": "ont chanté"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "verb_chanter.mp3",
     "frequency": 1394,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "-er"
   },
   "chercher_verbe": {
     "word": "chercher",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "cherche",
-          "cherches",
-          "cherche",
-          "cherchons",
-          "cherchez",
-          "cherchent"
-        ]
+        "former": {
+          "je": "cherche",
+          "tu": "cherches",
+          "il/elle": "cherche",
+          "nous": "cherchons",
+          "vous": "cherchez",
+          "ils/elles": "cherchent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "cherchais",
+          "tu": "cherchais",
+          "il/elle": "cherchait",
+          "nous": "cherchions",
+          "vous": "cherchiez",
+          "ils/elles": "cherchaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "cherché",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai cherché",
+          "tu": "as cherché",
+          "il/elle": "a cherché",
+          "nous": "avons cherché",
+          "vous": "avez cherché",
+          "ils/elles": "ont cherché"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "chercher_verbe.mp3",
     "frequency": 318,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "-er"
   },
   "choisir_verbe": {
     "word": "choisir",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "choisis",
-          "choisis",
-          "choisit",
-          "choisissons",
-          "choisissez",
-          "choisissent"
-        ]
+        "former": {
+          "je": "choisis",
+          "tu": "choisis",
+          "il/elle": "choisit",
+          "nous": "choisissons",
+          "vous": "choisissez",
+          "ils/elles": "choisissent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "choisissais",
+          "tu": "choisissais",
+          "il/elle": "choisissait",
+          "nous": "choisissions",
+          "vous": "choisissiez",
+          "ils/elles": "choisissaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "choisi",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai choisi",
+          "tu": "as choisi",
+          "il/elle": "a choisi",
+          "nous": "avons choisi",
+          "vous": "avez choisi",
+          "ils/elles": "ont choisi"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "choisir_verbe.mp3",
     "frequency": 1341,
-    "cefr": "B1"
+    "cefr": "B1",
+    "verbClass": "-ir"
   },
   "commencer_verbe": {
     "word": "commencer",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "commence",
-          "commences",
-          "commence",
-          "commençons",
-          "commencez",
-          "commencent"
-        ]
+        "former": {
+          "je": "commence",
+          "tu": "commences",
+          "il/elle": "commence",
+          "nous": "commençons",
+          "vous": "commencez",
+          "ils/elles": "commencent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "commençais",
+          "tu": "commençais",
+          "il/elle": "commençait",
+          "nous": "commençions",
+          "vous": "commençiez",
+          "ils/elles": "commençaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "commencé",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai commencé",
+          "tu": "as commencé",
+          "il/elle": "a commencé",
+          "nous": "avons commencé",
+          "vous": "avez commencé",
+          "ils/elles": "ont commencé"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
@@ -332,21 +721,47 @@
     ],
     "audio": "verb_commencer.mp3",
     "frequency": 696,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "-er"
   },
   "connaitre_verbe": {
     "word": "connaître",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "connais",
-          "connais",
-          "connaît",
-          "connaissons",
-          "connaissez",
-          "connaissent"
-        ]
+        "former": {
+          "je": "connais",
+          "tu": "connais",
+          "il/elle": "connaît",
+          "nous": "connaissons",
+          "vous": "connaissez",
+          "ils/elles": "connaissent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "connaissais",
+          "tu": "connaissais",
+          "il/elle": "connaissait",
+          "nous": "connaissions",
+          "vous": "connaissiez",
+          "ils/elles": "connaissaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "connu",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai connu",
+          "tu": "as connu",
+          "il/elle": "a connu",
+          "nous": "avons connu",
+          "vous": "avez connu",
+          "ils/elles": "ont connu"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
@@ -360,126 +775,282 @@
     ],
     "audio": "verb_connaitre.mp3",
     "frequency": 933,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "irregular"
   },
   "croire_verbe": {
     "word": "croire",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "crois",
-          "crois",
-          "croit",
-          "croyons",
-          "croyez",
-          "croient"
-        ]
+        "former": {
+          "je": "crois",
+          "tu": "crois",
+          "il/elle": "croit",
+          "nous": "croyons",
+          "vous": "croyez",
+          "ils/elles": "croient"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "croyais",
+          "tu": "croyais",
+          "il/elle": "croyait",
+          "nous": "croyions",
+          "vous": "croyiez",
+          "ils/elles": "croyaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "cru",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai cru",
+          "tu": "as cru",
+          "il/elle": "a cru",
+          "nous": "avons cru",
+          "vous": "avez cru",
+          "ils/elles": "ont cru"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "verb_croire.mp3",
     "frequency": 410,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "irregular"
   },
   "cuisiner_verbe": {
     "word": "cuisiner",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "cuisine",
-          "cuisines",
-          "cuisine",
-          "cuisinons",
-          "cuisinez",
-          "cuisinent"
-        ]
+        "former": {
+          "je": "cuisine",
+          "tu": "cuisines",
+          "il/elle": "cuisine",
+          "nous": "cuisinons",
+          "vous": "cuisinez",
+          "ils/elles": "cuisinent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "cuisinais",
+          "tu": "cuisinais",
+          "il/elle": "cuisinait",
+          "nous": "cuisinions",
+          "vous": "cuisiniez",
+          "ils/elles": "cuisinaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "cuisiné",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai cuisiné",
+          "tu": "as cuisiné",
+          "il/elle": "a cuisiné",
+          "nous": "avons cuisiné",
+          "vous": "avez cuisiné",
+          "ils/elles": "ont cuisiné"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "verb_cuisiner.mp3",
     "frequency": 3945,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "-er"
   },
   "danser_verbe": {
     "word": "danser",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "danse",
-          "danses",
-          "danse",
-          "dansons",
-          "dansez",
-          "dansent"
-        ]
+        "former": {
+          "je": "danse",
+          "tu": "danses",
+          "il/elle": "danse",
+          "nous": "dansons",
+          "vous": "dansez",
+          "ils/elles": "dansent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "dansais",
+          "tu": "dansais",
+          "il/elle": "dansait",
+          "nous": "dansions",
+          "vous": "dansiez",
+          "ils/elles": "dansaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "dansé",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai dansé",
+          "tu": "as dansé",
+          "il/elle": "a dansé",
+          "nous": "avons dansé",
+          "vous": "avez dansé",
+          "ils/elles": "ont dansé"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "verb_danser.mp3",
     "frequency": 1294,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "-er"
   },
   "demander_verbe": {
     "word": "demander",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "demande",
-          "demandes",
-          "demande",
-          "demandons",
-          "demandez",
-          "demandent"
-        ]
+        "former": {
+          "je": "demande",
+          "tu": "demandes",
+          "il/elle": "demande",
+          "nous": "demandons",
+          "vous": "demandez",
+          "ils/elles": "demandent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "demandais",
+          "tu": "demandais",
+          "il/elle": "demandait",
+          "nous": "demandions",
+          "vous": "demandiez",
+          "ils/elles": "demandaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "demandé",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai demandé",
+          "tu": "as demandé",
+          "il/elle": "a demandé",
+          "nous": "avons demandé",
+          "vous": "avez demandé",
+          "ils/elles": "ont demandé"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "verb_demander.mp3",
     "frequency": 424,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "-er"
   },
   "descendre_verbe": {
     "word": "descendre",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "descends",
-          "descends",
-          "descend",
-          "descendons",
-          "descendez",
-          "descendent"
-        ]
+        "former": {
+          "je": "descends",
+          "tu": "descends",
+          "il/elle": "descend",
+          "nous": "descendons",
+          "vous": "descendez",
+          "ils/elles": "descendent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "descendais",
+          "tu": "descendais",
+          "il/elle": "descendait",
+          "nous": "descendions",
+          "vous": "descendiez",
+          "ils/elles": "descendaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "descendu",
+        "auxiliary": "être",
+        "former": {
+          "je": "suis descendu",
+          "tu": "es descendu",
+          "il/elle": "est descendu",
+          "nous": "sommes descendu",
+          "vous": "êtes descendu",
+          "ils/elles": "sont descendu"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "descendre_verbe.mp3",
     "frequency": 1452,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "irregular"
   },
   "detester_verbe": {
     "word": "détester",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "déteste",
-          "détestes",
-          "déteste",
-          "détestons",
-          "détestez",
-          "détestent"
-        ]
+        "former": {
+          "je": "déteste",
+          "tu": "détestes",
+          "il/elle": "déteste",
+          "nous": "détestons",
+          "vous": "détestez",
+          "ils/elles": "détestent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "détestais",
+          "tu": "détestais",
+          "il/elle": "détestait",
+          "nous": "détestions",
+          "vous": "détestiez",
+          "ils/elles": "détestaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "détesté",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai détesté",
+          "tu": "as détesté",
+          "il/elle": "a détesté",
+          "nous": "avons détesté",
+          "vous": "avez détesté",
+          "ils/elles": "ont détesté"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
@@ -492,63 +1063,141 @@
     ],
     "audio": "detester_verbe.mp3",
     "frequency": 5594,
-    "cefr": "B1"
+    "cefr": "B1",
+    "verbClass": "-er"
   },
   "devoir_verbe": {
     "word": "devoir",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "dois",
-          "dois",
-          "doit",
-          "devons",
-          "devez",
-          "doivent"
-        ]
+        "former": {
+          "je": "dois",
+          "tu": "dois",
+          "il/elle": "doit",
+          "nous": "devons",
+          "vous": "devez",
+          "ils/elles": "doivent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "devais",
+          "tu": "devais",
+          "il/elle": "devait",
+          "nous": "devions",
+          "vous": "deviez",
+          "ils/elles": "devaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "dû",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai dû",
+          "tu": "as dû",
+          "il/elle": "a dû",
+          "nous": "avons dû",
+          "vous": "avez dû",
+          "ils/elles": "ont dû"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "verb_devoir.mp3",
     "frequency": 563,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "irregular"
   },
   "dire_verbe": {
     "word": "dire",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "dis",
-          "dis",
-          "dit",
-          "disons",
-          "dites",
-          "disent"
-        ]
+        "former": {
+          "je": "dis",
+          "tu": "dis",
+          "il/elle": "dit",
+          "nous": "disons",
+          "vous": "dites",
+          "ils/elles": "disent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "disais",
+          "tu": "disais",
+          "il/elle": "disait",
+          "nous": "disions",
+          "vous": "disiez",
+          "ils/elles": "disaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "dit",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai dit",
+          "tu": "as dit",
+          "il/elle": "a dit",
+          "nous": "avons dit",
+          "vous": "avez dit",
+          "ils/elles": "ont dit"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "verb_dire.mp3",
     "frequency": 83,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "irregular"
   },
   "donner_verbe": {
     "word": "donner",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "donne",
-          "donnes",
-          "donne",
-          "donnons",
-          "donnez",
-          "donnent"
-        ]
+        "former": {
+          "je": "donne",
+          "tu": "donnes",
+          "il/elle": "donne",
+          "nous": "donnons",
+          "vous": "donnez",
+          "ils/elles": "donnent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "donnais",
+          "tu": "donnais",
+          "il/elle": "donnait",
+          "nous": "donnions",
+          "vous": "donniez",
+          "ils/elles": "donnaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "donné",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai donné",
+          "tu": "as donné",
+          "il/elle": "a donné",
+          "nous": "avons donné",
+          "vous": "avez donné",
+          "ils/elles": "ont donné"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
@@ -558,42 +1207,94 @@
     ],
     "audio": "verb_donner.mp3",
     "frequency": 351,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "-er"
   },
   "dormir_verbe": {
     "word": "dormir",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "dors",
-          "dors",
-          "dort",
-          "dormons",
-          "dormez",
-          "dorment"
-        ]
+        "former": {
+          "je": "dors",
+          "tu": "dors",
+          "il/elle": "dort",
+          "nous": "dormons",
+          "vous": "dormez",
+          "ils/elles": "dorment"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "dormais",
+          "tu": "dormais",
+          "il/elle": "dormait",
+          "nous": "dormions",
+          "vous": "dormiez",
+          "ils/elles": "dormaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "dormi",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai dormi",
+          "tu": "as dormi",
+          "il/elle": "a dormi",
+          "nous": "avons dormi",
+          "vous": "avez dormi",
+          "ils/elles": "ont dormi"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "verb_dormir.mp3",
     "frequency": 707,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "irregular"
   },
   "ecouter_verbe": {
     "word": "écouter",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "écoute",
-          "écoutes",
-          "écoute",
-          "écoutons",
-          "écoutez",
-          "écoutent"
-        ]
+        "former": {
+          "je": "écoute",
+          "tu": "écoutes",
+          "il/elle": "écoute",
+          "nous": "écoutons",
+          "vous": "écoutez",
+          "ils/elles": "écoutent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "écoutais",
+          "tu": "écoutais",
+          "il/elle": "écoutait",
+          "nous": "écoutions",
+          "vous": "écoutiez",
+          "ils/elles": "écoutaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "écouté",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai écouté",
+          "tu": "as écouté",
+          "il/elle": "a écouté",
+          "nous": "avons écouté",
+          "vous": "avez écouté",
+          "ils/elles": "ont écouté"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
@@ -606,21 +1307,47 @@
     ],
     "audio": "ecouter_verbe.mp3",
     "frequency": 980,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "-er"
   },
   "ecrire_verbe": {
     "word": "écrire",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "écris",
-          "écris",
-          "écrit",
-          "écrivons",
-          "écrivez",
-          "écrivent"
-        ]
+        "former": {
+          "je": "écris",
+          "tu": "écris",
+          "il/elle": "écrit",
+          "nous": "écrivons",
+          "vous": "écrivez",
+          "ils/elles": "écrivent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "écrivais",
+          "tu": "écrivais",
+          "il/elle": "écrivait",
+          "nous": "écrivions",
+          "vous": "écriviez",
+          "ils/elles": "écrivaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "écrit",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai écrit",
+          "tu": "as écrit",
+          "il/elle": "a écrit",
+          "nous": "avons écrit",
+          "vous": "avez écrit",
+          "ils/elles": "ont écrit"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
@@ -633,63 +1360,141 @@
     ],
     "audio": "verb_ecrire.mp3",
     "frequency": 1047,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "irregular"
   },
   "entendre_verbe": {
     "word": "entendre",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "entends",
-          "entends",
-          "entend",
-          "entendons",
-          "entendez",
-          "entendent"
-        ]
+        "former": {
+          "je": "entends",
+          "tu": "entends",
+          "il/elle": "entend",
+          "nous": "entendons",
+          "vous": "entendez",
+          "ils/elles": "entendent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "entendais",
+          "tu": "entendais",
+          "il/elle": "entendait",
+          "nous": "entendions",
+          "vous": "entendiez",
+          "ils/elles": "entendaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "entendu",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai entendu",
+          "tu": "as entendu",
+          "il/elle": "a entendu",
+          "nous": "avons entendu",
+          "vous": "avez entendu",
+          "ils/elles": "ont entendu"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "verb_entendre.mp3",
     "frequency": 537,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "-re"
   },
   "entrer_verbe": {
     "word": "entrer",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "entre",
-          "entres",
-          "entre",
-          "entrons",
-          "entrez",
-          "entrent"
-        ]
+        "former": {
+          "je": "entre",
+          "tu": "entres",
+          "il/elle": "entre",
+          "nous": "entrons",
+          "vous": "entrez",
+          "ils/elles": "entrent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "entrais",
+          "tu": "entrais",
+          "il/elle": "entrait",
+          "nous": "entrions",
+          "vous": "entriez",
+          "ils/elles": "entraient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "entré",
+        "auxiliary": "être",
+        "former": {
+          "je": "suis entré",
+          "tu": "es entré",
+          "il/elle": "est entré",
+          "nous": "sommes entré",
+          "vous": "êtes entré",
+          "ils/elles": "sont entré"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "entrer_verbe.mp3",
     "frequency": 540,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "-er"
   },
   "etre_verbe": {
     "word": "être",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "suis",
-          "es",
-          "est",
-          "sommes",
-          "êtes",
-          "sont"
-        ]
+        "former": {
+          "je": "suis",
+          "tu": "es",
+          "il/elle": "est",
+          "nous": "sommes",
+          "vous": "êtes",
+          "ils/elles": "sont"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "étais",
+          "tu": "étais",
+          "il/elle": "était",
+          "nous": "étions",
+          "vous": "étiez",
+          "ils/elles": "étaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "été",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai été",
+          "tu": "as été",
+          "il/elle": "a été",
+          "nous": "avons été",
+          "vous": "avez été",
+          "ils/elles": "ont été"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
@@ -702,21 +1507,47 @@
     ],
     "audio": "verb_etre.mp3",
     "frequency": 65,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "irregular"
   },
   "etudier_verbe": {
     "word": "étudier",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "étudie",
-          "étudies",
-          "étudie",
-          "étudions",
-          "étudiez",
-          "étudient"
-        ]
+        "former": {
+          "je": "étudie",
+          "tu": "étudies",
+          "il/elle": "étudie",
+          "nous": "étudions",
+          "vous": "étudiez",
+          "ils/elles": "étudient"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "étudiais",
+          "tu": "étudiais",
+          "il/elle": "étudiait",
+          "nous": "étudiions",
+          "vous": "étudiiez",
+          "ils/elles": "étudiaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "étudié",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai étudié",
+          "tu": "as étudié",
+          "il/elle": "a étudié",
+          "nous": "avons étudié",
+          "vous": "avez étudié",
+          "ils/elles": "ont étudié"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
@@ -729,126 +1560,282 @@
     ],
     "audio": "etudier_verbe.mp3",
     "frequency": 2492,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "-er"
   },
   "expliquer_verbe": {
     "word": "expliquer",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "explique",
-          "expliques",
-          "explique",
-          "expliquons",
-          "expliquez",
-          "expliquent"
-        ]
+        "former": {
+          "je": "explique",
+          "tu": "expliques",
+          "il/elle": "explique",
+          "nous": "expliquons",
+          "vous": "expliquez",
+          "ils/elles": "expliquent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "expliquais",
+          "tu": "expliquais",
+          "il/elle": "expliquait",
+          "nous": "expliquions",
+          "vous": "expliquiez",
+          "ils/elles": "expliquaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "expliqué",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai expliqué",
+          "tu": "as expliqué",
+          "il/elle": "a expliqué",
+          "nous": "avons expliqué",
+          "vous": "avez expliqué",
+          "ils/elles": "ont expliqué"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "verb_expliquer.mp3",
     "frequency": 860,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "-er"
   },
   "faire_verbe": {
     "word": "faire",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "fais",
-          "fais",
-          "fait",
-          "faisons",
-          "faites",
-          "font"
-        ]
+        "former": {
+          "je": "fais",
+          "tu": "fais",
+          "il/elle": "fait",
+          "nous": "faisons",
+          "vous": "faites",
+          "ils/elles": "font"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "faisais",
+          "tu": "faisais",
+          "il/elle": "faisait",
+          "nous": "faisions",
+          "vous": "faisiez",
+          "ils/elles": "faisaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "fait",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai fait",
+          "tu": "as fait",
+          "il/elle": "a fait",
+          "nous": "avons fait",
+          "vous": "avez fait",
+          "ils/elles": "ont fait"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "verb_faire.mp3",
     "frequency": 58,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "irregular"
   },
   "fermer_verbe": {
     "word": "fermer",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "ferme",
-          "fermes",
-          "ferme",
-          "fermons",
-          "fermez",
-          "ferment"
-        ]
+        "former": {
+          "je": "ferme",
+          "tu": "fermes",
+          "il/elle": "ferme",
+          "nous": "fermons",
+          "vous": "fermez",
+          "ils/elles": "ferment"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "fermais",
+          "tu": "fermais",
+          "il/elle": "fermait",
+          "nous": "fermions",
+          "vous": "fermiez",
+          "ils/elles": "fermaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "fermé",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai fermé",
+          "tu": "as fermé",
+          "il/elle": "a fermé",
+          "nous": "avons fermé",
+          "vous": "avez fermé",
+          "ils/elles": "ont fermé"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "fermer_verbe.mp3",
     "frequency": 1546,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "-er"
   },
   "finir_verbe": {
     "word": "finir",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "finis",
-          "finis",
-          "finit",
-          "finissons",
-          "finissez",
-          "finissent"
-        ]
+        "former": {
+          "je": "finis",
+          "tu": "finis",
+          "il/elle": "finit",
+          "nous": "finissons",
+          "vous": "finissez",
+          "ils/elles": "finissent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "finissais",
+          "tu": "finissais",
+          "il/elle": "finissait",
+          "nous": "finissions",
+          "vous": "finissiez",
+          "ils/elles": "finissaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "fini",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai fini",
+          "tu": "as fini",
+          "il/elle": "a fini",
+          "nous": "avons fini",
+          "vous": "avez fini",
+          "ils/elles": "ont fini"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "verb_finir.mp3",
     "frequency": 797,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "-ir"
   },
   "grandir_verbe": {
     "word": "grandir",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "grandis",
-          "grandis",
-          "grandit",
-          "grandissons",
-          "grandissez",
-          "grandissent"
-        ]
+        "former": {
+          "je": "grandis",
+          "tu": "grandis",
+          "il/elle": "grandit",
+          "nous": "grandissons",
+          "vous": "grandissez",
+          "ils/elles": "grandissent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "grandissais",
+          "tu": "grandissais",
+          "il/elle": "grandissait",
+          "nous": "grandissions",
+          "vous": "grandissiez",
+          "ils/elles": "grandissaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "grandi",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai grandi",
+          "tu": "as grandi",
+          "il/elle": "a grandi",
+          "nous": "avons grandi",
+          "vous": "avez grandi",
+          "ils/elles": "ont grandi"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "grandir_verbe.mp3",
     "frequency": 3902,
-    "cefr": "B1"
+    "cefr": "B1",
+    "verbClass": "-ir"
   },
   "guerir_verbe": {
     "word": "guérir",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "guéris",
-          "guéris",
-          "guérit",
-          "guérissons",
-          "guérissez",
-          "guérissent"
-        ]
+        "former": {
+          "je": "guéris",
+          "tu": "guéris",
+          "il/elle": "guérit",
+          "nous": "guérissons",
+          "vous": "guérissez",
+          "ils/elles": "guérissent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "guérissais",
+          "tu": "guérissais",
+          "il/elle": "guérissait",
+          "nous": "guérissions",
+          "vous": "guérissiez",
+          "ils/elles": "guérissaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "guéri",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai guéri",
+          "tu": "as guéri",
+          "il/elle": "a guéri",
+          "nous": "avons guéri",
+          "vous": "avez guéri",
+          "ils/elles": "ont guéri"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
@@ -861,147 +1848,329 @@
     ],
     "audio": "guerir_verbe.mp3",
     "frequency": 3329,
-    "cefr": "A2"
+    "cefr": "A2",
+    "verbClass": "-ir"
   },
   "habiter_verbe": {
     "word": "habiter",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "habite",
-          "habites",
-          "habite",
-          "habitons",
-          "habitez",
-          "habitent"
-        ]
+        "former": {
+          "je": "habite",
+          "tu": "habites",
+          "il/elle": "habite",
+          "nous": "habitons",
+          "vous": "habitez",
+          "ils/elles": "habitent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "habitais",
+          "tu": "habitais",
+          "il/elle": "habitait",
+          "nous": "habitions",
+          "vous": "habitiez",
+          "ils/elles": "habitaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "habité",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai habité",
+          "tu": "as habité",
+          "il/elle": "a habité",
+          "nous": "avons habité",
+          "vous": "avez habité",
+          "ils/elles": "ont habité"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "verb_habiter.mp3",
     "frequency": 6318,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "-er"
   },
   "inviter_verbe": {
     "word": "inviter",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "invite",
-          "invites",
-          "invite",
-          "invitons",
-          "invitez",
-          "invitent"
-        ]
+        "former": {
+          "je": "invite",
+          "tu": "invites",
+          "il/elle": "invite",
+          "nous": "invitons",
+          "vous": "invitez",
+          "ils/elles": "invitent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "invitais",
+          "tu": "invitais",
+          "il/elle": "invitait",
+          "nous": "invitions",
+          "vous": "invitiez",
+          "ils/elles": "invitaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "invité",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai invité",
+          "tu": "as invité",
+          "il/elle": "a invité",
+          "nous": "avons invité",
+          "vous": "avez invité",
+          "ils/elles": "ont invité"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "verb_inviter.mp3",
     "frequency": 2443,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "-er"
   },
   "jouer_verbe": {
     "word": "jouer",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "joue",
-          "joues",
-          "joue",
-          "jouons",
-          "jouez",
-          "jouent"
-        ]
+        "former": {
+          "je": "joue",
+          "tu": "joues",
+          "il/elle": "joue",
+          "nous": "jouons",
+          "vous": "jouez",
+          "ils/elles": "jouent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "jouais",
+          "tu": "jouais",
+          "il/elle": "jouait",
+          "nous": "jouions",
+          "vous": "jouiez",
+          "ils/elles": "jouaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "joué",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai joué",
+          "tu": "as joué",
+          "il/elle": "a joué",
+          "nous": "avons joué",
+          "vous": "avez joué",
+          "ils/elles": "ont joué"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "verb_jouer.mp3",
     "frequency": 423,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "-er"
   },
   "lire_verbe": {
     "word": "lire",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "lis",
-          "lis",
-          "lit",
-          "lisons",
-          "lisez",
-          "lisent"
-        ]
+        "former": {
+          "je": "lis",
+          "tu": "lis",
+          "il/elle": "lit",
+          "nous": "lisons",
+          "vous": "lisez",
+          "ils/elles": "lisent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "lisais",
+          "tu": "lisais",
+          "il/elle": "lisait",
+          "nous": "lisions",
+          "vous": "lisiez",
+          "ils/elles": "lisaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "lu",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai lu",
+          "tu": "as lu",
+          "il/elle": "a lu",
+          "nous": "avons lu",
+          "vous": "avez lu",
+          "ils/elles": "ont lu"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "verb_lire.mp3",
     "frequency": 911,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "irregular"
   },
   "manger_verbe": {
     "word": "manger",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "mange",
-          "manges",
-          "mange",
-          "mangeons",
-          "mangez",
-          "mangent"
-        ]
+        "former": {
+          "je": "mange",
+          "tu": "manges",
+          "il/elle": "mange",
+          "nous": "mangeons",
+          "vous": "mangez",
+          "ils/elles": "mangent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "mangeais",
+          "tu": "mangeais",
+          "il/elle": "mangeait",
+          "nous": "mangeions",
+          "vous": "mangeiez",
+          "ils/elles": "mangeaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "mangé",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai mangé",
+          "tu": "as mangé",
+          "il/elle": "a mangé",
+          "nous": "avons mangé",
+          "vous": "avez mangé",
+          "ils/elles": "ont mangé"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "verb_manger.mp3",
     "frequency": 460,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "-er"
   },
   "marcher_verbe": {
     "word": "marcher",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "marche",
-          "marches",
-          "marche",
-          "marchons",
-          "marchez",
-          "marchent"
-        ]
+        "former": {
+          "je": "marche",
+          "tu": "marches",
+          "il/elle": "marche",
+          "nous": "marchons",
+          "vous": "marchez",
+          "ils/elles": "marchent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "marchais",
+          "tu": "marchais",
+          "il/elle": "marchait",
+          "nous": "marchions",
+          "vous": "marchiez",
+          "ils/elles": "marchaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "marché",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai marché",
+          "tu": "as marché",
+          "il/elle": "a marché",
+          "nous": "avons marché",
+          "vous": "avez marché",
+          "ils/elles": "ont marché"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "marcher_verbe.mp3",
     "frequency": 882,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "-er"
   },
   "mettre_verbe": {
     "word": "mettre",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "mets",
-          "mets",
-          "met",
-          "mettons",
-          "mettez",
-          "mettent"
-        ]
+        "former": {
+          "je": "mets",
+          "tu": "mets",
+          "il/elle": "met",
+          "nous": "mettons",
+          "vous": "mettez",
+          "ils/elles": "mettent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "mettais",
+          "tu": "mettais",
+          "il/elle": "mettait",
+          "nous": "mettions",
+          "vous": "mettiez",
+          "ils/elles": "mettaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "mis",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai mis",
+          "tu": "as mis",
+          "il/elle": "a mis",
+          "nous": "avons mis",
+          "vous": "avez mis",
+          "ils/elles": "ont mis"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
@@ -1011,84 +2180,188 @@
     ],
     "audio": "mettre_verbe.mp3",
     "frequency": 328,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "irregular"
   },
   "monter_verbe": {
     "word": "monter",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "monte",
-          "montes",
-          "monte",
-          "montons",
-          "montez",
-          "montent"
-        ]
+        "former": {
+          "je": "monte",
+          "tu": "montes",
+          "il/elle": "monte",
+          "nous": "montons",
+          "vous": "montez",
+          "ils/elles": "montent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "montais",
+          "tu": "montais",
+          "il/elle": "montait",
+          "nous": "montions",
+          "vous": "montiez",
+          "ils/elles": "montaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "monté",
+        "auxiliary": "être",
+        "former": {
+          "je": "suis monté",
+          "tu": "es monté",
+          "il/elle": "est monté",
+          "nous": "sommes monté",
+          "vous": "êtes monté",
+          "ils/elles": "sont monté"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "monter_verbe.mp3",
     "frequency": 1042,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "-er"
   },
   "montrer_verbe": {
     "word": "montrer",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "montre",
-          "montres",
-          "montre",
-          "montrons",
-          "montrez",
-          "montrent"
-        ]
+        "former": {
+          "je": "montre",
+          "tu": "montres",
+          "il/elle": "montre",
+          "nous": "montrons",
+          "vous": "montrez",
+          "ils/elles": "montrent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "montrais",
+          "tu": "montrais",
+          "il/elle": "montrait",
+          "nous": "montrions",
+          "vous": "montriez",
+          "ils/elles": "montraient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "montré",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai montré",
+          "tu": "as montré",
+          "il/elle": "a montré",
+          "nous": "avons montré",
+          "vous": "avez montré",
+          "ils/elles": "ont montré"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "verb_montrer.mp3",
     "frequency": 601,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "-er"
   },
   "nager_verbe": {
     "word": "nager",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "nage",
-          "nages",
-          "nage",
-          "nageons",
-          "nagez",
-          "nagent"
-        ]
+        "former": {
+          "je": "nage",
+          "tu": "nages",
+          "il/elle": "nage",
+          "nous": "nageons",
+          "vous": "nagez",
+          "ils/elles": "nagent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "nageais",
+          "tu": "nageais",
+          "il/elle": "nageait",
+          "nous": "nageions",
+          "vous": "nageiez",
+          "ils/elles": "nageaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "nagé",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai nagé",
+          "tu": "as nagé",
+          "il/elle": "a nagé",
+          "nous": "avons nagé",
+          "vous": "avez nagé",
+          "ils/elles": "ont nagé"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "verb_nager.mp3",
     "frequency": 3430,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "-er"
   },
   "obeir_verbe": {
     "word": "obéir",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "obéis",
-          "obéis",
-          "obéit",
-          "obéissons",
-          "obéissez",
-          "obéissent"
-        ]
+        "former": {
+          "je": "obéis",
+          "tu": "obéis",
+          "il/elle": "obéit",
+          "nous": "obéissons",
+          "vous": "obéissez",
+          "ils/elles": "obéissent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "obéissais",
+          "tu": "obéissais",
+          "il/elle": "obéissait",
+          "nous": "obéissions",
+          "vous": "obéissiez",
+          "ils/elles": "obéissaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "obéi",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai obéi",
+          "tu": "as obéi",
+          "il/elle": "a obéi",
+          "nous": "avons obéi",
+          "vous": "avez obéi",
+          "ils/elles": "ont obéi"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
@@ -1101,126 +2374,282 @@
     ],
     "audio": "obeir_verbe.mp3",
     "frequency": 4892,
-    "cefr": "A2"
+    "cefr": "A2",
+    "verbClass": "-ir"
   },
   "offrir_verbe": {
     "word": "offrir",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "offre",
-          "offres",
-          "offre",
-          "offrons",
-          "offrez",
-          "offrent"
-        ]
+        "former": {
+          "je": "offre",
+          "tu": "offres",
+          "il/elle": "offre",
+          "nous": "offrons",
+          "vous": "offrez",
+          "ils/elles": "offrent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "offrais",
+          "tu": "offrais",
+          "il/elle": "offrait",
+          "nous": "offrions",
+          "vous": "offriez",
+          "ils/elles": "offraient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "offert",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai offert",
+          "tu": "as offert",
+          "il/elle": "a offert",
+          "nous": "avons offert",
+          "vous": "avez offert",
+          "ils/elles": "ont offert"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "offrir_verbe.mp3",
     "frequency": 1374,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "irregular"
   },
   "oublier_verbe": {
     "word": "oublier",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "oublie",
-          "oublies",
-          "oublie",
-          "oublions",
-          "oubliez",
-          "oublient"
-        ]
+        "former": {
+          "je": "oublie",
+          "tu": "oublies",
+          "il/elle": "oublie",
+          "nous": "oublions",
+          "vous": "oubliez",
+          "ils/elles": "oublient"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "oubliais",
+          "tu": "oubliais",
+          "il/elle": "oubliait",
+          "nous": "oubliions",
+          "vous": "oubliiez",
+          "ils/elles": "oubliaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "oublié",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai oublié",
+          "tu": "as oublié",
+          "il/elle": "a oublié",
+          "nous": "avons oublié",
+          "vous": "avez oublié",
+          "ils/elles": "ont oublié"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "verb_oublier.mp3",
     "frequency": 970,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "-er"
   },
   "ouvrir_verbe": {
     "word": "ouvrir",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "ouvre",
-          "ouvres",
-          "ouvre",
-          "ouvrons",
-          "ouvrez",
-          "ouvrent"
-        ]
+        "former": {
+          "je": "ouvre",
+          "tu": "ouvres",
+          "il/elle": "ouvre",
+          "nous": "ouvrons",
+          "vous": "ouvrez",
+          "ils/elles": "ouvrent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "ouvrais",
+          "tu": "ouvrais",
+          "il/elle": "ouvrait",
+          "nous": "ouvrions",
+          "vous": "ouvriez",
+          "ils/elles": "ouvraient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "ouvert",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai ouvert",
+          "tu": "as ouvert",
+          "il/elle": "a ouvert",
+          "nous": "avons ouvert",
+          "vous": "avez ouvert",
+          "ils/elles": "ont ouvert"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "verb_ouvrir.mp3",
     "frequency": 990,
-    "cefr": "A2"
+    "cefr": "A2",
+    "verbClass": "irregular"
   },
   "parler_verbe": {
     "word": "parler",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "parle",
-          "parles",
-          "parle",
-          "parlons",
-          "parlez",
-          "parlent"
-        ]
+        "former": {
+          "je": "parle",
+          "tu": "parles",
+          "il/elle": "parle",
+          "nous": "parlons",
+          "vous": "parlez",
+          "ils/elles": "parlent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "parlais",
+          "tu": "parlais",
+          "il/elle": "parlait",
+          "nous": "parlions",
+          "vous": "parliez",
+          "ils/elles": "parlaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "parlé",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai parlé",
+          "tu": "as parlé",
+          "il/elle": "a parlé",
+          "nous": "avons parlé",
+          "vous": "avez parlé",
+          "ils/elles": "ont parlé"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "verb_parler.mp3",
     "frequency": 143,
-    "cefr": "B1"
+    "cefr": "B1",
+    "verbClass": "-er"
   },
   "partir_verbe": {
     "word": "partir",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "pars",
-          "pars",
-          "part",
-          "partons",
-          "partez",
-          "partent"
-        ]
+        "former": {
+          "je": "pars",
+          "tu": "pars",
+          "il/elle": "part",
+          "nous": "partons",
+          "vous": "partez",
+          "ils/elles": "partent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "partais",
+          "tu": "partais",
+          "il/elle": "partait",
+          "nous": "partions",
+          "vous": "partiez",
+          "ils/elles": "partaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "parti",
+        "auxiliary": "être",
+        "former": {
+          "je": "suis parti",
+          "tu": "es parti",
+          "il/elle": "est parti",
+          "nous": "sommes parti",
+          "vous": "êtes parti",
+          "ils/elles": "sont parti"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "verb_partir.mp3",
     "frequency": 252,
-    "cefr": "A2"
+    "cefr": "A2",
+    "verbClass": "irregular"
   },
   "passer_verbe": {
     "word": "passer",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "passe",
-          "passes",
-          "passe",
-          "passons",
-          "passez",
-          "passent"
-        ]
+        "former": {
+          "je": "passe",
+          "tu": "passes",
+          "il/elle": "passe",
+          "nous": "passons",
+          "vous": "passez",
+          "ils/elles": "passent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "passais",
+          "tu": "passais",
+          "il/elle": "passait",
+          "nous": "passions",
+          "vous": "passiez",
+          "ils/elles": "passaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "passé",
+        "auxiliary": "être",
+        "former": {
+          "je": "suis passé",
+          "tu": "es passé",
+          "il/elle": "est passé",
+          "nous": "sommes passé",
+          "vous": "êtes passé",
+          "ils/elles": "sont passé"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
@@ -1230,126 +2659,282 @@
     ],
     "audio": "passer_verbe.mp3",
     "frequency": 279,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "-er"
   },
   "payer_verbe": {
     "word": "payer",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "paie",
-          "paies",
-          "paie",
-          "payons",
-          "payez",
-          "paient"
-        ]
+        "former": {
+          "je": "paie",
+          "tu": "paies",
+          "il/elle": "paie",
+          "nous": "payons",
+          "vous": "payez",
+          "ils/elles": "paient"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "payais",
+          "tu": "payais",
+          "il/elle": "payait",
+          "nous": "payions",
+          "vous": "payiez",
+          "ils/elles": "payaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "payé",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai payé",
+          "tu": "as payé",
+          "il/elle": "a payé",
+          "nous": "avons payé",
+          "vous": "avez payé",
+          "ils/elles": "ont payé"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "payer_verbe.mp3",
     "frequency": 589,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "-er"
   },
   "penser_verbe": {
     "word": "penser",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "pense",
-          "penses",
-          "pense",
-          "pensons",
-          "pensez",
-          "pensent"
-        ]
+        "former": {
+          "je": "pense",
+          "tu": "penses",
+          "il/elle": "pense",
+          "nous": "pensons",
+          "vous": "pensez",
+          "ils/elles": "pensent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "pensais",
+          "tu": "pensais",
+          "il/elle": "pensait",
+          "nous": "pensions",
+          "vous": "pensiez",
+          "ils/elles": "pensaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "pensé",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai pensé",
+          "tu": "as pensé",
+          "il/elle": "a pensé",
+          "nous": "avons pensé",
+          "vous": "avez pensé",
+          "ils/elles": "ont pensé"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "penser_verbe.mp3",
     "frequency": 516,
-    "cefr": "B1"
+    "cefr": "B1",
+    "verbClass": "-er"
   },
   "perdre_verbe": {
     "word": "perdre",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "perds",
-          "perds",
-          "perd",
-          "perdons",
-          "perdez",
-          "perdent"
-        ]
+        "former": {
+          "je": "perds",
+          "tu": "perds",
+          "il/elle": "perd",
+          "nous": "perdons",
+          "vous": "perdez",
+          "ils/elles": "perdent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "perdais",
+          "tu": "perdais",
+          "il/elle": "perdait",
+          "nous": "perdions",
+          "vous": "perdiez",
+          "ils/elles": "perdaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "perdu",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai perdu",
+          "tu": "as perdu",
+          "il/elle": "a perdu",
+          "nous": "avons perdu",
+          "vous": "avez perdu",
+          "ils/elles": "ont perdu"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "verb_perdre.mp3",
     "frequency": 576,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "-re"
   },
   "porter_verbe": {
     "word": "porter",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "porte",
-          "portes",
-          "porte",
-          "portons",
-          "portez",
-          "portent"
-        ]
+        "former": {
+          "je": "porte",
+          "tu": "portes",
+          "il/elle": "porte",
+          "nous": "portons",
+          "vous": "portez",
+          "ils/elles": "portent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "portais",
+          "tu": "portais",
+          "il/elle": "portait",
+          "nous": "portions",
+          "vous": "portiez",
+          "ils/elles": "portaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "porté",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai porté",
+          "tu": "as porté",
+          "il/elle": "a porté",
+          "nous": "avons porté",
+          "vous": "avez porté",
+          "ils/elles": "ont porté"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "verb_porter.mp3",
     "frequency": 839,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "-er"
   },
   "pouvoir_verbe": {
     "word": "pouvoir",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "peux",
-          "peux",
-          "peut",
-          "pouvons",
-          "pouvez",
-          "peuvent"
-        ]
+        "former": {
+          "je": "peux",
+          "tu": "peux",
+          "il/elle": "peut",
+          "nous": "pouvons",
+          "vous": "pouvez",
+          "ils/elles": "peuvent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "pouvais",
+          "tu": "pouvais",
+          "il/elle": "pouvait",
+          "nous": "pouvions",
+          "vous": "pouviez",
+          "ils/elles": "pouvaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "pu",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai pu",
+          "tu": "as pu",
+          "il/elle": "a pu",
+          "nous": "avons pu",
+          "vous": "avez pu",
+          "ils/elles": "ont pu"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "verb_pouvoir.mp3",
     "frequency": 365,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "irregular"
   },
   "preferer_verbe": {
     "word": "préférer",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "préfère",
-          "préfères",
-          "préfère",
-          "préférons",
-          "préférez",
-          "préfèrent"
-        ]
+        "former": {
+          "je": "préfère",
+          "tu": "préfères",
+          "il/elle": "préfère",
+          "nous": "préférons",
+          "vous": "préférez",
+          "ils/elles": "préfèrent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "préférais",
+          "tu": "préférais",
+          "il/elle": "préférait",
+          "nous": "préférions",
+          "vous": "préfériez",
+          "ils/elles": "préféraient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "préféré",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai préféré",
+          "tu": "as préféré",
+          "il/elle": "a préféré",
+          "nous": "avons préféré",
+          "vous": "avez préféré",
+          "ils/elles": "ont préféré"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
@@ -1362,63 +2947,141 @@
     ],
     "audio": "preferer_verbe.mp3",
     "frequency": 20711,
-    "cefr": "B1"
+    "cefr": "B1",
+    "verbClass": "-er"
   },
   "prendre_verbe": {
     "word": "prendre",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "prends",
-          "prends",
-          "prend",
-          "prenons",
-          "prenez",
-          "prennent"
-        ]
+        "former": {
+          "je": "prends",
+          "tu": "prends",
+          "il/elle": "prend",
+          "nous": "prenons",
+          "vous": "prenez",
+          "ils/elles": "prennent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "prenais",
+          "tu": "prenais",
+          "il/elle": "prenait",
+          "nous": "prenions",
+          "vous": "preniez",
+          "ils/elles": "prenaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "pris",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai pris",
+          "tu": "as pris",
+          "il/elle": "a pris",
+          "nous": "avons pris",
+          "vous": "avez pris",
+          "ils/elles": "ont pris"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "verb_prendre.mp3",
     "frequency": 196,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "irregular"
   },
   "punir_verbe": {
     "word": "punir",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "punis",
-          "punis",
-          "punit",
-          "punissons",
-          "punissez",
-          "punissent"
-        ]
+        "former": {
+          "je": "punis",
+          "tu": "punis",
+          "il/elle": "punit",
+          "nous": "punissons",
+          "vous": "punissez",
+          "ils/elles": "punissent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "punissais",
+          "tu": "punissais",
+          "il/elle": "punissait",
+          "nous": "punissions",
+          "vous": "punissiez",
+          "ils/elles": "punissaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "puni",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai puni",
+          "tu": "as puni",
+          "il/elle": "a puni",
+          "nous": "avons puni",
+          "vous": "avez puni",
+          "ils/elles": "ont puni"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "punir_verbe.mp3",
     "frequency": 4708,
-    "cefr": "A2"
+    "cefr": "A2",
+    "verbClass": "-ir"
   },
   "quitter_verbe": {
     "word": "quitter",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "quitte",
-          "quittes",
-          "quitte",
-          "quittons",
-          "quittez",
-          "quittent"
-        ]
+        "former": {
+          "je": "quitte",
+          "tu": "quittes",
+          "il/elle": "quitte",
+          "nous": "quittons",
+          "vous": "quittez",
+          "ils/elles": "quittent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "quittais",
+          "tu": "quittais",
+          "il/elle": "quittait",
+          "nous": "quittions",
+          "vous": "quittiez",
+          "ils/elles": "quittaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "quitté",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai quitté",
+          "tu": "as quitté",
+          "il/elle": "a quitté",
+          "nous": "avons quitté",
+          "vous": "avez quitté",
+          "ils/elles": "ont quitté"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
@@ -1428,42 +3091,94 @@
     ],
     "audio": "quitter_verbe.mp3",
     "frequency": 928,
-    "cefr": "B1"
+    "cefr": "B1",
+    "verbClass": "-er"
   },
   "raconter_verbe": {
     "word": "raconter",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "raconte",
-          "racontes",
-          "raconte",
-          "racontons",
-          "racontez",
-          "racontent"
-        ]
+        "former": {
+          "je": "raconte",
+          "tu": "racontes",
+          "il/elle": "raconte",
+          "nous": "racontons",
+          "vous": "racontez",
+          "ils/elles": "racontent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "racontais",
+          "tu": "racontais",
+          "il/elle": "racontait",
+          "nous": "racontions",
+          "vous": "racontiez",
+          "ils/elles": "racontaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "raconté",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai raconté",
+          "tu": "as raconté",
+          "il/elle": "a raconté",
+          "nous": "avons raconté",
+          "vous": "avez raconté",
+          "ils/elles": "ont raconté"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "verb_raconter.mp3",
     "frequency": 1650,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "-er"
   },
   "reflechir_verbe": {
     "word": "réfléchir",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "réfléchis",
-          "réfléchis",
-          "réfléchit",
-          "réfléchissons",
-          "réfléchissez",
-          "réfléchissent"
-        ]
+        "former": {
+          "je": "réfléchis",
+          "tu": "réfléchis",
+          "il/elle": "réfléchit",
+          "nous": "réfléchissons",
+          "vous": "réfléchissez",
+          "ils/elles": "réfléchissent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "réfléchissais",
+          "tu": "réfléchissais",
+          "il/elle": "réfléchissait",
+          "nous": "réfléchissions",
+          "vous": "réfléchissiez",
+          "ils/elles": "réfléchissaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "réfléchi",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai réfléchi",
+          "tu": "as réfléchi",
+          "il/elle": "a réfléchi",
+          "nous": "avons réfléchi",
+          "vous": "avez réfléchi",
+          "ils/elles": "ont réfléchi"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
@@ -1476,105 +3191,235 @@
     ],
     "audio": "reflechir_verbe.mp3",
     "frequency": 1392,
-    "cefr": "B1"
+    "cefr": "B1",
+    "verbClass": "-ir"
   },
   "regarder_verbe": {
     "word": "regarder",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "regarde",
-          "regardes",
-          "regarde",
-          "regardons",
-          "regardez",
-          "regardent"
-        ]
+        "former": {
+          "je": "regarde",
+          "tu": "regardes",
+          "il/elle": "regarde",
+          "nous": "regardons",
+          "vous": "regardez",
+          "ils/elles": "regardent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "regardais",
+          "tu": "regardais",
+          "il/elle": "regardait",
+          "nous": "regardions",
+          "vous": "regardiez",
+          "ils/elles": "regardaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "regardé",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai regardé",
+          "tu": "as regardé",
+          "il/elle": "a regardé",
+          "nous": "avons regardé",
+          "vous": "avez regardé",
+          "ils/elles": "ont regardé"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "verb_regarder.mp3",
     "frequency": 525,
-    "cefr": "B1"
+    "cefr": "B1",
+    "verbClass": "-er"
   },
   "remplir_verbe": {
     "word": "remplir",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "remplis",
-          "remplis",
-          "remplit",
-          "remplissons",
-          "remplissez",
-          "remplissent"
-        ]
+        "former": {
+          "je": "remplis",
+          "tu": "remplis",
+          "il/elle": "remplit",
+          "nous": "remplissons",
+          "vous": "remplissez",
+          "ils/elles": "remplissent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "remplissais",
+          "tu": "remplissais",
+          "il/elle": "remplissait",
+          "nous": "remplissions",
+          "vous": "remplissiez",
+          "ils/elles": "remplissaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "rempli",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai rempli",
+          "tu": "as rempli",
+          "il/elle": "a rempli",
+          "nous": "avons rempli",
+          "vous": "avez rempli",
+          "ils/elles": "ont rempli"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "remplir_verbe.mp3",
     "frequency": 3009,
-    "cefr": "A2"
+    "cefr": "A2",
+    "verbClass": "-ir"
   },
   "rendre_verbe": {
     "word": "rendre",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "rends",
-          "rends",
-          "rend",
-          "rendons",
-          "rendez",
-          "rendent"
-        ]
+        "former": {
+          "je": "rends",
+          "tu": "rends",
+          "il/elle": "rend",
+          "nous": "rendons",
+          "vous": "rendez",
+          "ils/elles": "rendent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "rendais",
+          "tu": "rendais",
+          "il/elle": "rendait",
+          "nous": "rendions",
+          "vous": "rendiez",
+          "ils/elles": "rendaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "rendu",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai rendu",
+          "tu": "as rendu",
+          "il/elle": "a rendu",
+          "nous": "avons rendu",
+          "vous": "avez rendu",
+          "ils/elles": "ont rendu"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "rendre_verbe.mp3",
     "frequency": 555,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "-re"
   },
   "rentrer_verbe": {
     "word": "rentrer",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "rentre",
-          "rentres",
-          "rentre",
-          "rentrons",
-          "rentrez",
-          "rentrent"
-        ]
+        "former": {
+          "je": "rentre",
+          "tu": "rentres",
+          "il/elle": "rentre",
+          "nous": "rentrons",
+          "vous": "rentrez",
+          "ils/elles": "rentrent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "rentrais",
+          "tu": "rentrais",
+          "il/elle": "rentrait",
+          "nous": "rentrions",
+          "vous": "rentriez",
+          "ils/elles": "rentraient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "rentré",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai rentré",
+          "tu": "as rentré",
+          "il/elle": "a rentré",
+          "nous": "avons rentré",
+          "vous": "avez rentré",
+          "ils/elles": "ont rentré"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "rentrer_verbe.mp3",
     "frequency": 524,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "-er"
   },
   "repondre_verbe": {
     "word": "répondre",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "réponds",
-          "réponds",
-          "répond",
-          "répondons",
-          "répondez",
-          "répondent"
-        ]
+        "former": {
+          "je": "réponds",
+          "tu": "réponds",
+          "il/elle": "répond",
+          "nous": "répondons",
+          "vous": "répondez",
+          "ils/elles": "répondent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "répondais",
+          "tu": "répondais",
+          "il/elle": "répondait",
+          "nous": "répondions",
+          "vous": "répondiez",
+          "ils/elles": "répondaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "répondu",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai répondu",
+          "tu": "as répondu",
+          "il/elle": "a répondu",
+          "nous": "avons répondu",
+          "vous": "avez répondu",
+          "ils/elles": "ont répondu"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
@@ -1587,42 +3432,94 @@
     ],
     "audio": "verb_repondre.mp3",
     "frequency": 1140,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "-re"
   },
   "rester_verbe": {
     "word": "rester",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "reste",
-          "restes",
-          "reste",
-          "restons",
-          "restez",
-          "restent"
-        ]
+        "former": {
+          "je": "reste",
+          "tu": "restes",
+          "il/elle": "reste",
+          "nous": "restons",
+          "vous": "restez",
+          "ils/elles": "restent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "restais",
+          "tu": "restais",
+          "il/elle": "restait",
+          "nous": "restions",
+          "vous": "restiez",
+          "ils/elles": "restaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "resté",
+        "auxiliary": "être",
+        "former": {
+          "je": "suis resté",
+          "tu": "es resté",
+          "il/elle": "est resté",
+          "nous": "sommes resté",
+          "vous": "êtes resté",
+          "ils/elles": "sont resté"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "verb_rester.mp3",
     "frequency": 305,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "-er"
   },
   "reussir_verbe": {
     "word": "réussir",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "réussis",
-          "réussis",
-          "réussit",
-          "réussissons",
-          "réussissez",
-          "réussissent"
-        ]
+        "former": {
+          "je": "réussis",
+          "tu": "réussis",
+          "il/elle": "réussit",
+          "nous": "réussissons",
+          "vous": "réussissez",
+          "ils/elles": "réussissent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "réussissais",
+          "tu": "réussissais",
+          "il/elle": "réussissait",
+          "nous": "réussissions",
+          "vous": "réussissiez",
+          "ils/elles": "réussissaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "réussi",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai réussi",
+          "tu": "as réussi",
+          "il/elle": "a réussi",
+          "nous": "avons réussi",
+          "vous": "avez réussi",
+          "ils/elles": "ont réussi"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
@@ -1636,82 +3533,186 @@
     ],
     "audio": "reussir_verbe.mp3",
     "frequency": 2649,
-    "cefr": "B1"
+    "cefr": "B1",
+    "verbClass": "-ir"
   },
   "savoir_verbe": {
     "word": "savoir",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "sais",
-          "sais",
-          "sait",
-          "savons",
-          "savez",
-          "savent"
-        ]
+        "former": {
+          "je": "sais",
+          "tu": "sais",
+          "il/elle": "sait",
+          "nous": "savons",
+          "vous": "savez",
+          "ils/elles": "savent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "savais",
+          "tu": "savais",
+          "il/elle": "savait",
+          "nous": "savions",
+          "vous": "saviez",
+          "ils/elles": "savaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "su",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai su",
+          "tu": "as su",
+          "il/elle": "a su",
+          "nous": "avons su",
+          "vous": "avez su",
+          "ils/elles": "ont su"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "verb_savoir.mp3",
     "frequency": 200,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "irregular"
   },
   "se_appeler_verbe": {
     "word": "s'appeler",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "m'appelle",
-          "t'appelles",
-          "s'appelle",
-          "nous appelons",
-          "vous appelez",
-          "s'appellent"
-        ]
+        "former": {
+          "je": "m'appelle",
+          "tu": "t'appelles",
+          "il/elle": "s'appelle",
+          "nous": "nous appelons",
+          "vous": "vous appelez",
+          "ils/elles": "s'appellent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "nous appelais",
+          "tu": "nous appelais",
+          "il/elle": "nous appelait",
+          "nous": "nous appelions",
+          "vous": "nous appeliez",
+          "ils/elles": "nous appelaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "s'appelé",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai s'appelé",
+          "tu": "as s'appelé",
+          "il/elle": "a s'appelé",
+          "nous": "avons s'appelé",
+          "vous": "avez s'appelé",
+          "ils/elles": "ont s'appelé"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "se_appeler_verbe.mp3",
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "-er"
   },
   "se_coucher_verbe": {
     "word": "se coucher",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "me couche",
-          "te couches",
-          "se couche",
-          "nous couchons",
-          "vous couchez",
-          "se couchent"
-        ]
+        "former": {
+          "je": "me couche",
+          "tu": "te couches",
+          "il/elle": "se couche",
+          "nous": "nous couchons",
+          "vous": "vous couchez",
+          "ils/elles": "se couchent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "nous couchais",
+          "tu": "nous couchais",
+          "il/elle": "nous couchait",
+          "nous": "nous couchions",
+          "vous": "nous couchiez",
+          "ils/elles": "nous couchaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "se couché",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai se couché",
+          "tu": "as se couché",
+          "il/elle": "a se couché",
+          "nous": "avons se couché",
+          "vous": "avez se couché",
+          "ils/elles": "ont se couché"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "se_coucher_verbe.mp3",
-    "cefr": "B1"
+    "cefr": "B1",
+    "verbClass": "-er"
   },
   "se_habiller_verbe": {
     "word": "s'habiller",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "m'habille",
-          "t'habilles",
-          "s'habille",
-          "nous habillons",
-          "vous habillez",
-          "s'habillent"
-        ]
+        "former": {
+          "je": "m'habille",
+          "tu": "t'habilles",
+          "il/elle": "s'habille",
+          "nous": "nous habillons",
+          "vous": "vous habillez",
+          "ils/elles": "s'habillent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "nous habillais",
+          "tu": "nous habillais",
+          "il/elle": "nous habillait",
+          "nous": "nous habillions",
+          "vous": "nous habilliez",
+          "ils/elles": "nous habillaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "s'habillé",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai s'habillé",
+          "tu": "as s'habillé",
+          "il/elle": "a s'habillé",
+          "nous": "avons s'habillé",
+          "vous": "avez s'habillé",
+          "ils/elles": "ont s'habillé"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
@@ -1720,101 +3721,231 @@
       "s'habiler"
     ],
     "audio": "se_habiller_verbe.mp3",
-    "cefr": "B1"
+    "cefr": "B1",
+    "verbClass": "-er"
   },
   "se_laver_verbe": {
     "word": "se laver",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "me lave",
-          "te laves",
-          "se lave",
-          "nous lavons",
-          "vous lavez",
-          "se lavent"
-        ]
+        "former": {
+          "je": "me lave",
+          "tu": "te laves",
+          "il/elle": "se lave",
+          "nous": "nous lavons",
+          "vous": "vous lavez",
+          "ils/elles": "se lavent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "nous lavais",
+          "tu": "nous lavais",
+          "il/elle": "nous lavait",
+          "nous": "nous lavions",
+          "vous": "nous laviez",
+          "ils/elles": "nous lavaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "se lavé",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai se lavé",
+          "tu": "as se lavé",
+          "il/elle": "a se lavé",
+          "nous": "avons se lavé",
+          "vous": "avez se lavé",
+          "ils/elles": "ont se lavé"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "verb_se_laver.mp3",
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "-er"
   },
   "se_lever_verbe": {
     "word": "se lever",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "me lève",
-          "te lèves",
-          "se lève",
-          "nous levons",
-          "vous levez",
-          "se lèvent"
-        ]
+        "former": {
+          "je": "me lève",
+          "tu": "te lèves",
+          "il/elle": "se lève",
+          "nous": "nous levons",
+          "vous": "vous levez",
+          "ils/elles": "se lèvent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "nous levais",
+          "tu": "nous levais",
+          "il/elle": "nous levait",
+          "nous": "nous levions",
+          "vous": "nous leviez",
+          "ils/elles": "nous levaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "se levé",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai se levé",
+          "tu": "as se levé",
+          "il/elle": "a se levé",
+          "nous": "avons se levé",
+          "vous": "avez se levé",
+          "ils/elles": "ont se levé"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "verb_se_lever.mp3",
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "-er"
   },
   "se_promener_verbe": {
     "word": "se promener",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "me promène",
-          "te promènes",
-          "se promène",
-          "nous promenons",
-          "vous promenez",
-          "se promènent"
-        ]
+        "former": {
+          "je": "me promène",
+          "tu": "te promènes",
+          "il/elle": "se promène",
+          "nous": "nous promenons",
+          "vous": "vous promenez",
+          "ils/elles": "se promènent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "nous promenais",
+          "tu": "nous promenais",
+          "il/elle": "nous promenait",
+          "nous": "nous promenions",
+          "vous": "nous promeniez",
+          "ils/elles": "nous promenaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "se promené",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai se promené",
+          "tu": "as se promené",
+          "il/elle": "a se promené",
+          "nous": "avons se promené",
+          "vous": "avez se promené",
+          "ils/elles": "ont se promené"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "verb_se_promener.mp3",
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "-er"
   },
   "se_reposer_verbe": {
     "word": "se reposer",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "me repose",
-          "te reposes",
-          "se repose",
-          "nous reposons",
-          "vous reposez",
-          "se reposent"
-        ]
+        "former": {
+          "je": "me repose",
+          "tu": "te reposes",
+          "il/elle": "se repose",
+          "nous": "nous reposons",
+          "vous": "vous reposez",
+          "ils/elles": "se reposent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "nous reposais",
+          "tu": "nous reposais",
+          "il/elle": "nous reposait",
+          "nous": "nous reposions",
+          "vous": "nous reposiez",
+          "ils/elles": "nous reposaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "se reposé",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai se reposé",
+          "tu": "as se reposé",
+          "il/elle": "a se reposé",
+          "nous": "avons se reposé",
+          "vous": "avez se reposé",
+          "ils/elles": "ont se reposé"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "verb_se_reposer.mp3",
-    "cefr": "B1"
+    "cefr": "B1",
+    "verbClass": "-er"
   },
   "se_reveiller_verbe": {
     "word": "se réveiller",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "me réveille",
-          "te réveilles",
-          "se réveille",
-          "nous réveillons",
-          "vous réveillez",
-          "se réveillent"
-        ]
+        "former": {
+          "je": "me réveille",
+          "tu": "te réveilles",
+          "il/elle": "se réveille",
+          "nous": "nous réveillons",
+          "vous": "vous réveillez",
+          "ils/elles": "se réveillent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "nous réveillais",
+          "tu": "nous réveillais",
+          "il/elle": "nous réveillait",
+          "nous": "nous réveillions",
+          "vous": "nous réveilliez",
+          "ils/elles": "nous réveillaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "se réveillé",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai se réveillé",
+          "tu": "as se réveillé",
+          "il/elle": "a se réveillé",
+          "nous": "avons se réveillé",
+          "vous": "avez se réveillé",
+          "ils/elles": "ont se réveillé"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
@@ -1827,84 +3958,188 @@
       "se reveiller"
     ],
     "audio": "verb_se_reveiller.mp3",
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "-er"
   },
   "sortir_verbe": {
     "word": "sortir",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "sors",
-          "sors",
-          "sort",
-          "sortons",
-          "sortez",
-          "sortent"
-        ]
+        "former": {
+          "je": "sors",
+          "tu": "sors",
+          "il/elle": "sort",
+          "nous": "sortons",
+          "vous": "sortez",
+          "ils/elles": "sortent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "sortais",
+          "tu": "sortais",
+          "il/elle": "sortait",
+          "nous": "sortions",
+          "vous": "sortiez",
+          "ils/elles": "sortaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "sorti",
+        "auxiliary": "être",
+        "former": {
+          "je": "suis sorti",
+          "tu": "es sorti",
+          "il/elle": "est sorti",
+          "nous": "sommes sorti",
+          "vous": "êtes sorti",
+          "ils/elles": "sont sorti"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "sortir_verbe.mp3",
     "frequency": 288,
-    "cefr": "A2"
+    "cefr": "A2",
+    "verbClass": "irregular"
   },
   "terminer_verbe": {
     "word": "terminer",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "termine",
-          "termines",
-          "termine",
-          "terminons",
-          "terminez",
-          "terminent"
-        ]
+        "former": {
+          "je": "termine",
+          "tu": "termines",
+          "il/elle": "termine",
+          "nous": "terminons",
+          "vous": "terminez",
+          "ils/elles": "terminent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "terminais",
+          "tu": "terminais",
+          "il/elle": "terminait",
+          "nous": "terminions",
+          "vous": "terminiez",
+          "ils/elles": "terminaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "terminé",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai terminé",
+          "tu": "as terminé",
+          "il/elle": "a terminé",
+          "nous": "avons terminé",
+          "vous": "avez terminé",
+          "ils/elles": "ont terminé"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "verb_terminer.mp3",
     "frequency": 3201,
-    "cefr": "A2"
+    "cefr": "A2",
+    "verbClass": "-er"
   },
   "tomber_verbe": {
     "word": "tomber",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "tombe",
-          "tombes",
-          "tombe",
-          "tombons",
-          "tombez",
-          "tombent"
-        ]
+        "former": {
+          "je": "tombe",
+          "tu": "tombes",
+          "il/elle": "tombe",
+          "nous": "tombons",
+          "vous": "tombez",
+          "ils/elles": "tombent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "tombais",
+          "tu": "tombais",
+          "il/elle": "tombait",
+          "nous": "tombions",
+          "vous": "tombiez",
+          "ils/elles": "tombaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "tombé",
+        "auxiliary": "être",
+        "former": {
+          "je": "suis tombé",
+          "tu": "es tombé",
+          "il/elle": "est tombé",
+          "nous": "sommes tombé",
+          "vous": "êtes tombé",
+          "ils/elles": "sont tombé"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "tomber_verbe.mp3",
     "frequency": 485,
-    "cefr": "B1"
+    "cefr": "B1",
+    "verbClass": "-er"
   },
   "travailler_verbe": {
     "word": "travailler",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "travaille",
-          "travailles",
-          "travaille",
-          "travaillons",
-          "travaillez",
-          "travaillent"
-        ]
+        "former": {
+          "je": "travaille",
+          "tu": "travailles",
+          "il/elle": "travaille",
+          "nous": "travaillons",
+          "vous": "travaillez",
+          "ils/elles": "travaillent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "travaillais",
+          "tu": "travaillais",
+          "il/elle": "travaillait",
+          "nous": "travaillions",
+          "vous": "travailliez",
+          "ils/elles": "travaillaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "travaillé",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai travaillé",
+          "tu": "as travaillé",
+          "il/elle": "a travaillé",
+          "nous": "avons travaillé",
+          "vous": "avez travaillé",
+          "ils/elles": "ont travaillé"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
@@ -1914,132 +4149,289 @@
     ],
     "audio": "verb_travailler.mp3",
     "frequency": 522,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "-er"
   },
   "trouver_verbe": {
     "word": "trouver",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "trouve",
-          "trouves",
-          "trouve",
-          "trouvons",
-          "trouvez",
-          "trouvent"
-        ]
+        "former": {
+          "je": "trouve",
+          "tu": "trouves",
+          "il/elle": "trouve",
+          "nous": "trouvons",
+          "vous": "trouvez",
+          "ils/elles": "trouvent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "trouvais",
+          "tu": "trouvais",
+          "il/elle": "trouvait",
+          "nous": "trouvions",
+          "vous": "trouviez",
+          "ils/elles": "trouvaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "trouvé",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai trouvé",
+          "tu": "as trouvé",
+          "il/elle": "a trouvé",
+          "nous": "avons trouvé",
+          "vous": "avez trouvé",
+          "ils/elles": "ont trouvé"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "verb_trouver.mp3",
     "frequency": 233,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "-er"
   },
   "venir_verbe": {
     "word": "venir",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "viens",
-          "viens",
-          "vient",
-          "venons",
-          "venez",
-          "viennent"
-        ]
+        "former": {
+          "je": "viens",
+          "tu": "viens",
+          "il/elle": "vient",
+          "nous": "venons",
+          "vous": "venez",
+          "ils/elles": "viennent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "venais",
+          "tu": "venais",
+          "il/elle": "venait",
+          "nous": "venions",
+          "vous": "veniez",
+          "ils/elles": "venaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "venu",
+        "auxiliary": "être",
+        "former": {
+          "je": "suis venu",
+          "tu": "es venu",
+          "il/elle": "est venu",
+          "nous": "sommes venu",
+          "vous": "êtes venu",
+          "ils/elles": "sont venu"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "verb_venir.mp3",
     "frequency": 272,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "irregular"
   },
   "visiter_verbe": {
     "word": "visiter",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "visite",
-          "visites",
-          "visite",
-          "visitons",
-          "visitez",
-          "visitent"
-        ]
+        "former": {
+          "je": "visite",
+          "tu": "visites",
+          "il/elle": "visite",
+          "nous": "visitons",
+          "vous": "visitez",
+          "ils/elles": "visitent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "visitais",
+          "tu": "visitais",
+          "il/elle": "visitait",
+          "nous": "visitions",
+          "vous": "visitiez",
+          "ils/elles": "visitaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "visité",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai visité",
+          "tu": "as visité",
+          "il/elle": "a visité",
+          "nous": "avons visité",
+          "vous": "avez visité",
+          "ils/elles": "ont visité"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "verb_visiter.mp3",
     "frequency": 3133,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "-er"
   },
   "voir_verbe": {
     "word": "voir",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "vois",
-          "vois",
-          "voit",
-          "voyons",
-          "voyez",
-          "voient"
-        ]
+        "former": {
+          "je": "vois",
+          "tu": "vois",
+          "il/elle": "voit",
+          "nous": "voyons",
+          "vous": "voyez",
+          "ils/elles": "voient"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "voyais",
+          "tu": "voyais",
+          "il/elle": "voyait",
+          "nous": "voyions",
+          "vous": "voyiez",
+          "ils/elles": "voyaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "vu",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai vu",
+          "tu": "as vu",
+          "il/elle": "a vu",
+          "nous": "avons vu",
+          "vous": "avez vu",
+          "ils/elles": "ont vu"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "verb_voir.mp3",
     "frequency": 103,
-    "cefr": "B1"
+    "cefr": "B1",
+    "verbClass": "irregular"
   },
   "vouloir_verbe": {
     "word": "vouloir",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "veux",
-          "veux",
-          "veut",
-          "voulons",
-          "voulez",
-          "veulent"
-        ]
+        "former": {
+          "je": "veux",
+          "tu": "veux",
+          "il/elle": "veut",
+          "nous": "voulons",
+          "vous": "voulez",
+          "ils/elles": "veulent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "voulais",
+          "tu": "voulais",
+          "il/elle": "voulait",
+          "nous": "voulions",
+          "vous": "vouliez",
+          "ils/elles": "voulaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "voulu",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai voulu",
+          "tu": "as voulu",
+          "il/elle": "a voulu",
+          "nous": "avons voulu",
+          "vous": "avez voulu",
+          "ils/elles": "ont voulu"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "verb_vouloir.mp3",
     "frequency": 902,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "irregular"
   },
   "voyager_verbe": {
     "word": "voyager",
     "type": "verbe",
     "conjugations": {
       "presens": {
-        "former": [
-          "voyage",
-          "voyages",
-          "voyage",
-          "voyageons",
-          "voyagez",
-          "voyagent"
-        ]
+        "former": {
+          "je": "voyage",
+          "tu": "voyages",
+          "il/elle": "voyage",
+          "nous": "voyageons",
+          "vous": "voyagez",
+          "ils/elles": "voyagent"
+        },
+        "feature": "grammar_fr_presens"
+      },
+      "imparfait": {
+        "former": {
+          "je": "voyageais",
+          "tu": "voyageais",
+          "il/elle": "voyageait",
+          "nous": "voyageions",
+          "vous": "voyageiez",
+          "ils/elles": "voyageaient"
+        },
+        "feature": "grammar_fr_imparfait"
+      },
+      "passe_compose": {
+        "participle": "voyagé",
+        "auxiliary": "avoir",
+        "former": {
+          "je": "j'ai voyagé",
+          "tu": "as voyagé",
+          "il/elle": "a voyagé",
+          "nous": "avons voyagé",
+          "vous": "avez voyagé",
+          "ils/elles": "ont voyagé"
+        },
+        "feature": "grammar_fr_passe_compose"
       }
     },
     "_generatedFrom": "fr/banks",
     "_enriched": true,
     "audio": "verb_voyager.mp3",
     "frequency": 3040,
-    "cefr": "A1"
+    "cefr": "A1",
+    "verbClass": "-er"
   }
 }
