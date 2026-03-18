@@ -2,7 +2,7 @@
   "_metadata": {
     "description": "Grammar features for progressive disclosure in lexicon-based vocabulary apps",
     "usage": "Add new features here. Both the API and the app read from this file.",
-    "updatedAt": "2026-03-14"
+    "updatedAt": "2026-03-17"
   },
   "nb": {
     "language": "Norwegian",
@@ -89,6 +89,17 @@
         "dataPath": "conjugations.presens.former.imperativ"
       },
       {
+        "id": "grammar_nb_passiv",
+        "name": "Passiv",
+        "nameEn": "Passive Voice",
+        "description": "Passiv form (bli + partisipp, -s-passiv)",
+        "descriptionEn": "Passive voice forms",
+        "category": "verbs",
+        "appliesTo": ["verb"],
+        "dataPath": "conjugations.passiv",
+        "future": true
+      },
+      {
         "id": "grammar_nb_verb_class",
         "name": "Verbklasse",
         "nameEn": "Verb Class",
@@ -126,13 +137,80 @@
         "descriptionEn": "Inflection by gender, number, and definiteness",
         "category": "adjectives",
         "appliesTo": ["adj"],
-        "dataPath": "declension"
+        "dataPath": "declension",
+        "future": true
       }
     ],
     "categories": [
       { "id": "verbs", "name": "Verb", "nameEn": "Verbs" },
       { "id": "nouns", "name": "Substantiv", "nameEn": "Nouns" },
       { "id": "adjectives", "name": "Adjektiv", "nameEn": "Adjectives" }
+    ],
+    "presets": [
+      {
+        "id": "basic",
+        "name": "Lite",
+        "nameEn": "Basic",
+        "description": "Grunnleggende — presens, kjønn, flertall",
+        "features": [
+          "grammar_nb_presens",
+          "grammar_nb_genus",
+          "grammar_nb_flertall"
+        ]
+      },
+      {
+        "id": "intermediate",
+        "name": "Middels",
+        "nameEn": "Intermediate",
+        "description": "Preteritum, bestemt form, gradbøyning",
+        "features": [
+          "grammar_nb_presens",
+          "grammar_nb_preteritum",
+          "grammar_nb_genus",
+          "grammar_nb_flertall",
+          "grammar_nb_bestemt_form",
+          "grammar_nb_komparativ",
+          "grammar_nb_superlativ"
+        ]
+      },
+      {
+        "id": "advanced",
+        "name": "Mye",
+        "nameEn": "Advanced",
+        "description": "Perfektum, bøyningstabell, imperativ",
+        "features": [
+          "grammar_nb_presens",
+          "grammar_nb_preteritum",
+          "grammar_nb_perfektum",
+          "grammar_nb_imperativ",
+          "grammar_nb_genus",
+          "grammar_nb_flertall",
+          "grammar_nb_bestemt_form",
+          "grammar_nb_noun_forms",
+          "grammar_nb_komparativ",
+          "grammar_nb_superlativ"
+        ]
+      },
+      {
+        "id": "all",
+        "name": "Alt",
+        "nameEn": "All",
+        "description": "All grammatikk — passiv, adjektivbøyning",
+        "features": [
+          "grammar_nb_presens",
+          "grammar_nb_preteritum",
+          "grammar_nb_perfektum",
+          "grammar_nb_imperativ",
+          "grammar_nb_passiv",
+          "grammar_nb_genus",
+          "grammar_nb_flertall",
+          "grammar_nb_bestemt_form",
+          "grammar_nb_noun_forms",
+          "grammar_nb_komparativ",
+          "grammar_nb_superlativ",
+          "grammar_nb_adj_declension"
+        ]
+      }
     ]
   },
   "nn": {
@@ -220,6 +298,17 @@
         "dataPath": "conjugations.presens.former.imperativ"
       },
       {
+        "id": "grammar_nn_passiv",
+        "name": "Passiv",
+        "nameEn": "Passive Voice",
+        "description": "Passiv form (bli + partisipp, -st-passiv)",
+        "descriptionEn": "Passive voice forms",
+        "category": "verbs",
+        "appliesTo": ["verb"],
+        "dataPath": "conjugations.passiv",
+        "future": true
+      },
+      {
         "id": "grammar_nn_verb_class",
         "name": "Verbklasse",
         "nameEn": "Verb Class",
@@ -257,13 +346,80 @@
         "descriptionEn": "Inflection by gender, number, and definiteness",
         "category": "adjectives",
         "appliesTo": ["adj"],
-        "dataPath": "declension"
+        "dataPath": "declension",
+        "future": true
       }
     ],
     "categories": [
       { "id": "verbs", "name": "Verb", "nameEn": "Verbs" },
       { "id": "nouns", "name": "Substantiv", "nameEn": "Nouns" },
       { "id": "adjectives", "name": "Adjektiv", "nameEn": "Adjectives" }
+    ],
+    "presets": [
+      {
+        "id": "basic",
+        "name": "Lite",
+        "nameEn": "Basic",
+        "description": "Grunnleggende — presens, kjønn, fleirtal",
+        "features": [
+          "grammar_nn_presens",
+          "grammar_nn_genus",
+          "grammar_nn_fleirtal"
+        ]
+      },
+      {
+        "id": "intermediate",
+        "name": "Middels",
+        "nameEn": "Intermediate",
+        "description": "Preteritum, bestemt form, gradbøying",
+        "features": [
+          "grammar_nn_presens",
+          "grammar_nn_preteritum",
+          "grammar_nn_genus",
+          "grammar_nn_fleirtal",
+          "grammar_nn_bestemt_form",
+          "grammar_nn_komparativ",
+          "grammar_nn_superlativ"
+        ]
+      },
+      {
+        "id": "advanced",
+        "name": "Mye",
+        "nameEn": "Advanced",
+        "description": "Perfektum, bøyingstabell, imperativ",
+        "features": [
+          "grammar_nn_presens",
+          "grammar_nn_preteritum",
+          "grammar_nn_perfektum",
+          "grammar_nn_imperativ",
+          "grammar_nn_genus",
+          "grammar_nn_fleirtal",
+          "grammar_nn_bestemt_form",
+          "grammar_nn_noun_forms",
+          "grammar_nn_komparativ",
+          "grammar_nn_superlativ"
+        ]
+      },
+      {
+        "id": "all",
+        "name": "Alt",
+        "nameEn": "All",
+        "description": "All grammatikk — passiv, adjektivbøying",
+        "features": [
+          "grammar_nn_presens",
+          "grammar_nn_preteritum",
+          "grammar_nn_perfektum",
+          "grammar_nn_imperativ",
+          "grammar_nn_passiv",
+          "grammar_nn_genus",
+          "grammar_nn_fleirtal",
+          "grammar_nn_bestemt_form",
+          "grammar_nn_noun_forms",
+          "grammar_nn_komparativ",
+          "grammar_nn_superlativ",
+          "grammar_nn_adj_declension"
+        ]
+      }
     ]
   },
   "de": {
@@ -299,6 +455,50 @@
         "category": "verbs",
         "appliesTo": ["verb"],
         "dataPath": "conjugations.perfektum"
+      },
+      {
+        "id": "grammar_de_futurum",
+        "name": "Futurum",
+        "nameEn": "Future Tense",
+        "description": "Framtid med werden + infinitiv",
+        "descriptionEn": "Future tense with werden + infinitive",
+        "category": "verbs",
+        "appliesTo": ["verb"],
+        "dataPath": "conjugations.futurum",
+        "future": true
+      },
+      {
+        "id": "grammar_de_imperativ",
+        "name": "Imperativ",
+        "nameEn": "Imperative",
+        "description": "Bydeform (Komm!, Gehen Sie!)",
+        "descriptionEn": "Imperative/command forms",
+        "category": "verbs",
+        "appliesTo": ["verb"],
+        "dataPath": "conjugations.imperativ",
+        "future": true
+      },
+      {
+        "id": "grammar_de_konjunktiv",
+        "name": "Konjunktiv II",
+        "nameEn": "Subjunctive II",
+        "description": "Konjunktiv II for hypotetiske situasjonar (hätte, wäre, würde)",
+        "descriptionEn": "Subjunctive II for hypothetical situations",
+        "category": "verbs",
+        "appliesTo": ["verb"],
+        "dataPath": "conjugations.konjunktiv",
+        "future": true
+      },
+      {
+        "id": "grammar_de_passiv",
+        "name": "Passiv",
+        "nameEn": "Passive Voice",
+        "description": "Passiv med werden + partisipp",
+        "descriptionEn": "Passive voice with werden + past participle",
+        "category": "verbs",
+        "appliesTo": ["verb"],
+        "dataPath": "conjugations.passiv",
+        "future": true
       },
       {
         "id": "grammar_de_verb_class",
@@ -399,12 +599,99 @@
         "category": "adjectives",
         "appliesTo": ["adj"],
         "dataPath": "declension"
+      },
+      {
+        "id": "grammar_de_pronoun_cases",
+        "name": "Pronomen i kasus",
+        "nameEn": "Pronoun Cases",
+        "description": "Pronomen i nominativ, akkusativ og dativ (ich/mich/mir)",
+        "descriptionEn": "Pronouns in nominative, accusative, and dative cases",
+        "category": "pronouns",
+        "appliesTo": ["pronoun"],
+        "dataPath": "cases",
+        "future": true
       }
     ],
     "categories": [
       { "id": "verbs", "name": "Verb", "nameEn": "Verbs" },
       { "id": "nouns", "name": "Substantiv", "nameEn": "Nouns" },
-      { "id": "adjectives", "name": "Adjektiv", "nameEn": "Adjectives" }
+      { "id": "adjectives", "name": "Adjektiv", "nameEn": "Adjectives" },
+      { "id": "pronouns", "name": "Pronomen", "nameEn": "Pronouns" }
+    ],
+    "presets": [
+      {
+        "id": "basic",
+        "name": "Lite",
+        "nameEn": "Basic",
+        "description": "Grunnleggende — presens, artikler, flertall",
+        "features": [
+          "grammar_de_presens",
+          "grammar_de_genus",
+          "grammar_de_plural"
+        ]
+      },
+      {
+        "id": "intermediate",
+        "name": "Middels",
+        "nameEn": "Intermediate",
+        "description": "Flere tider, akkusativ, gradbøyning",
+        "features": [
+          "grammar_de_presens",
+          "grammar_de_preteritum",
+          "grammar_de_verb_class",
+          "grammar_de_genus",
+          "grammar_de_plural",
+          "grammar_de_akkusativ",
+          "grammar_de_komparativ",
+          "grammar_de_superlativ"
+        ]
+      },
+      {
+        "id": "advanced",
+        "name": "Mye",
+        "nameEn": "Advanced",
+        "description": "Perfektum, dativ, adjektivbøyning, imperativ",
+        "features": [
+          "grammar_de_presens",
+          "grammar_de_preteritum",
+          "grammar_de_perfektum",
+          "grammar_de_imperativ",
+          "grammar_de_verb_class",
+          "grammar_de_genus",
+          "grammar_de_plural",
+          "grammar_de_akkusativ",
+          "grammar_de_dativ",
+          "grammar_de_komparativ",
+          "grammar_de_superlativ",
+          "grammar_de_adj_declension"
+        ]
+      },
+      {
+        "id": "all",
+        "name": "Alt",
+        "nameEn": "All",
+        "description": "All grammatikk — genitiv, konjunktiv, passiv, pronomen",
+        "features": [
+          "grammar_de_presens",
+          "grammar_de_preteritum",
+          "grammar_de_perfektum",
+          "grammar_de_futurum",
+          "grammar_de_imperativ",
+          "grammar_de_konjunktiv",
+          "grammar_de_passiv",
+          "grammar_de_verb_class",
+          "grammar_de_genus",
+          "grammar_de_plural",
+          "grammar_de_cases",
+          "grammar_de_akkusativ",
+          "grammar_de_dativ",
+          "grammar_de_genitiv",
+          "grammar_de_komparativ",
+          "grammar_de_superlativ",
+          "grammar_de_adj_declension",
+          "grammar_de_pronoun_cases"
+        ]
+      }
     ]
   },
   "es": {
@@ -412,7 +699,7 @@
     "languageNative": "Español",
     "features": [
       {
-        "id": "grammar_es_presens",
+        "id": "grammar_es_presente",
         "name": "Presente",
         "nameEn": "Present Tense",
         "description": "Nåtid — bøyning av verb i presens",
@@ -422,7 +709,7 @@
         "dataPath": "conjugations.presens"
       },
       {
-        "id": "grammar_es_preteritum",
+        "id": "grammar_es_preterito",
         "name": "Pretérito indefinido",
         "nameEn": "Simple Past",
         "description": "Enkel fortid — fullførte handlingar (hablé, comí)",
@@ -432,7 +719,7 @@
         "dataPath": "conjugations.preteritum"
       },
       {
-        "id": "grammar_es_perfektum",
+        "id": "grammar_es_perfecto",
         "name": "Pretérito perfecto",
         "nameEn": "Present Perfect",
         "description": "Samansett fortid med haber + partisipp (he hablado)",
@@ -440,6 +727,72 @@
         "category": "verbs",
         "appliesTo": ["verb"],
         "dataPath": "conjugations.perfektum"
+      },
+      {
+        "id": "grammar_es_imperfecto",
+        "name": "Imperfecto",
+        "nameEn": "Imperfect",
+        "description": "Fortid — vedvarande eller gjentatte handlingar (hablaba, comía)",
+        "descriptionEn": "Imperfect tense for ongoing or habitual past actions",
+        "category": "verbs",
+        "appliesTo": ["verb"],
+        "dataPath": "conjugations.imperfecto",
+        "future": true
+      },
+      {
+        "id": "grammar_es_futuro",
+        "name": "Futuro simple",
+        "nameEn": "Simple Future",
+        "description": "Framtid (hablaré, comeré)",
+        "descriptionEn": "Simple future tense",
+        "category": "verbs",
+        "appliesTo": ["verb"],
+        "dataPath": "conjugations.futuro",
+        "future": true
+      },
+      {
+        "id": "grammar_es_imperativo",
+        "name": "Imperativo",
+        "nameEn": "Imperative",
+        "description": "Bydeform (¡Habla!, ¡Come!)",
+        "descriptionEn": "Imperative/command forms",
+        "category": "verbs",
+        "appliesTo": ["verb"],
+        "dataPath": "conjugations.imperativo",
+        "future": true
+      },
+      {
+        "id": "grammar_es_subjuntivo",
+        "name": "Subjuntivo presente",
+        "nameEn": "Present Subjunctive",
+        "description": "Konjunktiv — ønske, tvil, følelse (que hable, que coma)",
+        "descriptionEn": "Present subjunctive for wishes, doubt, emotions",
+        "category": "verbs",
+        "appliesTo": ["verb"],
+        "dataPath": "conjugations.subjuntivo",
+        "future": true
+      },
+      {
+        "id": "grammar_es_gerundio",
+        "name": "Gerundio",
+        "nameEn": "Gerund",
+        "description": "Pågåande form (hablando, comiendo)",
+        "descriptionEn": "Gerund / present participle form",
+        "category": "verbs",
+        "appliesTo": ["verb"],
+        "dataPath": "conjugations.gerundio",
+        "future": true
+      },
+      {
+        "id": "grammar_es_condicional",
+        "name": "Condicional",
+        "nameEn": "Conditional",
+        "description": "Vilkårsform (hablaría, comería)",
+        "descriptionEn": "Conditional tense",
+        "category": "verbs",
+        "appliesTo": ["verb"],
+        "dataPath": "conjugations.condicional",
+        "future": true
       },
       {
         "id": "grammar_es_verb_class",
@@ -450,6 +803,36 @@
         "category": "verbs",
         "appliesTo": ["verb"],
         "dataPath": "verbClass"
+      },
+      {
+        "id": "grammar_es_pronouns_all",
+        "name": "Alle pronomen",
+        "nameEn": "All Pronouns",
+        "description": "Vis alle personlege pronomen (yo, tú, él/ella, nosotros, vosotros, ellos)",
+        "descriptionEn": "Show all personal pronouns",
+        "category": "verbs",
+        "appliesTo": ["verb"],
+        "dataPath": "conjugations.pronouns"
+      },
+      {
+        "id": "grammar_es_pronouns_singular_nosotros",
+        "name": "Pronomen ent. + nosotros",
+        "nameEn": "Singular + nosotros",
+        "description": "Berre eintal + nosotros (yo, tú, él/ella, nosotros)",
+        "descriptionEn": "Only singular pronouns + nosotros",
+        "category": "verbs",
+        "appliesTo": ["verb"],
+        "dataPath": "conjugations.pronouns"
+      },
+      {
+        "id": "grammar_es_pronouns_yo_tu",
+        "name": "Bare yo/tú",
+        "nameEn": "Only yo/tú",
+        "description": "Berre førsteperson og andreperson eintal",
+        "descriptionEn": "Only first and second person singular",
+        "category": "verbs",
+        "appliesTo": ["verb"],
+        "dataPath": "conjugations.pronouns"
       },
       {
         "id": "grammar_es_genus",
@@ -472,16 +855,6 @@
         "dataPath": "plural"
       },
       {
-        "id": "grammar_es_noun_forms",
-        "name": "Formas del sustantivo",
-        "nameEn": "Noun Forms",
-        "description": "Alle former: ubestemt/bestemt × eintal/fleirtal med artiklar",
-        "descriptionEn": "All forms: indefinite/definite × singular/plural with articles",
-        "category": "nouns",
-        "appliesTo": ["noun"],
-        "dataPath": "forms"
-      },
-      {
         "id": "grammar_es_komparativ",
         "name": "Comparativo",
         "nameEn": "Comparative",
@@ -500,12 +873,108 @@
         "category": "adjectives",
         "appliesTo": ["adj"],
         "dataPath": "comparison.superlativ"
+      },
+      {
+        "id": "grammar_es_adj_placement",
+        "name": "Adjektivplassering",
+        "nameEn": "Adjective Placement",
+        "description": "Plassering av adjektiv (før eller etter substantiv)",
+        "descriptionEn": "Adjective placement (before or after noun)",
+        "category": "adjectives",
+        "appliesTo": ["adj"],
+        "dataPath": "placement",
+        "future": true
+      },
+      {
+        "id": "grammar_es_adj_agreement",
+        "name": "Adjektivsamsvar",
+        "nameEn": "Adjective Agreement",
+        "description": "Samsvar i kjønn og tall (alto/alta/altos/altas)",
+        "descriptionEn": "Gender and number agreement",
+        "category": "adjectives",
+        "appliesTo": ["adj"],
+        "dataPath": "agreement",
+        "future": true
       }
     ],
     "categories": [
       { "id": "verbs", "name": "Verbos", "nameEn": "Verbs" },
       { "id": "nouns", "name": "Sustantivos", "nameEn": "Nouns" },
       { "id": "adjectives", "name": "Adjetivos", "nameEn": "Adjectives" }
+    ],
+    "presets": [
+      {
+        "id": "basic",
+        "name": "Lite",
+        "nameEn": "Basic",
+        "description": "Grunnleggende — presente, artikler, flertall",
+        "features": [
+          "grammar_es_presente",
+          "grammar_es_pronouns_yo_tu",
+          "grammar_es_genus",
+          "grammar_es_plural"
+        ]
+      },
+      {
+        "id": "intermediate",
+        "name": "Middels",
+        "nameEn": "Intermediate",
+        "description": "Pretérito, flere pronomen, gradbøyning",
+        "features": [
+          "grammar_es_presente",
+          "grammar_es_preterito",
+          "grammar_es_pronouns_singular_nosotros",
+          "grammar_es_genus",
+          "grammar_es_plural",
+          "grammar_es_komparativ",
+          "grammar_es_superlativ"
+        ]
+      },
+      {
+        "id": "advanced",
+        "name": "Mye",
+        "nameEn": "Advanced",
+        "description": "Perfecto, imperfecto, imperativo, alle pronomen",
+        "features": [
+          "grammar_es_presente",
+          "grammar_es_preterito",
+          "grammar_es_perfecto",
+          "grammar_es_imperfecto",
+          "grammar_es_imperativo",
+          "grammar_es_gerundio",
+          "grammar_es_pronouns_all",
+          "grammar_es_genus",
+          "grammar_es_plural",
+          "grammar_es_komparativ",
+          "grammar_es_superlativ",
+          "grammar_es_adj_agreement"
+        ]
+      },
+      {
+        "id": "all",
+        "name": "Alt",
+        "nameEn": "All",
+        "description": "All grammatikk — subjuntivo, condicional, futuro",
+        "features": [
+          "grammar_es_presente",
+          "grammar_es_preterito",
+          "grammar_es_perfecto",
+          "grammar_es_imperfecto",
+          "grammar_es_futuro",
+          "grammar_es_imperativo",
+          "grammar_es_subjuntivo",
+          "grammar_es_gerundio",
+          "grammar_es_condicional",
+          "grammar_es_verb_class",
+          "grammar_es_pronouns_all",
+          "grammar_es_genus",
+          "grammar_es_plural",
+          "grammar_es_komparativ",
+          "grammar_es_superlativ",
+          "grammar_es_adj_placement",
+          "grammar_es_adj_agreement"
+        ]
+      }
     ]
   },
   "fr": {
@@ -513,7 +982,7 @@
     "languageNative": "Français",
     "features": [
       {
-        "id": "grammar_fr_presens",
+        "id": "grammar_fr_present",
         "name": "Présent",
         "nameEn": "Present Tense",
         "description": "Nåtid — bøyning av verb i presens",
@@ -521,16 +990,6 @@
         "category": "verbs",
         "appliesTo": ["verb"],
         "dataPath": "conjugations.presens"
-      },
-      {
-        "id": "grammar_fr_imparfait",
-        "name": "Imparfait",
-        "nameEn": "Imperfect",
-        "description": "Fortid — vedvarande eller gjentekne handlingar (je parlais)",
-        "descriptionEn": "Imperfect tense for ongoing or habitual past actions",
-        "category": "verbs",
-        "appliesTo": ["verb"],
-        "dataPath": "conjugations.imparfait"
       },
       {
         "id": "grammar_fr_passe_compose",
@@ -543,14 +1002,110 @@
         "dataPath": "conjugations.passe_compose"
       },
       {
-        "id": "grammar_fr_verb_class",
-        "name": "Groupe verbal",
-        "nameEn": "Verb Group",
-        "description": "Verbgruppe: -er, -ir, -re eller uregelmessig",
-        "descriptionEn": "Verb group: -er, -ir, -re, or irregular",
+        "id": "grammar_fr_imparfait",
+        "name": "Imparfait",
+        "nameEn": "Imperfect",
+        "description": "Fortid — vedvarande eller gjentekne handlingar (je parlais)",
+        "descriptionEn": "Imperfect tense for ongoing or habitual past actions",
         "category": "verbs",
         "appliesTo": ["verb"],
-        "dataPath": "verbClass"
+        "dataPath": "conjugations.imparfait"
+      },
+      {
+        "id": "grammar_fr_futur_simple",
+        "name": "Futur simple",
+        "nameEn": "Simple Future",
+        "description": "Enkel framtid (je parlerai)",
+        "descriptionEn": "Simple future tense",
+        "category": "verbs",
+        "appliesTo": ["verb"],
+        "dataPath": "conjugations.futur_simple",
+        "future": true
+      },
+      {
+        "id": "grammar_fr_imperatif",
+        "name": "Impératif",
+        "nameEn": "Imperative",
+        "description": "Bydeform (Parle!, Mangez!)",
+        "descriptionEn": "Imperative/command forms",
+        "category": "verbs",
+        "appliesTo": ["verb"],
+        "dataPath": "conjugations.imperatif",
+        "future": true
+      },
+      {
+        "id": "grammar_fr_subjonctif",
+        "name": "Subjonctif présent",
+        "nameEn": "Present Subjunctive",
+        "description": "Konjunktiv — ønske, tvil, følelse (que je parle)",
+        "descriptionEn": "Present subjunctive for wishes, doubt, emotions",
+        "category": "verbs",
+        "appliesTo": ["verb"],
+        "dataPath": "conjugations.subjonctif",
+        "future": true
+      },
+      {
+        "id": "grammar_fr_conditionnel",
+        "name": "Conditionnel présent",
+        "nameEn": "Present Conditional",
+        "description": "Vilkårsform (je parlerais)",
+        "descriptionEn": "Present conditional tense",
+        "category": "verbs",
+        "appliesTo": ["verb"],
+        "dataPath": "conjugations.conditionnel",
+        "future": true
+      },
+      {
+        "id": "grammar_fr_plus_que_parfait",
+        "name": "Plus-que-parfait",
+        "nameEn": "Pluperfect",
+        "description": "Førfortid (j'avais parlé)",
+        "descriptionEn": "Pluperfect / past perfect tense",
+        "category": "verbs",
+        "appliesTo": ["verb"],
+        "dataPath": "conjugations.plus_que_parfait",
+        "future": true
+      },
+      {
+        "id": "grammar_fr_verb_group",
+        "name": "Groupe verbal",
+        "nameEn": "Verb Group",
+        "description": "Verbgruppe: 1. (-er), 2. (-ir), 3. (resten)",
+        "descriptionEn": "Verb group: 1st (-er), 2nd (-ir), 3rd (others)",
+        "category": "verbs",
+        "appliesTo": ["verb"],
+        "dataPath": "verbClass",
+        "future": true
+      },
+      {
+        "id": "grammar_fr_pronouns_all",
+        "name": "Alle pronomen",
+        "nameEn": "All Pronouns",
+        "description": "Vis alle personlege pronomen (je, tu, il/elle, nous, vous, ils/elles)",
+        "descriptionEn": "Show all personal pronouns",
+        "category": "verbs",
+        "appliesTo": ["verb"],
+        "dataPath": "conjugations.pronouns"
+      },
+      {
+        "id": "grammar_fr_pronouns_singular_nous",
+        "name": "Pronomen ent. + nous",
+        "nameEn": "Singular + nous",
+        "description": "Berre eintal + nous (je, tu, il/elle, nous)",
+        "descriptionEn": "Only singular pronouns + nous",
+        "category": "verbs",
+        "appliesTo": ["verb"],
+        "dataPath": "conjugations.pronouns"
+      },
+      {
+        "id": "grammar_fr_pronouns_je_tu",
+        "name": "Bare je/tu",
+        "nameEn": "Only je/tu",
+        "description": "Berre førsteperson og andreperson eintal",
+        "descriptionEn": "Only first and second person singular",
+        "category": "verbs",
+        "appliesTo": ["verb"],
+        "dataPath": "conjugations.pronouns"
       },
       {
         "id": "grammar_fr_genus",
@@ -573,14 +1128,15 @@
         "dataPath": "plural"
       },
       {
-        "id": "grammar_fr_noun_forms",
-        "name": "Formes du nom",
-        "nameEn": "Noun Forms",
-        "description": "Alle former: ubestemt/bestemt × eintal/fleirtal med artiklar",
-        "descriptionEn": "All forms: indefinite/definite × singular/plural with articles",
+        "id": "grammar_fr_partitif",
+        "name": "Partitiv",
+        "nameEn": "Partitive Articles",
+        "description": "Delingsartiklar (du, de la, de l', des)",
+        "descriptionEn": "Partitive articles (du, de la, de l', des)",
         "category": "nouns",
         "appliesTo": ["noun"],
-        "dataPath": "forms"
+        "dataPath": "partitif",
+        "future": true
       },
       {
         "id": "grammar_fr_komparativ",
@@ -601,12 +1157,107 @@
         "category": "adjectives",
         "appliesTo": ["adj"],
         "dataPath": "comparison.superlativ"
+      },
+      {
+        "id": "grammar_fr_adj_placement",
+        "name": "Adjektivplassering",
+        "nameEn": "Adjective Placement",
+        "description": "Plassering av adjektiv (før eller etter substantiv)",
+        "descriptionEn": "Adjective placement (before or after noun)",
+        "category": "adjectives",
+        "appliesTo": ["adj"],
+        "dataPath": "placement",
+        "future": true
+      },
+      {
+        "id": "grammar_fr_adj_agreement",
+        "name": "Adjektivsamsvar",
+        "nameEn": "Adjective Agreement",
+        "description": "Samsvar i kjønn og tall (grand/grande/grands/grandes)",
+        "descriptionEn": "Gender and number agreement",
+        "category": "adjectives",
+        "appliesTo": ["adj"],
+        "dataPath": "agreement",
+        "future": true
       }
     ],
     "categories": [
       { "id": "verbs", "name": "Verbes", "nameEn": "Verbs" },
       { "id": "nouns", "name": "Noms", "nameEn": "Nouns" },
       { "id": "adjectives", "name": "Adjectifs", "nameEn": "Adjectives" }
+    ],
+    "presets": [
+      {
+        "id": "basic",
+        "name": "Lite",
+        "nameEn": "Basic",
+        "description": "Grunnleggende — présent, artikler, flertall",
+        "features": [
+          "grammar_fr_present",
+          "grammar_fr_pronouns_je_tu",
+          "grammar_fr_genus",
+          "grammar_fr_plural"
+        ]
+      },
+      {
+        "id": "intermediate",
+        "name": "Middels",
+        "nameEn": "Intermediate",
+        "description": "Passé composé, flere pronomen, gradbøyning",
+        "features": [
+          "grammar_fr_present",
+          "grammar_fr_passe_compose",
+          "grammar_fr_pronouns_singular_nous",
+          "grammar_fr_genus",
+          "grammar_fr_plural",
+          "grammar_fr_komparativ",
+          "grammar_fr_superlativ"
+        ]
+      },
+      {
+        "id": "advanced",
+        "name": "Mye",
+        "nameEn": "Advanced",
+        "description": "Imparfait, impératif, partitiv, alle pronomen",
+        "features": [
+          "grammar_fr_present",
+          "grammar_fr_passe_compose",
+          "grammar_fr_imparfait",
+          "grammar_fr_imperatif",
+          "grammar_fr_pronouns_all",
+          "grammar_fr_genus",
+          "grammar_fr_plural",
+          "grammar_fr_partitif",
+          "grammar_fr_komparativ",
+          "grammar_fr_superlativ",
+          "grammar_fr_adj_agreement"
+        ]
+      },
+      {
+        "id": "all",
+        "name": "Alt",
+        "nameEn": "All",
+        "description": "All grammatikk — subjonctif, conditionnel, futur",
+        "features": [
+          "grammar_fr_present",
+          "grammar_fr_passe_compose",
+          "grammar_fr_imparfait",
+          "grammar_fr_futur_simple",
+          "grammar_fr_imperatif",
+          "grammar_fr_subjonctif",
+          "grammar_fr_conditionnel",
+          "grammar_fr_plus_que_parfait",
+          "grammar_fr_verb_group",
+          "grammar_fr_pronouns_all",
+          "grammar_fr_genus",
+          "grammar_fr_plural",
+          "grammar_fr_partitif",
+          "grammar_fr_komparativ",
+          "grammar_fr_superlativ",
+          "grammar_fr_adj_placement",
+          "grammar_fr_adj_agreement"
+        ]
+      }
     ]
   },
   "en": {
@@ -644,6 +1295,61 @@
         "dataPath": "conjugations.perfect"
       },
       {
+        "id": "grammar_en_continuous",
+        "name": "Continuous",
+        "nameEn": "Continuous (-ing)",
+        "description": "Pågåande form (eating, going, writing)",
+        "descriptionEn": "Continuous / progressive tense forms",
+        "category": "verbs",
+        "appliesTo": ["verb"],
+        "dataPath": "conjugations.continuous",
+        "future": true
+      },
+      {
+        "id": "grammar_en_future",
+        "name": "Future",
+        "nameEn": "Future (will/going to)",
+        "description": "Framtid (will eat, is going to eat)",
+        "descriptionEn": "Future tense with will / going to",
+        "category": "verbs",
+        "appliesTo": ["verb"],
+        "dataPath": "conjugations.future",
+        "future": true
+      },
+      {
+        "id": "grammar_en_passive",
+        "name": "Passive",
+        "nameEn": "Passive Voice",
+        "description": "Passiv form (is eaten, was written)",
+        "descriptionEn": "Passive voice forms",
+        "category": "verbs",
+        "appliesTo": ["verb"],
+        "dataPath": "conjugations.passive",
+        "future": true
+      },
+      {
+        "id": "grammar_en_conditional",
+        "name": "Conditional",
+        "nameEn": "Conditional (would)",
+        "description": "Vilkårsform (would eat, would go)",
+        "descriptionEn": "Conditional mood forms",
+        "category": "verbs",
+        "appliesTo": ["verb"],
+        "dataPath": "conjugations.conditional",
+        "future": true
+      },
+      {
+        "id": "grammar_en_irregular",
+        "name": "Irregular Verbs",
+        "nameEn": "Irregular Verb Forms",
+        "description": "Uregelrette verbformer (go-went-gone, eat-ate-eaten)",
+        "descriptionEn": "Irregular verb principal parts",
+        "category": "verbs",
+        "appliesTo": ["verb"],
+        "dataPath": "irregular",
+        "future": true
+      },
+      {
         "id": "grammar_en_verb_class",
         "name": "Verb Class",
         "nameEn": "Verb Class",
@@ -652,6 +1358,38 @@
         "category": "verbs",
         "appliesTo": ["verb"],
         "dataPath": "verbClass"
+      },
+      {
+        "id": "grammar_en_plural",
+        "name": "Plural",
+        "nameEn": "Plural",
+        "description": "Flertallsformer (cats, children, mice)",
+        "descriptionEn": "Plural forms of nouns",
+        "category": "nouns",
+        "appliesTo": ["noun"],
+        "dataPath": "plural"
+      },
+      {
+        "id": "grammar_en_genitive",
+        "name": "Genitive",
+        "nameEn": "Genitive (-'s)",
+        "description": "Eigeform (the cat's, the children's)",
+        "descriptionEn": "Possessive / genitive forms",
+        "category": "nouns",
+        "appliesTo": ["noun"],
+        "dataPath": "genitive",
+        "future": true
+      },
+      {
+        "id": "grammar_en_countable",
+        "name": "Countable/Uncountable",
+        "nameEn": "Countable/Uncountable",
+        "description": "Teljelege og uteljelege substantiv (water vs. bottles)",
+        "descriptionEn": "Whether a noun is countable or uncountable",
+        "category": "nouns",
+        "appliesTo": ["noun"],
+        "dataPath": "countable",
+        "future": true
       },
       {
         "id": "grammar_en_comparative",
@@ -678,6 +1416,72 @@
       { "id": "verbs", "name": "Verbs", "nameEn": "Verbs" },
       { "id": "nouns", "name": "Nouns", "nameEn": "Nouns" },
       { "id": "adjectives", "name": "Adjectives", "nameEn": "Adjectives" }
+    ],
+    "presets": [
+      {
+        "id": "basic",
+        "name": "Lite",
+        "nameEn": "Basic",
+        "description": "Grunnleggende — present, flertall",
+        "features": [
+          "grammar_en_present",
+          "grammar_en_plural"
+        ]
+      },
+      {
+        "id": "intermediate",
+        "name": "Middels",
+        "nameEn": "Intermediate",
+        "description": "Past, perfect, gradbøyning",
+        "features": [
+          "grammar_en_present",
+          "grammar_en_past",
+          "grammar_en_perfect",
+          "grammar_en_plural",
+          "grammar_en_comparative",
+          "grammar_en_superlative"
+        ]
+      },
+      {
+        "id": "advanced",
+        "name": "Mye",
+        "nameEn": "Advanced",
+        "description": "Continuous, future, passiv, genitiv",
+        "features": [
+          "grammar_en_present",
+          "grammar_en_past",
+          "grammar_en_perfect",
+          "grammar_en_continuous",
+          "grammar_en_future",
+          "grammar_en_passive",
+          "grammar_en_irregular",
+          "grammar_en_plural",
+          "grammar_en_genitive",
+          "grammar_en_comparative",
+          "grammar_en_superlative"
+        ]
+      },
+      {
+        "id": "all",
+        "name": "Alt",
+        "nameEn": "All",
+        "description": "All grammatikk — conditional, countable/uncountable",
+        "features": [
+          "grammar_en_present",
+          "grammar_en_past",
+          "grammar_en_perfect",
+          "grammar_en_continuous",
+          "grammar_en_future",
+          "grammar_en_passive",
+          "grammar_en_conditional",
+          "grammar_en_irregular",
+          "grammar_en_plural",
+          "grammar_en_genitive",
+          "grammar_en_countable",
+          "grammar_en_comparative",
+          "grammar_en_superlative"
+        ]
+      }
     ]
   }
 }
